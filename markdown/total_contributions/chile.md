@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile">
 </a>
 
-The `public contributions` and `private contributions` by users in Chile on `2024/12/30 11:59 AM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
+The `public contributions` and `private contributions` by users in Chile on `2024/12/30 12:18 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -915,7 +915,7 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>8</td>
-		<td>2228</td>
+		<td>2232</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -3048,6 +3048,20 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/nescampos">
+				<img src="https://avatars.githubusercontent.com/u/7274106?s=72&u=ef0fddfd51dea03ad35636e8dc2325ccce473ba2&v=4" width="24" alt="Avatar of nescampos"> nescampos
+			</a><br/>
+			Néstor Nicolás Campos Rojas
+		</td>
+		<td>Techgethr Spa </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>624</td>
+		<td>714</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/SergeiIonin">
 				<img src="https://avatars.githubusercontent.com/u/52527592?s=72&u=7a5762099adca3effff86740790471ddce190181&v=4" width="24" alt="Avatar of SergeiIonin"> SergeiIonin
 			</a><br/>
@@ -3058,20 +3072,6 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 		<td>Chile</td>
 		<td>710</td>
 		<td>710</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/nescampos">
-				<img src="https://avatars.githubusercontent.com/u/7274106?s=72&u=ef0fddfd51dea03ad35636e8dc2325ccce473ba2&v=4" width="24" alt="Avatar of nescampos"> nescampos
-			</a><br/>
-			Néstor Nicolás Campos Rojas
-		</td>
-		<td>Techgethr Spa </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>617</td>
-		<td>707</td>
 	</tr>
 	<tr>
 		<td>213</td>

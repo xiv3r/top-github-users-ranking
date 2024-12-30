@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile">
 </a>
 
-The `public contributions` by users in Chile on `2024/12/30 11:59 AM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
+The `public contributions` by users in Chile on `2024/12/30 12:18 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -679,6 +679,19 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 	<tr>
 		<td>45</td>
 		<td>
+			<a href="https://github.com/nescampos">
+				<img src="https://avatars.githubusercontent.com/u/7274106?s=72&u=ef0fddfd51dea03ad35636e8dc2325ccce473ba2&v=4" width="24" alt="Avatar of nescampos"> nescampos
+			</a><br/>
+			Néstor Nicolás Campos Rojas
+		</td>
+		<td>Techgethr Spa </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>624</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
 			<a href="https://github.com/tdewolff">
 				<img src="https://avatars.githubusercontent.com/u/5563166?s=72&u=ed6834f98e5f864d731ec9b20c04bc1d33e1f604&v=4" width="24" alt="Avatar of tdewolff"> tdewolff
 			</a><br/>
@@ -690,7 +703,7 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 		<td>623</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/bergel">
 				<img src="https://avatars.githubusercontent.com/u/393742?s=72&u=bea23548a876b1d2cd612b875c80ccabc3d26885&v=4" width="24" alt="Avatar of bergel"> bergel
@@ -701,19 +714,6 @@ There are `960 users`  in Chile. You need at least `27 followers` to be on this 
 		<td><a href="https://twitter.com/AlexBergel">AlexBergel</a></td>
 		<td>Chile</td>
 		<td>619</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/nescampos">
-				<img src="https://avatars.githubusercontent.com/u/7274106?s=72&u=ef0fddfd51dea03ad35636e8dc2325ccce473ba2&v=4" width="24" alt="Avatar of nescampos"> nescampos
-			</a><br/>
-			Néstor Nicolás Campos Rojas
-		</td>
-		<td>Techgethr Spa </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>617</td>
 	</tr>
 	<tr>
 		<td>48</td>
