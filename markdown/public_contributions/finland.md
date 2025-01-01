@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2025/1/1 1:35 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2025/1/1 1:53 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oulu, Finland</td>
-		<td>3451</td>
+		<td>3452</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -739,7 +739,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>@haagahelia </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1163</td>
+		<td>1164</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -2577,6 +2577,19 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>191</td>
 		<td>
+			<a href="https://github.com/ikitommi">
+				<img src="https://avatars.githubusercontent.com/u/567532?s=72&u=2f782877b778370bfbca49869c9fbd295341fb8c&v=4" width="24" alt="Avatar of ikitommi"> ikitommi
+			</a><br/>
+			Tommi Reiman
+		</td>
+		<td>Metosin </td>
+		<td><a href="https://twitter.com/ikitommi">ikitommi</a></td>
+		<td>Tampere, Finland</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
 			<a href="https://github.com/esa-kian">
 				<img src="https://avatars.githubusercontent.com/u/19409516?s=72&u=e2eb4e06f19b1668dc9411678c59abd9c6286040&v=4" width="24" alt="Avatar of esa-kian"> esa-kian
 			</a><br/>
@@ -2588,7 +2601,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>381</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/gtrxAC">
 				<img src="https://avatars.githubusercontent.com/u/59177874?s=72&u=e85131c13e811b46dd79156900b9dc29bdf4db89&v=4" width="24" alt="Avatar of gtrxAC"> gtrxAC
@@ -2599,19 +2612,6 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>381</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/ikitommi">
-				<img src="https://avatars.githubusercontent.com/u/567532?s=72&u=2f782877b778370bfbca49869c9fbd295341fb8c&v=4" width="24" alt="Avatar of ikitommi"> ikitommi
-			</a><br/>
-			Tommi Reiman
-		</td>
-		<td>Metosin </td>
-		<td><a href="https://twitter.com/ikitommi">ikitommi</a></td>
-		<td>Tampere, Finland</td>
-		<td>380</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -3430,7 +3430,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>@slipmatio </td>
 		<td><a href="https://twitter.com/uninen">uninen</a></td>
 		<td>Turku, Finland</td>
-		<td>245</td>
+		<td>246</td>
 	</tr>
 	<tr>
 		<td>257</td>

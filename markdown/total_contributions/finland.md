@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` and `private contributions` by users in Finland on `2025/1/1 1:35 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` and `private contributions` by users in Finland on `2025/1/1 1:53 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td><a href="https://twitter.com/rolle">rolle</a></td>
 		<td>Jyväskylä, Finland</td>
 		<td>1246</td>
-		<td>14539</td>
+		<td>14541</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -284,8 +284,8 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oulu, Finland</td>
-		<td>3451</td>
-		<td>3458</td>
+		<td>3452</td>
+		<td>3459</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -411,7 +411,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td><a href="https://twitter.com/ivuorinen">ivuorinen</a></td>
 		<td>Tampere, Finland</td>
 		<td>1815</td>
-		<td>3111</td>
+		<td>3115</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -607,7 +607,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland </td>
 		<td>197</td>
-		<td>2468</td>
+		<td>2469</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1586,11 +1586,25 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>@slipmatio </td>
 		<td><a href="https://twitter.com/uninen">uninen</a></td>
 		<td>Turku, Finland</td>
-		<td>245</td>
-		<td>1485</td>
+		<td>246</td>
+		<td>1486</td>
 	</tr>
 	<tr>
 		<td>107</td>
+		<td>
+			<a href="https://github.com/Saurav-Paul">
+				<img src="https://avatars.githubusercontent.com/u/35382323?s=72&u=b51cda645da8c2b8f975da734ba5b09b5aa41d5c&v=4" width="24" alt="Avatar of Saurav-Paul"> Saurav-Paul
+			</a><br/>
+			Saurav Paul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tampere, Finland</td>
+		<td>32</td>
+		<td>1485</td>
+	</tr>
+	<tr>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/Artturin">
 				<img src="https://avatars.githubusercontent.com/u/56650223?s=72&u=1070a45404f0b497b9d1653cc215e48e16233040&v=4" width="24" alt="Avatar of Artturin"> Artturin
@@ -1604,7 +1618,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>1481</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/andras-adam">
 				<img src="https://avatars.githubusercontent.com/u/24866990?s=72&u=fd1d86f469ba3ba2284aff596e260e7bdd47d769&v=4" width="24" alt="Avatar of andras-adam"> andras-adam
@@ -1616,20 +1630,6 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Helsinki, FI, EU</td>
 		<td>48</td>
 		<td>1480</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/Saurav-Paul">
-				<img src="https://avatars.githubusercontent.com/u/35382323?s=72&u=b51cda645da8c2b8f975da734ba5b09b5aa41d5c&v=4" width="24" alt="Avatar of Saurav-Paul"> Saurav-Paul
-			</a><br/>
-			Saurav Paul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>32</td>
-		<td>1478</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -2482,8 +2482,8 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>@haagahelia </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1163</td>
-		<td>1175</td>
+		<td>1164</td>
+		<td>1176</td>
 	</tr>
 	<tr>
 		<td>171</td>
@@ -3841,7 +3841,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td><a href="https://twitter.com/mattipaksula">mattipaksula</a></td>
 		<td>Helsinki</td>
 		<td>240</td>
-		<td>697</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>268</td>
@@ -5450,8 +5450,8 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Metosin </td>
 		<td><a href="https://twitter.com/ikitommi">ikitommi</a></td>
 		<td>Tampere, Finland</td>
-		<td>380</td>
-		<td>430</td>
+		<td>381</td>
+		<td>431</td>
 	</tr>
 	<tr>
 		<td>383</td>
@@ -5680,6 +5680,20 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>399</td>
 		<td>
+			<a href="https://github.com/lacerbi">
+				<img src="https://avatars.githubusercontent.com/u/14820738?s=72&u=e3e914744e97935c7acdb1b8912ad6ba76f54467&v=4" width="24" alt="Avatar of lacerbi"> lacerbi
+			</a><br/>
+			Luigi Acerbi
+		</td>
+		<td>University Of Helsinki </td>
+		<td><a href="https://twitter.com/AcerbiLuigi">AcerbiLuigi</a></td>
+		<td>Helsinki, Finland</td>
+		<td>195</td>
+		<td>396</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
 			<a href="https://github.com/mariaro833">
 				<img src="https://avatars.githubusercontent.com/u/90505198?s=72&u=7ea8c95a6c1c3ca3202ac040a1fdde1d9f862754&v=4" width="24" alt="Avatar of mariaro833"> mariaro833
 			</a><br/>
@@ -5692,7 +5706,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>396</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/azarSarikhani">
 				<img src="https://avatars.githubusercontent.com/u/35448350?s=72&u=fd6d26828bda9fa1626b585a8f96be5559e925a3&v=4" width="24" alt="Avatar of azarSarikhani"> azarSarikhani
@@ -5704,20 +5718,6 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Espoo</td>
 		<td>323</td>
 		<td>396</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/lacerbi">
-				<img src="https://avatars.githubusercontent.com/u/14820738?s=72&u=e3e914744e97935c7acdb1b8912ad6ba76f54467&v=4" width="24" alt="Avatar of lacerbi"> lacerbi
-			</a><br/>
-			Luigi Acerbi
-		</td>
-		<td>University Of Helsinki </td>
-		<td><a href="https://twitter.com/AcerbiLuigi">AcerbiLuigi</a></td>
-		<td>Helsinki, Finland</td>
-		<td>195</td>
-		<td>395</td>
 	</tr>
 	<tr>
 		<td>402</td>
