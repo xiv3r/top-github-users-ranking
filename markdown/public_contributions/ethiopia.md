@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` by users in Ethiopia on `2025/1/1 11:42 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` by users in Ethiopia on `2025/1/1 12:18 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `985 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>A2sv | Africa To<br/>Silicon<br/>Valley<br/></td>
 		<td><a href="https://twitter.com/MTewodroes">MTewodroes</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>4822</td>
+		<td>4824</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1064,7 +1064,7 @@ There are `985 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>Ankiyon Design </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>871</td>
+		<td>874</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1077,7 +1077,7 @@ There are `985 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>865</td>
+		<td>866</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -6841,19 +6841,6 @@ There are `985 users`  in Ethiopia. You need at least `12 followers` to be on th
 	<tr>
 		<td>519</td>
 		<td>
-			<a href="https://github.com/SemereT627">
-				<img src="https://avatars.githubusercontent.com/u/52089719?s=72&u=87e80316a29c3d897d08bb49d98caeeb8a576789&v=4" width="24" alt="Avatar of SemereT627"> SemereT627
-			</a><br/>
-			Semere Talegngeta
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Semere627">Semere627</a></td>
-		<td>Addis Ababa</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
 			<a href="https://github.com/kidistamdu">
 				<img src="https://avatars.githubusercontent.com/u/62068502?s=72&u=20a802210f8e54b649e95b5cdbb5d2194a78b842&v=4" width="24" alt="Avatar of kidistamdu"> kidistamdu
 			</a><br/>
@@ -6862,6 +6849,19 @@ There are `985 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>Etm Software Development Plc<br/></td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/SemereT627">
+				<img src="https://avatars.githubusercontent.com/u/52089719?s=72&u=87e80316a29c3d897d08bb49d98caeeb8a576789&v=4" width="24" alt="Avatar of SemereT627"> SemereT627
+			</a><br/>
+			Semere Talegngeta
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Semere627">Semere627</a></td>
+		<td>Addis Ababa</td>
 		<td>54</td>
 	</tr>
 	<tr>
