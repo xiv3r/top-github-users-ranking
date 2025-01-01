@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2025/1/1 6:56 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2025/1/1 7:04 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -662,8 +662,8 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 		<td>Waterford Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Waterford, Ireland</td>
-		<td>1762</td>
-		<td>2083</td>
+		<td>1763</td>
+		<td>2084</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -1180,8 +1180,8 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, CA</td>
-		<td>400</td>
-		<td>1473</td>
+		<td>401</td>
+		<td>1474</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1600,8 +1600,8 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 		<td>@redhatofficial </td>
 		<td><a href="https://twitter.com/sberyozkin">sberyozkin</a></td>
 		<td>Dublin, Ireland</td>
-		<td>1275</td>
-		<td>1275</td>
+		<td>1276</td>
+		<td>1276</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1914,6 +1914,20 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 	<tr>
 		<td>130</td>
 		<td>
+			<a href="https://github.com/alanjhughes">
+				<img src="https://avatars.githubusercontent.com/u/30924086?s=72&v=4" width="24" alt="Avatar of alanjhughes"> alanjhughes
+			</a><br/>
+			Alan Hughes
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlanJamesHughes">AlanJamesHughes</a></td>
+		<td>Galway</td>
+		<td>1121</td>
+		<td>1131</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
 			<a href="https://github.com/v0l">
 				<img src="https://avatars.githubusercontent.com/u/1172179?s=72&u=7172a077d01b70134ef98dcc331aecc2cd68f346&v=4" width="24" alt="Avatar of v0l"> v0l
 			</a><br/>
@@ -1923,20 +1937,6 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>1130</td>
-		<td>1130</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/alanjhughes">
-				<img src="https://avatars.githubusercontent.com/u/30924086?s=72&v=4" width="24" alt="Avatar of alanjhughes"> alanjhughes
-			</a><br/>
-			Alan Hughes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlanJamesHughes">AlanJamesHughes</a></td>
-		<td>Galway</td>
-		<td>1120</td>
 		<td>1130</td>
 	</tr>
 	<tr>
@@ -3994,8 +3994,8 @@ There are `971 users`  in Ireland. You need at least `42 followers` to be on thi
 		<td>Mastercard </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>234</td>
-		<td>508</td>
+		<td>235</td>
+		<td>509</td>
 	</tr>
 	<tr>
 		<td>279</td>
