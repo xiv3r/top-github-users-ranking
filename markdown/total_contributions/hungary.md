@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2025/1/3 1:50 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2025/1/3 2:00 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -831,7 +831,7 @@ There are `960 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td><a href="https://twitter.com/pepov">pepov</a></td>
 		<td>Budapest, Hungary</td>
 		<td>809</td>
-		<td>2151</td>
+		<td>2153</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -4163,7 +4163,7 @@ There are `960 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td><a href="https://twitter.com/erdosjr">erdosjr</a></td>
 		<td>Budapest</td>
 		<td>87</td>
-		<td>439</td>
+		<td>440</td>
 	</tr>
 	<tr>
 		<td>291</td>
@@ -5106,6 +5106,20 @@ There are `960 users`  in Hungary. You need at least `18 followers` to be on thi
 	<tr>
 		<td>358</td>
 		<td>
+			<a href="https://github.com/LBPHacker">
+				<img src="https://avatars.githubusercontent.com/u/3286587?s=72&u=5822c3e338ad4452192c79b0fe058e67b7b0003b&v=4" width="24" alt="Avatar of LBPHacker"> LBPHacker
+			</a><br/>
+			Tamás Bálint Misius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>301</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
 			<a href="https://github.com/Otegaa">
 				<img src="https://avatars.githubusercontent.com/u/92754123?s=72&u=6317ee121a30ceff31ee310dac3b3ed984e58f4d&v=4" width="24" alt="Avatar of Otegaa"> Otegaa
 			</a><br/>
@@ -5118,7 +5132,7 @@ There are `960 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/szaszm">
 				<img src="https://avatars.githubusercontent.com/u/1170582?s=72&u=53ca21517f52a06c00dd180c8ff11585aa1a83a5&v=4" width="24" alt="Avatar of szaszm"> szaszm
@@ -5130,20 +5144,6 @@ There are `960 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>Hungary</td>
 		<td>275</td>
 		<td>301</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/LBPHacker">
-				<img src="https://avatars.githubusercontent.com/u/3286587?s=72&u=5822c3e338ad4452192c79b0fe058e67b7b0003b&v=4" width="24" alt="Avatar of LBPHacker"> LBPHacker
-			</a><br/>
-			Tamás Bálint Misius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>300</td>
-		<td>300</td>
 	</tr>
 	<tr>
 		<td>361</td>
