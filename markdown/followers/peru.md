@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `number of followers` of users in Peru on `2025/1/4 6:11 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `number of followers` of users in Peru on `2025/1/4 6:39 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2434,6 +2434,19 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 	<tr>
 		<td>180</td>
 		<td>
+			<a href="https://github.com/edwinrhc">
+				<img src="https://avatars.githubusercontent.com/u/33665660?s=72&u=76644e61907cba5f3fbf137f03425db7fdc45dd1&v=4" width="24" alt="Avatar of edwinrhc"> edwinrhc
+			</a><br/>
+			Edwin HC
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/edwinrhc">edwinrhc</a></td>
+		<td>Lima,Peru</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
 			<a href="https://github.com/f1729">
 				<img src="https://avatars.githubusercontent.com/u/23299193?s=72&u=fdcd8c8e38da443649f896d4f393b9590a8eb8fc&v=4" width="24" alt="Avatar of f1729"> f1729
 			</a><br/>
@@ -2445,7 +2458,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/And0re">
 				<img src="https://avatars.githubusercontent.com/u/27875951?s=72&u=dad3644aa5a2cc7e123729616c3746b35de522a9&v=4" width="24" alt="Avatar of And0re"> And0re
@@ -2458,7 +2471,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/kerpie">
 				<img src="https://avatars.githubusercontent.com/u/1113924?s=72&v=4" width="24" alt="Avatar of kerpie"> kerpie
@@ -2471,7 +2484,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/android-sos">
 				<img src="https://avatars.githubusercontent.com/u/6304388?s=72&u=90143c14997724652b39ec2f82425d26e0ec1fa1&v=4" width="24" alt="Avatar of android-sos"> android-sos
@@ -2484,7 +2497,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/alonsofalconi">
 				<img src="https://avatars.githubusercontent.com/u/81522435?s=72&u=89e0810d106fad59ccfdf36e882693e91a8e4afd&v=4" width="24" alt="Avatar of alonsofalconi"> alonsofalconi
@@ -2497,7 +2510,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/Kevincarlosqa">
 				<img src="https://avatars.githubusercontent.com/u/116055924?s=72&u=6475dd30dad12a1c4b9f2152587647b5e5dd2123&v=4" width="24" alt="Avatar of Kevincarlosqa"> Kevincarlosqa
@@ -2510,7 +2523,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/MAGALLANESJoseManuel">
 				<img src="https://avatars.githubusercontent.com/u/7110381?s=72&u=d5cfc7550ac52ea2444371b70a9e782b8a1e3a3c&v=4" width="24" alt="Avatar of MAGALLANESJoseManuel"> MAGALLANESJoseManuel
@@ -2520,19 +2533,6 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>Pontificia Universidad Catolica Del<br/>Peru<br/>/<br/>George<br/>Mason<br/>University<br/></td>
 		<td>No Twitter Username</td>
 		<td>PERU / USA</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/edwinrhc">
-				<img src="https://avatars.githubusercontent.com/u/33665660?s=72&u=76644e61907cba5f3fbf137f03425db7fdc45dd1&v=4" width="24" alt="Avatar of edwinrhc"> edwinrhc
-			</a><br/>
-			Edwin HC
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/edwinrhc">edwinrhc</a></td>
-		<td>Lima,Peru</td>
 		<td>34</td>
 	</tr>
 	<tr>

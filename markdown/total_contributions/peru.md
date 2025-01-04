@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` and `private contributions` by users in Peru on `2025/1/4 6:11 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` and `private contributions` by users in Peru on `2025/1/4 6:39 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2530,6 +2530,20 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/luiisca">
+				<img src="https://avatars.githubusercontent.com/u/74017836?s=72&u=caab3f72f32cf65e6f87b348cbafaea301ccd8af&v=4" width="24" alt="Avatar of luiisca"> luiisca
+			</a><br/>
+			Luis Cadillo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/luiiis_ca">luiiis_ca</a></td>
+		<td>Peru</td>
+		<td>480</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/TheFabi8A">
 				<img src="https://avatars.githubusercontent.com/u/104035823?s=72&u=4b2d1ded941c0eab42c701cc1e9aee6db254e545&v=4" width="24" alt="Avatar of TheFabi8A"> TheFabi8A
 			</a><br/>
@@ -2539,20 +2553,6 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td><a href="https://twitter.com/thefabi8a_tech">thefabi8a_tech</a></td>
 		<td>Chiclayo</td>
 		<td>16</td>
-		<td>514</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/luiisca">
-				<img src="https://avatars.githubusercontent.com/u/74017836?s=72&u=caab3f72f32cf65e6f87b348cbafaea301ccd8af&v=4" width="24" alt="Avatar of luiisca"> luiisca
-			</a><br/>
-			Luis Cadillo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/luiiis_ca">luiiis_ca</a></td>
-		<td>Peru</td>
-		<td>476</td>
 		<td>514</td>
 	</tr>
 	<tr>

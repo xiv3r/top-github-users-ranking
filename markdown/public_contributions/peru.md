@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` by users in Peru on `2025/1/4 6:11 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` by users in Peru on `2025/1/4 6:39 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -817,7 +817,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/luiiis_ca">luiiis_ca</a></td>
 		<td>Peru</td>
-		<td>476</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>56</td>
