@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` and `private contributions` by users in Peru on `2025/1/4 6:01 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` and `private contributions` by users in Peru on `2025/1/4 6:11 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1573,7 +1573,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td><a href="https://twitter.com/dceluis">dceluis</a></td>
 		<td>Trujillo, Peru</td>
 		<td>60</td>
-		<td>926</td>
+		<td>927</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -7122,6 +7122,20 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 	<tr>
 		<td>502</td>
 		<td>
+			<a href="https://github.com/AlonsoCN">
+				<img src="https://avatars.githubusercontent.com/u/1224084?s=72&u=a5a6e6cccd7a18dc11a5f7aaa6b1d8a9cd3572b4&v=4" width="24" alt="Avatar of AlonsoCN"> AlonsoCN
+			</a><br/>
+			Luis Alonso
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LuisAlonsoCodes">LuisAlonsoCodes</a></td>
+		<td>Peru</td>
+		<td>0</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
 			<a href="https://github.com/marcoaquijedev">
 				<img src="https://avatars.githubusercontent.com/u/106768891?s=72&u=12cf616e16d8de0c7f51aa1bf2f26fe0cfeb1df2&v=4" width="24" alt="Avatar of marcoaquijedev"> marcoaquijedev
 			</a><br/>
@@ -7134,7 +7148,7 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/programadorescs">
 				<img src="https://avatars.githubusercontent.com/u/69639410?s=72&u=9b92b9e73013914ea1b44fa49bea7b39748be1c5&v=4" width="24" alt="Avatar of programadorescs"> programadorescs
@@ -7146,20 +7160,6 @@ There are `947 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>Ica, Peru</td>
 		<td>6</td>
 		<td>33</td>
-	</tr>
-	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/AlonsoCN">
-				<img src="https://avatars.githubusercontent.com/u/1224084?s=72&u=a5a6e6cccd7a18dc11a5f7aaa6b1d8a9cd3572b4&v=4" width="24" alt="Avatar of AlonsoCN"> AlonsoCN
-			</a><br/>
-			Luis Alonso
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LuisAlonsoCodes">LuisAlonsoCodes</a></td>
-		<td>Peru</td>
-		<td>0</td>
-		<td>32</td>
 	</tr>
 	<tr>
 		<td>505</td>
