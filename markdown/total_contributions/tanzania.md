@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` and `private contributions` by users in Tanzania on `2025/1/4 2:06 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` and `private contributions` by users in Tanzania on `2025/1/4 2:16 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -746,8 +746,8 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania </td>
-		<td>251</td>
-		<td>1748</td>
+		<td>252</td>
+		<td>1749</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -2287,7 +2287,7 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/_akil_khatri">_akil_khatri</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>227</td>
-		<td>693</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -5786,8 +5786,8 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yjvnbot">yjvnbot</a></td>
 		<td>Dar es salaam,Tanzania</td>
-		<td>118</td>
-		<td>118</td>
+		<td>121</td>
+		<td>121</td>
 	</tr>
 	<tr>
 		<td>407</td>

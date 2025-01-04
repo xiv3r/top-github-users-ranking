@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` by users in Tanzania on `2025/1/4 2:06 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` by users in Tanzania on `2025/1/4 2:16 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1186,19 +1186,6 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/jimmyurl">
-				<img src="https://avatars.githubusercontent.com/u/33938444?s=72&u=b4ba07a4bf42efb00be9a2a1cd5f807993c57a10&v=4" width="24" alt="Avatar of jimmyurl"> jimmyurl
-			</a><br/>
-			james mpanga
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/baseurl">baseurl</a></td>
-		<td>Dar-Es Salaam-Tanzania</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
 			<a href="https://github.com/Revaycolizer">
 				<img src="https://avatars.githubusercontent.com/u/109684996?s=72&u=e0d6f05c8c0cee9d9bcff05aaccebd646223eab9&v=4" width="24" alt="Avatar of Revaycolizer"> Revaycolizer
 			</a><br/>
@@ -1207,6 +1194,19 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania </td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/jimmyurl">
+				<img src="https://avatars.githubusercontent.com/u/33938444?s=72&u=b4ba07a4bf42efb00be9a2a1cd5f807993c57a10&v=4" width="24" alt="Avatar of jimmyurl"> jimmyurl
+			</a><br/>
+			james mpanga
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/baseurl">baseurl</a></td>
+		<td>Dar-Es Salaam-Tanzania</td>
 		<td>251</td>
 	</tr>
 	<tr>
@@ -2239,6 +2239,19 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/jovyinny">
+				<img src="https://avatars.githubusercontent.com/u/71590163?s=72&u=f696db4b4251a2d90e727fb28e632ec324c54113&v=4" width="24" alt="Avatar of jovyinny"> jovyinny
+			</a><br/>
+			Jovine Mutelani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yjvnbot">yjvnbot</a></td>
+		<td>Dar es salaam,Tanzania</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/KhadijaMahanga">
 				<img src="https://avatars.githubusercontent.com/u/7962097?s=72&u=02681962a1d865f55dacef885b4d41c6bde58571&v=4" width="24" alt="Avatar of KhadijaMahanga"> KhadijaMahanga
 			</a><br/>
@@ -2250,7 +2263,7 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/iam-kevin">
 				<img src="https://avatars.githubusercontent.com/u/54111777?s=72&u=14ae3a9901a611bcc2038bb3a3f87db6473ee32c&v=4" width="24" alt="Avatar of iam-kevin"> iam-kevin
@@ -2263,7 +2276,7 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/Code4Hacker">
 				<img src="https://avatars.githubusercontent.com/u/109749244?s=72&u=53cb5187b30746c8b2105e3f20fda73490d54133&v=4" width="24" alt="Avatar of Code4Hacker"> Code4Hacker
@@ -2274,19 +2287,6 @@ There are `937 users`  in Tanzania. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>United Republic of Tanzania</td>
 		<td>119</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/jovyinny">
-				<img src="https://avatars.githubusercontent.com/u/71590163?s=72&u=f696db4b4251a2d90e727fb28e632ec324c54113&v=4" width="24" alt="Avatar of jovyinny"> jovyinny
-			</a><br/>
-			Jovine Mutelani
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yjvnbot">yjvnbot</a></td>
-		<td>Dar es salaam,Tanzania</td>
-		<td>118</td>
 	</tr>
 	<tr>
 		<td>169</td>
