@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2025/1/5 6:55 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2025/1/5 7:05 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -5778,6 +5778,20 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 	<tr>
 		<td>406</td>
 		<td>
+			<a href="https://github.com/kasperjunge">
+				<img src="https://avatars.githubusercontent.com/u/39537120?s=72&u=a9aae1d9bb2fc27f487a9d9d3038582fdf2926f6&v=4" width="24" alt="Avatar of kasperjunge"> kasperjunge
+			</a><br/>
+			Kasper Junge
+		</td>
+		<td>Dinero </td>
+		<td><a href="https://twitter.com/JungeKasper">JungeKasper</a></td>
+		<td>Copenhagen, Denmark</td>
+		<td>68</td>
+		<td>375</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
 			<a href="https://github.com/sloev">
 				<img src="https://avatars.githubusercontent.com/u/873297?s=72&u=7676ce8d018684dadcabc486ec4c84440efa834f&v=4" width="24" alt="Avatar of sloev"> sloev
 			</a><br/>
@@ -5788,20 +5802,6 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>svendborg, denmark</td>
 		<td>357</td>
 		<td>375</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/kasperjunge">
-				<img src="https://avatars.githubusercontent.com/u/39537120?s=72&u=a9aae1d9bb2fc27f487a9d9d3038582fdf2926f6&v=4" width="24" alt="Avatar of kasperjunge"> kasperjunge
-			</a><br/>
-			Kasper Junge
-		</td>
-		<td>Dinero </td>
-		<td><a href="https://twitter.com/JungeKasper">JungeKasper</a></td>
-		<td>Copenhagen, Denmark</td>
-		<td>67</td>
-		<td>374</td>
 	</tr>
 	<tr>
 		<td>408</td>

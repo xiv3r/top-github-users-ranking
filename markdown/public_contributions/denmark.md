@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/1/5 6:55 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/1/5 7:05 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -6069,7 +6069,7 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>Dinero </td>
 		<td><a href="https://twitter.com/JungeKasper">JungeKasper</a></td>
 		<td>Copenhagen, Denmark</td>
-		<td>67</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>460</td>
