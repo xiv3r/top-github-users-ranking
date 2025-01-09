@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` and `private contributions` by users in Nepal on `2025/1/9 9:32 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` and `private contributions` by users in Nepal on `2025/1/9 9:42 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -887,7 +887,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>0</td>
-		<td>2639</td>
+		<td>2640</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1082,8 +1082,8 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>@hotosm, @osgeonepal </td>
 		<td>No Twitter Username</td>
 		<td>Pokhara,Nepal</td>
-		<td>2279</td>
-		<td>2369</td>
+		<td>2281</td>
+		<td>2371</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1768,8 +1768,8 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bhimrazyadav">bhimrazyadav</a></td>
 		<td>Kathmandu,NP</td>
-		<td>693</td>
-		<td>1704</td>
+		<td>694</td>
+		<td>1705</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -2664,8 +2664,8 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>@kyutefox @sajilo-software  </td>
 		<td>No Twitter Username</td>
 		<td>Nepal</td>
-		<td>97</td>
-		<td>1218</td>
+		<td>98</td>
+		<td>1219</td>
 	</tr>
 	<tr>
 		<td>184</td>

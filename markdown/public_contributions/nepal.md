@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` by users in Nepal on `2025/1/9 9:32 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` by users in Nepal on `2025/1/9 9:42 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -193,7 +193,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>@hotosm, @osgeonepal </td>
 		<td>No Twitter Username</td>
 		<td>Pokhara,Nepal</td>
-		<td>2279</td>
+		<td>2281</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -596,7 +596,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bhimrazyadav">bhimrazyadav</a></td>
 		<td>Kathmandu,NP</td>
-		<td>693</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -4527,6 +4527,19 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 	<tr>
 		<td>341</td>
 		<td>
+			<a href="https://github.com/MrJukeman">
+				<img src="https://avatars.githubusercontent.com/u/52706390?s=72&u=9d7d0365f4da2b280ea2487bb41588b56ad7df2f&v=4" width="24" alt="Avatar of MrJukeman"> MrJukeman
+			</a><br/>
+			Raju Choudhary
+		</td>
+		<td>@kyutefox @sajilo-software  </td>
+		<td>No Twitter Username</td>
+		<td>Nepal</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a href="https://github.com/sandeshpokhrel54">
 				<img src="https://avatars.githubusercontent.com/u/47052428?s=72&u=6bd63dc5d6b707f5e5b2f624e9d1dd05753bb1ef&v=4" width="24" alt="Avatar of sandeshpokhrel54"> sandeshpokhrel54
 			</a><br/>
@@ -4538,7 +4551,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/The-SP">
 				<img src="https://avatars.githubusercontent.com/u/67119046?s=72&u=7ffcdd70e1ce20b13c62ab6addd200728eda0140&v=4" width="24" alt="Avatar of The-SP"> The-SP
@@ -4549,19 +4562,6 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu</td>
 		<td>98</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/MrJukeman">
-				<img src="https://avatars.githubusercontent.com/u/52706390?s=72&u=9d7d0365f4da2b280ea2487bb41588b56ad7df2f&v=4" width="24" alt="Avatar of MrJukeman"> MrJukeman
-			</a><br/>
-			Raju Choudhary
-		</td>
-		<td>@kyutefox @sajilo-software  </td>
-		<td>No Twitter Username</td>
-		<td>Nepal</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>344</td>
