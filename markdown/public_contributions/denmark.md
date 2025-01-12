@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/1/12 11:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/1/12 11:11 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -479,7 +479,7 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>@caveaio </td>
 		<td><a href="https://twitter.com/Mads_Hougesen">Mads_Hougesen</a></td>
 		<td>Odense, Denmark</td>
-		<td>2004</td>
+		<td>2006</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -3768,7 +3768,7 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>Mortendk </td>
 		<td>No Twitter Username</td>
 		<td>copenhagen</td>
-		<td>195</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>283</td>

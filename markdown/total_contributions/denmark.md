@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2025/1/12 11:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2025/1/12 11:11 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -438,8 +438,8 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>@caveaio </td>
 		<td><a href="https://twitter.com/Mads_Hougesen">Mads_Hougesen</a></td>
 		<td>Odense, Denmark</td>
-		<td>2004</td>
-		<td>4109</td>
+		<td>2006</td>
+		<td>4111</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -3043,7 +3043,7 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td><a href="https://twitter.com/ludeed">ludeed</a></td>
 		<td>Copenhagen</td>
 		<td>100</td>
-		<td>1000</td>
+		<td>1001</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -5722,6 +5722,20 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 	<tr>
 		<td>402</td>
 		<td>
+			<a href="https://github.com/aeeux">
+				<img src="https://avatars.githubusercontent.com/u/47341968?s=72&u=50bda85763af87f64d9b1e548c6868824380ad24&v=4" width="24" alt="Avatar of aeeux"> aeeux
+			</a><br/>
+			Andreas E. Eriksen
+		</td>
+		<td>@wisphq </td>
+		<td>No Twitter Username</td>
+		<td>Denmark, Copenhagen</td>
+		<td>17</td>
+		<td>388</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a href="https://github.com/gudmundur">
 				<img src="https://avatars.githubusercontent.com/u/35417?s=72&u=1e8eab05d2713338d3ad694e219406de21b52445&v=4" width="24" alt="Avatar of gudmundur"> gudmundur
 			</a><br/>
@@ -5732,20 +5746,6 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>Copenhagen, Denmark</td>
 		<td>8</td>
 		<td>388</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/aeeux">
-				<img src="https://avatars.githubusercontent.com/u/47341968?s=72&u=50bda85763af87f64d9b1e548c6868824380ad24&v=4" width="24" alt="Avatar of aeeux"> aeeux
-			</a><br/>
-			Andreas E. Eriksen
-		</td>
-		<td>@wisphq </td>
-		<td>No Twitter Username</td>
-		<td>Denmark, Copenhagen</td>
-		<td>17</td>
-		<td>384</td>
 	</tr>
 	<tr>
 		<td>404</td>
@@ -7200,8 +7200,8 @@ There are `936 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>Mortendk </td>
 		<td>No Twitter Username</td>
 		<td>copenhagen</td>
-		<td>195</td>
-		<td>195</td>
+		<td>196</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>508</td>
