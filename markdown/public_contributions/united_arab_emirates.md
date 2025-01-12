@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/1/10 1:31 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/1/12 9:34 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -354,6 +354,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/Dralirashidalnumaimi">
+				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			</a><br/>
+			Dr. Ali Rashid AL Nuaimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/unitedmoversdubai">
 				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
 			</a><br/>
@@ -365,7 +378,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
@@ -375,19 +388,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Success Point College </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/Dralirashidalnumaimi">
-				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
-			</a><br/>
-			Dr. Ali Rashid AL Nuaimi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
