@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `public contributions` and `private contributions` by users in Switzerland on `2025/1/12 7:27 AM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `public contributions` and `private contributions` by users in Switzerland on `2025/1/12 7:38 AM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1446,8 +1446,8 @@ There are `869 users`  in Switzerland. You need at least `87 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>846</td>
-		<td>1905</td>
+		<td>847</td>
+		<td>1906</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -2418,6 +2418,20 @@ There are `869 users`  in Switzerland. You need at least `87 followers` to be on
 	<tr>
 		<td>166</td>
 		<td>
+			<a href="https://github.com/wcandillon">
+				<img src="https://avatars.githubusercontent.com/u/306134?s=72&v=4" width="24" alt="Avatar of wcandillon"> wcandillon
+			</a><br/>
+			William Candillon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wcandillon">wcandillon</a></td>
+		<td>Zürich</td>
+		<td>1120</td>
+		<td>1264</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
 			<a href="https://github.com/N2D4">
 				<img src="https://avatars.githubusercontent.com/u/19274317?s=72&u=8130b092f4f7fe6d232f92024c8592c4e79d9d38&v=4" width="24" alt="Avatar of N2D4"> N2D4
 			</a><br/>
@@ -2428,20 +2442,6 @@ There are `869 users`  in Switzerland. You need at least `87 followers` to be on
 		<td>Zurich, Switzerland</td>
 		<td>1003</td>
 		<td>1264</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/wcandillon">
-				<img src="https://avatars.githubusercontent.com/u/306134?s=72&v=4" width="24" alt="Avatar of wcandillon"> wcandillon
-			</a><br/>
-			William Candillon
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wcandillon">wcandillon</a></td>
-		<td>Zürich</td>
-		<td>1119</td>
-		<td>1263</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -3561,7 +3561,7 @@ There are `869 users`  in Switzerland. You need at least `87 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>102</td>
-		<td>772</td>
+		<td>773</td>
 	</tr>
 	<tr>
 		<td>248</td>
