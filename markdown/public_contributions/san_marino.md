@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/1/12 2:37 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/1/13 11:25 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>589</td>
+		<td>591</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Scm Group </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>472</td>
+		<td>431</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
 		<td>Italy - San Marino</td>
-		<td>218</td>
+		<td>215</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San-Marino</td>
-		<td>104</td>
+		<td>105</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -219,7 +219,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Bkn301 </td>
 		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
 		<td>San Marino</td>
-		<td>53</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>10</td>
