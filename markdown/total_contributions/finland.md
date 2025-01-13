@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` and `private contributions` by users in Finland on `2025/1/13 3:59 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` and `private contributions` by users in Finland on `2025/1/13 4:10 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td><a href="https://twitter.com/rolle">rolle</a></td>
 		<td>Jyväskylä, Finland</td>
 		<td>1381</td>
-		<td>15897</td>
+		<td>15898</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -256,8 +256,8 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Opencrvs </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>2518</td>
-		<td>3716</td>
+		<td>2520</td>
+		<td>3718</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -8676,6 +8676,20 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>613</td>
 		<td>
+			<a href="https://github.com/arhohuttunen">
+				<img src="https://avatars.githubusercontent.com/u/6802462?s=72&u=cf5ceb51ba20ef33066061cdddd652c3ec56e73e&v=4" width="24" alt="Avatar of arhohuttunen"> arhohuttunen
+			</a><br/>
+			Arho Huttunen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Joensuu, Finland</td>
+		<td>101</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
 			<a href="https://github.com/ReaverTeknoGods">
 				<img src="https://avatars.githubusercontent.com/u/2404814?s=72&v=4" width="24" alt="Avatar of ReaverTeknoGods"> ReaverTeknoGods
 			</a><br/>
@@ -8686,20 +8700,6 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Finland</td>
 		<td>103</td>
 		<td>103</td>
-	</tr>
-	<tr>
-		<td>614</td>
-		<td>
-			<a href="https://github.com/arhohuttunen">
-				<img src="https://avatars.githubusercontent.com/u/6802462?s=72&u=cf5ceb51ba20ef33066061cdddd652c3ec56e73e&v=4" width="24" alt="Avatar of arhohuttunen"> arhohuttunen
-			</a><br/>
-			Arho Huttunen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Joensuu, Finland</td>
-		<td>100</td>
-		<td>102</td>
 	</tr>
 	<tr>
 		<td>615</td>

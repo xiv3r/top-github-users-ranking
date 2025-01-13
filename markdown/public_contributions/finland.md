@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2025/1/13 3:59 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2025/1/13 4:10 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>Opencrvs </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>2518</td>
+		<td>2520</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -5216,6 +5216,19 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>394</td>
 		<td>
+			<a href="https://github.com/arhohuttunen">
+				<img src="https://avatars.githubusercontent.com/u/6802462?s=72&u=cf5ceb51ba20ef33066061cdddd652c3ec56e73e&v=4" width="24" alt="Avatar of arhohuttunen"> arhohuttunen
+			</a><br/>
+			Arho Huttunen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Joensuu, Finland</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
 			<a href="https://github.com/JonGretar">
 				<img src="https://avatars.githubusercontent.com/u/5077?s=72&u=1a8fa7c6d07804e2265893a9391bab04c7dd12ef&v=4" width="24" alt="Avatar of JonGretar"> JonGretar
 			</a><br/>
@@ -5227,7 +5240,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/staskine">
 				<img src="https://avatars.githubusercontent.com/u/85313678?s=72&v=4" width="24" alt="Avatar of staskine"> staskine
@@ -5240,7 +5253,7 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/life-exe">
 				<img src="https://avatars.githubusercontent.com/u/68817802?s=72&u=d7802ddba9ac6f0754a94ebdc20d19423c9429ef&v=4" width="24" alt="Avatar of life-exe"> life-exe
@@ -5250,19 +5263,6 @@ There are `937 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LifeExeCode">LifeExeCode</a></td>
 		<td>Helsinki</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/arhohuttunen">
-				<img src="https://avatars.githubusercontent.com/u/6802462?s=72&u=cf5ceb51ba20ef33066061cdddd652c3ec56e73e&v=4" width="24" alt="Avatar of arhohuttunen"> arhohuttunen
-			</a><br/>
-			Arho Huttunen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Joensuu, Finland</td>
 		<td>100</td>
 	</tr>
 	<tr>
