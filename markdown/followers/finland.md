@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `number of followers` of users in Finland on `2025/1/15 5:48 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `number of followers` of users in Finland on `2025/1/15 5:59 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -206,7 +206,7 @@ There are `935 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ExUtumno">ExUtumno</a></td>
 		<td>Helsinki</td>
-		<td>2262</td>
+		<td>2261</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -2018,6 +2018,19 @@ There are `935 users`  in Finland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/cadaver">
+				<img src="https://avatars.githubusercontent.com/u/51361?s=72&u=e2fdbf6fa1a7f04de2cfa635152273b01aa85833&v=4" width="24" alt="Avatar of cadaver"> cadaver
+			</a><br/>
+			Lasse Öörni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oulu, Finland</td>
+		<td>212</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/mjosaarinen">
 				<img src="https://avatars.githubusercontent.com/u/6192929?s=72&u=c0f2bcdd5416c938f4e70014a34045bb25e3a8ed&v=4" width="24" alt="Avatar of mjosaarinen"> mjosaarinen
 			</a><br/>
@@ -2029,7 +2042,7 @@ There are `935 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/mafredri">
 				<img src="https://avatars.githubusercontent.com/u/147409?s=72&v=4" width="24" alt="Avatar of mafredri"> mafredri
@@ -2039,19 +2052,6 @@ There are `935 users`  in Finland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/cadaver">
-				<img src="https://avatars.githubusercontent.com/u/51361?s=72&u=e2fdbf6fa1a7f04de2cfa635152273b01aa85833&v=4" width="24" alt="Avatar of cadaver"> cadaver
-			</a><br/>
-			Lasse Öörni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oulu, Finland</td>
 		<td>211</td>
 	</tr>
 	<tr>
