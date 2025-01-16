@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatia">
 </a>
 
-The `public contributions` by users in Croatia on `2025/1/16 10:52 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
+The `public contributions` by users in Croatia on `2025/1/16 11:02 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2343,6 +2343,19 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>173</td>
 		<td>
+			<a href="https://github.com/DominikKanjuh">
+				<img src="https://avatars.githubusercontent.com/u/109925257?s=72&u=7bccda7dd228c6de7db216b831bef20e028b5527&v=4" width="24" alt="Avatar of DominikKanjuh"> DominikKanjuh
+			</a><br/>
+			Dominik Kanjuh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
 			<a href="https://github.com/Cyber3x">
 				<img src="https://avatars.githubusercontent.com/u/43354922?s=72&u=9e363eb0a088ac70b1309ccb149e6291f3bda6dd&v=4" width="24" alt="Avatar of Cyber3x"> Cyber3x
 			</a><br/>
@@ -2352,19 +2365,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>172</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/DominikKanjuh">
-				<img src="https://avatars.githubusercontent.com/u/109925257?s=72&u=7bccda7dd228c6de7db216b831bef20e028b5527&v=4" width="24" alt="Avatar of DominikKanjuh"> DominikKanjuh
-			</a><br/>
-			Dominik Kanjuh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>171</td>
 	</tr>
 	<tr>
 		<td>175</td>

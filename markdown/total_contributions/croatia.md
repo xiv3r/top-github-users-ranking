@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatia">
 </a>
 
-The `public contributions` and `private contributions` by users in Croatia on `2025/1/16 10:52 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
+The `public contributions` and `private contributions` by users in Croatia on `2025/1/16 11:02 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -453,7 +453,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>0</td>
-		<td>2873</td>
+		<td>2874</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -3832,6 +3832,20 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>267</td>
 		<td>
+			<a href="https://github.com/DominikKanjuh">
+				<img src="https://avatars.githubusercontent.com/u/109925257?s=72&u=7bccda7dd228c6de7db216b831bef20e028b5527&v=4" width="24" alt="Avatar of DominikKanjuh"> DominikKanjuh
+			</a><br/>
+			Dominik Kanjuh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>175</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
 			<a href="https://github.com/ItsNature">
 				<img src="https://avatars.githubusercontent.com/u/29950356?s=72&v=4" width="24" alt="Avatar of ItsNature"> ItsNature
 			</a><br/>
@@ -3841,20 +3855,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td><a href="https://twitter.com/mvnNature">mvnNature</a></td>
 		<td>Croatia</td>
 		<td>98</td>
-		<td>559</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/DominikKanjuh">
-				<img src="https://avatars.githubusercontent.com/u/109925257?s=72&u=7bccda7dd228c6de7db216b831bef20e028b5527&v=4" width="24" alt="Avatar of DominikKanjuh"> DominikKanjuh
-			</a><br/>
-			Dominik Kanjuh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>171</td>
 		<td>559</td>
 	</tr>
 	<tr>
