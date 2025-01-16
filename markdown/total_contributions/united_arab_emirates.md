@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/1/14 9:14 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/1/16 10:00 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
 		<td>309</td>
-		<td>975</td>
+		<td>976</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -290,20 +290,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/emiratesindustrialfiltersco">
-				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
-			</a><br/>
-			EMIRATES INDUSTRIAL FILTERS CO.
-		</td>
-		<td>Emirates Industrial Filters Co.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/emiratesvisaonli">
 				<img src="https://avatars.githubusercontent.com/u/161119294?s=72&v=4" width="24" alt="Avatar of emiratesvisaonli"> emiratesvisaonli
 			</a><br/>
@@ -312,6 +298,20 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EmirateseVisa01">EmirateseVisa01</a></td>
 		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/emiratesindustrialfiltersco">
+				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
+			</a><br/>
+			EMIRATES INDUSTRIAL FILTERS CO.
+		</td>
+		<td>Emirates Industrial Filters Co.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -402,20 +402,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/botanicaloungesocial">
-				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
-			</a><br/>
-			The Botanical Lounge
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Shop G-20, Avenue Mall, Al Ain St, Nad Al Shiba 2, Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/Dralirashidalnumaimi">
 				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
 			</a><br/>
@@ -428,7 +414,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/unitedmoversdubai">
 				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
@@ -442,7 +428,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
@@ -452,6 +438,20 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Success Point College </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/botanicaloungesocial">
+				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
+			</a><br/>
+			The Botanical Lounge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Shop G-20, Avenue Mall, Al Ain St, Nad Al Shiba 2, Dubai, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -472,20 +472,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/wismarine">
-				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
-			</a><br/>
-			Wismar Heavy Equipment Trading L.L.C
-		</td>
-		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
-		<td>No Twitter Username</td>
-		<td>PO Box: 23909 Sharjah, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
 			<a href="https://github.com/azerarentacar">
 				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
 			</a><br/>
@@ -494,6 +480,20 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Azera Rent A Car<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/wismarine">
+				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			</a><br/>
+			Wismar Heavy Equipment Trading L.L.C
+		</td>
+		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>No Twitter Username</td>
+		<td>PO Box: 23909 Sharjah, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
