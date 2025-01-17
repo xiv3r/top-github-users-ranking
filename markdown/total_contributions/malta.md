@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` and `private contributions` by users in Malta on `2025/1/17 6:02 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` and `private contributions` by users in Malta on `2025/1/17 6:13 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -831,7 +831,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/marian2js">marian2js</a></td>
 		<td>Malta</td>
 		<td>190</td>
-		<td>1314</td>
+		<td>1315</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -2203,7 +2203,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>101</td>
-		<td>447</td>
+		<td>448</td>
 	</tr>
 	<tr>
 		<td>151</td>
