@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` and `private contributions` by users in Malaysia on `2025/1/17 4:49 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` and `private contributions` by users in Malaysia on `2025/1/17 4:59 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -396,8 +396,8 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KKMPutrajaya">KKMPutrajaya</a></td>
 		<td>Putrajaya, Malaysia</td>
-		<td>3535</td>
-		<td>3535</td>
+		<td>3536</td>
+		<td>3536</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -592,8 +592,8 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td>Moneylion </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, MY</td>
-		<td>2211</td>
-		<td>2274</td>
+		<td>2212</td>
+		<td>2275</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -803,7 +803,7 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/juneezee">juneezee</a></td>
 		<td>Malaysia</td>
 		<td>465</td>
-		<td>2011</td>
+		<td>2012</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -6207,7 +6207,7 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>0</td>
-		<td>159</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>437</td>
@@ -7257,7 +7257,7 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/taikom1n">taikom1n</a></td>
 		<td>Malaysia</td>
 		<td>11</td>
-		<td>91</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>512</td>

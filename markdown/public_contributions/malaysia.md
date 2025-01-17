@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` by users in Malaysia on `2025/1/17 4:49 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` by users in Malaysia on `2025/1/17 4:59 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KKMPutrajaya">KKMPutrajaya</a></td>
 		<td>Putrajaya, Malaysia</td>
-		<td>3535</td>
+		<td>3536</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -219,7 +219,7 @@ There are `975 users`  in Malaysia. You need at least `20 followers` to be on th
 		<td>Moneylion </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, MY</td>
-		<td>2211</td>
+		<td>2212</td>
 	</tr>
 	<tr>
 		<td>10</td>
