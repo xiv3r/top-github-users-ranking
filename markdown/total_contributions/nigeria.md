@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `public contributions` and `private contributions` by users in Nigeria on `2025/1/19 5:50 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `public contributions` and `private contributions` by users in Nigeria on `2025/1/19 6:00 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3925,7 +3925,7 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td><a href="https://twitter.com/beeohjay">beeohjay</a></td>
 		<td>Lagos, Nigeria </td>
 		<td>32</td>
-		<td>764</td>
+		<td>765</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -6206,8 +6206,8 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
-		<td>290</td>
-		<td>290</td>
+		<td>291</td>
+		<td>291</td>
 	</tr>
 	<tr>
 		<td>437</td>
