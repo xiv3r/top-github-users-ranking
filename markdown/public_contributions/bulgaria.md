@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2025/1/20 2:58 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2025/1/20 3:09 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Red Hat Inc. ,<br/>Kodisi<br/>Ltd.<br/></td>
 		<td><a href="https://twitter.com/akurtakov">akurtakov</a></td>
 		<td>Pazardzhik, Bulgaria</td>
-		<td>1901</td>
+		<td>1907</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -843,7 +843,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>@santiment  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>821</td>
+		<td>822</td>
 	</tr>
 	<tr>
 		<td>58</td>

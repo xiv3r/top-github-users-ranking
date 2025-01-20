@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2025/1/20 2:58 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2025/1/20 3:09 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -4930,6 +4930,19 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 	<tr>
 		<td>372</td>
 		<td>
+			<a href="https://github.com/xaoccc">
+				<img src="https://avatars.githubusercontent.com/u/114498517?s=72&u=5830450cfd2906f0ac5d5e5072941d0da1e6fefd&v=4" width="24" alt="Avatar of xaoccc"> xaoccc
+			</a><br/>
+			Georgi Tashev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
 			<a href="https://github.com/DeeRuseva">
 				<img src="https://avatars.githubusercontent.com/u/76615986?s=72&u=7502fd968243417b40a0d9afb420bedc56b291ed&v=4" width="24" alt="Avatar of DeeRuseva"> DeeRuseva
 			</a><br/>
@@ -4939,19 +4952,6 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>57</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/xaoccc">
-				<img src="https://avatars.githubusercontent.com/u/114498517?s=72&u=5830450cfd2906f0ac5d5e5072941d0da1e6fefd&v=4" width="24" alt="Avatar of xaoccc"> xaoccc
-			</a><br/>
-			Georgi Tashev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>56</td>
 	</tr>
 	<tr>
 		<td>374</td>
