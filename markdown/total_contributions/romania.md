@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2025/1/21 7:27 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2025/1/21 7:37 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>62965</td>
-		<td>64174</td>
+		<td>62967</td>
+		<td>64176</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -774,8 +774,8 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>1591</td>
-		<td>1621</td>
+		<td>1592</td>
+		<td>1622</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -873,7 +873,7 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td><a href="https://twitter.com/c0d3rguy">c0d3rguy</a></td>
 		<td>Romania</td>
 		<td>109</td>
-		<td>1561</td>
+		<td>1564</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1293,7 +1293,7 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Romania, Brasov</td>
 		<td>7</td>
-		<td>1309</td>
+		<td>1310</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1349,7 +1349,7 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>London, UK and Bucharest, RO</td>
 		<td>6</td>
-		<td>1279</td>
+		<td>1280</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1699,7 +1699,7 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
 		<td>0</td>
-		<td>1076</td>
+		<td>1077</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -3126,8 +3126,8 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>@vvveb </td>
 		<td><a href="https://twitter.com/vvvebcms">vvvebcms</a></td>
 		<td>Bucharest</td>
-		<td>573</td>
-		<td>573</td>
+		<td>574</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -4504,6 +4504,20 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 	<tr>
 		<td>315</td>
 		<td>
+			<a href="https://github.com/AlexBurdu">
+				<img src="https://avatars.githubusercontent.com/u/1262636?s=72&u=70563781a93f2588216402e716f013546490ab42&v=4" width="24" alt="Avatar of AlexBurdu"> AlexBurdu
+			</a><br/>
+			Alex Burdușel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>113</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
 			<a href="https://github.com/marqbeniamin">
 				<img src="https://avatars.githubusercontent.com/u/4600172?s=72&u=a5dd888cb87a9733c6a25561342392b063d47bb9&v=4" width="24" alt="Avatar of marqbeniamin"> marqbeniamin
 			</a><br/>
@@ -4513,20 +4527,6 @@ There are `967 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
 		<td>325</td>
-		<td>325</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/AlexBurdu">
-				<img src="https://avatars.githubusercontent.com/u/1262636?s=72&u=70563781a93f2588216402e716f013546490ab42&v=4" width="24" alt="Avatar of AlexBurdu"> AlexBurdu
-			</a><br/>
-			Alex Burdușel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
-		<td>112</td>
 		<td>325</td>
 	</tr>
 	<tr>
