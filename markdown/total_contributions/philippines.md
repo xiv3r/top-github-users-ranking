@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2025/1/21 5:42 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2025/1/21 5:52 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -144,8 +144,8 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>Samsung Electronics </td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>38536</td>
-		<td>38540</td>
+		<td>38538</td>
+		<td>38542</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>@codesyncph @hallofcodes </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>29672</td>
-		<td>30006</td>
+		<td>29686</td>
+		<td>30020</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -564,8 +564,8 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
-		<td>4011</td>
-		<td>4011</td>
+		<td>4012</td>
+		<td>4012</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -906,6 +906,20 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/cauldyclark15">
+				<img src="https://avatars.githubusercontent.com/u/11132381?s=72&u=247798d9e54024542c0d33d6f4ff0b4a2fd0badc&v=4" width="24" alt="Avatar of cauldyclark15"> cauldyclark15
+			</a><br/>
+			JC Castaneda
+		</td>
+		<td>@cauldnclark  </td>
+		<td><a href="https://twitter.com/JcCastaneda05">JcCastaneda05</a></td>
+		<td>Philippines</td>
+		<td>119</td>
+		<td>2689</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
 			<a href="https://github.com/Pyakz">
 				<img src="https://avatars.githubusercontent.com/u/49338297?s=72&u=78919ead72174d1cfdee26cd030673c7429cbcbb&v=4" width="24" alt="Avatar of Pyakz"> Pyakz
 			</a><br/>
@@ -916,20 +930,6 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>Surigao City, Philippines</td>
 		<td>11</td>
 		<td>2685</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/cauldyclark15">
-				<img src="https://avatars.githubusercontent.com/u/11132381?s=72&u=247798d9e54024542c0d33d6f4ff0b4a2fd0badc&v=4" width="24" alt="Avatar of cauldyclark15"> cauldyclark15
-			</a><br/>
-			JC Castaneda
-		</td>
-		<td>@cauldnclark  </td>
-		<td><a href="https://twitter.com/JcCastaneda05">JcCastaneda05</a></td>
-		<td>Philippines</td>
-		<td>119</td>
-		<td>2684</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -2622,8 +2622,8 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>Whatoplay </td>
 		<td><a href="https://twitter.com/cristiana214">cristiana214</a></td>
 		<td>Cebu City,Philippines</td>
-		<td>316</td>
-		<td>1220</td>
+		<td>319</td>
+		<td>1223</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -5072,8 +5072,8 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>Cavite State University </td>
 		<td>No Twitter Username</td>
 		<td>Cavite, Philippines</td>
-		<td>586</td>
-		<td>586</td>
+		<td>585</td>
+		<td>585</td>
 	</tr>
 	<tr>
 		<td>356</td>
@@ -5988,20 +5988,6 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 	<tr>
 		<td>421</td>
 		<td>
-			<a href="https://github.com/rppelayo">
-				<img src="https://avatars.githubusercontent.com/u/23622807?s=72&u=8ffd643488e93e786023dadb0a7d9f60557620d9&v=4" width="24" alt="Avatar of rppelayo"> rppelayo
-			</a><br/>
-			Roland Pelayo
-		</td>
-		<td>Freyjah Media Electronics </td>
-		<td><a href="https://twitter.com/EngrRPelayo">EngrRPelayo</a></td>
-		<td>Davao City, Philippines</td>
-		<td>15</td>
-		<td>420</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
 			<a href="https://github.com/CanonMinds">
 				<img src="https://avatars.githubusercontent.com/u/52594413?s=72&u=d18f2dae13eea980dbb837b653856d33f915a397&v=4" width="24" alt="Avatar of CanonMinds"> CanonMinds
 			</a><br/>
@@ -6011,6 +5997,20 @@ There are `967 users`  in Philippines. You need at least `28 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
 		<td>5</td>
+		<td>421</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/rppelayo">
+				<img src="https://avatars.githubusercontent.com/u/23622807?s=72&u=8ffd643488e93e786023dadb0a7d9f60557620d9&v=4" width="24" alt="Avatar of rppelayo"> rppelayo
+			</a><br/>
+			Roland Pelayo
+		</td>
+		<td>Freyjah Media Electronics </td>
+		<td><a href="https://twitter.com/EngrRPelayo">EngrRPelayo</a></td>
+		<td>Davao City, Philippines</td>
+		<td>15</td>
 		<td>420</td>
 	</tr>
 	<tr>
