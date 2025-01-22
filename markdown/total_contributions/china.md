@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2025/1/22 5:41 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2025/1/22 5:50 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -158,8 +158,8 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 		<td>@zerocracy </td>
 		<td><a href="https://twitter.com/yegor256">yegor256</a></td>
 		<td>China</td>
-		<td>19641</td>
-		<td>22549</td>
+		<td>19642</td>
+		<td>22550</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -299,7 +299,7 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
 		<td>48</td>
-		<td>5119</td>
+		<td>5122</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -803,7 +803,7 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 		<td><a href="https://twitter.com/yetone">yetone</a></td>
 		<td>China</td>
 		<td>1216</td>
-		<td>2474</td>
+		<td>2476</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -4098,6 +4098,20 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 	<tr>
 		<td>286</td>
 		<td>
+			<a href="https://github.com/Ubpa">
+				<img src="https://avatars.githubusercontent.com/u/15104079?s=72&u=8f9636871c42da051cbac6df7a28e206d6a8676c&v=4" width="24" alt="Avatar of Ubpa"> Ubpa
+			</a><br/>
+			Ubpa
+		</td>
+		<td>Tencent/ieg, Ustc/gcl </td>
+		<td>No Twitter Username</td>
+		<td>Shenzhen, China</td>
+		<td>41</td>
+		<td>388</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
 			<a href="https://github.com/lcxfs1991">
 				<img src="https://avatars.githubusercontent.com/u/3348398?s=72&v=4" width="24" alt="Avatar of lcxfs1991"> lcxfs1991
 			</a><br/>
@@ -4110,7 +4124,7 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/igrr">
 				<img src="https://avatars.githubusercontent.com/u/4349050?s=72&v=4" width="24" alt="Avatar of igrr"> igrr
@@ -4121,20 +4135,6 @@ There are `943 users`  in China. You need at least `740 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Shanghai, CN</td>
 		<td>380</td>
-		<td>386</td>
-	</tr>
-	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/Ubpa">
-				<img src="https://avatars.githubusercontent.com/u/15104079?s=72&u=8f9636871c42da051cbac6df7a28e206d6a8676c&v=4" width="24" alt="Avatar of Ubpa"> Ubpa
-			</a><br/>
-			Ubpa
-		</td>
-		<td>Tencent/ieg, Ustc/gcl </td>
-		<td>No Twitter Username</td>
-		<td>Shenzhen, China</td>
-		<td>41</td>
 		<td>386</td>
 	</tr>
 	<tr>
