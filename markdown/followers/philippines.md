@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `number of followers` of users in Philippines on `2025/1/23 7:48 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `number of followers` of users in Philippines on `2025/1/23 7:57 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -323,7 +323,7 @@ There are `966 users`  in Philippines. You need at least `28 followers` to be on
 		<td>Ex Intern Flutter Dev<br/>At<br/>Supsofttech<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sampaloc, Tanay, Rizal, Philippines</td>
-		<td>516</td>
+		<td>515</td>
 	</tr>
 	<tr>
 		<td>18</td>
