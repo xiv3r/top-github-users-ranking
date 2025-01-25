@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `number of followers` of users in Netherlands on `2025/1/25 2:30 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `number of followers` of users in Netherlands on `2025/1/25 2:43 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1779,7 +1779,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>@upleveled </td>
 		<td><a href="https://twitter.com/karlhorky">karlhorky</a></td>
 		<td>Amsterdam</td>
-		<td>816</td>
+		<td>817</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -6698,6 +6698,19 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 	<tr>
 		<td>508</td>
 		<td>
+			<a href="https://github.com/david-grs">
+				<img src="https://avatars.githubusercontent.com/u/16067875?s=72&u=dc45a999c45d4551e8c9892bb55140a2e1512b4f&v=4" width="24" alt="Avatar of david-grs"> david-grs
+			</a><br/>
+			David Grs
+		</td>
+		<td>@optiver  </td>
+		<td>No Twitter Username</td>
+		<td>Amsterdam, Netherlands</td>
+		<td>249</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
 			<a href="https://github.com/BigRoy">
 				<img src="https://avatars.githubusercontent.com/u/2439881?s=72&u=604f682e9791ab9c36b936cfc7789bd364b6cdc8&v=4" width="24" alt="Avatar of BigRoy"> BigRoy
 			</a><br/>
@@ -6709,7 +6722,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>248</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/Dutchosintguy">
 				<img src="https://avatars.githubusercontent.com/u/19341606?s=72&u=f74f95e3cbca8cc527b572406763046e79aa2cdc&v=4" width="24" alt="Avatar of Dutchosintguy"> Dutchosintguy
@@ -6722,7 +6735,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>248</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/thedaniel">
 				<img src="https://avatars.githubusercontent.com/u/1476?s=72&u=c263c2cff6066482575236fa4534553da34673f3&v=4" width="24" alt="Avatar of thedaniel"> thedaniel
@@ -6732,19 +6745,6 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thedaniel">thedaniel</a></td>
 		<td>Amsterdam / Points beyond</td>
-		<td>248</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
-			<a href="https://github.com/david-grs">
-				<img src="https://avatars.githubusercontent.com/u/16067875?s=72&u=dc45a999c45d4551e8c9892bb55140a2e1512b4f&v=4" width="24" alt="Avatar of david-grs"> david-grs
-			</a><br/>
-			David Grs
-		</td>
-		<td>@optiver  </td>
-		<td>No Twitter Username</td>
-		<td>Amsterdam, Netherlands</td>
 		<td>248</td>
 	</tr>
 	<tr>
@@ -7127,6 +7127,19 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 	<tr>
 		<td>541</td>
 		<td>
+			<a href="https://github.com/betulnecanli">
+				<img src="https://avatars.githubusercontent.com/u/8313191?s=72&u=e3f34c6f7fb2aeef4e3cd047cf4a9f5ad87b949b&v=4" width="24" alt="Avatar of betulnecanli"> betulnecanli
+			</a><br/>
+			betül
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/betulnecanli">betulnecanli</a></td>
+		<td>Netherlands</td>
+		<td>234</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
 			<a href="https://github.com/programmer290399">
 				<img src="https://avatars.githubusercontent.com/u/41383069?s=72&u=146f9c97d3309435937c3fabb4dbfc569de6dc1a&v=4" width="24" alt="Avatar of programmer290399"> programmer290399
 			</a><br/>
@@ -7138,7 +7151,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/sadra">
 				<img src="https://avatars.githubusercontent.com/u/18361407?s=72&u=7eac67c9373a9012d6bff54aa7e6acc2dc2aa2f2&v=4" width="24" alt="Avatar of sadra"> sadra
@@ -7151,7 +7164,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/zxdawn">
 				<img src="https://avatars.githubusercontent.com/u/30388627?s=72&u=f106a35acde24b56e617a569a97a580e1a4d12b0&v=4" width="24" alt="Avatar of zxdawn"> zxdawn
@@ -7164,7 +7177,7 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/smarthomejunkie">
 				<img src="https://avatars.githubusercontent.com/u/67226335?s=72&v=4" width="24" alt="Avatar of smarthomejunkie"> smarthomejunkie
@@ -7174,19 +7187,6 @@ There are `940 users`  in Netherlands. You need at least `145 followers` to be o
 		<td>Smart Home Junkie </td>
 		<td><a href="https://twitter.com/smarth0mejunkie">smarth0mejunkie</a></td>
 		<td>The Netherlands</td>
-		<td>233</td>
-	</tr>
-	<tr>
-		<td>545</td>
-		<td>
-			<a href="https://github.com/betulnecanli">
-				<img src="https://avatars.githubusercontent.com/u/8313191?s=72&u=e3f34c6f7fb2aeef4e3cd047cf4a9f5ad87b949b&v=4" width="24" alt="Avatar of betulnecanli"> betulnecanli
-			</a><br/>
-			betül
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/betulnecanli">betulnecanli</a></td>
-		<td>Netherlands</td>
 		<td>233</td>
 	</tr>
 	<tr>
