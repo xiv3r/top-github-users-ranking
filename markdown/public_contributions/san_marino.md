@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/1/23 9:30 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/1/25 7:21 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>606</td>
+		<td>607</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -245,7 +245,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -297,7 +297,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>21</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -562,6 +562,19 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>36</td>
 		<td>
+			<a href="https://github.com/MarcoBinazzini">
+				<img src="https://avatars.githubusercontent.com/u/182207429?s=72&u=15c297e06ef667f05992d987f9bb876b081475ea&v=4" width="24" alt="Avatar of MarcoBinazzini"> MarcoBinazzini
+			</a><br/>
+			Marco Binazzini
+		</td>
+		<td>Gies </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
 			<a href="https://github.com/matteorossi-thespacesm">
 				<img src="https://avatars.githubusercontent.com/u/61690145?s=72&u=7032cf4b63623b0040bf46424a4424f05a443e7e&v=4" width="24" alt="Avatar of matteorossi-thespacesm"> matteorossi-thespacesm
 			</a><br/>
@@ -573,7 +586,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/Uff182">
 				<img src="https://avatars.githubusercontent.com/u/11455502?s=72&u=e9cd2e2f8b5c2d6409d449541b26e823c28d3db5&v=4" width="24" alt="Avatar of Uff182"> Uff182
@@ -586,7 +599,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/GioeEng">
 				<img src="https://avatars.githubusercontent.com/u/87013463?s=72&u=d685efb41569ac9622b8e354cc20533b3ba01d97&v=4" width="24" alt="Avatar of GioeEng"> GioeEng
@@ -599,7 +612,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/Netgenetic">
 				<img src="https://avatars.githubusercontent.com/u/149372945?s=72&v=4" width="24" alt="Avatar of Netgenetic"> Netgenetic
@@ -609,19 +622,6 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Netgenetic S.r.l. </td>
 		<td>No Twitter Username</td>
 		<td>san marino</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/MarcoBinazzini">
-				<img src="https://avatars.githubusercontent.com/u/182207429?s=72&u=15c297e06ef667f05992d987f9bb876b081475ea&v=4" width="24" alt="Avatar of MarcoBinazzini"> MarcoBinazzini
-			</a><br/>
-			Marco Binazzini
-		</td>
-		<td>Gies </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
 		<td>1</td>
 	</tr>
 	<tr>
