@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` by users in Greece on `2025/1/28 8:42 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` by users in Greece on `2025/1/28 8:52 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Feline Computers </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1606</td>
+		<td>1607</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1927,19 +1927,6 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/NikosDelijohn">
-				<img src="https://avatars.githubusercontent.com/u/17165298?s=72&u=c22b35c47a41103f4adcfd3e5d5c3920b8f8057c&v=4" width="24" alt="Avatar of NikosDelijohn"> NikosDelijohn
-			</a><br/>
-			Nick
-		</td>
-		<td>Politecnico Di Torino </td>
-		<td>No Twitter Username</td>
-		<td>Kozani, Greece</td>
-		<td>261</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
 			<a href="https://github.com/CSpyridakis">
 				<img src="https://avatars.githubusercontent.com/u/29119732?s=72&u=83e5c798c1a76e28ec7d5e82d9da3bf2d7726a9b&v=4" width="24" alt="Avatar of CSpyridakis"> CSpyridakis
 			</a><br/>
@@ -1948,6 +1935,19 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Systems Engineer | Electrical<br/>&<br/>Computer<br/>Engineer<br/></td>
 		<td><a href="https://twitter.com/ChSpyridakis">ChSpyridakis</a></td>
 		<td>Greece</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/NikosDelijohn">
+				<img src="https://avatars.githubusercontent.com/u/17165298?s=72&u=c22b35c47a41103f4adcfd3e5d5c3920b8f8057c&v=4" width="24" alt="Avatar of NikosDelijohn"> NikosDelijohn
+			</a><br/>
+			Nick
+		</td>
+		<td>Politecnico Di Torino </td>
+		<td>No Twitter Username</td>
+		<td>Kozani, Greece</td>
 		<td>261</td>
 	</tr>
 	<tr>

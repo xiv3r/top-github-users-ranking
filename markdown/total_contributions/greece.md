@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` and `private contributions` by users in Greece on `2025/1/28 8:42 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` and `private contributions` by users in Greece on `2025/1/28 8:52 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1082,8 +1082,8 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Feline Computers </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1606</td>
-		<td>1628</td>
+		<td>1607</td>
+		<td>1629</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1489,7 +1489,7 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens, GA</td>
 		<td>94</td>
-		<td>1223</td>
+		<td>1224</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -4120,8 +4120,8 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Systems Engineer | Electrical<br/>&<br/>Computer<br/>Engineer<br/></td>
 		<td><a href="https://twitter.com/ChSpyridakis">ChSpyridakis</a></td>
 		<td>Greece</td>
-		<td>261</td>
-		<td>464</td>
+		<td>262</td>
+		<td>465</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -4191,7 +4191,7 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td><a href="https://twitter.com/drakakisgeo">drakakisgeo</a></td>
 		<td>N.Smirni, Greece</td>
 		<td>14</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>293</td>
