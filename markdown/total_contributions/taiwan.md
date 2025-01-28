@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2025/1/28 11:49 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2025/1/28 11:59 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `968 users`  in Taiwan. You need at least `61 followers` to be on this
 		<td>@bamboofox </td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>48700</td>
-		<td>48730</td>
+		<td>48702</td>
+		<td>48732</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `968 users`  in Taiwan. You need at least `61 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>44392</td>
-		<td>44497</td>
+		<td>44393</td>
+		<td>44498</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -3244,6 +3244,20 @@ There are `968 users`  in Taiwan. You need at least `61 followers` to be on this
 	<tr>
 		<td>225</td>
 		<td>
+			<a href="https://github.com/ethanhuang13">
+				<img src="https://avatars.githubusercontent.com/u/12409307?s=72&v=4" width="24" alt="Avatar of ethanhuang13"> ethanhuang13
+			</a><br/>
+			Ethan Huang
+		</td>
+		<td>@elaborapp  </td>
+		<td><a href="https://twitter.com/ethanhuang13">ethanhuang13</a></td>
+		<td>Taipei, Taiwan</td>
+		<td>22</td>
+		<td>787</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a href="https://github.com/albertcht">
 				<img src="https://avatars.githubusercontent.com/u/9117929?s=72&u=c7e5fb5e890b686390ddbe60fd56f56426c75645&v=4" width="24" alt="Avatar of albertcht"> albertcht
 			</a><br/>
@@ -3254,20 +3268,6 @@ There are `968 users`  in Taiwan. You need at least `61 followers` to be on this
 		<td>Taiwan</td>
 		<td>654</td>
 		<td>787</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/ethanhuang13">
-				<img src="https://avatars.githubusercontent.com/u/12409307?s=72&v=4" width="24" alt="Avatar of ethanhuang13"> ethanhuang13
-			</a><br/>
-			Ethan Huang
-		</td>
-		<td>@elaborapp  </td>
-		<td><a href="https://twitter.com/ethanhuang13">ethanhuang13</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>22</td>
-		<td>786</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3813,7 +3813,7 @@ There are `968 users`  in Taiwan. You need at least `61 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>102</td>
-		<td>612</td>
+		<td>613</td>
 	</tr>
 	<tr>
 		<td>266</td>
