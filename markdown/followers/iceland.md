@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `number of followers` of users in Iceland on `2025/1/28 9:46 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `number of followers` of users in Iceland on `2025/1/30 4:36 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>571</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>533</td>
+		<td>535</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -245,7 +245,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>@delegateas </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>242</td>
+		<td>243</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -284,7 +284,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>iceland</td>
-		<td>188</td>
+		<td>189</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -328,6 +328,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>18</td>
 		<td>
+			<a href="https://github.com/jamestomasino">
+				<img src="https://avatars.githubusercontent.com/u/201422?s=72&u=18b34282b280d09cd99a64a67d7bc6e569e3a72a&v=4" width="24" alt="Avatar of jamestomasino"> jamestomasino
+			</a><br/>
+			James Tomasino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mosfellsbær, Iceland</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
 			<a href="https://github.com/BjarniRunar">
 				<img src="https://avatars.githubusercontent.com/u/3943592?s=72&u=9bc26b373585d2bbb30b56f78a56049cda67b0f5&v=4" width="24" alt="Avatar of BjarniRunar"> BjarniRunar
 			</a><br/>
@@ -337,19 +350,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
 		<td>154</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/jamestomasino">
-				<img src="https://avatars.githubusercontent.com/u/201422?s=72&u=18b34282b280d09cd99a64a67d7bc6e569e3a72a&v=4" width="24" alt="Avatar of jamestomasino"> jamestomasino
-			</a><br/>
-			James Tomasino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mosfellsbær, Iceland</td>
-		<td>153</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -549,6 +549,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/gaui">
+				<img src="https://avatars.githubusercontent.com/u/477881?s=72&v=4" width="24" alt="Avatar of gaui"> gaui
+			</a><br/>
+			Gudjon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gauiis">gauiis</a></td>
+		<td>Reykjavik, Iceland</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/rthor">
 				<img src="https://avatars.githubusercontent.com/u/1608329?s=72&u=4eaae40825047c1ecb65646fa91ab1984978b649&v=4" width="24" alt="Avatar of rthor"> rthor
 			</a><br/>
@@ -560,20 +573,20 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
-			<a href="https://github.com/gaui">
-				<img src="https://avatars.githubusercontent.com/u/477881?s=72&v=4" width="24" alt="Avatar of gaui"> gaui
+			<a href="https://github.com/flother">
+				<img src="https://avatars.githubusercontent.com/u/48392?s=72&u=8ac8c263dba66da5833d5d38b2123cc07ae0e016&v=4" width="24" alt="Avatar of flother"> flother
 			</a><br/>
-			Gudjon
+			Matt Riggott
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gauiis">gauiis</a></td>
-		<td>Reykjavik, Iceland</td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík, Iceland</td>
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/rbjarnason">
 				<img src="https://avatars.githubusercontent.com/u/43699?s=72&u=135f8543e4491afa11988c79e301cae679325381&v=4" width="24" alt="Avatar of rbjarnason"> rbjarnason
@@ -586,7 +599,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/borgar">
 				<img src="https://avatars.githubusercontent.com/u/21862?s=72&u=28c7c0bf1c5676c1f3a63b1e6cfabb1539b3c94a&v=4" width="24" alt="Avatar of borgar"> borgar
@@ -596,19 +609,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Grid </td>
 		<td><a href="https://twitter.com/borgar">borgar</a></td>
 		<td>Reykjavik, Iceland</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/flother">
-				<img src="https://avatars.githubusercontent.com/u/48392?s=72&u=8ac8c263dba66da5833d5d38b2123cc07ae0e016&v=4" width="24" alt="Avatar of flother"> flother
-			</a><br/>
-			Matt Riggott
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík, Iceland</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -991,6 +991,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>69</td>
 		<td>
+			<a href="https://github.com/PallHaraldsson">
+				<img src="https://avatars.githubusercontent.com/u/8005416?s=72&v=4" width="24" alt="Avatar of PallHaraldsson"> PallHaraldsson
+			</a><br/>
+			Páll Haraldsson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
 			<a href="https://github.com/zaahidali">
 				<img src="https://avatars.githubusercontent.com/u/37751705?s=72&u=07b9e84e43fe6c8b8ae083e79bacb335c67feed0&v=4" width="24" alt="Avatar of zaahidali"> zaahidali
 			</a><br/>
@@ -1002,7 +1015,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/nordfjord">
 				<img src="https://avatars.githubusercontent.com/u/3721521?s=72&u=aa9a72f66a4afbc71225c29d9677da574893c0c3&v=4" width="24" alt="Avatar of nordfjord"> nordfjord
@@ -1012,19 +1025,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Birdie </td>
 		<td><a href="https://twitter.com/enordfjord">enordfjord</a></td>
 		<td>Reykjavík</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/PallHaraldsson">
-				<img src="https://avatars.githubusercontent.com/u/8005416?s=72&v=4" width="24" alt="Avatar of PallHaraldsson"> PallHaraldsson
-			</a><br/>
-			Páll Haraldsson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -1433,19 +1433,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/hanndoddi">
-				<img src="https://avatars.githubusercontent.com/u/12688165?s=72&u=a66aa860addac35c433a1fe1bec32ba81ac0234e&v=4" width="24" alt="Avatar of hanndoddi"> hanndoddi
-			</a><br/>
-			Þórarinn Bjartur Breiðfjörð
-		</td>
-		<td>@fablabisafjordur  </td>
-		<td><a href="https://twitter.com/hanndoddi">hanndoddi</a></td>
-		<td>Iceland</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/denisolid">
 				<img src="https://avatars.githubusercontent.com/u/79978293?s=72&u=da514955a2ec913428af9d14656ab7f863e454ed&v=4" width="24" alt="Avatar of denisolid"> denisolid
 			</a><br/>
@@ -1457,7 +1444,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/dcashpeterson">
 				<img src="https://avatars.githubusercontent.com/u/45491456?s=72&u=1468c388b67c55ded07378959d21128115f79e0e&v=4" width="24" alt="Avatar of dcashpeterson"> dcashpeterson
@@ -1470,7 +1457,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/olafurjohannsson">
 				<img src="https://avatars.githubusercontent.com/u/1675681?s=72&u=b589731a778ccfef69684165e2ee354df8129f51&v=4" width="24" alt="Avatar of olafurjohannsson"> olafurjohannsson
@@ -1483,7 +1470,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/addi">
 				<img src="https://avatars.githubusercontent.com/u/16264?s=72&u=4208001a599737c6223ed8684a50e2bff04c919f&v=4" width="24" alt="Avatar of addi"> addi
@@ -1496,7 +1483,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/danielbsig">
 				<img src="https://avatars.githubusercontent.com/u/1382591?s=72&v=4" width="24" alt="Avatar of danielbsig"> danielbsig
@@ -1507,6 +1494,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
 		<td>29</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/hanndoddi">
+				<img src="https://avatars.githubusercontent.com/u/12688165?s=72&u=a66aa860addac35c433a1fe1bec32ba81ac0234e&v=4" width="24" alt="Avatar of hanndoddi"> hanndoddi
+			</a><br/>
+			Þórarinn Bjartur Breiðfjörð
+		</td>
+		<td>@fablabisafjordur  </td>
+		<td><a href="https://twitter.com/hanndoddi">hanndoddi</a></td>
+		<td>Iceland</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1550,6 +1550,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>112</td>
 		<td>
+			<a href="https://github.com/Siegelcpp">
+				<img src="https://avatars.githubusercontent.com/u/44493013?s=72&v=4" width="24" alt="Avatar of Siegelcpp"> Siegelcpp
+			</a><br/>
+			No Name
+		</td>
+		<td>University Centre Of The<br/>Westfjords<br/></td>
+		<td>No Twitter Username</td>
+		<td> Iceland Isafjordur</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
 			<a href="https://github.com/solberg">
 				<img src="https://avatars.githubusercontent.com/u/2608933?s=72&u=d814637c417e1447cf8e15fc13f7233eb4feb86f&v=4" width="24" alt="Avatar of solberg"> solberg
 			</a><br/>
@@ -1561,7 +1574,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/kjartanhr">
 				<img src="https://avatars.githubusercontent.com/u/47786934?s=72&u=020a2407dd1f18869601265626881d135984a509&v=4" width="24" alt="Avatar of kjartanhr"> kjartanhr
@@ -1574,7 +1587,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/hugithordarson">
 				<img src="https://avatars.githubusercontent.com/u/147105?s=72&v=4" width="24" alt="Avatar of hugithordarson"> hugithordarson
@@ -1587,7 +1600,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/haukurk">
 				<img src="https://avatars.githubusercontent.com/u/223343?s=72&v=4" width="24" alt="Avatar of haukurk"> haukurk
@@ -1597,19 +1610,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>@sothebys @natusehf @kolibridev @codato<br/>@hauxi<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/bthj">
-				<img src="https://avatars.githubusercontent.com/u/183042?s=72&v=4" width="24" alt="Avatar of bthj"> bthj
-			</a><br/>
-			Björn Þór Jónsson
-		</td>
-		<td>Nemur.net </td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík, Iceland</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -1667,19 +1667,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/Siegelcpp">
-				<img src="https://avatars.githubusercontent.com/u/44493013?s=72&v=4" width="24" alt="Avatar of Siegelcpp"> Siegelcpp
-			</a><br/>
-			No Name
-		</td>
-		<td>University Centre Of The<br/>Westfjords<br/></td>
-		<td>No Twitter Username</td>
-		<td> Iceland Isafjordur</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
 			<a href="https://github.com/trauzti">
 				<img src="https://avatars.githubusercontent.com/u/793469?s=72&u=07277254a70d416f280887b92bc581e6b4dab200&v=4" width="24" alt="Avatar of trauzti"> trauzti
 			</a><br/>
@@ -1691,7 +1678,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/korri123">
 				<img src="https://avatars.githubusercontent.com/u/10642122?s=72&v=4" width="24" alt="Avatar of korri123"> korri123
@@ -1701,6 +1688,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/bthj">
+				<img src="https://avatars.githubusercontent.com/u/183042?s=72&v=4" width="24" alt="Avatar of bthj"> bthj
+			</a><br/>
+			Björn Þór Jónsson
+		</td>
+		<td>Nemur.net </td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík, Iceland</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -2044,6 +2044,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>150</td>
 		<td>
+			<a href="https://github.com/svenhjol">
+				<img src="https://avatars.githubusercontent.com/u/26497903?s=72&u=5d7c14ee1b4921fb7942e13cf8fb99d148cc64f1&v=4" width="24" alt="Avatar of svenhjol"> svenhjol
+			</a><br/>
+			Sven H
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
 			<a href="https://github.com/AegirAexx">
 				<img src="https://avatars.githubusercontent.com/u/32401977?s=72&u=8052d1e6177791869e85f69bf25d5f524097ea8e&v=4" width="24" alt="Avatar of AegirAexx"> AegirAexx
 			</a><br/>
@@ -2055,7 +2068,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/StFS">
 				<img src="https://avatars.githubusercontent.com/u/1756?s=72&v=4" width="24" alt="Avatar of StFS"> StFS
@@ -2068,7 +2081,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/HKH515">
 				<img src="https://avatars.githubusercontent.com/u/5413669?s=72&u=d44bde03f1bdbf95e8058a1ea87e91896ee7b3ad&v=4" width="24" alt="Avatar of HKH515"> HKH515
@@ -2081,7 +2094,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/eisisig">
 				<img src="https://avatars.githubusercontent.com/u/639599?s=72&u=b1939627eead26542ac7144639c6a8188de5f310&v=4" width="24" alt="Avatar of eisisig"> eisisig
@@ -2094,7 +2107,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/olafurnielsen-zz">
 				<img src="https://avatars.githubusercontent.com/u/54323?s=72&u=83f3a3685eede9f34178960e0ec6ba4eea23a418&v=4" width="24" alt="Avatar of olafurnielsen-zz"> olafurnielsen-zz
@@ -2107,7 +2120,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/krummi">
 				<img src="https://avatars.githubusercontent.com/u/331083?s=72&v=4" width="24" alt="Avatar of krummi"> krummi
@@ -2120,7 +2133,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/tryggvi">
 				<img src="https://avatars.githubusercontent.com/u/1109842?s=72&u=17b04d08de92b0b2e8e26ad7b1dcbf6d8aa449d1&v=4" width="24" alt="Avatar of tryggvi"> tryggvi
@@ -2133,7 +2146,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/einaralex">
 				<img src="https://avatars.githubusercontent.com/u/2564144?s=72&u=f3e573145be335e9f062cf14d58774248d4785d3&v=4" width="24" alt="Avatar of einaralex"> einaralex
@@ -2146,7 +2159,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/amritagos">
 				<img src="https://avatars.githubusercontent.com/u/32496815?s=72&u=e767090167c3b310e1d25a3d8e205932243ea4ee&v=4" width="24" alt="Avatar of amritagos"> amritagos
@@ -2156,19 +2169,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>University of Iceland</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/svenhjol">
-				<img src="https://avatars.githubusercontent.com/u/26497903?s=72&u=5d7c14ee1b4921fb7942e13cf8fb99d148cc64f1&v=4" width="24" alt="Avatar of svenhjol"> svenhjol
-			</a><br/>
-			Sven H
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -2239,6 +2239,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/Chihaya-Yuka">
+				<img src="https://avatars.githubusercontent.com/u/174924374?s=72&u=1f1468399b7460b94419d51ce1291e20eb573db6&v=4" width="24" alt="Avatar of Chihaya-Yuka"> Chihaya-Yuka
+			</a><br/>
+			Yuka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/ellertsmari">
 				<img src="https://avatars.githubusercontent.com/u/1809316?s=72&u=7123e6e2465d4b607fdbb9de0c2c9b154474c8ab&v=4" width="24" alt="Avatar of ellertsmari"> ellertsmari
 			</a><br/>
@@ -2250,7 +2263,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/GuardKenzie">
 				<img src="https://avatars.githubusercontent.com/u/1348864?s=72&u=5d8617b090b6a01631a2cebb7f29e9b0ed1bccdc&v=4" width="24" alt="Avatar of GuardKenzie"> GuardKenzie
@@ -2263,7 +2276,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/lilrooness">
 				<img src="https://avatars.githubusercontent.com/u/1132689?s=72&u=cbec35243e344c7737b11e4c92f8ffd50b71a01b&v=4" width="24" alt="Avatar of lilrooness"> lilrooness
@@ -2276,7 +2289,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/vvzvlad">
 				<img src="https://avatars.githubusercontent.com/u/3315944?s=72&u=f4045ee17f7a04371adb75cbae2a3994771ea0a7&v=4" width="24" alt="Avatar of vvzvlad"> vvzvlad
@@ -2289,7 +2302,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/woeisme">
 				<img src="https://avatars.githubusercontent.com/u/1057395?s=72&v=4" width="24" alt="Avatar of woeisme"> woeisme
@@ -2302,7 +2315,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/piratetvapps">
 				<img src="https://avatars.githubusercontent.com/u/51762075?s=72&u=6e50d3fd1e9d5f59e5dacffa3f03022c0512c480&v=4" width="24" alt="Avatar of piratetvapps"> piratetvapps
@@ -2315,7 +2328,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/benkauffman">
 				<img src="https://avatars.githubusercontent.com/u/16448205?s=72&u=dcf550ad1cf2aa54a433312549c4dc0092c636da&v=4" width="24" alt="Avatar of benkauffman"> benkauffman
@@ -2328,7 +2341,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/busla">
 				<img src="https://avatars.githubusercontent.com/u/3162968?s=72&u=4ca3836f25b4e9c48b405d0d8bd490e30184ba99&v=4" width="24" alt="Avatar of busla"> busla
@@ -2341,7 +2354,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/SvanaBirgis">
 				<img src="https://avatars.githubusercontent.com/u/100528784?s=72&u=25d6e9cb6e3f2d5ffdf8b585e0b2f3a78fd516ba&v=4" width="24" alt="Avatar of SvanaBirgis"> SvanaBirgis
@@ -2354,7 +2367,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/baering">
 				<img src="https://avatars.githubusercontent.com/u/6312838?s=72&u=e3a41048e0531f94de63627b0297f6680747f329&v=4" width="24" alt="Avatar of baering"> baering
@@ -2367,7 +2380,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/eythor">
 				<img src="https://avatars.githubusercontent.com/u/167148?s=72&v=4" width="24" alt="Avatar of eythor"> eythor
@@ -2380,7 +2393,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/TomWinder">
 				<img src="https://avatars.githubusercontent.com/u/40000578?s=72&u=6c9e2460abad078ed25406a268090e09f308dbef&v=4" width="24" alt="Avatar of TomWinder"> TomWinder
@@ -2393,7 +2406,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/Gunnarbjo">
 				<img src="https://avatars.githubusercontent.com/u/89361003?s=72&u=d4b097f25fbda8a2b6eabeb5d179af146f0794db&v=4" width="24" alt="Avatar of Gunnarbjo"> Gunnarbjo
@@ -2406,7 +2419,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/bjartur">
 				<img src="https://avatars.githubusercontent.com/u/171073?s=72&u=70583d3ea5a061baff1294b7914d8175f7f659ec&v=4" width="24" alt="Avatar of bjartur"> bjartur
@@ -2419,7 +2432,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/tumist">
 				<img src="https://avatars.githubusercontent.com/u/188432?s=72&v=4" width="24" alt="Avatar of tumist"> tumist
@@ -2432,7 +2445,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/codehugger">
 				<img src="https://avatars.githubusercontent.com/u/615?s=72&v=4" width="24" alt="Avatar of codehugger"> codehugger
@@ -2445,7 +2458,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/arnib">
 				<img src="https://avatars.githubusercontent.com/u/69024?s=72&u=963f9e9cea1bfee19b2152f510b7ff8be31e61e5&v=4" width="24" alt="Avatar of arnib"> arnib
@@ -2458,7 +2471,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/ddebora13">
 				<img src="https://avatars.githubusercontent.com/u/8480242?s=72&u=d8711c93e10a14cf73419affe306ef163f480d28&v=4" width="24" alt="Avatar of ddebora13"> ddebora13
@@ -2471,7 +2484,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/logi">
 				<img src="https://avatars.githubusercontent.com/u/217723?s=72&v=4" width="24" alt="Avatar of logi"> logi
@@ -2484,7 +2497,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/melkorkamj">
 				<img src="https://avatars.githubusercontent.com/u/23556488?s=72&u=4d63c7a5fb817199b10c16feab2f97fbd166cba4&v=4" width="24" alt="Avatar of melkorkamj"> melkorkamj
@@ -2497,7 +2510,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/baldvin">
 				<img src="https://avatars.githubusercontent.com/u/3154829?s=72&u=beafd1faa6200af57c876ed075d86b93841c2546&v=4" width="24" alt="Avatar of baldvin"> baldvin
@@ -2510,7 +2523,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/atlijas">
 				<img src="https://avatars.githubusercontent.com/u/20668719?s=72&u=d82461f69262324deeff9375fbc08c2115246fd2&v=4" width="24" alt="Avatar of atlijas"> atlijas
@@ -2523,7 +2536,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/agirorn">
 				<img src="https://avatars.githubusercontent.com/u/261378?s=72&v=4" width="24" alt="Avatar of agirorn"> agirorn
@@ -2536,7 +2549,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/fridrik01">
 				<img src="https://avatars.githubusercontent.com/u/124135?s=72&v=4" width="24" alt="Avatar of fridrik01"> fridrik01
@@ -2545,19 +2558,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/Chihaya-Yuka">
-				<img src="https://avatars.githubusercontent.com/u/174924374?s=72&u=1f1468399b7460b94419d51ce1291e20eb573db6&v=4" width="24" alt="Avatar of Chihaya-Yuka"> Chihaya-Yuka
-			</a><br/>
-			Yuka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ChihayaYuka">ChihayaYuka</a></td>
 		<td>Iceland</td>
 		<td>18</td>
 	</tr>
@@ -2629,6 +2629,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>195</td>
 		<td>
+			<a href="https://github.com/saevarom">
+				<img src="https://avatars.githubusercontent.com/u/143557?s=72&v=4" width="24" alt="Avatar of saevarom"> saevarom
+			</a><br/>
+			Sævar Öfjörð Magnússon
+		</td>
+		<td>Overcast Ehf </td>
+		<td><a href="https://twitter.com/saevarom">saevarom</a></td>
+		<td>Reykjavík, Iceland</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
 			<a href="https://github.com/gzur">
 				<img src="https://avatars.githubusercontent.com/u/1550229?s=72&u=46bcc42fb9ec82966d16009b7d4fdfe46cb5de3b&v=4" width="24" alt="Avatar of gzur"> gzur
 			</a><br/>
@@ -2640,7 +2653,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/kristjanvalur">
 				<img src="https://avatars.githubusercontent.com/u/6009543?s=72&u=1419f20bbfff8f031be8cb470962e7e62de2595e&v=4" width="24" alt="Avatar of kristjanvalur"> kristjanvalur
@@ -2653,7 +2666,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/adelomana">
 				<img src="https://avatars.githubusercontent.com/u/14022465?s=72&u=71304c2d849eebf2832a7e6e2fac75c25da37483&v=4" width="24" alt="Avatar of adelomana"> adelomana
@@ -2666,7 +2679,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/logason">
 				<img src="https://avatars.githubusercontent.com/u/3513968?s=72&u=eb5dabf2321a8fc09dcd5bfa5d77afaf6a2ecd3b&v=4" width="24" alt="Avatar of logason"> logason
@@ -2679,7 +2692,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/gummif">
 				<img src="https://avatars.githubusercontent.com/u/7014479?s=72&u=41b86b76b6882c0dcdb89c3bba28f6d6a421d302&v=4" width="24" alt="Avatar of gummif"> gummif
@@ -2692,7 +2705,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/ninz">
 				<img src="https://avatars.githubusercontent.com/u/1752652?s=72&u=d95cd2641be3ad954a203e7cad50892ee7984b97&v=4" width="24" alt="Avatar of ninz"> ninz
@@ -2705,7 +2718,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/demux">
 				<img src="https://avatars.githubusercontent.com/u/202432?s=72&u=3d8c91070df3864da5563778a77c230087d0da3d&v=4" width="24" alt="Avatar of demux"> demux
@@ -2718,7 +2731,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/reynirf">
 				<img src="https://avatars.githubusercontent.com/u/11130271?s=72&u=79f62bcc6b1774f8c5935ef97e3c367352b94a2a&v=4" width="24" alt="Avatar of reynirf"> reynirf
@@ -2731,7 +2744,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/sandsower">
 				<img src="https://avatars.githubusercontent.com/u/302322?s=72&u=d0dfb89c55fb48d78b05f737ddb52d1585715abd&v=4" width="24" alt="Avatar of sandsower"> sandsower
@@ -2744,7 +2757,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/ro0t">
 				<img src="https://avatars.githubusercontent.com/u/748144?s=72&u=5f4a247ca7d4150df8bdd68e86dbfc91a87f18f1&v=4" width="24" alt="Avatar of ro0t"> ro0t
@@ -2754,19 +2767,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>@lightsnap </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/saevarom">
-				<img src="https://avatars.githubusercontent.com/u/143557?s=72&v=4" width="24" alt="Avatar of saevarom"> saevarom
-			</a><br/>
-			Sævar Öfjörð Magnússon
-		</td>
-		<td>Overcast Ehf </td>
-		<td><a href="https://twitter.com/saevarom">saevarom</a></td>
-		<td>Reykjavík, Iceland</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -3032,19 +3032,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>226</td>
 		<td>
-			<a href="https://github.com/jondal">
-				<img src="https://avatars.githubusercontent.com/u/54495?s=72&u=8c2c5b495e116661f22f52889a54f0bc5adb2316&v=4" width="24" alt="Avatar of jondal"> jondal
-			</a><br/>
-			Jon Dal Kristbjornsson
-		</td>
-		<td>Memento Ehf. </td>
-		<td>No Twitter Username</td>
-		<td>Reykjavik, Iceland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
 			<a href="https://github.com/AsdisVal">
 				<img src="https://avatars.githubusercontent.com/u/106157982?s=72&u=635469b79f2b629fe4484c1aa9716ab970c516da&v=4" width="24" alt="Avatar of AsdisVal"> AsdisVal
 			</a><br/>
@@ -3053,6 +3040,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Háskóli Íslands </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/jondal">
+				<img src="https://avatars.githubusercontent.com/u/54495?s=72&u=8c2c5b495e116661f22f52889a54f0bc5adb2316&v=4" width="24" alt="Avatar of jondal"> jondal
+			</a><br/>
+			Jon Dal Kristbjornsson
+		</td>
+		<td>Memento Ehf. </td>
+		<td>No Twitter Username</td>
+		<td>Reykjavik, Iceland</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4137,6 +4137,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>311</td>
 		<td>
+			<a href="https://github.com/vaspholdings">
+				<img src="https://avatars.githubusercontent.com/u/84978082?s=72&u=65cfd0705434e33eb41127473ce10390b31343d9&v=4" width="24" alt="Avatar of vaspholdings"> vaspholdings
+			</a><br/>
+			VASP Holdings
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a href="https://github.com/dannibje">
 				<img src="https://avatars.githubusercontent.com/u/9742634?s=72&u=8423aadc34faa754caeed92ea5b6e927158b11dd&v=4" width="24" alt="Avatar of dannibje"> dannibje
 			</a><br/>
@@ -4148,7 +4161,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/hjalli">
 				<img src="https://avatars.githubusercontent.com/u/224461?s=72&v=4" width="24" alt="Avatar of hjalli"> hjalli
@@ -4161,7 +4174,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/guggaivans">
 				<img src="https://avatars.githubusercontent.com/u/34030076?s=72&u=79893ff0576b5ca897eb87a20e52eafeb1810246&v=4" width="24" alt="Avatar of guggaivans"> guggaivans
@@ -4174,7 +4187,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/einartryggvi">
 				<img src="https://avatars.githubusercontent.com/u/2803617?s=72&v=4" width="24" alt="Avatar of einartryggvi"> einartryggvi
@@ -4187,7 +4200,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/arnireynir">
 				<img src="https://avatars.githubusercontent.com/u/1136041?s=72&u=70648d755967bd5f8b6e0505077cf78a0e0bcee7&v=4" width="24" alt="Avatar of arnireynir"> arnireynir
@@ -4200,7 +4213,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/jbbjarnason">
 				<img src="https://avatars.githubusercontent.com/u/15651464?s=72&u=fe4044fcbd26ef58e136cbc6b7f1060d9087d895&v=4" width="24" alt="Avatar of jbbjarnason"> jbbjarnason
@@ -4213,7 +4226,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/gislitg">
 				<img src="https://avatars.githubusercontent.com/u/190044?s=72&v=4" width="24" alt="Avatar of gislitg"> gislitg
@@ -4226,7 +4239,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/Dazage">
 				<img src="https://avatars.githubusercontent.com/u/22946409?s=72&u=943851b3c23bd788eead47fe4095197975ad8066&v=4" width="24" alt="Avatar of Dazage"> Dazage
@@ -4239,7 +4252,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/finnursig">
 				<img src="https://avatars.githubusercontent.com/u/254992?s=72&v=4" width="24" alt="Avatar of finnursig"> finnursig
@@ -4252,7 +4265,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/Jorundur">
 				<img src="https://avatars.githubusercontent.com/u/5693633?s=72&u=74ebf03ea1cd62d6f426a1d388b9fd725ecd6276&v=4" width="24" alt="Avatar of Jorundur"> Jorundur
@@ -4265,7 +4278,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/valurhrafn">
 				<img src="https://avatars.githubusercontent.com/u/1075308?s=72&v=4" width="24" alt="Avatar of valurhrafn"> valurhrafn
@@ -4278,7 +4291,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/aronhr">
 				<img src="https://avatars.githubusercontent.com/u/10516096?s=72&u=33bc91cdb1ec355e35a14a2aea58b8532418a36f&v=4" width="24" alt="Avatar of aronhr"> aronhr
@@ -4291,7 +4304,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/Saevar2000">
 				<img src="https://avatars.githubusercontent.com/u/9970288?s=72&u=3db0963a7274174e2ef4b0a92e79efe782f32fd5&v=4" width="24" alt="Avatar of Saevar2000"> Saevar2000
@@ -4304,7 +4317,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/magnearun">
 				<img src="https://avatars.githubusercontent.com/u/7644007?s=72&u=2defa8dcc821b61c3388a4edb186be8cea5884ea&v=4" width="24" alt="Avatar of magnearun"> magnearun
@@ -4317,7 +4330,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/Sveppi">
 				<img src="https://avatars.githubusercontent.com/u/83814958?s=72&u=141df78cff1b62cb8ce3e4d7e47972997c2ed7d7&v=4" width="24" alt="Avatar of Sveppi"> Sveppi
@@ -4330,7 +4343,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/Dagur">
 				<img src="https://avatars.githubusercontent.com/u/54350?s=72&u=a349a0941b07cbfd562441257f0a72a86ff433d2&v=4" width="24" alt="Avatar of Dagur"> Dagur
@@ -4343,7 +4356,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/digitalsigga">
 				<img src="https://avatars.githubusercontent.com/u/55410500?s=72&v=4" width="24" alt="Avatar of digitalsigga"> digitalsigga
@@ -4356,7 +4369,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/Donald-Nobel">
 				<img src="https://avatars.githubusercontent.com/u/48235929?s=72&u=188bf2acd0b38a049fc16736b0ab55c380889633&v=4" width="24" alt="Avatar of Donald-Nobel"> Donald-Nobel
@@ -4369,7 +4382,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/baldurjonsson">
 				<img src="https://avatars.githubusercontent.com/u/3398226?s=72&u=165b503bf6242803727232036b5be6317eefff67&v=4" width="24" alt="Avatar of baldurjonsson"> baldurjonsson
@@ -4382,7 +4395,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/antialiasis">
 				<img src="https://avatars.githubusercontent.com/u/1326447?s=72&u=202311f0959ef32454a14df76b7aee8809d8767a&v=4" width="24" alt="Avatar of antialiasis"> antialiasis
@@ -4395,7 +4408,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/ingvirafn">
 				<img src="https://avatars.githubusercontent.com/u/474848?s=72&v=4" width="24" alt="Avatar of ingvirafn"> ingvirafn
@@ -4408,7 +4421,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/chenbo-again">
 				<img src="https://avatars.githubusercontent.com/u/71652651?s=72&u=b1a380f82473f57ba6b55e21ebba047975030b8c&v=4" width="24" alt="Avatar of chenbo-again"> chenbo-again
@@ -4421,7 +4434,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/Lozzi">
 				<img src="https://avatars.githubusercontent.com/u/2885456?s=72&v=4" width="24" alt="Avatar of Lozzi"> Lozzi
@@ -4434,7 +4447,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/KristinnGodfrey">
 				<img src="https://avatars.githubusercontent.com/u/20058306?s=72&u=4f9555f7f4b75cc6f23e894eb422db4679393abf&v=4" width="24" alt="Avatar of KristinnGodfrey"> KristinnGodfrey
@@ -4447,7 +4460,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/bjarkihall">
 				<img src="https://avatars.githubusercontent.com/u/8615374?s=72&u=08f1b6e6460c4522e6d3e13ffc4222012737d9e7&v=4" width="24" alt="Avatar of bjarkihall"> bjarkihall
@@ -4460,7 +4473,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Nammi-namm">
 				<img src="https://avatars.githubusercontent.com/u/3219044?s=72&u=23c88194dc1133bbee8605e0e1bf2aa11ffe8630&v=4" width="24" alt="Avatar of Nammi-namm"> Nammi-namm
@@ -4473,7 +4486,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/kjwise">
 				<img src="https://avatars.githubusercontent.com/u/1310193?s=72&u=3447d874660f66b50e513ee511b68676413570a5&v=4" width="24" alt="Avatar of kjwise"> kjwise
@@ -4486,7 +4499,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/dwg">
 				<img src="https://avatars.githubusercontent.com/u/26213?s=72&u=71324004678a571dbdc36664cb4a4c2aad9fc784&v=4" width="24" alt="Avatar of dwg"> dwg
@@ -4499,7 +4512,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/atliegils">
 				<img src="https://avatars.githubusercontent.com/u/16029937?s=72&u=e4a1c22e1854624f7a84a828fcb32369967c4d0f&v=4" width="24" alt="Avatar of atliegils"> atliegils
@@ -4512,7 +4525,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/SkateFish">
 				<img src="https://avatars.githubusercontent.com/u/6824337?s=72&u=cfcf9d87e56b0cc8e7d5afd8f0c2742a24262ffa&v=4" width="24" alt="Avatar of SkateFish"> SkateFish
@@ -4525,7 +4538,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/harabanar">
 				<img src="https://avatars.githubusercontent.com/u/904601?s=72&v=4" width="24" alt="Avatar of harabanar"> harabanar
@@ -4538,7 +4551,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Sigurdurhelga">
 				<img src="https://avatars.githubusercontent.com/u/16032274?s=72&u=092f7a05e8afad106367f2a2228907b307debe51&v=4" width="24" alt="Avatar of Sigurdurhelga"> Sigurdurhelga
@@ -4551,7 +4564,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/tenpinblares">
 				<img src="https://avatars.githubusercontent.com/u/134382373?s=72&u=1eb69c3529d4f5c79ffe56492b48e0f81b38ac88&v=4" width="24" alt="Avatar of tenpinblares"> tenpinblares
@@ -4564,7 +4577,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/jbk75">
 				<img src="https://avatars.githubusercontent.com/u/6752599?s=72&u=f3c0ee0eff22d0cd4ad94bd88d8599fa097d1e6a&v=4" width="24" alt="Avatar of jbk75"> jbk75
@@ -4574,19 +4587,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Sensa </td>
 		<td><a href="https://twitter.com/JohannBTweet">JohannBTweet</a></td>
 		<td>Reykjavík, Iceland</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/vaspholdings">
-				<img src="https://avatars.githubusercontent.com/u/84978082?s=72&u=65cfd0705434e33eb41127473ce10390b31343d9&v=4" width="24" alt="Avatar of vaspholdings"> vaspholdings
-			</a><br/>
-			VASP Holdings
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -4683,19 +4683,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>353</td>
 		<td>
-			<a href="https://github.com/arnarpall">
-				<img src="https://avatars.githubusercontent.com/u/103398?s=72&u=3d86b27c0dd88ad88df7db977bdf4c062143e3c8&v=4" width="24" alt="Avatar of arnarpall"> arnarpall
-			</a><br/>
-			Arnar Páll Arnarsson
-		</td>
-		<td>@upwindsecurity  </td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
 			<a href="https://github.com/maggisk">
 				<img src="https://avatars.githubusercontent.com/u/15398?s=72&v=4" width="24" alt="Avatar of maggisk"> maggisk
 			</a><br/>
@@ -4704,6 +4691,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/arnarpall">
+				<img src="https://avatars.githubusercontent.com/u/103398?s=72&u=3d86b27c0dd88ad88df7db977bdf4c062143e3c8&v=4" width="24" alt="Avatar of arnarpall"> arnarpall
+			</a><br/>
+			Arnar Páll Arnarsson
+		</td>
+		<td>@upwindsecurity  </td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -5008,19 +5008,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
-			<a href="https://github.com/Kleina13">
-				<img src="https://avatars.githubusercontent.com/u/42612068?s=72&u=3120543b73bbc90dc3774dd7dc027d55a8363b04&v=4" width="24" alt="Avatar of Kleina13"> Kleina13
-			</a><br/>
-			Ragnar Helgi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Kleina1313">Kleina1313</a></td>
-		<td>Kópavogur, Iceland</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
 			<a href="https://github.com/annamj17">
 				<img src="https://avatars.githubusercontent.com/u/34062147?s=72&u=23ff2bd3155b05bb45046ed08881c8ec5c04c46c&v=4" width="24" alt="Avatar of annamj17"> annamj17
 			</a><br/>
@@ -5032,7 +5019,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/anz1e">
 				<img src="https://avatars.githubusercontent.com/u/8883250?s=72&v=4" width="24" alt="Avatar of anz1e"> anz1e
@@ -5042,6 +5029,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/Kleina13">
+				<img src="https://avatars.githubusercontent.com/u/42612068?s=72&u=3120543b73bbc90dc3774dd7dc027d55a8363b04&v=4" width="24" alt="Avatar of Kleina13"> Kleina13
+			</a><br/>
+			Ragnar Helgi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Kleina1313">Kleina1313</a></td>
+		<td>Kópavogur, Iceland</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -5359,12 +5359,12 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>405</td>
 		<td>
-			<a href="https://github.com/bennibjorn">
-				<img src="https://avatars.githubusercontent.com/u/5700957?s=72&u=3407114fcd3b79cfee859cb6b0670c235186bcc8&v=4" width="24" alt="Avatar of bennibjorn"> bennibjorn
+			<a href="https://github.com/orn1983">
+				<img src="https://avatars.githubusercontent.com/u/13105226?s=72&v=4" width="24" alt="Avatar of orn1983"> orn1983
 			</a><br/>
-			Benni
+			Örn Arnarson
 		</td>
-		<td>Bluecat Networks </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>8</td>
@@ -5372,12 +5372,12 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>406</td>
 		<td>
-			<a href="https://github.com/orn1983">
-				<img src="https://avatars.githubusercontent.com/u/13105226?s=72&v=4" width="24" alt="Avatar of orn1983"> orn1983
+			<a href="https://github.com/bennibjorn">
+				<img src="https://avatars.githubusercontent.com/u/5700957?s=72&u=3407114fcd3b79cfee859cb6b0670c235186bcc8&v=4" width="24" alt="Avatar of bennibjorn"> bennibjorn
 			</a><br/>
-			Örn Arnarson
+			Benni
 		</td>
-		<td>No Company</td>
+		<td>Bluecat Networks </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>8</td>
@@ -5749,6 +5749,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>435</td>
 		<td>
+			<a href="https://github.com/lodmfjord">
+				<img src="https://avatars.githubusercontent.com/u/5091589?s=72&u=4645c802d9018cf1f783eec678296f82c7f3b270&v=4" width="24" alt="Avatar of lodmfjord"> lodmfjord
+			</a><br/>
+			lommi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Reykjavik, Iceland</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
 			<a href="https://github.com/arnib13">
 				<img src="https://avatars.githubusercontent.com/u/5677048?s=72&u=d11266695a5795413dd150f9d9bb46f501fa3fa8&v=4" width="24" alt="Avatar of arnib13"> arnib13
 			</a><br/>
@@ -5760,7 +5773,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/cylorun">
 				<img src="https://avatars.githubusercontent.com/u/109686521?s=72&u=33ee98c65e3c870fb5ea43d0a3ad641147c94dcd&v=4" width="24" alt="Avatar of cylorun"> cylorun
@@ -5770,19 +5783,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/Fanneyyy">
-				<img src="https://avatars.githubusercontent.com/u/6631668?s=72&u=ab4a8fe3c7e2edbe319849a79968a8c252dd2904&v=4" width="24" alt="Avatar of Fanneyyy"> Fanneyyy
-			</a><br/>
-			Fanney Sigurðardóttir
-		</td>
-		<td>@avilabs  </td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -5801,6 +5801,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>439</td>
 		<td>
+			<a href="https://github.com/Fanneyyy">
+				<img src="https://avatars.githubusercontent.com/u/6631668?s=72&u=ab4a8fe3c7e2edbe319849a79968a8c252dd2904&v=4" width="24" alt="Avatar of Fanneyyy"> Fanneyyy
+			</a><br/>
+			Fanney Sigurðardóttir
+		</td>
+		<td>@avilabs  </td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/ihs7">
 				<img src="https://avatars.githubusercontent.com/u/1031637?s=72&u=e8a724232a6019625f9c2741ffec2e816ab14d38&v=4" width="24" alt="Avatar of ihs7"> ihs7
 			</a><br/>
@@ -5812,7 +5825,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/hronnro">
 				<img src="https://avatars.githubusercontent.com/u/7429825?s=72&u=18641e1f4486f67d18e1e93ec2e140196d3b41de&v=4" width="24" alt="Avatar of hronnro"> hronnro
@@ -5825,7 +5838,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/gasvaktin">
 				<img src="https://avatars.githubusercontent.com/u/18519666?s=72&u=8277136da7b6624cc558b4521164eda6cfad8459&v=4" width="24" alt="Avatar of gasvaktin"> gasvaktin
@@ -5838,7 +5851,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/aevarisak">
 				<img src="https://avatars.githubusercontent.com/u/2563139?s=72&u=5e20aaf7282e3f78d365ed33f31028d024767379&v=4" width="24" alt="Avatar of aevarisak"> aevarisak
@@ -5851,7 +5864,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/disaerna">
 				<img src="https://avatars.githubusercontent.com/u/19873770?s=72&v=4" width="24" alt="Avatar of disaerna"> disaerna
@@ -5864,7 +5877,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/suzannasofia">
 				<img src="https://avatars.githubusercontent.com/u/26118691?s=72&u=615534f73c913c728592457284195af8d95fd6c8&v=4" width="24" alt="Avatar of suzannasofia"> suzannasofia
@@ -5877,7 +5890,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/haukurh">
 				<img src="https://avatars.githubusercontent.com/u/7864222?s=72&u=5dc22589ae80e584852363e72c240e6cc781b358&v=4" width="24" alt="Avatar of haukurh"> haukurh
@@ -5890,7 +5903,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/kristoferbirgir">
 				<img src="https://avatars.githubusercontent.com/u/111859248?s=72&u=3e1771677f4227a55eb9f435db1c8b3035e61123&v=4" width="24" alt="Avatar of kristoferbirgir"> kristoferbirgir
@@ -5903,7 +5916,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/ADM91">
 				<img src="https://avatars.githubusercontent.com/u/16314030?s=72&v=4" width="24" alt="Avatar of ADM91"> ADM91
@@ -5916,7 +5929,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/stefaneg">
 				<img src="https://avatars.githubusercontent.com/u/140227?s=72&v=4" width="24" alt="Avatar of stefaneg"> stefaneg
@@ -5929,7 +5942,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/sturlath">
 				<img src="https://avatars.githubusercontent.com/u/2386572?s=72&u=9a09043a74da10981695484d92fc9da1c81eabc9&v=4" width="24" alt="Avatar of sturlath"> sturlath
@@ -5942,7 +5955,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/meheleventyone">
 				<img src="https://avatars.githubusercontent.com/u/5731661?s=72&u=ef31411b721e257473aad94a85a9020b038eea9b&v=4" width="24" alt="Avatar of meheleventyone"> meheleventyone
@@ -5955,7 +5968,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/7oi">
 				<img src="https://avatars.githubusercontent.com/u/2581375?s=72&u=7430c487686d7f0841c0c3467c3e2148ca7204f9&v=4" width="24" alt="Avatar of 7oi"> 7oi
@@ -5968,7 +5981,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/jmburgos">
 				<img src="https://avatars.githubusercontent.com/u/8591656?s=72&u=3d85368a92ea019244a8c530f59e933acc1a1e0d&v=4" width="24" alt="Avatar of jmburgos"> jmburgos
@@ -5981,7 +5994,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/ArnarTumi">
 				<img src="https://avatars.githubusercontent.com/u/165194?s=72&v=4" width="24" alt="Avatar of ArnarTumi"> ArnarTumi
@@ -5994,7 +6007,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/Kristjan93">
 				<img src="https://avatars.githubusercontent.com/u/5708727?s=72&u=0153a962456a891e2a5c276e98aa3fbc2af14a95&v=4" width="24" alt="Avatar of Kristjan93"> Kristjan93
@@ -6007,7 +6020,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/Artoriarcher">
 				<img src="https://avatars.githubusercontent.com/u/38772301?s=72&u=8fc5f60b19864afb281b41d2815f6a7cffac3897&v=4" width="24" alt="Avatar of Artoriarcher"> Artoriarcher
@@ -6020,7 +6033,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/gudjonragnar">
 				<img src="https://avatars.githubusercontent.com/u/10629275?s=72&u=0b6e84569adbda169da430806466b2c16eb954be&v=4" width="24" alt="Avatar of gudjonragnar"> gudjonragnar
@@ -6033,7 +6046,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/reynir-gud">
 				<img src="https://avatars.githubusercontent.com/u/1998096?s=72&u=82473264ea5b5e8910cd8b916d768b5c0da0a4ff&v=4" width="24" alt="Avatar of reynir-gud"> reynir-gud
@@ -6046,7 +6059,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/arnargisla">
 				<img src="https://avatars.githubusercontent.com/u/10634250?s=72&v=4" width="24" alt="Avatar of arnargisla"> arnargisla
@@ -6059,7 +6072,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/kxy000">
 				<img src="https://avatars.githubusercontent.com/u/11270057?s=72&u=8f52603df5405170c8f78e123255476105e9a873&v=4" width="24" alt="Avatar of kxy000"> kxy000
@@ -6072,7 +6085,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/nossrannug">
 				<img src="https://avatars.githubusercontent.com/u/416906?s=72&u=e8b0b4c1cf28a379909b254d1681abd57d138460&v=4" width="24" alt="Avatar of nossrannug"> nossrannug
@@ -6085,7 +6098,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/Skuggomann">
 				<img src="https://avatars.githubusercontent.com/u/5279077?s=72&u=e7d7d781624b33d1a7beb525290e9f126e345c00&v=4" width="24" alt="Avatar of Skuggomann"> Skuggomann
@@ -6098,7 +6111,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/krunarsson">
 				<img src="https://avatars.githubusercontent.com/u/2437835?s=72&u=df45386a297c12dce9d25f4cb2f1b11bd6984dc0&v=4" width="24" alt="Avatar of krunarsson"> krunarsson
@@ -6111,7 +6124,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/huanhuachengfeng">
 				<img src="https://avatars.githubusercontent.com/u/22079070?s=72&v=4" width="24" alt="Avatar of huanhuachengfeng"> huanhuachengfeng
@@ -6124,7 +6137,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/ziggys">
 				<img src="https://avatars.githubusercontent.com/u/617609?s=72&v=4" width="24" alt="Avatar of ziggys"> ziggys
@@ -6137,7 +6150,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/arivarton">
 				<img src="https://avatars.githubusercontent.com/u/13208468?s=72&u=9ffa2ef3bdeeb6bdbd562b8f913a97a5df1dc577&v=4" width="24" alt="Avatar of arivarton"> arivarton
@@ -6150,7 +6163,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/arnifreyrs">
 				<img src="https://avatars.githubusercontent.com/u/4173529?s=72&u=830df889e0d9d18547f872b66097d76c14c37b83&v=4" width="24" alt="Avatar of arnifreyrs"> arnifreyrs
@@ -6163,7 +6176,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/Surluson">
 				<img src="https://avatars.githubusercontent.com/u/21219867?s=72&u=a7e5f2e18e52f43d2bbe7fee91c79b181f4135ce&v=4" width="24" alt="Avatar of Surluson"> Surluson
@@ -6176,7 +6189,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/alexve18">
 				<img src="https://avatars.githubusercontent.com/u/9904246?s=72&u=74c8d251bc8dcff8af80bea0e9a96b30f6aad9ec&v=4" width="24" alt="Avatar of alexve18"> alexve18
@@ -6189,7 +6202,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/hallijo">
 				<img src="https://avatars.githubusercontent.com/u/487188?s=72&v=4" width="24" alt="Avatar of hallijo"> hallijo
@@ -6202,7 +6215,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/skeggi">
 				<img src="https://avatars.githubusercontent.com/u/1341307?s=72&u=23b91582c8bad837525b86b3027ceff74796ecd7&v=4" width="24" alt="Avatar of skeggi"> skeggi
@@ -6215,7 +6228,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/eythormani-zz">
 				<img src="https://avatars.githubusercontent.com/u/9732042?s=72&u=a5a2ab0f610fb864a6275ac70a751c53c9d2512d&v=4" width="24" alt="Avatar of eythormani-zz"> eythormani-zz
@@ -6228,7 +6241,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/nonnib">
 				<img src="https://avatars.githubusercontent.com/u/4493631?s=72&u=aba6d675c7610673303ea131aaa35d342d90b184&v=4" width="24" alt="Avatar of nonnib"> nonnib
@@ -6241,7 +6254,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/mdmagnusson">
 				<img src="https://avatars.githubusercontent.com/u/2211440?s=72&v=4" width="24" alt="Avatar of mdmagnusson"> mdmagnusson
@@ -6254,7 +6267,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/dagbjortg">
 				<img src="https://avatars.githubusercontent.com/u/92158229?s=72&u=7d461ec94762c962b04a6f76a9f17c61b451e48b&v=4" width="24" alt="Avatar of dagbjortg"> dagbjortg
@@ -6267,7 +6280,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/padresmurfa">
 				<img src="https://avatars.githubusercontent.com/u/8068238?s=72&u=80151f51fb489498a0eef382a76e68489ccda5b5&v=4" width="24" alt="Avatar of padresmurfa"> padresmurfa
@@ -6280,7 +6293,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/H-zoro">
 				<img src="https://avatars.githubusercontent.com/u/31900401?s=72&u=70438094a438a8ca7f7f958fea54c287b49ef085&v=4" width="24" alt="Avatar of H-zoro"> H-zoro
@@ -6293,7 +6306,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/gpuhash">
 				<img src="https://avatars.githubusercontent.com/u/17435743?s=72&v=4" width="24" alt="Avatar of gpuhash"> gpuhash
@@ -6306,7 +6319,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/birkirok">
 				<img src="https://avatars.githubusercontent.com/u/15255880?s=72&u=e86dc5f43fb244a95885f811b1a3709f2298e12d&v=4" width="24" alt="Avatar of birkirok"> birkirok
@@ -6319,7 +6332,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/iliasku">
 				<img src="https://avatars.githubusercontent.com/u/2123970?s=72&v=4" width="24" alt="Avatar of iliasku"> iliasku
@@ -6332,7 +6345,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/thordisp">
 				<img src="https://avatars.githubusercontent.com/u/33841590?s=72&u=831774ad7c161153059610b3fcf982ebb38d17ee&v=4" width="24" alt="Avatar of thordisp"> thordisp
@@ -6345,7 +6358,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/GardarGardarsson">
 				<img src="https://avatars.githubusercontent.com/u/72798350?s=72&u=004a0c91c645dd4e9a1bf0fa6c3125813619ed8e&v=4" width="24" alt="Avatar of GardarGardarsson"> GardarGardarsson
@@ -6358,7 +6371,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/andripetur">
 				<img src="https://avatars.githubusercontent.com/u/7580934?s=72&u=2b8a95036467e2f4ed940f5145e119226c035abc&v=4" width="24" alt="Avatar of andripetur"> andripetur
@@ -6371,7 +6384,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/eyjo">
 				<img src="https://avatars.githubusercontent.com/u/637862?s=72&v=4" width="24" alt="Avatar of eyjo"> eyjo
@@ -6382,19 +6395,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>7</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/lodmfjord">
-				<img src="https://avatars.githubusercontent.com/u/5091589?s=72&u=4645c802d9018cf1f783eec678296f82c7f3b270&v=4" width="24" alt="Avatar of lodmfjord"> lodmfjord
-			</a><br/>
-			lommi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Reykjavik, Iceland</td>
-		<td>6</td>
 	</tr>
 	<tr>
 		<td>485</td>
@@ -6412,6 +6412,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>486</td>
 		<td>
+			<a href="https://github.com/Pebble32">
+				<img src="https://avatars.githubusercontent.com/u/111773160?s=72&u=ff460b0a04165a21f803f5ae8e5b129cc9773f36&v=4" width="24" alt="Avatar of Pebble32"> Pebble32
+			</a><br/>
+			Adam Postek
+		</td>
+		<td>Marine And Freshwater Institute<br/></td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
 			<a href="https://github.com/karlasgeir">
 				<img src="https://avatars.githubusercontent.com/u/8950246?s=72&u=2c717013b8349e30f1ea0a2a32a939581b59e100&v=4" width="24" alt="Avatar of karlasgeir"> karlasgeir
 			</a><br/>
@@ -6423,7 +6436,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/Andrinoid">
 				<img src="https://avatars.githubusercontent.com/u/7255160?s=72&u=194210f07849970b98eb65b7520b99b8ba00441d&v=4" width="24" alt="Avatar of Andrinoid"> Andrinoid
@@ -6436,7 +6449,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/gudmunduro">
 				<img src="https://avatars.githubusercontent.com/u/25323594?s=72&v=4" width="24" alt="Avatar of gudmunduro"> gudmunduro
@@ -6449,7 +6462,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/kjartansverrisson">
 				<img src="https://avatars.githubusercontent.com/u/58954?s=72&v=4" width="24" alt="Avatar of kjartansverrisson"> kjartansverrisson
@@ -6462,7 +6475,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/kanor1306">
 				<img src="https://avatars.githubusercontent.com/u/1013912?s=72&u=27a838f13766abcde6c6c4d83f984bc124370934&v=4" width="24" alt="Avatar of kanor1306"> kanor1306
@@ -6475,7 +6488,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/pallhelgi">
 				<img src="https://avatars.githubusercontent.com/u/24223927?s=72&v=4" width="24" alt="Avatar of pallhelgi"> pallhelgi
@@ -6488,7 +6501,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/dingari">
 				<img src="https://avatars.githubusercontent.com/u/15156461?s=72&u=262f9292bf6dc8f6a5d3c535ad4c3640505cc1db&v=4" width="24" alt="Avatar of dingari"> dingari
@@ -6501,7 +6514,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/saethor">
 				<img src="https://avatars.githubusercontent.com/u/4381978?s=72&u=c0472ea2e2bd3c172e3595389d556dd0b1e07fe9&v=4" width="24" alt="Avatar of saethor"> saethor
@@ -6514,7 +6527,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/thegamershollow">
 				<img src="https://avatars.githubusercontent.com/u/125901017?s=72&u=0f6b36905ca8de3cf086b614a650f701d2533aef&v=4" width="24" alt="Avatar of thegamershollow"> thegamershollow
@@ -6527,7 +6540,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/KariSt1">
 				<img src="https://avatars.githubusercontent.com/u/55957555?s=72&u=510e7e8332e54c87e8ef07370550886d47fc0314&v=4" width="24" alt="Avatar of KariSt1"> KariSt1
@@ -6540,7 +6553,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/gbene">
 				<img src="https://avatars.githubusercontent.com/u/40857804?s=72&u=7a66b5852f359f9df6aaf20e5a082d35724950e8&v=4" width="24" alt="Avatar of gbene"> gbene
@@ -6553,7 +6566,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/rafnarnason">
 				<img src="https://avatars.githubusercontent.com/u/3704264?s=72&u=f749ed99f4863a7e2bba5d523ea2496e00fef7e2&v=4" width="24" alt="Avatar of rafnarnason"> rafnarnason
@@ -6566,7 +6579,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/gudberg">
 				<img src="https://avatars.githubusercontent.com/u/16470938?s=72&u=4cef304ee11b315df7eae81bc84fef8b827c3ac8&v=4" width="24" alt="Avatar of gudberg"> gudberg
@@ -6579,7 +6592,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/gunnim">
 				<img src="https://avatars.githubusercontent.com/u/17432315?s=72&u=5457951814a50438898655d51cc470e2df9d1234&v=4" width="24" alt="Avatar of gunnim"> gunnim
@@ -6592,7 +6605,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/Dev5H0">
 				<img src="https://avatars.githubusercontent.com/u/76407750?s=72&u=e3b03d743a5ffdf9631add39e8733e5c7f8af6e6&v=4" width="24" alt="Avatar of Dev5H0"> Dev5H0
@@ -6605,7 +6618,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/gudmojo">
 				<img src="https://avatars.githubusercontent.com/u/1928284?s=72&u=1d8428c7fc9fc895f5cd1df062421f14cacf23b3&v=4" width="24" alt="Avatar of gudmojo"> gudmojo
@@ -6618,7 +6631,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/berkeleynerd">
 				<img src="https://avatars.githubusercontent.com/u/31438281?s=72&u=efc5c157219df5b7e0f61053b69b5fe1bd551170&v=4" width="24" alt="Avatar of berkeleynerd"> berkeleynerd
@@ -6631,7 +6644,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/siggib007">
 				<img src="https://avatars.githubusercontent.com/u/20001822?s=72&u=f69b179973d84f6d6643fa19534710845c1501d9&v=4" width="24" alt="Avatar of siggib007"> siggib007
@@ -6644,7 +6657,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/gudmundurkg">
 				<img src="https://avatars.githubusercontent.com/u/89979871?s=72&u=f383b8b20506c373e897736eb59ba4bb5942a54a&v=4" width="24" alt="Avatar of gudmundurkg"> gudmundurkg
@@ -6657,7 +6670,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/olafurkarl">
 				<img src="https://avatars.githubusercontent.com/u/57147108?s=72&u=6c0973b4c705cf40f6c4306263f3d5643db8f171&v=4" width="24" alt="Avatar of olafurkarl"> olafurkarl
@@ -6670,7 +6683,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/MichelangeloDiamanti">
 				<img src="https://avatars.githubusercontent.com/u/6999714?s=72&u=8d8702aa7309aff5ac9c3d658689684d18d6ca46&v=4" width="24" alt="Avatar of MichelangeloDiamanti"> MichelangeloDiamanti
@@ -6683,7 +6696,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/tumigisla">
 				<img src="https://avatars.githubusercontent.com/u/5342961?s=72&v=4" width="24" alt="Avatar of tumigisla"> tumigisla
@@ -6696,7 +6709,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/fizk">
 				<img src="https://avatars.githubusercontent.com/u/386336?s=72&u=5f9e5606b6af4f0a6d1051c30d542829f1d060ee&v=4" width="24" alt="Avatar of fizk"> fizk
@@ -6709,7 +6722,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/IngoVals">
 				<img src="https://avatars.githubusercontent.com/u/814355?s=72&v=4" width="24" alt="Avatar of IngoVals"> IngoVals
@@ -6722,7 +6735,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/foleyj2">
 				<img src="https://avatars.githubusercontent.com/u/827207?s=72&v=4" width="24" alt="Avatar of foleyj2"> foleyj2
@@ -6735,7 +6748,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/Halldor-Hrafn">
 				<img src="https://avatars.githubusercontent.com/u/69371712?s=72&v=4" width="24" alt="Avatar of Halldor-Hrafn"> Halldor-Hrafn
@@ -6748,7 +6761,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/polarparsnip">
 				<img src="https://avatars.githubusercontent.com/u/111889717?s=72&u=cee5f2ff7cd84f8485276f8dcbd6a2453857acc8&v=4" width="24" alt="Avatar of polarparsnip"> polarparsnip
@@ -6761,7 +6774,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/LSafer">
 				<img src="https://avatars.githubusercontent.com/u/51034411?s=72&u=705a91e72cf328766055cc5d9a9f2e458e74ce80&v=4" width="24" alt="Avatar of LSafer"> LSafer
@@ -6774,7 +6787,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/AtliAsmunds">
 				<img src="https://avatars.githubusercontent.com/u/70671417?s=72&u=03a43a572d240aca8b839b6a41312a000665a353&v=4" width="24" alt="Avatar of AtliAsmunds"> AtliAsmunds
@@ -6787,7 +6800,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/Marrikulus">
 				<img src="https://avatars.githubusercontent.com/u/15344566?s=72&u=473436efd2dad64694190e6ce73a3406b01a691d&v=4" width="24" alt="Avatar of Marrikulus"> Marrikulus
@@ -6800,7 +6813,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/G-Thor">
 				<img src="https://avatars.githubusercontent.com/u/1919332?s=72&u=448ee70a81ee836950f99987ff493fe64ab563cc&v=4" width="24" alt="Avatar of G-Thor"> G-Thor
@@ -6813,7 +6826,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/einarorn">
 				<img src="https://avatars.githubusercontent.com/u/19308179?s=72&u=2aec24396e78f0d6ccaa1d6acf745ba59e474659&v=4" width="24" alt="Avatar of einarorn"> einarorn
@@ -6826,7 +6839,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/kjartano47">
 				<img src="https://avatars.githubusercontent.com/u/38945395?s=72&u=b9b0c00855946ac9cebb4feeefad32b435e1e083&v=4" width="24" alt="Avatar of kjartano47"> kjartano47
@@ -6839,7 +6852,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/Svavar16">
 				<img src="https://avatars.githubusercontent.com/u/24223282?s=72&u=4a613c298e3f6a80e0250d1fc3c36483a94032ea&v=4" width="24" alt="Avatar of Svavar16"> Svavar16
@@ -6852,7 +6865,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/willbutler42">
 				<img src="https://avatars.githubusercontent.com/u/34750950?s=72&v=4" width="24" alt="Avatar of willbutler42"> willbutler42
@@ -6865,7 +6878,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/GudjonGeir">
 				<img src="https://avatars.githubusercontent.com/u/5695139?s=72&u=685b5363f48cc99c3cc58a82741527a3db5f0413&v=4" width="24" alt="Avatar of GudjonGeir"> GudjonGeir
@@ -6878,7 +6891,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/arnthorla">
 				<img src="https://avatars.githubusercontent.com/u/9163812?s=72&u=7f4d4b6a3206fce56c5aa89733f76193cfd917e0&v=4" width="24" alt="Avatar of arnthorla"> arnthorla
@@ -6891,7 +6904,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/bgunnarsson">
 				<img src="https://avatars.githubusercontent.com/u/2563119?s=72&v=4" width="24" alt="Avatar of bgunnarsson"> bgunnarsson
@@ -6904,7 +6917,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/axelbjornsson">
 				<img src="https://avatars.githubusercontent.com/u/16033836?s=72&u=a5ed0f3058b9907cf512a56430e46db82a6eed78&v=4" width="24" alt="Avatar of axelbjornsson"> axelbjornsson
@@ -6917,7 +6930,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/netscream">
 				<img src="https://avatars.githubusercontent.com/u/9120360?s=72&u=f5230d640c8e54fcfc3a5081e8ec36c8819273dd&v=4" width="24" alt="Avatar of netscream"> netscream
@@ -6930,7 +6943,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/fbd">
 				<img src="https://avatars.githubusercontent.com/u/238807?s=72&v=4" width="24" alt="Avatar of fbd"> fbd
@@ -6943,7 +6956,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/soliforte">
 				<img src="https://avatars.githubusercontent.com/u/42045272?s=72&u=9c7a862f9349d44093cc1a7ed566b84d9a2fb4fd&v=4" width="24" alt="Avatar of soliforte"> soliforte
@@ -6956,7 +6969,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/oskarei">
 				<img src="https://avatars.githubusercontent.com/u/496491?s=72&u=4759cdcc041808d441b4f97f418df51383764850&v=4" width="24" alt="Avatar of oskarei"> oskarei
@@ -6969,7 +6982,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/keendra">
 				<img src="https://avatars.githubusercontent.com/u/8382952?s=72&u=f43ccd6cc7f015f812763ff52f1a01d3f56977a2&v=4" width="24" alt="Avatar of keendra"> keendra
@@ -6982,7 +6995,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/shannonwho">
 				<img src="https://avatars.githubusercontent.com/u/9275684?s=72&u=13989999f25be3d302f253f0312753bb85cac46b&v=4" width="24" alt="Avatar of shannonwho"> shannonwho
@@ -6995,7 +7008,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/bennigeir">
 				<img src="https://avatars.githubusercontent.com/u/5701625?s=72&u=43a54eef19ab039839a50041b0b68b90c8bdbea0&v=4" width="24" alt="Avatar of bennigeir"> bennigeir
@@ -7008,7 +7021,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/Salinsky">
 				<img src="https://avatars.githubusercontent.com/u/132112?s=72&u=4bfc67df123d34e3a1fa407866a2400e02828489&v=4" width="24" alt="Avatar of Salinsky"> Salinsky
@@ -7021,7 +7034,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/thordurb12">
 				<img src="https://avatars.githubusercontent.com/u/2614221?s=72&u=b2d0a9337f0550c9bfcb65abd2a95e798cf63771&v=4" width="24" alt="Avatar of thordurb12"> thordurb12
@@ -7034,7 +7047,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/via9a">
 				<img src="https://avatars.githubusercontent.com/u/25100882?s=72&v=4" width="24" alt="Avatar of via9a"> via9a
@@ -7047,7 +7060,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/Kirill-iceland">
 				<img src="https://avatars.githubusercontent.com/u/58794914?s=72&u=dc7de1da3f95fd5b774dcf0c4b409f4241d87c83&v=4" width="24" alt="Avatar of Kirill-iceland"> Kirill-iceland
@@ -7060,7 +7073,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/hthth">
 				<img src="https://avatars.githubusercontent.com/u/17154?s=72&v=4" width="24" alt="Avatar of hthth"> hthth
@@ -7073,7 +7086,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/Gunsobal">
 				<img src="https://avatars.githubusercontent.com/u/15886771?s=72&v=4" width="24" alt="Avatar of Gunsobal"> Gunsobal
@@ -7086,7 +7099,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/gudnithor4">
 				<img src="https://avatars.githubusercontent.com/u/4176057?s=72&v=4" width="24" alt="Avatar of gudnithor4"> gudnithor4
@@ -7099,7 +7112,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/HlynurHalldorsson">
 				<img src="https://avatars.githubusercontent.com/u/5685869?s=72&u=e858def5b6f97fecaaf20905fc0fe4bf0a352e73&v=4" width="24" alt="Avatar of HlynurHalldorsson"> HlynurHalldorsson
@@ -7112,7 +7125,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/mattig">
 				<img src="https://avatars.githubusercontent.com/u/7851284?s=72&u=c3cad0c5b04a1cca6e8b6911384c7bc38c72f6f4&v=4" width="24" alt="Avatar of mattig"> mattig
@@ -7125,7 +7138,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/sjonni1">
 				<img src="https://avatars.githubusercontent.com/u/662525?s=72&v=4" width="24" alt="Avatar of sjonni1"> sjonni1
@@ -7138,7 +7151,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/axcester">
 				<img src="https://avatars.githubusercontent.com/u/3825032?s=72&u=2d80103006db099337228e49b48660952ee8f289&v=4" width="24" alt="Avatar of axcester"> axcester
@@ -7151,7 +7164,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/arnarb12">
 				<img src="https://avatars.githubusercontent.com/u/2572738?s=72&u=73a7b67fc6cac42b212f0522295511582af150ef&v=4" width="24" alt="Avatar of arnarb12"> arnarb12
@@ -7164,7 +7177,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/berglind">
 				<img src="https://avatars.githubusercontent.com/u/2110759?s=72&u=061884961fd7683fa9def8cd20ebec8b6ba7babe&v=4" width="24" alt="Avatar of berglind"> berglind
@@ -7177,7 +7190,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Machess">
 				<img src="https://avatars.githubusercontent.com/u/17249024?s=72&u=074eef0227ac6dc1a53ca152c64e0f17c9e3b1c2&v=4" width="24" alt="Avatar of Machess"> Machess
@@ -7190,7 +7203,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/hilmar8">
 				<img src="https://avatars.githubusercontent.com/u/236307?s=72&v=4" width="24" alt="Avatar of hilmar8"> hilmar8
@@ -7203,7 +7216,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/joikulp">
 				<img src="https://avatars.githubusercontent.com/u/1352635?s=72&u=1bf43170386196bbb4096c9f90b6f4fd7ef21847&v=4" width="24" alt="Avatar of joikulp"> joikulp
@@ -7216,7 +7229,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/Aeinseinn">
 				<img src="https://avatars.githubusercontent.com/u/19704018?s=72&u=f1b7a70fc01ebbde03c7f6cd876c51d66b42c8ec&v=4" width="24" alt="Avatar of Aeinseinn"> Aeinseinn
@@ -7229,7 +7242,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/mateuszkrasucki">
 				<img src="https://avatars.githubusercontent.com/u/2579659?s=72&u=f14be0111d4d09bd8f43117283372abcd9ff9506&v=4" width="24" alt="Avatar of mateuszkrasucki"> mateuszkrasucki
@@ -7242,7 +7255,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/Toti91">
 				<img src="https://avatars.githubusercontent.com/u/16031201?s=72&u=c222b17498de15d50b8a3726768ab36f385b9e26&v=4" width="24" alt="Avatar of Toti91"> Toti91
@@ -7255,7 +7268,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/MarioRuiz">
 				<img src="https://avatars.githubusercontent.com/u/459564?s=72&u=f0595580cb19a0d6028311cb8aa53720b590a93b&v=4" width="24" alt="Avatar of MarioRuiz"> MarioRuiz
@@ -7265,19 +7278,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík. Iceland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/Pebble32">
-				<img src="https://avatars.githubusercontent.com/u/111773160?s=72&u=ff460b0a04165a21f803f5ae8e5b129cc9773f36&v=4" width="24" alt="Avatar of Pebble32"> Pebble32
-			</a><br/>
-			Adam Postek
-		</td>
-		<td>Marine And Freshwater Institute<br/></td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7478,6 +7478,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>568</td>
 		<td>
+			<a href="https://github.com/thorhildurt">
+				<img src="https://avatars.githubusercontent.com/u/16031078?s=72&u=663b62c50cb01264275c0553de58eb6ff9941e2e&v=4" width="24" alt="Avatar of thorhildurt"> thorhildurt
+			</a><br/>
+			Thórhildur Thorleiksdóttir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
 			<a href="https://github.com/helgsie">
 				<img src="https://avatars.githubusercontent.com/u/89800172?s=72&u=fec4bd01862ee946e0f98e370dfae4d6650eb704&v=4" width="24" alt="Avatar of helgsie"> helgsie
 			</a><br/>
@@ -7489,7 +7502,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/0x43eba">
 				<img src="https://avatars.githubusercontent.com/u/76260172?s=72&u=1cd489c72ec22360353f9a93d961b6d12f450a21&v=4" width="24" alt="Avatar of 0x43eba"> 0x43eba
@@ -7502,7 +7515,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/sveppalicious">
 				<img src="https://avatars.githubusercontent.com/u/10235271?s=72&u=2cd997328f107416e9d2ae37d60a57a377e44f8c&v=4" width="24" alt="Avatar of sveppalicious"> sveppalicious
@@ -7512,19 +7525,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>571</td>
-		<td>
-			<a href="https://github.com/thorhildurt">
-				<img src="https://avatars.githubusercontent.com/u/16031078?s=72&u=663b62c50cb01264275c0553de58eb6ff9941e2e&v=4" width="24" alt="Avatar of thorhildurt"> thorhildurt
-			</a><br/>
-			Thórhildur Thorleiksdóttir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7557,7 +7557,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>574</td>
 		<td>
 			<a href="https://github.com/helgarfri">
-				<img src="https://avatars.githubusercontent.com/u/95542033?s=72&v=4" width="24" alt="Avatar of helgarfri"> helgarfri
+				<img src="https://avatars.githubusercontent.com/u/95542033?s=72&u=f359838f06aaf1c79a9c2ad7f28e6c9cdb44fe14&v=4" width="24" alt="Avatar of helgarfri"> helgarfri
 			</a><br/>
 			Helgi Freyr Davíðsson
 		</td>
@@ -8271,19 +8271,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>629</td>
 		<td>
-			<a href="https://github.com/olafurnielsen">
-				<img src="https://avatars.githubusercontent.com/u/69799161?s=72&u=982b3f647890a265227030c31d235f8aa786e20f&v=4" width="24" alt="Avatar of olafurnielsen"> olafurnielsen
-			</a><br/>
-			Olafur Nielsen
-		</td>
-		<td>Orbit </td>
-		<td><a href="https://twitter.com/olafurnielsen">olafurnielsen</a></td>
-		<td>Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>630</td>
-		<td>
 			<a href="https://github.com/petunmar">
 				<img src="https://avatars.githubusercontent.com/u/11159940?s=72&u=b3ed0341f4abdc7e23be987f1533af07e698f7b3&v=4" width="24" alt="Avatar of petunmar"> petunmar
 			</a><br/>
@@ -8291,6 +8278,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/olafurnielsen">
+				<img src="https://avatars.githubusercontent.com/u/69799161?s=72&u=982b3f647890a265227030c31d235f8aa786e20f&v=4" width="24" alt="Avatar of olafurnielsen"> olafurnielsen
+			</a><br/>
+			Olafur Nielsen
+		</td>
+		<td>Orbit </td>
+		<td><a href="https://twitter.com/olafurnielsen">olafurnielsen</a></td>
 		<td>Iceland</td>
 		<td>4</td>
 	</tr>
@@ -8583,19 +8583,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>653</td>
 		<td>
-			<a href="https://github.com/raggiadolf">
-				<img src="https://avatars.githubusercontent.com/u/7440470?s=72&u=b93aec5240c1c280dfe3f0caf7b019b482f86013&v=4" width="24" alt="Avatar of raggiadolf"> raggiadolf
-			</a><br/>
-			Ragnar Adolf Árnason
-		</td>
-		<td>Reykjavik University </td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
 			<a href="https://github.com/sandraosp">
 				<img src="https://avatars.githubusercontent.com/u/16047102?s=72&u=894d51a37c8fd314363a2103b0b57be6a8a94929&v=4" width="24" alt="Avatar of sandraosp"> sandraosp
 			</a><br/>
@@ -8607,7 +8594,33 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/raggiadolf">
+				<img src="https://avatars.githubusercontent.com/u/7440470?s=72&u=b93aec5240c1c280dfe3f0caf7b019b482f86013&v=4" width="24" alt="Avatar of raggiadolf"> raggiadolf
+			</a><br/>
+			Ragnar Adolf Árnason
+		</td>
+		<td>Reykjavik University </td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>655</td>
+		<td>
+			<a href="https://github.com/Stalfur">
+				<img src="https://avatars.githubusercontent.com/u/4370958?s=72&v=4" width="24" alt="Avatar of Stalfur"> Stalfur
+			</a><br/>
+			Jóhannes Birgir Jensson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kópavogur, Iceland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/fridriks19">
 				<img src="https://avatars.githubusercontent.com/u/54944655?s=72&u=c22e5b87c6998410cb10b209c2177fe53fd2b9e3&v=4" width="24" alt="Avatar of fridriks19"> fridriks19
@@ -8620,7 +8633,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/milosptr">
 				<img src="https://avatars.githubusercontent.com/u/26303541?s=72&v=4" width="24" alt="Avatar of milosptr"> milosptr
@@ -8630,19 +8643,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Sidekick Health </td>
 		<td>No Twitter Username</td>
 		<td>Reykjavik, Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>657</td>
-		<td>
-			<a href="https://github.com/Stalfur">
-				<img src="https://avatars.githubusercontent.com/u/4370958?s=72&v=4" width="24" alt="Avatar of Stalfur"> Stalfur
-			</a><br/>
-			Jóhannes Birgir Jensson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kópavogur, Iceland</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -8700,19 +8700,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>662</td>
 		<td>
-			<a href="https://github.com/rkjaran">
-				<img src="https://avatars.githubusercontent.com/u/5774771?s=72&v=4" width="24" alt="Avatar of rkjaran"> rkjaran
-			</a><br/>
-			Róbert Kjaran
-		</td>
-		<td>@tiro-is </td>
-		<td>No Twitter Username</td>
-		<td>Kópavogur, Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
 			<a href="https://github.com/gmagnu">
 				<img src="https://avatars.githubusercontent.com/u/6115906?s=72&u=17c38881b0fed2838f7db1e712975d64042758a5&v=4" width="24" alt="Avatar of gmagnu"> gmagnu
 			</a><br/>
@@ -8721,6 +8708,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Genedx </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/rkjaran">
+				<img src="https://avatars.githubusercontent.com/u/5774771?s=72&v=4" width="24" alt="Avatar of rkjaran"> rkjaran
+			</a><br/>
+			Róbert Kjaran
+		</td>
+		<td>@tiro-is </td>
+		<td>No Twitter Username</td>
+		<td>Kópavogur, Iceland</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -8869,19 +8869,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>675</td>
 		<td>
-			<a href="https://github.com/jakobjs">
-				<img src="https://avatars.githubusercontent.com/u/3522160?s=72&u=3fa034f5ed7984014ee4cb5eb998e8b80202cf0c&v=4" width="24" alt="Avatar of jakobjs"> jakobjs
-			</a><br/>
-			Jakob
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík, Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>676</td>
-		<td>
 			<a href="https://github.com/aodj">
 				<img src="https://avatars.githubusercontent.com/u/1374905?s=72&u=c901259ba2e1e515d0aa782476ac92f394dc91d4&v=4" width="24" alt="Avatar of aodj"> aodj
 			</a><br/>
@@ -8893,7 +8880,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/torfason">
 				<img src="https://avatars.githubusercontent.com/u/3247510?s=72&u=7cc89eda50c81952e36898ee7b009f0a22538288&v=4" width="24" alt="Avatar of torfason"> torfason
@@ -8906,7 +8893,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/HelgiHe">
 				<img src="https://avatars.githubusercontent.com/u/17112727?s=72&u=96470c5757419aab75866f6b0ac8f70efb7ddae3&v=4" width="24" alt="Avatar of HelgiHe"> HelgiHe
@@ -8919,7 +8906,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/midran">
 				<img src="https://avatars.githubusercontent.com/u/4922787?s=72&u=ae7bed9e027db263c2a1753106d8accd19cea3c9&v=4" width="24" alt="Avatar of midran"> midran
@@ -8932,7 +8919,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/arnigeir">
 				<img src="https://avatars.githubusercontent.com/u/671840?s=72&u=89cf4dfeab4cc9c865a612ee03b25d7577340951&v=4" width="24" alt="Avatar of arnigeir"> arnigeir
@@ -8945,7 +8932,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/sigurdurthorjonsson">
 				<img src="https://avatars.githubusercontent.com/u/3035734?s=72&u=020de05a8f4af85c85c93ab4700a63a2242c732b&v=4" width="24" alt="Avatar of sigurdurthorjonsson"> sigurdurthorjonsson
@@ -8958,7 +8945,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/spoldman">
 				<img src="https://avatars.githubusercontent.com/u/10643226?s=72&u=8a5d3f5fc3614b74265198dd0a74c24702c9034b&v=4" width="24" alt="Avatar of spoldman"> spoldman
@@ -8971,7 +8958,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/klmfy">
 				<img src="https://avatars.githubusercontent.com/u/103330222?s=72&u=0f3288eaed0c8d98d5a14eadc88435c5f2fdf970&v=4" width="24" alt="Avatar of klmfy"> klmfy
@@ -8981,6 +8968,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/gislikon">
+				<img src="https://avatars.githubusercontent.com/u/5355859?s=72&u=8da1bd12b5670a8d93221c6412dc75fc2a15111a&v=4" width="24" alt="Avatar of gislikon"> gislikon
+			</a><br/>
+			Gísli Konráðsson
+		</td>
+		<td>Gisli.games </td>
+		<td><a href="https://twitter.com/gislikonradsson">gislikonradsson</a></td>
+		<td>Reykjavik Iceland</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -9129,19 +9129,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>695</td>
 		<td>
-			<a href="https://github.com/gislikon">
-				<img src="https://avatars.githubusercontent.com/u/5355859?s=72&u=8da1bd12b5670a8d93221c6412dc75fc2a15111a&v=4" width="24" alt="Avatar of gislikon"> gislikon
-			</a><br/>
-			Gísli Konráðsson
-		</td>
-		<td>Gisli.games </td>
-		<td><a href="https://twitter.com/gislikonradsson">gislikonradsson</a></td>
-		<td>Reykjavik Iceland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>696</td>
-		<td>
 			<a href="https://github.com/skulithor94">
 				<img src="https://avatars.githubusercontent.com/u/9977630?s=72&u=9b512525ed009b0d69283e4e6621e56c68dd945d&v=4" width="24" alt="Avatar of skulithor94"> skulithor94
 			</a><br/>
@@ -9153,7 +9140,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/ltgorm">
 				<img src="https://avatars.githubusercontent.com/u/5746218?s=72&u=ef105cbabe782c902334c2472add8e9f01eaa1f2&v=4" width="24" alt="Avatar of ltgorm"> ltgorm
@@ -9166,7 +9153,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/G0ldR0ger">
 				<img src="https://avatars.githubusercontent.com/u/18560811?s=72&u=a4fe095315d51c2962664f72611d16c3d53d7138&v=4" width="24" alt="Avatar of G0ldR0ger"> G0ldR0ger
@@ -9179,7 +9166,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/sigurdur">
 				<img src="https://avatars.githubusercontent.com/u/37927?s=72&v=4" width="24" alt="Avatar of sigurdur"> sigurdur
@@ -9192,7 +9179,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/snorrid">
 				<img src="https://avatars.githubusercontent.com/u/524958?s=72&u=93510a49d53758f1874a87a7e7c64187b1d7b68d&v=4" width="24" alt="Avatar of snorrid"> snorrid
@@ -9205,7 +9192,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/snarpur">
 				<img src="https://avatars.githubusercontent.com/u/282282?s=72&u=0cc881ac85880aba4fd1b7bb7cc8c3617d4da920&v=4" width="24" alt="Avatar of snarpur"> snarpur
@@ -9218,7 +9205,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/SmariF89">
 				<img src="https://avatars.githubusercontent.com/u/24225052?s=72&u=7536736fd694630ecf86a513576ff52a74fa641d&v=4" width="24" alt="Avatar of SmariF89"> SmariF89
@@ -9231,7 +9218,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/stebbi36">
 				<img src="https://avatars.githubusercontent.com/u/7865660?s=72&u=f6421b4478ad7bdabdea8e557d4dc5e3b596d813&v=4" width="24" alt="Avatar of stebbi36"> stebbi36
@@ -9244,7 +9231,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/sveinng">
 				<img src="https://avatars.githubusercontent.com/u/3451030?s=72&u=e39a91f7ab40e6ed99c4868c7db1ada91b0f0650&v=4" width="24" alt="Avatar of sveinng"> sveinng
@@ -9257,7 +9244,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/BjarniThor">
 				<img src="https://avatars.githubusercontent.com/u/1173497?s=72&v=4" width="24" alt="Avatar of BjarniThor"> BjarniThor
@@ -9270,7 +9257,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/aukaost">
 				<img src="https://avatars.githubusercontent.com/u/1196773?s=72&v=4" width="24" alt="Avatar of aukaost"> aukaost
@@ -9283,7 +9270,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/Robfh">
 				<img src="https://avatars.githubusercontent.com/u/70178894?s=72&v=4" width="24" alt="Avatar of Robfh"> Robfh
@@ -9296,7 +9283,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/PallFreyr">
 				<img src="https://avatars.githubusercontent.com/u/72401713?s=72&u=4fdba28f28640ad44b6f0bd21def511f9992ffb6&v=4" width="24" alt="Avatar of PallFreyr"> PallFreyr
@@ -9309,7 +9296,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/ivanbjarni">
 				<img src="https://avatars.githubusercontent.com/u/5843526?s=72&v=4" width="24" alt="Avatar of ivanbjarni"> ivanbjarni
@@ -9322,7 +9309,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/egillah">
 				<img src="https://avatars.githubusercontent.com/u/2584672?s=72&u=b7d7f2f24f984590bb33a1f92aac57ec8d0a90a3&v=4" width="24" alt="Avatar of egillah"> egillah
@@ -9335,7 +9322,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/olijens">
 				<img src="https://avatars.githubusercontent.com/u/3739987?s=72&v=4" width="24" alt="Avatar of olijens"> olijens
@@ -9348,7 +9335,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/Arnarinn">
 				<img src="https://avatars.githubusercontent.com/u/8862050?s=72&u=ca9e03bcba2b488ba67e996f2c33240e11fa1095&v=4" width="24" alt="Avatar of Arnarinn"> Arnarinn
@@ -9361,7 +9348,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/toti">
 				<img src="https://avatars.githubusercontent.com/u/41113?s=72&v=4" width="24" alt="Avatar of toti"> toti
@@ -9374,7 +9361,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/steinararnason">
 				<img src="https://avatars.githubusercontent.com/u/5692995?s=72&u=c8a9ad922b153c2f5804175818bd56cc652bf357&v=4" width="24" alt="Avatar of steinararnason"> steinararnason
@@ -9387,7 +9374,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/ingveldur">
 				<img src="https://avatars.githubusercontent.com/u/50528893?s=72&u=46869e989ec20c87810c45c9b5d556f095e54c8d&v=4" width="24" alt="Avatar of ingveldur"> ingveldur
@@ -9400,7 +9387,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/thorgilsv">
 				<img src="https://avatars.githubusercontent.com/u/184926?s=72&u=28eabbe209ee44b9f90b6d94ca9a398a6dcbf79f&v=4" width="24" alt="Avatar of thorgilsv"> thorgilsv
@@ -9413,7 +9400,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/rsk-zz">
 				<img src="https://avatars.githubusercontent.com/u/24003?s=72&v=4" width="24" alt="Avatar of rsk-zz"> rsk-zz
@@ -9426,7 +9413,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/joninaosk">
 				<img src="https://avatars.githubusercontent.com/u/25300864?s=72&v=4" width="24" alt="Avatar of joninaosk"> joninaosk
@@ -9439,7 +9426,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/gudjonss">
 				<img src="https://avatars.githubusercontent.com/u/12254846?s=72&u=eca6d50be74b4445d513d195225d427c19d1b7e0&v=4" width="24" alt="Avatar of gudjonss"> gudjonss
@@ -9452,7 +9439,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/KuroSan">
 				<img src="https://avatars.githubusercontent.com/u/2767358?s=72&v=4" width="24" alt="Avatar of KuroSan"> KuroSan
@@ -9465,7 +9452,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/hjortur">
 				<img src="https://avatars.githubusercontent.com/u/1656267?s=72&u=74bc5cef546accad189bae136b2f3dfca5899c0e&v=4" width="24" alt="Avatar of hjortur"> hjortur
@@ -9478,7 +9465,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/grazerblade">
 				<img src="https://avatars.githubusercontent.com/u/6599256?s=72&u=f404312ee6c8feca2fcd552d92b513cde4ec39d6&v=4" width="24" alt="Avatar of grazerblade"> grazerblade
@@ -9491,7 +9478,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/snaedis88">
 				<img src="https://avatars.githubusercontent.com/u/6606867?s=72&u=6d13f7947928e367920ed9f8bedd2a95b3894542&v=4" width="24" alt="Avatar of snaedis88"> snaedis88
@@ -9504,7 +9491,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/BlueCat9013">
 				<img src="https://avatars.githubusercontent.com/u/74497420?s=72&u=4e0e2280269aa943346d61a458d5e14a3139b00f&v=4" width="24" alt="Avatar of BlueCat9013"> BlueCat9013
@@ -9517,7 +9504,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/hallur">
 				<img src="https://avatars.githubusercontent.com/u/13047089?s=72&v=4" width="24" alt="Avatar of hallur"> hallur
@@ -9530,7 +9517,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/konni">
 				<img src="https://avatars.githubusercontent.com/u/124456?s=72&v=4" width="24" alt="Avatar of konni"> konni
@@ -9543,7 +9530,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/thorgnyr">
 				<img src="https://avatars.githubusercontent.com/u/2998081?s=72&u=027d7bebfeb22ecf38efe21aa93d24b9c0df2f6a&v=4" width="24" alt="Avatar of thorgnyr"> thorgnyr
@@ -9556,7 +9543,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/JordiB">
 				<img src="https://avatars.githubusercontent.com/u/1552801?s=72&v=4" width="24" alt="Avatar of JordiB"> JordiB
@@ -9569,7 +9556,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/athorhallsson">
 				<img src="https://avatars.githubusercontent.com/u/9987775?s=72&u=3519742cb11ca2b011cd1755987100e41cd009f7&v=4" width="24" alt="Avatar of athorhallsson"> athorhallsson
@@ -9582,7 +9569,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/stefanorns">
 				<img src="https://avatars.githubusercontent.com/u/47307272?s=72&u=afbd15ae5d922f484470f4797755b21a53358483&v=4" width="24" alt="Avatar of stefanorns"> stefanorns
@@ -9595,7 +9582,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/aalex315">
 				<img src="https://avatars.githubusercontent.com/u/4905876?s=72&u=8466b5af538532049615ba20bd975cb2590d0f40&v=4" width="24" alt="Avatar of aalex315"> aalex315
@@ -9608,7 +9595,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/brysbra">
 				<img src="https://avatars.githubusercontent.com/u/4086154?s=72&u=1f3cc5865f339110ee9c5ecc8a5bfb0b5c216d0b&v=4" width="24" alt="Avatar of brysbra"> brysbra
@@ -9621,7 +9608,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/kibbi10">
 				<img src="https://avatars.githubusercontent.com/u/3663027?s=72&u=066dbb93fdd8eb3088f9a621e42f12fc48ac5a57&v=4" width="24" alt="Avatar of kibbi10"> kibbi10
@@ -9634,7 +9621,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/thorisson">
 				<img src="https://avatars.githubusercontent.com/u/18423581?s=72&v=4" width="24" alt="Avatar of thorisson"> thorisson
@@ -9647,7 +9634,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/hjalti-thor">
 				<img src="https://avatars.githubusercontent.com/u/8538314?s=72&u=dc2085e51a0104161068bfd75b219ae244c59391&v=4" width="24" alt="Avatar of hjalti-thor"> hjalti-thor
@@ -9660,7 +9647,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/sigurbjornl">
 				<img src="https://avatars.githubusercontent.com/u/4400724?s=72&u=e99c98a09e829ba4e5f45a859e312a27d751fa9e&v=4" width="24" alt="Avatar of sigurbjornl"> sigurbjornl
@@ -9673,7 +9660,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/FabLabSaudarkrokur">
 				<img src="https://avatars.githubusercontent.com/u/71881934?s=72&u=f09a3f7ac23de57d4d15bc5009f29dc553c30f26&v=4" width="24" alt="Avatar of FabLabSaudarkrokur"> FabLabSaudarkrokur
@@ -9686,7 +9673,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/jacek-markowski">
 				<img src="https://avatars.githubusercontent.com/u/3764340?s=72&v=4" width="24" alt="Avatar of jacek-markowski"> jacek-markowski
@@ -9699,7 +9686,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/Venni">
 				<img src="https://avatars.githubusercontent.com/u/238758?s=72&v=4" width="24" alt="Avatar of Venni"> Venni
@@ -9712,7 +9699,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/arnipluseinn">
 				<img src="https://avatars.githubusercontent.com/u/6549287?s=72&u=c6302201e595cb02c159feb1f5570baea71c5422&v=4" width="24" alt="Avatar of arnipluseinn"> arnipluseinn
@@ -9725,7 +9712,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/benediktth">
 				<img src="https://avatars.githubusercontent.com/u/11053671?s=72&u=8599626b9d171a69356162d81b7168911c6b14e9&v=4" width="24" alt="Avatar of benediktth"> benediktth
@@ -9738,7 +9725,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/ehudKafri">
 				<img src="https://avatars.githubusercontent.com/u/25178809?s=72&u=43be1f8f72771ac119826d80cce074965c12414b&v=4" width="24" alt="Avatar of ehudKafri"> ehudKafri
@@ -9751,7 +9738,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/leifursteinn">
 				<img src="https://avatars.githubusercontent.com/u/50595002?s=72&v=4" width="24" alt="Avatar of leifursteinn"> leifursteinn
@@ -9764,7 +9751,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/Snaebjorn">
 				<img src="https://avatars.githubusercontent.com/u/91190?s=72&u=1c388e31c000327ee3b70ccf28939bd7aabb1056&v=4" width="24" alt="Avatar of Snaebjorn"> Snaebjorn
@@ -9777,7 +9764,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/JohannIngi">
 				<img src="https://avatars.githubusercontent.com/u/24223566?s=72&u=0952b68ce5d7a42187f2d046423b80c4ee89f6e7&v=4" width="24" alt="Avatar of JohannIngi"> JohannIngi
@@ -9790,7 +9777,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/gummim">
 				<img src="https://avatars.githubusercontent.com/u/19882061?s=72&u=9f9e780b21265c7372808bd84861b0a46c184ceb&v=4" width="24" alt="Avatar of gummim"> gummim
@@ -9803,7 +9790,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/jonhjul">
 				<img src="https://avatars.githubusercontent.com/u/16760936?s=72&v=4" width="24" alt="Avatar of jonhjul"> jonhjul
@@ -9816,7 +9803,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/oddurad">
 				<img src="https://avatars.githubusercontent.com/u/499390?s=72&u=4f37ee6a58bb70c81f4bc14ba9f03cc67e96659c&v=4" width="24" alt="Avatar of oddurad"> oddurad
@@ -9829,7 +9816,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/JonWallevik">
 				<img src="https://avatars.githubusercontent.com/u/29679321?s=72&u=47cf8e3b47843e7ff9231df06f291d82b08cf7bd&v=4" width="24" alt="Avatar of JonWallevik"> JonWallevik
@@ -9842,7 +9829,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/sjonni">
 				<img src="https://avatars.githubusercontent.com/u/36874?s=72&v=4" width="24" alt="Avatar of sjonni"> sjonni
@@ -9855,7 +9842,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/IndridiArn">
 				<img src="https://avatars.githubusercontent.com/u/25205251?s=72&u=2d8210f4b61049989db70682f40b7c0f49ceadfd&v=4" width="24" alt="Avatar of IndridiArn"> IndridiArn
@@ -9868,7 +9855,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/diddimar">
 				<img src="https://avatars.githubusercontent.com/u/19289986?s=72&u=27ccde5cb660672294be221e3f1d5cf8c48e9152&v=4" width="24" alt="Avatar of diddimar"> diddimar
@@ -9881,7 +9868,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/MichalSurowiec95">
 				<img src="https://avatars.githubusercontent.com/u/117159197?s=72&u=26e9449843a5056198d54bbf63d42f11e2eeb174&v=4" width="24" alt="Avatar of MichalSurowiec95"> MichalSurowiec95
@@ -9894,7 +9881,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/bjornhr">
 				<img src="https://avatars.githubusercontent.com/u/251626?s=72&v=4" width="24" alt="Avatar of bjornhr"> bjornhr
@@ -9907,7 +9894,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/davidelvar">
 				<img src="https://avatars.githubusercontent.com/u/1140754?s=72&u=f14af6b2ac6ba58a8e2b30ae7e06c6abb87fd747&v=4" width="24" alt="Avatar of davidelvar"> davidelvar
@@ -9920,7 +9907,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/haraldurkarls">
 				<img src="https://avatars.githubusercontent.com/u/1774042?s=72&v=4" width="24" alt="Avatar of haraldurkarls"> haraldurkarls
@@ -9933,7 +9920,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/steini96">
 				<img src="https://avatars.githubusercontent.com/u/44548123?s=72&v=4" width="24" alt="Avatar of steini96"> steini96
@@ -9946,7 +9933,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/kristjanvj">
 				<img src="https://avatars.githubusercontent.com/u/220047?s=72&v=4" width="24" alt="Avatar of kristjanvj"> kristjanvj
@@ -9959,7 +9946,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/pavelchen">
 				<img src="https://avatars.githubusercontent.com/u/602983?s=72&v=4" width="24" alt="Avatar of pavelchen"> pavelchen
@@ -9972,7 +9959,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/sbvoxel">
 				<img src="https://avatars.githubusercontent.com/u/151572972?s=72&u=6e7e4a2cd070ed19d4bd08d12a3cc8896331e820&v=4" width="24" alt="Avatar of sbvoxel"> sbvoxel
@@ -9985,7 +9972,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/taylorific">
 				<img src="https://avatars.githubusercontent.com/u/57647141?s=72&u=6a3e46b9ec1334b189b7cbd615d3aecd6c29f21f&v=4" width="24" alt="Avatar of taylorific"> taylorific
@@ -9998,7 +9985,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/Chipcius">
 				<img src="https://avatars.githubusercontent.com/u/1033039?s=72&u=602f9c69667424e1a8f9845552e9390ced9ef4a0&v=4" width="24" alt="Avatar of Chipcius"> Chipcius
@@ -10011,7 +9998,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/birkirbrynjarsson">
 				<img src="https://avatars.githubusercontent.com/u/4587693?s=72&u=5bbd0e96a36f549a09be391a20d0158c9f6c3c20&v=4" width="24" alt="Avatar of birkirbrynjarsson"> birkirbrynjarsson
@@ -10024,7 +10011,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/CyborgPatrick">
 				<img src="https://avatars.githubusercontent.com/u/5400013?s=72&u=32aa2c2637632b7873245584ce3688ca4d249d83&v=4" width="24" alt="Avatar of CyborgPatrick"> CyborgPatrick
@@ -10037,7 +10024,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/thordurhhh">
 				<img src="https://avatars.githubusercontent.com/u/24840451?s=72&u=3d4892cf82723bc7ca3afd76b4454be5346b1858&v=4" width="24" alt="Avatar of thordurhhh"> thordurhhh
@@ -10050,7 +10037,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/kalmanodds">
 				<img src="https://avatars.githubusercontent.com/u/32036953?s=72&u=43c62954441951275fbcdb6b15c214d481870359&v=4" width="24" alt="Avatar of kalmanodds"> kalmanodds
@@ -10063,7 +10050,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/Bjornhall">
 				<img src="https://avatars.githubusercontent.com/u/5439715?s=72&u=ad87a513f3edb3a375729c69d69ba96284c05dde&v=4" width="24" alt="Avatar of Bjornhall"> Bjornhall
@@ -10076,7 +10063,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/neptunus">
 				<img src="https://avatars.githubusercontent.com/u/4912865?s=72&u=7fa2c086d5801602de1ab537f109c86d2741fff4&v=4" width="24" alt="Avatar of neptunus"> neptunus
@@ -10089,7 +10076,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/programm-ingovals">
 				<img src="https://avatars.githubusercontent.com/u/95362847?s=72&u=b7bc4466d03de34a0e6fc6bf0e8ae1f39924d17f&v=4" width="24" alt="Avatar of programm-ingovals"> programm-ingovals
@@ -10102,7 +10089,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/halli21">
 				<img src="https://avatars.githubusercontent.com/u/89973097?s=72&v=4" width="24" alt="Avatar of halli21"> halli21
@@ -10115,7 +10102,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/Snojo">
 				<img src="https://avatars.githubusercontent.com/u/7452043?s=72&u=3184a154103ab0034af9c2b6a4dfa4a3a865175e&v=4" width="24" alt="Avatar of Snojo"> Snojo
@@ -10128,7 +10115,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/Strandor">
 				<img src="https://avatars.githubusercontent.com/u/22420881?s=72&u=d1d190067e4bfc322711329dec6d11272c097a58&v=4" width="24" alt="Avatar of Strandor"> Strandor
@@ -10141,7 +10128,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/OlofH2">
 				<img src="https://avatars.githubusercontent.com/u/163724801?s=72&u=8da80a426a2e29ffb5c7a66983411c02e3a4c4d7&v=4" width="24" alt="Avatar of OlofH2"> OlofH2
@@ -10154,7 +10141,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/huldar">
 				<img src="https://avatars.githubusercontent.com/u/9987929?s=72&u=61d57e41a5901005e25c9b14bc6d6618dd18a032&v=4" width="24" alt="Avatar of huldar"> huldar
@@ -10167,7 +10154,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/gunnarthors">
 				<img src="https://avatars.githubusercontent.com/u/2573340?s=72&v=4" width="24" alt="Avatar of gunnarthors"> gunnarthors
@@ -10180,7 +10167,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/fannarjack">
 				<img src="https://avatars.githubusercontent.com/u/91916518?s=72&u=93435f18124e7965a7339b6d4b065603bfab6846&v=4" width="24" alt="Avatar of fannarjack"> fannarjack
@@ -10193,7 +10180,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/gummistori">
 				<img src="https://avatars.githubusercontent.com/u/5695140?s=72&u=b3f8bc184214e6358632c600da67fe33f25f660b&v=4" width="24" alt="Avatar of gummistori"> gummistori
@@ -10206,7 +10193,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/kjartanandersen">
 				<img src="https://avatars.githubusercontent.com/u/11884127?s=72&u=adc76682924ead3eb6b1d516313767474bef99cc&v=4" width="24" alt="Avatar of kjartanandersen"> kjartanandersen
@@ -10219,7 +10206,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/Mamigako">
 				<img src="https://avatars.githubusercontent.com/u/82115185?s=72&u=353490fbded65584eff788216285836b5313f935&v=4" width="24" alt="Avatar of Mamigako"> Mamigako
@@ -10232,7 +10219,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/alicevisintin">
 				<img src="https://avatars.githubusercontent.com/u/95135067?s=72&v=4" width="24" alt="Avatar of alicevisintin"> alicevisintin
@@ -10245,7 +10232,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/sarnason">
 				<img src="https://avatars.githubusercontent.com/u/2607409?s=72&u=b0bbf7d85bf78110b2a94770ff2bb2b41a4a27d7&v=4" width="24" alt="Avatar of sarnason"> sarnason
@@ -10258,7 +10245,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/RagnarSmari">
 				<img src="https://avatars.githubusercontent.com/u/70661843?s=72&u=39856abd12c79c6a136fd023cfb6dfb7c3711955&v=4" width="24" alt="Avatar of RagnarSmari"> RagnarSmari
@@ -10271,7 +10258,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/surculus12">
 				<img src="https://avatars.githubusercontent.com/u/4906330?s=72&u=277253a512a70b92fb060e36e7ed3a25f7d36c6b&v=4" width="24" alt="Avatar of surculus12"> surculus12
@@ -10284,7 +10271,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/haffinn">
 				<img src="https://avatars.githubusercontent.com/u/5712338?s=72&u=41efcbd6f388ef4d796a53ef76a4e4714d7e6831&v=4" width="24" alt="Avatar of haffinn"> haffinn
@@ -10297,7 +10284,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/darknetehf">
 				<img src="https://avatars.githubusercontent.com/u/143291838?s=72&u=a86c21b07b2b8391682f511327ca85aebc71fc11&v=4" width="24" alt="Avatar of darknetehf"> darknetehf
@@ -10310,7 +10297,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/guillaumemeunier">
 				<img src="https://avatars.githubusercontent.com/u/17547727?s=72&u=81d03badbd18484b8e206f922ce3f8d919074f24&v=4" width="24" alt="Avatar of guillaumemeunier"> guillaumemeunier
@@ -10323,7 +10310,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/gretarmark">
 				<img src="https://avatars.githubusercontent.com/u/26610090?s=72&u=ccd2f028c96f685539886393690275d69be81cba&v=4" width="24" alt="Avatar of gretarmark"> gretarmark
@@ -10336,7 +10323,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/whatahelll">
 				<img src="https://avatars.githubusercontent.com/u/93108700?s=72&v=4" width="24" alt="Avatar of whatahelll"> whatahelll
@@ -10346,6 +10333,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/jakobjs">
+				<img src="https://avatars.githubusercontent.com/u/3522160?s=72&u=3fa034f5ed7984014ee4cb5eb998e8b80202cf0c&v=4" width="24" alt="Avatar of jakobjs"> jakobjs
+			</a><br/>
+			Jakob
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík, Iceland</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11131,19 +11131,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>849</td>
 		<td>
-			<a href="https://github.com/Matvaelastofnun">
-				<img src="https://avatars.githubusercontent.com/u/65292208?s=72&u=08f1f39168e68a7649c68888e9871b57129b8b8b&v=4" width="24" alt="Avatar of Matvaelastofnun"> Matvaelastofnun
-			</a><br/>
-			Matvælastofnun
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selfoss, Iceland</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>850</td>
-		<td>
 			<a href="https://github.com/danlexo">
 				<img src="https://avatars.githubusercontent.com/u/38667342?s=72&u=ee2fc398e37f5902a6a0d67f19589836cad9c536&v=4" width="24" alt="Avatar of danlexo"> danlexo
 			</a><br/>
@@ -11155,7 +11142,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>850</td>
 		<td>
 			<a href="https://github.com/einarmar">
 				<img src="https://avatars.githubusercontent.com/u/795378?s=72&u=dab70d9c2a2ac5f64fda5818a0421070b350160e&v=4" width="24" alt="Avatar of einarmar"> einarmar
@@ -11165,6 +11152,19 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
+			<a href="https://github.com/Matvaelastofnun">
+				<img src="https://avatars.githubusercontent.com/u/65292208?s=72&u=08f1f39168e68a7649c68888e9871b57129b8b8b&v=4" width="24" alt="Avatar of Matvaelastofnun"> Matvaelastofnun
+			</a><br/>
+			Matvælastofnun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Selfoss, Iceland</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11469,32 +11469,6 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 	<tr>
 		<td>875</td>
 		<td>
-			<a href="https://github.com/KolbeinnIn">
-				<img src="https://avatars.githubusercontent.com/u/25320921?s=72&u=b55d895692bc2497bb62823b675f86b9cf4b4b06&v=4" width="24" alt="Avatar of KolbeinnIn"> KolbeinnIn
-			</a><br/>
-			Kolbeinn Ingólfsson
-		</td>
-		<td>Origo Hf </td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>876</td>
-		<td>
-			<a href="https://github.com/agnesjoh">
-				<img src="https://avatars.githubusercontent.com/u/9982888?s=72&u=8fbc0f74ec59fdefa3ccc29484d1234a0dcc3a72&v=4" width="24" alt="Avatar of agnesjoh"> agnesjoh
-			</a><br/>
-			Agnes Jóhannesdóttir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>877</td>
-		<td>
 			<a href="https://github.com/gabriels17">
 				<img src="https://avatars.githubusercontent.com/u/34059125?s=72&u=4d9d52490877f21e8ce0881fb1a40921133e3735&v=4" width="24" alt="Avatar of gabriels17"> gabriels17
 			</a><br/>
@@ -11506,7 +11480,7 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/margretb17">
 				<img src="https://avatars.githubusercontent.com/u/34063291?s=72&u=a0fcc357109ddae59a5da02732b9504cf8b13f73&v=4" width="24" alt="Avatar of margretb17"> margretb17
@@ -11514,6 +11488,32 @@ There are `891 users`  in Iceland. You need at least `3 followers` to be on this
 			Margrét Vala Björgvinsdóttir
 		</td>
 		<td>Reykjavik University </td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/KolbeinnIn">
+				<img src="https://avatars.githubusercontent.com/u/25320921?s=72&u=b55d895692bc2497bb62823b675f86b9cf4b4b06&v=4" width="24" alt="Avatar of KolbeinnIn"> KolbeinnIn
+			</a><br/>
+			Kolbeinn Ingólfsson
+		</td>
+		<td>Origo Hf </td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>878</td>
+		<td>
+			<a href="https://github.com/agnesjoh">
+				<img src="https://avatars.githubusercontent.com/u/9982888?s=72&u=8fbc0f74ec59fdefa3ccc29484d1234a0dcc3a72&v=4" width="24" alt="Avatar of agnesjoh"> agnesjoh
+			</a><br/>
+			Agnes Jóhannesdóttir
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>3</td>
