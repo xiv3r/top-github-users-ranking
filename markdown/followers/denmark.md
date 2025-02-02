@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `number of followers` of users in Denmark on `2025/2/2 8:48 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `number of followers` of users in Denmark on `2025/2/2 8:59 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -8908,6 +8908,19 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 	<tr>
 		<td>678</td>
 		<td>
+			<a href="https://github.com/gimlichael">
+				<img src="https://avatars.githubusercontent.com/u/8550919?s=72&u=77e27c4d235c8a53a91e2936f49474500cd5a8bd&v=4" width="24" alt="Avatar of gimlichael"> gimlichael
+			</a><br/>
+			Michael Mortensen
+		</td>
+		<td>Geekle (@geekleio) </td>
+		<td><a href="https://twitter.com/gimlichael">gimlichael</a></td>
+		<td>Denmark</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
 			<a href="https://github.com/ccontinisio">
 				<img src="https://avatars.githubusercontent.com/u/5457632?s=72&u=987bbb36b813145c7227bd49eda8d56624b88006&v=4" width="24" alt="Avatar of ccontinisio"> ccontinisio
 			</a><br/>
@@ -8919,7 +8932,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/Casperhr">
 				<img src="https://avatars.githubusercontent.com/u/1279756?s=72&u=329f5f61a96680b0685bb67d66d86260008b35e1&v=4" width="24" alt="Avatar of Casperhr"> Casperhr
@@ -8932,7 +8945,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/snakefoot">
 				<img src="https://avatars.githubusercontent.com/u/11509660?s=72&v=4" width="24" alt="Avatar of snakefoot"> snakefoot
@@ -8945,7 +8958,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/erleben">
 				<img src="https://avatars.githubusercontent.com/u/11551723?s=72&u=c5eec6aed0965c28a01e93899aeb5e5d73a8320a&v=4" width="24" alt="Avatar of erleben"> erleben
@@ -8958,7 +8971,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/fredefox">
 				<img src="https://avatars.githubusercontent.com/u/4547733?s=72&v=4" width="24" alt="Avatar of fredefox"> fredefox
@@ -8971,7 +8984,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/panday1995">
 				<img src="https://avatars.githubusercontent.com/u/49300691?s=72&u=3bfbf02a25729a783d05c8986347eaf05aec0b79&v=4" width="24" alt="Avatar of panday1995"> panday1995
@@ -8984,7 +8997,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/czepluch">
 				<img src="https://avatars.githubusercontent.com/u/1026799?s=72&u=0f77004d583d4e1f0cc9964770d5f85508cd6bd7&v=4" width="24" alt="Avatar of czepluch"> czepluch
@@ -8997,7 +9010,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Robotto">
 				<img src="https://avatars.githubusercontent.com/u/596728?s=72&v=4" width="24" alt="Avatar of Robotto"> Robotto
@@ -9010,7 +9023,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/tibor19">
 				<img src="https://avatars.githubusercontent.com/u/3577486?s=72&u=51c73d8f69be736f048449b9fdaa87f53e5b54a5&v=4" width="24" alt="Avatar of tibor19"> tibor19
@@ -9023,7 +9036,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/neo4reo">
 				<img src="https://avatars.githubusercontent.com/u/354575?s=72&v=4" width="24" alt="Avatar of neo4reo"> neo4reo
@@ -9036,7 +9049,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/fpetru">
 				<img src="https://avatars.githubusercontent.com/u/5551796?s=72&u=e23f09d86d20d84cf48f55634e40cc9543673046&v=4" width="24" alt="Avatar of fpetru"> fpetru
@@ -9049,7 +9062,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/amaurremi">
 				<img src="https://avatars.githubusercontent.com/u/394853?s=72&u=7988ffd761537e8c77c2ea796e9c5d1959eceb4e&v=4" width="24" alt="Avatar of amaurremi"> amaurremi
@@ -9062,7 +9075,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/emiln">
 				<img src="https://avatars.githubusercontent.com/u/1078925?s=72&v=4" width="24" alt="Avatar of emiln"> emiln
@@ -9075,7 +9088,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/jacobandresen">
 				<img src="https://avatars.githubusercontent.com/u/15238?s=72&u=34f8587c6ca81fa88ec0420dbca7e634cf0e2011&v=4" width="24" alt="Avatar of jacobandresen"> jacobandresen
@@ -9088,7 +9101,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/jakobwilm">
 				<img src="https://avatars.githubusercontent.com/u/4461208?s=72&v=4" width="24" alt="Avatar of jakobwilm"> jakobwilm
@@ -9101,7 +9114,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/doefler">
 				<img src="https://avatars.githubusercontent.com/u/7951337?s=72&u=3c6c410a140b9a44a5a6c54b1361bcaa0ae7a2ed&v=4" width="24" alt="Avatar of doefler"> doefler
@@ -9114,7 +9127,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/petersuhm">
 				<img src="https://avatars.githubusercontent.com/u/1430546?s=72&u=542703fec298b36fc55b5a9c190ef3fc24cdb115&v=4" width="24" alt="Avatar of petersuhm"> petersuhm
@@ -9127,7 +9140,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/simonklee">
 				<img src="https://avatars.githubusercontent.com/u/52795?s=72&u=e3a7bf728bad7fbb85eaa83548b52f3e95578e65&v=4" width="24" alt="Avatar of simonklee"> simonklee
@@ -9140,7 +9153,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/LasseRegin">
 				<img src="https://avatars.githubusercontent.com/u/7048917?s=72&u=1d8cbf18e7ffe738807cb6798e51ebc5ec825ca8&v=4" width="24" alt="Avatar of LasseRegin"> LasseRegin
@@ -9153,7 +9166,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/jstoone">
 				<img src="https://avatars.githubusercontent.com/u/1711456?s=72&v=4" width="24" alt="Avatar of jstoone"> jstoone
@@ -9166,7 +9179,7 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/michaelmsonne">
 				<img src="https://avatars.githubusercontent.com/u/49366751?s=72&u=c5efbda0d6337c0bb2f02af806f4a8c47ab60b82&v=4" width="24" alt="Avatar of michaelmsonne"> michaelmsonne
@@ -9176,19 +9189,6 @@ There are `933 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>699</td>
-		<td>
-			<a href="https://github.com/gimlichael">
-				<img src="https://avatars.githubusercontent.com/u/8550919?s=72&u=77e27c4d235c8a53a91e2936f49474500cd5a8bd&v=4" width="24" alt="Avatar of gimlichael"> gimlichael
-			</a><br/>
-			Michael Mortensen
-		</td>
-		<td>Geekle (@geekleio) </td>
-		<td><a href="https://twitter.com/gimlichael">gimlichael</a></td>
-		<td>Denmark</td>
 		<td>53</td>
 	</tr>
 	<tr>
