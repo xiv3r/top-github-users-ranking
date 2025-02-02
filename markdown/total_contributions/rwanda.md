@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` and `private contributions` by users in Rwanda on `2025/2/1 11:57 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` and `private contributions` by users in Rwanda on `2025/2/2 12:06 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3342,6 +3342,20 @@ There are `961 users`  in Rwanda. You need at least `7 followers` to be on this 
 	<tr>
 		<td>232</td>
 		<td>
+			<a href="https://github.com/NyLaurent">
+				<img src="https://avatars.githubusercontent.com/u/150799304?s=72&u=124d8c40198848f047c011627f8c4d4efa52ce41&v=4" width="24" alt="Avatar of NyLaurent"> NyLaurent
+			</a><br/>
+			Nyumbayire Laurent
+		</td>
+		<td>Rwanda Coding Academy </td>
+		<td>No Twitter Username</td>
+		<td>Kigali,Rwanda</td>
+		<td>565</td>
+		<td>842</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a href="https://github.com/tuyishimehono">
 				<img src="https://avatars.githubusercontent.com/u/165778437?s=72&v=4" width="24" alt="Avatar of tuyishimehono"> tuyishimehono
 			</a><br/>
@@ -3352,20 +3366,6 @@ There are `961 users`  in Rwanda. You need at least `7 followers` to be on this 
 		<td>Kigali, Rwanda</td>
 		<td>329</td>
 		<td>842</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/NyLaurent">
-				<img src="https://avatars.githubusercontent.com/u/150799304?s=72&u=124d8c40198848f047c011627f8c4d4efa52ce41&v=4" width="24" alt="Avatar of NyLaurent"> NyLaurent
-			</a><br/>
-			Nyumbayire Laurent
-		</td>
-		<td>Rwanda Coding Academy </td>
-		<td>No Twitter Username</td>
-		<td>Kigali,Rwanda</td>
-		<td>565</td>
-		<td>841</td>
 	</tr>
 	<tr>
 		<td>234</td>
