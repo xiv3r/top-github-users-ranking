@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `number of followers` of users in Maldives on `2025/2/1 4:25 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `number of followers` of users in Maldives on `2025/2/3 11:24 AM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `644 users`  in Maldives. You need at least `0 followers` to be on this list.
+There are `645 users`  in Maldives. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Wamco </td>
 		<td>No Twitter Username</td>
 		<td>Male, Maldives</td>
-		<td>202</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -185,6 +185,19 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/fauzaanu">
+				<img src="https://avatars.githubusercontent.com/u/86226565?s=72&u=b2b5cbee9cde1c010d59c380bcad23b4647394be&v=4" width="24" alt="Avatar of fauzaanu"> fauzaanu
+			</a><br/>
+			Fauzaan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fauzaanu">fauzaanu</a></td>
+		<td>Maldives</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/Z3d0X">
 				<img src="https://avatars.githubusercontent.com/u/75579178?s=72&v=4" width="24" alt="Avatar of Z3d0X"> Z3d0X
 			</a><br/>
@@ -194,19 +207,6 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/Z3d0X">Z3d0X</a></td>
 		<td>Maldives</td>
 		<td>71</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/fauzaanu">
-				<img src="https://avatars.githubusercontent.com/u/86226565?s=72&u=b2b5cbee9cde1c010d59c380bcad23b4647394be&v=4" width="24" alt="Avatar of fauzaanu"> fauzaanu
-			</a><br/>
-			Fauzaan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fauzaanu">fauzaanu</a></td>
-		<td>Maldives</td>
-		<td>70</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/saiikzz">saiikzz</a></td>
 		<td>Malaysia / Maldives</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -601,6 +601,19 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/Raais">
+				<img src="https://avatars.githubusercontent.com/u/64605172?s=72&u=67c295b741a37a873f112379fb364e8d571f65a7&v=4" width="24" alt="Avatar of Raais"> Raais
+			</a><br/>
+			No Name
+		</td>
+		<td>@mtcc-plc </td>
+		<td>No Twitter Username</td>
+		<td>Malé, Maldives</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/musaid">
 				<img src="https://avatars.githubusercontent.com/u/637461?s=72&v=4" width="24" alt="Avatar of musaid"> musaid
 			</a><br/>
@@ -612,7 +625,7 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/xihuny">
 				<img src="https://avatars.githubusercontent.com/u/16811618?s=72&u=eca65f55197477b6d9cc6851f2ab78d9e15287ce&v=4" width="24" alt="Avatar of xihuny"> xihuny
@@ -625,7 +638,7 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/yaambe">
 				<img src="https://avatars.githubusercontent.com/u/101970278?s=72&u=a3b34afd8bb68af83b0c1f9efda4bbab12a291b4&v=4" width="24" alt="Avatar of yaambe"> yaambe
@@ -635,19 +648,6 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Javaabu </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/Raais">
-				<img src="https://avatars.githubusercontent.com/u/64605172?s=72&u=67c295b741a37a873f112379fb364e8d571f65a7&v=4" width="24" alt="Avatar of Raais"> Raais
-			</a><br/>
-			No Name
-		</td>
-		<td>@mtcc-plc </td>
-		<td>No Twitter Username</td>
-		<td>Malé, Maldives</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -1072,7 +1072,7 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 			<a href="https://github.com/WovenCoast">
 				<img src="https://avatars.githubusercontent.com/u/44475239?s=72&u=0e19898477ffd8668122d764ed71926410c2fcc6&v=4" width="24" alt="Avatar of WovenCoast"> WovenCoast
 			</a><br/>
-			WovenCoast14782
+			FlameXode
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/WovenCoast">WovenCoast</a></td>
@@ -3760,19 +3760,6 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>282</td>
 		<td>
-			<a href="https://github.com/Anoo555">
-				<img src="https://avatars.githubusercontent.com/u/39137780?s=72&v=4" width="24" alt="Avatar of Anoo555"> Anoo555
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MohamedAnoof2">MohamedAnoof2</a></td>
-		<td>Maldives</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
 			<a href="https://github.com/asirux">
 				<img src="https://avatars.githubusercontent.com/u/10154266?s=72&u=7366d9f24ae93b5541f853d9df11b5035421eee5&v=4" width="24" alt="Avatar of asirux"> asirux
 			</a><br/>
@@ -3780,6 +3767,19 @@ There are `644 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/asirux">asirux</a></td>
+		<td>Maldives</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/Anoo555">
+				<img src="https://avatars.githubusercontent.com/u/39137780?s=72&v=4" width="24" alt="Avatar of Anoo555"> Anoo555
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MohamedAnoof2">MohamedAnoof2</a></td>
 		<td>Maldives</td>
 		<td>1</td>
 	</tr>
