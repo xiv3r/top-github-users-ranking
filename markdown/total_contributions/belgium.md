@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium">
 </a>
 
-The `public contributions` and `private contributions` by users in Belgium on `2025/2/4 10:48 AM UTC`. This list contains users from `Belgium` and cities `Antwerp` `Brussels` `Ghent` `Bruges` `Leuven` `Liège` `Namur`.
+The `public contributions` and `private contributions` by users in Belgium on `2025/2/4 10:59 AM UTC`. This list contains users from `Belgium` and cities `Antwerp` `Brussels` `Ghent` `Bruges` `Leuven` `Liège` `Namur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -424,8 +424,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Ghent University - Idlab,<br/>Imec<br/></td>
 		<td><a href="https://twitter.com/HeyPieter">HeyPieter</a></td>
 		<td>Belgium</td>
-		<td>3949</td>
-		<td>3949</td>
+		<td>3950</td>
+		<td>3950</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -620,8 +620,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/cmoulliard">cmoulliard</a></td>
 		<td>Belgium</td>
-		<td>3117</td>
-		<td>3117</td>
+		<td>3118</td>
+		<td>3118</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -859,7 +859,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td><a href="https://twitter.com/maximio_">maximio_</a></td>
 		<td>Ghent, Belgium</td>
 		<td>6</td>
-		<td>2558</td>
+		<td>2559</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1040,8 +1040,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>@juliacomputing </td>
 		<td>No Twitter Username</td>
 		<td>Belgium</td>
-		<td>2276</td>
-		<td>2298</td>
+		<td>2278</td>
+		<td>2300</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1530,8 +1530,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Vito Remote Sensing </td>
 		<td><a href="https://twitter.com/soxofaan">soxofaan</a></td>
 		<td>Belgium</td>
-		<td>1505</td>
-		<td>1625</td>
+		<td>1506</td>
+		<td>1626</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1601,7 +1601,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td><a href="https://twitter.com/Martichouu">Martichouu</a></td>
 		<td>Belgium</td>
 		<td>378</td>
-		<td>1576</td>
+		<td>1577</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1614,8 +1614,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Belgium</td>
-		<td>1569</td>
 		<td>1571</td>
+		<td>1573</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1965,7 +1965,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Leuven, Belgium</td>
 		<td>16</td>
-		<td>1331</td>
+		<td>1332</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2180,6 +2180,20 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/xivk">
+				<img src="https://avatars.githubusercontent.com/u/1128068?s=72&u=3bace7c57e23108d1e3c05d2f8511079536364f9&v=4" width="24" alt="Avatar of xivk"> xivk
+			</a><br/>
+			Ben Abelshausen
+		</td>
+		<td>@anyways-open  </td>
+		<td>No Twitter Username</td>
+		<td>Belgium</td>
+		<td>55</td>
+		<td>1224</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/andreasevers">
 				<img src="https://avatars.githubusercontent.com/u/6663110?s=72&u=32f473c979681f8377bc5cfef143f22e43b27e0f&v=4" width="24" alt="Avatar of andreasevers"> andreasevers
 			</a><br/>
@@ -2190,20 +2204,6 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Brussels, Belgium</td>
 		<td>3</td>
 		<td>1224</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/xivk">
-				<img src="https://avatars.githubusercontent.com/u/1128068?s=72&u=3bace7c57e23108d1e3c05d2f8511079536364f9&v=4" width="24" alt="Avatar of xivk"> xivk
-			</a><br/>
-			Ben Abelshausen
-		</td>
-		<td>@anyways-open  </td>
-		<td>No Twitter Username</td>
-		<td>Belgium</td>
-		<td>55</td>
-		<td>1223</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2300,8 +2300,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Ghent University Library </td>
 		<td>No Twitter Username</td>
 		<td>Ghent, Belgium</td>
-		<td>1168</td>
-		<td>1168</td>
+		<td>1169</td>
+		<td>1169</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -4428,8 +4428,8 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/qkaiser">qkaiser</a></td>
 		<td>Belgium</td>
-		<td>522</td>
-		<td>522</td>
+		<td>523</td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>310</td>
@@ -5316,6 +5316,20 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 	<tr>
 		<td>373</td>
 		<td>
+			<a href="https://github.com/DylanVanAssche">
+				<img src="https://avatars.githubusercontent.com/u/4999159?s=72&u=ab24bc40ca08fe15f8559716512de77e5c918148&v=4" width="24" alt="Avatar of DylanVanAssche"> DylanVanAssche
+			</a><br/>
+			Dylan Van Assche
+		</td>
+		<td>Phd Researcher @idlabresearch Ghent<br/></td>
+		<td><a href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
+		<td>Belgium</td>
+		<td>367</td>
+		<td>369</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
 			<a href="https://github.com/lucAsC87">
 				<img src="https://avatars.githubusercontent.com/u/88933380?s=72&u=f32d64247d46afe87d19d2fdd75016c15ec7858d&v=4" width="24" alt="Avatar of lucAsC87"> lucAsC87
 			</a><br/>
@@ -5326,20 +5340,6 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Brussels, Belgium</td>
 		<td>71</td>
 		<td>369</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/DylanVanAssche">
-				<img src="https://avatars.githubusercontent.com/u/4999159?s=72&u=ab24bc40ca08fe15f8559716512de77e5c918148&v=4" width="24" alt="Avatar of DylanVanAssche"> DylanVanAssche
-			</a><br/>
-			Dylan Van Assche
-		</td>
-		<td>Phd Researcher @idlabresearch Ghent<br/></td>
-		<td><a href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
-		<td>Belgium</td>
-		<td>362</td>
-		<td>364</td>
 	</tr>
 	<tr>
 		<td>375</td>

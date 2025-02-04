@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium">
 </a>
 
-The `public contributions` by users in Belgium on `2025/2/4 10:48 AM UTC`. This list contains users from `Belgium` and cities `Antwerp` `Brussels` `Ghent` `Bruges` `Leuven` `Liège` `Namur`.
+The `public contributions` by users in Belgium on `2025/2/4 10:59 AM UTC`. This list contains users from `Belgium` and cities `Antwerp` `Brussels` `Ghent` `Bruges` `Leuven` `Liège` `Namur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -258,7 +258,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Ghent University - Idlab,<br/>Imec<br/></td>
 		<td><a href="https://twitter.com/HeyPieter">HeyPieter</a></td>
 		<td>Belgium</td>
-		<td>3949</td>
+		<td>3950</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,7 +284,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/cmoulliard">cmoulliard</a></td>
 		<td>Belgium</td>
-		<td>3117</td>
+		<td>3118</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -453,7 +453,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>@juliacomputing </td>
 		<td>No Twitter Username</td>
 		<td>Belgium</td>
-		<td>2276</td>
+		<td>2278</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -687,7 +687,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Belgium</td>
-		<td>1569</td>
+		<td>1571</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -713,7 +713,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Vito Remote Sensing </td>
 		<td><a href="https://twitter.com/soxofaan">soxofaan</a></td>
 		<td>Belgium</td>
-		<td>1505</td>
+		<td>1506</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -973,7 +973,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>Ghent University Library </td>
 		<td>No Twitter Username</td>
 		<td>Ghent, Belgium</td>
-		<td>1168</td>
+		<td>1169</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -2135,6 +2135,19 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 	<tr>
 		<td>157</td>
 		<td>
+			<a href="https://github.com/qkaiser">
+				<img src="https://avatars.githubusercontent.com/u/569494?s=72&u=e3e38a72510b4dfa037b8083ea44755cb8e5b7be&v=4" width="24" alt="Avatar of qkaiser"> qkaiser
+			</a><br/>
+			Quentin Kaiser
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/qkaiser">qkaiser</a></td>
+		<td>Belgium</td>
+		<td>523</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
 			<a href="https://github.com/cristianvasquez">
 				<img src="https://avatars.githubusercontent.com/u/361916?s=72&u=b78eb1003cc9bf3afab90f6a14cc5eaf14ca76e7&v=4" width="24" alt="Avatar of cristianvasquez"> cristianvasquez
 			</a><br/>
@@ -2146,7 +2159,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>523</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/tomkerkhove">
 				<img src="https://avatars.githubusercontent.com/u/4345663?s=72&u=39dbc52089a9c2149156ebba8f1ea58d5ea0125f&v=4" width="24" alt="Avatar of tomkerkhove"> tomkerkhove
@@ -2155,19 +2168,6 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		</td>
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/TomKerkhove">TomKerkhove</a></td>
-		<td>Belgium</td>
-		<td>522</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/qkaiser">
-				<img src="https://avatars.githubusercontent.com/u/569494?s=72&u=e3e38a72510b4dfa037b8083ea44755cb8e5b7be&v=4" width="24" alt="Avatar of qkaiser"> qkaiser
-			</a><br/>
-			Quentin Kaiser
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/qkaiser">qkaiser</a></td>
 		<td>Belgium</td>
 		<td>522</td>
 	</tr>
@@ -2733,6 +2733,19 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 	<tr>
 		<td>203</td>
 		<td>
+			<a href="https://github.com/DylanVanAssche">
+				<img src="https://avatars.githubusercontent.com/u/4999159?s=72&u=ab24bc40ca08fe15f8559716512de77e5c918148&v=4" width="24" alt="Avatar of DylanVanAssche"> DylanVanAssche
+			</a><br/>
+			Dylan Van Assche
+		</td>
+		<td>Phd Researcher @idlabresearch Ghent<br/></td>
+		<td><a href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
+		<td>Belgium</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a href="https://github.com/JeroenMols">
 				<img src="https://avatars.githubusercontent.com/u/6319637?s=72&u=092bd0639584cfcfe7d06a7019457da268d4d5e6&v=4" width="24" alt="Avatar of JeroenMols"> JeroenMols
 			</a><br/>
@@ -2744,7 +2757,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>365</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/timvw">
 				<img src="https://avatars.githubusercontent.com/u/115225?s=72&u=5f711a61dad409bc5f327554cadebddb229018a6&v=4" width="24" alt="Avatar of timvw"> timvw
@@ -2757,7 +2770,7 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>364</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/jlaine">
 				<img src="https://avatars.githubusercontent.com/u/1567624?s=72&v=4" width="24" alt="Avatar of jlaine"> jlaine
@@ -2767,19 +2780,6 @@ There are `951 users`  in Belgium. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JeremyLaine">JeremyLaine</a></td>
 		<td>Brussels</td>
-		<td>362</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/DylanVanAssche">
-				<img src="https://avatars.githubusercontent.com/u/4999159?s=72&u=ab24bc40ca08fe15f8559716512de77e5c918148&v=4" width="24" alt="Avatar of DylanVanAssche"> DylanVanAssche
-			</a><br/>
-			Dylan Van Assche
-		</td>
-		<td>Phd Researcher @idlabresearch Ghent<br/></td>
-		<td><a href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
-		<td>Belgium</td>
 		<td>362</td>
 	</tr>
 	<tr>
