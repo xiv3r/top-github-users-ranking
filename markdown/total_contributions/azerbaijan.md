@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` and `private contributions` by users in Azerbaijan on `2025/2/8 4:48 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` and `private contributions` by users in Azerbaijan on `2025/2/8 4:57 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `983 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>29088324</td>
-		<td>29088324</td>
+		<td>29089324</td>
+		<td>29089324</td>
 	</tr>
 	<tr>
 		<td>2</td>
