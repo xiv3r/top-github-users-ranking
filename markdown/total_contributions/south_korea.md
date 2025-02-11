@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/2/10 11:58 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/2/11 12:08 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -7696,6 +7696,20 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 	<tr>
 		<td>543</td>
 		<td>
+			<a href="https://github.com/stevenkim18">
+				<img src="https://avatars.githubusercontent.com/u/35272802?s=72&u=e961708c9b0664e56f1962ed98e1f8aaedb07df8&v=4" width="24" alt="Avatar of stevenkim18"> stevenkim18
+			</a><br/>
+			김승우
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul, Korea</td>
+		<td>159</td>
+		<td>267</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
 			<a href="https://github.com/daekeun-ml">
 				<img src="https://avatars.githubusercontent.com/u/56706095?s=72&u=c08de76391fe7537948ed645aae0fc3d5a623429&v=4" width="24" alt="Avatar of daekeun-ml"> daekeun-ml
 			</a><br/>
@@ -7705,20 +7719,6 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
 		<td>266</td>
-		<td>266</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/stevenkim18">
-				<img src="https://avatars.githubusercontent.com/u/35272802?s=72&u=e961708c9b0664e56f1962ed98e1f8aaedb07df8&v=4" width="24" alt="Avatar of stevenkim18"> stevenkim18
-			</a><br/>
-			김승우
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul, Korea</td>
-		<td>158</td>
 		<td>266</td>
 	</tr>
 	<tr>
@@ -8452,6 +8452,20 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 	<tr>
 		<td>597</td>
 		<td>
+			<a href="https://github.com/ruby-kim">
+				<img src="https://avatars.githubusercontent.com/u/38516906?s=72&u=74e162390c2860c7802917d5aa5b6676fa9a8f1f&v=4" width="24" alt="Avatar of ruby-kim"> ruby-kim
+			</a><br/>
+			Ruby Kim
+		</td>
+		<td>@sibelhealth </td>
+		<td>No Twitter Username</td>
+		<td>Seoul, Republic of Korea</td>
+		<td>29</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
 			<a href="https://github.com/ssut">
 				<img src="https://avatars.githubusercontent.com/u/2366668?s=72&u=ab3ed7cb95219529d6edba555d43d0332a6d3512&v=4" width="24" alt="Avatar of ssut"> ssut
 			</a><br/>
@@ -8462,20 +8476,6 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 		<td>Seoul, Republic of Korea</td>
 		<td>182</td>
 		<td>182</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a href="https://github.com/ruby-kim">
-				<img src="https://avatars.githubusercontent.com/u/38516906?s=72&u=74e162390c2860c7802917d5aa5b6676fa9a8f1f&v=4" width="24" alt="Avatar of ruby-kim"> ruby-kim
-			</a><br/>
-			Ruby Kim
-		</td>
-		<td>@sibelhealth </td>
-		<td>No Twitter Username</td>
-		<td>Seoul, Republic of Korea</td>
-		<td>29</td>
-		<td>181</td>
 	</tr>
 	<tr>
 		<td>599</td>
@@ -11280,20 +11280,6 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 	<tr>
 		<td>799</td>
 		<td>
-			<a href="https://github.com/O-O-wl">
-				<img src="https://avatars.githubusercontent.com/u/39197978?s=72&u=4222c73585ea60f2522844e2af1a158888d92537&v=4" width="24" alt="Avatar of O-O-wl"> O-O-wl
-			</a><br/>
-			이동영
-		</td>
-		<td>@naverz </td>
-		<td>No Twitter Username</td>
-		<td>Seoul, South Korea</td>
-		<td>6</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>800</td>
-		<td>
 			<a href="https://github.com/BAE-JI-WANG">
 				<img src="https://avatars.githubusercontent.com/u/59479926?s=72&u=6f7748227c9fb33cbb55351e161f80990192cbf8&v=4" width="24" alt="Avatar of BAE-JI-WANG"> BAE-JI-WANG
 			</a><br/>
@@ -11303,6 +11289,20 @@ There are `983 users`  in South Korea. You need at least `103 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
 		<td>14</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>800</td>
+		<td>
+			<a href="https://github.com/O-O-wl">
+				<img src="https://avatars.githubusercontent.com/u/39197978?s=72&u=4222c73585ea60f2522844e2af1a158888d92537&v=4" width="24" alt="Avatar of O-O-wl"> O-O-wl
+			</a><br/>
+			이동영
+		</td>
+		<td>@naverz </td>
+		<td>No Twitter Username</td>
+		<td>Seoul, South Korea</td>
+		<td>6</td>
 		<td>28</td>
 	</tr>
 	<tr>
