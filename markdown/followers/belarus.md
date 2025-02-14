@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" alt="Belarus">
 </a>
 
-The `number of followers` of users in Belarus on `2025/2/14 11:39 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
+The `number of followers` of users in Belarus on `2025/2/14 11:47 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1394,6 +1394,19 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>100</td>
 		<td>
+			<a href="https://github.com/hocinemahni">
+				<img src="https://avatars.githubusercontent.com/u/144837257?s=72&u=304a038e27dc2b48fd8c4614fdbe32c1f99a2540&v=4" width="24" alt="Avatar of hocinemahni"> hocinemahni
+			</a><br/>
+			hocine_mahni
+		</td>
+		<td>Ensta | Institut Polytechnique<br/>De<br/>Paris<br/>|<br/>Lab-sticc<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Brest France</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
 			<a href="https://github.com/romainquellec">
 				<img src="https://avatars.githubusercontent.com/u/1150703?s=72&u=6d123a9d81674d70c739f4bef4ee80183fa0faa9&v=4" width="24" alt="Avatar of romainquellec"> romainquellec
 			</a><br/>
@@ -1405,7 +1418,7 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/pvthinker">
 				<img src="https://avatars.githubusercontent.com/u/13450348?s=72&u=2225b3079fe5deea4935d51790f2f36330d74ffa&v=4" width="24" alt="Avatar of pvthinker"> pvthinker
@@ -1418,7 +1431,7 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/fxpw">
 				<img src="https://avatars.githubusercontent.com/u/84588274?s=72&u=f330588f98bb3d1c8c70aea231c40df745593e20&v=4" width="24" alt="Avatar of fxpw"> fxpw
@@ -1431,7 +1444,7 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/saltys4lt">
 				<img src="https://avatars.githubusercontent.com/u/97908985?s=72&u=c157365e742a3f47b0a5f11fda691b8a0eda4498&v=4" width="24" alt="Avatar of saltys4lt"> saltys4lt
@@ -1441,19 +1454,6 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>belarus</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/hocinemahni">
-				<img src="https://avatars.githubusercontent.com/u/144837257?s=72&u=304a038e27dc2b48fd8c4614fdbe32c1f99a2540&v=4" width="24" alt="Avatar of hocinemahni"> hocinemahni
-			</a><br/>
-			hocine_mahni
-		</td>
-		<td>Ensta | Institut Polytechnique<br/>De<br/>Paris<br/>|<br/>Lab-sticc<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Brest France</td>
 		<td>53</td>
 	</tr>
 	<tr>
