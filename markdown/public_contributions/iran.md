@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Iran">
 </a>
 
-The `public contributions` by users in Iran on `2025/2/15 2:00 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
+The `public contributions` by users in Iran on `2025/2/15 2:10 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>Shiraz </td>
 		<td><a href="https://twitter.com/bugbounted">bugbounted</a></td>
 		<td>Iran (Islamic Republic of)</td>
-		<td>882732</td>
+		<td>882747</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -180,7 +180,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mashhad, Razavi Khorasan, Iran</td>
-		<td>6025</td>
+		<td>6027</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -752,7 +752,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>Thecode764 </td>
 		<td>No Twitter Username</td>
 		<td>/Home/Earth/Iran/Gilan/Rasht</td>
-		<td>761</td>
+		<td>758</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -4709,6 +4709,19 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 	<tr>
 		<td>355</td>
 		<td>
+			<a href="https://github.com/ZaraSdt7">
+				<img src="https://avatars.githubusercontent.com/u/74092469?s=72&u=46f39a53c3403e9ecb1901ec78d8b29a591136b0&v=4" width="24" alt="Avatar of ZaraSdt7"> ZaraSdt7
+			</a><br/>
+			zara_sdt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iran Mazandaran</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
 			<a href="https://github.com/Hkarimi561">
 				<img src="https://avatars.githubusercontent.com/u/16588927?s=72&u=af6ba13b4e647165f04436de74e225aea3368c45&v=4" width="24" alt="Avatar of Hkarimi561"> Hkarimi561
 			</a><br/>
@@ -4720,7 +4733,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/alitaami">
 				<img src="https://avatars.githubusercontent.com/u/116227297?s=72&u=e5f1fad5894436e19a25496ad5ec4958309ee19c&v=4" width="24" alt="Avatar of alitaami"> alitaami
@@ -4733,7 +4746,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/aminabdiii">
 				<img src="https://avatars.githubusercontent.com/u/137208740?s=72&u=ccebb6fb8b74a2132cb83cd1e1c3481765093f88&v=4" width="24" alt="Avatar of aminabdiii"> aminabdiii
@@ -4746,7 +4759,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/Hamzeh01">
 				<img src="https://avatars.githubusercontent.com/u/89333191?s=72&u=64d8d56b470a67d09ef9317f3cda1b9a72b99b11&v=4" width="24" alt="Avatar of Hamzeh01"> Hamzeh01
@@ -4759,7 +4772,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/CenaBabajannjhad">
 				<img src="https://avatars.githubusercontent.com/u/160250923?s=72&u=47f1857aacb8b6352a4f35f436d8f4aeb5c4e7df&v=4" width="24" alt="Avatar of CenaBabajannjhad"> CenaBabajannjhad
@@ -4769,19 +4782,6 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>iran-Mazandaran</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/ZaraSdt7">
-				<img src="https://avatars.githubusercontent.com/u/74092469?s=72&u=46f39a53c3403e9ecb1901ec78d8b29a591136b0&v=4" width="24" alt="Avatar of ZaraSdt7"> ZaraSdt7
-			</a><br/>
-			zara_sdt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iran Mazandaran</td>
 		<td>115</td>
 	</tr>
 	<tr>
@@ -7161,7 +7161,7 @@ There are `983 users`  in Iran. You need at least `77 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mehranlip">mehranlip</a></td>
 		<td>Iran</td>
-		<td>45</td>
+		<td>46</td>
 	</tr>
 	<tr>
 		<td>544</td>
