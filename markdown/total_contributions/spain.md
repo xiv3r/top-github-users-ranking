@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` and `private contributions` by users in Spain on `2025/2/17 11:59 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` and `private contributions` by users in Spain on `2025/2/18 12:08 AM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1559,7 +1559,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td><a href="https://twitter.com/rocboronat">rocboronat</a></td>
 		<td>Barcelona</td>
 		<td>31</td>
-		<td>1952</td>
+		<td>1953</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -6618,6 +6618,20 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 	<tr>
 		<td>466</td>
 		<td>
+			<a href="https://github.com/chicoxyzzy">
+				<img src="https://avatars.githubusercontent.com/u/1507086?s=72&u=69d99db5d266b70ea60e9e58f7fc238e31207ab4&v=4" width="24" alt="Avatar of chicoxyzzy"> chicoxyzzy
+			</a><br/>
+			Sergey Rubanov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chicoxyzzy">chicoxyzzy</a></td>
+		<td>Barcelona</td>
+		<td>186</td>
+		<td>336</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
 			<a href="https://github.com/mrm8488">
 				<img src="https://avatars.githubusercontent.com/u/3653789?s=72&u=7436d47b9627b61b8225b7741d5e37910283f536&v=4" width="24" alt="Avatar of mrm8488"> mrm8488
 			</a><br/>
@@ -6630,7 +6644,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>336</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/serbelga">
 				<img src="https://avatars.githubusercontent.com/u/26246782?s=72&u=fa67cf2c73afba8c5247059e28539722f7b0d71a&v=4" width="24" alt="Avatar of serbelga"> serbelga
@@ -6644,7 +6658,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>336</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/wulfland">
 				<img src="https://avatars.githubusercontent.com/u/5276337?s=72&u=a9bd862883f0ff06bd55e6b5af3e96b3c24194b7&v=4" width="24" alt="Avatar of wulfland"> wulfland
@@ -6656,20 +6670,6 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>Germany, Spain</td>
 		<td>221</td>
 		<td>336</td>
-	</tr>
-	<tr>
-		<td>469</td>
-		<td>
-			<a href="https://github.com/chicoxyzzy">
-				<img src="https://avatars.githubusercontent.com/u/1507086?s=72&u=69d99db5d266b70ea60e9e58f7fc238e31207ab4&v=4" width="24" alt="Avatar of chicoxyzzy"> chicoxyzzy
-			</a><br/>
-			Sergey Rubanov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chicoxyzzy">chicoxyzzy</a></td>
-		<td>Barcelona</td>
-		<td>186</td>
-		<td>335</td>
 	</tr>
 	<tr>
 		<td>470</td>
