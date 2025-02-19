@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/2/17 9:17 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/2/19 5:51 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@scmgroupspa </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>67</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -399,7 +399,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 			Andrea Cecchini
 		</td>
 		<td>Titanka </td>
-		<td><a href="https://twitter.com/agavss">agavss</a></td>
+		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>4</td>
 	</tr>
