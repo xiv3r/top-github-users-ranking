@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` and `private contributions` by users in Italy on `2025/2/20 10:51 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` and `private contributions` by users in Italy on `2025/2/20 11:01 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `957 users`  in Italy. You need at least `84 followers` to be on this 
 		<td>Fbk </td>
 		<td><a href="https://twitter.com/napo">napo</a></td>
 		<td>Trento, Italy</td>
-		<td>32435</td>
-		<td>32590</td>
+		<td>32436</td>
+		<td>32591</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1517,7 +1517,7 @@ There are `957 users`  in Italy. You need at least `84 followers` to be on this 
 		<td><a href="https://twitter.com/kandros5591">kandros5591</a></td>
 		<td>Sardinia - Italy</td>
 		<td>226</td>
-		<td>1776</td>
+		<td>1778</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -2664,8 +2664,8 @@ There are `957 users`  in Italy. You need at least `84 followers` to be on this 
 		<td>@hnsecurity </td>
 		<td><a href="https://twitter.com/0xdea">0xdea</a></td>
 		<td>Italy</td>
-		<td>981</td>
-		<td>1151</td>
+		<td>982</td>
+		<td>1152</td>
 	</tr>
 	<tr>
 		<td>184</td>
@@ -3883,7 +3883,7 @@ There are `957 users`  in Italy. You need at least `84 followers` to be on this 
 		<td><a href="https://twitter.com/auguzanellato">auguzanellato</a></td>
 		<td>Padua, Italy</td>
 		<td>40</td>
-		<td>772</td>
+		<td>773</td>
 	</tr>
 	<tr>
 		<td>271</td>
