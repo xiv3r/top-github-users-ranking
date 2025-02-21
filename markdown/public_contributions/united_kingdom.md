@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2025/2/21 8:53 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2025/2/21 9:03 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>The Alan Turing Institute<br/>&<br/>Active<br/>Travel<br/>England<br/></td>
 		<td><a href="https://twitter.com/CarlinoDustin">CarlinoDustin</a></td>
 		<td>London</td>
-		<td>4952</td>
+		<td>4956</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1376,7 +1376,7 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>No Company</td>
 		<td><a href="https://twitter.com/threepointone">threepointone</a></td>
 		<td>London, England</td>
-		<td>1256</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1597,7 +1597,7 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>London, UK</td>
-		<td>1079</td>
+		<td>1080</td>
 	</tr>
 	<tr>
 		<td>116</td>

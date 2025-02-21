@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` and `private contributions` by users in United Kingdom on `2025/2/21 8:53 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` and `private contributions` by users in United Kingdom on `2025/2/21 9:03 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -318,6 +318,20 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 	<tr>
 		<td>16</td>
 		<td>
+			<a href="https://github.com/dabreegster">
+				<img src="https://avatars.githubusercontent.com/u/1664407?s=72&u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="24" alt="Avatar of dabreegster"> dabreegster
+			</a><br/>
+			Dustin Carlino
+		</td>
+		<td>The Alan Turing Institute<br/>&<br/>Active<br/>Travel<br/>England<br/></td>
+		<td><a href="https://twitter.com/CarlinoDustin">CarlinoDustin</a></td>
+		<td>London</td>
+		<td>4956</td>
+		<td>4956</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
 			<a href="https://github.com/tchaton">
 				<img src="https://avatars.githubusercontent.com/u/12861981?s=72&u=7b05b6e1b6dfe7ff5a52cf1244841608785b8c93&v=4" width="24" alt="Avatar of tchaton"> tchaton
 			</a><br/>
@@ -328,20 +342,6 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>London</td>
 		<td>657</td>
 		<td>4955</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/dabreegster">
-				<img src="https://avatars.githubusercontent.com/u/1664407?s=72&u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="24" alt="Avatar of dabreegster"> dabreegster
-			</a><br/>
-			Dustin Carlino
-		</td>
-		<td>The Alan Turing Institute<br/>&<br/>Active<br/>Travel<br/>England<br/></td>
-		<td><a href="https://twitter.com/CarlinoDustin">CarlinoDustin</a></td>
-		<td>London</td>
-		<td>4952</td>
-		<td>4952</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -2418,6 +2418,20 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 	<tr>
 		<td>166</td>
 		<td>
+			<a href="https://github.com/threepointone">
+				<img src="https://avatars.githubusercontent.com/u/18808?s=72&v=4" width="24" alt="Avatar of threepointone"> threepointone
+			</a><br/>
+			Sunil Pai
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/threepointone">threepointone</a></td>
+		<td>London, England</td>
+		<td>1258</td>
+		<td>1423</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
 			<a href="https://github.com/andydotxyz">
 				<img src="https://avatars.githubusercontent.com/u/294436?s=72&u=ad7f37896df6453e8fe910b273107b0a06bd03a4&v=4" width="24" alt="Avatar of andydotxyz"> andydotxyz
 			</a><br/>
@@ -2428,20 +2442,6 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>Edinburgh, United Kingdom</td>
 		<td>1422</td>
 		<td>1422</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/threepointone">
-				<img src="https://avatars.githubusercontent.com/u/18808?s=72&v=4" width="24" alt="Avatar of threepointone"> threepointone
-			</a><br/>
-			Sunil Pai
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/threepointone">threepointone</a></td>
-		<td>London, England</td>
-		<td>1256</td>
-		<td>1421</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2740,20 +2740,6 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 	<tr>
 		<td>189</td>
 		<td>
-			<a href="https://github.com/SaraVieira">
-				<img src="https://avatars.githubusercontent.com/u/1051509?s=72&u=ed31cf8dc8bd9357e71ab945333b578dc78a711a&v=4" width="24" alt="Avatar of SaraVieira"> SaraVieira
-			</a><br/>
-			Sara Vieira
-		</td>
-		<td>@askorama  </td>
-		<td><a href="https://twitter.com/NikkitaFTW">NikkitaFTW</a></td>
-		<td>London</td>
-		<td>806</td>
-		<td>1305</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
 			<a href="https://github.com/nodunayo">
 				<img src="https://avatars.githubusercontent.com/u/4911302?s=72&u=833cb25217c70ca83c7244c66c9ba34a1b7a3d0f&v=4" width="24" alt="Avatar of nodunayo"> nodunayo
 			</a><br/>
@@ -2763,6 +2749,20 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>No Twitter Username</td>
 		<td>London</td>
 		<td>124</td>
+		<td>1306</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/SaraVieira">
+				<img src="https://avatars.githubusercontent.com/u/1051509?s=72&u=ed31cf8dc8bd9357e71ab945333b578dc78a711a&v=4" width="24" alt="Avatar of SaraVieira"> SaraVieira
+			</a><br/>
+			Sara Vieira
+		</td>
+		<td>@askorama  </td>
+		<td><a href="https://twitter.com/NikkitaFTW">NikkitaFTW</a></td>
+		<td>London</td>
+		<td>806</td>
 		<td>1305</td>
 	</tr>
 	<tr>
@@ -3029,7 +3029,7 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td><a href="https://twitter.com/brunocroh">brunocroh</a></td>
 		<td>London, UK, Europe</td>
 		<td>613</td>
-		<td>1223</td>
+		<td>1224</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -3154,8 +3154,8 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>London, UK</td>
-		<td>1079</td>
-		<td>1183</td>
+		<td>1080</td>
+		<td>1184</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3575,7 +3575,7 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>No Twitter Username</td>
 		<td>London, United Kingdom</td>
 		<td>138</td>
-		<td>1000</td>
+		<td>1001</td>
 	</tr>
 	<tr>
 		<td>249</td>
@@ -8354,6 +8354,20 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 	<tr>
 		<td>590</td>
 		<td>
+			<a href="https://github.com/sixeyed">
+				<img src="https://avatars.githubusercontent.com/u/157413?s=72&v=4" width="24" alt="Avatar of sixeyed"> sixeyed
+			</a><br/>
+			Elton Stoneman
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/EltonStoneman">EltonStoneman</a></td>
+		<td>London</td>
+		<td>69</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
 			<a href="https://github.com/joelittlejohn">
 				<img src="https://avatars.githubusercontent.com/u/686384?s=72&u=f98aea7ba86121be72d848a59ad116f496c7a6d9&v=4" width="24" alt="Avatar of joelittlejohn"> joelittlejohn
 			</a><br/>
@@ -8364,20 +8378,6 @@ There are `953 users`  in United Kingdom. You need at least `228 followers` to b
 		<td>Bristol, UK</td>
 		<td>51</td>
 		<td>124</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/sixeyed">
-				<img src="https://avatars.githubusercontent.com/u/157413?s=72&v=4" width="24" alt="Avatar of sixeyed"> sixeyed
-			</a><br/>
-			Elton Stoneman
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/EltonStoneman">EltonStoneman</a></td>
-		<td>London</td>
-		<td>69</td>
-		<td>123</td>
 	</tr>
 	<tr>
 		<td>592</td>
