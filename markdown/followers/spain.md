@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `number of followers` of users in Spain on `2025/2/21 5:39 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `number of followers` of users in Spain on `2025/2/21 5:49 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/midudev">midudev</a></td>
 		<td>Barcelona</td>
-		<td>30476</td>
+		<td>30477</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1454,7 +1454,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>España/Madrid</td>
-		<td>702</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -7218,6 +7218,19 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 	<tr>
 		<td>548</td>
 		<td>
+			<a href="https://github.com/AntoBrandi">
+				<img src="https://avatars.githubusercontent.com/u/34162460?s=72&u=727a2bf5db1c7dec597b1bb1330ed5aa0328032e&v=4" width="24" alt="Avatar of AntoBrandi"> AntoBrandi
+			</a><br/>
+			Antonio Brandi
+		</td>
+		<td>Pal Robotics </td>
+		<td>No Twitter Username</td>
+		<td>Barcelona, Spain</td>
+		<td>179</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
 			<a href="https://github.com/erseco">
 				<img src="https://avatars.githubusercontent.com/u/1876752?s=72&u=a8e8f94e112a13bbdf2dcaf671b94fff7ba8d21f&v=4" width="24" alt="Avatar of erseco"> erseco
 			</a><br/>
@@ -7229,7 +7242,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/petrosagg">
 				<img src="https://avatars.githubusercontent.com/u/939420?s=72&u=ed4cdfbe9c5fd00de96c3adf140e65280d1b3b6a&v=4" width="24" alt="Avatar of petrosagg"> petrosagg
@@ -7242,7 +7255,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/David-Lor">
 				<img src="https://avatars.githubusercontent.com/u/17401854?s=72&u=474680c02b94cba810cb9032fb7eb787d9cc9d22&v=4" width="24" alt="Avatar of David-Lor"> David-Lor
@@ -7252,19 +7265,6 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vigo/Galiza/Spain</td>
-		<td>178</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/AntoBrandi">
-				<img src="https://avatars.githubusercontent.com/u/34162460?s=72&u=727a2bf5db1c7dec597b1bb1330ed5aa0328032e&v=4" width="24" alt="Avatar of AntoBrandi"> AntoBrandi
-			</a><br/>
-			Antonio Brandi
-		</td>
-		<td>Pal Robotics </td>
-		<td>No Twitter Username</td>
-		<td>Barcelona, Spain</td>
 		<td>178</td>
 	</tr>
 	<tr>

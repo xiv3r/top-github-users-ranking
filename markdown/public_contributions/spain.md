@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" alt="Spain">
 </a>
 
-The `public contributions` by users in Spain on `2025/2/21 5:39 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
+The `public contributions` by users in Spain on `2025/2/21 5:49 PM UTC`. This list contains users from `Spain` and cities `Madrid` `Barcelona` `Seville` `Valencia ` `Bilbao`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>@posit-pbc </td>
 		<td>No Twitter Username</td>
 		<td>Barcelona</td>
-		<td>8067</td>
+		<td>8069</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -6438,6 +6438,19 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 	<tr>
 		<td>488</td>
 		<td>
+			<a href="https://github.com/r2d2-coder-git">
+				<img src="https://avatars.githubusercontent.com/u/35840182?s=72&u=9f648e3415a6b104dc0f97e96c5b8e70d9dbe4b6&v=4" width="24" alt="Avatar of r2d2-coder-git"> r2d2-coder-git
+			</a><br/>
+			Arturo Lorenzo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Spain</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
 			<a href="https://github.com/galva-dev">
 				<img src="https://avatars.githubusercontent.com/u/38534728?s=72&u=16897c162a033765a93080d3a23208c355203d27&v=4" width="24" alt="Avatar of galva-dev"> galva-dev
 			</a><br/>
@@ -6449,7 +6462,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/elrumo">
 				<img src="https://avatars.githubusercontent.com/u/36299870?s=72&u=726c0d1b1e938bc81f5036ea3ab34569611999af&v=4" width="24" alt="Avatar of elrumo"> elrumo
@@ -6462,7 +6475,7 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/javiergamarra">
 				<img src="https://avatars.githubusercontent.com/u/340653?s=72&v=4" width="24" alt="Avatar of javiergamarra"> javiergamarra
@@ -6472,19 +6485,6 @@ There are `951 users`  in Spain. You need at least `116 followers` to be on this
 		<td>@unity-technologies </td>
 		<td><a href="https://twitter.com/nhpatt">nhpatt</a></td>
 		<td>Madrid, Spain</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/r2d2-coder-git">
-				<img src="https://avatars.githubusercontent.com/u/35840182?s=72&u=9f648e3415a6b104dc0f97e96c5b8e70d9dbe4b6&v=4" width="24" alt="Avatar of r2d2-coder-git"> r2d2-coder-git
-			</a><br/>
-			Arturo Lorenzo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Spain</td>
 		<td>79</td>
 	</tr>
 	<tr>
