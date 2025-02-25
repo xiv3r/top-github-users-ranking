@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2025/2/25 9:50 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2025/2/25 10:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2553,7 +2553,7 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td><a href="https://twitter.com/mlfrg">mlfrg</a></td>
 		<td>Copenhagen</td>
 		<td>338</td>
-		<td>1175</td>
+		<td>1176</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -6380,6 +6380,20 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>449</td>
 		<td>
+			<a href="https://github.com/lgalke">
+				<img src="https://avatars.githubusercontent.com/u/3439126?s=72&u=1eb87b5d27c8d1d133742d5b5833ce9ba72fd92c&v=4" width="24" alt="Avatar of lgalke"> lgalke
+			</a><br/>
+			Lukas Galke
+		</td>
+		<td>University Of Southern Denmark<br/></td>
+		<td><a href="https://twitter.com/LukasGalke">LukasGalke</a></td>
+		<td>Odense, Denmark</td>
+		<td>194</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
 			<a href="https://github.com/kramse">
 				<img src="https://avatars.githubusercontent.com/u/1912826?s=72&u=a7baef42de3baa9c73a628a31b0963ac824b3f50&v=4" width="24" alt="Avatar of kramse"> kramse
 			</a><br/>
@@ -6389,20 +6403,6 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
 		<td>173</td>
-		<td>287</td>
-	</tr>
-	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/lgalke">
-				<img src="https://avatars.githubusercontent.com/u/3439126?s=72&u=1eb87b5d27c8d1d133742d5b5833ce9ba72fd92c&v=4" width="24" alt="Avatar of lgalke"> lgalke
-			</a><br/>
-			Lukas Galke
-		</td>
-		<td>University Of Southern Denmark<br/></td>
-		<td><a href="https://twitter.com/LukasGalke">LukasGalke</a></td>
-		<td>Odense, Denmark</td>
-		<td>192</td>
 		<td>287</td>
 	</tr>
 	<tr>
@@ -6758,20 +6758,6 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>476</td>
 		<td>
-			<a href="https://github.com/MrMEEE">
-				<img src="https://avatars.githubusercontent.com/u/768031?s=72&u=4ce79df5511dcd423b2b90a901b305af82c0e12b&v=4" width="24" alt="Avatar of MrMEEE"> MrMEEE
-			</a><br/>
-			Martin Juhl
-		</td>
-		<td>Komplex It </td>
-		<td>No Twitter Username</td>
-		<td>Denmark</td>
-		<td>242</td>
-		<td>242</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
 			<a href="https://github.com/maythamfahmi">
 				<img src="https://avatars.githubusercontent.com/u/9260645?s=72&v=4" width="24" alt="Avatar of maythamfahmi"> maythamfahmi
 			</a><br/>
@@ -6781,6 +6767,20 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
 		<td>170</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/MrMEEE">
+				<img src="https://avatars.githubusercontent.com/u/768031?s=72&u=4ce79df5511dcd423b2b90a901b305af82c0e12b&v=4" width="24" alt="Avatar of MrMEEE"> MrMEEE
+			</a><br/>
+			Martin Juhl
+		</td>
+		<td>Komplex It </td>
+		<td>No Twitter Username</td>
+		<td>Denmark</td>
+		<td>242</td>
 		<td>242</td>
 	</tr>
 	<tr>

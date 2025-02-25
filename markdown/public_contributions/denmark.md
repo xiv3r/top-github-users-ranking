@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/2/25 9:50 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/2/25 10:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3747,6 +3747,19 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>281</td>
 		<td>
+			<a href="https://github.com/lgalke">
+				<img src="https://avatars.githubusercontent.com/u/3439126?s=72&u=1eb87b5d27c8d1d133742d5b5833ce9ba72fd92c&v=4" width="24" alt="Avatar of lgalke"> lgalke
+			</a><br/>
+			Lukas Galke
+		</td>
+		<td>University Of Southern Denmark<br/></td>
+		<td><a href="https://twitter.com/LukasGalke">LukasGalke</a></td>
+		<td>Odense, Denmark</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
 			<a href="https://github.com/teotwaki">
 				<img src="https://avatars.githubusercontent.com/u/1420434?s=72&u=bc33c8d80346bf5a0989dac3bc398b0af47e6834&v=4" width="24" alt="Avatar of teotwaki"> teotwaki
 			</a><br/>
@@ -3756,19 +3769,6 @@ There are `931 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
 		<td>194</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/lgalke">
-				<img src="https://avatars.githubusercontent.com/u/3439126?s=72&u=1eb87b5d27c8d1d133742d5b5833ce9ba72fd92c&v=4" width="24" alt="Avatar of lgalke"> lgalke
-			</a><br/>
-			Lukas Galke
-		</td>
-		<td>University Of Southern Denmark<br/></td>
-		<td><a href="https://twitter.com/LukasGalke">LukasGalke</a></td>
-		<td>Odense, Denmark</td>
-		<td>192</td>
 	</tr>
 	<tr>
 		<td>283</td>
