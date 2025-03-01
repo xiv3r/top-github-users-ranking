@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` and `private contributions` by users in Greece on `2025/3/1 5:38 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` and `private contributions` by users in Greece on `2025/3/1 5:46 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -228,8 +228,8 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>@idealisticai  </td>
 		<td><a href="https://twitter.com/vagdedes">vagdedes</a></td>
 		<td>Europe, Greece</td>
-		<td>1181</td>
-		<td>4125</td>
+		<td>1182</td>
+		<td>4126</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1306,8 +1306,8 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Wazoku </td>
 		<td><a href="https://twitter.com/mvyk0l">mvyk0l</a></td>
 		<td>Athens, GA</td>
-		<td>981</td>
-		<td>1369</td>
+		<td>982</td>
+		<td>1370</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1872,6 +1872,20 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 	<tr>
 		<td>127</td>
 		<td>
+			<a href="https://github.com/ktsaou">
+				<img src="https://avatars.githubusercontent.com/u/2662304?s=72&u=45ae3b411c35d98a3d55372ae5a2cc78d501a9c7&v=4" width="24" alt="Avatar of ktsaou"> ktsaou
+			</a><br/>
+			Costa Tsaousis
+		</td>
+		<td>Netdata, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>1084</td>
+		<td>1084</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a href="https://github.com/ObserverOfTime">
 				<img src="https://avatars.githubusercontent.com/u/24971970?s=72&u=116d26c02cf1a16c22ba09ad731d506695695380&v=4" width="24" alt="Avatar of ObserverOfTime"> ObserverOfTime
 			</a><br/>
@@ -1882,20 +1896,6 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Athens, Greece</td>
 		<td>1084</td>
 		<td>1084</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/ktsaou">
-				<img src="https://avatars.githubusercontent.com/u/2662304?s=72&u=45ae3b411c35d98a3d55372ae5a2cc78d501a9c7&v=4" width="24" alt="Avatar of ktsaou"> ktsaou
-			</a><br/>
-			Costa Tsaousis
-		</td>
-		<td>Netdata, Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>1083</td>
-		<td>1083</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -4484,8 +4484,8 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nexteiosifidis">nexteiosifidis</a></td>
 		<td>Thessaloniki, Greece</td>
-		<td>396</td>
-		<td>399</td>
+		<td>397</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>314</td>
