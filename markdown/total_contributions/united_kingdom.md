@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` and `private contributions` by users in United Kingdom on `2025/3/2 4:59 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` and `private contributions` by users in United Kingdom on `2025/3/2 5:09 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -452,8 +452,8 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 		<td>@financial-times </td>
 		<td><a href="https://twitter.com/rowanmanning">rowanmanning</a></td>
 		<td>London, UK</td>
-		<td>1446</td>
-		<td>3965</td>
+		<td>1450</td>
+		<td>3969</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1096,8 +1096,8 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 		<td>@exercism </td>
 		<td><a href="https://twitter.com/iHiD">iHiD</a></td>
 		<td>Birmingham, England</td>
-		<td>1314</td>
-		<td>2468</td>
+		<td>1315</td>
+		<td>2469</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -2216,8 +2216,8 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 		<td>@ucl-arc, @ucl </td>
 		<td><a href="https://twitter.com/saranshchopra7">saranshchopra7</a></td>
 		<td>London, UK</td>
-		<td>1453</td>
-		<td>1511</td>
+		<td>1454</td>
+		<td>1512</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2819,7 +2819,7 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 		<td><a href="https://twitter.com/lancinimarco">lancinimarco</a></td>
 		<td>London</td>
 		<td>43</td>
-		<td>1260</td>
+		<td>1262</td>
 	</tr>
 	<tr>
 		<td>195</td>
@@ -7192,6 +7192,20 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 	<tr>
 		<td>507</td>
 		<td>
+			<a href="https://github.com/eleurent">
+				<img src="https://avatars.githubusercontent.com/u/1706935?s=72&u=a8a0584b443849766802e14a1ea537b8be3a8f71&v=4" width="24" alt="Avatar of eleurent"> eleurent
+			</a><br/>
+			Edouard Leurent
+		</td>
+		<td>Google Deepmind </td>
+		<td><a href="https://twitter.com/eleurent">eleurent</a></td>
+		<td>London</td>
+		<td>243</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
 			<a href="https://github.com/jasonwilliams">
 				<img src="https://avatars.githubusercontent.com/u/936006?s=72&u=c104316e137de4ced56ccab44d1167a386c95271&v=4" width="24" alt="Avatar of jasonwilliams"> jasonwilliams
 			</a><br/>
@@ -7202,20 +7216,6 @@ There are `953 users`  in United Kingdom. You need at least `229 followers` to b
 		<td>London, England</td>
 		<td>270</td>
 		<td>272</td>
-	</tr>
-	<tr>
-		<td>508</td>
-		<td>
-			<a href="https://github.com/eleurent">
-				<img src="https://avatars.githubusercontent.com/u/1706935?s=72&u=a8a0584b443849766802e14a1ea537b8be3a8f71&v=4" width="24" alt="Avatar of eleurent"> eleurent
-			</a><br/>
-			Edouard Leurent
-		</td>
-		<td>Google Deepmind </td>
-		<td><a href="https://twitter.com/eleurent">eleurent</a></td>
-		<td>London</td>
-		<td>230</td>
-		<td>271</td>
 	</tr>
 	<tr>
 		<td>509</td>
