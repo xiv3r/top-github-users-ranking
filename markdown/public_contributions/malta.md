@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` by users in Malta on `2025/2/28 8:55 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` by users in Malta on `2025/3/2 12:52 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>3058</td>
+		<td>3067</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ripienaar">ripienaar</a></td>
 		<td>Malta</td>
-		<td>2268</td>
+		<td>2270</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -147,14 +147,14 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>4</td>
 		<td>
 			<a href="https://github.com/idematos">
-				<img src="https://avatars.githubusercontent.com/u/30164700?s=72&u=b92ee4a620088cff63bf39d92cc540935790b7de&v=4" width="24" alt="Avatar of idematos"> idematos
+				<img src="https://avatars.githubusercontent.com/u/30164700?s=72&u=0581675b177b0a7b4a25e80e0be1561c6a460e95&v=4" width="24" alt="Avatar of idematos"> idematos
 			</a><br/>
 			Isabela de Matos
 		</td>
 		<td>@mogrene </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>1475</td>
+		<td>1490</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -180,7 +180,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>1173</td>
+		<td>1179</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/oloyedeshadrach">oloyedeshadrach</a></td>
 		<td>Valetta, Malta</td>
-		<td>1002</td>
+		<td>1010</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -258,7 +258,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>568</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -297,7 +297,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>University Of Malta </td>
 		<td><a href="https://twitter.com/AFLucas26">AFLucas26</a></td>
 		<td>Malta</td>
-		<td>467</td>
+		<td>468</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -440,7 +440,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>@ethereum-optimism  </td>
 		<td><a href="https://twitter.com/EthnicalInfo">EthnicalInfo</a></td>
 		<td>Malta</td>
-		<td>306</td>
+		<td>314</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -471,6 +471,32 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/motorro">
+				<img src="https://avatars.githubusercontent.com/u/924536?s=72&u=e5472461d8ea7e982e415e987aeaafd8c370f35b&v=4" width="24" alt="Avatar of motorro"> motorro
+			</a><br/>
+			Nikolai Kotchetkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/silvandiepen">
+				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
+			</a><br/>
+			Sil van Diepen
+		</td>
+		<td>Sil Van Diepen </td>
+		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
+		<td>Malta</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
 			<a href="https://github.com/Juliansv">
 				<img src="https://avatars.githubusercontent.com/u/29905290?s=72&u=00937b3ddb6dedf80f46e1e464f03f4218fbd2f1&v=4" width="24" alt="Avatar of Juliansv"> Juliansv
 			</a><br/>
@@ -482,20 +508,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/motorro">
-				<img src="https://avatars.githubusercontent.com/u/924536?s=72&u=e5472461d8ea7e982e415e987aeaafd8c370f35b&v=4" width="24" alt="Avatar of motorro"> motorro
-			</a><br/>
-			Nikolai Kotchetkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>292</td>
-	</tr>
-	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/hyblocker">
 				<img src="https://avatars.githubusercontent.com/u/7695629?s=72&u=d02763f4094e317fa3c93e3c24cd05775033e7ec&v=4" width="24" alt="Avatar of hyblocker"> hyblocker
@@ -508,7 +521,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>290</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/mandyfarrugia">
 				<img src="https://avatars.githubusercontent.com/u/107984232?s=72&u=9274103a551cd35092028970bfc5b6eeebe80ff9&v=4" width="24" alt="Avatar of mandyfarrugia"> mandyfarrugia
@@ -521,7 +534,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/soniXx123">
 				<img src="https://avatars.githubusercontent.com/u/35350615?s=72&u=5cd1524854ca8967173ca3c4e420820b104aa472&v=4" width="24" alt="Avatar of soniXx123"> soniXx123
@@ -534,7 +547,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/Geod24">
 				<img src="https://avatars.githubusercontent.com/u/2180215?s=72&v=4" width="24" alt="Avatar of Geod24"> Geod24
@@ -547,7 +560,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/andimon">
 				<img src="https://avatars.githubusercontent.com/u/36232533?s=72&u=dba2e9ae94dfc48fc9f38ce1c633ce68be42c1ac&v=4" width="24" alt="Avatar of andimon"> andimon
@@ -560,7 +573,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>274</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/scermat">
 				<img src="https://avatars.githubusercontent.com/u/32162885?s=72&u=d5900501d74c07a0637bb98ab24f2d5b288f59c3&v=4" width="24" alt="Avatar of scermat"> scermat
@@ -573,7 +586,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/fcapolini">
 				<img src="https://avatars.githubusercontent.com/u/36851924?s=72&u=d0d01c71a1ed8d3ef4183380908ca23991d70071&v=4" width="24" alt="Avatar of fcapolini"> fcapolini
@@ -586,7 +599,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/mbar0075">
 				<img src="https://avatars.githubusercontent.com/u/103250564?s=72&u=563bd40cb988c59b59b9187a04dc5e60073c9f3f&v=4" width="24" alt="Avatar of mbar0075"> mbar0075
@@ -596,20 +609,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>University Of Malta </td>
 		<td><a href="https://twitter.com/MatthiasBar6">MatthiasBar6</a></td>
 		<td>Malta</td>
-		<td>259</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/silvandiepen">
-				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
-			</a><br/>
-			Sil van Diepen
-		</td>
-		<td>Sil Van Diepen </td>
-		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
-		<td>Malta</td>
-		<td>258</td>
+		<td>261</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -635,28 +635,28 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>Bullaware </td>
 		<td><a href="https://twitter.com/marian2js">marian2js</a></td>
 		<td>Malta</td>
-		<td>250</td>
+		<td>252</td>
 	</tr>
 	<tr>
 		<td>42</td>
-		<td>
-			<a href="https://github.com/ntulenev">
-				<img src="https://avatars.githubusercontent.com/u/9788909?s=72&u=e691bfe965877bdd50f81e45f1ea1d837c65e292&v=4" width="24" alt="Avatar of ntulenev"> ntulenev
-			</a><br/>
-			Nikita Tulenev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>43</td>
 		<td>
 			<a href="https://github.com/AlexeyDemyan">
 				<img src="https://avatars.githubusercontent.com/u/67392889?s=72&u=7a0926a7352b97ef3463b7f1f4f7b4bff9c9ab1d&v=4" width="24" alt="Avatar of AlexeyDemyan"> AlexeyDemyan
 			</a><br/>
 			Alexey Demyanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/ntulenev">
+				<img src="https://avatars.githubusercontent.com/u/9788909?s=72&u=e691bfe965877bdd50f81e45f1ea1d837c65e292&v=4" width="24" alt="Avatar of ntulenev"> ntulenev
+			</a><br/>
+			Nikita Tulenev
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -687,7 +687,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>236</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -718,6 +718,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>48</td>
 		<td>
+			<a href="https://github.com/braveokafor">
+				<img src="https://avatars.githubusercontent.com/u/39132143?s=72&u=257e4309362f7db5f2ec9d3ed4c5d9db0bff47e5&v=4" width="24" alt="Avatar of braveokafor"> braveokafor
+			</a><br/>
+			Brave Okafor
+		</td>
+		<td>@kpmg-uk </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a href="https://github.com/matthewkenely">
 				<img src="https://avatars.githubusercontent.com/u/63400705?s=72&u=67b7c2238b0a210f8e55f8888f91ef9e95e8a842&v=4" width="24" alt="Avatar of matthewkenely"> matthewkenely
 			</a><br/>
@@ -729,7 +742,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/kalvin-eliazord">
 				<img src="https://avatars.githubusercontent.com/u/61147281?s=72&u=522796f27bd119fbfd81c359c467dafff028bfb8&v=4" width="24" alt="Avatar of kalvin-eliazord"> kalvin-eliazord
@@ -742,7 +755,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>219</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/JuanScerriE">
 				<img src="https://avatars.githubusercontent.com/u/29839689?s=72&u=af7eccdff4f5f6eac2b6136ebbba2231a1757716&v=4" width="24" alt="Avatar of JuanScerriE"> JuanScerriE
@@ -755,7 +768,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/ogulcanturan">
 				<img src="https://avatars.githubusercontent.com/u/22854620?s=72&u=6f4b7ba515f01fd0e71d22fbc0a8219e5d4c3490&v=4" width="24" alt="Avatar of ogulcanturan"> ogulcanturan
@@ -768,7 +781,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/DavidScicluna">
 				<img src="https://avatars.githubusercontent.com/u/33456301?s=72&u=c9605eda8a46304cbba6b5d1fe262165af78c359&v=4" width="24" alt="Avatar of DavidScicluna"> DavidScicluna
@@ -781,7 +794,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/micmalti">
 				<img src="https://avatars.githubusercontent.com/u/31540652?s=72&u=cfe4639049c8024e69d57bc8ada60d151e24fcde&v=4" width="24" alt="Avatar of micmalti"> micmalti
@@ -794,33 +807,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/braveokafor">
-				<img src="https://avatars.githubusercontent.com/u/39132143?s=72&u=257e4309362f7db5f2ec9d3ed4c5d9db0bff47e5&v=4" width="24" alt="Avatar of braveokafor"> braveokafor
-			</a><br/>
-			Brave Okafor
-		</td>
-		<td>@kpmg-uk </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>181</td>
-	</tr>
-	<tr>
 		<td>55</td>
-		<td>
-			<a href="https://github.com/amidos2006">
-				<img src="https://avatars.githubusercontent.com/u/1292799?s=72&u=ae345089ae4e4f9175b7dfbb30196230d01fda55&v=4" width="24" alt="Avatar of amidos2006"> amidos2006
-			</a><br/>
-			Ahmed Khalifa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amidos2006">amidos2006</a></td>
-		<td>Gzira, Malta</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>56</td>
 		<td>
 			<a href="https://github.com/stephenlautier">
 				<img src="https://avatars.githubusercontent.com/u/3908723?s=72&u=32e0e3688a694b3331af86297863e94210262515&v=4" width="24" alt="Avatar of stephenlautier"> stephenlautier
@@ -830,6 +817,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>@river-igaming  </td>
 		<td><a href="https://twitter.com/stephenlautier">stephenlautier</a></td>
 		<td>Malta</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/amidos2006">
+				<img src="https://avatars.githubusercontent.com/u/1292799?s=72&u=ae345089ae4e4f9175b7dfbb30196230d01fda55&v=4" width="24" alt="Avatar of amidos2006"> amidos2006
+			</a><br/>
+			Ahmed Khalifa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amidos2006">amidos2006</a></td>
+		<td>Gzira, Malta</td>
 		<td>179</td>
 	</tr>
 	<tr>
@@ -861,6 +861,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/Rovniy">
+				<img src="https://avatars.githubusercontent.com/u/14307495?s=72&u=24100320bcc3b6123418c0dba24dabecb0dffe4e&v=4" width="24" alt="Avatar of Rovniy"> Rovniy
+			</a><br/>
+			Andrei Rovniy
+		</td>
+		<td>Gaijin Entertainment </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/JuxhinDB">
 				<img src="https://avatars.githubusercontent.com/u/8005101?s=72&u=c3d2162dfd07ae0871d5bb6ae5d9c8b59fedfa8c&v=4" width="24" alt="Avatar of JuxhinDB"> JuxhinDB
 			</a><br/>
@@ -870,19 +883,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/juxhindb">juxhindb</a></td>
 		<td>Malta</td>
 		<td>173</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/Rovniy">
-				<img src="https://avatars.githubusercontent.com/u/14307495?s=72&u=24100320bcc3b6123418c0dba24dabecb0dffe4e&v=4" width="24" alt="Avatar of Rovniy"> Rovniy
-			</a><br/>
-			Andrei Rovniy
-		</td>
-		<td>Gaijin Entertainment </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>171</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -965,6 +965,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>67</td>
 		<td>
+			<a href="https://github.com/ImrenR">
+				<img src="https://avatars.githubusercontent.com/u/184854560?s=72&u=81f0f0414569bc4c3b5e762bc762fb989e26beb0&v=4" width="24" alt="Avatar of ImrenR"> ImrenR
+			</a><br/>
+			Imren R
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/zeelog">
 				<img src="https://avatars.githubusercontent.com/u/2109514?s=72&u=c3665b5a801700bde1994f61193060523bd6dc27&v=4" width="24" alt="Avatar of zeelog"> zeelog
 			</a><br/>
@@ -974,19 +987,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>151</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/ImrenR">
-				<img src="https://avatars.githubusercontent.com/u/184854560?s=72&u=81f0f0414569bc4c3b5e762bc762fb989e26beb0&v=4" width="24" alt="Avatar of ImrenR"> ImrenR
-			</a><br/>
-			Imren R
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>145</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1129,7 +1129,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>@betssongroup </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>115</td>
+		<td>117</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1168,7 +1168,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vcjacques">vcjacques</a></td>
 		<td>Malta</td>
-		<td>109</td>
+		<td>110</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1186,6 +1186,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>84</td>
 		<td>
+			<a href="https://github.com/dalerank">
+				<img src="https://avatars.githubusercontent.com/u/918081?s=72&u=cde72b6d5d3f143e76ca8d620241e58ce7e984fe&v=4" width="24" alt="Avatar of dalerank"> dalerank
+			</a><br/>
+			dalerank
+		</td>
+		<td>4a Games </td>
+		<td><a href="https://twitter.com/dalerank1">dalerank1</a></td>
+		<td>Sliema, Malta</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
 			<a href="https://github.com/WiSmKo">
 				<img src="https://avatars.githubusercontent.com/u/59413677?s=72&u=92b84d4ab5a83591f5e6ea068248c31e47045067&v=4" width="24" alt="Avatar of WiSmKo"> WiSmKo
 			</a><br/>
@@ -1195,19 +1208,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/HenryI16813809">HenryI16813809</a></td>
 		<td>Malta</td>
 		<td>103</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/dalerank">
-				<img src="https://avatars.githubusercontent.com/u/918081?s=72&u=cde72b6d5d3f143e76ca8d620241e58ce7e984fe&v=4" width="24" alt="Avatar of dalerank"> dalerank
-			</a><br/>
-			dalerank
-		</td>
-		<td>4a Games </td>
-		<td><a href="https://twitter.com/dalerank1">dalerank1</a></td>
-		<td>Sliema, Malta</td>
-		<td>101</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1329,6 +1329,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>95</td>
 		<td>
+			<a href="https://github.com/justin-calleja">
+				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
+			</a><br/>
+			Justin Calleja
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
 			<a href="https://github.com/onmotion">
 				<img src="https://avatars.githubusercontent.com/u/12899080?s=72&u=217bda44b0f5ddfd3adfb0c0816145c239a6a3fe&v=4" width="24" alt="Avatar of onmotion"> onmotion
 			</a><br/>
@@ -1338,19 +1351,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>85</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/justin-calleja">
-				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
-			</a><br/>
-			Justin Calleja
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>83</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1511,6 +1511,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>109</td>
 		<td>
+			<a href="https://github.com/iko2000">
+				<img src="https://avatars.githubusercontent.com/u/123463655?s=72&u=a3d4798b61641faab9c910eed98a934097bc3f98&v=4" width="24" alt="Avatar of iko2000"> iko2000
+			</a><br/>
+			Full-Stack Software Developer
+		</td>
+		<td>The-van-app  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
 			<a href="https://github.com/ethernity-cloud">
 				<img src="https://avatars.githubusercontent.com/u/66076991?s=72&u=26de3b5e380ff8ea6bddb60a347b566d415ff2dc&v=4" width="24" alt="Avatar of ethernity-cloud"> ethernity-cloud
 			</a><br/>
@@ -1522,7 +1535,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/denjell-crabnebula">
 				<img src="https://avatars.githubusercontent.com/u/124795337?s=72&u=60b89c659889ad4f75f34de943cbf42dc3995d67&v=4" width="24" alt="Avatar of denjell-crabnebula"> denjell-crabnebula
@@ -1535,7 +1548,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/criticalsession">
 				<img src="https://avatars.githubusercontent.com/u/88831283?s=72&u=aa3988ba609b5b75bf12927b8651f828aa9a9cd3&v=4" width="24" alt="Avatar of criticalsession"> criticalsession
@@ -1548,7 +1561,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/zcourts">
 				<img src="https://avatars.githubusercontent.com/u/692396?s=72&u=b166572813ff4c07e58e101a6cb52ca1ff3afd13&v=4" width="24" alt="Avatar of zcourts"> zcourts
@@ -1561,7 +1574,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/amifsud02">
 				<img src="https://avatars.githubusercontent.com/u/80411941?s=72&u=355abb36c2efd694df4c369d1deb8590d92278f0&v=4" width="24" alt="Avatar of amifsud02"> amifsud02
@@ -1574,7 +1587,20 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/NetBUG">
+				<img src="https://avatars.githubusercontent.com/u/1539823?s=72&v=4" width="24" alt="Avatar of NetBUG"> NetBUG
+			</a><br/>
+			Oleg
+		</td>
+		<td>Cerebelo </td>
+		<td>No Twitter Username</td>
+		<td>Sliema, Malta</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/gertab">
 				<img src="https://avatars.githubusercontent.com/u/1523669?s=72&v=4" width="24" alt="Avatar of gertab"> gertab
@@ -1587,7 +1613,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/ArjunRAj77">
 				<img src="https://avatars.githubusercontent.com/u/23217592?s=72&u=9bd2abafe6f4a99601e47e898f7bc7027d4a0690&v=4" width="24" alt="Avatar of ArjunRAj77"> ArjunRAj77
@@ -1600,7 +1626,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/pauldavis">
 				<img src="https://avatars.githubusercontent.com/u/4824?s=72&v=4" width="24" alt="Avatar of pauldavis"> pauldavis
@@ -1613,7 +1639,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/costa911">
 				<img src="https://avatars.githubusercontent.com/u/102555905?s=72&u=e08689549289350fce764186edf548ffd7a0ea3e&v=4" width="24" alt="Avatar of costa911"> costa911
@@ -1626,7 +1652,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/rubenmonterogonzalez">
 				<img src="https://avatars.githubusercontent.com/u/85435045?s=72&u=5b64d3adec0ea6904097844791c6db2e3638969b&v=4" width="24" alt="Avatar of rubenmonterogonzalez"> rubenmonterogonzalez
@@ -1639,20 +1665,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/NetBUG">
-				<img src="https://avatars.githubusercontent.com/u/1539823?s=72&v=4" width="24" alt="Avatar of NetBUG"> NetBUG
-			</a><br/>
-			Oleg
-		</td>
-		<td>Cerebelo </td>
-		<td>No Twitter Username</td>
-		<td>Sliema, Malta</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/aklesky">
 				<img src="https://avatars.githubusercontent.com/u/2772790?s=72&u=9e4507a952d931b1375f8c8b256b057fcb90b67c&v=4" width="24" alt="Avatar of aklesky"> aklesky
@@ -1665,7 +1678,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/phitzi">
 				<img src="https://avatars.githubusercontent.com/u/6391787?s=72&v=4" width="24" alt="Avatar of phitzi"> phitzi
@@ -1678,7 +1691,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/tabone">
 				<img src="https://avatars.githubusercontent.com/u/5364897?s=72&u=dd903e137d86d3a434638db17f36f75f47ae529f&v=4" width="24" alt="Avatar of tabone"> tabone
@@ -1691,7 +1704,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/matthewnessworthy">
 				<img src="https://avatars.githubusercontent.com/u/5653887?s=72&u=e07b6537be40cc8f6703de33679a1fa17ef0d665&v=4" width="24" alt="Avatar of matthewnessworthy"> matthewnessworthy
@@ -1704,7 +1717,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/SamuelSammut">
 				<img src="https://avatars.githubusercontent.com/u/110091601?s=72&u=cae2b83eece78d061cca13bb10cdea27f8631e5e&v=4" width="24" alt="Avatar of SamuelSammut"> SamuelSammut
@@ -1717,7 +1730,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/TimeWithMe233">
 				<img src="https://avatars.githubusercontent.com/u/88070037?s=72&u=49472c8f6855bc0b690bb6b816c944ae72f65659&v=4" width="24" alt="Avatar of TimeWithMe233"> TimeWithMe233
@@ -1730,7 +1743,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/weslleybarboza">
 				<img src="https://avatars.githubusercontent.com/u/47784377?s=72&u=7d388b4a04e762585d6c0c94c1d049f09fe4c6be&v=4" width="24" alt="Avatar of weslleybarboza"> weslleybarboza
@@ -1738,19 +1751,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 			Weslley
 		</td>
 		<td>@epic </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/iko2000">
-				<img src="https://avatars.githubusercontent.com/u/123463655?s=72&u=a3d4798b61641faab9c910eed98a934097bc3f98&v=4" width="24" alt="Avatar of iko2000"> iko2000
-			</a><br/>
-			Full-Stack Software Developer
-		</td>
-		<td>The-van-app  </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>55</td>
@@ -2057,6 +2057,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/drmenguin">
+				<img src="https://avatars.githubusercontent.com/u/19354076?s=72&u=87c20c8f2c183c7d5de11ae0e1d52968d1c2ba73&v=4" width="24" alt="Avatar of drmenguin"> drmenguin
+			</a><br/>
+			Luke Collins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/jdar1312">
 				<img src="https://avatars.githubusercontent.com/u/72512931?s=72&v=4" width="24" alt="Avatar of jdar1312"> jdar1312
 			</a><br/>
@@ -2068,7 +2081,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/bernardmizz13">
 				<img src="https://avatars.githubusercontent.com/u/32910821?s=72&u=3f24b047511324431090d6137f5c782161f5baba&v=4" width="24" alt="Avatar of bernardmizz13"> bernardmizz13
@@ -2079,19 +2092,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>40</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/drmenguin">
-				<img src="https://avatars.githubusercontent.com/u/19354076?s=72&u=87c20c8f2c183c7d5de11ae0e1d52968d1c2ba73&v=4" width="24" alt="Avatar of drmenguin"> drmenguin
-			</a><br/>
-			Luke Collins
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>39</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2837,6 +2837,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/matteotrubini">
+				<img src="https://avatars.githubusercontent.com/u/7964032?s=72&u=983f0887eb8d59a0f05c2f88ae8de7b4a7f0aa5a&v=4" width="24" alt="Avatar of matteotrubini"> matteotrubini
+			</a><br/>
+			Matteo Trubini
+		</td>
+		<td>@cubicsrl @cubicltd  </td>
+		<td>No Twitter Username</td>
+		<td>Lucca, Italy - Żebbuġ, Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/Sean-Powell">
 				<img src="https://avatars.githubusercontent.com/u/12112672?s=72&v=4" width="24" alt="Avatar of Sean-Powell"> Sean-Powell
 			</a><br/>
@@ -2848,7 +2861,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/OnoArnaldo">
 				<img src="https://avatars.githubusercontent.com/u/18633188?s=72&u=0469f86bf9d69448aed5b6df8501e41770e09725&v=4" width="24" alt="Avatar of OnoArnaldo"> OnoArnaldo
@@ -2861,7 +2874,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/enricoaquilina">
 				<img src="https://avatars.githubusercontent.com/u/17750052?s=72&u=439a265eed6198606b2899a9940464bc4e6dc461&v=4" width="24" alt="Avatar of enricoaquilina"> enricoaquilina
@@ -2874,7 +2887,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/claylaut">
 				<img src="https://avatars.githubusercontent.com/u/1999085?s=72&u=7214bda63039caa81b6deecb971e937e6852fe2c&v=4" width="24" alt="Avatar of claylaut"> claylaut
@@ -2887,7 +2900,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/sandorTuranszky">
 				<img src="https://avatars.githubusercontent.com/u/11644015?s=72&u=d32d7fa19a1abaca702859120cdfab613f067c6f&v=4" width="24" alt="Avatar of sandorTuranszky"> sandorTuranszky
@@ -2900,7 +2913,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/camilolucena88">
 				<img src="https://avatars.githubusercontent.com/u/56475977?s=72&u=b531548aa199fced381ddc37755310781e47072a&v=4" width="24" alt="Avatar of camilolucena88"> camilolucena88
@@ -2913,7 +2926,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/mb6792">
 				<img src="https://avatars.githubusercontent.com/u/2950529?s=72&u=562bb7c1cd7d2361b2b59b08060c04aabee499c4&v=4" width="24" alt="Avatar of mb6792"> mb6792
@@ -2926,7 +2939,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/garyThrels">
 				<img src="https://avatars.githubusercontent.com/u/87307137?s=72&u=555a372f37ecd479a2e8cb2d366b42a3f912359e&v=4" width="24" alt="Avatar of garyThrels"> garyThrels
@@ -2939,7 +2952,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/davidbalzan">
 				<img src="https://avatars.githubusercontent.com/u/8627789?s=72&u=cd02adfaff3e6a81179bcbedfd155a048d03d333&v=4" width="24" alt="Avatar of davidbalzan"> davidbalzan
@@ -2952,7 +2965,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/steve-mt">
 				<img src="https://avatars.githubusercontent.com/u/9993446?s=72&u=77f41300b649520e5a9e804feaef38c3c4bc54a9&v=4" width="24" alt="Avatar of steve-mt"> steve-mt
@@ -2965,7 +2978,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/dreasgrech">
 				<img src="https://avatars.githubusercontent.com/u/501697?s=72&v=4" width="24" alt="Avatar of dreasgrech"> dreasgrech
@@ -2978,7 +2991,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/emuel-vassallo">
 				<img src="https://avatars.githubusercontent.com/u/61983362?s=72&u=e195e5c2dcabc60dd1dafd60d6b4abfe17a9f1fd&v=4" width="24" alt="Avatar of emuel-vassallo"> emuel-vassallo
@@ -2991,7 +3004,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/adalseno">
 				<img src="https://avatars.githubusercontent.com/u/2405291?s=72&u=078fd07e1ab6b2a4a7a815423a2b60312b02c036&v=4" width="24" alt="Avatar of adalseno"> adalseno
@@ -3004,7 +3017,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/stas2k">
 				<img src="https://avatars.githubusercontent.com/u/50859?s=72&v=4" width="24" alt="Avatar of stas2k"> stas2k
@@ -3017,7 +3030,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/EndoTouma">
 				<img src="https://avatars.githubusercontent.com/u/90749272?s=72&u=9d529d13f4b6d9f81f4ae23ebda3aa0dea0964e9&v=4" width="24" alt="Avatar of EndoTouma"> EndoTouma
@@ -3030,7 +3043,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/LeticiaBibiano">
 				<img src="https://avatars.githubusercontent.com/u/80980299?s=72&u=87b8a8c80bbb217b9e7ace426fc2e9c62f510f4e&v=4" width="24" alt="Avatar of LeticiaBibiano"> LeticiaBibiano
@@ -3043,7 +3056,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/endless-cycles">
 				<img src="https://avatars.githubusercontent.com/u/147349822?s=72&u=f2f911794ff17738e9caf8213cf538f756ff08ae&v=4" width="24" alt="Avatar of endless-cycles"> endless-cycles
@@ -3056,7 +3069,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/brendofranca">
 				<img src="https://avatars.githubusercontent.com/u/19381212?s=72&u=96ac829e78d1fab4962bdecd4c2b849d59a20a9d&v=4" width="24" alt="Avatar of brendofranca"> brendofranca
@@ -3069,7 +3082,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/DanielMagro97">
 				<img src="https://avatars.githubusercontent.com/u/14795178?s=72&u=4e71ab6e77673de6c0c99241c2644a0ab644be12&v=4" width="24" alt="Avatar of DanielMagro97"> DanielMagro97
@@ -3082,7 +3095,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/Frank-vdm">
 				<img src="https://avatars.githubusercontent.com/u/26402451?s=72&u=bd12d730104fc313c4a20803ad4c8c752183d76a&v=4" width="24" alt="Avatar of Frank-vdm"> Frank-vdm
@@ -3095,7 +3108,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/jacob0811">
 				<img src="https://avatars.githubusercontent.com/u/10351380?s=72&u=aa894f8171ae8f93b231a6f738896b04ecfcc2cc&v=4" width="24" alt="Avatar of jacob0811"> jacob0811
@@ -3108,7 +3121,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/rider-cantuaria-eng">
 				<img src="https://avatars.githubusercontent.com/u/96726225?s=72&u=d7e02800eefb3319323d2aa29956886a178800d6&v=4" width="24" alt="Avatar of rider-cantuaria-eng"> rider-cantuaria-eng
@@ -3121,7 +3134,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/paulera">
 				<img src="https://avatars.githubusercontent.com/u/2051955?s=72&u=b1222012e5ec841124e2594b42f5aa11a92294c2&v=4" width="24" alt="Avatar of paulera"> paulera
@@ -3134,7 +3147,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/xontab">
 				<img src="https://avatars.githubusercontent.com/u/4987684?s=72&v=4" width="24" alt="Avatar of xontab"> xontab
@@ -3147,7 +3160,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/IdotMaster1">
 				<img src="https://avatars.githubusercontent.com/u/48019206?s=72&u=73db805f67b03c931d34b0c64ade4f1a8122f956&v=4" width="24" alt="Avatar of IdotMaster1"> IdotMaster1
@@ -3160,7 +3173,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/marcolenzo">
 				<img src="https://avatars.githubusercontent.com/u/6007586?s=72&u=e218d9726136044f5c971366e314c1c28047c5f2&v=4" width="24" alt="Avatar of marcolenzo"> marcolenzo
@@ -3173,7 +3186,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/timurzholudev">
 				<img src="https://avatars.githubusercontent.com/u/40488807?s=72&u=ef850b34fd860d9e18d95b577476f2708b3eb001&v=4" width="24" alt="Avatar of timurzholudev"> timurzholudev
@@ -3186,7 +3199,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/M1HAJA">
 				<img src="https://avatars.githubusercontent.com/u/77331283?s=72&u=56b087326f34fe0bd94ab4c9a13332e752cb4cd0&v=4" width="24" alt="Avatar of M1HAJA"> M1HAJA
@@ -3199,7 +3212,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/cwebdesign">
 				<img src="https://avatars.githubusercontent.com/u/9461349?s=72&v=4" width="24" alt="Avatar of cwebdesign"> cwebdesign
@@ -3212,7 +3225,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/joseph118">
 				<img src="https://avatars.githubusercontent.com/u/6863655?s=72&u=518462ca4ae3f1367bae473b412ba5f0340730d6&v=4" width="24" alt="Avatar of joseph118"> joseph118
@@ -3222,19 +3235,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/matteotrubini">
-				<img src="https://avatars.githubusercontent.com/u/7964032?s=72&u=983f0887eb8d59a0f05c2f88ae8de7b4a7f0aa5a&v=4" width="24" alt="Avatar of matteotrubini"> matteotrubini
-			</a><br/>
-			Matteo Trubini
-		</td>
-		<td>@cubicsrl @cubicltd  </td>
-		<td>No Twitter Username</td>
-		<td>Lucca, Italy - Żebbuġ, Malta</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -3383,19 +3383,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>253</td>
 		<td>
-			<a href="https://github.com/izEyy442">
-				<img src="https://avatars.githubusercontent.com/u/138182709?s=72&u=8b5a8136f6dc43fcdaaca6d9f64cbfbdff5e453f&v=4" width="24" alt="Avatar of izEyy442"> izEyy442
-			</a><br/>
-			iZeyy
-		</td>
-		<td>Izeyy Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
 			<a href="https://github.com/Navito-py">
 				<img src="https://avatars.githubusercontent.com/u/85807097?s=72&u=163947baf092c5aac777cb193fdd00b2ab326df7&v=4" width="24" alt="Avatar of Navito-py"> Navito-py
 			</a><br/>
@@ -3407,7 +3394,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/julianportelli">
 				<img src="https://avatars.githubusercontent.com/u/40712371?s=72&u=f5d4069aa4b0849771c4ea5dc99bfec3e8e05bc5&v=4" width="24" alt="Avatar of julianportelli"> julianportelli
@@ -3420,7 +3407,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/yassaasalib">
 				<img src="https://avatars.githubusercontent.com/u/96331908?s=72&u=0dea8651272c96ec651c1f7c0cedf9a73e0d1458&v=4" width="24" alt="Avatar of yassaasalib"> yassaasalib
@@ -3433,7 +3420,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/chriscborg">
 				<img src="https://avatars.githubusercontent.com/u/1198968?s=72&u=7e2e8f47b606e792678cbcb48822217151226eea&v=4" width="24" alt="Avatar of chriscborg"> chriscborg
@@ -3446,7 +3433,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/dmitriinor">
 				<img src="https://avatars.githubusercontent.com/u/47141926?s=72&u=9e8f88f7d760ec6b27d8e630eb90b2d6163d1ba2&v=4" width="24" alt="Avatar of dmitriinor"> dmitriinor
@@ -3459,7 +3446,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Bakhtiyar1789">
 				<img src="https://avatars.githubusercontent.com/u/124326652?s=72&v=4" width="24" alt="Avatar of Bakhtiyar1789"> Bakhtiyar1789
@@ -3472,7 +3459,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/arnaudn57">
 				<img src="https://avatars.githubusercontent.com/u/72136839?s=72&u=2a6907b249ec98098a4bf5b4385d242b370e706a&v=4" width="24" alt="Avatar of arnaudn57"> arnaudn57
@@ -3485,7 +3472,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/xiaocong">
 				<img src="https://avatars.githubusercontent.com/u/1559756?s=72&v=4" width="24" alt="Avatar of xiaocong"> xiaocong
@@ -3498,7 +3485,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/Astrophonx">
 				<img src="https://avatars.githubusercontent.com/u/85458225?s=72&u=a6042c1a89f2e8374300a826be5778825a4757a5&v=4" width="24" alt="Avatar of Astrophonx"> Astrophonx
@@ -3511,7 +3498,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/kurtaqui">
 				<img src="https://avatars.githubusercontent.com/u/9292794?s=72&u=26f4f083c80465c8a8b732713e23bb6fc59b70f6&v=4" width="24" alt="Avatar of kurtaqui"> kurtaqui
@@ -3524,7 +3511,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/LukeVassallo">
 				<img src="https://avatars.githubusercontent.com/u/39440296?s=72&v=4" width="24" alt="Avatar of LukeVassallo"> LukeVassallo
@@ -3537,7 +3524,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/firepro20">
 				<img src="https://avatars.githubusercontent.com/u/17837413?s=72&u=655781a679c296d3d2432c8e24bfce8ead0458e0&v=4" width="24" alt="Avatar of firepro20"> firepro20
@@ -3550,7 +3537,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/zeppu">
 				<img src="https://avatars.githubusercontent.com/u/7858320?s=72&u=71e09e74af633f76e6277a04ad371326d8907989&v=4" width="24" alt="Avatar of zeppu"> zeppu
@@ -3563,7 +3550,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/sebbourgeois">
 				<img src="https://avatars.githubusercontent.com/u/1499732?s=72&u=64ac0dadad33991a1edfb52663c034f53bb55453&v=4" width="24" alt="Avatar of sebbourgeois"> sebbourgeois
@@ -3576,7 +3563,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/nichmica7">
 				<img src="https://avatars.githubusercontent.com/u/23216857?s=72&u=3e7a8cec38ae515a5ae0b93d1c916b7a8a3d957a&v=4" width="24" alt="Avatar of nichmica7"> nichmica7
@@ -3589,7 +3576,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/MMortymer">
 				<img src="https://avatars.githubusercontent.com/u/31106805?s=72&u=448fbb122e0a52b13ba17baacc3f3c8555079534&v=4" width="24" alt="Avatar of MMortymer"> MMortymer
@@ -3602,7 +3589,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/yoko-vicky">
 				<img src="https://avatars.githubusercontent.com/u/53027195?s=72&u=36ed87a03c68f875ee7d0bd92de71876a68dca08&v=4" width="24" alt="Avatar of yoko-vicky"> yoko-vicky
@@ -3615,7 +3602,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/louayyahyaoui">
 				<img src="https://avatars.githubusercontent.com/u/49155930?s=72&u=263caaed7698bf8062c5dab7cf5b7fbc1b7e8d65&v=4" width="24" alt="Avatar of louayyahyaoui"> louayyahyaoui
@@ -3628,7 +3615,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/MrKalister">
 				<img src="https://avatars.githubusercontent.com/u/90730760?s=72&u=7ca893686c90db441e76fe8805055a1a69cefef6&v=4" width="24" alt="Avatar of MrKalister"> MrKalister
@@ -3641,7 +3628,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/maxorlovsky">
 				<img src="https://avatars.githubusercontent.com/u/7931620?s=72&u=10a922b3b2f6ff82dbc7028ee2e8eaf060c5af84&v=4" width="24" alt="Avatar of maxorlovsky"> maxorlovsky
@@ -3654,7 +3641,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/idrayv">
 				<img src="https://avatars.githubusercontent.com/u/7283443?s=72&u=3b9e42f64a45407be21e62d6b10ac792fb8b7185&v=4" width="24" alt="Avatar of idrayv"> idrayv
@@ -3667,7 +3654,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/azriel46d">
 				<img src="https://avatars.githubusercontent.com/u/2339134?s=72&u=1bea1b54a3ac03e19deb6dca52de569b53b95bcf&v=4" width="24" alt="Avatar of azriel46d"> azriel46d
@@ -3675,6 +3662,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 			No Name
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/izEyy442">
+				<img src="https://avatars.githubusercontent.com/u/138182709?s=72&u=8b5a8136f6dc43fcdaaca6d9f64cbfbdff5e453f&v=4" width="24" alt="Avatar of izEyy442"> izEyy442
+			</a><br/>
+			iZeyy
+		</td>
+		<td>Izeyy Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>11</td>
@@ -4254,6 +4254,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>320</td>
 		<td>
+			<a href="https://github.com/giuliadant">
+				<img src="https://avatars.githubusercontent.com/u/145217908?s=72&u=b45e89400f082fd2a152eaf7c24915399ff04f41&v=4" width="24" alt="Avatar of giuliadant"> giuliadant
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
 			<a href="https://github.com/Cortis23">
 				<img src="https://avatars.githubusercontent.com/u/17590357?s=72&u=cd86d9ec932bc8733dbb49a0bc46153a65ebd471&v=4" width="24" alt="Avatar of Cortis23"> Cortis23
 			</a><br/>
@@ -4265,7 +4278,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/LydinC">
 				<img src="https://avatars.githubusercontent.com/u/23314188?s=72&u=bd7a9dfcd1f5b35d6052dda279e8b20094d0e042&v=4" width="24" alt="Avatar of LydinC"> LydinC
@@ -4278,7 +4291,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/damko">
 				<img src="https://avatars.githubusercontent.com/u/1107588?s=72&v=4" width="24" alt="Avatar of damko"> damko
@@ -4291,7 +4304,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/benjie332">
 				<img src="https://avatars.githubusercontent.com/u/3155713?s=72&u=b0011deea40b376060af0313a35f8d774f05bf2f&v=4" width="24" alt="Avatar of benjie332"> benjie332
@@ -4304,7 +4317,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/liamattard">
 				<img src="https://avatars.githubusercontent.com/u/21961804?s=72&u=268eade19ceb3674e5d4386cf215a8271692c55d&v=4" width="24" alt="Avatar of liamattard"> liamattard
@@ -4317,7 +4330,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/NicholasMamo">
 				<img src="https://avatars.githubusercontent.com/u/24480072?s=72&u=411d61a51be8ddecb05ac4b789dcc8c856393b28&v=4" width="24" alt="Avatar of NicholasMamo"> NicholasMamo
@@ -4330,7 +4343,20 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/liviuzachin">
+				<img src="https://avatars.githubusercontent.com/u/7502718?s=72&u=d75cef707f22bf6ec23c4204c6df6e9caa1ca7ed&v=4" width="24" alt="Avatar of liviuzachin"> liviuzachin
+			</a><br/>
+			Liviu Zachin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/liviuzachin">liviuzachin</a></td>
+		<td>Malta / Romania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/samirGuesmi">
 				<img src="https://avatars.githubusercontent.com/u/3321162?s=72&u=8557b46307ce0085667aa6677943773c2aedf7b0&v=4" width="24" alt="Avatar of samirGuesmi"> samirGuesmi
@@ -4343,7 +4369,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/Techie-Rosie">
 				<img src="https://avatars.githubusercontent.com/u/188674686?s=72&u=1e2dd1ed1e042aa8d1d3ce19ee254bae9475a2ed&v=4" width="24" alt="Avatar of Techie-Rosie"> Techie-Rosie
@@ -4356,7 +4382,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/gabrielstellini">
 				<img src="https://avatars.githubusercontent.com/u/16836689?s=72&u=efa31b16c6a8a7b8ffa377fc1bb88fea4ef25362&v=4" width="24" alt="Avatar of gabrielstellini"> gabrielstellini
@@ -4369,7 +4395,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/julnnev">
 				<img src="https://avatars.githubusercontent.com/u/54096586?s=72&v=4" width="24" alt="Avatar of julnnev"> julnnev
@@ -4382,7 +4408,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/clintonmagro">
 				<img src="https://avatars.githubusercontent.com/u/9347779?s=72&u=8b3bda5f29c3ea0d00ee9dd09786aad88e049c35&v=4" width="24" alt="Avatar of clintonmagro"> clintonmagro
@@ -4395,7 +4421,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/kurtabela">
 				<img src="https://avatars.githubusercontent.com/u/57000611?s=72&u=4d6a03584ef5c7db28e0f58a6f1798ebf8ddb3a5&v=4" width="24" alt="Avatar of kurtabela"> kurtabela
@@ -4408,7 +4434,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/borgrodrick">
 				<img src="https://avatars.githubusercontent.com/u/4748731?s=72&u=75dc8f1f352ecdb9a0dbd696cc82f0e4f1b5d857&v=4" width="24" alt="Avatar of borgrodrick"> borgrodrick
@@ -4421,7 +4447,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/stefanbuttigieg">
 				<img src="https://avatars.githubusercontent.com/u/3967540?s=72&u=ed6d6fef7ad0600be343bd3b6e2b6086fa051496&v=4" width="24" alt="Avatar of stefanbuttigieg"> stefanbuttigieg
@@ -4434,7 +4460,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/Taffarel">
 				<img src="https://avatars.githubusercontent.com/u/487235?s=72&u=b3d0b45325e3a6d7021b4a03a5e88c95f1654144&v=4" width="24" alt="Avatar of Taffarel"> Taffarel
@@ -4447,7 +4473,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/smuriana">
 				<img src="https://avatars.githubusercontent.com/u/3493047?s=72&u=974f61dc0cee2acf379b4675993ec90f62a38ea5&v=4" width="24" alt="Avatar of smuriana"> smuriana
@@ -4460,7 +4486,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/SijanC147">
 				<img src="https://avatars.githubusercontent.com/u/13831460?s=72&u=2781c18ed38fba4808385982dadb3b121efed11b&v=4" width="24" alt="Avatar of SijanC147"> SijanC147
@@ -4473,20 +4499,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/liviuzachin">
-				<img src="https://avatars.githubusercontent.com/u/7502718?s=72&u=d75cef707f22bf6ec23c4204c6df6e9caa1ca7ed&v=4" width="24" alt="Avatar of liviuzachin"> liviuzachin
-			</a><br/>
-			Liviu Zachin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/liviuzachin">liviuzachin</a></td>
-		<td>Malta / Romania</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/franono">
 				<img src="https://avatars.githubusercontent.com/u/20502751?s=72&u=7b3476669bcaa078f1f493ed6130c3bc68ada1a9&v=4" width="24" alt="Avatar of franono"> franono
@@ -4499,7 +4512,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/pmartelletti">
 				<img src="https://avatars.githubusercontent.com/u/557390?s=72&u=4a14c14e79538073e103a5eda6631ac12a9e7174&v=4" width="24" alt="Avatar of pmartelletti"> pmartelletti
@@ -4512,7 +4525,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/spark8899">
 				<img src="https://avatars.githubusercontent.com/u/1016235?s=72&u=f29d5b4aa24cc002dc51cac2103f55476d6f7077&v=4" width="24" alt="Avatar of spark8899"> spark8899
@@ -4525,7 +4538,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/STOMACOstudio">
 				<img src="https://avatars.githubusercontent.com/u/69104463?s=72&u=1000e2917b18680ff79e025a6884ec033cd2ef8d&v=4" width="24" alt="Avatar of STOMACOstudio"> STOMACOstudio
@@ -4538,7 +4551,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/leandergrech">
 				<img src="https://avatars.githubusercontent.com/u/46715410?s=72&u=6d62d94474d71d06846241e083b75cf9268c5889&v=4" width="24" alt="Avatar of leandergrech"> leandergrech
@@ -4551,7 +4564,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/KurtAg1">
 				<img src="https://avatars.githubusercontent.com/u/60476810?s=72&u=3c1f2364a35efc58301b4f03802b354f0a933b9d&v=4" width="24" alt="Avatar of KurtAg1"> KurtAg1
@@ -4564,7 +4577,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/sebaslog">
 				<img src="https://avatars.githubusercontent.com/u/107572190?s=72&u=5dab88e6f57984b79a3db69e2d90e29ba30862c5&v=4" width="24" alt="Avatar of sebaslog"> sebaslog
@@ -4577,7 +4590,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/carolineprada">
 				<img src="https://avatars.githubusercontent.com/u/41764932?s=72&u=6d3c73cdd39385fb4ae0adbc415ef9e9d7dff029&v=4" width="24" alt="Avatar of carolineprada"> carolineprada
@@ -4590,7 +4603,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/sergiocbueno">
 				<img src="https://avatars.githubusercontent.com/u/46008407?s=72&u=4671c26a4ca09bee9d3ade91a2036f66731ffd24&v=4" width="24" alt="Avatar of sergiocbueno"> sergiocbueno
@@ -4603,7 +4616,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/rubenmamo">
 				<img src="https://avatars.githubusercontent.com/u/7700562?s=72&u=5b744c12de3183384a66b02d19f5ca6a59036754&v=4" width="24" alt="Avatar of rubenmamo"> rubenmamo
@@ -4612,19 +4625,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		</td>
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/rubenmamo">rubenmamo</a></td>
-		<td>Malta</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/giuliadant">
-				<img src="https://avatars.githubusercontent.com/u/145217908?s=72&u=b45e89400f082fd2a152eaf7c24915399ff04f41&v=4" width="24" alt="Avatar of giuliadant"> giuliadant
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>6</td>
 	</tr>
@@ -5554,19 +5554,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>420</td>
 		<td>
-			<a href="https://github.com/DurpDaCrooze">
-				<img src="https://avatars.githubusercontent.com/u/49364788?s=72&u=13ca1ccdac81acdf9196430df17ea6158ee2058b&v=4" width="24" alt="Avatar of DurpDaCrooze"> DurpDaCrooze
-			</a><br/>
-			Luca Cassar
-		</td>
-		<td>Bedmc </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
 			<a href="https://github.com/chocky335">
 				<img src="https://avatars.githubusercontent.com/u/17751725?s=72&u=a71b4b9395a72ed4aaecd1d82ec059168ebbb6f7&v=4" width="24" alt="Avatar of chocky335"> chocky335
 			</a><br/>
@@ -5575,6 +5562,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>Knipster Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Sliema, Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/DurpDaCrooze">
+				<img src="https://avatars.githubusercontent.com/u/49364788?s=72&u=13ca1ccdac81acdf9196430df17ea6158ee2058b&v=4" width="24" alt="Avatar of DurpDaCrooze"> DurpDaCrooze
+			</a><br/>
+			Luca Cassar
+		</td>
+		<td>Bedmc </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6347,6 +6347,19 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>481</td>
 		<td>
+			<a href="https://github.com/akinmoroglu">
+				<img src="https://avatars.githubusercontent.com/u/479949?s=72&u=c489250468327cdf215a7fa262dcdbd167c85129&v=4" width="24" alt="Avatar of akinmoroglu"> akinmoroglu
+			</a><br/>
+			akin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/akinmoroglu">akinmoroglu</a></td>
+		<td>malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
 			<a href="https://github.com/wecet">
 				<img src="https://avatars.githubusercontent.com/u/73174341?s=72&u=113cfbe5973018239d27f5431e1f4cc463159ded&v=4" width="24" alt="Avatar of wecet"> wecet
 			</a><br/>
@@ -6358,7 +6371,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/itapingu">
 				<img src="https://avatars.githubusercontent.com/u/606539?s=72&u=ccdfee1745d15fcf506b7a453097e86295e5ffa8&v=4" width="24" alt="Avatar of itapingu"> itapingu
@@ -6371,7 +6384,7 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/alex-ant">
 				<img src="https://avatars.githubusercontent.com/u/8091829?s=72&u=3304e401ba86b3717ea16ff2704255d085f7544d&v=4" width="24" alt="Avatar of alex-ant"> alex-ant
@@ -6381,19 +6394,6 @@ There are `889 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/akinmoroglu">
-				<img src="https://avatars.githubusercontent.com/u/479949?s=72&u=c489250468327cdf215a7fa262dcdbd167c85129&v=4" width="24" alt="Avatar of akinmoroglu"> akinmoroglu
-			</a><br/>
-			akin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/akinmoroglu">akinmoroglu</a></td>
-		<td>malta</td>
 		<td>1</td>
 	</tr>
 	<tr>
