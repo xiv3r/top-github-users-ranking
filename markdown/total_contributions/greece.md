@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` and `private contributions` by users in Greece on `2025/3/3 11:49 AM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` and `private contributions` by users in Greece on `2025/3/3 11:59 AM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1923,7 +1923,7 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td><a href="https://twitter.com/aescipher">aescipher</a></td>
 		<td>Greece</td>
 		<td>1</td>
-		<td>1053</td>
+		<td>1054</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -7052,6 +7052,20 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 	<tr>
 		<td>497</td>
 		<td>
+			<a href="https://github.com/edisleka">
+				<img src="https://avatars.githubusercontent.com/u/88153881?s=72&u=5741b8e4c9e05166a37a0f537a13e7f80ae48542&v=4" width="24" alt="Avatar of edisleka"> edisleka
+			</a><br/>
+			Edis Leka
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LekaEdis">LekaEdis</a></td>
+		<td>Athens, Greece</td>
+		<td>122</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
 			<a href="https://github.com/eeVoskos">
 				<img src="https://avatars.githubusercontent.com/u/505321?s=72&u=9d91bdefccd7f8117e07bede24e5dddda0642c9a&v=4" width="24" alt="Avatar of eeVoskos"> eeVoskos
 			</a><br/>
@@ -7062,20 +7076,6 @@ There are `958 users`  in Greece. You need at least `30 followers` to be on this
 		<td>Athens, Greece</td>
 		<td>69</td>
 		<td>122</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/edisleka">
-				<img src="https://avatars.githubusercontent.com/u/88153881?s=72&u=5741b8e4c9e05166a37a0f537a13e7f80ae48542&v=4" width="24" alt="Avatar of edisleka"> edisleka
-			</a><br/>
-			Edis Leka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LekaEdis">LekaEdis</a></td>
-		<td>Athens, Greece</td>
-		<td>120</td>
-		<td>120</td>
 	</tr>
 	<tr>
 		<td>499</td>
