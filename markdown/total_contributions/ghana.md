@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` and `private contributions` by users in Ghana on `2025/3/3 11:28 AM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` and `private contributions` by users in Ghana on `2025/3/3 11:38 AM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -229,7 +229,7 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td><a href="https://twitter.com/bhra_khoby">bhra_khoby</a></td>
 		<td>Accra, Ghana</td>
 		<td>2</td>
-		<td>5163</td>
+		<td>5164</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1502,8 +1502,8 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/boybenson_">boybenson_</a></td>
 		<td>Accra, Ghana</td>
-		<td>64</td>
-		<td>1566</td>
+		<td>65</td>
+		<td>1567</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1886,6 +1886,20 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 	<tr>
 		<td>128</td>
 		<td>
+			<a href="https://github.com/dev-rafiu">
+				<img src="https://avatars.githubusercontent.com/u/86615946?s=72&u=174123aa62af2244a985d81717cefcdd867123a0&v=4" width="24" alt="Avatar of dev-rafiu"> dev-rafiu
+			</a><br/>
+			Rafiw Idrissu
+		</td>
+		<td>Shaq Express </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>130</td>
+		<td>1249</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
 			<a href="https://github.com/Clifftech123">
 				<img src="https://avatars.githubusercontent.com/u/89735381?s=72&u=0e4f8bc5676cce9f0a32530119a2159f42020381&v=4" width="24" alt="Avatar of Clifftech123"> Clifftech123
 			</a><br/>
@@ -1898,7 +1912,7 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>1248</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/IchaCoder">
 				<img src="https://avatars.githubusercontent.com/u/76918241?s=72&u=ec75657a4db04e76297a25f4c3fd40d96828db4d&v=4" width="24" alt="Avatar of IchaCoder"> IchaCoder
@@ -1912,7 +1926,7 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>1248</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/TandohAnthonyNwiAckah">
 				<img src="https://avatars.githubusercontent.com/u/29551282?s=72&u=47736a7908c11c5946d137a12596ef4b49d37c84&v=4" width="24" alt="Avatar of TandohAnthonyNwiAckah"> TandohAnthonyNwiAckah
@@ -1924,20 +1938,6 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>Ghana</td>
 		<td>157</td>
 		<td>1243</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/dev-rafiu">
-				<img src="https://avatars.githubusercontent.com/u/86615946?s=72&u=174123aa62af2244a985d81717cefcdd867123a0&v=4" width="24" alt="Avatar of dev-rafiu"> dev-rafiu
-			</a><br/>
-			Rafiw Idrissu
-		</td>
-		<td>Shaq Express </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>130</td>
-		<td>1240</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -4470,8 +4470,8 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KTweneboah">KTweneboah</a></td>
 		<td>Ghana</td>
-		<td>224</td>
-		<td>581</td>
+		<td>225</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4728,20 +4728,6 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 	<tr>
 		<td>331</td>
 		<td>
-			<a href="https://github.com/ikmazameti">
-				<img src="https://avatars.githubusercontent.com/u/60759789?s=72&u=a2f0f2d49a1869455988a8d8e062983457ed023b&v=4" width="24" alt="Avatar of ikmazameti"> ikmazameti
-			</a><br/>
-			Mawuli Azameti
-		</td>
-		<td>Orcons Systems Limited </td>
-		<td><a href="https://twitter.com/me_mikaware">me_mikaware</a></td>
-		<td>Ghana</td>
-		<td>86</td>
-		<td>531</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
 			<a href="https://github.com/Fourteen98">
 				<img src="https://avatars.githubusercontent.com/u/44606356?s=72&u=62f5bf1d6893b3db4c6e9dc1611da19b6e59bc37&v=4" width="24" alt="Avatar of Fourteen98"> Fourteen98
 			</a><br/>
@@ -4751,6 +4737,20 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td><a href="https://twitter.com/muhiydeen">muhiydeen</a></td>
 		<td>Accra-Ghana</td>
 		<td>5</td>
+		<td>532</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/ikmazameti">
+				<img src="https://avatars.githubusercontent.com/u/60759789?s=72&u=a2f0f2d49a1869455988a8d8e062983457ed023b&v=4" width="24" alt="Avatar of ikmazameti"> ikmazameti
+			</a><br/>
+			Mawuli Azameti
+		</td>
+		<td>Orcons Systems Limited </td>
+		<td><a href="https://twitter.com/me_mikaware">me_mikaware</a></td>
+		<td>Ghana</td>
+		<td>86</td>
 		<td>531</td>
 	</tr>
 	<tr>
@@ -7033,7 +7033,7 @@ There are `985 users`  in Ghana. You need at least `19 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
 		<td>72</td>
-		<td>226</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>496</td>
