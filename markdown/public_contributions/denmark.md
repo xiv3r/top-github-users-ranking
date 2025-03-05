@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/3/5 11:50 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/3/5 12:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -232,7 +232,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SimonStran36407">SimonStran36407</a></td>
 		<td>Copenhagen - Denmark</td>
-		<td>3228</td>
+		<td>3231</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -258,7 +258,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@metamask </td>
 		<td><a href="https://twitter.com/frederikbolding">frederikbolding</a></td>
 		<td>Denmark</td>
-		<td>2584</td>
+		<td>2585</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -310,7 +310,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>Alexandra Institute </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>2302</td>
+		<td>2303</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -544,7 +544,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@setono  </td>
 		<td><a href="https://twitter.com/loevgaard">loevgaard</a></td>
 		<td>Nørresundby, Denmark</td>
-		<td>1702</td>
+		<td>1703</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1506,7 +1506,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@maragudk  </td>
 		<td>No Twitter Username</td>
 		<td>Aarhus, Denmark</td>
-		<td>702</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -5367,7 +5367,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@moma-auh @iastro-pt </td>
 		<td>No Twitter Username</td>
 		<td>Horsens, Denmark</td>
-		<td>93</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>406</td>
@@ -5645,6 +5645,19 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>427</td>
 		<td>
+			<a href="https://github.com/papandreou">
+				<img src="https://avatars.githubusercontent.com/u/373545?s=72&v=4" width="24" alt="Avatar of papandreou"> papandreou
+			</a><br/>
+			Andreas Lind
+		</td>
+		<td>@peakon </td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
 			<a href="https://github.com/cvium">
 				<img src="https://avatars.githubusercontent.com/u/675118?s=72&u=65104380a94d969b21efa7080e018a4367831fdc&v=4" width="24" alt="Avatar of cvium"> cvium
 			</a><br/>
@@ -5656,7 +5669,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/jeppeml">
 				<img src="https://avatars.githubusercontent.com/u/20857674?s=72&u=36bd2497600aaa3a9aa242f628b8d294b8d5d4b7&v=4" width="24" alt="Avatar of jeppeml"> jeppeml
@@ -5666,19 +5679,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/papandreou">
-				<img src="https://avatars.githubusercontent.com/u/373545?s=72&v=4" width="24" alt="Avatar of papandreou"> papandreou
-			</a><br/>
-			Andreas Lind
-		</td>
-		<td>@peakon </td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
 		<td>80</td>
 	</tr>
 	<tr>

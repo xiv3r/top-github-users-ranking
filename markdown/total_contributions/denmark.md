@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2025/3/5 11:50 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2025/3/5 12:00 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -326,8 +326,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>Alexandra Institute </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>2302</td>
-		<td>4666</td>
+		<td>2303</td>
+		<td>4667</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -648,8 +648,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SimonStran36407">SimonStran36407</a></td>
 		<td>Copenhagen - Denmark</td>
-		<td>3228</td>
-		<td>3228</td>
+		<td>3231</td>
+		<td>3231</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -872,8 +872,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@metamask </td>
 		<td><a href="https://twitter.com/frederikbolding">frederikbolding</a></td>
 		<td>Denmark</td>
-		<td>2584</td>
-		<td>2719</td>
+		<td>2585</td>
+		<td>2720</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -887,7 +887,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>116</td>
-		<td>2687</td>
+		<td>2689</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1082,8 +1082,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@peakon </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>80</td>
-		<td>2369</td>
+		<td>81</td>
+		<td>2370</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1195,7 +1195,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td><a href="https://twitter.com/notstyler">notstyler</a></td>
 		<td>Denmark</td>
 		<td>232</td>
-		<td>2252</td>
+		<td>2253</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1312,6 +1312,20 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>87</td>
 		<td>
+			<a href="https://github.com/forsbergplustwo">
+				<img src="https://avatars.githubusercontent.com/u/1411883?s=72&u=df2254b693f475ef96c3f7ed30704c63c99d402e&v=4" width="24" alt="Avatar of forsbergplustwo"> forsbergplustwo
+			</a><br/>
+			Bjørn Forsberg
+		</td>
+		<td>Forsberg+two </td>
+		<td><a href="https://twitter.com/FORSBERGtwo">FORSBERGtwo</a></td>
+		<td>Denmark</td>
+		<td>27</td>
+		<td>2065</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
 			<a href="https://github.com/DearDhruv">
 				<img src="https://avatars.githubusercontent.com/u/1201239?s=72&u=bf89757f40ca6d4d91e07b95b0cbfd0801422514&v=4" width="24" alt="Avatar of DearDhruv"> DearDhruv
 			</a><br/>
@@ -1324,7 +1338,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>2036</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/ThomasVitale">
 				<img src="https://avatars.githubusercontent.com/u/8523418?s=72&u=e5530a23276113b1c8a415809159bc46f0eb5e4e&v=4" width="24" alt="Avatar of ThomasVitale"> ThomasVitale
@@ -1338,7 +1352,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>2035</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/rasmus">
 				<img src="https://avatars.githubusercontent.com/u/18956?s=72&u=1e1f73652b429580ed9abf58781448802febdc29&v=4" width="24" alt="Avatar of rasmus"> rasmus
@@ -1352,7 +1366,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>2024</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/greystate">
 				<img src="https://avatars.githubusercontent.com/u/5463?s=72&v=4" width="24" alt="Avatar of greystate"> greystate
@@ -1366,7 +1380,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>2020</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/zetxek">
 				<img src="https://avatars.githubusercontent.com/u/240085?s=72&u=cfc748f822cc750e5efdefd2cb0825708ec8d740&v=4" width="24" alt="Avatar of zetxek"> zetxek
@@ -1378,20 +1392,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>Copenhagen</td>
 		<td>1752</td>
 		<td>2013</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/forsbergplustwo">
-				<img src="https://avatars.githubusercontent.com/u/1411883?s=72&u=df2254b693f475ef96c3f7ed30704c63c99d402e&v=4" width="24" alt="Avatar of forsbergplustwo"> forsbergplustwo
-			</a><br/>
-			Bjørn Forsberg
-		</td>
-		<td>Forsberg+two </td>
-		<td><a href="https://twitter.com/FORSBERGtwo">FORSBERGtwo</a></td>
-		<td>Denmark</td>
-		<td>27</td>
-		<td>2005</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1676,6 +1676,20 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>113</td>
 		<td>
+			<a href="https://github.com/loevgaard">
+				<img src="https://avatars.githubusercontent.com/u/2412177?s=72&u=3d9dbd29bd5445df59ca0c874606871622e24354&v=4" width="24" alt="Avatar of loevgaard"> loevgaard
+			</a><br/>
+			Joachim Løvgaard
+		</td>
+		<td>@setono  </td>
+		<td><a href="https://twitter.com/loevgaard">loevgaard</a></td>
+		<td>Nørresundby, Denmark</td>
+		<td>1703</td>
+		<td>1703</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
 			<a href="https://github.com/olivercederborg">
 				<img src="https://avatars.githubusercontent.com/u/47901349?s=72&u=11ba8d54a3b20e618c41a6aa9933a2157478c82f&v=4" width="24" alt="Avatar of olivercederborg"> olivercederborg
 			</a><br/>
@@ -1685,20 +1699,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
 		<td>141</td>
-		<td>1702</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/loevgaard">
-				<img src="https://avatars.githubusercontent.com/u/2412177?s=72&u=3d9dbd29bd5445df59ca0c874606871622e24354&v=4" width="24" alt="Avatar of loevgaard"> loevgaard
-			</a><br/>
-			Joachim Løvgaard
-		</td>
-		<td>@setono  </td>
-		<td><a href="https://twitter.com/loevgaard">loevgaard</a></td>
-		<td>Nørresundby, Denmark</td>
-		<td>1702</td>
 		<td>1702</td>
 	</tr>
 	<tr>
@@ -1950,8 +1950,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@maragudk  </td>
 		<td>No Twitter Username</td>
 		<td>Aarhus, Denmark</td>
-		<td>702</td>
-		<td>1514</td>
+		<td>703</td>
+		<td>1515</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -2034,8 +2034,8 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>@moma-auh @iastro-pt </td>
 		<td>No Twitter Username</td>
 		<td>Horsens, Denmark</td>
-		<td>93</td>
-		<td>1444</td>
+		<td>94</td>
+		<td>1445</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -3874,20 +3874,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>270</td>
 		<td>
-			<a href="https://github.com/casper-hansen">
-				<img src="https://avatars.githubusercontent.com/u/27340033?s=72&v=4" width="24" alt="Avatar of casper-hansen"> casper-hansen
-			</a><br/>
-			Casper
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
-		<td>200</td>
-		<td>750</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
 			<a href="https://github.com/noahlaux">
 				<img src="https://avatars.githubusercontent.com/u/880751?s=72&u=86744fb311ac00a49c090c4dc8583966db156119&v=4" width="24" alt="Avatar of noahlaux"> noahlaux
 			</a><br/>
@@ -3897,6 +3883,20 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen</td>
 		<td>2</td>
+		<td>751</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/casper-hansen">
+				<img src="https://avatars.githubusercontent.com/u/27340033?s=72&v=4" width="24" alt="Avatar of casper-hansen"> casper-hansen
+			</a><br/>
+			Casper
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
+		<td>200</td>
 		<td>750</td>
 	</tr>
 	<tr>
@@ -3925,7 +3925,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>145</td>
-		<td>734</td>
+		<td>743</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -4261,7 +4261,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Horsens, Denmark</td>
 		<td>300</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -4555,7 +4555,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
 		<td>6</td>
-		<td>587</td>
+		<td>588</td>
 	</tr>
 	<tr>
 		<td>319</td>
@@ -4961,7 +4961,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>3</td>
-		<td>501</td>
+		<td>502</td>
 	</tr>
 	<tr>
 		<td>348</td>
@@ -8550,6 +8550,20 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>604</td>
 		<td>
+			<a href="https://github.com/eugene">
+				<img src="https://avatars.githubusercontent.com/u/1722?s=72&u=a75779347284065bd5e5c6d5a4a21c738c37e803&v=4" width="24" alt="Avatar of eugene"> eugene
+			</a><br/>
+			Євген
+		</td>
+		<td>Technical University Of Denmark<br/></td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
+		<td>67</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
 			<a href="https://github.com/LindaLawton">
 				<img src="https://avatars.githubusercontent.com/u/6592543?s=72&u=7e19091369c6c41ad2e1ab823fb38983303517d0&v=4" width="24" alt="Avatar of LindaLawton"> LindaLawton
 			</a><br/>
@@ -8562,7 +8576,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/mauran">
 				<img src="https://avatars.githubusercontent.com/u/282398?s=72&u=5fba6529ebff2ed317f6d4dffc99aea27831e8c2&v=4" width="24" alt="Avatar of mauran"> mauran
@@ -8576,7 +8590,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/paotsaq">
 				<img src="https://avatars.githubusercontent.com/u/61233724?s=72&u=88a054df1f7650dba973cff0c4831854068e23e6&v=4" width="24" alt="Avatar of paotsaq"> paotsaq
@@ -8590,7 +8604,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/ekstroem">
 				<img src="https://avatars.githubusercontent.com/u/6160801?s=72&u=4789c873d66afcccce70b6fe69beae86726740a6&v=4" width="24" alt="Avatar of ekstroem"> ekstroem
@@ -8604,7 +8618,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/jsmnbom">
 				<img src="https://avatars.githubusercontent.com/u/3002987?s=72&u=6ca8e3ea8afdf099ab36774280749dda7fe08bca&v=4" width="24" alt="Avatar of jsmnbom"> jsmnbom
@@ -8616,20 +8630,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>Denmark</td>
 		<td>91</td>
 		<td>91</td>
-	</tr>
-	<tr>
-		<td>609</td>
-		<td>
-			<a href="https://github.com/eugene">
-				<img src="https://avatars.githubusercontent.com/u/1722?s=72&u=a75779347284065bd5e5c6d5a4a21c738c37e803&v=4" width="24" alt="Avatar of eugene"> eugene
-			</a><br/>
-			Євген
-		</td>
-		<td>Technical University Of Denmark<br/></td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
-		<td>67</td>
-		<td>90</td>
 	</tr>
 	<tr>
 		<td>610</td>
@@ -9082,6 +9082,20 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 	<tr>
 		<td>642</td>
 		<td>
+			<a href="https://github.com/Frier03">
+				<img src="https://avatars.githubusercontent.com/u/72045321?s=72&v=4" width="24" alt="Avatar of Frier03"> Frier03
+			</a><br/>
+			Peter Frier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Denmark</td>
+		<td>2</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
 			<a href="https://github.com/msiebuhr">
 				<img src="https://avatars.githubusercontent.com/u/330611?s=72&v=4" width="24" alt="Avatar of msiebuhr"> msiebuhr
 			</a><br/>
@@ -9094,7 +9108,7 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/jensstigaard">
 				<img src="https://avatars.githubusercontent.com/u/1948848?s=72&v=4" width="24" alt="Avatar of jensstigaard"> jensstigaard
@@ -9106,20 +9120,6 @@ There are `930 users`  in Denmark. You need at least `42 followers` to be on thi
 		<td>Denmark</td>
 		<td>63</td>
 		<td>63</td>
-	</tr>
-	<tr>
-		<td>644</td>
-		<td>
-			<a href="https://github.com/Frier03">
-				<img src="https://avatars.githubusercontent.com/u/72045321?s=72&v=4" width="24" alt="Avatar of Frier03"> Frier03
-			</a><br/>
-			Peter Frier
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Denmark</td>
-		<td>2</td>
-		<td>62</td>
 	</tr>
 	<tr>
 		<td>645</td>
