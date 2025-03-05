@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` and `private contributions` by users in Finland on `2025/3/5 2:48 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` and `private contributions` by users in Finland on `2025/3/5 2:58 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -354,8 +354,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>Nordea </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>355</td>
-		<td>3351</td>
+		<td>356</td>
+		<td>3352</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -486,6 +486,20 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/hhyyrylainen">
+				<img src="https://avatars.githubusercontent.com/u/3796411?s=72&v=4" width="24" alt="Avatar of hhyyrylainen"> hhyyrylainen
+			</a><br/>
+			Henri Hyyryläinen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hihyyrylainen">hihyyrylainen</a></td>
+		<td>Finland</td>
+		<td>2417</td>
+		<td>2781</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/perlun">
 				<img src="https://avatars.githubusercontent.com/u/630613?s=72&u=c408e35d325570ad0d9822dbb014be751352ccdb&v=4" width="24" alt="Avatar of perlun"> perlun
 			</a><br/>
@@ -495,20 +509,6 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland (& Sweden)</td>
 		<td>356</td>
-		<td>2780</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/hhyyrylainen">
-				<img src="https://avatars.githubusercontent.com/u/3796411?s=72&v=4" width="24" alt="Avatar of hhyyrylainen"> hhyyrylainen
-			</a><br/>
-			Henri Hyyryläinen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hihyyrylainen">hihyyrylainen</a></td>
-		<td>Finland</td>
-		<td>2416</td>
 		<td>2780</td>
 	</tr>
 	<tr>
@@ -705,7 +705,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>95</td>
-		<td>2312</td>
+		<td>2313</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -817,7 +817,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/tmatilai">tmatilai</a></td>
 		<td>Helsinki, Finland</td>
 		<td>52</td>
-		<td>2191</td>
+		<td>2192</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -915,7 +915,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/uninen">uninen</a></td>
 		<td>Turku, Finland</td>
 		<td>326</td>
-		<td>2011</td>
+		<td>2014</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -957,7 +957,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/artoliukkonen">artoliukkonen</a></td>
 		<td>Jyväskylä, Finland</td>
 		<td>4</td>
-		<td>1976</td>
+		<td>1977</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1293,7 +1293,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
 		<td>152</td>
-		<td>1705</td>
+		<td>1706</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -2161,7 +2161,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>158</td>
-		<td>1287</td>
+		<td>1288</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2986,8 +2986,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@iqm-finland  </td>
 		<td><a href="https://twitter.com/freetonik">freetonik</a></td>
 		<td>Helsinki, Finland</td>
-		<td>440</td>
-		<td>980</td>
+		<td>441</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -3603,7 +3603,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>495</td>
-		<td>780</td>
+		<td>781</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3952,8 +3952,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>Independent + Aalto U,<br/>Former<br/>Hse<br/>&<br/>Skoltech<br/></td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, FI</td>
-		<td>702</td>
-		<td>702</td>
+		<td>703</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>276</td>
@@ -4364,26 +4364,26 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>305</td>
 		<td>
-			<a href="https://github.com/Larhzu">
-				<img src="https://avatars.githubusercontent.com/u/120408189?s=72&v=4" width="24" alt="Avatar of Larhzu"> Larhzu
-			</a><br/>
-			Lasse Collin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>603</td>
-		<td>603</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
 			<a href="https://github.com/JamiKettunen">
 				<img src="https://avatars.githubusercontent.com/u/47358222?s=72&u=ce1a1ddf069f5bad6ed63d1cbcecd30f223f3a9c&v=4" width="24" alt="Avatar of JamiKettunen"> JamiKettunen
 			</a><br/>
 			Jami Kettunen
 		</td>
 		<td>@hellovolla </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>604</td>
+		<td>604</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/Larhzu">
+				<img src="https://avatars.githubusercontent.com/u/120408189?s=72&v=4" width="24" alt="Avatar of Larhzu"> Larhzu
+			</a><br/>
+			Lasse Collin
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>603</td>
@@ -5870,8 +5870,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>380</td>
-		<td>380</td>
+		<td>381</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>413</td>

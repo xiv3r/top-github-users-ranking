@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2025/3/5 2:48 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2025/3/5 2:58 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hihyyrylainen">hihyyrylainen</a></td>
 		<td>Finland</td>
-		<td>2416</td>
+		<td>2417</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1194,7 +1194,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>Independent + Aalto U,<br/>Former<br/>Hse<br/>&<br/>Skoltech<br/></td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, FI</td>
-		<td>702</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1524,25 +1524,25 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/Larhzu">
-				<img src="https://avatars.githubusercontent.com/u/120408189?s=72&v=4" width="24" alt="Avatar of Larhzu"> Larhzu
-			</a><br/>
-			Lasse Collin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>603</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
 			<a href="https://github.com/JamiKettunen">
 				<img src="https://avatars.githubusercontent.com/u/47358222?s=72&u=ce1a1ddf069f5bad6ed63d1cbcecd30f223f3a9c&v=4" width="24" alt="Avatar of JamiKettunen"> JamiKettunen
 			</a><br/>
 			Jami Kettunen
 		</td>
 		<td>@hellovolla </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>604</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/Larhzu">
+				<img src="https://avatars.githubusercontent.com/u/120408189?s=72&v=4" width="24" alt="Avatar of Larhzu"> Larhzu
+			</a><br/>
+			Lasse Collin
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>603</td>
@@ -2234,7 +2234,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@iqm-finland  </td>
 		<td><a href="https://twitter.com/freetonik">freetonik</a></td>
 		<td>Helsinki, Finland</td>
-		<td>440</td>
+		<td>441</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -2598,7 +2598,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>380</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2707,6 +2707,19 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>201</td>
 		<td>
+			<a href="https://github.com/wes337">
+				<img src="https://avatars.githubusercontent.com/u/9464690?s=72&u=7e2a86c14e1155e2cb4a6157f29958064b282920&v=4" width="24" alt="Avatar of wes337"> wes337
+			</a><br/>
+			Wesley Moses
+		</td>
+		<td>Nordea </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>356</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
 			<a href="https://github.com/perlun">
 				<img src="https://avatars.githubusercontent.com/u/630613?s=72&u=c408e35d325570ad0d9822dbb014be751352ccdb&v=4" width="24" alt="Avatar of perlun"> perlun
 			</a><br/>
@@ -2718,7 +2731,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>356</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/Eldemarkki">
 				<img src="https://avatars.githubusercontent.com/u/38920928?s=72&u=85805b775eea2f4b20589dcc6828e2531fe2366c&v=4" width="24" alt="Avatar of Eldemarkki"> Eldemarkki
@@ -2729,19 +2742,6 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/eldemarkki">eldemarkki</a></td>
 		<td>Finland</td>
 		<td>356</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/wes337">
-				<img src="https://avatars.githubusercontent.com/u/9464690?s=72&u=7e2a86c14e1155e2cb4a6157f29958064b282920&v=4" width="24" alt="Avatar of wes337"> wes337
-			</a><br/>
-			Wesley Moses
-		</td>
-		<td>Nordea </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>355</td>
 	</tr>
 	<tr>
 		<td>204</td>
