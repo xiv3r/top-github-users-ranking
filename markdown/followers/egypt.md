@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `number of followers` of users in Egypt on `2025/3/5 1:45 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `number of followers` of users in Egypt on `2025/3/7 10:49 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
