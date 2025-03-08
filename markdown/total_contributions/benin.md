@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` and `private contributions` by users in Benin on `2025/3/8 6:19 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` and `private contributions` by users in Benin on `2025/3/8 6:56 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,7 +159,7 @@ There are `892 users`  in Benin. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/timothymaarv">timothymaarv</a></td>
 		<td>Benin, Nigeria</td>
 		<td>4</td>
-		<td>5019</td>
+		<td>5022</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1040,8 +1040,8 @@ There are `892 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Ip-tec </td>
 		<td><a href="https://twitter.com/innocenpeter">innocenpeter</a></td>
 		<td>Nigerian,Edo State,Benin city.</td>
-		<td>559</td>
-		<td>784</td>
+		<td>560</td>
+		<td>785</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1097,7 +1097,7 @@ There are `892 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Benin City</td>
 		<td>386</td>
-		<td>745</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>72</td>
