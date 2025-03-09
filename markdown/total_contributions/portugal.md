@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2025/3/9 4:45 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2025/3/9 4:55 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -509,7 +509,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
 		<td>6</td>
-		<td>3315</td>
+		<td>3316</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -3981,7 +3981,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Coimbra, Portugal</td>
 		<td>118</td>
-		<td>732</td>
+		<td>733</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -4596,8 +4596,8 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>Full Fabric </td>
 		<td><a href="https://twitter.com/rodloboz">rodloboz</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>134</td>
-		<td>583</td>
+		<td>136</td>
+		<td>585</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -5002,8 +5002,8 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>University Of Lisbon </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon, Portugal</td>
-		<td>518</td>
-		<td>518</td>
+		<td>519</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>351</td>
@@ -5675,7 +5675,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
 		<td>54</td>
-		<td>383</td>
+		<td>384</td>
 	</tr>
 	<tr>
 		<td>399</td>
@@ -11840,6 +11840,20 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 	<tr>
 		<td>839</td>
 		<td>
+			<a href="https://github.com/amdj15">
+				<img src="https://avatars.githubusercontent.com/u/3541552?s=72&u=22064e8586cef5870ab6a82fcf215db84b9cf1c6&v=4" width="24" alt="Avatar of amdj15"> amdj15
+			</a><br/>
+			Anton Biliaiev
+		</td>
+		<td>@shiphawk </td>
+		<td>No Twitter Username</td>
+		<td>Lisbon, Portugal</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>840</td>
+		<td>
 			<a href="https://github.com/andreoav">
 				<img src="https://avatars.githubusercontent.com/u/508827?s=72&u=26b394f330389729ee82475741c204df8878b1b4&v=4" width="24" alt="Avatar of andreoav"> andreoav
 			</a><br/>
@@ -11852,7 +11866,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/tnunes">
 				<img src="https://avatars.githubusercontent.com/u/163187?s=72&u=92315803739bc8af4788d3a6bd09b02b4584a069&v=4" width="24" alt="Avatar of tnunes"> tnunes
@@ -11866,7 +11880,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/rjtavares">
 				<img src="https://avatars.githubusercontent.com/u/4527709?s=72&v=4" width="24" alt="Avatar of rjtavares"> rjtavares
@@ -11880,7 +11894,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/felipedaragon">
 				<img src="https://avatars.githubusercontent.com/u/4965828?s=72&u=f816f6ba674131ba7c29f71602dc79bca05003c2&v=4" width="24" alt="Avatar of felipedaragon"> felipedaragon
@@ -11894,7 +11908,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/hungrepo">
 				<img src="https://avatars.githubusercontent.com/u/75045323?s=72&u=a7e8374c5fbb52a72d8da1ea8919e1e4a914d5eb&v=4" width="24" alt="Avatar of hungrepo"> hungrepo
@@ -11908,7 +11922,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/renanxcortes">
 				<img src="https://avatars.githubusercontent.com/u/22593188?s=72&u=45997bb2e72506c3c5b8b7378d5f713275647230&v=4" width="24" alt="Avatar of renanxcortes"> renanxcortes
@@ -11922,7 +11936,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/ricardopereira33">
 				<img src="https://avatars.githubusercontent.com/u/16037370?s=72&u=b14d0b01a92ede4c761c0fb1600966bd6cd09292&v=4" width="24" alt="Avatar of ricardopereira33"> ricardopereira33
@@ -11936,7 +11950,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/marcinhuu">
 				<img src="https://avatars.githubusercontent.com/u/53786456?s=72&u=091b629a18a9e317ed9c7087e419d3b3f151caa2&v=4" width="24" alt="Avatar of marcinhuu"> marcinhuu
@@ -11950,7 +11964,7 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/fbaiodias">
 				<img src="https://avatars.githubusercontent.com/u/1211330?s=72&u=6154382679d9c8c57b10cd08d806f7ec5cc097bf&v=4" width="24" alt="Avatar of fbaiodias"> fbaiodias
@@ -11960,20 +11974,6 @@ There are `968 users`  in Portugal. You need at least `71 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ericeira, Portugal</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>848</td>
-		<td>
-			<a href="https://github.com/amdj15">
-				<img src="https://avatars.githubusercontent.com/u/3541552?s=72&u=22064e8586cef5870ab6a82fcf215db84b9cf1c6&v=4" width="24" alt="Avatar of amdj15"> amdj15
-			</a><br/>
-			Anton Biliaiev
-		</td>
-		<td>@shiphawk </td>
-		<td>No Twitter Username</td>
-		<td>Lisbon, Portugal</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
