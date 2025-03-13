@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/3/11 11:43 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/3/13 9:41 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -193,7 +193,7 @@ There are `128 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@ibm </td>
 		<td>No Twitter Username</td>
 		<td>San Marino, SMR</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -731,19 +731,6 @@ There are `128 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/matteorossi-thespacesm">
-				<img src="https://avatars.githubusercontent.com/u/61690145?s=72&u=7032cf4b63623b0040bf46424a4424f05a443e7e&v=4" width="24" alt="Avatar of matteorossi-thespacesm"> matteorossi-thespacesm
-			</a><br/>
-			No Name
-		</td>
-		<td>Thespacesm Srl </td>
-		<td>No Twitter Username</td>
-		<td>Strada Cardio 58 47899 Serravalle San Marino</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
 			<a href="https://github.com/simonefalcini">
 				<img src="https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4" width="24" alt="Avatar of simonefalcini"> simonefalcini
 			</a><br/>
@@ -752,6 +739,19 @@ There are `128 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/matteorossi-thespacesm">
+				<img src="https://avatars.githubusercontent.com/u/61690145?s=72&u=7032cf4b63623b0040bf46424a4424f05a443e7e&v=4" width="24" alt="Avatar of matteorossi-thespacesm"> matteorossi-thespacesm
+			</a><br/>
+			No Name
+		</td>
+		<td>Thespacesm Srl </td>
+		<td>No Twitter Username</td>
+		<td>Strada Cardio 58 47899 Serravalle San Marino</td>
 		<td>1</td>
 	</tr>
 	<tr>
