@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2025/3/16 11:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2025/3/16 11:59 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1701,7 +1701,7 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 		<td>Mehal Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>371</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -4410,6 +4410,19 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 	<tr>
 		<td>332</td>
 		<td>
+			<a href="https://github.com/techbysj">
+				<img src="https://avatars.githubusercontent.com/u/117874349?s=72&u=b969403a325453c0ff3b83e83db158d3578fa006&v=4" width="24" alt="Avatar of techbysj"> techbysj
+			</a><br/>
+			Salim Jamal Salim
+		</td>
+		<td>Student </td>
+		<td>No Twitter Username</td>
+		<td>ireland</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
 			<a href="https://github.com/GouthamShiv">
 				<img src="https://avatars.githubusercontent.com/u/33145049?s=72&u=fb1e7bac8c166b6696e9d70d5c829cbf90a40aca&v=4" width="24" alt="Avatar of GouthamShiv"> GouthamShiv
 			</a><br/>
@@ -4421,7 +4434,7 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/Necior">
 				<img src="https://avatars.githubusercontent.com/u/2404518?s=72&u=18430645fa3b4bfea8be0cf2e2d73287d2bc228f&v=4" width="24" alt="Avatar of Necior"> Necior
@@ -4434,7 +4447,7 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/sonngdev">
 				<img src="https://avatars.githubusercontent.com/u/28614996?s=72&u=0b080b86391f74de22eb5a7cf3400122f343f093&v=4" width="24" alt="Avatar of sonngdev"> sonngdev
@@ -4447,7 +4460,7 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/bbusschots">
 				<img src="https://avatars.githubusercontent.com/u/5204055?s=72&v=4" width="24" alt="Avatar of bbusschots"> bbusschots
@@ -4458,19 +4471,6 @@ There are `971 users`  in Ireland. You need at least `43 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Maynooth, Ireland</td>
 		<td>71</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/techbysj">
-				<img src="https://avatars.githubusercontent.com/u/117874349?s=72&u=b969403a325453c0ff3b83e83db158d3578fa006&v=4" width="24" alt="Avatar of techbysj"> techbysj
-			</a><br/>
-			Salim Jamal Salim
-		</td>
-		<td>Student </td>
-		<td>No Twitter Username</td>
-		<td>ireland</td>
-		<td>70</td>
 	</tr>
 	<tr>
 		<td>337</td>
