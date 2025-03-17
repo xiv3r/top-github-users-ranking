@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2025/3/15 9:20 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2025/3/17 4:21 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `308 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Fusesl </td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>223</td>
+		<td>224</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `308 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Dropx Labs </td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>97</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -588,19 +588,6 @@ There are `308 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/AlphaDumbuya">
-				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
-			</a><br/>
-			Alpha Dumbuya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlphaDumbuya7">AlphaDumbuya7</a></td>
-		<td>Freetown, sierra Leone </td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/Classy-missy">
 				<img src="https://avatars.githubusercontent.com/u/112100238?s=72&u=06533b52b09d6339ee82d24db224c9a14e900314&v=4" width="24" alt="Avatar of Classy-missy"> Classy-missy
 			</a><br/>
@@ -609,6 +596,19 @@ There are `308 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Henns Fashience </td>
 		<td><a href="https://twitter.com/HenretterHA">HenretterHA</a></td>
 		<td>Freetown</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/AlphaDumbuya">
+				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
+			</a><br/>
+			Alpha Dumbuya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlphaDumbuya7">AlphaDumbuya7</a></td>
+		<td>Freetown, sierra Leone </td>
 		<td>5</td>
 	</tr>
 	<tr>
