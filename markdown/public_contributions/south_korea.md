@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` by users in South Korea on `2025/3/17 5:53 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` by users in South Korea on `2025/3/17 6:03 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>@clober-dex </td>
 		<td><a href="https://twitter.com/graykoder">graykoder</a></td>
 		<td>Seoul, South Korea</td>
-		<td>2587</td>
+		<td>2588</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -401,7 +401,7 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>@lottiefiles </td>
 		<td><a href="https://twitter.com/HermetPark">HermetPark</a></td>
 		<td>Seoul, South Korea</td>
-		<td>1828</td>
+		<td>1829</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -2278,19 +2278,6 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>168</td>
 		<td>
-			<a href="https://github.com/Yaminyam">
-				<img src="https://avatars.githubusercontent.com/u/31057849?s=72&u=d56518785909edee402d55107e8134938666d659&v=4" width="24" alt="Avatar of Yaminyam"> Yaminyam
-			</a><br/>
-			Sion Kang
-		</td>
-		<td>@lablup @ausg @campus-experts @aws-cloud-clubs<br/></td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>456</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
 			<a href="https://github.com/sunrabbit123">
 				<img src="https://avatars.githubusercontent.com/u/64676070?s=72&u=e8125ce5d481ff6b2b6deb6860c29b79e365228f&v=4" width="24" alt="Avatar of sunrabbit123"> sunrabbit123
 			</a><br/>
@@ -2299,6 +2286,19 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
+		<td>458</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/Yaminyam">
+				<img src="https://avatars.githubusercontent.com/u/31057849?s=72&u=d56518785909edee402d55107e8134938666d659&v=4" width="24" alt="Avatar of Yaminyam"> Yaminyam
+			</a><br/>
+			Sion Kang
+		</td>
+		<td>@lablup @ausg @campus-experts @aws-cloud-clubs<br/></td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
 		<td>456</td>
 	</tr>
 	<tr>
@@ -2525,6 +2525,19 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>187</td>
 		<td>
+			<a href="https://github.com/jeongwhanchoi">
+				<img src="https://avatars.githubusercontent.com/u/29731173?s=72&u=94b6855705a0a3eacdaaa4bcc479f4daf8dc8953&v=4" width="24" alt="Avatar of jeongwhanchoi"> jeongwhanchoi
+			</a><br/>
+			Jeongwhan Choi
+		</td>
+		<td>@bigdyl-kaist </td>
+		<td><a href="https://twitter.com/jeongwhan_choi">jeongwhan_choi</a></td>
+		<td>Seoul, Korea</td>
+		<td>416</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
 			<a href="https://github.com/AhyoungRyu">
 				<img src="https://avatars.githubusercontent.com/u/10060731?s=72&u=1bdd616e376407d9cfbb68f8ddaaf439ea726ea6&v=4" width="24" alt="Avatar of AhyoungRyu"> AhyoungRyu
 			</a><br/>
@@ -2534,19 +2547,6 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Korea</td>
 		<td>416</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/jeongwhanchoi">
-				<img src="https://avatars.githubusercontent.com/u/29731173?s=72&u=94b6855705a0a3eacdaaa4bcc479f4daf8dc8953&v=4" width="24" alt="Avatar of jeongwhanchoi"> jeongwhanchoi
-			</a><br/>
-			Jeongwhan Choi
-		</td>
-		<td>@bigdyl-kaist </td>
-		<td><a href="https://twitter.com/jeongwhan_choi">jeongwhan_choi</a></td>
-		<td>Seoul, Korea</td>
-		<td>415</td>
 	</tr>
 	<tr>
 		<td>189</td>
