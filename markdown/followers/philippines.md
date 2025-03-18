@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `number of followers` of users in Philippines on `2025/3/18 9:50 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `number of followers` of users in Philippines on `2025/3/18 9:59 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -596,7 +596,7 @@ There are `966 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>322</td>
+		<td>323</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1727,7 +1727,7 @@ There are `966 users`  in Philippines. You need at least `29 followers` to be on
 		<td>@deltafy </td>
 		<td><a href="https://twitter.com/strkfr">strkfr</a></td>
 		<td>Philippines</td>
-		<td>151</td>
+		<td>150</td>
 	</tr>
 	<tr>
 		<td>126</td>
