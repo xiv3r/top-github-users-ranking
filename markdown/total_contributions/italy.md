@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` and `private contributions` by users in Italy on `2025/3/20 7:44 AM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` and `private contributions` by users in Italy on `2025/3/20 7:54 AM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `955 users`  in Italy. You need at least `85 followers` to be on this 
 		<td>Fbk </td>
 		<td><a href="https://twitter.com/napo">napo</a></td>
 		<td>Trento, Italy</td>
-		<td>32559</td>
-		<td>32702</td>
+		<td>32561</td>
+		<td>32704</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -271,7 +271,7 @@ There are `955 users`  in Italy. You need at least `85 followers` to be on this 
 		<td><a href="https://twitter.com/pracucci">pracucci</a></td>
 		<td>Italy</td>
 		<td>908</td>
-		<td>6018</td>
+		<td>6019</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -648,8 +648,8 @@ There are `955 users`  in Italy. You need at least `85 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>2509</td>
-		<td>3124</td>
+		<td>2510</td>
+		<td>3125</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -3701,7 +3701,7 @@ There are `955 users`  in Italy. You need at least `85 followers` to be on this 
 		<td><a href="https://twitter.com/flaviocopes">flaviocopes</a></td>
 		<td>Italy</td>
 		<td>95</td>
-		<td>809</td>
+		<td>810</td>
 	</tr>
 	<tr>
 		<td>258</td>
