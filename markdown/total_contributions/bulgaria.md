@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/3/21 3:59 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/3/21 4:09 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -509,7 +509,7 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>467</td>
-		<td>2596</td>
+		<td>2598</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -522,8 +522,8 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>@ambiretech </td>
 		<td><a href="https://twitter.com/Ivshti">Ivshti</a></td>
 		<td>Bulgaria</td>
-		<td>323</td>
-		<td>2579</td>
+		<td>324</td>
+		<td>2581</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1251,7 +1251,7 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>44</td>
-		<td>1532</td>
+		<td>1533</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1489,7 +1489,7 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>1098</td>
-		<td>1316</td>
+		<td>1317</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1587,7 +1587,7 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>5</td>
-		<td>1270</td>
+		<td>1271</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1732,6 +1732,20 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 	<tr>
 		<td>117</td>
 		<td>
+			<a href="https://github.com/mitio">
+				<img src="https://avatars.githubusercontent.com/u/129307?s=72&u=6799e6eecb149d60654b9e56eaa34d5abf08788d&v=4" width="24" alt="Avatar of mitio"> mitio
+			</a><br/>
+			Dimitar Dimitrov
+		</td>
+		<td>@dext </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>32</td>
+		<td>1191</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
 			<a href="https://github.com/MADNMD">
 				<img src="https://avatars.githubusercontent.com/u/110481626?s=72&u=54d5e2a39b4ced3b4f3ae78c21e95c4dcaea7ba1&v=4" width="24" alt="Avatar of MADNMD"> MADNMD
 			</a><br/>
@@ -1742,20 +1756,6 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Ruse, Bulgaria</td>
 		<td>1191</td>
 		<td>1191</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/mitio">
-				<img src="https://avatars.githubusercontent.com/u/129307?s=72&u=6799e6eecb149d60654b9e56eaa34d5abf08788d&v=4" width="24" alt="Avatar of mitio"> mitio
-			</a><br/>
-			Dimitar Dimitrov
-		</td>
-		<td>@dext </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>32</td>
-		<td>1188</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1937,7 +1937,7 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia Bulgaria</td>
 		<td>41</td>
-		<td>1075</td>
+		<td>1077</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -3378,8 +3378,8 @@ There are `969 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>613</td>
-		<td>631</td>
+		<td>614</td>
+		<td>632</td>
 	</tr>
 	<tr>
 		<td>235</td>
