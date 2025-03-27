@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/3/27 9:54 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/3/27 10:05 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>@angular @google </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen</td>
-		<td>5289</td>
+		<td>5290</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -458,19 +458,6 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/henrikbrixandersen">
-				<img src="https://avatars.githubusercontent.com/u/1076226?s=72&u=f6d7f441e29f70744c713cf4a401089809c4fda4&v=4" width="24" alt="Avatar of henrikbrixandersen"> henrikbrixandersen
-			</a><br/>
-			Henrik Brix Andersen
-		</td>
-		<td>@vestas-wind-systems  </td>
-		<td>No Twitter Username</td>
-		<td>Aarhus, Denmark</td>
-		<td>1912</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/zerothi">
 				<img src="https://avatars.githubusercontent.com/u/4789793?s=72&v=4" width="24" alt="Avatar of zerothi"> zerothi
 			</a><br/>
@@ -479,6 +466,19 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>@dtudk  </td>
 		<td>No Twitter Username</td>
 		<td>Kgs. Lyngby, Denmark</td>
+		<td>1914</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/henrikbrixandersen">
+				<img src="https://avatars.githubusercontent.com/u/1076226?s=72&u=f6d7f441e29f70744c713cf4a401089809c4fda4&v=4" width="24" alt="Avatar of henrikbrixandersen"> henrikbrixandersen
+			</a><br/>
+			Henrik Brix Andersen
+		</td>
+		<td>@vestas-wind-systems  </td>
+		<td>No Twitter Username</td>
+		<td>Aarhus, Denmark</td>
 		<td>1912</td>
 	</tr>
 	<tr>
@@ -648,7 +648,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>1437</td>
+		<td>1438</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -921,7 +921,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pnkraemer">pnkraemer</a></td>
 		<td>Copenhagen</td>
-		<td>1094</td>
+		<td>1095</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1168,7 +1168,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Skanderborg, Denmark</td>
-		<td>891</td>
+		<td>895</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1571,7 +1571,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, DK</td>
-		<td>658</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -2369,6 +2369,19 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 	<tr>
 		<td>175</td>
 		<td>
+			<a href="https://github.com/fgvieira">
+				<img src="https://avatars.githubusercontent.com/u/1151762?s=72&v=4" width="24" alt="Avatar of fgvieira"> fgvieira
+			</a><br/>
+			Filipe G. Vieira
+		</td>
+		<td>The Globe Institute –<br/>University<br/>Of<br/>Copenhagen<br/></td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen</td>
+		<td>362</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
 			<a href="https://github.com/runeksvendsen">
 				<img src="https://avatars.githubusercontent.com/u/1069247?s=72&u=3f64e64ca09ccb1d5e0a266a757559d7a6591348&v=4" width="24" alt="Avatar of runeksvendsen"> runeksvendsen
 			</a><br/>
@@ -2378,19 +2391,6 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td><a href="https://twitter.com/runeksvendsen">runeksvendsen</a></td>
 		<td>Copenhagen</td>
 		<td>362</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/fgvieira">
-				<img src="https://avatars.githubusercontent.com/u/1151762?s=72&v=4" width="24" alt="Avatar of fgvieira"> fgvieira
-			</a><br/>
-			Filipe G. Vieira
-		</td>
-		<td>The Globe Institute –<br/>University<br/>Of<br/>Copenhagen<br/></td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen</td>
-		<td>361</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2975,7 +2975,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>270</td>
+		<td>271</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -3833,7 +3833,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>288</td>
