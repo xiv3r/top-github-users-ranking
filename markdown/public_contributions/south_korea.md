@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` by users in South Korea on `2025/3/28 10:59 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` by users in South Korea on `2025/3/28 11:10 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>Sk </td>
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
-		<td>7838</td>
+		<td>7843</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1051,7 +1051,7 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>@woowacourse 6th Be 타칸<br/></td>
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
-		<td>994</td>
+		<td>995</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -2109,6 +2109,19 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>155</td>
 		<td>
+			<a href="https://github.com/robotpilot">
+				<img src="https://avatars.githubusercontent.com/u/2698667?s=72&u=a3b7b7c5a7a42b6cd66bfdc6872f1175a583b581&v=4" width="24" alt="Avatar of robotpilot"> robotpilot
+			</a><br/>
+			Pyo
+		</td>
+		<td>Robotis </td>
+		<td><a href="https://twitter.com/passionvirus">passionvirus</a></td>
+		<td>Seoul, KOREA</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a href="https://github.com/googoo81">
 				<img src="https://avatars.githubusercontent.com/u/101445027?s=72&u=4b41888b2a645509367972131be4ec70baa38397&v=4" width="24" alt="Avatar of googoo81"> googoo81
 			</a><br/>
@@ -2118,19 +2131,6 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
 		<td>525</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/robotpilot">
-				<img src="https://avatars.githubusercontent.com/u/2698667?s=72&u=a3b7b7c5a7a42b6cd66bfdc6872f1175a583b581&v=4" width="24" alt="Avatar of robotpilot"> robotpilot
-			</a><br/>
-			Pyo
-		</td>
-		<td>Robotis </td>
-		<td><a href="https://twitter.com/passionvirus">passionvirus</a></td>
-		<td>Seoul, KOREA</td>
-		<td>524</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -5255,6 +5255,19 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>397</td>
 		<td>
+			<a href="https://github.com/hannal">
+				<img src="https://avatars.githubusercontent.com/u/4952?s=72&u=b3e298e150600f08c99c21e98db91930e7a2599a&v=4" width="24" alt="Avatar of hannal"> hannal
+			</a><br/>
+			Kay Cha
+		</td>
+		<td>Realworldpudding </td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
 			<a href="https://github.com/gomjellie">
 				<img src="https://avatars.githubusercontent.com/u/13645032?s=72&u=e00c49e7661d9d4139d9960db53ea9a9a1c82cf1&v=4" width="24" alt="Avatar of gomjellie"> gomjellie
 			</a><br/>
@@ -5266,7 +5279,7 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/YoungriKIM">
 				<img src="https://avatars.githubusercontent.com/u/76423415?s=72&u=8fad1b66514a6c0e767fbe15ab06f76804f08fd1&v=4" width="24" alt="Avatar of YoungriKIM"> YoungriKIM
@@ -5274,19 +5287,6 @@ There are `983 users`  in South Korea. You need at least `105 followers` to be o
 			No Name
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/hannal">
-				<img src="https://avatars.githubusercontent.com/u/4952?s=72&u=b3e298e150600f08c99c21e98db91930e7a2599a&v=4" width="24" alt="Avatar of hannal"> hannal
-			</a><br/>
-			Kay Cha
-		</td>
-		<td>Realworldpudding </td>
 		<td>No Twitter Username</td>
 		<td>Seoul</td>
 		<td>126</td>
