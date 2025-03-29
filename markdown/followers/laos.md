@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2025/3/27 7:15 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2025/3/29 3:46 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,19 +159,6 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/khatthaphone">
-				<img src="https://avatars.githubusercontent.com/u/8247636?s=72&u=fe859641c2f18afd69c64899a71002625e08c3f7&v=4" width="24" alt="Avatar of khatthaphone"> khatthaphone
-			</a><br/>
-			Khatthaphone Sengvilai
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/barlus-engineer">
 				<img src="https://avatars.githubusercontent.com/u/146638751?s=72&u=a60fb26adabe6077562722a2130ad5e220b72990&v=4" width="24" alt="Avatar of barlus-engineer"> barlus-engineer
 			</a><br/>
@@ -180,6 +167,19 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/khatthaphone">
+				<img src="https://avatars.githubusercontent.com/u/8247636?s=72&u=0642825764a134f9daec4fdc98fb0b1ee9f76637&v=4" width="24" alt="Avatar of khatthaphone"> khatthaphone
+			</a><br/>
+			Khatthaphone Sengvilai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -276,19 +276,6 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/Xaypanya">
-				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=e984f116e32bdd72418a8e8586ccf0ab3fa5175f&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
-			</a><br/>
-			 Xaypanya Phongsa 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Xaythany, Vientiane Prefecture, Laos</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/Chanthale">
 				<img src="https://avatars.githubusercontent.com/u/82854235?s=72&u=9a43686904f77763ce5b012775206ea9bd12060d&v=4" width="24" alt="Avatar of Chanthale"> Chanthale
 			</a><br/>
@@ -297,6 +284,19 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Data Transformation And Tech<br/></td>
 		<td><a href="https://twitter.com/Chan5591">Chan5591</a></td>
 		<td>Vientiane Capital, LAOS</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/Xaypanya">
+				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=e984f116e32bdd72418a8e8586ccf0ab3fa5175f&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
+			</a><br/>
+			 Xaypanya Phongsa 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Xaythany, Vientiane Prefecture, Laos</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4189,19 +4189,6 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>315</td>
 		<td>
-			<a href="https://github.com/Phonnaphone">
-				<img src="https://avatars.githubusercontent.com/u/74487370?s=72&u=bdbfa2718fb8193ae61bdcbea01659ee9ba44c85&v=4" width="24" alt="Avatar of Phonnaphone"> Phonnaphone
-			</a><br/>
-			Phonanaphone✅
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
 			<a href="https://github.com/Molydar">
 				<img src="https://avatars.githubusercontent.com/u/56969295?s=72&v=4" width="24" alt="Avatar of Molydar"> Molydar
 			</a><br/>
@@ -4210,6 +4197,19 @@ There are `527 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>@sbcreatig </td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/Phonnaphone">
+				<img src="https://avatars.githubusercontent.com/u/74487370?s=72&u=bdbfa2718fb8193ae61bdcbea01659ee9ba44c85&v=4" width="24" alt="Avatar of Phonnaphone"> Phonnaphone
+			</a><br/>
+			Phonanaphone✅
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
 		<td>1</td>
 	</tr>
 	<tr>
