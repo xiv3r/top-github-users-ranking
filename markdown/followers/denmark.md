@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `number of followers` of users in Denmark on `2025/4/1 10:45 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `number of followers` of users in Denmark on `2025/4/1 10:54 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -6074,6 +6074,19 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 	<tr>
 		<td>460</td>
 		<td>
+			<a href="https://github.com/eugene">
+				<img src="https://avatars.githubusercontent.com/u/1722?s=72&u=a75779347284065bd5e5c6d5a4a21c738c37e803&v=4" width="24" alt="Avatar of eugene"> eugene
+			</a><br/>
+			Євген
+		</td>
+		<td>Technical University Of Denmark<br/></td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
 			<a href="https://github.com/eCrimeLabs">
 				<img src="https://avatars.githubusercontent.com/u/14878613?s=72&u=ca7ea92172b48831229e8f7b333b0bb137a25e67&v=4" width="24" alt="Avatar of eCrimeLabs"> eCrimeLabs
 			</a><br/>
@@ -6085,7 +6098,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/sunesimonsen">
 				<img src="https://avatars.githubusercontent.com/u/90802?s=72&u=0d4323a82cf8b288d4a15a45428a35e9d2f84fee&v=4" width="24" alt="Avatar of sunesimonsen"> sunesimonsen
@@ -6098,7 +6111,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/Ahnfelt">
 				<img src="https://avatars.githubusercontent.com/u/78472?s=72&u=df861a2c447d22b568b8d59f7622834dcf13661b&v=4" width="24" alt="Avatar of Ahnfelt"> Ahnfelt
@@ -6111,7 +6124,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/zetxek">
 				<img src="https://avatars.githubusercontent.com/u/240085?s=72&u=cfc748f822cc750e5efdefd2cb0825708ec8d740&v=4" width="24" alt="Avatar of zetxek"> zetxek
@@ -6124,7 +6137,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/Oleksiy-Yakovenko">
 				<img src="https://avatars.githubusercontent.com/u/1895698?s=72&u=4c985b230cb83b307d74028c43fa046e6e588771&v=4" width="24" alt="Avatar of Oleksiy-Yakovenko"> Oleksiy-Yakovenko
@@ -6137,7 +6150,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/ERLMKea">
 				<img src="https://avatars.githubusercontent.com/u/69388133?s=72&v=4" width="24" alt="Avatar of ERLMKea"> ERLMKea
@@ -6147,19 +6160,6 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>Kea </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/eugene">
-				<img src="https://avatars.githubusercontent.com/u/1722?s=72&u=a75779347284065bd5e5c6d5a4a21c738c37e803&v=4" width="24" alt="Avatar of eugene"> eugene
-			</a><br/>
-			Євген
-		</td>
-		<td>Technical University Of Denmark<br/></td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
 		<td>77</td>
 	</tr>
 	<tr>
