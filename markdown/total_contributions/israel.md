@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` and `private contributions` by users in Israel on `2025/4/4 6:57 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` and `private contributions` by users in Israel on `2025/4/4 7:07 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>22455</td>
-		<td>22455</td>
+		<td>22456</td>
+		<td>22456</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -397,7 +397,7 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/arielmashraki">arielmashraki</a></td>
 		<td>Tel Aviv, Israel</td>
 		<td>1080</td>
-		<td>3815</td>
+		<td>3816</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -3756,8 +3756,8 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>559</td>
-		<td>559</td>
+		<td>560</td>
+		<td>560</td>
 	</tr>
 	<tr>
 		<td>262</td>

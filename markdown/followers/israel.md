@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2025/4/4 6:57 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2025/4/4 7:07 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2850,6 +2850,19 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 	<tr>
 		<td>212</td>
 		<td>
+			<a href="https://github.com/alonf">
+				<img src="https://avatars.githubusercontent.com/u/554150?s=72&u=2bff783348da1b7193c72b9e9deee1eba77cb50a&v=4" width="24" alt="Avatar of alonf"> alonf
+			</a><br/>
+			Alon Fliess
+		</td>
+		<td>Zionet </td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
 			<a href="https://github.com/EstyKauftiel">
 				<img src="https://avatars.githubusercontent.com/u/151885141?s=72&u=c0fe5b5c7d1c9f27a018a62764a5929d75ebdad1&v=4" width="24" alt="Avatar of EstyKauftiel"> EstyKauftiel
 			</a><br/>
@@ -2861,7 +2874,7 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/garrylachman">
 				<img src="https://avatars.githubusercontent.com/u/11525012?s=72&u=dd53f42a6a67ded5c10ae39404e5460ef49da19c&v=4" width="24" alt="Avatar of garrylachman"> garrylachman
@@ -2874,7 +2887,7 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/KobiShashs">
 				<img src="https://avatars.githubusercontent.com/u/8275602?s=72&u=c8f4404bdb1bf0903b798698f6a74f40cd83f5dc&v=4" width="24" alt="Avatar of KobiShashs"> KobiShashs
@@ -2887,7 +2900,7 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/Quube-Exchange-2019">
 				<img src="https://avatars.githubusercontent.com/u/53843594?s=72&u=bc9797e07d25ed4e23e63f1240dc1de6ad3dfdce&v=4" width="24" alt="Avatar of Quube-Exchange-2019"> Quube-Exchange-2019
@@ -2900,7 +2913,7 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/AviAvni">
 				<img src="https://avatars.githubusercontent.com/u/1097246?s=72&u=ee68564b36bc65512a5e32e6cb726a1bc0907e37&v=4" width="24" alt="Avatar of AviAvni"> AviAvni
@@ -2909,19 +2922,6 @@ There are `936 users`  in Israel. You need at least `29 followers` to be on this
 		</td>
 		<td>Falkordb </td>
 		<td><a href="https://twitter.com/AviAvni3">AviAvni3</a></td>
-		<td>Israel</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/alonf">
-				<img src="https://avatars.githubusercontent.com/u/554150?s=72&u=2bff783348da1b7193c72b9e9deee1eba77cb50a&v=4" width="24" alt="Avatar of alonf"> alonf
-			</a><br/>
-			Alon Fliess
-		</td>
-		<td>Zionet </td>
-		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>104</td>
 	</tr>
