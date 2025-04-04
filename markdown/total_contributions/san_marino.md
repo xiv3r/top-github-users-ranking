@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2025/4/2 10:51 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2025/4/4 8:50 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>2</td>
-		<td>1758</td>
+		<td>1772</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino / Milan / Remotely</td>
 		<td>8</td>
-		<td>1613</td>
+		<td>1627</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
 		<td>San Marino</td>
 		<td>49</td>
-		<td>1348</td>
+		<td>1357</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@scmgroupspa </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>349</td>
-		<td>1280</td>
+		<td>351</td>
+		<td>1303</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/nicorsm">nicorsm</a></td>
 		<td>San Marino</td>
 		<td>13</td>
-		<td>1037</td>
+		<td>1038</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>585</td>
-		<td>890</td>
+		<td>587</td>
+		<td>892</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino, California</td>
 		<td>17</td>
-		<td>874</td>
+		<td>886</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
 		<td>28</td>
-		<td>801</td>
+		<td>808</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -243,7 +243,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>0</td>
-		<td>667</td>
+		<td>669</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -256,8 +256,8 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Prestalia </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>11</td>
-		<td>474</td>
+		<td>12</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
 		<td>39</td>
-		<td>330</td>
+		<td>332</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -424,8 +424,8 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>60</td>
-		<td>60</td>
+		<td>64</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -509,7 +509,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>1</td>
-		<td>9</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>30</td>

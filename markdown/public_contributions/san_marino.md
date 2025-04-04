@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/4/2 10:51 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/4/4 8:50 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>585</td>
+		<td>587</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@scmgroupspa </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>349</td>
+		<td>351</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -232,7 +232,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>60</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -380,19 +380,6 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/thu105">
-				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
-			</a><br/>
-			Hein Moe Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/gennaris">
 				<img src="https://avatars.githubusercontent.com/u/43071148?s=72&u=7fc19d78df5fde7f1629cb744821bdedd684dd79&v=4" width="24" alt="Avatar of gennaris"> gennaris
 			</a><br/>
@@ -401,6 +388,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Prestalia </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/thu105">
+				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
+			</a><br/>
+			Hein Moe Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
 		<td>11</td>
 	</tr>
 	<tr>
