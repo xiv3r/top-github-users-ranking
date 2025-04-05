@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2025/4/5 3:51 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2025/4/5 4:00 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `969 users`  in Taiwan. You need at least `63 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>44662</td>
-		<td>44964</td>
+		<td>44664</td>
+		<td>44966</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -326,8 +326,8 @@ There are `969 users`  in Taiwan. You need at least `63 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan 🇹🇼</td>
-		<td>4510</td>
-		<td>5070</td>
+		<td>4513</td>
+		<td>5073</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -621,7 +621,7 @@ There are `969 users`  in Taiwan. You need at least `63 followers` to be on this
 		<td><a href="https://twitter.com/changwei1006">changwei1006</a></td>
 		<td>No.43, Keelung Rd., Sec.4, Da'an Dist., Taipei City 106335 Taiwan</td>
 		<td>360</td>
-		<td>3353</td>
+		<td>3355</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -789,7 +789,7 @@ There are `969 users`  in Taiwan. You need at least `63 followers` to be on this
 		<td><a href="https://twitter.com/tzangms">tzangms</a></td>
 		<td>Taipei, Taiwan</td>
 		<td>4</td>
-		<td>2599</td>
+		<td>2602</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1769,7 +1769,7 @@ There are `969 users`  in Taiwan. You need at least `63 followers` to be on this
 		<td><a href="https://twitter.com/m4xshen">m4xshen</a></td>
 		<td>Taiwan</td>
 		<td>774</td>
-		<td>1465</td>
+		<td>1466</td>
 	</tr>
 	<tr>
 		<td>120</td>
