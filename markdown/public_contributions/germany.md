@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2025/4/5 8:46 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2025/4/5 8:57 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -232,7 +232,7 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>10866</td>
+		<td>10867</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -3261,7 +3261,7 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nikitonsky">nikitonsky</a></td>
 		<td>Berlin, Germany</td>
-		<td>669</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -3799,19 +3799,6 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 	<tr>
 		<td>285</td>
 		<td>
-			<a href="https://github.com/claui">
-				<img src="https://avatars.githubusercontent.com/u/1239874?s=72&v=4" width="24" alt="Avatar of claui"> claui
-			</a><br/>
-			Claudia Pellegrino
-		</td>
-		<td>@dbsystel </td>
-		<td>No Twitter Username</td>
-		<td>Darmstadt, Germany</td>
-		<td>544</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
 			<a href="https://github.com/khmarbaise">
 				<img src="https://avatars.githubusercontent.com/u/42484?s=72&v=4" width="24" alt="Avatar of khmarbaise"> khmarbaise
 			</a><br/>
@@ -3820,6 +3807,19 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>Softwareentwicklung Beratung Schulung </td>
 		<td>No Twitter Username</td>
 		<td>Würselen, Germany</td>
+		<td>546</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/claui">
+				<img src="https://avatars.githubusercontent.com/u/1239874?s=72&v=4" width="24" alt="Avatar of claui"> claui
+			</a><br/>
+			Claudia Pellegrino
+		</td>
+		<td>@dbsystel </td>
+		<td>No Twitter Username</td>
+		<td>Darmstadt, Germany</td>
 		<td>544</td>
 	</tr>
 	<tr>

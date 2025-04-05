@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` and `private contributions` by users in Germany on `2025/4/5 8:46 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` and `private contributions` by users in Germany on `2025/4/5 8:57 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -200,8 +200,8 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>10866</td>
-		<td>15121</td>
+		<td>10867</td>
+		<td>15122</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -3547,7 +3547,7 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Germany</td>
 		<td>614</td>
-		<td>1258</td>
+		<td>1259</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -5086,8 +5086,8 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nikitonsky">nikitonsky</a></td>
 		<td>Berlin, Germany</td>
-		<td>669</td>
-		<td>811</td>
+		<td>671</td>
+		<td>813</td>
 	</tr>
 	<tr>
 		<td>357</td>
@@ -6506,6 +6506,20 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 	<tr>
 		<td>458</td>
 		<td>
+			<a href="https://github.com/khmarbaise">
+				<img src="https://avatars.githubusercontent.com/u/42484?s=72&v=4" width="24" alt="Avatar of khmarbaise"> khmarbaise
+			</a><br/>
+			Karl Heinz Marbaise
+		</td>
+		<td>Softwareentwicklung Beratung Schulung </td>
+		<td>No Twitter Username</td>
+		<td>Würselen, Germany</td>
+		<td>546</td>
+		<td>546</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a href="https://github.com/timroes">
 				<img src="https://avatars.githubusercontent.com/u/877229?s=72&u=f9af466a854736b6ce24613b4ace72cd0871a9a7&v=4" width="24" alt="Avatar of timroes"> timroes
 			</a><br/>
@@ -6518,7 +6532,7 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/claui">
 				<img src="https://avatars.githubusercontent.com/u/1239874?s=72&v=4" width="24" alt="Avatar of claui"> claui
@@ -6528,20 +6542,6 @@ There are `918 users`  in Germany. You need at least `323 followers` to be on th
 		<td>@dbsystel </td>
 		<td>No Twitter Username</td>
 		<td>Darmstadt, Germany</td>
-		<td>544</td>
-		<td>544</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/khmarbaise">
-				<img src="https://avatars.githubusercontent.com/u/42484?s=72&v=4" width="24" alt="Avatar of khmarbaise"> khmarbaise
-			</a><br/>
-			Karl Heinz Marbaise
-		</td>
-		<td>Softwareentwicklung Beratung Schulung </td>
-		<td>No Twitter Username</td>
-		<td>Würselen, Germany</td>
 		<td>544</td>
 		<td>544</td>
 	</tr>
