@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` by users in Rwanda on `2025/4/10 7:27 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` by users in Rwanda on `2025/4/10 7:36 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2850,19 +2850,6 @@ There are `962 users`  in Rwanda. You need at least `8 followers` to be on this 
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/uwenayoallain">
-				<img src="https://avatars.githubusercontent.com/u/66881609?s=72&u=6ed32953856abff39813cf16bd3b12208bf9e0ec&v=4" width="24" alt="Avatar of uwenayoallain"> uwenayoallain
-			</a><br/>
-			Alain Pacifique UWENAYO
-		</td>
-		<td>Y4labs </td>
-		<td><a href="https://twitter.com/uwenayoallain">uwenayoallain</a></td>
-		<td>Kigali,Rwanda</td>
-		<td>296</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
 			<a href="https://github.com/annick975">
 				<img src="https://avatars.githubusercontent.com/u/147313167?s=72&u=4aa94fc3b73e6653e759a52a03785e5799b5c43b&v=4" width="24" alt="Avatar of annick975"> annick975
 			</a><br/>
@@ -2871,6 +2858,19 @@ There are `962 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>Rwanda Coding Academy </td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
+		<td>297</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/uwenayoallain">
+				<img src="https://avatars.githubusercontent.com/u/66881609?s=72&u=6ed32953856abff39813cf16bd3b12208bf9e0ec&v=4" width="24" alt="Avatar of uwenayoallain"> uwenayoallain
+			</a><br/>
+			Alain Pacifique UWENAYO
+		</td>
+		<td>Y4labs </td>
+		<td><a href="https://twitter.com/uwenayoallain">uwenayoallain</a></td>
+		<td>Kigali,Rwanda</td>
 		<td>296</td>
 	</tr>
 	<tr>
