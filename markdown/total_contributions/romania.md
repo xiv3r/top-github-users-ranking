@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2025/4/12 4:56 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2025/4/12 5:04 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `964 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>61283</td>
-		<td>62988</td>
+		<td>61284</td>
+		<td>62989</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -887,7 +887,7 @@ There are `964 users`  in Romania. You need at least `23 followers` to be on thi
 		<td><a href="https://twitter.com/vlad_mihalcea">vlad_mihalcea</a></td>
 		<td>Cluj-Napoca, Romania</td>
 		<td>374</td>
-		<td>1714</td>
+		<td>1715</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1362,8 +1362,8 @@ There are `964 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>București, Romania</td>
-		<td>1296</td>
-		<td>1303</td>
+		<td>1297</td>
+		<td>1304</td>
 	</tr>
 	<tr>
 		<td>91</td>
