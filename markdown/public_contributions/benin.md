@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` by users in Benin on `2025/4/13 1:09 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` by users in Benin on `2025/4/13 1:47 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -484,6 +484,19 @@ There are `891 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>30</td>
 		<td>
+			<a href="https://github.com/gsaint12">
+				<img src="https://avatars.githubusercontent.com/u/36302811?s=72&u=42bf98af133467c82da2c815279366350243f8e6&v=4" width="24" alt="Avatar of gsaint12"> gsaint12
+			</a><br/>
+			Godsent Clement
+		</td>
+		<td>Gstech Hub </td>
+		<td><a href="https://twitter.com/gsaint_trinity">gsaint_trinity</a></td>
+		<td>Benin City, Nigeria</td>
+		<td>333</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
 			<a href="https://github.com/webcreation-dev">
 				<img src="https://avatars.githubusercontent.com/u/86405389?s=72&u=6b34dd9daba186a4c947162054260444f29c8c8f&v=4" width="24" alt="Avatar of webcreation-dev"> webcreation-dev
 			</a><br/>
@@ -493,19 +506,6 @@ There are `891 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Cotonou , Benin</td>
 		<td>333</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/gsaint12">
-				<img src="https://avatars.githubusercontent.com/u/36302811?s=72&u=42bf98af133467c82da2c815279366350243f8e6&v=4" width="24" alt="Avatar of gsaint12"> gsaint12
-			</a><br/>
-			Godsent Clement
-		</td>
-		<td>Gstech Hub </td>
-		<td><a href="https://twitter.com/gsaint_trinity">gsaint_trinity</a></td>
-		<td>Benin City, Nigeria</td>
-		<td>332</td>
 	</tr>
 	<tr>
 		<td>32</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `number of followers` of users in Benin on `2025/4/13 1:09 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `number of followers` of users in Benin on `2025/4/13 1:47 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -458,6 +458,19 @@ There are `891 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/warris-chitou">
+				<img src="https://avatars.githubusercontent.com/u/183900907?s=72&u=a2c0b72511f2a34b545bf23fa6e56428bc7bf242&v=4" width="24" alt="Avatar of warris-chitou"> warris-chitou
+			</a><br/>
+			Warris AGBANNONDE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cotonou, Bénin</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/prince-dev41">
 				<img src="https://avatars.githubusercontent.com/u/180169415?s=72&u=8c4a24389f093f601fe15a0d73dfb5f59f2c825f&v=4" width="24" alt="Avatar of prince-dev41"> prince-dev41
 			</a><br/>
@@ -467,19 +480,6 @@ There are `891 users`  in Benin. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/EkpinsePrince">EkpinsePrince</a></td>
 		<td>Abomey-Calavi, Atlantique, Bénin</td>
 		<td>70</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/warris-chitou">
-				<img src="https://avatars.githubusercontent.com/u/183900907?s=72&u=a2c0b72511f2a34b545bf23fa6e56428bc7bf242&v=4" width="24" alt="Avatar of warris-chitou"> warris-chitou
-			</a><br/>
-			Warris AGBANNONDE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cotonou, Bénin</td>
-		<td>69</td>
 	</tr>
 	<tr>
 		<td>30</td>
