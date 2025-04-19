@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` and `private contributions` by users in South Africa on `2025/4/19 2:52 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` and `private contributions` by users in South Africa on `2025/4/19 3:04 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1648,6 +1648,20 @@ There are `973 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>111</td>
 		<td>
+			<a href="https://github.com/VernonGrant">
+				<img src="https://avatars.githubusercontent.com/u/5819017?s=72&u=7eee300e945e293eb460e0efb507352de52b6af3&v=4" width="24" alt="Avatar of VernonGrant"> VernonGrant
+			</a><br/>
+			Vernon Grant
+		</td>
+		<td>@twothreebird </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>62</td>
+		<td>1249</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
 			<a href="https://github.com/Mardoqueiro">
 				<img src="https://avatars.githubusercontent.com/u/165322152?s=72&u=beb87a59b993463a662795ec644be9e9df631b43&v=4" width="24" alt="Avatar of Mardoqueiro"> Mardoqueiro
 			</a><br/>
@@ -1658,20 +1672,6 @@ There are `973 users`  in South Africa. You need at least `17 followers` to be o
 		<td>Cape Town, South Africa</td>
 		<td>1249</td>
 		<td>1249</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/VernonGrant">
-				<img src="https://avatars.githubusercontent.com/u/5819017?s=72&u=7eee300e945e293eb460e0efb507352de52b6af3&v=4" width="24" alt="Avatar of VernonGrant"> VernonGrant
-			</a><br/>
-			Vernon Grant
-		</td>
-		<td>@twothreebird </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>62</td>
-		<td>1247</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -7038,20 +7038,6 @@ There are `973 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>496</td>
 		<td>
-			<a href="https://github.com/theronic">
-				<img src="https://avatars.githubusercontent.com/u/1011676?s=72&u=7aa431621352ed91bc99e39bc9d467dfd97b0aa9&v=4" width="24" alt="Avatar of theronic"> theronic
-			</a><br/>
-			Petrus Theron
-		</td>
-		<td>@cloudafrica </td>
-		<td><a href="https://twitter.com/PetrusTheron">PetrusTheron</a></td>
-		<td>Cape Town, South Africa</td>
-		<td>93</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
 			<a href="https://github.com/wizaj">
 				<img src="https://avatars.githubusercontent.com/u/9387487?s=72&u=7b4e320cb798a0dc4b3ab4eb9868708257df44e9&v=4" width="24" alt="Avatar of wizaj"> wizaj
 			</a><br/>
@@ -7061,6 +7047,20 @@ There are `973 users`  in South Africa. You need at least `17 followers` to be o
 		<td><a href="https://twitter.com/wizaj">wizaj</a></td>
 		<td>Johannesburg, South Africa</td>
 		<td>0</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/theronic">
+				<img src="https://avatars.githubusercontent.com/u/1011676?s=72&u=7aa431621352ed91bc99e39bc9d467dfd97b0aa9&v=4" width="24" alt="Avatar of theronic"> theronic
+			</a><br/>
+			Petrus Theron
+		</td>
+		<td>@cloudafrica </td>
+		<td><a href="https://twitter.com/PetrusTheron">PetrusTheron</a></td>
+		<td>Cape Town, South Africa</td>
+		<td>93</td>
 		<td>93</td>
 	</tr>
 	<tr>
