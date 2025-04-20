@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2025/4/20 2:55 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` and `private contributions` by users in France on `2025/4/20 3:07 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td><a href="https://twitter.com/hugojmd">hugojmd</a></td>
 		<td>Lyon, France</td>
 		<td>109</td>
-		<td>71472</td>
+		<td>71474</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -200,8 +200,8 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Spatialys </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>7084</td>
-		<td>7084</td>
+		<td>7085</td>
+		<td>7085</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -494,8 +494,8 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/julienviet">julienviet</a></td>
 		<td>Marseille</td>
-		<td>4546</td>
-		<td>4552</td>
+		<td>4550</td>
+		<td>4556</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -766,6 +766,20 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 	<tr>
 		<td>48</td>
 		<td>
+			<a href="https://github.com/Caceresenzo">
+				<img src="https://avatars.githubusercontent.com/u/7386242?s=72&u=17d4617bb086732fd4da9287942494386d06ebb3&v=4" width="24" alt="Avatar of Caceresenzo"> Caceresenzo
+			</a><br/>
+			Enzo Caceres
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>France</td>
+		<td>1854</td>
+		<td>3734</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a href="https://github.com/ldez">
 				<img src="https://avatars.githubusercontent.com/u/5674651?s=72&u=45f0e097891f1e7e0c45c5224dcce11c867038af&v=4" width="24" alt="Avatar of ldez"> ldez
 			</a><br/>
@@ -775,20 +789,6 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>France</td>
 		<td>3602</td>
-		<td>3732</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/Caceresenzo">
-				<img src="https://avatars.githubusercontent.com/u/7386242?s=72&u=17d4617bb086732fd4da9287942494386d06ebb3&v=4" width="24" alt="Avatar of Caceresenzo"> Caceresenzo
-			</a><br/>
-			Enzo Caceres
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>France</td>
-		<td>1852</td>
 		<td>3732</td>
 	</tr>
 	<tr>
@@ -3350,8 +3350,8 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>@funkywork, @tarides </td>
 		<td><a href="https://twitter.com/vdwxv">vdwxv</a></td>
 		<td>Nantes</td>
-		<td>1109</td>
-		<td>1308</td>
+		<td>1110</td>
+		<td>1309</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3392,8 +3392,8 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>@leboncoin </td>
 		<td><a href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
 		<td>Paris, France</td>
-		<td>1257</td>
-		<td>1289</td>
+		<td>1258</td>
+		<td>1290</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3518,8 +3518,8 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>1176</td>
-		<td>1260</td>
+		<td>1179</td>
+		<td>1263</td>
 	</tr>
 	<tr>
 		<td>245</td>
@@ -7537,7 +7537,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris</td>
 		<td>0</td>
-		<td>382</td>
+		<td>383</td>
 	</tr>
 	<tr>
 		<td>532</td>

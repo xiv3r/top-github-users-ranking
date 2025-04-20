@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` by users in France on `2025/4/20 2:55 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` by users in France on `2025/4/20 3:07 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -154,7 +154,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Spatialys </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>7084</td>
+		<td>7085</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -245,7 +245,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/julienviet">julienviet</a></td>
 		<td>Marseille</td>
-		<td>4546</td>
+		<td>4550</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1129,7 +1129,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>1852</td>
+		<td>1854</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1779,7 +1779,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>@leboncoin </td>
 		<td><a href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
 		<td>Paris, France</td>
-		<td>1257</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1857,7 +1857,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>1176</td>
+		<td>1179</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -2026,7 +2026,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>@funkywork, @tarides </td>
 		<td><a href="https://twitter.com/vdwxv">vdwxv</a></td>
 		<td>Nantes</td>
-		<td>1109</td>
+		<td>1110</td>
 	</tr>
 	<tr>
 		<td>149</td>

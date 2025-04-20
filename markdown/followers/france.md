@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `number of followers` of users in France on `2025/4/20 2:55 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `number of followers` of users in France on `2025/4/20 3:07 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -10117,6 +10117,19 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 	<tr>
 		<td>771</td>
 		<td>
+			<a href="https://github.com/TUTOUNITYFR">
+				<img src="https://avatars.githubusercontent.com/u/32209410?s=72&u=0d774c3a44a6197f7ada4775e1e6a781b6922d9b&v=4" width="24" alt="Avatar of TUTOUNITYFR"> TUTOUNITYFR
+			</a><br/>
+			TUTO UNITY FR
+		</td>
+		<td>Tuto Unity Fr </td>
+		<td><a href="https://twitter.com/tutounityfr">tutounityfr</a></td>
+		<td>France</td>
+		<td>236</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
 			<a href="https://github.com/Progi1984">
 				<img src="https://avatars.githubusercontent.com/u/1533248?s=72&u=096bead2eab90e4795096b7d518583223dd34be6&v=4" width="24" alt="Avatar of Progi1984"> Progi1984
 			</a><br/>
@@ -10128,7 +10141,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/princefr">
 				<img src="https://avatars.githubusercontent.com/u/11577520?s=72&u=da17af90ca78d019e3e90474abda0073a86b5ed6&v=4" width="24" alt="Avatar of princefr"> princefr
@@ -10138,19 +10151,6 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>Swootte </td>
 		<td>No Twitter Username</td>
 		<td>Paris - France</td>
-		<td>235</td>
-	</tr>
-	<tr>
-		<td>773</td>
-		<td>
-			<a href="https://github.com/TUTOUNITYFR">
-				<img src="https://avatars.githubusercontent.com/u/32209410?s=72&u=0d774c3a44a6197f7ada4775e1e6a781b6922d9b&v=4" width="24" alt="Avatar of TUTOUNITYFR"> TUTOUNITYFR
-			</a><br/>
-			TUTO UNITY FR
-		</td>
-		<td>Tuto Unity Fr </td>
-		<td><a href="https://twitter.com/tutounityfr">tutounityfr</a></td>
-		<td>France</td>
 		<td>235</td>
 	</tr>
 	<tr>
@@ -10936,6 +10936,19 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 	<tr>
 		<td>834</td>
 		<td>
+			<a href="https://github.com/apirrone">
+				<img src="https://avatars.githubusercontent.com/u/6552564?s=72&u=0e79575bb391a4a98156e72b7f29da0ce6bd315f&v=4" width="24" alt="Avatar of apirrone"> apirrone
+			</a><br/>
+			Antoine Pirrone
+		</td>
+		<td>Pollen Robotics </td>
+		<td>No Twitter Username</td>
+		<td>Bordeaux</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>835</td>
+		<td>
 			<a href="https://github.com/charlypoly">
 				<img src="https://avatars.githubusercontent.com/u/1252066?s=72&u=a72010bb5154bf3b718fb184c947247614642bb3&v=4" width="24" alt="Avatar of charlypoly"> charlypoly
 			</a><br/>
@@ -10947,7 +10960,7 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/gvarisco">
 				<img src="https://avatars.githubusercontent.com/u/945486?s=72&u=5133c292c2e65c0b0cfa80878685964f108c3e05&v=4" width="24" alt="Avatar of gvarisco"> gvarisco
@@ -10958,19 +10971,6 @@ There are `924 users`  in France. You need at least `201 followers` to be on thi
 		<td><a href="https://twitter.com/gvarisco">gvarisco</a></td>
 		<td>Paris, France</td>
 		<td>220</td>
-	</tr>
-	<tr>
-		<td>836</td>
-		<td>
-			<a href="https://github.com/apirrone">
-				<img src="https://avatars.githubusercontent.com/u/6552564?s=72&u=0e79575bb391a4a98156e72b7f29da0ce6bd315f&v=4" width="24" alt="Avatar of apirrone"> apirrone
-			</a><br/>
-			Antoine Pirrone
-		</td>
-		<td>Pollen Robotics </td>
-		<td>No Twitter Username</td>
-		<td>Bordeaux</td>
-		<td>219</td>
 	</tr>
 	<tr>
 		<td>837</td>
