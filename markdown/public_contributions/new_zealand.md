@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` by users in New Zealand on `2025/4/23 12:13 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` by users in New Zealand on `2025/4/23 12:59 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -297,7 +297,7 @@ There are `966 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Telicent Ltd (@telicent-io) </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, UK</td>
-		<td>1681</td>
+		<td>1694</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1207,7 +1207,7 @@ There are `966 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Christchurch, New Zealand</td>
-		<td>517</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -2442,7 +2442,7 @@ There are `966 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Auckland Bioengineering Institute, University<br/>Of<br/>Auckland<br/></td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
-		<td>197</td>
+		<td>198</td>
 	</tr>
 	<tr>
 		<td>181</td>
