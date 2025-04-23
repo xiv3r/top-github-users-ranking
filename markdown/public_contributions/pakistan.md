@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2025/4/23 5:52 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2025/4/23 6:07 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>@zaid-code </td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>35308</td>
+		<td>35309</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -6724,6 +6724,19 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 	<tr>
 		<td>510</td>
 		<td>
+			<a href="https://github.com/armujahid">
+				<img src="https://avatars.githubusercontent.com/u/3725386?s=72&v=4" width="24" alt="Avatar of armujahid"> armujahid
+			</a><br/>
+			Abdul Rauf
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/armujahid">armujahid</a></td>
+		<td>Lahore, Pakistan</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
 			<a href="https://github.com/muhammadhoud">
 				<img src="https://avatars.githubusercontent.com/u/163449126?s=72&u=fe1e7363a99ef9e6b57d2bb73336cff4e677798b&v=4" width="24" alt="Avatar of muhammadhoud"> muhammadhoud
 			</a><br/>
@@ -6735,7 +6748,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/captainWaheed">
 				<img src="https://avatars.githubusercontent.com/u/86144678?s=72&u=f1535a2d3ec3fd305e1da554b7e5c4a01a8779d4&v=4" width="24" alt="Avatar of captainWaheed"> captainWaheed
@@ -6748,7 +6761,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/atiqsamtia">
 				<img src="https://avatars.githubusercontent.com/u/5112753?s=72&u=1572305f8b4c66239765d1796cfc70a718279a78&v=4" width="24" alt="Avatar of atiqsamtia"> atiqsamtia
@@ -6761,7 +6774,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/ahmedjsofficial">
 				<img src="https://avatars.githubusercontent.com/u/90926687?s=72&u=53982c7a960dc86f8a82c48d092339692251c6ac&v=4" width="24" alt="Avatar of ahmedjsofficial"> ahmedjsofficial
@@ -6772,19 +6785,6 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td><a href="https://twitter.com/ahmed_jsstack">ahmed_jsstack</a></td>
 		<td>Pakistan</td>
 		<td>32</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/armujahid">
-				<img src="https://avatars.githubusercontent.com/u/3725386?s=72&v=4" width="24" alt="Avatar of armujahid"> armujahid
-			</a><br/>
-			Abdul Rauf
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/armujahid">armujahid</a></td>
-		<td>Lahore, Pakistan</td>
-		<td>31</td>
 	</tr>
 	<tr>
 		<td>515</td>
