@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2025/4/23 12:23 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2025/4/23 1:37 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `975 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>Root@zerotrace:~# </td>
 		<td><a href="https://twitter.com/aboudzeineddin">aboudzeineddin</a></td>
 		<td>Amman , Jordan</td>
-		<td>44</td>
-		<td>8570</td>
+		<td>45</td>
+		<td>8571</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `975 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Remote | South Jordan, Utah</td>
 		<td>22</td>
-		<td>4249</td>
+		<td>4251</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `975 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td><a href="https://twitter.com/devwaleedyaseen">devwaleedyaseen</a></td>
 		<td>Jordan, Amman</td>
 		<td>85</td>
-		<td>3677</td>
+		<td>3683</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -467,7 +467,7 @@ There are `975 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
 		<td>5</td>
-		<td>1959</td>
+		<td>1961</td>
 	</tr>
 	<tr>
 		<td>27</td>
