@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2025/4/24 9:53 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2025/4/24 10:03 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>@godotengine, @w4games </td>
 		<td><a href="https://twitter.com/Akien">Akien</a></td>
 		<td>Copenhagen, Denmark</td>
-		<td>6401</td>
+		<td>6402</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -284,7 +284,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>@metamask </td>
 		<td><a href="https://twitter.com/frederikbolding">frederikbolding</a></td>
 		<td>Denmark</td>
-		<td>2574</td>
+		<td>2575</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -1766,7 +1766,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>592</td>
+		<td>593</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -2408,6 +2408,19 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 	<tr>
 		<td>178</td>
 		<td>
+			<a href="https://github.com/griff">
+				<img src="https://avatars.githubusercontent.com/u/4368?s=72&v=4" width="24" alt="Avatar of griff"> griff
+			</a><br/>
+			Brian Olsen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Denmark</td>
+		<td>351</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
 			<a href="https://github.com/nicolasloizeau">
 				<img src="https://avatars.githubusercontent.com/u/39226171?s=72&u=18b13aa3afe4b74c70dcb07429490cd825841e66&v=4" width="24" alt="Avatar of nicolasloizeau"> nicolasloizeau
 			</a><br/>
@@ -2417,19 +2430,6 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td><a href="https://twitter.com/Nicolas_Loizeau">Nicolas_Loizeau</a></td>
 		<td>Copenhagen</td>
 		<td>349</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/griff">
-				<img src="https://avatars.githubusercontent.com/u/4368?s=72&v=4" width="24" alt="Avatar of griff"> griff
-			</a><br/>
-			Brian Olsen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Denmark</td>
-		<td>348</td>
 	</tr>
 	<tr>
 		<td>180</td>
