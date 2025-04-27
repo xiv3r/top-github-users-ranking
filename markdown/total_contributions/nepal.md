@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` and `private contributions` by users in Nepal on `2025/4/27 11:49 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` and `private contributions` by users in Nepal on `2025/4/27 11:59 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -579,7 +579,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td><a href="https://twitter.com/sls0n">sls0n</a></td>
 		<td>Chitwan, Nepal</td>
 		<td>18</td>
-		<td>3112</td>
+		<td>3113</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -775,7 +775,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Butwal, Nepal</td>
 		<td>12</td>
-		<td>2605</td>
+		<td>2608</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -5708,20 +5708,6 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>401</td>
 		<td>
-			<a href="https://github.com/anishghimire603">
-				<img src="https://avatars.githubusercontent.com/u/51270297?s=72&u=ed8447f55a3e39ca136d2cdd6e12033efbd701dd&v=4" width="24" alt="Avatar of anishghimire603"> anishghimire603
-			</a><br/>
-			Anish Ghimire
-		</td>
-		<td>@fractron </td>
-		<td><a href="https://twitter.com/anishghimire82">anishghimire82</a></td>
-		<td>Kathmandu,Nepal</td>
-		<td>1</td>
-		<td>528</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
 			<a href="https://github.com/konishon">
 				<img src="https://avatars.githubusercontent.com/u/11831955?s=72&u=c8be5d96c44c9522eb710fc75d2ce3b43cc2e50c&v=4" width="24" alt="Avatar of konishon"> konishon
 			</a><br/>
@@ -5731,6 +5717,20 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Nepal</td>
 		<td>101</td>
+		<td>529</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/anishghimire603">
+				<img src="https://avatars.githubusercontent.com/u/51270297?s=72&u=ed8447f55a3e39ca136d2cdd6e12033efbd701dd&v=4" width="24" alt="Avatar of anishghimire603"> anishghimire603
+			</a><br/>
+			Anish Ghimire
+		</td>
+		<td>@fractron </td>
+		<td><a href="https://twitter.com/anishghimire82">anishghimire82</a></td>
+		<td>Kathmandu,Nepal</td>
+		<td>1</td>
 		<td>528</td>
 	</tr>
 	<tr>
@@ -5857,7 +5857,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>98</td>
-		<td>504</td>
+		<td>505</td>
 	</tr>
 	<tr>
 		<td>412</td>
