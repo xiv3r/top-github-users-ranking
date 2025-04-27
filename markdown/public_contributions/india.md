@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` by users in India on `2025/4/27 12:41 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` by users in India on `2025/4/27 2:15 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@heyxyz  </td>
 		<td>No Twitter Username</td>
 		<td>Bangalore, India</td>
-		<td>9072</td>
+		<td>9071</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -185,19 +185,6 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/ehsandeep">
-				<img src="https://avatars.githubusercontent.com/u/8293321?s=72&u=ae3abc7734bd873f76ae355b60423e16d6006a6e&v=4" width="24" alt="Avatar of ehsandeep"> ehsandeep
-			</a><br/>
-			Sandeep Singh
-		</td>
-		<td>@projectdiscovery </td>
-		<td><a href="https://twitter.com/emgeekboy">emgeekboy</a></td>
-		<td>India</td>
-		<td>5122</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
 			<a href="https://github.com/amhsirak">
 				<img src="https://avatars.githubusercontent.com/u/76456498?s=72&u=6b101dbf1ac65d1a9257b0ea63f97443d8ad6451&v=4" width="24" alt="Avatar of amhsirak"> amhsirak
 			</a><br/>
@@ -207,6 +194,19 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mumbai, India</td>
 		<td>4918</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/ehsandeep">
+				<img src="https://avatars.githubusercontent.com/u/8293321?s=72&u=ae3abc7734bd873f76ae355b60423e16d6006a6e&v=4" width="24" alt="Avatar of ehsandeep"> ehsandeep
+			</a><br/>
+			Sandeep Singh
+		</td>
+		<td>@projectdiscovery </td>
+		<td><a href="https://twitter.com/emgeekboy">emgeekboy</a></td>
+		<td>India</td>
+		<td>4552</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sabyasachi_seal">sabyasachi_seal</a></td>
 		<td>India</td>
-		<td>3790</td>
+		<td>3792</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@fastlabtech  </td>
 		<td><a href="https://twitter.com/meshivammathur">meshivammathur</a></td>
 		<td>India</td>
-		<td>3381</td>
+		<td>3385</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -362,7 +362,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@huggingface </td>
 		<td><a href="https://twitter.com/RisingSayak">RisingSayak</a></td>
 		<td>India</td>
-		<td>2241</td>
+		<td>2240</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -791,7 +791,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>Nvidia Graphics Pvt. Ltd.<br/></td>
 		<td><a href="https://twitter.com/UtkarshPathrabe">UtkarshPathrabe</a></td>
 		<td>Pune, India</td>
-		<td>1168</td>
+		<td>1169</td>
 	</tr>
 	<tr>
 		<td>54</td>

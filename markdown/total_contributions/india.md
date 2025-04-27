@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` and `private contributions` by users in India on `2025/4/27 12:41 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` and `private contributions` by users in India on `2025/4/27 2:15 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@projectdiscovery </td>
 		<td><a href="https://twitter.com/emgeekboy">emgeekboy</a></td>
 		<td>India</td>
-		<td>5122</td>
-		<td>15732</td>
+		<td>4552</td>
+		<td>15823</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -200,8 +200,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@heyxyz  </td>
 		<td>No Twitter Username</td>
 		<td>Bangalore, India</td>
-		<td>9072</td>
-		<td>10045</td>
+		<td>9071</td>
+		<td>10044</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -243,7 +243,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td><a href="https://twitter.com/amark720">amark720</a></td>
 		<td>Kolkata, India</td>
 		<td>201</td>
-		<td>8386</td>
+		<td>8389</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -271,7 +271,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td><a href="https://twitter.com/JayantGoel001">JayantGoel001</a></td>
 		<td>Ghaziabad, India, Planet C-53</td>
 		<td>1494</td>
-		<td>7547</td>
+		<td>7548</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -326,8 +326,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@fastlabtech  </td>
 		<td><a href="https://twitter.com/meshivammathur">meshivammathur</a></td>
 		<td>India</td>
-		<td>3381</td>
-		<td>5257</td>
+		<td>3385</td>
+		<td>5261</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -396,8 +396,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sabyasachi_seal">sabyasachi_seal</a></td>
 		<td>India</td>
-		<td>3790</td>
-		<td>4137</td>
+		<td>3792</td>
+		<td>4139</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -411,7 +411,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td><a href="https://twitter.com/aahnikd">aahnikd</a></td>
 		<td>India</td>
 		<td>1154</td>
-		<td>4134</td>
+		<td>4139</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -550,8 +550,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>@huggingface </td>
 		<td><a href="https://twitter.com/RisingSayak">RisingSayak</a></td>
 		<td>India</td>
-		<td>2241</td>
-		<td>2980</td>
+		<td>2240</td>
+		<td>2979</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1223,7 +1223,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chennai, TamilNadu</td>
 		<td>1</td>
-		<td>1904</td>
+		<td>1905</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1643,7 +1643,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td><a href="https://twitter.com/iavinashranjan">iavinashranjan</a></td>
 		<td>Kolkata, West Bengal, India</td>
 		<td>517</td>
-		<td>1498</td>
+		<td>1499</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2062,8 +2062,8 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>Nvidia Graphics Pvt. Ltd.<br/></td>
 		<td><a href="https://twitter.com/UtkarshPathrabe">UtkarshPathrabe</a></td>
 		<td>Pune, India</td>
-		<td>1168</td>
-		<td>1228</td>
+		<td>1169</td>
+		<td>1229</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -2105,7 +2105,7 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chandigarh,India</td>
 		<td>132</td>
-		<td>1203</td>
+		<td>1206</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -4056,20 +4056,6 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 	<tr>
 		<td>283</td>
 		<td>
-			<a href="https://github.com/vinitshahdeo">
-				<img src="https://avatars.githubusercontent.com/u/20594326?s=72&u=994579b6d1a310b0000a5935a2d7317b758f5c8f&v=4" width="24" alt="Avatar of vinitshahdeo"> vinitshahdeo
-			</a><br/>
-			Vinit Shahdeo
-		</td>
-		<td>@postmanlabs  </td>
-		<td><a href="https://twitter.com/Vinit_Shahdeo">Vinit_Shahdeo</a></td>
-		<td>Bangalore, India</td>
-		<td>318</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
 			<a href="https://github.com/janishar">
 				<img src="https://avatars.githubusercontent.com/u/11065002?s=72&u=3be4d98be310dcbccd9c70e93c64c59be5733740&v=4" width="24" alt="Avatar of janishar"> janishar
 			</a><br/>
@@ -4079,6 +4065,20 @@ There are `943 users`  in India. You need at least `298 followers` to be on this
 		<td><a href="https://twitter.com/janisharali">janisharali</a></td>
 		<td>New Delhi, India</td>
 		<td>474</td>
+		<td>547</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/vinitshahdeo">
+				<img src="https://avatars.githubusercontent.com/u/20594326?s=72&u=994579b6d1a310b0000a5935a2d7317b758f5c8f&v=4" width="24" alt="Avatar of vinitshahdeo"> vinitshahdeo
+			</a><br/>
+			Vinit Shahdeo
+		</td>
+		<td>@postmanlabs  </td>
+		<td><a href="https://twitter.com/Vinit_Shahdeo">Vinit_Shahdeo</a></td>
+		<td>Bangalore, India</td>
+		<td>318</td>
 		<td>546</td>
 	</tr>
 	<tr>
