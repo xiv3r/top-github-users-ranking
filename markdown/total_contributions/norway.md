@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" alt="Norway">
 </a>
 
-The `public contributions` and `private contributions` by users in Norway on `2025/4/27 1:53 PM UTC`. This list contains users from `Norway` and cities `Oslo` `Bergen` `Trondheim` `Stavanger`.
+The `public contributions` and `private contributions` by users in Norway on `2025/4/27 2:03 PM UTC`. This list contains users from `Norway` and cities `Oslo` `Bergen` `Trondheim` `Stavanger`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1727,7 +1727,7 @@ There are `920 users`  in Norway. You need at least `45 followers` to be on this
 		<td><a href="https://twitter.com/manidf">manidf</a></td>
 		<td>Oslo</td>
 		<td>239</td>
-		<td>1947</td>
+		<td>1948</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -2007,7 +2007,7 @@ There are `920 users`  in Norway. You need at least `45 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sandefjord, Norway</td>
 		<td>106</td>
-		<td>1721</td>
+		<td>1722</td>
 	</tr>
 	<tr>
 		<td>137</td>
