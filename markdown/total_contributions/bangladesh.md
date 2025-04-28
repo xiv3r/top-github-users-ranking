@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2025/4/28 3:59 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2025/4/28 4:08 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/remonsec">remonsec</a></td>
 		<td>Bangladesh</td>
 		<td>38</td>
-		<td>37741</td>
+		<td>37745</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -5562,7 +5562,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Mohamma71616280">Mohamma71616280</a></td>
 		<td>Chittagong</td>
-		<td>315</td>
+		<td>316</td>
 		<td>337</td>
 	</tr>
 	<tr>
@@ -6492,6 +6492,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>457</td>
 		<td>
+			<a href="https://github.com/Khairul25556">
+				<img src="https://avatars.githubusercontent.com/u/113556915?s=72&u=e265d6b4b85283f93bddced83948fe567e326831&v=4" width="24" alt="Avatar of Khairul25556"> Khairul25556
+			</a><br/>
+			Md. Khairul Islam
+		</td>
+		<td>Former It Officer |<br/>Lazz<br/>Pharma<br/>Limited<br/></td>
+		<td>No Twitter Username</td>
+		<td>Akur Takur Para, Tangail, Bangladesh</td>
+		<td>226</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
 			<a href="https://github.com/innat">
 				<img src="https://avatars.githubusercontent.com/u/17668390?s=72&u=59c9699d87f97ae3e38257e87dc5e88f7c9843f6&v=4" width="24" alt="Avatar of innat"> innat
 			</a><br/>
@@ -6502,20 +6516,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Dhaka, Bangladesh</td>
 		<td>231</td>
 		<td>231</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/Khairul25556">
-				<img src="https://avatars.githubusercontent.com/u/113556915?s=72&u=e265d6b4b85283f93bddced83948fe567e326831&v=4" width="24" alt="Avatar of Khairul25556"> Khairul25556
-			</a><br/>
-			Md. Khairul Islam
-		</td>
-		<td>Former It Officer |<br/>Lazz<br/>Pharma<br/>Limited<br/></td>
-		<td>No Twitter Username</td>
-		<td>Akur Takur Para, Tangail, Bangladesh</td>
-		<td>225</td>
-		<td>230</td>
 	</tr>
 	<tr>
 		<td>459</td>
@@ -6632,6 +6632,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>467</td>
 		<td>
+			<a href="https://github.com/SadatHossain01">
+				<img src="https://avatars.githubusercontent.com/u/57341381?s=72&u=c461d06bb3b92365d68320205c7a3c1da1f23439&v=4" width="24" alt="Avatar of SadatHossain01"> SadatHossain01
+			</a><br/>
+			Mohammad Sadat Hossain
+		</td>
+		<td>Buet </td>
+		<td><a href="https://twitter.com/SadatHossain01">SadatHossain01</a></td>
+		<td>Dhaka</td>
+		<td>36</td>
+		<td>222</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
 			<a href="https://github.com/zakaria5729">
 				<img src="https://avatars.githubusercontent.com/u/26526539?s=72&u=f42f0506bbf601daef32de3c6d42338df9b2324d&v=4" width="24" alt="Avatar of zakaria5729"> zakaria5729
 			</a><br/>
@@ -6642,20 +6656,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Dhaka, Bangladesh</td>
 		<td>24</td>
 		<td>221</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
-			<a href="https://github.com/SadatHossain01">
-				<img src="https://avatars.githubusercontent.com/u/57341381?s=72&u=c461d06bb3b92365d68320205c7a3c1da1f23439&v=4" width="24" alt="Avatar of SadatHossain01"> SadatHossain01
-			</a><br/>
-			Mohammad Sadat Hossain
-		</td>
-		<td>Buet </td>
-		<td><a href="https://twitter.com/SadatHossain01">SadatHossain01</a></td>
-		<td>Dhaka</td>
-		<td>36</td>
-		<td>220</td>
 	</tr>
 	<tr>
 		<td>469</td>
@@ -7444,6 +7444,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>525</td>
 		<td>
+			<a href="https://github.com/AbdullahArean">
+				<img src="https://avatars.githubusercontent.com/u/70502574?s=72&u=adc275c671762f74e496f318a3e62c4796001365&v=4" width="24" alt="Avatar of AbdullahArean"> AbdullahArean
+			</a><br/>
+			Abdullah Ibne Hanif Arean
+		</td>
+		<td>University Of Dhaka </td>
+		<td><a href="https://twitter.com/AbdullahArean">AbdullahArean</a></td>
+		<td>Dhaka</td>
+		<td>52</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
 			<a href="https://github.com/NoorMohammedAnik">
 				<img src="https://avatars.githubusercontent.com/u/11643584?s=72&u=49d5e4cebb44e27b588b04bbe94e713fa1509b78&v=4" width="24" alt="Avatar of NoorMohammedAnik"> NoorMohammedAnik
 			</a><br/>
@@ -7456,7 +7470,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/jakariya0dev">
 				<img src="https://avatars.githubusercontent.com/u/37653608?s=72&u=24ef7a0fbdcf0bfeae598fc5b88833dd6fe91049&v=4" width="24" alt="Avatar of jakariya0dev"> jakariya0dev
@@ -7470,7 +7484,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/progmamun">
 				<img src="https://avatars.githubusercontent.com/u/67066348?s=72&u=c7d8b6745d3db290d169481bb892116f8e8294e9&v=4" width="24" alt="Avatar of progmamun"> progmamun
@@ -7481,20 +7495,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Pabna, Dhaka, Bangladesh</td>
 		<td>10</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
-			<a href="https://github.com/AbdullahArean">
-				<img src="https://avatars.githubusercontent.com/u/70502574?s=72&u=adc275c671762f74e496f318a3e62c4796001365&v=4" width="24" alt="Avatar of AbdullahArean"> AbdullahArean
-			</a><br/>
-			Abdullah Ibne Hanif Arean
-		</td>
-		<td>University Of Dhaka </td>
-		<td><a href="https://twitter.com/AbdullahArean">AbdullahArean</a></td>
-		<td>Dhaka</td>
-		<td>52</td>
 		<td>155</td>
 	</tr>
 	<tr>

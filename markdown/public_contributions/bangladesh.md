@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2025/4/28 3:59 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2025/4/28 4:08 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1706,6 +1706,19 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>124</td>
 		<td>
+			<a href="https://github.com/mdabir1203">
+				<img src="https://avatars.githubusercontent.com/u/66947064?s=72&u=5fff557263a8bae782d35b09a7bca0bbd8d4ed7f&v=4" width="24" alt="Avatar of mdabir1203"> mdabir1203
+			</a><br/>
+			uknowWho
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mohamma71616280">Mohamma71616280</a></td>
+		<td>Chittagong</td>
+		<td>316</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
 			<a href="https://github.com/saifakib">
 				<img src="https://avatars.githubusercontent.com/u/45618498?s=72&u=d5c2beed68de0eee9491528d7b79441e5d671540&v=4" width="24" alt="Avatar of saifakib"> saifakib
 			</a><br/>
@@ -1715,19 +1728,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
 		<td>316</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/mdabir1203">
-				<img src="https://avatars.githubusercontent.com/u/66947064?s=72&u=5fff557263a8bae782d35b09a7bca0bbd8d4ed7f&v=4" width="24" alt="Avatar of mdabir1203"> mdabir1203
-			</a><br/>
-			uknowWho
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mohamma71616280">Mohamma71616280</a></td>
-		<td>Chittagong</td>
-		<td>315</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -2481,7 +2481,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Former It Officer |<br/>Lazz<br/>Pharma<br/>Limited<br/></td>
 		<td>No Twitter Username</td>
 		<td>Akur Takur Para, Tangail, Bangladesh</td>
-		<td>225</td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>184</td>
