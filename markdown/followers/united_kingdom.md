@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `number of followers` of users in United Kingdom on `2025/4/30 10:58 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `number of followers` of users in United Kingdom on `2025/4/30 11:11 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `952 users`  in United Kingdom. You need at least `232 followers` to b
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alyssaxuu">alyssaxuu</a></td>
 		<td>London, UK</td>
-		<td>9153</td>
+		<td>9154</td>
 	</tr>
 	<tr>
 		<td>6</td>
