@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/4/27 11:15 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/4/30 10:28 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirats </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>22</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -276,6 +276,19 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/Alsuwaidismsar">
+				<img src="https://avatars.githubusercontent.com/u/198424369?s=72&u=682e18e66c39795432c51bc78fb5bdfc9c4b2fb4&v=4" width="24" alt="Avatar of Alsuwaidismsar"> Alsuwaidismsar
+			</a><br/>
+			Alsuwaidi_Smsar
+		</td>
+		<td>Alsuwaidi_smsar A Platform For<br/>Displaying<br/>Used<br/>Cars<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sharjah</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/vaseemahmed01">
 				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
 			</a><br/>
@@ -287,7 +300,7 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/dengichuko">
 				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of dengichuko"> dengichuko
@@ -300,7 +313,7 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/sunilnjc">
 				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
@@ -310,19 +323,6 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/Alsuwaidismsar">
-				<img src="https://avatars.githubusercontent.com/u/198424369?s=72&u=682e18e66c39795432c51bc78fb5bdfc9c4b2fb4&v=4" width="24" alt="Avatar of Alsuwaidismsar"> Alsuwaidismsar
-			</a><br/>
-			Alsuwaidi_Smsar
-		</td>
-		<td>Alsuwaidi_smsar A Platform For<br/>Displaying<br/>Used<br/>Cars<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sharjah</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -393,19 +393,6 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/nabeelshah96">
-				<img src="https://avatars.githubusercontent.com/u/21284713?s=72&u=dc86b3932148950c809c5a21b361073bd1947b01&v=4" width="24" alt="Avatar of nabeelshah96"> nabeelshah96
-			</a><br/>
-			Nabeel Shah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/ShuaibAshroff">
 				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
 			</a><br/>
@@ -414,6 +401,19 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Airlines It </td>
 		<td>No Twitter Username</td>
 		<td>Dubai - UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/nabeelshah96">
+				<img src="https://avatars.githubusercontent.com/u/21284713?s=72&u=dc86b3932148950c809c5a21b361073bd1947b01&v=4" width="24" alt="Avatar of nabeelshah96"> nabeelshah96
+			</a><br/>
+			Nabeel Shah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>

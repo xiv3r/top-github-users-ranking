@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/4/27 11:15 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/4/30 10:28 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Alsuwaidi_smsar A Platform For<br/>Displaying<br/>Used<br/>Cars<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -263,6 +263,19 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/meetmysweet">
+				<img src="https://avatars.githubusercontent.com/u/209333028?s=72&v=4" width="24" alt="Avatar of meetmysweet"> meetmysweet
+			</a><br/>
+			meetmysweet
+		</td>
+		<td>Meetmysweet </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/aquaexpertswatertreatment">
 				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
 			</a><br/>
@@ -274,7 +287,7 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/800mechanics">
 				<img src="https://avatars.githubusercontent.com/u/208693711?s=72&u=c67ef04d612b76c3535036c687f51e6b020e9b13&v=4" width="24" alt="Avatar of 800mechanics"> 800mechanics
@@ -282,19 +295,6 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 			800mechanics
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/meetmysweet">
-				<img src="https://avatars.githubusercontent.com/u/209333028?s=72&v=4" width="24" alt="Avatar of meetmysweet"> meetmysweet
-			</a><br/>
-			meetmysweet
-		</td>
-		<td>Meetmysweet </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
@@ -354,19 +354,6 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/wismarine">
-				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
-			</a><br/>
-			Wismar Heavy Equipment Trading L.L.C
-		</td>
-		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
-		<td>No Twitter Username</td>
-		<td>PO Box: 23909 Sharjah, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/goldrateindubai">
 				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
 			</a><br/>
@@ -375,6 +362,19 @@ There are `76 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Gold Rate In Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/wismarine">
+				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			</a><br/>
+			Wismar Heavy Equipment Trading L.L.C
+		</td>
+		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>No Twitter Username</td>
+		<td>PO Box: 23909 Sharjah, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
