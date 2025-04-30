@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `number of followers` of users in Russia on `2025/4/29 11:55 PM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `number of followers` of users in Russia on `2025/4/30 12:11 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3890,6 +3890,19 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 	<tr>
 		<td>292</td>
 		<td>
+			<a href="https://github.com/mr-dvlpr">
+				<img src="https://avatars.githubusercontent.com/u/73177708?s=72&u=ba5eee8410c19c1d5a518f31602fa2e3ebf71f3c&v=4" width="24" alt="Avatar of mr-dvlpr"> mr-dvlpr
+			</a><br/>
+			Mr Developer
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mr_dvlpr">Mr_dvlpr</a></td>
+		<td>russia</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
 			<a href="https://github.com/NullTale">
 				<img src="https://avatars.githubusercontent.com/u/1497430?s=72&u=ccfa10419687e1892b1fd650f293848977968e70&v=4" width="24" alt="Avatar of NullTale"> NullTale
 			</a><br/>
@@ -3901,7 +3914,7 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/zelenin">
 				<img src="https://avatars.githubusercontent.com/u/1427885?s=72&u=9a5a731dbe16d0970ab6ac6e986bd638f6fdbb55&v=4" width="24" alt="Avatar of zelenin"> zelenin
@@ -3914,7 +3927,7 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/zevlg">
 				<img src="https://avatars.githubusercontent.com/u/850077?s=72&v=4" width="24" alt="Avatar of zevlg"> zevlg
@@ -3927,7 +3940,7 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/GnuriaN">
 				<img src="https://avatars.githubusercontent.com/u/5384215?s=72&u=67e57a032a54da7d059b2858058ad24ea0986c9d&v=4" width="24" alt="Avatar of GnuriaN"> GnuriaN
@@ -3940,7 +3953,7 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/a-legotin">
 				<img src="https://avatars.githubusercontent.com/u/5720135?s=72&u=d0fe60849801d9b7982772d857710cca48849c22&v=4" width="24" alt="Avatar of a-legotin"> a-legotin
@@ -3950,19 +3963,6 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>Ezlab </td>
 		<td>No Twitter Username</td>
 		<td>Saint-Petersburg, Russia</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/mr-dvlpr">
-				<img src="https://avatars.githubusercontent.com/u/73177708?s=72&u=ba5eee8410c19c1d5a518f31602fa2e3ebf71f3c&v=4" width="24" alt="Avatar of mr-dvlpr"> mr-dvlpr
-			</a><br/>
-			Mr Developer
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mr_dvlpr">Mr_dvlpr</a></td>
-		<td>russia</td>
 		<td>162</td>
 	</tr>
 	<tr>

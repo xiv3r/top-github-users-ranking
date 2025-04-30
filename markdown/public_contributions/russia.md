@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `public contributions` by users in Russia on `2025/4/29 11:55 PM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `public contributions` by users in Russia on `2025/4/30 12:11 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1701,7 +1701,7 @@ There are `974 users`  in Russia. You need at least `61 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jsneodev">jsneodev</a></td>
 		<td>Russia, St.Peterburg</td>
-		<td>426</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>124</td>
