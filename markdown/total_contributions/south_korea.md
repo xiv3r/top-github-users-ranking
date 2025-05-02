@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/5/2 10:51 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/5/2 11:01 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -173,7 +173,7 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td><a href="https://twitter.com/echojuliett">echojuliett</a></td>
 		<td>Seoul, Korea</td>
 		<td>8</td>
-		<td>7419</td>
+		<td>7420</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1488,8 +1488,8 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>@pedaling </td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>19</td>
-		<td>2273</td>
+		<td>22</td>
+		<td>2274</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1573,7 +1573,7 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Twitter Username</td>
 		<td>seoul</td>
 		<td>1183</td>
-		<td>2223</td>
+		<td>2225</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1614,8 +1614,8 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>@healingpaper (강남언니) </td>
 		<td>No Twitter Username</td>
 		<td>South Korea, Seoul</td>
-		<td>815</td>
-		<td>2206</td>
+		<td>797</td>
+		<td>2188</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -2189,7 +2189,7 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
 		<td>501</td>
-		<td>1748</td>
+		<td>1753</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -3748,6 +3748,20 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>261</td>
 		<td>
+			<a href="https://github.com/coallaoh">
+				<img src="https://avatars.githubusercontent.com/u/7447092?s=72&v=4" width="24" alt="Avatar of coallaoh"> coallaoh
+			</a><br/>
+			Seong Joon Oh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>259</td>
+		<td>1071</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
 			<a href="https://github.com/s8ngyu">
 				<img src="https://avatars.githubusercontent.com/u/41620322?s=72&u=8654724f0a2e5e650e4d10c7dabc98f52253ee99&v=4" width="24" alt="Avatar of s8ngyu"> s8ngyu
 			</a><br/>
@@ -3758,20 +3772,6 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>Seoul, Korea Republic of</td>
 		<td>60</td>
 		<td>1069</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/coallaoh">
-				<img src="https://avatars.githubusercontent.com/u/7447092?s=72&v=4" width="24" alt="Avatar of coallaoh"> coallaoh
-			</a><br/>
-			Seong Joon Oh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>259</td>
-		<td>1067</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -4121,7 +4121,7 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td><a href="https://twitter.com/nacyo_t">nacyo_t</a></td>
 		<td>Seoul, South Korea</td>
 		<td>370</td>
-		<td>941</td>
+		<td>942</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -5848,6 +5848,20 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 	<tr>
 		<td>411</td>
 		<td>
+			<a href="https://github.com/mori8">
+				<img src="https://avatars.githubusercontent.com/u/51125960?s=72&u=bae1af9b2aa30033df8b7279814d191be09808c1&v=4" width="24" alt="Avatar of mori8"> mori8
+			</a><br/>
+			Suyeon Nam
+		</td>
+		<td>Department Of Industrial Design,<br/>Kaist<br/></td>
+		<td>No Twitter Username</td>
+		<td>Daejeon, South Korea</td>
+		<td>185</td>
+		<td>522</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
 			<a href="https://github.com/jung-han">
 				<img src="https://avatars.githubusercontent.com/u/35371660?s=72&u=961fde6983bff99f9b69093bdffbc4a3d5da0cd0&v=4" width="24" alt="Avatar of jung-han"> jung-han
 			</a><br/>
@@ -5860,7 +5874,7 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>521</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/tooooo1">
 				<img src="https://avatars.githubusercontent.com/u/77133565?s=72&u=bafec194ab3aa86941f727473e15df01632715de&v=4" width="24" alt="Avatar of tooooo1"> tooooo1
@@ -5871,20 +5885,6 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
 		<td>167</td>
-		<td>519</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/mori8">
-				<img src="https://avatars.githubusercontent.com/u/51125960?s=72&u=bae1af9b2aa30033df8b7279814d191be09808c1&v=4" width="24" alt="Avatar of mori8"> mori8
-			</a><br/>
-			Suyeon Nam
-		</td>
-		<td>Department Of Industrial Design,<br/>Kaist<br/></td>
-		<td>No Twitter Username</td>
-		<td>Daejeon, South Korea</td>
-		<td>185</td>
 		<td>519</td>
 	</tr>
 	<tr>
@@ -8782,8 +8782,8 @@ There are `982 users`  in South Korea. You need at least `105 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>152</td>
 		<td>153</td>
+		<td>154</td>
 	</tr>
 	<tr>
 		<td>621</td>
