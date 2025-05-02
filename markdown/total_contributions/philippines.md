@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2025/5/2 5:48 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2025/5/2 5:59 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>@codetriadsolutions  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>7632089</td>
-		<td>7632230</td>
+		<td>7633089</td>
+		<td>7633230</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>@codesyncph @hallofcodes </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>75457</td>
-		<td>75690</td>
+		<td>75463</td>
+		<td>75696</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>Samsung Electronics </td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>37242</td>
-		<td>37245</td>
+		<td>37243</td>
+		<td>37246</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Vancouver, Canada & Manila, Philippines</td>
 		<td>0</td>
-		<td>25987</td>
+		<td>25988</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -228,8 +228,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
-		<td>13854</td>
-		<td>13854</td>
+		<td>13855</td>
+		<td>13855</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1755,7 +1755,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
 		<td>2</td>
-		<td>1702</td>
+		<td>1707</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1769,7 +1769,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td><a href="https://twitter.com/ashcslmn">ashcslmn</a></td>
 		<td>Philippines</td>
 		<td>18</td>
-		<td>1685</td>
+		<td>1686</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -1844,6 +1844,20 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 	<tr>
 		<td>125</td>
 		<td>
+			<a href="https://github.com/zakame">
+				<img src="https://avatars.githubusercontent.com/u/110625?s=72&u=06c1f8ef1cb8d3286ae2c36842f126f596f795ce&v=4" width="24" alt="Avatar of zakame"> zakame
+			</a><br/>
+			Zak B. Elep
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zakame">zakame</a></td>
+		<td>Makati, Philippines</td>
+		<td>231</td>
+		<td>1632</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
 			<a href="https://github.com/Mercurial">
 				<img src="https://avatars.githubusercontent.com/u/585569?s=72&u=b653fc18765b574210b00a0464e6616fa4728fab&v=4" width="24" alt="Avatar of Mercurial"> Mercurial
 			</a><br/>
@@ -1854,20 +1868,6 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>Cebu, Philippines</td>
 		<td>681</td>
 		<td>1631</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/zakame">
-				<img src="https://avatars.githubusercontent.com/u/110625?s=72&u=06c1f8ef1cb8d3286ae2c36842f126f596f795ce&v=4" width="24" alt="Avatar of zakame"> zakame
-			</a><br/>
-			Zak B. Elep
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zakame">zakame</a></td>
-		<td>Makati, Philippines</td>
-		<td>231</td>
-		<td>1630</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -2217,7 +2217,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>0</td>
-		<td>1435</td>
+		<td>1436</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -3253,7 +3253,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td><a href="https://twitter.com/glenn_raya">glenn_raya</a></td>
 		<td>Philippines</td>
 		<td>258</td>
-		<td>1011</td>
+		<td>1012</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -6646,6 +6646,20 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 	<tr>
 		<td>468</td>
 		<td>
+			<a href="https://github.com/EstopaceMA">
+				<img src="https://avatars.githubusercontent.com/u/37571727?s=72&v=4" width="24" alt="Avatar of EstopaceMA"> EstopaceMA
+			</a><br/>
+			anth.dev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>60</td>
+		<td>297</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
 			<a href="https://github.com/bituka">
 				<img src="https://avatars.githubusercontent.com/u/1908745?s=72&u=6d288de99b9200165050dd86def08447f89f0bfe&v=4" width="24" alt="Avatar of bituka"> bituka
 			</a><br/>
@@ -6656,20 +6670,6 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>Philippines</td>
 		<td>17</td>
 		<td>297</td>
-	</tr>
-	<tr>
-		<td>469</td>
-		<td>
-			<a href="https://github.com/EstopaceMA">
-				<img src="https://avatars.githubusercontent.com/u/37571727?s=72&v=4" width="24" alt="Avatar of EstopaceMA"> EstopaceMA
-			</a><br/>
-			anth.dev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>60</td>
-		<td>295</td>
 	</tr>
 	<tr>
 		<td>470</td>
