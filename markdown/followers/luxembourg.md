@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" alt="Luxembourg">
 </a>
 
-The `number of followers` of users in Luxembourg on `2025/5/3 11:39 PM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
+The `number of followers` of users in Luxembourg on `2025/5/4 12:56 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -531,7 +531,7 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
-		<td>124</td>
+		<td>123</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -986,7 +986,7 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 		<td>Snt - University Of<br/>Luxembourg<br/></td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
-		<td>66</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>69</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" alt="Luxembourg">
 </a>
 
-The `public contributions` and `private contributions` by users in Luxembourg on `2025/5/3 11:39 PM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
+The `public contributions` and `private contributions` by users in Luxembourg on `2025/5/4 12:56 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -593,7 +593,7 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 		<td><a href="https://twitter.com/alexandrenesov">alexandrenesov</a></td>
 		<td>Luxembourg</td>
 		<td>18</td>
-		<td>1613</td>
+		<td>1614</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -1186,6 +1186,20 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 	<tr>
 		<td>78</td>
 		<td>
+			<a href="https://github.com/maksimko">
+				<img src="https://avatars.githubusercontent.com/u/2482271?s=72&u=54bfb3e0d60146b58363e1be31f5d0390957ca04&v=4" width="24" alt="Avatar of maksimko"> maksimko
+			</a><br/>
+			Maxim Bolshakov
+		</td>
+		<td>Job Today </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg, Luxembourg</td>
+		<td>11</td>
+		<td>788</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
 			<a href="https://github.com/255kb">
 				<img src="https://avatars.githubusercontent.com/u/7489814?s=72&u=dd497ce404bd6883665b9da54372b9d02a070b14&v=4" width="24" alt="Avatar of 255kb"> 255kb
 			</a><br/>
@@ -1196,20 +1210,6 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 		<td>Luxembourg</td>
 		<td>626</td>
 		<td>787</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/maksimko">
-				<img src="https://avatars.githubusercontent.com/u/2482271?s=72&u=54bfb3e0d60146b58363e1be31f5d0390957ca04&v=4" width="24" alt="Avatar of maksimko"> maksimko
-			</a><br/>
-			Maxim Bolshakov
-		</td>
-		<td>Job Today </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg, Luxembourg</td>
-		<td>11</td>
-		<td>786</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1396,6 +1396,20 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/umitkaanusta">
+				<img src="https://avatars.githubusercontent.com/u/53405015?s=72&v=4" width="24" alt="Avatar of umitkaanusta"> umitkaanusta
+			</a><br/>
+			Ümit Kaan Usta
+		</td>
+		<td>@amzn Amazon </td>
+		<td><a href="https://twitter.com/umitkaanusta">umitkaanusta</a></td>
+		<td>Luxembourg</td>
+		<td>2</td>
+		<td>709</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/pedroentringer">
 				<img src="https://avatars.githubusercontent.com/u/29384810?s=72&u=e36d3b349b607973f848b2dfc03635939cb0a481&v=4" width="24" alt="Avatar of pedroentringer"> pedroentringer
 			</a><br/>
@@ -1406,20 +1420,6 @@ There are `912 users`  in Luxembourg. You need at least `5 followers` to be on t
 		<td>Luxembourg</td>
 		<td>10</td>
 		<td>701</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/umitkaanusta">
-				<img src="https://avatars.githubusercontent.com/u/53405015?s=72&v=4" width="24" alt="Avatar of umitkaanusta"> umitkaanusta
-			</a><br/>
-			Ümit Kaan Usta
-		</td>
-		<td>@amzn Amazon </td>
-		<td><a href="https://twitter.com/umitkaanusta">umitkaanusta</a></td>
-		<td>Luxembourg</td>
-		<td>2</td>
-		<td>700</td>
 	</tr>
 	<tr>
 		<td>95</td>
