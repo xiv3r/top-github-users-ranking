@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `number of followers` of users in Moldova on `2025/5/1 8:54 PM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `number of followers` of users in Moldova on `2025/5/4 8:02 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Eastern Europe</td>
-		<td>455</td>
+		<td>456</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of Moldova</td>
-		<td>348</td>
+		<td>347</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Richpanel </td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
-		<td>345</td>
+		<td>346</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -219,7 +219,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Tiraspol</td>
-		<td>180</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chișinău, Moldova</td>
-		<td>170</td>
+		<td>171</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -258,7 +258,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova Chisinau </td>
-		<td>156</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -341,19 +341,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/micnic">
-				<img src="https://avatars.githubusercontent.com/u/1449826?s=72&v=4" width="24" alt="Avatar of micnic"> micnic
-			</a><br/>
-			Nicu Micleușanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/egor-n">
 				<img src="https://avatars.githubusercontent.com/u/378493?s=72&u=33fb9997c3553b1359c2cd955c410a9b3df974de&v=4" width="24" alt="Avatar of egor-n"> egor-n
 			</a><br/>
@@ -363,6 +350,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>96</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/micnic">
+				<img src="https://avatars.githubusercontent.com/u/1449826?s=72&v=4" width="24" alt="Avatar of micnic"> micnic
+			</a><br/>
+			Nicu Micleușanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>95</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -414,7 +414,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Mlheap.com </td>
 		<td><a href="https://twitter.com/ionmosnoi">ionmosnoi</a></td>
 		<td>Chisinau Moldova</td>
-		<td>73</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -453,7 +453,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/slash3b">slash3b</a></td>
 		<td>Moldova</td>
-		<td>64</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -510,6 +510,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/Aragas">
+				<img src="https://avatars.githubusercontent.com/u/5411011?s=72&v=4" width="24" alt="Avatar of Aragas"> Aragas
+			</a><br/>
+			Vitalii Mikhailov
+		</td>
+		<td>Amdaris </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
 			<a href="https://github.com/rurre">
 				<img src="https://avatars.githubusercontent.com/u/16716633?s=72&u=377be7caab10b0cedf207ae582fb9a2d0386e6d9&v=4" width="24" alt="Avatar of rurre"> rurre
 			</a><br/>
@@ -519,19 +532,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>55</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/Aragas">
-				<img src="https://avatars.githubusercontent.com/u/5411011?s=72&v=4" width="24" alt="Avatar of Aragas"> Aragas
-			</a><br/>
-			Vitalii Mikhailov
-		</td>
-		<td>Amdaris </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>54</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -575,6 +575,32 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>37</td>
 		<td>
+			<a href="https://github.com/vitaliel">
+				<img src="https://avatars.githubusercontent.com/u/995?s=72&v=4" width="24" alt="Avatar of vitaliel"> vitaliel
+			</a><br/>
+			Vitalie Lazu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Chisinau</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/lao9s">
+				<img src="https://avatars.githubusercontent.com/u/3392129?s=72&u=0fb0fb731994db86a60e923d32d5e70b1b789c2c&v=4" width="24" alt="Avatar of lao9s"> lao9s
+			</a><br/>
+			Dima Botezatu
+		</td>
+		<td>@inovector </td>
+		<td><a href="https://twitter.com/BotezatuDima">BotezatuDima</a></td>
+		<td>Moldova</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
 			<a href="https://github.com/gurdiga">
 				<img src="https://avatars.githubusercontent.com/u/53922?s=72&v=4" width="24" alt="Avatar of gurdiga"> gurdiga
 			</a><br/>
@@ -586,20 +612,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/vitaliel">
-				<img src="https://avatars.githubusercontent.com/u/995?s=72&v=4" width="24" alt="Avatar of vitaliel"> vitaliel
-			</a><br/>
-			Vitalie Lazu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Chisinau</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/wanoo21">
 				<img src="https://avatars.githubusercontent.com/u/6537167?s=72&u=a6684dd8f58de264f93ee25a11a6450c1d459de1&v=4" width="24" alt="Avatar of wanoo21"> wanoo21
@@ -608,19 +621,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		</td>
 		<td>@ngcomma </td>
 		<td><a href="https://twitter.com/ipwanciu">ipwanciu</a></td>
-		<td>Moldova</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/lao9s">
-				<img src="https://avatars.githubusercontent.com/u/3392129?s=72&u=0fb0fb731994db86a60e923d32d5e70b1b789c2c&v=4" width="24" alt="Avatar of lao9s"> lao9s
-			</a><br/>
-			Dima Botezatu
-		</td>
-		<td>@inovector </td>
-		<td><a href="https://twitter.com/BotezatuDima">BotezatuDima</a></td>
 		<td>Moldova</td>
 		<td>46</td>
 	</tr>
@@ -757,19 +757,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/Raduc4">
-				<img src="https://avatars.githubusercontent.com/u/55291600?s=72&u=f4a1705532a4965f924a8f778e1778979d0c9729&v=4" width="24" alt="Avatar of Raduc4"> Raduc4
-			</a><br/>
-			Radu Cazacu
-		</td>
-		<td>Windows Xp </td>
-		<td><a href="https://twitter.com/radu_c4">radu_c4</a></td>
-		<td>Moldova</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
 			<a href="https://github.com/AndreiRudenko">
 				<img src="https://avatars.githubusercontent.com/u/7773355?s=72&u=d9d38b66520bf974c43fc539551d25c0b92b6ded&v=4" width="24" alt="Avatar of AndreiRudenko"> AndreiRudenko
 			</a><br/>
@@ -778,6 +765,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AndreiRudenko">AndreiRudenko</a></td>
 		<td>Tiraspol, Moldova</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/Raduc4">
+				<img src="https://avatars.githubusercontent.com/u/55291600?s=72&u=f4a1705532a4965f924a8f778e1778979d0c9729&v=4" width="24" alt="Avatar of Raduc4"> Raduc4
+			</a><br/>
+			Radu Cazacu
+		</td>
+		<td>Windows Xp </td>
+		<td><a href="https://twitter.com/radu_c4">radu_c4</a></td>
+		<td>Moldova</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -887,19 +887,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/vsilent">
-				<img src="https://avatars.githubusercontent.com/u/42473?s=72&u=86609fc835ecb0a23504e77e6c366d6fd5560071&v=4" width="24" alt="Avatar of vsilent"> vsilent
-			</a><br/>
-			Vasili Pascal
-		</td>
-		<td>Trydirect </td>
-		<td><a href="https://twitter.com/VasiliiPascal">VasiliiPascal</a></td>
-		<td>Moldova</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
 			<a href="https://github.com/stupidscammer">
 				<img src="https://avatars.githubusercontent.com/u/119834813?s=72&v=4" width="24" alt="Avatar of stupidscammer"> stupidscammer
 			</a><br/>
@@ -911,7 +898,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/rusikf">
 				<img src="https://avatars.githubusercontent.com/u/3082811?s=72&u=66f16df01167d52d8c119b9be920fbb1deefbb3d&v=4" width="24" alt="Avatar of rusikf"> rusikf
@@ -924,7 +911,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/ElForastero">
 				<img src="https://avatars.githubusercontent.com/u/5102818?s=72&u=6ce1f0802e5e928961e85e4c3090215f923a908e&v=4" width="24" alt="Avatar of ElForastero"> ElForastero
@@ -937,7 +924,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/BabaDorin">
 				<img src="https://avatars.githubusercontent.com/u/32685979?s=72&u=c831fa7399cfd02c38198031bbcc0e0294db8961&v=4" width="24" alt="Avatar of BabaDorin"> BabaDorin
@@ -947,6 +934,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chișinău</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/vsilent">
+				<img src="https://avatars.githubusercontent.com/u/42473?s=72&u=86609fc835ecb0a23504e77e6c366d6fd5560071&v=4" width="24" alt="Avatar of vsilent"> vsilent
+			</a><br/>
+			Vasili Pascal
+		</td>
+		<td>Trydirect </td>
+		<td><a href="https://twitter.com/VasiliiPascal">VasiliiPascal</a></td>
+		<td>Moldova</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -1134,19 +1134,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>80</td>
 		<td>
-			<a href="https://github.com/cristi-lupu">
-				<img src="https://avatars.githubusercontent.com/u/41613812?s=72&u=2c649cedefaea092df4210baffe5f2b4cebdd9c1&v=4" width="24" alt="Avatar of cristi-lupu"> cristi-lupu
-			</a><br/>
-			Cristian Lupu
-		</td>
-		<td>@crunchyroll  </td>
-		<td><a href="https://twitter.com/cici_lupu">cici_lupu</a></td>
-		<td>Chișinău, Republic of Moldova</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
 			<a href="https://github.com/eduard-balamatiuc">
 				<img src="https://avatars.githubusercontent.com/u/66115008?s=72&u=967ff585b70ee315fd4211d5fc9bbb2efbf7ebe0&v=4" width="24" alt="Avatar of eduard-balamatiuc"> eduard-balamatiuc
 			</a><br/>
@@ -1158,7 +1145,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/hoqua">
 				<img src="https://avatars.githubusercontent.com/u/11320835?s=72&u=e1975a74d45b2cb73ab0beeda46fdff53cb27c48&v=4" width="24" alt="Avatar of hoqua"> hoqua
@@ -1171,7 +1158,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/Doileo">
 				<img src="https://avatars.githubusercontent.com/u/81412543?s=72&u=8836b5bd362e688be6c607d1a23698cf47beecad&v=4" width="24" alt="Avatar of Doileo"> Doileo
@@ -1184,7 +1171,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/iondodon">
 				<img src="https://avatars.githubusercontent.com/u/10323329?s=72&v=4" width="24" alt="Avatar of iondodon"> iondodon
@@ -1195,6 +1182,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>27</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/cristi-lupu">
+				<img src="https://avatars.githubusercontent.com/u/41613812?s=72&u=2c649cedefaea092df4210baffe5f2b4cebdd9c1&v=4" width="24" alt="Avatar of cristi-lupu"> cristi-lupu
+			</a><br/>
+			Cristian Lupu
+		</td>
+		<td>@crunchyroll  </td>
+		<td><a href="https://twitter.com/cici_lupu">cici_lupu</a></td>
+		<td>Chișinău, Republic of Moldova</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1407,6 +1407,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>101</td>
 		<td>
+			<a href="https://github.com/whos-gabi">
+				<img src="https://avatars.githubusercontent.com/u/56652297?s=72&u=1f26115b7b4195811a872b4eb52a6b1eb34d9488&v=4" width="24" alt="Avatar of whos-gabi"> whos-gabi
+			</a><br/>
+			Gabi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Balti, Moldova</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
 			<a href="https://github.com/vladimarius">
 				<img src="https://avatars.githubusercontent.com/u/11944808?s=72&u=6786b936ff3a5a3d047780fe4140370e56a224cd&v=4" width="24" alt="Avatar of vladimarius"> vladimarius
 			</a><br/>
@@ -1418,7 +1431,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/scebotari66">
 				<img src="https://avatars.githubusercontent.com/u/329976?s=72&v=4" width="24" alt="Avatar of scebotari66"> scebotari66
@@ -1431,7 +1444,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/theFaustus">
 				<img src="https://avatars.githubusercontent.com/u/12131801?s=72&u=a4f00df1e9d989610b8a49c33909c811341d50d4&v=4" width="24" alt="Avatar of theFaustus"> theFaustus
@@ -1444,7 +1457,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/suvjunmd">
 				<img src="https://avatars.githubusercontent.com/u/11020536?s=72&u=797b358eb29043966ce79e58c34ab6645d65c73a&v=4" width="24" alt="Avatar of suvjunmd"> suvjunmd
@@ -1457,7 +1470,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/galinapush">
 				<img src="https://avatars.githubusercontent.com/u/152612550?s=72&u=ca367520e15f7481232d2f32f5653c2c6e5a137c&v=4" width="24" alt="Avatar of galinapush"> galinapush
@@ -1470,7 +1483,20 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/GuidixX">
+				<img src="https://avatars.githubusercontent.com/u/81136142?s=72&u=0b5d502bcefdb1a4f61e4c76be5d43d68ee00525&v=4" width="24" alt="Avatar of GuidixX"> GuidixX
+			</a><br/>
+			Guidix
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/icaliman">
 				<img src="https://avatars.githubusercontent.com/u/4498933?s=72&v=4" width="24" alt="Avatar of icaliman"> icaliman
@@ -1483,7 +1509,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/Nemo-Illusionist">
 				<img src="https://avatars.githubusercontent.com/u/7287182?s=72&u=963b29ae22a3cc8015913c58c9ecf7bc55a3599c&v=4" width="24" alt="Avatar of Nemo-Illusionist"> Nemo-Illusionist
@@ -1496,20 +1522,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/whos-gabi">
-				<img src="https://avatars.githubusercontent.com/u/56652297?s=72&u=1f26115b7b4195811a872b4eb52a6b1eb34d9488&v=4" width="24" alt="Avatar of whos-gabi"> whos-gabi
-			</a><br/>
-			Gabi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Balti, Moldova</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/maximbircu">
 				<img src="https://avatars.githubusercontent.com/u/12527390?s=72&u=6e7cf2b268c0b57bb857ad25b2613999c5eb6102&v=4" width="24" alt="Avatar of maximbircu"> maximbircu
@@ -1522,7 +1535,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/eduard13">
 				<img src="https://avatars.githubusercontent.com/u/15868188?s=72&u=db71a9149f2e517ed1a19ebcf09cef2b098291a4&v=4" width="24" alt="Avatar of eduard13"> eduard13
@@ -1533,19 +1546,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/EduardChitoraga">EduardChitoraga</a></td>
 		<td>Republic of Moldova</td>
 		<td>21</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/GuidixX">
-				<img src="https://avatars.githubusercontent.com/u/81136142?s=72&u=0b5d502bcefdb1a4f61e4c76be5d43d68ee00525&v=4" width="24" alt="Avatar of GuidixX"> GuidixX
-			</a><br/>
-			Guidix
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>20</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -2005,6 +2005,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>147</td>
 		<td>
+			<a href="https://github.com/hipot">
+				<img src="https://avatars.githubusercontent.com/u/2675569?s=72&u=318eb050612703eb6a65dbf0cbbadee4dcded42a&v=4" width="24" alt="Avatar of hipot"> hipot
+			</a><br/>
+			Valerii Cheban
+		</td>
+		<td>@hipot-studio </td>
+		<td><a href="https://twitter.com/HipotVb">HipotVb</a></td>
+		<td>Tiraspol</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
 			<a href="https://github.com/metreniuk">
 				<img src="https://avatars.githubusercontent.com/u/12821094?s=72&u=b85661f1af5bccf9a064100cb387521fd211d31f&v=4" width="24" alt="Avatar of metreniuk"> metreniuk
 			</a><br/>
@@ -2016,7 +2029,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/TimurCravtov">
 				<img src="https://avatars.githubusercontent.com/u/138227305?s=72&u=82e5370ad2d32fbb39da83570dd4ce16a963a848&v=4" width="24" alt="Avatar of TimurCravtov"> TimurCravtov
@@ -2029,7 +2042,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/Sufferal">
 				<img src="https://avatars.githubusercontent.com/u/48862508?s=72&u=cb463aab0f777dca97400ccacd3bf160b614e4bc&v=4" width="24" alt="Avatar of Sufferal"> Sufferal
@@ -2042,7 +2055,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/evisoft">
 				<img src="https://avatars.githubusercontent.com/u/664064?s=72&v=4" width="24" alt="Avatar of evisoft"> evisoft
@@ -2055,7 +2068,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/chief93">
 				<img src="https://avatars.githubusercontent.com/u/2089568?s=72&u=51f0a5f582d5d5b1a7bb7c8991a1de8e0c152297&v=4" width="24" alt="Avatar of chief93"> chief93
@@ -2068,7 +2081,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/ardabada">
 				<img src="https://avatars.githubusercontent.com/u/5119085?s=72&u=f86a91008bd562346677c9687ab8ad2df300c4f9&v=4" width="24" alt="Avatar of ardabada"> ardabada
@@ -2081,7 +2094,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/Grena30">
 				<img src="https://avatars.githubusercontent.com/u/24623439?s=72&u=130e1928c4702d453cd769654083b06828af325e&v=4" width="24" alt="Avatar of Grena30"> Grena30
@@ -2094,7 +2107,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/imodeveloper">
 				<img src="https://avatars.githubusercontent.com/u/2129457?s=72&u=40a122f81ff02c96601fe9e143660e452e05dd35&v=4" width="24" alt="Avatar of imodeveloper"> imodeveloper
@@ -2107,7 +2120,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/paulsanduleac">
 				<img src="https://avatars.githubusercontent.com/u/67867?s=72&u=9dd96820434b98e06f2da92e11dd152d53749457&v=4" width="24" alt="Avatar of paulsanduleac"> paulsanduleac
@@ -2120,7 +2133,20 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/cijic">
+				<img src="https://avatars.githubusercontent.com/u/919384?s=72&v=4" width="24" alt="Avatar of cijic"> cijic
+			</a><br/>
+			Chiril Teterea
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/dikiigr">
 				<img src="https://avatars.githubusercontent.com/u/8931254?s=72&u=953b1c0e7b6ba137781f26cdbeb9918032538aa9&v=4" width="24" alt="Avatar of dikiigr"> dikiigr
@@ -2133,7 +2159,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/iprida">
 				<img src="https://avatars.githubusercontent.com/u/11973965?s=72&u=b59391b5e95ac5653f339675142bdd7fb43fdbeb&v=4" width="24" alt="Avatar of iprida"> iprida
@@ -2146,7 +2172,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/Sasha95">
 				<img src="https://avatars.githubusercontent.com/u/12782629?s=72&u=282a187b3cfc4f3efdf7915e50328e5bd1d0245e&v=4" width="24" alt="Avatar of Sasha95"> Sasha95
@@ -2159,7 +2185,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/raidum">
 				<img src="https://avatars.githubusercontent.com/u/1191729?s=72&u=927c768e9d2bdb271cf9732fc5b8ba31796bf8da&v=4" width="24" alt="Avatar of raidum"> raidum
@@ -2172,7 +2198,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/BreahnaDavid">
 				<img src="https://avatars.githubusercontent.com/u/11631898?s=72&u=a98b68ee8545a86b53295bca391ec65118ec83e0&v=4" width="24" alt="Avatar of BreahnaDavid"> BreahnaDavid
@@ -2185,20 +2211,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/hipot">
-				<img src="https://avatars.githubusercontent.com/u/2675569?s=72&u=318eb050612703eb6a65dbf0cbbadee4dcded42a&v=4" width="24" alt="Avatar of hipot"> hipot
-			</a><br/>
-			Valerii Cheban
-		</td>
-		<td>@hipot-studio </td>
-		<td><a href="https://twitter.com/HipotVb">HipotVb</a></td>
-		<td>Tiraspol</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/nvmker">
 				<img src="https://avatars.githubusercontent.com/u/3058188?s=72&u=f81161bbc96bf046558ca9c3f554ba90a50a0f99&v=4" width="24" alt="Avatar of nvmker"> nvmker
@@ -2211,7 +2224,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/GheorgheMorari">
 				<img src="https://avatars.githubusercontent.com/u/53918731?s=72&u=d652256f877b153d9c61cda25033f144177e6ae8&v=4" width="24" alt="Avatar of GheorgheMorari"> GheorgheMorari
@@ -2224,7 +2237,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/muffindud">
 				<img src="https://avatars.githubusercontent.com/u/73847818?s=72&u=80d9fbe5907f87abbc1980ea61dc67475ff911fe&v=4" width="24" alt="Avatar of muffindud"> muffindud
@@ -2237,7 +2250,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/Warek01">
 				<img src="https://avatars.githubusercontent.com/u/54502184?s=72&v=4" width="24" alt="Avatar of Warek01"> Warek01
@@ -2250,7 +2263,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/sergiu17">
 				<img src="https://avatars.githubusercontent.com/u/22868352?s=72&u=ed8090c8a1db407d86184a42a7faa7710663b044&v=4" width="24" alt="Avatar of sergiu17"> sergiu17
@@ -2263,7 +2276,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/AlexandruRudoi">
 				<img src="https://avatars.githubusercontent.com/u/74212173?s=72&u=2bb3fc9d267ebf63bb30fa3ff104e71ae87b5026&v=4" width="24" alt="Avatar of AlexandruRudoi"> AlexandruRudoi
@@ -2276,7 +2289,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/S2dentik">
 				<img src="https://avatars.githubusercontent.com/u/13215590?s=72&u=c0485d8ee21478d3760616e1acb156ff5d30b3ca&v=4" width="24" alt="Avatar of S2dentik"> S2dentik
@@ -2289,7 +2302,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/blueflyingpanda">
 				<img src="https://avatars.githubusercontent.com/u/43540963?s=72&u=d655fa6119fdfd8a1e87284aca765b856c2f8e14&v=4" width="24" alt="Avatar of blueflyingpanda"> blueflyingpanda
@@ -2299,19 +2312,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Yandex </td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/cijic">
-				<img src="https://avatars.githubusercontent.com/u/919384?s=72&v=4" width="24" alt="Avatar of cijic"> cijic
-			</a><br/>
-			Chiril Teterea
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -2551,6 +2551,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>189</td>
 		<td>
+			<a href="https://github.com/DoruApareci">
+				<img src="https://avatars.githubusercontent.com/u/93883236?s=72&u=9b3a3a4c9b92877e203c4733a2b442d6d5201a31&v=4" width="24" alt="Avatar of DoruApareci"> DoruApareci
+			</a><br/>
+			DoruApareci
+		</td>
+		<td>Student@utm </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
 			<a href="https://github.com/LeonisX">
 				<img src="https://avatars.githubusercontent.com/u/13258944?s=72&u=d5c648794f5d80511659e8a24b84dd1d88a3543e&v=4" width="24" alt="Avatar of LeonisX"> LeonisX
 			</a><br/>
@@ -2562,7 +2575,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/axcornea">
 				<img src="https://avatars.githubusercontent.com/u/11795668?s=72&u=9a3f42ddbe64d3306ffd1d192111ae36b5b29a1b&v=4" width="24" alt="Avatar of axcornea"> axcornea
@@ -2575,7 +2588,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/kotyaralih">
 				<img src="https://avatars.githubusercontent.com/u/62548070?s=72&u=c15f20ce90b414431b7499a408dacca671e997f9&v=4" width="24" alt="Avatar of kotyaralih"> kotyaralih
@@ -2588,7 +2601,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/IonatanMocan">
 				<img src="https://avatars.githubusercontent.com/u/14163571?s=72&u=6fcd76939f1d152d451add185dae3720eb96faa2&v=4" width="24" alt="Avatar of IonatanMocan"> IonatanMocan
@@ -2601,7 +2614,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/mikecoj">
 				<img src="https://avatars.githubusercontent.com/u/54372439?s=72&u=ad31db93c2ee8680714d01a036c05a266cfea1ef&v=4" width="24" alt="Avatar of mikecoj"> mikecoj
@@ -2611,19 +2624,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/iulyus">
-				<img src="https://avatars.githubusercontent.com/u/589783?s=72&u=6387eee335ff9606289343656aa35c773c0c8b03&v=4" width="24" alt="Avatar of iulyus"> iulyus
-			</a><br/>
-			Iuly
-		</td>
-		<td>Free-lance Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Chișinău, Moldova</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -2733,19 +2733,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>203</td>
 		<td>
-			<a href="https://github.com/rockalife">
-				<img src="https://avatars.githubusercontent.com/u/1327155?s=72&u=fe491d3a03cf975260152163ba1f483f448acc0d&v=4" width="24" alt="Avatar of rockalife"> rockalife
-			</a><br/>
-			Nicolai Slovineanu
-		</td>
-		<td>Tacit Knowledge </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Republic of Moldova</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
 			<a href="https://github.com/nobiart">
 				<img src="https://avatars.githubusercontent.com/u/17129760?s=72&u=330d29dcdc1606d287f88e794c1d807774a77b45&v=4" width="24" alt="Avatar of nobiart"> nobiart
 			</a><br/>
@@ -2754,6 +2741,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DmitriBesleaga">DmitriBesleaga</a></td>
 		<td>Tiraspol, Moldova</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/rockalife">
+				<img src="https://avatars.githubusercontent.com/u/1327155?s=72&u=fe491d3a03cf975260152163ba1f483f448acc0d&v=4" width="24" alt="Avatar of rockalife"> rockalife
+			</a><br/>
+			Nicolai Slovineanu
+		</td>
+		<td>Tacit Knowledge </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Republic of Moldova</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -2772,19 +2772,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>206</td>
 		<td>
-			<a href="https://github.com/nelup20">
-				<img src="https://avatars.githubusercontent.com/u/30027205?s=72&u=419f6f6ec5e8cb8ea51bff5326f3ce127695cad1&v=4" width="24" alt="Avatar of nelup20"> nelup20
-			</a><br/>
-			Nelu Platonov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
 			<a href="https://github.com/dobrea-v">
 				<img src="https://avatars.githubusercontent.com/u/9150116?s=72&u=cc111482ff32e2e1375a99cbebccbeea57d7c378&v=4" width="24" alt="Avatar of dobrea-v"> dobrea-v
 			</a><br/>
@@ -2796,7 +2783,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/sci-barite">
 				<img src="https://avatars.githubusercontent.com/u/112873785?s=72&v=4" width="24" alt="Avatar of sci-barite"> sci-barite
@@ -2809,7 +2796,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/blainepwnz">
 				<img src="https://avatars.githubusercontent.com/u/15324618?s=72&u=e49ced7b894a45231a49f990ec065ef7a6b6f850&v=4" width="24" alt="Avatar of blainepwnz"> blainepwnz
@@ -2822,20 +2809,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/DoruApareci">
-				<img src="https://avatars.githubusercontent.com/u/93883236?s=72&u=9b3a3a4c9b92877e203c4733a2b442d6d5201a31&v=4" width="24" alt="Avatar of DoruApareci"> DoruApareci
-			</a><br/>
-			DoruApareci
-		</td>
-		<td>Student@utm </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>211</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/BazMaster">
 				<img src="https://avatars.githubusercontent.com/u/2923303?s=72&v=4" width="24" alt="Avatar of BazMaster"> BazMaster
@@ -2848,7 +2822,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/sharishi">
 				<img src="https://avatars.githubusercontent.com/u/154073720?s=72&u=e40c53896617fe9d7537cebbb6facdcf2e75a085&v=4" width="24" alt="Avatar of sharishi"> sharishi
@@ -2861,7 +2835,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/ViktorRusu">
 				<img src="https://avatars.githubusercontent.com/u/14853524?s=72&u=a1afb0fe3adda7d7eec3b7de710ef6cc92c94d4b&v=4" width="24" alt="Avatar of ViktorRusu"> ViktorRusu
@@ -2874,7 +2848,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Infvyr">
 				<img src="https://avatars.githubusercontent.com/u/18555632?s=72&u=e282766cf348c77548da814a052e8e89220a0e4e&v=4" width="24" alt="Avatar of Infvyr"> Infvyr
@@ -2887,7 +2861,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/PavelBugaian">
 				<img src="https://avatars.githubusercontent.com/u/20271496?s=72&u=1087437d43f1eefba9c8b429f6175dcbc2a8cfaf&v=4" width="24" alt="Avatar of PavelBugaian"> PavelBugaian
@@ -2900,7 +2874,20 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/iulyus">
+				<img src="https://avatars.githubusercontent.com/u/589783?s=72&u=6387eee335ff9606289343656aa35c773c0c8b03&v=4" width="24" alt="Avatar of iulyus"> iulyus
+			</a><br/>
+			Iuly
+		</td>
+		<td>Free-lance Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Chișinău, Moldova</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/geletsky">
 				<img src="https://avatars.githubusercontent.com/u/63535039?s=72&u=bceabdf01d7eb1bab2179cfdf008d6b9ee2ca03c&v=4" width="24" alt="Avatar of geletsky"> geletsky
@@ -2913,7 +2900,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/FlorinMD">
 				<img src="https://avatars.githubusercontent.com/u/6377899?s=72&u=50f270ba7752d2bd9e6c18a77b1f337749062e9f&v=4" width="24" alt="Avatar of FlorinMD"> FlorinMD
@@ -2926,7 +2913,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/pulviscriptor">
 				<img src="https://avatars.githubusercontent.com/u/11891880?s=72&u=377993f8e715e4853696af070715f4f04a6423e3&v=4" width="24" alt="Avatar of pulviscriptor"> pulviscriptor
@@ -2939,7 +2926,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/dumitruaxentii">
 				<img src="https://avatars.githubusercontent.com/u/12831901?s=72&u=e09de384a801c30c2c37f505762dc796c8ba82c3&v=4" width="24" alt="Avatar of dumitruaxentii"> dumitruaxentii
@@ -2952,7 +2939,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/oresh">
 				<img src="https://avatars.githubusercontent.com/u/2269814?s=72&u=e96bcd0cacb2993714d74968d850a3cbd72380dd&v=4" width="24" alt="Avatar of oresh"> oresh
@@ -2965,7 +2952,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/danlapteacru">
 				<img src="https://avatars.githubusercontent.com/u/6186169?s=72&v=4" width="24" alt="Avatar of danlapteacru"> danlapteacru
@@ -2975,6 +2962,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ungheni, Moldova / Iasi, Romania</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/knownout">
+				<img src="https://avatars.githubusercontent.com/u/48633292?s=72&u=9d188fd2b45fbd0b882474423f4a7b7ff891c1e0&v=4" width="24" alt="Avatar of knownout"> knownout
+			</a><br/>
+			Alexandr Slavinskii
+		</td>
+		<td>Safeblock Inc. </td>
+		<td><a href="https://twitter.com/kwntdev">kwntdev</a></td>
+		<td>Republic of Moldova</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -3058,6 +3058,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>228</td>
 		<td>
+			<a href="https://github.com/nelup20">
+				<img src="https://avatars.githubusercontent.com/u/30027205?s=72&u=9d2de0cb946af3d9a57517af8b7df70c46e7dca8&v=4" width="24" alt="Avatar of nelup20"> nelup20
+			</a><br/>
+			Nelu Platonov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
 			<a href="https://github.com/cosletmihai">
 				<img src="https://avatars.githubusercontent.com/u/6072113?s=72&u=0f58ecd19e95b1cb2e7ca39ba3a8a15caa8033fc&v=4" width="24" alt="Avatar of cosletmihai"> cosletmihai
 			</a><br/>
@@ -3069,7 +3082,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/ArturOdesa">
 				<img src="https://avatars.githubusercontent.com/u/167788481?s=72&u=92c2fb81945c2621c50f38719867b780b51c9629&v=4" width="24" alt="Avatar of ArturOdesa"> ArturOdesa
@@ -3082,7 +3095,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/iurienistor">
 				<img src="https://avatars.githubusercontent.com/u/56111777?s=72&u=afaf8f74e0679eb1719ce6397823fce58ec561bb&v=4" width="24" alt="Avatar of iurienistor"> iurienistor
@@ -3095,7 +3108,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/NikSays">
 				<img src="https://avatars.githubusercontent.com/u/9448754?s=72&u=9d484de6707d13399481c4b3ba879f038412862b&v=4" width="24" alt="Avatar of NikSays"> NikSays
@@ -3108,7 +3121,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/snorochevskiy">
 				<img src="https://avatars.githubusercontent.com/u/2117419?s=72&u=4431ca1649245d8f0e5cec6e19e4d37ac40dcc66&v=4" width="24" alt="Avatar of snorochevskiy"> snorochevskiy
@@ -3121,7 +3134,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/dimmg">
 				<img src="https://avatars.githubusercontent.com/u/9215087?s=72&u=25bf1fca4d0c0df342ee61d61898b15f29dbadef&v=4" width="24" alt="Avatar of dimmg"> dimmg
@@ -3134,33 +3147,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/DaniilTuT">
-				<img src="https://avatars.githubusercontent.com/u/115608448?s=72&v=4" width="24" alt="Avatar of DaniilTuT"> DaniilTuT
-			</a><br/>
-			Даниил
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Tiraspol</td>
-		<td>12</td>
-	</tr>
-	<tr>
 		<td>235</td>
-		<td>
-			<a href="https://github.com/baciucristian">
-				<img src="https://avatars.githubusercontent.com/u/49842769?s=72&u=adc0931a4b7d46242d4d5988a7119c18d88c5969&v=4" width="24" alt="Avatar of baciucristian"> baciucristian
-			</a><br/>
-			Cristian Baciu
-		</td>
-		<td>Jivygroup </td>
-		<td>No Twitter Username</td>
-		<td>Chișinău, Moldova</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>236</td>
 		<td>
 			<a href="https://github.com/fallGamlet">
 				<img src="https://avatars.githubusercontent.com/u/7059877?s=72&u=47cd00dc60ed9aa0cdc1d03f3dd9610b51fc0309&v=4" width="24" alt="Avatar of fallGamlet"> fallGamlet
@@ -3173,7 +3160,33 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/DaniilTuT">
+				<img src="https://avatars.githubusercontent.com/u/115608448?s=72&v=4" width="24" alt="Avatar of DaniilTuT"> DaniilTuT
+			</a><br/>
+			Даниил
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Tiraspol</td>
+		<td>12</td>
+	</tr>
+	<tr>
 		<td>237</td>
+		<td>
+			<a href="https://github.com/baciucristian">
+				<img src="https://avatars.githubusercontent.com/u/49842769?s=72&u=adc0931a4b7d46242d4d5988a7119c18d88c5969&v=4" width="24" alt="Avatar of baciucristian"> baciucristian
+			</a><br/>
+			Cristian Baciu
+		</td>
+		<td>Jivygroup </td>
+		<td>No Twitter Username</td>
+		<td>Chișinău, Moldova</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/aspatari">
 				<img src="https://avatars.githubusercontent.com/u/15144084?s=72&u=f940c76c7cc1338b7aea093d9d9ec1e511abf02a&v=4" width="24" alt="Avatar of aspatari"> aspatari
@@ -3186,7 +3199,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/anatollupacescu">
 				<img src="https://avatars.githubusercontent.com/u/932089?s=72&u=bda600fbf3f7ed50655aa2239c7ced12ef447162&v=4" width="24" alt="Avatar of anatollupacescu"> anatollupacescu
@@ -3199,7 +3212,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/microRozetka">
 				<img src="https://avatars.githubusercontent.com/u/102367506?s=72&u=f119f3f442809ecb980755314c64da3053297368&v=4" width="24" alt="Avatar of microRozetka"> microRozetka
@@ -3212,7 +3225,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/adrenalin-42">
 				<img src="https://avatars.githubusercontent.com/u/42805554?s=72&u=61334392a2b5082709406f15ac28ec659979cd59&v=4" width="24" alt="Avatar of adrenalin-42"> adrenalin-42
@@ -3225,7 +3238,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/cerneiirina">
 				<img src="https://avatars.githubusercontent.com/u/44048781?s=72&u=518006df362da844193bf3d27edcd1c1812032c5&v=4" width="24" alt="Avatar of cerneiirina"> cerneiirina
@@ -3238,7 +3251,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/fireton">
 				<img src="https://avatars.githubusercontent.com/u/662637?s=72&v=4" width="24" alt="Avatar of fireton"> fireton
@@ -3251,7 +3264,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/pisarenco92">
 				<img src="https://avatars.githubusercontent.com/u/15072906?s=72&v=4" width="24" alt="Avatar of pisarenco92"> pisarenco92
@@ -3264,7 +3277,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/danteck2">
 				<img src="https://avatars.githubusercontent.com/u/23018174?s=72&u=9ea9f8720e675e699298d8883c300e12382a26cf&v=4" width="24" alt="Avatar of danteck2"> danteck2
@@ -3277,7 +3290,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/Marinfff">
 				<img src="https://avatars.githubusercontent.com/u/43542642?s=72&u=533679c5828c6b23fdabbd6a7af26a606dcf12e2&v=4" width="24" alt="Avatar of Marinfff"> Marinfff
@@ -3290,7 +3303,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/mixdanutza">
 				<img src="https://avatars.githubusercontent.com/u/25873665?s=72&u=59b470be27c30dd8109c6fd3743bb3b0977dc443&v=4" width="24" alt="Avatar of mixdanutza"> mixdanutza
@@ -3301,19 +3314,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>12</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/knownout">
-				<img src="https://avatars.githubusercontent.com/u/48633292?s=72&u=9d188fd2b45fbd0b882474423f4a7b7ff891c1e0&v=4" width="24" alt="Avatar of knownout"> knownout
-			</a><br/>
-			Alexandr Slavinskii
-		</td>
-		<td>Safeblock Inc. </td>
-		<td><a href="https://twitter.com/kwntdev">kwntdev</a></td>
-		<td>Republic of Moldova</td>
-		<td>11</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3513,19 +3513,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>263</td>
 		<td>
-			<a href="https://github.com/LwveMike">
-				<img src="https://avatars.githubusercontent.com/u/51880748?s=72&u=40cd411a440323630d08bff8d090cd0cbc1a07ad&v=4" width="24" alt="Avatar of LwveMike"> LwveMike
-			</a><br/>
-			lwvemike
-		</td>
-		<td>Noction </td>
-		<td><a href="https://twitter.com/LwveMike">LwveMike</a></td>
-		<td>Republic of Moldova</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
 			<a href="https://github.com/eugencic">
 				<img src="https://avatars.githubusercontent.com/u/72609351?s=72&u=d183308938d8c2aa4d784bf65d780c6d4ce96596&v=4" width="24" alt="Avatar of eugencic"> eugencic
 			</a><br/>
@@ -3537,7 +3524,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/Linkinex1">
 				<img src="https://avatars.githubusercontent.com/u/114051851?s=72&v=4" width="24" alt="Avatar of Linkinex1"> Linkinex1
@@ -3550,7 +3537,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/binaryarchivist">
 				<img src="https://avatars.githubusercontent.com/u/93126561?s=72&u=08e98e5c627a476692b4e90e59cdc81671138cdf&v=4" width="24" alt="Avatar of binaryarchivist"> binaryarchivist
@@ -3560,6 +3547,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Cegeka </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/drdev">
+				<img src="https://avatars.githubusercontent.com/u/829373?s=72&v=4" width="24" alt="Avatar of drdev"> drdev
+			</a><br/>
+			Alex Pogodin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -3812,6 +3812,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>286</td>
 		<td>
+			<a href="https://github.com/LwveMike">
+				<img src="https://avatars.githubusercontent.com/u/51880748?s=72&u=40cd411a440323630d08bff8d090cd0cbc1a07ad&v=4" width="24" alt="Avatar of LwveMike"> LwveMike
+			</a><br/>
+			lwvemike
+		</td>
+		<td>Noction </td>
+		<td><a href="https://twitter.com/LwveMike">LwveMike</a></td>
+		<td>Republic of Moldova</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
 			<a href="https://github.com/frostaybek">
 				<img src="https://avatars.githubusercontent.com/u/87331452?s=72&u=3496307fe2de07892f4d492559e3178c479c1163&v=4" width="24" alt="Avatar of frostaybek"> frostaybek
 			</a><br/>
@@ -3823,33 +3836,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/drdev">
-				<img src="https://avatars.githubusercontent.com/u/829373?s=72&v=4" width="24" alt="Avatar of drdev"> drdev
-			</a><br/>
-			Alex Pogodin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>288</td>
-		<td>
-			<a href="https://github.com/winqdev">
-				<img src="https://avatars.githubusercontent.com/u/103835411?s=72&u=8f983cd684618b97f1f2d5f4db71909c5bdcb53f&v=4" width="24" alt="Avatar of winqdev"> winqdev
-			</a><br/>
-			Winq
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Orhei</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>289</td>
 		<td>
 			<a href="https://github.com/vladislav-iscenco">
 				<img src="https://avatars.githubusercontent.com/u/8948064?s=72&u=933aa82b9ba7575e026f871f1d177e81dad07521&v=4" width="24" alt="Avatar of vladislav-iscenco"> vladislav-iscenco
@@ -3859,6 +3846,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vlad_iscenco">vlad_iscenco</a></td>
 		<td>Moldova. Chisinau</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/winqdev">
+				<img src="https://avatars.githubusercontent.com/u/103835411?s=72&u=8f983cd684618b97f1f2d5f4db71909c5bdcb53f&v=4" width="24" alt="Avatar of winqdev"> winqdev
+			</a><br/>
+			Winq
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Orhei</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -3968,19 +3968,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>298</td>
 		<td>
-			<a href="https://github.com/vasica38">
-				<img src="https://avatars.githubusercontent.com/u/26538079?s=72&u=8283892d93a1b6fbd122c14e2735b298c79f5ed4&v=4" width="24" alt="Avatar of vasica38"> vasica38
-			</a><br/>
-			V
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
 			<a href="https://github.com/mihailozarinschi">
 				<img src="https://avatars.githubusercontent.com/u/29141131?s=72&u=66c384ceb53e6175485fd4254a1ae6d9a60e86a4&v=4" width="24" alt="Avatar of mihailozarinschi"> mihailozarinschi
 			</a><br/>
@@ -3989,6 +3976,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/vasica38">
+				<img src="https://avatars.githubusercontent.com/u/26538079?s=72&u=8283892d93a1b6fbd122c14e2735b298c79f5ed4&v=4" width="24" alt="Avatar of vasica38"> vasica38
+			</a><br/>
+			V
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -4189,19 +4189,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>315</td>
 		<td>
-			<a href="https://github.com/mrteiki">
-				<img src="https://avatars.githubusercontent.com/u/170938979?s=72&u=d086159611fa7704cce13106ca919a6248b07466&v=4" width="24" alt="Avatar of mrteiki"> mrteiki
-			</a><br/>
-			Tristan Panco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
 			<a href="https://github.com/sanduluca">
 				<img src="https://avatars.githubusercontent.com/u/56228534?s=72&u=087ef9d6f84e356b32cb9a5c90a7bb5216fd538d&v=4" width="24" alt="Avatar of sanduluca"> sanduluca
 			</a><br/>
@@ -4210,6 +4197,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Tazz  By Emag<br/></td>
 		<td>No Twitter Username</td>
 		<td>Moldova / Romania</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/mrteiki">
+				<img src="https://avatars.githubusercontent.com/u/170938979?s=72&u=d086159611fa7704cce13106ca919a6248b07466&v=4" width="24" alt="Avatar of mrteiki"> mrteiki
+			</a><br/>
+			Tristan Panco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -4254,6 +4254,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>320</td>
 		<td>
+			<a href="https://github.com/kemonoske">
+				<img src="https://avatars.githubusercontent.com/u/2530450?s=72&v=4" width="24" alt="Avatar of kemonoske"> kemonoske
+			</a><br/>
+			Bostanica Ion
+		</td>
+		<td>Stione </td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Chisinau</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
 			<a href="https://github.com/D4N1ELL">
 				<img src="https://avatars.githubusercontent.com/u/47325571?s=72&u=d713c857f7cf0791b0631dbac57381d42e46dbbb&v=4" width="24" alt="Avatar of D4N1ELL"> D4N1ELL
 			</a><br/>
@@ -4265,7 +4278,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/zullkas">
 				<img src="https://avatars.githubusercontent.com/u/1936031?s=72&u=93419be65e92415346bc6d208c0743f64d288fc9&v=4" width="24" alt="Avatar of zullkas"> zullkas
@@ -4278,7 +4291,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/land-cap">
 				<img src="https://avatars.githubusercontent.com/u/31154176?s=72&u=7b09d5fce6b427d9f0532782d5422c5db8cb95f0&v=4" width="24" alt="Avatar of land-cap"> land-cap
@@ -4291,7 +4304,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/PowerSlime">
 				<img src="https://avatars.githubusercontent.com/u/18900377?s=72&u=ea28a0c8ced98a3d47f8d483a34cf52a678cc448&v=4" width="24" alt="Avatar of PowerSlime"> PowerSlime
@@ -4304,7 +4317,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/kawanoyyami">
 				<img src="https://avatars.githubusercontent.com/u/85684673?s=72&u=b2c21ccc41e73001f258ebfedf2a47b9f1394766&v=4" width="24" alt="Avatar of kawanoyyami"> kawanoyyami
@@ -4317,7 +4330,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/anatolieursu">
 				<img src="https://avatars.githubusercontent.com/u/104382017?s=72&v=4" width="24" alt="Avatar of anatolieursu"> anatolieursu
@@ -4330,7 +4343,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/Durobot">
 				<img src="https://avatars.githubusercontent.com/u/22280250?s=72&u=110d0be2f4ea1ffb652f8fdf0956dd42c0b81232&v=4" width="24" alt="Avatar of Durobot"> Durobot
@@ -4343,7 +4356,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/mv92">
 				<img src="https://avatars.githubusercontent.com/u/16352416?s=72&u=fa493574f0cb10da05bbea39d52545e33e58b96c&v=4" width="24" alt="Avatar of mv92"> mv92
@@ -4356,7 +4369,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/vstanchevici">
 				<img src="https://avatars.githubusercontent.com/u/1853904?s=72&u=60b602b87734f75a63b77c8474b9242ecf10a5b6&v=4" width="24" alt="Avatar of vstanchevici"> vstanchevici
@@ -4369,7 +4382,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/gganebnyi">
 				<img src="https://avatars.githubusercontent.com/u/1770449?s=72&u=d55369f95d3a1738318d1847513c7978383ee4c7&v=4" width="24" alt="Avatar of gganebnyi"> gganebnyi
@@ -4382,7 +4395,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/meancrazy">
 				<img src="https://avatars.githubusercontent.com/u/1130419?s=72&u=d96536604415d5de00de44ef325e83bd32997199&v=4" width="24" alt="Avatar of meancrazy"> meancrazy
@@ -4395,7 +4408,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/nyku">
 				<img src="https://avatars.githubusercontent.com/u/1847948?s=72&u=a5afb217de4cd3776267a3286432f69ad2464c94&v=4" width="24" alt="Avatar of nyku"> nyku
@@ -4408,7 +4421,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/gisterecis">
 				<img src="https://avatars.githubusercontent.com/u/81512332?s=72&u=1155d8c6a804d34d345790c64ffa6d26441baf93&v=4" width="24" alt="Avatar of gisterecis"> gisterecis
@@ -4421,7 +4434,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/Rudolf-Barbu">
 				<img src="https://avatars.githubusercontent.com/u/64309120?s=72&u=26c4f4e73d50f69c02d18afaf22d5fa0380be202&v=4" width="24" alt="Avatar of Rudolf-Barbu"> Rudolf-Barbu
@@ -4431,19 +4444,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@griddynamics </td>
 		<td>No Twitter Username</td>
 		<td>Chișinău, Moldova</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/speedywizard">
-				<img src="https://avatars.githubusercontent.com/u/510035?s=72&v=4" width="24" alt="Avatar of speedywizard"> speedywizard
-			</a><br/>
-			Stanislav K.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -4462,19 +4462,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>336</td>
 		<td>
-			<a href="https://github.com/kemonoske">
-				<img src="https://avatars.githubusercontent.com/u/2530450?s=72&v=4" width="24" alt="Avatar of kemonoske"> kemonoske
-			</a><br/>
-			Bostanica Ion
-		</td>
-		<td>Stione </td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Chisinau</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
 			<a href="https://github.com/lesh1k">
 				<img src="https://avatars.githubusercontent.com/u/2428764?s=72&u=a384ce2c6bc1d2cae4fdb18b2dfb7f98a57b15e6&v=4" width="24" alt="Avatar of lesh1k"> lesh1k
 			</a><br/>
@@ -4486,7 +4473,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/eugentorica">
 				<img src="https://avatars.githubusercontent.com/u/1215122?s=72&v=4" width="24" alt="Avatar of eugentorica"> eugentorica
@@ -4499,7 +4486,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/gglavan">
 				<img src="https://avatars.githubusercontent.com/u/34981951?s=72&u=7619ba504c688b007bc87652514e8ef24144185d&v=4" width="24" alt="Avatar of gglavan"> gglavan
@@ -4512,7 +4499,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/virusaki97">
 				<img src="https://avatars.githubusercontent.com/u/56489233?s=72&u=1f15746f34740d826381c7d872ed84e10263a449&v=4" width="24" alt="Avatar of virusaki97"> virusaki97
@@ -4525,7 +4512,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/AlexShilon">
 				<img src="https://avatars.githubusercontent.com/u/6346666?s=72&v=4" width="24" alt="Avatar of AlexShilon"> AlexShilon
@@ -4538,7 +4525,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/LichcrazeLC">
 				<img src="https://avatars.githubusercontent.com/u/33174692?s=72&u=dd2bbff149d721a797db00cc188f03be9909ff06&v=4" width="24" alt="Avatar of LichcrazeLC"> LichcrazeLC
@@ -4551,7 +4538,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/kubrey">
 				<img src="https://avatars.githubusercontent.com/u/1605716?s=72&u=20fe2b0af220f24b69e687db2672dfc6331294ad&v=4" width="24" alt="Avatar of kubrey"> kubrey
@@ -4564,7 +4551,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/kyptov">
 				<img src="https://avatars.githubusercontent.com/u/7624593?s=72&u=ec36e12cb4a739cc0a823b8aa401e9085d63b9d0&v=4" width="24" alt="Avatar of kyptov"> kyptov
@@ -4577,7 +4564,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/dragomirt">
 				<img src="https://avatars.githubusercontent.com/u/22262264?s=72&u=eaecd2489a7a803144c9652560c6c00381aead6a&v=4" width="24" alt="Avatar of dragomirt"> dragomirt
@@ -4590,7 +4577,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/Spurlos">
 				<img src="https://avatars.githubusercontent.com/u/667533?s=72&v=4" width="24" alt="Avatar of Spurlos"> Spurlos
@@ -4600,6 +4587,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@propeoplemd  </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/felycianovac">
+				<img src="https://avatars.githubusercontent.com/u/125666359?s=72&u=5ec84d686e2d1b4f348c3e82f8dc2c72344ce6b2&v=4" width="24" alt="Avatar of felycianovac"> felycianovac
+			</a><br/>
+			Felicia Novac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Republic of Moldova</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -4813,19 +4813,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>363</td>
 		<td>
-			<a href="https://github.com/vcostin">
-				<img src="https://avatars.githubusercontent.com/u/9974302?s=72&u=5a26ff4dad8b7d786bdbab43e51425b5962d5327&v=4" width="24" alt="Avatar of vcostin"> vcostin
-			</a><br/>
-			Vadim Costin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
 			<a href="https://github.com/DistoRRRtion">
 				<img src="https://avatars.githubusercontent.com/u/99020542?s=72&u=239aae50bd87700b51c7c0a01cb1ec2ba6ab3704&v=4" width="24" alt="Avatar of DistoRRRtion"> DistoRRRtion
 			</a><br/>
@@ -4837,7 +4824,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/mmx003">
 				<img src="https://avatars.githubusercontent.com/u/440528?s=72&v=4" width="24" alt="Avatar of mmx003"> mmx003
@@ -4847,6 +4834,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Dex </td>
 		<td>No Twitter Username</td>
 		<td>Tiraspol, Moldova</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/CristianBudeanu">
+				<img src="https://avatars.githubusercontent.com/u/62264999?s=72&u=c84bb28c691df894ed7bddfb8d53c0df52893881&v=4" width="24" alt="Avatar of CristianBudeanu"> CristianBudeanu
+			</a><br/>
+			Cristian Budeanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -4865,19 +4865,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>367</td>
 		<td>
-			<a href="https://github.com/CristianBudeanu">
-				<img src="https://avatars.githubusercontent.com/u/62264999?s=72&u=c84bb28c691df894ed7bddfb8d53c0df52893881&v=4" width="24" alt="Avatar of CristianBudeanu"> CristianBudeanu
-			</a><br/>
-			Cristian Budeanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
 			<a href="https://github.com/hackus">
 				<img src="https://avatars.githubusercontent.com/u/3063217?s=72&u=29e4f31eaa4cce152fd4c48d971480f9f7305c80&v=4" width="24" alt="Avatar of hackus"> hackus
 			</a><br/>
@@ -4889,7 +4876,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/olgadarii">
 				<img src="https://avatars.githubusercontent.com/u/29649900?s=72&u=9c9fdb67c8086c00854750542981561fc3fc2a15&v=4" width="24" alt="Avatar of olgadarii"> olgadarii
@@ -4902,7 +4889,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/DanilovSoft">
 				<img src="https://avatars.githubusercontent.com/u/5256266?s=72&v=4" width="24" alt="Avatar of DanilovSoft"> DanilovSoft
@@ -4915,7 +4902,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/dcebotarenco">
 				<img src="https://avatars.githubusercontent.com/u/1030373?s=72&u=f4c36ca2bef229847b52d78ceb0611e07a00b3b3&v=4" width="24" alt="Avatar of dcebotarenco"> dcebotarenco
@@ -4928,7 +4915,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/cregordudes">
 				<img src="https://avatars.githubusercontent.com/u/70293204?s=72&u=a5ef004ae473706b57473ca1b60ad5be2aab3362&v=4" width="24" alt="Avatar of cregordudes"> cregordudes
@@ -4941,7 +4928,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/tabacdenis">
 				<img src="https://avatars.githubusercontent.com/u/62937854?s=72&u=e03bf244ba89266609043426b01ab9fc9f673ff0&v=4" width="24" alt="Avatar of tabacdenis"> tabacdenis
@@ -4954,7 +4941,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/radxene">
 				<img src="https://avatars.githubusercontent.com/u/13993193?s=72&u=ab0d12d3b7370a817ad5fccad034b5ee86ab7599&v=4" width="24" alt="Avatar of radxene"> radxene
@@ -4967,7 +4954,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/botzill">
 				<img src="https://avatars.githubusercontent.com/u/4686040?s=72&u=cf46a32e471d470282a25b350bad9084d3d91c18&v=4" width="24" alt="Avatar of botzill"> botzill
@@ -4980,7 +4967,33 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/ion">
+				<img src="https://avatars.githubusercontent.com/u/9020?s=72&v=4" width="24" alt="Avatar of ion"> ion
+			</a><br/>
+			Ion Balan
+		</td>
+		<td>Noction </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>376</td>
+		<td>
+			<a href="https://github.com/speedywizard">
+				<img src="https://avatars.githubusercontent.com/u/510035?s=72&v=4" width="24" alt="Avatar of speedywizard"> speedywizard
+			</a><br/>
+			Stanislav K.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/interlab">
 				<img src="https://avatars.githubusercontent.com/u/2246621?s=72&v=4" width="24" alt="Avatar of interlab"> interlab
@@ -4993,7 +5006,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/oliviasv">
 				<img src="https://avatars.githubusercontent.com/u/62649380?s=72&u=e880eb06f079d51b360e235da0e1a9d1e585a793&v=4" width="24" alt="Avatar of oliviasv"> oliviasv
@@ -5006,7 +5019,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/tolean">
 				<img src="https://avatars.githubusercontent.com/u/572258?s=72&v=4" width="24" alt="Avatar of tolean"> tolean
@@ -5019,7 +5032,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/ivanzavalnii">
 				<img src="https://avatars.githubusercontent.com/u/742308?s=72&u=397776d1b007522a1e46aa430df1bc804ed7c8e9&v=4" width="24" alt="Avatar of ivanzavalnii"> ivanzavalnii
@@ -5032,7 +5045,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/sergheim">
 				<img src="https://avatars.githubusercontent.com/u/1090875?s=72&u=3e4c9b379e2028334eed7cc3d7e8947f0648fe82&v=4" width="24" alt="Avatar of sergheim"> sergheim
@@ -5045,7 +5058,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/tudorvictor">
 				<img src="https://avatars.githubusercontent.com/u/26134346?s=72&u=b18214569a2f0075b02d4ca9efe3a007957897dc&v=4" width="24" alt="Avatar of tudorvictor"> tudorvictor
@@ -5058,7 +5071,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/XXN">
 				<img src="https://avatars.githubusercontent.com/u/2727724?s=72&u=ba0ff27fde2d01c153d9fd76db215446ed36b145&v=4" width="24" alt="Avatar of XXN"> XXN
@@ -5071,7 +5084,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/dumitru">
 				<img src="https://avatars.githubusercontent.com/u/659804?s=72&u=dd93abe99fac2f4fc37b2e6c9f9d9f714cf82ac2&v=4" width="24" alt="Avatar of dumitru"> dumitru
@@ -5084,7 +5097,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/cobzvadi">
 				<img src="https://avatars.githubusercontent.com/u/108178760?s=72&u=6ef8eda166a7820d9154dd63586020a7eb6ece9a&v=4" width="24" alt="Avatar of cobzvadi"> cobzvadi
@@ -5097,7 +5110,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/Bondardd">
 				<img src="https://avatars.githubusercontent.com/u/92252495?s=72&u=9810fbe133677987b1841c0b40b26b205cf597b0&v=4" width="24" alt="Avatar of Bondardd"> Bondardd
@@ -5110,7 +5123,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/cebanauskes">
 				<img src="https://avatars.githubusercontent.com/u/59064380?s=72&u=090134a2c5ddd39d8213db02738a3a09e0e9ec79&v=4" width="24" alt="Avatar of cebanauskes"> cebanauskes
@@ -5123,7 +5136,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/pshev">
 				<img src="https://avatars.githubusercontent.com/u/5400874?s=72&u=58802a5feb9db5ba3ede96b4fef7b0f947684c8e&v=4" width="24" alt="Avatar of pshev"> pshev
@@ -5136,7 +5149,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/asmeeee">
 				<img src="https://avatars.githubusercontent.com/u/67165117?s=72&v=4" width="24" alt="Avatar of asmeeee"> asmeeee
@@ -5149,7 +5162,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/piotr-shishkov">
 				<img src="https://avatars.githubusercontent.com/u/70975176?s=72&u=7f37d7a30890baab2a6e258441558b6c7d38d256&v=4" width="24" alt="Avatar of piotr-shishkov"> piotr-shishkov
@@ -5162,7 +5175,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/seriiserii825">
 				<img src="https://avatars.githubusercontent.com/u/20783270?s=72&u=b59f57ed3b307e46f0fd2e53bc6a162beb011354&v=4" width="24" alt="Avatar of seriiserii825"> seriiserii825
@@ -5175,7 +5188,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/dumitruPuggle">
 				<img src="https://avatars.githubusercontent.com/u/46863241?s=72&u=db32708c9396dac5f9b1e40cfc9b1b69cc416f95&v=4" width="24" alt="Avatar of dumitruPuggle"> dumitruPuggle
@@ -5188,7 +5201,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/NiceArti">
 				<img src="https://avatars.githubusercontent.com/u/29579602?s=72&u=f9f64e6018790de25b071a53a25d1986f4dcfe49&v=4" width="24" alt="Avatar of NiceArti"> NiceArti
@@ -5201,7 +5214,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/qKyoto">
 				<img src="https://avatars.githubusercontent.com/u/61540976?s=72&u=d876e10e40d58a09914f98cf9658f7733df5b408&v=4" width="24" alt="Avatar of qKyoto"> qKyoto
@@ -5214,7 +5227,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/danielzagumennyi">
 				<img src="https://avatars.githubusercontent.com/u/17691421?s=72&u=2415a65b3874a58a00db1877ae57901bbb344a47&v=4" width="24" alt="Avatar of danielzagumennyi"> danielzagumennyi
@@ -5227,7 +5240,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/pblaravel">
 				<img src="https://avatars.githubusercontent.com/u/10829306?s=72&u=6e46c0c2db87d2dc54074c4af50d43b3f65bea82&v=4" width="24" alt="Avatar of pblaravel"> pblaravel
@@ -5237,19 +5250,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Home Company </td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>396</td>
-		<td>
-			<a href="https://github.com/felycianovac">
-				<img src="https://avatars.githubusercontent.com/u/125666359?s=72&u=5ec84d686e2d1b4f348c3e82f8dc2c72344ce6b2&v=4" width="24" alt="Avatar of felycianovac"> felycianovac
-			</a><br/>
-			Felicia Novac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Republic of Moldova</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -5502,6 +5502,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>416</td>
 		<td>
+			<a href="https://github.com/vcostin">
+				<img src="https://avatars.githubusercontent.com/u/9974302?s=72&u=5a26ff4dad8b7d786bdbab43e51425b5962d5327&v=4" width="24" alt="Avatar of vcostin"> vcostin
+			</a><br/>
+			Vadim Costin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a href="https://github.com/VaNaChiMa">
 				<img src="https://avatars.githubusercontent.com/u/27488652?s=72&u=071e7091be67d051dbf44fb43ac66debcb3d5f3d&v=4" width="24" alt="Avatar of VaNaChiMa"> VaNaChiMa
 			</a><br/>
@@ -5513,7 +5526,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/AbgarSim">
 				<img src="https://avatars.githubusercontent.com/u/37848284?s=72&u=ee6ecdebe5ecc87d1ec99e60362675e43d3f6ff2&v=4" width="24" alt="Avatar of AbgarSim"> AbgarSim
@@ -5526,7 +5539,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/AkameSalo">
 				<img src="https://avatars.githubusercontent.com/u/105167434?s=72&u=7e981003627718882ca04a602191857ccc9d1705&v=4" width="24" alt="Avatar of AkameSalo"> AkameSalo
@@ -5539,7 +5552,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/haki">
 				<img src="https://avatars.githubusercontent.com/u/29500980?s=72&u=32f4f5799a03ac769a67ba7949a2eb9e80ddd004&v=4" width="24" alt="Avatar of haki"> haki
@@ -5552,46 +5565,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/denismakalich">
-				<img src="https://avatars.githubusercontent.com/u/88092446?s=72&u=0c880803db6c16de99cbb00a512ec293bbe9860f&v=4" width="24" alt="Avatar of denismakalich"> denismakalich
-			</a><br/>
-			Denis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>421</td>
-		<td>
-			<a href="https://github.com/dgtrv95">
-				<img src="https://avatars.githubusercontent.com/u/34006913?s=72&u=1d095106acc31d0b463c9be8f8e5f006d2716625&v=4" width="24" alt="Avatar of dgtrv95"> dgtrv95
-			</a><br/>
-			n0de
-		</td>
-		<td>Mtrix </td>
-		<td>No Twitter Username</td>
-		<td>Moldova (MD)</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/andreilisa">
-				<img src="https://avatars.githubusercontent.com/u/77441472?s=72&u=1b26df79c6ab6968c50d46a2094073144dd111ef&v=4" width="24" alt="Avatar of andreilisa"> andreilisa
-			</a><br/>
-			Andrei Lisa
-		</td>
-		<td>Orange </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau,Moldova</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>423</td>
 		<td>
 			<a href="https://github.com/alexanderrud">
 				<img src="https://avatars.githubusercontent.com/u/25395674?s=72&u=09314c65ec094fec37506fb1ab498fe7c387cca6&v=4" width="24" alt="Avatar of alexanderrud"> alexanderrud
@@ -5604,7 +5578,46 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/denismakalich">
+				<img src="https://avatars.githubusercontent.com/u/88092446?s=72&u=0c880803db6c16de99cbb00a512ec293bbe9860f&v=4" width="24" alt="Avatar of denismakalich"> denismakalich
+			</a><br/>
+			Denis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/dgtrv95">
+				<img src="https://avatars.githubusercontent.com/u/34006913?s=72&u=1d095106acc31d0b463c9be8f8e5f006d2716625&v=4" width="24" alt="Avatar of dgtrv95"> dgtrv95
+			</a><br/>
+			n0de
+		</td>
+		<td>Mtrix </td>
+		<td>No Twitter Username</td>
+		<td>Moldova (MD)</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>424</td>
+		<td>
+			<a href="https://github.com/andreilisa">
+				<img src="https://avatars.githubusercontent.com/u/77441472?s=72&u=1b26df79c6ab6968c50d46a2094073144dd111ef&v=4" width="24" alt="Avatar of andreilisa"> andreilisa
+			</a><br/>
+			Andrei Lisa
+		</td>
+		<td>Orange </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau,Moldova</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/ChernoSlava">
 				<img src="https://avatars.githubusercontent.com/u/101575360?s=72&u=056aa40d05bfbab77a96a7b027bf559884edd5a8&v=4" width="24" alt="Avatar of ChernoSlava"> ChernoSlava
@@ -5617,7 +5630,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/spdionis">
 				<img src="https://avatars.githubusercontent.com/u/4737101?s=72&u=653d14b531180574d55917d2d543f576c53e1b19&v=4" width="24" alt="Avatar of spdionis"> spdionis
@@ -5630,7 +5643,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/Ivanov-Mihail">
 				<img src="https://avatars.githubusercontent.com/u/37225753?s=72&u=72732a5a2ae53fd7a9e8c6bf0b312c52714b96ba&v=4" width="24" alt="Avatar of Ivanov-Mihail"> Ivanov-Mihail
@@ -5643,7 +5656,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/WictorT">
 				<img src="https://avatars.githubusercontent.com/u/16436713?s=72&u=275c520c53210117a02b7297b892281d65c5d5b6&v=4" width="24" alt="Avatar of WictorT"> WictorT
@@ -5656,20 +5669,20 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
-			<a href="https://github.com/ion">
-				<img src="https://avatars.githubusercontent.com/u/9020?s=72&v=4" width="24" alt="Avatar of ion"> ion
+			<a href="https://github.com/marinrusu1997">
+				<img src="https://avatars.githubusercontent.com/u/29524251?s=72&u=a52bfcb1a4cf747a770d1691556f1fe2b475e40b&v=4" width="24" alt="Avatar of marinrusu1997"> marinrusu1997
 			</a><br/>
-			Ion Balan
+			Marin Rusu
 		</td>
-		<td>Noction </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MarinRusu8">MarinRusu8</a></td>
+		<td>Balti, Moldova</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/belinskidima">
 				<img src="https://avatars.githubusercontent.com/u/15384990?s=72&u=e2e80b7891a0fc196f0ef8b04463e452aaa407b2&v=4" width="24" alt="Avatar of belinskidima"> belinskidima
@@ -5682,7 +5695,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/zelenkis">
 				<img src="https://avatars.githubusercontent.com/u/66641491?s=72&u=a2f6363e73eb2acf9e75502fe2905dc7824bc2a5&v=4" width="24" alt="Avatar of zelenkis"> zelenkis
@@ -5692,19 +5705,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/marinrusu1997">
-				<img src="https://avatars.githubusercontent.com/u/29524251?s=72&u=a52bfcb1a4cf747a770d1691556f1fe2b475e40b&v=4" width="24" alt="Avatar of marinrusu1997"> marinrusu1997
-			</a><br/>
-			Marin Rusu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MarinRusu8">MarinRusu8</a></td>
-		<td>Balti, Moldova</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -6048,12 +6048,12 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/zbintiosul">
-				<img src="https://avatars.githubusercontent.com/u/449685?s=72&u=4e55ff72016704a1808b1c67794a946efe11378a&v=4" width="24" alt="Avatar of zbintiosul"> zbintiosul
+			<a href="https://github.com/skstef">
+				<img src="https://avatars.githubusercontent.com/u/52489178?s=72&u=f60791120915a70d724163ad00ce9a0869245500&v=4" width="24" alt="Avatar of skstef"> skstef
 			</a><br/>
-			Mihai Racu
+			skstef
 		</td>
-		<td>Chrunchyroll </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>6</td>
@@ -6061,12 +6061,12 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/skstef">
-				<img src="https://avatars.githubusercontent.com/u/52489178?s=72&u=f60791120915a70d724163ad00ce9a0869245500&v=4" width="24" alt="Avatar of skstef"> skstef
+			<a href="https://github.com/zbintiosul">
+				<img src="https://avatars.githubusercontent.com/u/449685?s=72&u=4e55ff72016704a1808b1c67794a946efe11378a&v=4" width="24" alt="Avatar of zbintiosul"> zbintiosul
 			</a><br/>
-			skstef
+			Mihai Racu
 		</td>
-		<td>No Company</td>
+		<td>Chrunchyroll </td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>6</td>
@@ -6243,19 +6243,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>473</td>
 		<td>
-			<a href="https://github.com/armando3069">
-				<img src="https://avatars.githubusercontent.com/u/87545330?s=72&u=87362d4382fc5a131830550e14eba9a0f4976734&v=4" width="24" alt="Avatar of armando3069"> armando3069
-			</a><br/>
-			Armando‎‎ 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/armando_buruian">armando_buruian</a></td>
-		<td>Moldova Chișinău</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
 			<a href="https://github.com/mjecov">
 				<img src="https://avatars.githubusercontent.com/u/6792902?s=72&u=338817cf9bab874b221723a19fb8a559a299c4af&v=4" width="24" alt="Avatar of mjecov"> mjecov
 			</a><br/>
@@ -6264,6 +6251,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@amdaris </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/armando3069">
+				<img src="https://avatars.githubusercontent.com/u/87545330?s=72&u=87362d4382fc5a131830550e14eba9a0f4976734&v=4" width="24" alt="Avatar of armando3069"> armando3069
+			</a><br/>
+			Armando‎‎ 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/armando_buruian">armando_buruian</a></td>
+		<td>Moldova Chișinău</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -6880,12 +6880,12 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>522</td>
 		<td>
-			<a href="https://github.com/nkv843">
-				<img src="https://avatars.githubusercontent.com/u/73536316?s=72&u=96124773a5cba545e683b5f468611ee1983e0f7b&v=4" width="24" alt="Avatar of nkv843"> nkv843
+			<a href="https://github.com/fedotovdev">
+				<img src="https://avatars.githubusercontent.com/u/84422190?s=72&u=d4c97867f6787e8ff3221805b0765806c2343b30&v=4" width="24" alt="Avatar of fedotovdev"> fedotovdev
 			</a><br/>
-			Kirill Nikitin
+			Ivan Fedotov
 		</td>
-		<td>@extenda </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>5</td>
@@ -6893,12 +6893,12 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>523</td>
 		<td>
-			<a href="https://github.com/fedotovdev">
-				<img src="https://avatars.githubusercontent.com/u/84422190?s=72&u=d4c97867f6787e8ff3221805b0765806c2343b30&v=4" width="24" alt="Avatar of fedotovdev"> fedotovdev
+			<a href="https://github.com/nkv843">
+				<img src="https://avatars.githubusercontent.com/u/73536316?s=72&u=96124773a5cba545e683b5f468611ee1983e0f7b&v=4" width="24" alt="Avatar of nkv843"> nkv843
 			</a><br/>
-			Ivan Fedotov
+			Kirill Nikitin
 		</td>
-		<td>No Company</td>
+		<td>@extenda </td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>5</td>
@@ -7010,19 +7010,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>532</td>
 		<td>
-			<a href="https://github.com/sergedbs">
-				<img src="https://avatars.githubusercontent.com/u/53493788?s=72&u=cdb403d855625a83c6182f188116d594b0a1c2c8&v=4" width="24" alt="Avatar of sergedbs"> sergedbs
-			</a><br/>
-			Sergiu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
 			<a href="https://github.com/IonellaP">
 				<img src="https://avatars.githubusercontent.com/u/82402719?s=72&u=fdcd06d30849e8b5f6084a84ccdd44633c9c2783&v=4" width="24" alt="Avatar of IonellaP"> IonellaP
 			</a><br/>
@@ -7031,6 +7018,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Balti, Moldova</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/sergedbs">
+				<img src="https://avatars.githubusercontent.com/u/53493788?s=72&u=cdb403d855625a83c6182f188116d594b0a1c2c8&v=4" width="24" alt="Avatar of sergedbs"> sergedbs
+			</a><br/>
+			Sergiu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7621,19 +7621,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>579</td>
 		<td>
-			<a href="https://github.com/nicosstv">
-				<img src="https://avatars.githubusercontent.com/u/19993337?s=72&u=18e3abfda9a5d411f46388492060d75cbb49448f&v=4" width="24" alt="Avatar of nicosstv"> nicosstv
-			</a><br/>
-			Nicolai Stanschi
-		</td>
-		<td>@fusionworks </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>580</td>
-		<td>
 			<a href="https://github.com/Mihu89">
 				<img src="https://avatars.githubusercontent.com/u/1818856?s=72&u=9ba8e63f36be868eb1958cae6c6790fc8526efd4&v=4" width="24" alt="Avatar of Mihu89"> Mihu89
 			</a><br/>
@@ -7645,7 +7632,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/igodorogea">
 				<img src="https://avatars.githubusercontent.com/u/4079076?s=72&v=4" width="24" alt="Avatar of igodorogea"> igodorogea
@@ -7658,7 +7645,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/ereticul">
 				<img src="https://avatars.githubusercontent.com/u/185664?s=72&u=01785b19b7317f46b442b15630a67a19fc0082e7&v=4" width="24" alt="Avatar of ereticul"> ereticul
@@ -7671,7 +7658,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/igori0511">
 				<img src="https://avatars.githubusercontent.com/u/7655422?s=72&u=89ecd0bcb97eb8ba198efe870528df6156e8f762&v=4" width="24" alt="Avatar of igori0511"> igori0511
@@ -7684,7 +7671,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/cocetov">
 				<img src="https://avatars.githubusercontent.com/u/62509720?s=72&u=b144977b5f98ed468fa08a27a61ee2343f371916&v=4" width="24" alt="Avatar of cocetov"> cocetov
@@ -7697,7 +7684,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/yuvzer">
 				<img src="https://avatars.githubusercontent.com/u/30783?s=72&v=4" width="24" alt="Avatar of yuvzer"> yuvzer
@@ -7710,7 +7697,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/Bullit-s">
 				<img src="https://avatars.githubusercontent.com/u/60654980?s=72&u=b702aa5897e7b88886d7f0dc075245e5cb703c62&v=4" width="24" alt="Avatar of Bullit-s"> Bullit-s
@@ -7723,7 +7710,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/NEALON">
 				<img src="https://avatars.githubusercontent.com/u/2168232?s=72&u=10b05374c5ac7ca516036649f8b4962ce7e357bd&v=4" width="24" alt="Avatar of NEALON"> NEALON
@@ -7736,7 +7723,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/lascodaniil">
 				<img src="https://avatars.githubusercontent.com/u/29838801?s=72&u=8fe8d416ce9ba254acc208e047b2ffc7a0ab3dc0&v=4" width="24" alt="Avatar of lascodaniil"> lascodaniil
@@ -7749,7 +7736,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/RainXC">
 				<img src="https://avatars.githubusercontent.com/u/10104087?s=72&u=62a6183b9b19fda19815e13172c5c3b0dfba383d&v=4" width="24" alt="Avatar of RainXC"> RainXC
@@ -7762,7 +7749,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/Cristi-Rusu">
 				<img src="https://avatars.githubusercontent.com/u/47609868?s=72&u=f74eb174d67ebd547d2d3f5deb93307712be16bc&v=4" width="24" alt="Avatar of Cristi-Rusu"> Cristi-Rusu
@@ -7775,7 +7762,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/GrecPetroff">
 				<img src="https://avatars.githubusercontent.com/u/1575877?s=72&u=e1d4ed235643c1663d746312342b0e28c0d70440&v=4" width="24" alt="Avatar of GrecPetroff"> GrecPetroff
@@ -7788,7 +7775,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/javafvr">
 				<img src="https://avatars.githubusercontent.com/u/12490959?s=72&u=9557b7224ec0830eb59bc126132ccb0c96d48af5&v=4" width="24" alt="Avatar of javafvr"> javafvr
@@ -7801,7 +7788,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/g-serghei">
 				<img src="https://avatars.githubusercontent.com/u/2583353?s=72&u=11de194183938505844625c3a74957703466096e&v=4" width="24" alt="Avatar of g-serghei"> g-serghei
@@ -7814,7 +7801,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/oldPadavan">
 				<img src="https://avatars.githubusercontent.com/u/2843219?s=72&u=d9216cde6aafabdbc80b2fd58e4f11a7421cbb57&v=4" width="24" alt="Avatar of oldPadavan"> oldPadavan
@@ -7827,7 +7814,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/MarcusAdauge">
 				<img src="https://avatars.githubusercontent.com/u/11050571?s=72&u=a4eceff2c69116cbf098fbef69247a2f9fe2a2be&v=4" width="24" alt="Avatar of MarcusAdauge"> MarcusAdauge
@@ -7837,6 +7824,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/nicosstv">
+				<img src="https://avatars.githubusercontent.com/u/19993337?s=72&u=18e3abfda9a5d411f46388492060d75cbb49448f&v=4" width="24" alt="Avatar of nicosstv"> nicosstv
+			</a><br/>
+			Nicolai Stanschi
+		</td>
+		<td>@fusionworks </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7946,6 +7946,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>604</td>
 		<td>
+			<a href="https://github.com/LouiseFLBdV">
+				<img src="https://avatars.githubusercontent.com/u/29729204?s=72&v=4" width="24" alt="Avatar of LouiseFLBdV"> LouiseFLBdV
+			</a><br/>
+			David Moraru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Aeroport, 2026 Chisinau (Moldova) </td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
 			<a href="https://github.com/dmgrosu">
 				<img src="https://avatars.githubusercontent.com/u/37411838?s=72&u=7044bbc242e32b35417914d6439b3d8b7f3f76ec&v=4" width="24" alt="Avatar of dmgrosu"> dmgrosu
 			</a><br/>
@@ -7957,7 +7970,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/AlexMcowkin">
 				<img src="https://avatars.githubusercontent.com/u/6000732?s=72&u=69be5e6c628cd3a74dc9419de0ca985f4adebd27&v=4" width="24" alt="Avatar of AlexMcowkin"> AlexMcowkin
@@ -7967,19 +7980,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>606</td>
-		<td>
-			<a href="https://github.com/LouiseFLBdV">
-				<img src="https://avatars.githubusercontent.com/u/29729204?s=72&v=4" width="24" alt="Avatar of LouiseFLBdV"> LouiseFLBdV
-			</a><br/>
-			David Moraru
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Aeroport, 2026 Chisinau (Moldova) </td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -8245,10 +8245,10 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>627</td>
 		<td>
-			<a href="https://github.com/Qowevisa">
-				<img src="https://avatars.githubusercontent.com/u/46593101?s=72&u=0ccb457e965ab0b8db9db482aaa1b47d7c0d1fb4&v=4" width="24" alt="Avatar of Qowevisa"> Qowevisa
+			<a href="https://github.com/testitquickly">
+				<img src="https://avatars.githubusercontent.com/u/5271423?s=72&u=2d6855906193590164a77f8e416e2fe2929f29ee&v=4" width="24" alt="Avatar of testitquickly"> testitquickly
 			</a><br/>
-			Qowevisa
+			Alexei Lupan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8258,10 +8258,10 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>628</td>
 		<td>
-			<a href="https://github.com/testitquickly">
-				<img src="https://avatars.githubusercontent.com/u/5271423?s=72&u=2d6855906193590164a77f8e416e2fe2929f29ee&v=4" width="24" alt="Avatar of testitquickly"> testitquickly
+			<a href="https://github.com/Qowevisa">
+				<img src="https://avatars.githubusercontent.com/u/46593101?s=72&u=0ccb457e965ab0b8db9db482aaa1b47d7c0d1fb4&v=4" width="24" alt="Avatar of Qowevisa"> Qowevisa
 			</a><br/>
-			Alexei Lupan
+			Qowevisa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8401,6 +8401,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>639</td>
 		<td>
+			<a href="https://github.com/soringoredev">
+				<img src="https://avatars.githubusercontent.com/u/115875801?s=72&u=fc5a0eefc9f15471ebde4ae5f9915cda735fe3f2&v=4" width="24" alt="Avatar of soringoredev"> soringoredev
+			</a><br/>
+			Sorin Gore
+		</td>
+		<td>Pixel Academy Srl </td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Chisinau</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
 			<a href="https://github.com/zoobb">
 				<img src="https://avatars.githubusercontent.com/u/38606339?s=72&u=949bc5c51765692168bc8c4007f30a37fec88610&v=4" width="24" alt="Avatar of zoobb"> zoobb
 			</a><br/>
@@ -8412,7 +8425,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/yackers">
 				<img src="https://avatars.githubusercontent.com/u/7115964?s=72&v=4" width="24" alt="Avatar of yackers"> yackers
@@ -8425,7 +8438,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/slprime">
 				<img src="https://avatars.githubusercontent.com/u/31038811?s=72&u=83671276082958b80615247dc972d747e5a9129b&v=4" width="24" alt="Avatar of slprime"> slprime
@@ -8438,7 +8451,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/andrei-mitu">
 				<img src="https://avatars.githubusercontent.com/u/78936339?s=72&u=431d742f43d370f71884e31addc3b18c07727645&v=4" width="24" alt="Avatar of andrei-mitu"> andrei-mitu
@@ -8451,7 +8464,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/maxst1">
 				<img src="https://avatars.githubusercontent.com/u/63368216?s=72&u=eb15506942b9a0d0361df51a8bf6138712e8f6b8&v=4" width="24" alt="Avatar of maxst1"> maxst1
@@ -8464,7 +8477,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/eclimov">
 				<img src="https://avatars.githubusercontent.com/u/16742190?s=72&u=bface5aa59c3c9dcf9cc4cdf2e849b3c2c9f1d79&v=4" width="24" alt="Avatar of eclimov"> eclimov
@@ -8477,7 +8490,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/frontend-er">
 				<img src="https://avatars.githubusercontent.com/u/76095473?s=72&u=f9f93f12d992e8a626badf936fbc11fcdd630245&v=4" width="24" alt="Avatar of frontend-er"> frontend-er
@@ -8490,33 +8503,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>646</td>
-		<td>
-			<a href="https://github.com/romanzh1">
-				<img src="https://avatars.githubusercontent.com/u/61348803?s=72&u=257c9fc5ec4dcab90d933a853f82ea95047e661e&v=4" width="24" alt="Avatar of romanzh1"> romanzh1
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>647</td>
-		<td>
-			<a href="https://github.com/ghidion1">
-				<img src="https://avatars.githubusercontent.com/u/90002975?s=72&u=40138a6e7f0172e7d8e18b48bdfb21da5ffb40c4&v=4" width="24" alt="Avatar of ghidion1"> ghidion1
-			</a><br/>
-			Ghidion Adrian
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Chișinău</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>648</td>
 		<td>
 			<a href="https://github.com/UmanetAlexandru">
 				<img src="https://avatars.githubusercontent.com/u/17477765?s=72&u=bb05020c4339aaf66834c601eea53a7198877016&v=4" width="24" alt="Avatar of UmanetAlexandru"> UmanetAlexandru
@@ -8529,7 +8516,33 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/romanzh1">
+				<img src="https://avatars.githubusercontent.com/u/61348803?s=72&u=257c9fc5ec4dcab90d933a853f82ea95047e661e&v=4" width="24" alt="Avatar of romanzh1"> romanzh1
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>649</td>
+		<td>
+			<a href="https://github.com/ghidion1">
+				<img src="https://avatars.githubusercontent.com/u/90002975?s=72&u=40138a6e7f0172e7d8e18b48bdfb21da5ffb40c4&v=4" width="24" alt="Avatar of ghidion1"> ghidion1
+			</a><br/>
+			Ghidion Adrian
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Chișinău</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/ygricks">
 				<img src="https://avatars.githubusercontent.com/u/17603514?s=72&v=4" width="24" alt="Avatar of ygricks"> ygricks
@@ -8542,7 +8555,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/mujiciok">
 				<img src="https://avatars.githubusercontent.com/u/26109260?s=72&v=4" width="24" alt="Avatar of mujiciok"> mujiciok
@@ -8555,111 +8568,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>651</td>
-		<td>
-			<a href="https://github.com/rjomir">
-				<img src="https://avatars.githubusercontent.com/u/5871175?s=72&u=a8c5a7a77a11a7f23a80847136920fb0d62f3a5c&v=4" width="24" alt="Avatar of rjomir"> rjomir
-			</a><br/>
-			Radu Jomir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>652</td>
-		<td>
-			<a href="https://github.com/ValeriaG23">
-				<img src="https://avatars.githubusercontent.com/u/71870237?s=72&u=49c66f9776daa9386c67bc7d7029c0879bcaaf1d&v=4" width="24" alt="Avatar of ValeriaG23"> ValeriaG23
-			</a><br/>
-			Valeria
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chișinău, Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/Mollivex">
-				<img src="https://avatars.githubusercontent.com/u/108339772?s=72&u=4af28fc001de34ddac9ca1c2eefde1efef5cb745&v=4" width="24" alt="Avatar of Mollivex"> Mollivex
-			</a><br/>
-			Alexander
-		</td>
-		<td>Software Mind Romania &<br/>Moldova<br/></td>
-		<td>No Twitter Username</td>
-		<td>Republic of Moldova, Chisinau</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/AlexCozlovschi">
-				<img src="https://avatars.githubusercontent.com/u/62204345?s=72&v=4" width="24" alt="Avatar of AlexCozlovschi"> AlexCozlovschi
-			</a><br/>
-			Cozlovschi Alexandru 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/maximpavliuc">
-				<img src="https://avatars.githubusercontent.com/u/114051787?s=72&u=96fb2d8c7f373d8b3eb02f5846c0ff8e36ab810b&v=4" width="24" alt="Avatar of maximpavliuc"> maximpavliuc
-			</a><br/>
-			Maxim_Pavliuc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Balți</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a href="https://github.com/booomerang">
-				<img src="https://avatars.githubusercontent.com/u/3165820?s=72&v=4" width="24" alt="Avatar of booomerang"> booomerang
-			</a><br/>
-			Boomerang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>657</td>
-		<td>
-			<a href="https://github.com/Kris033">
-				<img src="https://avatars.githubusercontent.com/u/93471977?s=72&u=a95b3280ccf4643e11af61d3114591e1d8330639&v=4" width="24" alt="Avatar of Kris033"> Kris033
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>658</td>
-		<td>
-			<a href="https://github.com/FallenNoir">
-				<img src="https://avatars.githubusercontent.com/u/8984449?s=72&u=e2869d2351a6285d302683cf4c5baa0423d593f1&v=4" width="24" alt="Avatar of FallenNoir"> FallenNoir
-			</a><br/>
-			Gleb Glineanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Chisinau</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>659</td>
 		<td>
 			<a href="https://github.com/dimadomore">
 				<img src="https://avatars.githubusercontent.com/u/11312717?s=72&u=094338d814169cb4d3d8ec127a90ed0fa1b6ecb8&v=4" width="24" alt="Avatar of dimadomore"> dimadomore
@@ -8672,7 +8581,111 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/rjomir">
+				<img src="https://avatars.githubusercontent.com/u/5871175?s=72&u=a8c5a7a77a11a7f23a80847136920fb0d62f3a5c&v=4" width="24" alt="Avatar of rjomir"> rjomir
+			</a><br/>
+			Radu Jomir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/ValeriaG23">
+				<img src="https://avatars.githubusercontent.com/u/71870237?s=72&u=49c66f9776daa9386c67bc7d7029c0879bcaaf1d&v=4" width="24" alt="Avatar of ValeriaG23"> ValeriaG23
+			</a><br/>
+			Valeria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chișinău, Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/Mollivex">
+				<img src="https://avatars.githubusercontent.com/u/108339772?s=72&u=4af28fc001de34ddac9ca1c2eefde1efef5cb745&v=4" width="24" alt="Avatar of Mollivex"> Mollivex
+			</a><br/>
+			Alexander
+		</td>
+		<td>Software Mind Romania &<br/>Moldova<br/></td>
+		<td>No Twitter Username</td>
+		<td>Republic of Moldova, Chisinau</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/AlexCozlovschi">
+				<img src="https://avatars.githubusercontent.com/u/62204345?s=72&v=4" width="24" alt="Avatar of AlexCozlovschi"> AlexCozlovschi
+			</a><br/>
+			Cozlovschi Alexandru 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/maximpavliuc">
+				<img src="https://avatars.githubusercontent.com/u/114051787?s=72&u=96fb2d8c7f373d8b3eb02f5846c0ff8e36ab810b&v=4" width="24" alt="Avatar of maximpavliuc"> maximpavliuc
+			</a><br/>
+			Maxim_Pavliuc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Balți</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/booomerang">
+				<img src="https://avatars.githubusercontent.com/u/3165820?s=72&v=4" width="24" alt="Avatar of booomerang"> booomerang
+			</a><br/>
+			Boomerang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/Kris033">
+				<img src="https://avatars.githubusercontent.com/u/93471977?s=72&u=a95b3280ccf4643e11af61d3114591e1d8330639&v=4" width="24" alt="Avatar of Kris033"> Kris033
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>660</td>
+		<td>
+			<a href="https://github.com/FallenNoir">
+				<img src="https://avatars.githubusercontent.com/u/8984449?s=72&u=e2869d2351a6285d302683cf4c5baa0423d593f1&v=4" width="24" alt="Avatar of FallenNoir"> FallenNoir
+			</a><br/>
+			Gleb Glineanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Chisinau</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/davidfilat">
 				<img src="https://avatars.githubusercontent.com/u/1475163?s=72&u=f9a374faaa03da1ade17e09561116b522a3af213&v=4" width="24" alt="Avatar of davidfilat"> davidfilat
@@ -8685,7 +8698,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/ValeriuGutan">
 				<img src="https://avatars.githubusercontent.com/u/129687491?s=72&v=4" width="24" alt="Avatar of ValeriuGutan"> ValeriuGutan
@@ -8695,19 +8708,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Async Data Srl </td>
 		<td>No Twitter Username</td>
 		<td>Republica Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>662</td>
-		<td>
-			<a href="https://github.com/iovanom">
-				<img src="https://avatars.githubusercontent.com/u/3993222?s=72&u=f66246807f14c8f3605f2e2458110c5b246dd0ff&v=4" width="24" alt="Avatar of iovanom"> iovanom
-			</a><br/>
-			Ivan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -9181,19 +9181,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>699</td>
 		<td>
-			<a href="https://github.com/smitroshin">
-				<img src="https://avatars.githubusercontent.com/u/20210690?s=72&u=78326d6bdcfa47ec1b6ee4faef17f93e21b6ae8d&v=4" width="24" alt="Avatar of smitroshin"> smitroshin
-			</a><br/>
-			Serghei Mitroșin
-		</td>
-		<td>Amdaris </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>700</td>
-		<td>
 			<a href="https://github.com/cvlab">
 				<img src="https://avatars.githubusercontent.com/u/1133376?s=72&v=4" width="24" alt="Avatar of cvlab"> cvlab
 			</a><br/>
@@ -9202,6 +9189,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Marylab </td>
 		<td>No Twitter Username</td>
 		<td>Chișinău</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/smitroshin">
+				<img src="https://avatars.githubusercontent.com/u/20210690?s=72&u=78326d6bdcfa47ec1b6ee4faef17f93e21b6ae8d&v=4" width="24" alt="Avatar of smitroshin"> smitroshin
+			</a><br/>
+			Serghei Mitroșin
+		</td>
+		<td>Amdaris </td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -9844,19 +9844,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>750</td>
 		<td>
-			<a href="https://github.com/soringoredev">
-				<img src="https://avatars.githubusercontent.com/u/115875801?s=72&u=fc5a0eefc9f15471ebde4ae5f9915cda735fe3f2&v=4" width="24" alt="Avatar of soringoredev"> soringoredev
-			</a><br/>
-			Sorin Gore
-		</td>
-		<td>Pixel Academy Srl </td>
-		<td>No Twitter Username</td>
-		<td>Moldova, Chisinau</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>751</td>
-		<td>
 			<a href="https://github.com/MohammedAlsudani">
 				<img src="https://avatars.githubusercontent.com/u/43975379?s=72&u=cdb8d97f0d059484e155f01d6e2a13ee58b43307&v=4" width="24" alt="Avatar of MohammedAlsudani"> MohammedAlsudani
 			</a><br/>
@@ -9868,7 +9855,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/M1XaM">
 				<img src="https://avatars.githubusercontent.com/u/73758515?s=72&u=580c98e39354d544c3682db65e17ec05f4a4ebdc&v=4" width="24" alt="Avatar of M1XaM"> M1XaM
@@ -9881,7 +9868,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/BAGROVSKIYDANIL">
 				<img src="https://avatars.githubusercontent.com/u/103927862?s=72&u=41145c475e0ca72222b4cb2760909a40bac47e7b&v=4" width="24" alt="Avatar of BAGROVSKIYDANIL"> BAGROVSKIYDANIL
@@ -9894,7 +9881,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/disbeliefff">
 				<img src="https://avatars.githubusercontent.com/u/145801276?s=72&u=1b493ca8f3c8fd523650ac2ed0036ae3b73e8f35&v=4" width="24" alt="Avatar of disbeliefff"> disbeliefff
@@ -9907,7 +9894,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/nicolaepostica">
 				<img src="https://avatars.githubusercontent.com/u/81677827?s=72&v=4" width="24" alt="Avatar of nicolaepostica"> nicolaepostica
@@ -9920,7 +9907,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/ProgrammerDMD">
 				<img src="https://avatars.githubusercontent.com/u/50269049?s=72&u=d6bfebb7bf86ebe020256095564b4aecfcc9e8e8&v=4" width="24" alt="Avatar of ProgrammerDMD"> ProgrammerDMD
@@ -9933,7 +9920,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/SermailtQ">
 				<img src="https://avatars.githubusercontent.com/u/135896442?s=72&u=07b9d5ffe8284c03200b5447e139fba3904a220a&v=4" width="24" alt="Avatar of SermailtQ"> SermailtQ
@@ -9946,7 +9933,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/dyannary">
 				<img src="https://avatars.githubusercontent.com/u/93685325?s=72&u=6c9bd15ceae8f3f5c44e72565335a626ab9679e7&v=4" width="24" alt="Avatar of dyannary"> dyannary
@@ -9959,7 +9946,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/andreeamnl">
 				<img src="https://avatars.githubusercontent.com/u/90449002?s=72&v=4" width="24" alt="Avatar of andreeamnl"> andreeamnl
@@ -9972,7 +9959,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/50rayn">
 				<img src="https://avatars.githubusercontent.com/u/27418268?s=72&u=da6de6a211a9a29ad345e364c9d501aacbde33fe&v=4" width="24" alt="Avatar of 50rayn"> 50rayn
@@ -9985,7 +9972,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/Really-true-dude">
 				<img src="https://avatars.githubusercontent.com/u/85614619?s=72&v=4" width="24" alt="Avatar of Really-true-dude"> Really-true-dude
@@ -9998,7 +9985,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/Lignium">
 				<img src="https://avatars.githubusercontent.com/u/41531939?s=72&u=79ee3fd61558fa808de43041c8344d36f1db0401&v=4" width="24" alt="Avatar of Lignium"> Lignium
@@ -10011,7 +9998,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/Varikash">
 				<img src="https://avatars.githubusercontent.com/u/42305661?s=72&u=10bc8680bad559d82a7e245e3f1140cdec75564c&v=4" width="24" alt="Avatar of Varikash"> Varikash
@@ -10024,7 +10011,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/goryny4">
 				<img src="https://avatars.githubusercontent.com/u/1492085?s=72&u=a8a0b3496256058195709ae6c6521154d6b7e791&v=4" width="24" alt="Avatar of goryny4"> goryny4
@@ -10037,7 +10024,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/danielpoverjuc">
 				<img src="https://avatars.githubusercontent.com/u/104770892?s=72&u=e5fdfe6845507e1f7d5d3028af2e2830f10b6e9c&v=4" width="24" alt="Avatar of danielpoverjuc"> danielpoverjuc
@@ -10050,7 +10037,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/Angroys">
 				<img src="https://avatars.githubusercontent.com/u/120798951?s=72&u=d6bb0c34ce1e95d20273366afa957c0b18b2def9&v=4" width="24" alt="Avatar of Angroys"> Angroys
@@ -10063,7 +10050,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/dr-octocodius">
 				<img src="https://avatars.githubusercontent.com/u/50522474?s=72&u=b7e95535ab5e9c5e940a98ad8582f45596bf6e7d&v=4" width="24" alt="Avatar of dr-octocodius"> dr-octocodius
@@ -10076,7 +10063,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/ArtemyKessler">
 				<img src="https://avatars.githubusercontent.com/u/40003782?s=72&u=5b202c88f97f2ab114c7e81d360d6d11f70431f4&v=4" width="24" alt="Avatar of ArtemyKessler"> ArtemyKessler
@@ -10086,6 +10073,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Artworkout </td>
 		<td>No Twitter Username</td>
 		<td>Tiraspol</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/adriantabirta">
+				<img src="https://avatars.githubusercontent.com/u/11561019?s=72&u=0a0e28219cd8a6c84c07d53f602115c22c8d9610&v=4" width="24" alt="Avatar of adriantabirta"> adriantabirta
+			</a><br/>
+			Tăbîrță Adrian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chișinău</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -10260,6 +10260,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>782</td>
 		<td>
+			<a href="https://github.com/iovanom">
+				<img src="https://avatars.githubusercontent.com/u/3993222?s=72&u=f66246807f14c8f3605f2e2458110c5b246dd0ff&v=4" width="24" alt="Avatar of iovanom"> iovanom
+			</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chisinau, Moldova</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
 			<a href="https://github.com/waaadim">
 				<img src="https://avatars.githubusercontent.com/u/2147426?s=72&u=ed5dba7c04406101637279329e2034145ba7e7cb&v=4" width="24" alt="Avatar of waaadim"> waaadim
 			</a><br/>
@@ -10271,7 +10284,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/dmitri-f">
 				<img src="https://avatars.githubusercontent.com/u/4503462?s=72&u=72453090323709805fa63258f939a705e0f1f23b&v=4" width="24" alt="Avatar of dmitri-f"> dmitri-f
@@ -10284,7 +10297,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/angiestavnk">
 				<img src="https://avatars.githubusercontent.com/u/55245739?s=72&v=4" width="24" alt="Avatar of angiestavnk"> angiestavnk
@@ -10297,7 +10310,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/iatsiuk">
 				<img src="https://avatars.githubusercontent.com/u/24681814?s=72&u=b7d9e9e35ce323ff81e0f20d2130bac35c0e66a7&v=4" width="24" alt="Avatar of iatsiuk"> iatsiuk
@@ -10310,7 +10323,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/sergey-ivanov-79">
 				<img src="https://avatars.githubusercontent.com/u/7242506?s=72&u=6b598c44610f20cfff2a4a1f888285185474df23&v=4" width="24" alt="Avatar of sergey-ivanov-79"> sergey-ivanov-79
@@ -10323,7 +10336,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/fastmd">
 				<img src="https://avatars.githubusercontent.com/u/8822878?s=72&u=b8357bd23e839dac4983cdc682a9d0e00ec3c0d8&v=4" width="24" alt="Avatar of fastmd"> fastmd
@@ -10336,7 +10349,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/Tehnari">
 				<img src="https://avatars.githubusercontent.com/u/8842002?s=72&u=e90ffd05777c3b11bb955ba2f4e45c29b7babfa1&v=4" width="24" alt="Avatar of Tehnari"> Tehnari
@@ -10349,7 +10362,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/alexandru-burca">
 				<img src="https://avatars.githubusercontent.com/u/47294555?s=72&u=3f85ffe0868cf15dc432ada72060d58d1cfe35d3&v=4" width="24" alt="Avatar of alexandru-burca"> alexandru-burca
@@ -10359,19 +10372,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>790</td>
-		<td>
-			<a href="https://github.com/adriantabirta">
-				<img src="https://avatars.githubusercontent.com/u/11561019?s=72&u=0a0e28219cd8a6c84c07d53f602115c22c8d9610&v=4" width="24" alt="Avatar of adriantabirta"> adriantabirta
-			</a><br/>
-			Tăbîrță Adrian
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chișinău</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -10845,19 +10845,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>827</td>
 		<td>
-			<a href="https://github.com/deep314md">
-				<img src="https://avatars.githubusercontent.com/u/72211683?s=72&u=267605be695237dda8ffdeac1088feb1c02c2619&v=4" width="24" alt="Avatar of deep314md"> deep314md
-			</a><br/>
-			dumitru mariuta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>828</td>
-		<td>
 			<a href="https://github.com/mazaycheck">
 				<img src="https://avatars.githubusercontent.com/u/11539361?s=72&v=4" width="24" alt="Avatar of mazaycheck"> mazaycheck
 			</a><br/>
@@ -10866,6 +10853,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>828</td>
+		<td>
+			<a href="https://github.com/deep314md">
+				<img src="https://avatars.githubusercontent.com/u/72211683?s=72&u=267605be695237dda8ffdeac1088feb1c02c2619&v=4" width="24" alt="Avatar of deep314md"> deep314md
+			</a><br/>
+			dumitru mariuta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -10936,19 +10936,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>834</td>
 		<td>
-			<a href="https://github.com/elenacozlov">
-				<img src="https://avatars.githubusercontent.com/u/19744783?s=72&u=ee3fc2af2e351c0fab3cfa815deb1066d1625cd1&v=4" width="24" alt="Avatar of elenacozlov"> elenacozlov
-			</a><br/>
-			Lena
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>835</td>
-		<td>
 			<a href="https://github.com/cachekeyval">
 				<img src="https://avatars.githubusercontent.com/u/2317716?s=72&u=54f7384b277987538be2490de854fbbd84b430e3&v=4" width="24" alt="Avatar of cachekeyval"> cachekeyval
 			</a><br/>
@@ -10957,6 +10944,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tiraspol, Moldova</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>835</td>
+		<td>
+			<a href="https://github.com/elenacozlov">
+				<img src="https://avatars.githubusercontent.com/u/19744783?s=72&u=ee3fc2af2e351c0fab3cfa815deb1066d1625cd1&v=4" width="24" alt="Avatar of elenacozlov"> elenacozlov
+			</a><br/>
+			Lena
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11092,19 +11092,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>846</td>
 		<td>
-			<a href="https://github.com/kara-artem">
-				<img src="https://avatars.githubusercontent.com/u/53828112?s=72&u=0ebb6ae0d10b1a16afd0c3378c5359d15d8c6f06&v=4" width="24" alt="Avatar of kara-artem"> kara-artem
-			</a><br/>
-			Артем
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kara_archi">kara_archi</a></td>
-		<td>Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>847</td>
-		<td>
 			<a href="https://github.com/Mazzay123">
 				<img src="https://avatars.githubusercontent.com/u/108687604?s=72&u=a7c976ad2e752d718f38f4c3b0f40acf557a047a&v=4" width="24" alt="Avatar of Mazzay123"> Mazzay123
 			</a><br/>
@@ -11116,7 +11103,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/Smekalisty">
 				<img src="https://avatars.githubusercontent.com/u/4802041?s=72&v=4" width="24" alt="Avatar of Smekalisty"> Smekalisty
@@ -11129,7 +11116,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/dmitmatveev">
 				<img src="https://avatars.githubusercontent.com/u/47452727?s=72&u=df32ad7ce7d333caadb86a1f8b2186f43d61d76b&v=4" width="24" alt="Avatar of dmitmatveev"> dmitmatveev
@@ -11139,6 +11126,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Kishinev</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>849</td>
+		<td>
+			<a href="https://github.com/kara-artem">
+				<img src="https://avatars.githubusercontent.com/u/53828112?s=72&u=0ebb6ae0d10b1a16afd0c3378c5359d15d8c6f06&v=4" width="24" alt="Avatar of kara-artem"> kara-artem
+			</a><br/>
+			Артем
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kara_archi">kara_archi</a></td>
+		<td>Moldova</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11183,19 +11183,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>853</td>
 		<td>
-			<a href="https://github.com/slovn1k">
-				<img src="https://avatars.githubusercontent.com/u/12029871?s=72&v=4" width="24" alt="Avatar of slovn1k"> slovn1k
-			</a><br/>
-			Alexandr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>854</td>
-		<td>
 			<a href="https://github.com/nigredo">
 				<img src="https://avatars.githubusercontent.com/u/248285?s=72&v=4" width="24" alt="Avatar of nigredo"> nigredo
 			</a><br/>
@@ -11207,7 +11194,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/gugennota">
 				<img src="https://avatars.githubusercontent.com/u/54801525?s=72&u=e2ccd00971666943c279da59ce91e077b39266ad&v=4" width="24" alt="Avatar of gugennota"> gugennota
@@ -11220,7 +11207,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/leonidgainar">
 				<img src="https://avatars.githubusercontent.com/u/89010498?s=72&u=493ac7098ef557648299821b3e109c1a2b99a521&v=4" width="24" alt="Avatar of leonidgainar"> leonidgainar
@@ -11233,7 +11220,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/milleroff">
 				<img src="https://avatars.githubusercontent.com/u/1090680?s=72&v=4" width="24" alt="Avatar of milleroff"> milleroff
@@ -11246,7 +11233,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/Charlyk">
 				<img src="https://avatars.githubusercontent.com/u/12639598?s=72&u=9d34ba41b511a8e80532bf770ae0302dc1d06b8f&v=4" width="24" alt="Avatar of Charlyk"> Charlyk
@@ -11259,7 +11246,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/AScripnic">
 				<img src="https://avatars.githubusercontent.com/u/11028782?s=72&u=cc00b0720b73a0f87f5231ade32df33993bb5927&v=4" width="24" alt="Avatar of AScripnic"> AScripnic
@@ -11272,7 +11259,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/evgenynyagu">
 				<img src="https://avatars.githubusercontent.com/u/16701666?s=72&u=76a36f45b8832aa9c2b3965da8a2639e61e8b863&v=4" width="24" alt="Avatar of evgenynyagu"> evgenynyagu
@@ -11285,7 +11272,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/sorinbb">
 				<img src="https://avatars.githubusercontent.com/u/2323393?s=72&u=0ea91012cd7fafbc8ed757d64c65d5cbf54b2133&v=4" width="24" alt="Avatar of sorinbb"> sorinbb
@@ -11298,7 +11285,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/Tuttivers">
 				<img src="https://avatars.githubusercontent.com/u/10291537?s=72&v=4" width="24" alt="Avatar of Tuttivers"> Tuttivers
@@ -11311,7 +11298,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/Borutsky">
 				<img src="https://avatars.githubusercontent.com/u/26412074?s=72&v=4" width="24" alt="Avatar of Borutsky"> Borutsky
@@ -11324,7 +11311,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/ziGihouse">
 				<img src="https://avatars.githubusercontent.com/u/55978944?s=72&u=85ac0910e2970bbc84318f8fcba153fb2e2947e6&v=4" width="24" alt="Avatar of ziGihouse"> ziGihouse
@@ -11337,7 +11324,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/alexmakii">
 				<img src="https://avatars.githubusercontent.com/u/846359?s=72&v=4" width="24" alt="Avatar of alexmakii"> alexmakii
@@ -11347,6 +11334,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>Intelligent Contacts </td>
 		<td>No Twitter Username</td>
 		<td>Republic of Moldova</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/serstovik">
+				<img src="https://avatars.githubusercontent.com/u/2526197?s=72&u=982f23ab2679bb7ac1b5b239eb57dfa3303f02f6&v=4" width="24" alt="Avatar of serstovik"> serstovik
+			</a><br/>
+			Serghei Stoianov
+		</td>
+		<td>Good Start </td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11365,19 +11365,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>867</td>
 		<td>
-			<a href="https://github.com/serstovik">
-				<img src="https://avatars.githubusercontent.com/u/2526197?s=72&u=982f23ab2679bb7ac1b5b239eb57dfa3303f02f6&v=4" width="24" alt="Avatar of serstovik"> serstovik
-			</a><br/>
-			Serghei Stoianov
-		</td>
-		<td>Good Start </td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>868</td>
-		<td>
 			<a href="https://github.com/Ksidnis">
 				<img src="https://avatars.githubusercontent.com/u/76826890?s=72&u=ac10ede1752cf6bc301b99659b6743029dc06b3e&v=4" width="24" alt="Avatar of Ksidnis"> Ksidnis
 			</a><br/>
@@ -11389,7 +11376,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/p-ira">
 				<img src="https://avatars.githubusercontent.com/u/58447477?s=72&u=31d3c00f835f36a95d45ac1e3b45aaaaa6e77be0&v=4" width="24" alt="Avatar of p-ira"> p-ira
@@ -11399,6 +11386,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>869</td>
+		<td>
+			<a href="https://github.com/sergiu-ivanov">
+				<img src="https://avatars.githubusercontent.com/u/43847681?s=72&u=5fc8a9176ad9eb7e192b11170ebb5db9bd624b48&v=4" width="24" alt="Avatar of sergiu-ivanov"> sergiu-ivanov
+			</a><br/>
+			Sergiu Ivanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>UK & Moldova</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11430,19 +11430,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>872</td>
 		<td>
-			<a href="https://github.com/sergiu-ivanov">
-				<img src="https://avatars.githubusercontent.com/u/43847681?s=72&u=5fc8a9176ad9eb7e192b11170ebb5db9bd624b48&v=4" width="24" alt="Avatar of sergiu-ivanov"> sergiu-ivanov
-			</a><br/>
-			Sergiu Ivanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>UK & Moldova</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>873</td>
-		<td>
 			<a href="https://github.com/TabacEgor">
 				<img src="https://avatars.githubusercontent.com/u/23462993?s=72&v=4" width="24" alt="Avatar of TabacEgor"> TabacEgor
 			</a><br/>
@@ -11454,7 +11441,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/CojocaruCristi">
 				<img src="https://avatars.githubusercontent.com/u/58271249?s=72&u=0f4ccae34ebff18c76c6899facae91c4a55e9e9d&v=4" width="24" alt="Avatar of CojocaruCristi"> CojocaruCristi
@@ -11467,7 +11454,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/AndrewRotary">
 				<img src="https://avatars.githubusercontent.com/u/6577688?s=72&v=4" width="24" alt="Avatar of AndrewRotary"> AndrewRotary
@@ -11480,7 +11467,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/alexvorojbit">
 				<img src="https://avatars.githubusercontent.com/u/18086479?s=72&v=4" width="24" alt="Avatar of alexvorojbit"> alexvorojbit
@@ -11493,7 +11480,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/serghei-topor">
 				<img src="https://avatars.githubusercontent.com/u/1078082?s=72&u=8e53122430014c04f49d95be510ed9454b5d9b64&v=4" width="24" alt="Avatar of serghei-topor"> serghei-topor
@@ -11506,7 +11493,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/turcan-vasile">
 				<img src="https://avatars.githubusercontent.com/u/8543232?s=72&u=c24330c8791f3a4e97b3d87f25adc1131b11739d&v=4" width="24" alt="Avatar of turcan-vasile"> turcan-vasile
@@ -11519,7 +11506,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/mefedo1ov">
 				<img src="https://avatars.githubusercontent.com/u/41680314?s=72&u=1016eaf80401c0843259a1934df935867ac14952&v=4" width="24" alt="Avatar of mefedo1ov"> mefedo1ov
@@ -11532,7 +11519,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/chirilmark">
 				<img src="https://avatars.githubusercontent.com/u/70713768?s=72&u=1fb96aae0a5a6f7f0d7b7c1b31f8fb6590931fd5&v=4" width="24" alt="Avatar of chirilmark"> chirilmark
@@ -11545,7 +11532,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/cikpak">
 				<img src="https://avatars.githubusercontent.com/u/41543115?s=72&u=07276de49433d5b19afff8dcf2db53e9f1637641&v=4" width="24" alt="Avatar of cikpak"> cikpak
@@ -11558,7 +11545,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/MaxVoicu7">
 				<img src="https://avatars.githubusercontent.com/u/113779453?s=72&v=4" width="24" alt="Avatar of MaxVoicu7"> MaxVoicu7
@@ -11571,7 +11558,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/PalladiumGenX">
 				<img src="https://avatars.githubusercontent.com/u/49370086?s=72&u=8abe09d991a7d03ad2aed234bb847062b3ce8ab8&v=4" width="24" alt="Avatar of PalladiumGenX"> PalladiumGenX
@@ -11584,7 +11571,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/opasql">
 				<img src="https://avatars.githubusercontent.com/u/61763119?s=72&u=8ff0d9fcc159240fce08d0ad27f4282bc5e1825c&v=4" width="24" alt="Avatar of opasql"> opasql
@@ -11597,7 +11584,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/mikhailgutsu">
 				<img src="https://avatars.githubusercontent.com/u/123064601?s=72&u=9773ecff0674c89451d0d464c7ab61dc18f3afc2&v=4" width="24" alt="Avatar of mikhailgutsu"> mikhailgutsu
@@ -11610,7 +11597,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/eugenia-vitinschii">
 				<img src="https://avatars.githubusercontent.com/u/120458882?s=72&u=033f3bfd768291c32317846462a115dd147f5ee8&v=4" width="24" alt="Avatar of eugenia-vitinschii"> eugenia-vitinschii
@@ -11623,7 +11610,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/endihunter">
 				<img src="https://avatars.githubusercontent.com/u/2834683?s=72&u=628b4ced701b5a2eca6b0bea19d79644b228d6e8&v=4" width="24" alt="Avatar of endihunter"> endihunter
@@ -11636,7 +11623,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/Catal1nPopa">
 				<img src="https://avatars.githubusercontent.com/u/90107182?s=72&u=3e32b2a84d3586348d2c8cf40c245665eaa6f216&v=4" width="24" alt="Avatar of Catal1nPopa"> Catal1nPopa
@@ -11649,7 +11636,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/radu-arama">
 				<img src="https://avatars.githubusercontent.com/u/90239038?s=72&u=dad72ac5521d19c0229e6c272512a1ec9f171146&v=4" width="24" alt="Avatar of radu-arama"> radu-arama
@@ -11662,7 +11649,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/devlightning-me">
 				<img src="https://avatars.githubusercontent.com/u/175792240?s=72&u=72bd161097e0be9eba464b3e55793690d7a6d3d1&v=4" width="24" alt="Avatar of devlightning-me"> devlightning-me
@@ -11675,7 +11662,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/nixsilvam404">
 				<img src="https://avatars.githubusercontent.com/u/125667541?s=72&u=172ce07633ec0d6301ab9e454879cee2bc2bd1af&v=4" width="24" alt="Avatar of nixsilvam404"> nixsilvam404
@@ -11688,7 +11675,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/Mikcode">
 				<img src="https://avatars.githubusercontent.com/u/1382380?s=72&u=8d48045164f4a1a97a2fed6a26314e83cded11be&v=4" width="24" alt="Avatar of Mikcode"> Mikcode
@@ -11701,7 +11688,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/hanus-kostiantyn">
 				<img src="https://avatars.githubusercontent.com/u/120091967?s=72&u=6c6eeb3a464a99774448ccafeeb98693e5539880&v=4" width="24" alt="Avatar of hanus-kostiantyn"> hanus-kostiantyn
@@ -11714,7 +11701,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/Waterfallllllll">
 				<img src="https://avatars.githubusercontent.com/u/120142041?s=72&u=dc7e32de9a32a03a0811c3f1aa3a33fca03700f2&v=4" width="24" alt="Avatar of Waterfallllllll"> Waterfallllllll
@@ -11727,7 +11714,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/Koyd1">
 				<img src="https://avatars.githubusercontent.com/u/128222738?s=72&u=9470b222cb69557d4f3addb13d06a5c8c2451d15&v=4" width="24" alt="Avatar of Koyd1"> Koyd1
@@ -11740,7 +11727,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/d-zaruba">
 				<img src="https://avatars.githubusercontent.com/u/91126202?s=72&u=4a83b25c8720bf85ac594357e8db552942775e59&v=4" width="24" alt="Avatar of d-zaruba"> d-zaruba
@@ -11750,6 +11737,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@techtellent </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Tiraspol</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>896</td>
+		<td>
+			<a href="https://github.com/iragut">
+				<img src="https://avatars.githubusercontent.com/u/74363823?s=72&v=4" width="24" alt="Avatar of iragut"> iragut
+			</a><br/>
+			Iudenco Ianos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -11768,19 +11768,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>898</td>
 		<td>
-			<a href="https://github.com/ctrhub">
-				<img src="https://avatars.githubusercontent.com/u/108364491?s=72&v=4" width="24" alt="Avatar of ctrhub"> ctrhub
-			</a><br/>
-			No Name
-		</td>
-		<td>Crafterhub </td>
-		<td>No Twitter Username</td>
-		<td>Chisinau, Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>899</td>
-		<td>
 			<a href="https://github.com/cva-pasha">
 				<img src="https://avatars.githubusercontent.com/u/77933058?s=72&u=ceee40d5e6761346fa44b81c3d10e920d807d5b4&v=4" width="24" alt="Avatar of cva-pasha"> cva-pasha
 			</a><br/>
@@ -11792,7 +11779,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/andriangavrilovici">
 				<img src="https://avatars.githubusercontent.com/u/48224948?s=72&u=2f6ae3805d327969bf6174af698051fdf8766ce7&v=4" width="24" alt="Avatar of andriangavrilovici"> andriangavrilovici
@@ -11805,7 +11792,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/FlorinFil">
 				<img src="https://avatars.githubusercontent.com/u/59345680?s=72&u=0bdec20f7c3c6b5ddc6f2ddaf5341eb3ddbf97a5&v=4" width="24" alt="Avatar of FlorinFil"> FlorinFil
@@ -11818,20 +11805,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>902</td>
-		<td>
-			<a href="https://github.com/TheSerjio">
-				<img src="https://avatars.githubusercontent.com/u/84933638?s=72&u=55a271c28d3a2e5da1431fb4c3176654d125217f&v=4" width="24" alt="Avatar of TheSerjio"> TheSerjio
-			</a><br/>
-			The Serjio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>903</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/crisplot">
 				<img src="https://avatars.githubusercontent.com/u/41523954?s=72&u=548619da0644dadec5ed71e40d76d3f47f0a289a&v=4" width="24" alt="Avatar of crisplot"> crisplot
@@ -11844,7 +11818,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/ChiseliIuri">
 				<img src="https://avatars.githubusercontent.com/u/50635062?s=72&v=4" width="24" alt="Avatar of ChiseliIuri"> ChiseliIuri
@@ -11857,72 +11831,20 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>903</td>
 		<td>
-			<a href="https://github.com/Arimanecro">
-				<img src="https://avatars.githubusercontent.com/u/26082439?s=72&u=4cb87936152087488ac7c60b1f57519be6e38d47&v=4" width="24" alt="Avatar of Arimanecro"> Arimanecro
+			<a href="https://github.com/ctrhub">
+				<img src="https://avatars.githubusercontent.com/u/108364491?s=72&v=4" width="24" alt="Avatar of ctrhub"> ctrhub
 			</a><br/>
-			Ariman
+			No Name
 		</td>
-		<td>No Company</td>
+		<td>Crafterhub </td>
 		<td>No Twitter Username</td>
-		<td>Moldova, Chishinau</td>
+		<td>Chisinau, Moldova</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>906</td>
-		<td>
-			<a href="https://github.com/timur1743">
-				<img src="https://avatars.githubusercontent.com/u/157551163?s=72&u=b390dfebc58e8969d70ba1299178816139648494&v=4" width="24" alt="Avatar of timur1743"> timur1743
-			</a><br/>
-			timur
-		</td>
-		<td>1743 </td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>907</td>
-		<td>
-			<a href="https://github.com/obj-QED">
-				<img src="https://avatars.githubusercontent.com/u/65424840?s=72&u=2b73e43331066a82f9acc03b6dc70c09ef7721c1&v=4" width="24" alt="Avatar of obj-QED"> obj-QED
-			</a><br/>
-			Serghei Ponomariov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Serghei26869379">Serghei26869379</a></td>
-		<td>Moldova, Chisinau</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>908</td>
-		<td>
-			<a href="https://github.com/ra1nlox">
-				<img src="https://avatars.githubusercontent.com/u/67877549?s=72&u=68ae32e85a34f34a24b3b4d8bf46bbb3c8cd731b&v=4" width="24" alt="Avatar of ra1nlox"> ra1nlox
-			</a><br/>
-			Artiom Guțan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>909</td>
-		<td>
-			<a href="https://github.com/crisbulat">
-				<img src="https://avatars.githubusercontent.com/u/97413129?s=72&u=5b046be90deaca10187ffdd967ecf063883931e1&v=4" width="24" alt="Avatar of crisbulat"> crisbulat
-			</a><br/>
-			Cristina 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>910</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/choppadrain">
 				<img src="https://avatars.githubusercontent.com/u/196491071?s=72&u=95469fc5ebcb4dcdce9808f28cad9cb3db281554&v=4" width="24" alt="Avatar of choppadrain"> choppadrain
@@ -11935,7 +11857,72 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>905</td>
+		<td>
+			<a href="https://github.com/timur1743">
+				<img src="https://avatars.githubusercontent.com/u/157551163?s=72&u=b390dfebc58e8969d70ba1299178816139648494&v=4" width="24" alt="Avatar of timur1743"> timur1743
+			</a><br/>
+			timur
+		</td>
+		<td>1743 </td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a href="https://github.com/obj-QED">
+				<img src="https://avatars.githubusercontent.com/u/65424840?s=72&u=2b73e43331066a82f9acc03b6dc70c09ef7721c1&v=4" width="24" alt="Avatar of obj-QED"> obj-QED
+			</a><br/>
+			Serghei Ponomariov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Serghei26869379">Serghei26869379</a></td>
+		<td>Moldova, Chisinau</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/ra1nlox">
+				<img src="https://avatars.githubusercontent.com/u/67877549?s=72&u=68ae32e85a34f34a24b3b4d8bf46bbb3c8cd731b&v=4" width="24" alt="Avatar of ra1nlox"> ra1nlox
+			</a><br/>
+			Artiom Guțan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/crisbulat">
+				<img src="https://avatars.githubusercontent.com/u/97413129?s=72&u=5b046be90deaca10187ffdd967ecf063883931e1&v=4" width="24" alt="Avatar of crisbulat"> crisbulat
+			</a><br/>
+			Cristina 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/Codru1">
+				<img src="https://avatars.githubusercontent.com/u/135108574?s=72&v=4" width="24" alt="Avatar of Codru1"> Codru1
+			</a><br/>
+			Codru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova, Chisinau</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/lexylesss">
 				<img src="https://avatars.githubusercontent.com/u/198081285?s=72&u=e23d3215bf6640fdb28723383c3f6e142bce6c23&v=4" width="24" alt="Avatar of lexylesss"> lexylesss
@@ -11948,7 +11935,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/n1kry">
 				<img src="https://avatars.githubusercontent.com/u/115796312?s=72&v=4" width="24" alt="Avatar of n1kry"> n1kry
@@ -11961,7 +11948,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/BearWithIvan">
 				<img src="https://avatars.githubusercontent.com/u/45101702?s=72&u=b9f56481dcad25d5b4ece26157851fd8b92090c0&v=4" width="24" alt="Avatar of BearWithIvan"> BearWithIvan
@@ -11974,7 +11961,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/bandvic-dev">
 				<img src="https://avatars.githubusercontent.com/u/34880109?s=72&u=c38fc4d86bbf2e47e43e6a0156f59836467ea2fa&v=4" width="24" alt="Avatar of bandvic-dev"> bandvic-dev
@@ -11987,7 +11974,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/danstelianungureanu">
 				<img src="https://avatars.githubusercontent.com/u/61936929?s=72&u=6d205761792bdf64936e89afc9c9891d038d8e5e&v=4" width="24" alt="Avatar of danstelianungureanu"> danstelianungureanu
@@ -11997,6 +11984,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chisinau, Rep of Moldova</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>915</td>
+		<td>
+			<a href="https://github.com/dariamafteuta">
+				<img src="https://avatars.githubusercontent.com/u/107044001?s=72&v=4" width="24" alt="Avatar of dariamafteuta"> dariamafteuta
+			</a><br/>
+			Daria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -12223,19 +12223,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>933</td>
 		<td>
-			<a href="https://github.com/arexul">
-				<img src="https://avatars.githubusercontent.com/u/36845081?s=72&v=4" width="24" alt="Avatar of arexul"> arexul
-			</a><br/>
-			Arexul
-		</td>
-		<td>Wippo It </td>
-		<td>No Twitter Username</td>
-		<td>Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>934</td>
-		<td>
 			<a href="https://github.com/ProrabVolodya">
 				<img src="https://avatars.githubusercontent.com/u/38436659?s=72&u=fda3a12d1937cd0c5bdaffd7483e2fd02977e1d0&v=4" width="24" alt="Avatar of ProrabVolodya"> ProrabVolodya
 			</a><br/>
@@ -12244,6 +12231,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@ratholedev </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Republic of.</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>934</td>
+		<td>
+			<a href="https://github.com/arexul">
+				<img src="https://avatars.githubusercontent.com/u/36845081?s=72&v=4" width="24" alt="Avatar of arexul"> arexul
+			</a><br/>
+			Arexul
+		</td>
+		<td>Wippo It </td>
+		<td>No Twitter Username</td>
+		<td>Moldova</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -12301,19 +12301,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>939</td>
 		<td>
-			<a href="https://github.com/anatoliykichuk">
-				<img src="https://avatars.githubusercontent.com/u/17233606?s=72&u=47472ccc3859bbf637c8a9161bdd9a0383e426ba&v=4" width="24" alt="Avatar of anatoliykichuk"> anatoliykichuk
-			</a><br/>
-			Anatoliy Kichuk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cahul, Moldova</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>940</td>
-		<td>
 			<a href="https://github.com/Daviddear">
 				<img src="https://avatars.githubusercontent.com/u/104875094?s=72&v=4" width="24" alt="Avatar of Daviddear"> Daviddear
 			</a><br/>
@@ -12325,7 +12312,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/Lukeonmywrist">
 				<img src="https://avatars.githubusercontent.com/u/133242500?s=72&u=ca941dc1c809c79f44518fab31c96f4fdcd773c2&v=4" width="24" alt="Avatar of Lukeonmywrist"> Lukeonmywrist
@@ -12335,6 +12322,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>941</td>
+		<td>
+			<a href="https://github.com/anatoliykichuk">
+				<img src="https://avatars.githubusercontent.com/u/17233606?s=72&u=47472ccc3859bbf637c8a9161bdd9a0383e426ba&v=4" width="24" alt="Avatar of anatoliykichuk"> anatoliykichuk
+			</a><br/>
+			Anatoliy Kichuk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cahul, Moldova</td>
 		<td>2</td>
 	</tr>
 	<tr>
