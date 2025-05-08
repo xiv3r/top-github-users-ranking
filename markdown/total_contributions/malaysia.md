@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` and `private contributions` by users in Malaysia on `2025/5/8 5:26 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` and `private contributions` by users in Malaysia on `2025/5/8 5:36 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -663,7 +663,7 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/juneezee">juneezee</a></td>
 		<td>Malaysia</td>
 		<td>569</td>
-		<td>2115</td>
+		<td>2116</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -2371,7 +2371,7 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/rudzainy">rudzainy</a></td>
 		<td>Kuala Lumpur</td>
 		<td>118</td>
-		<td>823</td>
+		<td>824</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -3188,6 +3188,20 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 	<tr>
 		<td>221</td>
 		<td>
+			<a href="https://github.com/hadiulofficial">
+				<img src="https://avatars.githubusercontent.com/u/75871974?s=72&u=63cdad0e39f8e47e3b5adfc1e1608b48866a2c62&v=4" width="24" alt="Avatar of hadiulofficial"> hadiulofficial
+			</a><br/>
+			Hadiul Islam
+		</td>
+		<td>@automatio-co  </td>
+		<td>No Twitter Username</td>
+		<td>Kualalumpur, Malaysia</td>
+		<td>14</td>
+		<td>604</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
 			<a href="https://github.com/cwkang1998">
 				<img src="https://avatars.githubusercontent.com/u/23054115?s=72&u=d820955ec943754e58a476704e2dcfea94d002f3&v=4" width="24" alt="Avatar of cwkang1998"> cwkang1998
 			</a><br/>
@@ -3200,7 +3214,7 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>604</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/fvtrx">
 				<img src="https://avatars.githubusercontent.com/u/48309262?s=72&u=1e802ce7a8c2509a12f697c528b046e89c81fa77&v=4" width="24" alt="Avatar of fvtrx"> fvtrx
@@ -3212,20 +3226,6 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>Kuala Lumpur</td>
 		<td>154</td>
 		<td>604</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/hadiulofficial">
-				<img src="https://avatars.githubusercontent.com/u/75871974?s=72&u=63cdad0e39f8e47e3b5adfc1e1608b48866a2c62&v=4" width="24" alt="Avatar of hadiulofficial"> hadiulofficial
-			</a><br/>
-			Hadiul Islam
-		</td>
-		<td>@automatio-co  </td>
-		<td>No Twitter Username</td>
-		<td>Kualalumpur, Malaysia</td>
-		<td>14</td>
-		<td>603</td>
 	</tr>
 	<tr>
 		<td>224</td>
