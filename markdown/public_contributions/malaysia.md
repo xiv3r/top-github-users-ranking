@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` by users in Malaysia on `2025/5/8 5:50 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` by users in Malaysia on `2025/5/8 6:04 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>(currently Studying In Forward<br/>College)<br/></td>
 		<td><a href="https://twitter.com/ThisIsTYX">ThisIsTYX</a></td>
 		<td>Penang, Malaysia</td>
-		<td>2032</td>
+		<td>2038</td>
 	</tr>
 	<tr>
 		<td>10</td>
