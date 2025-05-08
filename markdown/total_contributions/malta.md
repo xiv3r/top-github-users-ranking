@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` and `private contributions` by users in Malta on `2025/5/8 8:30 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` and `private contributions` by users in Malta on `2025/5/8 8:39 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -425,7 +425,7 @@ There are `881 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/duanecreates">duanecreates</a></td>
 		<td>Malta</td>
 		<td>1</td>
-		<td>2156</td>
+		<td>2158</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -1993,7 +1993,7 @@ There are `881 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/sleeping4cat">sleeping4cat</a></td>
 		<td>Malta</td>
 		<td>445</td>
-		<td>608</td>
+		<td>609</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -3958,6 +3958,20 @@ There are `881 users`  in Malta. You need at least `1 followers` to be on this l
 	<tr>
 		<td>276</td>
 		<td>
+			<a href="https://github.com/KPull">
+				<img src="https://avatars.githubusercontent.com/u/5477536?s=72&u=edcca71d555c305bce71ad06b70a149f1dc9e448&v=4" width="24" alt="Avatar of KPull"> KPull
+			</a><br/>
+			Kyle Pullicino
+		</td>
+		<td>Phalanx Software Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
 			<a href="https://github.com/liabri">
 				<img src="https://avatars.githubusercontent.com/u/40229335?s=72&v=4" width="24" alt="Avatar of liabri"> liabri
 			</a><br/>
@@ -3968,20 +3982,6 @@ There are `881 users`  in Malta. You need at least `1 followers` to be on this l
 		<td>France/Malta</td>
 		<td>104</td>
 		<td>104</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/KPull">
-				<img src="https://avatars.githubusercontent.com/u/5477536?s=72&u=edcca71d555c305bce71ad06b70a149f1dc9e448&v=4" width="24" alt="Avatar of KPull"> KPull
-			</a><br/>
-			Kyle Pullicino
-		</td>
-		<td>Phalanx Software Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>8</td>
-		<td>103</td>
 	</tr>
 	<tr>
 		<td>278</td>
