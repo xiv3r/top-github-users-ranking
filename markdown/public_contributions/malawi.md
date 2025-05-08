@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" alt="Malawi">
 </a>
 
-The `public contributions` by users in Malawi on `2025/5/8 1:31 PM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
+The `public contributions` by users in Malawi on `2025/5/8 2:47 PM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>@newwave-group  </td>
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
-		<td>538</td>
+		<td>537</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -427,7 +427,7 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>@ark-builders </td>
 		<td>No Twitter Username</td>
 		<td>Lilongwe, Malawi</td>
-		<td>301</td>
+		<td>305</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -479,7 +479,7 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Mercury Web </td>
 		<td><a href="https://twitter.com/pavelkacyca">pavelkacyca</a></td>
 		<td>Blantyre, Malawi</td>
-		<td>281</td>
+		<td>282</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -531,7 +531,7 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>@freelancing </td>
 		<td><a href="https://twitter.com/iamfrancisamidu">iamfrancisamidu</a></td>
 		<td>Malawi</td>
-		<td>271</td>
+		<td>273</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -978,6 +978,19 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/markulaya2">
+				<img src="https://avatars.githubusercontent.com/u/65159369?s=72&u=b8de0aaeb8d273c90c2603e137bb9b28abed7507&v=4" width="24" alt="Avatar of markulaya2"> markulaya2
+			</a><br/>
+			Mark Ulaya
+		</td>
+		<td>@creditdatamw </td>
+		<td>No Twitter Username</td>
+		<td>Blantyre, Malawi</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/Kakoko">
 				<img src="https://avatars.githubusercontent.com/u/12270134?s=72&u=d95188240b4d783f5ea4b35d8ebcf4ea25dc52c3&v=4" width="24" alt="Avatar of Kakoko"> Kakoko
 			</a><br/>
@@ -987,19 +1000,6 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/simuzeche">simuzeche</a></td>
 		<td>Lilongwe, Malawi</td>
 		<td>137</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/markulaya2">
-				<img src="https://avatars.githubusercontent.com/u/65159369?s=72&u=b8de0aaeb8d273c90c2603e137bb9b28abed7507&v=4" width="24" alt="Avatar of markulaya2"> markulaya2
-			</a><br/>
-			Mark Ulaya
-		</td>
-		<td>@creditdatamw </td>
-		<td>No Twitter Username</td>
-		<td>Blantyre, Malawi</td>
-		<td>136</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1480,7 +1480,7 @@ There are `881 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Nzaeazy Llc. </td>
 		<td><a href="https://twitter.com/BenjaminManjolo">BenjaminManjolo</a></td>
 		<td>Malawi</td>
-		<td>78</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>107</td>
