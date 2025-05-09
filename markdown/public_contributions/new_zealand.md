@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` by users in New Zealand on `2025/5/9 12:49 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` by users in New Zealand on `2025/5/9 1:54 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -679,19 +679,6 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>45</td>
 		<td>
-			<a href="https://github.com/johndowns">
-				<img src="https://avatars.githubusercontent.com/u/5916377?s=72&v=4" width="24" alt="Avatar of johndowns"> johndowns
-			</a><br/>
-			John Downs
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>899</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
 			<a href="https://github.com/christopher-hakkaart">
 				<img src="https://avatars.githubusercontent.com/u/76951771?s=72&u=feefc053fa45556ce1f4cc4a5502d0dd6402c980&v=4" width="24" alt="Avatar of christopher-hakkaart"> christopher-hakkaart
 			</a><br/>
@@ -700,6 +687,19 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Seqera </td>
 		<td><a href="https://twitter.com/Chris_Hakk">Chris_Hakk</a></td>
 		<td>Christchurch, New Zealand</td>
+		<td>901</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/johndowns">
+				<img src="https://avatars.githubusercontent.com/u/5916377?s=72&v=4" width="24" alt="Avatar of johndowns"> johndowns
+			</a><br/>
+			John Downs
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>899</td>
 	</tr>
 	<tr>
@@ -1168,7 +1168,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Software Engineer </td>
 		<td>No Twitter Username</td>
 		<td>Christchurch, New Zealand</td>
-		<td>531</td>
+		<td>532</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1480,7 +1480,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Solve.solutions </td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
-		<td>401</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>107</td>
