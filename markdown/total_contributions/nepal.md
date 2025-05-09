@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` and `private contributions` by users in Nepal on `2025/5/9 7:55 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` and `private contributions` by users in Nepal on `2025/5/9 8:06 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -383,7 +383,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td><a href="https://twitter.com/hellotwlite">hellotwlite</a></td>
 		<td>Nepal</td>
 		<td>1104</td>
-		<td>3655</td>
+		<td>3658</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -1088,6 +1088,20 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/ashokpant">
+				<img src="https://avatars.githubusercontent.com/u/1482925?s=72&u=63b4484ad84e0948374898c14dd04ca9c2a88e58&v=4" width="24" alt="Avatar of ashokpant"> ashokpant
+			</a><br/>
+			Ashok Kumar Pant
+		</td>
+		<td>Https://treeleaf.ai  </td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu, Nepal</td>
+		<td>33</td>
+		<td>2337</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/nirajpdn">
 				<img src="https://avatars.githubusercontent.com/u/59108522?s=72&u=912f549e74da34aaea132fee6fb680e50aaa262d&v=4" width="24" alt="Avatar of nirajpdn"> nirajpdn
 			</a><br/>
@@ -1098,20 +1112,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>Kathmandu, Nepal</td>
 		<td>7</td>
 		<td>2336</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/ashokpant">
-				<img src="https://avatars.githubusercontent.com/u/1482925?s=72&u=63b4484ad84e0948374898c14dd04ca9c2a88e58&v=4" width="24" alt="Avatar of ashokpant"> ashokpant
-			</a><br/>
-			Ashok Kumar Pant
-		</td>
-		<td>Https://treeleaf.ai  </td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu, Nepal</td>
-		<td>33</td>
-		<td>2334</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1279,7 +1279,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td><a href="https://twitter.com/edr3x_">edr3x_</a></td>
 		<td>Kathmandu, Nepal</td>
 		<td>201</td>
-		<td>2214</td>
+		<td>2215</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1321,7 +1321,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Nepal</td>
 		<td>0</td>
-		<td>2180</td>
+		<td>2181</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1531,7 +1531,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Jhapa, Nepal</td>
 		<td>39</td>
-		<td>2030</td>
+		<td>2031</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1965,7 +1965,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td><a href="https://twitter.com/TheBikramLama">TheBikramLama</a></td>
 		<td>Kathmandu, Nepal</td>
 		<td>5</td>
-		<td>1650</td>
+		<td>1651</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2161,7 +2161,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td><a href="https://twitter.com/ParajuliBkrm">ParajuliBkrm</a></td>
 		<td>Pokhara</td>
 		<td>67</td>
-		<td>1579</td>
+		<td>1580</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2343,7 +2343,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu Nepal</td>
 		<td>23</td>
-		<td>1446</td>
+		<td>1448</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2426,11 +2426,25 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>@rtcamp  </td>
 		<td><a href="https://twitter.com/mi5t4n">mi5t4n</a></td>
 		<td>Biratnagar, Nepal</td>
-		<td>80</td>
-		<td>1393</td>
+		<td>81</td>
+		<td>1394</td>
 	</tr>
 	<tr>
 		<td>167</td>
+		<td>
+			<a href="https://github.com/rex9840">
+				<img src="https://avatars.githubusercontent.com/u/65803497?s=72&u=46414699368624e6a399d6efcbd6aecd250fd4b8&v=4" width="24" alt="Avatar of rex9840"> rex9840
+			</a><br/>
+			Rupesh Nepal
+		</td>
+		<td>@gnome-nepal </td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu,Nepal</td>
+		<td>255</td>
+		<td>1387</td>
+	</tr>
+	<tr>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/blackkspydo">
 				<img src="https://avatars.githubusercontent.com/u/58302072?s=72&u=1ed358c671fef0bcaee01b74e21a48622365f1ec&v=4" width="24" alt="Avatar of blackkspydo"> blackkspydo
@@ -2442,20 +2456,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>Kathmandu, Nepal</td>
 		<td>174</td>
 		<td>1387</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/rex9840">
-				<img src="https://avatars.githubusercontent.com/u/65803497?s=72&u=46414699368624e6a399d6efcbd6aecd250fd4b8&v=4" width="24" alt="Avatar of rex9840"> rex9840
-			</a><br/>
-			Rupesh Nepal
-		</td>
-		<td>@gnome-nepal </td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu,Nepal</td>
-		<td>254</td>
-		<td>1386</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2656,6 +2656,20 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>183</td>
 		<td>
+			<a href="https://github.com/aayush105">
+				<img src="https://avatars.githubusercontent.com/u/115408327?s=72&u=0a3cde17b306af9813ab73b0a3e1a54e68c53167&v=4" width="24" alt="Avatar of aayush105"> aayush105
+			</a><br/>
+			Er. Aayush shrestha
+		</td>
+		<td>Kantipur Engineering College </td>
+		<td><a href="https://twitter.com/aayushrestha5">aayushrestha5</a></td>
+		<td>Dhapakhel, Lalitpur</td>
+		<td>358</td>
+		<td>1313</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
 			<a href="https://github.com/nebulaanish">
 				<img src="https://avatars.githubusercontent.com/u/50112251?s=72&u=46cca6375ab2e704eec661837cddceeba0399539&v=4" width="24" alt="Avatar of nebulaanish"> nebulaanish
 			</a><br/>
@@ -2666,20 +2680,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>Kathmandu, Nepal</td>
 		<td>211</td>
 		<td>1313</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/aayush105">
-				<img src="https://avatars.githubusercontent.com/u/115408327?s=72&u=0a3cde17b306af9813ab73b0a3e1a54e68c53167&v=4" width="24" alt="Avatar of aayush105"> aayush105
-			</a><br/>
-			Er. Aayush shrestha
-		</td>
-		<td>Kantipur Engineering College </td>
-		<td><a href="https://twitter.com/aayushrestha5">aayushrestha5</a></td>
-		<td>Dhapakhel, Lalitpur</td>
-		<td>358</td>
-		<td>1312</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -3238,8 +3238,8 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/krishnabkarma">krishnabkarma</a></td>
 		<td>Nepal</td>
-		<td>892</td>
-		<td>1028</td>
+		<td>893</td>
+		<td>1029</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -3608,6 +3608,20 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>251</td>
 		<td>
+			<a href="https://github.com/Firojpaudel">
+				<img src="https://avatars.githubusercontent.com/u/98528410?s=72&u=d08dfff225f737f1727df3316b8b04e840245240&v=4" width="24" alt="Avatar of Firojpaudel"> Firojpaudel
+			</a><br/>
+			FirozSama
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu, Nepal</td>
+		<td>773</td>
+		<td>903</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a href="https://github.com/maheshbasnet089">
 				<img src="https://avatars.githubusercontent.com/u/70196462?s=72&u=4052bde6b06c5e64d43f755dc17354b5e4a5b2c8&v=4" width="24" alt="Avatar of maheshbasnet089"> maheshbasnet089
 			</a><br/>
@@ -3620,7 +3634,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>902</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/techies23">
 				<img src="https://avatars.githubusercontent.com/u/13213612?s=72&u=d7dddb9787618284c262dbede56fb58743486876&v=4" width="24" alt="Avatar of techies23"> techies23
@@ -3632,20 +3646,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>Ktm, Nepal</td>
 		<td>40</td>
 		<td>902</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/Firojpaudel">
-				<img src="https://avatars.githubusercontent.com/u/98528410?s=72&u=d08dfff225f737f1727df3316b8b04e840245240&v=4" width="24" alt="Avatar of Firojpaudel"> Firojpaudel
-			</a><br/>
-			FirozSama
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu, Nepal</td>
-		<td>773</td>
-		<td>900</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -4162,8 +4162,8 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NagarkotiShital">NagarkotiShital</a></td>
 		<td>Kathmandu,Nepal</td>
-		<td>713</td>
-		<td>815</td>
+		<td>714</td>
+		<td>816</td>
 	</tr>
 	<tr>
 		<td>291</td>
@@ -5297,7 +5297,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>100</td>
-		<td>580</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>372</td>

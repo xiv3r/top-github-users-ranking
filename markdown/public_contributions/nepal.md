@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` by users in Nepal on `2025/5/9 7:55 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` by users in Nepal on `2025/5/9 8:06 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -401,7 +401,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/krishnabkarma">krishnabkarma</a></td>
 		<td>Nepal</td>
-		<td>892</td>
+		<td>893</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -635,7 +635,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NagarkotiShital">NagarkotiShital</a></td>
 		<td>Kathmandu,Nepal</td>
-		<td>713</td>
+		<td>714</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -2265,6 +2265,19 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>167</td>
 		<td>
+			<a href="https://github.com/rex9840">
+				<img src="https://avatars.githubusercontent.com/u/65803497?s=72&u=46414699368624e6a399d6efcbd6aecd250fd4b8&v=4" width="24" alt="Avatar of rex9840"> rex9840
+			</a><br/>
+			Rupesh Nepal
+		</td>
+		<td>@gnome-nepal </td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu,Nepal</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
 			<a href="https://github.com/Raju-kadel-27">
 				<img src="https://avatars.githubusercontent.com/u/108010466?s=72&u=b0facefebd719f43a8c8d1705236c46739ccb23c&v=4" width="24" alt="Avatar of Raju-kadel-27"> Raju-kadel-27
 			</a><br/>
@@ -2276,7 +2289,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/anishchapagain">
 				<img src="https://avatars.githubusercontent.com/u/212243?s=72&u=8c0458f5ffc30f8af2ee8a3cd182fe9fc590ac15&v=4" width="24" alt="Avatar of anishchapagain"> anishchapagain
@@ -2284,19 +2297,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 			Mr. Anish Chapagain
 		</td>
 		<td>Nepaliworld </td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu,Nepal</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/rex9840">
-				<img src="https://avatars.githubusercontent.com/u/65803497?s=72&u=46414699368624e6a399d6efcbd6aecd250fd4b8&v=4" width="24" alt="Avatar of rex9840"> rex9840
-			</a><br/>
-			Rupesh Nepal
-		</td>
-		<td>@gnome-nepal </td>
 		<td>No Twitter Username</td>
 		<td>Kathmandu,Nepal</td>
 		<td>254</td>
@@ -4995,6 +4995,19 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>377</td>
 		<td>
+			<a href="https://github.com/mi5t4n">
+				<img src="https://avatars.githubusercontent.com/u/8264719?s=72&u=f9f6fce16097bf204cc3fba06b545f7194892d96&v=4" width="24" alt="Avatar of mi5t4n"> mi5t4n
+			</a><br/>
+			Sagar Tamang
+		</td>
+		<td>@rtcamp  </td>
+		<td><a href="https://twitter.com/mi5t4n">mi5t4n</a></td>
+		<td>Biratnagar, Nepal</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
 			<a href="https://github.com/roopeshach">
 				<img src="https://avatars.githubusercontent.com/u/36413342?s=72&u=0b3163c8b5cec849da7616ca79361eb2a9ad152c&v=4" width="24" alt="Avatar of roopeshach"> roopeshach
 			</a><br/>
@@ -5006,7 +5019,7 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/sahansharma">
 				<img src="https://avatars.githubusercontent.com/u/105370268?s=72&u=064d840575d2bd09b1c3cd48d20e89fb1663953a&v=4" width="24" alt="Avatar of sahansharma"> sahansharma
@@ -5017,19 +5030,6 @@ There are `975 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>81</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/mi5t4n">
-				<img src="https://avatars.githubusercontent.com/u/8264719?s=72&u=f9f6fce16097bf204cc3fba06b545f7194892d96&v=4" width="24" alt="Avatar of mi5t4n"> mi5t4n
-			</a><br/>
-			Sagar Tamang
-		</td>
-		<td>@rtcamp  </td>
-		<td><a href="https://twitter.com/mi5t4n">mi5t4n</a></td>
-		<td>Biratnagar, Nepal</td>
-		<td>80</td>
 	</tr>
 	<tr>
 		<td>380</td>
