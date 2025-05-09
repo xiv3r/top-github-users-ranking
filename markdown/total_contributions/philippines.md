@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2025/5/9 8:34 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2025/5/9 8:46 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>@codetriadsolutions  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>8310089</td>
-		<td>8310230</td>
+		<td>8311089</td>
+		<td>8311230</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>@codesyncph @hallofcodes </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>73441</td>
-		<td>73674</td>
+		<td>73449</td>
+		<td>73682</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>Samsung Electronics </td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>37195</td>
-		<td>37198</td>
+		<td>37196</td>
+		<td>37199</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Vancouver, Canada & Manila, Philippines</td>
 		<td>0</td>
-		<td>25895</td>
+		<td>25896</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -214,8 +214,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>Geopro Global Solutions Inc.<br/></td>
 		<td><a href="https://twitter.com/rnld_vrgl">rnld_vrgl</a></td>
 		<td>Unit 203 & 204 2nd floor, KACC Philmade Bldg. Lt 1&2 Jose Abad Ave. and E. Quirino St., Clark Freeport Zone, Philippines 2010</td>
-		<td>15520</td>
-		<td>15717</td>
+		<td>15521</td>
+		<td>15718</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
-		<td>14703</td>
-		<td>14703</td>
+		<td>14705</td>
+		<td>14705</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -523,7 +523,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Taguig Philippines</td>
 		<td>369</td>
-		<td>4358</td>
+		<td>4362</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1586,8 +1586,8 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlo_taleon">carlo_taleon</a></td>
 		<td>🇵🇭 Iloilo, Philippines</td>
-		<td>1616</td>
-		<td>1946</td>
+		<td>1618</td>
+		<td>1948</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -3169,7 +3169,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
 		<td>17</td>
-		<td>1045</td>
+		<td>1046</td>
 	</tr>
 	<tr>
 		<td>220</td>
@@ -4877,7 +4877,7 @@ There are `964 users`  in Philippines. You need at least `29 followers` to be on
 		<td><a href="https://twitter.com/itzzmerov">itzzmerov</a></td>
 		<td>Lucena City, Quezon Province, Philippines</td>
 		<td>218</td>
-		<td>579</td>
+		<td>580</td>
 	</tr>
 	<tr>
 		<td>342</td>
