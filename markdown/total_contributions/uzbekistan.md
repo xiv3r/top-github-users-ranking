@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2025/5/10 4:39 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2025/5/10 4:51 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -7864,6 +7864,20 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 	<tr>
 		<td>555</td>
 		<td>
+			<a href="https://github.com/mukhammad-akilov">
+				<img src="https://avatars.githubusercontent.com/u/31181880?s=72&u=cebc6a34a5f0bed79c4609a0a7ae1143ffa2d1bd&v=4" width="24" alt="Avatar of mukhammad-akilov"> mukhammad-akilov
+			</a><br/>
+			Mukhammad Akilov
+		</td>
+		<td>@epam </td>
+		<td>No Twitter Username</td>
+		<td>Tashkent, Uzbekistan</td>
+		<td>2</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
 			<a href="https://github.com/kriptogenic">
 				<img src="https://avatars.githubusercontent.com/u/25981680?s=72&v=4" width="24" alt="Avatar of kriptogenic"> kriptogenic
 			</a><br/>
@@ -7876,7 +7890,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/kholmirzayevAhmadjon">
 				<img src="https://avatars.githubusercontent.com/u/161342871?s=72&u=543cc7a35aa374ca55f3393917e7101a034c2c4f&v=4" width="24" alt="Avatar of kholmirzayevAhmadjon"> kholmirzayevAhmadjon
@@ -7890,7 +7904,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/Davronnnn">
 				<img src="https://avatars.githubusercontent.com/u/67917016?s=72&u=9badfc5f0fdb558bb5a4ae7eab253b5c13bfbae6&v=4" width="24" alt="Avatar of Davronnnn"> Davronnnn
@@ -7904,7 +7918,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/akbarajou">
 				<img src="https://avatars.githubusercontent.com/u/124685349?s=72&u=519b1f3372440fb99658ac25c29a6794b464bc51&v=4" width="24" alt="Avatar of akbarajou"> akbarajou
@@ -7918,7 +7932,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/abdulbooriy">
 				<img src="https://avatars.githubusercontent.com/u/175557511?s=72&u=74a96675f06de6d759eb19b4bc692cb63b51dc95&v=4" width="24" alt="Avatar of abdulbooriy"> abdulbooriy
@@ -7932,7 +7946,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/Rasulwebs">
 				<img src="https://avatars.githubusercontent.com/u/109275421?s=72&u=a538bac5a4214bef6a74ec6830256c93373b4296&v=4" width="24" alt="Avatar of Rasulwebs"> Rasulwebs
@@ -7946,7 +7960,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/fozilbekimomov">
 				<img src="https://avatars.githubusercontent.com/u/36783954?s=72&u=824754b1a999eeb59df810427fcd407f27ce14f4&v=4" width="24" alt="Avatar of fozilbekimomov"> fozilbekimomov
@@ -7957,20 +7971,6 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
 		<td>4</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>562</td>
-		<td>
-			<a href="https://github.com/mukhammad-akilov">
-				<img src="https://avatars.githubusercontent.com/u/31181880?s=72&u=cebc6a34a5f0bed79c4609a0a7ae1143ffa2d1bd&v=4" width="24" alt="Avatar of mukhammad-akilov"> mukhammad-akilov
-			</a><br/>
-			Mukhammad Akilov
-		</td>
-		<td>@epam </td>
-		<td>No Twitter Username</td>
-		<td>Tashkent, Uzbekistan</td>
-		<td>2</td>
 		<td>47</td>
 	</tr>
 	<tr>
