@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2025/5/10 4:18 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2025/5/10 4:39 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2642,6 +2642,19 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 	<tr>
 		<td>196</td>
 		<td>
+			<a href="https://github.com/as1lbek777">
+				<img src="https://avatars.githubusercontent.com/u/188860574?s=72&u=c006952d09d758bcb6a2294abfa7313818199f21&v=4" width="24" alt="Avatar of as1lbek777"> as1lbek777
+			</a><br/>
+			Asilbek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uzbekistan</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
 			<a href="https://github.com/Uzcoin404">
 				<img src="https://avatars.githubusercontent.com/u/82724307?s=72&u=ae36b1b6d9cba67b4ffb6d9ef2e0712b7ea6e452&v=4" width="24" alt="Avatar of Uzcoin404"> Uzcoin404
 			</a><br/>
@@ -2653,7 +2666,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/josh-developer">
 				<img src="https://avatars.githubusercontent.com/u/64574912?s=72&u=9b69c71b5eb058c0546e9585e94501d717091714&v=4" width="24" alt="Avatar of josh-developer"> josh-developer
@@ -2666,7 +2679,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/akroms">
 				<img src="https://avatars.githubusercontent.com/u/68766856?s=72&u=d21dd41b4639bbd8f6baf68adfe045cbf758a10d&v=4" width="24" alt="Avatar of akroms"> akroms
@@ -2679,7 +2692,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/Javlonbek-dev">
 				<img src="https://avatars.githubusercontent.com/u/95227460?s=72&v=4" width="24" alt="Avatar of Javlonbek-dev"> Javlonbek-dev
@@ -2689,19 +2702,6 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>Uzbek Agency For Technical<br/>Regulation<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/as1lbek777">
-				<img src="https://avatars.githubusercontent.com/u/188860574?s=72&u=c006952d09d758bcb6a2294abfa7313818199f21&v=4" width="24" alt="Avatar of as1lbek777"> as1lbek777
-			</a><br/>
-			Asilbek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uzbekistan</td>
 		<td>47</td>
 	</tr>
 	<tr>
