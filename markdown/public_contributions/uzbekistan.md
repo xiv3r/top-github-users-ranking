@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` by users in Uzbekistan on `2025/5/10 5:03 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` by users in Uzbekistan on `2025/5/10 5:14 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -336,7 +336,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/strangebs">strangebs</a></td>
 		<td>Uzbekistan</td>
-		<td>930</td>
+		<td>931</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -1966,6 +1966,19 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/FathullaLatipov">
+				<img src="https://avatars.githubusercontent.com/u/73332266?s=72&u=bccc5eac31641ee2543e7d8d0486c1ca8790d685&v=4" width="24" alt="Avatar of FathullaLatipov"> FathullaLatipov
+			</a><br/>
+			Fathulla Latipov
+		</td>
+		<td>Fathulla </td>
+		<td>No Twitter Username</td>
+		<td>Uzbekistan Tashkent</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/mustafo-coder">
 				<img src="https://avatars.githubusercontent.com/u/95744806?s=72&v=4" width="24" alt="Avatar of mustafo-coder"> mustafo-coder
 			</a><br/>
@@ -1977,7 +1990,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/Andrey0189">
 				<img src="https://avatars.githubusercontent.com/u/39239738?s=72&u=d344e7d8465e7cc53786e90270bebbc18e513139&v=4" width="24" alt="Avatar of Andrey0189"> Andrey0189
@@ -1987,19 +2000,6 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ampersand8x">ampersand8x</a></td>
 		<td>Tashkent</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/FathullaLatipov">
-				<img src="https://avatars.githubusercontent.com/u/73332266?s=72&u=bccc5eac31641ee2543e7d8d0486c1ca8790d685&v=4" width="24" alt="Avatar of FathullaLatipov"> FathullaLatipov
-			</a><br/>
-			Fathulla Latipov
-		</td>
-		<td>Fathulla </td>
-		<td>No Twitter Username</td>
-		<td>Uzbekistan Tashkent</td>
 		<td>222</td>
 	</tr>
 	<tr>
@@ -2091,7 +2091,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tashkent, Uzbekistan</td>
-		<td>204</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2312,7 +2312,7 @@ There are `968 users`  in Uzbekistan. You need at least `16 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
-		<td>177</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>171</td>
