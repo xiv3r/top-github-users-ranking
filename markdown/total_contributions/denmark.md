@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2025/5/11 10:46 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2025/5/11 10:55 AM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -425,7 +425,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td><a href="https://twitter.com/LarsHvam">LarsHvam</a></td>
 		<td>Copenhagen</td>
 		<td>1729</td>
-		<td>3972</td>
+		<td>3973</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -4952,6 +4952,20 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 	<tr>
 		<td>347</td>
 		<td>
+			<a href="https://github.com/Genbox">
+				<img src="https://avatars.githubusercontent.com/u/657616?s=72&u=e7479957364b23c29c5c4784b6359ee79d989d06&v=4" width="24" alt="Avatar of Genbox"> Genbox
+			</a><br/>
+			Ian Qvist
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/IanQvist">IanQvist</a></td>
+		<td>Denmark</td>
+		<td>325</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
 			<a href="https://github.com/ThisDevDane">
 				<img src="https://avatars.githubusercontent.com/u/1834353?s=72&u=7b48e7d593f921944b3035a735e8063ef63489eb&v=4" width="24" alt="Avatar of ThisDevDane"> ThisDevDane
 			</a><br/>
@@ -4964,7 +4978,7 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>497</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/glaslos">
 				<img src="https://avatars.githubusercontent.com/u/716339?s=72&u=8f1fe47df1fbd115f693f1988a6af6e32bae9957&v=4" width="24" alt="Avatar of glaslos"> glaslos
@@ -4976,20 +4990,6 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>Copenhagen</td>
 		<td>146</td>
 		<td>496</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/Genbox">
-				<img src="https://avatars.githubusercontent.com/u/657616?s=72&u=e7479957364b23c29c5c4784b6359ee79d989d06&v=4" width="24" alt="Avatar of Genbox"> Genbox
-			</a><br/>
-			Ian Qvist
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/IanQvist">IanQvist</a></td>
-		<td>Denmark</td>
-		<td>325</td>
-		<td>495</td>
 	</tr>
 	<tr>
 		<td>350</td>
@@ -7494,8 +7494,8 @@ There are `928 users`  in Denmark. You need at least `43 followers` to be on thi
 		<td>Aalborg University </td>
 		<td>No Twitter Username</td>
 		<td>Aalborg, Denmark</td>
-		<td>137</td>
-		<td>164</td>
+		<td>138</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>529</td>
