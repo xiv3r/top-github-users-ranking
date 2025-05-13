@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `public contributions` and `private contributions` by users in Slovenia on `2025/5/13 11:16 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `public contributions` and `private contributions` by users in Slovenia on `2025/5/13 11:27 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -173,7 +173,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/StefanBaebler">StefanBaebler</a></td>
 		<td>Ljubljana, Slovenia</td>
 		<td>3587</td>
-		<td>4965</td>
+		<td>4966</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -256,8 +256,8 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>@armbian  </td>
 		<td>No Twitter Username</td>
 		<td>Ljubljana</td>
-		<td>3894</td>
-		<td>4008</td>
+		<td>3896</td>
+		<td>4010</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -355,7 +355,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ljubljana, Slovenia</td>
 		<td>6</td>
-		<td>2822</td>
+		<td>2823</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -523,7 +523,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Cankarjeva cesta 3, Ljubljana, Slovenia</td>
 		<td>0</td>
-		<td>2283</td>
+		<td>2284</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -537,7 +537,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/davision">davision</a></td>
 		<td>Slovenia, Europe</td>
 		<td>0</td>
-		<td>2225</td>
+		<td>2226</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -788,8 +788,8 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>@solo-io  </td>
 		<td><a href="https://twitter.com/DanielHawton">DanielHawton</a></td>
 		<td>Ljubljana, Slovenia</td>
-		<td>881</td>
-		<td>1874</td>
+		<td>883</td>
+		<td>1876</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1097,7 +1097,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/AleksMitic">AleksMitic</a></td>
 		<td>Maribor, Slovenia</td>
 		<td>12</td>
-		<td>1543</td>
+		<td>1545</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1698,8 +1698,8 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
-		<td>835</td>
-		<td>1066</td>
+		<td>836</td>
+		<td>1067</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -2460,20 +2460,6 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 	<tr>
 		<td>169</td>
 		<td>
-			<a href="https://github.com/mytja">
-				<img src="https://avatars.githubusercontent.com/u/52399966?s=72&v=4" width="24" alt="Avatar of mytja"> mytja
-			</a><br/>
-			Mitja Ševerkar
-		</td>
-		<td>@bezidev @meetplan </td>
-		<td><a href="https://twitter.com/mytjadev">mytjadev</a></td>
-		<td>Slovenia</td>
-		<td>478</td>
-		<td>754</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
 			<a href="https://github.com/galpodlipnik1">
 				<img src="https://avatars.githubusercontent.com/u/69755435?s=72&u=47b1726b190da0bb71c82778d2aa1edd1ce9c52a&v=4" width="24" alt="Avatar of galpodlipnik1"> galpodlipnik1
 			</a><br/>
@@ -2483,6 +2469,20 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>94</td>
+		<td>759</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/mytja">
+				<img src="https://avatars.githubusercontent.com/u/52399966?s=72&v=4" width="24" alt="Avatar of mytja"> mytja
+			</a><br/>
+			Mitja Ševerkar
+		</td>
+		<td>@bezidev @meetplan </td>
+		<td><a href="https://twitter.com/mytjadev">mytjadev</a></td>
+		<td>Slovenia</td>
+		<td>478</td>
 		<td>754</td>
 	</tr>
 	<tr>
@@ -4168,6 +4168,20 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 	<tr>
 		<td>291</td>
 		<td>
+			<a href="https://github.com/pedrokost">
+				<img src="https://avatars.githubusercontent.com/u/725286?s=72&v=4" width="24" alt="Avatar of pedrokost"> pedrokost
+			</a><br/>
+			Pedro Kostelec
+		</td>
+		<td>Sentinel Marine Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
+		<td>34</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a href="https://github.com/alenhorvat">
 				<img src="https://avatars.githubusercontent.com/u/10848802?s=72&u=72c72f5d50e430569cd365f7f1ea6246f28c3a15&v=4" width="24" alt="Avatar of alenhorvat"> alenhorvat
 			</a><br/>
@@ -4178,20 +4192,6 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>Ljubljana, Slovenia</td>
 		<td>360</td>
 		<td>360</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/pedrokost">
-				<img src="https://avatars.githubusercontent.com/u/725286?s=72&v=4" width="24" alt="Avatar of pedrokost"> pedrokost
-			</a><br/>
-			Pedro Kostelec
-		</td>
-		<td>Sentinel Marine Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana</td>
-		<td>34</td>
-		<td>359</td>
 	</tr>
 	<tr>
 		<td>293</td>
