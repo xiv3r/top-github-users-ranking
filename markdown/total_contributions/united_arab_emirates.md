@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/5/10 9:53 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/5/13 5:21 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>207</td>
-		<td>608</td>
+		<td>206</td>
+		<td>546</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -262,6 +262,20 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
+			</a><br/>
+			Aqua Experts Water Treatment
+		</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
 			</a><br/>
@@ -274,7 +288,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/khalidsheikh03144">
 				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
@@ -288,7 +302,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/abuhasanwork">
 				<img src="https://avatars.githubusercontent.com/u/192496801?s=72&v=4" width="24" alt="Avatar of abuhasanwork"> abuhasanwork
@@ -298,20 +312,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Abu Hasan Technical Works<br/>Llc<br/></td>
 		<td>No Twitter Username</td>
 		<td>England Cluster, Y20, S05 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -346,14 +346,14 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/easternhousinguae">
-				<img src="https://avatars.githubusercontent.com/u/199571396?s=72&v=4" width="24" alt="Avatar of easternhousinguae"> easternhousinguae
+			<a href="https://github.com/madbrickstudio">
+				<img src="https://avatars.githubusercontent.com/u/210826651?s=72&u=fc752be1fa8ebdcc2b6ae5253dfae163e5fa8584&v=4" width="24" alt="Avatar of madbrickstudio"> madbrickstudio
 			</a><br/>
-			Eastern Housing UAE
+			Madbrickstudio
 		</td>
-		<td>Eastern Housing Uae </td>
-		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
-		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
+		<td>971585823249 </td>
+		<td>No Twitter Username</td>
+		<td>Dubai Silicon Oasis, DDP, Building A2, Dubai, Unted Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -388,61 +388,19 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/unitedmoversdubai">
-				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			<a href="https://github.com/easternhousinguae">
+				<img src="https://avatars.githubusercontent.com/u/199571396?s=72&v=4" width="24" alt="Avatar of easternhousinguae"> easternhousinguae
 			</a><br/>
-			Office Movers in Dubai
+			Eastern Housing UAE
 		</td>
-		<td>United Movers Dubai </td>
-		<td>No Twitter Username</td>
-		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
+		<td>Eastern Housing Uae </td>
+		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
+		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>22</td>
-		<td>
-			<a href="https://github.com/fgwilsonuae">
-				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
-			</a><br/>
-			FG Wilson Engineering FZE
-		</td>
-		<td>Fg Wilson Engineering Fze<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai,UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/madbrickstudio">
-				<img src="https://avatars.githubusercontent.com/u/210826651?s=72&u=fc752be1fa8ebdcc2b6ae5253dfae163e5fa8584&v=4" width="24" alt="Avatar of madbrickstudio"> madbrickstudio
-			</a><br/>
-			Madbrickstudio
-		</td>
-		<td>971585823249 </td>
-		<td>No Twitter Username</td>
-		<td>Dubai Silicon Oasis, DDP, Building A2, Dubai, Unted Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/wismarine">
-				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
-			</a><br/>
-			Wismar Heavy Equipment Trading L.L.C
-		</td>
-		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
-		<td>No Twitter Username</td>
-		<td>PO Box: 23909 Sharjah, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
@@ -456,7 +414,21 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/unitedmoversdubai">
+				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			</a><br/>
+			Office Movers in Dubai
+		</td>
+		<td>United Movers Dubai </td>
+		<td>No Twitter Username</td>
+		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/quicktaxation">
 				<img src="https://avatars.githubusercontent.com/u/210894834?s=72&u=d645ff297f9f68f6209fd9484facb044d5067b7c&v=4" width="24" alt="Avatar of quicktaxation"> quicktaxation
@@ -470,7 +442,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/goldrateindubai">
 				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
@@ -480,6 +452,34 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Gold Rate In Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/wismarine">
+				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			</a><br/>
+			Wismar Heavy Equipment Trading L.L.C
+		</td>
+		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>No Twitter Username</td>
+		<td>PO Box: 23909 Sharjah, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/fgwilsonuae">
+				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
+			</a><br/>
+			FG Wilson Engineering FZE
+		</td>
+		<td>Fg Wilson Engineering Fze<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai,UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
