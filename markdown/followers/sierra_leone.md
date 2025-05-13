@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2025/5/10 5:11 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2025/5/13 4:50 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>@geneline-x | @dropx-labs |<br/>@n8bird-oss<br/></td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>105</td>
+		<td>104</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -349,7 +349,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Imo Tech Solutions </td>
 		<td><a href="https://twitter.com/DavidCole_24">DavidCole_24</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>11</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -628,7 +628,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>41</td>
 		<td>
 			<a href="https://github.com/TheLoneWulf-WA">
-				<img src="https://avatars.githubusercontent.com/u/75126769?s=72&u=fd138f320c306dfbe6a2c73813ea4d76d4b79f13&v=4" width="24" alt="Avatar of TheLoneWulf-WA"> TheLoneWulf-WA
+				<img src="https://avatars.githubusercontent.com/u/75126769?s=72&u=5d06a640e269341352a98bdf57ecba37a0c990ac&v=4" width="24" alt="Avatar of TheLoneWulf-WA"> TheLoneWulf-WA
 			</a><br/>
 			ATMR
 		</td>
@@ -1160,12 +1160,12 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>82</td>
 		<td>
-			<a href="https://github.com/Abdulai123">
-				<img src="https://avatars.githubusercontent.com/u/95375134?s=72&u=3288efed389cf635a4e6643c927eaa740db9057b&v=4" width="24" alt="Avatar of Abdulai123"> Abdulai123
+			<a href="https://github.com/xoppersk">
+				<img src="https://avatars.githubusercontent.com/u/55203406?s=72&u=ab0e36cd62d28f81fa3fff5f98a82ecdde214dfb&v=4" width="24" alt="Avatar of xoppersk"> xoppersk
 			</a><br/>
-			Abdulai Bah
+			Sheku Koroma
 		</td>
-		<td>Buy4usl </td>
+		<td>Xoppersk </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
 		<td>2</td>
@@ -1173,12 +1173,12 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>83</td>
 		<td>
-			<a href="https://github.com/xoppersk">
-				<img src="https://avatars.githubusercontent.com/u/55203406?s=72&u=ab0e36cd62d28f81fa3fff5f98a82ecdde214dfb&v=4" width="24" alt="Avatar of xoppersk"> xoppersk
+			<a href="https://github.com/Abdulai123">
+				<img src="https://avatars.githubusercontent.com/u/95375134?s=72&u=3288efed389cf635a4e6643c927eaa740db9057b&v=4" width="24" alt="Avatar of Abdulai123"> Abdulai123
 			</a><br/>
-			Sheku Koroma
+			Abdulai Bah
 		</td>
-		<td>Xoppersk </td>
+		<td>Buy4usl </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
 		<td>2</td>
@@ -1407,19 +1407,6 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>101</td>
 		<td>
-			<a href="https://github.com/alhajimsabu">
-				<img src="https://avatars.githubusercontent.com/u/19788171?s=72&u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4" width="24" alt="Avatar of alhajimsabu"> alhajimsabu
-			</a><br/>
-			A.M.S. ABU
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Freetown, Sierra Leone</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
 			<a href="https://github.com/Ibrahim749">
 				<img src="https://avatars.githubusercontent.com/u/70407776?s=72&v=4" width="24" alt="Avatar of Ibrahim749"> Ibrahim749
 			</a><br/>
@@ -1431,7 +1418,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/domobao1984">
 				<img src="https://avatars.githubusercontent.com/u/71744867?s=72&u=57f302300517ed480580ffe285b45c0586613bf9&v=4" width="24" alt="Avatar of domobao1984"> domobao1984
@@ -1444,7 +1431,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/Hoppersk">
 				<img src="https://avatars.githubusercontent.com/u/8056809?s=72&u=2afc068c52e5238d354f81e13858f4502ba1130c&v=4" width="24" alt="Avatar of Hoppersk"> Hoppersk
@@ -1457,7 +1444,33 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/alhajimsabu">
+				<img src="https://avatars.githubusercontent.com/u/19788171?s=72&u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4" width="24" alt="Avatar of alhajimsabu"> alhajimsabu
+			</a><br/>
+			A.M.S. ABU
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>105</td>
+		<td>
+			<a href="https://github.com/nitssl">
+				<img src="https://avatars.githubusercontent.com/u/110399776?s=72&v=4" width="24" alt="Avatar of nitssl"> nitssl
+			</a><br/>
+			Nerdware IT Services - Sierra Leone
+		</td>
+		<td>Nerdware It Services -<br/>Sierra<br/>Leone<br/></td>
+		<td>No Twitter Username</td>
+		<td>Freetown - Sierra Leone</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/Karl-el01">
 				<img src="https://avatars.githubusercontent.com/u/25665182?s=72&u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4" width="24" alt="Avatar of Karl-el01"> Karl-el01
@@ -1470,7 +1483,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/abubakarrjalloh">
 				<img src="https://avatars.githubusercontent.com/u/33560325?s=72&u=35fb7aeee06e7c28348350385c02d9ff26ac93a7&v=4" width="24" alt="Avatar of abubakarrjalloh"> abubakarrjalloh
@@ -1483,7 +1496,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/temple1-1">
 				<img src="https://avatars.githubusercontent.com/u/80923630?s=72&u=93ecaca42dc46386d122e9ca60aa06bed36969bb&v=4" width="24" alt="Avatar of temple1-1"> temple1-1
@@ -1493,19 +1506,6 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>L2 Company Limited <br/></td>
 		<td><a href="https://twitter.com/L2">L2</a></td>
 		<td>17a Bolling Street Freetown Sierra Leone </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/nitssl">
-				<img src="https://avatars.githubusercontent.com/u/110399776?s=72&v=4" width="24" alt="Avatar of nitssl"> nitssl
-			</a><br/>
-			Nerdware IT Services - Sierra Leone
-		</td>
-		<td>Nerdware It Services -<br/>Sierra<br/>Leone<br/></td>
-		<td>No Twitter Username</td>
-		<td>Freetown - Sierra Leone</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2343,19 +2343,6 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>173</td>
 		<td>
-			<a href="https://github.com/BailorKinny">
-				<img src="https://avatars.githubusercontent.com/u/99451361?s=72&v=4" width="24" alt="Avatar of BailorKinny"> BailorKinny
-			</a><br/>
-			Bailor Bah
-		</td>
-		<td>Bkb Tech Hub </td>
-		<td><a href="https://twitter.com/Bailor17091993">Bailor17091993</a></td>
-		<td>Juba Hill, Freetown</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
 			<a href="https://github.com/KusheYemi">
 				<img src="https://avatars.githubusercontent.com/u/109568477?s=72&v=4" width="24" alt="Avatar of KusheYemi"> KusheYemi
 			</a><br/>
@@ -2364,6 +2351,19 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown , Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/BailorKinny">
+				<img src="https://avatars.githubusercontent.com/u/99451361?s=72&v=4" width="24" alt="Avatar of BailorKinny"> BailorKinny
+			</a><br/>
+			Bailor Bah
+		</td>
+		<td>Bkb Tech Hub </td>
+		<td><a href="https://twitter.com/Bailor17091993">Bailor17091993</a></td>
+		<td>Juba Hill, Freetown</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2473,19 +2473,6 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>183</td>
 		<td>
-			<a href="https://github.com/Alusine92">
-				<img src="https://avatars.githubusercontent.com/u/43188506?s=72&u=56d8f0d3d246ee520f1c07c2141b3432e01a4875&v=4" width="24" alt="Avatar of Alusine92"> Alusine92
-			</a><br/>
-			Alusine Conteh
-		</td>
-		<td>Yes Nice Media </td>
-		<td><a href="https://twitter.com/alusinec992">alusinec992</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
 			<a href="https://github.com/Hadji27492">
 				<img src="https://avatars.githubusercontent.com/u/76890887?s=72&u=0f4f9058653b2e2ae1f3d62aeecc4b50da776bd6&v=4" width="24" alt="Avatar of Hadji27492"> Hadji27492
 			</a><br/>
@@ -2497,7 +2484,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/micdev123">
 				<img src="https://avatars.githubusercontent.com/u/44992267?s=72&u=461e92d433205cae39b901e9b41cde41017259f5&v=4" width="24" alt="Avatar of micdev123"> micdev123
@@ -2510,7 +2497,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Rex22des">
 				<img src="https://avatars.githubusercontent.com/u/144549264?s=72&v=4" width="24" alt="Avatar of Rex22des"> Rex22des
@@ -2523,7 +2510,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/Bigdream321">
 				<img src="https://avatars.githubusercontent.com/u/76114761?s=72&u=193b2d9b052c0565fac893255ca63b98f550c69f&v=4" width="24" alt="Avatar of Bigdream321"> Bigdream321
@@ -2536,7 +2523,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/tojeah-byte">
 				<img src="https://avatars.githubusercontent.com/u/142315468?s=72&u=fe15fbc5f7cf7c6d2a29afa737cceff576962be9&v=4" width="24" alt="Avatar of tojeah-byte"> tojeah-byte
@@ -2549,7 +2536,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/Prof-Docal">
 				<img src="https://avatars.githubusercontent.com/u/158041167?s=72&u=1e74d673885c65a8df4b4891ea828d8aab809658&v=4" width="24" alt="Avatar of Prof-Docal"> Prof-Docal
@@ -2562,7 +2549,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/Viper973">
 				<img src="https://avatars.githubusercontent.com/u/155451042?s=72&u=f9e319d5665384b18f5cf3f4d0e58283348d829d&v=4" width="24" alt="Avatar of Viper973"> Viper973
@@ -2575,7 +2562,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/chochoma">
 				<img src="https://avatars.githubusercontent.com/u/64731010?s=72&v=4" width="24" alt="Avatar of chochoma"> chochoma
@@ -2588,7 +2575,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/SaalamTech">
 				<img src="https://avatars.githubusercontent.com/u/154544217?s=72&v=4" width="24" alt="Avatar of SaalamTech"> SaalamTech
@@ -2601,7 +2588,7 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/Djalo9">
 				<img src="https://avatars.githubusercontent.com/u/153111003?s=72&v=4" width="24" alt="Avatar of Djalo9"> Djalo9
@@ -2611,6 +2598,19 @@ There are `317 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Httw </td>
 		<td>No Twitter Username</td>
 		<td>Freetown </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/Alusine92">
+				<img src="https://avatars.githubusercontent.com/u/43188506?s=72&u=56d8f0d3d246ee520f1c07c2141b3432e01a4875&v=4" width="24" alt="Avatar of Alusine92"> Alusine92
+			</a><br/>
+			Alusine Conteh
+		</td>
+		<td>Yes Nice Media </td>
+		<td><a href="https://twitter.com/alusinec992">alusinec992</a></td>
+		<td>Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
