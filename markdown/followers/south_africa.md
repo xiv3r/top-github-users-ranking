@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `number of followers` of users in South Africa on `2025/5/13 11:45 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `number of followers` of users in South Africa on `2025/5/13 11:57 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -10741,19 +10741,6 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>819</td>
 		<td>
-			<a href="https://github.com/leratok-GIT">
-				<img src="https://avatars.githubusercontent.com/u/117907380?s=72&u=6267f977e86cee6522b9c0f1863d94125dd3d3f7&v=4" width="24" alt="Avatar of leratok-GIT"> leratok-GIT
-			</a><br/>
-			Lerato Kgwedi
-		</td>
-		<td>Capaciti </td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>820</td>
-		<td>
 			<a href="https://github.com/Ms-P-Hub">
 				<img src="https://avatars.githubusercontent.com/u/124253391?s=72&u=5844c1c76827108e955c26d2b11992c8983ea1bc&v=4" width="24" alt="Avatar of Ms-P-Hub"> Ms-P-Hub
 			</a><br/>
@@ -10762,6 +10749,19 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>@wethinkcode_ </td>
 		<td>No Twitter Username</td>
 		<td>Johannesburg, Gauteng</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/leratok-GIT">
+				<img src="https://avatars.githubusercontent.com/u/117907380?s=72&u=6267f977e86cee6522b9c0f1863d94125dd3d3f7&v=4" width="24" alt="Avatar of leratok-GIT"> leratok-GIT
+			</a><br/>
+			Lerato Kgwedi
+		</td>
+		<td>Capaciti </td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg</td>
 		<td>19</td>
 	</tr>
 	<tr>

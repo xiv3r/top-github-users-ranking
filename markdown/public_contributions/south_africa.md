@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` by users in South Africa on `2025/5/13 11:45 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` by users in South Africa on `2025/5/13 11:57 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -713,7 +713,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>@coder  </td>
 		<td><a href="https://twitter.com/dannykopping">dannykopping</a></td>
 		<td>Cape Town, South Africa</td>
-		<td>734</td>
+		<td>735</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -2057,6 +2057,19 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/oni1997">
+				<img src="https://avatars.githubusercontent.com/u/48757069?s=72&u=cf0b4a25a7fc8605d682a865e9b6b4f31c22d3d6&v=4" width="24" alt="Avatar of oni1997"> oni1997
+			</a><br/>
+			 Onesmus Maenzanise
+		</td>
+		<td>Aps Holiding </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/Philani56">
 				<img src="https://avatars.githubusercontent.com/u/101722952?s=72&u=0ace9841911175cc613e1cabaa4d2d083cf3c921&v=4" width="24" alt="Avatar of Philani56"> Philani56
 			</a><br/>
@@ -2066,19 +2079,6 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Durban</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/oni1997">
-				<img src="https://avatars.githubusercontent.com/u/48757069?s=72&u=cf0b4a25a7fc8605d682a865e9b6b4f31c22d3d6&v=4" width="24" alt="Avatar of oni1997"> oni1997
-			</a><br/>
-			 Onesmus Maenzanise
-		</td>
-		<td>Aps Holiding </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>174</td>
 	</tr>
 	<tr>
 		<td>153</td>
