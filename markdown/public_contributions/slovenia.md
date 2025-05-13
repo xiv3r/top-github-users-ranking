@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `public contributions` by users in Slovenia on `2025/5/13 10:43 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `public contributions` by users in Slovenia on `2025/5/13 10:57 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -861,6 +861,19 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/StreakyFly">
+				<img src="https://avatars.githubusercontent.com/u/53691430?s=72&u=0d220f2744855d8d16f58c7d6c7e62a465ce49ab&v=4" width="24" alt="Avatar of StreakyFly"> StreakyFly
+			</a><br/>
+			StreakyFly
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/StreakyFly">StreakyFly</a></td>
+		<td>Slovenia</td>
+		<td>437</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/otobrglez">
 				<img src="https://avatars.githubusercontent.com/u/225946?s=72&v=4" width="24" alt="Avatar of otobrglez"> otobrglez
 			</a><br/>
@@ -870,19 +883,6 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/otobrglez">otobrglez</a></td>
 		<td>Ljubljana, Slovenia</td>
 		<td>436</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/StreakyFly">
-				<img src="https://avatars.githubusercontent.com/u/53691430?s=72&u=0d220f2744855d8d16f58c7d6c7e62a465ce49ab&v=4" width="24" alt="Avatar of StreakyFly"> StreakyFly
-			</a><br/>
-			StreakyFly
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/StreakyFly">StreakyFly</a></td>
-		<td>Slovenia</td>
-		<td>435</td>
 	</tr>
 	<tr>
 		<td>61</td>
