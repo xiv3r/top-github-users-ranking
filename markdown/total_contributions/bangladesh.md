@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2025/5/14 12:46 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2025/5/14 1:55 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/remonsec">remonsec</a></td>
 		<td>Bangladesh</td>
 		<td>38</td>
-		<td>45793</td>
+		<td>45818</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -971,7 +971,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/farhan__nahid">farhan__nahid</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>177</td>
-		<td>1882</td>
+		<td>1883</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1377,7 +1377,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka,Bangladesh</td>
 		<td>606</td>
-		<td>1591</td>
+		<td>1593</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -2146,8 +2146,8 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1159</td>
-		<td>1159</td>
+		<td>1160</td>
+		<td>1160</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -3132,6 +3132,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>217</td>
 		<td>
+			<a href="https://github.com/rizveeredwan">
+				<img src="https://avatars.githubusercontent.com/u/37921783?s=72&u=0bc76766973ba6dfb4ae472b3c6504bf83e7387f&v=4" width="24" alt="Avatar of rizveeredwan"> rizveeredwan
+			</a><br/>
+			Redwan Ahmed Rizvee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dhaka, Bangladesh</td>
+		<td>80</td>
+		<td>800</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
 			<a href="https://github.com/ahnafshahrear">
 				<img src="https://avatars.githubusercontent.com/u/89327822?s=72&u=243edcd6abf1eb7a3f86c374484b3ff1d0354a36&v=4" width="24" alt="Avatar of ahnafshahrear"> ahnafshahrear
 			</a><br/>
@@ -3142,20 +3156,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Mymensingh, Bangladesh</td>
 		<td>567</td>
 		<td>798</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/rizveeredwan">
-				<img src="https://avatars.githubusercontent.com/u/37921783?s=72&u=0bc76766973ba6dfb4ae472b3c6504bf83e7387f&v=4" width="24" alt="Avatar of rizveeredwan"> rizveeredwan
-			</a><br/>
-			Redwan Ahmed Rizvee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dhaka, Bangladesh</td>
-		<td>80</td>
-		<td>797</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3336,8 +3336,8 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Feni, Bangladesh</td>
-		<td>737</td>
-		<td>737</td>
+		<td>738</td>
+		<td>738</td>
 	</tr>
 	<tr>
 		<td>232</td>
@@ -4582,8 +4582,8 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>454</td>
-		<td>497</td>
+		<td>455</td>
+		<td>498</td>
 	</tr>
 	<tr>
 		<td>321</td>
@@ -8713,7 +8713,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Joypurhat, Bangladesh</td>
 		<td>5</td>
-		<td>78</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>616</td>

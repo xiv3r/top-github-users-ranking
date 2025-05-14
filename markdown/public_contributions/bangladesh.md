@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2025/5/14 12:46 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2025/5/14 1:55 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -427,7 +427,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1159</td>
+		<td>1160</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -687,7 +687,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Feni, Bangladesh</td>
-		<td>737</td>
+		<td>738</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1220,7 +1220,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>454</td>
+		<td>455</td>
 	</tr>
 	<tr>
 		<td>87</td>
