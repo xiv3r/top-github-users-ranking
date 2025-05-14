@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2025/5/14 1:55 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2025/5/14 3:00 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/remonsec">remonsec</a></td>
 		<td>Bangladesh</td>
 		<td>38</td>
-		<td>45818</td>
+		<td>45843</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/mdsami5">mdsami5</a></td>
 		<td>Dhaka,Bangladesh</td>
 		<td>105</td>
-		<td>6258</td>
+		<td>6259</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -285,7 +285,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/santo_shakil">santo_shakil</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>53</td>
-		<td>4444</td>
+		<td>4448</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -914,8 +914,8 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>315</td>
-		<td>1960</td>
+		<td>316</td>
+		<td>1961</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1153,7 +1153,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/GalibSaadman">GalibSaadman</a></td>
 		<td>Bangladesh</td>
 		<td>168</td>
-		<td>1722</td>
+		<td>1723</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1404,8 +1404,8 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Learner & Student @cse-pstu<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1510</td>
-		<td>1565</td>
+		<td>1511</td>
+		<td>1566</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1900,6 +1900,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>129</td>
 		<td>
+			<a href="https://github.com/devhasibulislam">
+				<img src="https://avatars.githubusercontent.com/u/90001567?s=72&u=55725a6b3cd2f0fc0064a49283e7c840576b04da&v=4" width="24" alt="Avatar of devhasibulislam"> devhasibulislam
+			</a><br/>
+			Hasibul Islam
+		</td>
+		<td>Messagemind.ai </td>
+		<td><a href="https://twitter.com/devhasibulislam">devhasibulislam</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>125</td>
+		<td>1257</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
 			<a href="https://github.com/ikramhasan">
 				<img src="https://avatars.githubusercontent.com/u/61601841?s=72&u=8a5d72e501427d386e8258f6942a3ecd4125f6e4&v=4" width="24" alt="Avatar of ikramhasan"> ikramhasan
 			</a><br/>
@@ -1910,20 +1924,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Dhaka, Bangladesh</td>
 		<td>146</td>
 		<td>1257</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/devhasibulislam">
-				<img src="https://avatars.githubusercontent.com/u/90001567?s=72&u=55725a6b3cd2f0fc0064a49283e7c840576b04da&v=4" width="24" alt="Avatar of devhasibulislam"> devhasibulislam
-			</a><br/>
-			Hasibul Islam
-		</td>
-		<td>Messagemind.ai </td>
-		<td><a href="https://twitter.com/devhasibulislam">devhasibulislam</a></td>
-		<td>Dhaka, Bangladesh</td>
-		<td>125</td>
-		<td>1255</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -2399,7 +2399,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh.</td>
 		<td>3</td>
-		<td>1024</td>
+		<td>1027</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -2637,7 +2637,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td><a href="https://twitter.com/SanowarDewan5">SanowarDewan5</a></td>
 		<td>Kajla, Jatrabari, Dhaka, Bangladesh</td>
 		<td>10</td>
-		<td>957</td>
+		<td>966</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -3141,7 +3141,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
 		<td>80</td>
-		<td>800</td>
+		<td>801</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -3281,7 +3281,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Chittagong</td>
 		<td>81</td>
-		<td>754</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -6814,6 +6814,20 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>480</td>
 		<td>
+			<a href="https://github.com/mhmohona">
+				<img src="https://avatars.githubusercontent.com/u/14244685?s=72&u=8287b88cbfb4f050f0e14b19a888034f7c8ae043&v=4" width="24" alt="Avatar of mhmohona"> mhmohona
+			</a><br/>
+			Mahfuza Humayra Mohona
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mhmohona">mhmohona</a></td>
+		<td>Bangladesh</td>
+		<td>191</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
 			<a href="https://github.com/m-r-kushal">
 				<img src="https://avatars.githubusercontent.com/u/5852261?s=72&u=a14ca939fce8571abf5973f0f03e03124a41ee74&v=4" width="24" alt="Avatar of m-r-kushal"> m-r-kushal
 			</a><br/>
@@ -6823,20 +6837,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Rajshahi, Bangladesh</td>
 		<td>37</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/mhmohona">
-				<img src="https://avatars.githubusercontent.com/u/14244685?s=72&u=8287b88cbfb4f050f0e14b19a888034f7c8ae043&v=4" width="24" alt="Avatar of mhmohona"> mhmohona
-			</a><br/>
-			Mahfuza Humayra Mohona
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mhmohona">mhmohona</a></td>
-		<td>Bangladesh</td>
-		<td>190</td>
 		<td>207</td>
 	</tr>
 	<tr>

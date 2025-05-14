@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2025/5/14 1:55 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2025/5/14 3:00 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -310,7 +310,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>Learner & Student @cse-pstu<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1510</td>
+		<td>1511</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -1779,7 +1779,7 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>315</td>
+		<td>316</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2850,19 +2850,6 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/oshanto-ctrl">
-				<img src="https://avatars.githubusercontent.com/u/55896261?s=72&u=87ee7accc3651e3f3cd3d26af82319247b582a2a&v=4" width="24" alt="Avatar of oshanto-ctrl"> oshanto-ctrl
-			</a><br/>
-			Md. Rejoan Siddiky
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dhaka, Bangladesh</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
 			<a href="https://github.com/mhmohona">
 				<img src="https://avatars.githubusercontent.com/u/14244685?s=72&u=8287b88cbfb4f050f0e14b19a888034f7c8ae043&v=4" width="24" alt="Avatar of mhmohona"> mhmohona
 			</a><br/>
@@ -2871,6 +2858,19 @@ There are `981 users`  in Bangladesh. You need at least `73 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mhmohona">mhmohona</a></td>
 		<td>Bangladesh</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/oshanto-ctrl">
+				<img src="https://avatars.githubusercontent.com/u/55896261?s=72&u=87ee7accc3651e3f3cd3d26af82319247b582a2a&v=4" width="24" alt="Avatar of oshanto-ctrl"> oshanto-ctrl
+			</a><br/>
+			Md. Rejoan Siddiky
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dhaka, Bangladesh</td>
 		<td>190</td>
 	</tr>
 	<tr>
