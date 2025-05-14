@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia">
 </a>
 
-The `public contributions` and `private contributions` by users in Colombia on `2025/5/14 11:56 AM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
+The `public contributions` and `private contributions` by users in Colombia on `2025/5/14 12:07 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2413,7 +2413,7 @@ There are `978 users`  in Colombia. You need at least `36 followers` to be on th
 		<td><a href="https://twitter.com/cu3dots">cu3dots</a></td>
 		<td>Cartagena, Spain</td>
 		<td>0</td>
-		<td>777</td>
+		<td>778</td>
 	</tr>
 	<tr>
 		<td>166</td>
@@ -2707,7 +2707,7 @@ There are `978 users`  in Colombia. You need at least `36 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>37</td>
-		<td>727</td>
+		<td>729</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -4065,7 +4065,7 @@ There are `978 users`  in Colombia. You need at least `36 followers` to be on th
 		<td><a href="https://twitter.com/Sneyder_A">Sneyder_A</a></td>
 		<td>Colombia Medellin-Antioquia</td>
 		<td>53</td>
-		<td>426</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>284</td>
@@ -4512,8 +4512,8 @@ There are `978 users`  in Colombia. You need at least `36 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín/Colombia</td>
-		<td>350</td>
-		<td>366</td>
+		<td>351</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -5899,7 +5899,7 @@ There are `978 users`  in Colombia. You need at least `36 followers` to be on th
 		<td><a href="https://twitter.com/23_mao">23_mao</a></td>
 		<td>Colombia</td>
 		<td>148</td>
-		<td>209</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>415</td>
