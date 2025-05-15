@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `public contributions` and `private contributions` by users in Slovenia on `2025/5/15 6:43 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `public contributions` and `private contributions` by users in Slovenia on `2025/5/15 6:53 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1124,8 +1124,8 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
-		<td>1375</td>
-		<td>1526</td>
+		<td>1377</td>
+		<td>1528</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -2063,7 +2063,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ljubljana, Slovenia</td>
 		<td>198</td>
-		<td>908</td>
+		<td>912</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -3645,7 +3645,7 @@ There are `950 users`  in Slovenia. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tolmin Slovenia</td>
 		<td>350</td>
-		<td>455</td>
+		<td>457</td>
 	</tr>
 	<tr>
 		<td>254</td>
