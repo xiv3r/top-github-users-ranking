@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `number of followers` of users in Nepal on `2025/5/17 10:43 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `number of followers` of users in Nepal on `2025/5/17 10:52 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2499,6 +2499,19 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>185</td>
 		<td>
+			<a href="https://github.com/geekyarthurs">
+				<img src="https://avatars.githubusercontent.com/u/36955694?s=72&u=2a526f0eef0d22a39cc5d679fd9b98e97d2d88d9&v=4" width="24" alt="Avatar of geekyarthurs"> geekyarthurs
+			</a><br/>
+			Mahesh C. Regmi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu, Nepal</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a href="https://github.com/BijanRegmi">
 				<img src="https://avatars.githubusercontent.com/u/55084653?s=72&u=75cf04eac3bb274b9ef0de089f7eb9561717a454&v=4" width="24" alt="Avatar of BijanRegmi"> BijanRegmi
 			</a><br/>
@@ -2510,7 +2523,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/bhuwanadhikari">
 				<img src="https://avatars.githubusercontent.com/u/30122001?s=72&u=b7c30dd9f635b828591c39ec8dcb20e22d97a203&v=4" width="24" alt="Avatar of bhuwanadhikari"> bhuwanadhikari
@@ -2523,7 +2536,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/hari">
 				<img src="https://avatars.githubusercontent.com/u/17984567?s=72&u=f8d2eb7bed14d522ce9de719e26f18092187b217&v=4" width="24" alt="Avatar of hari"> hari
@@ -2536,7 +2549,7 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/shrawanx">
 				<img src="https://avatars.githubusercontent.com/u/12774157?s=72&u=081d831f0624c08bcd409cf225ca004d24090050&v=4" width="24" alt="Avatar of shrawanx"> shrawanx
@@ -2546,19 +2559,6 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/shrawanx">shrawanx</a></td>
 		<td>Nepal</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/geekyarthurs">
-				<img src="https://avatars.githubusercontent.com/u/36955694?s=72&u=2a526f0eef0d22a39cc5d679fd9b98e97d2d88d9&v=4" width="24" alt="Avatar of geekyarthurs"> geekyarthurs
-			</a><br/>
-			Mahesh C. Regmi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu, Nepal</td>
 		<td>84</td>
 	</tr>
 	<tr>
@@ -5580,19 +5580,6 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>422</td>
 		<td>
-			<a href="https://github.com/dipbazz">
-				<img src="https://avatars.githubusercontent.com/u/33461005?s=72&u=d84e0ede432f58114e15a9e0cae1f9db6b7dffd7&v=4" width="24" alt="Avatar of dipbazz"> dipbazz
-			</a><br/>
-			Dipesh Bajgain
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/dipbazz">dipbazz</a></td>
-		<td>Nepal</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
 			<a href="https://github.com/HackerajOfficial">
 				<img src="https://avatars.githubusercontent.com/u/46445015?s=72&u=ec05380a2ff2385816bc250b38f79851883f1874&v=4" width="24" alt="Avatar of HackerajOfficial"> HackerajOfficial
 			</a><br/>
@@ -5601,6 +5588,19 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NEPAL</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/dipbazz">
+				<img src="https://avatars.githubusercontent.com/u/33461005?s=72&u=d84e0ede432f58114e15a9e0cae1f9db6b7dffd7&v=4" width="24" alt="Avatar of dipbazz"> dipbazz
+			</a><br/>
+			Dipesh Bajgain
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/dipbazz">dipbazz</a></td>
+		<td>Nepal</td>
 		<td>51</td>
 	</tr>
 	<tr>
