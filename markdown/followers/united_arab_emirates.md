@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/5/16 6:54 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/5/18 5:28 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>405</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -206,7 +206,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Sharjah Art Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah / Manama</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -393,19 +393,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/ShuaibAshroff">
-				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
-			</a><br/>
-			Shuaib Ashroff
-		</td>
-		<td>Emirates Airlines It </td>
-		<td>No Twitter Username</td>
-		<td>Dubai - UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/nabeelshah96">
 				<img src="https://avatars.githubusercontent.com/u/21284713?s=72&u=dc86b3932148950c809c5a21b361073bd1947b01&v=4" width="24" alt="Avatar of nabeelshah96"> nabeelshah96
 			</a><br/>
@@ -414,6 +401,19 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/ShuaibAshroff">
+				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
+			</a><br/>
+			Shuaib Ashroff
+		</td>
+		<td>Emirates Airlines It </td>
+		<td>No Twitter Username</td>
+		<td>Dubai - UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
