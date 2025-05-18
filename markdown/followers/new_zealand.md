@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `number of followers` of users in New Zealand on `2025/5/18 12:04 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `number of followers` of users in New Zealand on `2025/5/18 1:24 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -744,19 +744,6 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>50</td>
 		<td>
-			<a href="https://github.com/ChrisPritchard">
-				<img src="https://avatars.githubusercontent.com/u/30073148?s=72&u=4d6921d08bd6c2d4c806aaae8a6589dd1000912e&v=4" width="24" alt="Avatar of ChrisPritchard"> ChrisPritchard
-			</a><br/>
-			Christopher Pritchard
-		</td>
-		<td>Flux Federation </td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>292</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
 			<a href="https://github.com/mixmix">
 				<img src="https://avatars.githubusercontent.com/u/2665886?s=72&u=cdd5bb1097fe6f0c3180388fd9d25989697e60ab&v=4" width="24" alt="Avatar of mixmix"> mixmix
 			</a><br/>
@@ -765,6 +752,19 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>@protozoa-nz  </td>
 		<td>No Twitter Username</td>
 		<td>wellington, new zealand</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/ChrisPritchard">
+				<img src="https://avatars.githubusercontent.com/u/30073148?s=72&u=4d6921d08bd6c2d4c806aaae8a6589dd1000912e&v=4" width="24" alt="Avatar of ChrisPritchard"> ChrisPritchard
+			</a><br/>
+			Christopher Pritchard
+		</td>
+		<td>Flux Federation </td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
 		<td>291</td>
 	</tr>
 	<tr>
@@ -791,7 +791,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Nonce, Inc. / @nonce-inc<br/></td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
-		<td>286</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -934,7 +934,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Enspiral </td>
 		<td><a href="https://twitter.com/joshuavial">joshuavial</a></td>
 		<td>Wellington, New Zealand</td>
-		<td>235</td>
+		<td>236</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -7465,12 +7465,12 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>567</td>
 		<td>
-			<a href="https://github.com/lourencofelipe">
-				<img src="https://avatars.githubusercontent.com/u/27788905?s=72&u=c18de50c1cf2940bd0e9921722d849db91cf7727&v=4" width="24" alt="Avatar of lourencofelipe"> lourencofelipe
+			<a href="https://github.com/Meloyg">
+				<img src="https://avatars.githubusercontent.com/u/62586556?s=72&u=cbcc48d6eeb46e1d8f149ee7289bac77576faa8a&v=4" width="24" alt="Avatar of Meloyg"> Meloyg
 			</a><br/>
-			Felipe Lourenço
+			Melo Y Guan
 		</td>
-		<td>No Company</td>
+		<td>Y&g Tech </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>33</td>
@@ -7478,12 +7478,12 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>568</td>
 		<td>
-			<a href="https://github.com/Meloyg">
-				<img src="https://avatars.githubusercontent.com/u/62586556?s=72&u=cbcc48d6eeb46e1d8f149ee7289bac77576faa8a&v=4" width="24" alt="Avatar of Meloyg"> Meloyg
+			<a href="https://github.com/lourencofelipe">
+				<img src="https://avatars.githubusercontent.com/u/27788905?s=72&u=c18de50c1cf2940bd0e9921722d849db91cf7727&v=4" width="24" alt="Avatar of lourencofelipe"> lourencofelipe
 			</a><br/>
-			Melo Y Guan
+			Felipe Lourenço
 		</td>
-		<td>Y&g Tech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>33</td>
