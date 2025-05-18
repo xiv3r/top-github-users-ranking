@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` and `private contributions` by users in New Zealand on `2025/5/18 1:24 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` and `private contributions` by users in New Zealand on `2025/5/18 1:36 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>115</td>
-		<td>4441</td>
+		<td>4442</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -719,7 +719,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td><a href="https://twitter.com/XiliangChen">XiliangChen</a></td>
 		<td>Auckland</td>
 		<td>1890</td>
-		<td>2473</td>
+		<td>2474</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -1320,8 +1320,8 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Data Scientist </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
-		<td>955</td>
-		<td>1664</td>
+		<td>957</td>
+		<td>1666</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -2007,7 +2007,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>4</td>
-		<td>1204</td>
+		<td>1207</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -3930,6 +3930,20 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>274</td>
 		<td>
+			<a href="https://github.com/opdev1004">
+				<img src="https://avatars.githubusercontent.com/u/26009893?s=72&u=82571f4122025aac977ee36e18100c0307b5746d&v=4" width="24" alt="Avatar of opdev1004"> opdev1004
+			</a><br/>
+			Victor Chanil Park
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
+		<td>601</td>
+		<td>627</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
 			<a href="https://github.com/ageron">
 				<img src="https://avatars.githubusercontent.com/u/76661?s=72&u=17625332ee893e07c693eb161847907c21275821&v=4" width="24" alt="Avatar of ageron"> ageron
 			</a><br/>
@@ -3940,20 +3954,6 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Auckland</td>
 		<td>624</td>
 		<td>624</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/opdev1004">
-				<img src="https://avatars.githubusercontent.com/u/26009893?s=72&u=82571f4122025aac977ee36e18100c0307b5746d&v=4" width="24" alt="Avatar of opdev1004"> opdev1004
-			</a><br/>
-			Victor Chanil Park
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>597</td>
-		<td>623</td>
 	</tr>
 	<tr>
 		<td>276</td>
@@ -5339,7 +5339,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>109</td>
-		<td>339</td>
+		<td>340</td>
 	</tr>
 	<tr>
 		<td>375</td>
@@ -5633,7 +5633,7 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>0</td>
-		<td>290</td>
+		<td>292</td>
 	</tr>
 	<tr>
 		<td>396</td>
@@ -7822,6 +7822,20 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>552</td>
 		<td>
+			<a href="https://github.com/Meloyg">
+				<img src="https://avatars.githubusercontent.com/u/62586556?s=72&u=cbcc48d6eeb46e1d8f149ee7289bac77576faa8a&v=4" width="24" alt="Avatar of Meloyg"> Meloyg
+			</a><br/>
+			Melo Y Guan
+		</td>
+		<td>Y&g Tech </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
+		<td>29</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
 			<a href="https://github.com/alexjbush">
 				<img src="https://avatars.githubusercontent.com/u/6716812?s=72&u=12be4759b0a8339c39052336f63787151ada23b6&v=4" width="24" alt="Avatar of alexjbush"> alexjbush
 			</a><br/>
@@ -7832,20 +7846,6 @@ There are `967 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Wellington, NZ</td>
 		<td>45</td>
 		<td>75</td>
-	</tr>
-	<tr>
-		<td>553</td>
-		<td>
-			<a href="https://github.com/Meloyg">
-				<img src="https://avatars.githubusercontent.com/u/62586556?s=72&u=cbcc48d6eeb46e1d8f149ee7289bac77576faa8a&v=4" width="24" alt="Avatar of Meloyg"> Meloyg
-			</a><br/>
-			Melo Y Guan
-		</td>
-		<td>Y&g Tech </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>28</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>554</td>
