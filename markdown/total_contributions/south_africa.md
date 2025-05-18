@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` and `private contributions` by users in South Africa on `2025/5/18 10:55 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` and `private contributions` by users in South Africa on `2025/5/18 11:04 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -892,6 +892,20 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/TheRealMasterK">
+				<img src="https://avatars.githubusercontent.com/u/85064930?s=72&u=156310af9bc9e06b700139e881dfc58c4896bbae&v=4" width="24" alt="Avatar of TheRealMasterK"> TheRealMasterK
+			</a><br/>
+			Master K
+		</td>
+		<td>Web3 Dao </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>3</td>
+		<td>2172</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/stringhandler">
 				<img src="https://avatars.githubusercontent.com/u/4200336?s=72&u=e2d98188e7bca0975d9b8484981022486c608990&v=4" width="24" alt="Avatar of stringhandler"> stringhandler
 			</a><br/>
@@ -902,20 +916,6 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>Johannesburg, South Africa</td>
 		<td>2169</td>
 		<td>2169</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/TheRealMasterK">
-				<img src="https://avatars.githubusercontent.com/u/85064930?s=72&u=156310af9bc9e06b700139e881dfc58c4896bbae&v=4" width="24" alt="Avatar of TheRealMasterK"> TheRealMasterK
-			</a><br/>
-			Master K
-		</td>
-		<td>Web3 Dao </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>3</td>
-		<td>2168</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1573,7 +1573,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td><a href="https://twitter.com/inventinred">inventinred</a></td>
 		<td>Johannesburg, South Africa</td>
 		<td>135</td>
-		<td>1307</td>
+		<td>1308</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -3645,7 +3645,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td><a href="https://twitter.com/louissmit_">louissmit_</a></td>
 		<td>Cape Town, South Africa</td>
 		<td>25</td>
-		<td>470</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>254</td>

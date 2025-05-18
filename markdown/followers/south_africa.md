@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `number of followers` of users in South Africa on `2025/5/18 10:55 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `number of followers` of users in South Africa on `2025/5/18 11:04 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2889,6 +2889,19 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 	<tr>
 		<td>215</td>
 		<td>
+			<a href="https://github.com/Nkosinathi-dev1">
+				<img src="https://avatars.githubusercontent.com/u/69791210?s=72&u=2b506cf0d7117a53d15083daec2aa67376583565&v=4" width="24" alt="Avatar of Nkosinathi-dev1"> Nkosinathi-dev1
+			</a><br/>
+			Nkosinathi Ngele
+		</td>
+		<td>Sethala </td>
+		<td>No Twitter Username</td>
+		<td>South Africa, Gauteng, Johannesburg, Midrand</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
 			<a href="https://github.com/boris-kolpackov">
 				<img src="https://avatars.githubusercontent.com/u/31799599?s=72&u=a53de72ba0efe9f3720f4fbb36ea6dbf7d0506c7&v=4" width="24" alt="Avatar of boris-kolpackov"> boris-kolpackov
 			</a><br/>
@@ -2900,7 +2913,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/GundamDweeb">
 				<img src="https://avatars.githubusercontent.com/u/42357713?s=72&u=ce57f6a15aa9bc2fa46ce7e22fa56ce10b0e89b4&v=4" width="24" alt="Avatar of GundamDweeb"> GundamDweeb
@@ -2913,7 +2926,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/zeorin">
 				<img src="https://avatars.githubusercontent.com/u/1187078?s=72&v=4" width="24" alt="Avatar of zeorin"> zeorin
@@ -2926,7 +2939,7 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/bazileros">
 				<img src="https://avatars.githubusercontent.com/u/125132613?s=72&u=09cda009b1882f9332a57910f153ad2ee9b03560&v=4" width="24" alt="Avatar of bazileros"> bazileros
@@ -2936,19 +2949,6 @@ There are `972 users`  in South Africa. You need at least `17 followers` to be o
 		<td>Codewitheros </td>
 		<td>No Twitter Username</td>
 		<td>Johannesburg, South Africa</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/Nkosinathi-dev1">
-				<img src="https://avatars.githubusercontent.com/u/69791210?s=72&u=2b506cf0d7117a53d15083daec2aa67376583565&v=4" width="24" alt="Avatar of Nkosinathi-dev1"> Nkosinathi-dev1
-			</a><br/>
-			Nkosinathi Ngele
-		</td>
-		<td>Sethala </td>
-		<td>No Twitter Username</td>
-		<td>South Africa, Gauteng, Johannesburg, Midrand</td>
 		<td>53</td>
 	</tr>
 	<tr>
