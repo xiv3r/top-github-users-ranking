@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/5/18 11:49 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/5/18 12:00 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -229,7 +229,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
 		<td>38</td>
-		<td>6589</td>
+		<td>6590</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -929,7 +929,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Republic of Korea, Seoul</td>
 		<td>292</td>
-		<td>2982</td>
+		<td>2988</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -2441,7 +2441,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Korea</td>
 		<td>401</td>
-		<td>1596</td>
+		<td>1597</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -3351,7 +3351,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Korea</td>
 		<td>33</td>
-		<td>1176</td>
+		<td>1178</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3938,8 +3938,8 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>@woowacourse </td>
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
-		<td>968</td>
-		<td>996</td>
+		<td>969</td>
+		<td>997</td>
 	</tr>
 	<tr>
 		<td>275</td>
@@ -5717,7 +5717,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Korea, Seoul</td>
 		<td>168</td>
-		<td>571</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>402</td>
