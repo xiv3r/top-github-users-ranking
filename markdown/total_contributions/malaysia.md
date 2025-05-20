@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` and `private contributions` by users in Malaysia on `2025/5/19 11:59 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` and `private contributions` by users in Malaysia on `2025/5/20 12:07 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2348,6 +2348,20 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 	<tr>
 		<td>161</td>
 		<td>
+			<a href="https://github.com/data-gov-my">
+				<img src="https://avatars.githubusercontent.com/u/127065101?s=72&u=0f2af2f4dad0254e24bd6b7e125e4379e72c37b3&v=4" width="24" alt="Avatar of data-gov-my"> data-gov-my
+			</a><br/>
+			data.gov.my
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Putrajaya, Malaysia</td>
+		<td>806</td>
+		<td>806</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
 			<a href="https://github.com/sumardi">
 				<img src="https://avatars.githubusercontent.com/u/315603?s=72&v=4" width="24" alt="Avatar of sumardi"> sumardi
 			</a><br/>
@@ -2358,20 +2372,6 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>Cyberjaya, Malaysia</td>
 		<td>6</td>
 		<td>806</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/data-gov-my">
-				<img src="https://avatars.githubusercontent.com/u/127065101?s=72&u=0f2af2f4dad0254e24bd6b7e125e4379e72c37b3&v=4" width="24" alt="Avatar of data-gov-my"> data-gov-my
-			</a><br/>
-			data.gov.my
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Putrajaya, Malaysia</td>
-		<td>805</td>
-		<td>805</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -4882,6 +4882,20 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 	<tr>
 		<td>342</td>
 		<td>
+			<a href="https://github.com/rhidoyhasanmahmud">
+				<img src="https://avatars.githubusercontent.com/u/21336974?s=72&u=7fc5500d0540a24f0684fba8439cc42bee74be87&v=4" width="24" alt="Avatar of rhidoyhasanmahmud"> rhidoyhasanmahmud
+			</a><br/>
+			Hasan Mahmud Rhidoy
+		</td>
+		<td>@moneylion </td>
+		<td><a href="https://twitter.com/RhidoyMahmud">RhidoyMahmud</a></td>
+		<td>Malaysia</td>
+		<td>105</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
 			<a href="https://github.com/zubir2k">
 				<img src="https://avatars.githubusercontent.com/u/1905339?s=72&u=f01c0da908286cd701d4cdb97e5cc9e9333bf56c&v=4" width="24" alt="Avatar of zubir2k"> zubir2k
 			</a><br/>
@@ -4894,7 +4908,7 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/datgai">
 				<img src="https://avatars.githubusercontent.com/u/23694752?s=72&u=75556b17c386434b8db1d050bcb5a09a49404900&v=4" width="24" alt="Avatar of datgai"> datgai
@@ -4906,20 +4920,6 @@ There are `975 users`  in Malaysia. You need at least `21 followers` to be on th
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>132</td>
 		<td>310</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/rhidoyhasanmahmud">
-				<img src="https://avatars.githubusercontent.com/u/21336974?s=72&u=7fc5500d0540a24f0684fba8439cc42bee74be87&v=4" width="24" alt="Avatar of rhidoyhasanmahmud"> rhidoyhasanmahmud
-			</a><br/>
-			Hasan Mahmud Rhidoy
-		</td>
-		<td>@moneylion </td>
-		<td><a href="https://twitter.com/RhidoyMahmud">RhidoyMahmud</a></td>
-		<td>Malaysia</td>
-		<td>103</td>
-		<td>309</td>
 	</tr>
 	<tr>
 		<td>345</td>
