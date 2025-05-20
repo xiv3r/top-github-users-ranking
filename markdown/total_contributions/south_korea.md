@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/5/20 5:57 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/5/20 6:07 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1293,7 +1293,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul GwangJin</td>
 		<td>42</td>
-		<td>2397</td>
+		<td>2398</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1559,7 +1559,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul</td>
 		<td>112</td>
-		<td>2240</td>
+		<td>2241</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -2860,8 +2860,8 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>@daangn </td>
 		<td><a href="https://twitter.com/KrComet">KrComet</a></td>
 		<td>Seoul</td>
-		<td>906</td>
-		<td>1339</td>
+		<td>907</td>
+		<td>1340</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -6100,6 +6100,20 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 	<tr>
 		<td>429</td>
 		<td>
+			<a href="https://github.com/xvzc">
+				<img src="https://avatars.githubusercontent.com/u/45588457?s=72&u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4" width="24" alt="Avatar of xvzc"> xvzc
+			</a><br/>
+			.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul, South Korea</td>
+		<td>432</td>
+		<td>489</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
 			<a href="https://github.com/seokju-na">
 				<img src="https://avatars.githubusercontent.com/u/13250888?s=72&u=186e3515a6493f782e9499f0d595541e67699627&v=4" width="24" alt="Avatar of seokju-na"> seokju-na
 			</a><br/>
@@ -6109,20 +6123,6 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
 		<td>452</td>
-		<td>488</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
-			<a href="https://github.com/xvzc">
-				<img src="https://avatars.githubusercontent.com/u/45588457?s=72&u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4" width="24" alt="Avatar of xvzc"> xvzc
-			</a><br/>
-			.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul, South Korea</td>
-		<td>431</td>
 		<td>488</td>
 	</tr>
 	<tr>
@@ -8144,6 +8144,20 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 	<tr>
 		<td>575</td>
 		<td>
+			<a href="https://github.com/darjeeling">
+				<img src="https://avatars.githubusercontent.com/u/52967?s=72&v=4" width="24" alt="Avatar of darjeeling"> darjeeling
+			</a><br/>
+			Kwon-Han Bae
+		</td>
+		<td>Linecorp </td>
+		<td>No Twitter Username</td>
+		<td>Seoul, Korea</td>
+		<td>207</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
 			<a href="https://github.com/itsnamgyu">
 				<img src="https://avatars.githubusercontent.com/u/23400562?s=72&u=bdd77c7aa59a82fa603f553e91da1bb9342fb6a4&v=4" width="24" alt="Avatar of itsnamgyu"> itsnamgyu
 			</a><br/>
@@ -8154,20 +8168,6 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>Seoul, Korea</td>
 		<td>76</td>
 		<td>207</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/darjeeling">
-				<img src="https://avatars.githubusercontent.com/u/52967?s=72&v=4" width="24" alt="Avatar of darjeeling"> darjeeling
-			</a><br/>
-			Kwon-Han Bae
-		</td>
-		<td>Linecorp </td>
-		<td>No Twitter Username</td>
-		<td>Seoul, Korea</td>
-		<td>206</td>
-		<td>206</td>
 	</tr>
 	<tr>
 		<td>577</td>

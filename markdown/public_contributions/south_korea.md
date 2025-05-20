@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` by users in South Korea on `2025/5/20 5:57 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` by users in South Korea on `2025/5/20 6:07 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1142,7 +1142,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>@daangn </td>
 		<td><a href="https://twitter.com/KrComet">KrComet</a></td>
 		<td>Seoul</td>
-		<td>906</td>
+		<td>907</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -2442,7 +2442,7 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>431</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -4059,6 +4059,19 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 	<tr>
 		<td>305</td>
 		<td>
+			<a href="https://github.com/darjeeling">
+				<img src="https://avatars.githubusercontent.com/u/52967?s=72&v=4" width="24" alt="Avatar of darjeeling"> darjeeling
+			</a><br/>
+			Kwon-Han Bae
+		</td>
+		<td>Linecorp </td>
+		<td>No Twitter Username</td>
+		<td>Seoul, Korea</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
 			<a href="https://github.com/mysticfall">
 				<img src="https://avatars.githubusercontent.com/u/2367032?s=72&u=f0902182ea08b98a3995e30728592840a83f1735&v=4" width="24" alt="Avatar of mysticfall"> mysticfall
 			</a><br/>
@@ -4068,19 +4081,6 @@ There are `981 users`  in South Korea. You need at least `106 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
 		<td>207</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/darjeeling">
-				<img src="https://avatars.githubusercontent.com/u/52967?s=72&v=4" width="24" alt="Avatar of darjeeling"> darjeeling
-			</a><br/>
-			Kwon-Han Bae
-		</td>
-		<td>Linecorp </td>
-		<td>No Twitter Username</td>
-		<td>Seoul, Korea</td>
-		<td>206</td>
 	</tr>
 	<tr>
 		<td>307</td>
