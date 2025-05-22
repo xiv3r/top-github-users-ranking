@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2025/5/22 7:38 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2025/5/22 8:43 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -874,6 +874,19 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>60</td>
 		<td>
+			<a href="https://github.com/zaqoutabed">
+				<img src="https://avatars.githubusercontent.com/u/26047413?s=72&u=0cb946ffc621cc511af47a3413181375b3a144f8&v=4" width="24" alt="Avatar of zaqoutabed"> zaqoutabed
+			</a><br/>
+			Abdallah A. Zaqout
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abdallahzaqout0">abdallahzaqout0</a></td>
+		<td>Gaza, Palestine</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
 			<a href="https://github.com/osamamohammed98">
 				<img src="https://avatars.githubusercontent.com/u/27555246?s=72&u=e123c584cb4046155c6f772c943c5a4659f2a961&v=4" width="24" alt="Avatar of osamamohammed98"> osamamohammed98
 			</a><br/>
@@ -883,19 +896,6 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td><a href="https://twitter.com/om107547">om107547</a></td>
 		<td>Gaza</td>
 		<td>61</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/zaqoutabed">
-				<img src="https://avatars.githubusercontent.com/u/26047413?s=72&u=0cb946ffc621cc511af47a3413181375b3a144f8&v=4" width="24" alt="Avatar of zaqoutabed"> zaqoutabed
-			</a><br/>
-			Abdallah A. Zaqout
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abdallahzaqout0">abdallahzaqout0</a></td>
-		<td>Gaza, Palestine</td>
-		<td>60</td>
 	</tr>
 	<tr>
 		<td>62</td>

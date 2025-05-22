@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` by users in Palestine on `2025/5/22 7:38 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` by users in Palestine on `2025/5/22 8:43 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1376,7 +1376,7 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>Birzeit University </td>
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
-		<td>210</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -2551,6 +2551,19 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>189</td>
 		<td>
+			<a href="https://github.com/lanaHamayel5">
+				<img src="https://avatars.githubusercontent.com/u/137722537?s=72&v=4" width="24" alt="Avatar of lanaHamayel5"> lanaHamayel5
+			</a><br/>
+			Lana Hamayel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
 			<a href="https://github.com/RoaNafi">
 				<img src="https://avatars.githubusercontent.com/u/132950905?s=72&u=f35121a4e186435f73ee041cbc2261a787ce3454&v=4" width="24" alt="Avatar of RoaNafi"> RoaNafi
 			</a><br/>
@@ -2562,25 +2575,12 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/bessantomeh">
 				<img src="https://avatars.githubusercontent.com/u/101426292?s=72&v=4" width="24" alt="Avatar of bessantomeh"> bessantomeh
 			</a><br/>
 			bessan-tomeh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/lanaHamayel5">
-				<img src="https://avatars.githubusercontent.com/u/137722537?s=72&v=4" width="24" alt="Avatar of lanaHamayel5"> lanaHamayel5
-			</a><br/>
-			Lana Hamayel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
