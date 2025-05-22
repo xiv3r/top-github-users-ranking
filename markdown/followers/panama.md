@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `number of followers` of users in Panama on `2025/5/22 9:02 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `number of followers` of users in Panama on `2025/5/22 9:11 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
