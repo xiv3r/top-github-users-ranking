@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/5/20 9:44 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/5/23 10:10 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai - UAE</td>
 		<td>0</td>
-		<td>202</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>13</td>
-		<td>50</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -164,6 +164,20 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>5</td>
 		<td>
+			<a href="https://github.com/umar4sap">
+				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
+			</a><br/>
+			Mohammad Umar
+		</td>
+		<td>@emirates </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>40</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
 			<a href="https://github.com/nadeemgori2">
 				<img src="https://avatars.githubusercontent.com/u/25431203?s=72&u=041f45c49a2404b7ef44aba8f9efb70503611b94&v=4" width="24" alt="Avatar of nadeemgori2"> nadeemgori2
 			</a><br/>
@@ -174,20 +188,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Dubai</td>
 		<td>38</td>
 		<td>38</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/umar4sap">
-				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
-			</a><br/>
-			Mohammad Umar
-		</td>
-		<td>@emirates </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>37</td>
-		<td>37</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -276,6 +276,20 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/imluckyhussain">
+				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
+			</a><br/>
+			Mubaraque Hussain
+		</td>
+		<td>@emirates </td>
+		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
+		<td>Dubai</td>
+		<td>0</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/aquaexpertswatertreatment">
 				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
 			</a><br/>
@@ -286,20 +300,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>2</td>
 		<td>2</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/imluckyhussain">
-				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
-			</a><br/>
-			Mubaraque Hussain
-		</td>
-		<td>@emirates </td>
-		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
-		<td>Dubai</td>
-		<td>0</td>
-		<td>1</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -402,20 +402,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/unitedmoversdubai">
-				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
-			</a><br/>
-			Office Movers in Dubai
-		</td>
-		<td>United Movers Dubai </td>
-		<td>No Twitter Username</td>
-		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/madbrickstudio">
 				<img src="https://avatars.githubusercontent.com/u/210826651?s=72&u=fc752be1fa8ebdcc2b6ae5253dfae163e5fa8584&v=4" width="24" alt="Avatar of madbrickstudio"> madbrickstudio
 			</a><br/>
@@ -424,6 +410,20 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>971585823249 </td>
 		<td>No Twitter Username</td>
 		<td>Dubai Silicon Oasis, DDP, Building A2, Dubai, Unted Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/unitedmoversdubai">
+				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			</a><br/>
+			Office Movers in Dubai
+		</td>
+		<td>United Movers Dubai </td>
+		<td>No Twitter Username</td>
+		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -444,20 +444,6 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/quicktaxation">
-				<img src="https://avatars.githubusercontent.com/u/210894834?s=72&u=d645ff297f9f68f6209fd9484facb044d5067b7c&v=4" width="24" alt="Avatar of quicktaxation"> quicktaxation
-			</a><br/>
-			Quick Taxation - Tax Consultant in UAE
-		</td>
-		<td>@quick-taxation-tax-  </td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
 			<a href="https://github.com/fgwilsonuae">
 				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
 			</a><br/>
@@ -470,21 +456,21 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
-			<a href="https://github.com/wismarine">
-				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			<a href="https://github.com/quicktaxation">
+				<img src="https://avatars.githubusercontent.com/u/210894834?s=72&u=d645ff297f9f68f6209fd9484facb044d5067b7c&v=4" width="24" alt="Avatar of quicktaxation"> quicktaxation
 			</a><br/>
-			Wismar Heavy Equipment Trading L.L.C
+			Quick Taxation - Tax Consultant in UAE
 		</td>
-		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>@quick-taxation-tax-  </td>
 		<td>No Twitter Username</td>
-		<td>PO Box: 23909 Sharjah, UAE</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/goldrateindubai">
 				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
@@ -494,6 +480,20 @@ There are `79 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Gold Rate In Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/wismarine">
+				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			</a><br/>
+			Wismar Heavy Equipment Trading L.L.C
+		</td>
+		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>No Twitter Username</td>
+		<td>PO Box: 23909 Sharjah, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
