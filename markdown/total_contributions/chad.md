@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2025/5/21 11:29 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2025/5/23 9:20 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `157 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>818</td>
-		<td>1711</td>
+		<td>819</td>
+		<td>1714</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,11 +130,25 @@ There are `157 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ashesi University </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>564</td>
-		<td>564</td>
+		<td>570</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>3</td>
+		<td>
+			<a href="https://github.com/malachieborohoul">
+				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
+			</a><br/>
+			BOROHOUL Soguelni Malachie
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
+		<td>Chad</td>
+		<td>361</td>
+		<td>553</td>
+	</tr>
+	<tr>
+		<td>4</td>
 		<td>
 			<a href="https://github.com/Kakaymi10">
 				<img src="https://avatars.githubusercontent.com/u/109428479?s=72&u=730be7c7c254c9ff50873949a71a7bdb7d74ef32&v=4" width="24" alt="Avatar of Kakaymi10"> Kakaymi10
@@ -148,20 +162,6 @@ There are `157 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>550</td>
 	</tr>
 	<tr>
-		<td>4</td>
-		<td>
-			<a href="https://github.com/malachieborohoul">
-				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
-			</a><br/>
-			BOROHOUL Soguelni Malachie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
-		<td>Chad</td>
-		<td>357</td>
-		<td>549</td>
-	</tr>
-	<tr>
 		<td>5</td>
 		<td>
 			<a href="https://github.com/beria-kalpelbe">
@@ -173,7 +173,7 @@ There are `157 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/beriakalpelbe21">beriakalpelbe21</a></td>
 		<td>NDjamena, Chad</td>
 		<td>84</td>
-		<td>277</td>
+		<td>281</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -229,7 +229,7 @@ There are `157 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
 		<td>0</td>
-		<td>64</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>10</td>
