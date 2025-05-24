@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/135px-Flag_of_Cuba.svg.png" alt="Cuba">
 </a>
 
-The `public contributions` by users in Cuba on `2025/5/24 2:36 AM UTC`. This list contains users from `Cuba` and cities.
+The `public contributions` by users in Cuba on `2025/5/24 2:46 AM UTC`. This list contains users from `Cuba` and cities.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1550,25 +1550,25 @@ There are `910 users`  in Cuba. You need at least `1 followers` to be on this li
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/Tnoob-dev">
-				<img src="https://avatars.githubusercontent.com/u/93684341?s=72&u=6b16e1ec716daf7c1f26a10064d024adef4507bf&v=4" width="24" alt="Avatar of Tnoob-dev"> Tnoob-dev
-			</a><br/>
-			Cristian Manuel de León Monzón
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
 			<a href="https://github.com/kaelthasmanu">
 				<img src="https://avatars.githubusercontent.com/u/39976595?s=72&u=773265f7e42b36f1842329905e5932e6cfdf70f5&v=4" width="24" alt="Avatar of kaelthasmanu"> kaelthasmanu
 			</a><br/>
 			Kaelthas
 		</td>
 		<td>Universidad De Matanzas </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/Tnoob-dev">
+				<img src="https://avatars.githubusercontent.com/u/93684341?s=72&u=6b16e1ec716daf7c1f26a10064d024adef4507bf&v=4" width="24" alt="Avatar of Tnoob-dev"> Tnoob-dev
+			</a><br/>
+			Cristian Manuel de León Monzón
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
 		<td>154</td>

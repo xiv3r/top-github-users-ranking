@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/135px-Flag_of_Cuba.svg.png" alt="Cuba">
 </a>
 
-The `public contributions` and `private contributions` by users in Cuba on `2025/5/24 2:36 AM UTC`. This list contains users from `Cuba` and cities.
+The `public contributions` and `private contributions` by users in Cuba on `2025/5/24 2:46 AM UTC`. This list contains users from `Cuba` and cities.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2404,6 +2404,20 @@ There are `910 users`  in Cuba. You need at least `1 followers` to be on this li
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/kaelthasmanu">
+				<img src="https://avatars.githubusercontent.com/u/39976595?s=72&u=773265f7e42b36f1842329905e5932e6cfdf70f5&v=4" width="24" alt="Avatar of kaelthasmanu"> kaelthasmanu
+			</a><br/>
+			Kaelthas
+		</td>
+		<td>Universidad De Matanzas </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>155</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/PavelCode5426">
 				<img src="https://avatars.githubusercontent.com/u/86220820?s=72&u=859398962113fe9d78c9548fce45436c296cd026&v=4" width="24" alt="Avatar of PavelCode5426"> PavelCode5426
 			</a><br/>
@@ -2416,7 +2430,7 @@ There are `910 users`  in Cuba. You need at least `1 followers` to be on this li
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/VictorH028">
 				<img src="https://avatars.githubusercontent.com/u/117833298?s=72&u=d910f4f686d2b463d7c8bbbb982cee366d5cb2cf&v=4" width="24" alt="Avatar of VictorH028"> VictorH028
@@ -2427,20 +2441,6 @@ There are `910 users`  in Cuba. You need at least `1 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
 		<td>300</td>
-		<td>300</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/kaelthasmanu">
-				<img src="https://avatars.githubusercontent.com/u/39976595?s=72&u=773265f7e42b36f1842329905e5932e6cfdf70f5&v=4" width="24" alt="Avatar of kaelthasmanu"> kaelthasmanu
-			</a><br/>
-			Kaelthas
-		</td>
-		<td>Universidad De Matanzas </td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>154</td>
 		<td>300</td>
 	</tr>
 	<tr>
