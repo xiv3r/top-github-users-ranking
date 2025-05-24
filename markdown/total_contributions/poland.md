@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` and `private contributions` by users in Poland on `2025/5/24 9:51 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` and `private contributions` by users in Poland on `2025/5/24 10:01 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -201,7 +201,7 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/wojtekmaj91">wojtekmaj91</a></td>
 		<td>Kraków, Poland</td>
 		<td>1958</td>
-		<td>8600</td>
+		<td>8602</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -425,7 +425,7 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/simek">simek</a></td>
 		<td>Gdańsk, Poland</td>
 		<td>2052</td>
-		<td>4219</td>
+		<td>4221</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -1670,8 +1670,8 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>Fontlab Ltd. </td>
 		<td><a href="https://twitter.com/adamtwar">adamtwar</a></td>
 		<td>Gdańsk, Polans</td>
-		<td>1399</td>
-		<td>1771</td>
+		<td>1400</td>
+		<td>1772</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -2880,6 +2880,20 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/Tuhaj">
+				<img src="https://avatars.githubusercontent.com/u/6118271?s=72&u=8380732ebdce0401fec9e76c7acd26faf6afae28&v=4" width="24" alt="Avatar of Tuhaj"> Tuhaj
+			</a><br/>
+			Piotr Zientara
+		</td>
+		<td>@xfaang </td>
+		<td><a href="https://twitter.com/piotr_zientara">piotr_zientara</a></td>
+		<td>Warsaw, Poland</td>
+		<td>207</td>
+		<td>1192</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/nurkiewicz">
 				<img src="https://avatars.githubusercontent.com/u/164045?s=72&v=4" width="24" alt="Avatar of nurkiewicz"> nurkiewicz
 			</a><br/>
@@ -2890,20 +2904,6 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>Warsaw</td>
 		<td>368</td>
 		<td>1189</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/Tuhaj">
-				<img src="https://avatars.githubusercontent.com/u/6118271?s=72&u=8380732ebdce0401fec9e76c7acd26faf6afae28&v=4" width="24" alt="Avatar of Tuhaj"> Tuhaj
-			</a><br/>
-			Piotr Zientara
-		</td>
-		<td>@xfaang </td>
-		<td><a href="https://twitter.com/piotr_zientara">piotr_zientara</a></td>
-		<td>Warsaw, Poland</td>
-		<td>207</td>
-		<td>1177</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -3868,8 +3868,8 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>Shopify </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw, Poland</td>
-		<td>551</td>
-		<td>880</td>
+		<td>554</td>
+		<td>883</td>
 	</tr>
 	<tr>
 		<td>270</td>
@@ -4177,7 +4177,7 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kraków, Poland</td>
 		<td>267</td>
-		<td>790</td>
+		<td>792</td>
 	</tr>
 	<tr>
 		<td>292</td>

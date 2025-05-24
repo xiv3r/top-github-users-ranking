@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` by users in Poland on `2025/5/24 9:51 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` by users in Poland on `2025/5/24 10:01 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -856,7 +856,7 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>Fontlab Ltd. </td>
 		<td><a href="https://twitter.com/adamtwar">adamtwar</a></td>
 		<td>Gdańsk, Polans</td>
-		<td>1399</td>
+		<td>1400</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -2429,7 +2429,7 @@ There are `940 users`  in Poland. You need at least `80 followers` to be on this
 		<td>Shopify </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw, Poland</td>
-		<td>551</td>
+		<td>554</td>
 	</tr>
 	<tr>
 		<td>180</td>
