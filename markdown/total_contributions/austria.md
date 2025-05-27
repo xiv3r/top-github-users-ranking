@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `public contributions` and `private contributions` by users in Austria on `2025/5/27 9:48 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `public contributions` and `private contributions` by users in Austria on `2025/5/27 9:57 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `945 users`  in Austria. You need at least `51 followers` to be on thi
 		<td>Ethereum </td>
 		<td><a href="https://twitter.com/nero_eth">nero_eth</a></td>
 		<td>Austria</td>
-		<td>9922</td>
-		<td>9987</td>
+		<td>9923</td>
+		<td>9988</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -5394,7 +5394,7 @@ There are `945 users`  in Austria. You need at least `51 followers` to be on thi
 		<td>Studying Technical Mathematics At<br/>Tu<br/>Vienna<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>294</td>
+		<td>300</td>
 		<td>429</td>
 	</tr>
 	<tr>
@@ -6366,6 +6366,20 @@ There are `945 users`  in Austria. You need at least `51 followers` to be on thi
 	<tr>
 		<td>448</td>
 		<td>
+			<a href="https://github.com/ian-ross">
+				<img src="https://avatars.githubusercontent.com/u/1113720?s=72&v=4" width="24" alt="Avatar of ian-ross"> ian-ross
+			</a><br/>
+			Ian Ross
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Villach, Austria</td>
+		<td>3</td>
+		<td>302</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
 			<a href="https://github.com/manuelsc">
 				<img src="https://avatars.githubusercontent.com/u/5877862?s=72&u=532d8173d2cdc4a0c7c890721094f6a1201e2279&v=4" width="24" alt="Avatar of manuelsc"> manuelsc
 			</a><br/>
@@ -6376,20 +6390,6 @@ There are `945 users`  in Austria. You need at least `51 followers` to be on thi
 		<td>Vienna</td>
 		<td>302</td>
 		<td>302</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/ian-ross">
-				<img src="https://avatars.githubusercontent.com/u/1113720?s=72&v=4" width="24" alt="Avatar of ian-ross"> ian-ross
-			</a><br/>
-			Ian Ross
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Villach, Austria</td>
-		<td>3</td>
-		<td>301</td>
 	</tr>
 	<tr>
 		<td>450</td>
