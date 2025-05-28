@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `number of followers` of users in El Salvador on `2025/5/28 3:04 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `number of followers` of users in El Salvador on `2025/5/28 3:26 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3565,19 +3565,6 @@ There are `984 users`  in El Salvador. You need at least `1 followers` to be on 
 	<tr>
 		<td>267</td>
 		<td>
-			<a href="https://github.com/operezhernandez25">
-				<img src="https://avatars.githubusercontent.com/u/43509435?s=72&u=742e8cd7fbb8930d747a0d7e1a4a3b0cc3c8c375&v=4" width="24" alt="Avatar of operezhernandez25"> operezhernandez25
-			</a><br/>
-			Oscar Perez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Salvador</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
 			<a href="https://github.com/Ferrnavarro">
 				<img src="https://avatars.githubusercontent.com/u/19399578?s=72&u=594dc9bfeefa12092c63666206de889d4bc13afe&v=4" width="24" alt="Avatar of Ferrnavarro"> Ferrnavarro
 			</a><br/>
@@ -3586,6 +3573,19 @@ There are `984 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Salvador, El Salvador</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/operezhernandez25">
+				<img src="https://avatars.githubusercontent.com/u/43509435?s=72&u=742e8cd7fbb8930d747a0d7e1a4a3b0cc3c8c375&v=4" width="24" alt="Avatar of operezhernandez25"> operezhernandez25
+			</a><br/>
+			Oscar Perez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Salvador</td>
 		<td>7</td>
 	</tr>
 	<tr>
