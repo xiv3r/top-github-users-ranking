@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/5/27 5:51 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/5/29 6:45 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>344</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,19 +159,6 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/NiykeeMoore">
-				<img src="https://avatars.githubusercontent.com/u/167813727?s=72&u=f4c7ba7d343c619fe14c07c6e9af7711231eb069&v=4" width="24" alt="Avatar of NiykeeMoore"> NiykeeMoore
-			</a><br/>
-			Vladimir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San-Marino</td>
-		<td>189</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/ACE27rsm">
 				<img src="https://avatars.githubusercontent.com/u/42338212?s=72&u=3eb79deedbcdcc95ba157ea57afeb2db6c687158&v=4" width="24" alt="Avatar of ACE27rsm"> ACE27rsm
 			</a><br/>
@@ -183,7 +170,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/clagenna">
 				<img src="https://avatars.githubusercontent.com/u/3160018?s=72&v=4" width="24" alt="Avatar of clagenna"> clagenna
@@ -196,7 +183,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/MattiaSemproli">
 				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
@@ -209,7 +196,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/jacquelinaWatson">
 				<img src="https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4" width="24" alt="Avatar of jacquelinaWatson"> jacquelinaWatson
@@ -220,6 +207,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>76</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/NiykeeMoore">
+				<img src="https://avatars.githubusercontent.com/u/167813727?s=72&u=f4c7ba7d343c619fe14c07c6e9af7711231eb069&v=4" width="24" alt="Avatar of NiykeeMoore"> NiykeeMoore
+			</a><br/>
+			Vladimir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San-Marino</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -549,19 +549,6 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/ewb-kmok">
-				<img src="https://avatars.githubusercontent.com/u/191641397?s=72&u=c02bd73ed062b54f46afc81c043ca11ef3906573&v=4" width="24" alt="Avatar of ewb-kmok"> ewb-kmok
-			</a><br/>
-			Kelvin Mok (EWB)
-		</td>
-		<td>East West Bank </td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/eneaextera">
 				<img src="https://avatars.githubusercontent.com/u/4630216?s=72&u=25156e3dcc2d0cac70ac197252e3d17d7b6c09e3&v=4" width="24" alt="Avatar of eneaextera"> eneaextera
 			</a><br/>
@@ -570,6 +557,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Extera - Make It<br/>Web<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/ewb-kmok">
+				<img src="https://avatars.githubusercontent.com/u/191641397?s=72&u=c02bd73ed062b54f46afc81c043ca11ef3906573&v=4" width="24" alt="Avatar of ewb-kmok"> ewb-kmok
+			</a><br/>
+			Kelvin Mok (EWB)
+		</td>
+		<td>East West Bank </td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
 		<td>2</td>
 	</tr>
 	<tr>
