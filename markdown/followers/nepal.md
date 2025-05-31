@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `number of followers` of users in Nepal on `2025/5/31 5:53 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `number of followers` of users in Nepal on `2025/5/31 6:17 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1511,19 +1511,6 @@ There are `977 users`  in Nepal. You need at least `30 followers` to be on this 
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/adarshaacharya">
-				<img src="https://avatars.githubusercontent.com/u/50266088?s=72&u=26695c08645674a2e590bea04b8d4d04ece54df7&v=4" width="24" alt="Avatar of adarshaacharya"> adarshaacharya
-			</a><br/>
-			Adarsha Acharya
-		</td>
-		<td>@x3api </td>
-		<td><a href="https://twitter.com/adarsha_ach">adarsha_ach</a></td>
-		<td>Kathmandu, Nepal</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
 			<a href="https://github.com/SusheelThapa">
 				<img src="https://avatars.githubusercontent.com/u/83917129?s=72&u=30770531fdd74656ba00485c5ccd8cd5d5b0a40e&v=4" width="24" alt="Avatar of SusheelThapa"> SusheelThapa
 			</a><br/>
@@ -1535,7 +1522,7 @@ There are `977 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/kcaashish">
 				<img src="https://avatars.githubusercontent.com/u/31175326?s=72&u=9b05c0f54847c3eb4514da500c1adc1f511e9922&v=4" width="24" alt="Avatar of kcaashish"> kcaashish
@@ -1546,6 +1533,19 @@ There are `977 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>124</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/adarshaacharya">
+				<img src="https://avatars.githubusercontent.com/u/50266088?s=72&u=26695c08645674a2e590bea04b8d4d04ece54df7&v=4" width="24" alt="Avatar of adarshaacharya"> adarshaacharya
+			</a><br/>
+			Adarsha Acharya
+		</td>
+		<td>@x3api </td>
+		<td><a href="https://twitter.com/adarsha_ach">adarsha_ach</a></td>
+		<td>Kathmandu, Nepal</td>
+		<td>123</td>
 	</tr>
 	<tr>
 		<td>112</td>
