@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` and `private contributions` by users in Mongolia on `2025/5/31 3:33 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` and `private contributions` by users in Mongolia on `2025/5/31 3:43 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 		<td><a href="https://twitter.com/ByamB4">ByamB4</a></td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>276</td>
-		<td>213864</td>
+		<td>213866</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1480,6 +1480,20 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 	<tr>
 		<td>99</td>
 		<td>
+			<a href="https://github.com/pomegranar">
+				<img src="https://avatars.githubusercontent.com/u/134216031?s=72&u=c12463b92ef90af793a8cfeb673e233e858d9fc5&v=4" width="24" alt="Avatar of pomegranar"> pomegranar
+			</a><br/>
+			Anar Nyambayar
+		</td>
+		<td>Duke Kunshan University </td>
+		<td>No Twitter Username</td>
+		<td>Ulaanbaatar, Mongolia</td>
+		<td>149</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
 			<a href="https://github.com/Tommy9901">
 				<img src="https://avatars.githubusercontent.com/u/171021784?s=72&u=1d68caede637513d6e79e1375445a56e2f809f85&v=4" width="24" alt="Avatar of Tommy9901"> Tommy9901
 			</a><br/>
@@ -1489,20 +1503,6 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Mongolia</td>
 		<td>360</td>
-		<td>360</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/pomegranar">
-				<img src="https://avatars.githubusercontent.com/u/134216031?s=72&u=c12463b92ef90af793a8cfeb673e233e858d9fc5&v=4" width="24" alt="Avatar of pomegranar"> pomegranar
-			</a><br/>
-			Anar Nyambayar
-		</td>
-		<td>Duke Kunshan University </td>
-		<td>No Twitter Username</td>
-		<td>Ulaanbaatar, Mongolia</td>
-		<td>148</td>
 		<td>360</td>
 	</tr>
 	<tr>
