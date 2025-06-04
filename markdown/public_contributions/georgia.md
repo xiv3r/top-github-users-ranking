@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` by users in Georgia on `2025/6/4 6:37 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` by users in Georgia on `2025/6/4 6:59 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>Buildbuddy </td>
 		<td><a href="https://twitter.com/brandon_duffany">brandon_duffany</a></td>
 		<td>Georgia, USA</td>
-		<td>2597</td>
+		<td>2598</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -258,7 +258,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>@ccxt </td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>1713</td>
+		<td>1714</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1220,7 +1220,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>Auburn University </td>
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia, USA</td>
-		<td>460</td>
+		<td>463</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1901,6 +1901,19 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 	<tr>
 		<td>139</td>
 		<td>
+			<a href="https://github.com/dangreen">
+				<img src="https://avatars.githubusercontent.com/u/986756?s=72&u=63f1e2f23a68378e441a78017dbc200d0f786e88&v=4" width="24" alt="Avatar of dangreen"> dangreen
+			</a><br/>
+			Dan Onoshko
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dangreen58">dangreen58</a></td>
+		<td>Batumi</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
 			<a href="https://github.com/vijaymarupudi">
 				<img src="https://avatars.githubusercontent.com/u/29495468?s=72&u=fe787cd9287a73965bd3c74154e3f54170896205&v=4" width="24" alt="Avatar of vijaymarupudi"> vijaymarupudi
 			</a><br/>
@@ -1912,7 +1925,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>252</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/uuuulala">
 				<img src="https://avatars.githubusercontent.com/u/19991684?s=72&u=258d45e2e76ce3e6ad2c1d2bcbab147aa2f914f4&v=4" width="24" alt="Avatar of uuuulala"> uuuulala
@@ -1925,7 +1938,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/erik1066">
 				<img src="https://avatars.githubusercontent.com/u/31932266?s=72&u=ee5ec971103d2c9a53fd33fafe88f85aafcc3a3f&v=4" width="24" alt="Avatar of erik1066"> erik1066
@@ -1938,7 +1951,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/andreypopp">
 				<img src="https://avatars.githubusercontent.com/u/30594?s=72&v=4" width="24" alt="Avatar of andreypopp"> andreypopp
@@ -1951,7 +1964,7 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/andreyvit">
 				<img src="https://avatars.githubusercontent.com/u/5364?s=72&v=4" width="24" alt="Avatar of andreyvit"> andreyvit
@@ -1961,19 +1974,6 @@ There are `964 users`  in Georgia. You need at least `18 followers` to be on thi
 		<td>Andrey Tarantsov Development </td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>248</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/dangreen">
-				<img src="https://avatars.githubusercontent.com/u/986756?s=72&u=63f1e2f23a68378e441a78017dbc200d0f786e88&v=4" width="24" alt="Avatar of dangreen"> dangreen
-			</a><br/>
-			Dan Onoshko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dangreen58">dangreen58</a></td>
-		<td>Batumi</td>
 		<td>248</td>
 	</tr>
 	<tr>
