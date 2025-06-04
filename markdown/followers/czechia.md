@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2025/6/4 12:00 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2025/6/4 12:14 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -6035,6 +6035,19 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 	<tr>
 		<td>457</td>
 		<td>
+			<a href="https://github.com/hosu-kim">
+				<img src="https://avatars.githubusercontent.com/u/145069282?s=72&u=e490cefc1e2804198edaa1c969102c56b930804a&v=4" width="24" alt="Avatar of hosu-kim"> hosu-kim
+			</a><br/>
+			Hosu
+		</td>
+		<td>42 Prague </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
 			<a href="https://github.com/good-lly">
 				<img src="https://avatars.githubusercontent.com/u/1671375?s=72&u=37e6534a16ce3e4f2af2a410e0bf55516dac5284&v=4" width="24" alt="Avatar of good-lly"> good-lly
 			</a><br/>
@@ -6046,7 +6059,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/leftys">
 				<img src="https://avatars.githubusercontent.com/u/1970226?s=72&u=10fd4009da0c7134f7479e2cc97fd072a5f0d0aa&v=4" width="24" alt="Avatar of leftys"> leftys
@@ -6059,7 +6072,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/danielkec">
 				<img src="https://avatars.githubusercontent.com/u/1773630?s=72&u=c8154be67069bf4f9301135c950195fff3678b92&v=4" width="24" alt="Avatar of danielkec"> danielkec
@@ -6072,7 +6085,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/jindrichmynarz">
 				<img src="https://avatars.githubusercontent.com/u/198642?s=72&v=4" width="24" alt="Avatar of jindrichmynarz"> jindrichmynarz
@@ -6085,7 +6098,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/jharting">
 				<img src="https://avatars.githubusercontent.com/u/167352?s=72&v=4" width="24" alt="Avatar of jharting"> jharting
@@ -6098,7 +6111,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/maio">
 				<img src="https://avatars.githubusercontent.com/u/18138?s=72&v=4" width="24" alt="Avatar of maio"> maio
@@ -6111,7 +6124,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/nemecdev">
 				<img src="https://avatars.githubusercontent.com/u/41127665?s=72&u=3571e0c4fa8b5bd3d6e1d8827f38c9305566b7cb&v=4" width="24" alt="Avatar of nemecdev"> nemecdev
@@ -6124,7 +6137,7 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/VasekPurchart">
 				<img src="https://avatars.githubusercontent.com/u/406821?s=72&u=361d25a2da009ff6bf744dbd6fe15f179b89fed2&v=4" width="24" alt="Avatar of VasekPurchart"> VasekPurchart
@@ -6132,19 +6145,6 @@ There are `964 users`  in Czechia. You need at least `30 followers` to be on thi
 			Vašek Purchart
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a href="https://github.com/hosu-kim">
-				<img src="https://avatars.githubusercontent.com/u/145069282?s=72&u=e490cefc1e2804198edaa1c969102c56b930804a&v=4" width="24" alt="Avatar of hosu-kim"> hosu-kim
-			</a><br/>
-			Hosu
-		</td>
-		<td>42 Prague </td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
 		<td>57</td>
