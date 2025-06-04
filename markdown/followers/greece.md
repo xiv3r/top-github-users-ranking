@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `number of followers` of users in Greece on `2025/6/4 7:50 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `number of followers` of users in Greece on `2025/6/4 7:59 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 

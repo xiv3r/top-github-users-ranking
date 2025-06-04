@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` by users in Greece on `2025/6/4 7:50 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` by users in Greece on `2025/6/4 7:59 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -310,7 +310,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens/Greece</td>
-		<td>1604</td>
+		<td>1606</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -796,25 +796,25 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/neoaggelos">
-				<img src="https://avatars.githubusercontent.com/u/1888650?s=72&u=669b15a8888211e07bdfa007cf10e3b83f6569f8&v=4" width="24" alt="Avatar of neoaggelos"> neoaggelos
-			</a><br/>
-			Angelos Kolaitis
-		</td>
-		<td>@lambdal </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>674</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/OFFTKP">
 				<img src="https://avatars.githubusercontent.com/u/21157395?s=72&u=a54043ca08e31549b65e413a71b4a38151e5cc06&v=4" width="24" alt="Avatar of OFFTKP"> OFFTKP
 			</a><br/>
 			Paris Oplopoios
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>675</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/neoaggelos">
+				<img src="https://avatars.githubusercontent.com/u/1888650?s=72&u=669b15a8888211e07bdfa007cf10e3b83f6569f8&v=4" width="24" alt="Avatar of neoaggelos"> neoaggelos
+			</a><br/>
+			Angelos Kolaitis
+		</td>
+		<td>@lambdal </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>674</td>
@@ -4917,6 +4917,19 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 	<tr>
 		<td>371</td>
 		<td>
+			<a href="https://github.com/gkampitakis">
+				<img src="https://avatars.githubusercontent.com/u/50364739?s=72&u=971c147b0b1f016deaa46fe997cbebb3454f335a&v=4" width="24" alt="Avatar of gkampitakis"> gkampitakis
+			</a><br/>
+			Georgios Kampitakis
+		</td>
+		<td>@weaviate </td>
+		<td>No Twitter Username</td>
+		<td>Crete, Greece</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
 			<a href="https://github.com/grgalex">
 				<img src="https://avatars.githubusercontent.com/u/62315387?s=72&u=70db93d72ee6098b755a814e66aff542d7469074&v=4" width="24" alt="Avatar of grgalex"> grgalex
 			</a><br/>
@@ -4928,7 +4941,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/dk-raw">
 				<img src="https://avatars.githubusercontent.com/u/68110106?s=72&v=4" width="24" alt="Avatar of dk-raw"> dk-raw
@@ -4941,7 +4954,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/disarmed3">
 				<img src="https://avatars.githubusercontent.com/u/47918888?s=72&u=246e61ad3fe4a84af439d48222d4cc8905c48427&v=4" width="24" alt="Avatar of disarmed3"> disarmed3
@@ -4954,7 +4967,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/demanasta">
 				<img src="https://avatars.githubusercontent.com/u/12485870?s=72&u=b406b509c21af4b0a7958971856ab3f5fd9d8b4e&v=4" width="24" alt="Avatar of demanasta"> demanasta
@@ -4964,19 +4977,6 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>Assistant Professor At Ntua<br/></td>
 		<td>No Twitter Username</td>
 		<td>Athens | Ioannina | Greece</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/gkampitakis">
-				<img src="https://avatars.githubusercontent.com/u/50364739?s=72&u=971c147b0b1f016deaa46fe997cbebb3454f335a&v=4" width="24" alt="Avatar of gkampitakis"> gkampitakis
-			</a><br/>
-			Georgios Kampitakis
-		</td>
-		<td>@weaviate </td>
-		<td>No Twitter Username</td>
-		<td>Crete, Greece</td>
 		<td>54</td>
 	</tr>
 	<tr>

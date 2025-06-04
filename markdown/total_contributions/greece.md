@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` and `private contributions` by users in Greece on `2025/6/4 7:50 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` and `private contributions` by users in Greece on `2025/6/4 7:59 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1124,8 +1124,8 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens/Greece</td>
-		<td>1604</td>
-		<td>1604</td>
+		<td>1606</td>
+		<td>1606</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1223,7 +1223,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>31</td>
-		<td>1514</td>
+		<td>1515</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1390,8 +1390,8 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>@weaviate </td>
 		<td>No Twitter Username</td>
 		<td>Crete, Greece</td>
-		<td>54</td>
-		<td>1342</td>
+		<td>55</td>
+		<td>1343</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -2776,8 +2776,8 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>674</td>
-		<td>774</td>
+		<td>675</td>
+		<td>775</td>
 	</tr>
 	<tr>
 		<td>192</td>
@@ -3281,7 +3281,7 @@ There are `956 users`  in Greece. You need at least `31 followers` to be on this
 		<td><a href="https://twitter.com/achinaou">achinaou</a></td>
 		<td>Greece</td>
 		<td>13</td>
-		<td>650</td>
+		<td>651</td>
 	</tr>
 	<tr>
 		<td>228</td>
