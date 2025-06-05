@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` by users in Rwanda on `2025/6/5 7:28 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` by users in Rwanda on `2025/6/5 7:37 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1238,6 +1238,19 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/RUKUNDO-Prince">
+				<img src="https://avatars.githubusercontent.com/u/118161509?s=72&v=4" width="24" alt="Avatar of RUKUNDO-Prince"> RUKUNDO-Prince
+			</a><br/>
+			Prince_R
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RukundoPrince71">RukundoPrince71</a></td>
+		<td>Kigali, Rwanda</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/GasanaJr">
 				<img src="https://avatars.githubusercontent.com/u/43322242?s=72&v=4" width="24" alt="Avatar of GasanaJr"> GasanaJr
 			</a><br/>
@@ -1247,19 +1260,6 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
 		<td>517</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/RUKUNDO-Prince">
-				<img src="https://avatars.githubusercontent.com/u/118161509?s=72&v=4" width="24" alt="Avatar of RUKUNDO-Prince"> RUKUNDO-Prince
-			</a><br/>
-			Prince_R
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RukundoPrince71">RukundoPrince71</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>515</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1584,7 +1584,7 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>The Gym - Rwanda’s<br/>Most<br/>Intense<br/>Software<br/>Development<br/>Trainee<br/>Program<br/></td>
 		<td><a href="https://twitter.com/kevinrebakuree">kevinrebakuree</a></td>
 		<td>Kigali, Rwanda</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -4527,6 +4527,19 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 	<tr>
 		<td>341</td>
 		<td>
+			<a href="https://github.com/Ismaelmurekezi">
+				<img src="https://avatars.githubusercontent.com/u/110295158?s=72&u=7e437c07b790068a459aae021ebaba700a91295d&v=4" width="24" alt="Avatar of Ismaelmurekezi"> Ismaelmurekezi
+			</a><br/>
+			MUREKEZI Ismael
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali,Rwanda</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a href="https://github.com/SethNdagijimana">
 				<img src="https://avatars.githubusercontent.com/u/50268743?s=72&u=cfa997bf0aed920e56644ba3e3f3d0756afcb45b&v=4" width="24" alt="Avatar of SethNdagijimana"> SethNdagijimana
 			</a><br/>
@@ -4538,7 +4551,7 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/RusimbiPatrick">
 				<img src="https://avatars.githubusercontent.com/u/54870069?s=72&u=bbf713047de2a9ecef8c90267bb53fa3e58e4d2f&v=4" width="24" alt="Avatar of RusimbiPatrick"> RusimbiPatrick
@@ -4551,7 +4564,7 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/buka1calvin">
 				<img src="https://avatars.githubusercontent.com/u/63565027?s=72&u=792f745fe35963b4ca06da6fcb016d7f048ddf42&v=4" width="24" alt="Avatar of buka1calvin"> buka1calvin
@@ -4562,19 +4575,6 @@ There are `968 users`  in Rwanda. You need at least `8 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>kigali</td>
 		<td>140</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/Ismaelmurekezi">
-				<img src="https://avatars.githubusercontent.com/u/110295158?s=72&u=7e437c07b790068a459aae021ebaba700a91295d&v=4" width="24" alt="Avatar of Ismaelmurekezi"> Ismaelmurekezi
-			</a><br/>
-			MUREKEZI Ismael
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali,Rwanda</td>
-		<td>139</td>
 	</tr>
 	<tr>
 		<td>345</td>
