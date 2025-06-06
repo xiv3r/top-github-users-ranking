@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2025/6/4 8:32 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2025/6/6 4:45 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ashesi University </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>589</td>
-		<td>589</td>
+		<td>826</td>
+		<td>826</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -186,8 +186,8 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>198</td>
-		<td>198</td>
+		<td>203</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -243,7 +243,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
 		<td>Ndjamena, Chad</td>
 		<td>22</td>
-		<td>59</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -270,8 +270,8 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>39</td>
-		<td>39</td>
+		<td>40</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>13</td>

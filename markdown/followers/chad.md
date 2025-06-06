@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/6/4 8:32 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/6/6 4:45 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1862,31 +1862,18 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/JLBTP">
-				<img src="https://avatars.githubusercontent.com/u/107157555?s=72&v=4" width="24" alt="Avatar of JLBTP"> JLBTP
-			</a><br/>
-			João Lucas Brum Twardowski Pinto
-		</td>
-		<td>Shogun Ltda. </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/PabloisnowTaken">
-				<img src="https://avatars.githubusercontent.com/u/78811966?s=72&u=c0fc916992f69ad356c3edf5c7985f53127f66d0&v=4" width="24" alt="Avatar of PabloisnowTaken"> PabloisnowTaken
+			<a href="https://github.com/emmanou245">
+				<img src="https://avatars.githubusercontent.com/u/32437308?s=72&u=2d6cb593ac07866edf162094793e5c49ad90b7f3&v=4" width="24" alt="Avatar of emmanou245"> emmanou245
 			</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PabloisnowTaken">PabloisnowTaken</a></td>
-		<td>Chad</td>
+		<td>No Twitter Username</td>
+		<td>N'djamena</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/ahmedkondas">
 				<img src="https://avatars.githubusercontent.com/u/59375640?s=72&v=4" width="24" alt="Avatar of ahmedkondas"> ahmedkondas
@@ -1899,20 +1886,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/emmanou245">
-				<img src="https://avatars.githubusercontent.com/u/32437308?s=72&u=2d6cb593ac07866edf162094793e5c49ad90b7f3&v=4" width="24" alt="Avatar of emmanou245"> emmanou245
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'djamena</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>140</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/alainamenahem">
 				<img src="https://avatars.githubusercontent.com/u/36162271?s=72&v=4" width="24" alt="Avatar of alainamenahem"> alainamenahem
@@ -1922,6 +1896,32 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Datatech Consulting Services </td>
 		<td>No Twitter Username</td>
 		<td>Ndjamena - Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/PabloisnowTaken">
+				<img src="https://avatars.githubusercontent.com/u/78811966?s=72&u=c0fc916992f69ad356c3edf5c7985f53127f66d0&v=4" width="24" alt="Avatar of PabloisnowTaken"> PabloisnowTaken
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/PabloisnowTaken">PabloisnowTaken</a></td>
+		<td>Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/JLBTP">
+				<img src="https://avatars.githubusercontent.com/u/107157555?s=72&v=4" width="24" alt="Avatar of JLBTP"> JLBTP
+			</a><br/>
+			João Lucas Brum Twardowski Pinto
+		</td>
+		<td>Shogun Ltda. </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
 		<td>1</td>
 	</tr>
 	<tr>
