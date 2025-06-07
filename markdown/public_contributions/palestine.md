@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` by users in Palestine on `2025/6/7 5:47 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` by users in Palestine on `2025/6/7 5:58 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3084,6 +3084,19 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>230</td>
 		<td>
+			<a href="https://github.com/Bakeza">
+				<img src="https://avatars.githubusercontent.com/u/30264714?s=72&u=12dc4707666a608b89e7d32a2b4b5b6c6dd88d80&v=4" width="24" alt="Avatar of Bakeza"> Bakeza
+			</a><br/>
+			Bakeza Diazada
+		</td>
+		<td>@voquis </td>
+		<td><a href="https://twitter.com/iambakeza">iambakeza</a></td>
+		<td>Palestine, Bethlehem</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a href="https://github.com/malakbattat">
 				<img src="https://avatars.githubusercontent.com/u/128179968?s=72&u=01dc0f59dda174460519ff55a4a2014b8d9dcad3&v=4" width="24" alt="Avatar of malakbattat"> malakbattat
 			</a><br/>
@@ -3095,7 +3108,7 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/HusamAwad2001">
 				<img src="https://avatars.githubusercontent.com/u/81478701?s=72&u=b0dc63332416a3b92fcd70336e31f7bf9332b9ae&v=4" width="24" alt="Avatar of HusamAwad2001"> HusamAwad2001
@@ -3108,7 +3121,7 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/qsrawi">
 				<img src="https://avatars.githubusercontent.com/u/68107575?s=72&u=705f17fdb43e4e90107e22e19d1f52acd85ce16f&v=4" width="24" alt="Avatar of qsrawi"> qsrawi
@@ -3118,19 +3131,6 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Palestine-Jenin</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/Bakeza">
-				<img src="https://avatars.githubusercontent.com/u/30264714?s=72&u=12dc4707666a608b89e7d32a2b4b5b6c6dd88d80&v=4" width="24" alt="Avatar of Bakeza"> Bakeza
-			</a><br/>
-			Bakeza Diazada
-		</td>
-		<td>@voquis </td>
-		<td><a href="https://twitter.com/iambakeza">iambakeza</a></td>
-		<td>Palestine, Bethlehem</td>
 		<td>81</td>
 	</tr>
 	<tr>
