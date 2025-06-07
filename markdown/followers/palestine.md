@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2025/6/7 5:58 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2025/6/7 6:11 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -666,6 +666,19 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/JamilaHajAhmad">
+				<img src="https://avatars.githubusercontent.com/u/124258273?s=72&u=e9d6359d73e45d692a10d53f6c853fcfc667f731&v=4" width="24" alt="Avatar of JamilaHajAhmad"> JamilaHajAhmad
+			</a><br/>
+			Jamila HajAhmad
+		</td>
+		<td>Senior At Palestine Technical<br/>University<br/>-<br/>Kadoorie<br/></td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
 			<a href="https://github.com/Abdalrhman-Abuwarda">
 				<img src="https://avatars.githubusercontent.com/u/114994888?s=72&u=7b0686936693aeaee51267e750c5a071030b6045&v=4" width="24" alt="Avatar of Abdalrhman-Abuwarda"> Abdalrhman-Abuwarda
 			</a><br/>
@@ -677,7 +690,7 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/mohammedsalah7">
 				<img src="https://avatars.githubusercontent.com/u/28189827?s=72&u=931284c2dafb10551072efff32533b276d26a844&v=4" width="24" alt="Avatar of mohammedsalah7"> mohammedsalah7
@@ -688,19 +701,6 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td><a href="https://twitter.com/mohamadmsalah">mohamadmsalah</a></td>
 		<td>Gaza - Palestine</td>
 		<td>76</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/JamilaHajAhmad">
-				<img src="https://avatars.githubusercontent.com/u/124258273?s=72&u=e9d6359d73e45d692a10d53f6c853fcfc667f731&v=4" width="24" alt="Avatar of JamilaHajAhmad"> JamilaHajAhmad
-			</a><br/>
-			Jamila HajAhmad
-		</td>
-		<td>Senior At Palestine Technical<br/>University<br/>-<br/>Kadoorie<br/></td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>75</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -11677,19 +11677,6 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>891</td>
 		<td>
-			<a href="https://github.com/RoaNafi">
-				<img src="https://avatars.githubusercontent.com/u/132950905?s=72&u=f35121a4e186435f73ee041cbc2261a787ce3454&v=4" width="24" alt="Avatar of RoaNafi"> RoaNafi
-			</a><br/>
-			Ro'a Nafi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Palestine </td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>892</td>
-		<td>
 			<a href="https://github.com/Bakeza">
 				<img src="https://avatars.githubusercontent.com/u/30264714?s=72&u=12dc4707666a608b89e7d32a2b4b5b6c6dd88d80&v=4" width="24" alt="Avatar of Bakeza"> Bakeza
 			</a><br/>
@@ -11698,6 +11685,19 @@ There are `987 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>@voquis </td>
 		<td><a href="https://twitter.com/iambakeza">iambakeza</a></td>
 		<td>Palestine, Bethlehem</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/RoaNafi">
+				<img src="https://avatars.githubusercontent.com/u/132950905?s=72&u=f35121a4e186435f73ee041cbc2261a787ce3454&v=4" width="24" alt="Avatar of RoaNafi"> RoaNafi
+			</a><br/>
+			Ro'a Nafi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Palestine </td>
 		<td>7</td>
 	</tr>
 	<tr>
