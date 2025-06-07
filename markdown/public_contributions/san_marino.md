@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/6/5 7:45 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/6/7 9:40 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -263,6 +263,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/gcardi">
+				<img src="https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4" width="24" alt="Avatar of gcardi"> gcardi
+			</a><br/>
+			Giuliano Cardinali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of San Marino</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/N1K0232">
 				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
 			</a><br/>
@@ -272,19 +285,6 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
 		<td>42</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/gcardi">
-				<img src="https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4" width="24" alt="Avatar of gcardi"> gcardi
-			</a><br/>
-			Giuliano Cardinali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of San Marino</td>
-		<td>38</td>
 	</tr>
 	<tr>
 		<td>15</td>

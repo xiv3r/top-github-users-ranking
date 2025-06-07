@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/6/5 7:45 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/6/7 9:40 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -284,7 +284,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -867,6 +867,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 			Sara Depaoli
 		</td>
 		<td>Proseven Srl </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/aleronci28">
+				<img src="https://avatars.githubusercontent.com/u/133057253?s=72&u=1e52571a6536488706568d8097ae6e2a21995ea9&v=4" width="24" alt="Avatar of aleronci28"> aleronci28
+			</a><br/>
+			Alessandro Ronci
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>1</td>
