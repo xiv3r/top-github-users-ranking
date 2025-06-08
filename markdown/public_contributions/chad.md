@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2025/6/6 4:45 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2025/6/8 6:57 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -107,6 +107,19 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>1</td>
 		<td>
+			<a href="https://github.com/adoumouangnamouemmanuel">
+				<img src="https://avatars.githubusercontent.com/u/125479958?s=72&u=29b079e297fb0267dbfaed271884a405cfb4561e&v=4" width="24" alt="Avatar of adoumouangnamouemmanuel"> adoumouangnamouemmanuel
+			</a><br/>
+			Emmanuel Adoum
+		</td>
+		<td>Ashesi University </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>1148</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
 			<a href="https://github.com/Sanusihassan">
 				<img src="https://avatars.githubusercontent.com/u/60857931?s=72&v=4" width="24" alt="Avatar of Sanusihassan"> Sanusihassan
 			</a><br/>
@@ -116,19 +129,6 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>828</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
-			<a href="https://github.com/adoumouangnamouemmanuel">
-				<img src="https://avatars.githubusercontent.com/u/125479958?s=72&u=29b079e297fb0267dbfaed271884a405cfb4561e&v=4" width="24" alt="Avatar of adoumouangnamouemmanuel"> adoumouangnamouemmanuel
-			</a><br/>
-			Emmanuel Adoum
-		</td>
-		<td>Ashesi University </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>826</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>502</td>
+		<td>489</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Aims South Africa </td>
 		<td><a href="https://twitter.com/beriakalpelbe21">beriakalpelbe21</a></td>
 		<td>NDjamena, Chad</td>
-		<td>84</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Treeofcontent.com </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
-		<td>67</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -302,19 +302,6 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>16</td>
 		<td>
-			<a href="https://github.com/Dissentbay">
-				<img src="https://avatars.githubusercontent.com/u/4554200?s=72&v=4" width="24" alt="Avatar of Dissentbay"> Dissentbay
-			</a><br/>
-			Dissent
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Djamena, Chad</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
 			<a href="https://github.com/Ndouba432">
 				<img src="https://avatars.githubusercontent.com/u/174118586?s=72&v=4" width="24" alt="Avatar of Ndouba432"> Ndouba432
 			</a><br/>
@@ -326,7 +313,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/DaneX3089">
 				<img src="https://avatars.githubusercontent.com/u/91909231?s=72&u=f6edd0f89b14aae9381dbecff1df4e96c0be4dd4&v=4" width="24" alt="Avatar of DaneX3089"> DaneX3089
@@ -336,6 +323,19 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/Dissentbay">
+				<img src="https://avatars.githubusercontent.com/u/4554200?s=72&v=4" width="24" alt="Avatar of Dissentbay"> Dissentbay
+			</a><br/>
+			Dissent
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Djamena, Chad</td>
 		<td>12</td>
 	</tr>
 	<tr>
