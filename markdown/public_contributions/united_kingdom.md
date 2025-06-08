@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2025/6/8 7:51 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2025/6/8 8:01 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `951 users`  in United Kingdom. You need at least `234 followers` to b
 		<td>@nuxt </td>
 		<td>No Twitter Username</td>
 		<td>Edinburgh, UK</td>
-		<td>13821</td>
+		<td>13775</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -4262,7 +4262,7 @@ There are `951 users`  in United Kingdom. You need at least `234 followers` to b
 		<td>Bank Of England |<br/>Curso-r<br/></td>
 		<td><a href="https://twitter.com/athos_damiani">athos_damiani</a></td>
 		<td>London, United Kingdom </td>
-		<td>254</td>
+		<td>255</td>
 	</tr>
 	<tr>
 		<td>321</td>
