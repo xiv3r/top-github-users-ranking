@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canada">
 </a>
 
-The `number of followers` of users in Canada on `2025/6/10 9:56 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
+The `number of followers` of users in Canada on `2025/6/10 10:06 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>Xanadu </td>
 		<td><a href="https://twitter.com/galactromeda">galactromeda</a></td>
 		<td>Canada</td>
-		<td>8949</td>
+		<td>8950</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -3417,7 +3417,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>Chime Systems Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Montreal, Canada</td>
-		<td>654</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -11638,6 +11638,19 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 	<tr>
 		<td>888</td>
 		<td>
+			<a href="https://github.com/cesine">
+				<img src="https://avatars.githubusercontent.com/u/196199?s=72&u=296d1c0a711df68dc317320a355ac11387203b64&v=4" width="24" alt="Avatar of cesine"> cesine
+			</a><br/>
+			cesine
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montréal, Québec, Canada</td>
+		<td>239</td>
+	</tr>
+	<tr>
+		<td>889</td>
+		<td>
 			<a href="https://github.com/kdheepak">
 				<img src="https://avatars.githubusercontent.com/u/1813121?s=72&v=4" width="24" alt="Avatar of kdheepak"> kdheepak
 			</a><br/>
@@ -11649,7 +11662,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/mfridman">
 				<img src="https://avatars.githubusercontent.com/u/6278244?s=72&u=0c2ce5bb2732022cd947e64cc7d4a0a481b22bf1&v=4" width="24" alt="Avatar of mfridman"> mfridman
@@ -11662,7 +11675,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/prrao87">
 				<img src="https://avatars.githubusercontent.com/u/35005448?s=72&u=4b6efd3d2dcdc2acde843cff4183b59087f35a9b&v=4" width="24" alt="Avatar of prrao87"> prrao87
@@ -11675,7 +11688,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/mikkoh">
 				<img src="https://avatars.githubusercontent.com/u/496903?s=72&u=18635ab97c086f6fbd354b4301074fb57e7a42bb&v=4" width="24" alt="Avatar of mikkoh"> mikkoh
@@ -11688,7 +11701,7 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/obilodeau">
 				<img src="https://avatars.githubusercontent.com/u/546325?s=72&v=4" width="24" alt="Avatar of obilodeau"> obilodeau
@@ -11698,19 +11711,6 @@ There are `925 users`  in Canada. You need at least `232 followers` to be on thi
 		<td>Flare </td>
 		<td>No Twitter Username</td>
 		<td>Montreal, Canada</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>893</td>
-		<td>
-			<a href="https://github.com/cesine">
-				<img src="https://avatars.githubusercontent.com/u/196199?s=72&u=296d1c0a711df68dc317320a355ac11387203b64&v=4" width="24" alt="Avatar of cesine"> cesine
-			</a><br/>
-			cesine
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montréal, Québec, Canada</td>
 		<td>238</td>
 	</tr>
 	<tr>
