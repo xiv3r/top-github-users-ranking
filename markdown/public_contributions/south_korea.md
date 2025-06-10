@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` by users in South Korea on `2025/6/10 5:55 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` by users in South Korea on `2025/6/10 6:05 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -414,7 +414,7 @@ There are `981 users`  in South Korea. You need at least `107 followers` to be o
 		<td>@lottiefiles </td>
 		<td><a href="https://twitter.com/HermetPark">HermetPark</a></td>
 		<td>Seoul, South Korea</td>
-		<td>1653</td>
+		<td>1654</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -752,7 +752,7 @@ There are `981 users`  in South Korea. You need at least `107 followers` to be o
 		<td>Yonsei Univ. </td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>1287</td>
+		<td>1289</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1558,7 +1558,7 @@ There are `981 users`  in South Korea. You need at least `107 followers` to be o
 		<td>Gluesql </td>
 		<td>No Twitter Username</td>
 		<td>Seoul, Korea</td>
-		<td>702</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -3799,6 +3799,19 @@ There are `981 users`  in South Korea. You need at least `107 followers` to be o
 	<tr>
 		<td>285</td>
 		<td>
+			<a href="https://github.com/progh2">
+				<img src="https://avatars.githubusercontent.com/u/1307187?s=72&u=870a8039bddd5ee572cf31f5b25e63abdd33083c&v=4" width="24" alt="Avatar of progh2"> progh2
+			</a><br/>
+			Gihun Ham
+		</td>
+		<td>Mirim Meister Highschool </td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a href="https://github.com/nnnlog">
 				<img src="https://avatars.githubusercontent.com/u/20399222?s=72&u=b812629e24be88a2aef9ab781de37321736df505&v=4" width="24" alt="Avatar of nnnlog"> nnnlog
 			</a><br/>
@@ -3808,19 +3821,6 @@ There are `981 users`  in South Korea. You need at least `107 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, Republic of Korea</td>
 		<td>227</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/progh2">
-				<img src="https://avatars.githubusercontent.com/u/1307187?s=72&u=870a8039bddd5ee572cf31f5b25e63abdd33083c&v=4" width="24" alt="Avatar of progh2"> progh2
-			</a><br/>
-			Gihun Ham
-		</td>
-		<td>Mirim Meister Highschool </td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>226</td>
 	</tr>
 	<tr>
 		<td>287</td>
