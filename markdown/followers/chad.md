@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/6/10 10:22 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/6/13 4:17 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -172,6 +172,19 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/mahamat-ali">
+				<img src="https://avatars.githubusercontent.com/u/17354297?s=72&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4" width="24" alt="Avatar of mahamat-ali"> mahamat-ali
+			</a><br/>
+			Mahamat Ali Youssouf 
+		</td>
+		<td>Anavatech </td>
+		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
+		<td>Ndjamena, Chad</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/balesco">
 				<img src="https://avatars.githubusercontent.com/u/59670453?s=72&u=b8a35a4a0514456bb88edc2f5459b89c70661f9d&v=4" width="24" alt="Avatar of balesco"> balesco
 			</a><br/>
@@ -181,19 +194,6 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/BaleHormo1">BaleHormo1</a></td>
 		<td>N'Djamena, Tchad</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/mahamat-ali">
-				<img src="https://avatars.githubusercontent.com/u/17354297?s=72&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4" width="24" alt="Avatar of mahamat-ali"> mahamat-ali
-			</a><br/>
-			Mahamat Ali Youssouf 
-		</td>
-		<td>Anavatech </td>
-		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
-		<td>Ndjamena, Chad</td>
-		<td>9</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -485,11 +485,11 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>30</td>
 		<td>
 			<a href="https://github.com/yusufijalal">
-				<img src="https://avatars.githubusercontent.com/u/73250960?s=72&v=4" width="24" alt="Avatar of yusufijalal"> yusufijalal
+				<img src="https://avatars.githubusercontent.com/u/73250960?s=72&u=b44dfab97360f661412cf2527cdf590c6dd40c8a&v=4" width="24" alt="Avatar of yusufijalal"> yusufijalal
 			</a><br/>
 			Yusuf Jalal
 		</td>
-		<td>Smartcodegenerator </td>
+		<td>Jibaley Solution </td>
 		<td><a href="https://twitter.com/yusufijalal">yusufijalal</a></td>
 		<td>Chad</td>
 		<td>3</td>
