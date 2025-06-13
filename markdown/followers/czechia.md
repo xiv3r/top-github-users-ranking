@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2025/6/13 7:50 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2025/6/13 8:00 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -583,7 +583,7 @@ There are `963 users`  in Czechia. You need at least `30 followers` to be on thi
 		<td>Solana Blockchain </td>
 		<td><a href="https://twitter.com/toptrendev">toptrendev</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>458</td>
+		<td>459</td>
 	</tr>
 	<tr>
 		<td>38</td>
