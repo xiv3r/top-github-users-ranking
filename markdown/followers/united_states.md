@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `number of followers` of users in United States on `2025/6/16 5:52 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `number of followers` of users in United States on `2025/6/16 6:05 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -388,7 +388,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>@elevanceit </td>
 		<td><a href="https://twitter.com/idimetrix">idimetrix</a></td>
 		<td>New York</td>
-		<td>12800</td>
+		<td>12799</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -869,7 +869,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>Founder, Ceo @langbaseinc, Vp<br/>Devtools<br/>@google<br/>Gdab<br/>Gde<br/><br/></td>
 		<td><a href="https://twitter.com/MrAhmadAwais">MrAhmadAwais</a></td>
 		<td>San Francisco Bay Area, CA, US.</td>
-		<td>6364</td>
+		<td>6363</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1064,7 +1064,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>@expo  </td>
 		<td><a href="https://twitter.com/baconbrix">baconbrix</a></td>
 		<td>Austin TX</td>
-		<td>5374</td>
+		<td>5375</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1662,7 +1662,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>Cornell </td>
 		<td><a href="https://twitter.com/srush_nlp">srush_nlp</a></td>
 		<td>New York</td>
-		<td>3554</td>
+		<td>3553</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -3495,7 +3495,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>1846</td>
+		<td>1847</td>
 	</tr>
 	<tr>
 		<td>262</td>
@@ -6966,7 +6966,7 @@ There are `893 users`  in United States. You need at least `609 followers` to be
 		<td>Cursor </td>
 		<td><a href="https://twitter.com/amanrsanger">amanrsanger</a></td>
 		<td>New York City</td>
-		<td>954</td>
+		<td>955</td>
 	</tr>
 	<tr>
 		<td>529</td>
