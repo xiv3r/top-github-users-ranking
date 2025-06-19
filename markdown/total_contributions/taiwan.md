@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2025/6/19 5:58 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2025/6/19 6:08 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>43008</td>
-		<td>43051</td>
+		<td>43010</td>
+		<td>43053</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -186,8 +186,8 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>11575</td>
-		<td>11575</td>
+		<td>11576</td>
+		<td>11576</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -229,7 +229,7 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td><a href="https://twitter.com/voidful_stack">voidful_stack</a></td>
 		<td>taiwan</td>
 		<td>775</td>
-		<td>7506</td>
+		<td>7507</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1242,6 +1242,20 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/HolyBearTW">
+				<img src="https://avatars.githubusercontent.com/u/50009618?s=72&u=25cb20b20eb4e4fddf29a6c49bbc36e2896125b8&v=4" width="24" alt="Avatar of HolyBearTW"> HolyBearTW
+			</a><br/>
+			聖小熊
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>1878</td>
+		<td>1878</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/dlackty">
 				<img src="https://avatars.githubusercontent.com/u/14349?s=72&v=4" width="24" alt="Avatar of dlackty"> dlackty
 			</a><br/>
@@ -1254,7 +1268,7 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>1873</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/hanksudo">
 				<img src="https://avatars.githubusercontent.com/u/467745?s=72&v=4" width="24" alt="Avatar of hanksudo"> hanksudo
@@ -1266,20 +1280,6 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>Taipei, Taiwan & Tokyo, Japan</td>
 		<td>220</td>
 		<td>1873</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/HolyBearTW">
-				<img src="https://avatars.githubusercontent.com/u/50009618?s=72&u=25cb20b20eb4e4fddf29a6c49bbc36e2896125b8&v=4" width="24" alt="Avatar of HolyBearTW"> HolyBearTW
-			</a><br/>
-			聖小熊
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>1872</td>
-		<td>1872</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1418,8 +1418,8 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>1759</td>
-		<td>1759</td>
+		<td>1760</td>
+		<td>1760</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1782,8 +1782,8 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>@perpetual-protocol </td>
 		<td><a href="https://twitter.com/vinta">vinta</a></td>
 		<td>Taiwan</td>
-		<td>76</td>
-		<td>1473</td>
+		<td>77</td>
+		<td>1474</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -3127,7 +3127,7 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>12</td>
-		<td>842</td>
+		<td>844</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -3183,7 +3183,7 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>New Taipei, Taiwan</td>
 		<td>25</td>
-		<td>822</td>
+		<td>826</td>
 	</tr>
 	<tr>
 		<td>221</td>
@@ -3967,7 +3967,7 @@ There are `969 users`  in Taiwan. You need at least `64 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>431</td>
-		<td>595</td>
+		<td>597</td>
 	</tr>
 	<tr>
 		<td>277</td>
