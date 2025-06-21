@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` and `private contributions` by users in United Kingdom on `2025/6/21 7:51 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` and `private contributions` by users in United Kingdom on `2025/6/21 8:01 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2090,8 +2090,8 @@ There are `950 users`  in United Kingdom. You need at least `236 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Edinburgh, United Kingdom</td>
-		<td>1767</td>
-		<td>1767</td>
+		<td>1768</td>
+		<td>1768</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -3266,8 +3266,8 @@ There are `950 users`  in United Kingdom. You need at least `236 followers` to b
 		<td>Bank Of England |<br/>Curso-r<br/></td>
 		<td><a href="https://twitter.com/athos_damiani">athos_damiani</a></td>
 		<td>London, United Kingdom </td>
-		<td>1112</td>
-		<td>1118</td>
+		<td>1113</td>
+		<td>1119</td>
 	</tr>
 	<tr>
 		<td>227</td>
