@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2025/6/22 5:50 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2025/6/22 6:00 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -778,7 +778,7 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>@gitlabhq </td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>1894</td>
+		<td>1891</td>
 	</tr>
 	<tr>
 		<td>53</td>

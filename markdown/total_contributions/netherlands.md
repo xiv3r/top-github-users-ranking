@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` and `private contributions` by users in Netherlands on `2025/6/22 5:50 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` and `private contributions` by users in Netherlands on `2025/6/22 6:00 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1069,7 +1069,7 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td><a href="https://twitter.com/jobtalle">jobtalle</a></td>
 		<td>Groningen, The Netherlands</td>
 		<td>45</td>
-		<td>2678</td>
+		<td>2680</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1340,6 +1340,20 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 	<tr>
 		<td>89</td>
 		<td>
+			<a href="https://github.com/vitallium">
+				<img src="https://avatars.githubusercontent.com/u/1894248?s=72&u=a3a6b8732bc8152f74cb64a4d02dd10333e0a66e&v=4" width="24" alt="Avatar of vitallium"> vitallium
+			</a><br/>
+			Vitaly Slobodin
+		</td>
+		<td>@gitlabhq </td>
+		<td>No Twitter Username</td>
+		<td>The Netherlands</td>
+		<td>1891</td>
+		<td>2257</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
 			<a href="https://github.com/Kludex">
 				<img src="https://avatars.githubusercontent.com/u/7353520?s=72&u=df8a3f06ba8f55ae1967a3e2d5ed882903a4e330&v=4" width="24" alt="Avatar of Kludex"> Kludex
 			</a><br/>
@@ -1350,20 +1364,6 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>Utrecht, Netherlands</td>
 		<td>2256</td>
 		<td>2256</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/vitallium">
-				<img src="https://avatars.githubusercontent.com/u/1894248?s=72&u=a3a6b8732bc8152f74cb64a4d02dd10333e0a66e&v=4" width="24" alt="Avatar of vitallium"> vitallium
-			</a><br/>
-			Vitaly Slobodin
-		</td>
-		<td>@gitlabhq </td>
-		<td>No Twitter Username</td>
-		<td>The Netherlands</td>
-		<td>1894</td>
-		<td>2248</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -4980,6 +4980,20 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 	<tr>
 		<td>349</td>
 		<td>
+			<a href="https://github.com/lucasmontano">
+				<img src="https://avatars.githubusercontent.com/u/7559318?s=72&u=9b45fc98ab22e71efa4951eee14cf349a73411ec&v=4" width="24" alt="Avatar of lucasmontano"> lucasmontano
+			</a><br/>
+			Lucas Montano
+		</td>
+		<td>Disney Streaming Services </td>
+		<td><a href="https://twitter.com/lucas_montano">lucas_montano</a></td>
+		<td>Amsterdam, The Netherlands</td>
+		<td>12</td>
+		<td>617</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
 			<a href="https://github.com/IlyaGusev">
 				<img src="https://avatars.githubusercontent.com/u/2670295?s=72&u=ddd385b92bb621d0019e40d81d388e635e08bb50&v=4" width="24" alt="Avatar of IlyaGusev"> IlyaGusev
 			</a><br/>
@@ -4992,21 +5006,21 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>617</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
-			<a href="https://github.com/lucasmontano">
-				<img src="https://avatars.githubusercontent.com/u/7559318?s=72&u=9b45fc98ab22e71efa4951eee14cf349a73411ec&v=4" width="24" alt="Avatar of lucasmontano"> lucasmontano
+			<a href="https://github.com/nick-barth">
+				<img src="https://avatars.githubusercontent.com/u/5814795?s=72&u=aa7a5cf805658ca5a99329f963634a77c081faef&v=4" width="24" alt="Avatar of nick-barth"> nick-barth
 			</a><br/>
-			Lucas Montano
+			Nick Barth
 		</td>
-		<td>Disney Streaming Services </td>
-		<td><a href="https://twitter.com/lucas_montano">lucas_montano</a></td>
-		<td>Amsterdam, The Netherlands</td>
-		<td>12</td>
+		<td>@deepnote </td>
+		<td>No Twitter Username</td>
+		<td>amsterdam</td>
+		<td>2</td>
 		<td>616</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/alirezahi">
 				<img src="https://avatars.githubusercontent.com/u/16666064?s=72&u=267e2ef5dfa2fbba8429171eeb09ead7bf3c7339&v=4" width="24" alt="Avatar of alirezahi"> alirezahi
@@ -5018,20 +5032,6 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>Amsterdam</td>
 		<td>3</td>
 		<td>616</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/nick-barth">
-				<img src="https://avatars.githubusercontent.com/u/5814795?s=72&u=aa7a5cf805658ca5a99329f963634a77c081faef&v=4" width="24" alt="Avatar of nick-barth"> nick-barth
-			</a><br/>
-			Nick Barth
-		</td>
-		<td>@deepnote </td>
-		<td>No Twitter Username</td>
-		<td>amsterdam</td>
-		<td>2</td>
-		<td>615</td>
 	</tr>
 	<tr>
 		<td>353</td>
@@ -6492,20 +6492,6 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/pepijndevos">
-				<img src="https://avatars.githubusercontent.com/u/168609?s=72&v=4" width="24" alt="Avatar of pepijndevos"> pepijndevos
-			</a><br/>
-			Pepijn de Vos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Loenen, Gelderland, Netherlands</td>
-		<td>396</td>
-		<td>406</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
 			<a href="https://github.com/LocalJoost">
 				<img src="https://avatars.githubusercontent.com/u/4129183?s=72&u=e4120d2066aaf12ef39f5c25e60b1bbd5509d592&v=4" width="24" alt="Avatar of LocalJoost"> LocalJoost
 			</a><br/>
@@ -6515,6 +6501,20 @@ There are `935 users`  in Netherlands. You need at least `152 followers` to be o
 		<td><a href="https://twitter.com/localjoost">localjoost</a></td>
 		<td>Amersfoort, the Netherlands</td>
 		<td>56</td>
+		<td>407</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/pepijndevos">
+				<img src="https://avatars.githubusercontent.com/u/168609?s=72&v=4" width="24" alt="Avatar of pepijndevos"> pepijndevos
+			</a><br/>
+			Pepijn de Vos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Loenen, Gelderland, Netherlands</td>
+		<td>396</td>
 		<td>406</td>
 	</tr>
 	<tr>
