@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2025/6/22 7:45 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2025/6/22 7:56 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,7 +116,7 @@ There are `969 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>15244</td>
+		<td>15117</td>
 		<td>21419</td>
 	</tr>
 	<tr>
@@ -158,8 +158,8 @@ There are `969 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>Https://www.global-e </td>
 		<td><a href="https://twitter.com/k0kada">k0kada</a></td>
 		<td>Dublin, Ireland</td>
-		<td>4391</td>
-		<td>5307</td>
+		<td>4393</td>
+		<td>5309</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1460,8 +1460,8 @@ There are `969 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>Ballymaloe Cookery School </td>
 		<td><a href="https://twitter.com/toflidium">toflidium</a></td>
 		<td>Ireland</td>
-		<td>48</td>
-		<td>1498</td>
+		<td>49</td>
+		<td>1499</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -2216,8 +2216,8 @@ There are `969 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>1067</td>
-		<td>1067</td>
+		<td>1068</td>
+		<td>1068</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2286,8 +2286,8 @@ There are `969 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/duplxey">duplxey</a></td>
 		<td>Ireland, Europe</td>
-		<td>99</td>
-		<td>1026</td>
+		<td>100</td>
+		<td>1027</td>
 	</tr>
 	<tr>
 		<td>157</td>
