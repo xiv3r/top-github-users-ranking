@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` by users in Czechia on `2025/6/28 3:50 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` by users in Czechia on `2025/6/28 3:59 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3955,19 +3955,6 @@ There are `964 users`  in Czechia. You need at least `31 followers` to be on thi
 	<tr>
 		<td>297</td>
 		<td>
-			<a href="https://github.com/kumekay">
-				<img src="https://avatars.githubusercontent.com/u/2738?s=72&u=135e69bde8132ab5d84c7b89458bbdafffe37b96&v=4" width="24" alt="Avatar of kumekay"> kumekay
-			</a><br/>
-			Sergei Silnov
-		</td>
-		<td>@espressif </td>
-		<td><a href="https://twitter.com/kumekay">kumekay</a></td>
-		<td>Brno, CZ</td>
-		<td>243</td>
-	</tr>
-	<tr>
-		<td>298</td>
-		<td>
 			<a href="https://github.com/petrbouchal">
 				<img src="https://avatars.githubusercontent.com/u/1666657?s=72&u=f843af8a70a370e9ec4492ca69a1c90a81316b7d&v=4" width="24" alt="Avatar of petrbouchal"> petrbouchal
 			</a><br/>
@@ -3976,6 +3963,19 @@ There are `964 users`  in Czechia. You need at least `31 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/petrbouchal">petrbouchal</a></td>
 		<td>Prague</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/kumekay">
+				<img src="https://avatars.githubusercontent.com/u/2738?s=72&u=135e69bde8132ab5d84c7b89458bbdafffe37b96&v=4" width="24" alt="Avatar of kumekay"> kumekay
+			</a><br/>
+			Sergei Silnov
+		</td>
+		<td>@espressif </td>
+		<td><a href="https://twitter.com/kumekay">kumekay</a></td>
+		<td>Brno, CZ</td>
 		<td>243</td>
 	</tr>
 	<tr>
