@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2025/6/29 11:57 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2025/6/29 12:07 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1402,7 +1402,7 @@ There are `934 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>1213</td>
+		<td>1214</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -3305,6 +3305,19 @@ There are `934 users`  in Netherlands. You need at least `152 followers` to be o
 	<tr>
 		<td>247</td>
 		<td>
+			<a href="https://github.com/CamilleScholtz">
+				<img src="https://avatars.githubusercontent.com/u/5213535?s=72&u=5f339ecec828d40a498513246ca8d3988029f596&v=4" width="24" alt="Avatar of CamilleScholtz"> CamilleScholtz
+			</a><br/>
+			Camille Scholtz
+		</td>
+		<td>Eerlijketen </td>
+		<td>No Twitter Username</td>
+		<td>The Netherlands</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
 			<a href="https://github.com/johanstokking">
 				<img src="https://avatars.githubusercontent.com/u/13334001?s=72&u=d0965dda7d27320022917f74aa835ccedd0a83c4&v=4" width="24" alt="Avatar of johanstokking"> johanstokking
 			</a><br/>
@@ -3314,19 +3327,6 @@ There are `934 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Amsterdam</td>
 		<td>450</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/CamilleScholtz">
-				<img src="https://avatars.githubusercontent.com/u/5213535?s=72&u=5f339ecec828d40a498513246ca8d3988029f596&v=4" width="24" alt="Avatar of CamilleScholtz"> CamilleScholtz
-			</a><br/>
-			Camille Scholtz
-		</td>
-		<td>Eerlijketen </td>
-		<td>No Twitter Username</td>
-		<td>The Netherlands</td>
-		<td>449</td>
 	</tr>
 	<tr>
 		<td>249</td>
@@ -4886,7 +4886,7 @@ There are `934 users`  in Netherlands. You need at least `152 followers` to be o
 		<td>Fullstack Engineer At Storyblok<br/></td>
 		<td><a href="https://twitter.com/dawntraoz">dawntraoz</a></td>
 		<td>Amsterdam, The Netherlands</td>
-		<td>175</td>
+		<td>176</td>
 	</tr>
 	<tr>
 		<td>369</td>
