@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2025/6/26 10:04 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2025/6/29 5:20 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `547 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `549 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -219,7 +219,7 @@ There are `547 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Apb Bank </td>
 		<td>No Twitter Username</td>
 		<td>laos</td>
-		<td>18</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -297,7 +297,7 @@ There are `547 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Data Transformation And Tech<br/></td>
 		<td><a href="https://twitter.com/Chan5591">Chan5591</a></td>
 		<td>Vientiane Capital, LAOS</td>
-		<td>15</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -2382,19 +2382,6 @@ There are `547 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>176</td>
 		<td>
-			<a href="https://github.com/sneaker30">
-				<img src="https://avatars.githubusercontent.com/u/21201737?s=72&u=cb68d4c8882616bf2098ee18e06a8cadcdc93091&v=4" width="24" alt="Avatar of sneaker30"> sneaker30
-			</a><br/>
-			sneaker30.net
-		</td>
-		<td>Sveng It Solutions </td>
-		<td>No Twitter Username</td>
-		<td>VTE, LAOS.</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
 			<a href="https://github.com/nenadkonya">
 				<img src="https://avatars.githubusercontent.com/u/156106631?s=72&u=060500cd6f7a5cef6b92cdfcaacff68cb1b7c2b3&v=4" width="24" alt="Avatar of nenadkonya"> nenadkonya
 			</a><br/>
@@ -2406,7 +2393,7 @@ There are `547 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/phoudthaxaysisomboun">
 				<img src="https://avatars.githubusercontent.com/u/20624274?s=72&u=80626442966218076ea350122bdd672be158ca0c&v=4" width="24" alt="Avatar of phoudthaxaysisomboun"> phoudthaxaysisomboun
@@ -2416,6 +2403,19 @@ There are `547 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Nuol </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/sneaker30">
+				<img src="https://avatars.githubusercontent.com/u/21201737?s=72&u=cb68d4c8882616bf2098ee18e06a8cadcdc93091&v=4" width="24" alt="Avatar of sneaker30"> sneaker30
+			</a><br/>
+			sneaker30.net
+		</td>
+		<td>Sveng It Solutions </td>
+		<td>No Twitter Username</td>
+		<td>VTE, LAOS.</td>
 		<td>2</td>
 	</tr>
 	<tr>
