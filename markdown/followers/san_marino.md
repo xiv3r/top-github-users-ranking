@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/6/27 2:40 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/6/29 6:01 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -185,6 +185,19 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/its-hmny">
+				<img src="https://avatars.githubusercontent.com/u/50141843?s=72&u=0c4bf025651a06d41deeaaeca30b9424826ac170&v=4" width="24" alt="Avatar of its-hmny"> its-hmny
+			</a><br/>
+			Enea Guidi
+		</td>
+		<td>Bkn301 </td>
+		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
+		<td>San Marino</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/giacomobartoli">
 				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
 			</a><br/>
@@ -196,7 +209,7 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/TAIPANBOX">
 				<img src="https://avatars.githubusercontent.com/u/24824880?s=72&u=2f5b836f86e14951c340d98048740c2c8fa801c7&v=4" width="24" alt="Avatar of TAIPANBOX"> TAIPANBOX
@@ -207,19 +220,6 @@ There are `129 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/yukostiuk">yukostiuk</a></td>
 		<td>San Marino</td>
 		<td>17</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/its-hmny">
-				<img src="https://avatars.githubusercontent.com/u/50141843?s=72&u=0c4bf025651a06d41deeaaeca30b9424826ac170&v=4" width="24" alt="Avatar of its-hmny"> its-hmny
-			</a><br/>
-			Enea Guidi
-		</td>
-		<td>Bkn301 </td>
-		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
-		<td>San Marino</td>
-		<td>16</td>
 	</tr>
 	<tr>
 		<td>10</td>
