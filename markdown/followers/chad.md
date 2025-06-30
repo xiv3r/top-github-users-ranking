@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/6/28 12:18 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/6/30 5:25 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -822,19 +822,6 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/Dissentbay">
-				<img src="https://avatars.githubusercontent.com/u/4554200?s=72&v=4" width="24" alt="Avatar of Dissentbay"> Dissentbay
-			</a><br/>
-			Dissent
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Djamena, Chad</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
 			<a href="https://github.com/naitze">
 				<img src="https://avatars.githubusercontent.com/u/95242540?s=72&u=d293e79856c2b43d3129f51730908a7026679201&v=4" width="24" alt="Avatar of naitze"> naitze
 			</a><br/>
@@ -846,7 +833,7 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/bibahorizonservices">
 				<img src="https://avatars.githubusercontent.com/u/202710920?s=72&u=8b9ed786670d10e82f7d4215ca4fd2e19bcd7edd&v=4" width="24" alt="Avatar of bibahorizonservices"> bibahorizonservices
@@ -856,6 +843,19 @@ There are `158 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Bhs </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/Dissentbay">
+				<img src="https://avatars.githubusercontent.com/u/4554200?s=72&v=4" width="24" alt="Avatar of Dissentbay"> Dissentbay
+			</a><br/>
+			Dissent
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Djamena, Chad</td>
 		<td>2</td>
 	</tr>
 	<tr>
