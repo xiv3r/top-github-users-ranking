@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/7/2 9:57 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/7/2 10:06 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1320,8 +1320,8 @@ There are `969 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>@talentsight </td>
 		<td><a href="https://twitter.com/AlexanderGekov">AlexanderGekov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>208</td>
-		<td>1481</td>
+		<td>213</td>
+		<td>1486</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -3812,8 +3812,8 @@ There are `969 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>Digital Lights Ltd. </td>
 		<td><a href="https://twitter.com/azlekov">azlekov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>25</td>
-		<td>525</td>
+		<td>26</td>
+		<td>526</td>
 	</tr>
 	<tr>
 		<td>266</td>
