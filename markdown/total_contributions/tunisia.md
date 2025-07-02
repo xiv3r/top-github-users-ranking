@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` and `private contributions` by users in Tunisia on `2025/7/2 9:59 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` and `private contributions` by users in Tunisia on `2025/7/2 10:13 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>@revi.ai </td>
 		<td><a href="https://twitter.com/0x4D424D">0x4D424D</a></td>
 		<td>Tunisia</td>
-		<td>6393</td>
-		<td>8501</td>
+		<td>6394</td>
+		<td>8502</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/siguici">siguici</a></td>
 		<td>Nabeul, Tunisia.</td>
 		<td>2239</td>
-		<td>7375</td>
+		<td>7377</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/YoussefBrr">YoussefBrr</a></td>
 		<td>Sousse, Tunisia</td>
 		<td>76</td>
-		<td>4600</td>
+		<td>4608</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -257,7 +257,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
 		<td>16</td>
-		<td>3129</td>
+		<td>3130</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,8 +270,8 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>Core Techs Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
-		<td>831</td>
-		<td>3050</td>
+		<td>852</td>
+		<td>3080</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -537,7 +537,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
 		<td>1</td>
-		<td>2155</td>
+		<td>2160</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -607,7 +607,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunisia </td>
 		<td>13</td>
-		<td>1961</td>
+		<td>1965</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -845,7 +845,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
 		<td>79</td>
-		<td>1609</td>
+		<td>1610</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -929,7 +929,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunis,sousse</td>
 		<td>764</td>
-		<td>1498</td>
+		<td>1501</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1181,7 +1181,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/bahachammakhi">bahachammakhi</a></td>
 		<td>Tunis</td>
 		<td>30</td>
-		<td>1243</td>
+		<td>1244</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1223,7 +1223,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ariana, Tunisia </td>
 		<td>478</td>
-		<td>1217</td>
+		<td>1218</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -2399,7 +2399,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>France / Tunisia</td>
 		<td>41</td>
-		<td>660</td>
+		<td>661</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -6058,6 +6058,20 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>426</td>
 		<td>
+			<a href="https://github.com/MohamedKhalilHermassi">
+				<img src="https://avatars.githubusercontent.com/u/98894337?s=72&u=3791fe0ca831f2b25e2a62ce4f55351edf373633&v=4" width="24" alt="Avatar of MohamedKhalilHermassi"> MohamedKhalilHermassi
+			</a><br/>
+			Mohamed Khalil Hermassi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/khalil_herma6">khalil_herma6</a></td>
+		<td>Tunis</td>
+		<td>80</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
 			<a href="https://github.com/WalaMotamed">
 				<img src="https://avatars.githubusercontent.com/u/54326883?s=72&v=4" width="24" alt="Avatar of WalaMotamed"> WalaMotamed
 			</a><br/>
@@ -6070,7 +6084,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/MohamedBoukthir">
 				<img src="https://avatars.githubusercontent.com/u/124532428?s=72&u=a672bb4f33076b8b635531482a77fe0c80d3f528&v=4" width="24" alt="Avatar of MohamedBoukthir"> MohamedBoukthir
@@ -6084,7 +6098,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/toximate">
 				<img src="https://avatars.githubusercontent.com/u/133029523?s=72&u=768a3036cbaa05411f4743507af4da36a6b068a4&v=4" width="24" alt="Avatar of toximate"> toximate
@@ -6098,7 +6112,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/Barhoumi-Nawres">
 				<img src="https://avatars.githubusercontent.com/u/129695241?s=72&u=10d159d9f2d07eecab1ad32561e895ad4685b813&v=4" width="24" alt="Avatar of Barhoumi-Nawres"> Barhoumi-Nawres
@@ -6112,7 +6126,7 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/mouniraz">
 				<img src="https://avatars.githubusercontent.com/u/33163196?s=72&u=f79b3031d28768bafbaa0cc4cb25a1de0ea02dbd&v=4" width="24" alt="Avatar of mouniraz"> mouniraz
@@ -6123,20 +6137,6 @@ There are `980 users`  in Tunisia. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>tunisia</td>
 		<td>134</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/MohamedKhalilHermassi">
-				<img src="https://avatars.githubusercontent.com/u/98894337?s=72&u=3791fe0ca831f2b25e2a62ce4f55351edf373633&v=4" width="24" alt="Avatar of MohamedKhalilHermassi"> MohamedKhalilHermassi
-			</a><br/>
-			Mohamed Khalil Hermassi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/khalil_herma6">khalil_herma6</a></td>
-		<td>Tunis</td>
-		<td>78</td>
 		<td>134</td>
 	</tr>
 	<tr>
