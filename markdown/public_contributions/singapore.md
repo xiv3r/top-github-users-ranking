@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore">
 </a>
 
-The `public contributions` by users in Singapore on `2025/7/4 11:52 AM UTC`. This list contains users from `Singapore` and cities`Singapore` and cities.
+The `public contributions` by users in Singapore on `2025/7/4 12:01 PM UTC`. This list contains users from `Singapore` and cities`Singapore` and cities.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `892 users`  in Singapore. You need at least `81 followers` to be on t
 		<td>@defich, @cakedefi, @birthdayresearch </td>
 		<td><a href="https://twitter.com/prasannavl">prasannavl</a></td>
 		<td>Singapore</td>
-		<td>29080</td>
+		<td>29082</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1571,7 +1571,7 @@ There are `892 users`  in Singapore. You need at least `81 followers` to be on t
 		<td>Tinkertanker </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>498</td>
+		<td>499</td>
 	</tr>
 	<tr>
 		<td>114</td>
