@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` by users in Israel on `2025/7/5 5:59 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` by users in Israel on `2025/7/5 6:10 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>21219</td>
+		<td>21224</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -206,7 +206,7 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>3193</td>
+		<td>3194</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -3396,6 +3396,19 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 	<tr>
 		<td>254</td>
 		<td>
+			<a href="https://github.com/Minitour">
+				<img src="https://avatars.githubusercontent.com/u/17438617?s=72&u=d69f98127dd69bb53dc0ed0a1119833aa2483ff9&v=4" width="24" alt="Avatar of Minitour"> Minitour
+			</a><br/>
+			Antonio Zaitoun
+		</td>
+		<td>Ge Healthcare </td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
 			<a href="https://github.com/shootermv">
 				<img src="https://avatars.githubusercontent.com/u/1336862?s=72&u=8b0df08b876981fb46a6b210f6f88215c4377317&v=4" width="24" alt="Avatar of shootermv"> shootermv
 			</a><br/>
@@ -3405,19 +3418,6 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 		<td><a href="https://twitter.com/shootermv">shootermv</a></td>
 		<td>Jerusalem</td>
 		<td>150</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/Minitour">
-				<img src="https://avatars.githubusercontent.com/u/17438617?s=72&u=d69f98127dd69bb53dc0ed0a1119833aa2483ff9&v=4" width="24" alt="Avatar of Minitour"> Minitour
-			</a><br/>
-			Antonio Zaitoun
-		</td>
-		<td>Ge Healthcare </td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>149</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -4137,6 +4137,19 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 	<tr>
 		<td>311</td>
 		<td>
+			<a href="https://github.com/UrielOfir">
+				<img src="https://avatars.githubusercontent.com/u/30144878?s=72&u=4aaceee81155c1e2f5f35e486c0a6b699f48638d&v=4" width="24" alt="Avatar of UrielOfir"> UrielOfir
+			</a><br/>
+			Uriel Ofir
+		</td>
+		<td>Mizrahi-tefahot </td>
+		<td><a href="https://twitter.com/OfirUriel">OfirUriel</a></td>
+		<td>Jerusalem, Israel</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a href="https://github.com/rotem154154">
 				<img src="https://avatars.githubusercontent.com/u/5027057?s=72&u=8db48999d55e4d297b49038fca346be46bace898&v=4" width="24" alt="Avatar of rotem154154"> rotem154154
 			</a><br/>
@@ -4148,7 +4161,7 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/gilamran">
 				<img src="https://avatars.githubusercontent.com/u/1621965?s=72&u=03b51298b2817017aecf99e90a4cd72734646eee&v=4" width="24" alt="Avatar of gilamran"> gilamran
@@ -4159,19 +4172,6 @@ There are `936 users`  in Israel. You need at least `30 followers` to be on this
 		<td><a href="https://twitter.com/gilamran">gilamran</a></td>
 		<td>Israel</td>
 		<td>96</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/UrielOfir">
-				<img src="https://avatars.githubusercontent.com/u/30144878?s=72&u=4aaceee81155c1e2f5f35e486c0a6b699f48638d&v=4" width="24" alt="Avatar of UrielOfir"> UrielOfir
-			</a><br/>
-			Uriel Ofir
-		</td>
-		<td>Mizrahi-tefahot </td>
-		<td><a href="https://twitter.com/OfirUriel">OfirUriel</a></td>
-		<td>Jerusalem, Israel</td>
-		<td>95</td>
 	</tr>
 	<tr>
 		<td>314</td>
