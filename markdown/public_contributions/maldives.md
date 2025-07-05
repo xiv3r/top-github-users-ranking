@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `public contributions` by users in Maldives on `2025/7/3 8:51 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `public contributions` by users in Maldives on `2025/7/5 10:00 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Balloonshare </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>577</td>
+		<td>587</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -232,7 +232,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Powershell Pvt Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>239</td>
+		<td>265</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -804,7 +804,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Doofenshmirtz Evil Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Male, Maldives</td>
-		<td>37</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -835,6 +835,19 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/pixelatedpic">
+				<img src="https://avatars.githubusercontent.com/u/6084021?s=72&u=b935d3a3d4e4153c4e5195fca855f98065886886&v=4" width="24" alt="Avatar of pixelatedpic"> pixelatedpic
+			</a><br/>
+			Mohamed Afzal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maldives</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/hassanhazif">
 				<img src="https://avatars.githubusercontent.com/u/94222127?s=72&u=051691961e7802cc2b56537226cc99bafc60fd97&v=4" width="24" alt="Avatar of hassanhazif"> hassanhazif
 			</a><br/>
@@ -844,19 +857,6 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/HassanHazif">HassanHazif</a></td>
 		<td>Maldives</td>
 		<td>36</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/pixelatedpic">
-				<img src="https://avatars.githubusercontent.com/u/6084021?s=72&u=b935d3a3d4e4153c4e5195fca855f98065886886&v=4" width="24" alt="Avatar of pixelatedpic"> pixelatedpic
-			</a><br/>
-			Mohamed Afzal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1017,6 +1017,19 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/AhmedSharyph">
+				<img src="https://avatars.githubusercontent.com/u/39231530?s=72&u=d93a582916dc5da7dc33bdaab92982007cd6b2bc&v=4" width="24" alt="Avatar of AhmedSharyph"> AhmedSharyph
+			</a><br/>
+			Ahmed Sharyph
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ahmedsharyph">ahmedsharyph</a></td>
+		<td>Funadhoo, Shaviyani Atoll, Maldives</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/Samooh-9820060">
 				<img src="https://avatars.githubusercontent.com/u/114355897?s=72&u=e3f7f9d5e6b8346340f10af250eeb917cfbf9b7d&v=4" width="24" alt="Avatar of Samooh-9820060"> Samooh-9820060
 			</a><br/>
@@ -1028,7 +1041,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/hasethakuru">
 				<img src="https://avatars.githubusercontent.com/u/51480257?s=72&u=e6105bc606c3d5c7dc21edcf7ec71715829bda74&v=4" width="24" alt="Avatar of hasethakuru"> hasethakuru
@@ -1041,7 +1054,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/DaniAsh551">
 				<img src="https://avatars.githubusercontent.com/u/20218355?s=72&u=82dc306e28d4d74532b4ed8fc7795e7ffec38c4a&v=4" width="24" alt="Avatar of DaniAsh551"> DaniAsh551
@@ -1054,7 +1067,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/foreignstyle">
 				<img src="https://avatars.githubusercontent.com/u/122307198?s=72&u=b8ec36ed488ea0cdaeac06ee3cd066dcae0d7e7a&v=4" width="24" alt="Avatar of foreignstyle"> foreignstyle
@@ -1067,7 +1080,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/naxeem">
 				<img src="https://avatars.githubusercontent.com/u/1323610?s=72&u=adad01ea5bb9e681a3a4bbfbc621840d83320930&v=4" width="24" alt="Avatar of naxeem"> naxeem
@@ -1080,7 +1093,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/hussainabeer">
 				<img src="https://avatars.githubusercontent.com/u/50265892?s=72&u=b51c6836c1dfc1e9d6faee29b97be28f71bded1d&v=4" width="24" alt="Avatar of hussainabeer"> hussainabeer
@@ -1093,7 +1106,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/ad1txx1">
 				<img src="https://avatars.githubusercontent.com/u/103532463?s=72&u=3fcfa85b37890e2b23f37a61e5f8e70041c440d0&v=4" width="24" alt="Avatar of ad1txx1"> ad1txx1
@@ -1106,7 +1119,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/fathihfaiz">
 				<img src="https://avatars.githubusercontent.com/u/37175747?s=72&v=4" width="24" alt="Avatar of fathihfaiz"> fathihfaiz
@@ -1119,7 +1132,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/ismathz">
 				<img src="https://avatars.githubusercontent.com/u/34836778?s=72&v=4" width="24" alt="Avatar of ismathz"> ismathz
@@ -1132,7 +1145,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/Shaimal147">
 				<img src="https://avatars.githubusercontent.com/u/146072160?s=72&u=d5495004697df6347adea68ece739e88e7460e71&v=4" width="24" alt="Avatar of Shaimal147"> Shaimal147
@@ -1145,7 +1158,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/RiyazMansoor">
 				<img src="https://avatars.githubusercontent.com/u/8048540?s=72&v=4" width="24" alt="Avatar of RiyazMansoor"> RiyazMansoor
@@ -1158,7 +1171,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/naifmhd">
 				<img src="https://avatars.githubusercontent.com/u/13846414?s=72&u=618b843280061d00bb93ebaba463f9784a506b7d&v=4" width="24" alt="Avatar of naifmhd"> naifmhd
@@ -1171,7 +1184,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/alphanovemba">
 				<img src="https://avatars.githubusercontent.com/u/165511912?s=72&v=4" width="24" alt="Avatar of alphanovemba"> alphanovemba
@@ -1184,7 +1197,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/sykezz">
 				<img src="https://avatars.githubusercontent.com/u/6332979?s=72&u=102ec8e1916e0f34340929bd37b4cd82df663360&v=4" width="24" alt="Avatar of sykezz"> sykezz
@@ -1197,7 +1210,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/itsMaadh">
 				<img src="https://avatars.githubusercontent.com/u/41133253?s=72&u=68c33eabecd2ffe967b6ff8f43f63ffe2110341d&v=4" width="24" alt="Avatar of itsMaadh"> itsMaadh
@@ -1210,7 +1223,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/shihaamabr">
 				<img src="https://avatars.githubusercontent.com/u/14050675?s=72&u=8f2d69abc2dbb60b1f70f1e4eaddea476f5eab2d&v=4" width="24" alt="Avatar of shihaamabr"> shihaamabr
@@ -1223,7 +1236,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/eDmxHr">
 				<img src="https://avatars.githubusercontent.com/u/160397113?s=72&v=4" width="24" alt="Avatar of eDmxHr"> eDmxHr
@@ -1233,19 +1246,6 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/AhmedSharyph">
-				<img src="https://avatars.githubusercontent.com/u/39231530?s=72&u=d93a582916dc5da7dc33bdaab92982007cd6b2bc&v=4" width="24" alt="Avatar of AhmedSharyph"> AhmedSharyph
-			</a><br/>
-			Ahmed Sharyph
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ahmedsharyph">ahmedsharyph</a></td>
-		<td>Funadhoo, Shaviyani Atoll, Maldives</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -1446,6 +1446,19 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/mushfau">
+				<img src="https://avatars.githubusercontent.com/u/14769830?s=72&u=93d9bdbb4c549abb2e9283b3ff4f47997a8ec802&v=4" width="24" alt="Avatar of mushfau"> mushfau
+			</a><br/>
+			mushfau saeed
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mushfau">mushfau</a></td>
+		<td>Addu, Maldives</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/islandboymv">
 				<img src="https://avatars.githubusercontent.com/u/90321630?s=72&u=f398859c9ffe2bbf61fab1892111d7d072b89046&v=4" width="24" alt="Avatar of islandboymv"> islandboymv
 			</a><br/>
@@ -1457,7 +1470,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/naaih">
 				<img src="https://avatars.githubusercontent.com/u/24250947?s=72&u=2df613289b45d585bb3b44640bef8197a3f66ad2&v=4" width="24" alt="Avatar of naaih"> naaih
@@ -1467,19 +1480,6 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/mushfau">
-				<img src="https://avatars.githubusercontent.com/u/14769830?s=72&u=93d9bdbb4c549abb2e9283b3ff4f47997a8ec802&v=4" width="24" alt="Avatar of mushfau"> mushfau
-			</a><br/>
-			mushfau saeed
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mushfau">mushfau</a></td>
-		<td>Addu, Maldives</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -2538,6 +2538,19 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>188</td>
 		<td>
+			<a href="https://github.com/Anoo555">
+				<img src="https://avatars.githubusercontent.com/u/39137780?s=72&v=4" width="24" alt="Avatar of Anoo555"> Anoo555
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MohamedAnoof2">MohamedAnoof2</a></td>
+		<td>Maldives</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
 			<a href="https://github.com/shiham">
 				<img src="https://avatars.githubusercontent.com/u/2444752?s=72&u=6fb1c5eaf6309a220dc2200bf456e0d3e99723ac&v=4" width="24" alt="Avatar of shiham"> shiham
 			</a><br/>
@@ -2549,7 +2562,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/shrvn12120">
 				<img src="https://avatars.githubusercontent.com/u/57077347?s=72&u=6a5b82419d2d6f68dacd830fea09239c6fd92222&v=4" width="24" alt="Avatar of shrvn12120"> shrvn12120
@@ -2562,7 +2575,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/abunawwaar">
 				<img src="https://avatars.githubusercontent.com/u/70341394?s=72&u=aec0135733bd1ef14d1295e42d707b6d8446ba58&v=4" width="24" alt="Avatar of abunawwaar"> abunawwaar
@@ -2575,7 +2588,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/Samiyya2">
 				<img src="https://avatars.githubusercontent.com/u/209429545?s=72&v=4" width="24" alt="Avatar of Samiyya2"> Samiyya2
@@ -2588,7 +2601,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/maakanaamv">
 				<img src="https://avatars.githubusercontent.com/u/89781189?s=72&u=3775da9ab9c9bf40f5b750c8d60ec14e6ea6fa59&v=4" width="24" alt="Avatar of maakanaamv"> maakanaamv
@@ -2601,7 +2614,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/zentrixsolutionsmv">
 				<img src="https://avatars.githubusercontent.com/u/212055121?s=72&v=4" width="24" alt="Avatar of zentrixsolutionsmv"> zentrixsolutionsmv
@@ -2614,7 +2627,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/Shizmee">
 				<img src="https://avatars.githubusercontent.com/u/207990989?s=72&v=4" width="24" alt="Avatar of Shizmee"> Shizmee
@@ -2627,7 +2640,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/kintiq">
 				<img src="https://avatars.githubusercontent.com/u/186810189?s=72&u=5399e07797555351976b07e2e7d2360c74cdcb22&v=4" width="24" alt="Avatar of kintiq"> kintiq
@@ -2640,7 +2653,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/reallynattu">
 				<img src="https://avatars.githubusercontent.com/u/2539454?s=72&u=90733e2078c83a63fba4b1a5ba163ab2e37458d8&v=4" width="24" alt="Avatar of reallynattu"> reallynattu
@@ -2653,7 +2666,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/dhivehi">
 				<img src="https://avatars.githubusercontent.com/u/18715293?s=72&u=656cdfdcf7cc47d52cc207a9b84afab01e533393&v=4" width="24" alt="Avatar of dhivehi"> dhivehi
@@ -2666,7 +2679,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/avonryle">
 				<img src="https://avatars.githubusercontent.com/u/84014668?s=72&u=316b050b54ce142d3d64b7e084a84ff160b58e0a&v=4" width="24" alt="Avatar of avonryle"> avonryle
@@ -2679,7 +2692,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/shxfee">
 				<img src="https://avatars.githubusercontent.com/u/5055537?s=72&u=b897672170f26b0aa6de1514853e9cf240d65d09&v=4" width="24" alt="Avatar of shxfee"> shxfee
@@ -2692,7 +2705,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/iyadhali">
 				<img src="https://avatars.githubusercontent.com/u/85490469?s=72&v=4" width="24" alt="Avatar of iyadhali"> iyadhali
@@ -2705,7 +2718,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/fahipay">
 				<img src="https://avatars.githubusercontent.com/u/29014305?s=72&u=cd16a9492c694cf86ac1426a681bc6d88a630179&v=4" width="24" alt="Avatar of fahipay"> fahipay
@@ -2718,7 +2731,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/polosate">
 				<img src="https://avatars.githubusercontent.com/u/16186869?s=72&u=120e70fdd421585c39042c63f1714b3f11ca5f48&v=4" width="24" alt="Avatar of polosate"> polosate
@@ -2731,7 +2744,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/Akw82">
 				<img src="https://avatars.githubusercontent.com/u/31769365?s=72&u=bb27d919ac538b466b88649f7b1586917d1913b1&v=4" width="24" alt="Avatar of Akw82"> Akw82
@@ -2744,7 +2757,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/rafahath-ibrahim">
 				<img src="https://avatars.githubusercontent.com/u/70164973?s=72&u=97433f166aded571614e5a860f34766d65534584&v=4" width="24" alt="Avatar of rafahath-ibrahim"> rafahath-ibrahim
@@ -2757,7 +2770,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/DarkXoro">
 				<img src="https://avatars.githubusercontent.com/u/21080247?s=72&v=4" width="24" alt="Avatar of DarkXoro"> DarkXoro
@@ -2770,7 +2783,7 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/aboobakurusuheyl">
 				<img src="https://avatars.githubusercontent.com/u/29430273?s=72&u=dcd5a81c60f27e0a7c44fbdee2be526814923867&v=4" width="24" alt="Avatar of aboobakurusuheyl"> aboobakurusuheyl
@@ -2779,19 +2792,6 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>@pension </td>
 		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/Anoo555">
-				<img src="https://avatars.githubusercontent.com/u/39137780?s=72&v=4" width="24" alt="Avatar of Anoo555"> Anoo555
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MohamedAnoof2">MohamedAnoof2</a></td>
 		<td>Maldives</td>
 		<td>2</td>
 	</tr>
@@ -3942,19 +3942,6 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/aliziyad">
-				<img src="https://avatars.githubusercontent.com/u/54769551?s=72&v=4" width="24" alt="Avatar of aliziyad"> aliziyad
-			</a><br/>
-			Ali Ziyad
-		</td>
-		<td>Digiocart </td>
-		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
 			<a href="https://github.com/faizalism">
 				<img src="https://avatars.githubusercontent.com/u/26212266?s=72&u=01e754d97424610228d3204157ca2d273d19022f&v=4" width="24" alt="Avatar of faizalism"> faizalism
 			</a><br/>
@@ -3962,6 +3949,19 @@ There are `688 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/faizalism100">faizalism100</a></td>
+		<td>Maldives</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/aliziyad">
+				<img src="https://avatars.githubusercontent.com/u/54769551?s=72&v=4" width="24" alt="Avatar of aliziyad"> aliziyad
+			</a><br/>
+			Ali Ziyad
+		</td>
+		<td>Digiocart </td>
+		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>1</td>
 	</tr>
