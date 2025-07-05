@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2025/7/5 1:51 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` and `private contributions` by users in France on `2025/7/5 2:01 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>11520</td>
-		<td>11617</td>
+		<td>11527</td>
+		<td>11624</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -313,7 +313,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td><a href="https://twitter.com/dgageot">dgageot</a></td>
 		<td>Paris, France</td>
 		<td>440</td>
-		<td>5917</td>
+		<td>5918</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1012,8 +1012,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Apollo Graphql </td>
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
-		<td>3014</td>
-		<td>3191</td>
+		<td>3016</td>
+		<td>3193</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -2118,8 +2118,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>@cardano-foundation </td>
 		<td><a href="https://twitter.com/_KtorZ_">_KtorZ_</a></td>
 		<td>Toulouse</td>
-		<td>1979</td>
-		<td>2005</td>
+		<td>1981</td>
+		<td>2007</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -4022,8 +4022,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Probabl.ai </td>
 		<td><a href="https://twitter.com/ogrisel">ogrisel</a></td>
 		<td>Paris, France</td>
-		<td>1080</td>
-		<td>1080</td>
+		<td>1081</td>
+		<td>1081</td>
 	</tr>
 	<tr>
 		<td>281</td>
@@ -4512,8 +4512,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Freelance At Moox.io </td>
 		<td>No Twitter Username</td>
 		<td>Toulouse, France</td>
-		<td>384</td>
-		<td>925</td>
+		<td>385</td>
+		<td>926</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -6612,8 +6612,8 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Ifea.education </td>
 		<td><a href="https://twitter.com/elierotenberg">elierotenberg</a></td>
 		<td>France</td>
-		<td>67</td>
-		<td>520</td>
+		<td>68</td>
+		<td>521</td>
 	</tr>
 	<tr>
 		<td>466</td>

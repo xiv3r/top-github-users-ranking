@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` by users in France on `2025/7/5 1:51 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` by users in France on `2025/7/5 2:01 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>11520</td>
+		<td>11527</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -505,7 +505,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Apollo Graphql </td>
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
-		<td>3014</td>
+		<td>3016</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1012,7 +1012,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>@cardano-foundation </td>
 		<td><a href="https://twitter.com/_KtorZ_">_KtorZ_</a></td>
 		<td>Toulouse</td>
-		<td>1979</td>
+		<td>1981</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -2039,7 +2039,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>Probabl.ai </td>
 		<td><a href="https://twitter.com/ogrisel">ogrisel</a></td>
 		<td>Paris, France</td>
-		<td>1080</td>
+		<td>1081</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -4579,6 +4579,19 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/MoOx">
+				<img src="https://avatars.githubusercontent.com/u/157534?s=72&u=7f6ef9c51c733eb73da5aec65c0a04149604ad10&v=4" width="24" alt="Avatar of MoOx"> MoOx
+			</a><br/>
+			Max
+		</td>
+		<td>Freelance At Moox.io </td>
+		<td>No Twitter Username</td>
+		<td>Toulouse, France</td>
+		<td>385</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/martinlaxenaire">
 				<img src="https://avatars.githubusercontent.com/u/38728843?s=72&u=b316fa445c95d47b917f5b090e9c01f6bb1d11cc&v=4" width="24" alt="Avatar of martinlaxenaire"> martinlaxenaire
 			</a><br/>
@@ -4588,19 +4601,6 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td><a href="https://twitter.com/martinlaxenaire">martinlaxenaire</a></td>
 		<td>Lyon, France</td>
 		<td>385</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/MoOx">
-				<img src="https://avatars.githubusercontent.com/u/157534?s=72&u=7f6ef9c51c733eb73da5aec65c0a04149604ad10&v=4" width="24" alt="Avatar of MoOx"> MoOx
-			</a><br/>
-			Max
-		</td>
-		<td>Freelance At Moox.io </td>
-		<td>No Twitter Username</td>
-		<td>Toulouse, France</td>
-		<td>384</td>
 	</tr>
 	<tr>
 		<td>347</td>
@@ -8375,6 +8375,19 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 	<tr>
 		<td>637</td>
 		<td>
+			<a href="https://github.com/elierotenberg">
+				<img src="https://avatars.githubusercontent.com/u/4177867?s=72&u=9672e1bcb5e585e0154096fd9127bb4de9afda6e&v=4" width="24" alt="Avatar of elierotenberg"> elierotenberg
+			</a><br/>
+			Elie Rotenberg
+		</td>
+		<td>Ifea.education </td>
+		<td><a href="https://twitter.com/elierotenberg">elierotenberg</a></td>
+		<td>France</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
 			<a href="https://github.com/blanklob">
 				<img src="https://avatars.githubusercontent.com/u/63895927?s=72&u=98884cbca408e11543fa8cb1a033ecff0447f83e&v=4" width="24" alt="Avatar of blanklob"> blanklob
 			</a><br/>
@@ -8386,7 +8399,7 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/pgrimaud">
 				<img src="https://avatars.githubusercontent.com/u/1866496?s=72&u=4b2f258754b4728d019d03d7a014be1812ae69fa&v=4" width="24" alt="Avatar of pgrimaud"> pgrimaud
@@ -8396,19 +8409,6 @@ There are `921 users`  in France. You need at least `207 followers` to be on thi
 		<td>@sezane </td>
 		<td><a href="https://twitter.com/pgrimaud_">pgrimaud_</a></td>
 		<td>Paris, France</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>639</td>
-		<td>
-			<a href="https://github.com/elierotenberg">
-				<img src="https://avatars.githubusercontent.com/u/4177867?s=72&u=9672e1bcb5e585e0154096fd9127bb4de9afda6e&v=4" width="24" alt="Avatar of elierotenberg"> elierotenberg
-			</a><br/>
-			Elie Rotenberg
-		</td>
-		<td>Ifea.education </td>
-		<td><a href="https://twitter.com/elierotenberg">elierotenberg</a></td>
-		<td>France</td>
 		<td>67</td>
 	</tr>
 	<tr>
