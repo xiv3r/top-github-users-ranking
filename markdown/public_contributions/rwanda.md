@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` by users in Rwanda on `2025/7/6 10:51 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` by users in Rwanda on `2025/7/6 11:02 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/didierdrin">didierdrin</a></td>
 		<td>Kigali, RW</td>
-		<td>1523</td>
+		<td>1524</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -276,6 +276,19 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/charite-uwatwembi">
+				<img src="https://avatars.githubusercontent.com/u/122974830?s=72&u=5cc7c2fb34760590388ab9cec7fbef1b162a5f72&v=4" width="24" alt="Avatar of charite-uwatwembi"> charite-uwatwembi
+			</a><br/>
+			charite UWATWEMBI
+		</td>
+		<td>Zipline </td>
+		<td><a href="https://twitter.com/twembicharite">twembicharite</a></td>
+		<td>kigali, Rwanda</td>
+		<td>1249</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/nrprosper">
 				<img src="https://avatars.githubusercontent.com/u/164726565?s=72&u=a7c8f6de01680a977da506788f923834ad667922&v=4" width="24" alt="Avatar of nrprosper"> nrprosper
 			</a><br/>
@@ -285,19 +298,6 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kigali, Nyarugenge</td>
 		<td>1249</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/charite-uwatwembi">
-				<img src="https://avatars.githubusercontent.com/u/122974830?s=72&u=5cc7c2fb34760590388ab9cec7fbef1b162a5f72&v=4" width="24" alt="Avatar of charite-uwatwembi"> charite-uwatwembi
-			</a><br/>
-			charite UWATWEMBI
-		</td>
-		<td>Zipline </td>
-		<td><a href="https://twitter.com/twembicharite">twembicharite</a></td>
-		<td>kigali, Rwanda</td>
-		<td>1248</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1103,7 +1103,7 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nishimweprince">nishimweprince</a></td>
 		<td>Kigali, Rwanda</td>
-		<td>543</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -5047,19 +5047,6 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 	<tr>
 		<td>381</td>
 		<td>
-			<a href="https://github.com/izabayo7">
-				<img src="https://avatars.githubusercontent.com/u/54701788?s=72&u=aefc60d01174bcf2644519a5a24a9444a581094b&v=4" width="24" alt="Avatar of izabayo7"> izabayo7
-			</a><br/>
-			Cedric Izabayo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
 			<a href="https://github.com/clementus360">
 				<img src="https://avatars.githubusercontent.com/u/78825085?s=72&u=32fce3bffe34fa62d7eb39618e24ab95bc850b8e&v=4" width="24" alt="Avatar of clementus360"> clementus360
 			</a><br/>
@@ -5068,6 +5055,19 @@ There are `968 users`  in Rwanda. You need at least `9 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/izabayo7">
+				<img src="https://avatars.githubusercontent.com/u/54701788?s=72&u=aefc60d01174bcf2644519a5a24a9444a581094b&v=4" width="24" alt="Avatar of izabayo7"> izabayo7
+			</a><br/>
+			Cedric Izabayo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
 		<td>115</td>
 	</tr>
 	<tr>
