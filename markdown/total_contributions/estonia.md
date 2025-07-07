@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `public contributions` and `private contributions` by users in Estonia on `2025/7/7 2:57 PM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `public contributions` and `private contributions` by users in Estonia on `2025/7/7 3:06 PM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `905 users`  in Estonia. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>19</td>
-		<td>9987</td>
+		<td>9984</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -2189,7 +2189,7 @@ There are `905 users`  in Estonia. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>671</td>
-		<td>1137</td>
+		<td>1138</td>
 	</tr>
 	<tr>
 		<td>150</td>
