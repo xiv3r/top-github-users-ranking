@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/7/8 7:45 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/7/8 7:55 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2777,7 +2777,7 @@ There are `981 users`  in South Korea. You need at least `108 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Daejeon, Republic of Korea</td>
 		<td>194</td>
-		<td>1467</td>
+		<td>1468</td>
 	</tr>
 	<tr>
 		<td>192</td>
@@ -4583,7 +4583,7 @@ There are `981 users`  in South Korea. You need at least `108 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
 		<td>483</td>
-		<td>851</td>
+		<td>852</td>
 	</tr>
 	<tr>
 		<td>321</td>

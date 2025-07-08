@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `number of followers` of users in South Korea on `2025/7/8 7:45 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `number of followers` of users in South Korea on `2025/7/8 7:55 PM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2993,6 +2993,19 @@ There are `981 users`  in South Korea. You need at least `108 followers` to be o
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/eunsukimme">
+				<img src="https://avatars.githubusercontent.com/u/31213226?s=72&u=60642ee1bd9f6442654fe7f5b94dfc964e012aa9&v=4" width="24" alt="Avatar of eunsukimme"> eunsukimme
+			</a><br/>
+			Eunsu(Evan) Kim
+		</td>
+		<td>@daangn </td>
+		<td><a href="https://twitter.com/eunsukimme">eunsukimme</a></td>
+		<td>Seoul, Korea</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/ssi02014">
 				<img src="https://avatars.githubusercontent.com/u/64779472?s=72&u=593c8e0d8fa2802cf54e2dd3b1e7a5db9e21e51b&v=4" width="24" alt="Avatar of ssi02014"> ssi02014
 			</a><br/>
@@ -3002,19 +3015,6 @@ There are `981 users`  in South Korea. You need at least `108 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Seoul</td>
 		<td>252</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/eunsukimme">
-				<img src="https://avatars.githubusercontent.com/u/31213226?s=72&u=60642ee1bd9f6442654fe7f5b94dfc964e012aa9&v=4" width="24" alt="Avatar of eunsukimme"> eunsukimme
-			</a><br/>
-			Eunsu(Evan) Kim
-		</td>
-		<td>@daangn </td>
-		<td><a href="https://twitter.com/eunsukimme">eunsukimme</a></td>
-		<td>Seoul, Korea</td>
-		<td>251</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -3222,7 +3222,7 @@ There are `981 users`  in South Korea. You need at least `108 followers` to be o
 		<td>@lablup @ausg @campus-experts @aws-cloud-clubs<br/></td>
 		<td>No Twitter Username</td>
 		<td>Seoul</td>
-		<td>234</td>
+		<td>235</td>
 	</tr>
 	<tr>
 		<td>241</td>
