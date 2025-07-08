@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/7/6 5:50 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/7/8 11:46 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -242,8 +242,8 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
 		<td>Dubai</td>
-		<td>0</td>
-		<td>9</td>
+		<td>2</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -416,20 +416,6 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/madbrickstudio">
-				<img src="https://avatars.githubusercontent.com/u/210826651?s=72&u=fc752be1fa8ebdcc2b6ae5253dfae163e5fa8584&v=4" width="24" alt="Avatar of madbrickstudio"> madbrickstudio
-			</a><br/>
-			Madbrickstudio
-		</td>
-		<td>971585823249 </td>
-		<td>No Twitter Username</td>
-		<td>Dubai Silicon Oasis, DDP, Building A2, Dubai, Unted Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/mrbusllc">
 				<img src="https://avatars.githubusercontent.com/u/214485774?s=72&v=4" width="24" alt="Avatar of mrbusllc"> mrbusllc
 			</a><br/>
@@ -438,6 +424,20 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Mr Bus Llc </td>
 		<td>No Twitter Username</td>
 		<td>DUBAI</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/madbrickstudio">
+				<img src="https://avatars.githubusercontent.com/u/210826651?s=72&u=fc752be1fa8ebdcc2b6ae5253dfae163e5fa8584&v=4" width="24" alt="Avatar of madbrickstudio"> madbrickstudio
+			</a><br/>
+			Madbrickstudio
+		</td>
+		<td>971585823249 </td>
+		<td>No Twitter Username</td>
+		<td>Dubai Silicon Oasis, DDP, Building A2, Dubai, Unted Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -458,20 +458,6 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/successpointcollege0">
-				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
-			</a><br/>
-			Razan
-		</td>
-		<td>Success Point College </td>
-		<td>No Twitter Username</td>
-		<td>Sharjah</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
 			<a href="https://github.com/vacanciesindubai">
 				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
 			</a><br/>
@@ -484,7 +470,7 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/TulparGlobalTaxation">
 				<img src="https://avatars.githubusercontent.com/u/210654593?s=72&v=4" width="24" alt="Avatar of TulparGlobalTaxation"> TulparGlobalTaxation
@@ -494,6 +480,20 @@ There are `83 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Tulpar Global Taxation </td>
 		<td><a href="https://twitter.com/home">home</a></td>
 		<td>Dubai, Business Bay, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/successpointcollege0">
+				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
+			</a><br/>
+			Razan
+		</td>
+		<td>Success Point College </td>
+		<td>No Twitter Username</td>
+		<td>Sharjah</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
