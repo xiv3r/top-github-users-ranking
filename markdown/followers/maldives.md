@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `number of followers` of users in Maldives on `2025/7/10 12:02 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `number of followers` of users in Maldives on `2025/7/12 7:47 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Samooh9820060">Samooh9820060</a></td>
 		<td>Maldives</td>
-		<td>93</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -237,19 +237,6 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/fauzaanu">
-				<img src="https://avatars.githubusercontent.com/u/86226565?s=72&u=933698f9389be8b5631d9803f70dade1a373726b&v=4" width="24" alt="Avatar of fauzaanu"> fauzaanu
-			</a><br/>
-			Fauzaan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fauzaanu">fauzaanu</a></td>
-		<td>Maldives</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/aharen">
 				<img src="https://avatars.githubusercontent.com/u/46440?s=72&u=b8bad09f6559c54fdb85fdccbb58d3bc1f5eadf6&v=4" width="24" alt="Avatar of aharen"> aharen
 			</a><br/>
@@ -258,6 +245,19 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aharen">aharen</a></td>
 		<td>Malé, Maldives</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/fauzaanu">
+				<img src="https://avatars.githubusercontent.com/u/86226565?s=72&u=933698f9389be8b5631d9803f70dade1a373726b&v=4" width="24" alt="Avatar of fauzaanu"> fauzaanu
+			</a><br/>
+			Fauzaan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fauzaanu">fauzaanu</a></td>
+		<td>Maldives</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -297,7 +297,7 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>@javaabu / @baivaru </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>62</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -596,7 +596,7 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Javaabu </td>
 		<td><a href="https://twitter.com/dash8x">dash8x</a></td>
 		<td>Maldives</td>
-		<td>28</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1472,19 +1472,6 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/ibrahimhuycn">
-				<img src="https://avatars.githubusercontent.com/u/25236192?s=72&u=41b79a9c4387ccf2992085393b91ba5b06aacdae&v=4" width="24" alt="Avatar of ibrahimhuycn"> ibrahimhuycn
-			</a><br/>
-			Ibrahim Hussain
-		</td>
-		<td>@swatinc  </td>
-		<td>No Twitter Username</td>
-		<td>Male', Maldives</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
 			<a href="https://github.com/intelligenced">
 				<img src="https://avatars.githubusercontent.com/u/5464982?s=72&v=4" width="24" alt="Avatar of intelligenced"> intelligenced
 			</a><br/>
@@ -1493,6 +1480,19 @@ There are `692 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/ibrahimhuycn">
+				<img src="https://avatars.githubusercontent.com/u/25236192?s=72&u=41b79a9c4387ccf2992085393b91ba5b06aacdae&v=4" width="24" alt="Avatar of ibrahimhuycn"> ibrahimhuycn
+			</a><br/>
+			Ibrahim Hussain
+		</td>
+		<td>@swatinc  </td>
+		<td>No Twitter Username</td>
+		<td>Male', Maldives</td>
 		<td>8</td>
 	</tr>
 	<tr>
