@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2025/7/10 9:56 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2025/7/12 5:47 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `551 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `552 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Self-employeed </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
-		<td>107</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1667,19 +1667,6 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/Pjeicw">
-				<img src="https://avatars.githubusercontent.com/u/143824161?s=72&u=21c72afbb98770e8e4bc5ed74ecd8957d9d8fabc&v=4" width="24" alt="Avatar of Pjeicw"> Pjeicw
-			</a><br/>
-			Pjei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
 			<a href="https://github.com/SylviaCUwa">
 				<img src="https://avatars.githubusercontent.com/u/139231013?s=72&v=4" width="24" alt="Avatar of SylviaCUwa"> SylviaCUwa
 			</a><br/>
@@ -1688,6 +1675,19 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Kpmg Professional Services </td>
 		<td>No Twitter Username</td>
 		<td>Laos,Nigeria</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/Pjeicw">
+				<img src="https://avatars.githubusercontent.com/u/143824161?s=72&u=21c72afbb98770e8e4bc5ed74ecd8957d9d8fabc&v=4" width="24" alt="Avatar of Pjeicw"> Pjeicw
+			</a><br/>
+			Pjei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1954,7 +1954,7 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>143</td>
 		<td>
 			<a href="https://github.com/Black13313">
-				<img src="https://avatars.githubusercontent.com/u/156506425?s=72&u=4c2e64967382a91e7cdc5221fd54b1c2bd288efe&v=4" width="24" alt="Avatar of Black13313"> Black13313
+				<img src="https://avatars.githubusercontent.com/u/156506425?s=72&u=8ee821c9e6e0d1b9b8c8fcce459077bad9ec5506&v=4" width="24" alt="Avatar of Black13313"> Black13313
 			</a><br/>
 			Phonepaseuth Keodouangchit
 		</td>
@@ -3071,19 +3071,6 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>229</td>
 		<td>
-			<a href="https://github.com/noyphouthid">
-				<img src="https://avatars.githubusercontent.com/u/52101338?s=72&u=190f1dfcff02f028553b8b931e45f56e3496ff9d&v=4" width="24" alt="Avatar of noyphouthid"> noyphouthid
-			</a><br/>
-			JarnNoy
-		</td>
-		<td>Codejarp-ໂຄ໊ດຈ໊າບ </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
 			<a href="https://github.com/backsideofdawn">
 				<img src="https://avatars.githubusercontent.com/u/76852105?s=72&u=b436c62e266ad68706fddfbdd8145d0dd5a180a4&v=4" width="24" alt="Avatar of backsideofdawn"> backsideofdawn
 			</a><br/>
@@ -3092,6 +3079,19 @@ There are `551 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/noyphouthid">
+				<img src="https://avatars.githubusercontent.com/u/52101338?s=72&u=190f1dfcff02f028553b8b931e45f56e3496ff9d&v=4" width="24" alt="Avatar of noyphouthid"> noyphouthid
+			</a><br/>
+			JarnNoy
+		</td>
+		<td>Codejarp-ໂຄ໊ດຈ໊າບ </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane</td>
 		<td>1</td>
 	</tr>
 	<tr>
