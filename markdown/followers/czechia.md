@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2025/7/17 11:42 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2025/7/17 12:04 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1316,19 +1316,6 @@ There are `962 users`  in Czechia. You need at least `31 followers` to be on thi
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/jnv">
-				<img src="https://avatars.githubusercontent.com/u/616767?s=72&u=ec99e62e40ff140562135085b30f0fc5ef088669&v=4" width="24" alt="Avatar of jnv"> jnv
-			</a><br/>
-			Jan Vlnas
-		</td>
-		<td>@mewssystems </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/Lomien007">
 				<img src="https://avatars.githubusercontent.com/u/64428641?s=72&u=3efb94649a1ff1a681f331d4a83500b64495e203&v=4" width="24" alt="Avatar of Lomien007"> Lomien007
 			</a><br/>
@@ -1337,6 +1324,19 @@ There are `962 users`  in Czechia. You need at least `31 followers` to be on thi
 		<td>@base48 Hackerspace </td>
 		<td><a href="https://twitter.com/Lomien007">Lomien007</a></td>
 		<td>Brno, Czech Republic</td>
+		<td>229</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/jnv">
+				<img src="https://avatars.githubusercontent.com/u/616767?s=72&u=ec99e62e40ff140562135085b30f0fc5ef088669&v=4" width="24" alt="Avatar of jnv"> jnv
+			</a><br/>
+			Jan Vlnas
+		</td>
+		<td>@mewssystems </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
 		<td>228</td>
 	</tr>
 	<tr>
