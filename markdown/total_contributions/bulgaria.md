@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/7/17 2:55 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/7/17 3:04 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -214,8 +214,8 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>@madladsquad @metacraft-labs @heapforge </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>4843</td>
-		<td>5166</td>
+		<td>4844</td>
+		<td>5167</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -397,7 +397,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>0</td>
-		<td>3484</td>
+		<td>3485</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -523,7 +523,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td><a href="https://twitter.com/venelin_valkov">venelin_valkov</a></td>
 		<td>Bulgaria</td>
 		<td>115</td>
-		<td>2929</td>
+		<td>2934</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -2300,8 +2300,8 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>947</td>
-		<td>947</td>
+		<td>949</td>
+		<td>949</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -4499,7 +4499,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria </td>
 		<td>69</td>
-		<td>404</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>315</td>

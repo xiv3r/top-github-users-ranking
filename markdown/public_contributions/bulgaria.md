@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2025/7/17 2:55 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2025/7/17 3:04 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>@madladsquad @metacraft-labs @heapforge </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>4843</td>
+		<td>4844</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -622,7 +622,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>947</td>
+		<td>949</td>
 	</tr>
 	<tr>
 		<td>41</td>

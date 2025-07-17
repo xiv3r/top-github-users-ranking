@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2025/7/17 2:55 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2025/7/17 3:04 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>@ggml-org  </td>
 		<td><a href="https://twitter.com/ggerganov">ggerganov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>17623</td>
+		<td>17624</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -3682,19 +3682,6 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 	<tr>
 		<td>276</td>
 		<td>
-			<a href="https://github.com/delian">
-				<img src="https://avatars.githubusercontent.com/u/113510?s=72&u=0408e8a8b5e99d32a8cc45bcdf5942535a2cd1b1&v=4" width="24" alt="Avatar of delian"> delian
-			</a><br/>
-			Delian Delchev
-		</td>
-		<td>Consultant </td>
-		<td><a href="https://twitter.com/delian">delian</a></td>
-		<td>Bulgaria, Luxembourg</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
 			<a href="https://github.com/stintel">
 				<img src="https://avatars.githubusercontent.com/u/1258811?s=72&u=9083832446e3268a3d0b954d3b1b27baa0df6c18&v=4" width="24" alt="Avatar of stintel"> stintel
 			</a><br/>
@@ -3706,7 +3693,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/paveldk">
 				<img src="https://avatars.githubusercontent.com/u/1455045?s=72&v=4" width="24" alt="Avatar of paveldk"> paveldk
@@ -3719,7 +3706,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/yassenshopov">
 				<img src="https://avatars.githubusercontent.com/u/83444316?s=72&u=93bfabc7d4782d7bb2cdccbbd772c4f5f55bce58&v=4" width="24" alt="Avatar of yassenshopov"> yassenshopov
@@ -3732,7 +3719,7 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/outbounder">
 				<img src="https://avatars.githubusercontent.com/u/125437?s=72&v=4" width="24" alt="Avatar of outbounder"> outbounder
@@ -3742,6 +3729,19 @@ There are `970 users`  in Bulgaria. You need at least `26 followers` to be on th
 		<td>@camplight  </td>
 		<td>No Twitter Username</td>
 		<td>Pleven, Bulgaria</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/delian">
+				<img src="https://avatars.githubusercontent.com/u/113510?s=72&u=0408e8a8b5e99d32a8cc45bcdf5942535a2cd1b1&v=4" width="24" alt="Avatar of delian"> delian
+			</a><br/>
+			Delian Delchev
+		</td>
+		<td>Consultant </td>
+		<td><a href="https://twitter.com/delian">delian</a></td>
+		<td>Bulgaria, Luxembourg</td>
 		<td>76</td>
 	</tr>
 	<tr>
