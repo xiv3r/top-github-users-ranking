@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` by users in Syria on `2025/7/19 8:20 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` by users in Syria on `2025/7/19 9:14 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -154,7 +154,7 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>@hiast </td>
 		<td>No Twitter Username</td>
 		<td>Damascus , Syria</td>
-		<td>1035</td>
+		<td>1047</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -778,7 +778,7 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Syria Latakia</td>
-		<td>251</td>
+		<td>252</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1519,7 +1519,7 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>@contraforce </td>
 		<td><a href="https://twitter.com/RasheedMozaffar">RasheedMozaffar</a></td>
 		<td>Damascus, Syria</td>
-		<td>130</td>
+		<td>131</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -5593,6 +5593,19 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 	<tr>
 		<td>423</td>
 		<td>
+			<a href="https://github.com/mm6x">
+				<img src="https://avatars.githubusercontent.com/u/220268165?s=72&u=0cd8cd76ff4809f8cbf8dfe9a6fa315c1c4827d5&v=4" width="24" alt="Avatar of mm6x"> mm6x
+			</a><br/>
+			Mhamad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Damascus, Syria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
 			<a href="https://github.com/WaseemAlqahwaji">
 				<img src="https://avatars.githubusercontent.com/u/103313853?s=72&v=4" width="24" alt="Avatar of WaseemAlqahwaji"> WaseemAlqahwaji
 			</a><br/>
@@ -5604,7 +5617,7 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/jaafarmayya">
 				<img src="https://avatars.githubusercontent.com/u/126458032?s=72&u=11a8792d75574b86924c44c06cfbfc8db93c7d01&v=4" width="24" alt="Avatar of jaafarmayya"> jaafarmayya
@@ -5614,19 +5627,6 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Syria, Latakia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/mm6x">
-				<img src="https://avatars.githubusercontent.com/u/220268165?s=72&u=0cd8cd76ff4809f8cbf8dfe9a6fa315c1c4827d5&v=4" width="24" alt="Avatar of mm6x"> mm6x
-			</a><br/>
-			Mhamad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Damascus, Syria</td>
 		<td>11</td>
 	</tr>
 	<tr>
