@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` and `private contributions` by users in Syria on `2025/7/19 10:52 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` and `private contributions` by users in Syria on `2025/7/19 11:01 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1480,20 +1480,6 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/BassamXYZ">
-				<img src="https://avatars.githubusercontent.com/u/100040151?s=72&u=3ed5561f75d9960a524a20ba19d4f573f2b5d110&v=4" width="24" alt="Avatar of BassamXYZ"> BassamXYZ
-			</a><br/>
-			BassamXYZ
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Bassam_XYZ">Bassam_XYZ</a></td>
-		<td>Syria </td>
-		<td>162</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a href="https://github.com/Ammourie">
 				<img src="https://avatars.githubusercontent.com/u/59035839?s=72&v=4" width="24" alt="Avatar of Ammourie"> Ammourie
 			</a><br/>
@@ -1502,6 +1488,20 @@ There are `983 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Ammourie99">Ammourie99</a></td>
 		<td>Syria</td>
+		<td>161</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/BassamXYZ">
+				<img src="https://avatars.githubusercontent.com/u/100040151?s=72&u=3ed5561f75d9960a524a20ba19d4f573f2b5d110&v=4" width="24" alt="Avatar of BassamXYZ"> BassamXYZ
+			</a><br/>
+			BassamXYZ
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Bassam_XYZ">Bassam_XYZ</a></td>
+		<td>Syria </td>
 		<td>161</td>
 		<td>161</td>
 	</tr>
