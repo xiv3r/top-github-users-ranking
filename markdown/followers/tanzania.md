@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `number of followers` of users in Tanzania on `2025/7/19 11:24 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `number of followers` of users in Tanzania on `2025/7/19 12:16 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>@neurotech-hq </td>
 		<td><a href="https://twitter.com/j_kalebu">j_kalebu</a></td>
 		<td>Dar es Salaam , Tanzania</td>
-		<td>880</td>
+		<td>881</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -271,7 +271,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>Tech Startup </td>
 		<td><a href="https://twitter.com/gilbertmunuotz">gilbertmunuotz</a></td>
 		<td>Tanzania</td>
-		<td>222</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -648,7 +648,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Africa Dodoma</td>
-		<td>103</td>
+		<td>104</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1498,6 +1498,19 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 	<tr>
 		<td>108</td>
 		<td>
+			<a href="https://github.com/Juma-creator">
+				<img src="https://avatars.githubusercontent.com/u/85199024?s=72&u=d0b5c12494284f47acc7e0e589563fde9638ad5d&v=4" width="24" alt="Avatar of Juma-creator"> Juma-creator
+			</a><br/>
+			Ariel369369
+		</td>
+		<td>Pay With Pay </td>
+		<td>No Twitter Username</td>
+		<td>Tanzania, Tanga, Lushoto. </td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
 			<a href="https://github.com/Kingjux">
 				<img src="https://avatars.githubusercontent.com/u/154667110?s=72&u=1b43420bce2dd7b0539fbe42c5909a2ef5b31e35&v=4" width="24" alt="Avatar of Kingjux"> Kingjux
 			</a><br/>
@@ -1509,7 +1522,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/jenadiusnicholaus">
 				<img src="https://avatars.githubusercontent.com/u/65486696?s=72&u=37308fc87de54a538a8bd2efdd98e80d5b64bebe&v=4" width="24" alt="Avatar of jenadiusnicholaus"> jenadiusnicholaus
@@ -1522,7 +1535,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/rajey">
 				<img src="https://avatars.githubusercontent.com/u/16415434?s=72&u=e099c6a13d71362963f41293bae44be4dd84d08d&v=4" width="24" alt="Avatar of rajey"> rajey
@@ -1532,19 +1545,6 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>@udsmdhis2lab </td>
 		<td><a href="https://twitter.com/RajabMkomwa">RajabMkomwa</a></td>
 		<td>Dar es Salaam, Tanzania</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/Juma-creator">
-				<img src="https://avatars.githubusercontent.com/u/85199024?s=72&u=d0b5c12494284f47acc7e0e589563fde9638ad5d&v=4" width="24" alt="Avatar of Juma-creator"> Juma-creator
-			</a><br/>
-			Ariel369369
-		</td>
-		<td>Pay With Pay </td>
-		<td>No Twitter Username</td>
-		<td>Tanzania, Tanga, Lushoto. </td>
 		<td>55</td>
 	</tr>
 	<tr>

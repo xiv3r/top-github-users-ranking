@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` and `private contributions` by users in Tanzania on `2025/7/19 11:24 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` and `private contributions` by users in Tanzania on `2025/7/19 12:16 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -354,8 +354,8 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>University Of Dar Es<br/>Salaam<br/></td>
 		<td><a href="https://twitter.com/AdamMashak1">AdamMashak1</a></td>
 		<td>Dar es salaam , Tanzania</td>
-		<td>571</td>
-		<td>3068</td>
+		<td>569</td>
+		<td>3074</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -453,7 +453,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>476</td>
-		<td>2783</td>
+		<td>2786</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -565,7 +565,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar es Salaam</td>
 		<td>329</td>
-		<td>2519</td>
+		<td>2520</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -789,7 +789,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Arusha, Tanzania</td>
 		<td>136</td>
-		<td>2072</td>
+		<td>2074</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1041,7 +1041,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania </td>
 		<td>264</td>
-		<td>1574</td>
+		<td>1576</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1167,7 +1167,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/McGwery">McGwery</a></td>
 		<td>Mbeya, Tanzania</td>
 		<td>7</td>
-		<td>1447</td>
+		<td>1448</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1377,7 +1377,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar Es Salaam, Tanzania</td>
 		<td>155</td>
-		<td>1293</td>
+		<td>1296</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1419,7 +1419,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/AllyMatimu">AllyMatimu</a></td>
 		<td>Dar Es Salaam</td>
 		<td>2</td>
-		<td>1281</td>
+		<td>1282</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1741,7 +1741,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/herikaniugu">herikaniugu</a></td>
 		<td>Tanzania</td>
 		<td>0</td>
-		<td>1039</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1909,7 +1909,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>dar es saalam tanzania</td>
 		<td>0</td>
-		<td>948</td>
+		<td>950</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2608,8 +2608,8 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>Ictpack Solutions Ltd. </td>
 		<td><a href="https://twitter.com/mepowerleo10">mepowerleo10</a></td>
 		<td>Tanzania</td>
-		<td>38</td>
-		<td>730</td>
+		<td>40</td>
+		<td>732</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -3099,7 +3099,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar es salaam</td>
 		<td>0</td>
-		<td>557</td>
+		<td>558</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3589,7 +3589,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Morogoro, Tanzania</td>
 		<td>129</td>
-		<td>444</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>250</td>
@@ -3706,6 +3706,20 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 	<tr>
 		<td>258</td>
 		<td>
+			<a href="https://github.com/makindajack">
+				<img src="https://avatars.githubusercontent.com/u/22730819?s=72&u=e1178a16f448c51adf7db7cf8c138d02d8d4c07c&v=4" width="24" alt="Avatar of makindajack"> makindajack
+			</a><br/>
+			Jackson Makinda
+		</td>
+		<td>@makinda-jackson </td>
+		<td><a href="https://twitter.com/makindajack">makindajack</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>15</td>
+		<td>410</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
 			<a href="https://github.com/jimmyurl">
 				<img src="https://avatars.githubusercontent.com/u/33938444?s=72&u=b4ba07a4bf42efb00be9a2a1cd5f807993c57a10&v=4" width="24" alt="Avatar of jimmyurl"> jimmyurl
 			</a><br/>
@@ -3716,20 +3730,6 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>Dar-Es Salaam-Tanzania</td>
 		<td>410</td>
 		<td>410</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/makindajack">
-				<img src="https://avatars.githubusercontent.com/u/22730819?s=72&u=e1178a16f448c51adf7db7cf8c138d02d8d4c07c&v=4" width="24" alt="Avatar of makindajack"> makindajack
-			</a><br/>
-			Jackson Makinda
-		</td>
-		<td>@makinda-jackson </td>
-		<td><a href="https://twitter.com/makindajack">makindajack</a></td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>15</td>
-		<td>409</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -4219,7 +4219,7 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/ramsolution2016">ramsolution2016</a></td>
 		<td>Tanzania</td>
 		<td>6</td>
-		<td>339</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>295</td>
@@ -7200,8 +7200,8 @@ There are `937 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>Software Developer @patmo_tanzania_ltd <br/></td>
 		<td><a href="https://twitter.com/erickwilfred__">erickwilfred__</a></td>
 		<td>Dar es Salaam,Tanzania </td>
-		<td>16</td>
-		<td>59</td>
+		<td>17</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>508</td>
