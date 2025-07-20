@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/7/17 7:34 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/7/20 2:55 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `160 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>54</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1238,19 +1238,6 @@ There are `160 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>88</td>
 		<td>
-			<a href="https://github.com/Gagayo">
-				<img src="https://avatars.githubusercontent.com/u/46720811?s=72&u=5a2857bb3f838bc76bbfa866748303ddcfb19b7e&v=4" width="24" alt="Avatar of Gagayo"> Gagayo
-			</a><br/>
-			Hamid Tahir
-		</td>
-		<td>Tchadiasoft </td>
-		<td>No Twitter Username</td>
-		<td>Ndjamena, Chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
 			<a href="https://github.com/Charlesjami">
 				<img src="https://avatars.githubusercontent.com/u/155015393?s=72&v=4" width="24" alt="Avatar of Charlesjami"> Charlesjami
 			</a><br/>
@@ -1262,7 +1249,7 @@ There are `160 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/moustaphousman">
 				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=05444d22c5e3c0082bf8daf5a057fd4378fee521&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
@@ -1272,6 +1259,19 @@ There are `160 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/moustaphousman">moustaphousman</a></td>
 		<td>N'Djamena</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/Gagayo">
+				<img src="https://avatars.githubusercontent.com/u/46720811?s=72&u=8dc36641c2a165a8dfe518addfa7668eb4c0b5a1&v=4" width="24" alt="Avatar of Gagayo"> Gagayo
+			</a><br/>
+			Hamid Tahir
+		</td>
+		<td>Tchadiasoft </td>
+		<td>No Twitter Username</td>
+		<td>Ndjamena, Chad</td>
 		<td>1</td>
 	</tr>
 	<tr>
