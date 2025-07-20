@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `public contributions` and `private contributions` by users in Yemen on `2025/7/19 11:02 PM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `public contributions` and `private contributions` by users in Yemen on `2025/7/20 12:18 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,7 +159,7 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Sana'a ,Yemen</td>
 		<td>46</td>
-		<td>7087</td>
+		<td>7111</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -452,8 +452,8 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yemen </td>
-		<td>206</td>
-		<td>2570</td>
+		<td>207</td>
+		<td>2571</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1544,8 +1544,8 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>Hamzasoftware </td>
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
-		<td>841</td>
-		<td>869</td>
+		<td>842</td>
+		<td>870</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1657,7 +1657,7 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
 		<td>24</td>
-		<td>790</td>
+		<td>792</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1839,7 +1839,7 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/_51l3n7">_51l3n7</a></td>
 		<td>Yemen</td>
 		<td>127</td>
-		<td>634</td>
+		<td>635</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -3001,7 +3001,7 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
 		<td>44</td>
-		<td>206</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -3384,6 +3384,20 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 	<tr>
 		<td>235</td>
 		<td>
+			<a href="https://github.com/mjamal-dev">
+				<img src="https://avatars.githubusercontent.com/u/86839029?s=72&u=5385d6626060749611df1b6c46e8bca0521b7dbb&v=4" width="24" alt="Avatar of mjamal-dev"> mjamal-dev
+			</a><br/>
+			Mohammed Jamal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Yemen</td>
+		<td>23</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
 			<a href="https://github.com/Salah-Alhaidri">
 				<img src="https://avatars.githubusercontent.com/u/109762040?s=72&u=79f744c3e2c1e3c2de220a51da0cf53d11abf8f3&v=4" width="24" alt="Avatar of Salah-Alhaidri"> Salah-Alhaidri
 			</a><br/>
@@ -3394,20 +3408,6 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>Yemen</td>
 		<td>141</td>
 		<td>141</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/mjamal-dev">
-				<img src="https://avatars.githubusercontent.com/u/86839029?s=72&u=5385d6626060749611df1b6c46e8bca0521b7dbb&v=4" width="24" alt="Avatar of mjamal-dev"> mjamal-dev
-			</a><br/>
-			Mohammed Jamal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Yemen</td>
-		<td>23</td>
-		<td>138</td>
 	</tr>
 	<tr>
 		<td>237</td>
@@ -3504,8 +3504,8 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yemen, Sana'a</td>
-		<td>50</td>
-		<td>123</td>
+		<td>51</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -4148,8 +4148,8 @@ There are `919 users`  in Yemen. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sana'a, Yemen</td>
-		<td>62</td>
-		<td>64</td>
+		<td>63</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>290</td>
