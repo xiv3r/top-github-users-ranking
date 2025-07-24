@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` by users in Ethiopia on `2025/7/23 11:49 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` by users in Ethiopia on `2025/7/24 12:01 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3266,6 +3266,19 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 	<tr>
 		<td>244</td>
 		<td>
+			<a href="https://github.com/lisan-5">
+				<img src="https://avatars.githubusercontent.com/u/155144454?s=72&u=d3485794c6f8430d150724467bfe481796af99b1&v=4" width="24" alt="Avatar of lisan-5"> lisan-5
+			</a><br/>
+			Lisanegebriel Abay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/Felmeta-M">
 				<img src="https://avatars.githubusercontent.com/u/96541480?s=72&u=54ad3214d9b0e9fc0bff4426abc9fcc4d7cc0296&v=4" width="24" alt="Avatar of Felmeta-M"> Felmeta-M
 			</a><br/>
@@ -3277,7 +3290,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/TheSecondChance">
 				<img src="https://avatars.githubusercontent.com/u/132612647?s=72&u=f53e264046618a6b67b0a7b7efbee7a3ee37498c&v=4" width="24" alt="Avatar of TheSecondChance"> TheSecondChance
@@ -3290,7 +3303,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/ProfessorAbraham">
 				<img src="https://avatars.githubusercontent.com/u/144530332?s=72&u=2331d4c71589ea8b603b408021ac1a7c1174eb92&v=4" width="24" alt="Avatar of ProfessorAbraham"> ProfessorAbraham
@@ -3300,19 +3313,6 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>Chereka Technology | Alpha<br/>Software<br/>Engineering<br/></td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/lisan-5">
-				<img src="https://avatars.githubusercontent.com/u/155144454?s=72&u=d3485794c6f8430d150724467bfe481796af99b1&v=4" width="24" alt="Avatar of lisan-5"> lisan-5
-			</a><br/>
-			Lisanegebriel Abay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
 		<td>254</td>
 	</tr>
 	<tr>

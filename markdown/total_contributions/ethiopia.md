@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` and `private contributions` by users in Ethiopia on `2025/7/23 11:49 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` and `private contributions` by users in Ethiopia on `2025/7/24 12:01 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1237,7 +1237,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td><a href="https://twitter.com/nabroleonx">nabroleonx</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>25</td>
-		<td>1834</td>
+		<td>1838</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -3118,6 +3118,20 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/ldebele">
+				<img src="https://avatars.githubusercontent.com/u/89338244?s=72&u=43e02c702f8bc917af05ae8ccd1dc25e87cce6da&v=4" width="24" alt="Avatar of ldebele"> ldebele
+			</a><br/>
+			Lemi Debela
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>21</td>
+		<td>984</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/haxurn">
 				<img src="https://avatars.githubusercontent.com/u/124459773?s=72&u=93b1a03ee69954d24a1cf095a14e5687f11b931b&v=4" width="24" alt="Avatar of haxurn"> haxurn
 			</a><br/>
@@ -3130,7 +3144,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>982</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/haileyesus2433">
 				<img src="https://avatars.githubusercontent.com/u/85413826?s=72&v=4" width="24" alt="Avatar of haileyesus2433"> haileyesus2433
@@ -3142,20 +3156,6 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>Addis Ababa,Ethiopia</td>
 		<td>106</td>
 		<td>982</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/ldebele">
-				<img src="https://avatars.githubusercontent.com/u/89338244?s=72&u=43e02c702f8bc917af05ae8ccd1dc25e87cce6da&v=4" width="24" alt="Avatar of ldebele"> ldebele
-			</a><br/>
-			Lemi Debela
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>21</td>
-		<td>979</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -7626,6 +7626,20 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 	<tr>
 		<td>538</td>
 		<td>
+			<a href="https://github.com/lisan-5">
+				<img src="https://avatars.githubusercontent.com/u/155144454?s=72&u=d3485794c6f8430d150724467bfe481796af99b1&v=4" width="24" alt="Avatar of lisan-5"> lisan-5
+			</a><br/>
+			Lisanegebriel Abay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>260</td>
+		<td>265</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
 			<a href="https://github.com/samuael">
 				<img src="https://avatars.githubusercontent.com/u/39623015?s=72&u=aca7bba4c8abe57dc4c8d32bddd77534572c6ce5&v=4" width="24" alt="Avatar of samuael"> samuael
 			</a><br/>
@@ -7638,7 +7652,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>264</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/henask12">
 				<img src="https://avatars.githubusercontent.com/u/37038066?s=72&u=95665f500410a07d7a583c1e428e040ad0d5986d&v=4" width="24" alt="Avatar of henask12"> henask12
@@ -7652,7 +7666,7 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/yordiyes">
 				<img src="https://avatars.githubusercontent.com/u/133559301?s=72&u=470388c3d7c0a5bb8e9a834b25854aee39b99ea6&v=4" width="24" alt="Avatar of yordiyes"> yordiyes
@@ -7664,20 +7678,6 @@ There are `983 users`  in Ethiopia. You need at least `14 followers` to be on th
 		<td>Addis Ababa, Ethiopia</td>
 		<td>260</td>
 		<td>260</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a href="https://github.com/lisan-5">
-				<img src="https://avatars.githubusercontent.com/u/155144454?s=72&u=d3485794c6f8430d150724467bfe481796af99b1&v=4" width="24" alt="Avatar of lisan-5"> lisan-5
-			</a><br/>
-			Lisanegebriel Abay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>254</td>
-		<td>259</td>
 	</tr>
 	<tr>
 		<td>542</td>
