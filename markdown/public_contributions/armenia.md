@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenia">
 </a>
 
-The `public contributions` by users in Armenia on `2025/7/26 8:19 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
+The `public contributions` by users in Armenia on `2025/7/26 9:48 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -336,7 +336,7 @@ There are `955 users`  in Armenia. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yerevan, Armenia</td>
-		<td>961</td>
+		<td>962</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -362,7 +362,7 @@ There are `955 users`  in Armenia. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yerevan/Armenia</td>
-		<td>902</td>
+		<td>903</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -440,7 +440,7 @@ There are `955 users`  in Armenia. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ykorotovskikh">ykorotovskikh</a></td>
 		<td>Armenia</td>
-		<td>777</td>
+		<td>780</td>
 	</tr>
 	<tr>
 		<td>27</td>
