@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/8/2 6:27 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/8/5 9:39 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `160 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `162 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1278,7 +1278,7 @@ There are `160 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>91</td>
 		<td>
 			<a href="https://github.com/moustaphousman">
-				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=05444d22c5e3c0082bf8daf5a057fd4378fee521&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
+				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=981541497611ddccc7041641d1e29cb231935e79&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
 			</a><br/>
 			Moustapha
 		</td>
