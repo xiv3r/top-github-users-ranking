@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `number of followers` of users in Peru on `2025/8/7 12:36 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `number of followers` of users in Peru on `2025/8/7 1:38 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -362,7 +362,7 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 		<td>©mistral ©alternatica ©evend ©wallu<br/>©sigga<br/>©timego<br/>©wanca<br/>©jam<br/></td>
 		<td><a href="https://twitter.com/Jarem_Gallegos">Jarem_Gallegos</a></td>
 		<td>Arequipa, Perú</td>
-		<td>255</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -414,7 +414,7 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Huancayo, Peru</td>
-		<td>236</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -445,10 +445,10 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/marsam">
-				<img src="https://avatars.githubusercontent.com/u/65531?s=72&u=285cc3b415134c20cf7b70718f844eadac448482&v=4" width="24" alt="Avatar of marsam"> marsam
+			<a href="https://github.com/gianbdev">
+				<img src="https://avatars.githubusercontent.com/u/174745552?s=72&u=6a070d0095e4e7494984115877317988635e0793&v=4" width="24" alt="Avatar of gianbdev"> gianbdev
 			</a><br/>
-			Mario Rodas
+			Giancarlo Silva
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -458,15 +458,15 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/gianbdev">
-				<img src="https://avatars.githubusercontent.com/u/174745552?s=72&u=6a070d0095e4e7494984115877317988635e0793&v=4" width="24" alt="Avatar of gianbdev"> gianbdev
+			<a href="https://github.com/marsam">
+				<img src="https://avatars.githubusercontent.com/u/65531?s=72&u=285cc3b415134c20cf7b70718f844eadac448482&v=4" width="24" alt="Avatar of marsam"> marsam
 			</a><br/>
-			Giancarlo Silva
+			Mario Rodas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Peru</td>
-		<td>204</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -939,6 +939,19 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 	<tr>
 		<td>65</td>
 		<td>
+			<a href="https://github.com/geraldmoreno993">
+				<img src="https://avatars.githubusercontent.com/u/171409258?s=72&u=c9522d5e146e83c811b01aee3cac18503137e430&v=4" width="24" alt="Avatar of geraldmoreno993"> geraldmoreno993
+			</a><br/>
+			Gerald Moreno Morales
+		</td>
+		<td>Universidad Nacional Mayor De<br/>San<br/>Marcos<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lima, Peru</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a href="https://github.com/marvinjoel">
 				<img src="https://avatars.githubusercontent.com/u/22551090?s=72&u=0066074e86e642055ffc6b994a7287940c11e342&v=4" width="24" alt="Avatar of marvinjoel"> marvinjoel
 			</a><br/>
@@ -948,19 +961,6 @@ There are `939 users`  in Peru. You need at least `8 followers` to be on this li
 		<td><a href="https://twitter.com/MarckJoeDev">MarckJoeDev</a></td>
 		<td>Peru</td>
 		<td>89</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/geraldmoreno993">
-				<img src="https://avatars.githubusercontent.com/u/171409258?s=72&u=c9522d5e146e83c811b01aee3cac18503137e430&v=4" width="24" alt="Avatar of geraldmoreno993"> geraldmoreno993
-			</a><br/>
-			Gerald Moreno Morales
-		</td>
-		<td>Universidad Nacional Mayor De<br/>San<br/>Marcos<br/></td>
-		<td>No Twitter Username</td>
-		<td>Lima, Peru</td>
-		<td>88</td>
 	</tr>
 	<tr>
 		<td>67</td>
