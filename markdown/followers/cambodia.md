@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" alt="Cambodia">
 </a>
 
-The `number of followers` of users in Cambodia on `2025/8/8 6:34 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
+The `number of followers` of users in Cambodia on `2025/8/8 6:49 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2954,19 +2954,6 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 	<tr>
 		<td>220</td>
 		<td>
-			<a href="https://github.com/Layhak">
-				<img src="https://avatars.githubusercontent.com/u/109502461?s=72&u=e468e9bcba33cf282846a10e63da54c3f9b10fc9&v=4" width="24" alt="Avatar of Layhak"> Layhak
-			</a><br/>
-			Layhak
-		</td>
-		<td>Aba Head Branch </td>
-		<td><a href="https://twitter.com/layhakheng">layhakheng</a></td>
-		<td>Phnom Penh</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
 			<a href="https://github.com/RueRivoli">
 				<img src="https://avatars.githubusercontent.com/u/17473800?s=72&u=38b57f22092394a65ad62c5fb93e31ebf6c898f6&v=4" width="24" alt="Avatar of RueRivoli"> RueRivoli
 			</a><br/>
@@ -2978,7 +2965,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/tkapias">
 				<img src="https://avatars.githubusercontent.com/u/45816387?s=72&v=4" width="24" alt="Avatar of tkapias"> tkapias
@@ -2991,7 +2978,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/channchetra">
 				<img src="https://avatars.githubusercontent.com/u/12510711?s=72&u=42e3802df530c30222e767f1dfd5bdc7e5daf7b7&v=4" width="24" alt="Avatar of channchetra"> channchetra
@@ -3004,7 +2991,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/HeroSony">
 				<img src="https://avatars.githubusercontent.com/u/4160246?s=72&v=4" width="24" alt="Avatar of HeroSony"> HeroSony
@@ -3017,7 +3004,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/UnVireak">
 				<img src="https://avatars.githubusercontent.com/u/123807121?s=72&u=ab4f0b36ceef67b0499e0d17a824b44b7296f12b&v=4" width="24" alt="Avatar of UnVireak"> UnVireak
@@ -3030,7 +3017,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/SrunVeng">
 				<img src="https://avatars.githubusercontent.com/u/90465145?s=72&u=b304e0dbb69b835432c73f08513c0e6904a6c92e&v=4" width="24" alt="Avatar of SrunVeng"> SrunVeng
@@ -3043,7 +3030,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/pitoukhmer">
 				<img src="https://avatars.githubusercontent.com/u/754244?s=72&u=36bafa449908302a75ca2f6f348e2c2e5ac389ac&v=4" width="24" alt="Avatar of pitoukhmer"> pitoukhmer
@@ -3056,7 +3043,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/kristoff2016">
 				<img src="https://avatars.githubusercontent.com/u/16773770?s=72&u=9de6ba4a1e129c5c45275c6f24299281abe1cb2e&v=4" width="24" alt="Avatar of kristoff2016"> kristoff2016
@@ -3069,7 +3056,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/phearaZ">
 				<img src="https://avatars.githubusercontent.com/u/99949560?s=72&u=0480296a2b9e4eca6a7f8b44bf8c5afdf231d603&v=4" width="24" alt="Avatar of phearaZ"> phearaZ
@@ -3082,7 +3069,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/menglycheng">
 				<img src="https://avatars.githubusercontent.com/u/59823713?s=72&u=2cc83d07108428381b48da9871969e730e030bb5&v=4" width="24" alt="Avatar of menglycheng"> menglycheng
@@ -3095,7 +3082,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/BanlyTong">
 				<img src="https://avatars.githubusercontent.com/u/36428914?s=72&u=a3605838b8ccc5e469e2ef7c08310a4a95509041&v=4" width="24" alt="Avatar of BanlyTong"> BanlyTong
@@ -3108,7 +3095,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/Novsochetra">
 				<img src="https://avatars.githubusercontent.com/u/20807120?s=72&u=f564512a715b9671c897afb13571ab40b432d89d&v=4" width="24" alt="Avatar of Novsochetra"> Novsochetra
@@ -3121,7 +3108,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/Ponloe">
 				<img src="https://avatars.githubusercontent.com/u/134567590?s=72&u=e6b22641167e964e3a8c8f0648bacc95b02b2a99&v=4" width="24" alt="Avatar of Ponloe"> Ponloe
@@ -3134,7 +3121,7 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/Roeun-Chanthou">
 				<img src="https://avatars.githubusercontent.com/u/163674237?s=72&u=36c7d76afc46ba794a2a2a74189423a4e3f2f23a&v=4" width="24" alt="Avatar of Roeun-Chanthou"> Roeun-Chanthou
@@ -3144,6 +3131,19 @@ There are `931 users`  in Cambodia. You need at least `4 followers` to be on thi
 		<td>Norton University </td>
 		<td>No Twitter Username</td>
 		<td>Phnom Penh, Cambodia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/Layhak">
+				<img src="https://avatars.githubusercontent.com/u/109502461?s=72&u=e468e9bcba33cf282846a10e63da54c3f9b10fc9&v=4" width="24" alt="Avatar of Layhak"> Layhak
+			</a><br/>
+			Layhak
+		</td>
+		<td>Aba Head Branch </td>
+		<td><a href="https://twitter.com/layhakheng">layhakheng</a></td>
+		<td>Phnom Penh</td>
 		<td>16</td>
 	</tr>
 	<tr>
