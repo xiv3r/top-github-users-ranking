@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" alt="Cambodia">
 </a>
 
-The `number of followers` of users in Cambodia on `2025/8/8 7:22 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
+The `number of followers` of users in Cambodia on `2025/8/8 7:49 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
