@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg" alt="Latvia">
 </a>
 
-The `public contributions` by users in Latvia on `2025/8/9 9:05 PM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
+The `public contributions` by users in Latvia on `2025/8/9 9:24 PM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -8765,6 +8765,19 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 	<tr>
 		<td>667</td>
 		<td>
+			<a href="https://github.com/gatisb">
+				<img src="https://avatars.githubusercontent.com/u/1835493?s=72&v=4" width="24" alt="Avatar of gatisb"> gatisb
+			</a><br/>
+			Gatis Bergšpics
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
 			<a href="https://github.com/mg-code">
 				<img src="https://avatars.githubusercontent.com/u/1376496?s=72&u=3933058a1db5e5910c0000ab8846c6fdb9471b95&v=4" width="24" alt="Avatar of mg-code"> mg-code
 			</a><br/>
@@ -8776,7 +8789,7 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/eriks-briedis">
 				<img src="https://avatars.githubusercontent.com/u/2034234?s=72&u=ef256ea75c0094c82f992df959f00be7acb3dde0&v=4" width="24" alt="Avatar of eriks-briedis"> eriks-briedis
@@ -8789,7 +8802,7 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/vencha90">
 				<img src="https://avatars.githubusercontent.com/u/604606?s=72&v=4" width="24" alt="Avatar of vencha90"> vencha90
@@ -8802,7 +8815,7 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/vsirenko">
 				<img src="https://avatars.githubusercontent.com/u/81309430?s=72&u=2b63534aefc28bd474d461298d32bc3322555ae1&v=4" width="24" alt="Avatar of vsirenko"> vsirenko
@@ -8815,7 +8828,7 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/jekabssolo">
 				<img src="https://avatars.githubusercontent.com/u/57091906?s=72&u=e2741724096d464fab88d7abb9766ad7f9d0a78f&v=4" width="24" alt="Avatar of jekabssolo"> jekabssolo
@@ -8825,19 +8838,6 @@ There are `947 users`  in Latvia. You need at least `6 followers` to be on this 
 		<td>@ubiquiti  </td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>672</td>
-		<td>
-			<a href="https://github.com/gatisb">
-				<img src="https://avatars.githubusercontent.com/u/1835493?s=72&v=4" width="24" alt="Avatar of gatisb"> gatisb
-			</a><br/>
-			Gatis Bergšpics
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
 		<td>1</td>
 	</tr>
 	<tr>
