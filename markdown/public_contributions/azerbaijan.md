@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` by users in Azerbaijan on `2025/8/11 2:39 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2025/8/11 2:52 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>108452492</td>
+		<td>108470492</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -497,19 +497,6 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/Lucifer25x">
-				<img src="https://avatars.githubusercontent.com/u/74368520?s=72&u=58520d6abfcf6fa0b931db18dbe464473afaf940&v=4" width="24" alt="Avatar of Lucifer25x"> Lucifer25x
-			</a><br/>
-			Umid Guliyev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan</td>
-		<td>420</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/range79">
 				<img src="https://avatars.githubusercontent.com/u/157882017?s=72&u=bf61e45c910693085b11df33d5cadaed2842c029&v=4" width="24" alt="Avatar of range79"> range79
 			</a><br/>
@@ -518,6 +505,19 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan/baku</td>
+		<td>421</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/Lucifer25x">
+				<img src="https://avatars.githubusercontent.com/u/74368520?s=72&u=58520d6abfcf6fa0b931db18dbe464473afaf940&v=4" width="24" alt="Avatar of Lucifer25x"> Lucifer25x
+			</a><br/>
+			Umid Guliyev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
 		<td>420</td>
 	</tr>
 	<tr>
@@ -609,7 +609,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>395</td>
+		<td>396</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -1155,7 +1155,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>219</td>
+		<td>220</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -3526,6 +3526,19 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 	<tr>
 		<td>264</td>
 		<td>
+			<a href="https://github.com/hsmyv">
+				<img src="https://avatars.githubusercontent.com/u/111653544?s=72&u=4a70c4cd64d17cc0d3c2c71dcb1b6f950b2ccb78&v=4" width="24" alt="Avatar of hsmyv"> hsmyv
+			</a><br/>
+			Hasan Musayev
+		</td>
+		<td>Remote </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
 			<a href="https://github.com/rashadqarayev">
 				<img src="https://avatars.githubusercontent.com/u/94470623?s=72&u=7dac113290bac9306516d66321ca428b309bfbb8&v=4" width="24" alt="Avatar of rashadqarayev"> rashadqarayev
 			</a><br/>
@@ -3537,7 +3550,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/RehimMammadov">
 				<img src="https://avatars.githubusercontent.com/u/136712079?s=72&u=3bf83652ff11c27bca22919a820e86fe3cfca990&v=4" width="24" alt="Avatar of RehimMammadov"> RehimMammadov
@@ -3550,7 +3563,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/ProgrammerBuffalo">
 				<img src="https://avatars.githubusercontent.com/u/58527301?s=72&u=72a33df54ded3120ba5b617959eea7c64c05a600&v=4" width="24" alt="Avatar of ProgrammerBuffalo"> ProgrammerBuffalo
@@ -3563,7 +3576,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/hasanzeynal">
 				<img src="https://avatars.githubusercontent.com/u/122077879?s=72&v=4" width="24" alt="Avatar of hasanzeynal"> hasanzeynal
@@ -3576,7 +3589,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/huseynmv">
 				<img src="https://avatars.githubusercontent.com/u/86692423?s=72&u=35312de0d96f4942c450e8f34cb972fd13aaced6&v=4" width="24" alt="Avatar of huseynmv"> huseynmv
@@ -3586,19 +3599,6 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>Setclapp </td>
 		<td><a href="https://twitter.com/Huseinmv">Huseinmv</a></td>
 		<td>Baku, Azerbaijan </td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a href="https://github.com/hsmyv">
-				<img src="https://avatars.githubusercontent.com/u/111653544?s=72&u=4a70c4cd64d17cc0d3c2c71dcb1b6f950b2ccb78&v=4" width="24" alt="Avatar of hsmyv"> hsmyv
-			</a><br/>
-			Hasan Musayev
-		</td>
-		<td>Remote </td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan</td>
 		<td>53</td>
 	</tr>
 	<tr>

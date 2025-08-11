@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` and `private contributions` by users in Azerbaijan on `2025/8/11 2:39 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` and `private contributions` by users in Azerbaijan on `2025/8/11 2:52 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>108452492</td>
-		<td>108452492</td>
+		<td>108470492</td>
+		<td>108470492</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -159,7 +159,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
 		<td>12</td>
-		<td>6530</td>
+		<td>6531</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -201,7 +201,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku , Azerbaijan</td>
 		<td>5</td>
-		<td>5019</td>
+		<td>5020</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -649,7 +649,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
 		<td>0</td>
-		<td>1715</td>
+		<td>1716</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -1405,7 +1405,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku</td>
 		<td>22</td>
-		<td>975</td>
+		<td>976</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1530,8 +1530,8 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>Remote </td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>53</td>
-		<td>923</td>
+		<td>54</td>
+		<td>924</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -2511,7 +2511,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku,  Azerbaijan</td>
 		<td>109</td>
-		<td>538</td>
+		<td>539</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -2805,7 +2805,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan/Baku</td>
 		<td>0</td>
-		<td>482</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -3014,8 +3014,8 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan/baku</td>
-		<td>420</td>
-		<td>435</td>
+		<td>421</td>
+		<td>436</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -3280,8 +3280,8 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>395</td>
-		<td>395</td>
+		<td>396</td>
+		<td>396</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3617,7 +3617,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku</td>
 		<td>6</td>
-		<td>317</td>
+		<td>318</td>
 	</tr>
 	<tr>
 		<td>252</td>
@@ -4274,8 +4274,8 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>219</td>
-		<td>219</td>
+		<td>220</td>
+		<td>220</td>
 	</tr>
 	<tr>
 		<td>299</td>
@@ -6450,6 +6450,20 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 	<tr>
 		<td>454</td>
 		<td>
+			<a href="https://github.com/ErcodY">
+				<img src="https://avatars.githubusercontent.com/u/79765230?s=72&u=6cfc971973e8f6b0201f1558a5aeff9987887d8a&v=4" width="24" alt="Avatar of ErcodY"> ErcodY
+			</a><br/>
+			Ergun Taghiyev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku/Istanbul</td>
+		<td>17</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
 			<a href="https://github.com/AyxanAxn">
 				<img src="https://avatars.githubusercontent.com/u/74713596?s=72&u=2e7a9725bfc5fedcd7bed857450197405339cf78&v=4" width="24" alt="Avatar of AyxanAxn"> AyxanAxn
 			</a><br/>
@@ -6462,7 +6476,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/Rovsenmadatov">
 				<img src="https://avatars.githubusercontent.com/u/151402971?s=72&u=6fda45d34056fd2ccbb893a055f9863031548d30&v=4" width="24" alt="Avatar of Rovsenmadatov"> Rovsenmadatov
@@ -6476,7 +6490,7 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/ayshenm">
 				<img src="https://avatars.githubusercontent.com/u/84517249?s=72&u=d7a37c534010128a869d683ccece1fdb526ea76f&v=4" width="24" alt="Avatar of ayshenm"> ayshenm
@@ -6487,20 +6501,6 @@ There are `983 users`  in Azerbaijan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan, Baku</td>
 		<td>70</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
-			<a href="https://github.com/ErcodY">
-				<img src="https://avatars.githubusercontent.com/u/79765230?s=72&u=6cfc971973e8f6b0201f1558a5aeff9987887d8a&v=4" width="24" alt="Avatar of ErcodY"> ErcodY
-			</a><br/>
-			Ergun Taghiyev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Baku/Istanbul</td>
-		<td>17</td>
 		<td>70</td>
 	</tr>
 	<tr>
