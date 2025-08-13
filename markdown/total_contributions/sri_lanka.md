@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2025/8/13 7:34 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2025/8/13 7:45 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>83303</td>
-		<td>83303</td>
+		<td>83308</td>
+		<td>83308</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -4546,6 +4546,20 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 	<tr>
 		<td>318</td>
 		<td>
+			<a href="https://github.com/murshidazher">
+				<img src="https://avatars.githubusercontent.com/u/22551211?s=72&u=00a5761277b3a25ff6d8493d39f8cf27e90bfb54&v=4" width="24" alt="Avatar of murshidazher"> murshidazher
+			</a><br/>
+			Murshid Azher
+		</td>
+		<td>Ivedha </td>
+		<td><a href="https://twitter.com/murshidazher">murshidazher</a></td>
+		<td>Colombo, LK</td>
+		<td>27</td>
+		<td>416</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
 			<a href="https://github.com/movinsilva">
 				<img src="https://avatars.githubusercontent.com/u/54905952?s=72&u=c3c2cc0f1dc900090f9bc0e7eff4797cc26e149a&v=4" width="24" alt="Avatar of movinsilva"> movinsilva
 			</a><br/>
@@ -4556,20 +4570,6 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>Colombo, Sri Lanka</td>
 		<td>116</td>
 		<td>415</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
-			<a href="https://github.com/murshidazher">
-				<img src="https://avatars.githubusercontent.com/u/22551211?s=72&u=00a5761277b3a25ff6d8493d39f8cf27e90bfb54&v=4" width="24" alt="Avatar of murshidazher"> murshidazher
-			</a><br/>
-			Murshid Azher
-		</td>
-		<td>Ivedha </td>
-		<td><a href="https://twitter.com/murshidazher">murshidazher</a></td>
-		<td>Colombo, LK</td>
-		<td>27</td>
-		<td>413</td>
 	</tr>
 	<tr>
 		<td>320</td>
@@ -9264,6 +9264,20 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 	<tr>
 		<td>655</td>
 		<td>
+			<a href="https://github.com/chamodit">
+				<img src="https://avatars.githubusercontent.com/u/58078417?s=72&u=10b73693a85b6863b37291645c39c94c5d477058&v=4" width="24" alt="Avatar of chamodit"> chamodit
+			</a><br/>
+			Chamodi Vidushani Thennakoon
+		</td>
+		<td>@carehires </td>
+		<td><a href="https://twitter.com/chamxdi">chamxdi</a></td>
+		<td>Colombo, LK</td>
+		<td>39</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
 			<a href="https://github.com/NadeeshaniJay">
 				<img src="https://avatars.githubusercontent.com/u/139541836?s=72&u=f3293a70764ffcaf1b93cae6274cfdae6c41f948&v=4" width="24" alt="Avatar of NadeeshaniJay"> NadeeshaniJay
 			</a><br/>
@@ -9276,7 +9290,7 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/DilmiSiriwardhana">
 				<img src="https://avatars.githubusercontent.com/u/136610404?s=72&u=7d9d2f38bdf5a6c8018bfef7c03bf55d1a213a42&v=4" width="24" alt="Avatar of DilmiSiriwardhana"> DilmiSiriwardhana
@@ -9290,7 +9304,7 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/Wathsara">
 				<img src="https://avatars.githubusercontent.com/u/31571237?s=72&u=0d4c12bdeb4baf2ea243739a2aef67763fec75d9&v=4" width="24" alt="Avatar of Wathsara"> Wathsara
@@ -9304,7 +9318,7 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/AvishiGan">
 				<img src="https://avatars.githubusercontent.com/u/69346466?s=72&u=50cc6bc7a1bf5547b840df8f343bc0be722706ba&v=4" width="24" alt="Avatar of AvishiGan"> AvishiGan
@@ -9318,7 +9332,7 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/harshq">
 				<img src="https://avatars.githubusercontent.com/u/11516544?s=72&u=2eb45d77259605e19d6db3432556590959b3df12&v=4" width="24" alt="Avatar of harshq"> harshq
@@ -9330,20 +9344,6 @@ There are `994 users`  in Sri Lanka. You need at least `19 followers` to be on t
 		<td>Colombo, Sri Lanka</td>
 		<td>44</td>
 		<td>44</td>
-	</tr>
-	<tr>
-		<td>660</td>
-		<td>
-			<a href="https://github.com/chamodit">
-				<img src="https://avatars.githubusercontent.com/u/58078417?s=72&u=10b73693a85b6863b37291645c39c94c5d477058&v=4" width="24" alt="Avatar of chamodit"> chamodit
-			</a><br/>
-			Chamodi Vidushani Thennakoon
-		</td>
-		<td>@carehires </td>
-		<td><a href="https://twitter.com/chamxdi">chamxdi</a></td>
-		<td>Colombo, LK</td>
-		<td>39</td>
-		<td>43</td>
 	</tr>
 	<tr>
 		<td>661</td>
