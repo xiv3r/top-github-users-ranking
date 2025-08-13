@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Sudan">
 </a>
 
-The `public contributions` and `private contributions` by users in Sudan on `2025/8/13 9:30 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
+The `public contributions` and `private contributions` by users in Sudan on `2025/8/13 9:52 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -411,7 +411,7 @@ There are `921 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/KingofMENA">KingofMENA</a></td>
 		<td>Sudan</td>
 		<td>5</td>
-		<td>934</td>
+		<td>935</td>
 	</tr>
 	<tr>
 		<td>23</td>
