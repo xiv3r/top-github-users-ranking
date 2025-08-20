@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2025/8/20 11:30 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2025/8/20 11:43 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,7 +159,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td><a href="https://twitter.com/aaronshaf">aaronshaf</a></td>
 		<td>South Jordan, UT</td>
 		<td>3941</td>
-		<td>6020</td>
+		<td>6022</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1194,8 +1194,8 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>Independent Contractor  </td>
 		<td><a href="https://twitter.com/AswadNancy">AswadNancy</a></td>
 		<td>Jordan</td>
-		<td>492</td>
-		<td>820</td>
+		<td>493</td>
+		<td>821</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1684,8 +1684,8 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jordan</td>
-		<td>564</td>
-		<td>564</td>
+		<td>565</td>
+		<td>565</td>
 	</tr>
 	<tr>
 		<td>114</td>
