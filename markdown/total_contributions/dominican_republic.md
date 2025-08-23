@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg" alt="Dominican Republic">
 </a>
 
-The `public contributions` and `private contributions` by users in Dominican Republic on `2025/8/23 2:56 AM UTC`. This list contains users from `Dominican Republic` and cities `Santo-domingo` `Puerto-plata` `San-pedro-de-macoris` `Santiago-de-los-caballeros` `Higuey`.
+The `public contributions` and `private contributions` by users in Dominican Republic on `2025/8/23 3:08 AM UTC`. This list contains users from `Dominican Republic` and cities `Santo-domingo` `Puerto-plata` `San-pedro-de-macoris` `Santiago-de-los-caballeros` `Higuey`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1788,6 +1788,20 @@ There are `978 users`  in Dominican Republic. You need at least `1 followers` to
 	<tr>
 		<td>121</td>
 		<td>
+			<a href="https://github.com/AdrianMendez1199">
+				<img src="https://avatars.githubusercontent.com/u/25955448?s=72&v=4" width="24" alt="Avatar of AdrianMendez1199"> AdrianMendez1199
+			</a><br/>
+			Adrian Mendez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>13</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
 			<a href="https://github.com/alberto-bp">
 				<img src="https://avatars.githubusercontent.com/u/3345273?s=72&u=5a61d56d1ba5f2e7c306e22d77d13e945d1eecfc&v=4" width="24" alt="Avatar of alberto-bp"> alberto-bp
 			</a><br/>
@@ -1798,20 +1812,6 @@ There are `978 users`  in Dominican Republic. You need at least `1 followers` to
 		<td>Santo Domingo, Dominican Republic</td>
 		<td>0</td>
 		<td>330</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/AdrianMendez1199">
-				<img src="https://avatars.githubusercontent.com/u/25955448?s=72&v=4" width="24" alt="Avatar of AdrianMendez1199"> AdrianMendez1199
-			</a><br/>
-			Adrian Mendez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, República Dominicana</td>
-		<td>12</td>
-		<td>329</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1937,7 +1937,7 @@ There are `978 users`  in Dominican Republic. You need at least `1 followers` to
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
 		<td>4</td>
-		<td>292</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>132</td>
