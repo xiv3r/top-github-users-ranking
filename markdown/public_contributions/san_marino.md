@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/8/21 7:43 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/8/24 2:22 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -232,7 +232,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
-		<td>44</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -297,7 +297,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>32</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -445,6 +445,19 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/SergioBartsovski">
+				<img src="https://avatars.githubusercontent.com/u/227632966?s=72&u=6f5e7ac6ce386ccf08a49847107e000b5de67964&v=4" width="24" alt="Avatar of SergioBartsovski"> SergioBartsovski
+			</a><br/>
+			Sergio Bartsovski
+		</td>
+		<td>Ukrainian Ethno Dump </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/3N37">
 				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
 			</a><br/>
@@ -456,7 +469,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/xStaqed">
 				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
@@ -464,19 +477,6 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 			xStaqed_
 		</td>
 		<td>School </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/SergioBartsovski">
-				<img src="https://avatars.githubusercontent.com/u/227632966?s=72&u=6f5e7ac6ce386ccf08a49847107e000b5de67964&v=4" width="24" alt="Avatar of SergioBartsovski"> SergioBartsovski
-			</a><br/>
-			Sergio Bartsovski
-		</td>
-		<td>Ukrainian Ethno Dump </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>4</td>
