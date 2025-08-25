@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `number of followers` of users in Germany on `2025/8/25 11:00 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `number of followers` of users in Germany on `2025/8/25 11:12 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/maxedapps">maxedapps</a></td>
 		<td>Germany</td>
-		<td>7872</td>
+		<td>7873</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -3898,7 +3898,7 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/codergogoi">codergogoi</a></td>
 		<td>Berlin, Germany</td>
-		<td>813</td>
+		<td>814</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -4301,7 +4301,7 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 		<td>@hive-engineering  </td>
 		<td><a href="https://twitter.com/neoberg">neoberg</a></td>
 		<td>Berlin</td>
-		<td>755</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>324</td>
@@ -4405,7 +4405,7 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>739</td>
+		<td>740</td>
 	</tr>
 	<tr>
 		<td>332</td>
@@ -6672,19 +6672,6 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 	<tr>
 		<td>506</td>
 		<td>
-			<a href="https://github.com/dirien">
-				<img src="https://avatars.githubusercontent.com/u/38325136?s=72&u=fbd2dbe4e0a32462c826e7bd4b5bd362a8431dfb&v=4" width="24" alt="Avatar of dirien"> dirien
-			</a><br/>
-			Engin Diri
-		</td>
-		<td>Pulumi </td>
-		<td><a href="https://twitter.com/_ediri">_ediri</a></td>
-		<td>Heilbronn, Germany</td>
-		<td>535</td>
-	</tr>
-	<tr>
-		<td>507</td>
-		<td>
 			<a href="https://github.com/Shmuma">
 				<img src="https://avatars.githubusercontent.com/u/66154?s=72&u=1dbe77932b57cccabc794e0e8cab2c92158b9a6e&v=4" width="24" alt="Avatar of Shmuma"> Shmuma
 			</a><br/>
@@ -6694,6 +6681,19 @@ There are `909 users`  in Germany. You need at least `334 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Germany, Bavaria</td>
 		<td>535</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/dirien">
+				<img src="https://avatars.githubusercontent.com/u/38325136?s=72&u=fbd2dbe4e0a32462c826e7bd4b5bd362a8431dfb&v=4" width="24" alt="Avatar of dirien"> dirien
+			</a><br/>
+			Engin Diri
+		</td>
+		<td>Pulumi </td>
+		<td><a href="https://twitter.com/_ediri">_ediri</a></td>
+		<td>Heilbronn, Germany</td>
+		<td>534</td>
 	</tr>
 	<tr>
 		<td>508</td>
