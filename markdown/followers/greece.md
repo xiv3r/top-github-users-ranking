@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `number of followers` of users in Greece on `2025/8/27 10:04 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `number of followers` of users in Greece on `2025/8/27 10:31 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -427,7 +427,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ioannina (Ελλάδα)</td>
-		<td>637</td>
+		<td>638</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -492,7 +492,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Web Partner.gr </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>518</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1129,7 +1129,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Patras, GR</td>
-		<td>225</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -3591,6 +3591,19 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 	<tr>
 		<td>269</td>
 		<td>
+			<a href="https://github.com/jonian">
+				<img src="https://avatars.githubusercontent.com/u/4119508?s=72&u=cfe46e3a1da520b700448d906820b87e81ed9f06&v=4" width="24" alt="Avatar of jonian"> jonian
+			</a><br/>
+			Jonian Guveli
+		</td>
+		<td>@hardpixel </td>
+		<td><a href="https://twitter.com/JonianGuveli">JonianGuveli</a></td>
+		<td>Athens, Greece</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
 			<a href="https://github.com/AAndyProgram">
 				<img src="https://avatars.githubusercontent.com/u/88590076?s=72&u=16b7168acf3eca79c2420d429d9b5e107f4221fa&v=4" width="24" alt="Avatar of AAndyProgram"> AAndyProgram
 			</a><br/>
@@ -3600,19 +3613,6 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/jonian">
-				<img src="https://avatars.githubusercontent.com/u/4119508?s=72&u=cfe46e3a1da520b700448d906820b87e81ed9f06&v=4" width="24" alt="Avatar of jonian"> jonian
-			</a><br/>
-			Jonian Guveli
-		</td>
-		<td>@hardpixel </td>
-		<td><a href="https://twitter.com/JonianGuveli">JonianGuveli</a></td>
-		<td>Athens, Greece</td>
-		<td>91</td>
 	</tr>
 	<tr>
 		<td>271</td>

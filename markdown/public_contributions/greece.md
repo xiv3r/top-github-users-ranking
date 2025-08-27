@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` by users in Greece on `2025/8/27 10:04 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` by users in Greece on `2025/8/27 10:31 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>University Of Patras </td>
 		<td>No Twitter Username</td>
 		<td>Patras, Greece</td>
-		<td>104076</td>
+		<td>104080</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Codefresh/octopus Deploy </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>11902</td>
+		<td>11905</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -479,7 +479,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>@orama-interactive  </td>
 		<td><a href="https://twitter.com/OVLDD">OVLDD</a></td>
 		<td>Athens, Greece</td>
-		<td>1195</td>
+		<td>1197</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1350,7 +1350,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Tobiko </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>435</td>
+		<td>436</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -4189,6 +4189,19 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 	<tr>
 		<td>315</td>
 		<td>
+			<a href="https://github.com/admariner">
+				<img src="https://avatars.githubusercontent.com/u/8210250?s=72&u=68fe75e8b87bc7c8a666c212ca98d7f9094171ee&v=4" width="24" alt="Avatar of admariner"> admariner
+			</a><br/>
+			Periklis Papanikolaou
+		</td>
+		<td>Admariner </td>
+		<td>No Twitter Username</td>
+		<td>Thessaloniki</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
 			<a href="https://github.com/ddaedalus">
 				<img src="https://avatars.githubusercontent.com/u/46845279?s=72&u=b660d4cf6f85cf635ff3a5283f1835511bde1aef&v=4" width="24" alt="Avatar of ddaedalus"> ddaedalus
 			</a><br/>
@@ -4200,7 +4213,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/amaxilat">
 				<img src="https://avatars.githubusercontent.com/u/671106?s=72&v=4" width="24" alt="Avatar of amaxilat"> amaxilat
@@ -4213,7 +4226,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/dimikara">
 				<img src="https://avatars.githubusercontent.com/u/8607482?s=72&u=6c37411db0dcf605fa928f61fe84a3c075dfa909&v=4" width="24" alt="Avatar of dimikara"> dimikara
@@ -4226,7 +4239,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/MichaelDim02">
 				<img src="https://avatars.githubusercontent.com/u/31562759?s=72&u=565c23fe69bbfec3856c537610d0de9f6e3e7a5e&v=4" width="24" alt="Avatar of MichaelDim02"> MichaelDim02
@@ -4239,7 +4252,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/gkiagia">
 				<img src="https://avatars.githubusercontent.com/u/19818?s=72&v=4" width="24" alt="Avatar of gkiagia"> gkiagia
@@ -4252,7 +4265,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/christosc">
 				<img src="https://avatars.githubusercontent.com/u/120986?s=72&v=4" width="24" alt="Avatar of christosc"> christosc
@@ -4263,19 +4276,6 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
 		<td>81</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/admariner">
-				<img src="https://avatars.githubusercontent.com/u/8210250?s=72&u=68fe75e8b87bc7c8a666c212ca98d7f9094171ee&v=4" width="24" alt="Avatar of admariner"> admariner
-			</a><br/>
-			Periklis Papanikolaou
-		</td>
-		<td>Admariner </td>
-		<td>No Twitter Username</td>
-		<td>Thessaloniki</td>
-		<td>80</td>
 	</tr>
 	<tr>
 		<td>322</td>

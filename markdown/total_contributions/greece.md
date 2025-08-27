@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` and `private contributions` by users in Greece on `2025/8/27 10:04 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` and `private contributions` by users in Greece on `2025/8/27 10:31 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>University Of Patras </td>
 		<td>No Twitter Username</td>
 		<td>Patras, Greece</td>
-		<td>104076</td>
-		<td>104235</td>
+		<td>104080</td>
+		<td>104239</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Codefresh/octopus Deploy </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>11902</td>
-		<td>11902</td>
+		<td>11905</td>
+		<td>11905</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -229,7 +229,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td><a href="https://twitter.com/vagdedes">vagdedes</a></td>
 		<td>Europe, Greece</td>
 		<td>1266</td>
-		<td>4712</td>
+		<td>4713</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -593,7 +593,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td><a href="https://twitter.com/AmmarkoV1">AmmarkoV1</a></td>
 		<td>Heraklion, Crete, Greece</td>
 		<td>241</td>
-		<td>2496</td>
+		<td>2497</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -606,8 +606,8 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Tobiko </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>435</td>
-		<td>2494</td>
+		<td>436</td>
+		<td>2495</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1320,8 +1320,8 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>@orama-interactive  </td>
 		<td><a href="https://twitter.com/OVLDD">OVLDD</a></td>
 		<td>Athens, Greece</td>
-		<td>1195</td>
-		<td>1440</td>
+		<td>1197</td>
+		<td>1442</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1363,7 +1363,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens, GA</td>
 		<td>104</td>
-		<td>1420</td>
+		<td>1421</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2763,7 +2763,7 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
 		<td>51</td>
-		<td>775</td>
+		<td>776</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -3042,8 +3042,8 @@ There are `957 users`  in Greece. You need at least `32 followers` to be on this
 		<td>Admariner </td>
 		<td>No Twitter Username</td>
 		<td>Thessaloniki</td>
-		<td>80</td>
-		<td>720</td>
+		<td>82</td>
+		<td>722</td>
 	</tr>
 	<tr>
 		<td>211</td>
