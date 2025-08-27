@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `public contributions` and `private contributions` by users in Guatemala on `2025/8/27 10:57 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `public contributions` and `private contributions` by users in Guatemala on `2025/8/27 11:08 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -270,8 +270,8 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>Explorax </td>
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
-		<td>1206</td>
-		<td>2421</td>
+		<td>1207</td>
+		<td>2422</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -369,7 +369,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>43</td>
-		<td>1916</td>
+		<td>1917</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -425,7 +425,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td><a href="https://twitter.com/lgdonis">lgdonis</a></td>
 		<td>Guatemala</td>
 		<td>793</td>
-		<td>1840</td>
+		<td>1841</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -663,7 +663,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td><a href="https://twitter.com/sirgt">sirgt</a></td>
 		<td>Guatemala</td>
 		<td>0</td>
-		<td>1334</td>
+		<td>1335</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -718,8 +718,8 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>Tigo </td>
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
-		<td>1238</td>
-		<td>1238</td>
+		<td>1239</td>
+		<td>1239</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -1139,7 +1139,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>0</td>
-		<td>905</td>
+		<td>906</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1419,7 +1419,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td><a href="https://twitter.com/gsantovena">gsantovena</a></td>
 		<td>Guatemala</td>
 		<td>205</td>
-		<td>703</td>
+		<td>704</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -2623,7 +2623,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>56</td>
-		<td>366</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -9544,6 +9544,20 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 	<tr>
 		<td>675</td>
 		<td>
+			<a href="https://github.com/mynormh">
+				<img src="https://avatars.githubusercontent.com/u/2418695?s=72&u=386e009a0ef3cded9bce1c17c7b12a4125a2851e&v=4" width="24" alt="Avatar of mynormh"> mynormh
+			</a><br/>
+			Mynor Morales
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Guatemala, Guatemala</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
 			<a href="https://github.com/Kevin-Jose-Sandoval">
 				<img src="https://avatars.githubusercontent.com/u/69065419?s=72&v=4" width="24" alt="Avatar of Kevin-Jose-Sandoval"> Kevin-Jose-Sandoval
 			</a><br/>
@@ -9556,7 +9570,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/wcorderolara">
 				<img src="https://avatars.githubusercontent.com/u/3922920?s=72&u=77391e089c8c42e038e971bfdd8080b9e11de127&v=4" width="24" alt="Avatar of wcorderolara"> wcorderolara
@@ -9570,7 +9584,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/herokudev">
 				<img src="https://avatars.githubusercontent.com/u/83486773?s=72&u=a1d731c875287f0987b9b4422c7cd08946fea611&v=4" width="24" alt="Avatar of herokudev"> herokudev
@@ -9584,7 +9598,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/FradaL">
 				<img src="https://avatars.githubusercontent.com/u/11936209?s=72&u=3216d23f54ec7807f44bfa905a8f8da91da8a958&v=4" width="24" alt="Avatar of FradaL"> FradaL
@@ -9598,7 +9612,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/CristianBlake">
 				<img src="https://avatars.githubusercontent.com/u/85745855?s=72&u=4766b9f893b99bf73bcffb6636cc3806b31a2b87&v=4" width="24" alt="Avatar of CristianBlake"> CristianBlake
@@ -9612,7 +9626,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/AndresRodas">
 				<img src="https://avatars.githubusercontent.com/u/56941654?s=72&u=d1fa46b036595cca7a5dcdc2e611e8945d598e25&v=4" width="24" alt="Avatar of AndresRodas"> AndresRodas
@@ -9626,7 +9640,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/Fernando0107">
 				<img src="https://avatars.githubusercontent.com/u/35601479?s=72&u=38d82069c350757d3866db51277ee35b12429ea1&v=4" width="24" alt="Avatar of Fernando0107"> Fernando0107
@@ -9640,7 +9654,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/melvingb">
 				<img src="https://avatars.githubusercontent.com/u/512772?s=72&u=9ee7326ca53ecf2d7770cfc8a3bf23e29a57d71c&v=4" width="24" alt="Avatar of melvingb"> melvingb
@@ -9654,7 +9668,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/julioefajardo">
 				<img src="https://avatars.githubusercontent.com/u/4556664?s=72&u=9d765bdf8285dd0fedce207d04dd2b4a28f60c17&v=4" width="24" alt="Avatar of julioefajardo"> julioefajardo
@@ -9668,7 +9682,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/JohnAlds">
 				<img src="https://avatars.githubusercontent.com/u/85207672?s=72&u=1beefbe11ea10ee5d88834e9d60cf2375326897f&v=4" width="24" alt="Avatar of JohnAlds"> JohnAlds
@@ -9682,7 +9696,7 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/ChutLuis">
 				<img src="https://avatars.githubusercontent.com/u/26930292?s=72&u=f0ab66d33f55cbaa5cf3e7a7a8c3b09e92c1fc85&v=4" width="24" alt="Avatar of ChutLuis"> ChutLuis
@@ -9692,20 +9706,6 @@ There are `980 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ChutLuis">ChutLuis</a></td>
 		<td>Guatemala</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>686</td>
-		<td>
-			<a href="https://github.com/mynormh">
-				<img src="https://avatars.githubusercontent.com/u/2418695?s=72&u=386e009a0ef3cded9bce1c17c7b12a4125a2851e&v=4" width="24" alt="Avatar of mynormh"> mynormh
-			</a><br/>
-			Mynor Morales
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guatemala, Guatemala</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
