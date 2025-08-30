@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/135px-Flag_of_Cuba.svg.png" alt="Cuba">
 </a>
 
-The `number of followers` of users in Cuba on `2025/8/30 1:15 AM UTC`. This list contains users from `Cuba` and cities.
+The `number of followers` of users in Cuba on `2025/8/30 1:31 AM UTC`. This list contains users from `Cuba` and cities.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `910 users`  in Cuba. You need at least `1 followers` to be on this li
 		<td>Llorcadev </td>
 		<td><a href="https://twitter.com/llorcadev">llorcadev</a></td>
 		<td>Cuba</td>
-		<td>95</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>10</td>
