@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg" alt="Mauritius">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritius on `2025/9/4 11:48 AM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
+The `public contributions` and `private contributions` by users in Mauritius on `2025/9/4 1:11 PM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td><a href="https://twitter.com/zafirsk_">zafirsk_</a></td>
 		<td>Mauritius</td>
 		<td>497</td>
-		<td>3997</td>
+		<td>3998</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>340</td>
-		<td>3312</td>
+		<td>3314</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -200,8 +200,8 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>Nice Coder </td>
 		<td><a href="https://twitter.com/martinratinaud">martinratinaud</a></td>
 		<td>Tamarin, Mauritius</td>
-		<td>1699</td>
-		<td>2614</td>
+		<td>1700</td>
+		<td>2615</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -229,7 +229,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>12</td>
-		<td>2288</td>
+		<td>2294</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>@772424 @profileo </td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
-		<td>122</td>
-		<td>2224</td>
+		<td>124</td>
+		<td>2233</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>0</td>
-		<td>2097</td>
+		<td>2099</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>91</td>
-		<td>2043</td>
+		<td>2044</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -299,7 +299,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>0</td>
-		<td>1873</td>
+		<td>1875</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -341,7 +341,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>47</td>
-		<td>1520</td>
+		<td>1523</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -369,7 +369,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>430</td>
-		<td>1464</td>
+		<td>1465</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -383,7 +383,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td><a href="https://twitter.com/percymamedy">percymamedy</a></td>
 		<td>Port Louis Mauritius</td>
 		<td>76</td>
-		<td>1402</td>
+		<td>1403</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -523,7 +523,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>51</td>
-		<td>971</td>
+		<td>973</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -593,7 +593,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>2</td>
-		<td>904</td>
+		<td>906</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -789,7 +789,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td><a href="https://twitter.com/7php">7php</a></td>
 		<td>Mauritius</td>
 		<td>73</td>
-		<td>603</td>
+		<td>606</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -873,7 +873,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Moka, Mauritius</td>
 		<td>36</td>
-		<td>542</td>
+		<td>544</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -957,7 +957,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Grand bay, Mauritius</td>
 		<td>15</td>
-		<td>497</td>
+		<td>501</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1111,7 +1111,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>107</td>
-		<td>399</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -2104,8 +2104,8 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>mauritius</td>
-		<td>118</td>
-		<td>118</td>
+		<td>119</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2427,7 +2427,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td><a href="https://twitter.com/arwinneil">arwinneil</a></td>
 		<td>Mauritius</td>
 		<td>5</td>
-		<td>80</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>167</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg" alt="Mauritius">
 </a>
 
-The `public contributions` by users in Mauritius on `2025/9/4 11:48 AM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
+The `public contributions` by users in Mauritius on `2025/9/4 1:11 PM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>Nice Coder </td>
 		<td><a href="https://twitter.com/martinratinaud">martinratinaud</a></td>
 		<td>Tamarin, Mauritius</td>
-		<td>1699</td>
+		<td>1700</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -731,6 +731,19 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>49</td>
 		<td>
+			<a href="https://github.com/BarbUk">
+				<img src="https://avatars.githubusercontent.com/u/64371?s=72&u=fdff8068f905841b90713d6e53572128b1cf9a33&v=4" width="24" alt="Avatar of BarbUk"> BarbUk
+			</a><br/>
+			Julien Virey
+		</td>
+		<td>@772424 @profileo </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
 			<a href="https://github.com/jevin31">
 				<img src="https://avatars.githubusercontent.com/u/143430590?s=72&u=809a56ad47251547f09c144038254ce5c74b9fd0&v=4" width="24" alt="Avatar of jevin31"> jevin31
 			</a><br/>
@@ -740,19 +753,6 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td><a href="https://twitter.com/jevin31">jevin31</a></td>
 		<td>Mauritius</td>
 		<td>124</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/BarbUk">
-				<img src="https://avatars.githubusercontent.com/u/64371?s=72&u=fdff8068f905841b90713d6e53572128b1cf9a33&v=4" width="24" alt="Avatar of BarbUk"> BarbUk
-			</a><br/>
-			Julien Virey
-		</td>
-		<td>@772424 @profileo </td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>122</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -804,7 +804,7 @@ There are `903 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>mauritius</td>
-		<td>118</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>55</td>
