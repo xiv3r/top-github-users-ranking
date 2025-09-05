@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `number of followers` of users in Zimbabwe on `2025/9/5 8:27 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `number of followers` of users in Zimbabwe on `2025/9/5 8:59 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1433,6 +1433,19 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>103</td>
 		<td>
+			<a href="https://github.com/paulshaun-kdtk">
+				<img src="https://avatars.githubusercontent.com/u/123934813?s=72&u=de5921c917ec6b2d10b2930c5e69a072ad480747&v=4" width="24" alt="Avatar of paulshaun-kdtk"> paulshaun-kdtk
+			</a><br/>
+			Kudzai Munyaradzi Sungai
+		</td>
+		<td>Petalmafrica </td>
+		<td><a href="https://twitter.com/shaun_s_kdtk">shaun_s_kdtk</a></td>
+		<td>Harare, Zimbabwe, Southern Africa</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
 			<a href="https://github.com/tafadzwaonline">
 				<img src="https://avatars.githubusercontent.com/u/97532736?s=72&u=b453edbb5013aef2a24c699a2cec052965335067&v=4" width="24" alt="Avatar of tafadzwaonline"> tafadzwaonline
 			</a><br/>
@@ -1444,7 +1457,7 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Henrix06">
 				<img src="https://avatars.githubusercontent.com/u/48485373?s=72&u=96e1244bfd25e5cd9588479cb9d9294d8a8cc56e&v=4" width="24" alt="Avatar of Henrix06"> Henrix06
@@ -1457,7 +1470,7 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/sheltshamu">
 				<img src="https://avatars.githubusercontent.com/u/54097031?s=72&u=987778a7abfe04df9b621fb3b74685a523449500&v=4" width="24" alt="Avatar of sheltshamu"> sheltshamu
@@ -1468,19 +1481,6 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/sheltshamu">sheltshamu</a></td>
 		<td>Zimbabwe</td>
 		<td>29</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/paulshaun-kdtk">
-				<img src="https://avatars.githubusercontent.com/u/123934813?s=72&u=de5921c917ec6b2d10b2930c5e69a072ad480747&v=4" width="24" alt="Avatar of paulshaun-kdtk"> paulshaun-kdtk
-			</a><br/>
-			Kudzai Munyaradzi Sungai
-		</td>
-		<td>Petalmafrica </td>
-		<td><a href="https://twitter.com/shaun_s_kdtk">shaun_s_kdtk</a></td>
-		<td>Harare, Zimbabwe, Southern Africa</td>
-		<td>28</td>
 	</tr>
 	<tr>
 		<td>107</td>

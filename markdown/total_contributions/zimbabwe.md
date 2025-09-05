@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `public contributions` and `private contributions` by users in Zimbabwe on `2025/9/5 8:27 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `public contributions` and `private contributions` by users in Zimbabwe on `2025/9/5 8:59 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mrfr4nkofc">mrfr4nkofc</a></td>
 		<td>Zimbabwe, Harare</td>
-		<td>32117</td>
-		<td>32117</td>
+		<td>32236</td>
+		<td>32236</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -892,6 +892,20 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/rapha18th">
+				<img src="https://avatars.githubusercontent.com/u/12098655?s=72&u=00a4dc00338af75e0d3e470d9de6fb4a9e783bfd&v=4" width="24" alt="Avatar of rapha18th"> rapha18th
+			</a><br/>
+			Rairo Mukamuri
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare</td>
+		<td>100</td>
+		<td>1084</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/Mikelesnr">
 				<img src="https://avatars.githubusercontent.com/u/82696549?s=72&u=376f572550537917e3fd6021885fca0586ca2b3f&v=4" width="24" alt="Avatar of Mikelesnr"> Mikelesnr
 			</a><br/>
@@ -902,20 +916,6 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>Harare Zimbabwe</td>
 		<td>1073</td>
 		<td>1083</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/rapha18th">
-				<img src="https://avatars.githubusercontent.com/u/12098655?s=72&u=00a4dc00338af75e0d3e470d9de6fb4a9e783bfd&v=4" width="24" alt="Avatar of rapha18th"> rapha18th
-			</a><br/>
-			Rairo Mukamuri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare</td>
-		<td>100</td>
-		<td>1082</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -2412,8 +2412,8 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>Blitztech Electronics </td>
 		<td><a href="https://twitter.com/einsteinmakuyan">einsteinmakuyan</a></td>
 		<td>Zimbabwe, Harare</td>
-		<td>393</td>
-		<td>393</td>
+		<td>394</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>166</td>

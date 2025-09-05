@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `public contributions` by users in Zimbabwe on `2025/9/5 8:27 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `public contributions` by users in Zimbabwe on `2025/9/5 8:59 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mrfr4nkofc">mrfr4nkofc</a></td>
 		<td>Zimbabwe, Harare</td>
-		<td>32117</td>
+		<td>32236</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -518,7 +518,7 @@ There are `916 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>Blitztech Electronics </td>
 		<td><a href="https://twitter.com/einsteinmakuyan">einsteinmakuyan</a></td>
 		<td>Zimbabwe, Harare</td>
-		<td>393</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>33</td>
