@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2025/9/6 3:36 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` and `private contributions` by users in France on `2025/9/6 3:47 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>24214</td>
-		<td>24342</td>
+		<td>24217</td>
+		<td>24345</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -173,7 +173,7 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris</td>
 		<td>1466</td>
-		<td>7698</td>
+		<td>7699</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -466,8 +466,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>Argos </td>
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
-		<td>2606</td>
-		<td>4628</td>
+		<td>2610</td>
+		<td>4632</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -1964,8 +1964,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Franck_Gaspoz">Franck_Gaspoz</a></td>
 		<td>France - Grenoble</td>
-		<td>1792</td>
-		<td>2132</td>
+		<td>1793</td>
+		<td>2133</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2426,8 +2426,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>@stormix </td>
 		<td><a href="https://twitter.com/stormix_dev">stormix_dev</a></td>
 		<td>Marseille, France</td>
-		<td>295</td>
-		<td>1817</td>
+		<td>296</td>
+		<td>1818</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2692,8 +2692,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
-		<td>1294</td>
-		<td>1651</td>
+		<td>1298</td>
+		<td>1655</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -3602,8 +3602,8 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>The Kuz Network <br/></td>
 		<td>No Twitter Username</td>
 		<td>FRANCE - GRENOBLE</td>
-		<td>1135</td>
-		<td>1256</td>
+		<td>1138</td>
+		<td>1259</td>
 	</tr>
 	<tr>
 		<td>251</td>

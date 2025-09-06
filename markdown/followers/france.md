@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `number of followers` of users in France on `2025/9/6 3:36 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `number of followers` of users in France on `2025/9/6 3:47 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>Institut De L'internet Et<br/>Du<br/>Multimédia<br/>(iim)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paris, La Défense</td>
-		<td>16310</td>
+		<td>16309</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -700,7 +700,7 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>Notepad++ Project </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>2189</td>
+		<td>2190</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -3014,7 +3014,7 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>Outscale France </td>
 		<td><a href="https://twitter.com/RobertStphane19">RobertStphane19</a></td>
 		<td>Lille</td>
-		<td>688</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -4340,7 +4340,7 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Franck_Gaspoz">Franck_Gaspoz</a></td>
 		<td>France - Grenoble</td>
-		<td>494</td>
+		<td>495</td>
 	</tr>
 	<tr>
 		<td>327</td>
@@ -6308,6 +6308,19 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 	<tr>
 		<td>478</td>
 		<td>
+			<a href="https://github.com/julien-deramond">
+				<img src="https://avatars.githubusercontent.com/u/17381666?s=72&u=a9b71c0b77efa17719595a35f1d1c637c4ad63ac&v=4" width="24" alt="Avatar of julien-deramond"> julien-deramond
+			</a><br/>
+			Julien Déramond
+		</td>
+		<td>Thales </td>
+		<td><a href="https://twitter.com/JulienDeramond">JulienDeramond</a></td>
+		<td>Paris, France</td>
+		<td>369</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
 			<a href="https://github.com/clementroche">
 				<img src="https://avatars.githubusercontent.com/u/28361254?s=72&u=617b111ad79a35e545994bdc651eb7967ae72f10&v=4" width="24" alt="Avatar of clementroche"> clementroche
 			</a><br/>
@@ -6317,19 +6330,6 @@ There are `922 users`  in France. You need at least `210 followers` to be on thi
 		<td><a href="https://twitter.com/clementroche_">clementroche_</a></td>
 		<td>France</td>
 		<td>369</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
-			<a href="https://github.com/julien-deramond">
-				<img src="https://avatars.githubusercontent.com/u/17381666?s=72&u=a9b71c0b77efa17719595a35f1d1c637c4ad63ac&v=4" width="24" alt="Avatar of julien-deramond"> julien-deramond
-			</a><br/>
-			Julien Déramond
-		</td>
-		<td>Thales </td>
-		<td><a href="https://twitter.com/JulienDeramond">JulienDeramond</a></td>
-		<td>Paris, France</td>
-		<td>368</td>
 	</tr>
 	<tr>
 		<td>480</td>
