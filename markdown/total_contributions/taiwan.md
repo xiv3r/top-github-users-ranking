@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2025/9/6 10:42 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2025/9/6 10:57 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>41528</td>
-		<td>41579</td>
+		<td>41529</td>
+		<td>41580</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -299,7 +299,7 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td><a href="https://twitter.com/gc_psk">gc_psk</a></td>
 		<td>Taipei, Taiwan</td>
 		<td>89</td>
-		<td>6377</td>
+		<td>6383</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -887,7 +887,7 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td><a href="https://twitter.com/razko">razko</a></td>
 		<td>Taipei</td>
 		<td>0</td>
-		<td>2668</td>
+		<td>2671</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -2637,7 +2637,7 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>817</td>
-		<td>1118</td>
+		<td>1119</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -3216,6 +3216,20 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/isdaniel">
+				<img src="https://avatars.githubusercontent.com/u/9159452?s=72&u=e0acc82c837085bb0fb667ef8b418a67ff6aaa18&v=4" width="24" alt="Avatar of isdaniel"> isdaniel
+			</a><br/>
+			石秉修(PING-HSIU SHIH)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>852</td>
+		<td>926</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/nella17">
 				<img src="https://avatars.githubusercontent.com/u/14134195?s=72&u=b4eb32f1a15c2a352ca42f64c168726bcf3e6855&v=4" width="24" alt="Avatar of nella17"> nella17
 			</a><br/>
@@ -3226,20 +3240,6 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td>Taiwan, Taipei</td>
 		<td>105</td>
 		<td>924</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/isdaniel">
-				<img src="https://avatars.githubusercontent.com/u/9159452?s=72&u=e0acc82c837085bb0fb667ef8b418a67ff6aaa18&v=4" width="24" alt="Avatar of isdaniel"> isdaniel
-			</a><br/>
-			石秉修(PING-HSIU SHIH)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>849</td>
-		<td>923</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -5386,6 +5386,20 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
+			<a href="https://github.com/Rplus">
+				<img src="https://avatars.githubusercontent.com/u/1808835?s=72&v=4" width="24" alt="Avatar of Rplus"> Rplus
+			</a><br/>
+			Rplus
+		</td>
+		<td>Taiwan </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>372</td>
+		<td>372</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
 			<a href="https://github.com/kylemocode">
 				<img src="https://avatars.githubusercontent.com/u/35811214?s=72&u=9cdc2a0d4f087316a56a34a41997237cc31f0ed8&v=4" width="24" alt="Avatar of kylemocode"> kylemocode
 			</a><br/>
@@ -5396,20 +5410,6 @@ There are `967 users`  in Taiwan. You need at least `66 followers` to be on this
 		<td>Taiwan, Taipei</td>
 		<td>370</td>
 		<td>371</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/Rplus">
-				<img src="https://avatars.githubusercontent.com/u/1808835?s=72&v=4" width="24" alt="Avatar of Rplus"> Rplus
-			</a><br/>
-			Rplus
-		</td>
-		<td>Taiwan </td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>370</td>
-		<td>370</td>
 	</tr>
 	<tr>
 		<td>380</td>
