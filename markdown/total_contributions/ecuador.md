@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Ecuador">
 </a>
 
-The `public contributions` and `private contributions` by users in Ecuador on `2025/9/9 11:40 AM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
+The `public contributions` and `private contributions` by users in Ecuador on `2025/9/9 11:53 AM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -607,7 +607,7 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guayaquil, Ecuador</td>
 		<td>2</td>
-		<td>1834</td>
+		<td>1835</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -887,7 +887,7 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
 		<td>0</td>
-		<td>1429</td>
+		<td>1432</td>
 	</tr>
 	<tr>
 		<td>57</td>
