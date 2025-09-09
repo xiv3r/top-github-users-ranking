@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` by users in Ghana on `2025/9/9 8:11 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` by users in Ghana on `2025/9/9 8:41 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -492,7 +492,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>Debian </td>
 		<td><a href="https://twitter.com/thenoblet">thenoblet</a></td>
 		<td>Accra, Ghana</td>
-		<td>745</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -843,7 +843,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>Https://johnokyere.p </td>
 		<td><a href="https://twitter.com/johnokyere282">johnokyere282</a></td>
 		<td>Accra Ghana</td>
-		<td>527</td>
+		<td>528</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1238,19 +1238,6 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 	<tr>
 		<td>88</td>
 		<td>
-			<a href="https://github.com/Samuel-Dwomoh">
-				<img src="https://avatars.githubusercontent.com/u/166501296?s=72&u=90135fe1d97ef8e699abf3cc150410ff3972003b&v=4" width="24" alt="Avatar of Samuel-Dwomoh"> Samuel-Dwomoh
-			</a><br/>
-			Samuel Dwomoh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Sam_Tuga_1">Sam_Tuga_1</a></td>
-		<td>Accra, Ghana</td>
-		<td>398</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
 			<a href="https://github.com/kofi-kusi">
 				<img src="https://avatars.githubusercontent.com/u/154504436?s=72&u=30fd7a86142cfc077127811b5c4054db72235451&v=4" width="24" alt="Avatar of kofi-kusi"> kofi-kusi
 			</a><br/>
@@ -1259,6 +1246,19 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_kofi_kusi">_kofi_kusi</a></td>
 		<td>Ghana</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/Samuel-Dwomoh">
+				<img src="https://avatars.githubusercontent.com/u/166501296?s=72&u=90135fe1d97ef8e699abf3cc150410ff3972003b&v=4" width="24" alt="Avatar of Samuel-Dwomoh"> Samuel-Dwomoh
+			</a><br/>
+			Samuel Dwomoh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Sam_Tuga_1">Sam_Tuga_1</a></td>
+		<td>Accra, Ghana</td>
 		<td>398</td>
 	</tr>
 	<tr>
@@ -9714,19 +9714,6 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 	<tr>
 		<td>740</td>
 		<td>
-			<a href="https://github.com/iamnomana">
-				<img src="https://avatars.githubusercontent.com/u/44444539?s=72&u=3b7ae92c76b8108abe341e8a97ef1ce3097de6c1&v=4" width="24" alt="Avatar of iamnomana"> iamnomana
-			</a><br/>
-			Divine Nomana Azianka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iamnomana">iamnomana</a></td>
-		<td>Accra, Ghana.</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>741</td>
-		<td>
 			<a href="https://github.com/jhake09">
 				<img src="https://avatars.githubusercontent.com/u/181956649?s=72&v=4" width="24" alt="Avatar of jhake09"> jhake09
 			</a><br/>
@@ -9735,6 +9722,19 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>accra </td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/iamnomana">
+				<img src="https://avatars.githubusercontent.com/u/44444539?s=72&u=3b7ae92c76b8108abe341e8a97ef1ce3097de6c1&v=4" width="24" alt="Avatar of iamnomana"> iamnomana
+			</a><br/>
+			Divine Nomana Azianka
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamnomana">iamnomana</a></td>
+		<td>Accra, Ghana.</td>
 		<td>5</td>
 	</tr>
 	<tr>
