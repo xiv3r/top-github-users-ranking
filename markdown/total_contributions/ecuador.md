@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Ecuador">
 </a>
 
-The `public contributions` and `private contributions` by users in Ecuador on `2025/9/9 12:19 PM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
+The `public contributions` and `private contributions` by users in Ecuador on `2025/9/9 12:54 PM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -173,7 +173,7 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guayaquil, Ecuador</td>
 		<td>32</td>
-		<td>3662</td>
+		<td>3663</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1074,6 +1074,20 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 	<tr>
 		<td>70</td>
 		<td>
+			<a href="https://github.com/jameswilson">
+				<img src="https://avatars.githubusercontent.com/u/243532?s=72&u=1da75694f95e209a15656679987c99fb5fcc086a&v=4" width="24" alt="Avatar of jameswilson"> jameswilson
+			</a><br/>
+			James Wilson
+		</td>
+		<td>Bluespark </td>
+		<td>No Twitter Username</td>
+		<td>Cuenca, Ecuador</td>
+		<td>224</td>
+		<td>1267</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
 			<a href="https://github.com/beto-aveiga">
 				<img src="https://avatars.githubusercontent.com/u/3916979?s=72&u=8401d8dbda0480556feea1b6c39a5442ee9a6f27&v=4" width="24" alt="Avatar of beto-aveiga"> beto-aveiga
 			</a><br/>
@@ -1086,7 +1100,7 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>1266</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/stsewd">
 				<img src="https://avatars.githubusercontent.com/u/4975310?s=72&u=7f034d36be991cfb50520166f6d11a6044b7aa10&v=4" width="24" alt="Avatar of stsewd"> stsewd
@@ -1098,20 +1112,6 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>Ecuador</td>
 		<td>935</td>
 		<td>1265</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/jameswilson">
-				<img src="https://avatars.githubusercontent.com/u/243532?s=72&u=1da75694f95e209a15656679987c99fb5fcc086a&v=4" width="24" alt="Avatar of jameswilson"> jameswilson
-			</a><br/>
-			James Wilson
-		</td>
-		<td>Bluespark </td>
-		<td>No Twitter Username</td>
-		<td>Cuenca, Ecuador</td>
-		<td>224</td>
-		<td>1261</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -3224,8 +3224,8 @@ There are `965 users`  in Ecuador. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna ⋄ Helsinki ⋄ Quito</td>
-		<td>397</td>
-		<td>418</td>
+		<td>399</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>224</td>
