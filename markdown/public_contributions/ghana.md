@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` by users in Ghana on `2025/9/9 7:45 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` by users in Ghana on `2025/9/9 8:11 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -492,7 +492,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>Debian </td>
 		<td><a href="https://twitter.com/thenoblet">thenoblet</a></td>
 		<td>Accra, Ghana</td>
-		<td>743</td>
+		<td>745</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -4631,6 +4631,19 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 	<tr>
 		<td>349</td>
 		<td>
+			<a href="https://github.com/i-ninte">
+				<img src="https://avatars.githubusercontent.com/u/83280871?s=72&u=abe050ea24a9ce197a91c18258b7c29dbc61fca7&v=4" width="24" alt="Avatar of i-ninte"> i-ninte
+			</a><br/>
+			Kwabena Obeng
+		</td>
+		<td>@queryamie, @phrontlyne, @dev2win </td>
+		<td><a href="https://twitter.com/i_ninte">i_ninte</a></td>
+		<td>Spintex Accra</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
 			<a href="https://github.com/codingaddo">
 				<img src="https://avatars.githubusercontent.com/u/119521479?s=72&u=5ffb1665e9ce4cd6f98c609faf9140d939cb1fed&v=4" width="24" alt="Avatar of codingaddo"> codingaddo
 			</a><br/>
@@ -4642,7 +4655,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/blackdante101">
 				<img src="https://avatars.githubusercontent.com/u/40009807?s=72&u=1aee024d9153cb40ffe52b45ef4357e4cbfe317c&v=4" width="24" alt="Avatar of blackdante101"> blackdante101
@@ -4655,7 +4668,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Parables">
 				<img src="https://avatars.githubusercontent.com/u/38154990?s=72&u=81891a7f698cf4cfc608742c3ff61efd5359d1a0&v=4" width="24" alt="Avatar of Parables"> Parables
@@ -4668,7 +4681,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/DevFreak-ui">
 				<img src="https://avatars.githubusercontent.com/u/59781815?s=72&u=545c2e2bcd6ad9a8675adc87206eb510521e4025&v=4" width="24" alt="Avatar of DevFreak-ui"> DevFreak-ui
@@ -4681,7 +4694,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/georgeankumensah">
 				<img src="https://avatars.githubusercontent.com/u/92539173?s=72&u=d84bd256bad3868d5f720409f178abcd837fd961&v=4" width="24" alt="Avatar of georgeankumensah"> georgeankumensah
@@ -4694,7 +4707,7 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/Code-Mole">
 				<img src="https://avatars.githubusercontent.com/u/170271868?s=72&u=fa252e691159acb3d31dd6f8e88b7d10d9deb259&v=4" width="24" alt="Avatar of Code-Mole"> Code-Mole
@@ -4704,19 +4717,6 @@ There are `986 users`  in Ghana. You need at least `22 followers` to be on this 
 		<td>360 Botech Developments Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>SUNYANI,GHANA</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/i-ninte">
-				<img src="https://avatars.githubusercontent.com/u/83280871?s=72&u=abe050ea24a9ce197a91c18258b7c29dbc61fca7&v=4" width="24" alt="Avatar of i-ninte"> i-ninte
-			</a><br/>
-			Kwabena Obeng
-		</td>
-		<td>@queryamie, @phrontlyne, @dev2win </td>
-		<td><a href="https://twitter.com/i_ninte">i_ninte</a></td>
-		<td>Spintex Accra</td>
 		<td>74</td>
 	</tr>
 	<tr>
