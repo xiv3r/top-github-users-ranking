@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` by users in New Zealand on `2025/9/10 6:37 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` by users in New Zealand on `2025/9/10 7:42 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>@openhomefoundation   </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
-		<td>4739</td>
+		<td>4742</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -549,6 +549,19 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/SteveBarnett">
+				<img src="https://avatars.githubusercontent.com/u/1239497?s=72&u=af4db6b647add5b63518281ebf6e4621965f5244&v=4" width="24" alt="Avatar of SteveBarnett"> SteveBarnett
+			</a><br/>
+			Steve Barnett
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wellington</td>
+		<td>1015</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/benhoyt">
 				<img src="https://avatars.githubusercontent.com/u/999033?s=72&v=4" width="24" alt="Avatar of benhoyt"> benhoyt
 			</a><br/>
@@ -558,19 +571,6 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/benhoytnz">benhoytnz</a></td>
 		<td>Christchurch, New Zealand</td>
 		<td>1012</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/SteveBarnett">
-				<img src="https://avatars.githubusercontent.com/u/1239497?s=72&u=af4db6b647add5b63518281ebf6e4621965f5244&v=4" width="24" alt="Avatar of SteveBarnett"> SteveBarnett
-			</a><br/>
-			Steve Barnett
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington</td>
-		<td>1011</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -2702,7 +2702,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>University Of Auckland </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
-		<td>152</td>
+		<td>153</td>
 	</tr>
 	<tr>
 		<td>201</td>

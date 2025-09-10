@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `number of followers` of users in New Zealand on `2025/9/10 6:37 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `number of followers` of users in New Zealand on `2025/9/10 7:42 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
-		<td>1460</td>
+		<td>1459</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -2551,6 +2551,19 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 	<tr>
 		<td>189</td>
 		<td>
+			<a href="https://github.com/srynot4sale">
+				<img src="https://avatars.githubusercontent.com/u/14250?s=72&v=4" width="24" alt="Avatar of srynot4sale"> srynot4sale
+			</a><br/>
+			Aaron Barnes
+		</td>
+		<td>@io-nz  </td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
 			<a href="https://github.com/holloway">
 				<img src="https://avatars.githubusercontent.com/u/620580?s=72&u=27442d0b3ffd7c4ebd530e06e2ca4dda1219da8b&v=4" width="24" alt="Avatar of holloway"> holloway
 			</a><br/>
@@ -2560,19 +2573,6 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
 		<td>89</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/srynot4sale">
-				<img src="https://avatars.githubusercontent.com/u/14250?s=72&v=4" width="24" alt="Avatar of srynot4sale"> srynot4sale
-			</a><br/>
-			Aaron Barnes
-		</td>
-		<td>@io-nz  </td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>88</td>
 	</tr>
 	<tr>
 		<td>191</td>

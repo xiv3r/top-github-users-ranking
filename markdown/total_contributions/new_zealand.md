@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` and `private contributions` by users in New Zealand on `2025/9/10 6:37 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` and `private contributions` by users in New Zealand on `2025/9/10 7:42 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -200,8 +200,8 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>@openhomefoundation   </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
-		<td>4739</td>
-		<td>5001</td>
+		<td>4742</td>
+		<td>5004</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1965,7 +1965,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/alexcheng1982">alexcheng1982</a></td>
 		<td>Auckland, New Zealand</td>
 		<td>604</td>
-		<td>1247</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2356,8 +2356,8 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wellington</td>
-		<td>1011</td>
-		<td>1106</td>
+		<td>1015</td>
+		<td>1110</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -4233,7 +4233,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, NZ</td>
 		<td>39</td>
-		<td>566</td>
+		<td>567</td>
 	</tr>
 	<tr>
 		<td>296</td>
@@ -5428,6 +5428,20 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 	<tr>
 		<td>381</td>
 		<td>
+			<a href="https://github.com/b-steve">
+				<img src="https://avatars.githubusercontent.com/u/924129?s=72&u=51193d0a03545d4e7f27833ccc2860ab53710ac1&v=4" width="24" alt="Avatar of b-steve"> b-steve
+			</a><br/>
+			Ben Stevenson
+		</td>
+		<td>University Of Auckland </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
+		<td>153</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
 			<a href="https://github.com/samdalton">
 				<img src="https://avatars.githubusercontent.com/u/327903?s=72&u=eeaa0c53f62fe2143a22bed30d0c5040418b44c1&v=4" width="24" alt="Avatar of samdalton"> samdalton
 			</a><br/>
@@ -5438,20 +5452,6 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>Auckland || San Francisco</td>
 		<td>7</td>
 		<td>343</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/b-steve">
-				<img src="https://avatars.githubusercontent.com/u/924129?s=72&u=51193d0a03545d4e7f27833ccc2860ab53710ac1&v=4" width="24" alt="Avatar of b-steve"> b-steve
-			</a><br/>
-			Ben Stevenson
-		</td>
-		<td>University Of Auckland </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>152</td>
-		<td>342</td>
 	</tr>
 	<tr>
 		<td>383</td>
@@ -7131,7 +7131,7 @@ There are `965 users`  in New Zealand. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, NZ</td>
 		<td>71</td>
-		<td>138</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>503</td>
