@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2025/9/9 11:54 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2025/9/10 12:06 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -789,7 +789,7 @@ There are `958 users`  in Hungary. You need at least `19 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
 		<td>711</td>
-		<td>2355</td>
+		<td>2356</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -7514,6 +7514,20 @@ There are `958 users`  in Hungary. You need at least `19 followers` to be on thi
 	<tr>
 		<td>530</td>
 		<td>
+			<a href="https://github.com/tomzorz">
+				<img src="https://avatars.githubusercontent.com/u/6363312?s=72&u=2d2adc1f7ce91d809e41a7bd73323408436ebd9a&v=4" width="24" alt="Avatar of tomzorz"> tomzorz
+			</a><br/>
+			Tamás Deme
+		</td>
+		<td>@contenda-team </td>
+		<td><a href="https://twitter.com/tomzorz_">tomzorz_</a></td>
+		<td>Budapest, Hungary</td>
+		<td>22</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
 			<a href="https://github.com/lgblgblgb">
 				<img src="https://avatars.githubusercontent.com/u/884916?s=72&v=4" width="24" alt="Avatar of lgblgblgb"> lgblgblgb
 			</a><br/>
@@ -7524,20 +7538,6 @@ There are `958 users`  in Hungary. You need at least `19 followers` to be on thi
 		<td>Hungary</td>
 		<td>123</td>
 		<td>124</td>
-	</tr>
-	<tr>
-		<td>531</td>
-		<td>
-			<a href="https://github.com/tomzorz">
-				<img src="https://avatars.githubusercontent.com/u/6363312?s=72&u=2d2adc1f7ce91d809e41a7bd73323408436ebd9a&v=4" width="24" alt="Avatar of tomzorz"> tomzorz
-			</a><br/>
-			Tamás Deme
-		</td>
-		<td>@contenda-team </td>
-		<td><a href="https://twitter.com/tomzorz_">tomzorz_</a></td>
-		<td>Budapest, Hungary</td>
-		<td>22</td>
-		<td>123</td>
 	</tr>
 	<tr>
 		<td>532</td>
