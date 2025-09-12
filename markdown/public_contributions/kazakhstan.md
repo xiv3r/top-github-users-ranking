@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` by users in Kazakhstan on `2025/9/12 8:02 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` by users in Kazakhstan on `2025/9/12 8:33 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -367,19 +367,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/Dias1c">
-				<img src="https://avatars.githubusercontent.com/u/52798029?s=72&u=36c63bd569f155cbdbe4d12a18e54cc024120e6c&v=4" width="24" alt="Avatar of Dias1c"> Dias1c
-			</a><br/>
-			Dias Kappassov
-		</td>
-		<td>Higgsfield Ai </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Astana</td>
-		<td>592</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/BEknUur">
 				<img src="https://avatars.githubusercontent.com/u/106554639?s=72&u=4c00fdcf7c5674c8e015b0e8969c430dd9fa3c5f&v=4" width="24" alt="Avatar of BEknUur"> BEknUur
 			</a><br/>
@@ -388,6 +375,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
+		<td>593</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/Dias1c">
+				<img src="https://avatars.githubusercontent.com/u/52798029?s=72&u=36c63bd569f155cbdbe4d12a18e54cc024120e6c&v=4" width="24" alt="Avatar of Dias1c"> Dias1c
+			</a><br/>
+			Dias Kappassov
+		</td>
+		<td>Higgsfield Ai </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Astana</td>
 		<td>592</td>
 	</tr>
 	<tr>
@@ -466,7 +466,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>519</td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -783,6 +783,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>53</td>
 		<td>
+			<a href="https://github.com/0xAX">
+				<img src="https://avatars.githubusercontent.com/u/2699235?s=72&u=6b9135d5c583701b84620f5dd84b3217aa588591&v=4" width="24" alt="Avatar of 0xAX"> 0xAX
+			</a><br/>
+			Alex Kuleshov
+		</td>
+		<td>@travelping  </td>
+		<td><a href="https://twitter.com/0xAX">0xAX</a></td>
+		<td>Kazakhstan, Astana</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
 			<a href="https://github.com/doniiel">
 				<img src="https://avatars.githubusercontent.com/u/151136348?s=72&u=afdc6aac0180a60590b246e1959669be4de537bc&v=4" width="24" alt="Avatar of doniiel"> doniiel
 			</a><br/>
@@ -792,19 +805,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
 		<td>348</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/0xAX">
-				<img src="https://avatars.githubusercontent.com/u/2699235?s=72&u=6b9135d5c583701b84620f5dd84b3217aa588591&v=4" width="24" alt="Avatar of 0xAX"> 0xAX
-			</a><br/>
-			Alex Kuleshov
-		</td>
-		<td>@travelping  </td>
-		<td><a href="https://twitter.com/0xAX">0xAX</a></td>
-		<td>Kazakhstan, Astana</td>
-		<td>347</td>
 	</tr>
 	<tr>
 		<td>55</td>
