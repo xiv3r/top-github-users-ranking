@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `number of followers` of users in Jordan on `2025/9/12 5:54 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `number of followers` of users in Jordan on `2025/9/12 6:56 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>@activepieces  </td>
 		<td><a href="https://twitter.com/mabuaboud">mabuaboud</a></td>
 		<td>Amman, Jordan</td>
-		<td>460</td>
+		<td>459</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -238,7 +238,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>11</td>
 		<td>
 			<a href="https://github.com/OmarSalhab">
-				<img src="https://avatars.githubusercontent.com/u/79935424?s=72&u=0d60b28dffdda4cab82258bd0eb772909635776d&v=4" width="24" alt="Avatar of OmarSalhab"> OmarSalhab
+				<img src="https://avatars.githubusercontent.com/u/79935424?s=72&u=bc63c8ff7fc8c6567ea1bff42355e3217335c798&v=4" width="24" alt="Avatar of OmarSalhab"> OmarSalhab
 			</a><br/>
 			Omar Marouf
 		</td>
@@ -297,7 +297,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>@travelpassgroup </td>
 		<td>No Twitter Username</td>
 		<td>South Jordan, Utah</td>
-		<td>301</td>
+		<td>302</td>
 	</tr>
 	<tr>
 		<td>16</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` by users in Jordan on `2025/9/12 5:54 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` by users in Jordan on `2025/9/12 6:56 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>Amazon </td>
 		<td>No Twitter Username</td>
 		<td>Amman - Jordan</td>
-		<td>1515</td>
+		<td>1516</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -641,7 +641,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>42</td>
 		<td>
 			<a href="https://github.com/OmarSalhab">
-				<img src="https://avatars.githubusercontent.com/u/79935424?s=72&u=0d60b28dffdda4cab82258bd0eb772909635776d&v=4" width="24" alt="Avatar of OmarSalhab"> OmarSalhab
+				<img src="https://avatars.githubusercontent.com/u/79935424?s=72&u=bc63c8ff7fc8c6567ea1bff42355e3217335c798&v=4" width="24" alt="Avatar of OmarSalhab"> OmarSalhab
 			</a><br/>
 			Omar Marouf
 		</td>
@@ -835,6 +835,19 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/SaifSaidi">
+				<img src="https://avatars.githubusercontent.com/u/99614521?s=72&u=505ca50bbf0c7a5fca64339e2d964b6d9bb19afc&v=4" width="24" alt="Avatar of SaifSaidi"> SaifSaidi
+			</a><br/>
+			Saif Al-Saidi
+		</td>
+		<td>Software Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Amman, Jordan</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/Ibrahimrahhal">
 				<img src="https://avatars.githubusercontent.com/u/24377288?s=72&u=3dc5edbd981d017f6da1779325befd1faddfa4f7&v=4" width="24" alt="Avatar of Ibrahimrahhal"> Ibrahimrahhal
 			</a><br/>
@@ -846,7 +859,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/ramziosta">
 				<img src="https://avatars.githubusercontent.com/u/76601606?s=72&v=4" width="24" alt="Avatar of ramziosta"> ramziosta
@@ -857,19 +870,6 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td><a href="https://twitter.com/ostaramzi">ostaramzi</a></td>
 		<td>Amman</td>
 		<td>250</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/SaifSaidi">
-				<img src="https://avatars.githubusercontent.com/u/99614521?s=72&u=505ca50bbf0c7a5fca64339e2d964b6d9bb19afc&v=4" width="24" alt="Avatar of SaifSaidi"> SaifSaidi
-			</a><br/>
-			Saif Al-Saidi
-		</td>
-		<td>Software Engineer </td>
-		<td>No Twitter Username</td>
-		<td>Amman, Jordan</td>
-		<td>246</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -2135,6 +2135,19 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 	<tr>
 		<td>157</td>
 		<td>
+			<a href="https://github.com/HAROONABUTABAR">
+				<img src="https://avatars.githubusercontent.com/u/45775271?s=72&u=a13c4838c9ab8bb7d982e158fa5e28a43960c29d&v=4" width="24" alt="Avatar of HAROONABUTABAR"> HAROONABUTABAR
+			</a><br/>
+			haroon abutabar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/haroon_abutabar">haroon_abutabar</a></td>
+		<td>As-Salt Jordan</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
 			<a href="https://github.com/majdiShomali">
 				<img src="https://avatars.githubusercontent.com/u/126141546?s=72&v=4" width="24" alt="Avatar of majdiShomali"> majdiShomali
 			</a><br/>
@@ -2146,7 +2159,7 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/shqear93">
 				<img src="https://avatars.githubusercontent.com/u/13157595?s=72&u=c45ffc516e65bf64e7d2ee247797e1ed204790ea&v=4" width="24" alt="Avatar of shqear93"> shqear93
@@ -2156,19 +2169,6 @@ There are `974 users`  in Jordan. You need at least `8 followers` to be on this 
 		<td>Careem </td>
 		<td>No Twitter Username</td>
 		<td>Amman</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/HAROONABUTABAR">
-				<img src="https://avatars.githubusercontent.com/u/45775271?s=72&u=a13c4838c9ab8bb7d982e158fa5e28a43960c29d&v=4" width="24" alt="Avatar of HAROONABUTABAR"> HAROONABUTABAR
-			</a><br/>
-			haroon abutabar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/haroon_abutabar">haroon_abutabar</a></td>
-		<td>As-Salt Jordan</td>
 		<td>72</td>
 	</tr>
 	<tr>
