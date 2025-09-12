@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2025/9/12 3:39 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2025/9/12 3:49 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>@withastro </td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>3809</td>
+		<td>3810</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -635,7 +635,7 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>Aws </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>1003</td>
+		<td>1004</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -3214,6 +3214,19 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>240</td>
 		<td>
+			<a href="https://github.com/piger">
+				<img src="https://avatars.githubusercontent.com/u/109275?s=72&u=c8199f8bce5450022d54bb487cdbb26b85a67102&v=4" width="24" alt="Avatar of piger"> piger
+			</a><br/>
+			Daniel Kertesz
+		</td>
+		<td>@zendesk  </td>
+		<td>No Twitter Username</td>
+		<td>Ireland </td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
 			<a href="https://github.com/damienmaguire">
 				<img src="https://avatars.githubusercontent.com/u/9742117?s=72&u=5f58e3d918fb839cd86749c2e0384aba0c9d8488&v=4" width="24" alt="Avatar of damienmaguire"> damienmaguire
 			</a><br/>
@@ -3223,19 +3236,6 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>153</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/piger">
-				<img src="https://avatars.githubusercontent.com/u/109275?s=72&u=c8199f8bce5450022d54bb487cdbb26b85a67102&v=4" width="24" alt="Avatar of piger"> piger
-			</a><br/>
-			Daniel Kertesz
-		</td>
-		<td>@zendesk  </td>
-		<td>No Twitter Username</td>
-		<td>Ireland </td>
-		<td>150</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -4982,12 +4982,12 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>376</td>
 		<td>
-			<a href="https://github.com/ismisepaul">
-				<img src="https://avatars.githubusercontent.com/u/912403?s=72&u=fc80addcb64744d000b4febf486061bfd027d4d6&v=4" width="24" alt="Avatar of ismisepaul"> ismisepaul
+			<a href="https://github.com/alexandremalavasi">
+				<img src="https://avatars.githubusercontent.com/u/5002849?s=72&u=1774ab44b857c0f591109f0509b8fd1084180b8d&v=4" width="24" alt="Avatar of alexandremalavasi"> alexandremalavasi
 			</a><br/>
-			Paul McCann
+			Alexandre Malavasi
 		</td>
-		<td>@elastic  </td>
+		<td>Primegov </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>56</td>
@@ -4995,12 +4995,12 @@ There are `968 users`  in Ireland. You need at least `45 followers` to be on thi
 	<tr>
 		<td>377</td>
 		<td>
-			<a href="https://github.com/alexandremalavasi">
-				<img src="https://avatars.githubusercontent.com/u/5002849?s=72&u=1774ab44b857c0f591109f0509b8fd1084180b8d&v=4" width="24" alt="Avatar of alexandremalavasi"> alexandremalavasi
+			<a href="https://github.com/ismisepaul">
+				<img src="https://avatars.githubusercontent.com/u/912403?s=72&u=fc80addcb64744d000b4febf486061bfd027d4d6&v=4" width="24" alt="Avatar of ismisepaul"> ismisepaul
 			</a><br/>
-			Alexandre Malavasi
+			Paul McCann
 		</td>
-		<td>Primegov </td>
+		<td>@elastic  </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>56</td>
