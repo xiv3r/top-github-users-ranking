@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/9/11 3:28 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/9/13 5:34 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Università Di Bologna </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>895</td>
+		<td>900</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>467</td>
+		<td>476</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@scmgroupspa </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>310</td>
+		<td>332</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -263,6 +263,19 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/N1K0232">
+				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
+			</a><br/>
+			Nico
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
+		<td>Repubblica di San Marino</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/MattiaSemproli">
 				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
 			</a><br/>
@@ -272,19 +285,6 @@ There are `132 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Italy - San Marino</td>
 		<td>35</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/N1K0232">
-				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
-			</a><br/>
-			Nico
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
-		<td>Repubblica di San Marino</td>
-		<td>34</td>
 	</tr>
 	<tr>
 		<td>15</td>
