@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` and `private contributions` by users in Georgia on `2025/9/14 11:32 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` and `private contributions` by users in Georgia on `2025/9/14 11:45 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1858,6 +1858,20 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 	<tr>
 		<td>126</td>
 		<td>
+			<a href="https://github.com/Alex0007">
+				<img src="https://avatars.githubusercontent.com/u/1143226?s=72&v=4" width="24" alt="Avatar of Alex0007"> Alex0007
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alex0007lolpvp">alex0007lolpvp</a></td>
+		<td>Georgia (before war: Russia)</td>
+		<td>23</td>
+		<td>1256</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
 			<a href="https://github.com/zmeyc">
 				<img src="https://avatars.githubusercontent.com/u/1219443?s=72&u=3886f018659e6bbf7338449b4f656f61f068d66c&v=4" width="24" alt="Avatar of zmeyc"> zmeyc
 			</a><br/>
@@ -1868,20 +1882,6 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 		<td>Georgia</td>
 		<td>16</td>
 		<td>1256</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/Alex0007">
-				<img src="https://avatars.githubusercontent.com/u/1143226?s=72&v=4" width="24" alt="Avatar of Alex0007"> Alex0007
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alex0007lolpvp">alex0007lolpvp</a></td>
-		<td>Georgia (before war: Russia)</td>
-		<td>23</td>
-		<td>1255</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -4485,7 +4485,7 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia, Tbilisi</td>
 		<td>3</td>
-		<td>491</td>
+		<td>494</td>
 	</tr>
 	<tr>
 		<td>314</td>
@@ -4708,8 +4708,8 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lakesare">lakesare</a></td>
 		<td>Tbilisi</td>
-		<td>437</td>
-		<td>450</td>
+		<td>438</td>
+		<td>451</td>
 	</tr>
 	<tr>
 		<td>330</td>

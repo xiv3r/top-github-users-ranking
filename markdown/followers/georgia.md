@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `number of followers` of users in Georgia on `2025/9/14 11:32 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `number of followers` of users in Georgia on `2025/9/14 11:45 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -193,7 +193,7 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 		<td>@reverseable  </td>
 		<td>No Twitter Username</td>
 		<td>Miami, FL, United States and Tbilisi, Georgia</td>
-		<td>2147</td>
+		<td>2148</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -271,7 +271,7 @@ There are `963 users`  in Georgia. You need at least `19 followers` to be on thi
 		<td>@reverseable </td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>796</td>
+		<td>797</td>
 	</tr>
 	<tr>
 		<td>14</td>
