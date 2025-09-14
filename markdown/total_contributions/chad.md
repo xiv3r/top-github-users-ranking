@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2025/9/11 10:46 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2025/9/14 1:21 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `171 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ashesi University </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>4087</td>
-		<td>4087</td>
+		<td>4091</td>
+		<td>4091</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -178,6 +178,20 @@ There are `171 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/Djerade">
+				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4" width="24" alt="Avatar of Djerade"> Djerade
+			</a><br/>
+			Djeradé Golbé Parfait
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>253</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/malachieborohoul">
 				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
 			</a><br/>
@@ -188,20 +202,6 @@ There are `171 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chad</td>
 		<td>165</td>
 		<td>214</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/Djerade">
-				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4" width="24" alt="Avatar of Djerade"> Djerade
-			</a><br/>
-			Djeradé Golbé Parfait
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>191</td>
-		<td>191</td>
 	</tr>
 	<tr>
 		<td>8</td>
