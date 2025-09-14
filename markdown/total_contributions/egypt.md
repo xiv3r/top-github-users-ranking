@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` and `private contributions` by users in Egypt on `2025/9/14 8:22 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` and `private contributions` by users in Egypt on `2025/9/14 8:48 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>Suez Canal University </td>
 		<td><a href="https://twitter.com/3BSALAM_1">3BSALAM_1</a></td>
 		<td>Ismailia, Egypt</td>
-		<td>82897</td>
 		<td>82899</td>
+		<td>82901</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Egypt</td>
 		<td>356</td>
-		<td>23756</td>
+		<td>23758</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -243,7 +243,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td><a href="https://twitter.com/AhmedLSayed9">AhmedLSayed9</a></td>
 		<td>Egypt, Al-Sharqia</td>
 		<td>280</td>
-		<td>3986</td>
+		<td>3987</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -607,7 +607,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td><a href="https://twitter.com/Abdelaz21958317">Abdelaz21958317</a></td>
 		<td>Egypt, Assuit</td>
 		<td>131</td>
-		<td>2391</td>
+		<td>2392</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1335,7 +1335,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td><a href="https://twitter.com/Mustafa_ElGaml0">Mustafa_ElGaml0</a></td>
 		<td>Egypt</td>
 		<td>13</td>
-		<td>1560</td>
+		<td>1561</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -2245,7 +2245,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Cairo, Egypt</td>
 		<td>37</td>
-		<td>997</td>
+		<td>998</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2357,7 +2357,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>cairo,Egypt</td>
 		<td>363</td>
-		<td>948</td>
+		<td>951</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -3468,6 +3468,20 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 	<tr>
 		<td>241</td>
 		<td>
+			<a href="https://github.com/KarimMohamed20">
+				<img src="https://avatars.githubusercontent.com/u/37942217?s=72&u=9402643e003bf6dd20eabadb53593b5fe2ca1e43&v=4" width="24" alt="Avatar of KarimMohamed20"> KarimMohamed20
+			</a><br/>
+			Karim Mohamed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Egypt</td>
+		<td>6</td>
+		<td>605</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
 			<a href="https://github.com/mennamohamed0207">
 				<img src="https://avatars.githubusercontent.com/u/90017398?s=72&u=6f86ad2e624a949056a37b999b0609bed213bf4e&v=4" width="24" alt="Avatar of mennamohamed0207"> mennamohamed0207
 			</a><br/>
@@ -3480,7 +3494,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>604</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/AbdelrahmanFouad1">
 				<img src="https://avatars.githubusercontent.com/u/64610124?s=72&u=e8cfbcd11936646f71b167d23540620a166b2f73&v=4" width="24" alt="Avatar of AbdelrahmanFouad1"> AbdelrahmanFouad1
@@ -3494,7 +3508,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>603</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/aminyasser">
 				<img src="https://avatars.githubusercontent.com/u/64032541?s=72&u=b579393fef4b412f4e306c91e2c58561f326da6c&v=4" width="24" alt="Avatar of aminyasser"> aminyasser
@@ -3505,20 +3519,6 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td><a href="https://twitter.com/aminyasser0">aminyasser0</a></td>
 		<td>Alexandria, Egypt.</td>
 		<td>12</td>
-		<td>602</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/KarimMohamed20">
-				<img src="https://avatars.githubusercontent.com/u/37942217?s=72&u=9402643e003bf6dd20eabadb53593b5fe2ca1e43&v=4" width="24" alt="Avatar of KarimMohamed20"> KarimMohamed20
-			</a><br/>
-			Karim Mohamed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Egypt</td>
-		<td>6</td>
 		<td>602</td>
 	</tr>
 	<tr>
@@ -5134,6 +5134,20 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 	<tr>
 		<td>360</td>
 		<td>
+			<a href="https://github.com/ahmed0saber">
+				<img src="https://avatars.githubusercontent.com/u/64714761?s=72&u=25dd160680324ff0bade151f78aaf63cbb245286&v=4" width="24" alt="Avatar of ahmed0saber"> ahmed0saber
+			</a><br/>
+			Ahmed Saber
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Egypt</td>
+		<td>71</td>
+		<td>329</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
 			<a href="https://github.com/HamzaHassanain">
 				<img src="https://avatars.githubusercontent.com/u/53662962?s=72&u=77ee37d5ba265b3a7d90acde2f0a87ef7523adae&v=4" width="24" alt="Avatar of HamzaHassanain"> HamzaHassanain
 			</a><br/>
@@ -5144,20 +5158,6 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>Cairo, Egypt </td>
 		<td>287</td>
 		<td>328</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/ahmed0saber">
-				<img src="https://avatars.githubusercontent.com/u/64714761?s=72&u=25dd160680324ff0bade151f78aaf63cbb245286&v=4" width="24" alt="Avatar of ahmed0saber"> ahmed0saber
-			</a><br/>
-			Ahmed Saber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Egypt</td>
-		<td>71</td>
-		<td>327</td>
 	</tr>
 	<tr>
 		<td>362</td>
@@ -5254,8 +5254,8 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>Delta University For Science<br/>&<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Egypt  </td>
-		<td>278</td>
-		<td>318</td>
+		<td>279</td>
+		<td>319</td>
 	</tr>
 	<tr>
 		<td>369</td>
@@ -5353,7 +5353,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td><a href="https://twitter.com/nobleackerson">nobleackerson</a></td>
 		<td>Alexandria</td>
 		<td>124</td>
-		<td>311</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>376</td>
@@ -5716,8 +5716,8 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>egypt(elmahalla elkobra)</td>
-		<td>261</td>
-		<td>276</td>
+		<td>262</td>
+		<td>277</td>
 	</tr>
 	<tr>
 		<td>402</td>
@@ -7318,6 +7318,20 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 	<tr>
 		<td>516</td>
 		<td>
+			<a href="https://github.com/oassem">
+				<img src="https://avatars.githubusercontent.com/u/37002103?s=72&u=de69801c9e171fa437d2914a5ce889b019e4ea17&v=4" width="24" alt="Avatar of oassem"> oassem
+			</a><br/>
+			Omar Assem
+		</td>
+		<td>Vega </td>
+		<td>No Twitter Username</td>
+		<td>Alexandria, Egypt</td>
+		<td>138</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
 			<a href="https://github.com/ibrahimabdalrhman">
 				<img src="https://avatars.githubusercontent.com/u/59165733?s=72&u=1bc4d81b6009bce2d7b71e80d6848f46e8262389&v=4" width="24" alt="Avatar of ibrahimabdalrhman"> ibrahimabdalrhman
 			</a><br/>
@@ -7330,7 +7344,7 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/yahia997">
 				<img src="https://avatars.githubusercontent.com/u/78583513?s=72&u=b04d18f9a12effc80a135064dd2cb571bde161bc&v=4" width="24" alt="Avatar of yahia997"> yahia997
@@ -7342,20 +7356,6 @@ There are `984 users`  in Egypt. You need at least `68 followers` to be on this 
 		<td>Alexandria, Eygpt</td>
 		<td>141</td>
 		<td>141</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/oassem">
-				<img src="https://avatars.githubusercontent.com/u/37002103?s=72&u=de69801c9e171fa437d2914a5ce889b019e4ea17&v=4" width="24" alt="Avatar of oassem"> oassem
-			</a><br/>
-			Omar Assem
-		</td>
-		<td>Vega </td>
-		<td>No Twitter Username</td>
-		<td>Alexandria, Egypt</td>
-		<td>137</td>
-		<td>140</td>
 	</tr>
 	<tr>
 		<td>519</td>
