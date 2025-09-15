@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `public contributions` by users in Nicaragua on `2025/9/13 1:03 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `public contributions` by users in Nicaragua on `2025/9/15 8:06 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Ska,  Iaa-csic, University<br/>Of<br/>Granada<br/></td>
 		<td><a href="https://twitter.com/manugrapevine">manugrapevine</a></td>
 		<td>Granada, Spain</td>
-		<td>9223</td>
+		<td>9093</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Ugr + Raku </td>
 		<td><a href="https://twitter.com/jjmereloedu">jjmereloedu</a></td>
 		<td>Granada, Spain, Europe</td>
-		<td>3632</td>
+		<td>3489</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,23 +154,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>2154</td>
+		<td>2065</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>
-			<a href="https://github.com/felixicaza">
-				<img src="https://avatars.githubusercontent.com/u/38303370?s=72&u=221104cac578dda021bfbc207ca6bb5f683acce0&v=4" width="24" alt="Avatar of felixicaza"> felixicaza
-			</a><br/>
-			Felix Icaza
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Estelí, Nicaragua</td>
-		<td>1889</td>
-	</tr>
-	<tr>
-		<td>6</td>
 		<td>
 			<a href="https://github.com/StevenU21">
 				<img src="https://avatars.githubusercontent.com/u/89059916?s=72&u=eb0529627b3c45bf2c107287eb0bc6d48979d2e3&v=4" width="24" alt="Avatar of StevenU21"> StevenU21
@@ -180,7 +167,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
-		<td>1824</td>
+		<td>1855</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/felixicaza">
+				<img src="https://avatars.githubusercontent.com/u/38303370?s=72&u=221104cac578dda021bfbc207ca6bb5f683acce0&v=4" width="24" alt="Avatar of felixicaza"> felixicaza
+			</a><br/>
+			Felix Icaza
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Estelí, Nicaragua</td>
+		<td>1846</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/davidgasquez">davidgasquez</a></td>
 		<td>Granada, Spain</td>
-		<td>1765</td>
+		<td>1736</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@rotki </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>1604</td>
+		<td>1559</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@elastic </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>1426</td>
+		<td>1430</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Universidad Americana </td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>1311</td>
+		<td>1304</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Leon - Nicaragua</td>
-		<td>1251</td>
+		<td>1221</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@sap  </td>
 		<td>No Twitter Username</td>
 		<td>St Leon-Rot</td>
-		<td>1195</td>
+		<td>1189</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Closemarketing </td>
 		<td><a href="https://twitter.com/davidperezmk">davidperezmk</a></td>
 		<td>Granada, Spain</td>
-		<td>1168</td>
+		<td>1141</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,23 +284,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>1146</td>
+		<td>1139</td>
 	</tr>
 	<tr>
 		<td>15</td>
-		<td>
-			<a href="https://github.com/dingosky">
-				<img src="https://avatars.githubusercontent.com/u/134293?s=72&v=4" width="24" alt="Avatar of dingosky"> dingosky
-			</a><br/>
-			Paul Rogers
-		</td>
-		<td>Dingo Sky </td>
-		<td>No Twitter Username</td>
-		<td>Santa Fe, NM & Güéjar-Sierra, Granada, Spain</td>
-		<td>1067</td>
-	</tr>
-	<tr>
-		<td>16</td>
 		<td>
 			<a href="https://github.com/SergioHrvas">
 				<img src="https://avatars.githubusercontent.com/u/72129125?s=72&u=570a93166626d40080f0ddd0cb63b60a36412e05&v=4" width="24" alt="Avatar of SergioHrvas"> SergioHrvas
@@ -313,6 +300,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1066</td>
 	</tr>
 	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/dingosky">
+				<img src="https://avatars.githubusercontent.com/u/134293?s=72&v=4" width="24" alt="Avatar of dingosky"> dingosky
+			</a><br/>
+			Paul Rogers
+		</td>
+		<td>Dingo Sky </td>
+		<td>No Twitter Username</td>
+		<td>Santa Fe, NM & Güéjar-Sierra, Granada, Spain</td>
+		<td>1063</td>
+	</tr>
+	<tr>
 		<td>17</td>
 		<td>
 			<a href="https://github.com/arturo-olvrs">
@@ -323,23 +323,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>1060</td>
+		<td>1059</td>
 	</tr>
 	<tr>
 		<td>18</td>
-		<td>
-			<a href="https://github.com/AlexRuiz7">
-				<img src="https://avatars.githubusercontent.com/u/15186973?s=72&u=74b190506d04d9d430babc33ef19e557b0083503&v=4" width="24" alt="Avatar of AlexRuiz7"> AlexRuiz7
-			</a><br/>
-			Álex Ruiz Becerra
-		</td>
-		<td>@wazuh  </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>966</td>
-	</tr>
-	<tr>
-		<td>19</td>
 		<td>
 			<a href="https://github.com/lmdiazangulo">
 				<img src="https://avatars.githubusercontent.com/u/4919398?s=72&u=83652bf323479b1ef72ba10e1bae23dfd4ed1b84&v=4" width="24" alt="Avatar of lmdiazangulo"> lmdiazangulo
@@ -349,10 +336,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Universidad De Granada </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>963</td>
+		<td>955</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/staFF6773">
 				<img src="https://avatars.githubusercontent.com/u/108166164?s=72&u=6ca08c4356dd70a1c04ff2110a3f45deda143ce7&v=4" width="24" alt="Avatar of staFF6773"> staFF6773
@@ -362,10 +349,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
-		<td>962</td>
+		<td>953</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/iblancasa">
 				<img src="https://avatars.githubusercontent.com/u/4806311?s=72&u=f631b41d2d84776ba70d4e350722986a99a6b4bc&v=4" width="24" alt="Avatar of iblancasa"> iblancasa
@@ -375,23 +362,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Coralogix </td>
 		<td><a href="https://twitter.com/iblancasa">iblancasa</a></td>
 		<td>Granada, Andalucía, Spain</td>
-		<td>959</td>
+		<td>932</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/AlexRuiz7">
+				<img src="https://avatars.githubusercontent.com/u/15186973?s=72&u=74b190506d04d9d430babc33ef19e557b0083503&v=4" width="24" alt="Avatar of AlexRuiz7"> AlexRuiz7
+			</a><br/>
+			Álex Ruiz Becerra
+		</td>
+		<td>@wazuh  </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>924</td>
 	</tr>
 	<tr>
 		<td>22</td>
-		<td>
-			<a href="https://github.com/vikman90">
-				<img src="https://avatars.githubusercontent.com/u/10536251?s=72&u=237b8fb11417597c6466a46d440d22a89350b98b&v=4" width="24" alt="Avatar of vikman90"> vikman90
-			</a><br/>
-			Vikman Fernandez-Castro
-		</td>
-		<td>@wazuh </td>
-		<td><a href="https://twitter.com/vikman90">vikman90</a></td>
-		<td>Granada, Spain</td>
-		<td>935</td>
-	</tr>
-	<tr>
-		<td>23</td>
 		<td>
 			<a href="https://github.com/toupper">
 				<img src="https://avatars.githubusercontent.com/u/1864060?s=72&u=c3c8997a9bde273b576b7e658b4767e84667bb91&v=4" width="24" alt="Avatar of toupper"> toupper
@@ -401,7 +388,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Automattic </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>930</td>
+		<td>923</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/vikman90">
+				<img src="https://avatars.githubusercontent.com/u/10536251?s=72&u=237b8fb11417597c6466a46d440d22a89350b98b&v=4" width="24" alt="Avatar of vikman90"> vikman90
+			</a><br/>
+			Vikman Fernandez-Castro
+		</td>
+		<td>@wazuh </td>
+		<td><a href="https://twitter.com/vikman90">vikman90</a></td>
+		<td>Granada, Spain</td>
+		<td>900</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -414,7 +414,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Universidad De Granada </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>896</td>
+		<td>895</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -427,23 +427,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>848</td>
+		<td>833</td>
 	</tr>
 	<tr>
 		<td>26</td>
-		<td>
-			<a href="https://github.com/janiversen">
-				<img src="https://avatars.githubusercontent.com/u/6185391?s=72&u=c31cae30d3d981df90c127daff3869698638ba0a&v=4" width="24" alt="Avatar of janiversen"> janiversen
-			</a><br/>
-			jan iversen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>granada, spain</td>
-		<td>813</td>
-	</tr>
-	<tr>
-		<td>27</td>
 		<td>
 			<a href="https://github.com/josemlp91">
 				<img src="https://avatars.githubusercontent.com/u/1655898?s=72&u=26b4d7a123a71c78d1567248a55cfdf481e8d87e&v=4" width="24" alt="Avatar of josemlp91"> josemlp91
@@ -453,36 +440,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>813</td>
+		<td>811</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/janiversen">
+				<img src="https://avatars.githubusercontent.com/u/6185391?s=72&u=c31cae30d3d981df90c127daff3869698638ba0a&v=4" width="24" alt="Avatar of janiversen"> janiversen
+			</a><br/>
+			jan iversen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>granada, spain</td>
+		<td>806</td>
 	</tr>
 	<tr>
 		<td>28</td>
-		<td>
-			<a href="https://github.com/cicdw">
-				<img src="https://avatars.githubusercontent.com/u/13255838?s=72&u=39ec802360022e7cd70d76eb2bcc598bd8e52e7c&v=4" width="24" alt="Avatar of cicdw"> cicdw
-			</a><br/>
-			Chris White
-		</td>
-		<td>@prefecthq  </td>
-		<td>No Twitter Username</td>
-		<td>El Granada, CA</td>
-		<td>760</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/Enaraque">
-				<img src="https://avatars.githubusercontent.com/u/74021522?s=72&u=43a2fac8effa1ac86861b0f1b9ab953e5c8f21bc&v=4" width="24" alt="Avatar of Enaraque"> Enaraque
-			</a><br/>
-			Enrique Araque
-		</td>
-		<td>@wazuh </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>745</td>
-	</tr>
-	<tr>
-		<td>30</td>
 		<td>
 			<a href="https://github.com/ArleysGatica">
 				<img src="https://avatars.githubusercontent.com/u/74475892?s=72&u=4878578e86a3b3828049b64de9af569efae83c59&v=4" width="24" alt="Avatar of ArleysGatica"> ArleysGatica
@@ -495,7 +469,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>738</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/Enaraque">
+				<img src="https://avatars.githubusercontent.com/u/74021522?s=72&u=43a2fac8effa1ac86861b0f1b9ab953e5c8f21bc&v=4" width="24" alt="Avatar of Enaraque"> Enaraque
+			</a><br/>
+			Enrique Araque
+		</td>
+		<td>@wazuh </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>725</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/achaparro">
 				<img src="https://avatars.githubusercontent.com/u/861040?s=72&u=5a1f9c87fdaed2ee9f8309a731dbb2e0af174268&v=4" width="24" alt="Avatar of achaparro"> achaparro
@@ -505,10 +492,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Liferay </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>735</td>
+		<td>722</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/manuelduarte077">
 				<img src="https://avatars.githubusercontent.com/u/46093689?s=72&u=3b06d60a4741416982e264aca5285728538354bc&v=4" width="24" alt="Avatar of manuelduarte077"> manuelduarte077
@@ -518,7 +505,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Sanateapp .inc </td>
 		<td><a href="https://twitter.com/manuelduarte077">manuelduarte077</a></td>
 		<td>Managua, Nicaragua </td>
-		<td>720</td>
+		<td>716</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/cicdw">
+				<img src="https://avatars.githubusercontent.com/u/13255838?s=72&u=39ec802360022e7cd70d76eb2bcc598bd8e52e7c&v=4" width="24" alt="Avatar of cicdw"> cicdw
+			</a><br/>
+			Chris White
+		</td>
+		<td>@prefecthq  </td>
+		<td>No Twitter Username</td>
+		<td>El Granada, CA</td>
+		<td>715</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -544,20 +544,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/juanjocerero">juanjocerero</a></td>
 		<td>Granada, Spain</td>
-		<td>704</td>
+		<td>708</td>
 	</tr>
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/pedrooot">
-				<img src="https://avatars.githubusercontent.com/u/56402503?s=72&u=578047225164237db21c37297bb8d5cbc8a62d4d&v=4" width="24" alt="Avatar of pedrooot"> pedrooot
+			<a href="https://github.com/Ralexs0096">
+				<img src="https://avatars.githubusercontent.com/u/49172583?s=72&u=59c2f8aa059adc8e696d62a5c56ca7982fde6e57&v=4" width="24" alt="Avatar of Ralexs0096"> Ralexs0096
 			</a><br/>
-			Pedro Martín
+			Alex Ruiz
 		</td>
-		<td>@prowler-cloud </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>697</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ralexs0096">ralexs0096</a></td>
+		<td>Nicaragua</td>
+		<td>679</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -570,23 +570,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Kiosquito </td>
 		<td><a href="https://twitter.com/roylopezdev">roylopezdev</a></td>
 		<td>Granada, Spain</td>
-		<td>682</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>37</td>
-		<td>
-			<a href="https://github.com/Ralexs0096">
-				<img src="https://avatars.githubusercontent.com/u/49172583?s=72&u=59c2f8aa059adc8e696d62a5c56ca7982fde6e57&v=4" width="24" alt="Avatar of Ralexs0096"> Ralexs0096
-			</a><br/>
-			Alex Ruiz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ralexs0096">ralexs0096</a></td>
-		<td>Nicaragua</td>
-		<td>680</td>
-	</tr>
-	<tr>
-		<td>38</td>
 		<td>
 			<a href="https://github.com/ajpelu">
 				<img src="https://avatars.githubusercontent.com/u/6410962?s=72&u=8e962c0008fc76bacad3d020d625c4908850ec83&v=4" width="24" alt="Avatar of ajpelu"> ajpelu
@@ -596,7 +583,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ajpelu">ajpelu</a></td>
 		<td>Madrid & Granada (Spain)</td>
-		<td>665</td>
+		<td>661</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/pedrooot">
+				<img src="https://avatars.githubusercontent.com/u/56402503?s=72&u=578047225164237db21c37297bb8d5cbc8a62d4d&v=4" width="24" alt="Avatar of pedrooot"> pedrooot
+			</a><br/>
+			Pedro Martín
+		</td>
+		<td>@prowler-cloud </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>660</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -609,7 +609,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Nulldogs </td>
 		<td><a href="https://twitter.com/kevlem97">kevlem97</a></td>
 		<td>Monterrey, Nuevo Leon</td>
-		<td>646</td>
+		<td>641</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -622,7 +622,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@prowler-cloud </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>631</td>
+		<td>623</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -635,7 +635,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>556</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -648,23 +648,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Grafana Labs </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>516</td>
+		<td>513</td>
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>
-			<a href="https://github.com/MarcelKemp">
-				<img src="https://avatars.githubusercontent.com/u/37207742?s=72&u=6590148e3db7ccee30fa0073d6cb22afa0ae3eb2&v=4" width="24" alt="Avatar of MarcelKemp"> MarcelKemp
-			</a><br/>
-			Marcel Kemp Muñoz
-		</td>
-		<td>@wazuh </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>490</td>
-	</tr>
-	<tr>
-		<td>44</td>
 		<td>
 			<a href="https://github.com/psaenzguerrero">
 				<img src="https://avatars.githubusercontent.com/u/168193734?s=72&v=4" width="24" alt="Avatar of psaenzguerrero"> psaenzguerrero
@@ -674,7 +661,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>476</td>
+		<td>486</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/MarcelKemp">
+				<img src="https://avatars.githubusercontent.com/u/37207742?s=72&u=6590148e3db7ccee30fa0073d6cb22afa0ae3eb2&v=4" width="24" alt="Avatar of MarcelKemp"> MarcelKemp
+			</a><br/>
+			Marcel Kemp Muñoz
+		</td>
+		<td>@wazuh </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -705,19 +705,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/agarciamontoro">
-				<img src="https://avatars.githubusercontent.com/u/3924815?s=72&v=4" width="24" alt="Avatar of agarciamontoro"> agarciamontoro
-			</a><br/>
-			Alejandro García Montoro
-		</td>
-		<td>@mattermost </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Andalucía, Spain</td>
-		<td>459</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
 			<a href="https://github.com/joaquinn6">
 				<img src="https://avatars.githubusercontent.com/u/33787336?s=72&u=2b81289bb239084a047c2f6a4ab0e23ca1421c16&v=4" width="24" alt="Avatar of joaquinn6"> joaquinn6
 			</a><br/>
@@ -727,6 +714,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Managua - Nicaragua</td>
 		<td>453</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/agarciamontoro">
+				<img src="https://avatars.githubusercontent.com/u/3924815?s=72&v=4" width="24" alt="Avatar of agarciamontoro"> agarciamontoro
+			</a><br/>
+			Alejandro García Montoro
+		</td>
+		<td>@mattermost </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Andalucía, Spain</td>
+		<td>452</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -739,7 +739,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@manageiq Red Hat, Gdg<br/></td>
 		<td>No Twitter Username</td>
 		<td>Granada,Spain</td>
-		<td>449</td>
+		<td>441</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -770,19 +770,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>52</td>
 		<td>
-			<a href="https://github.com/fblupi">
-				<img src="https://avatars.githubusercontent.com/u/6973564?s=72&u=2540bd8f15a47bc1041009f0da9a6b548082a899&v=4" width="24" alt="Avatar of fblupi"> fblupi
-			</a><br/>
-			Fran Bolívar (FBO)
-		</td>
-		<td>@nazaries-intelligen </td>
-		<td><a href="https://twitter.com/fblupi">fblupi</a></td>
-		<td>Granada, Spain</td>
-		<td>419</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
 			<a href="https://github.com/jesusmuve18">
 				<img src="https://avatars.githubusercontent.com/u/123991382?s=72&u=14d4cf0ee26998469f45afed930bbf6d55c1f75b&v=4" width="24" alt="Avatar of jesusmuve18"> jesusmuve18
 			</a><br/>
@@ -791,7 +778,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Ugr </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>418</td>
+		<td>422</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/fblupi">
+				<img src="https://avatars.githubusercontent.com/u/6973564?s=72&u=2540bd8f15a47bc1041009f0da9a6b548082a899&v=4" width="24" alt="Avatar of fblupi"> fblupi
+			</a><br/>
+			Fran Bolívar (FBO)
+		</td>
+		<td>@nazaries-intelligen </td>
+		<td><a href="https://twitter.com/fblupi">fblupi</a></td>
+		<td>Granada, Spain</td>
+		<td>410</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -809,25 +809,25 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/FlorinTodor">
-				<img src="https://avatars.githubusercontent.com/u/76227075?s=72&u=6eead2d6c82cca920efb28f1de1f3732104b8d5e&v=4" width="24" alt="Avatar of FlorinTodor"> FlorinTodor
-			</a><br/>
-			Florín Emanuel Todor Gliga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>394</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/manumorante">
 				<img src="https://avatars.githubusercontent.com/u/3266486?s=72&u=5a59e9aab256122badfca50765ee02514c1944fe&v=4" width="24" alt="Avatar of manumorante"> manumorante
 			</a><br/>
 			Manu Morante
 		</td>
 		<td>Founderz </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>393</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/FlorinTodor">
+				<img src="https://avatars.githubusercontent.com/u/76227075?s=72&u=6eead2d6c82cca920efb28f1de1f3732104b8d5e&v=4" width="24" alt="Avatar of FlorinTodor"> FlorinTodor
+			</a><br/>
+			Florín Emanuel Todor Gliga
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
 		<td>393</td>
@@ -856,7 +856,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@altipla-consulting  </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>389</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -869,7 +869,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>357</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -887,31 +887,18 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/manjavacas">
-				<img src="https://avatars.githubusercontent.com/u/40355800?s=72&u=e5204715a2310da414803e2907dd155a34ec2968&v=4" width="24" alt="Avatar of manjavacas"> manjavacas
+			<a href="https://github.com/pedritomelenas">
+				<img src="https://avatars.githubusercontent.com/u/9551023?s=72&u=4f79f768157987cddbb77b2b5b5ccbf47a9f5bce&v=4" width="24" alt="Avatar of pedritomelenas"> pedritomelenas
 			</a><br/>
-			Antonio Manjavacas
+			Pedro A. García-Sánchez
 		</td>
-		<td>@ugr-sail </td>
+		<td>Universidad De Granada </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>348</td>
+		<td>346</td>
 	</tr>
 	<tr>
 		<td>62</td>
-		<td>
-			<a href="https://github.com/chemamartinez">
-				<img src="https://avatars.githubusercontent.com/u/29475387?s=72&u=cd1e1f4bbd35b2c270ed07eb94ebed05f9f9fc5d&v=4" width="24" alt="Avatar of chemamartinez"> chemamartinez
-			</a><br/>
-			Chema Martínez
-		</td>
-		<td>@elastic </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>344</td>
-	</tr>
-	<tr>
-		<td>63</td>
 		<td>
 			<a href="https://github.com/eigenric">
 				<img src="https://avatars.githubusercontent.com/u/1909548?s=72&v=4" width="24" alt="Avatar of eigenric"> eigenric
@@ -924,20 +911,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/pedritomelenas">
-				<img src="https://avatars.githubusercontent.com/u/9551023?s=72&u=4f79f768157987cddbb77b2b5b5ccbf47a9f5bce&v=4" width="24" alt="Avatar of pedritomelenas"> pedritomelenas
-			</a><br/>
-			Pedro A. García-Sánchez
-		</td>
-		<td>Universidad De Granada </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>340</td>
-	</tr>
-	<tr>
-		<td>65</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/EnderJs-CreatorGL">
 				<img src="https://avatars.githubusercontent.com/u/142455051?s=72&u=44bec7ec41b53ea7b573733fde735519ffbe4950&v=4" width="24" alt="Avatar of EnderJs-CreatorGL"> EnderJs-CreatorGL
@@ -950,20 +924,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>339</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>64</td>
 		<td>
-			<a href="https://github.com/kenetpicado">
-				<img src="https://avatars.githubusercontent.com/u/83382624?s=72&u=7f37d34d56aaf4984b42fa04ac12d2ba1c2d8699&v=4" width="24" alt="Avatar of kenetpicado"> kenetpicado
+			<a href="https://github.com/chemamartinez">
+				<img src="https://avatars.githubusercontent.com/u/29475387?s=72&u=cd1e1f4bbd35b2c270ed07eb94ebed05f9f9fc5d&v=4" width="24" alt="Avatar of chemamartinez"> chemamartinez
 			</a><br/>
-			Kenet
+			Chema Martínez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kenetphp">kenetphp</a></td>
-		<td>León, Nicaragua</td>
-		<td>332</td>
+		<td>@elastic </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>337</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/manjavacas">
+				<img src="https://avatars.githubusercontent.com/u/40355800?s=72&u=e5204715a2310da414803e2907dd155a34ec2968&v=4" width="24" alt="Avatar of manjavacas"> manjavacas
+			</a><br/>
+			Antonio Manjavacas
+		</td>
+		<td>@ugr-sail </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>331</td>
+	</tr>
+	<tr>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/RedRiotTank">
 				<img src="https://avatars.githubusercontent.com/u/64831934?s=72&u=50d1a1bc01a552023d944fcd150986c052acd36c&v=4" width="24" alt="Avatar of RedRiotTank"> RedRiotTank
@@ -976,7 +963,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/alanrvazquez">
 				<img src="https://avatars.githubusercontent.com/u/20354680?s=72&u=a2413beff7ae420b8ef9e90ba9c1b95635c8c3af&v=4" width="24" alt="Avatar of alanrvazquez"> alanrvazquez
@@ -989,7 +976,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/Cristinasj">
 				<img src="https://avatars.githubusercontent.com/u/56409822?s=72&u=8f19a89a1feca0a2264505c731837094ee434ba1&v=4" width="24" alt="Avatar of Cristinasj"> Cristinasj
@@ -999,10 +986,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Ugr </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>328</td>
+		<td>327</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/aileenvl">
 				<img src="https://avatars.githubusercontent.com/u/7274454?s=72&u=728f04454299e8d80227efe9faeb62e879ca1183&v=4" width="24" alt="Avatar of aileenvl"> aileenvl
@@ -1015,6 +1002,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>325</td>
 	</tr>
 	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/kenetpicado">
+				<img src="https://avatars.githubusercontent.com/u/83382624?s=72&u=7f37d34d56aaf4984b42fa04ac12d2ba1c2d8699&v=4" width="24" alt="Avatar of kenetpicado"> kenetpicado
+			</a><br/>
+			Kenet
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kenetphp">kenetphp</a></td>
+		<td>León, Nicaragua</td>
+		<td>313</td>
+	</tr>
+	<tr>
 		<td>71</td>
 		<td>
 			<a href="https://github.com/okynos">
@@ -1025,7 +1025,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@achiefs </td>
 		<td><a href="https://twitter.com/okynos">okynos</a></td>
 		<td>Granada</td>
-		<td>313</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1056,19 +1056,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>74</td>
 		<td>
-			<a href="https://github.com/jhmigueles">
-				<img src="https://avatars.githubusercontent.com/u/28734336?s=72&u=32543a9ee713cc49853167e9b97428a4c6b210e0&v=4" width="24" alt="Avatar of jhmigueles"> jhmigueles
-			</a><br/>
-			Jairo H Migueles
-		</td>
-		<td>University Of Granada And<br/>Jhmigueles.com<br/></td>
-		<td><a href="https://twitter.com/Jairohm8">Jairohm8</a></td>
-		<td>Granada</td>
-		<td>302</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
 			<a href="https://github.com/bluehat8">
 				<img src="https://avatars.githubusercontent.com/u/80552327?s=72&u=701e6add1a4c4b0daf14d9f920165465706355e6&v=4" width="24" alt="Avatar of bluehat8"> bluehat8
 			</a><br/>
@@ -1077,23 +1064,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>298</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/jhmigueles">
+				<img src="https://avatars.githubusercontent.com/u/28734336?s=72&u=32543a9ee713cc49853167e9b97428a4c6b210e0&v=4" width="24" alt="Avatar of jhmigueles"> jhmigueles
+			</a><br/>
+			Jairo H Migueles
+		</td>
+		<td>University Of Granada And<br/>Jhmigueles.com<br/></td>
+		<td><a href="https://twitter.com/Jairohm8">Jairohm8</a></td>
+		<td>Granada</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>76</td>
-		<td>
-			<a href="https://github.com/enriquemdev">
-				<img src="https://avatars.githubusercontent.com/u/113044555?s=72&u=a2ade75333865bdaf90e4e3f630961b210f12383&v=4" width="24" alt="Avatar of enriquemdev"> enriquemdev
-			</a><br/>
-			Enrique Muñoz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>77</td>
 		<td>
 			<a href="https://github.com/migarci2">
 				<img src="https://avatars.githubusercontent.com/u/60073809?s=72&u=1b50eef02f707ab0abc6338ce93ca0a42980f269&v=4" width="24" alt="Avatar of migarci2"> migarci2
@@ -1103,20 +1090,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>282</td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/enriquemdev">
+				<img src="https://avatars.githubusercontent.com/u/113044555?s=72&u=a2ade75333865bdaf90e4e3f630961b210f12383&v=4" width="24" alt="Avatar of enriquemdev"> enriquemdev
+			</a><br/>
+			Enrique Muñoz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/AliciaEA">
-				<img src="https://avatars.githubusercontent.com/u/165811131?s=72&u=370870359aba704e3413793c1677a9948906b1ea&v=4" width="24" alt="Avatar of AliciaEA"> AliciaEA
+			<a href="https://github.com/AdriiiPRodri">
+				<img src="https://avatars.githubusercontent.com/u/15522808?s=72&u=0c0bc2da7443ec006016d9a3d503ec457496ee24&v=4" width="24" alt="Avatar of AdriiiPRodri"> AdriiiPRodri
 			</a><br/>
-			Alicia Estrada
+			Adrián Jesús Peña Rodríguez
 		</td>
-		<td>No Company</td>
+		<td>@prowler-cloud  </td>
 		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>282</td>
+		<td>Granada, Spain</td>
+		<td>279</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1129,36 +1129,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Intelygenz </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>278</td>
+		<td>279</td>
 	</tr>
 	<tr>
 		<td>80</td>
 		<td>
-			<a href="https://github.com/AdriiiPRodri">
-				<img src="https://avatars.githubusercontent.com/u/15522808?s=72&u=0c0bc2da7443ec006016d9a3d503ec457496ee24&v=4" width="24" alt="Avatar of AdriiiPRodri"> AdriiiPRodri
+			<a href="https://github.com/AliciaEA">
+				<img src="https://avatars.githubusercontent.com/u/165811131?s=72&u=370870359aba704e3413793c1677a9948906b1ea&v=4" width="24" alt="Avatar of AliciaEA"> AliciaEA
 			</a><br/>
-			Adrián Jesús Peña Rodríguez
-		</td>
-		<td>@prowler-cloud  </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/Elex03">
-				<img src="https://avatars.githubusercontent.com/u/103122934?s=72&u=1fe16bfabd4cc6e107fee5a7600997571baf3ed1&v=4" width="24" alt="Avatar of Elex03"> Elex03
-			</a><br/>
-			Eliezer
+			Alicia Estrada
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>269</td>
+		<td>278</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/AlvisonHunterArnuero">
 				<img src="https://avatars.githubusercontent.com/u/54810071?s=72&u=a714987f5d98dd6959a1977330698c5a0c3f512a&v=4" width="24" alt="Avatar of AlvisonHunterArnuero"> AlvisonHunterArnuero
@@ -1169,6 +1156,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/alvisonhunter">alvisonhunter</a></td>
 		<td>Nicaragua</td>
 		<td>267</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/williamjmorenor">
+				<img src="https://avatars.githubusercontent.com/u/3522386?s=72&v=4" width="24" alt="Avatar of williamjmorenor"> williamjmorenor
+			</a><br/>
+			William Moreno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua Nicaragua</td>
+		<td>266</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1186,6 +1186,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>84</td>
 		<td>
+			<a href="https://github.com/Elex03">
+				<img src="https://avatars.githubusercontent.com/u/103122934?s=72&u=1fe16bfabd4cc6e107fee5a7600997571baf3ed1&v=4" width="24" alt="Avatar of Elex03"> Elex03
+			</a><br/>
+			Eliezer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>263</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
 			<a href="https://github.com/rauldpm">
 				<img src="https://avatars.githubusercontent.com/u/14913942?s=72&u=98cf62bbedd318c81eb14667532cdadc59e30177&v=4" width="24" alt="Avatar of rauldpm"> rauldpm
 			</a><br/>
@@ -1194,20 +1207,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@wazuh  </td>
 		<td>No Twitter Username</td>
 		<td>Granada, España</td>
-		<td>260</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/acanas">
-				<img src="https://avatars.githubusercontent.com/u/9986986?s=72&u=c419e5e226b1d1a97e9d3916ac27729653e9c6f7&v=4" width="24" alt="Avatar of acanas"> acanas
-			</a><br/>
-			Antonio Cañas Vargas
-		</td>
-		<td>University Of Granada </td>
-		<td><a href="https://twitter.com/acanasvargas">acanasvargas</a></td>
-		<td>Granada, Spain</td>
-		<td>257</td>
+		<td>258</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1233,10 +1233,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
-		<td>255</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>88</td>
+		<td>
+			<a href="https://github.com/acanas">
+				<img src="https://avatars.githubusercontent.com/u/9986986?s=72&u=c419e5e226b1d1a97e9d3916ac27729653e9c6f7&v=4" width="24" alt="Avatar of acanas"> acanas
+			</a><br/>
+			Antonio Cañas Vargas
+		</td>
+		<td>University Of Granada </td>
+		<td><a href="https://twitter.com/acanasvargas">acanasvargas</a></td>
+		<td>Granada, Spain</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/jotacarma90">
 				<img src="https://avatars.githubusercontent.com/u/60003131?s=72&u=5c9ef661b7d2394fba3cd2bacfa6e475e2697973&v=4" width="24" alt="Avatar of jotacarma90"> jotacarma90
@@ -1246,10 +1259,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@wazuh </td>
 		<td>No Twitter Username</td>
 		<td>Granada, España</td>
-		<td>250</td>
+		<td>245</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/Franblueee">
 				<img src="https://avatars.githubusercontent.com/u/24698074?s=72&u=a5be966a412dfb4759bad11646b08a75d596756e&v=4" width="24" alt="Avatar of Franblueee"> Franblueee
@@ -1262,7 +1275,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/EverthSarantes">
 				<img src="https://avatars.githubusercontent.com/u/104174369?s=72&u=f8b3e8cb20ec72b9e59c7d1a2806cc808feeddab&v=4" width="24" alt="Avatar of EverthSarantes"> EverthSarantes
@@ -1275,33 +1288,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/williamjmorenor">
-				<img src="https://avatars.githubusercontent.com/u/3522386?s=72&v=4" width="24" alt="Avatar of williamjmorenor"> williamjmorenor
-			</a><br/>
-			William Moreno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua Nicaragua</td>
-		<td>238</td>
-	</tr>
-	<tr>
 		<td>92</td>
-		<td>
-			<a href="https://github.com/Meitchouk">
-				<img src="https://avatars.githubusercontent.com/u/80351751?s=72&u=21791a37aeaa1ef0855b21b5cad061bd815fd773&v=4" width="24" alt="Avatar of Meitchouk"> Meitchouk
-			</a><br/>
-			Marat Joseph Lanza Meitchouk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua.</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>93</td>
 		<td>
 			<a href="https://github.com/ManuelxCruzh86">
 				<img src="https://avatars.githubusercontent.com/u/100055054?s=72&u=f16cedc67f1d147540b2505c092971b384069c15&v=4" width="24" alt="Avatar of ManuelxCruzh86"> ManuelxCruzh86
@@ -1314,20 +1301,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/pablomc88">
-				<img src="https://avatars.githubusercontent.com/u/18216448?s=72&u=65463c2004c930b909619bc6992ddd775132ee9a&v=4" width="24" alt="Avatar of pablomc88"> pablomc88
-			</a><br/>
-			Pablo Martínez Cañada
-		</td>
-		<td>University Of Granada </td>
-		<td>No Twitter Username</td>
-		<td>Granada (Spain)</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>95</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/javacasm">
 				<img src="https://avatars.githubusercontent.com/u/3841695?s=72&u=45ef4de9ab380439dd22e50546ada1fc18ee6bc2&v=4" width="24" alt="Avatar of javacasm"> javacasm
@@ -1337,10 +1311,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Elcacharreo.com </td>
 		<td>No Twitter Username</td>
 		<td>Spain, Cádiz, Granada, Jaén, Andalucía</td>
-		<td>232</td>
+		<td>235</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/alexxandraSalazar">
 				<img src="https://avatars.githubusercontent.com/u/138623509?s=72&u=e8c8d5b5f61fe211130ea51e0aec508e425d790f&v=4" width="24" alt="Avatar of alexxandraSalazar"> alexxandraSalazar
@@ -1350,23 +1324,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
-		<td>232</td>
+		<td>229</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>95</td>
 		<td>
-			<a href="https://github.com/RhinoBlindado">
-				<img src="https://avatars.githubusercontent.com/u/30329595?s=72&u=537e6ae5d84ddac6afc816aac35d4f2fb4729263&v=4" width="24" alt="Avatar of RhinoBlindado"> RhinoBlindado
+			<a href="https://github.com/pablomc88">
+				<img src="https://avatars.githubusercontent.com/u/18216448?s=72&u=65463c2004c930b909619bc6992ddd775132ee9a&v=4" width="24" alt="Avatar of pablomc88"> pablomc88
 			</a><br/>
-			Valentino Lugli
+			Pablo Martínez Cañada
 		</td>
-		<td>No Company</td>
+		<td>University Of Granada </td>
 		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>230</td>
+		<td>Granada (Spain)</td>
+		<td>229</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/Mayky23">
 				<img src="https://avatars.githubusercontent.com/u/117676749?s=72&u=ddec05a5a2780cc99ea538537af29ef8f96a7db4&v=4" width="24" alt="Avatar of Mayky23"> Mayky23
@@ -1379,20 +1353,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>97</td>
 		<td>
-			<a href="https://github.com/reduhq">
-				<img src="https://avatars.githubusercontent.com/u/70913575?s=72&u=11fb8ac6cf46faca2fbebf6230648206ad5b6370&v=4" width="24" alt="Avatar of reduhq"> reduhq
+			<a href="https://github.com/Meitchouk">
+				<img src="https://avatars.githubusercontent.com/u/80351751?s=72&u=21791a37aeaa1ef0855b21b5cad061bd815fd773&v=4" width="24" alt="Avatar of Meitchouk"> Meitchouk
 			</a><br/>
-			Rey Halsall
+			Marat Joseph Lanza Meitchouk
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>227</td>
+		<td>Managua, Nicaragua.</td>
+		<td>228</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/josecamachop">
 				<img src="https://avatars.githubusercontent.com/u/8208300?s=72&u=207a3c398722bbc425115e141986119fc6f8eda9&v=4" width="24" alt="Avatar of josecamachop"> josecamachop
@@ -1405,7 +1379,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/raulgonca">
 				<img src="https://avatars.githubusercontent.com/u/120734865?s=72&u=84dc824e0698f67dc9651cfbacf1693751894d7c&v=4" width="24" alt="Avatar of raulgonca"> raulgonca
@@ -1418,6 +1392,32 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>224</td>
 	</tr>
 	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/fgcoca">
+				<img src="https://avatars.githubusercontent.com/u/20954142?s=72&u=0f0663fe8f2affae9a9570a1cc4b5f1eb1aeabd3&v=4" width="24" alt="Avatar of fgcoca"> fgcoca
+			</a><br/>
+			Federico Coca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>222</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/reduhq">
+				<img src="https://avatars.githubusercontent.com/u/70913575?s=72&u=11fb8ac6cf46faca2fbebf6230648206ad5b6370&v=4" width="24" alt="Avatar of reduhq"> reduhq
+			</a><br/>
+			Rey Halsall
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>222</td>
+	</tr>
+	<tr>
 		<td>102</td>
 		<td>
 			<a href="https://github.com/Archmage83">
@@ -1428,23 +1428,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ponce de Leon，FL</td>
-		<td>223</td>
+		<td>220</td>
 	</tr>
 	<tr>
 		<td>103</td>
-		<td>
-			<a href="https://github.com/fgcoca">
-				<img src="https://avatars.githubusercontent.com/u/20954142?s=72&u=0f0663fe8f2affae9a9570a1cc4b5f1eb1aeabd3&v=4" width="24" alt="Avatar of fgcoca"> fgcoca
-			</a><br/>
-			Federico Coca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>104</td>
 		<td>
 			<a href="https://github.com/derian-cordoba">
 				<img src="https://avatars.githubusercontent.com/u/74283575?s=72&u=e6dc5de95a4727bb9ec3fe29c6c2583eb566fe06&v=4" width="24" alt="Avatar of derian-cordoba"> derian-cordoba
@@ -1457,6 +1444,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>219</td>
 	</tr>
 	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/RhinoBlindado">
+				<img src="https://avatars.githubusercontent.com/u/30329595?s=72&u=537e6ae5d84ddac6afc816aac35d4f2fb4729263&v=4" width="24" alt="Avatar of RhinoBlindado"> RhinoBlindado
+			</a><br/>
+			Valentino Lugli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>218</td>
+	</tr>
+	<tr>
 		<td>105</td>
 		<td>
 			<a href="https://github.com/LuiisDev21">
@@ -1467,49 +1467,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/AlejandroCN7">
-				<img src="https://avatars.githubusercontent.com/u/23475034?s=72&u=55cb7c333732b2dcc44ceafa5b5dfb2a68340ddf&v=4" width="24" alt="Avatar of AlejandroCN7"> AlejandroCN7
-			</a><br/>
-			Alejandro Campoy Nieves
-		</td>
-		<td>Universidad De Granada </td>
-		<td>No Twitter Username</td>
-		<td>Universidad de Granada (Escuela Técnica de INgeniería Informática y de Telecomunicaciones)</td>
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/hds">
-				<img src="https://avatars.githubusercontent.com/u/89589?s=72&u=75ad82ce9b4846d672556a5887e2a344beb17ca0&v=4" width="24" alt="Avatar of hds"> hds
-			</a><br/>
-			Hayden Stainsby
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/haydenstainsby">haydenstainsby</a></td>
-		<td>Granada</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/ElVatoEste">
-				<img src="https://avatars.githubusercontent.com/u/73704763?s=72&u=f7ff370b817629d353345d144d5596e31094224b&v=4" width="24" alt="Avatar of ElVatoEste"> ElVatoEste
-			</a><br/>
-			VatoDev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>109</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/vrivas">
 				<img src="https://avatars.githubusercontent.com/u/3046042?s=72&u=cac34f2344353a0123e0b2386c6bd45656446f77&v=4" width="24" alt="Avatar of vrivas"> vrivas
@@ -1519,10 +1480,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>University Of Jaen </td>
 		<td><a href="https://twitter.com/vrsantos">vrsantos</a></td>
 		<td>Jaen, Jaén, Granada, Spain</td>
-		<td>214</td>
+		<td>215</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/FerniCuesta">
 				<img src="https://avatars.githubusercontent.com/u/65247186?s=72&u=ba7ec1567eabbe7a6127c10b5f45764aa0066ee5&v=4" width="24" alt="Avatar of FerniCuesta"> FerniCuesta
@@ -1535,6 +1496,45 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>213</td>
 	</tr>
 	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/ElVatoEste">
+				<img src="https://avatars.githubusercontent.com/u/73704763?s=72&u=f7ff370b817629d353345d144d5596e31094224b&v=4" width="24" alt="Avatar of ElVatoEste"> ElVatoEste
+			</a><br/>
+			VatoDev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/AlejandroCN7">
+				<img src="https://avatars.githubusercontent.com/u/23475034?s=72&u=55cb7c333732b2dcc44ceafa5b5dfb2a68340ddf&v=4" width="24" alt="Avatar of AlejandroCN7"> AlejandroCN7
+			</a><br/>
+			Alejandro Campoy Nieves
+		</td>
+		<td>Universidad De Granada </td>
+		<td>No Twitter Username</td>
+		<td>Universidad de Granada (Escuela Técnica de INgeniería Informática y de Telecomunicaciones)</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/hds">
+				<img src="https://avatars.githubusercontent.com/u/89589?s=72&u=75ad82ce9b4846d672556a5887e2a344beb17ca0&v=4" width="24" alt="Avatar of hds"> hds
+			</a><br/>
+			Hayden Stainsby
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/haydenstainsby">haydenstainsby</a></td>
+		<td>Granada</td>
+		<td>204</td>
+	</tr>
+	<tr>
 		<td>111</td>
 		<td>
 			<a href="https://github.com/daamaleman">
@@ -1545,7 +1545,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Universidad Americana (uam) </td>
 		<td>No Twitter Username</td>
 		<td>Managua/ Nicaragua</td>
-		<td>207</td>
+		<td>204</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1558,7 +1558,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/openthe_window">openthe_window</a></td>
 		<td>Nicaragua</td>
-		<td>202</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1571,7 +1571,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/joscani">joscani</a></td>
 		<td>Granada, Spain</td>
-		<td>200</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1589,19 +1589,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>115</td>
 		<td>
-			<a href="https://github.com/davidcr01">
-				<img src="https://avatars.githubusercontent.com/u/72193239?s=72&u=f5b5a349deb3215891cd350c24b0f3e7b54878bc&v=4" width="24" alt="Avatar of davidcr01"> davidcr01
-			</a><br/>
-			David Correa Rodríguez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, España</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
 			<a href="https://github.com/JMgranaBUAB">
 				<img src="https://avatars.githubusercontent.com/u/81390580?s=72&u=8b5c51ced534e55b166551bdbae0760e7a35c5d9&v=4" width="24" alt="Avatar of JMgranaBUAB"> JMgranaBUAB
 			</a><br/>
@@ -1610,23 +1597,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>185</td>
+		<td>182</td>
 	</tr>
 	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/DavidGDA">
-				<img src="https://avatars.githubusercontent.com/u/138391657?s=72&u=41578356e902663d940ad0269e1cbe5e0f40146a&v=4" width="24" alt="Avatar of DavidGDA"> DavidGDA
-			</a><br/>
-			David Gabriel Álvarez Delgadillo
-		</td>
-		<td>Fundación Uno </td>
-		<td>No Twitter Username</td>
-		<td>Managua, Managua, Nicaragua</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>118</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/Trifido">
 				<img src="https://avatars.githubusercontent.com/u/6890573?s=72&u=b35ec9ce31ebfa3fc76de8b13bcb3e1bc244a208&v=4" width="24" alt="Avatar of Trifido"> Trifido
@@ -1636,23 +1610,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada (Spain)</td>
-		<td>180</td>
+		<td>181</td>
 	</tr>
 	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/marcoalopez">
-				<img src="https://avatars.githubusercontent.com/u/10434005?s=72&u=9c82acc415cd30aad06a5de9d26d699e70531922&v=4" width="24" alt="Avatar of marcoalopez"> marcoalopez
-			</a><br/>
-			Marco A. Lopez-Sanchez
-		</td>
-		<td>Andalusian Earth Sciences Institute<br/></td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>178</td>
-	</tr>
-	<tr>
-		<td>120</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/ernerdo">
 				<img src="https://avatars.githubusercontent.com/u/13532238?s=72&u=909e2c9d520070727cfb74e9d08dff0b00652780&v=4" width="24" alt="Avatar of ernerdo"> ernerdo
@@ -1665,7 +1626,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/marconipoveda">
 				<img src="https://avatars.githubusercontent.com/u/47533?s=72&v=4" width="24" alt="Avatar of marconipoveda"> marconipoveda
@@ -1675,23 +1636,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marconipoveda">marconipoveda</a></td>
 		<td>Chichigalpa, Nicaragua</td>
-		<td>169</td>
+		<td>168</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>119</td>
 		<td>
-			<a href="https://github.com/AliciaBenavente">
-				<img src="https://avatars.githubusercontent.com/u/169751673?s=72&u=7754e31ebce4e66caf37575f98cad08d1dc2b530&v=4" width="24" alt="Avatar of AliciaBenavente"> AliciaBenavente
+			<a href="https://github.com/DavidGDA">
+				<img src="https://avatars.githubusercontent.com/u/138391657?s=72&u=41578356e902663d940ad0269e1cbe5e0f40146a&v=4" width="24" alt="Avatar of DavidGDA"> DavidGDA
 			</a><br/>
-			Alicia Benavente
+			David Gabriel Álvarez Delgadillo
 		</td>
-		<td>No Company</td>
+		<td>@code-fu-ni  </td>
 		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>161</td>
+		<td>Managua, Managua, Nicaragua</td>
+		<td>165</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/AlainLobato">
 				<img src="https://avatars.githubusercontent.com/u/92191388?s=72&u=1bf05e7a6652fe7b9dc3eab8bc29fba06be528e6&v=4" width="24" alt="Avatar of AlainLobato"> AlainLobato
@@ -1704,20 +1665,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>121</td>
 		<td>
-			<a href="https://github.com/jadg-13">
-				<img src="https://avatars.githubusercontent.com/u/86695996?s=72&u=ddfe253cf5a1f4245da1ae51c33b48920275ed9c&v=4" width="24" alt="Avatar of jadg-13"> jadg-13
+			<a href="https://github.com/AliciaBenavente">
+				<img src="https://avatars.githubusercontent.com/u/169751673?s=72&u=7754e31ebce4e66caf37575f98cad08d1dc2b530&v=4" width="24" alt="Avatar of AliciaBenavente"> AliciaBenavente
 			</a><br/>
-			jadg13
+			Alicia Benavente
 		</td>
-		<td>Jadg13 </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Masaya</td>
-		<td>160</td>
+		<td>Granada</td>
+		<td>159</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/MiixZ">
 				<img src="https://avatars.githubusercontent.com/u/76443984?s=72&u=5bb566dfe3428918c9033820cf61de3fd7b26bf4&v=4" width="24" alt="Avatar of MiixZ"> MiixZ
@@ -1730,7 +1691,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/davidcr01">
+				<img src="https://avatars.githubusercontent.com/u/72193239?s=72&u=f5b5a349deb3215891cd350c24b0f3e7b54878bc&v=4" width="24" alt="Avatar of davidcr01"> davidcr01
+			</a><br/>
+			David Correa Rodríguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, España</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/rjamador">
 				<img src="https://avatars.githubusercontent.com/u/83928147?s=72&u=2322c45cedcbe0627cf3ec87c9c7281e60560c49&v=4" width="24" alt="Avatar of rjamador"> rjamador
@@ -1743,20 +1717,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>125</td>
 		<td>
-			<a href="https://github.com/ces-silv">
-				<img src="https://avatars.githubusercontent.com/u/127228753?s=72&u=532d129b2e59c2e43dae4d9cbbbb8eb65b45c8ac&v=4" width="24" alt="Avatar of ces-silv"> ces-silv
+			<a href="https://github.com/jadg-13">
+				<img src="https://avatars.githubusercontent.com/u/86695996?s=72&u=ddfe253cf5a1f4245da1ae51c33b48920275ed9c&v=4" width="24" alt="Avatar of jadg-13"> jadg-13
 			</a><br/>
-			César Silva
+			jadg13
 		</td>
-		<td>No Company</td>
+		<td>Jadg13 </td>
 		<td>No Twitter Username</td>
-		<td>Managua</td>
-		<td>157</td>
+		<td>Masaya</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/mlpeter33">
 				<img src="https://avatars.githubusercontent.com/u/123034983?s=72&u=9c632fc2c2feb3cec9470c9e0c08525bab37600f&v=4" width="24" alt="Avatar of mlpeter33"> mlpeter33
@@ -1769,7 +1743,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/GedGonz">
+				<img src="https://avatars.githubusercontent.com/u/17076747?s=72&u=4f9665db2d4beb89611639a76c326c91a8f3ef96&v=4" width="24" alt="Avatar of GedGonz"> GedGonz
+			</a><br/>
+			Gerald González Zeledón
+		</td>
+		<td>Personal </td>
+		<td>No Twitter Username</td>
+		<td>Masaya. Nicaragua</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/pablotorcu">
 				<img src="https://avatars.githubusercontent.com/u/45042365?s=72&u=0278a90be4ab164bd8ff9b6e83f5925eef512ffc&v=4" width="24" alt="Avatar of pablotorcu"> pablotorcu
@@ -1782,20 +1769,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/GedGonz">
-				<img src="https://avatars.githubusercontent.com/u/17076747?s=72&u=4f9665db2d4beb89611639a76c326c91a8f3ef96&v=4" width="24" alt="Avatar of GedGonz"> GedGonz
-			</a><br/>
-			Gerald González Zeledón
-		</td>
-		<td>Personal </td>
-		<td>No Twitter Username</td>
-		<td>Masaya. Nicaragua</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>131</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/javicanton">
 				<img src="https://avatars.githubusercontent.com/u/4451294?s=72&v=4" width="24" alt="Avatar of javicanton"> javicanton
@@ -1806,6 +1780,32 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/ProsumidorSoc">ProsumidorSoc</a></td>
 		<td>Granada</td>
 		<td>150</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/luisjedev">
+				<img src="https://avatars.githubusercontent.com/u/55402700?s=72&u=eec53c912d425c6373eaf96ab867de65b9600c1d&v=4" width="24" alt="Avatar of luisjedev"> luisjedev
+			</a><br/>
+			Luis Gómez
+		</td>
+		<td>Paradigma Digital </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/ces-silv">
+				<img src="https://avatars.githubusercontent.com/u/127228753?s=72&u=532d129b2e59c2e43dae4d9cbbbb8eb65b45c8ac&v=4" width="24" alt="Avatar of ces-silv"> ces-silv
+			</a><br/>
+			César Silva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua</td>
+		<td>144</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -1823,6 +1823,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>133</td>
 		<td>
+			<a href="https://github.com/marcoalopez">
+				<img src="https://avatars.githubusercontent.com/u/10434005?s=72&u=9c82acc415cd30aad06a5de9d26d699e70531922&v=4" width="24" alt="Avatar of marcoalopez"> marcoalopez
+			</a><br/>
+			Marco A. Lopez-Sanchez
+		</td>
+		<td>Andalusian Earth Sciences Institute<br/></td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
 			<a href="https://github.com/sml99">
 				<img src="https://avatars.githubusercontent.com/u/29798184?s=72&u=611782effd2f3d1317513c1ddcc2dda103ef2473&v=4" width="24" alt="Avatar of sml99"> sml99
 			</a><br/>
@@ -1834,7 +1847,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/Mapachana">
 				<img src="https://avatars.githubusercontent.com/u/32956016?s=72&u=89bab48fecf8aa9e8705dd3edfab08f4eba392b4&v=4" width="24" alt="Avatar of Mapachana"> Mapachana
@@ -1847,7 +1860,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/reymundotenorio">
 				<img src="https://avatars.githubusercontent.com/u/14797730?s=72&u=476a3c627d039f1e74148f7c5ef6218d7daf0c50&v=4" width="24" alt="Avatar of reymundotenorio"> reymundotenorio
@@ -1860,7 +1873,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/donas11">
 				<img src="https://avatars.githubusercontent.com/u/16038113?s=72&u=973a03fc852828f1050a00cb4204a62f632fccdf&v=4" width="24" alt="Avatar of donas11"> donas11
@@ -1873,7 +1886,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/Xeppyz">
 				<img src="https://avatars.githubusercontent.com/u/90120021?s=72&u=ce898e08758f5684acbbdd019539849085b64850&v=4" width="24" alt="Avatar of Xeppyz"> Xeppyz
@@ -1886,7 +1899,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/mario-ca">
 				<img src="https://avatars.githubusercontent.com/u/95303249?s=72&u=7940c9059ff781601bc5754db10e9a697d087e00&v=4" width="24" alt="Avatar of mario-ca"> mario-ca
@@ -1899,7 +1912,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/OfilioHA">
 				<img src="https://avatars.githubusercontent.com/u/78831246?s=72&v=4" width="24" alt="Avatar of OfilioHA"> OfilioHA
@@ -1912,19 +1925,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/RaveHunter05">
-				<img src="https://avatars.githubusercontent.com/u/45272494?s=72&u=1c233d0eab77eed2ef8a02cd94114f7df35065f9&v=4" width="24" alt="Avatar of RaveHunter05"> RaveHunter05
-			</a><br/>
-			Francisco Paul Sotelo Rocha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Temujin369">Temujin369</a></td>
-		<td>Nicaragua</td>
-		<td>136</td>
-	</tr>
-	<tr>
 		<td>141</td>
 		<td>
 			<a href="https://github.com/Jerry-Master">
@@ -1935,10 +1935,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Koh Young Research Spain<br/></td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>135</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>142</td>
+		<td>
+			<a href="https://github.com/RaveHunter05">
+				<img src="https://avatars.githubusercontent.com/u/45272494?s=72&u=1c233d0eab77eed2ef8a02cd94114f7df35065f9&v=4" width="24" alt="Avatar of RaveHunter05"> RaveHunter05
+			</a><br/>
+			Francisco Paul Sotelo Rocha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Temujin369">Temujin369</a></td>
+		<td>Nicaragua</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/JezerM">
 				<img src="https://avatars.githubusercontent.com/u/59768785?s=72&u=561472decca3a6681aafe9a1fcb54e9088a72436&v=4" width="24" alt="Avatar of JezerM"> JezerM
@@ -1951,7 +1964,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/soymichelt">
 				<img src="https://avatars.githubusercontent.com/u/17261237?s=72&u=3ae86e7b4664f440f89bf88eb35d068e8cd6578b&v=4" width="24" alt="Avatar of soymichelt"> soymichelt
@@ -1964,7 +1977,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/LeviDooku">
 				<img src="https://avatars.githubusercontent.com/u/120191699?s=72&u=c14fdbb571b30250dc7082d6e4000b8b688f8b0b&v=4" width="24" alt="Avatar of LeviDooku"> LeviDooku
@@ -1977,7 +1990,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/DeyvidA">
 				<img src="https://avatars.githubusercontent.com/u/81656733?s=72&u=197818457804ae38a85835f423829a7c75a01a7b&v=4" width="24" alt="Avatar of DeyvidA"> DeyvidA
@@ -1988,19 +2001,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
 		<td>127</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/DeybisMelendez">
-				<img src="https://avatars.githubusercontent.com/u/40205683?s=72&u=e729e2cd3addee3c6e0c091101e2950b20832762&v=4" width="24" alt="Avatar of DeybisMelendez"> DeybisMelendez
-			</a><br/>
-			Deybis Melendez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/deybismelendez">deybismelendez</a></td>
-		<td>Nicaragua</td>
-		<td>123</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2109,19 +2109,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>155</td>
 		<td>
-			<a href="https://github.com/NathanDraco22">
-				<img src="https://avatars.githubusercontent.com/u/33228327?s=72&u=decd75e2933f4c96d78ac774a65e3fb80129c5c9&v=4" width="24" alt="Avatar of NathanDraco22"> NathanDraco22
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NathanDraco22">NathanDraco22</a></td>
-		<td>Nicaragua</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
 			<a href="https://github.com/elvisscochito">
 				<img src="https://avatars.githubusercontent.com/u/72421925?s=72&u=e218e15eefabdf5ffbaa49aeadcfa9f46409ea04&v=4" width="24" alt="Avatar of elvisscochito"> elvisscochito
 			</a><br/>
@@ -2133,29 +2120,42 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
-			<a href="https://github.com/Kanoopz">
-				<img src="https://avatars.githubusercontent.com/u/43384993?s=72&u=8f9d7105c7618c1c66b835cda34aeda2667df530&v=4" width="24" alt="Avatar of Kanoopz"> Kanoopz
+			<a href="https://github.com/NathanDraco22">
+				<img src="https://avatars.githubusercontent.com/u/33228327?s=72&u=decd75e2933f4c96d78ac774a65e3fb80129c5c9&v=4" width="24" alt="Avatar of NathanDraco22"> NathanDraco22
 			</a><br/>
-			"Erezedor"
+			No Name
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guadalupe, Nuevo Leon, Mexico.</td>
+		<td><a href="https://twitter.com/NathanDraco22">NathanDraco22</a></td>
+		<td>Nicaragua</td>
 		<td>118</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/DeybisMelendez">
+				<img src="https://avatars.githubusercontent.com/u/40205683?s=72&u=e729e2cd3addee3c6e0c091101e2950b20832762&v=4" width="24" alt="Avatar of DeybisMelendez"> DeybisMelendez
+			</a><br/>
+			Deybis Melendez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/deybismelendez">deybismelendez</a></td>
+		<td>Nicaragua</td>
+		<td>117</td>
 	</tr>
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/MiguelHG2351">
-				<img src="https://avatars.githubusercontent.com/u/60478285?s=72&u=d9cdc4ff5629bd909cc021e8564945580c3fbd46&v=4" width="24" alt="Avatar of MiguelHG2351"> MiguelHG2351
+			<a href="https://github.com/dgaitan">
+				<img src="https://avatars.githubusercontent.com/u/9372771?s=72&u=58e29e1a47f82fc6c8f0f6d33abd3674bd417534&v=4" width="24" alt="Avatar of dgaitan"> dgaitan
 			</a><br/>
-			Miguel Hernández Gaitan
+			David Gaitán
 		</td>
-		<td>Netforemost </td>
-		<td><a href="https://twitter.com/MiguelHG2351">MiguelHG2351</a></td>
-		<td>Managua, Nicaragua</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
 		<td>117</td>
 	</tr>
 	<tr>
@@ -2174,19 +2174,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>160</td>
 		<td>
-			<a href="https://github.com/dgaitan">
-				<img src="https://avatars.githubusercontent.com/u/9372771?s=72&u=58e29e1a47f82fc6c8f0f6d33abd3674bd417534&v=4" width="24" alt="Avatar of dgaitan"> dgaitan
-			</a><br/>
-			David Gaitán
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
 			<a href="https://github.com/mmolinac">
 				<img src="https://avatars.githubusercontent.com/u/11653423?s=72&v=4" width="24" alt="Avatar of mmolinac"> mmolinac
 			</a><br/>
@@ -2198,7 +2185,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/KICKFURY">
 				<img src="https://avatars.githubusercontent.com/u/92235575?s=72&u=5009d8b695904c05c51fb57a9d59c5e15ddc5fef&v=4" width="24" alt="Avatar of KICKFURY"> KICKFURY
@@ -2211,7 +2198,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/fernandohernandezpaz">
 				<img src="https://avatars.githubusercontent.com/u/45004944?s=72&u=a1c9d01dd63d000f2ed05609ecb68cf190f5fafc&v=4" width="24" alt="Avatar of fernandohernandezpaz"> fernandohernandezpaz
@@ -2224,20 +2211,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/Ralfaro17">
-				<img src="https://avatars.githubusercontent.com/u/123581434?s=72&u=b2b6f41df71a7395b49ba324f8d412a9a25324ab&v=4" width="24" alt="Avatar of Ralfaro17"> Ralfaro17
-			</a><br/>
-			Roger Alfaro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>165</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/wporta">
 				<img src="https://avatars.githubusercontent.com/u/932674?s=72&u=e5aaf45aea4b964b9acec82a6e069806766f3778&v=4" width="24" alt="Avatar of wporta"> wporta
@@ -2250,20 +2224,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/nonodev96">
-				<img src="https://avatars.githubusercontent.com/u/23743639?s=72&u=9c319b55ea7aa450c856587517cff93daa21ead7&v=4" width="24" alt="Avatar of nonodev96"> nonodev96
-			</a><br/>
-			Antonio Mudarra Machuca
-		</td>
-		<td>Universidad De Jaen </td>
-		<td><a href="https://twitter.com/nonodev96">nonodev96</a></td>
-		<td>Granada, Jaén</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>167</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/DBeewms">
 				<img src="https://avatars.githubusercontent.com/u/126684503?s=72&u=fa7699106b82823bacb417fc0253f75028202bea&v=4" width="24" alt="Avatar of DBeewms"> DBeewms
@@ -2276,7 +2237,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/LuisHCK">
 				<img src="https://avatars.githubusercontent.com/u/5175137?s=72&u=72167325b2083bdb70806003d4422cb40161fc65&v=4" width="24" alt="Avatar of LuisHCK"> LuisHCK
@@ -2289,7 +2250,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/luissancar">
 				<img src="https://avatars.githubusercontent.com/u/13682016?s=72&u=061cfd535ddb8c3167303d869d9e41c89d757b01&v=4" width="24" alt="Avatar of luissancar"> luissancar
@@ -2302,20 +2263,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>167</td>
 		<td>
-			<a href="https://github.com/luisjedev">
-				<img src="https://avatars.githubusercontent.com/u/55402700?s=72&u=eec53c912d425c6373eaf96ab867de65b9600c1d&v=4" width="24" alt="Avatar of luisjedev"> luisjedev
+			<a href="https://github.com/MiguelHG2351">
+				<img src="https://avatars.githubusercontent.com/u/60478285?s=72&u=d9cdc4ff5629bd909cc021e8564945580c3fbd46&v=4" width="24" alt="Avatar of MiguelHG2351"> MiguelHG2351
 			</a><br/>
-			Luis Gómez
+			Miguel Hernández Gaitan
 		</td>
-		<td>Paradigma Digital </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>110</td>
+		<td>Netforemost </td>
+		<td><a href="https://twitter.com/MiguelHG2351">MiguelHG2351</a></td>
+		<td>Managua, Nicaragua</td>
+		<td>111</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/javierav">
 				<img src="https://avatars.githubusercontent.com/u/99700?s=72&u=e57f2b28c7e5ba71d425bc4d4a26192f122125a6&v=4" width="24" alt="Avatar of javierav"> javierav
@@ -2328,7 +2289,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/nonodev96">
+				<img src="https://avatars.githubusercontent.com/u/23743639?s=72&u=9c319b55ea7aa450c856587517cff93daa21ead7&v=4" width="24" alt="Avatar of nonodev96"> nonodev96
+			</a><br/>
+			Antonio Mudarra Machuca
+		</td>
+		<td>Universidad De Jaen </td>
+		<td><a href="https://twitter.com/nonodev96">nonodev96</a></td>
+		<td>Granada, Jaén</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/agostino64">
 				<img src="https://avatars.githubusercontent.com/u/97990882?s=72&u=83036d56d0f54fa9d034cfa1ab7466341011ca95&v=4" width="24" alt="Avatar of agostino64"> agostino64
@@ -2341,7 +2315,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/lcasass3">
 				<img src="https://avatars.githubusercontent.com/u/129910978?s=72&u=fbe88c94c2bf6835e2cb4b1b223188377871dcd5&v=4" width="24" alt="Avatar of lcasass3"> lcasass3
@@ -2354,7 +2328,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/patamimbre">
 				<img src="https://avatars.githubusercontent.com/u/9404632?s=72&u=55ce3536299dd776324f42a0cbbf92e752f65e8e&v=4" width="24" alt="Avatar of patamimbre"> patamimbre
@@ -2367,7 +2341,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/mdarmstr">
 				<img src="https://avatars.githubusercontent.com/u/45431766?s=72&u=d776081e70c691fb45a2cce962c5d67a4e9e84d5&v=4" width="24" alt="Avatar of mdarmstr"> mdarmstr
@@ -2380,7 +2354,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/underport">
 				<img src="https://avatars.githubusercontent.com/u/2273740?s=72&u=ed40625e9f9acd2628d5bd4123c6897655b5a08f&v=4" width="24" alt="Avatar of underport"> underport
@@ -2393,7 +2367,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/elrobin">
 				<img src="https://avatars.githubusercontent.com/u/8256263?s=72&u=76e253b835e6a88c1a75014a5dcc0820d6958f7a&v=4" width="24" alt="Avatar of elrobin"> elrobin
@@ -2403,10 +2377,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Departamento De Información Y<br/>Comunicación,<br/>University<br/>Of<br/>Granada<br/></td>
 		<td><a href="https://twitter.com/nrobinsongarcia">nrobinsongarcia</a></td>
 		<td>Granada, Spain</td>
-		<td>103</td>
+		<td>102</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/Crdzbird">
 				<img src="https://avatars.githubusercontent.com/u/7727498?s=72&u=6dc8dac0b811a94e5ce55926e6169f2ebe09fc57&v=4" width="24" alt="Avatar of Crdzbird"> Crdzbird
@@ -2419,7 +2393,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/jorsol">
 				<img src="https://avatars.githubusercontent.com/u/3739977?s=72&v=4" width="24" alt="Avatar of jorsol"> jorsol
@@ -2432,7 +2406,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/GuilleFerres">
 				<img src="https://avatars.githubusercontent.com/u/76900122?s=72&u=7bd866cec6d123c2c579e77a0ff8697a8a4f8269&v=4" width="24" alt="Avatar of GuilleFerres"> GuilleFerres
@@ -2445,20 +2419,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/FranciscoMelen10">
-				<img src="https://avatars.githubusercontent.com/u/104796963?s=72&u=ea5eb267a72d1a889c7e6c59be5cfb73e9b20bdc&v=4" width="24" alt="Avatar of FranciscoMelen10"> FranciscoMelen10
-			</a><br/>
-			Francisco_Melendez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua - Nicaragua</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>182</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Wesleykyle2005">
 				<img src="https://avatars.githubusercontent.com/u/123531906?s=72&u=edbf008b5ad2152ac29827cdfa04db5e40e32557&v=4" width="24" alt="Avatar of Wesleykyle2005"> Wesleykyle2005
@@ -2471,7 +2432,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/jose-016al">
 				<img src="https://avatars.githubusercontent.com/u/81536276?s=72&u=ff209ffd1bc36015ed8c03562e7527b9fc9310ae&v=4" width="24" alt="Avatar of jose-016al"> jose-016al
@@ -2484,7 +2445,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/Ralfaro17">
+				<img src="https://avatars.githubusercontent.com/u/123581434?s=72&u=b2b6f41df71a7395b49ba324f8d412a9a25324ab&v=4" width="24" alt="Avatar of Ralfaro17"> Ralfaro17
+			</a><br/>
+			Roger Alfaro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/frantorres">
 				<img src="https://avatars.githubusercontent.com/u/2768256?s=72&v=4" width="24" alt="Avatar of frantorres"> frantorres
@@ -2497,7 +2471,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/schnipseljagd">
 				<img src="https://avatars.githubusercontent.com/u/289073?s=72&u=9354a5798ec34d2cc5d360d059ec7f07ee77b088&v=4" width="24" alt="Avatar of schnipseljagd"> schnipseljagd
@@ -2510,7 +2484,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/alexcu21">
 				<img src="https://avatars.githubusercontent.com/u/12679806?s=72&u=6c2fff63dfde801b999b760c22f3007646bfb1be&v=4" width="24" alt="Avatar of alexcu21"> alexcu21
@@ -2523,7 +2497,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Aleejandro26">
 				<img src="https://avatars.githubusercontent.com/u/108318535?s=72&u=5b18b6f2720a49fb595a123efd3c60dde597a8db&v=4" width="24" alt="Avatar of Aleejandro26"> Aleejandro26
@@ -2536,7 +2510,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/norwingc">
 				<img src="https://avatars.githubusercontent.com/u/3892356?s=72&u=1fca5e950a1c8e5e84d5e755987a23729e83519e&v=4" width="24" alt="Avatar of norwingc"> norwingc
@@ -2549,20 +2523,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/fercreek">
-				<img src="https://avatars.githubusercontent.com/u/6548504?s=72&u=3b1bad3e6275b28d2fe58faa92186b391ca1eacd&v=4" width="24" alt="Avatar of fercreek"> fercreek
-			</a><br/>
-			Fernando Contreras
-		</td>
-		<td>@onboardiq </td>
-		<td>No Twitter Username</td>
-		<td>Monterrey, Nuevo Leon</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>190</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/ashybabashyba">
 				<img src="https://avatars.githubusercontent.com/u/115835854?s=72&u=bff3b5da33db8e86d50009331185d488357db42e&v=4" width="24" alt="Avatar of ashybabashyba"> ashybabashyba
@@ -2575,7 +2536,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/fercreek">
+				<img src="https://avatars.githubusercontent.com/u/6548504?s=72&u=3b1bad3e6275b28d2fe58faa92186b391ca1eacd&v=4" width="24" alt="Avatar of fercreek"> fercreek
+			</a><br/>
+			Fernando Contreras
+		</td>
+		<td>@onboardiq </td>
+		<td>No Twitter Username</td>
+		<td>Monterrey, Nuevo Leon</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/VictorPB">
 				<img src="https://avatars.githubusercontent.com/u/58432084?s=72&u=b1a534b59ac981e6ac3846d0e3964082d23fd92f&v=4" width="24" alt="Avatar of VictorPB"> VictorPB
@@ -2588,46 +2562,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/amirition">
-				<img src="https://avatars.githubusercontent.com/u/17121549?s=72&u=a85b31c8f900cada96078a241e2966d0815a5c52&v=4" width="24" alt="Avatar of amirition"> amirition
-			</a><br/>
-			Amirition
-		</td>
-		<td>Barn2 Plugins </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/pepitoenpeligro">
-				<img src="https://avatars.githubusercontent.com/u/14912971?s=72&u=9cb79f208fd650fb78bf968d442db7cc5f0a6609&v=4" width="24" alt="Avatar of pepitoenpeligro"> pepitoenpeligro
-			</a><br/>
-			José Antonio Córdoba Gómez
-		</td>
-		<td>Keepler Data Tech </td>
-		<td>No Twitter Username</td>
-		<td>Granada / Cádiz</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/darwinsalinas">
-				<img src="https://avatars.githubusercontent.com/u/1806232?s=72&v=4" width="24" alt="Avatar of darwinsalinas"> darwinsalinas
-			</a><br/>
-			Darwin Salinas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dsalinas__">dsalinas__</a></td>
-		<td>Nueva Guinea, Nicaragua</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>195</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/Josu3-DL">
 				<img src="https://avatars.githubusercontent.com/u/157419221?s=72&u=a14ee805ff65afd08cfbe2385d66033e7121b85e&v=4" width="24" alt="Avatar of Josu3-DL"> Josu3-DL
@@ -2640,20 +2575,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>191</td>
 		<td>
-			<a href="https://github.com/juanolalla">
-				<img src="https://avatars.githubusercontent.com/u/329818?s=72&u=a7e4447f3d3fefd67b5634921527ffbbf70fa4f2&v=4" width="24" alt="Avatar of juanolalla"> juanolalla
+			<a href="https://github.com/pepitoenpeligro">
+				<img src="https://avatars.githubusercontent.com/u/14912971?s=72&u=9cb79f208fd650fb78bf968d442db7cc5f0a6609&v=4" width="24" alt="Avatar of pepitoenpeligro"> pepitoenpeligro
 			</a><br/>
-			Juan Olalla
+			José Antonio Córdoba Gómez
+		</td>
+		<td>Keepler Data Tech </td>
+		<td>No Twitter Username</td>
+		<td>Granada / Cádiz</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/FranciscoMelen10">
+				<img src="https://avatars.githubusercontent.com/u/104796963?s=72&u=ea5eb267a72d1a889c7e6c59be5cfb73e9b20bdc&v=4" width="24" alt="Avatar of FranciscoMelen10"> FranciscoMelen10
+			</a><br/>
+			Francisco_Melendez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>87</td>
+		<td>Managua - Nicaragua</td>
+		<td>86</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/nydsanchez">
 				<img src="https://avatars.githubusercontent.com/u/66643813?s=72&u=3173e2b18a2761159cc31aa73cdd36599d78d371&v=4" width="24" alt="Avatar of nydsanchez"> nydsanchez
@@ -2666,7 +2614,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/darwinsalinas">
+				<img src="https://avatars.githubusercontent.com/u/1806232?s=72&v=4" width="24" alt="Avatar of darwinsalinas"> darwinsalinas
+			</a><br/>
+			Darwin Salinas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dsalinas__">dsalinas__</a></td>
+		<td>Nueva Guinea, Nicaragua</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/pakitochus">
 				<img src="https://avatars.githubusercontent.com/u/8710317?s=72&u=f38742cdc0083060ef00e096ea34e69a477680a2&v=4" width="24" alt="Avatar of pakitochus"> pakitochus
@@ -2679,7 +2640,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/juanjzb">
 				<img src="https://avatars.githubusercontent.com/u/7586858?s=72&u=82a959c9c5f88cee47b1cd90184e410bd236140f&v=4" width="24" alt="Avatar of juanjzb"> juanjzb
@@ -2692,7 +2653,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/Kanoopz">
+				<img src="https://avatars.githubusercontent.com/u/43384993?s=72&u=8f9d7105c7618c1c66b835cda34aeda2667df530&v=4" width="24" alt="Avatar of Kanoopz"> Kanoopz
+			</a><br/>
+			"Erezedor"
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Guadalupe, Nuevo Leon, Mexico.</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/amirition">
+				<img src="https://avatars.githubusercontent.com/u/17121549?s=72&u=a85b31c8f900cada96078a241e2966d0815a5c52&v=4" width="24" alt="Avatar of amirition"> amirition
+			</a><br/>
+			Amirition
+		</td>
+		<td>Barn2 Plugins </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/VictorSeven">
 				<img src="https://avatars.githubusercontent.com/u/16043960?s=72&u=9b00d508f2b492a929f14e2ab7095f7d3f2e1b91&v=4" width="24" alt="Avatar of VictorSeven"> VictorSeven
@@ -2705,12 +2692,12 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>200</td>
 		<td>
-			<a href="https://github.com/searchsam">
-				<img src="https://avatars.githubusercontent.com/u/1535190?s=72&u=b5da83e83a685b65e8ddbbacbf6812b8b929d692&v=4" width="24" alt="Avatar of searchsam"> searchsam
+			<a href="https://github.com/EduardoV-dev">
+				<img src="https://avatars.githubusercontent.com/u/54213198?s=72&u=ac2ad84f013d356fa45aafc6bd64c4b3298efab7&v=4" width="24" alt="Avatar of EduardoV-dev"> EduardoV-dev
 			</a><br/>
-			Samuel José Gutiérrez Avilés
+			Eduardo Varela
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2718,7 +2705,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/davidjs11">
 				<img src="https://avatars.githubusercontent.com/u/86418032?s=72&u=661c04b478903170cd080402af8d03dffae60edf&v=4" width="24" alt="Avatar of davidjs11"> davidjs11
@@ -2731,33 +2718,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
-			<a href="https://github.com/DTCarlox77">
-				<img src="https://avatars.githubusercontent.com/u/106034895?s=72&u=db0d4b5c5ba67e720c22c244a7528daceef7f537&v=4" width="24" alt="Avatar of DTCarlox77"> DTCarlox77
+			<a href="https://github.com/searchsam">
+				<img src="https://avatars.githubusercontent.com/u/1535190?s=72&u=b5da83e83a685b65e8ddbbacbf6812b8b929d692&v=4" width="24" alt="Avatar of searchsam"> searchsam
 			</a><br/>
-			Adrián Luna
+			Samuel José Gutiérrez Avilés
 		</td>
-		<td>Cs50 </td>
-		<td><a href="https://twitter.com/DTCarlox77">DTCarlox77</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/mdelaossa">
-				<img src="https://avatars.githubusercontent.com/u/877699?s=72&u=83b6b470d5f5703296f31276c2e877543d11a640&v=4" width="24" alt="Avatar of mdelaossa"> mdelaossa
-			</a><br/>
-			Mario de la Ossa
-		</td>
-		<td>@fathom-video </td>
-		<td><a href="https://twitter.com/mdelaossa">mdelaossa</a></td>
-		<td>Nicaragua</td>
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/FernanDezlo92">
 				<img src="https://avatars.githubusercontent.com/u/108702100?s=72&u=31d3d98ace80cd602dba88973ecf3dba01116735&v=4" width="24" alt="Avatar of FernanDezlo92"> FernanDezlo92
@@ -2770,20 +2744,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/EduardoV-dev">
-				<img src="https://avatars.githubusercontent.com/u/54213198?s=72&u=ac2ad84f013d356fa45aafc6bd64c4b3298efab7&v=4" width="24" alt="Avatar of EduardoV-dev"> EduardoV-dev
-			</a><br/>
-			Eduardo Varela
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>207</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/JuanCrg90">
 				<img src="https://avatars.githubusercontent.com/u/2718753?s=72&u=0cbe9c83d348cb0777080ae8270c9b2468069d28&v=4" width="24" alt="Avatar of JuanCrg90"> JuanCrg90
@@ -2796,7 +2757,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/Edgarrd11">
 				<img src="https://avatars.githubusercontent.com/u/36981696?s=72&u=9653e85fe15de1ef8c9b074038c7febf9ecdd424&v=4" width="24" alt="Avatar of Edgarrd11"> Edgarrd11
@@ -2809,7 +2770,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/mdelaossa">
+				<img src="https://avatars.githubusercontent.com/u/877699?s=72&u=83b6b470d5f5703296f31276c2e877543d11a640&v=4" width="24" alt="Avatar of mdelaossa"> mdelaossa
+			</a><br/>
+			Mario de la Ossa
+		</td>
+		<td>@fathom-video </td>
+		<td><a href="https://twitter.com/mdelaossa">mdelaossa</a></td>
+		<td>Nicaragua</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/victorstein">
 				<img src="https://avatars.githubusercontent.com/u/11080740?s=72&u=b13d9a491b786d5fe9111e81777ad5f1b4c63c31&v=4" width="24" alt="Avatar of victorstein"> victorstein
@@ -2822,7 +2796,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/roninJosue">
 				<img src="https://avatars.githubusercontent.com/u/13126579?s=72&u=5c958162f3e1b029724edc4ae46323c55ebd6110&v=4" width="24" alt="Avatar of roninJosue"> roninJosue
@@ -2835,20 +2809,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/jesusyesares">
-				<img src="https://avatars.githubusercontent.com/u/2352123?s=72&u=6245ebc77c17af4002cf775b760f9a3f1dd50e95&v=4" width="24" alt="Avatar of jesusyesares"> jesusyesares
-			</a><br/>
-			Jesús Yesares García
-		</td>
-		<td>Jesús Yesares </td>
-		<td><a href="https://twitter.com/JesusYesares">JesusYesares</a></td>
-		<td>Granada</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>212</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Dhyros">
 				<img src="https://avatars.githubusercontent.com/u/82124219?s=72&v=4" width="24" alt="Avatar of Dhyros"> Dhyros
@@ -2861,7 +2822,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/migariane">
 				<img src="https://avatars.githubusercontent.com/u/4432917?s=72&u=10766a17c4ab7c442234811b9a3371d3ff6d5469&v=4" width="24" alt="Avatar of migariane"> migariane
@@ -2871,10 +2832,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>University Of Granada &<br/>London<br/>School<br/>Of<br/>Hygiene<br/>And<br/>Tropical<br/>Medicine<br/><br/></td>
 		<td><a href="https://twitter.com/watzilei">watzilei</a></td>
 		<td>Granada, Spain  & London, UK</td>
-		<td>74</td>
+		<td>73</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/thebooort">
 				<img src="https://avatars.githubusercontent.com/u/18428931?s=72&u=313ca333601ace68c22983356e4f653e61729e7d&v=4" width="24" alt="Avatar of thebooort"> thebooort
@@ -2887,7 +2848,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/jgromero">
 				<img src="https://avatars.githubusercontent.com/u/2234166?s=72&u=f52447204a585c757a8a00b2f15c52307eac6ae3&v=4" width="24" alt="Avatar of jgromero"> jgromero
@@ -2900,7 +2861,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/Rebits">
 				<img src="https://avatars.githubusercontent.com/u/11089305?s=72&u=b690bb8116fd13baefc78f5ca2d71dd5e2667f9f&v=4" width="24" alt="Avatar of Rebits"> Rebits
@@ -2913,7 +2874,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/LeoVillalobos">
 				<img src="https://avatars.githubusercontent.com/u/63274441?s=72&u=7170dbda36a5889d86f7ee6a73df20df8f4f50c8&v=4" width="24" alt="Avatar of LeoVillalobos"> LeoVillalobos
@@ -2926,7 +2887,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/pablobio">
 				<img src="https://avatars.githubusercontent.com/u/17298340?s=72&u=c63a5082c4d286175e4941d83d52ae1377f9bebc&v=4" width="24" alt="Avatar of pablobio"> pablobio
@@ -2939,7 +2900,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/xSarscov">
 				<img src="https://avatars.githubusercontent.com/u/110932159?s=72&u=9b990f7a8ff3c4bc6a06aab6edff4575426c3599&v=4" width="24" alt="Avatar of xSarscov"> xSarscov
@@ -2952,7 +2913,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/yesserm">
 				<img src="https://avatars.githubusercontent.com/u/29394986?s=72&u=43223d4bfd80e89ec85ecdfa4337866dba6e7e74&v=4" width="24" alt="Avatar of yesserm"> yesserm
@@ -2962,23 +2923,23 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Dental Robot </td>
 		<td><a href="https://twitter.com/yessermiranda97">yessermiranda97</a></td>
 		<td>Nicaragua</td>
-		<td>70</td>
+		<td>71</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>218</td>
 		<td>
-			<a href="https://github.com/MAInformatico">
-				<img src="https://avatars.githubusercontent.com/u/9396402?s=72&u=528e4f9192d62f88935d3d01ef7671f754e616db&v=4" width="24" alt="Avatar of MAInformatico"> MAInformatico
+			<a href="https://github.com/DTCarlox77">
+				<img src="https://avatars.githubusercontent.com/u/106034895?s=72&u=db0d4b5c5ba67e720c22c244a7528daceef7f537&v=4" width="24" alt="Avatar of DTCarlox77"> DTCarlox77
 			</a><br/>
-			Miguel Angel Gutiérrez
+			Adrián Luna
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
+		<td>Cs50 </td>
+		<td><a href="https://twitter.com/DTCarlox77">DTCarlox77</a></td>
+		<td>Managua, Nicaragua</td>
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/parlack">
 				<img src="https://avatars.githubusercontent.com/u/92643505?s=72&u=a1315d8180602b4be9c1e03f2f503b43684845c7&v=4" width="24" alt="Avatar of parlack"> parlack
@@ -2991,7 +2952,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/mariogmarq">
 				<img src="https://avatars.githubusercontent.com/u/55979398?s=72&u=f003fd58a5b8c62894113db60661cec3da62a56d&v=4" width="24" alt="Avatar of mariogmarq"> mariogmarq
@@ -3004,7 +2965,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/jarbitlira">
 				<img src="https://avatars.githubusercontent.com/u/3398354?s=72&u=d8c9b59ef340fcfcaa05c30cd2dfda646ef9f312&v=4" width="24" alt="Avatar of jarbitlira"> jarbitlira
@@ -3017,20 +2978,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>222</td>
 		<td>
-			<a href="https://github.com/Oneyker21">
-				<img src="https://avatars.githubusercontent.com/u/105374962?s=72&v=4" width="24" alt="Avatar of Oneyker21"> Oneyker21
+			<a href="https://github.com/MAInformatico">
+				<img src="https://avatars.githubusercontent.com/u/9396402?s=72&u=528e4f9192d62f88935d3d01ef7671f754e616db&v=4" width="24" alt="Avatar of MAInformatico"> MAInformatico
 			</a><br/>
-			Oneyker Galeano
+			Miguel Angel Gutiérrez
 		</td>
-		<td>Unan Managua </td>
-		<td><a href="https://twitter.com/Oneyker21">Oneyker21</a></td>
-		<td>Nicaragua</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/ILPlais">
 				<img src="https://avatars.githubusercontent.com/u/2880695?s=72&u=e53e7dbd92e233d4090ad7fff5fad2f9a9c7b129&v=4" width="24" alt="Avatar of ILPlais"> ILPlais
@@ -3043,33 +3004,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/davidquintr">
-				<img src="https://avatars.githubusercontent.com/u/93105948?s=72&u=162bb9d8df3b36683f99d8045394bc605c9d47de&v=4" width="24" alt="Avatar of davidquintr"> davidquintr
-			</a><br/>
-			David Quintanilla Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/Carlos-vargs">
-				<img src="https://avatars.githubusercontent.com/u/79714790?s=72&u=8a5e215d2c1866646a794d135c460f69b6e79d63&v=4" width="24" alt="Avatar of Carlos-vargs"> Carlos-vargs
-			</a><br/>
-			Carlos Vargas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nc_cvargas">nc_cvargas</a></td>
-		<td>Nicaragua</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>229</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/garcia-lopez">
 				<img src="https://avatars.githubusercontent.com/u/111716690?s=72&u=704e6dea33c68a331c4a106d3d54d6d5c30aa79e&v=4" width="24" alt="Avatar of garcia-lopez"> garcia-lopez
@@ -3082,7 +3017,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/jmarquezruiz">
 				<img src="https://avatars.githubusercontent.com/u/115186741?s=72&u=fe59e25a153826a6e7e45693cf191dca6d1cb8c0&v=4" width="24" alt="Avatar of jmarquezruiz"> jmarquezruiz
@@ -3095,33 +3030,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>226</td>
 		<td>
-			<a href="https://github.com/FreeAoi">
-				<img src="https://avatars.githubusercontent.com/u/45021001?s=72&u=c6de61235fbd26e9ddfcf053862e2a1bfddc19ac&v=4" width="24" alt="Avatar of FreeAoi"> FreeAoi
+			<a href="https://github.com/D-Maysena">
+				<img src="https://avatars.githubusercontent.com/u/110703378?s=72&u=92f27f7041ba4e5eabb0f3c8d5c3ffcb99d1d003&v=4" width="24" alt="Avatar of D-Maysena"> D-Maysena
 			</a><br/>
-			Free 公園
+			Yasser Darce
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
-		<td>63</td>
+		<td>64</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>227</td>
 		<td>
-			<a href="https://github.com/wizmik12">
-				<img src="https://avatars.githubusercontent.com/u/18700733?s=72&u=12325fd417f7f58ba5542d931d532ac2142e29ec&v=4" width="24" alt="Avatar of wizmik12"> wizmik12
+			<a href="https://github.com/davidquintr">
+				<img src="https://avatars.githubusercontent.com/u/93105948?s=72&u=162bb9d8df3b36683f99d8045394bc605c9d47de&v=4" width="24" alt="Avatar of davidquintr"> davidquintr
 			</a><br/>
-			Mike
+			David Quintanilla Ruiz
 		</td>
-		<td>@thefluxions  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>63</td>
+		<td>Nicaragua</td>
+		<td>62</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/ElAdrixHD">
 				<img src="https://avatars.githubusercontent.com/u/25505916?s=72&u=486a88ed23d189ab6e49078757334b17c3878194&v=4" width="24" alt="Avatar of ElAdrixHD"> ElAdrixHD
@@ -3134,20 +3069,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>229</td>
 		<td>
-			<a href="https://github.com/franfrutos">
-				<img src="https://avatars.githubusercontent.com/u/90706203?s=72&u=67f46567b41e2aa72c858cf35643b2add53cd398&v=4" width="24" alt="Avatar of franfrutos"> franfrutos
+			<a href="https://github.com/wizmik12">
+				<img src="https://avatars.githubusercontent.com/u/18700733?s=72&u=12325fd417f7f58ba5542d931d532ac2142e29ec&v=4" width="24" alt="Avatar of wizmik12"> wizmik12
 			</a><br/>
-			Francisco Garre Frutos
+			Mike
 		</td>
-		<td>University Of Granada </td>
-		<td><a href="https://twitter.com/Fran_gfr">Fran_gfr</a></td>
+		<td>@thefluxions  </td>
+		<td>No Twitter Username</td>
 		<td>Granada</td>
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/diazmanne">
 				<img src="https://avatars.githubusercontent.com/u/10931032?s=72&u=72a8d62eaa225a72428162468ac1e541b61dc4c8&v=4" width="24" alt="Avatar of diazmanne"> diazmanne
@@ -3160,7 +3095,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/davidjiglesias">
+				<img src="https://avatars.githubusercontent.com/u/48716145?s=72&u=04b899fc140d95736acfc74a175c0540246b1756&v=4" width="24" alt="Avatar of davidjiglesias"> davidjiglesias
+			</a><br/>
+			David Jose Iglesias Lopez
+		</td>
+		<td>Wazuh </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/lukebrandonfarrell">
 				<img src="https://avatars.githubusercontent.com/u/18139277?s=72&u=ccdf8fac796859997b9cd7b3ae2a883802004c90&v=4" width="24" alt="Avatar of lukebrandonfarrell"> lukebrandonfarrell
@@ -3173,20 +3121,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/davidjiglesias">
-				<img src="https://avatars.githubusercontent.com/u/48716145?s=72&u=04b899fc140d95736acfc74a175c0540246b1756&v=4" width="24" alt="Avatar of davidjiglesias"> davidjiglesias
-			</a><br/>
-			David Jose Iglesias Lopez
-		</td>
-		<td>Wazuh </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>238</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/dannygaray60">
 				<img src="https://avatars.githubusercontent.com/u/30391210?s=72&u=141f55cf5ab4eda9b69c7029506093102d4a2735&v=4" width="24" alt="Avatar of dannygaray60"> dannygaray60
@@ -3196,23 +3131,10 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dannygaray60">dannygaray60</a></td>
 		<td>Nicaragua</td>
-		<td>60</td>
+		<td>61</td>
 	</tr>
 	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/VarEros">
-				<img src="https://avatars.githubusercontent.com/u/104714204?s=72&u=e53009c4696ad9fffc76de859767c2380a679aac&v=4" width="24" alt="Avatar of VarEros"> VarEros
-			</a><br/>
-			Erick Gonzalez G.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>240</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/rubenlagus">
 				<img src="https://avatars.githubusercontent.com/u/2874352?s=72&u=df14ba64316d56167c87c246021a5246756e3583&v=4" width="24" alt="Avatar of rubenlagus"> rubenlagus
@@ -3225,7 +3147,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/franlu">
 				<img src="https://avatars.githubusercontent.com/u/412844?s=72&u=906b34424bb94ab18384dfa1d6494d2a9215f595&v=4" width="24" alt="Avatar of franlu"> franlu
@@ -3238,7 +3160,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/GabriJP">
 				<img src="https://avatars.githubusercontent.com/u/14748035?s=72&u=6632254ce3ba70e95645e979b8d4e950bbd0c00f&v=4" width="24" alt="Avatar of GabriJP"> GabriJP
@@ -3251,7 +3173,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/jotape736">
 				<img src="https://avatars.githubusercontent.com/u/44120727?s=72&u=1c70e0f5cd86f5d0500844a3bc9b864da2852f77&v=4" width="24" alt="Avatar of jotape736"> jotape736
@@ -3264,7 +3186,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/lupidan">
 				<img src="https://avatars.githubusercontent.com/u/1314521?s=72&u=237fc076bc240b01104e5b386fc07e90e560b8b8&v=4" width="24" alt="Avatar of lupidan"> lupidan
@@ -3277,7 +3199,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/Steven-Mendez">
 				<img src="https://avatars.githubusercontent.com/u/59342976?s=72&u=38eb185a45b40065a099f614560a6f48d0713407&v=4" width="24" alt="Avatar of Steven-Mendez"> Steven-Mendez
@@ -3290,7 +3212,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/josernestodavila">
 				<img src="https://avatars.githubusercontent.com/u/39853?s=72&u=a2480d0632f1bac238e92f38e9352a09d8f81d46&v=4" width="24" alt="Avatar of josernestodavila"> josernestodavila
@@ -3303,7 +3225,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/VarEros">
+				<img src="https://avatars.githubusercontent.com/u/104714204?s=72&u=e53009c4696ad9fffc76de859767c2380a679aac&v=4" width="24" alt="Avatar of VarEros"> VarEros
+			</a><br/>
+			Erick Gonzalez G.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/fergunet">
 				<img src="https://avatars.githubusercontent.com/u/3056690?s=72&u=3db75ca68d9f128717d58ef951c0c602a75b89e1&v=4" width="24" alt="Avatar of fergunet"> fergunet
@@ -3316,7 +3251,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/hikaruAi">
 				<img src="https://avatars.githubusercontent.com/u/6921914?s=72&u=8e523f4d9398fc0f32a0de456dc0f5eb89af628f&v=4" width="24" alt="Avatar of hikaruAi"> hikaruAi
@@ -3329,7 +3264,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/franfrutos">
+				<img src="https://avatars.githubusercontent.com/u/90706203?s=72&u=67f46567b41e2aa72c858cf35643b2add53cd398&v=4" width="24" alt="Avatar of franfrutos"> franfrutos
+			</a><br/>
+			Francisco Garre Frutos
+		</td>
+		<td>University Of Granada </td>
+		<td><a href="https://twitter.com/Fran_gfr">Fran_gfr</a></td>
+		<td>Granada</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/Carlos-vargs">
+				<img src="https://avatars.githubusercontent.com/u/79714790?s=72&u=8a5e215d2c1866646a794d135c460f69b6e79d63&v=4" width="24" alt="Avatar of Carlos-vargs"> Carlos-vargs
+			</a><br/>
+			Carlos Vargas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nc_cvargas">nc_cvargas</a></td>
+		<td>Nicaragua</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/gabriel14silva">
 				<img src="https://avatars.githubusercontent.com/u/32249455?s=72&u=eab7c2725bfdc59308e2a93bb6558a55fea010a7&v=4" width="24" alt="Avatar of gabriel14silva"> gabriel14silva
@@ -3342,7 +3303,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/slzno">
 				<img src="https://avatars.githubusercontent.com/u/44006503?s=72&u=b6033a7925e5579c36df690bb1cce8817b1ece02&v=4" width="24" alt="Avatar of slzno"> slzno
@@ -3355,7 +3316,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/Oneyker21">
+				<img src="https://avatars.githubusercontent.com/u/105374962?s=72&v=4" width="24" alt="Avatar of Oneyker21"> Oneyker21
+			</a><br/>
+			Oneyker Galeano
+		</td>
+		<td>Unan Managua </td>
+		<td><a href="https://twitter.com/Oneyker21">Oneyker21</a></td>
+		<td>Nicaragua</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/pedroruizf">
 				<img src="https://avatars.githubusercontent.com/u/7380625?s=72&v=4" width="24" alt="Avatar of pedroruizf"> pedroruizf
@@ -3368,7 +3342,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/alexndra1272">
 				<img src="https://avatars.githubusercontent.com/u/59211024?s=72&u=69e0d7c4b0f6534424fcb74fac1931dafad2a678&v=4" width="24" alt="Avatar of alexndra1272"> alexndra1272
@@ -3381,7 +3355,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/RodriguezIA">
 				<img src="https://avatars.githubusercontent.com/u/65206631?s=72&u=38918e5bf1991230fba7d334b79ebade3119c004&v=4" width="24" alt="Avatar of RodriguezIA"> RodriguezIA
@@ -3394,20 +3368,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/Victor-0rtiz">
-				<img src="https://avatars.githubusercontent.com/u/95834947?s=72&u=0b8089c48941c01da8f7ecf50d8e82fdd2e852c3&v=4" width="24" alt="Avatar of Victor-0rtiz"> Victor-0rtiz
-			</a><br/>
-			Victor Oss
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>255</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/maximetinu">
 				<img src="https://avatars.githubusercontent.com/u/16073309?s=72&u=110bc7d2ecd22408f2d12055c9e4f8fed2a9e38b&v=4" width="24" alt="Avatar of maximetinu"> maximetinu
@@ -3420,7 +3381,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/lars505">
 				<img src="https://avatars.githubusercontent.com/u/31805135?s=72&u=8cd949178363a0f77a72cadaf7e32c49ae546826&v=4" width="24" alt="Avatar of lars505"> lars505
@@ -3433,7 +3394,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/FreeAoi">
+				<img src="https://avatars.githubusercontent.com/u/45021001?s=72&u=c6de61235fbd26e9ddfcf053862e2a1bfddc19ac&v=4" width="24" alt="Avatar of FreeAoi"> FreeAoi
+			</a><br/>
+			Free 公園
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/DavidAlejandro18">
 				<img src="https://avatars.githubusercontent.com/u/41218155?s=72&u=eeb34ff74036e1aa63b4fec94138e2f099461193&v=4" width="24" alt="Avatar of DavidAlejandro18"> DavidAlejandro18
@@ -3446,7 +3420,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/rlopezcoto">
 				<img src="https://avatars.githubusercontent.com/u/17042312?s=72&u=2176b74a47bb779e435739e275caf2333ef1aa92&v=4" width="24" alt="Avatar of rlopezcoto"> rlopezcoto
@@ -3459,7 +3433,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/aitorTD">
+				<img src="https://avatars.githubusercontent.com/u/120412779?s=72&u=851967bbf5564ceffd23944b8a82ff0becc8679c&v=4" width="24" alt="Avatar of aitorTD"> aitorTD
+			</a><br/>
+			Aitor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/jesusjmma">
 				<img src="https://avatars.githubusercontent.com/u/10512294?s=72&u=62eb3a9cccf91c749307698c66c644f21b4469f1&v=4" width="24" alt="Avatar of jesusjmma"> jesusjmma
@@ -3472,7 +3459,33 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/Victor-0rtiz">
+				<img src="https://avatars.githubusercontent.com/u/95834947?s=72&u=0b8089c48941c01da8f7ecf50d8e82fdd2e852c3&v=4" width="24" alt="Avatar of Victor-0rtiz"> Victor-0rtiz
+			</a><br/>
+			Victor Oss
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>50</td>
+	</tr>
+	<tr>
 		<td>260</td>
+		<td>
+			<a href="https://github.com/jesusyesares">
+				<img src="https://avatars.githubusercontent.com/u/2352123?s=72&u=6245ebc77c17af4002cf775b760f9a3f1dd50e95&v=4" width="24" alt="Avatar of jesusyesares"> jesusyesares
+			</a><br/>
+			Jesús Yesares García
+		</td>
+		<td>Jesús Yesares </td>
+		<td><a href="https://twitter.com/JesusYesares">JesusYesares</a></td>
+		<td>Granada</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/slickepinne">
 				<img src="https://avatars.githubusercontent.com/u/19774772?s=72&u=638e1267502afd9f879e9207f222b380095edce5&v=4" width="24" alt="Avatar of slickepinne"> slickepinne
@@ -3482,19 +3495,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@thoughtbot </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/D-Maysena">
-				<img src="https://avatars.githubusercontent.com/u/110703378?s=72&u=92f27f7041ba4e5eabb0f3c8d5c3ffcb99d1d003&v=4" width="24" alt="Avatar of D-Maysena"> D-Maysena
-			</a><br/>
-			Yasser Darce
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -3578,19 +3578,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>268</td>
 		<td>
-			<a href="https://github.com/aitorTD">
-				<img src="https://avatars.githubusercontent.com/u/120412779?s=72&u=851967bbf5564ceffd23944b8a82ff0becc8679c&v=4" width="24" alt="Avatar of aitorTD"> aitorTD
-			</a><br/>
-			Aitor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
 			<a href="https://github.com/herroldreal">
 				<img src="https://avatars.githubusercontent.com/u/3398238?s=72&u=61fd35600d477cd38cc63acc800259c96f7c7ab3&v=4" width="24" alt="Avatar of herroldreal"> herroldreal
 			</a><br/>
@@ -3602,7 +3589,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/mianfg">
 				<img src="https://avatars.githubusercontent.com/u/30473173?s=72&u=14ffcec1024f8727012582657cadc7305706c850&v=4" width="24" alt="Avatar of mianfg"> mianfg
@@ -3615,7 +3602,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/rcarrillocruz">
 				<img src="https://avatars.githubusercontent.com/u/1419467?s=72&u=03e6a863c6ecc768fdf3b961b9a1ce700c405708&v=4" width="24" alt="Avatar of rcarrillocruz"> rcarrillocruz
@@ -3628,7 +3615,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/ManuelJNunez">
 				<img src="https://avatars.githubusercontent.com/u/34189938?s=72&u=43000a482f5e4d9d1c41f6075c697c8684842bec&v=4" width="24" alt="Avatar of ManuelJNunez"> ManuelJNunez
@@ -3641,20 +3628,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/louis1001">
-				<img src="https://avatars.githubusercontent.com/u/26968689?s=72&u=4b8ffd567fd2b4f1517d8b38e4cb458d3ade2d13&v=4" width="24" alt="Avatar of louis1001"> louis1001
-			</a><br/>
-			Luis Gonzalez
-		</td>
-		<td>Applaudo </td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>274</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/RuizFJ">
 				<img src="https://avatars.githubusercontent.com/u/127918344?s=72&v=4" width="24" alt="Avatar of RuizFJ"> RuizFJ
@@ -3667,7 +3641,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/pacastillo">
 				<img src="https://avatars.githubusercontent.com/u/2456?s=72&u=b6cd10faa4dcd007072758e29fe27aea6d3866f3&v=4" width="24" alt="Avatar of pacastillo"> pacastillo
@@ -3680,7 +3654,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/jdanieln">
 				<img src="https://avatars.githubusercontent.com/u/12522364?s=72&u=4e17d67dcde8939bebf9f5eedf7258678cd321e5&v=4" width="24" alt="Avatar of jdanieln"> jdanieln
@@ -3693,7 +3667,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/ernestoruiz89">
 				<img src="https://avatars.githubusercontent.com/u/1592496?s=72&u=f21e8721d7c008a515a093c2208f72e119c2914c&v=4" width="24" alt="Avatar of ernestoruiz89"> ernestoruiz89
@@ -3706,7 +3680,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/fjsaezm">
 				<img src="https://avatars.githubusercontent.com/u/13903165?s=72&u=5e713c319e54f90774f55b109d7434150c06e167&v=4" width="24" alt="Avatar of fjsaezm"> fjsaezm
@@ -3719,7 +3693,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/jojelupipa">
 				<img src="https://avatars.githubusercontent.com/u/14235896?s=72&u=6c5bfa90a8704c3ec495771d334e55fadcc58d45&v=4" width="24" alt="Avatar of jojelupipa"> jojelupipa
@@ -3732,7 +3706,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/PinGunter">
 				<img src="https://avatars.githubusercontent.com/u/42673344?s=72&u=63a4bce7a365c9469483a17368a3879bb07ddccd&v=4" width="24" alt="Avatar of PinGunter"> PinGunter
@@ -3745,7 +3719,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/sam-sudo">
 				<img src="https://avatars.githubusercontent.com/u/57421143?s=72&u=b59361868c17e37fac69a5204d36a8d83d205787&v=4" width="24" alt="Avatar of sam-sudo"> sam-sudo
@@ -3758,7 +3732,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/edycarreyes99">
 				<img src="https://avatars.githubusercontent.com/u/32041605?s=72&u=7f524c5c6a64bb199f3184ada923a36d4d733b63&v=4" width="24" alt="Avatar of edycarreyes99"> edycarreyes99
@@ -3771,7 +3745,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/louis1001">
+				<img src="https://avatars.githubusercontent.com/u/26968689?s=72&u=4b8ffd567fd2b4f1517d8b38e4cb458d3ade2d13&v=4" width="24" alt="Avatar of louis1001"> louis1001
+			</a><br/>
+			Luis Gonzalez
+		</td>
+		<td>Applaudo </td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/Aguirregzz97">
 				<img src="https://avatars.githubusercontent.com/u/19846404?s=72&u=bb25cb9a75fa9d6fa283ce30bb7b452154a7ff57&v=4" width="24" alt="Avatar of Aguirregzz97"> Aguirregzz97
@@ -3784,7 +3771,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/miquelreyes">
 				<img src="https://avatars.githubusercontent.com/u/48360554?s=72&u=c6e060ff85db02de026e7015316ede59f7df4cb5&v=4" width="24" alt="Avatar of miquelreyes"> miquelreyes
@@ -3797,7 +3784,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/narencastellon">
 				<img src="https://avatars.githubusercontent.com/u/71158095?s=72&v=4" width="24" alt="Avatar of narencastellon"> narencastellon
@@ -3810,20 +3797,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/RochaMoran">
-				<img src="https://avatars.githubusercontent.com/u/67056904?s=72&u=5c4bbb61fcdac4ca5461e000eb322ea84f2d6a24&v=4" width="24" alt="Avatar of RochaMoran"> RochaMoran
-			</a><br/>
-			Steven Rocha
-		</td>
-		<td>Facturele - Gsdo/crew </td>
-		<td>No Twitter Username</td>
-		<td>Matagalpa, Nicaragua</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>287</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/carlop">
 				<img src="https://avatars.githubusercontent.com/u/304140?s=72&u=34932f7c2effd9d4b6ab252db896c9b7b485b13c&v=4" width="24" alt="Avatar of carlop"> carlop
@@ -3836,7 +3810,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/juanolalla">
+				<img src="https://avatars.githubusercontent.com/u/329818?s=72&u=a7e4447f3d3fefd67b5634921527ffbbf70fa4f2&v=4" width="24" alt="Avatar of juanolalla"> juanolalla
+			</a><br/>
+			Juan Olalla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/JesusRugama">
 				<img src="https://avatars.githubusercontent.com/u/3472889?s=72&u=91a8c73d245ca5cf57f5e74ddb720f3b1e16a0c4&v=4" width="24" alt="Avatar of JesusRugama"> JesusRugama
@@ -3849,7 +3836,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/jmrobles">
 				<img src="https://avatars.githubusercontent.com/u/1277154?s=72&u=8a74bb8ecf61b85368bcc525594f5fe073a2b499&v=4" width="24" alt="Avatar of jmrobles"> jmrobles
@@ -3862,7 +3849,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/Zenidd">
 				<img src="https://avatars.githubusercontent.com/u/14923294?s=72&u=2dc11ba8dc0fda32593e62432d90959147784911&v=4" width="24" alt="Avatar of Zenidd"> Zenidd
@@ -3875,12 +3862,25 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/salvacam">
+				<img src="https://avatars.githubusercontent.com/u/6243712?s=72&v=4" width="24" alt="Avatar of salvacam"> salvacam
+			</a><br/>
+			Salvador
+		</td>
+		<td>Fidesol </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>41</td>
+	</tr>
+	<tr>
 		<td>291</td>
 		<td>
 			<a href="https://github.com/Lois-mttr">
 				<img src="https://avatars.githubusercontent.com/u/110619581?s=72&u=e6fa9663e7b568642dea49ad0815aa7479959b26&v=4" width="24" alt="Avatar of Lois-mttr"> Lois-mttr
 			</a><br/>
-			Luisa 
+			Luisa Téllez
 		</td>
 		<td>Universidad Nacional De Ingeniería<br/>(uni)<br/></td>
 		<td>No Twitter Username</td>
@@ -3903,6 +3903,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>293</td>
 		<td>
+			<a href="https://github.com/RochaMoran">
+				<img src="https://avatars.githubusercontent.com/u/67056904?s=72&u=5c4bbb61fcdac4ca5461e000eb322ea84f2d6a24&v=4" width="24" alt="Avatar of RochaMoran"> RochaMoran
+			</a><br/>
+			Steven Rocha
+		</td>
+		<td>Facturele - Gsdo/crew </td>
+		<td>No Twitter Username</td>
+		<td>Matagalpa, Nicaragua</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
 			<a href="https://github.com/adacosdev">
 				<img src="https://avatars.githubusercontent.com/u/67490073?s=72&u=3058f758e465e0907206057e6435c44e24025659&v=4" width="24" alt="Avatar of adacosdev"> adacosdev
 			</a><br/>
@@ -3914,7 +3927,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/fgallegosalido">
 				<img src="https://avatars.githubusercontent.com/u/11628855?s=72&u=09dca4d03c4022e33180ade0e2e2fca43cd48000&v=4" width="24" alt="Avatar of fgallegosalido"> fgallegosalido
@@ -3924,19 +3937,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Real-time Innovations (rti) </td>
 		<td>No Twitter Username</td>
 		<td>Granada ⇆ Jaén, Spain</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/salvacam">
-				<img src="https://avatars.githubusercontent.com/u/6243712?s=72&v=4" width="24" alt="Avatar of salvacam"> salvacam
-			</a><br/>
-			Salvador
-		</td>
-		<td>Fidesol </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -3955,6 +3955,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>297</td>
 		<td>
+			<a href="https://github.com/MiguelCasaresRobles">
+				<img src="https://avatars.githubusercontent.com/u/23264276?s=72&u=e0ad16de04f9aa446d61476bf0b14a5f85a9e404&v=4" width="24" alt="Avatar of MiguelCasaresRobles"> MiguelCasaresRobles
+			</a><br/>
+			Miguel Casares
+		</td>
+		<td>@wazuh </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a href="https://github.com/Frander">
 				<img src="https://avatars.githubusercontent.com/u/3132066?s=72&u=87e8f1c87bc23c9b0180ae9e2cecb364b9021ef9&v=4" width="24" alt="Avatar of Frander"> Frander
 			</a><br/>
@@ -3966,7 +3979,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/harvestcore">
 				<img src="https://avatars.githubusercontent.com/u/22531231?s=72&u=8329ed2dadf4be020658b0fd9f9e5aa8628ff636&v=4" width="24" alt="Avatar of harvestcore"> harvestcore
@@ -3979,7 +3992,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/wjpld3vs">
+				<img src="https://avatars.githubusercontent.com/u/150417363?s=72&u=cdb90252dccea2199137362b0e37bcf536656e2a&v=4" width="24" alt="Avatar of wjpld3vs"> wjpld3vs
+			</a><br/>
+			Wilmer Palacios
+		</td>
+		<td>Wjpldevs </td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/wagner-deoliveira">
 				<img src="https://avatars.githubusercontent.com/u/60220411?s=72&u=7a872a16b49a99ae43d93cb8400c103a7022ec6c&v=4" width="24" alt="Avatar of wagner-deoliveira"> wagner-deoliveira
@@ -3992,20 +4018,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/MiguelCasaresRobles">
-				<img src="https://avatars.githubusercontent.com/u/23264276?s=72&u=e0ad16de04f9aa446d61476bf0b14a5f85a9e404&v=4" width="24" alt="Avatar of MiguelCasaresRobles"> MiguelCasaresRobles
-			</a><br/>
-			Miguel Casares
-		</td>
-		<td>@wazuh </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/imorlxs">
 				<img src="https://avatars.githubusercontent.com/u/102816007?s=72&u=7768e187ae16da09b78da6314717e1c07dc34c8f&v=4" width="24" alt="Avatar of imorlxs"> imorlxs
@@ -4018,7 +4031,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/guerrerocing">
 				<img src="https://avatars.githubusercontent.com/u/22582270?s=72&u=d6f9480adf2862933822ba1ddd53fdd23a834d82&v=4" width="24" alt="Avatar of guerrerocing"> guerrerocing
@@ -4031,7 +4044,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/AngelRodriguezFaya">
 				<img src="https://avatars.githubusercontent.com/u/147878174?s=72&u=93e1799430e6bb857aaa72f9ca36de4a5c3ef1f8&v=4" width="24" alt="Avatar of AngelRodriguezFaya"> AngelRodriguezFaya
@@ -4044,7 +4057,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/manuelscl">
 				<img src="https://avatars.githubusercontent.com/u/173740776?s=72&v=4" width="24" alt="Avatar of manuelscl"> manuelscl
@@ -4057,7 +4070,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/jarumil">
 				<img src="https://avatars.githubusercontent.com/u/23283387?s=72&u=f3541c7380260f4d24ba343f79cabc41df1a2734&v=4" width="24" alt="Avatar of jarumil"> jarumil
@@ -4067,19 +4080,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Universidad De Granada </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/raulsoria98">
-				<img src="https://avatars.githubusercontent.com/u/45880803?s=72&u=fdaf0bfb4554f87945fa60c7022f06fa9408cd9f&v=4" width="24" alt="Avatar of raulsoria98"> raulsoria98
-			</a><br/>
-			Raúl Soria
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -4124,6 +4124,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>310</td>
 		<td>
+			<a href="https://github.com/raulsoria98">
+				<img src="https://avatars.githubusercontent.com/u/45880803?s=72&u=fdaf0bfb4554f87945fa60c7022f06fa9408cd9f&v=4" width="24" alt="Avatar of raulsoria98"> raulsoria98
+			</a><br/>
+			Raúl Soria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
 			<a href="https://github.com/agomezjuan">
 				<img src="https://avatars.githubusercontent.com/u/12972468?s=72&u=10ff6c47a0c5a97c90ffd839aa8379f4f2a6cfaa&v=4" width="24" alt="Avatar of agomezjuan"> agomezjuan
 			</a><br/>
@@ -4132,19 +4145,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@bairesdev  </td>
 		<td><a href="https://twitter.com/agomezjuan">agomezjuan</a></td>
 		<td>Granada, Spain</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/wjpld3vs">
-				<img src="https://avatars.githubusercontent.com/u/150417363?s=72&u=cdb90252dccea2199137362b0e37bcf536656e2a&v=4" width="24" alt="Avatar of wjpld3vs"> wjpld3vs
-			</a><br/>
-			Wilmer Palacios
-		</td>
-		<td>Wjpldevs </td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -4163,19 +4163,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>313</td>
 		<td>
-			<a href="https://github.com/Eduardo6446">
-				<img src="https://avatars.githubusercontent.com/u/74506004?s=72&u=246de1c96a86e204dbf367ff5359d239e3815aa5&v=4" width="24" alt="Avatar of Eduardo6446"> Eduardo6446
-			</a><br/>
-			Eduardo Antonio Orozco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
 			<a href="https://github.com/jluque0101">
 				<img src="https://avatars.githubusercontent.com/u/6741785?s=72&u=fe08ccb90c7728bfdf49bec36e8676ac37705d6b&v=4" width="24" alt="Avatar of jluque0101"> jluque0101
 			</a><br/>
@@ -4187,7 +4174,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/AlfonsoDaniel-dev">
 				<img src="https://avatars.githubusercontent.com/u/135069146?s=72&u=f944cb5b1cfe38ec7b974a573556a61b3c73576f&v=4" width="24" alt="Avatar of AlfonsoDaniel-dev"> AlfonsoDaniel-dev
@@ -4198,6 +4185,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Leon Gto Mexico</td>
 		<td>31</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/Eduardo6446">
+				<img src="https://avatars.githubusercontent.com/u/74506004?s=72&u=246de1c96a86e204dbf367ff5359d239e3815aa5&v=4" width="24" alt="Avatar of Eduardo6446"> Eduardo6446
+			</a><br/>
+			Eduardo Antonio Orozco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -4241,19 +4241,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>319</td>
 		<td>
-			<a href="https://github.com/rodrigodiasf1984">
-				<img src="https://avatars.githubusercontent.com/u/30758309?s=72&u=1ea4fa2570b6085dfb78a2d344e4ace29c4afc88&v=4" width="24" alt="Avatar of rodrigodiasf1984"> rodrigodiasf1984
-			</a><br/>
-			Rodrigo Dias de Figueiredo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barrio de la Vega, Monachil, Granada</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
 			<a href="https://github.com/FSSRepo">
 				<img src="https://avatars.githubusercontent.com/u/57494570?s=72&u=785ef1ca2b35e13c3bce393f70dbaecd117f506b&v=4" width="24" alt="Avatar of FSSRepo"> FSSRepo
 			</a><br/>
@@ -4265,20 +4252,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/leobotmanuel">
-				<img src="https://avatars.githubusercontent.com/u/4985327?s=72&u=21532aaddf09e239b5c8b606575c180b01f48b6f&v=4" width="24" alt="Avatar of leobotmanuel"> leobotmanuel
-			</a><br/>
-			Manuel Hidalgo
-		</td>
-		<td>Https://leobotmanuel </td>
-		<td>No Twitter Username</td>
-		<td>Salobreña (Granada)</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>322</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/helmut1996">
 				<img src="https://avatars.githubusercontent.com/u/30960370?s=72&u=4fd773b95dcba7bf329f26708c3cd2ce5abeb07d&v=4" width="24" alt="Avatar of helmut1996"> helmut1996
@@ -4291,7 +4265,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/BrandonErick">
 				<img src="https://avatars.githubusercontent.com/u/100455383?s=72&u=d2b4173fadb1a92e09dc480c14e97793d8da41d5&v=4" width="24" alt="Avatar of BrandonErick"> BrandonErick
@@ -4304,20 +4278,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/JavierSantoyo89">
-				<img src="https://avatars.githubusercontent.com/u/85984516?s=72&u=6ad01c2c20be9bc9b40ee799fb60d0b58c952e0c&v=4" width="24" alt="Avatar of JavierSantoyo89"> JavierSantoyo89
-			</a><br/>
-			Javier Santoyo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FcoSantoyoRios">FcoSantoyoRios</a></td>
-		<td>Monterrey, Nuevo leon</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>325</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/charly05tr">
 				<img src="https://avatars.githubusercontent.com/u/154310681?s=72&u=314c7471bac03657d56d8e6b681952c8ea7f8c8e&v=4" width="24" alt="Avatar of charly05tr"> charly05tr
@@ -4330,20 +4291,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>323</td>
 		<td>
-			<a href="https://github.com/antoniomdk">
-				<img src="https://avatars.githubusercontent.com/u/4209122?s=72&u=3a7fef3bcc1984e3db2b1b16d802893097570cc4&v=4" width="24" alt="Avatar of antoniomdk"> antoniomdk
+			<a href="https://github.com/leobotmanuel">
+				<img src="https://avatars.githubusercontent.com/u/4985327?s=72&u=21532aaddf09e239b5c8b606575c180b01f48b6f&v=4" width="24" alt="Avatar of leobotmanuel"> leobotmanuel
 			</a><br/>
-			Antonio Molner Domenech
+			Manuel Hidalgo
 		</td>
-		<td>@procore </td>
+		<td>Https://leobotmanuel </td>
 		<td>No Twitter Username</td>
-		<td>Ogijares, Granada</td>
+		<td>Salobreña (Granada)</td>
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/lindateachtech">
 				<img src="https://avatars.githubusercontent.com/u/62815528?s=72&u=4b4dfaafa8d4ab727bfb461172ff6eefbf133c04&v=4" width="24" alt="Avatar of lindateachtech"> lindateachtech
@@ -4356,7 +4317,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/giorgiogiovanni">
 				<img src="https://avatars.githubusercontent.com/u/56322576?s=72&u=c17fba035f87b370db9d55bda3c67a8fecf13456&v=4" width="24" alt="Avatar of giorgiogiovanni"> giorgiogiovanni
@@ -4369,7 +4330,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/elmandelbetis">
 				<img src="https://avatars.githubusercontent.com/u/126078785?s=72&u=1fcca5888bc1de2ae1eb14178c6270008f428bb9&v=4" width="24" alt="Avatar of elmandelbetis"> elmandelbetis
@@ -4382,7 +4343,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/sergiovp">
 				<img src="https://avatars.githubusercontent.com/u/36703917?s=72&u=78daf098963b8688360f4495b5b6532bcd18af90&v=4" width="24" alt="Avatar of sergiovp"> sergiovp
@@ -4395,7 +4356,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/pirat013">
 				<img src="https://avatars.githubusercontent.com/u/17380687?s=72&u=c60fdbaf56dee644e9695f0c64dd19eae2d48e22&v=4" width="24" alt="Avatar of pirat013"> pirat013
@@ -4408,7 +4369,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/unbegrenzt">
 				<img src="https://avatars.githubusercontent.com/u/19624703?s=72&u=686f7a3444b48dbcb5300b87c17561d438a7e939&v=4" width="24" alt="Avatar of unbegrenzt"> unbegrenzt
@@ -4421,7 +4382,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/antoniomdk">
+				<img src="https://avatars.githubusercontent.com/u/4209122?s=72&u=3a7fef3bcc1984e3db2b1b16d802893097570cc4&v=4" width="24" alt="Avatar of antoniomdk"> antoniomdk
+			</a><br/>
+			Antonio Molner Domenech
+		</td>
+		<td>@procore </td>
+		<td>No Twitter Username</td>
+		<td>Ogijares, Granada</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/caelruz4">
 				<img src="https://avatars.githubusercontent.com/u/112117720?s=72&u=2f55b42e9e40d1e99d03022dcd5c4d9ca6675c63&v=4" width="24" alt="Avatar of caelruz4"> caelruz4
@@ -4434,20 +4408,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/Ramonperu">
-				<img src="https://avatars.githubusercontent.com/u/44363045?s=72&u=67325a03cad13794d99050ee725725b0613178f2&v=4" width="24" alt="Avatar of Ramonperu"> Ramonperu
-			</a><br/>
-			Ramón Peinado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>335</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/calonzolg">
 				<img src="https://avatars.githubusercontent.com/u/19369562?s=72&u=c0da9785f914d3dde0daa82a867734df19a8bd72&v=4" width="24" alt="Avatar of calonzolg"> calonzolg
@@ -4460,7 +4421,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/miguems">
 				<img src="https://avatars.githubusercontent.com/u/4958981?s=72&u=c8a5bb1bdf34af2d27f0a7027203deb013e058a2&v=4" width="24" alt="Avatar of miguems"> miguems
@@ -4473,7 +4434,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/profcswni">
 				<img src="https://avatars.githubusercontent.com/u/62516792?s=72&u=ccce807f80b2a936c545373378a27812b30bd4b0&v=4" width="24" alt="Avatar of profcswni"> profcswni
@@ -4486,7 +4447,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/jpineroberbel">
 				<img src="https://avatars.githubusercontent.com/u/8781623?s=72&u=e2ce7a58d09fa48b1e60180e1c6690b6bcedacb2&v=4" width="24" alt="Avatar of jpineroberbel"> jpineroberbel
@@ -4499,7 +4460,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/albertomn86">
 				<img src="https://avatars.githubusercontent.com/u/14975138?s=72&v=4" width="24" alt="Avatar of albertomn86"> albertomn86
@@ -4512,7 +4473,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/ItsAlexMI">
 				<img src="https://avatars.githubusercontent.com/u/111302275?s=72&u=e447cc53f0af80155d4b987468ef55cd727c85c1&v=4" width="24" alt="Avatar of ItsAlexMI"> ItsAlexMI
@@ -4525,7 +4486,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/Xch4rt">
 				<img src="https://avatars.githubusercontent.com/u/35347784?s=72&u=be6b220ffdf148993f963aa649e971727183da49&v=4" width="24" alt="Avatar of Xch4rt"> Xch4rt
@@ -4538,7 +4499,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/ParadoxalGlitch">
 				<img src="https://avatars.githubusercontent.com/u/95944799?s=72&u=33592350a11a9344681a2bd136818bf761cb1a2e&v=4" width="24" alt="Avatar of ParadoxalGlitch"> ParadoxalGlitch
@@ -4551,7 +4512,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/yucelkilic">
 				<img src="https://avatars.githubusercontent.com/u/1447855?s=72&v=4" width="24" alt="Avatar of yucelkilic"> yucelkilic
@@ -4564,7 +4525,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/denuxs">
 				<img src="https://avatars.githubusercontent.com/u/1816992?s=72&v=4" width="24" alt="Avatar of denuxs"> denuxs
@@ -4577,7 +4538,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/luiisgallego">
 				<img src="https://avatars.githubusercontent.com/u/12183669?s=72&u=98d23c045567a2ee7d7dbb9787e58b64d5654c27&v=4" width="24" alt="Avatar of luiisgallego"> luiisgallego
@@ -4590,7 +4551,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Wences91">
 				<img src="https://avatars.githubusercontent.com/u/36030851?s=72&u=d88d482ea379591667e9c72becc16e660c210113&v=4" width="24" alt="Avatar of Wences91"> Wences91
@@ -4603,7 +4564,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/jacobocasado">
 				<img src="https://avatars.githubusercontent.com/u/43786394?s=72&u=394e5915655777218b0b1ececf312a18dbf4094b&v=4" width="24" alt="Avatar of jacobocasado"> jacobocasado
@@ -4616,7 +4577,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/AnthonyFl27">
 				<img src="https://avatars.githubusercontent.com/u/106495306?s=72&u=78eddff3cfa5faa057ec2dcbc8fd1ad5b21128aa&v=4" width="24" alt="Avatar of AnthonyFl27"> AnthonyFl27
@@ -4629,7 +4590,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/toniblyx">
 				<img src="https://avatars.githubusercontent.com/u/3985464?s=72&u=cff3433a75ad3c31631117ee124d01c0b2cbd318&v=4" width="24" alt="Avatar of toniblyx"> toniblyx
@@ -4642,7 +4603,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/rosanamontes">
 				<img src="https://avatars.githubusercontent.com/u/11150962?s=72&u=d8ca4a9a79bcc6d1d8c126e529e37daa82a99b95&v=4" width="24" alt="Avatar of rosanamontes"> rosanamontes
@@ -4655,7 +4616,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/voghDev">
 				<img src="https://avatars.githubusercontent.com/u/4963568?s=72&u=caf65826d19894c9c813aacf589bef2063a8fdc8&v=4" width="24" alt="Avatar of voghDev"> voghDev
@@ -4668,33 +4629,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/teo009">
-				<img src="https://avatars.githubusercontent.com/u/75596322?s=72&u=7d046340b6584bf5728bda66accb47a16bbc4ed3&v=4" width="24" alt="Avatar of teo009"> teo009
-			</a><br/>
-			Teodoro Obando
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/te096">te096</a></td>
-		<td>Nueva Guinea, Nicaragua </td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/craftxdog">
-				<img src="https://avatars.githubusercontent.com/u/59327044?s=72&u=071fb4126a5e0d78c969a7bf9a6ff87e766dc430&v=4" width="24" alt="Avatar of craftxdog"> craftxdog
-			</a><br/>
-			Aaron Ulloa
-		</td>
-		<td>Unto Me International </td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>354</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/marilla1">
 				<img src="https://avatars.githubusercontent.com/u/123574738?s=72&u=a8821ff1474933c5a0c5d79a9c617e372efb058d&v=4" width="24" alt="Avatar of marilla1"> marilla1
@@ -4707,7 +4642,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/xavier290">
 				<img src="https://avatars.githubusercontent.com/u/63680686?s=72&v=4" width="24" alt="Avatar of xavier290"> xavier290
@@ -4720,7 +4655,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/Orrv2904">
 				<img src="https://avatars.githubusercontent.com/u/82064182?s=72&u=e201746cabf8f2de8a2b30d96621b2d9200d049a&v=4" width="24" alt="Avatar of Orrv2904"> Orrv2904
@@ -4733,7 +4668,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/CarlosManotas">
 				<img src="https://avatars.githubusercontent.com/u/10473180?s=72&u=acb0b856951194bd2aba239e233d1b132f713323&v=4" width="24" alt="Avatar of CarlosManotas"> CarlosManotas
@@ -4746,7 +4681,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/amezal">
 				<img src="https://avatars.githubusercontent.com/u/83527828?s=72&u=0d844e38c5b77e51114416cc5ef2d7a2829187a7&v=4" width="24" alt="Avatar of amezal"> amezal
@@ -4759,7 +4694,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/druizz90">
 				<img src="https://avatars.githubusercontent.com/u/32929872?s=72&u=df3716af4cfaf33c1df1843cc2e3bdf214e0dcf1&v=4" width="24" alt="Avatar of druizz90"> druizz90
@@ -4772,7 +4707,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/luis30n">
 				<img src="https://avatars.githubusercontent.com/u/36823014?s=72&u=38732fb65c9e221a11baaa2718a566bfc0a96658&v=4" width="24" alt="Avatar of luis30n"> luis30n
@@ -4785,7 +4720,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/RiveraHan">
 				<img src="https://avatars.githubusercontent.com/u/55303043?s=72&u=806cd0cf009147a19840aed7278d1acf56de182b&v=4" width="24" alt="Avatar of RiveraHan"> RiveraHan
@@ -4798,7 +4733,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/venosov">
 				<img src="https://avatars.githubusercontent.com/u/1178366?s=72&u=6207a7fe46c6b403338044a32062fedc33d6de4d&v=4" width="24" alt="Avatar of venosov"> venosov
@@ -4811,20 +4746,59 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>358</td>
 		<td>
-			<a href="https://github.com/soymegh">
-				<img src="https://avatars.githubusercontent.com/u/65799738?s=72&u=40f3318b9b40925f301074b2c738636dcf54bbc6&v=4" width="24" alt="Avatar of soymegh"> soymegh
+			<a href="https://github.com/JavierSantoyo89">
+				<img src="https://avatars.githubusercontent.com/u/85984516?s=72&u=6ad01c2c20be9bc9b40ee799fb60d0b58c952e0c&v=4" width="24" alt="Avatar of JavierSantoyo89"> JavierSantoyo89
 			</a><br/>
-			Marvin Ezequiel Gonzáles Hernández
+			Javier Santoyo
 		</td>
-		<td>Freelancer </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FcoSantoyoRios">FcoSantoyoRios</a></td>
+		<td>Monterrey, Nuevo leon</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/Ramonperu">
+				<img src="https://avatars.githubusercontent.com/u/44363045?s=72&u=67325a03cad13794d99050ee725725b0613178f2&v=4" width="24" alt="Avatar of Ramonperu"> Ramonperu
+			</a><br/>
+			Ramón Peinado
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/mvalladaresmembreno">
+				<img src="https://avatars.githubusercontent.com/u/52300360?s=72&u=3b788197b4dcaeae6e4e7e71b5813104acc5c8b2&v=4" width="24" alt="Avatar of mvalladaresmembreno"> mvalladaresmembreno
+			</a><br/>
+			Margarita Valladares 
+		</td>
+		<td>Ingemann Data A/s </td>
+		<td><a href="https://twitter.com/_mcvm_">_mcvm_</a></td>
 		<td>Managua, Nicaragua</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/teo009">
+				<img src="https://avatars.githubusercontent.com/u/75596322?s=72&u=7d046340b6584bf5728bda66accb47a16bbc4ed3&v=4" width="24" alt="Avatar of teo009"> teo009
+			</a><br/>
+			Teodoro Obando
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/te096">te096</a></td>
+		<td>Nueva Guinea, Nicaragua </td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/srgmejiam">
 				<img src="https://avatars.githubusercontent.com/u/41517997?s=72&u=0a5727985e25d984a8968c56fc77c1a01b51a85a&v=4" width="24" alt="Avatar of srgmejiam"> srgmejiam
@@ -4837,7 +4811,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/politeles">
 				<img src="https://avatars.githubusercontent.com/u/6969053?s=72&u=a4893844a4cad27cd81a99d25aac3b6aa0ad32b1&v=4" width="24" alt="Avatar of politeles"> politeles
@@ -4850,7 +4824,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/JJavier98">
 				<img src="https://avatars.githubusercontent.com/u/23261849?s=72&u=c37b66e9e354249d1a0b34ce10fa56d0eca05d19&v=4" width="24" alt="Avatar of JJavier98"> JJavier98
@@ -4863,7 +4837,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/Manu8G">
 				<img src="https://avatars.githubusercontent.com/u/48865614?s=72&u=16c72f8150bba927c0082464d187c153f9ec8316&v=4" width="24" alt="Avatar of Manu8G"> Manu8G
@@ -4876,7 +4850,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/pablo-snz">
 				<img src="https://avatars.githubusercontent.com/u/56602032?s=72&u=bc7a007f4770afdb1206c66bd59069354691bb62&v=4" width="24" alt="Avatar of pablo-snz"> pablo-snz
@@ -4889,7 +4863,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/teradorad">
 				<img src="https://avatars.githubusercontent.com/u/138619140?s=72&u=61d0afe1f01b714cef93c7a1a787394fef120d5f&v=4" width="24" alt="Avatar of teradorad"> teradorad
@@ -4902,7 +4876,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/pacisauctor">
 				<img src="https://avatars.githubusercontent.com/u/30581844?s=72&u=215e3bae339deae003d6c21dee01ed6999a8f062&v=4" width="24" alt="Avatar of pacisauctor"> pacisauctor
@@ -4915,20 +4889,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/mvalladaresmembreno">
-				<img src="https://avatars.githubusercontent.com/u/52300360?s=72&u=3b788197b4dcaeae6e4e7e71b5813104acc5c8b2&v=4" width="24" alt="Avatar of mvalladaresmembreno"> mvalladaresmembreno
-			</a><br/>
-			Margarita Valladares 
-		</td>
-		<td>Ingemann Data A/s </td>
-		<td><a href="https://twitter.com/_mcvm_">_mcvm_</a></td>
-		<td>Managua, Nicaragua</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>372</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/JotaGalera">
 				<img src="https://avatars.githubusercontent.com/u/5357656?s=72&v=4" width="24" alt="Avatar of JotaGalera"> JotaGalera
@@ -4941,20 +4902,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/MoiMorua">
-				<img src="https://avatars.githubusercontent.com/u/57070474?s=72&u=48028a95a3c90159a095365551867eaf38b9bc6a&v=4" width="24" alt="Avatar of MoiMorua"> MoiMorua
-			</a><br/>
-			Moises Morua Lopez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Leon, Gto. Mexico</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>374</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/Kevin-Mendoza07">
 				<img src="https://avatars.githubusercontent.com/u/88840262?s=72&v=4" width="24" alt="Avatar of Kevin-Mendoza07"> Kevin-Mendoza07
@@ -4967,7 +4915,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/OscarFMdev">
 				<img src="https://avatars.githubusercontent.com/u/79666590?s=72&u=b13ac74aae214f4886e4b70afbb40c3eb4a7665e&v=4" width="24" alt="Avatar of OscarFMdev"> OscarFMdev
@@ -4980,7 +4928,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/moshidev">
 				<img src="https://avatars.githubusercontent.com/u/46326833?s=72&u=a21265625875d6b5cc6d04fcea10df043b659f9c&v=4" width="24" alt="Avatar of moshidev"> moshidev
@@ -4993,7 +4941,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/cyberkepper">
 				<img src="https://avatars.githubusercontent.com/u/4246403?s=72&u=6e3f7134b64f32bc8b0741e1b0df8b22f1c201fe&v=4" width="24" alt="Avatar of cyberkepper"> cyberkepper
@@ -5006,7 +4954,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/AndresC1">
 				<img src="https://avatars.githubusercontent.com/u/79660203?s=72&u=78ca9f17d718d189eb4c61510074564bdf153f56&v=4" width="24" alt="Avatar of AndresC1"> AndresC1
@@ -5019,7 +4967,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/devNica">
 				<img src="https://avatars.githubusercontent.com/u/54682156?s=72&u=fab427068b5deddfe3abd1272bfe657b41fc7341&v=4" width="24" alt="Avatar of devNica"> devNica
@@ -5032,7 +4980,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/torresj">
 				<img src="https://avatars.githubusercontent.com/u/5519161?s=72&u=3cdbcee4c5f98185248950c8639fc1a5f65c3034&v=4" width="24" alt="Avatar of torresj"> torresj
@@ -5045,7 +4993,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/sstrelnikov">
 				<img src="https://avatars.githubusercontent.com/u/721729?s=72&u=c788eda0e4b27db38ce6722b30ba1745c49600e0&v=4" width="24" alt="Avatar of sstrelnikov"> sstrelnikov
@@ -5058,7 +5006,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/Brolivar">
 				<img src="https://avatars.githubusercontent.com/u/14923654?s=72&u=3911ecc58630ec06858ec7a15da8f53809505bfe&v=4" width="24" alt="Avatar of Brolivar"> Brolivar
@@ -5071,7 +5019,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/canemacchina">
 				<img src="https://avatars.githubusercontent.com/u/5285750?s=72&u=08d91cc93a786ac1bc7e9ab87b65801d5d32d472&v=4" width="24" alt="Avatar of canemacchina"> canemacchina
@@ -5084,7 +5032,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/soymegh">
+				<img src="https://avatars.githubusercontent.com/u/65799738?s=72&u=40f3318b9b40925f301074b2c738636dcf54bbc6&v=4" width="24" alt="Avatar of soymegh"> soymegh
+			</a><br/>
+			Marvin Ezequiel Gonzáles Hernández
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/cristinazuhe">
 				<img src="https://avatars.githubusercontent.com/u/11318268?s=72&u=61c97d362c17fa1ceed70119dd1ff9b4317b747d&v=4" width="24" alt="Avatar of cristinazuhe"> cristinazuhe
@@ -5097,7 +5058,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/UlisesLugo">
 				<img src="https://avatars.githubusercontent.com/u/31197162?s=72&u=1e0c6ec9704dfb1cb9bdab557fed22a1fc0e0bc2&v=4" width="24" alt="Avatar of UlisesLugo"> UlisesLugo
@@ -5110,7 +5071,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/charlieweb">
 				<img src="https://avatars.githubusercontent.com/u/2066155?s=72&u=b801f2b799fe40bc003fb97e004970115c948d37&v=4" width="24" alt="Avatar of charlieweb"> charlieweb
@@ -5123,7 +5084,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/wuelcas">
 				<img src="https://avatars.githubusercontent.com/u/2205305?s=72&u=89069deea60ed0e8adfc9f702e8e5816f0efe1b1&v=4" width="24" alt="Avatar of wuelcas"> wuelcas
@@ -5136,7 +5097,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/MoiMorua">
+				<img src="https://avatars.githubusercontent.com/u/57070474?s=72&u=48028a95a3c90159a095365551867eaf38b9bc6a&v=4" width="24" alt="Avatar of MoiMorua"> MoiMorua
+			</a><br/>
+			Moises Morua Lopez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Leon, Gto. Mexico</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/vantares">
 				<img src="https://avatars.githubusercontent.com/u/799016?s=72&u=6049c1497b741357104591e75bfd0fc773ba9c4a&v=4" width="24" alt="Avatar of vantares"> vantares
@@ -5149,7 +5123,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/rlopc">
 				<img src="https://avatars.githubusercontent.com/u/4123661?s=72&u=441dba556f0696f2788404372701ccb3761e3779&v=4" width="24" alt="Avatar of rlopc"> rlopc
@@ -5162,7 +5136,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/ivngnzl">
 				<img src="https://avatars.githubusercontent.com/u/65131573?s=72&u=9d5dfec4ac06b896fdc1fef9c6202780174b1f3a&v=4" width="24" alt="Avatar of ivngnzl"> ivngnzl
@@ -5175,7 +5149,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/DraXus">
 				<img src="https://avatars.githubusercontent.com/u/2436?s=72&v=4" width="24" alt="Avatar of DraXus"> DraXus
@@ -5188,7 +5162,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/segura2010">
 				<img src="https://avatars.githubusercontent.com/u/1244724?s=72&u=e99a77cdeacf989be3b2240d2319f73da601d08a&v=4" width="24" alt="Avatar of segura2010"> segura2010
@@ -5201,7 +5175,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Carlossamu7">
 				<img src="https://avatars.githubusercontent.com/u/22639789?s=72&u=1995e24ba1d6d8278239a9214ae5ea7a7e7ee79b&v=4" width="24" alt="Avatar of Carlossamu7"> Carlossamu7
@@ -5214,7 +5188,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/rodrigodiasf1984">
+				<img src="https://avatars.githubusercontent.com/u/30758309?s=72&u=1ea4fa2570b6085dfb78a2d344e4ace29c4afc88&v=4" width="24" alt="Avatar of rodrigodiasf1984"> rodrigodiasf1984
+			</a><br/>
+			Rodrigo Dias de Figueiredo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barrio de la Vega, Monachil, Granada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/robertomagan">
 				<img src="https://avatars.githubusercontent.com/u/9433193?s=72&u=a3c79224043eba762c1f1ca21462aa8c56d2bb6a&v=4" width="24" alt="Avatar of robertomagan"> robertomagan
@@ -5227,7 +5214,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/jms">
 				<img src="https://avatars.githubusercontent.com/u/22042?s=72&u=d296bd5e60e046700dc1b439065a7d8c55d27c02&v=4" width="24" alt="Avatar of jms"> jms
@@ -5240,7 +5227,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/frantend">
 				<img src="https://avatars.githubusercontent.com/u/53994426?s=72&u=88f37f2b09ec4f8f15fc3ff5a28f2b4d3c24d7b6&v=4" width="24" alt="Avatar of frantend"> frantend
@@ -5253,7 +5240,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/EduardoGHdez">
 				<img src="https://avatars.githubusercontent.com/u/39539196?s=72&u=2c29b6277ad175c1346384ff3fc0c9416dd25010&v=4" width="24" alt="Avatar of EduardoGHdez"> EduardoGHdez
@@ -5266,7 +5253,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/DenisRitchie">
 				<img src="https://avatars.githubusercontent.com/u/19438133?s=72&u=6ee9e71a1f7ff4da965a851d4367cfe07797e14a&v=4" width="24" alt="Avatar of DenisRitchie"> DenisRitchie
@@ -5276,6 +5263,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>@acrosstec  </td>
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/craftxdog">
+				<img src="https://avatars.githubusercontent.com/u/59327044?s=72&u=071fb4126a5e0d78c969a7bf9a6ff87e766dc430&v=4" width="24" alt="Avatar of craftxdog"> craftxdog
+			</a><br/>
+			Aaron Ulloa
+		</td>
+		<td>Unto Me International </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -5762,19 +5762,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>436</td>
 		<td>
-			<a href="https://github.com/jlxip">
-				<img src="https://avatars.githubusercontent.com/u/8456551?s=72&u=a7858a5173b227df3f6acb8e9637d2b8b98919d7&v=4" width="24" alt="Avatar of jlxip"> jlxip
-			</a><br/>
-			jlxip
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jlxip">jlxip</a></td>
-		<td>Granada, Spain</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
 			<a href="https://github.com/rafaelleru">
 				<img src="https://avatars.githubusercontent.com/u/6851409?s=72&u=639d992ed7237c528f2ada9f3ddb22d18a138790&v=4" width="24" alt="Avatar of rafaelleru"> rafaelleru
 			</a><br/>
@@ -5786,7 +5773,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/mayorgacdev">
 				<img src="https://avatars.githubusercontent.com/u/76973247?s=72&u=f4d0632df59b0eeadd67ef662320fd865a79452b&v=4" width="24" alt="Avatar of mayorgacdev"> mayorgacdev
@@ -5799,7 +5786,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/klyone">
 				<img src="https://avatars.githubusercontent.com/u/1672028?s=72&u=0d89975183e315c09aa07b6d4c85d6d67d720dcc&v=4" width="24" alt="Avatar of klyone"> klyone
@@ -5812,7 +5799,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/VictorManuelDiaz">
 				<img src="https://avatars.githubusercontent.com/u/42556657?s=72&u=235c108ce4e299a4f8b51f4588bef6ef38195402&v=4" width="24" alt="Avatar of VictorManuelDiaz"> VictorManuelDiaz
@@ -5825,7 +5812,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/RohiTech">
 				<img src="https://avatars.githubusercontent.com/u/63611660?s=72&u=edbb25daa0dd06d8ca8502cd55c76482ff26d7e1&v=4" width="24" alt="Avatar of RohiTech"> RohiTech
@@ -5838,7 +5825,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/VictorRubia">
 				<img src="https://avatars.githubusercontent.com/u/33348803?s=72&u=f4190d0787d5db9a7bee1489af3d702d6e0b7ece&v=4" width="24" alt="Avatar of VictorRubia"> VictorRubia
@@ -5851,7 +5838,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/albertotc99">
 				<img src="https://avatars.githubusercontent.com/u/43575139?s=72&v=4" width="24" alt="Avatar of albertotc99"> albertotc99
@@ -5862,6 +5849,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Albolote (Granada)</td>
 		<td>10</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/jlxip">
+				<img src="https://avatars.githubusercontent.com/u/8456551?s=72&u=a7858a5173b227df3f6acb8e9637d2b8b98919d7&v=4" width="24" alt="Avatar of jlxip"> jlxip
+			</a><br/>
+			jlxip
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jlxip">jlxip</a></td>
+		<td>Granada, Spain</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>444</td>
@@ -6022,19 +6022,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>456</td>
 		<td>
-			<a href="https://github.com/kevinAlexanderG30">
-				<img src="https://avatars.githubusercontent.com/u/86807496?s=72&u=7b28feee100e7b2bd857d0d62da7984d452a1dc7&v=4" width="24" alt="Avatar of kevinAlexanderG30"> kevinAlexanderG30
-			</a><br/>
-			Kevin Guadamuz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua | Managua</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
 			<a href="https://github.com/ppmim">
 				<img src="https://avatars.githubusercontent.com/u/44784?s=72&u=2d953b6f01fd8ba26b9d87c0e373fcf7105aa4a8&v=4" width="24" alt="Avatar of ppmim"> ppmim
 			</a><br/>
@@ -6043,6 +6030,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>Iaa-csic </td>
 		<td>No Twitter Username</td>
 		<td>Granada(Spain)</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/kevinAlexanderG30">
+				<img src="https://avatars.githubusercontent.com/u/86807496?s=72&u=7b28feee100e7b2bd857d0d62da7984d452a1dc7&v=4" width="24" alt="Avatar of kevinAlexanderG30"> kevinAlexanderG30
+			</a><br/>
+			Kevin Guadamuz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua | Managua</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -6087,19 +6087,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>461</td>
 		<td>
-			<a href="https://github.com/omenocal">
-				<img src="https://avatars.githubusercontent.com/u/12286824?s=72&u=27fb42490a260e947561929fd211a7f0ddab7130&v=4" width="24" alt="Avatar of omenocal"> omenocal
-			</a><br/>
-			Octavio Menocal Cordero
-		</td>
-		<td>Soar.com </td>
-		<td><a href="https://twitter.com/omenocalc">omenocalc</a></td>
-		<td>Nicaragua</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
 			<a href="https://github.com/pac09">
 				<img src="https://avatars.githubusercontent.com/u/4560570?s=72&v=4" width="24" alt="Avatar of pac09"> pac09
 			</a><br/>
@@ -6111,7 +6098,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/Carlosma7">
 				<img src="https://avatars.githubusercontent.com/u/14914668?s=72&u=82985ca17aba94d583967227fac55717924610a4&v=4" width="24" alt="Avatar of Carlosma7"> Carlosma7
@@ -6124,7 +6111,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/nicobot">
 				<img src="https://avatars.githubusercontent.com/u/4997363?s=72&v=4" width="24" alt="Avatar of nicobot"> nicobot
@@ -6137,7 +6124,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/eavilesmejia">
 				<img src="https://avatars.githubusercontent.com/u/1710789?s=72&v=4" width="24" alt="Avatar of eavilesmejia"> eavilesmejia
@@ -6150,7 +6137,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/perblac">
 				<img src="https://avatars.githubusercontent.com/u/1044604?s=72&u=b4639105a8bb051c2258e646c89c973d29f6ee8a&v=4" width="24" alt="Avatar of perblac"> perblac
@@ -6163,7 +6150,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/seiya64">
 				<img src="https://avatars.githubusercontent.com/u/3416753?s=72&v=4" width="24" alt="Avatar of seiya64"> seiya64
@@ -6176,7 +6163,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/nacheteam">
 				<img src="https://avatars.githubusercontent.com/u/16293577?s=72&u=1eecbbb7164d359bfe121407a7185970fd9732fa&v=4" width="24" alt="Avatar of nacheteam"> nacheteam
@@ -6189,7 +6176,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/jonathanquehay">
 				<img src="https://avatars.githubusercontent.com/u/4674114?s=72&v=4" width="24" alt="Avatar of jonathanquehay"> jonathanquehay
@@ -6202,7 +6189,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/Fmaldonado6">
 				<img src="https://avatars.githubusercontent.com/u/28517542?s=72&u=791070f546fb374e65bb07841f600a512d781f60&v=4" width="24" alt="Avatar of Fmaldonado6"> Fmaldonado6
@@ -6215,7 +6202,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/Ismael034">
 				<img src="https://avatars.githubusercontent.com/u/42477828?s=72&u=ee95f62d1097f390c32c60909cf7872d600d2679&v=4" width="24" alt="Avatar of Ismael034"> Ismael034
@@ -6228,7 +6215,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/byroncorrales">
 				<img src="https://avatars.githubusercontent.com/u/99616?s=72&v=4" width="24" alt="Avatar of byroncorrales"> byroncorrales
@@ -6241,7 +6228,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/JuanjoMrt">
 				<img src="https://avatars.githubusercontent.com/u/16292810?s=72&u=3aea181ea81b89e960850c1a0539396b495a25b9&v=4" width="24" alt="Avatar of JuanjoMrt"> JuanjoMrt
@@ -6254,7 +6241,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/grivasgervilla">
 				<img src="https://avatars.githubusercontent.com/u/7707062?s=72&u=926f93491906d76d5715e334020e236e8fede905&v=4" width="24" alt="Avatar of grivasgervilla"> grivasgervilla
@@ -6267,7 +6254,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/Herald-Flores">
 				<img src="https://avatars.githubusercontent.com/u/26610741?s=72&u=be5385c3e0c30859356494ed5c0ecaea2ea44b83&v=4" width="24" alt="Avatar of Herald-Flores"> Herald-Flores
@@ -6280,7 +6267,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/bormolina">
 				<img src="https://avatars.githubusercontent.com/u/5804759?s=72&u=572ded1ad9738af42452241b601c538c785cec9a&v=4" width="24" alt="Avatar of bormolina"> bormolina
@@ -6293,7 +6280,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/Lopuiz">
 				<img src="https://avatars.githubusercontent.com/u/17710550?s=72&u=bd7afb0e96fd341db2e3e8c687bde03e93f4b680&v=4" width="24" alt="Avatar of Lopuiz"> Lopuiz
@@ -6306,7 +6293,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/daviddagb2">
 				<img src="https://avatars.githubusercontent.com/u/1445496?s=72&u=51b0ec18352b42516cfb3ebceaa5df90f1a546d8&v=4" width="24" alt="Avatar of daviddagb2"> daviddagb2
@@ -6315,6 +6302,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		</td>
 		<td>Gonzalezblanchard </td>
 		<td><a href="https://twitter.com/daviddagbx">daviddagbx</a></td>
+		<td>Nicaragua</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/omenocal">
+				<img src="https://avatars.githubusercontent.com/u/12286824?s=72&u=27fb42490a260e947561929fd211a7f0ddab7130&v=4" width="24" alt="Avatar of omenocal"> omenocal
+			</a><br/>
+			Octavio Menocal Cordero
+		</td>
+		<td>Soar.com </td>
+		<td><a href="https://twitter.com/omenocalc">omenocalc</a></td>
 		<td>Nicaragua</td>
 		<td>7</td>
 	</tr>
@@ -6516,19 +6516,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>494</td>
 		<td>
-			<a href="https://github.com/ramon-rd">
-				<img src="https://avatars.githubusercontent.com/u/5598145?s=72&u=da18bbd74df9d8e0a57162a8b694222762b57a23&v=4" width="24" alt="Avatar of ramon-rd"> ramon-rd
-			</a><br/>
-			Ramón Rueda
-		</td>
-		<td>Treelogic </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
 			<a href="https://github.com/habarahonaa">
 				<img src="https://avatars.githubusercontent.com/u/67131053?s=72&u=c25a3b4e5390d280fd2e172ad62d91dafb425894&v=4" width="24" alt="Avatar of habarahonaa"> habarahonaa
 			</a><br/>
@@ -6540,7 +6527,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/Rayzler">
 				<img src="https://avatars.githubusercontent.com/u/74840323?s=72&u=4dd1b519ecc02b5410e25b16358e6bac252018b2&v=4" width="24" alt="Avatar of Rayzler"> Rayzler
@@ -6553,7 +6540,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/rubone">
 				<img src="https://avatars.githubusercontent.com/u/1043247?s=72&u=3393178c504c9a289587d27ab54791c72e121344&v=4" width="24" alt="Avatar of rubone"> rubone
@@ -6566,7 +6553,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/M3RINOOOOO">
 				<img src="https://avatars.githubusercontent.com/u/76080893?s=72&u=4563d2fbbdb8b08e26f53e5901c85e17027be4df&v=4" width="24" alt="Avatar of M3RINOOOOO"> M3RINOOOOO
@@ -6579,7 +6566,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/Medfac9">
 				<img src="https://avatars.githubusercontent.com/u/20267230?s=72&u=04947e884cc58710f21d00ae25895b46bd8f7e32&v=4" width="24" alt="Avatar of Medfac9"> Medfac9
@@ -6592,7 +6579,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/jbmc99">
 				<img src="https://avatars.githubusercontent.com/u/127203600?s=72&u=3190900b0d241c331bfefd1360d6f5227aea0578&v=4" width="24" alt="Avatar of jbmc99"> jbmc99
@@ -6605,7 +6592,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/fitoria">
 				<img src="https://avatars.githubusercontent.com/u/9713?s=72&u=4351488aeab191e6353eff4525f2b7474cd09ea8&v=4" width="24" alt="Avatar of fitoria"> fitoria
@@ -6618,7 +6605,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/Ualb">
 				<img src="https://avatars.githubusercontent.com/u/33814128?s=72&u=c54bf971f9e4eeddcded83f2ae03585fceff2a6d&v=4" width="24" alt="Avatar of Ualb"> Ualb
@@ -6631,7 +6618,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/codefuni">
 				<img src="https://avatars.githubusercontent.com/u/26335364?s=72&u=e45debb6a66d66f4e28a18e9664a0a56347e4cb8&v=4" width="24" alt="Avatar of codefuni"> codefuni
@@ -6644,7 +6631,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/Guillergood">
 				<img src="https://avatars.githubusercontent.com/u/16701917?s=72&u=76da78db775510abe18856eb88248398e76474f2&v=4" width="24" alt="Avatar of Guillergood"> Guillergood
@@ -6657,7 +6644,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/jneight">
 				<img src="https://avatars.githubusercontent.com/u/214941?s=72&v=4" width="24" alt="Avatar of jneight"> jneight
@@ -6670,7 +6657,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/ruckonic">
 				<img src="https://avatars.githubusercontent.com/u/38381517?s=72&u=a553226bda1daa0e1edce7dec572a4f98f2a00ed&v=4" width="24" alt="Avatar of ruckonic"> ruckonic
@@ -6683,7 +6670,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/DavidGmezHdez">
 				<img src="https://avatars.githubusercontent.com/u/43583872?s=72&u=ed4afa901adb3933ccbbfca0a289cef344e0feee&v=4" width="24" alt="Avatar of DavidGmezHdez"> DavidGmezHdez
@@ -6696,7 +6683,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/Ilyoskhuja">
 				<img src="https://avatars.githubusercontent.com/u/30035451?s=72&u=b341cf96ade0085ad3b0bed865c200bb00b15a9c&v=4" width="24" alt="Avatar of Ilyoskhuja"> Ilyoskhuja
@@ -6709,7 +6696,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/josesandino">
 				<img src="https://avatars.githubusercontent.com/u/26487904?s=72&u=0f090fa8ae8e81d442c0cb4e4aac3e753d2b5187&v=4" width="24" alt="Avatar of josesandino"> josesandino
@@ -6722,7 +6709,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/hectorsevillasandoval">
 				<img src="https://avatars.githubusercontent.com/u/1959346?s=72&u=8a31ba83afccb5fbdabf1429cb656e9f6cdc9e23&v=4" width="24" alt="Avatar of hectorsevillasandoval"> hectorsevillasandoval
@@ -6735,7 +6722,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/AguilarKevin">
 				<img src="https://avatars.githubusercontent.com/u/36524241?s=72&u=4a065a91f1b5ee0c2ff23b5f6b16a3ead0d4c147&v=4" width="24" alt="Avatar of AguilarKevin"> AguilarKevin
@@ -6748,7 +6735,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/PPeMg">
 				<img src="https://avatars.githubusercontent.com/u/6950370?s=72&u=8476bf07b08637e7515d1a85949023934b237c5a&v=4" width="24" alt="Avatar of PPeMg"> PPeMg
@@ -6761,7 +6748,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/maxo3ify-afk">
 				<img src="https://avatars.githubusercontent.com/u/78270614?s=72&u=322b885c8d076e6f8614c8a19035853109728cab&v=4" width="24" alt="Avatar of maxo3ify-afk"> maxo3ify-afk
@@ -6774,7 +6761,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/berroteran">
 				<img src="https://avatars.githubusercontent.com/u/5240404?s=72&u=1478d5d822590a579a3e3e41cef42eb39e0910fa&v=4" width="24" alt="Avatar of berroteran"> berroteran
@@ -6787,7 +6774,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/antoniorev">
 				<img src="https://avatars.githubusercontent.com/u/43583846?s=72&u=3198d874cedc17beea31896b675f7da6ee95b66a&v=4" width="24" alt="Avatar of antoniorev"> antoniorev
@@ -6800,7 +6787,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/JohnHernCode">
 				<img src="https://avatars.githubusercontent.com/u/70549078?s=72&u=c2ee73efd66a661eda63126715847af4cbd414b9&v=4" width="24" alt="Avatar of JohnHernCode"> JohnHernCode
@@ -6813,7 +6800,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/lenincasco">
 				<img src="https://avatars.githubusercontent.com/u/2041646?s=72&v=4" width="24" alt="Avatar of lenincasco"> lenincasco
@@ -6826,7 +6813,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/AlArgente">
 				<img src="https://avatars.githubusercontent.com/u/15448951?s=72&u=a684e0f9f6de54221e0cf447e67e5e3a97e53d26&v=4" width="24" alt="Avatar of AlArgente"> AlArgente
@@ -6839,7 +6826,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/Kirst08">
 				<img src="https://avatars.githubusercontent.com/u/86884583?s=72&u=90294c71864e743b4117a8a89c3a3562008aa5be&v=4" width="24" alt="Avatar of Kirst08"> Kirst08
@@ -6852,7 +6839,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/ringstellung">
 				<img src="https://avatars.githubusercontent.com/u/10478710?s=72&u=74a47f7efa25f552063df522395ced32a543ef86&v=4" width="24" alt="Avatar of ringstellung"> ringstellung
@@ -6865,7 +6852,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/daniel-fv">
 				<img src="https://avatars.githubusercontent.com/u/1896507?s=72&u=280b0f17f2abc55085964af9c99076420a43e9e4&v=4" width="24" alt="Avatar of daniel-fv"> daniel-fv
@@ -6878,7 +6865,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/jmruiza">
 				<img src="https://avatars.githubusercontent.com/u/1865562?s=72&u=79c512db18cf68ae020d6b59a5c539a0556821cf&v=4" width="24" alt="Avatar of jmruiza"> jmruiza
@@ -6891,7 +6878,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/fnavales">
 				<img src="https://avatars.githubusercontent.com/u/10096042?s=72&u=f115ed70c3c7f80b9fba248e3384040f9db60ff5&v=4" width="24" alt="Avatar of fnavales"> fnavales
@@ -6904,7 +6891,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/quantosh">
 				<img src="https://avatars.githubusercontent.com/u/80041279?s=72&u=ea0a5606babf19cbea7858b39bf996d5892e36e9&v=4" width="24" alt="Avatar of quantosh"> quantosh
@@ -6917,7 +6904,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/antonio-th">
 				<img src="https://avatars.githubusercontent.com/u/1161725?s=72&v=4" width="24" alt="Avatar of antonio-th"> antonio-th
@@ -6930,7 +6917,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/carlosriveroib">
 				<img src="https://avatars.githubusercontent.com/u/9528363?s=72&u=969ba0a3d7f2a2d232773e9f885b64d06f4bccc6&v=4" width="24" alt="Avatar of carlosriveroib"> carlosriveroib
@@ -6943,7 +6930,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/burzumumbra">
 				<img src="https://avatars.githubusercontent.com/u/4171009?s=72&u=77a0fa209806df30171bcc4d552a68d44ab35051&v=4" width="24" alt="Avatar of burzumumbra"> burzumumbra
@@ -6956,7 +6943,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/lukeleleh">
 				<img src="https://avatars.githubusercontent.com/u/18327422?s=72&u=1982e0cd90079c2dd67f103d02a09150233de820&v=4" width="24" alt="Avatar of lukeleleh"> lukeleleh
@@ -6969,7 +6956,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/eatorres510">
 				<img src="https://avatars.githubusercontent.com/u/75112671?s=72&v=4" width="24" alt="Avatar of eatorres510"> eatorres510
@@ -6982,7 +6969,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/deantares">
 				<img src="https://avatars.githubusercontent.com/u/1782996?s=72&v=4" width="24" alt="Avatar of deantares"> deantares
@@ -6995,7 +6982,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/sjbr">
 				<img src="https://avatars.githubusercontent.com/u/864919?s=72&u=0bf987f7d1fd748048d63e28bc1337c5a552c99d&v=4" width="24" alt="Avatar of sjbr"> sjbr
@@ -7008,7 +6995,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/alvarontwrk">
 				<img src="https://avatars.githubusercontent.com/u/17902400?s=72&u=c0dd1f1c55ad7d1a4a87f38a79105f31b0777616&v=4" width="24" alt="Avatar of alvarontwrk"> alvarontwrk
@@ -7021,7 +7008,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/davidkrdona">
 				<img src="https://avatars.githubusercontent.com/u/17576208?s=72&u=b4e0a7bfbeba94e748907250fc85fbb934935538&v=4" width="24" alt="Avatar of davidkrdona"> davidkrdona
@@ -7034,7 +7021,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/Engveloper">
 				<img src="https://avatars.githubusercontent.com/u/46981084?s=72&u=aff4be3701b537477a059c541c6dd391c61dd0c2&v=4" width="24" alt="Avatar of Engveloper"> Engveloper
@@ -7047,7 +7034,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/v3nant">
 				<img src="https://avatars.githubusercontent.com/u/4390221?s=72&u=7bead35a965e3a22cc995aeee2b6945e77e40da2&v=4" width="24" alt="Avatar of v3nant"> v3nant
@@ -7060,7 +7047,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/edgargutgzz">
 				<img src="https://avatars.githubusercontent.com/u/5083491?s=72&u=6262e8ec860d8fe0fce8e7d5775500be4ff59503&v=4" width="24" alt="Avatar of edgargutgzz"> edgargutgzz
@@ -7073,7 +7060,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/guillermogotre">
 				<img src="https://avatars.githubusercontent.com/u/15077061?s=72&u=ffdfd0e5712f49ed2d8d8e559b5854a15317d3ba&v=4" width="24" alt="Avatar of guillermogotre"> guillermogotre
@@ -7086,20 +7073,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>538</td>
-		<td>
-			<a href="https://github.com/JeG99">
-				<img src="https://avatars.githubusercontent.com/u/43384949?s=72&u=52468d84bbccad0a886713b981674514421e0b3e&v=4" width="24" alt="Avatar of JeG99"> JeG99
-			</a><br/>
-			Elías Garza
-		</td>
-		<td>Kalypso: A Rockwell Automation<br/>Business<br/></td>
-		<td>No Twitter Username</td>
-		<td>Monterrey, Nuevo Leon, Mexico</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>539</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/albertocanojaen">
 				<img src="https://avatars.githubusercontent.com/u/43446118?s=72&u=336cae43a258893ed777bd59846240b06d76fd24&v=4" width="24" alt="Avatar of albertocanojaen"> albertocanojaen
@@ -7112,7 +7086,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/OscarAglr">
 				<img src="https://avatars.githubusercontent.com/u/77163942?s=72&u=16cf74f79d15678da228e6fec818deb231207c34&v=4" width="24" alt="Avatar of OscarAglr"> OscarAglr
@@ -7125,7 +7099,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/jorgmateos">
 				<img src="https://avatars.githubusercontent.com/u/33936930?s=72&u=be980be6b1b02f0eb90117006939a0e5a9345e56&v=4" width="24" alt="Avatar of jorgmateos"> jorgmateos
@@ -7138,7 +7112,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/juliolopeztorres">
 				<img src="https://avatars.githubusercontent.com/u/11597234?s=72&u=ff347b336ab2b0d1e6d2a4cb0afc167eb101725a&v=4" width="24" alt="Avatar of juliolopeztorres"> juliolopeztorres
@@ -7151,7 +7125,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/manolojm">
 				<img src="https://avatars.githubusercontent.com/u/35502257?s=72&u=f48df2896e10c565c3879226754ec107620a9565&v=4" width="24" alt="Avatar of manolojm"> manolojm
@@ -7164,7 +7138,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/leoniliana">
 				<img src="https://avatars.githubusercontent.com/u/118421108?s=72&u=3649fe32cadd64ad76722c8bea60c286510dd087&v=4" width="24" alt="Avatar of leoniliana"> leoniliana
@@ -7177,7 +7151,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/Elliam-Sanchez510">
 				<img src="https://avatars.githubusercontent.com/u/88247130?s=72&u=6283bebb05827cdb7303616d3583c4a8387734d4&v=4" width="24" alt="Avatar of Elliam-Sanchez510"> Elliam-Sanchez510
@@ -7190,20 +7164,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/StitchDevCode">
-				<img src="https://avatars.githubusercontent.com/u/158619543?s=72&u=823e30d35713118257835247e53372198ae6771b&v=4" width="24" alt="Avatar of StitchDevCode"> StitchDevCode
-			</a><br/>
-			Alguien llamado Yi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>547</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/AlejandroNieto-DAM">
 				<img src="https://avatars.githubusercontent.com/u/44866102?s=72&u=4aefdade303fb73e21bb0a45e6cf46df919256a4&v=4" width="24" alt="Avatar of AlejandroNieto-DAM"> AlejandroNieto-DAM
@@ -7216,7 +7177,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/pabloglezs">
 				<img src="https://avatars.githubusercontent.com/u/17450217?s=72&u=50117628cb542376178bd5ff7023293a8b01c707&v=4" width="24" alt="Avatar of pabloglezs"> pabloglezs
@@ -7229,7 +7190,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/ciherraiz">
 				<img src="https://avatars.githubusercontent.com/u/1466044?s=72&u=104bdf6641024069675ad26f0dfc2c1f4d5a3d51&v=4" width="24" alt="Avatar of ciherraiz"> ciherraiz
@@ -7242,7 +7203,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/AlbertoRSN">
 				<img src="https://avatars.githubusercontent.com/u/14915460?s=72&u=8e288c6c13e1262bef589ab3d3d162cb65d7b873&v=4" width="24" alt="Avatar of AlbertoRSN"> AlbertoRSN
@@ -7255,7 +7216,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/pmrt">
 				<img src="https://avatars.githubusercontent.com/u/22831717?s=72&u=32676396369c2aafde6c94477f7dd57df6e65f37&v=4" width="24" alt="Avatar of pmrt"> pmrt
@@ -7268,7 +7229,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/LaurenceM10">
 				<img src="https://avatars.githubusercontent.com/u/13529689?s=72&u=f1c1d4304b9a7feda744d3d3a3b9c41b9e542302&v=4" width="24" alt="Avatar of LaurenceM10"> LaurenceM10
@@ -7281,7 +7242,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/marcndev">
 				<img src="https://avatars.githubusercontent.com/u/3200844?s=72&u=87f48620a951632fe86a538f09f78e8a0ae9688a&v=4" width="24" alt="Avatar of marcndev"> marcndev
@@ -7294,7 +7255,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/drfrag666">
 				<img src="https://avatars.githubusercontent.com/u/26112290?s=72&u=30bc3f6b2759756372372ac4a9cf84d7d50caa9c&v=4" width="24" alt="Avatar of drfrag666"> drfrag666
@@ -7307,20 +7268,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/sergiogvz">
-				<img src="https://avatars.githubusercontent.com/u/9193243?s=72&u=029294123acc05f21925f34b01e01cbb906cd0bc&v=4" width="24" alt="Avatar of sergiogvz"> sergiogvz
-			</a><br/>
-			Sergio González Vázquez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>556</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/geolovic">
 				<img src="https://avatars.githubusercontent.com/u/21242618?s=72&u=8009cd3998aed02f50706496b9dedb6d81e7b6bd&v=4" width="24" alt="Avatar of geolovic"> geolovic
@@ -7333,7 +7281,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/sergiogvz">
+				<img src="https://avatars.githubusercontent.com/u/9193243?s=72&u=029294123acc05f21925f34b01e01cbb906cd0bc&v=4" width="24" alt="Avatar of sergiogvz"> sergiogvz
+			</a><br/>
+			Sergio González Vázquez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/bytevictor">
 				<img src="https://avatars.githubusercontent.com/u/40628731?s=72&u=1a5609226554babcbecb569d6054a7240218a610&v=4" width="24" alt="Avatar of bytevictor"> bytevictor
@@ -7346,7 +7307,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/SturmPika">
 				<img src="https://avatars.githubusercontent.com/u/115182081?s=72&u=6fb68d799a9327eef8899f8cc7b669db3c03201c&v=4" width="24" alt="Avatar of SturmPika"> SturmPika
@@ -7359,7 +7320,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/Luichix">
 				<img src="https://avatars.githubusercontent.com/u/73667747?s=72&v=4" width="24" alt="Avatar of Luichix"> Luichix
@@ -7372,7 +7333,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/stardusther">
 				<img src="https://avatars.githubusercontent.com/u/29974046?s=72&u=0b88e4ce760978d25a4c1160e18ec86eebe3eb1f&v=4" width="24" alt="Avatar of stardusther"> stardusther
@@ -7385,7 +7346,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/Nastard">
 				<img src="https://avatars.githubusercontent.com/u/5518169?s=72&u=75a82820eddd553dbd1232f62049bc8d6288d502&v=4" width="24" alt="Avatar of Nastard"> Nastard
@@ -7398,7 +7359,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/JeG99">
+				<img src="https://avatars.githubusercontent.com/u/43384949?s=72&u=52468d84bbccad0a886713b981674514421e0b3e&v=4" width="24" alt="Avatar of JeG99"> JeG99
+			</a><br/>
+			Elías Garza
+		</td>
+		<td>Kalypso: A Rockwell Automation<br/>Business<br/></td>
+		<td>No Twitter Username</td>
+		<td>Monterrey, Nuevo Leon, Mexico</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/AmadorCarlos">
 				<img src="https://avatars.githubusercontent.com/u/22405824?s=72&u=d111687d2edff9fe156cd6cd2b3f106bb8073415&v=4" width="24" alt="Avatar of AmadorCarlos"> AmadorCarlos
@@ -7411,7 +7385,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/leoelcoder">
 				<img src="https://avatars.githubusercontent.com/u/8742004?s=72&u=26e37389e8e920119ee11044ed6b69ea9e59ea3a&v=4" width="24" alt="Avatar of leoelcoder"> leoelcoder
@@ -7424,7 +7398,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/dlopezg">
 				<img src="https://avatars.githubusercontent.com/u/68898872?s=72&u=76a87384da97537d4d82dba62a6e8ddaf38af584&v=4" width="24" alt="Avatar of dlopezg"> dlopezg
@@ -7437,7 +7411,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/i4vk">
 				<img src="https://avatars.githubusercontent.com/u/28561922?s=72&u=a418dd67560f6b971bf936e26bb05db263270c65&v=4" width="24" alt="Avatar of i4vk"> i4vk
@@ -7450,7 +7424,20 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/StitchDevCode">
+				<img src="https://avatars.githubusercontent.com/u/158619543?s=72&u=823e30d35713118257835247e53372198ae6771b&v=4" width="24" alt="Avatar of StitchDevCode"> StitchDevCode
+			</a><br/>
+			Alguien llamado Yi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/RandyLowery">
 				<img src="https://avatars.githubusercontent.com/u/20528130?s=72&u=609f1b422f381ab687fd12609a69c0d89d449897&v=4" width="24" alt="Avatar of RandyLowery"> RandyLowery
@@ -7463,7 +7450,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/noise-kngdm">
 				<img src="https://avatars.githubusercontent.com/u/72474806?s=72&v=4" width="24" alt="Avatar of noise-kngdm"> noise-kngdm
@@ -7476,7 +7463,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/jrtrillo">
 				<img src="https://avatars.githubusercontent.com/u/9020154?s=72&u=37f0afccbd2a3cda86bd73b3e2729c93ee562c96&v=4" width="24" alt="Avatar of jrtrillo"> jrtrillo
@@ -7489,7 +7476,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/marcosmamg">
 				<img src="https://avatars.githubusercontent.com/u/1951032?s=72&u=0c50e81fab87e39330ffd060084b605aef670ce6&v=4" width="24" alt="Avatar of marcosmamg"> marcosmamg
@@ -7502,7 +7489,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/jonariv09">
 				<img src="https://avatars.githubusercontent.com/u/50531280?s=72&u=73d68f6e0be8d2a4283980ec7d1559dfc950b483&v=4" width="24" alt="Avatar of jonariv09"> jonariv09
@@ -7515,7 +7502,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/fcrperes">
 				<img src="https://avatars.githubusercontent.com/u/85242494?s=72&u=46416b60e022f021a92ae4f8ba65bdf05f3144e9&v=4" width="24" alt="Avatar of fcrperes"> fcrperes
@@ -7525,6 +7512,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>University Of Granada </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/maynor96">
+				<img src="https://avatars.githubusercontent.com/u/42222569?s=72&u=4d423d6bb3b934bf8c5ba4fc09021c16f1e2a0df&v=4" width="24" alt="Avatar of maynor96"> maynor96
+			</a><br/>
+			Maynor Peralta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8050,19 +8050,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>612</td>
 		<td>
-			<a href="https://github.com/nasivuela">
-				<img src="https://avatars.githubusercontent.com/u/8023938?s=72&u=dafb46b0777cd6facced8558cda461203b2bb2eb&v=4" width="24" alt="Avatar of nasivuela"> nasivuela
-			</a><br/>
-			Nasiba Carrasco Lanchas
-		</td>
-		<td>@adalab </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
 			<a href="https://github.com/linuxmel27">
 				<img src="https://avatars.githubusercontent.com/u/186744180?s=72&u=e46e259710c4cebf13c0dd5cb126079231b2b2fb&v=4" width="24" alt="Avatar of linuxmel27"> linuxmel27
 			</a><br/>
@@ -8071,6 +8058,19 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Leon, Nicaragua</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/nasivuela">
+				<img src="https://avatars.githubusercontent.com/u/8023938?s=72&u=dafb46b0777cd6facced8558cda461203b2bb2eb&v=4" width="24" alt="Avatar of nasivuela"> nasivuela
+			</a><br/>
+			Nasiba Carrasco Lanchas
+		</td>
+		<td>@adalab </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8167,19 +8167,6 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 	<tr>
 		<td>621</td>
 		<td>
-			<a href="https://github.com/NuberuSH">
-				<img src="https://avatars.githubusercontent.com/u/45773746?s=72&u=bbea2753311b44f13f93623b7325b43e7f917145&v=4" width="24" alt="Avatar of NuberuSH"> NuberuSH
-			</a><br/>
-			Nuberu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Andalucía</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>622</td>
-		<td>
 			<a href="https://github.com/aluruiz">
 				<img src="https://avatars.githubusercontent.com/u/32360877?s=72&u=e2c5da99b06e538a71637ac4e58183d5a5915e0a&v=4" width="24" alt="Avatar of aluruiz"> aluruiz
 			</a><br/>
@@ -8191,7 +8178,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/JunMoX140">
 				<img src="https://avatars.githubusercontent.com/u/115588140?s=72&v=4" width="24" alt="Avatar of JunMoX140"> JunMoX140
@@ -8204,7 +8191,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/Jeffzamora">
 				<img src="https://avatars.githubusercontent.com/u/92548079?s=72&u=521d9f730375391eb747ba43fe46f8115894d775&v=4" width="24" alt="Avatar of Jeffzamora"> Jeffzamora
@@ -8217,7 +8204,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/halfhalo">
 				<img src="https://avatars.githubusercontent.com/u/297083?s=72&v=4" width="24" alt="Avatar of halfhalo"> halfhalo
@@ -8230,7 +8217,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/jopime">
 				<img src="https://avatars.githubusercontent.com/u/11259848?s=72&u=a6a8b6360bf9c94432a9e03f207d97bb3d74794a&v=4" width="24" alt="Avatar of jopime"> jopime
@@ -8243,7 +8230,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/cotebarrientos">
 				<img src="https://avatars.githubusercontent.com/u/60189838?s=72&u=4c048f996aa3d1f07c6f2a73a90e07e2ef0803da&v=4" width="24" alt="Avatar of cotebarrientos"> cotebarrientos
@@ -8256,7 +8243,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/antOnioOnio">
 				<img src="https://avatars.githubusercontent.com/u/38163192?s=72&u=dab2b5632a64876b37a25dcc357518736f3f42b4&v=4" width="24" alt="Avatar of antOnioOnio"> antOnioOnio
@@ -8269,7 +8256,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/amiiit">
 				<img src="https://avatars.githubusercontent.com/u/2736813?s=72&u=eac06c79706b3eb1deb881655d36e5548b012332&v=4" width="24" alt="Avatar of amiiit"> amiiit
@@ -8282,7 +8269,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/mikel00per">
 				<img src="https://avatars.githubusercontent.com/u/26721529?s=72&u=6d2c5cb38e24b7b93f59989f57d9b1fa5db3bd1e&v=4" width="24" alt="Avatar of mikel00per"> mikel00per
@@ -8295,7 +8282,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/Maverick94">
 				<img src="https://avatars.githubusercontent.com/u/8240032?s=72&u=4641f75a8b6d8f9080d6053b62a87771e6939913&v=4" width="24" alt="Avatar of Maverick94"> Maverick94
@@ -8308,7 +8295,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/nachocabrero">
 				<img src="https://avatars.githubusercontent.com/u/30794623?s=72&v=4" width="24" alt="Avatar of nachocabrero"> nachocabrero
@@ -8321,7 +8308,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/frabelle">
 				<img src="https://avatars.githubusercontent.com/u/66578327?s=72&u=162342bfdedffc59ef7074ced60a736060577f7f&v=4" width="24" alt="Avatar of frabelle"> frabelle
@@ -8334,7 +8321,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/christmasv">
 				<img src="https://avatars.githubusercontent.com/u/5433084?s=72&u=70fd7d921c025fa1c47750fdd3707a65486ec1ff&v=4" width="24" alt="Avatar of christmasv"> christmasv
@@ -8347,7 +8334,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/alainrc2005">
 				<img src="https://avatars.githubusercontent.com/u/22861182?s=72&u=bb88eb96e4116a72e64071580c9d3349ea83f1b7&v=4" width="24" alt="Avatar of alainrc2005"> alainrc2005
@@ -8360,7 +8347,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/sotillo19">
 				<img src="https://avatars.githubusercontent.com/u/13612964?s=72&u=e103e2473260f5ca7952ea9f1c3887a91526e55c&v=4" width="24" alt="Avatar of sotillo19"> sotillo19
@@ -8373,20 +8360,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>637</td>
-		<td>
-			<a href="https://github.com/rociobm14">
-				<img src="https://avatars.githubusercontent.com/u/107961293?s=72&u=a5357bd41253dda4b5e2365e8b4c3bb41cef6b9e&v=4" width="24" alt="Avatar of rociobm14"> rociobm14
-			</a><br/>
-			Rocío Barragán Moreno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>638</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/pablomochon">
 				<img src="https://avatars.githubusercontent.com/u/92191371?s=72&u=e26ecf7a1ac1f67b28adcd5a8f96dd65dce26d3e&v=4" width="24" alt="Avatar of pablomochon"> pablomochon
@@ -8399,7 +8373,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/gmm96">
 				<img src="https://avatars.githubusercontent.com/u/14862931?s=72&u=d14e3f30c65f1d19fbcd8ede6cb192c700ab1bb3&v=4" width="24" alt="Avatar of gmm96"> gmm96
@@ -8412,7 +8386,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/timsterc">
 				<img src="https://avatars.githubusercontent.com/u/1156435?s=72&u=5afd850d4aa3d3cbddc384b91a05995fc3c154f1&v=4" width="24" alt="Avatar of timsterc"> timsterc
@@ -8425,7 +8399,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/C0d3Phys">
 				<img src="https://avatars.githubusercontent.com/u/17184376?s=72&u=eff44dbde0e8e69f34fc8266e0917749ca904122&v=4" width="24" alt="Avatar of C0d3Phys"> C0d3Phys
@@ -8438,7 +8412,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/ninioperdido">
 				<img src="https://avatars.githubusercontent.com/u/881381?s=72&u=5e7b82d372a8330e006b3da85945e62159aaff70&v=4" width="24" alt="Avatar of ninioperdido"> ninioperdido
@@ -8451,7 +8425,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/mmajewsky133">
 				<img src="https://avatars.githubusercontent.com/u/112455130?s=72&u=e51c259c412f81caffeb74ee722d4fc23f64609b&v=4" width="24" alt="Avatar of mmajewsky133"> mmajewsky133
@@ -8464,7 +8438,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/danimegar">
 				<img src="https://avatars.githubusercontent.com/u/24528466?s=72&u=a618736d499b2789f52fbd4d45f69601972c4b3f&v=4" width="24" alt="Avatar of danimegar"> danimegar
@@ -8477,7 +8451,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/unscharf">
 				<img src="https://avatars.githubusercontent.com/u/9388847?s=72&u=d1e1b5011c1bfd5c52973475e57409a57702e64b&v=4" width="24" alt="Avatar of unscharf"> unscharf
@@ -8490,7 +8464,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/SCR4T3">
 				<img src="https://avatars.githubusercontent.com/u/98050084?s=72&u=4b2e6c7ba2ca45292fe284b01f05bc3eaac2ba68&v=4" width="24" alt="Avatar of SCR4T3"> SCR4T3
@@ -8503,7 +8477,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/alfchee">
 				<img src="https://avatars.githubusercontent.com/u/1221258?s=72&v=4" width="24" alt="Avatar of alfchee"> alfchee
@@ -8516,7 +8490,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/carloshager">
 				<img src="https://avatars.githubusercontent.com/u/1054356?s=72&u=ebc71ac6b4cf59625d5fae196a6f22fcf13ec109&v=4" width="24" alt="Avatar of carloshager"> carloshager
@@ -8529,7 +8503,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/BT-Ramiel">
 				<img src="https://avatars.githubusercontent.com/u/51591314?s=72&u=686efe5f4c85f00e0715155ae5fae22dc997e0e1&v=4" width="24" alt="Avatar of BT-Ramiel"> BT-Ramiel
@@ -8542,20 +8516,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>650</td>
-		<td>
-			<a href="https://github.com/jotarMicael">
-				<img src="https://avatars.githubusercontent.com/u/55601826?s=72&u=4541508cee345f3f4bb64782df060e5f42030efc&v=4" width="24" alt="Avatar of jotarMicael"> jotarMicael
-			</a><br/>
-			Micael Jotar
-		</td>
-		<td>Jotarmicael@gmail.co </td>
-		<td>No Twitter Username</td>
-		<td>Avila, Castilla y Leon, Spain.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>651</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/Javi-Martinez-Lopez">
 				<img src="https://avatars.githubusercontent.com/u/112853494?s=72&u=6920852595c640992a1030bbed71c9716d167033&v=4" width="24" alt="Avatar of Javi-Martinez-Lopez"> Javi-Martinez-Lopez
@@ -8568,7 +8529,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/javier26galan">
 				<img src="https://avatars.githubusercontent.com/u/79644996?s=72&u=f035cf089eb8de88edb8f037b355913c10bab7b0&v=4" width="24" alt="Avatar of javier26galan"> javier26galan
@@ -8581,7 +8542,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/elotgamu">
 				<img src="https://avatars.githubusercontent.com/u/5704226?s=72&u=5d9177a7fc3bf304e7b411b4966ccdbec0cd0346&v=4" width="24" alt="Avatar of elotgamu"> elotgamu
@@ -8594,7 +8555,7 @@ There are `985 users`  in Nicaragua. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/0eDDarD0">
 				<img src="https://avatars.githubusercontent.com/u/93193057?s=72&u=98d9a82c710e184822efd2846dc2ca7dcb263a04&v=4" width="24" alt="Avatar of 0eDDarD0"> 0eDDarD0
