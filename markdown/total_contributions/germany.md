@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` and `private contributions` by users in Germany on `2025/9/14 11:57 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` and `private contributions` by users in Germany on `2025/9/15 12:11 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>20261</td>
-		<td>20261</td>
+		<td>20270</td>
+		<td>20270</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,8 +172,8 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>9759</td>
-		<td>14425</td>
+		<td>9729</td>
+		<td>14419</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -214,8 +214,8 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td>@nixos, @sapcc, @c3d2 </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>9497</td>
-		<td>9547</td>
+		<td>9498</td>
+		<td>9548</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -3112,8 +3112,8 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td>Germany/berlin </td>
 		<td><a href="https://twitter.com/zardaxt">zardaxt</a></td>
 		<td>Berlin</td>
-		<td>1499</td>
-		<td>1499</td>
+		<td>1500</td>
+		<td>1500</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -4317,7 +4317,7 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td><a href="https://twitter.com/foonathan">foonathan</a></td>
 		<td>Aachen, Germany</td>
 		<td>98</td>
-		<td>1066</td>
+		<td>1067</td>
 	</tr>
 	<tr>
 		<td>302</td>
@@ -6109,7 +6109,7 @@ There are `910 users`  in Germany. You need at least `337 followers` to be on th
 		<td><a href="https://twitter.com/sinusoidalen">sinusoidalen</a></td>
 		<td>Berlin, Germany</td>
 		<td>372</td>
-		<td>631</td>
+		<td>632</td>
 	</tr>
 	<tr>
 		<td>430</td>
