@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` by users in Tanzania on `2025/9/16 10:56 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` by users in Tanzania on `2025/9/16 11:05 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -973,7 +973,7 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>University Of Dar Es<br/>Salaam<br/></td>
 		<td><a href="https://twitter.com/brian_lemasani">brian_lemasani</a></td>
 		<td>Dar es salaam, Tanzania</td>
-		<td>333</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -4475,6 +4475,19 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 	<tr>
 		<td>337</td>
 		<td>
+			<a href="https://github.com/adomigold">
+				<img src="https://avatars.githubusercontent.com/u/43269396?s=72&u=1a7b546cb5eed90f9439bca71f37cfd06ca12662&v=4" width="24" alt="Avatar of adomigold"> adomigold
+			</a><br/>
+			Adolph Mapunda
+		</td>
+		<td>@adobus </td>
+		<td><a href="https://twitter.com/AdolphGasper1">AdolphGasper1</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
 			<a href="https://github.com/Ethan-Bit-256">
 				<img src="https://avatars.githubusercontent.com/u/79723001?s=72&u=a9052266cd623cf577f0c0c82f2880642261f608&v=4" width="24" alt="Avatar of Ethan-Bit-256"> Ethan-Bit-256
 			</a><br/>
@@ -4486,7 +4499,7 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/emmanuelhuruma">
 				<img src="https://avatars.githubusercontent.com/u/70777661?s=72&u=5ce82b802221599fa312f222dc51404e8064a179&v=4" width="24" alt="Avatar of emmanuelhuruma"> emmanuelhuruma
@@ -4499,7 +4512,7 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/nasby18">
 				<img src="https://avatars.githubusercontent.com/u/75318704?s=72&v=4" width="24" alt="Avatar of nasby18"> nasby18
@@ -4512,7 +4525,7 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/AbuuYaziyd">
 				<img src="https://avatars.githubusercontent.com/u/55982425?s=72&u=f2004b1c8751ee00effea7e61088a7ee7049074e&v=4" width="24" alt="Avatar of AbuuYaziyd"> AbuuYaziyd
@@ -4522,19 +4535,6 @@ There are `936 users`  in Tanzania. You need at least `6 followers` to be on thi
 		<td>@abouyaziyd </td>
 		<td><a href="https://twitter.com/abouyaziyd">abouyaziyd</a></td>
 		<td>Tanzania</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/adomigold">
-				<img src="https://avatars.githubusercontent.com/u/43269396?s=72&u=1a7b546cb5eed90f9439bca71f37cfd06ca12662&v=4" width="24" alt="Avatar of adomigold"> adomigold
-			</a><br/>
-			Adolph Mapunda
-		</td>
-		<td>@adobus </td>
-		<td><a href="https://twitter.com/AdolphGasper1">AdolphGasper1</a></td>
-		<td>Dar es salaam, Tanzania</td>
 		<td>31</td>
 	</tr>
 	<tr>
