@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` by users in Bolivia on `2025/9/16 10:27 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` by users in Bolivia on `2025/9/16 10:37 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -154,7 +154,7 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Fairese Technologies </td>
 		<td><a href="https://twitter.com/AndyIbanezK">AndyIbanezK</a></td>
 		<td>Bolivia</td>
-		<td>1913</td>
+		<td>1914</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1589,6 +1589,19 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>115</td>
 		<td>
+			<a href="https://github.com/asosab">
+				<img src="https://avatars.githubusercontent.com/u/491253?s=72&u=cc45576148914ae9a143cc7290eaa2b876c39f37&v=4" width="24" alt="Avatar of asosab"> asosab
+			</a><br/>
+			Alejandro Sosa Briceño
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/asosab">asosab</a></td>
+		<td>Bolivia</td>
+		<td>200</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a href="https://github.com/KendCode">
 				<img src="https://avatars.githubusercontent.com/u/178251682?s=72&u=86ed257bbc0e832021416ddc59b1eb2c9dce8c9e&v=4" width="24" alt="Avatar of KendCode"> KendCode
 			</a><br/>
@@ -1598,19 +1611,6 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>La Paz - Bolivia</td>
 		<td>200</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/asosab">
-				<img src="https://avatars.githubusercontent.com/u/491253?s=72&u=cc45576148914ae9a143cc7290eaa2b876c39f37&v=4" width="24" alt="Avatar of asosab"> asosab
-			</a><br/>
-			Alejandro Sosa Briceño
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/asosab">asosab</a></td>
-		<td>Bolivia</td>
-		<td>199</td>
 	</tr>
 	<tr>
 		<td>117</td>

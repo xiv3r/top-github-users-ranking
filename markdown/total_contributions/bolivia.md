@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` and `private contributions` by users in Bolivia on `2025/9/16 10:27 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` and `private contributions` by users in Bolivia on `2025/9/16 10:37 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -326,8 +326,8 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Fairese Technologies </td>
 		<td><a href="https://twitter.com/AndyIbanezK">AndyIbanezK</a></td>
 		<td>Bolivia</td>
-		<td>1913</td>
-		<td>2042</td>
+		<td>1914</td>
+		<td>2043</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -621,7 +621,7 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td><a href="https://twitter.com/iamatachyon">iamatachyon</a></td>
 		<td>Bolivia</td>
 		<td>185</td>
-		<td>1470</td>
+		<td>1473</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -2810,20 +2810,6 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>194</td>
 		<td>
-			<a href="https://github.com/EllieT7">
-				<img src="https://avatars.githubusercontent.com/u/87090365?s=72&u=44e1d9e11a171841510317084af54d0c67d7d971&v=4" width="24" alt="Avatar of EllieT7"> EllieT7
-			</a><br/>
-			Elizabeth Naomi Tacachira
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>18</td>
-		<td>312</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
 			<a href="https://github.com/sergiombdev">
 				<img src="https://avatars.githubusercontent.com/u/34431828?s=72&v=4" width="24" alt="Avatar of sergiombdev"> sergiombdev
 			</a><br/>
@@ -2833,6 +2819,20 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>0</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/EllieT7">
+				<img src="https://avatars.githubusercontent.com/u/87090365?s=72&u=44e1d9e11a171841510317084af54d0c67d7d971&v=4" width="24" alt="Avatar of EllieT7"> EllieT7
+			</a><br/>
+			Elizabeth Naomi Tacachira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>18</td>
 		<td>312</td>
 	</tr>
 	<tr>
@@ -3664,6 +3664,20 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>255</td>
 		<td>
+			<a href="https://github.com/asosab">
+				<img src="https://avatars.githubusercontent.com/u/491253?s=72&u=cc45576148914ae9a143cc7290eaa2b876c39f37&v=4" width="24" alt="Avatar of asosab"> asosab
+			</a><br/>
+			Alejandro Sosa Briceño
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/asosab">asosab</a></td>
+		<td>Bolivia</td>
+		<td>200</td>
+		<td>200</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
 			<a href="https://github.com/KendCode">
 				<img src="https://avatars.githubusercontent.com/u/178251682?s=72&u=86ed257bbc0e832021416ddc59b1eb2c9dce8c9e&v=4" width="24" alt="Avatar of KendCode"> KendCode
 			</a><br/>
@@ -3676,7 +3690,7 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/jcanaviri42">
 				<img src="https://avatars.githubusercontent.com/u/31946002?s=72&u=77e8db2002a23596de603349166aed6022a0d8bf&v=4" width="24" alt="Avatar of jcanaviri42"> jcanaviri42
@@ -3688,20 +3702,6 @@ There are `968 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Sucre, Bolivia</td>
 		<td>63</td>
 		<td>200</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/asosab">
-				<img src="https://avatars.githubusercontent.com/u/491253?s=72&u=cc45576148914ae9a143cc7290eaa2b876c39f37&v=4" width="24" alt="Avatar of asosab"> asosab
-			</a><br/>
-			Alejandro Sosa Briceño
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/asosab">asosab</a></td>
-		<td>Bolivia</td>
-		<td>199</td>
-		<td>199</td>
 	</tr>
 	<tr>
 		<td>258</td>
