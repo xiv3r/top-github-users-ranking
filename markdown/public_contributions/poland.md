@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` by users in Poland on `2025/9/16 1:04 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` by users in Poland on `2025/9/16 1:49 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -310,7 +310,7 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>3357</td>
+		<td>3358</td>
 	</tr>
 	<tr>
 		<td>17</td>

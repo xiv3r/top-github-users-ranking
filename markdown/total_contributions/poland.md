@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` and `private contributions` by users in Poland on `2025/9/16 1:04 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` and `private contributions` by users in Poland on `2025/9/16 1:49 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -397,7 +397,7 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td><a href="https://twitter.com/findepi">findepi</a></td>
 		<td>Poland</td>
 		<td>853</td>
-		<td>4867</td>
+		<td>4870</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -606,8 +606,8 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>3357</td>
-		<td>3544</td>
+		<td>3358</td>
+		<td>3545</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -3043,7 +3043,7 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw, Poland</td>
 		<td>735</td>
-		<td>1110</td>
+		<td>1112</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3258,6 +3258,20 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 	<tr>
 		<td>226</td>
 		<td>
+			<a href="https://github.com/Wruczek">
+				<img src="https://avatars.githubusercontent.com/u/7156344?s=72&u=bc221ad0f295a792320d371e28c1c30a13ae0b48&v=4" width="24" alt="Avatar of Wruczek"> Wruczek
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>3</td>
+		<td>1062</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
 			<a href="https://github.com/marcinwojcik-dev">
 				<img src="https://avatars.githubusercontent.com/u/10526937?s=72&u=a2d9883b9ad7543e55f58eccf86b8efb2db621a0&v=4" width="24" alt="Avatar of marcinwojcik-dev"> marcinwojcik-dev
 			</a><br/>
@@ -3268,20 +3282,6 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td>Poland</td>
 		<td>895</td>
 		<td>1060</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/Wruczek">
-				<img src="https://avatars.githubusercontent.com/u/7156344?s=72&u=bc221ad0f295a792320d371e28c1c30a13ae0b48&v=4" width="24" alt="Avatar of Wruczek"> Wruczek
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>3</td>
-		<td>1058</td>
 	</tr>
 	<tr>
 		<td>228</td>

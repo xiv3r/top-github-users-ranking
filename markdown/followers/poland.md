@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `number of followers` of users in Poland on `2025/9/16 1:04 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `number of followers` of users in Poland on `2025/9/16 1:49 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `940 users`  in Poland. You need at least `82 followers` to be on this
 		<td>@nestjs  </td>
 		<td><a href="https://twitter.com/kammysliwiec">kammysliwiec</a></td>
 		<td>Poland</td>
-		<td>8354</td>
+		<td>8355</td>
 	</tr>
 	<tr>
 		<td>3</td>
