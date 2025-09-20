@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `public contributions` and `private contributions` by users in Mali on `2025/9/20 12:05 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `public contributions` and `private contributions` by users in Mali on `2025/9/20 1:46 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `571 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Bamako-Mali</td>
 		<td>263</td>
-		<td>1201</td>
+		<td>1202</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -495,7 +495,7 @@ There are `571 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>BAMAKO</td>
 		<td>7</td>
-		<td>419</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -606,8 +606,8 @@ There are `571 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mali(Bamako)</td>
-		<td>231</td>
-		<td>231</td>
+		<td>232</td>
+		<td>232</td>
 	</tr>
 	<tr>
 		<td>37</td>
