@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `public contributions` and `private contributions` by users in Venezuela on `2025/9/21 2:16 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `public contributions` and `private contributions` by users in Venezuela on `2025/9/21 2:53 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -705,7 +705,7 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>214</td>
-		<td>1934</td>
+		<td>1937</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -2832,8 +2832,8 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Caracas-Venezuela</td>
-		<td>534</td>
-		<td>567</td>
+		<td>535</td>
+		<td>568</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -5918,6 +5918,20 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 	<tr>
 		<td>416</td>
 		<td>
+			<a href="https://github.com/ivanovertime">
+				<img src="https://avatars.githubusercontent.com/u/20419834?s=72&u=f358d0b62645a08cf0eac4b5e77a3c123d337601&v=4" width="24" alt="Avatar of ivanovertime"> ivanovertime
+			</a><br/>
+			Ivan Alvarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>24</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a href="https://github.com/pedroobando">
 				<img src="https://avatars.githubusercontent.com/u/7023498?s=72&u=e84e9501aaa33568a1a4a62657401de70e738538&v=4" width="24" alt="Avatar of pedroobando"> pedroobando
 			</a><br/>
@@ -5930,7 +5944,7 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/jacksonpf1">
 				<img src="https://avatars.githubusercontent.com/u/83138568?s=72&u=213205c6d23da5f88de7eedb2125fdff1e9c689c&v=4" width="24" alt="Avatar of jacksonpf1"> jacksonpf1
@@ -5944,7 +5958,7 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/takove">
 				<img src="https://avatars.githubusercontent.com/u/15037291?s=72&u=14be872e0f977105828774e188257f383f5fea12&v=4" width="24" alt="Avatar of takove"> takove
@@ -5956,20 +5970,6 @@ There are `981 users`  in Venezuela. You need at least `10 followers` to be on t
 		<td>Venezuela</td>
 		<td>26</td>
 		<td>140</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/ivanovertime">
-				<img src="https://avatars.githubusercontent.com/u/20419834?s=72&u=f358d0b62645a08cf0eac4b5e77a3c123d337601&v=4" width="24" alt="Avatar of ivanovertime"> ivanovertime
-			</a><br/>
-			Ivan Alvarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>22</td>
-		<td>139</td>
 	</tr>
 	<tr>
 		<td>420</td>
