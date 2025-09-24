@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2025/9/24 9:49 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2025/9/24 10:05 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/horsicq">horsicq</a></td>
 		<td>Germany</td>
-		<td>88908</td>
+		<td>88933</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -258,7 +258,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>@materializeinc </td>
 		<td>No Twitter Username</td>
 		<td>Heidelberg, Germany</td>
-		<td>5636</td>
+		<td>5638</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -700,7 +700,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>2595</td>
+		<td>2596</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -882,7 +882,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/justinmk">justinmk</a></td>
 		<td>Berlin</td>
-		<td>2285</td>
+		<td>2286</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1142,7 +1142,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>@unkeyed </td>
 		<td><a href="https://twitter.com/chronark_">chronark_</a></td>
 		<td>Germany</td>
-		<td>1932</td>
+		<td>1933</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -2148,19 +2148,6 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/kakkoyun">
-				<img src="https://avatars.githubusercontent.com/u/536449?s=72&u=8eebfbf83f3dbc6d4aaa47f90a190d2e543abc4d&v=4" width="24" alt="Avatar of kakkoyun"> kakkoyun
-			</a><br/>
-			Kemal Akkoyun
-		</td>
-		<td>@datadog </td>
-		<td><a href="https://twitter.com/kakkoyun_me">kakkoyun_me</a></td>
-		<td>Berlin</td>
-		<td>1115</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
 			<a href="https://github.com/lcnr">
 				<img src="https://avatars.githubusercontent.com/u/29864074?s=72&u=133f9259e09c1bc34f6f4dd2451554472abddfff&v=4" width="24" alt="Avatar of lcnr"> lcnr
 			</a><br/>
@@ -2169,6 +2156,19 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
+		<td>1118</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/kakkoyun">
+				<img src="https://avatars.githubusercontent.com/u/536449?s=72&u=8eebfbf83f3dbc6d4aaa47f90a190d2e543abc4d&v=4" width="24" alt="Avatar of kakkoyun"> kakkoyun
+			</a><br/>
+			Kemal Akkoyun
+		</td>
+		<td>@datadog </td>
+		<td><a href="https://twitter.com/kakkoyun_me">kakkoyun_me</a></td>
+		<td>Berlin</td>
 		<td>1115</td>
 	</tr>
 	<tr>
@@ -2364,7 +2364,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dresden, Germany</td>
-		<td>1046</td>
+		<td>1047</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2377,7 +2377,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>Datadog, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Frankfurt, Germany</td>
-		<td>1038</td>
+		<td>1040</td>
 	</tr>
 	<tr>
 		<td>176</td>
