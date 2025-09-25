@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2025/9/23 11:59 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2025/9/25 10:58 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -154,7 +154,7 @@ There are `356 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>256 Llc </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>67</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1706,14 +1706,14 @@ There are `356 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/truthlifek">
-				<img src="https://avatars.githubusercontent.com/u/68511721?s=72&v=4" width="24" alt="Avatar of truthlifek"> truthlifek
+			<a href="https://github.com/2020medsellufbc22172">
+				<img src="https://avatars.githubusercontent.com/u/61737797?s=72&u=b5bb9a8b80a91686d5bf9043d53041d1e7c3c9ce&v=4" width="24" alt="Avatar of 2020medsellufbc22172"> 2020medsellufbc22172
 			</a><br/>
-			Edison Immanuel Korgay
+			Mohamed Sellu
 		</td>
-		<td>Life </td>
-		<td><a href="https://twitter.com/bezyEddie">bezyEddie</a></td>
-		<td>Freetown Sierra Leone</td>
+		<td>Fourah Bay College </td>
+		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1732,14 +1732,14 @@ There are `356 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>126</td>
 		<td>
-			<a href="https://github.com/2020medsellufbc22172">
-				<img src="https://avatars.githubusercontent.com/u/61737797?s=72&u=b5bb9a8b80a91686d5bf9043d53041d1e7c3c9ce&v=4" width="24" alt="Avatar of 2020medsellufbc22172"> 2020medsellufbc22172
+			<a href="https://github.com/truthlifek">
+				<img src="https://avatars.githubusercontent.com/u/68511721?s=72&v=4" width="24" alt="Avatar of truthlifek"> truthlifek
 			</a><br/>
-			Mohamed Sellu
+			Edison Immanuel Korgay
 		</td>
-		<td>Fourah Bay College </td>
-		<td>No Twitter Username</td>
-		<td>Freetown, Sierra Leone</td>
+		<td>Life </td>
+		<td><a href="https://twitter.com/bezyEddie">bezyEddie</a></td>
+		<td>Freetown Sierra Leone</td>
 		<td>2</td>
 	</tr>
 	<tr>
