@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` and `private contributions` by users in Italy on `2025/9/25 4:55 AM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` and `private contributions` by users in Italy on `2025/9/25 5:06 AM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `950 users`  in Italy. You need at least `92 followers` to be on this 
 		<td>Fbk </td>
 		<td><a href="https://twitter.com/napo">napo</a></td>
 		<td>Trento, Italy</td>
-		<td>40672</td>
-		<td>40697</td>
+		<td>40674</td>
+		<td>40699</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -368,8 +368,8 @@ There are `950 users`  in Italy. You need at least `92 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>4502</td>
-		<td>4502</td>
+		<td>4503</td>
+		<td>4503</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -3560,8 +3560,8 @@ There are `950 users`  in Italy. You need at least `92 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>78</td>
-		<td>872</td>
+		<td>79</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3728,8 +3728,8 @@ There are `950 users`  in Italy. You need at least `92 followers` to be on this 
 		<td>Independent Consultant </td>
 		<td>No Twitter Username</td>
 		<td>Turin</td>
-		<td>30</td>
-		<td>825</td>
+		<td>31</td>
+		<td>826</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -7061,7 +7061,7 @@ There are `950 users`  in Italy. You need at least `92 followers` to be on this 
 		<td><a href="https://twitter.com/lucamassaron">lucamassaron</a></td>
 		<td>Verona, Italy</td>
 		<td>231</td>
-		<td>277</td>
+		<td>278</td>
 	</tr>
 	<tr>
 		<td>498</td>
