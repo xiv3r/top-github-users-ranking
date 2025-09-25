@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/9/23 10:57 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/9/25 9:52 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -154,7 +154,7 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@scmgroupspa </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>339</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -224,15 +224,15 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/CastFX">
-				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
+			<a href="https://github.com/MattiaSemproli">
+				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
 			</a><br/>
-			Chris
+			Mattia Semproli
 		</td>
-		<td>No Company</td>
+		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>62</td>
+		<td>Italy - San Marino</td>
+		<td>72</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -250,19 +250,6 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/MattiaSemproli">
-				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
-			</a><br/>
-			Mattia Semproli
-		</td>
-		<td>University Of Bologna </td>
-		<td>No Twitter Username</td>
-		<td>Italy - San Marino</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/nukedbit">
 				<img src="https://avatars.githubusercontent.com/u/1690316?s=72&u=c86416d10d656ac335926a00ef3301115ecca617&v=4" width="24" alt="Avatar of nukedbit"> nukedbit
 			</a><br/>
@@ -272,6 +259,19 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/nukedbit">nukedbit</a></td>
 		<td>San Marino</td>
 		<td>44</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/CastFX">
+				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
+			</a><br/>
+			Chris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -297,7 +297,7 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Ukrainian Ethno Dump </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>30</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -562,19 +562,6 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/eneaextera">
-				<img src="https://avatars.githubusercontent.com/u/4630216?s=72&u=25156e3dcc2d0cac70ac197252e3d17d7b6c09e3&v=4" width="24" alt="Avatar of eneaextera"> eneaextera
-			</a><br/>
-			Enea
-		</td>
-		<td>Extera - Make It<br/>Web<br/></td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/ewb-kmok">
 				<img src="https://avatars.githubusercontent.com/u/191641397?s=72&u=c02bd73ed062b54f46afc81c043ca11ef3906573&v=4" width="24" alt="Avatar of ewb-kmok"> ewb-kmok
 			</a><br/>
@@ -583,6 +570,19 @@ There are `133 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>East West Bank </td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/eneaextera">
+				<img src="https://avatars.githubusercontent.com/u/4630216?s=72&u=25156e3dcc2d0cac70ac197252e3d17d7b6c09e3&v=4" width="24" alt="Avatar of eneaextera"> eneaextera
+			</a><br/>
+			Enea
+		</td>
+		<td>Extera - Make It<br/>Web<br/></td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>2</td>
 	</tr>
 	<tr>
