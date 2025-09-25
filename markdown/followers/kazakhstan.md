@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `number of followers` of users in Kazakhstan on `2025/9/22 7:39 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `number of followers` of users in Kazakhstan on `2025/9/25 7:00 AM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>@travelping  </td>
 		<td><a href="https://twitter.com/0xAX">0xAX</a></td>
 		<td>Kazakhstan, Astana</td>
-		<td>3486</td>
+		<td>3490</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Astana</td>
-		<td>501</td>
+		<td>502</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -206,7 +206,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Wonk </td>
 		<td>No Twitter Username</td>
 		<td>Astana, Kazakhstan</td>
-		<td>429</td>
+		<td>428</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Almaty</td>
-		<td>422</td>
+		<td>419</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Fsoky Community </td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
-		<td>381</td>
+		<td>379</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>335</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,7 +284,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Al-farabi Kazakh National University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh & Kazakhstan</td>
-		<td>295</td>
+		<td>296</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -310,7 +310,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>288</td>
+		<td>289</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -362,7 +362,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Semey</td>
-		<td>250</td>
+		<td>251</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -388,7 +388,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Nazarbayev University </td>
 		<td><a href="https://twitter.com/ironsoul0">ironsoul0</a></td>
 		<td>Astana, Kazakhstan</td>
-		<td>217</td>
+		<td>218</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -440,7 +440,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Peerigon Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Kostanay, Kazakhstan</td>
-		<td>156</td>
+		<td>157</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -466,7 +466,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Almaty</td>
-		<td>150</td>
+		<td>152</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -510,19 +510,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/paulpogoda">
-				<img src="https://avatars.githubusercontent.com/u/170966925?s=72&u=c7306c0f4ba912883d618ccce29cea282be94062&v=4" width="24" alt="Avatar of paulpogoda"> paulpogoda
-			</a><br/>
-			Pavel Bannikov
-		</td>
-		<td>Provereno.media </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
 			<a href="https://github.com/onl1ner">
 				<img src="https://avatars.githubusercontent.com/u/45308586?s=72&u=722463b0022a154652bb39721b13c5f522b8ee0a&v=4" width="24" alt="Avatar of onl1ner"> onl1ner
 			</a><br/>
@@ -531,6 +518,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Astana, Kazakhstan</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/paulpogoda">
+				<img src="https://avatars.githubusercontent.com/u/170966925?s=72&u=c7306c0f4ba912883d618ccce29cea282be94062&v=4" width="24" alt="Avatar of paulpogoda"> paulpogoda
+			</a><br/>
+			Pavel Bannikov
+		</td>
+		<td>Provereno.media </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
 		<td>123</td>
 	</tr>
 	<tr>
@@ -588,19 +588,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/rodion-m">
-				<img src="https://avatars.githubusercontent.com/u/36400912?s=72&u=d691c2dd23876d32da47ad027521eb0df18c14a9&v=4" width="24" alt="Avatar of rodion-m"> rodion-m
-			</a><br/>
-			Rodion Mostovoi
-		</td>
-		<td>@codealive-ai  </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/zoekurtzer">
 				<img src="https://avatars.githubusercontent.com/u/190605412?s=72&u=bb067af06fd876cf70b93d653f17fccd8864098b&v=4" width="24" alt="Avatar of zoekurtzer"> zoekurtzer
 			</a><br/>
@@ -609,6 +596,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chicago / Almaty</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/rodion-m">
+				<img src="https://avatars.githubusercontent.com/u/36400912?s=72&u=d691c2dd23876d32da47ad027521eb0df18c14a9&v=4" width="24" alt="Avatar of rodion-m"> rodion-m
+			</a><br/>
+			Rodion Mostovoi
+		</td>
+		<td>@codealive-ai  </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>108</td>
 	</tr>
 	<tr>
@@ -627,6 +627,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/ce0th">
+				<img src="https://avatars.githubusercontent.com/u/45222492?s=72&v=4" width="24" alt="Avatar of ce0th"> ce0th
+			</a><br/>
+			Serik Serikbay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazakhstan</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/Shevchik">
 				<img src="https://avatars.githubusercontent.com/u/1553020?s=72&u=7ef218fb4ef1d9f31bd8e62c6192c91c371a2a08&v=4" width="24" alt="Avatar of Shevchik"> Shevchik
 			</a><br/>
@@ -636,19 +649,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
 		<td>105</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/ce0th">
-				<img src="https://avatars.githubusercontent.com/u/45222492?s=72&v=4" width="24" alt="Avatar of ce0th"> ce0th
-			</a><br/>
-			Serik Serikbay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>104</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -661,7 +661,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
-		<td>97</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -765,7 +765,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Kbtu </td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
-		<td>90</td>
+		<td>91</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -874,18 +874,31 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/SultanOrazbayev">
-				<img src="https://avatars.githubusercontent.com/u/20208402?s=72&u=a4a0b0bef486283db73a5900da3e71922f2fabbe&v=4" width="24" alt="Avatar of SultanOrazbayev"> SultanOrazbayev
+			<a href="https://github.com/weeebdev">
+				<img src="https://avatars.githubusercontent.com/u/48881444?s=72&u=a2317274ce4b7c57e3c87e604e55595d65d02a2a&v=4" width="24" alt="Avatar of weeebdev"> weeebdev
 			</a><br/>
-			Sultan Orazbayev
+			Adil Akhmetov
 		</td>
-		<td>@cid-harvard </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Weeebdev@gmail.com </td>
+		<td><a href="https://twitter.com/weeebdev">weeebdev</a></td>
+		<td>Almaty</td>
 		<td>83</td>
 	</tr>
 	<tr>
 		<td>61</td>
+		<td>
+			<a href="https://github.com/JustSeme">
+				<img src="https://avatars.githubusercontent.com/u/81112954?s=72&u=3089ec54f8d79ad5d3c04cb9d22de5fe0ce91132&v=4" width="24" alt="Avatar of JustSeme"> JustSeme
+			</a><br/>
+			Semyon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Karaganda, Kazakhstan</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/ltwmori">
 				<img src="https://avatars.githubusercontent.com/u/56842208?s=72&u=2177fa804b014afa36a69b5efe7c89db9d72ac28&v=4" width="24" alt="Avatar of ltwmori"> ltwmori
@@ -898,7 +911,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/SultanOrazbayev">
+				<img src="https://avatars.githubusercontent.com/u/20208402?s=72&u=a4a0b0bef486283db73a5900da3e71922f2fabbe&v=4" width="24" alt="Avatar of SultanOrazbayev"> SultanOrazbayev
+			</a><br/>
+			Sultan Orazbayev
+		</td>
+		<td>@cid-harvard </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/alexeiva">
 				<img src="https://avatars.githubusercontent.com/u/16634089?s=72&u=af27bd2c9e7ef432527ca7e5819153ee50a8338b&v=4" width="24" alt="Avatar of alexeiva"> alexeiva
@@ -911,46 +937,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/weeebdev">
-				<img src="https://avatars.githubusercontent.com/u/48881444?s=72&u=a2317274ce4b7c57e3c87e604e55595d65d02a2a&v=4" width="24" alt="Avatar of weeebdev"> weeebdev
-			</a><br/>
-			Adil Akhmetov
-		</td>
-		<td>Weeebdev@gmail.com </td>
-		<td><a href="https://twitter.com/weeebdev">weeebdev</a></td>
-		<td>Almaty</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/JustSeme">
-				<img src="https://avatars.githubusercontent.com/u/81112954?s=72&u=3089ec54f8d79ad5d3c04cb9d22de5fe0ce91132&v=4" width="24" alt="Avatar of JustSeme"> JustSeme
-			</a><br/>
-			Semyon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Karaganda, Kazakhstan</td>
-		<td>82</td>
-	</tr>
-	<tr>
 		<td>65</td>
-		<td>
-			<a href="https://github.com/ibrayandiyev">
-				<img src="https://avatars.githubusercontent.com/u/64599248?s=72&u=c5965cdae2f6f544f0633b7ed63109793b57ec15&v=4" width="24" alt="Avatar of ibrayandiyev"> ibrayandiyev
-			</a><br/>
-			Ibragim Yandiyev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>66</td>
 		<td>
 			<a href="https://github.com/DigitalGl">
 				<img src="https://avatars.githubusercontent.com/u/94446801?s=72&u=10a7155a23a00afd50cbf59b5c51a73fac54221d&v=4" width="24" alt="Avatar of DigitalGl"> DigitalGl
@@ -960,6 +947,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/ibrayandiyev">
+				<img src="https://avatars.githubusercontent.com/u/64599248?s=72&u=c5965cdae2f6f544f0633b7ed63109793b57ec15&v=4" width="24" alt="Avatar of ibrayandiyev"> ibrayandiyev
+			</a><br/>
+			Ibragim Yandiyev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
 		<td>81</td>
 	</tr>
 	<tr>
@@ -1121,6 +1121,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/shinovon">
+				<img src="https://avatars.githubusercontent.com/u/43963888?s=72&v=4" width="24" alt="Avatar of shinovon"> shinovon
+			</a><br/>
+			Arman Jussupgaliyev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/evgenyigumnov">
 				<img src="https://avatars.githubusercontent.com/u/10693931?s=72&u=f0cfae1542df3373ef489eaf04973fb1003bf0c4&v=4" width="24" alt="Avatar of evgenyigumnov"> evgenyigumnov
 			</a><br/>
@@ -1130,19 +1143,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
 		<td>72</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/shinovon">
-				<img src="https://avatars.githubusercontent.com/u/43963888?s=72&v=4" width="24" alt="Avatar of shinovon"> shinovon
-			</a><br/>
-			Arman Jussupgaliyev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>71</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1225,19 +1225,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>87</td>
 		<td>
-			<a href="https://github.com/novakand">
-				<img src="https://avatars.githubusercontent.com/u/45287302?s=72&u=346faad6d07d99e908ceb399ade20b5fd3b02afa&v=4" width="24" alt="Avatar of novakand"> novakand
-			</a><br/>
-			Andrey 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
 			<a href="https://github.com/VladimirFibe">
 				<img src="https://avatars.githubusercontent.com/u/30207409?s=72&u=fb3f0a6890337ae5a27e5956acc9249314552631&v=4" width="24" alt="Avatar of VladimirFibe"> VladimirFibe
 			</a><br/>
@@ -1249,7 +1236,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Nurbek-web">
 				<img src="https://avatars.githubusercontent.com/u/78167331?s=72&u=28bd902a42d4220041ecaf8a3885ab865083012b&v=4" width="24" alt="Avatar of Nurbek-web"> Nurbek-web
@@ -1262,7 +1249,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/Drewleks">
 				<img src="https://avatars.githubusercontent.com/u/41125867?s=72&u=ea5f2434c6eb1588538dc0b9aa9aea099d92145f&v=4" width="24" alt="Avatar of Drewleks"> Drewleks
@@ -1275,7 +1262,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/sorokin0andrey">
 				<img src="https://avatars.githubusercontent.com/u/3092044?s=72&u=121d51af19bcd7cd9d4843b46e4c6e66c34731aa&v=4" width="24" alt="Avatar of sorokin0andrey"> sorokin0andrey
@@ -1288,7 +1275,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/akidra4L">
 				<img src="https://avatars.githubusercontent.com/u/98634803?s=72&u=b4e85688d8ea163c200d50cb39dbaa59248d82c2&v=4" width="24" alt="Avatar of akidra4L"> akidra4L
@@ -1301,7 +1288,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/abdirakhman">
 				<img src="https://avatars.githubusercontent.com/u/35637379?s=72&v=4" width="24" alt="Avatar of abdirakhman"> abdirakhman
@@ -1314,7 +1301,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/4DA">
 				<img src="https://avatars.githubusercontent.com/u/364499?s=72&v=4" width="24" alt="Avatar of 4DA"> 4DA
@@ -1327,7 +1314,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/Lokki16">
 				<img src="https://avatars.githubusercontent.com/u/52448072?s=72&u=2e04a4e8aab06c7cd044f512b25c3007c9f57745&v=4" width="24" alt="Avatar of Lokki16"> Lokki16
@@ -1340,7 +1327,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/SafarSoFar">
 				<img src="https://avatars.githubusercontent.com/u/133248217?s=72&u=9921352db3a83c099a414fa3d5793b38ff2e8ff9&v=4" width="24" alt="Avatar of SafarSoFar"> SafarSoFar
@@ -1353,7 +1340,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/anfragment">
 				<img src="https://avatars.githubusercontent.com/u/63124320?s=72&u=a88d2e64833ddaa3955d4c9268785c5ab8874ffa&v=4" width="24" alt="Avatar of anfragment"> anfragment
@@ -1366,12 +1353,25 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/ScriptedSnark">
 				<img src="https://avatars.githubusercontent.com/u/51358194?s=72&u=1f5f3d369d4fea94d0ef92dc5c6c27430cde20bd&v=4" width="24" alt="Avatar of ScriptedSnark"> ScriptedSnark
 			</a><br/>
 			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/novakand">
+				<img src="https://avatars.githubusercontent.com/u/45287302?s=72&u=346faad6d07d99e908ceb399ade20b5fd3b02afa&v=4" width="24" alt="Avatar of novakand"> novakand
+			</a><br/>
+			Andrey 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1407,19 +1407,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>101</td>
 		<td>
-			<a href="https://github.com/wakeupkstnv">
-				<img src="https://avatars.githubusercontent.com/u/128675415?s=72&u=fb2cd6e72b1fdb81906b3eac8fc53be1259f2d9f&v=4" width="24" alt="Avatar of wakeupkstnv"> wakeupkstnv
-			</a><br/>
-			Tamirlan Kustanayev
-		</td>
-		<td>Kazakh-british Technical University </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
 			<a href="https://github.com/alerrad">
 				<img src="https://avatars.githubusercontent.com/u/61643969?s=72&u=d86a5d3fe12610fd362c97d9fab6578b4aeb2a7e&v=4" width="24" alt="Avatar of alerrad"> alerrad
 			</a><br/>
@@ -1428,6 +1415,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Astana It University </td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Astana</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/wakeupkstnv">
+				<img src="https://avatars.githubusercontent.com/u/128675415?s=72&u=fb2cd6e72b1fdb81906b3eac8fc53be1259f2d9f&v=4" width="24" alt="Avatar of wakeupkstnv"> wakeupkstnv
+			</a><br/>
+			Tamirlan Kustanayev
+		</td>
+		<td>Kazakh-british Technical University </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -1446,6 +1446,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/nomomon">
+				<img src="https://avatars.githubusercontent.com/u/56600275?s=72&u=a4106776bc41a323add33aa81c66a0953735cd75&v=4" width="24" alt="Avatar of nomomon"> nomomon
+			</a><br/>
+			Mansur Nurmukhambetov
+		</td>
+		<td>Researchable.nl </td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazakhstan</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/minmaxmean">
 				<img src="https://avatars.githubusercontent.com/u/12575900?s=72&u=83393d74566005e8237df9470540c3e29cdc54d5&v=4" width="24" alt="Avatar of minmaxmean"> minmaxmean
 			</a><br/>
@@ -1457,33 +1470,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/wsehl">
-				<img src="https://avatars.githubusercontent.com/u/47861945?s=72&u=c06a89ffb9d015d4567a66a6e3dba4fbae12304a&v=4" width="24" alt="Avatar of wsehl"> wsehl
-			</a><br/>
-			Alex
-		</td>
-		<td>Tradelink.pro </td>
-		<td><a href="https://twitter.com/sehlwx">sehlwx</a></td>
-		<td>Astana, Kazakhstan</td>
-		<td>61</td>
-	</tr>
-	<tr>
 		<td>106</td>
-		<td>
-			<a href="https://github.com/nomomon">
-				<img src="https://avatars.githubusercontent.com/u/56600275?s=72&u=a4106776bc41a323add33aa81c66a0953735cd75&v=4" width="24" alt="Avatar of nomomon"> nomomon
-			</a><br/>
-			Mansur Nurmukhambetov
-		</td>
-		<td>Researchable.nl </td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>107</td>
 		<td>
 			<a href="https://github.com/EraEKV">
 				<img src="https://avatars.githubusercontent.com/u/112917290?s=72&u=b9272b117248653abcf3afb6a227e840ee504399&v=4" width="24" alt="Avatar of EraEKV"> EraEKV
@@ -1496,7 +1483,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/Rahugg">
 				<img src="https://avatars.githubusercontent.com/u/88109946?s=72&u=3b2a7340b3827865fc3ba92a618de32bb42d9ea1&v=4" width="24" alt="Avatar of Rahugg"> Rahugg
@@ -1507,6 +1494,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
 		<td>61</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/wsehl">
+				<img src="https://avatars.githubusercontent.com/u/47861945?s=72&u=c06a89ffb9d015d4567a66a6e3dba4fbae12304a&v=4" width="24" alt="Avatar of wsehl"> wsehl
+			</a><br/>
+			Alex
+		</td>
+		<td>Tradelink.pro </td>
+		<td><a href="https://twitter.com/sehlwx">sehlwx</a></td>
+		<td>Astana, Kazakhstan</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1524,6 +1524,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>110</td>
 		<td>
+			<a href="https://github.com/Kairatzh">
+				<img src="https://avatars.githubusercontent.com/u/148870880?s=72&u=628cf0d6de712cda3fdc6ab91a4007c848cf3a34&v=4" width="24" alt="Avatar of Kairatzh"> Kairatzh
+			</a><br/>
+			kirtzh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Aktobe, Kazakhstan</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a href="https://github.com/Alua-Kinzhebayeva">
 				<img src="https://avatars.githubusercontent.com/u/3368528?s=72&u=888c1a4f4143038e9dc5fe96aced2ddf8d7d0e09&v=4" width="24" alt="Avatar of Alua-Kinzhebayeva"> Alua-Kinzhebayeva
 			</a><br/>
@@ -1535,7 +1548,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/KONAKONA666">
 				<img src="https://avatars.githubusercontent.com/u/22853221?s=72&u=3d91746c42c946265805491582ec871168b69761&v=4" width="24" alt="Avatar of KONAKONA666"> KONAKONA666
@@ -1548,7 +1561,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/uroboros-st36">
+				<img src="https://avatars.githubusercontent.com/u/230621597?s=72&u=dcfdc6a2896a34aa3cf38a82754eb19b7e796246&v=4" width="24" alt="Avatar of uroboros-st36"> uroboros-st36
+			</a><br/>
+			Serjik Akhmetov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poperechnoye, Kazakhstan</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/nurevs">
 				<img src="https://avatars.githubusercontent.com/u/38418257?s=72&u=e61bf88277d95e014e678bd11406334ac79e64af&v=4" width="24" alt="Avatar of nurevs"> nurevs
@@ -1561,7 +1587,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/theruziev">
 				<img src="https://avatars.githubusercontent.com/u/32102033?s=72&u=b602931bd7d3ffea967b25c8de4c871baa7cc3a0&v=4" width="24" alt="Avatar of theruziev"> theruziev
@@ -1574,7 +1600,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/adilzhapar">
 				<img src="https://avatars.githubusercontent.com/u/75822375?s=72&u=04329ffe221a67dccf60b27208ea2458dbb284fb&v=4" width="24" alt="Avatar of adilzhapar"> adilzhapar
@@ -1587,7 +1613,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/malikzh">
 				<img src="https://avatars.githubusercontent.com/u/34905549?s=72&u=30f087c7469bc95a7d9e435955536190c9298312&v=4" width="24" alt="Avatar of malikzh"> malikzh
@@ -1600,20 +1626,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/Kairatzh">
-				<img src="https://avatars.githubusercontent.com/u/148870880?s=72&u=628cf0d6de712cda3fdc6ab91a4007c848cf3a34&v=4" width="24" alt="Avatar of Kairatzh"> Kairatzh
-			</a><br/>
-			kirtzh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Aktobe, Kazakhstan</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/ixth">
 				<img src="https://avatars.githubusercontent.com/u/107447?s=72&v=4" width="24" alt="Avatar of ixth"> ixth
@@ -1623,19 +1636,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Open For Hire </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/uroboros-st36">
-				<img src="https://avatars.githubusercontent.com/u/230621597?s=72&u=dcfdc6a2896a34aa3cf38a82754eb19b7e796246&v=4" width="24" alt="Avatar of uroboros-st36"> uroboros-st36
-			</a><br/>
-			Serjik Akhmetov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poperechnoye, Kazakhstan</td>
 		<td>57</td>
 	</tr>
 	<tr>
@@ -1654,6 +1654,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>120</td>
 		<td>
+			<a href="https://github.com/CaptainFlint21">
+				<img src="https://avatars.githubusercontent.com/u/82401433?s=72&u=5c9bdee27b00b5fdae0a9ab42d5da6a4e55efb51&v=4" width="24" alt="Avatar of CaptainFlint21"> CaptainFlint21
+			</a><br/>
+			Flint
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ByKenzo21">ByKenzo21</a></td>
+		<td>140000 Kazakhstan Pavlodar 1st May st</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
 			<a href="https://github.com/naffiq">
 				<img src="https://avatars.githubusercontent.com/u/3990098?s=72&u=6dd6de69222ea303da4449ae9c2887505db5d27c&v=4" width="24" alt="Avatar of naffiq"> naffiq
 			</a><br/>
@@ -1665,7 +1678,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/D00mch">
 				<img src="https://avatars.githubusercontent.com/u/14236531?s=72&u=2d2548ed6c7fdb2cb290d444d65087a73789f05e&v=4" width="24" alt="Avatar of D00mch"> D00mch
@@ -1678,33 +1691,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/creewick">
-				<img src="https://avatars.githubusercontent.com/u/32510906?s=72&u=34ea1a51a28870962aeade0ae066b5f25996d4dd&v=4" width="24" alt="Avatar of creewick"> creewick
-			</a><br/>
-			Илья
-		</td>
-		<td>Ngtech </td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>55</td>
-	</tr>
-	<tr>
 		<td>123</td>
-		<td>
-			<a href="https://github.com/CaptainFlint21">
-				<img src="https://avatars.githubusercontent.com/u/82401433?s=72&u=5c9bdee27b00b5fdae0a9ab42d5da6a4e55efb51&v=4" width="24" alt="Avatar of CaptainFlint21"> CaptainFlint21
-			</a><br/>
-			Flint
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ByKenzo21">ByKenzo21</a></td>
-		<td>140000 Kazakhstan Pavlodar 1st May st</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>124</td>
 		<td>
 			<a href="https://github.com/ZhQriks">
 				<img src="https://avatars.githubusercontent.com/u/49629027?s=72&u=1655ea69925c229e7bfd395545af4ff6a20b4a71&v=4" width="24" alt="Avatar of ZhQriks"> ZhQriks
@@ -1714,6 +1701,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Owl Tribe </td>
 		<td>No Twitter Username</td>
 		<td>Astana, Kazakhstan</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/creewick">
+				<img src="https://avatars.githubusercontent.com/u/32510906?s=72&u=34ea1a51a28870962aeade0ae066b5f25996d4dd&v=4" width="24" alt="Avatar of creewick"> creewick
+			</a><br/>
+			Илья
+		</td>
+		<td>Ngtech </td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazakhstan</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -1784,6 +1784,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>130</td>
 		<td>
+			<a href="https://github.com/raspopov">
+				<img src="https://avatars.githubusercontent.com/u/228064?s=72&u=dec79ae7d10c5248fbcc882ea25ac82bd0e90d29&v=4" width="24" alt="Avatar of raspopov"> raspopov
+			</a><br/>
+			Nikolay Raspopov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
 			<a href="https://github.com/sadda11asm">
 				<img src="https://avatars.githubusercontent.com/u/28860442?s=72&u=daadffac547116678ebf6b5e4e9c31181a72a811&v=4" width="24" alt="Avatar of sadda11asm"> sadda11asm
 			</a><br/>
@@ -1793,19 +1806,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
 		<td>51</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/raspopov">
-				<img src="https://avatars.githubusercontent.com/u/228064?s=72&u=dec79ae7d10c5248fbcc882ea25ac82bd0e90d29&v=4" width="24" alt="Avatar of raspopov"> raspopov
-			</a><br/>
-			Nikolay Raspopov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -2031,6 +2031,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/dosarkz">
+				<img src="https://avatars.githubusercontent.com/u/6192403?s=72&u=e44cbdc1e40c144ffc086248e17adf5c594ccb33&v=4" width="24" alt="Avatar of dosarkz"> dosarkz
+			</a><br/>
+			Yerzh Hn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/d2r2">
 				<img src="https://avatars.githubusercontent.com/u/710233?s=72&u=88e7219d5cc5c91e5392f53a53e69889754583f1&v=4" width="24" alt="Avatar of d2r2"> d2r2
 			</a><br/>
@@ -2042,7 +2055,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/timursaurus">
+				<img src="https://avatars.githubusercontent.com/u/55909427?s=72&u=9737def32d6ec31af8494861fe51345965f474cf&v=4" width="24" alt="Avatar of timursaurus"> timursaurus
+			</a><br/>
+			Timur Bolotov
+		</td>
+		<td>@kaspi-kz </td>
+		<td><a href="https://twitter.com/timursaurus">timursaurus</a></td>
+		<td>Kazakhstan, Kyrgyzstan</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/Asylniet">
 				<img src="https://avatars.githubusercontent.com/u/71657767?s=72&u=7049730d4ff9da1d98a031b3815916838ee3da55&v=4" width="24" alt="Avatar of Asylniet"> Asylniet
@@ -2055,46 +2081,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/shoqqan">
-				<img src="https://avatars.githubusercontent.com/u/108088790?s=72&u=ea1200f1de81e116d80185a77cfb67ae5e3f7dec&v=4" width="24" alt="Avatar of shoqqan"> shoqqan
-			</a><br/>
-			Shoqan
-		</td>
-		<td>Bcc </td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/dosarkz">
-				<img src="https://avatars.githubusercontent.com/u/6192403?s=72&u=e44cbdc1e40c144ffc086248e17adf5c594ccb33&v=4" width="24" alt="Avatar of dosarkz"> dosarkz
-			</a><br/>
-			Yerzh Hn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
-		<td>43</td>
-	</tr>
-	<tr>
 		<td>153</td>
-		<td>
-			<a href="https://github.com/alexvereschagin">
-				<img src="https://avatars.githubusercontent.com/u/154673038?s=72&u=44efb1225c3f9fe8f1dc8d2520bb849e0a9656b4&v=4" width="24" alt="Avatar of alexvereschagin"> alexvereschagin
-			</a><br/>
-			Aleksandr
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vereschagin_al">vereschagin_al</a></td>
-		<td>Kazakhstan</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>154</td>
 		<td>
 			<a href="https://github.com/begenov">
 				<img src="https://avatars.githubusercontent.com/u/111171579?s=72&u=1dffeb749caa407274f96b7c1338349bc9f726ae&v=4" width="24" alt="Avatar of begenov"> begenov
@@ -2107,20 +2094,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/timursaurus">
-				<img src="https://avatars.githubusercontent.com/u/55909427?s=72&u=9737def32d6ec31af8494861fe51345965f474cf&v=4" width="24" alt="Avatar of timursaurus"> timursaurus
-			</a><br/>
-			Timur Bolotov
-		</td>
-		<td>@kaspi-kz </td>
-		<td><a href="https://twitter.com/timursaurus">timursaurus</a></td>
-		<td>Kazakhstan, Kyrgyzstan</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>156</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/aiqyyn1">
 				<img src="https://avatars.githubusercontent.com/u/103311446?s=72&u=71a63cb30e7bdcc79e6c6194a1391ea628de6e4b&v=4" width="24" alt="Avatar of aiqyyn1"> aiqyyn1
@@ -2133,7 +2107,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/Jesewe">
+				<img src="https://avatars.githubusercontent.com/u/81848878?s=72&u=155bdea183ffd67b9d131eee3aa72d070905d84c&v=4" width="24" alt="Avatar of Jesewe"> Jesewe
+			</a><br/>
+			ItsJesewe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/mikhailsdv">
 				<img src="https://avatars.githubusercontent.com/u/39059391?s=72&u=5ed4299d544dc1fa5b0c64c13124b4d5e2488c36&v=4" width="24" alt="Avatar of mikhailsdv"> mikhailsdv
@@ -2146,20 +2133,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>157</td>
 		<td>
-			<a href="https://github.com/Yuliya-Shamshiyeva">
-				<img src="https://avatars.githubusercontent.com/u/147943894?s=72&u=e5e7c4bf9bbb35760f6f0ef5b0ed2369c9a69f3a&v=4" width="24" alt="Avatar of Yuliya-Shamshiyeva"> Yuliya-Shamshiyeva
+			<a href="https://github.com/shoqqan">
+				<img src="https://avatars.githubusercontent.com/u/108088790?s=72&u=ea1200f1de81e116d80185a77cfb67ae5e3f7dec&v=4" width="24" alt="Avatar of shoqqan"> shoqqan
 			</a><br/>
-			Yuliya Shamshiyeva
+			Shoqan
 		</td>
-		<td>No Company</td>
+		<td>Bcc </td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Almaty, Kazakhstan</td>
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/Jateq">
 				<img src="https://avatars.githubusercontent.com/u/90255719?s=72&u=2ad73df14e9d08e5456194032c13292d567602a1&v=4" width="24" alt="Avatar of Jateq"> Jateq
@@ -2172,7 +2159,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/mrbelka12000">
 				<img src="https://avatars.githubusercontent.com/u/87807460?s=72&u=4488620ac14f42b92ee0b8c196980b3509fc3ca2&v=4" width="24" alt="Avatar of mrbelka12000"> mrbelka12000
@@ -2185,7 +2172,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/dossanalseiit">
 				<img src="https://avatars.githubusercontent.com/u/54891339?s=72&u=3213b5f78655bf767662d0519575d78df9691730&v=4" width="24" alt="Avatar of dossanalseiit"> dossanalseiit
@@ -2195,6 +2182,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Alem.school </td>
 		<td>No Twitter Username</td>
 		<td>Astana, Kazakhstan</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/alexvereschagin">
+				<img src="https://avatars.githubusercontent.com/u/154673038?s=72&u=44efb1225c3f9fe8f1dc8d2520bb849e0a9656b4&v=4" width="24" alt="Avatar of alexvereschagin"> alexvereschagin
+			</a><br/>
+			Aleksandr
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vereschagin_al">vereschagin_al</a></td>
+		<td>Kazakhstan</td>
 		<td>42</td>
 	</tr>
 	<tr>
@@ -2213,14 +2213,14 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>163</td>
 		<td>
-			<a href="https://github.com/Jesewe">
-				<img src="https://avatars.githubusercontent.com/u/81848878?s=72&u=155bdea183ffd67b9d131eee3aa72d070905d84c&v=4" width="24" alt="Avatar of Jesewe"> Jesewe
+			<a href="https://github.com/Aitugan">
+				<img src="https://avatars.githubusercontent.com/u/43519581?s=72&u=a4a127de5a7d102a0de1e1871ebb2e874ce254be&v=4" width="24" alt="Avatar of Aitugan"> Aitugan
 			</a><br/>
-			ItsJesewe
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Almaty, Kazakhstan</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -2265,6 +2265,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>167</td>
 		<td>
+			<a href="https://github.com/Yuliya-Shamshiyeva">
+				<img src="https://avatars.githubusercontent.com/u/147943894?s=72&u=e5e7c4bf9bbb35760f6f0ef5b0ed2369c9a69f3a&v=4" width="24" alt="Avatar of Yuliya-Shamshiyeva"> Yuliya-Shamshiyeva
+			</a><br/>
+			Yuliya Shamshiyeva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
 			<a href="https://github.com/binchik">
 				<img src="https://avatars.githubusercontent.com/u/2890356?s=72&u=a1d06868a001a39dc896f48105e23df415e5259a&v=4" width="24" alt="Avatar of binchik"> binchik
 			</a><br/>
@@ -2276,7 +2289,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/Jazeero">
 				<img src="https://avatars.githubusercontent.com/u/123235523?s=72&u=a9ff485e1b2713aa6a5c3918cc760012940cf703&v=4" width="24" alt="Avatar of Jazeero"> Jazeero
@@ -2289,7 +2302,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/zhzhussupovkz">
 				<img src="https://avatars.githubusercontent.com/u/2612539?s=72&u=44e727874eb2e81c6d6f1f6c3bbf6b3dc6a7f39e&v=4" width="24" alt="Avatar of zhzhussupovkz"> zhzhussupovkz
@@ -2302,7 +2315,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/CHNB128">
 				<img src="https://avatars.githubusercontent.com/u/26171209?s=72&u=fc6d9f67e3eea0e42f2c05ff9519bcaff41b9da6&v=4" width="24" alt="Avatar of CHNB128"> CHNB128
@@ -2312,19 +2325,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/Aitugan">
-				<img src="https://avatars.githubusercontent.com/u/43519581?s=72&u=a4a127de5a7d102a0de1e1871ebb2e874ce254be&v=4" width="24" alt="Avatar of Aitugan"> Aitugan
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -2356,6 +2356,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/monaxide">
+				<img src="https://avatars.githubusercontent.com/u/311499?s=72&u=eb098d10f03fbcc03b398e3e1c29cb7273b50aa0&v=4" width="24" alt="Avatar of monaxide"> monaxide
+			</a><br/>
+			Andrey Korablin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/Zharaskhan">
 				<img src="https://avatars.githubusercontent.com/u/14541244?s=72&v=4" width="24" alt="Avatar of Zharaskhan"> Zharaskhan
 			</a><br/>
@@ -2367,7 +2380,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/n31t">
 				<img src="https://avatars.githubusercontent.com/u/112765709?s=72&u=0b07946778550e2f6751ee16e056f96602f1bd2a&v=4" width="24" alt="Avatar of n31t"> n31t
@@ -2377,19 +2390,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Kbtu </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/nuromirzak">
-				<img src="https://avatars.githubusercontent.com/u/76807326?s=72&u=b412f1844b03c2c898e28c0e1f938ed48f84d869&v=4" width="24" alt="Avatar of nuromirzak"> nuromirzak
-			</a><br/>
-			Nurmukhammed
-		</td>
-		<td>@zimran-tech </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -2408,6 +2408,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>178</td>
 		<td>
+			<a href="https://github.com/nuromirzak">
+				<img src="https://avatars.githubusercontent.com/u/76807326?s=72&u=b412f1844b03c2c898e28c0e1f938ed48f84d869&v=4" width="24" alt="Avatar of nuromirzak"> nuromirzak
+			</a><br/>
+			Nurmukhammed
+		</td>
+		<td>@zimran-tech </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
 			<a href="https://github.com/baza04">
 				<img src="https://avatars.githubusercontent.com/u/53087797?s=72&u=af1030de63398e63011385ab1bfd69f9632b7d0a&v=4" width="24" alt="Avatar of baza04"> baza04
 			</a><br/>
@@ -2419,7 +2432,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/demilloncenc">
 				<img src="https://avatars.githubusercontent.com/u/104193905?s=72&u=e2ff9f9985373295848189032dab8ea5d466732f&v=4" width="24" alt="Avatar of demilloncenc"> demilloncenc
@@ -2429,19 +2442,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/monaxide">
-				<img src="https://avatars.githubusercontent.com/u/311499?s=72&u=eb098d10f03fbcc03b398e3e1c29cb7273b50aa0&v=4" width="24" alt="Avatar of monaxide"> monaxide
-			</a><br/>
-			Andrey Korablin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -3110,6 +3110,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>232</td>
 		<td>
+			<a href="https://github.com/yerass11">
+				<img src="https://avatars.githubusercontent.com/u/113098449?s=72&u=c891a99fae3213b6fad6a1d01b15f7218f7c5d01&v=4" width="24" alt="Avatar of yerass11"> yerass11
+			</a><br/>
+			Yerassyl Saiman
+		</td>
+		<td>1fit </td>
+		<td><a href="https://twitter.com/yerass11">yerass11</a></td>
+		<td>Almaty, Kazakhstan</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a href="https://github.com/maxtheaxe">
 				<img src="https://avatars.githubusercontent.com/u/20795292?s=72&u=0cae7cd33ff1e9c7d2cb61df6411b9d8bc203a55&v=4" width="24" alt="Avatar of maxtheaxe"> maxtheaxe
 			</a><br/>
@@ -3121,7 +3134,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/julbrn">
 				<img src="https://avatars.githubusercontent.com/u/99842668?s=72&u=7f2ae1ae6803bb88a0dec08b8276f5a5fac4cca4&v=4" width="24" alt="Avatar of julbrn"> julbrn
@@ -3134,7 +3147,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/Okarix">
 				<img src="https://avatars.githubusercontent.com/u/93129221?s=72&u=7c8a6daa9d86716bf9246befd399e56ad54f7eda&v=4" width="24" alt="Avatar of Okarix"> Okarix
@@ -3147,7 +3160,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/leotrubach">
 				<img src="https://avatars.githubusercontent.com/u/890689?s=72&u=95714439443bbee27b3457345605f391c4e86e36&v=4" width="24" alt="Avatar of leotrubach"> leotrubach
@@ -3160,7 +3173,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/crayxt">
 				<img src="https://avatars.githubusercontent.com/u/33132?s=72&v=4" width="24" alt="Avatar of crayxt"> crayxt
@@ -3173,7 +3186,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/trdln">
 				<img src="https://avatars.githubusercontent.com/u/78026760?s=72&u=a486395c05b68919547139abb62c71c11892251f&v=4" width="24" alt="Avatar of trdln"> trdln
@@ -3186,7 +3199,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/petr-korobeinikov">
 				<img src="https://avatars.githubusercontent.com/u/225952?s=72&u=921c86f7e45d87045091cb526c4201e8c23515e7&v=4" width="24" alt="Avatar of petr-korobeinikov"> petr-korobeinikov
@@ -3199,7 +3212,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/tzheldibayev">
+				<img src="https://avatars.githubusercontent.com/u/23218636?s=72&v=4" width="24" alt="Avatar of tzheldibayev"> tzheldibayev
+			</a><br/>
+			Talgat Zheldibayev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/saubakirov">
 				<img src="https://avatars.githubusercontent.com/u/2966884?s=72&v=4" width="24" alt="Avatar of saubakirov"> saubakirov
@@ -3212,7 +3238,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/greekbookhero">
 				<img src="https://avatars.githubusercontent.com/u/32012362?s=72&u=bab0b9091fb33c7340d60144f24ab8b3ab10e058&v=4" width="24" alt="Avatar of greekbookhero"> greekbookhero
@@ -3225,7 +3251,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/snaprick">
 				<img src="https://avatars.githubusercontent.com/u/65305282?s=72&u=7bc9dd75e1f02827c1d14743ed5269453444f80a&v=4" width="24" alt="Avatar of snaprick"> snaprick
@@ -3238,7 +3264,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/psvantares">
 				<img src="https://avatars.githubusercontent.com/u/23334713?s=72&u=8ded02c50a6fd3090a9ec3e4e61dc1581865903b&v=4" width="24" alt="Avatar of psvantares"> psvantares
@@ -3251,7 +3277,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/yerkimbekov">
 				<img src="https://avatars.githubusercontent.com/u/37952414?s=72&v=4" width="24" alt="Avatar of yerkimbekov"> yerkimbekov
@@ -3264,7 +3290,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/tynyshtyq">
 				<img src="https://avatars.githubusercontent.com/u/57841128?s=72&u=eff0ee4afdcef2c615972804006f6b57c15a7e26&v=4" width="24" alt="Avatar of tynyshtyq"> tynyshtyq
@@ -3277,7 +3303,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/krivalex">
 				<img src="https://avatars.githubusercontent.com/u/8289951?s=72&u=fc1eaecb298d8c46ce4044c4bef66989118ec430&v=4" width="24" alt="Avatar of krivalex"> krivalex
@@ -3290,20 +3316,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/yerass11">
-				<img src="https://avatars.githubusercontent.com/u/113098449?s=72&u=c891a99fae3213b6fad6a1d01b15f7218f7c5d01&v=4" width="24" alt="Avatar of yerass11"> yerass11
-			</a><br/>
-			Yerassyl Saiman
-		</td>
-		<td>1fit </td>
-		<td><a href="https://twitter.com/yerass11">yerass11</a></td>
-		<td>Almaty, Kazakhstan</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/shadowsmind">
 				<img src="https://avatars.githubusercontent.com/u/4472278?s=72&u=f51b1b4ba79a55fd0d346f93c6073e89b37f5b4a&v=4" width="24" alt="Avatar of shadowsmind"> shadowsmind
@@ -3316,25 +3329,12 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/Erdauit">
 				<img src="https://avatars.githubusercontent.com/u/98638156?s=72&u=c991e938a69042b7fdf2a346e040528c1ca4c728&v=4" width="24" alt="Avatar of Erdauit"> Erdauit
 			</a><br/>
 			Erdauit Torekhan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/tzheldibayev">
-				<img src="https://avatars.githubusercontent.com/u/23218636?s=72&v=4" width="24" alt="Avatar of tzheldibayev"> tzheldibayev
-			</a><br/>
-			Talgat Zheldibayev
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3474,19 +3474,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>260</td>
 		<td>
-			<a href="https://github.com/valentiay">
-				<img src="https://avatars.githubusercontent.com/u/14908883?s=72&u=f019b6577f82b5c682aef3e5e959de183d85f5cb&v=4" width="24" alt="Avatar of valentiay"> valentiay
-			</a><br/>
-			Alexander Valentinov
-		</td>
-		<td>Suslentiay </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
 			<a href="https://github.com/daniyarmukhanov">
 				<img src="https://avatars.githubusercontent.com/u/10543320?s=72&u=7e4d1cb43d82bd5362078b5fbc5ecbe3ff5183f9&v=4" width="24" alt="Avatar of daniyarmukhanov"> daniyarmukhanov
 			</a><br/>
@@ -3495,6 +3482,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/valentiay">
+				<img src="https://avatars.githubusercontent.com/u/14908883?s=72&u=f019b6577f82b5c682aef3e5e959de183d85f5cb&v=4" width="24" alt="Avatar of valentiay"> valentiay
+			</a><br/>
+			Alexander Valentinov
+		</td>
+		<td>Suslentiay </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -3565,19 +3565,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>267</td>
 		<td>
-			<a href="https://github.com/Mogost">
-				<img src="https://avatars.githubusercontent.com/u/721963?s=72&u=61d8892b66dc7bec52a63c7262c90929a4bc5f02&v=4" width="24" alt="Avatar of Mogost"> Mogost
-			</a><br/>
-			Alexandr Artemyev
-		</td>
-		<td>Quantumsoft </td>
-		<td><a href="https://twitter.com/MOGOST">MOGOST</a></td>
-		<td>Kazakhstan</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
 			<a href="https://github.com/AidynMakhataev">
 				<img src="https://avatars.githubusercontent.com/u/19181566?s=72&u=f6b06225e690561fe38e0f95a0ba61e02957dc16&v=4" width="24" alt="Avatar of AidynMakhataev"> AidynMakhataev
 			</a><br/>
@@ -3589,7 +3576,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/tmdautov">
 				<img src="https://avatars.githubusercontent.com/u/6027337?s=72&u=5831fbb3666ec0f981bf249b56579306146b00af&v=4" width="24" alt="Avatar of tmdautov"> tmdautov
@@ -3602,7 +3589,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/pashagray">
 				<img src="https://avatars.githubusercontent.com/u/2726657?s=72&u=f6d7925e62649794072117e12a3d85e545f091b6&v=4" width="24" alt="Avatar of pashagray"> pashagray
@@ -3615,7 +3602,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/vlmonk">
 				<img src="https://avatars.githubusercontent.com/u/6134?s=72&v=4" width="24" alt="Avatar of vlmonk"> vlmonk
@@ -3628,7 +3615,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/ac130kz">
 				<img src="https://avatars.githubusercontent.com/u/24586896?s=72&u=da40e60eac22b7ef314b6ab39d962bbb0abfdd6f&v=4" width="24" alt="Avatar of ac130kz"> ac130kz
@@ -3641,7 +3628,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/luckytiger1">
 				<img src="https://avatars.githubusercontent.com/u/54556004?s=72&u=2f8008ff7829095d95909c07bd82e5ad6a9bb4fb&v=4" width="24" alt="Avatar of luckytiger1"> luckytiger1
@@ -3654,7 +3641,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/zaurbbb">
 				<img src="https://avatars.githubusercontent.com/u/96561371?s=72&u=7725ad7f0d64f910325dd2e3c29e365282482df2&v=4" width="24" alt="Avatar of zaurbbb"> zaurbbb
@@ -3667,7 +3654,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/Lootjs">
 				<img src="https://avatars.githubusercontent.com/u/16526639?s=72&u=0c10c8b2411520cb22dc780e0dc3bf84c924f8f4&v=4" width="24" alt="Avatar of Lootjs"> Lootjs
@@ -3680,7 +3667,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/almaszaurbekov">
 				<img src="https://avatars.githubusercontent.com/u/38606307?s=72&u=98eb51630e15240013af1fd71f7853210f8395a0&v=4" width="24" alt="Avatar of almaszaurbekov"> almaszaurbekov
@@ -3693,7 +3680,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/thelastpolaris">
 				<img src="https://avatars.githubusercontent.com/u/8721751?s=72&u=1d6ef26790424e7398794eb603edce8dc79fec34&v=4" width="24" alt="Avatar of thelastpolaris"> thelastpolaris
@@ -3706,7 +3693,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/Gctcrypto">
 				<img src="https://avatars.githubusercontent.com/u/50394054?s=72&u=0f6bc3c9d04a7725182ffebc1a908e70dc3f09d3&v=4" width="24" alt="Avatar of Gctcrypto"> Gctcrypto
@@ -3719,7 +3706,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/SanzharOG">
 				<img src="https://avatars.githubusercontent.com/u/78425430?s=72&u=1f7e48babb18ad436f4eb0f38e42573d2ca4126f&v=4" width="24" alt="Avatar of SanzharOG"> SanzharOG
@@ -3732,7 +3719,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/khassanoff">
 				<img src="https://avatars.githubusercontent.com/u/19428209?s=72&u=4fa44a5a47fffd391e8fe7486d0d6ca64029294f&v=4" width="24" alt="Avatar of khassanoff"> khassanoff
@@ -3745,20 +3732,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/enkelii6">
-				<img src="https://avatars.githubusercontent.com/u/151573055?s=72&u=b3542e364431248bf58279f490125776acd798c9&v=4" width="24" alt="Avatar of enkelii6"> enkelii6
-			</a><br/>
-			enkeli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>282</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/azekowka">
 				<img src="https://avatars.githubusercontent.com/u/178751420?s=72&u=b9ca86fdac14217fcc60afa08d2563cd882e3836&v=4" width="24" alt="Avatar of azekowka"> azekowka
@@ -3771,7 +3745,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/rubyazz">
 				<img src="https://avatars.githubusercontent.com/u/98265750?s=72&u=82330364a3a932407d1297fddc8285dbf020bf0a&v=4" width="24" alt="Avatar of rubyazz"> rubyazz
@@ -3784,7 +3758,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/Mogost">
+				<img src="https://avatars.githubusercontent.com/u/721963?s=72&u=61d8892b66dc7bec52a63c7262c90929a4bc5f02&v=4" width="24" alt="Avatar of Mogost"> Mogost
+			</a><br/>
+			Alexandr Artemyev
+		</td>
+		<td>Quantumsoft </td>
+		<td><a href="https://twitter.com/MOGOST">MOGOST</a></td>
+		<td>Kazakhstan</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/yvoinov">
 				<img src="https://avatars.githubusercontent.com/u/15016616?s=72&u=81b9cbccfaaae42e5363ab22ae5be59eae9f9ea4&v=4" width="24" alt="Avatar of yvoinov"> yvoinov
@@ -3797,7 +3784,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/novitoll">
 				<img src="https://avatars.githubusercontent.com/u/8348972?s=72&u=493830408149e8415c37d706e2e7e57e7bea9b2c&v=4" width="24" alt="Avatar of novitoll"> novitoll
@@ -3810,7 +3797,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/Timofey-G">
 				<img src="https://avatars.githubusercontent.com/u/119392367?s=72&u=549fd1249990fa82b4e1c6a1fd652e04ef6fa550&v=4" width="24" alt="Avatar of Timofey-G"> Timofey-G
@@ -3823,7 +3810,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/bekbeis">
 				<img src="https://avatars.githubusercontent.com/u/62763163?s=72&u=dc40cdaefc0e3d5ae914954bdbf80bb3518c1a22&v=4" width="24" alt="Avatar of bekbeis"> bekbeis
@@ -3836,7 +3823,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/IPv6">
 				<img src="https://avatars.githubusercontent.com/u/40495?s=72&v=4" width="24" alt="Avatar of IPv6"> IPv6
@@ -3849,7 +3836,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/lEx0">
 				<img src="https://avatars.githubusercontent.com/u/329890?s=72&u=08b9b0afa8ebcf630576f8604821cb0b776df3cf&v=4" width="24" alt="Avatar of lEx0"> lEx0
@@ -3862,7 +3849,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/maxoralbay">
 				<img src="https://avatars.githubusercontent.com/u/59061447?s=72&u=5db2313646421dfdf06cff587e5cdb576b2db644&v=4" width="24" alt="Avatar of maxoralbay"> maxoralbay
@@ -3875,7 +3862,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/YerkinBS">
 				<img src="https://avatars.githubusercontent.com/u/78254405?s=72&u=fc5e276236001f00b752f7be2ac9735fb3b3fe92&v=4" width="24" alt="Avatar of YerkinBS"> YerkinBS
@@ -3888,7 +3875,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/derbess">
 				<img src="https://avatars.githubusercontent.com/u/34168437?s=72&u=4e105ede44de2a612057727d554c988db5aa17e5&v=4" width="24" alt="Avatar of derbess"> derbess
@@ -3901,7 +3888,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/rymbekov">
 				<img src="https://avatars.githubusercontent.com/u/33936476?s=72&u=3985e3836de1655867a4541b4194690a69b82660&v=4" width="24" alt="Avatar of rymbekov"> rymbekov
@@ -3914,7 +3901,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/Khangeldy">
 				<img src="https://avatars.githubusercontent.com/u/8553348?s=72&v=4" width="24" alt="Avatar of Khangeldy"> Khangeldy
@@ -3927,7 +3914,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/tebirenn">
 				<img src="https://avatars.githubusercontent.com/u/78268217?s=72&u=79201052e225176aaaf446ecbf7e736df4ba8a66&v=4" width="24" alt="Avatar of tebirenn"> tebirenn
@@ -3940,7 +3927,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/DES-Destry">
 				<img src="https://avatars.githubusercontent.com/u/50075282?s=72&u=7a52b26b350d75f32f93fa2cb27d42fa5e4de909&v=4" width="24" alt="Avatar of DES-Destry"> DES-Destry
@@ -3953,7 +3940,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/daniyardake">
 				<img src="https://avatars.githubusercontent.com/u/26739777?s=72&u=7e52f15539912eaedd4d093a15e2c130ed53ecff&v=4" width="24" alt="Avatar of daniyardake"> daniyardake
@@ -3966,7 +3953,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/jumagaliev1">
 				<img src="https://avatars.githubusercontent.com/u/71185943?s=72&u=a2f9e6c3b9054056c1551f1e482f1110ab368720&v=4" width="24" alt="Avatar of jumagaliev1"> jumagaliev1
@@ -3974,6 +3961,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 			Alibi Zhumagaliyev
 		</td>
 		<td>Sdu </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/enkelii6">
+				<img src="https://avatars.githubusercontent.com/u/151573055?s=72&u=b3542e364431248bf58279f490125776acd798c9&v=4" width="24" alt="Avatar of enkelii6"> enkelii6
+			</a><br/>
+			enkeli
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
 		<td>27</td>
@@ -4137,6 +4137,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>311</td>
 		<td>
+			<a href="https://github.com/Swifty8bit">
+				<img src="https://avatars.githubusercontent.com/u/74645486?s=72&u=45f74ed0095415d9b09244195efffa103cb80a6b&v=4" width="24" alt="Avatar of Swifty8bit"> Swifty8bit
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Swifty8Bit">Swifty8Bit</a></td>
+		<td>Almaty, Kazakhstan</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a href="https://github.com/vitalyavolyn">
 				<img src="https://avatars.githubusercontent.com/u/21054121?s=72&u=c316fc1ae9b4cfa37513bfacd2b2bf41c7b8f5d5&v=4" width="24" alt="Avatar of vitalyavolyn"> vitalyavolyn
 			</a><br/>
@@ -4148,7 +4161,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/arturka">
 				<img src="https://avatars.githubusercontent.com/u/16667043?s=72&u=bc7ad80120ae1b56ae1767e521a26f1bdbb3567e&v=4" width="24" alt="Avatar of arturka"> arturka
@@ -4161,7 +4174,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/BThero">
 				<img src="https://avatars.githubusercontent.com/u/45234955?s=72&u=9b79281e8a933723e6352d940a23d0839fe77500&v=4" width="24" alt="Avatar of BThero"> BThero
@@ -4174,7 +4187,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/Dajtbaeva">
 				<img src="https://avatars.githubusercontent.com/u/92658756?s=72&u=91ab2d09a33bc07ae14f9ca91efb774e500c5692&v=4" width="24" alt="Avatar of Dajtbaeva"> Dajtbaeva
@@ -4187,7 +4200,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/danntu">
 				<img src="https://avatars.githubusercontent.com/u/9640131?s=72&u=bc5aa90c50d553ac4fece6e0e24c215335da76b1&v=4" width="24" alt="Avatar of danntu"> danntu
@@ -4200,7 +4213,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/ainurb">
 				<img src="https://avatars.githubusercontent.com/u/16161990?s=72&u=fcaac1471f1c49137b71579c0716c4f4359936a2&v=4" width="24" alt="Avatar of ainurb"> ainurb
@@ -4213,7 +4226,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/pbblerico">
 				<img src="https://avatars.githubusercontent.com/u/98637349?s=72&u=76879e5dfb7d0d31d9d50c3cf745b5c0b4b492e8&v=4" width="24" alt="Avatar of pbblerico"> pbblerico
@@ -4226,7 +4239,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/dmeleshko">
 				<img src="https://avatars.githubusercontent.com/u/396356?s=72&v=4" width="24" alt="Avatar of dmeleshko"> dmeleshko
@@ -4239,7 +4252,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/finesome">
 				<img src="https://avatars.githubusercontent.com/u/18280004?s=72&u=61ec9c80c1024417c0ade1fcf56320590634aebe&v=4" width="24" alt="Avatar of finesome"> finesome
@@ -4252,7 +4265,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/lukyanov">
 				<img src="https://avatars.githubusercontent.com/u/31795?s=72&u=4fa9b8e7c41c6ca8a00e74db93b6809dc5ff7031&v=4" width="24" alt="Avatar of lukyanov"> lukyanov
@@ -4265,7 +4278,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/AlexBrin">
 				<img src="https://avatars.githubusercontent.com/u/20367738?s=72&u=504c6be65b9da4a9fe13ad781110bfbfb71bb750&v=4" width="24" alt="Avatar of AlexBrin"> AlexBrin
@@ -4278,7 +4291,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/abzy128">
 				<img src="https://avatars.githubusercontent.com/u/19868776?s=72&u=9409153d3854e0d3a43bb0869f4c93eef9023af4&v=4" width="24" alt="Avatar of abzy128"> abzy128
@@ -4291,33 +4304,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/odilxon">
-				<img src="https://avatars.githubusercontent.com/u/39410006?s=72&u=192b3128a6f24291eaacd3fb1b4f76b4e8ae59e1&v=4" width="24" alt="Avatar of odilxon"> odilxon
-			</a><br/>
-			Odilkhon Mukhtorkhujaev
-		</td>
-		<td>@cls-international @agrodevuz </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>25</td>
-	</tr>
-	<tr>
 		<td>324</td>
-		<td>
-			<a href="https://github.com/Swifty8bit">
-				<img src="https://avatars.githubusercontent.com/u/74645486?s=72&u=45f74ed0095415d9b09244195efffa103cb80a6b&v=4" width="24" alt="Avatar of Swifty8bit"> Swifty8bit
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Swifty8Bit">Swifty8Bit</a></td>
-		<td>Almaty, Kazakhstan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>325</td>
 		<td>
 			<a href="https://github.com/kekeront">
 				<img src="https://avatars.githubusercontent.com/u/66207321?s=72&u=98304d1c6830fac11ca1f65f776af0fb02113b2a&v=4" width="24" alt="Avatar of kekeront"> kekeront
@@ -4330,7 +4317,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/clicman">
 				<img src="https://avatars.githubusercontent.com/u/1079535?s=72&u=7cdfa6e67d133c8cea96e6eb635953c99207b77d&v=4" width="24" alt="Avatar of clicman"> clicman
@@ -4343,7 +4330,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/tgkzz">
 				<img src="https://avatars.githubusercontent.com/u/109650572?s=72&u=7a6630aef69ed00c5ccb142ae92005444cee6d37&v=4" width="24" alt="Avatar of tgkzz"> tgkzz
@@ -4356,7 +4343,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/phonty29">
 				<img src="https://avatars.githubusercontent.com/u/96624483?s=72&u=2794d6241e9c279c05e4059b9d46091d7a8c4513&v=4" width="24" alt="Avatar of phonty29"> phonty29
@@ -4369,7 +4356,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/desali">
 				<img src="https://avatars.githubusercontent.com/u/31937746?s=72&u=ffaa646784f9a0242af56159838d7c8a7fb3d200&v=4" width="24" alt="Avatar of desali"> desali
@@ -4382,7 +4369,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/dilya-gitit">
 				<img src="https://avatars.githubusercontent.com/u/73358154?s=72&u=4e9c4e9110fc379bdbe19dc937dfa56323b0a56b&v=4" width="24" alt="Avatar of dilya-gitit"> dilya-gitit
@@ -4395,7 +4382,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/bekbull">
 				<img src="https://avatars.githubusercontent.com/u/40839494?s=72&u=1ff0b6daf12b0f5b05b4fd720ca1af21c62301ee&v=4" width="24" alt="Avatar of bekbull"> bekbull
@@ -4408,7 +4395,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/EpsilonKu">
 				<img src="https://avatars.githubusercontent.com/u/63652620?s=72&u=545502d566618dea8dee939b27f7364bf09f8c73&v=4" width="24" alt="Avatar of EpsilonKu"> EpsilonKu
@@ -4421,7 +4408,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/DarthGandalf256">
 				<img src="https://avatars.githubusercontent.com/u/44177412?s=72&u=7fd4200e7a7295486d08503526f1dabd7193cdf3&v=4" width="24" alt="Avatar of DarthGandalf256"> DarthGandalf256
@@ -4434,7 +4421,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/vildar82">
 				<img src="https://avatars.githubusercontent.com/u/1446481?s=72&v=4" width="24" alt="Avatar of vildar82"> vildar82
@@ -4447,7 +4434,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/TrueFinch">
 				<img src="https://avatars.githubusercontent.com/u/24905983?s=72&u=ec71e8811c67a81a9e3f181aa7864f25bdf98774&v=4" width="24" alt="Avatar of TrueFinch"> TrueFinch
@@ -4460,7 +4447,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/ukarim">
 				<img src="https://avatars.githubusercontent.com/u/12429084?s=72&v=4" width="24" alt="Avatar of ukarim"> ukarim
@@ -4473,7 +4460,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/birzhans">
 				<img src="https://avatars.githubusercontent.com/u/49227586?s=72&u=c16fdea6f374aec1471510e3a2b155a49356491c&v=4" width="24" alt="Avatar of birzhans"> birzhans
@@ -4486,7 +4473,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/greck2908">
 				<img src="https://avatars.githubusercontent.com/u/16417225?s=72&u=48c709a3399bd03d518f1775265e7e2e15dccd05&v=4" width="24" alt="Avatar of greck2908"> greck2908
@@ -4499,7 +4486,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/aidoha">
 				<img src="https://avatars.githubusercontent.com/u/27284530?s=72&u=016ed88624fa2e5a65ea668d35dcf48ad234894f&v=4" width="24" alt="Avatar of aidoha"> aidoha
@@ -4512,7 +4499,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/zelzhan">
 				<img src="https://avatars.githubusercontent.com/u/27729152?s=72&u=5cf170967c9578580592e740cccb1aab6f9e0745&v=4" width="24" alt="Avatar of zelzhan"> zelzhan
@@ -4525,7 +4512,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/alextkachevcom">
 				<img src="https://avatars.githubusercontent.com/u/20987414?s=72&u=9e216df7b2cbf8f556ac311c6ba8f998a0d926f8&v=4" width="24" alt="Avatar of alextkachevcom"> alextkachevcom
@@ -4535,6 +4522,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/simply_aalex">simply_aalex</a></td>
 		<td>Kazakhstan</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/s3rikbaeva">
+				<img src="https://avatars.githubusercontent.com/u/55668621?s=72&u=e9830d027d50cf30eec003b2c06fba1ec2593497&v=4" width="24" alt="Avatar of s3rikbaeva"> s3rikbaeva
+			</a><br/>
+			Aru Serikbayeva 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -4592,6 +4592,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>346</td>
 		<td>
+			<a href="https://github.com/odilxon">
+				<img src="https://avatars.githubusercontent.com/u/39410006?s=72&u=192b3128a6f24291eaacd3fb1b4f76b4e8ae59e1&v=4" width="24" alt="Avatar of odilxon"> odilxon
+			</a><br/>
+			Odilkhon Mukhtorkhujaev
+		</td>
+		<td>@cls-international @agrodevuz </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
 			<a href="https://github.com/KakarovDamir">
 				<img src="https://avatars.githubusercontent.com/u/123242391?s=72&u=471898eece041e117f056f01e48f74aee5f39ff4&v=4" width="24" alt="Avatar of KakarovDamir"> KakarovDamir
 			</a><br/>
@@ -4603,7 +4616,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/kakimnsnv">
 				<img src="https://avatars.githubusercontent.com/u/84794256?s=72&u=1a0de2b3ee32164da6da746daaf371fc0476175c&v=4" width="24" alt="Avatar of kakimnsnv"> kakimnsnv
@@ -4616,7 +4629,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/des-felins">
 				<img src="https://avatars.githubusercontent.com/u/148977282?s=72&u=1ab7e5e15da56932eb814514bd67f35afdde1092&v=4" width="24" alt="Avatar of des-felins"> des-felins
@@ -4629,7 +4642,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/MelsovEZ">
 				<img src="https://avatars.githubusercontent.com/u/119414897?s=72&u=44a9f9378cc5d2173bb0444e7346e7791c945044&v=4" width="24" alt="Avatar of MelsovEZ"> MelsovEZ
@@ -4642,7 +4655,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/erjan">
 				<img src="https://avatars.githubusercontent.com/u/4441068?s=72&u=e710c0ccb997bc59abc277243224b5fd03c60f24&v=4" width="24" alt="Avatar of erjan"> erjan
@@ -4655,7 +4668,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/maxmmorz">
 				<img src="https://avatars.githubusercontent.com/u/13711406?s=72&u=1148cd84be846c1432a2ca31fe19deb26893714b&v=4" width="24" alt="Avatar of maxmmorz"> maxmmorz
@@ -4668,7 +4681,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/sabadoryo">
 				<img src="https://avatars.githubusercontent.com/u/56064241?s=72&u=e0aeded9487118661e005e55dceb35c04dab06e4&v=4" width="24" alt="Avatar of sabadoryo"> sabadoryo
@@ -4681,7 +4694,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/aisultanios">
 				<img src="https://avatars.githubusercontent.com/u/36818367?s=72&u=936dbc7b84cb2ffbccaf81e39a55f28d8eaa7c3b&v=4" width="24" alt="Avatar of aisultanios"> aisultanios
@@ -4694,7 +4707,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/askaroe">
 				<img src="https://avatars.githubusercontent.com/u/109653854?s=72&u=8a98193dd62ee301ff1cd30dca0858c651648dbf&v=4" width="24" alt="Avatar of askaroe"> askaroe
@@ -4707,7 +4720,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/YernarBekbolat">
 				<img src="https://avatars.githubusercontent.com/u/81419096?s=72&u=7d304f28feeff809223bb5b11a0062688c728190&v=4" width="24" alt="Avatar of YernarBekbolat"> YernarBekbolat
@@ -4720,7 +4733,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/tokkozhin">
 				<img src="https://avatars.githubusercontent.com/u/43367818?s=72&u=e810b440bad3c29469a25c1f86eeeadf89224f8a&v=4" width="24" alt="Avatar of tokkozhin"> tokkozhin
@@ -4733,7 +4746,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/mrbqble">
 				<img src="https://avatars.githubusercontent.com/u/107620554?s=72&u=e6501f87f6d3215c0e861a81f06ccc5ad086a6fa&v=4" width="24" alt="Avatar of mrbqble"> mrbqble
@@ -4746,7 +4759,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/Krauchman">
 				<img src="https://avatars.githubusercontent.com/u/43723775?s=72&v=4" width="24" alt="Avatar of Krauchman"> Krauchman
@@ -4759,7 +4772,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/zhvnibek">
 				<img src="https://avatars.githubusercontent.com/u/38990635?s=72&u=fb063c86345730636ed213b2386d789773937798&v=4" width="24" alt="Avatar of zhvnibek"> zhvnibek
@@ -4772,7 +4785,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/adilnaut">
 				<img src="https://avatars.githubusercontent.com/u/8504937?s=72&u=cb1333312576dac55cdaf9087988d036bdb65d13&v=4" width="24" alt="Avatar of adilnaut"> adilnaut
@@ -4785,7 +4798,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/tomiris-zh">
 				<img src="https://avatars.githubusercontent.com/u/50807560?s=72&u=e1aebefbc7a723aa34c77fe3a0a1979072deda13&v=4" width="24" alt="Avatar of tomiris-zh"> tomiris-zh
@@ -4798,7 +4811,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/Na2a">
 				<img src="https://avatars.githubusercontent.com/u/5294109?s=72&u=526c0e53893d86c6097dcdbab354360d1cc32d88&v=4" width="24" alt="Avatar of Na2a"> Na2a
@@ -4811,7 +4824,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/lyskos97">
 				<img src="https://avatars.githubusercontent.com/u/23356069?s=72&u=e117ae06e603681ae72414e532b0813a1026f577&v=4" width="24" alt="Avatar of lyskos97"> lyskos97
@@ -4821,19 +4834,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Almaty</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/s3rikbaeva">
-				<img src="https://avatars.githubusercontent.com/u/55668621?s=72&u=e9830d027d50cf30eec003b2c06fba1ec2593497&v=4" width="24" alt="Avatar of s3rikbaeva"> s3rikbaeva
-			</a><br/>
-			Aru Serikbayeva 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -4878,19 +4878,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>368</td>
 		<td>
-			<a href="https://github.com/BEknUur">
-				<img src="https://avatars.githubusercontent.com/u/106554639?s=72&u=4c00fdcf7c5674c8e015b0e8969c430dd9fa3c5f&v=4" width="24" alt="Avatar of BEknUur"> BEknUur
-			</a><br/>
-			Beknur
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
 			<a href="https://github.com/MadMed677">
 				<img src="https://avatars.githubusercontent.com/u/6944144?s=72&u=02ce903442af68462a9ba8c8add00376218726bb&v=4" width="24" alt="Avatar of MadMed677"> MadMed677
 			</a><br/>
@@ -4902,7 +4889,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/seniorkot">
 				<img src="https://avatars.githubusercontent.com/u/22940923?s=72&u=be7e2bc35b7380c37d1247cf3987483d06ae49dd&v=4" width="24" alt="Avatar of seniorkot"> seniorkot
@@ -4912,6 +4899,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Kaspi.kz </td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/ErikNeph">
+				<img src="https://avatars.githubusercontent.com/u/128590288?s=72&u=2a7b9a36cbb5acbb17d75f26db87170fa1e3aec7&v=4" width="24" alt="Avatar of ErikNeph"> ErikNeph
+			</a><br/>
+			Erik
+		</td>
+		<td>Bts-digital </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -5125,6 +5125,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>387</td>
 		<td>
+			<a href="https://github.com/Deliora90">
+				<img src="https://avatars.githubusercontent.com/u/61903483?s=72&u=165a9574373920c70c8200ee6673d472268fa5cb&v=4" width="24" alt="Avatar of Deliora90"> Deliora90
+			</a><br/>
+			Maria Sakharova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
 			<a href="https://github.com/aidoskanapyanov">
 				<img src="https://avatars.githubusercontent.com/u/65722512?s=72&u=fce8eeba153b2d02bf765345f17e282f0dab8e74&v=4" width="24" alt="Avatar of aidoskanapyanov"> aidoskanapyanov
 			</a><br/>
@@ -5136,7 +5149,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/Temirlan-qa">
+				<img src="https://avatars.githubusercontent.com/u/79401245?s=72&u=f8391392dc4034ca2680b7b04f0d4540b4e357b2&v=4" width="24" alt="Avatar of Temirlan-qa"> Temirlan-qa
+			</a><br/>
+			Temirlan Ayazbek 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/bl1nkker">
 				<img src="https://avatars.githubusercontent.com/u/57720347?s=72&u=25a3459cb79cfcf5d6ef4f276d9730c365f541a4&v=4" width="24" alt="Avatar of bl1nkker"> bl1nkker
@@ -5149,7 +5175,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/alarxx">
 				<img src="https://avatars.githubusercontent.com/u/72505048?s=72&u=f9d0582e1b2a7f64798d3c4251d5415371db5a9a&v=4" width="24" alt="Avatar of alarxx"> alarxx
@@ -5162,7 +5188,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/freethinkel">
 				<img src="https://avatars.githubusercontent.com/u/26553511?s=72&u=892a79ffcf82cd118e424efa148aef87f44761a6&v=4" width="24" alt="Avatar of freethinkel"> freethinkel
@@ -5175,7 +5201,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/sabit990928">
 				<img src="https://avatars.githubusercontent.com/u/37778327?s=72&u=9cdaa2a98c57c10963c2ee189333f9055ee38227&v=4" width="24" alt="Avatar of sabit990928"> sabit990928
@@ -5188,7 +5214,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/tyabus">
 				<img src="https://avatars.githubusercontent.com/u/19637128?s=72&v=4" width="24" alt="Avatar of tyabus"> tyabus
@@ -5201,7 +5227,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/ytvee">
 				<img src="https://avatars.githubusercontent.com/u/102475316?s=72&u=1e017c46c89a6621607c814360ebd01112237d6c&v=4" width="24" alt="Avatar of ytvee"> ytvee
@@ -5214,7 +5240,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/RomanGleizer">
 				<img src="https://avatars.githubusercontent.com/u/125725530?s=72&u=eb2e89ef50d30c0e4d50e8a0a28705846c77e42c&v=4" width="24" alt="Avatar of RomanGleizer"> RomanGleizer
@@ -5227,20 +5253,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
 		<td>
-			<a href="https://github.com/ErikNeph">
-				<img src="https://avatars.githubusercontent.com/u/128590288?s=72&u=2a7b9a36cbb5acbb17d75f26db87170fa1e3aec7&v=4" width="24" alt="Avatar of ErikNeph"> ErikNeph
+			<a href="https://github.com/goldentak">
+				<img src="https://avatars.githubusercontent.com/u/156515743?s=72&u=303292949e429d2505cc165b4de2e0ad6ad4e84c&v=4" width="24" alt="Avatar of goldentak"> goldentak
 			</a><br/>
-			Erik
+			Nurasyl Dulatuly
 		</td>
-		<td>Bts-digital </td>
+		<td>Kazakh-british Technical University </td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Almaty</td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/freekos">
 				<img src="https://avatars.githubusercontent.com/u/81808264?s=72&u=f840bf310b03ea4a5370c629cd931dad7e3c2fd8&v=4" width="24" alt="Avatar of freekos"> freekos
@@ -5253,7 +5279,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/adeemgoogle">
 				<img src="https://avatars.githubusercontent.com/u/75906616?s=72&v=4" width="24" alt="Avatar of adeemgoogle"> adeemgoogle
@@ -5266,7 +5292,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/StarwinM">
 				<img src="https://avatars.githubusercontent.com/u/102747058?s=72&u=825ef9b30842c4e1e4be4e16f20c4c0c51369174&v=4" width="24" alt="Avatar of StarwinM"> StarwinM
@@ -5279,7 +5305,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/Onelvay">
 				<img src="https://avatars.githubusercontent.com/u/98649055?s=72&u=40707deaceeb2cff449e882bfa033c13f9a72e06&v=4" width="24" alt="Avatar of Onelvay"> Onelvay
@@ -5292,7 +5318,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/aksaule-bagytzhanova">
 				<img src="https://avatars.githubusercontent.com/u/77653771?s=72&u=9e93c7b1783bcf4570a8034a1e884c5faf38ea60&v=4" width="24" alt="Avatar of aksaule-bagytzhanova"> aksaule-bagytzhanova
@@ -5305,7 +5331,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/Tlepkali">
 				<img src="https://avatars.githubusercontent.com/u/72392395?s=72&u=603267717a2920b2cdd5b432ecd9e0837038b8b9&v=4" width="24" alt="Avatar of Tlepkali"> Tlepkali
@@ -5318,7 +5344,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/varenyeolad">
 				<img src="https://avatars.githubusercontent.com/u/97789571?s=72&u=5b1c4e96d32d463625f86baf7c5fb83588b53a3a&v=4" width="24" alt="Avatar of varenyeolad"> varenyeolad
@@ -5331,7 +5357,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/SainaAntonova">
 				<img src="https://avatars.githubusercontent.com/u/163343511?s=72&v=4" width="24" alt="Avatar of SainaAntonova"> SainaAntonova
@@ -5344,7 +5370,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/zkenes">
 				<img src="https://avatars.githubusercontent.com/u/3636081?s=72&u=1def68eb1cf3f638900d45895010694155fe0730&v=4" width="24" alt="Avatar of zkenes"> zkenes
@@ -5357,7 +5383,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/Sens3ii">
 				<img src="https://avatars.githubusercontent.com/u/60396622?s=72&u=ff5ca9b988b87039a14e9f94777977366f35b926&v=4" width="24" alt="Avatar of Sens3ii"> Sens3ii
@@ -5370,7 +5396,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/bkumalakov">
 				<img src="https://avatars.githubusercontent.com/u/40399205?s=72&u=61e9baaa95f5c8a0688deeab947f03b631f2ccc7&v=4" width="24" alt="Avatar of bkumalakov"> bkumalakov
@@ -5383,7 +5409,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/ye1dos">
 				<img src="https://avatars.githubusercontent.com/u/39968522?s=72&v=4" width="24" alt="Avatar of ye1dos"> ye1dos
@@ -5396,20 +5422,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/Deliora90">
-				<img src="https://avatars.githubusercontent.com/u/61903483?s=72&u=165a9574373920c70c8200ee6673d472268fa5cb&v=4" width="24" alt="Avatar of Deliora90"> Deliora90
-			</a><br/>
-			Maria Sakharova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/rasult22">
 				<img src="https://avatars.githubusercontent.com/u/24597366?s=72&u=476e97e3ed8ed5a0d4525a19367221d68ae243d0&v=4" width="24" alt="Avatar of rasult22"> rasult22
@@ -5422,7 +5435,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/olehan">
 				<img src="https://avatars.githubusercontent.com/u/39857788?s=72&u=705412759bf8a35d99cd1525f5bf13cf4d358d9f&v=4" width="24" alt="Avatar of olehan"> olehan
@@ -5435,7 +5448,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/BEknUur">
+				<img src="https://avatars.githubusercontent.com/u/106554639?s=72&u=4c00fdcf7c5674c8e015b0e8969c430dd9fa3c5f&v=4" width="24" alt="Avatar of BEknUur"> BEknUur
+			</a><br/>
+			Beknur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/qaisar04">
 				<img src="https://avatars.githubusercontent.com/u/127594814?s=72&u=df7cb4fceb5666d93588bee4e87c601a4714c459&v=4" width="24" alt="Avatar of qaisar04"> qaisar04
@@ -5448,20 +5474,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>414</td>
 		<td>
-			<a href="https://github.com/Temirlan-qa">
-				<img src="https://avatars.githubusercontent.com/u/79401245?s=72&u=f8391392dc4034ca2680b7b04f0d4540b4e357b2&v=4" width="24" alt="Avatar of Temirlan-qa"> Temirlan-qa
+			<a href="https://github.com/mossimka">
+				<img src="https://avatars.githubusercontent.com/u/147310278?s=72&u=3ccf201c065019e74985d87a6b3910e1fb7e78cc&v=4" width="24" alt="Avatar of mossimka"> mossimka
 			</a><br/>
-			Temirlan Ayazbek 
+			mossimka
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Kbtu </td>
+		<td><a href="https://twitter.com/mossimka">mossimka</a></td>
+		<td>Almaty</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/vadimvalov">
 				<img src="https://avatars.githubusercontent.com/u/115623536?s=72&u=84d6dd3c992b9110404dc299c452688a1ab1efcb&v=4" width="24" alt="Avatar of vadimvalov"> vadimvalov
@@ -5470,11 +5496,11 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan, Astana</td>
+		<td>Kazakhstan, Almaty</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/zainoldin">
 				<img src="https://avatars.githubusercontent.com/u/32594114?s=72&u=2ae16c9af4795187cbe50a23f2b295f169261cf9&v=4" width="24" alt="Avatar of zainoldin"> zainoldin
@@ -5487,7 +5513,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/Hereugo">
 				<img src="https://avatars.githubusercontent.com/u/60090566?s=72&u=f8eb01fec4b0a7577c280c67d4990943274f77d2&v=4" width="24" alt="Avatar of Hereugo"> Hereugo
@@ -5500,7 +5526,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/AlimTleuliyev">
 				<img src="https://avatars.githubusercontent.com/u/114468234?s=72&u=e6408c307825af6c5b7b90354f8c4b3de0e5f246&v=4" width="24" alt="Avatar of AlimTleuliyev"> AlimTleuliyev
@@ -5513,7 +5539,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/VladislavG123">
 				<img src="https://avatars.githubusercontent.com/u/46023496?s=72&u=c9d8c4c3e7e95c7e4685238e8700f8860a0f5ff0&v=4" width="24" alt="Avatar of VladislavG123"> VladislavG123
@@ -5526,20 +5552,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/goldentak">
-				<img src="https://avatars.githubusercontent.com/u/156515743?s=72&u=303292949e429d2505cc165b4de2e0ad6ad4e84c&v=4" width="24" alt="Avatar of goldentak"> goldentak
-			</a><br/>
-			Nurasyl Dulatuly
-		</td>
-		<td>Kazakh-british Technical University </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/dxulet">
 				<img src="https://avatars.githubusercontent.com/u/69748709?s=72&u=bf077ca00c1606d1b027fcd23831df1a43c0d68e&v=4" width="24" alt="Avatar of dxulet"> dxulet
@@ -5552,7 +5565,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/culebron">
 				<img src="https://avatars.githubusercontent.com/u/119675?s=72&v=4" width="24" alt="Avatar of culebron"> culebron
@@ -5565,7 +5578,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/madiyar">
 				<img src="https://avatars.githubusercontent.com/u/25566308?s=72&u=4c0af429f743fdcc0ea172a87ca28647608515eb&v=4" width="24" alt="Avatar of madiyar"> madiyar
@@ -5578,7 +5591,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/moribus-single">
 				<img src="https://avatars.githubusercontent.com/u/70265720?s=72&u=b78ecd14ff267b4f8ded12c60000d6e322d71f97&v=4" width="24" alt="Avatar of moribus-single"> moribus-single
@@ -5591,7 +5604,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/dauletbayevych">
 				<img src="https://avatars.githubusercontent.com/u/120553658?s=72&u=53894ad685772e90f5894146d41967663cb58dda&v=4" width="24" alt="Avatar of dauletbayevych"> dauletbayevych
@@ -5604,7 +5617,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/KirillGos">
 				<img src="https://avatars.githubusercontent.com/u/106958670?s=72&u=cbc4cf21a0846776ee5b697f48c1e4fb740b4f71&v=4" width="24" alt="Avatar of KirillGos"> KirillGos
@@ -5617,7 +5630,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/Sebekerga">
 				<img src="https://avatars.githubusercontent.com/u/16242246?s=72&u=facedbbcf73cf249ee8f88c098a468695e3388c7&v=4" width="24" alt="Avatar of Sebekerga"> Sebekerga
@@ -5630,7 +5643,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/WallEnd">
 				<img src="https://avatars.githubusercontent.com/u/12442336?s=72&u=dc200fbce641e79d5a1bf5d2a1b41c5552bedd0b&v=4" width="24" alt="Avatar of WallEnd"> WallEnd
@@ -5643,7 +5656,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/Abunyawa">
 				<img src="https://avatars.githubusercontent.com/u/47278960?s=72&u=010091842dc10691ec604af8c16e6c53282b2831&v=4" width="24" alt="Avatar of Abunyawa"> Abunyawa
@@ -5656,7 +5669,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/mmfrxx">
 				<img src="https://avatars.githubusercontent.com/u/46610648?s=72&u=48bcf7524eb3172dcbb0505f3d25f4027727f94c&v=4" width="24" alt="Avatar of mmfrxx"> mmfrxx
@@ -5669,7 +5682,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/yerassyl">
 				<img src="https://avatars.githubusercontent.com/u/6124550?s=72&u=d78743d11de7a10b7492254a9ebf330f1efcce50&v=4" width="24" alt="Avatar of yerassyl"> yerassyl
@@ -5682,7 +5695,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/aseke7182">
 				<img src="https://avatars.githubusercontent.com/u/35268423?s=72&u=9059f048a5ec9fa803dd27bd9f0439e2a622367b&v=4" width="24" alt="Avatar of aseke7182"> aseke7182
@@ -5695,7 +5708,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/MrDoni98">
 				<img src="https://avatars.githubusercontent.com/u/10742315?s=72&u=092247d8c8cc567f46e757d71deff559b9a0d47b&v=4" width="24" alt="Avatar of MrDoni98"> MrDoni98
@@ -5708,7 +5721,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/nurmakhanow">
 				<img src="https://avatars.githubusercontent.com/u/19525874?s=72&u=c17a784eeeef9746c1e56070cc8fec28d815e5f5&v=4" width="24" alt="Avatar of nurmakhanow"> nurmakhanow
@@ -5721,7 +5734,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/CherlenokYevgeniy">
 				<img src="https://avatars.githubusercontent.com/u/38732498?s=72&u=6b0e08d25e356991aed34d62031ec3ccf032aac4&v=4" width="24" alt="Avatar of CherlenokYevgeniy"> CherlenokYevgeniy
@@ -5734,7 +5747,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/bissenbay">
 				<img src="https://avatars.githubusercontent.com/u/2733095?s=72&v=4" width="24" alt="Avatar of bissenbay"> bissenbay
@@ -5747,7 +5760,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/sbashkeyeva">
 				<img src="https://avatars.githubusercontent.com/u/21342210?s=72&v=4" width="24" alt="Avatar of sbashkeyeva"> sbashkeyeva
@@ -5760,7 +5773,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/Tileuali">
 				<img src="https://avatars.githubusercontent.com/u/42294733?s=72&u=945b7d6db9dae20ec96813ee1ce04715219c83fb&v=4" width="24" alt="Avatar of Tileuali"> Tileuali
@@ -5773,7 +5786,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/mxdikhan">
 				<img src="https://avatars.githubusercontent.com/u/98648013?s=72&u=a6ab5e57170926921fc7fef7429aeea63945add7&v=4" width="24" alt="Avatar of mxdikhan"> mxdikhan
@@ -5786,7 +5799,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/Aimurzaev-Amir">
 				<img src="https://avatars.githubusercontent.com/u/31913220?s=72&u=3a6d00e40295a457404ac35508de90d08e127752&v=4" width="24" alt="Avatar of Aimurzaev-Amir"> Aimurzaev-Amir
@@ -5797,19 +5810,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
 		<td>21</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/mossimka">
-				<img src="https://avatars.githubusercontent.com/u/147310278?s=72&u=3ccf201c065019e74985d87a6b3910e1fb7e78cc&v=4" width="24" alt="Avatar of mossimka"> mossimka
-			</a><br/>
-			mossimka
-		</td>
-		<td>Kbtu </td>
-		<td><a href="https://twitter.com/mossimka">mossimka</a></td>
-		<td>Almaty</td>
-		<td>20</td>
 	</tr>
 	<tr>
 		<td>440</td>
@@ -5918,19 +5918,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>448</td>
 		<td>
-			<a href="https://github.com/MUNICIPALIST">
-				<img src="https://avatars.githubusercontent.com/u/116354815?s=72&u=288bf53ffe41f486a60e394034e93e8178812361&v=4" width="24" alt="Avatar of MUNICIPALIST"> MUNICIPALIST
-			</a><br/>
-			JA
-		</td>
-		<td>Nic </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
 			<a href="https://github.com/unreal-kz">
 				<img src="https://avatars.githubusercontent.com/u/13448852?s=72&u=f58bb17185cbb3e5bf603a87a33f2987f9c30db2&v=4" width="24" alt="Avatar of unreal-kz"> unreal-kz
 			</a><br/>
@@ -5942,7 +5929,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/TemirQ">
 				<img src="https://avatars.githubusercontent.com/u/93934831?s=72&v=4" width="24" alt="Avatar of TemirQ"> TemirQ
@@ -5955,7 +5942,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/maripbekoff">
 				<img src="https://avatars.githubusercontent.com/u/46377214?s=72&u=e3eb977c6112715438bc78831a8ef968e951d218&v=4" width="24" alt="Avatar of maripbekoff"> maripbekoff
@@ -5965,6 +5952,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Ati Projects </td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Almaty</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/MUNICIPALIST">
+				<img src="https://avatars.githubusercontent.com/u/116354815?s=72&u=288bf53ffe41f486a60e394034e93e8178812361&v=4" width="24" alt="Avatar of MUNICIPALIST"> MUNICIPALIST
+			</a><br/>
+			JA
+		</td>
+		<td>Nic </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -6139,6 +6139,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>465</td>
 		<td>
+			<a href="https://github.com/Hose9817">
+				<img src="https://avatars.githubusercontent.com/u/86202826?s=72&u=269f97a93ecc74503e2b57f7db4dfac419263119&v=4" width="24" alt="Avatar of Hose9817"> Hose9817
+			</a><br/>
+			Saib Abdullayev
+		</td>
+		<td>Compot Erp </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Almaty</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
 			<a href="https://github.com/yerzhanserikbay">
 				<img src="https://avatars.githubusercontent.com/u/28862203?s=72&u=ddc59585125c12f1aadcc4f04a6cb6a5722cd11d&v=4" width="24" alt="Avatar of yerzhanserikbay"> yerzhanserikbay
 			</a><br/>
@@ -6150,7 +6163,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/mangocreatorz">
 				<img src="https://avatars.githubusercontent.com/u/37999438?s=72&u=2a0d036dd992e885200ade6de5daab3e6b259375&v=4" width="24" alt="Avatar of mangocreatorz"> mangocreatorz
@@ -6163,7 +6176,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/Kudaiberdy">
 				<img src="https://avatars.githubusercontent.com/u/62105232?s=72&u=ecd379e38c46480e54eec5a2d3aa5e08325b53e0&v=4" width="24" alt="Avatar of Kudaiberdy"> Kudaiberdy
@@ -6176,7 +6189,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/realvadim">
 				<img src="https://avatars.githubusercontent.com/u/22069538?s=72&u=6d80a10b5216b9a8b76a92af4121a15db8d39c3d&v=4" width="24" alt="Avatar of realvadim"> realvadim
@@ -6189,7 +6202,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/dilnazanlid">
 				<img src="https://avatars.githubusercontent.com/u/28529727?s=72&v=4" width="24" alt="Avatar of dilnazanlid"> dilnazanlid
@@ -6200,19 +6213,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Nur-Sultan</td>
 		<td>20</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/ToxesFoxes">
-				<img src="https://avatars.githubusercontent.com/u/29871037?s=72&u=7cdb0f528c55f79a9d9c6c0ce21df2b6d1ed69a4&v=4" width="24" alt="Avatar of ToxesFoxes"> ToxesFoxes
-			</a><br/>
-			Тоха Лис
-		</td>
-		<td>@tmm-corporation </td>
-		<td><a href="https://twitter.com/ToxesFoxes">ToxesFoxes</a></td>
-		<td>Kazakhstan, Almaty</td>
-		<td>19</td>
 	</tr>
 	<tr>
 		<td>471</td>
@@ -6243,19 +6243,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>473</td>
 		<td>
-			<a href="https://github.com/royalnine">
-				<img src="https://avatars.githubusercontent.com/u/17271567?s=72&u=539803beb97acc7d5924d80c51d844077da3f3a1&v=4" width="24" alt="Avatar of royalnine"> royalnine
-			</a><br/>
-			Aidar Pochanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
 			<a href="https://github.com/l9kk">
 				<img src="https://avatars.githubusercontent.com/u/160344040?s=72&u=9e1a8b7347b07eb14157bafd9a7a94b5ce0a9103&v=4" width="24" alt="Avatar of l9kk"> l9kk
 			</a><br/>
@@ -6267,7 +6254,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/RamboXD">
 				<img src="https://avatars.githubusercontent.com/u/106954541?s=72&u=086eb77d8c872f2f4ae20ff9fcb9758ae2fade35&v=4" width="24" alt="Avatar of RamboXD"> RamboXD
@@ -6280,7 +6267,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/IAmMoltony">
 				<img src="https://avatars.githubusercontent.com/u/105192532?s=72&u=c957e763198ead2e207de13edfbaa11a62d43988&v=4" width="24" alt="Avatar of IAmMoltony"> IAmMoltony
@@ -6293,7 +6280,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/Manapaly">
 				<img src="https://avatars.githubusercontent.com/u/98648181?s=72&u=8e7e44768ee3c75df61e129e49290a25f23a36fe&v=4" width="24" alt="Avatar of Manapaly"> Manapaly
@@ -6303,6 +6290,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Kbtu </td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/isaldin">
+				<img src="https://avatars.githubusercontent.com/u/3307627?s=72&u=70a85d2b92f1c746ac022bb9fbca6323f62785cf&v=4" width="24" alt="Avatar of isaldin"> isaldin
+			</a><br/>
+			SALDIN ILYA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Karaganda</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -6321,19 +6321,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>479</td>
 		<td>
-			<a href="https://github.com/isaldin">
-				<img src="https://avatars.githubusercontent.com/u/3307627?s=72&u=70a85d2b92f1c746ac022bb9fbca6323f62785cf&v=4" width="24" alt="Avatar of isaldin"> isaldin
-			</a><br/>
-			SALDIN ILYA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Karaganda</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>480</td>
-		<td>
 			<a href="https://github.com/Amansdfg">
 				<img src="https://avatars.githubusercontent.com/u/149198402?s=72&u=025bd213572646b1b369f980dba85b7f721c49a6&v=4" width="24" alt="Avatar of Amansdfg"> Amansdfg
 			</a><br/>
@@ -6345,7 +6332,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/altynbek07">
 				<img src="https://avatars.githubusercontent.com/u/20629188?s=72&u=a1cc4531f3a688b427dcadaa4d27f7be19b7422e&v=4" width="24" alt="Avatar of altynbek07"> altynbek07
@@ -6358,7 +6345,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/markovdigital">
 				<img src="https://avatars.githubusercontent.com/u/15268617?s=72&u=761c798bad0e2cfbb3c3db82cc4f92b91e2215a5&v=4" width="24" alt="Avatar of markovdigital"> markovdigital
@@ -6371,7 +6358,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/alexjavascript">
 				<img src="https://avatars.githubusercontent.com/u/20648009?s=72&u=2869cf0cc1292502dfae115dace4e77d3f15072d&v=4" width="24" alt="Avatar of alexjavascript"> alexjavascript
@@ -6381,6 +6368,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>@scriptive-au </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/ermuhamett">
+				<img src="https://avatars.githubusercontent.com/u/135831343?s=72&v=4" width="24" alt="Avatar of ermuhamett"> ermuhamett
+			</a><br/>
+			Ermuhamet Bekbosynov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oskemen, Kazakhstan</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -6620,19 +6620,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>502</td>
 		<td>
-			<a href="https://github.com/Hose9817">
-				<img src="https://avatars.githubusercontent.com/u/86202826?s=72&u=269f97a93ecc74503e2b57f7db4dfac419263119&v=4" width="24" alt="Avatar of Hose9817"> Hose9817
-			</a><br/>
-			Saib Abdullayev
-		</td>
-		<td>Compot Erp </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Almaty</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
 			<a href="https://github.com/vmkcom">
 				<img src="https://avatars.githubusercontent.com/u/2012943?s=72&u=3da6e8d4a31435acc89780d67cb09db016c2b0e3&v=4" width="24" alt="Avatar of vmkcom"> vmkcom
 			</a><br/>
@@ -6644,7 +6631,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/PrVrSs">
 				<img src="https://avatars.githubusercontent.com/u/9142323?s=72&u=c9164c453a8b18b466a202f17e065aade86ace82&v=4" width="24" alt="Avatar of PrVrSs"> PrVrSs
@@ -6657,7 +6644,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/akzhol1337">
 				<img src="https://avatars.githubusercontent.com/u/84440793?s=72&u=da0a4130a63617e31f8c4f5d8d54025145b9a010&v=4" width="24" alt="Avatar of akzhol1337"> akzhol1337
@@ -6670,7 +6657,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/lagox">
 				<img src="https://avatars.githubusercontent.com/u/209143?s=72&v=4" width="24" alt="Avatar of lagox"> lagox
@@ -6683,7 +6670,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/solnikita">
 				<img src="https://avatars.githubusercontent.com/u/2405080?s=72&u=6c32ca7fce973d0480e1945f4098f5cce5fe9c8f&v=4" width="24" alt="Avatar of solnikita"> solnikita
@@ -6694,6 +6681,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
 		<td>19</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/ToxesFoxes">
+				<img src="https://avatars.githubusercontent.com/u/29871037?s=72&u=7cdb0f528c55f79a9d9c6c0ce21df2b6d1ed69a4&v=4" width="24" alt="Avatar of ToxesFoxes"> ToxesFoxes
+			</a><br/>
+			Тоха Лис
+		</td>
+		<td>@tmm-corporation </td>
+		<td><a href="https://twitter.com/ToxesFoxes">ToxesFoxes</a></td>
+		<td>Kazakhstan, Almaty</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>508</td>
@@ -6711,6 +6711,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>509</td>
 		<td>
+			<a href="https://github.com/royalnine">
+				<img src="https://avatars.githubusercontent.com/u/17271567?s=72&u=539803beb97acc7d5924d80c51d844077da3f3a1&v=4" width="24" alt="Avatar of royalnine"> royalnine
+			</a><br/>
+			Aidar Pochanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
 			<a href="https://github.com/rckm">
 				<img src="https://avatars.githubusercontent.com/u/28787627?s=72&u=43219f0e3c116df80374c5f8e80209e8b71eed88&v=4" width="24" alt="Avatar of rckm"> rckm
 			</a><br/>
@@ -6722,7 +6735,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/ArmanPrmanov">
 				<img src="https://avatars.githubusercontent.com/u/52095137?s=72&v=4" width="24" alt="Avatar of ArmanPrmanov"> ArmanPrmanov
@@ -6735,7 +6748,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/sultanlive">
 				<img src="https://avatars.githubusercontent.com/u/47426878?s=72&u=9788d232c0a1af622f2793b65ac603807dca4690&v=4" width="24" alt="Avatar of sultanlive"> sultanlive
@@ -6748,7 +6761,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/damirTAG">
 				<img src="https://avatars.githubusercontent.com/u/93281431?s=72&u=a828712a95add5da4cca7ef93b7fac31d0ab7777&v=4" width="24" alt="Avatar of damirTAG"> damirTAG
@@ -6761,7 +6774,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/ALLETttttt">
 				<img src="https://avatars.githubusercontent.com/u/98875678?s=72&u=a1a286b41e2c8c8defa266af42fe89bbfde69406&v=4" width="24" alt="Avatar of ALLETttttt"> ALLETttttt
@@ -6774,7 +6787,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/aslan-im">
 				<img src="https://avatars.githubusercontent.com/u/7303058?s=72&u=5de34446ec11b1d0ef23edf09c1a170beaf6dadd&v=4" width="24" alt="Avatar of aslan-im"> aslan-im
@@ -6787,7 +6800,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/sarvar-devx">
 				<img src="https://avatars.githubusercontent.com/u/149168684?s=72&u=15a953969a789e7b78d6ae7c5fcff5d89df05931&v=4" width="24" alt="Avatar of sarvar-devx"> sarvar-devx
@@ -6800,7 +6813,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/alibekashirali">
 				<img src="https://avatars.githubusercontent.com/u/20599188?s=72&u=086ea6418424b2b6a48059d24d0d48f882987f69&v=4" width="24" alt="Avatar of alibekashirali"> alibekashirali
@@ -6810,19 +6823,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/ermuhamett">
-				<img src="https://avatars.githubusercontent.com/u/135831343?s=72&v=4" width="24" alt="Avatar of ermuhamett"> ermuhamett
-			</a><br/>
-			Ermuhamet Bekbosynov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oskemen, Kazakhstan</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -6893,6 +6893,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>523</td>
 		<td>
+			<a href="https://github.com/khajimatov">
+				<img src="https://avatars.githubusercontent.com/u/62846961?s=72&u=58c1c052c4fcd44aa47c98dc66983530611dad30&v=4" width="24" alt="Avatar of khajimatov"> khajimatov
+			</a><br/>
+			Bkh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/khajimatov">khajimatov</a></td>
+		<td>Almaty, Kazakhstan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
 			<a href="https://github.com/jellyfisharuka">
 				<img src="https://avatars.githubusercontent.com/u/120684057?s=72&u=098c1467e16226d81e695afe45c1128a0e32b09a&v=4" width="24" alt="Avatar of jellyfisharuka"> jellyfisharuka
 			</a><br/>
@@ -6904,7 +6917,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/D1kz">
 				<img src="https://avatars.githubusercontent.com/u/974082?s=72&v=4" width="24" alt="Avatar of D1kz"> D1kz
@@ -6917,7 +6930,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/Yshmeel">
 				<img src="https://avatars.githubusercontent.com/u/15312596?s=72&u=61ca4ca7d9afc3bb507ecadbe484c777f05f50f7&v=4" width="24" alt="Avatar of Yshmeel"> Yshmeel
@@ -6930,7 +6943,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/tlkt7">
 				<img src="https://avatars.githubusercontent.com/u/99485742?s=72&u=16442237e150a5d703a9c809c88143df6572d83c&v=4" width="24" alt="Avatar of tlkt7"> tlkt7
@@ -6943,7 +6956,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/AmeAya">
 				<img src="https://avatars.githubusercontent.com/u/46866645?s=72&u=e5953bcefc895af4f4fc79a2b7c81abfffdea6e4&v=4" width="24" alt="Avatar of AmeAya"> AmeAya
@@ -6956,7 +6969,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/lebedev">
 				<img src="https://avatars.githubusercontent.com/u/5000549?s=72&u=ad4008c6464ae917e1e1f15fa824a018ea0c3576&v=4" width="24" alt="Avatar of lebedev"> lebedev
@@ -6969,7 +6982,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/Headsman-4899">
 				<img src="https://avatars.githubusercontent.com/u/47030118?s=72&u=71619b97ebb0674a8e311f8968a466e6d748f30d&v=4" width="24" alt="Avatar of Headsman-4899"> Headsman-4899
@@ -6982,7 +6995,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/rshezarr">
 				<img src="https://avatars.githubusercontent.com/u/66269334?s=72&u=8ff6ae759975bf18f3505765a8a9dc213937b5a4&v=4" width="24" alt="Avatar of rshezarr"> rshezarr
@@ -6995,7 +7008,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/aldiyars">
 				<img src="https://avatars.githubusercontent.com/u/51745365?s=72&v=4" width="24" alt="Avatar of aldiyars"> aldiyars
@@ -7008,7 +7021,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/yerzhankaratay">
 				<img src="https://avatars.githubusercontent.com/u/15953855?s=72&u=f7cb8d6b9c3b6e87fbe3a079fae482da50c76c42&v=4" width="24" alt="Avatar of yerzhankaratay"> yerzhankaratay
@@ -7021,7 +7034,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/osolomennikova">
 				<img src="https://avatars.githubusercontent.com/u/42801303?s=72&u=f343ac5f3b1ca8ae5cf54f276b328ed90922c4f5&v=4" width="24" alt="Avatar of osolomennikova"> osolomennikova
@@ -7034,7 +7047,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/JabbaS15">
 				<img src="https://avatars.githubusercontent.com/u/30264260?s=72&u=e81f5b048826fb1eb750ac578cdee37918c06cd3&v=4" width="24" alt="Avatar of JabbaS15"> JabbaS15
@@ -7047,7 +7060,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/Medina7276">
 				<img src="https://avatars.githubusercontent.com/u/54143476?s=72&u=4b178f6539e4be2daf3c1b555182e4f373825188&v=4" width="24" alt="Avatar of Medina7276"> Medina7276
@@ -7060,7 +7073,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/aissultan">
 				<img src="https://avatars.githubusercontent.com/u/98800706?s=72&u=6c308b55214a929503ef07f6c58cd6f874c70e0d&v=4" width="24" alt="Avatar of aissultan"> aissultan
@@ -7073,7 +7086,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/AlmasAskarbekov">
 				<img src="https://avatars.githubusercontent.com/u/3251354?s=72&u=b6b064113acba9394ac8ef1d9988cb390df74ce3&v=4" width="24" alt="Avatar of AlmasAskarbekov"> AlmasAskarbekov
@@ -7086,7 +7099,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/ay11111111111">
 				<img src="https://avatars.githubusercontent.com/u/38026074?s=72&v=4" width="24" alt="Avatar of ay11111111111"> ay11111111111
@@ -7099,7 +7112,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/raymayemir">
 				<img src="https://avatars.githubusercontent.com/u/5638101?s=72&u=cf31f845c7f40aa8062b6dc0d7f14e6a6f3c0c7c&v=4" width="24" alt="Avatar of raymayemir"> raymayemir
@@ -7112,7 +7125,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/VladimirTyrin">
 				<img src="https://avatars.githubusercontent.com/u/11394699?s=72&u=2ad8f7f991e59b083ba97483528963dc1fdf5b50&v=4" width="24" alt="Avatar of VladimirTyrin"> VladimirTyrin
@@ -7125,7 +7138,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/shaikhzhas">
 				<img src="https://avatars.githubusercontent.com/u/16730010?s=72&u=f3f9849df3a9436f9c56bcc823fd7f2928b32c62&v=4" width="24" alt="Avatar of shaikhzhas"> shaikhzhas
@@ -7138,7 +7151,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/Aboneyx">
 				<img src="https://avatars.githubusercontent.com/u/79087226?s=72&u=dadbc0b550678b5db5cfe210a4907c4fb28a6af1&v=4" width="24" alt="Avatar of Aboneyx"> Aboneyx
@@ -7151,7 +7164,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/f4nt0md3v">
 				<img src="https://avatars.githubusercontent.com/u/2322488?s=72&u=24f32b7f658642482b573bb9189f5be6640c5fa5&v=4" width="24" alt="Avatar of f4nt0md3v"> f4nt0md3v
@@ -7164,7 +7177,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/Medkhat">
 				<img src="https://avatars.githubusercontent.com/u/42961493?s=72&u=1d40203a57b6c19010968707d91765da1eb40940&v=4" width="24" alt="Avatar of Medkhat"> Medkhat
@@ -7177,7 +7190,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/abglnv">
 				<img src="https://avatars.githubusercontent.com/u/120701599?s=72&u=04d4d1905d6261ad2fa444bf8ae35299295c5149&v=4" width="24" alt="Avatar of abglnv"> abglnv
@@ -7190,7 +7203,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/danikarik">
 				<img src="https://avatars.githubusercontent.com/u/4386086?s=72&u=7433b816394ca081da04d4949d4fa8bd46a16a39&v=4" width="24" alt="Avatar of danikarik"> danikarik
@@ -7200,19 +7213,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/Fudoshiki">
-				<img src="https://avatars.githubusercontent.com/u/4083992?s=72&u=b10f7f8f44a6404e057fb82e16e84fe49dc86829&v=4" width="24" alt="Avatar of Fudoshiki"> Fudoshiki
-			</a><br/>
-			Yuri S.
-		</td>
-		<td>Youimmi </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -7231,6 +7231,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>549</td>
 		<td>
+			<a href="https://github.com/Fudoshiki">
+				<img src="https://avatars.githubusercontent.com/u/4083992?s=72&u=b10f7f8f44a6404e057fb82e16e84fe49dc86829&v=4" width="24" alt="Avatar of Fudoshiki"> Fudoshiki
+			</a><br/>
+			Yuri S.
+		</td>
+		<td>Youimmi </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
 			<a href="https://github.com/domalaq">
 				<img src="https://avatars.githubusercontent.com/u/3232885?s=72&u=0cd0efbb802af479a3d7cac30c14d39ebd54633b&v=4" width="24" alt="Avatar of domalaq"> domalaq
 			</a><br/>
@@ -7242,7 +7255,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/aianov">
+				<img src="https://avatars.githubusercontent.com/u/122548754?s=72&u=d003974ce4e1ef3106a81e7b22661cd4e5115e78&v=4" width="24" alt="Avatar of aianov"> aianov
+			</a><br/>
+			aianov
+		</td>
+		<td>Insolvent Capital </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/sama-kun">
 				<img src="https://avatars.githubusercontent.com/u/97883212?s=72&u=1f8c78a11ef2fd05c9344392fdd8df0b2b8bcd9a&v=4" width="24" alt="Avatar of sama-kun"> sama-kun
@@ -7255,7 +7281,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/manyports">
 				<img src="https://avatars.githubusercontent.com/u/157960666?s=72&u=d9840cf503528ad5a7f7c6551d188617295537df&v=4" width="24" alt="Avatar of manyports"> manyports
@@ -7268,7 +7294,33 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/alibekn6">
+				<img src="https://avatars.githubusercontent.com/u/91368175?s=72&u=3ca02f8a31e7110c00c4a56a88028efd40521570&v=4" width="24" alt="Avatar of alibekn6"> alibekn6
+			</a><br/>
+			alibek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/Madi-S">
+				<img src="https://avatars.githubusercontent.com/u/72963376?s=72&u=0b6d57f9e1f2170e0c63a6f7edc96caf1968b443&v=4" width="24" alt="Avatar of Madi-S"> Madi-S
+			</a><br/>
+			Madi S
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Astana</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/jareksedy">
 				<img src="https://avatars.githubusercontent.com/u/82605526?s=72&u=a5dd28d4ba088af8257b70f92e40f972db1cf3c9&v=4" width="24" alt="Avatar of jareksedy"> jareksedy
@@ -7281,7 +7333,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/Alishkoo">
 				<img src="https://avatars.githubusercontent.com/u/123235659?s=72&u=f32b08dddf43499f9ef3eb1e7e001fc36fb0fbe0&v=4" width="24" alt="Avatar of Alishkoo"> Alishkoo
@@ -7294,7 +7346,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/dmitryuk">
 				<img src="https://avatars.githubusercontent.com/u/661654?s=72&u=23fbf779c401373929a6986ef1ef9f62daabd5a5&v=4" width="24" alt="Avatar of dmitryuk"> dmitryuk
@@ -7307,7 +7359,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/Ruchanov">
 				<img src="https://avatars.githubusercontent.com/u/98680173?s=72&u=37448500c2ebede325b43bf5303d86aceab964b3&v=4" width="24" alt="Avatar of Ruchanov"> Ruchanov
@@ -7320,7 +7372,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/MaratulyTemirbolat">
 				<img src="https://avatars.githubusercontent.com/u/47031729?s=72&u=1aa50db1810993a1c562d04f7c74e7bb8ed9afc9&v=4" width="24" alt="Avatar of MaratulyTemirbolat"> MaratulyTemirbolat
@@ -7333,7 +7385,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/deniskrumko">
 				<img src="https://avatars.githubusercontent.com/u/7268848?s=72&u=e81a9bc7cdfa9936916181628145cc53f55eaa98&v=4" width="24" alt="Avatar of deniskrumko"> deniskrumko
@@ -7346,7 +7398,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/Karlsooon">
 				<img src="https://avatars.githubusercontent.com/u/92965747?s=72&v=4" width="24" alt="Avatar of Karlsooon"> Karlsooon
@@ -7359,7 +7411,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/SergeyMyssak">
 				<img src="https://avatars.githubusercontent.com/u/17855243?s=72&u=061e31b4948989f5a0a4f39364607bed5974b719&v=4" width="24" alt="Avatar of SergeyMyssak"> SergeyMyssak
@@ -7372,33 +7424,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/khajimatov">
-				<img src="https://avatars.githubusercontent.com/u/62846961?s=72&u=58c1c052c4fcd44aa47c98dc66983530611dad30&v=4" width="24" alt="Avatar of khajimatov"> khajimatov
-			</a><br/>
-			Bkh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/khajimatov">khajimatov</a></td>
-		<td>Almaty, Kazakhstan</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>561</td>
-		<td>
-			<a href="https://github.com/aarsaevv">
-				<img src="https://avatars.githubusercontent.com/u/95593386?s=72&u=73af211949fe6c5aecdb4d0f210a1df41d511665&v=4" width="24" alt="Avatar of aarsaevv"> aarsaevv
-			</a><br/>
-			Evgeny Arsaev
-		</td>
-		<td>Looking For Job </td>
-		<td>No Twitter Username</td>
-		<td>Temirtau, Kazakhstan</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>562</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/dissesmac">
 				<img src="https://avatars.githubusercontent.com/u/4978817?s=72&u=25872f2983cd1084fdf50fec3942d2cdfa2c00af&v=4" width="24" alt="Avatar of dissesmac"> dissesmac
@@ -7411,46 +7437,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>563</td>
-		<td>
-			<a href="https://github.com/acool-kaz">
-				<img src="https://avatars.githubusercontent.com/u/107098425?s=72&v=4" width="24" alt="Avatar of acool-kaz"> acool-kaz
-			</a><br/>
-			Akylzhan Eleusizov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nur-Sultan, Kazakhstan</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>564</td>
-		<td>
-			<a href="https://github.com/dianakuanyshkyzy">
-				<img src="https://avatars.githubusercontent.com/u/141010600?s=72&u=92faa29cc8725845ba84b8dda3f7f7cee735de8a&v=4" width="24" alt="Avatar of dianakuanyshkyzy"> dianakuanyshkyzy
-			</a><br/>
-			Diana Kuanyshkyzy
-		</td>
-		<td>Nazarbayev University </td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan </td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>565</td>
-		<td>
-			<a href="https://github.com/BernarBerdikul">
-				<img src="https://avatars.githubusercontent.com/u/61005409?s=72&u=c237059a8d9e080fe80844d1afa1db1e24f7cfdd&v=4" width="24" alt="Avatar of BernarBerdikul"> BernarBerdikul
-			</a><br/>
-			bernar_berdicool
-		</td>
-		<td>Python Backend Developer </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>566</td>
 		<td>
 			<a href="https://github.com/adi2215">
 				<img src="https://avatars.githubusercontent.com/u/58622606?s=72&u=8fe154590c54f14e02950779ec2fd2e44f31a6d1&v=4" width="24" alt="Avatar of adi2215"> adi2215
@@ -7463,7 +7450,59 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/aarsaevv">
+				<img src="https://avatars.githubusercontent.com/u/95593386?s=72&u=73af211949fe6c5aecdb4d0f210a1df41d511665&v=4" width="24" alt="Avatar of aarsaevv"> aarsaevv
+			</a><br/>
+			Evgeny Arsaev
+		</td>
+		<td>Looking For Job </td>
+		<td>No Twitter Username</td>
+		<td>Temirtau, Kazakhstan</td>
+		<td>17</td>
+	</tr>
+	<tr>
 		<td>567</td>
+		<td>
+			<a href="https://github.com/acool-kaz">
+				<img src="https://avatars.githubusercontent.com/u/107098425?s=72&v=4" width="24" alt="Avatar of acool-kaz"> acool-kaz
+			</a><br/>
+			Akylzhan Eleusizov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nur-Sultan, Kazakhstan</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/dianakuanyshkyzy">
+				<img src="https://avatars.githubusercontent.com/u/141010600?s=72&u=92faa29cc8725845ba84b8dda3f7f7cee735de8a&v=4" width="24" alt="Avatar of dianakuanyshkyzy"> dianakuanyshkyzy
+			</a><br/>
+			Diana Kuanyshkyzy
+		</td>
+		<td>Nazarbayev University </td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan </td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/BernarBerdikul">
+				<img src="https://avatars.githubusercontent.com/u/61005409?s=72&u=c237059a8d9e080fe80844d1afa1db1e24f7cfdd&v=4" width="24" alt="Avatar of BernarBerdikul"> BernarBerdikul
+			</a><br/>
+			bernar_berdicool
+		</td>
+		<td>Python Backend Developer </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/Mi7teR">
 				<img src="https://avatars.githubusercontent.com/u/5999356?s=72&v=4" width="24" alt="Avatar of Mi7teR"> Mi7teR
@@ -7476,7 +7515,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/nuraskhan">
 				<img src="https://avatars.githubusercontent.com/u/118952928?s=72&v=4" width="24" alt="Avatar of nuraskhan"> nuraskhan
@@ -7489,20 +7528,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>569</td>
-		<td>
-			<a href="https://github.com/cyrkaade">
-				<img src="https://avatars.githubusercontent.com/u/76843389?s=72&u=42ac14b19d1344d4a046b9af7fdafe1cb5951ea1&v=4" width="24" alt="Avatar of cyrkaade"> cyrkaade
-			</a><br/>
-			Arslan Akishev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>570</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/yeraassyl">
 				<img src="https://avatars.githubusercontent.com/u/35065519?s=72&u=4024a14bcbe7cb66546ce5bf51bcca7049e81023&v=4" width="24" alt="Avatar of yeraassyl"> yeraassyl
@@ -7515,7 +7541,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/cyrkaade">
+				<img src="https://avatars.githubusercontent.com/u/76843389?s=72&u=42ac14b19d1344d4a046b9af7fdafe1cb5951ea1&v=4" width="24" alt="Avatar of cyrkaade"> cyrkaade
+			</a><br/>
+			Arslan Akishev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/artefucktor">
 				<img src="https://avatars.githubusercontent.com/u/77234640?s=72&u=f3191e94f80052c02f04193d5b8e8c7594fb63f0&v=4" width="24" alt="Avatar of artefucktor"> artefucktor
@@ -7528,7 +7567,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/makhanovable">
 				<img src="https://avatars.githubusercontent.com/u/28304184?s=72&u=7aeb2c693fa611451b694bc51228e1830daeedc4&v=4" width="24" alt="Avatar of makhanovable"> makhanovable
@@ -7541,7 +7580,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/vjache">
 				<img src="https://avatars.githubusercontent.com/u/1158761?s=72&v=4" width="24" alt="Avatar of vjache"> vjache
@@ -7554,7 +7593,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/pooryasheikh">
 				<img src="https://avatars.githubusercontent.com/u/11376650?s=72&u=f45735e2611dc6c45d17a046b0957ad50a396d27&v=4" width="24" alt="Avatar of pooryasheikh"> pooryasheikh
@@ -7567,7 +7606,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/NRizzza">
 				<img src="https://avatars.githubusercontent.com/u/98638032?s=72&u=8128761aa66c76ce0d3ab7218e3f0afb9174a3b2&v=4" width="24" alt="Avatar of NRizzza"> NRizzza
@@ -7580,7 +7619,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/vi-k">
+				<img src="https://avatars.githubusercontent.com/u/15190393?s=72&v=4" width="24" alt="Avatar of vi-k"> vi-k
+			</a><br/>
+			Victor Dunaev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/SuperMasterBlasterLaser">
 				<img src="https://avatars.githubusercontent.com/u/8684688?s=72&u=0fb602e978d3434fce1a8a9632baa2a8fad06d98&v=4" width="24" alt="Avatar of SuperMasterBlasterLaser"> SuperMasterBlasterLaser
@@ -7593,7 +7645,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/DmitrievAnAn">
 				<img src="https://avatars.githubusercontent.com/u/195820238?s=72&u=ada2253df0d1e6b8a9b9bc8605808b145030590a&v=4" width="24" alt="Avatar of DmitrievAnAn"> DmitrievAnAn
@@ -7606,7 +7658,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/Yerkon">
 				<img src="https://avatars.githubusercontent.com/u/4002847?s=72&u=907687b816f3799c13604f2b9c2ca6d036801167&v=4" width="24" alt="Avatar of Yerkon"> Yerkon
@@ -7619,7 +7671,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/yerkbn">
 				<img src="https://avatars.githubusercontent.com/u/29584428?s=72&u=fb0e13685b27ed5777f00e8a29ade680d2648cd2&v=4" width="24" alt="Avatar of yerkbn"> yerkbn
@@ -7632,7 +7684,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/SekoJuku">
 				<img src="https://avatars.githubusercontent.com/u/70684876?s=72&u=87faad985030638226bbfb81925d030eec141a1c&v=4" width="24" alt="Avatar of SekoJuku"> SekoJuku
@@ -7645,7 +7697,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/EdelAlan">
 				<img src="https://avatars.githubusercontent.com/u/9877362?s=72&u=16ec614c036a7e618c31c1ac926a9dd1ee200d9b&v=4" width="24" alt="Avatar of EdelAlan"> EdelAlan
@@ -7658,7 +7710,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/meirrrrrr">
 				<img src="https://avatars.githubusercontent.com/u/38449856?s=72&u=0862fa4a4707c26825eda77cb8885024076cc039&v=4" width="24" alt="Avatar of meirrrrrr"> meirrrrrr
@@ -7671,7 +7723,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/MusaGasanguseinov">
 				<img src="https://avatars.githubusercontent.com/u/8113949?s=72&u=b800bb97f3acdad4432b21d2d8d1c4db07c935d0&v=4" width="24" alt="Avatar of MusaGasanguseinov"> MusaGasanguseinov
@@ -7684,7 +7736,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/koztimesin">
 				<img src="https://avatars.githubusercontent.com/u/54405163?s=72&u=a10abec8be6befd23448f2e166c2b538eb9991c5&v=4" width="24" alt="Avatar of koztimesin"> koztimesin
@@ -7697,7 +7749,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/Nurts">
 				<img src="https://avatars.githubusercontent.com/u/38371660?s=72&u=67a2efb74c2a60b0ed943c950b428e8b3e24462e&v=4" width="24" alt="Avatar of Nurts"> Nurts
@@ -7710,7 +7762,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/coldmint">
 				<img src="https://avatars.githubusercontent.com/u/15001726?s=72&u=1cc5a47acc0c17113226f4deab3ce5f483343402&v=4" width="24" alt="Avatar of coldmint"> coldmint
@@ -7723,7 +7775,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/janibekmarshal">
 				<img src="https://avatars.githubusercontent.com/u/19899058?s=72&v=4" width="24" alt="Avatar of janibekmarshal"> janibekmarshal
@@ -7736,7 +7788,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/raissov">
 				<img src="https://avatars.githubusercontent.com/u/45445345?s=72&u=6ced0ba11a3ab8c0b2aa9bba609f0522821586ff&v=4" width="24" alt="Avatar of raissov"> raissov
@@ -7749,7 +7801,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/avatar29A">
 				<img src="https://avatars.githubusercontent.com/u/1295709?s=72&u=3237af7b44b75f2788c6ee297edbc39faf4466cf&v=4" width="24" alt="Avatar of avatar29A"> avatar29A
@@ -7762,7 +7814,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/ShyngysSaktagan">
 				<img src="https://avatars.githubusercontent.com/u/42421173?s=72&u=aca69b3d3562e999c33fa979b59adc2b8b62e794&v=4" width="24" alt="Avatar of ShyngysSaktagan"> ShyngysSaktagan
@@ -7775,7 +7827,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/sarsembek">
 				<img src="https://avatars.githubusercontent.com/u/98958642?s=72&u=364a1fabc0f511805882488afc3b89c7efa0fa17&v=4" width="24" alt="Avatar of sarsembek"> sarsembek
@@ -7788,20 +7840,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/aianov">
-				<img src="https://avatars.githubusercontent.com/u/122548754?s=72&u=d003974ce4e1ef3106a81e7b22661cd4e5115e78&v=4" width="24" alt="Avatar of aianov"> aianov
-			</a><br/>
-			aianov
-		</td>
-		<td>Insolvent Capital </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan Almaty</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>593</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/Baukaalm">
 				<img src="https://avatars.githubusercontent.com/u/11878817?s=72&u=a43aea63c7f4df2fe43aa9afba188135b11ddb1d&v=4" width="24" alt="Avatar of Baukaalm"> Baukaalm
@@ -7814,7 +7853,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/exynil">
 				<img src="https://avatars.githubusercontent.com/u/29305614?s=72&u=3ef272b9985166a8323a1e053eee4e1227ca5969&v=4" width="24" alt="Avatar of exynil"> exynil
@@ -7827,20 +7866,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>595</td>
-		<td>
-			<a href="https://github.com/alibekn6">
-				<img src="https://avatars.githubusercontent.com/u/91368175?s=72&u=3ca02f8a31e7110c00c4a56a88028efd40521570&v=4" width="24" alt="Avatar of alibekn6"> alibekn6
-			</a><br/>
-			alibek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Almaty</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>596</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/2web">
 				<img src="https://avatars.githubusercontent.com/u/1179883?s=72&u=5b1a8127c5a3cac246adac4ba09fc16d543cf963&v=4" width="24" alt="Avatar of 2web"> 2web
@@ -7853,7 +7879,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/Aiving">
 				<img src="https://avatars.githubusercontent.com/u/73419411?s=72&u=7d4c463756f0804ac6e16ff85a287dcbb53c7885&v=4" width="24" alt="Avatar of Aiving"> Aiving
@@ -7866,7 +7892,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/ruslanjan">
 				<img src="https://avatars.githubusercontent.com/u/17768063?s=72&u=586dc5aba60cfd4201b447f2875e71e998b637d9&v=4" width="24" alt="Avatar of ruslanjan"> ruslanjan
@@ -7879,7 +7905,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/Sameri11">
 				<img src="https://avatars.githubusercontent.com/u/51940183?s=72&u=9ba6475e8d487bb5a984941844cdc4ab6d720422&v=4" width="24" alt="Avatar of Sameri11"> Sameri11
@@ -7892,7 +7918,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/kolpDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/99897367?s=72&u=62647d4eaa0fdc6fd8839e2c07663727162ccbdb&v=4" width="24" alt="Avatar of kolpDeveloper"> kolpDeveloper
@@ -7902,32 +7928,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>601</td>
-		<td>
-			<a href="https://github.com/Madi-S">
-				<img src="https://avatars.githubusercontent.com/u/72963376?s=72&u=0b6d57f9e1f2170e0c63a6f7edc96caf1968b443&v=4" width="24" alt="Avatar of Madi-S"> Madi-S
-			</a><br/>
-			Madi S
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Astana</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
-			<a href="https://github.com/yeahmerey">
-				<img src="https://avatars.githubusercontent.com/u/171139448?s=72&u=2b14caabb0bca358a0c4dc8613ea832bda51979c&v=4" width="24" alt="Avatar of yeahmerey"> yeahmerey
-			</a><br/>
-			Merey Kaliyev
-		</td>
-		<td>Kazakh-british Techincal University </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -7946,6 +7946,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>604</td>
 		<td>
+			<a href="https://github.com/yeahmerey">
+				<img src="https://avatars.githubusercontent.com/u/171139448?s=72&u=2b14caabb0bca358a0c4dc8613ea832bda51979c&v=4" width="24" alt="Avatar of yeahmerey"> yeahmerey
+			</a><br/>
+			Merey Kaliyev
+		</td>
+		<td>Kazakh-british Techincal University </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
 			<a href="https://github.com/JokePenny">
 				<img src="https://avatars.githubusercontent.com/u/31885303?s=72&u=40713bd0b6ab7e380f0651c3a395fd0c4c2a47bc&v=4" width="24" alt="Avatar of JokePenny"> JokePenny
 			</a><br/>
@@ -7957,7 +7970,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/Hackstr">
 				<img src="https://avatars.githubusercontent.com/u/4546749?s=72&v=4" width="24" alt="Avatar of Hackstr"> Hackstr
@@ -7970,7 +7983,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/yerassyldanay">
 				<img src="https://avatars.githubusercontent.com/u/37672700?s=72&u=b4580201bf39364218bcdc5a96c9e96dc2af4808&v=4" width="24" alt="Avatar of yerassyldanay"> yerassyldanay
@@ -7983,7 +7996,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/nxsaken">
 				<img src="https://avatars.githubusercontent.com/u/22136407?s=72&u=e608122e5e7048ad27724be6af94f6d459d4dbe7&v=4" width="24" alt="Avatar of nxsaken"> nxsaken
@@ -7996,7 +8009,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/abdulgafur24">
 				<img src="https://avatars.githubusercontent.com/u/17977396?s=72&u=00018f435c4a5dc1c07fb7f8d48d14640d514025&v=4" width="24" alt="Avatar of abdulgafur24"> abdulgafur24
@@ -8009,7 +8022,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/bekbergenb">
 				<img src="https://avatars.githubusercontent.com/u/9846332?s=72&u=139895f4e53bb01278f1d351f21dc6ecd67bc6ef&v=4" width="24" alt="Avatar of bekbergenb"> bekbergenb
@@ -8022,7 +8035,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/SamSweet04">
 				<img src="https://avatars.githubusercontent.com/u/98650996?s=72&v=4" width="24" alt="Avatar of SamSweet04"> SamSweet04
@@ -8035,7 +8048,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/kzh7">
 				<img src="https://avatars.githubusercontent.com/u/25451864?s=72&v=4" width="24" alt="Avatar of kzh7"> kzh7
@@ -8048,7 +8061,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/akuzdeuov">
 				<img src="https://avatars.githubusercontent.com/u/39990260?s=72&u=787b2a4e2a8fda527b4160a01b131569d787d667&v=4" width="24" alt="Avatar of akuzdeuov"> akuzdeuov
@@ -8058,19 +8071,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Institute Of Smart Systems<br/>And<br/>Ai.<br/></td>
 		<td><a href="https://twitter.com/akuzdeuov">akuzdeuov</a></td>
 		<td>Astana, Kazakhstan</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
-			<a href="https://github.com/Talgin">
-				<img src="https://avatars.githubusercontent.com/u/5124655?s=72&v=4" width="24" alt="Avatar of Talgin"> Talgin
-			</a><br/>
-			Talgin
-		</td>
-		<td>Nception Labs - Nception.kz<br/></td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -8466,6 +8466,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>644</td>
 		<td>
+			<a href="https://github.com/semiryak">
+				<img src="https://avatars.githubusercontent.com/u/4556271?s=72&u=4f5b3cf5b309f9880b54db3b114718ca0e06fe3e&v=4" width="24" alt="Avatar of semiryak"> semiryak
+			</a><br/>
+			Viktor
+		</td>
+		<td>Kazakhstan Central Securities Depositary<br/></td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazakhstan</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
 			<a href="https://github.com/arys">
 				<img src="https://avatars.githubusercontent.com/u/20532573?s=72&u=cb9739eec67589a574393db29bbfdb02430a280e&v=4" width="24" alt="Avatar of arys"> arys
 			</a><br/>
@@ -8477,7 +8490,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/AssylzhanZharzhanov">
 				<img src="https://avatars.githubusercontent.com/u/16020572?s=72&u=8e454bc06ba64a86af1ee98c72ad9f50ed0b3e64&v=4" width="24" alt="Avatar of AssylzhanZharzhanov"> AssylzhanZharzhanov
@@ -8487,19 +8500,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Dochq </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>646</td>
-		<td>
-			<a href="https://github.com/luvor">
-				<img src="https://avatars.githubusercontent.com/u/86249418?s=72&u=42a02d537ee598e16c89af336fe32aadeb76b098&v=4" width="24" alt="Avatar of luvor"> luvor
-			</a><br/>
-			roteluvor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Astana</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -8518,6 +8518,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>648</td>
 		<td>
+			<a href="https://github.com/luvor">
+				<img src="https://avatars.githubusercontent.com/u/86249418?s=72&u=42a02d537ee598e16c89af336fe32aadeb76b098&v=4" width="24" alt="Avatar of luvor"> luvor
+			</a><br/>
+			roteluvor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Astana</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
 			<a href="https://github.com/themilan1337">
 				<img src="https://avatars.githubusercontent.com/u/76396495?s=72&u=a39456a36c53846f7d491cf0241be027dceba145&v=4" width="24" alt="Avatar of themilan1337"> themilan1337
 			</a><br/>
@@ -8529,7 +8542,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/vulkanfry">
 				<img src="https://avatars.githubusercontent.com/u/18646440?s=72&u=3c05e8983416aa17eaff0e0d5627ecd39ab49d55&v=4" width="24" alt="Avatar of vulkanfry"> vulkanfry
@@ -8542,7 +8555,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/abdymazhit">
 				<img src="https://avatars.githubusercontent.com/u/46745562?s=72&u=a3f79a1d332ee50f5814cba5b9d9a0bb67191e23&v=4" width="24" alt="Avatar of abdymazhit"> abdymazhit
@@ -8555,7 +8568,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/akbarkz">
 				<img src="https://avatars.githubusercontent.com/u/15943863?s=72&v=4" width="24" alt="Avatar of akbarkz"> akbarkz
@@ -8568,7 +8581,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/Svetomech">
 				<img src="https://avatars.githubusercontent.com/u/7114815?s=72&u=eee7f8e6d6efa360af770a261fe1069c6dd63431&v=4" width="24" alt="Avatar of Svetomech"> Svetomech
@@ -8581,7 +8594,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/qwertukg">
 				<img src="https://avatars.githubusercontent.com/u/4414230?s=72&u=735135e1d18773e2398fc68e0965e8261558dcf6&v=4" width="24" alt="Avatar of qwertukg"> qwertukg
@@ -8594,7 +8607,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/skykz">
 				<img src="https://avatars.githubusercontent.com/u/36616186?s=72&u=ab21e1a6351a3633308028e38cbae30e22d2e5a3&v=4" width="24" alt="Avatar of skykz"> skykz
@@ -8607,7 +8620,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/nova8yte">
 				<img src="https://avatars.githubusercontent.com/u/47229418?s=72&u=d129a9c2bd9dcd85148e340e0896ec38ae9870cb&v=4" width="24" alt="Avatar of nova8yte"> nova8yte
@@ -8620,7 +8633,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/Asich">
 				<img src="https://avatars.githubusercontent.com/u/3408708?s=72&u=3e412b1a7bf14fdc4a5bd1cda2394961d0b7598d&v=4" width="24" alt="Avatar of Asich"> Asich
@@ -8633,7 +8646,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/kurrx">
 				<img src="https://avatars.githubusercontent.com/u/110667147?s=72&u=3e778da550c630b7652477aecdd210e39c4e8862&v=4" width="24" alt="Avatar of kurrx"> kurrx
@@ -8646,7 +8659,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/jekiworld">
 				<img src="https://avatars.githubusercontent.com/u/136676261?s=72&v=4" width="24" alt="Avatar of jekiworld"> jekiworld
@@ -8659,7 +8672,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/whilein">
 				<img src="https://avatars.githubusercontent.com/u/74229713?s=72&v=4" width="24" alt="Avatar of whilein"> whilein
@@ -8672,7 +8685,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/brjppru">
 				<img src="https://avatars.githubusercontent.com/u/2167917?s=72&u=bdb9e2ab39a241cca9f1531866e8651868e16b24&v=4" width="24" alt="Avatar of brjppru"> brjppru
@@ -8685,7 +8698,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/BekzhanKaspakov">
 				<img src="https://avatars.githubusercontent.com/u/34922345?s=72&u=fb7c0ccf965e6efdff8f9fcb08e09abe6babbdab&v=4" width="24" alt="Avatar of BekzhanKaspakov"> BekzhanKaspakov
@@ -8698,7 +8711,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/yerenn22">
 				<img src="https://avatars.githubusercontent.com/u/93337824?s=72&u=e3aa75db46833ce5229f9349dae1747d0b63b905&v=4" width="24" alt="Avatar of yerenn22"> yerenn22
@@ -8711,7 +8724,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/biz87">
 				<img src="https://avatars.githubusercontent.com/u/20155850?s=72&u=549340be428035a877822875a843df44a3c943f0&v=4" width="24" alt="Avatar of biz87"> biz87
@@ -8724,7 +8737,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/shytyrman">
 				<img src="https://avatars.githubusercontent.com/u/159638419?s=72&u=a9982dd012a93e01a1671a1b0e2592be3bd11171&v=4" width="24" alt="Avatar of shytyrman"> shytyrman
@@ -8737,7 +8750,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/bobtoss">
 				<img src="https://avatars.githubusercontent.com/u/98646926?s=72&v=4" width="24" alt="Avatar of bobtoss"> bobtoss
@@ -8750,7 +8763,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/zhanybekovv">
 				<img src="https://avatars.githubusercontent.com/u/43613240?s=72&u=02527ae0e9fd7c086f09903c2b1dfea6d92f3513&v=4" width="24" alt="Avatar of zhanybekovv"> zhanybekovv
@@ -8763,7 +8776,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/FalseDeckard">
+				<img src="https://avatars.githubusercontent.com/u/54556319?s=72&u=4b460c300a60db7f8671cb55bb3d8dfaa822bc88&v=4" width="24" alt="Avatar of FalseDeckard"> FalseDeckard
+			</a><br/>
+			Nikita Protsanov
+		</td>
+		<td>Solar Turbines </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/Didar83">
 				<img src="https://avatars.githubusercontent.com/u/3214809?s=72&u=ac23786a87820ee546fbe0f88cd9eb51d85d90b8&v=4" width="24" alt="Avatar of Didar83"> Didar83
@@ -8776,20 +8802,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>670</td>
 		<td>
-			<a href="https://github.com/diasjakupov">
-				<img src="https://avatars.githubusercontent.com/u/66868394?s=72&v=4" width="24" alt="Avatar of diasjakupov"> diasjakupov
+			<a href="https://github.com/Talgin">
+				<img src="https://avatars.githubusercontent.com/u/5124655?s=72&v=4" width="24" alt="Avatar of Talgin"> Talgin
 			</a><br/>
-			Dias Jakupov
+			Talgin
 		</td>
-		<td>No Company</td>
+		<td>Nception Labs - Nception.kz<br/></td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
+		<td>Almaty</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/Shedshyi">
 				<img src="https://avatars.githubusercontent.com/u/90133181?s=72&u=e8f0dc535cfe06a977c626de2f522dc56d5a0007&v=4" width="24" alt="Avatar of Shedshyi"> Shedshyi
@@ -8802,7 +8828,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/nightBaker">
 				<img src="https://avatars.githubusercontent.com/u/10187750?s=72&u=046137a59b9cc9f346f6d243d1493732583e76ec&v=4" width="24" alt="Avatar of nightBaker"> nightBaker
@@ -8815,7 +8841,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/zairovarsen">
 				<img src="https://avatars.githubusercontent.com/u/74537423?s=72&u=e09df68f5eb2a66e52e78cb0750e16f74c0600d1&v=4" width="24" alt="Avatar of zairovarsen"> zairovarsen
@@ -8828,7 +8854,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/jshikanova">
 				<img src="https://avatars.githubusercontent.com/u/15303386?s=72&u=fed37c9ff95058001f7a02dcf451696611a77cc8&v=4" width="24" alt="Avatar of jshikanova"> jshikanova
@@ -8841,7 +8867,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/tlglv-n">
 				<img src="https://avatars.githubusercontent.com/u/98637977?s=72&u=87bbab96de129454a7e06411d26f933d1de77f8c&v=4" width="24" alt="Avatar of tlglv-n"> tlglv-n
@@ -8854,7 +8880,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/bugielektrik">
+				<img src="https://avatars.githubusercontent.com/u/17942453?s=72&u=22dc6def108b73c787443efa45507e4916839f29&v=4" width="24" alt="Avatar of bugielektrik"> bugielektrik
+			</a><br/>
+			Zhanat Rakhmet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/Rastavelli">
 				<img src="https://avatars.githubusercontent.com/u/25128437?s=72&u=dd12d96042e2fd73b17e8274f7cd054540c3d1e0&v=4" width="24" alt="Avatar of Rastavelli"> Rastavelli
@@ -8867,7 +8906,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/ansaryergesh">
 				<img src="https://avatars.githubusercontent.com/u/23493156?s=72&v=4" width="24" alt="Avatar of ansaryergesh"> ansaryergesh
@@ -8880,7 +8919,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/mussakhojayeva">
 				<img src="https://avatars.githubusercontent.com/u/14142545?s=72&v=4" width="24" alt="Avatar of mussakhojayeva"> mussakhojayeva
@@ -8893,7 +8932,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/arruah">
 				<img src="https://avatars.githubusercontent.com/u/67720?s=72&v=4" width="24" alt="Avatar of arruah"> arruah
@@ -8906,7 +8945,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/moldabek">
 				<img src="https://avatars.githubusercontent.com/u/47217855?s=72&u=3890e864bfd2761c9f0617d30b08e4246d58bcda&v=4" width="24" alt="Avatar of moldabek"> moldabek
@@ -8919,7 +8958,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/zufchan">
 				<img src="https://avatars.githubusercontent.com/u/70619767?s=72&u=fabf56c381da1b1f5fd702b1f8cce291b4fecd72&v=4" width="24" alt="Avatar of zufchan"> zufchan
@@ -8932,7 +8971,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/dorenyerbolov">
 				<img src="https://avatars.githubusercontent.com/u/32157696?s=72&u=383e4fcfdd02b4518b6e1ed98584f09c039f54c1&v=4" width="24" alt="Avatar of dorenyerbolov"> dorenyerbolov
@@ -8945,7 +8984,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/redcapital">
 				<img src="https://avatars.githubusercontent.com/u/393062?s=72&v=4" width="24" alt="Avatar of redcapital"> redcapital
@@ -8958,7 +8997,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/KaldurAm">
 				<img src="https://avatars.githubusercontent.com/u/11853540?s=72&v=4" width="24" alt="Avatar of KaldurAm"> KaldurAm
@@ -8971,7 +9010,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Renatdk">
 				<img src="https://avatars.githubusercontent.com/u/4770660?s=72&v=4" width="24" alt="Avatar of Renatdk"> Renatdk
@@ -8984,7 +9023,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/taem">
 				<img src="https://avatars.githubusercontent.com/u/449260?s=72&v=4" width="24" alt="Avatar of taem"> taem
@@ -8997,7 +9036,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/UnknownSaken">
 				<img src="https://avatars.githubusercontent.com/u/15123382?s=72&v=4" width="24" alt="Avatar of UnknownSaken"> UnknownSaken
@@ -9010,7 +9049,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/NicholasKrupenin">
+				<img src="https://avatars.githubusercontent.com/u/86982554?s=72&u=876f92fd5f0b7b83e989586f860e2e2f8eea9957&v=4" width="24" alt="Avatar of NicholasKrupenin"> NicholasKrupenin
+			</a><br/>
+			Nicholas Krupenin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/DimashOngda">
 				<img src="https://avatars.githubusercontent.com/u/38102951?s=72&u=c73b91434a7984f3a2ad87a0cf548b3ac3416e46&v=4" width="24" alt="Avatar of DimashOngda"> DimashOngda
@@ -9023,7 +9075,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/dtulendiyev">
 				<img src="https://avatars.githubusercontent.com/u/14088971?s=72&v=4" width="24" alt="Avatar of dtulendiyev"> dtulendiyev
@@ -9036,7 +9088,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/arafat-01">
 				<img src="https://avatars.githubusercontent.com/u/68154886?s=72&v=4" width="24" alt="Avatar of arafat-01"> arafat-01
@@ -9049,20 +9101,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/semiryak">
-				<img src="https://avatars.githubusercontent.com/u/4556271?s=72&u=4f5b3cf5b309f9880b54db3b114718ca0e06fe3e&v=4" width="24" alt="Avatar of semiryak"> semiryak
-			</a><br/>
-			Viktor
-		</td>
-		<td>Kazakhstan Central Securities Depositary<br/></td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>690</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/17101990coder">
 				<img src="https://avatars.githubusercontent.com/u/98482339?s=72&u=0feff6306bbc8b46ab24f9858eee1b495cb379af&v=4" width="24" alt="Avatar of 17101990coder"> 17101990coder
@@ -9075,7 +9114,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/pieceowater">
 				<img src="https://avatars.githubusercontent.com/u/94337419?s=72&u=708fda5d1d9e469bca2eada9e2b6f7d31c0b39ee&v=4" width="24" alt="Avatar of pieceowater"> pieceowater
@@ -9088,7 +9127,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/Rnbsov">
 				<img src="https://avatars.githubusercontent.com/u/73550760?s=72&u=1f4c7883baab12b159aca7ff02d2e9d60f403a09&v=4" width="24" alt="Avatar of Rnbsov"> Rnbsov
@@ -9101,7 +9140,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/Vanckoe">
 				<img src="https://avatars.githubusercontent.com/u/72342873?s=72&u=77af959ebdaf189638b26905a611a19787881ccb&v=4" width="24" alt="Avatar of Vanckoe"> Vanckoe
@@ -9114,7 +9153,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/NOZ1000">
 				<img src="https://avatars.githubusercontent.com/u/56728939?s=72&u=119c69f0dea92d36cc96b7853df71790235fe4fa&v=4" width="24" alt="Avatar of NOZ1000"> NOZ1000
@@ -9127,7 +9166,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/axecapkz">
 				<img src="https://avatars.githubusercontent.com/u/3662112?s=72&u=b788c73b6d64da3c4988340328c49b545163657b&v=4" width="24" alt="Avatar of axecapkz"> axecapkz
@@ -9140,7 +9179,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/abdigali1">
 				<img src="https://avatars.githubusercontent.com/u/38273170?s=72&u=002ca8d21c2958a1e6986c0567e6ad5c4d3f0607&v=4" width="24" alt="Avatar of abdigali1"> abdigali1
@@ -9153,7 +9192,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/paraslov">
 				<img src="https://avatars.githubusercontent.com/u/71516577?s=72&u=5a4b825627261616fa574c6824afbed1f96344f3&v=4" width="24" alt="Avatar of paraslov"> paraslov
@@ -9166,7 +9205,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/Zhaisan">
 				<img src="https://avatars.githubusercontent.com/u/57716933?s=72&u=2a466a8094da5c7059940257d8e0666396f9abf0&v=4" width="24" alt="Avatar of Zhaisan"> Zhaisan
@@ -9179,7 +9218,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/Staraway225">
 				<img src="https://avatars.githubusercontent.com/u/28870516?s=72&u=8046e4263afaf07aa81163ecb1a2637cf37540c8&v=4" width="24" alt="Avatar of Staraway225"> Staraway225
@@ -9192,20 +9231,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/dotpep">
 				<img src="https://avatars.githubusercontent.com/u/124679235?s=72&u=9f5b32cb8a3258ac9ccabae0274bb68f6070512f&v=4" width="24" alt="Avatar of dotpep"> dotpep
 			</a><br/>
-			Didar K.
+			pepel
 		</td>
-		<td>No Company</td>
+		<td>Spichka </td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/sogeking7">
 				<img src="https://avatars.githubusercontent.com/u/111349192?s=72&u=a6705e0f913d08dbc42c9eea0274b1ecbe949d34&v=4" width="24" alt="Avatar of sogeking7"> sogeking7
@@ -9218,7 +9257,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/Molidier">
 				<img src="https://avatars.githubusercontent.com/u/73649370?s=72&u=9cd6d75956b1f49d2bd33feb4b814af8eddf6d9c&v=4" width="24" alt="Avatar of Molidier"> Molidier
@@ -9231,7 +9270,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/Radch-enko">
 				<img src="https://avatars.githubusercontent.com/u/69201578?s=72&u=c19499da144c38d46bce230da0b8e79ead903e66&v=4" width="24" alt="Avatar of Radch-enko"> Radch-enko
@@ -9244,7 +9283,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/dysmon">
 				<img src="https://avatars.githubusercontent.com/u/120464230?s=72&u=17fcf96e51e7531f71aa36bfacb6eae8132238b3&v=4" width="24" alt="Avatar of dysmon"> dysmon
@@ -9257,7 +9296,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/Rema04Dev">
 				<img src="https://avatars.githubusercontent.com/u/100093407?s=72&u=6f5ecff7c9c3fab9dd6059dd9038f2e2db5a108b&v=4" width="24" alt="Avatar of Rema04Dev"> Rema04Dev
@@ -9270,7 +9309,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/NawrasBukhari">
 				<img src="https://avatars.githubusercontent.com/u/63796900?s=72&u=48642555d5774691bd629cdf8a007fc91a8fcc65&v=4" width="24" alt="Avatar of NawrasBukhari"> NawrasBukhari
@@ -9283,7 +9322,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/bodevone">
 				<img src="https://avatars.githubusercontent.com/u/19284074?s=72&u=c349dd0982d266cb7f8cfb848d8012aeeb8dca1d&v=4" width="24" alt="Avatar of bodevone"> bodevone
@@ -9296,7 +9335,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/1August">
 				<img src="https://avatars.githubusercontent.com/u/75685615?s=72&u=1015a0535d051afef04fbabd2b081541bda0ba73&v=4" width="24" alt="Avatar of 1August"> 1August
@@ -9309,7 +9348,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/alfinkly">
 				<img src="https://avatars.githubusercontent.com/u/82753456?s=72&u=d1d73c73c7afd6811a2ac0d47f5e0e6c3ffee8ef&v=4" width="24" alt="Avatar of alfinkly"> alfinkly
@@ -9322,20 +9361,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>710</td>
-		<td>
-			<a href="https://github.com/MZhann">
-				<img src="https://avatars.githubusercontent.com/u/90520809?s=72&u=c25d65737d80744d46ece53bb2feacb767c28888&v=4" width="24" alt="Avatar of MZhann"> MZhann
-			</a><br/>
-			Zhanbolat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Almaty</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/Sanzhar017">
 				<img src="https://avatars.githubusercontent.com/u/86317443?s=72&u=a6fdaea2c68d8205eed3175116b78c8141f3dc9e&v=4" width="24" alt="Avatar of Sanzhar017"> Sanzhar017
@@ -9348,7 +9374,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/MZhann">
+				<img src="https://avatars.githubusercontent.com/u/90520809?s=72&u=c25d65737d80744d46ece53bb2feacb767c28888&v=4" width="24" alt="Avatar of MZhann"> MZhann
+			</a><br/>
+			Zhanbolat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Almaty</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/DiasSadykov">
 				<img src="https://avatars.githubusercontent.com/u/44152164?s=72&u=233b8fac24c1d8b8251f5a982029d0980d1d39f9&v=4" width="24" alt="Avatar of DiasSadykov"> DiasSadykov
@@ -9361,7 +9400,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/zhiyenbekov1222">
 				<img src="https://avatars.githubusercontent.com/u/80092254?s=72&u=40a94174c51c20c3ffc921b3ecafea843fa1ded0&v=4" width="24" alt="Avatar of zhiyenbekov1222"> zhiyenbekov1222
@@ -9374,7 +9413,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/baglan-s">
 				<img src="https://avatars.githubusercontent.com/u/63715865?s=72&u=74e890801eeadd498d88b8a40f2ecf4e1f1b3b22&v=4" width="24" alt="Avatar of baglan-s"> baglan-s
@@ -9387,7 +9426,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/Kainar01">
 				<img src="https://avatars.githubusercontent.com/u/53599628?s=72&u=f1113cce95494297ed7e385507c2947a7c1c2865&v=4" width="24" alt="Avatar of Kainar01"> Kainar01
@@ -9400,7 +9439,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/btogzhan2000">
 				<img src="https://avatars.githubusercontent.com/u/45527668?s=72&u=66b580b23c531dcf847a0c2ca2af34413a32e717&v=4" width="24" alt="Avatar of btogzhan2000"> btogzhan2000
@@ -9413,20 +9452,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>717</td>
-		<td>
-			<a href="https://github.com/FalseDeckard">
-				<img src="https://avatars.githubusercontent.com/u/54556319?s=72&u=4b460c300a60db7f8671cb55bb3d8dfaa822bc88&v=4" width="24" alt="Avatar of FalseDeckard"> FalseDeckard
-			</a><br/>
-			Nikita Protsanov
-		</td>
-		<td>Solar Turbines </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/LuckyMen000">
 				<img src="https://avatars.githubusercontent.com/u/107469663?s=72&u=f75011f89b7c381e8133074ad4725bbd5920042c&v=4" width="24" alt="Avatar of LuckyMen000"> LuckyMen000
@@ -9439,7 +9465,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/exe-dealer">
 				<img src="https://avatars.githubusercontent.com/u/3988889?s=72&u=acad6552cef73f551b4717edc9e0fdcd09ec7c11&v=4" width="24" alt="Avatar of exe-dealer"> exe-dealer
@@ -9452,7 +9478,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/sinelnikov-web">
 				<img src="https://avatars.githubusercontent.com/u/67955139?s=72&u=09d0b6c7cfde0658ceb7fb9ae78bb13da0b68314&v=4" width="24" alt="Avatar of sinelnikov-web"> sinelnikov-web
@@ -9465,7 +9491,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/ssuleimenovv">
 				<img src="https://avatars.githubusercontent.com/u/123289263?s=72&u=f80a697f5f2d63064b324984809dec431d9d2095&v=4" width="24" alt="Avatar of ssuleimenovv"> ssuleimenovv
@@ -9478,7 +9504,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/aigerim-suleimenova">
 				<img src="https://avatars.githubusercontent.com/u/26738268?s=72&v=4" width="24" alt="Avatar of aigerim-suleimenova"> aigerim-suleimenova
@@ -9491,7 +9517,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/diasjakupov">
+				<img src="https://avatars.githubusercontent.com/u/66868394?s=72&v=4" width="24" alt="Avatar of diasjakupov"> diasjakupov
+			</a><br/>
+			Dias Jakupov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/everypidigit">
 				<img src="https://avatars.githubusercontent.com/u/81741552?s=72&u=7f06e9d25f217243470036f23c69b822ccdb171c&v=4" width="24" alt="Avatar of everypidigit"> everypidigit
@@ -9504,7 +9543,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/kergalym">
 				<img src="https://avatars.githubusercontent.com/u/9489149?s=72&u=654d475ae159eef8ec2c242148388b9843b01367&v=4" width="24" alt="Avatar of kergalym"> kergalym
@@ -9517,7 +9556,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/aknurkappar">
 				<img src="https://avatars.githubusercontent.com/u/95418973?s=72&u=3ded24fcd7d3ede4b54f6d1a51ff2137a8997d32&v=4" width="24" alt="Avatar of aknurkappar"> aknurkappar
@@ -9530,7 +9569,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/duskembayev">
 				<img src="https://avatars.githubusercontent.com/u/14294244?s=72&v=4" width="24" alt="Avatar of duskembayev"> duskembayev
@@ -9543,7 +9582,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/azamatkhid">
 				<img src="https://avatars.githubusercontent.com/u/9010683?s=72&v=4" width="24" alt="Avatar of azamatkhid"> azamatkhid
@@ -9556,7 +9595,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/mpyatishev">
 				<img src="https://avatars.githubusercontent.com/u/3088773?s=72&u=330945698b9c60bef440489d84b59ad3d78e0402&v=4" width="24" alt="Avatar of mpyatishev"> mpyatishev
@@ -9569,7 +9608,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/whiskas">
 				<img src="https://avatars.githubusercontent.com/u/196935?s=72&u=db4ae15c5221c8567995cad44302c78e5cdb6909&v=4" width="24" alt="Avatar of whiskas"> whiskas
@@ -9582,7 +9621,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/bagdwr">
 				<img src="https://avatars.githubusercontent.com/u/61458120?s=72&u=d4cd00d6e4fcd78bbf58c27ccba20a0ef558477c&v=4" width="24" alt="Avatar of bagdwr"> bagdwr
@@ -9595,20 +9634,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>731</td>
-		<td>
-			<a href="https://github.com/bugielektrik">
-				<img src="https://avatars.githubusercontent.com/u/17942453?s=72&u=22dc6def108b73c787443efa45507e4916839f29&v=4" width="24" alt="Avatar of bugielektrik"> bugielektrik
-			</a><br/>
-			Zhanat Rakhmet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>732</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/morozovalexander">
 				<img src="https://avatars.githubusercontent.com/u/7498526?s=72&u=2d428e48413bfd26c0f002e0d7fe2ba31acab1f5&v=4" width="24" alt="Avatar of morozovalexander"> morozovalexander
@@ -9621,7 +9647,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/hawandonnell">
 				<img src="https://avatars.githubusercontent.com/u/46353607?s=72&u=4459bbbb1284eea17b75c6c183a48487d88ef8ac&v=4" width="24" alt="Avatar of hawandonnell"> hawandonnell
@@ -9634,7 +9660,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/serikkazy-uly">
 				<img src="https://avatars.githubusercontent.com/u/68623724?s=72&u=16cba18832b548d27a145c442dd052f953a0ab95&v=4" width="24" alt="Avatar of serikkazy-uly"> serikkazy-uly
@@ -9647,7 +9673,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/deger4beger">
 				<img src="https://avatars.githubusercontent.com/u/69754235?s=72&u=a63489f1103315435065f5f45c5fbd97913974da&v=4" width="24" alt="Avatar of deger4beger"> deger4beger
@@ -9660,7 +9686,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/Kairzhan">
 				<img src="https://avatars.githubusercontent.com/u/3740516?s=72&u=64bd9872af40301510d01db03b284c10cd575937&v=4" width="24" alt="Avatar of Kairzhan"> Kairzhan
@@ -9673,7 +9699,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/maximten">
 				<img src="https://avatars.githubusercontent.com/u/5945414?s=72&u=3e20a1505ff42f878334cd2478f69d39d05b4550&v=4" width="24" alt="Avatar of maximten"> maximten
@@ -9686,7 +9712,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/alibekabdrakhman1">
 				<img src="https://avatars.githubusercontent.com/u/79817284?s=72&u=bbb4d176619f4769f9a2e97264a25953e477a5f7&v=4" width="24" alt="Avatar of alibekabdrakhman1"> alibekabdrakhman1
@@ -9699,7 +9725,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/parfilov">
 				<img src="https://avatars.githubusercontent.com/u/12493645?s=72&v=4" width="24" alt="Avatar of parfilov"> parfilov
@@ -9712,7 +9738,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/Llammt">
 				<img src="https://avatars.githubusercontent.com/u/17315976?s=72&u=d2fc17e065c591aabf673b3f76b2dd6eefc25259&v=4" width="24" alt="Avatar of Llammt"> Llammt
@@ -9725,7 +9751,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/SeydazimovN">
 				<img src="https://avatars.githubusercontent.com/u/13962172?s=72&u=1c9ee4913ae7355295e12213c19ae5b19dd818f3&v=4" width="24" alt="Avatar of SeydazimovN"> SeydazimovN
@@ -9738,7 +9764,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/bzholmyrza">
 				<img src="https://avatars.githubusercontent.com/u/72935461?s=72&v=4" width="24" alt="Avatar of bzholmyrza"> bzholmyrza
@@ -9751,7 +9777,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/mebr0">
 				<img src="https://avatars.githubusercontent.com/u/35865805?s=72&u=929edf60da67bcc986c43bd942028e634267486e&v=4" width="24" alt="Avatar of mebr0"> mebr0
@@ -9764,7 +9790,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/MXslade">
 				<img src="https://avatars.githubusercontent.com/u/36759781?s=72&u=01439ba9e6381e0c5701d991966463879c09685c&v=4" width="24" alt="Avatar of MXslade"> MXslade
@@ -9777,7 +9803,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/yessenali">
 				<img src="https://avatars.githubusercontent.com/u/79502907?s=72&u=58507d0db0055da3539810593dc575dec2466903&v=4" width="24" alt="Avatar of yessenali"> yessenali
@@ -9790,7 +9816,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/yerkeboolan">
 				<img src="https://avatars.githubusercontent.com/u/21689608?s=72&u=ff3b4b9ebcd969e8423fbd762749605279d20d80&v=4" width="24" alt="Avatar of yerkeboolan"> yerkeboolan
@@ -9803,7 +9829,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/edumoran">
 				<img src="https://avatars.githubusercontent.com/u/42202023?s=72&u=02f2cafa7a3ea270ce38257d87526b3415764d2e&v=4" width="24" alt="Avatar of edumoran"> edumoran
@@ -9816,7 +9842,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/alinurr1">
 				<img src="https://avatars.githubusercontent.com/u/39182629?s=72&u=f14559f077cd688d8aef55eda32fc0c21df7dabc&v=4" width="24" alt="Avatar of alinurr1"> alinurr1
@@ -9829,7 +9855,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/AldiyarBolat">
 				<img src="https://avatars.githubusercontent.com/u/31591958?s=72&u=c6002c2e467689843c79e333fa592abd35605d36&v=4" width="24" alt="Avatar of AldiyarBolat"> AldiyarBolat
@@ -9842,7 +9868,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/AlexeyGrishin">
 				<img src="https://avatars.githubusercontent.com/u/2125405?s=72&u=45d278f4265caf33887c98b41e7d72c4a979ca62&v=4" width="24" alt="Avatar of AlexeyGrishin"> AlexeyGrishin
@@ -9855,20 +9881,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>751</td>
-		<td>
-			<a href="https://github.com/NicholasKrupenin">
-				<img src="https://avatars.githubusercontent.com/u/86982554?s=72&u=876f92fd5f0b7b83e989586f860e2e2f8eea9957&v=4" width="24" alt="Avatar of NicholasKrupenin"> NicholasKrupenin
-			</a><br/>
-			Nicholas Krupenin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/IntentG">
 				<img src="https://avatars.githubusercontent.com/u/103821065?s=72&u=abab135c83500166879b552c36eab186338e109c&v=4" width="24" alt="Avatar of IntentG"> IntentG
@@ -9881,7 +9894,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/imilovanov">
 				<img src="https://avatars.githubusercontent.com/u/14835029?s=72&u=4eda56c7d3e5cf5dcc3d1d4e175e2571360b2bb7&v=4" width="24" alt="Avatar of imilovanov"> imilovanov
@@ -9894,7 +9907,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/TheErjoin">
 				<img src="https://avatars.githubusercontent.com/u/84981675?s=72&u=21642cb3cf914fd69c60c4bf07ed77e544ba6bf1&v=4" width="24" alt="Avatar of TheErjoin"> TheErjoin
@@ -9907,7 +9920,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/borodayev">
 				<img src="https://avatars.githubusercontent.com/u/19319629?s=72&u=be67f7898d1804b43824c6b9c3430bdf1978a3a0&v=4" width="24" alt="Avatar of borodayev"> borodayev
@@ -9917,19 +9930,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>Macrosoft </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>756</td>
-		<td>
-			<a href="https://github.com/honley1">
-				<img src="https://avatars.githubusercontent.com/u/123823983?s=72&u=5153d0ec6d6b256213880651f8282c7d2ab4148b&v=4" width="24" alt="Avatar of honley1"> honley1
-			</a><br/>
-			honley
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -9948,6 +9948,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>758</td>
 		<td>
+			<a href="https://github.com/honley1">
+				<img src="https://avatars.githubusercontent.com/u/123823983?s=72&u=5153d0ec6d6b256213880651f8282c7d2ab4148b&v=4" width="24" alt="Avatar of honley1"> honley1
+			</a><br/>
+			honley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
 			<a href="https://github.com/Dimash95">
 				<img src="https://avatars.githubusercontent.com/u/95445413?s=72&u=2e68c493fa1a9ffbb800951e8a8ae1b2392db42c&v=4" width="24" alt="Avatar of Dimash95"> Dimash95
 			</a><br/>
@@ -9959,7 +9972,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/r4kh4t">
 				<img src="https://avatars.githubusercontent.com/u/4820816?s=72&u=6e3b2a44454cfe17de32b0f415944dac0d48ddd1&v=4" width="24" alt="Avatar of r4kh4t"> r4kh4t
@@ -9972,7 +9985,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/Fak3">
 				<img src="https://avatars.githubusercontent.com/u/991641?s=72&u=f73ae59af8252a8953753f7101e28f7b5347a795&v=4" width="24" alt="Avatar of Fak3"> Fak3
@@ -9985,7 +9998,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/lightSoulDev">
 				<img src="https://avatars.githubusercontent.com/u/100024122?s=72&u=85af42ba5d846fcd6cbcc79208cb0389845edb8c&v=4" width="24" alt="Avatar of lightSoulDev"> lightSoulDev
@@ -9998,7 +10011,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/bogdansergeevbes">
+				<img src="https://avatars.githubusercontent.com/u/95172502?s=72&u=b9375ff3d625cf3a0e2287207b1cb98e799675a7&v=4" width="24" alt="Avatar of bogdansergeevbes"> bogdansergeevbes
+			</a><br/>
+			Bogdan Sergeev
+		</td>
+		<td>Bogdanna.dev </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/clicktronix">
 				<img src="https://avatars.githubusercontent.com/u/15245608?s=72&u=d4ed1f479d5a48ad8d3a65a854fb60d0b913075c&v=4" width="24" alt="Avatar of clicktronix"> clicktronix
@@ -10011,7 +10037,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/Filo6699">
 				<img src="https://avatars.githubusercontent.com/u/114665857?s=72&u=cb763ba3e33b3f7d49098eff34c4a92c7b74bc36&v=4" width="24" alt="Avatar of Filo6699"> Filo6699
@@ -10024,7 +10050,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/legenolesov">
 				<img src="https://avatars.githubusercontent.com/u/25676264?s=72&u=54de0210c2624b9e5078461e6491a4c61caefcc5&v=4" width="24" alt="Avatar of legenolesov"> legenolesov
@@ -10037,20 +10063,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>765</td>
-		<td>
-			<a href="https://github.com/samlabs821">
-				<img src="https://avatars.githubusercontent.com/u/391728?s=72&u=515dadb029aca2bb19bfa987db4c71e26f4c7d4e&v=4" width="24" alt="Avatar of samlabs821"> samlabs821
-			</a><br/>
-			Samat Toibazarov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/istemit">
 				<img src="https://avatars.githubusercontent.com/u/16052315?s=72&u=ad33c08c1ea8b971728daf383b7221ad11232300&v=4" width="24" alt="Avatar of istemit"> istemit
@@ -10063,7 +10076,20 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/samlabs821">
+				<img src="https://avatars.githubusercontent.com/u/391728?s=72&u=515dadb029aca2bb19bfa987db4c71e26f4c7d4e&v=4" width="24" alt="Avatar of samlabs821"> samlabs821
+			</a><br/>
+			Samat Toibazarov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/TieBeTie">
 				<img src="https://avatars.githubusercontent.com/u/35148370?s=72&u=6304385ff3574e424b83705e2f6ee429a6bbda9c&v=4" width="24" alt="Avatar of TieBeTie"> TieBeTie
@@ -10076,7 +10102,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/mugid">
 				<img src="https://avatars.githubusercontent.com/u/85789377?s=72&u=83d67b5c920583546537121bd2342867ec416097&v=4" width="24" alt="Avatar of mugid"> mugid
@@ -10089,7 +10115,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/bexuma">
 				<img src="https://avatars.githubusercontent.com/u/16476229?s=72&u=c366071f47a1c892bc0a4596a6b8339158a0d599&v=4" width="24" alt="Avatar of bexuma"> bexuma
@@ -10102,7 +10128,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/Demidog03">
 				<img src="https://avatars.githubusercontent.com/u/83386838?s=72&u=54f07efbfae123d837204b376185e84216f103a9&v=4" width="24" alt="Avatar of Demidog03"> Demidog03
@@ -10115,7 +10141,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/pavelkorolevxyz">
 				<img src="https://avatars.githubusercontent.com/u/4147260?s=72&u=a58fda8394998dfc9bf91cd628f6a5e9cfb532ff&v=4" width="24" alt="Avatar of pavelkorolevxyz"> pavelkorolevxyz
@@ -10128,7 +10154,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/merki86">
 				<img src="https://avatars.githubusercontent.com/u/68385234?s=72&u=a532f0e8a1e659bd513e8965293bbb6cf541467e&v=4" width="24" alt="Avatar of merki86"> merki86
@@ -10141,7 +10167,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/OpenClade">
 				<img src="https://avatars.githubusercontent.com/u/74530896?s=72&v=4" width="24" alt="Avatar of OpenClade"> OpenClade
@@ -10154,7 +10180,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/wityat">
 				<img src="https://avatars.githubusercontent.com/u/33394513?s=72&u=4a4d7ce382f715bf6955dcc452d9c1b912be1c95&v=4" width="24" alt="Avatar of wityat"> wityat
@@ -10167,7 +10193,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/bizhanchik">
 				<img src="https://avatars.githubusercontent.com/u/183693987?s=72&u=57240169274e363d5a284a8c6823e276d4c5ed69&v=4" width="24" alt="Avatar of bizhanchik"> bizhanchik
@@ -10180,7 +10206,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/sabit-shaiholla">
 				<img src="https://avatars.githubusercontent.com/u/27641562?s=72&u=1d23c1b71786ad43a24259ce0c5855d63cc021eb&v=4" width="24" alt="Avatar of sabit-shaiholla"> sabit-shaiholla
@@ -10193,7 +10219,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/KabarbekN">
 				<img src="https://avatars.githubusercontent.com/u/119692581?s=72&u=22b3f33eb012340ae5da140e0af2500e29e639cf&v=4" width="24" alt="Avatar of KabarbekN"> KabarbekN
@@ -10206,7 +10232,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/CityAplons">
 				<img src="https://avatars.githubusercontent.com/u/4814678?s=72&u=e36a1fa58908a077e25b1da5aa5a269737f0eef7&v=4" width="24" alt="Avatar of CityAplons"> CityAplons
@@ -10219,7 +10245,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/DSanzh">
 				<img src="https://avatars.githubusercontent.com/u/11045854?s=72&u=559dbb0e6c822faec708ba240a6e174cb0ef68c2&v=4" width="24" alt="Avatar of DSanzh"> DSanzh
@@ -10232,7 +10258,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/Zhasulan711">
 				<img src="https://avatars.githubusercontent.com/u/136080283?s=72&u=3a84f6b09fa203064035ac8bb465a3b2fc591b42&v=4" width="24" alt="Avatar of Zhasulan711"> Zhasulan711
@@ -10245,7 +10271,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/h4rdee">
 				<img src="https://avatars.githubusercontent.com/u/37783231?s=72&u=69f6db1cbf50a4801c84171b95b39e97f4690676&v=4" width="24" alt="Avatar of h4rdee"> h4rdee
@@ -10258,7 +10284,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/Bayashat">
 				<img src="https://avatars.githubusercontent.com/u/72381850?s=72&u=7f29de62d0c3fbff590f3fd8fdd8584f035281c5&v=4" width="24" alt="Avatar of Bayashat"> Bayashat
@@ -10271,7 +10297,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/ProstoiProger">
 				<img src="https://avatars.githubusercontent.com/u/84804200?s=72&u=9dcbbcb409cbda3ce456613ff901601dab53780d&v=4" width="24" alt="Avatar of ProstoiProger"> ProstoiProger
@@ -10284,7 +10310,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/Bitrockz">
 				<img src="https://avatars.githubusercontent.com/u/95539044?s=72&u=e3c05b65576f69064c8413dc61db6afb8ccf5aa5&v=4" width="24" alt="Avatar of Bitrockz"> Bitrockz
@@ -10297,7 +10323,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/bzzitsme">
 				<img src="https://avatars.githubusercontent.com/u/35283270?s=72&u=ac08f193388d9d352bd879eb513689bcb2801519&v=4" width="24" alt="Avatar of bzzitsme"> bzzitsme
@@ -10310,7 +10336,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/danikx">
 				<img src="https://avatars.githubusercontent.com/u/113775?s=72&v=4" width="24" alt="Avatar of danikx"> danikx
@@ -10323,7 +10349,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/dairbekov">
 				<img src="https://avatars.githubusercontent.com/u/47058917?s=72&u=0f7c15177ad4ae52ba74c50eab4f7bcc465a73c7&v=4" width="24" alt="Avatar of dairbekov"> dairbekov
@@ -10336,7 +10362,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/IvanDamNation">
 				<img src="https://avatars.githubusercontent.com/u/96650485?s=72&u=9a5ad961b6a30ad8a00023d6461dd5619d2c16da&v=4" width="24" alt="Avatar of IvanDamNation"> IvanDamNation
@@ -10349,7 +10375,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/Li-Khan">
 				<img src="https://avatars.githubusercontent.com/u/53333869?s=72&u=45ba60619b42a11be445293d4671c8d7a9efdaac&v=4" width="24" alt="Avatar of Li-Khan"> Li-Khan
@@ -10362,7 +10388,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/YuliyaMinsk">
 				<img src="https://avatars.githubusercontent.com/u/79609660?s=72&u=7fbc5af06b0c3efff3be13c4e612c8c55e9095a8&v=4" width="24" alt="Avatar of YuliyaMinsk"> YuliyaMinsk
@@ -10375,7 +10401,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/Arkaim">
 				<img src="https://avatars.githubusercontent.com/u/16479710?s=72&u=29dfcaf1b2fa8a82d0cc0e7c3dc6e1206791ee6f&v=4" width="24" alt="Avatar of Arkaim"> Arkaim
@@ -10388,7 +10414,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/vegtamr-ab">
 				<img src="https://avatars.githubusercontent.com/u/49475431?s=72&u=881bccb3ecd2faa9744ebe92a942caa540d8e581&v=4" width="24" alt="Avatar of vegtamr-ab"> vegtamr-ab
@@ -10401,7 +10427,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/achubutkin">
 				<img src="https://avatars.githubusercontent.com/u/21987044?s=72&u=f0de1e0f59f3d08baa2b28bc72942e2d0ad81890&v=4" width="24" alt="Avatar of achubutkin"> achubutkin
@@ -10414,7 +10440,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/arnee99">
 				<img src="https://avatars.githubusercontent.com/u/116339748?s=72&u=187495a20255187e6aa85dc18ee0fd50fff47182&v=4" width="24" alt="Avatar of arnee99"> arnee99
@@ -10427,7 +10453,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/doppelyouz">
 				<img src="https://avatars.githubusercontent.com/u/78726588?s=72&u=a0bd0ace4098bef6d0e6a89700c1bcca3c572336&v=4" width="24" alt="Avatar of doppelyouz"> doppelyouz
@@ -10440,7 +10466,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/appak21">
 				<img src="https://avatars.githubusercontent.com/u/87426322?s=72&u=b1b34381886ed1600c8decef1871a9c674ba677d&v=4" width="24" alt="Avatar of appak21"> appak21
@@ -10453,7 +10479,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/nomikz">
 				<img src="https://avatars.githubusercontent.com/u/48430617?s=72&u=8941c1e6882e0c301d51cb16c074b7fc2622aedf&v=4" width="24" alt="Avatar of nomikz"> nomikz
@@ -10466,7 +10492,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/mitasov-ra">
 				<img src="https://avatars.githubusercontent.com/u/29340679?s=72&u=4a39a4e31999f6c5b6df3a9abf2c2d7394a6e0f6&v=4" width="24" alt="Avatar of mitasov-ra"> mitasov-ra
@@ -10479,7 +10505,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/anyuta1166">
 				<img src="https://avatars.githubusercontent.com/u/726409?s=72&u=e783521195a0e508f69092886c69e31c44a944bf&v=4" width="24" alt="Avatar of anyuta1166"> anyuta1166
@@ -10492,7 +10518,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/maratvmk">
 				<img src="https://avatars.githubusercontent.com/u/705895?s=72&u=3609d1451e88cfce34a83bff73bbbaad0c534646&v=4" width="24" alt="Avatar of maratvmk"> maratvmk
@@ -10505,7 +10531,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/rocketfirm">
 				<img src="https://avatars.githubusercontent.com/u/6338827?s=72&u=8e047fe9d73f1efc7e5a420a16f8742f12895440&v=4" width="24" alt="Avatar of rocketfirm"> rocketfirm
@@ -10518,7 +10544,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/ehorohorin">
 				<img src="https://avatars.githubusercontent.com/u/4621008?s=72&v=4" width="24" alt="Avatar of ehorohorin"> ehorohorin
@@ -10531,7 +10557,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/yergali28">
 				<img src="https://avatars.githubusercontent.com/u/33349723?s=72&u=53bf4de07ea09a1680c51757a85d077064a56316&v=4" width="24" alt="Avatar of yergali28"> yergali28
@@ -10544,7 +10570,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/mogilka">
 				<img src="https://avatars.githubusercontent.com/u/36766?s=72&v=4" width="24" alt="Avatar of mogilka"> mogilka
@@ -10557,150 +10583,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>805</td>
-		<td>
-			<a href="https://github.com/gailimov">
-				<img src="https://avatars.githubusercontent.com/u/706441?s=72&v=4" width="24" alt="Avatar of gailimov"> gailimov
-			</a><br/>
-			Kanat Gailimov
-		</td>
-		<td>@kolesa-team </td>
-		<td><a href="https://twitter.com/gailimov">gailimov</a></td>
-		<td>Kazakhstan, Almaty</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>806</td>
-		<td>
-			<a href="https://github.com/kosteman">
-				<img src="https://avatars.githubusercontent.com/u/10125178?s=72&u=3d7358d318359682e044b597d6ae03f738713577&v=4" width="24" alt="Avatar of kosteman"> kosteman
-			</a><br/>
-			Konstantin Maltsev
-		</td>
-		<td>Qa Lead At Savl<br/>Gmbh<br/></td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>13</td>
-	</tr>
-	<tr>
 		<td>807</td>
-		<td>
-			<a href="https://github.com/w3vaccine">
-				<img src="https://avatars.githubusercontent.com/u/23414680?s=72&u=b1092bc852d523e770bcee02087f6807208519c3&v=4" width="24" alt="Avatar of w3vaccine"> w3vaccine
-			</a><br/>
-			No Name
-		</td>
-		<td>Suleyman Demirel University </td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>808</td>
-		<td>
-			<a href="https://github.com/Bagdat23">
-				<img src="https://avatars.githubusercontent.com/u/78058372?s=72&u=0e6a06ef0c9d8e29f2472ee6d742188cd6bfa035&v=4" width="24" alt="Avatar of Bagdat23"> Bagdat23
-			</a><br/>
-			23savage
-		</td>
-		<td>Kbtu </td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>809</td>
-		<td>
-			<a href="https://github.com/Nurzhas1">
-				<img src="https://avatars.githubusercontent.com/u/70853395?s=72&v=4" width="24" alt="Avatar of Nurzhas1"> Nurzhas1
-			</a><br/>
-			Nurzhas Otzhanuly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nur-Sultan/Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>810</td>
-		<td>
-			<a href="https://github.com/madyar997">
-				<img src="https://avatars.githubusercontent.com/u/42924825?s=72&u=5b83abb681331d49957182e8a9fa948a36da5c2c&v=4" width="24" alt="Avatar of madyar997"> madyar997
-			</a><br/>
-			Madyar Turgenbayev
-		</td>
-		<td>Sberbank </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>811</td>
-		<td>
-			<a href="https://github.com/AlexDubikov">
-				<img src="https://avatars.githubusercontent.com/u/3649753?s=72&v=4" width="24" alt="Avatar of AlexDubikov"> AlexDubikov
-			</a><br/>
-			Alexander
-		</td>
-		<td>@indriver </td>
-		<td>No Twitter Username</td>
-		<td>Almaty, Kazahstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>812</td>
-		<td>
-			<a href="https://github.com/isackon">
-				<img src="https://avatars.githubusercontent.com/u/42430211?s=72&u=39180078ff81739d2e90cce30dc9722f542cd33f&v=4" width="24" alt="Avatar of isackon"> isackon
-			</a><br/>
-			Islam Shintemirov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>813</td>
-		<td>
-			<a href="https://github.com/studionomad">
-				<img src="https://avatars.githubusercontent.com/u/56909180?s=72&v=4" width="24" alt="Avatar of studionomad"> studionomad
-			</a><br/>
-			Studionomad
-		</td>
-		<td>Studionomad </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>814</td>
-		<td>
-			<a href="https://github.com/DmitriyKalekin">
-				<img src="https://avatars.githubusercontent.com/u/1764216?s=72&u=cde72066f777aca9a4929553f71b81d2ab7e84aa&v=4" width="24" alt="Avatar of DmitriyKalekin"> DmitriyKalekin
-			</a><br/>
-			Dmitriy Kalekin
-		</td>
-		<td>Freera.io </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>815</td>
-		<td>
-			<a href="https://github.com/nlacslab">
-				<img src="https://avatars.githubusercontent.com/u/44171101?s=72&v=4" width="24" alt="Avatar of nlacslab"> nlacslab
-			</a><br/>
-			nla cs lab
-		</td>
-		<td>National Laboratory Astana, Nazarbayev<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>816</td>
 		<td>
 			<a href="https://github.com/DastanB">
 				<img src="https://avatars.githubusercontent.com/u/22112395?s=72&u=6262fa59e698f4339960c01cfeaad2847955381d&v=4" width="24" alt="Avatar of DastanB"> DastanB
@@ -10713,7 +10596,150 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
+		<td>808</td>
+		<td>
+			<a href="https://github.com/gailimov">
+				<img src="https://avatars.githubusercontent.com/u/706441?s=72&v=4" width="24" alt="Avatar of gailimov"> gailimov
+			</a><br/>
+			Kanat Gailimov
+		</td>
+		<td>@kolesa-team </td>
+		<td><a href="https://twitter.com/gailimov">gailimov</a></td>
+		<td>Kazakhstan, Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>809</td>
+		<td>
+			<a href="https://github.com/kosteman">
+				<img src="https://avatars.githubusercontent.com/u/10125178?s=72&u=3d7358d318359682e044b597d6ae03f738713577&v=4" width="24" alt="Avatar of kosteman"> kosteman
+			</a><br/>
+			Konstantin Maltsev
+		</td>
+		<td>Qa Lead At Savl<br/>Gmbh<br/></td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>810</td>
+		<td>
+			<a href="https://github.com/Bagdat23">
+				<img src="https://avatars.githubusercontent.com/u/78058372?s=72&u=0e6a06ef0c9d8e29f2472ee6d742188cd6bfa035&v=4" width="24" alt="Avatar of Bagdat23"> Bagdat23
+			</a><br/>
+			23savage
+		</td>
+		<td>Kbtu </td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/w3vaccine">
+				<img src="https://avatars.githubusercontent.com/u/23414680?s=72&u=b1092bc852d523e770bcee02087f6807208519c3&v=4" width="24" alt="Avatar of w3vaccine"> w3vaccine
+			</a><br/>
+			No Name
+		</td>
+		<td>Suleyman Demirel University </td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
+			<a href="https://github.com/Nurzhas1">
+				<img src="https://avatars.githubusercontent.com/u/70853395?s=72&v=4" width="24" alt="Avatar of Nurzhas1"> Nurzhas1
+			</a><br/>
+			Nurzhas Otzhanuly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nur-Sultan/Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>813</td>
+		<td>
+			<a href="https://github.com/madyar997">
+				<img src="https://avatars.githubusercontent.com/u/42924825?s=72&u=5b83abb681331d49957182e8a9fa948a36da5c2c&v=4" width="24" alt="Avatar of madyar997"> madyar997
+			</a><br/>
+			Madyar Turgenbayev
+		</td>
+		<td>Sberbank </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>814</td>
+		<td>
+			<a href="https://github.com/AlexDubikov">
+				<img src="https://avatars.githubusercontent.com/u/3649753?s=72&v=4" width="24" alt="Avatar of AlexDubikov"> AlexDubikov
+			</a><br/>
+			Alexander
+		</td>
+		<td>@indriver </td>
+		<td>No Twitter Username</td>
+		<td>Almaty, Kazahstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/isackon">
+				<img src="https://avatars.githubusercontent.com/u/42430211?s=72&u=39180078ff81739d2e90cce30dc9722f542cd33f&v=4" width="24" alt="Avatar of isackon"> isackon
+			</a><br/>
+			Islam Shintemirov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/studionomad">
+				<img src="https://avatars.githubusercontent.com/u/56909180?s=72&v=4" width="24" alt="Avatar of studionomad"> studionomad
+			</a><br/>
+			Studionomad
+		</td>
+		<td>Studionomad </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
 		<td>817</td>
+		<td>
+			<a href="https://github.com/DmitriyKalekin">
+				<img src="https://avatars.githubusercontent.com/u/1764216?s=72&u=cde72066f777aca9a4929553f71b81d2ab7e84aa&v=4" width="24" alt="Avatar of DmitriyKalekin"> DmitriyKalekin
+			</a><br/>
+			Dmitriy Kalekin
+		</td>
+		<td>Freera.io </td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/nlacslab">
+				<img src="https://avatars.githubusercontent.com/u/44171101?s=72&v=4" width="24" alt="Avatar of nlacslab"> nlacslab
+			</a><br/>
+			nla cs lab
+		</td>
+		<td>National Laboratory Astana, Nazarbayev<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/ashimovtemirlan">
 				<img src="https://avatars.githubusercontent.com/u/47270320?s=72&u=dc86390db8e9cd5a71ef281e6b34c01b2fcb973d&v=4" width="24" alt="Avatar of ashimovtemirlan"> ashimovtemirlan
@@ -10726,7 +10752,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/kalexhaym">
 				<img src="https://avatars.githubusercontent.com/u/37374594?s=72&u=896d0c43cd8a45154d44a34e443b1c4d5ac29cf2&v=4" width="24" alt="Avatar of kalexhaym"> kalexhaym
@@ -10739,7 +10765,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/asimovravil">
 				<img src="https://avatars.githubusercontent.com/u/124325730?s=72&u=8207cd83e20db8099be7ca13fde94b782bc0bfcb&v=4" width="24" alt="Avatar of asimovravil"> asimovravil
@@ -10752,7 +10778,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/leifjerami">
 				<img src="https://avatars.githubusercontent.com/u/18269244?s=72&u=1dc802ee63aaf546ba1849e4ba4dd1736a81f139&v=4" width="24" alt="Avatar of leifjerami"> leifjerami
@@ -10765,7 +10791,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/KiritoKunTi">
 				<img src="https://avatars.githubusercontent.com/u/71605095?s=72&u=9617f4389301a0f4f65c05b953d384fd8b7d6297&v=4" width="24" alt="Avatar of KiritoKunTi"> KiritoKunTi
@@ -10778,7 +10804,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/SarsenovZ2z">
 				<img src="https://avatars.githubusercontent.com/u/35455027?s=72&u=9cd420bbf9b43fedfe582fee919d7020bec721dc&v=4" width="24" alt="Avatar of SarsenovZ2z"> SarsenovZ2z
@@ -10791,7 +10817,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/DaniilKalts">
 				<img src="https://avatars.githubusercontent.com/u/109500182?s=72&u=50adf2daac33967faebe25c5526c09b217fd9856&v=4" width="24" alt="Avatar of DaniilKalts"> DaniilKalts
@@ -10804,7 +10830,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/titovmx">
 				<img src="https://avatars.githubusercontent.com/u/5631540?s=72&v=4" width="24" alt="Avatar of titovmx"> titovmx
@@ -10817,7 +10843,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/AnmiTaliDev">
 				<img src="https://avatars.githubusercontent.com/u/153644302?s=72&u=f9a392620b0289a90648eafdd0e6f472e332208d&v=4" width="24" alt="Avatar of AnmiTaliDev"> AnmiTaliDev
@@ -10830,7 +10856,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/4ry1337">
 				<img src="https://avatars.githubusercontent.com/u/52571621?s=72&u=be254ebd73aa37f6815d5b25621a4d2b4040a574&v=4" width="24" alt="Avatar of 4ry1337"> 4ry1337
@@ -10843,20 +10869,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>827</td>
-		<td>
-			<a href="https://github.com/bogdansergeevbes">
-				<img src="https://avatars.githubusercontent.com/u/95172502?s=72&u=b9375ff3d625cf3a0e2287207b1cb98e799675a7&v=4" width="24" alt="Avatar of bogdansergeevbes"> bogdansergeevbes
-			</a><br/>
-			Bogdan Sergeev
-		</td>
-		<td>Bogdanna.dev </td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/mmkhitaryan">
 				<img src="https://avatars.githubusercontent.com/u/57956285?s=72&v=4" width="24" alt="Avatar of mmkhitaryan"> mmkhitaryan
@@ -10869,7 +10882,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/Avksenchik">
 				<img src="https://avatars.githubusercontent.com/u/36873409?s=72&u=08a4a9ad0433ff82cd91ed8df1e2f5b4db8dd149&v=4" width="24" alt="Avatar of Avksenchik"> Avksenchik
@@ -10882,7 +10895,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/tengri">
 				<img src="https://avatars.githubusercontent.com/u/4985310?s=72&u=a552d1e9bde363da2686e55d73daeaa4c80d159c&v=4" width="24" alt="Avatar of tengri"> tengri
@@ -10895,25 +10908,12 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/alisonavi">
 				<img src="https://avatars.githubusercontent.com/u/116498386?s=72&u=aebce89f4d59d6dd081826d4c454e2333d0798fe&v=4" width="24" alt="Avatar of alisonavi"> alisonavi
 			</a><br/>
 			Bekzat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>832</td>
-		<td>
-			<a href="https://github.com/w0ikid">
-				<img src="https://avatars.githubusercontent.com/u/101040546?s=72&u=c843ec09d73e2275f550302c30c2eb2ad0b4de32&v=4" width="24" alt="Avatar of w0ikid"> w0ikid
-			</a><br/>
-			Ibrashov Danial
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11859,6 +11859,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>905</td>
 		<td>
+			<a href="https://github.com/iowathe3rd">
+				<img src="https://avatars.githubusercontent.com/u/81327678?s=72&u=05d436f1826f56936677e0c8a5ae44c5e432596d&v=4" width="24" alt="Avatar of iowathe3rd"> iowathe3rd
+			</a><br/>
+			Beglerov Baurzhan
+		</td>
+		<td>@rts-decaux </td>
+		<td><a href="https://twitter.com/iowthe3rd">iowthe3rd</a></td>
+		<td>Kazakhstan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
 			<a href="https://github.com/shellyear">
 				<img src="https://avatars.githubusercontent.com/u/50382323?s=72&u=7f9604d010bf78d86e235c90822cc607b1df67f5&v=4" width="24" alt="Avatar of shellyear"> shellyear
 			</a><br/>
@@ -11870,7 +11883,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/savilard">
 				<img src="https://avatars.githubusercontent.com/u/60862933?s=72&u=fd164585609105673458aead73f2f92c7b7ae56c&v=4" width="24" alt="Avatar of savilard"> savilard
@@ -11880,19 +11893,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karagandy, Kazakhstan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>907</td>
-		<td>
-			<a href="https://github.com/iowathe3rd">
-				<img src="https://avatars.githubusercontent.com/u/81327678?s=72&u=05d436f1826f56936677e0c8a5ae44c5e432596d&v=4" width="24" alt="Avatar of iowathe3rd"> iowathe3rd
-			</a><br/>
-			Beglerov Baurzhan
-		</td>
-		<td>@rts-decaux </td>
-		<td><a href="https://twitter.com/iowthe3rd">iowthe3rd</a></td>
-		<td>Kazakhstan</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -11989,6 +11989,19 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 	<tr>
 		<td>915</td>
 		<td>
+			<a href="https://github.com/w0ikid">
+				<img src="https://avatars.githubusercontent.com/u/101040546?s=72&u=c843ec09d73e2275f550302c30c2eb2ad0b4de32&v=4" width="24" alt="Avatar of w0ikid"> w0ikid
+			</a><br/>
+			Ibrashov Danial
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>916</td>
+		<td>
 			<a href="https://github.com/ostinru">
 				<img src="https://avatars.githubusercontent.com/u/966990?s=72&v=4" width="24" alt="Avatar of ostinru"> ostinru
 			</a><br/>
@@ -12000,7 +12013,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/Bekzhanym">
 				<img src="https://avatars.githubusercontent.com/u/131188573?s=72&u=bf90eacfcd50fa365d28ccc1f95517dfc31b84cb&v=4" width="24" alt="Avatar of Bekzhanym"> Bekzhanym
@@ -12013,7 +12026,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/e-gulakhmet">
 				<img src="https://avatars.githubusercontent.com/u/34480757?s=72&u=2efae61ace137d3e63461d5265362bb1712cb4b6&v=4" width="24" alt="Avatar of e-gulakhmet"> e-gulakhmet
@@ -12026,7 +12039,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/LANneeer">
 				<img src="https://avatars.githubusercontent.com/u/68993865?s=72&u=3cdf5c488e3d664f7b8d274816edd42084008fc8&v=4" width="24" alt="Avatar of LANneeer"> LANneeer
@@ -12039,7 +12052,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/Basheyev">
 				<img src="https://avatars.githubusercontent.com/u/68923442?s=72&u=dee6c4bab8b150d9d92db23e851ce6cc667bf165&v=4" width="24" alt="Avatar of Basheyev"> Basheyev
@@ -12052,7 +12065,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/nighbee">
 				<img src="https://avatars.githubusercontent.com/u/95701510?s=72&u=0290e8853ae3fabfd6cb4b6e91ea5ead13750514&v=4" width="24" alt="Avatar of nighbee"> nighbee
@@ -12065,7 +12078,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/Siriuscoder">
 				<img src="https://avatars.githubusercontent.com/u/279599?s=72&u=2be01691c2c979483a91f4f7378908447947ccac&v=4" width="24" alt="Avatar of Siriuscoder"> Siriuscoder
@@ -12078,7 +12091,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/zhizhikkkk">
 				<img src="https://avatars.githubusercontent.com/u/98708550?s=72&u=547cd8fa576523a15efb75c6e5d29e0e35c954c8&v=4" width="24" alt="Avatar of zhizhikkkk"> zhizhikkkk
@@ -12091,7 +12104,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/TheIceEagle">
 				<img src="https://avatars.githubusercontent.com/u/31985607?s=72&u=d2e7edf239fcb96d055c669d9390c1c7365d1048&v=4" width="24" alt="Avatar of TheIceEagle"> TheIceEagle
@@ -12104,7 +12117,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/Kat4X">
 				<img src="https://avatars.githubusercontent.com/u/54436076?s=72&u=850f722046952f8ecbbd263a496ba6eb42e856b0&v=4" width="24" alt="Avatar of Kat4X"> Kat4X
@@ -12117,7 +12130,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/dr-dobermann">
 				<img src="https://avatars.githubusercontent.com/u/25484778?s=72&u=8c4d210ee12a6bb131f3de195d675a36e631f5a1&v=4" width="24" alt="Avatar of dr-dobermann"> dr-dobermann
@@ -12130,7 +12143,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/mystpen">
 				<img src="https://avatars.githubusercontent.com/u/135125200?s=72&u=f20598da11a9a2b1d7a3c4d9244f5dd24e1d69cb&v=4" width="24" alt="Avatar of mystpen"> mystpen
@@ -12143,7 +12156,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/m-bikko">
 				<img src="https://avatars.githubusercontent.com/u/90394622?s=72&u=a48bd2a51a675f5294620515f996c0456ce43879&v=4" width="24" alt="Avatar of m-bikko"> m-bikko
@@ -12156,7 +12169,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/externuz">
 				<img src="https://avatars.githubusercontent.com/u/7888156?s=72&u=b5b6e8e38c04241543ac47de128242c2c41cd167&v=4" width="24" alt="Avatar of externuz"> externuz
@@ -12169,33 +12182,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>929</td>
-		<td>
-			<a href="https://github.com/djessicatony">
-				<img src="https://avatars.githubusercontent.com/u/180231023?s=72&u=a69660c8c7035853d11b9b867088e4923b8efb49&v=4" width="24" alt="Avatar of djessicatony"> djessicatony
-			</a><br/>
-			tony
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/djessicatony">djessicatony</a></td>
-		<td>Kazakhstan, Almaty</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>930</td>
-		<td>
-			<a href="https://github.com/Overfair">
-				<img src="https://avatars.githubusercontent.com/u/30347863?s=72&u=459a5807153a41c572e8dc2edeb06f1b9d6a05a0&v=4" width="24" alt="Avatar of Overfair"> Overfair
-			</a><br/>
-			Adilet Askarov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>931</td>
 		<td>
 			<a href="https://github.com/ofdun">
 				<img src="https://avatars.githubusercontent.com/u/89340727?s=72&u=e1d7eccacc14aaa4673ac7498eba25e63727f8e4&v=4" width="24" alt="Avatar of ofdun"> ofdun
@@ -12208,7 +12195,33 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
+		<td>931</td>
+		<td>
+			<a href="https://github.com/djessicatony">
+				<img src="https://avatars.githubusercontent.com/u/180231023?s=72&u=a69660c8c7035853d11b9b867088e4923b8efb49&v=4" width="24" alt="Avatar of djessicatony"> djessicatony
+			</a><br/>
+			tony
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/djessicatony">djessicatony</a></td>
+		<td>Kazakhstan, Almaty</td>
+		<td>11</td>
+	</tr>
+	<tr>
 		<td>932</td>
+		<td>
+			<a href="https://github.com/Overfair">
+				<img src="https://avatars.githubusercontent.com/u/30347863?s=72&u=459a5807153a41c572e8dc2edeb06f1b9d6a05a0&v=4" width="24" alt="Avatar of Overfair"> Overfair
+			</a><br/>
+			Adilet Askarov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/qorganbek">
 				<img src="https://avatars.githubusercontent.com/u/98808957?s=72&v=4" width="24" alt="Avatar of qorganbek"> qorganbek
@@ -12221,7 +12234,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/Maksimall89">
 				<img src="https://avatars.githubusercontent.com/u/1280707?s=72&u=7e1e00b7d95e6d4b3300e97e33c591e93074a402&v=4" width="24" alt="Avatar of Maksimall89"> Maksimall89
@@ -12234,7 +12247,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/Bibars-Amangeldy">
 				<img src="https://avatars.githubusercontent.com/u/46045837?s=72&u=65f308c43587f9dec83cf60ab736c8c016533621&v=4" width="24" alt="Avatar of Bibars-Amangeldy"> Bibars-Amangeldy
@@ -12247,7 +12260,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/kalduzov">
 				<img src="https://avatars.githubusercontent.com/u/1679308?s=72&u=6d84c8df94edceeaee29dd28bef04af81bc8084a&v=4" width="24" alt="Avatar of kalduzov"> kalduzov
@@ -12260,7 +12273,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/atauov">
 				<img src="https://avatars.githubusercontent.com/u/111865942?s=72&u=326dcf3c7466a763a9ce3020982ed8ada8b72206&v=4" width="24" alt="Avatar of atauov"> atauov
@@ -12273,7 +12286,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/Phinnik">
 				<img src="https://avatars.githubusercontent.com/u/12518419?s=72&u=0db860b8fdc6eadae7ec8c946303ae461eb115c7&v=4" width="24" alt="Avatar of Phinnik"> Phinnik
@@ -12286,7 +12299,7 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/dremedys">
 				<img src="https://avatars.githubusercontent.com/u/61074211?s=72&u=e84f12c8d94b8766ffaef67341322c503b87b698&v=4" width="24" alt="Avatar of dremedys"> dremedys
@@ -12296,19 +12309,6 @@ There are `967 users`  in Kazakhstan. You need at least `11 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Aktau, Kazakhstan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>939</td>
-		<td>
-			<a href="https://github.com/by17s">
-				<img src="https://avatars.githubusercontent.com/u/127589735?s=72&u=b31d2d39c8a43212b29818a0dabba1bda6505e01&v=4" width="24" alt="Avatar of by17s"> by17s
-			</a><br/>
-			Bogdan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
 		<td>11</td>
 	</tr>
 	<tr>
