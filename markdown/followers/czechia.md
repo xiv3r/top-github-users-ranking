@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2025/9/28 10:49 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2025/9/28 11:00 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2226,19 +2226,6 @@ There are `961 users`  in Czechia. You need at least `32 followers` to be on thi
 	<tr>
 		<td>164</td>
 		<td>
-			<a href="https://github.com/jonathas">
-				<img src="https://avatars.githubusercontent.com/u/311624?s=72&u=e127709e624a852aab91b4d7e8621a9dce97c977&v=4" width="24" alt="Avatar of jonathas"> jonathas
-			</a><br/>
-			Jonathas Ribeiro
-		</td>
-		<td>Staff Software Architect |<br/>@bloomreach<br/></td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
 			<a href="https://github.com/janvorli">
 				<img src="https://avatars.githubusercontent.com/u/10758568?s=72&u=e7665e04db8a1673c5202a370cd1f9cb55d4c551&v=4" width="24" alt="Avatar of janvorli"> janvorli
 			</a><br/>
@@ -2250,7 +2237,7 @@ There are `961 users`  in Czechia. You need at least `32 followers` to be on thi
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/jukben">
 				<img src="https://avatars.githubusercontent.com/u/8135252?s=72&u=aa6e54b8165334e02dac601fd6d31737d88ff572&v=4" width="24" alt="Avatar of jukben"> jukben
@@ -2259,6 +2246,19 @@ There are `961 users`  in Czechia. You need at least `32 followers` to be on thi
 		</td>
 		<td>@productboard </td>
 		<td><a href="https://twitter.com/jukben">jukben</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/jonathas">
+				<img src="https://avatars.githubusercontent.com/u/311624?s=72&u=e127709e624a852aab91b4d7e8621a9dce97c977&v=4" width="24" alt="Avatar of jonathas"> jonathas
+			</a><br/>
+			Jonathas Ribeiro
+		</td>
+		<td>Staff Software Architect |<br/>@bloomreach<br/></td>
+		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
 		<td>139</td>
 	</tr>
