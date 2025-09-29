@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2025/9/29 5:55 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2025/9/29 6:08 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>9705</td>
+		<td>9719</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -570,7 +570,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/theelbasian">theelbasian</a></td>
 		<td>Berlin</td>
-		<td>3004</td>
+		<td>3005</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1324,7 +1324,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>Germany/berlin </td>
 		<td><a href="https://twitter.com/zardaxt">zardaxt</a></td>
 		<td>Berlin</td>
-		<td>1674</td>
+		<td>1675</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -3799,19 +3799,6 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 	<tr>
 		<td>285</td>
 		<td>
-			<a href="https://github.com/mrnugget">
-				<img src="https://avatars.githubusercontent.com/u/1185253?s=72&u=35f048c505007991433b46c9c0616ccbcfbd4bff&v=4" width="24" alt="Avatar of mrnugget"> mrnugget
-			</a><br/>
-			Thorsten Ball
-		</td>
-		<td>@sourcegraph  </td>
-		<td><a href="https://twitter.com/thorstenball">thorstenball</a></td>
-		<td>Bavaria, Germany</td>
-		<td>519</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
 			<a href="https://github.com/juanpicado">
 				<img src="https://avatars.githubusercontent.com/u/558752?s=72&u=ce397653fd10b0626a1feb0829f061ece1936943&v=4" width="24" alt="Avatar of juanpicado"> juanpicado
 			</a><br/>
@@ -3820,6 +3807,19 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>Mobile.de (adevinta) </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
+		<td>520</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/mrnugget">
+				<img src="https://avatars.githubusercontent.com/u/1185253?s=72&u=35f048c505007991433b46c9c0616ccbcfbd4bff&v=4" width="24" alt="Avatar of mrnugget"> mrnugget
+			</a><br/>
+			Thorsten Ball
+		</td>
+		<td>@sourcegraph  </td>
+		<td><a href="https://twitter.com/thorstenball">thorstenball</a></td>
+		<td>Bavaria, Germany</td>
 		<td>519</td>
 	</tr>
 	<tr>
@@ -4028,7 +4028,7 @@ There are `910 users`  in Germany. You need at least `338 followers` to be on th
 		<td>Universität Potsdam </td>
 		<td><a href="https://twitter.com/ShravanVasishth">ShravanVasishth</a></td>
 		<td>Potsdam, Germany</td>
-		<td>481</td>
+		<td>482</td>
 	</tr>
 	<tr>
 		<td>303</td>
