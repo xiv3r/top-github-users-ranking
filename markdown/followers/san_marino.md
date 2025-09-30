@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/9/27 11:44 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/9/30 4:57 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -206,7 +206,7 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@n26 </td>
 		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
 		<td>San Marino</td>
-		<td>18</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -591,7 +591,7 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 			<a href="https://github.com/CometaSensitiva">
 				<img src="https://avatars.githubusercontent.com/u/122211053?s=72&u=186acbc99f20484bf96d966a7b9a31c54867ef70&v=4" width="24" alt="Avatar of CometaSensitiva"> CometaSensitiva
 			</a><br/>
-			No Name
+			Michele Mazza
 		</td>
 		<td>Alma Mater Studiorum -<br/>Università<br/>Di<br/>Bologna<br/></td>
 		<td><a href="https://twitter.com/michelemazzaa">michelemazzaa</a></td>
@@ -653,19 +653,6 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/gioele-santi">
-				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&u=f802eb07b451e01647b9c0ed8699a827e67fe95a&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
 			<a href="https://github.com/MattiaSemproli">
 				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
 			</a><br/>
@@ -674,6 +661,19 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
 		<td>Italy - San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/gioele-santi">
+				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&u=f802eb07b451e01647b9c0ed8699a827e67fe95a&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino Republic</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -783,19 +783,6 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/thomasrenzini">
-				<img src="https://avatars.githubusercontent.com/u/182883989?s=72&u=29199f0e696d9a5010650f9611edf3407b60348b&v=4" width="24" alt="Avatar of thomasrenzini"> thomasrenzini
-			</a><br/>
-			Thomas Renzini
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
 			<a href="https://github.com/matteorossi-thespacesm">
 				<img src="https://avatars.githubusercontent.com/u/61690145?s=72&u=7032cf4b63623b0040bf46424a4424f05a443e7e&v=4" width="24" alt="Avatar of matteorossi-thespacesm"> matteorossi-thespacesm
 			</a><br/>
@@ -804,6 +791,19 @@ There are `135 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Thespacesm Srl </td>
 		<td>No Twitter Username</td>
 		<td>Strada Cardio 58 47899 Serravalle San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/thomasrenzini">
+				<img src="https://avatars.githubusercontent.com/u/182883989?s=72&u=29199f0e696d9a5010650f9611edf3407b60348b&v=4" width="24" alt="Avatar of thomasrenzini"> thomasrenzini
+			</a><br/>
+			Thomas Renzini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>1</td>
 	</tr>
 	<tr>
