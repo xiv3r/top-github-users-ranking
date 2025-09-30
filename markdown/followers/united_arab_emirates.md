@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/9/28 9:36 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/9/30 1:20 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -380,19 +380,6 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/khalidsheikh03144">
 				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
 			</a><br/>
@@ -404,7 +391,7 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/khuramnawaz">
 				<img src="https://avatars.githubusercontent.com/u/214780117?s=72&v=4" width="24" alt="Avatar of khuramnawaz"> khuramnawaz
@@ -414,6 +401,19 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Ads Pioneer </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
+			</a><br/>
+			Aqua Experts Water Treatment
+		</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>

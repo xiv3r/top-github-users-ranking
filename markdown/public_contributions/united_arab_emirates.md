@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/9/28 9:36 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/9/30 1:20 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -172,19 +172,6 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/NorsaG">
-				<img src="https://avatars.githubusercontent.com/u/2400257?s=72&v=4" width="24" alt="Avatar of NorsaG"> NorsaG
-			</a><br/>
-			Evgeny Lazarev
-		</td>
-		<td>Emirates </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/Alsuwaidismsar">
 				<img src="https://avatars.githubusercontent.com/u/198424369?s=72&u=682e18e66c39795432c51bc78fb5bdfc9c4b2fb4&v=4" width="24" alt="Avatar of Alsuwaidismsar"> Alsuwaidismsar
 			</a><br/>
@@ -193,6 +180,19 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Alsuwaidi_smsar A Platform For<br/>Displaying<br/>Used<br/>Cars<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/NorsaG">
+				<img src="https://avatars.githubusercontent.com/u/2400257?s=72&v=4" width="24" alt="Avatar of NorsaG"> NorsaG
+			</a><br/>
+			Evgeny Lazarev
+		</td>
+		<td>Emirates </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -219,7 +219,7 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Eastern Housing Uae </td>
 		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
 		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -289,19 +289,6 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/khalidsheikh03144">
 				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
 			</a><br/>
@@ -313,7 +300,7 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/khuramnawaz">
 				<img src="https://avatars.githubusercontent.com/u/214780117?s=72&v=4" width="24" alt="Avatar of khuramnawaz"> khuramnawaz
@@ -323,6 +310,19 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Ads Pioneer </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
+			</a><br/>
+			Aqua Experts Water Treatment
+		</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -406,19 +406,6 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/zainloungedubai">
-				<img src="https://avatars.githubusercontent.com/u/221667197?s=72&v=4" width="24" alt="Avatar of zainloungedubai"> zainloungedubai
-			</a><br/>
-			Zain Lounge
-		</td>
-		<td>Zain Lounge </td>
-		<td>No Twitter Username</td>
-		<td>Jumeirah Emirates Towers Hotel - Sheikh Zayed Rd - Trade Centre - Trade Centre 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/Dralirashidalnumaimi">
 				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
 			</a><br/>
@@ -427,6 +414,19 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/zainloungedubai">
+				<img src="https://avatars.githubusercontent.com/u/221667197?s=72&v=4" width="24" alt="Avatar of zainloungedubai"> zainloungedubai
+			</a><br/>
+			Zain Lounge
+		</td>
+		<td>Zain Lounge </td>
+		<td>No Twitter Username</td>
+		<td>Jumeirah Emirates Towers Hotel - Sheikh Zayed Rd - Trade Centre - Trade Centre 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -471,19 +471,6 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/fgwilsonuae">
-				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
-			</a><br/>
-			FG Wilson Engineering FZE
-		</td>
-		<td>Fg Wilson Engineering Fze<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai,UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
 			</a><br/>
@@ -492,6 +479,19 @@ There are `90 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Success Point College </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/fgwilsonuae">
+				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
+			</a><br/>
+			FG Wilson Engineering FZE
+		</td>
+		<td>Fg Wilson Engineering Fze<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai,UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
