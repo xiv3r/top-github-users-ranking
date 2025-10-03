@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2025/10/2 11:42 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2025/10/3 12:02 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -145,7 +145,7 @@ There are `976 users`  in Bangladesh. You need at least `80 followers` to be on 
 		<td><a href="https://twitter.com/shipu_ahamed">shipu_ahamed</a></td>
 		<td>Dhaka,Bangladesh</td>
 		<td>18</td>
-		<td>50808</td>
+		<td>50814</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -201,7 +201,7 @@ There are `976 users`  in Bangladesh. You need at least `80 followers` to be on 
 		<td><a href="https://twitter.com/Maruf23350252">Maruf23350252</a></td>
 		<td>Banasree, Dhaka</td>
 		<td>164</td>
-		<td>8686</td>
+		<td>8688</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1349,7 +1349,7 @@ There are `976 users`  in Bangladesh. You need at least `80 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
 		<td>2</td>
-		<td>1751</td>
+		<td>1753</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -5610,20 +5610,6 @@ There are `976 users`  in Bangladesh. You need at least `80 followers` to be on 
 	<tr>
 		<td>394</td>
 		<td>
-			<a href="https://github.com/thatanjan">
-				<img src="https://avatars.githubusercontent.com/u/71136371?s=72&u=6d123972ed1da90bef548ee2a17741f373191da2&v=4" width="24" alt="Avatar of thatanjan"> thatanjan
-			</a><br/>
-			Anjan Shomodder
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thatanjan">thatanjan</a></td>
-		<td>Dhaka, Bangladesh</td>
-		<td>137</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>395</td>
-		<td>
 			<a href="https://github.com/minhazurrony">
 				<img src="https://avatars.githubusercontent.com/u/32912877?s=72&u=215495e537bf5d9a9787d4cc926031515a00d21f&v=4" width="24" alt="Avatar of minhazurrony"> minhazurrony
 			</a><br/>
@@ -5633,6 +5619,20 @@ There are `976 users`  in Bangladesh. You need at least `80 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
 		<td>155</td>
+		<td>368</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/thatanjan">
+				<img src="https://avatars.githubusercontent.com/u/71136371?s=72&u=6d123972ed1da90bef548ee2a17741f373191da2&v=4" width="24" alt="Avatar of thatanjan"> thatanjan
+			</a><br/>
+			Anjan Shomodder
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thatanjan">thatanjan</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>137</td>
 		<td>366</td>
 	</tr>
 	<tr>
