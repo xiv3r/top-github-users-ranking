@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" alt="Belarus">
 </a>
 
-The `public contributions` and `private contributions` by users in Belarus on `2025/10/3 1:31 AM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
+The `public contributions` and `private contributions` by users in Belarus on `2025/10/4 11:48 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>915</td>
-		<td>7408</td>
+		<td>7411</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>328</td>
-		<td>4952</td>
+		<td>4954</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,11 +144,25 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Finsit @ Wolters Kluwer<br/></td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
-		<td>1605</td>
-		<td>4912</td>
+		<td>1608</td>
+		<td>4940</td>
 	</tr>
 	<tr>
 		<td>4</td>
+		<td>
+			<a href="https://github.com/reven86">
+				<img src="https://avatars.githubusercontent.com/u/276251?s=72&u=d94160a92cd01bc0d6dee39554beea5f216db533&v=4" width="24" alt="Avatar of reven86"> reven86
+			</a><br/>
+			Andrew Karpushin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>82</td>
+		<td>4210</td>
+	</tr>
+	<tr>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/Gorgious56">
 				<img src="https://avatars.githubusercontent.com/u/25156105?s=72&u=e3ae37091e0275707d1e38fa0a16dbeea246031f&v=4" width="24" alt="Avatar of Gorgious56"> Gorgious56
@@ -162,20 +176,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4159</td>
 	</tr>
 	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/reven86">
-				<img src="https://avatars.githubusercontent.com/u/276251?s=72&u=d94160a92cd01bc0d6dee39554beea5f216db533&v=4" width="24" alt="Avatar of reven86"> reven86
-			</a><br/>
-			Andrew Karpushin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>81</td>
-		<td>4100</td>
-	</tr>
-	<tr>
 		<td>6</td>
 		<td>
 			<a href="https://github.com/KatiaZakharina">
@@ -187,7 +187,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>1</td>
-		<td>3244</td>
+		<td>3246</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -200,8 +200,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>@itprofgroup </td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>2749</td>
-		<td>2861</td>
+		<td>2753</td>
+		<td>2865</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -229,7 +229,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Vitebsk</td>
 		<td>216</td>
-		<td>2655</td>
+		<td>2668</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>2649</td>
-		<td>2649</td>
+		<td>2658</td>
+		<td>2658</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -271,7 +271,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>1185</td>
-		<td>2506</td>
+		<td>2507</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -327,7 +327,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>34</td>
-		<td>1943</td>
+		<td>1954</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -341,7 +341,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>454</td>
-		<td>1808</td>
+		<td>1818</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -355,7 +355,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/Andrey_shketik">Andrey_shketik</a></td>
 		<td>Minsk, Belarus</td>
 		<td>6</td>
-		<td>1783</td>
+		<td>1786</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -369,7 +369,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>3</td>
-		<td>1765</td>
+		<td>1772</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -425,7 +425,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/DreamedAwayRPG">DreamedAwayRPG</a></td>
 		<td>Brest, France</td>
 		<td>16</td>
-		<td>1683</td>
+		<td>1688</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -439,7 +439,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>0</td>
-		<td>1668</td>
+		<td>1669</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -453,7 +453,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/JeffLeFoll">JeffLeFoll</a></td>
 		<td>Brest, France</td>
 		<td>0</td>
-		<td>1661</td>
+		<td>1668</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -481,7 +481,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>191</td>
-		<td>1601</td>
+		<td>1607</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -495,7 +495,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus,Minsk</td>
 		<td>25</td>
-		<td>1551</td>
+		<td>1561</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -551,7 +551,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>0</td>
-		<td>1419</td>
+		<td>1425</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -565,7 +565,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
 		<td>9</td>
-		<td>1391</td>
+		<td>1394</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -578,8 +578,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Ifremer, @euroargodev  </td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
-		<td>1377</td>
-		<td>1385</td>
+		<td>1378</td>
+		<td>1386</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -607,7 +607,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>36</td>
-		<td>1359</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -620,8 +620,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia country (relocated from Belarus)</td>
-		<td>1341</td>
-		<td>1342</td>
+		<td>1344</td>
+		<td>1345</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -635,7 +635,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>2</td>
-		<td>1321</td>
+		<td>1338</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -648,8 +648,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brest, Republic of Belarus</td>
-		<td>561</td>
-		<td>1318</td>
+		<td>570</td>
+		<td>1330</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -677,7 +677,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
 		<td>564</td>
-		<td>1272</td>
+		<td>1308</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -691,7 +691,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>2</td>
-		<td>1265</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -705,7 +705,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>42</td>
-		<td>1264</td>
+		<td>1271</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -719,7 +719,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vitebsk, Belarus</td>
 		<td>1</td>
-		<td>1244</td>
+		<td>1261</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -733,7 +733,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/scastrec">scastrec</a></td>
 		<td>Brest, Bretagne, France</td>
 		<td>13</td>
-		<td>1231</td>
+		<td>1232</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -746,8 +746,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
-		<td>1218</td>
-		<td>1218</td>
+		<td>1226</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -775,10 +775,24 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk -> Vienna</td>
 		<td>129</td>
-		<td>1113</td>
+		<td>1126</td>
 	</tr>
 	<tr>
 		<td>49</td>
+		<td>
+			<a href="https://github.com/phsym">
+				<img src="https://avatars.githubusercontent.com/u/853903?s=72&u=620f99e097906836a96ea6cf039948fe1d5de174&v=4" width="24" alt="Avatar of phsym"> phsym
+			</a><br/>
+			Pierre-Henri Symoneaux
+		</td>
+		<td>Ovhcloud </td>
+		<td><a href="https://twitter.com/phsym">phsym</a></td>
+		<td>Brest, France</td>
+		<td>352</td>
+		<td>1089</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/aliceinapple">
 				<img src="https://avatars.githubusercontent.com/u/96645050?s=72&u=f8abfdc53b188acc6213e15b931a0e4f03cbfed8&v=4" width="24" alt="Avatar of aliceinapple"> aliceinapple
@@ -792,20 +806,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>1089</td>
 	</tr>
 	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/phsym">
-				<img src="https://avatars.githubusercontent.com/u/853903?s=72&u=620f99e097906836a96ea6cf039948fe1d5de174&v=4" width="24" alt="Avatar of phsym"> phsym
-			</a><br/>
-			Pierre-Henri Symoneaux
-		</td>
-		<td>Ovhcloud </td>
-		<td><a href="https://twitter.com/phsym">phsym</a></td>
-		<td>Brest, France</td>
-		<td>351</td>
-		<td>1088</td>
-	</tr>
-	<tr>
 		<td>51</td>
 		<td>
 			<a href="https://github.com/Daniil-Tiunchyk">
@@ -817,7 +817,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>589</td>
-		<td>1073</td>
+		<td>1081</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -831,7 +831,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/volkov97me">volkov97me</a></td>
 		<td>Minsk, Belarus</td>
 		<td>0</td>
-		<td>1022</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -864,6 +864,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>55</td>
 		<td>
+			<a href="https://github.com/basiliscos">
+				<img src="https://avatars.githubusercontent.com/u/3630048?s=72&u=622e90d9ddd35e270663411f04d72fa007d08847&v=4" width="24" alt="Avatar of basiliscos"> basiliscos
+			</a><br/>
+			Ivan Baidakou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>973</td>
+		<td>979</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/TheEvilRoot">
 				<img src="https://avatars.githubusercontent.com/u/16425982?s=72&u=b8781d9f1cc978bdfc24880f5483f11fb851df12&v=4" width="24" alt="Avatar of TheEvilRoot"> TheEvilRoot
 			</a><br/>
@@ -873,10 +887,10 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Minks</td>
 		<td>63</td>
-		<td>970</td>
+		<td>979</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/BobkoAnatoly">
 				<img src="https://avatars.githubusercontent.com/u/69788775?s=72&u=0dbb6d6888f00862d8e3ae1a83a83c76d454b198&v=4" width="24" alt="Avatar of BobkoAnatoly"> BobkoAnatoly
@@ -887,10 +901,10 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Pinsk, Belarus</td>
 		<td>0</td>
-		<td>969</td>
+		<td>970</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/astrosander">
 				<img src="https://avatars.githubusercontent.com/u/69795340?s=72&u=95e7cbf202d74f5f7f654245c6886e550ba7515c&v=4" width="24" alt="Avatar of astrosander"> astrosander
@@ -900,11 +914,39 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>863</td>
-		<td>929</td>
+		<td>876</td>
+		<td>942</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/koloideal">
+				<img src="https://avatars.githubusercontent.com/u/154599184?s=72&u=c579efd6188bb7b9c7988768f01b64fc8fc616bb&v=4" width="24" alt="Avatar of koloideal"> koloideal
+			</a><br/>
+			kolo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>544</td>
+		<td>903</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/polRk">
+				<img src="https://avatars.githubusercontent.com/u/39828645?s=72&u=d75e0fb024634ddf5e1692528519acc93b8c3065&v=4" width="24" alt="Avatar of polRk"> polRk
+			</a><br/>
+			Vladislav Polyakov
+		</td>
+		<td>@ydb-platform </td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>665</td>
+		<td>902</td>
+	</tr>
+	<tr>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/manti-by">
 				<img src="https://avatars.githubusercontent.com/u/338943?s=72&u=19e3e0063e1e858523a5d7d50f3ca0d56dde37be&v=4" width="24" alt="Avatar of manti-by"> manti-by
@@ -918,35 +960,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>902</td>
 	</tr>
 	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/polRk">
-				<img src="https://avatars.githubusercontent.com/u/39828645?s=72&u=d75e0fb024634ddf5e1692528519acc93b8c3065&v=4" width="24" alt="Avatar of polRk"> polRk
-			</a><br/>
-			Vladislav Polyakov
-		</td>
-		<td>@ydb-platform </td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>663</td>
-		<td>900</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/koloideal">
-				<img src="https://avatars.githubusercontent.com/u/154599184?s=72&u=c579efd6188bb7b9c7988768f01b64fc8fc616bb&v=4" width="24" alt="Avatar of koloideal"> koloideal
-			</a><br/>
-			kolo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>544</td>
-		<td>900</td>
-	</tr>
-	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/sinuke">
 				<img src="https://avatars.githubusercontent.com/u/25010867?s=72&u=f3e5425cec84f97808370c7d8997c7134887622e&v=4" width="24" alt="Avatar of sinuke"> sinuke
@@ -956,11 +970,11 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>@epam </td>
 		<td><a href="https://twitter.com/sinuke">sinuke</a></td>
 		<td>Gomel, BY</td>
-		<td>885</td>
-		<td>885</td>
+		<td>886</td>
+		<td>886</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/err0r500">
 				<img src="https://avatars.githubusercontent.com/u/24520691?s=72&u=71a2cb4b5739399a799c306202e6dc416ce99cc6&v=4" width="24" alt="Avatar of err0r500"> err0r500
@@ -971,10 +985,24 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/_err0r500">_err0r500</a></td>
 		<td>Brest, France</td>
 		<td>20</td>
-		<td>883</td>
+		<td>884</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/e-gleba">
+				<img src="https://avatars.githubusercontent.com/u/60469435?s=72&u=081662a11475e3a83c8e7d3b0542ad2d27897eb7&v=4" width="24" alt="Avatar of e-gleba"> e-gleba
+			</a><br/>
+			Evgeniy Gleba
+		</td>
+		<td>Lesta Games </td>
+		<td>No Twitter Username</td>
+		<td>Minsk</td>
+		<td>867</td>
+		<td>868</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/SimonRohou">
 				<img src="https://avatars.githubusercontent.com/u/4658749?s=72&u=00116e492dcf40086a8088926af98278dc483ea7&v=4" width="24" alt="Avatar of SimonRohou"> SimonRohou
@@ -984,11 +1012,11 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Ensta Bretagne, Lab-sticc </td>
 		<td>No Twitter Username</td>
 		<td>Brest</td>
-		<td>866</td>
-		<td>866</td>
+		<td>867</td>
+		<td>867</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/ermig1979">
 				<img src="https://avatars.githubusercontent.com/u/11633100?s=72&u=b6200eb54a7469c0e9b9f5e51a7438f810c44a7e&v=4" width="24" alt="Avatar of ermig1979"> ermig1979
@@ -998,11 +1026,11 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Irex.ai </td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>863</td>
-		<td>863</td>
+		<td>866</td>
+		<td>866</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/aandrewww">
 				<img src="https://avatars.githubusercontent.com/u/5621952?s=72&u=677dac53ef36f6b909d6659922472032ff2de5af&v=4" width="24" alt="Avatar of aandrewww"> aandrewww
@@ -1016,34 +1044,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>863</td>
 	</tr>
 	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/e-gleba">
-				<img src="https://avatars.githubusercontent.com/u/60469435?s=72&u=081662a11475e3a83c8e7d3b0542ad2d27897eb7&v=4" width="24" alt="Avatar of e-gleba"> e-gleba
-			</a><br/>
-			Evgeniy Gleba
-		</td>
-		<td>Lesta Games </td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>861</td>
-		<td>862</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/basiliscos">
-				<img src="https://avatars.githubusercontent.com/u/3630048?s=72&u=622e90d9ddd35e270663411f04d72fa007d08847&v=4" width="24" alt="Avatar of basiliscos"> basiliscos
-			</a><br/>
-			Ivan Baidakou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>853</td>
-		<td>859</td>
-	</tr>
-	<tr>
 		<td>68</td>
 		<td>
 			<a href="https://github.com/lassana">
@@ -1055,10 +1055,24 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Brest, Belarus</td>
 		<td>50</td>
-		<td>842</td>
+		<td>845</td>
 	</tr>
 	<tr>
 		<td>69</td>
+		<td>
+			<a href="https://github.com/vng">
+				<img src="https://avatars.githubusercontent.com/u/175612?s=72&v=4" width="24" alt="Avatar of vng"> vng
+			</a><br/>
+			Viktor Havaka
+		</td>
+		<td>@organicmaps (now) @mapbox (before)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Buenos Aires (now), Minsk (before)</td>
+		<td>841</td>
+		<td>841</td>
+	</tr>
+	<tr>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/7Nikita">
 				<img src="https://avatars.githubusercontent.com/u/20500960?s=72&u=89e17ab6aa85276bc177966cb7db69e079a76d70&v=4" width="24" alt="Avatar of 7Nikita"> 7Nikita
@@ -1072,21 +1086,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>837</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
-			<a href="https://github.com/vng">
-				<img src="https://avatars.githubusercontent.com/u/175612?s=72&v=4" width="24" alt="Avatar of vng"> vng
+			<a href="https://github.com/SlavaKuntsov">
+				<img src="https://avatars.githubusercontent.com/u/75099655?s=72&u=a84210eb62526bc4442d3166d7f84a81bcbcd824&v=4" width="24" alt="Avatar of SlavaKuntsov"> SlavaKuntsov
 			</a><br/>
-			Viktor Havaka
+			slava
 		</td>
-		<td>@organicmaps (now) @mapbox (before)<br/></td>
+		<td>Bstu </td>
 		<td>No Twitter Username</td>
-		<td>Buenos Aires (now), Minsk (before)</td>
-		<td>835</td>
-		<td>835</td>
+		<td>Minsk</td>
+		<td>782</td>
+		<td>836</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/d-avko">
 				<img src="https://avatars.githubusercontent.com/u/39842703?s=72&v=4" width="24" alt="Avatar of d-avko"> d-avko
@@ -1097,10 +1111,24 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
 		<td>0</td>
-		<td>834</td>
+		<td>836</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/ch3ll0v3k">
+				<img src="https://avatars.githubusercontent.com/u/7377121?s=72&u=f031b93767434af7afa3d0b0f54b7038e51f0efb&v=4" width="24" alt="Avatar of ch3ll0v3k"> ch3ll0v3k
+			</a><br/>
+			Timoschenko Viacheslau
+		</td>
+		<td>Noname </td>
+		<td>No Twitter Username</td>
+		<td>Belgium-Belarus!</td>
+		<td>31</td>
+		<td>830</td>
+	</tr>
+	<tr>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/b3b00">
 				<img src="https://avatars.githubusercontent.com/u/1224790?s=72&u=30105e882acd5ab6e48ef9b4eadd959e9085d85b&v=4" width="24" alt="Avatar of b3b00"> b3b00
@@ -1114,34 +1142,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>829</td>
 	</tr>
 	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/SlavaKuntsov">
-				<img src="https://avatars.githubusercontent.com/u/75099655?s=72&u=a84210eb62526bc4442d3166d7f84a81bcbcd824&v=4" width="24" alt="Avatar of SlavaKuntsov"> SlavaKuntsov
-			</a><br/>
-			slava
-		</td>
-		<td>Bstu </td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>769</td>
-		<td>823</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/ReNothingg">
-				<img src="https://avatars.githubusercontent.com/u/180962586?s=72&u=8a34e1c434c407bc6aa2e4b02265c6f04ac5765c&v=4" width="24" alt="Avatar of ReNothingg"> ReNothingg
-			</a><br/>
-			ReNothingg
-		</td>
-		<td>Synvexai </td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>817</td>
-		<td>817</td>
-	</tr>
-	<tr>
 		<td>75</td>
 		<td>
 			<a href="https://github.com/Duff89">
@@ -1153,7 +1153,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Brest Belarus</td>
 		<td>48</td>
-		<td>808</td>
+		<td>820</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1172,6 +1172,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>77</td>
 		<td>
+			<a href="https://github.com/ReNothingg">
+				<img src="https://avatars.githubusercontent.com/u/180962586?s=72&u=8a34e1c434c407bc6aa2e4b02265c6f04ac5765c&v=4" width="24" alt="Avatar of ReNothingg"> ReNothingg
+			</a><br/>
+			ReNothingg
+		</td>
+		<td>Synvexai </td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>796</td>
+		<td>796</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
 			<a href="https://github.com/KonstantinTomashevich">
 				<img src="https://avatars.githubusercontent.com/u/19854474?s=72&u=7906984385562211bd4585bfac6d55bc84d11395&v=4" width="24" alt="Avatar of KonstantinTomashevich"> KonstantinTomashevich
 			</a><br/>
@@ -1182,20 +1196,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belarus, Minsk</td>
 		<td>788</td>
 		<td>793</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/ch3ll0v3k">
-				<img src="https://avatars.githubusercontent.com/u/7377121?s=72&u=f031b93767434af7afa3d0b0f54b7038e51f0efb&v=4" width="24" alt="Avatar of ch3ll0v3k"> ch3ll0v3k
-			</a><br/>
-			Timoschenko Viacheslau
-		</td>
-		<td>Noname </td>
-		<td>No Twitter Username</td>
-		<td>Belgium-Belarus!</td>
-		<td>31</td>
-		<td>786</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1293,13 +1293,27 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>8</td>
-		<td>728</td>
+		<td>729</td>
 	</tr>
 	<tr>
 		<td>86</td>
 		<td>
+			<a href="https://github.com/andrei-punko">
+				<img src="https://avatars.githubusercontent.com/u/45385883?s=72&u=fc6df89221440b82cddfafa1b3359ef5f5a5e701&v=4" width="24" alt="Avatar of andrei-punko"> andrei-punko
+			</a><br/>
+			Andrei Punko
+		</td>
+		<td>Cleverdev Software </td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>723</td>
+		<td>723</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
 			<a href="https://github.com/saldatCrus">
-				<img src="https://avatars.githubusercontent.com/u/43013151?s=72&u=4234778861a73d103d40ffb8a2828ca7b016c8ae&v=4" width="24" alt="Avatar of saldatCrus"> saldatCrus
+				<img src="https://avatars.githubusercontent.com/u/43013151?s=72&u=daa8f8ce1b90397a1f26fb1472f8b42a4c05743b&v=4" width="24" alt="Avatar of saldatCrus"> saldatCrus
 			</a><br/>
 			SaldatCrus Exe 
 		</td>
@@ -1310,7 +1324,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>722</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/TheNormalnij">
 				<img src="https://avatars.githubusercontent.com/u/6773493?s=72&u=71510f1358a5b17c019cb8e28361803b370ca7e4&v=4" width="24" alt="Avatar of TheNormalnij"> TheNormalnij
@@ -1322,20 +1336,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belarus</td>
 		<td>654</td>
 		<td>721</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/andrei-punko">
-				<img src="https://avatars.githubusercontent.com/u/45385883?s=72&u=fc6df89221440b82cddfafa1b3359ef5f5a5e701&v=4" width="24" alt="Avatar of andrei-punko"> andrei-punko
-			</a><br/>
-			Andrei Punko
-		</td>
-		<td>Cleverdev Software </td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>719</td>
-		<td>719</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1363,7 +1363,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>0</td>
-		<td>703</td>
+		<td>704</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1376,8 +1376,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>@clevercloud </td>
 		<td><a href="https://twitter.com/PierreZ">PierreZ</a></td>
 		<td>Brest, France</td>
-		<td>632</td>
-		<td>693</td>
+		<td>633</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1396,6 +1396,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/elliolir">
+				<img src="https://avatars.githubusercontent.com/u/13907043?s=72&u=a0f3219ce653b1e9edcb8ce92423cd013b593a95&v=4" width="24" alt="Avatar of elliolir"> elliolir
+			</a><br/>
+			Dzmitry B.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>0</td>
+		<td>684</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/cyneprepou4uk">
 				<img src="https://avatars.githubusercontent.com/u/59050458?s=72&u=0b17b29f8774cbcd205d082bd8af0a506ddb2c75&v=4" width="24" alt="Avatar of cyneprepou4uk"> cyneprepou4uk
 			</a><br/>
@@ -1406,20 +1420,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk, Belarus</td>
 		<td>142</td>
 		<td>682</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/elliolir">
-				<img src="https://avatars.githubusercontent.com/u/13907043?s=72&u=a0f3219ce653b1e9edcb8ce92423cd013b593a95&v=4" width="24" alt="Avatar of elliolir"> elliolir
-			</a><br/>
-			Dzmitry B.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>0</td>
-		<td>681</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1494,16 +1494,16 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/lambotik">
-				<img src="https://avatars.githubusercontent.com/u/91555504?s=72&u=1c9ec0178afc5b79f2aea490abc42f64677aa7a9&v=4" width="24" alt="Avatar of lambotik"> lambotik
+			<a href="https://github.com/LostInBrittany">
+				<img src="https://avatars.githubusercontent.com/u/726476?s=72&u=5f9c71501700a15d727e15fd0ddd699b884d2a11&v=4" width="24" alt="Avatar of LostInBrittany"> LostInBrittany
 			</a><br/>
-			Dzmitry Charnukha
+			Horacio Gonzalez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus/Minsk</td>
-		<td>646</td>
-		<td>646</td>
+		<td>@clevercloud </td>
+		<td><a href="https://twitter.com/LostInBrittany">LostInBrittany</a></td>
+		<td>Brest, Brittany, France</td>
+		<td>261</td>
+		<td>650</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1516,11 +1516,25 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mato_dev">mato_dev</a></td>
 		<td>Belarus</td>
-		<td>641</td>
-		<td>645</td>
+		<td>643</td>
+		<td>647</td>
 	</tr>
 	<tr>
 		<td>102</td>
+		<td>
+			<a href="https://github.com/lambotik">
+				<img src="https://avatars.githubusercontent.com/u/91555504?s=72&u=1c9ec0178afc5b79f2aea490abc42f64677aa7a9&v=4" width="24" alt="Avatar of lambotik"> lambotik
+			</a><br/>
+			Dzmitry Charnukha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus/Minsk</td>
+		<td>646</td>
+		<td>646</td>
+	</tr>
+	<tr>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/Djiypyk">
 				<img src="https://avatars.githubusercontent.com/u/81639108?s=72&u=c5a09b66c92288eeb3679c59ac170e807c97e162&v=4" width="24" alt="Avatar of Djiypyk"> Djiypyk
@@ -1534,7 +1548,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>645</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/Alejandbel">
 				<img src="https://avatars.githubusercontent.com/u/90352952?s=72&u=65d78125011465427b77fedf20640dda2776a388&v=4" width="24" alt="Avatar of Alejandbel"> Alejandbel
@@ -1544,22 +1558,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Bsuir </td>
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
-		<td>331</td>
-		<td>642</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/LostInBrittany">
-				<img src="https://avatars.githubusercontent.com/u/726476?s=72&u=5f9c71501700a15d727e15fd0ddd699b884d2a11&v=4" width="24" alt="Avatar of LostInBrittany"> LostInBrittany
-			</a><br/>
-			Horacio Gonzalez
-		</td>
-		<td>@clevercloud </td>
-		<td><a href="https://twitter.com/LostInBrittany">LostInBrittany</a></td>
-		<td>Brest, Brittany, France</td>
-		<td>261</td>
-		<td>641</td>
+		<td>332</td>
+		<td>643</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1592,6 +1592,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/OlegEgoism">
+				<img src="https://avatars.githubusercontent.com/u/81327146?s=72&u=33d1e68001877af0a2edf334925025af327b4501&v=4" width="24" alt="Avatar of OlegEgoism"> OlegEgoism
+			</a><br/>
+			OlegEgoism
+		</td>
+		<td> Itec, Ghu, Cbt<br/></td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Minsk</td>
+		<td>485</td>
+		<td>622</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/Stok">
 				<img src="https://avatars.githubusercontent.com/u/3786177?s=72&v=4" width="24" alt="Avatar of Stok"> Stok
 			</a><br/>
@@ -1604,35 +1618,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>620</td>
 	</tr>
 	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/bensmrs">
-				<img src="https://avatars.githubusercontent.com/u/25688414?s=72&u=5bc889ba9ed385c7c4593b23e0873315828f8481&v=4" width="24" alt="Avatar of bensmrs"> bensmrs
-			</a><br/>
-			Benjamin Somers
-		</td>
-		<td>Imt Atlantique / Federez<br/>/<br/>Resel<br/></td>
-		<td><a href="https://twitter.com/ben_smrs">ben_smrs</a></td>
-		<td>Brest, France</td>
-		<td>512</td>
-		<td>618</td>
-	</tr>
-	<tr>
 		<td>109</td>
-		<td>
-			<a href="https://github.com/OlegEgoism">
-				<img src="https://avatars.githubusercontent.com/u/81327146?s=72&u=33d1e68001877af0a2edf334925025af327b4501&v=4" width="24" alt="Avatar of OlegEgoism"> OlegEgoism
-			</a><br/>
-			OlegEgoism
-		</td>
-		<td> Itec, Ghu, Cbt<br/></td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Minsk</td>
-		<td>480</td>
-		<td>617</td>
-	</tr>
-	<tr>
-		<td>110</td>
 		<td>
 			<a href="https://github.com/npupko">
 				<img src="https://avatars.githubusercontent.com/u/5938539?s=72&u=43bcef3a84c11cb721e5774e8eae102566c2c2fc&v=4" width="24" alt="Avatar of npupko"> npupko
@@ -1646,7 +1632,35 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>617</td>
 	</tr>
 	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/Manmadeeers">
+				<img src="https://avatars.githubusercontent.com/u/87618913?s=72&v=4" width="24" alt="Avatar of Manmadeeers"> Manmadeeers
+			</a><br/>
+			Ilja
+		</td>
+		<td>Bstu </td>
+		<td>No Twitter Username</td>
+		<td>Minsk</td>
+		<td>609</td>
+		<td>617</td>
+	</tr>
+	<tr>
 		<td>111</td>
+		<td>
+			<a href="https://github.com/bensmrs">
+				<img src="https://avatars.githubusercontent.com/u/25688414?s=72&u=5bc889ba9ed385c7c4593b23e0873315828f8481&v=4" width="24" alt="Avatar of bensmrs"> bensmrs
+			</a><br/>
+			Benjamin Somers
+		</td>
+		<td>Imt Atlantique / Federez<br/>/<br/>Resel<br/></td>
+		<td><a href="https://twitter.com/ben_smrs">ben_smrs</a></td>
+		<td>Brest, France</td>
+		<td>510</td>
+		<td>615</td>
+	</tr>
+	<tr>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/artemelyashevich">
 				<img src="https://avatars.githubusercontent.com/u/116464579?s=72&u=f7a43c53c8fb841d4ba1f6cec4ee44b5ec18e7e0&v=4" width="24" alt="Avatar of artemelyashevich"> artemelyashevich
@@ -1657,20 +1671,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>295</td>
-		<td>612</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/Manmadeeers">
-				<img src="https://avatars.githubusercontent.com/u/87618913?s=72&v=4" width="24" alt="Avatar of Manmadeeers"> Manmadeeers
-			</a><br/>
-			Ilja
-		</td>
-		<td>Bstu </td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>604</td>
 		<td>612</td>
 	</tr>
 	<tr>
@@ -1690,15 +1690,15 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>114</td>
 		<td>
-			<a href="https://github.com/VBIralo">
-				<img src="https://avatars.githubusercontent.com/u/13386418?s=72&u=653c02cfeb440c6fcb6756854f493457d9a50142&v=4" width="24" alt="Avatar of VBIralo"> VBIralo
+			<a href="https://github.com/IlyaLisov">
+				<img src="https://avatars.githubusercontent.com/u/69322277?s=72&u=91b37399b6b3b5cdbcd59a9327753124d46cc66e&v=4" width="24" alt="Avatar of IlyaLisov"> IlyaLisov
 			</a><br/>
-			Vlad Biralo
+			Ilya Lisov
 		</td>
-		<td>Biralo.by </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>0</td>
+		<td>Minsk</td>
+		<td>96</td>
 		<td>576</td>
 	</tr>
 	<tr>
@@ -1713,21 +1713,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>154</td>
-		<td>574</td>
+		<td>576</td>
 	</tr>
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/IlyaLisov">
-				<img src="https://avatars.githubusercontent.com/u/69322277?s=72&u=91b37399b6b3b5cdbcd59a9327753124d46cc66e&v=4" width="24" alt="Avatar of IlyaLisov"> IlyaLisov
+			<a href="https://github.com/VBIralo">
+				<img src="https://avatars.githubusercontent.com/u/13386418?s=72&u=653c02cfeb440c6fcb6756854f493457d9a50142&v=4" width="24" alt="Avatar of VBIralo"> VBIralo
 			</a><br/>
-			Ilya Lisov
+			Vlad Biralo
 		</td>
-		<td>No Company</td>
+		<td>Biralo.by </td>
 		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>95</td>
-		<td>571</td>
+		<td>Minsk, Belarus</td>
+		<td>0</td>
+		<td>576</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1796,8 +1796,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Prohibited By Employment Contract<br/></td>
 		<td><a href="https://twitter.com/noname85071193">noname85071193</a></td>
 		<td>Belarus</td>
-		<td>460</td>
-		<td>539</td>
+		<td>462</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1810,8 +1810,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
-		<td>439</td>
-		<td>532</td>
+		<td>448</td>
+		<td>541</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1852,8 +1852,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
-		<td>57</td>
-		<td>519</td>
+		<td>58</td>
+		<td>521</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1964,8 +1964,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
-		<td>164</td>
-		<td>474</td>
+		<td>167</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2021,7 +2021,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>122</td>
-		<td>463</td>
+		<td>464</td>
 	</tr>
 	<tr>
 		<td>138</td>
@@ -2077,7 +2077,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>0</td>
-		<td>443</td>
+		<td>444</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -2090,11 +2090,25 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Mixailos">Mixailos</a></td>
 		<td>Minsk, Belarus</td>
-		<td>416</td>
-		<td>442</td>
+		<td>417</td>
+		<td>443</td>
 	</tr>
 	<tr>
 		<td>143</td>
+		<td>
+			<a href="https://github.com/Viiprogrammer">
+				<img src="https://avatars.githubusercontent.com/u/17622604?s=72&u=0d9a43ac6c5818e9cc71cebbc4951f8bac22a0c1&v=4" width="24" alt="Avatar of Viiprogrammer"> Viiprogrammer
+			</a><br/>
+			Maksim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>27</td>
+		<td>426</td>
+	</tr>
+	<tr>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/vladislavkovaliov">
 				<img src="https://avatars.githubusercontent.com/u/10350366?s=72&u=22ce7251e100c6207fc01d17cbba5a903b5ccc83&v=4" width="24" alt="Avatar of vladislavkovaliov"> vladislavkovaliov
@@ -2108,7 +2122,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>425</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/StrunetsD">
 				<img src="https://avatars.githubusercontent.com/u/144937226?s=72&u=093949d967290e7d969f7e8f9e04b989641a2126&v=4" width="24" alt="Avatar of StrunetsD"> StrunetsD
@@ -2122,20 +2136,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>425</td>
 	</tr>
 	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/Viiprogrammer">
-				<img src="https://avatars.githubusercontent.com/u/17622604?s=72&u=0d9a43ac6c5818e9cc71cebbc4951f8bac22a0c1&v=4" width="24" alt="Avatar of Viiprogrammer"> Viiprogrammer
-			</a><br/>
-			Maksim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>22</td>
-		<td>421</td>
-	</tr>
-	<tr>
 		<td>146</td>
 		<td>
 			<a href="https://github.com/bit0r1n">
@@ -2147,7 +2147,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/bit0r1n">bit0r1n</a></td>
 		<td>Belarus, Minsk</td>
 		<td>159</td>
-		<td>415</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2166,6 +2166,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/epfly6">
+				<img src="https://avatars.githubusercontent.com/u/36567300?s=72&u=3fc2d4f2be47ce48a165d046a098da39222ca986&v=4" width="24" alt="Avatar of epfly6"> epfly6
+			</a><br/>
+			fly_6
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ep_fly_6">ep_fly_6</a></td>
+		<td>Minsk</td>
+		<td>219</td>
+		<td>410</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/Peachex">
 				<img src="https://avatars.githubusercontent.com/u/60114748?s=72&u=8ddd7bde2c592ad8bbcd5265d5f291150f2669a1&v=4" width="24" alt="Avatar of Peachex"> Peachex
 			</a><br/>
@@ -2176,20 +2190,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk, Belarus</td>
 		<td>410</td>
 		<td>410</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/epfly6">
-				<img src="https://avatars.githubusercontent.com/u/36567300?s=72&u=3fc2d4f2be47ce48a165d046a098da39222ca986&v=4" width="24" alt="Avatar of epfly6"> epfly6
-			</a><br/>
-			fly_6
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ep_fly_6">ep_fly_6</a></td>
-		<td>Minsk</td>
-		<td>219</td>
-		<td>408</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2236,6 +2236,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>153</td>
 		<td>
+			<a href="https://github.com/landure">
+				<img src="https://avatars.githubusercontent.com/u/1490071?s=72&v=4" width="24" alt="Avatar of landure"> landure
+			</a><br/>
+			Pierre-Yves Landuré
+		</td>
+		<td>Biapy </td>
+		<td><a href="https://twitter.com/biapy">biapy</a></td>
+		<td>Brest, France</td>
+		<td>396</td>
+		<td>396</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
 			<a href="https://github.com/valerashankorenko">
 				<img src="https://avatars.githubusercontent.com/u/134962065?s=72&u=b43cd977d1ea603c36e2246cdbe457703170cffc&v=4" width="24" alt="Avatar of valerashankorenko"> valerashankorenko
 			</a><br/>
@@ -2246,20 +2260,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Orsha, Belarus</td>
 		<td>125</td>
 		<td>395</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/landure">
-				<img src="https://avatars.githubusercontent.com/u/1490071?s=72&v=4" width="24" alt="Avatar of landure"> landure
-			</a><br/>
-			Pierre-Yves Landuré
-		</td>
-		<td>Biapy </td>
-		<td><a href="https://twitter.com/biapy">biapy</a></td>
-		<td>Brest, France</td>
-		<td>393</td>
-		<td>393</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -2301,7 +2301,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>2</td>
-		<td>376</td>
+		<td>377</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -2320,6 +2320,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>159</td>
 		<td>
+			<a href="https://github.com/DUB1401">
+				<img src="https://avatars.githubusercontent.com/u/40277356?s=72&u=ddcfe0ba2af495da2c89842c6e30d694195c0b78&v=4" width="24" alt="Avatar of DUB1401"> DUB1401
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DUB1401">DUB1401</a></td>
+		<td>Belarus</td>
+		<td>373</td>
+		<td>373</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
 			<a href="https://github.com/Plastyrek">
 				<img src="https://avatars.githubusercontent.com/u/15888594?s=72&u=09cc9b1e3fbfb0ebb5ec90fa36e5d8464620d087&v=4" width="24" alt="Avatar of Plastyrek"> Plastyrek
 			</a><br/>
@@ -2332,35 +2346,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>371</td>
 	</tr>
 	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/DUB1401">
-				<img src="https://avatars.githubusercontent.com/u/40277356?s=72&u=ddcfe0ba2af495da2c89842c6e30d694195c0b78&v=4" width="24" alt="Avatar of DUB1401"> DUB1401
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DUB1401">DUB1401</a></td>
-		<td>Belarus</td>
-		<td>370</td>
-		<td>370</td>
-	</tr>
-	<tr>
 		<td>161</td>
-		<td>
-			<a href="https://github.com/TimoxGagarin">
-				<img src="https://avatars.githubusercontent.com/u/85152772?s=72&u=4097ac16d582d4eae4178d9f41e8188f2ac39297&v=4" width="24" alt="Avatar of TimoxGagarin"> TimoxGagarin
-			</a><br/>
-			TimoxGagarin
-		</td>
-		<td>Tevenix Llc & Bitcart<br/></td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>146</td>
-		<td>369</td>
-	</tr>
-	<tr>
-		<td>162</td>
 		<td>
 			<a href="https://github.com/faleialina">
 				<img src="https://avatars.githubusercontent.com/u/116958437?s=72&u=fe4ceaeb942465cf675949bb4ed40186b4cd3dab&v=4" width="24" alt="Avatar of faleialina"> faleialina
@@ -2374,6 +2360,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>363</td>
 	</tr>
 	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/TimoxGagarin">
+				<img src="https://avatars.githubusercontent.com/u/85152772?s=72&u=4097ac16d582d4eae4178d9f41e8188f2ac39297&v=4" width="24" alt="Avatar of TimoxGagarin"> TimoxGagarin
+			</a><br/>
+			TimoxGagarin
+		</td>
+		<td>Tevenix Llc & Bitcart<br/></td>
+		<td>No Twitter Username</td>
+		<td>Minsk</td>
+		<td>146</td>
+		<td>362</td>
+	</tr>
+	<tr>
 		<td>163</td>
 		<td>
 			<a href="https://github.com/MaksimSazanovich">
@@ -2385,7 +2385,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>135</td>
-		<td>349</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2412,8 +2412,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
-		<td>341</td>
-		<td>341</td>
+		<td>342</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>166</td>
@@ -2427,7 +2427,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>70</td>
-		<td>340</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2441,7 +2441,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>6</td>
-		<td>338</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2474,6 +2474,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>170</td>
 		<td>
+			<a href="https://github.com/Benvii">
+				<img src="https://avatars.githubusercontent.com/u/1092728?s=72&u=8becddc0b201cf4b9f93796e6cb06f0d92fa9fe0&v=4" width="24" alt="Avatar of Benvii"> Benvii
+			</a><br/>
+			Benjamin BERNARD
+		</td>
+		<td>Maison Du Libre </td>
+		<td>No Twitter Username</td>
+		<td>Brest</td>
+		<td>269</td>
+		<td>333</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
 			<a href="https://github.com/unspok3n">
 				<img src="https://avatars.githubusercontent.com/u/60230627?s=72&u=072c989fb85335108675a042a9c12d1de074b818&v=4" width="24" alt="Avatar of unspok3n"> unspok3n
 			</a><br/>
@@ -2486,7 +2500,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/slawiko">
 				<img src="https://avatars.githubusercontent.com/u/10272192?s=72&v=4" width="24" alt="Avatar of slawiko"> slawiko
@@ -2500,7 +2514,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/morpheby">
 				<img src="https://avatars.githubusercontent.com/u/1382625?s=72&v=4" width="24" alt="Avatar of morpheby"> morpheby
@@ -2514,7 +2528,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/lvanic">
 				<img src="https://avatars.githubusercontent.com/u/34685761?s=72&u=19f42d6c59e3a6b222b6d10b24f311f87f36e1d0&v=4" width="24" alt="Avatar of lvanic"> lvanic
@@ -2526,20 +2540,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>72</td>
 		<td>327</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/Benvii">
-				<img src="https://avatars.githubusercontent.com/u/1092728?s=72&u=8becddc0b201cf4b9f93796e6cb06f0d92fa9fe0&v=4" width="24" alt="Avatar of Benvii"> Benvii
-			</a><br/>
-			Benjamin BERNARD
-		</td>
-		<td>Maison Du Libre </td>
-		<td>No Twitter Username</td>
-		<td>Brest</td>
-		<td>262</td>
-		<td>325</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2580,8 +2580,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belarusian State University </td>
 		<td><a href="https://twitter.com/ring0_rootkit">ring0_rootkit</a></td>
 		<td>Minsk, Belarus</td>
-		<td>321</td>
-		<td>321</td>
+		<td>322</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2670,6 +2670,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>184</td>
 		<td>
+			<a href="https://github.com/k1ngmang">
+				<img src="https://avatars.githubusercontent.com/u/126554294?s=72&u=64067dbacdd3626bea70c3c12320fb0b6ccac112&v=4" width="24" alt="Avatar of k1ngmang"> k1ngmang
+			</a><br/>
+			Artyom Lipatov
+		</td>
+		<td>@kngmng  </td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>287</td>
+		<td>308</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
 			<a href="https://github.com/Plgdhd">
 				<img src="https://avatars.githubusercontent.com/u/126475039?s=72&u=bff7b2cfe3478d63392add71691f079e958544d2&v=4" width="24" alt="Avatar of Plgdhd"> Plgdhd
 			</a><br/>
@@ -2680,20 +2694,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>236</td>
 		<td>308</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/pavelhalanin">
-				<img src="https://avatars.githubusercontent.com/u/40497406?s=72&v=4" width="24" alt="Avatar of pavelhalanin"> pavelhalanin
-			</a><br/>
-			Pavel Halanin
-		</td>
-		<td>@ooodepa </td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>165</td>
-		<td>307</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -2707,21 +2707,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/trypuzz">trypuzz</a></td>
 		<td>Minsk, Belarus</td>
 		<td>5</td>
-		<td>307</td>
+		<td>308</td>
 	</tr>
 	<tr>
 		<td>187</td>
 		<td>
-			<a href="https://github.com/k1ngmang">
-				<img src="https://avatars.githubusercontent.com/u/126554294?s=72&u=64067dbacdd3626bea70c3c12320fb0b6ccac112&v=4" width="24" alt="Avatar of k1ngmang"> k1ngmang
+			<a href="https://github.com/pavelhalanin">
+				<img src="https://avatars.githubusercontent.com/u/40497406?s=72&v=4" width="24" alt="Avatar of pavelhalanin"> pavelhalanin
 			</a><br/>
-			Artyom Lipatov
+			Pavel Halanin
 		</td>
-		<td>@kngmng  </td>
+		<td>@ooodepa </td>
 		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>285</td>
-		<td>306</td>
+		<td>Minsk</td>
+		<td>165</td>
+		<td>307</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -2749,7 +2749,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>123</td>
-		<td>299</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2763,7 +2763,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>113</td>
-		<td>296</td>
+		<td>297</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2791,7 +2791,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Gomel, Belarus</td>
 		<td>243</td>
-		<td>283</td>
+		<td>285</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2810,6 +2810,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>194</td>
 		<td>
+			<a href="https://github.com/andkorzh">
+				<img src="https://avatars.githubusercontent.com/u/93550076?s=72&u=5270b05ac480d5f85adbb63d9b710cbeee8337a2&v=4" width="24" alt="Avatar of andkorzh"> andkorzh
+			</a><br/>
+			andkorzh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>276</td>
+		<td>276</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
 			<a href="https://github.com/byxmend">
 				<img src="https://avatars.githubusercontent.com/u/61935002?s=72&u=e49c569c94d06f2e7a65f5ee7f842f07e255ba7c&v=4" width="24" alt="Avatar of byxmend"> byxmend
 			</a><br/>
@@ -2820,20 +2834,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk, Belarus</td>
 		<td>58</td>
 		<td>274</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/andkorzh">
-				<img src="https://avatars.githubusercontent.com/u/93550076?s=72&u=5270b05ac480d5f85adbb63d9b710cbeee8337a2&v=4" width="24" alt="Avatar of andkorzh"> andkorzh
-			</a><br/>
-			andkorzh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>268</td>
-		<td>268</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -2880,6 +2880,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/stefjen07">
+				<img src="https://avatars.githubusercontent.com/u/44508449?s=72&u=65f3f4caa62d79f5f41a346eda722d1f29a26a62&v=4" width="24" alt="Avatar of stefjen07"> stefjen07
+			</a><br/>
+			Eugene Stsefankou
+		</td>
+		<td>Yandex </td>
+		<td><a href="https://twitter.com/stefjen07">stefjen07</a></td>
+		<td>Minsk, Belarus</td>
+		<td>48</td>
+		<td>263</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/victoriaSamsonovaaa">
 				<img src="https://avatars.githubusercontent.com/u/140270932?s=72&u=a46eb431401f8d1355e2e607a82b654c2d113af2&v=4" width="24" alt="Avatar of victoriaSamsonovaaa"> victoriaSamsonovaaa
 			</a><br/>
@@ -2892,7 +2906,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/skillforce">
 				<img src="https://avatars.githubusercontent.com/u/77588926?s=72&u=6c780cf68117145bb7d2d60a07f9aacdce90c2f0&v=4" width="24" alt="Avatar of skillforce"> skillforce
@@ -2906,7 +2920,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/m0loko">
 				<img src="https://avatars.githubusercontent.com/u/141962445?s=72&u=886eb6e834215f77c9c0464fe65d39879b9b07f6&v=4" width="24" alt="Avatar of m0loko"> m0loko
@@ -2917,10 +2931,10 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
 		<td>148</td>
-		<td>256</td>
+		<td>259</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/Alarid">
 				<img src="https://avatars.githubusercontent.com/u/5678065?s=72&u=5fbe9c434c12adb4e5dfd88ba84babf4d776f2a1&v=4" width="24" alt="Avatar of Alarid"> Alarid
@@ -2934,7 +2948,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/ThomasLeMezo">
 				<img src="https://avatars.githubusercontent.com/u/5330677?s=72&u=23b73d7ab1d9580fe6ce0dff73b3497a1c8de7ad&v=4" width="24" alt="Avatar of ThomasLeMezo"> ThomasLeMezo
@@ -2946,20 +2960,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Brest, FR</td>
 		<td>48</td>
 		<td>255</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/stefjen07">
-				<img src="https://avatars.githubusercontent.com/u/44508449?s=72&u=65f3f4caa62d79f5f41a346eda722d1f29a26a62&v=4" width="24" alt="Avatar of stefjen07"> stefjen07
-			</a><br/>
-			Eugene Stsefankou
-		</td>
-		<td>Yandex </td>
-		<td><a href="https://twitter.com/stefjen07">stefjen07</a></td>
-		<td>Minsk, Belarus</td>
-		<td>48</td>
-		<td>249</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -3042,8 +3042,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Hsc, Ag Software </td>
 		<td>No Twitter Username</td>
 		<td>Belarus, Lithuania</td>
-		<td>80</td>
-		<td>239</td>
+		<td>81</td>
+		<td>240</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3098,8 +3098,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Zenika </td>
 		<td>No Twitter Username</td>
 		<td>Brest</td>
-		<td>231</td>
-		<td>231</td>
+		<td>232</td>
+		<td>232</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3127,7 +3127,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Mogilev, Belarus</td>
 		<td>227</td>
-		<td>228</td>
+		<td>230</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -3314,6 +3314,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>230</td>
 		<td>
+			<a href="https://github.com/maullerz">
+				<img src="https://avatars.githubusercontent.com/u/5295025?s=72&u=b832091434c7b02db2b3a1848ff9d4d4b783ce84&v=4" width="24" alt="Avatar of maullerz"> maullerz
+			</a><br/>
+			Loginov Roman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>18</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a href="https://github.com/BaronGalileo">
 				<img src="https://avatars.githubusercontent.com/u/138400521?s=72&u=7adc7ecb6d33b23d9ac74642116271c3818d766e&v=4" width="24" alt="Avatar of BaronGalileo"> BaronGalileo
 			</a><br/>
@@ -3323,20 +3337,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>213</td>
-		<td>213</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/maullerz">
-				<img src="https://avatars.githubusercontent.com/u/5295025?s=72&u=b832091434c7b02db2b3a1848ff9d4d4b783ce84&v=4" width="24" alt="Avatar of maullerz"> maullerz
-			</a><br/>
-			Loginov Roman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>134</td>
 		<td>213</td>
 	</tr>
 	<tr>
@@ -3351,7 +3351,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
 		<td>0</td>
-		<td>209</td>
+		<td>213</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3364,8 +3364,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
-		<td>206</td>
-		<td>206</td>
+		<td>207</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>234</td>
@@ -3393,7 +3393,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus, Hrodna-Minsk</td>
 		<td>4</td>
-		<td>194</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3482,6 +3482,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>242</td>
 		<td>
+			<a href="https://github.com/Bararide">
+				<img src="https://avatars.githubusercontent.com/u/118819233?s=72&u=7e3de26f16faad23dfd9ae4792f08bf75882bc18&v=4" width="24" alt="Avatar of Bararide"> Bararide
+			</a><br/>
+			Bararide
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>185</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
 			<a href="https://github.com/freelanse">
 				<img src="https://avatars.githubusercontent.com/u/35501525?s=72&u=7dceb29c35567829e27630419956d298de3f1eb1&v=4" width="24" alt="Avatar of freelanse"> freelanse
 			</a><br/>
@@ -3494,7 +3508,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/nevack">
 				<img src="https://avatars.githubusercontent.com/u/8330119?s=72&u=d0bae163c62eede753ffaabd769de0b064049476&v=4" width="24" alt="Avatar of nevack"> nevack
@@ -3508,7 +3522,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/kemsky">
 				<img src="https://avatars.githubusercontent.com/u/3826972?s=72&u=2434397b60cb8d058add27749b2c70291dd87863&v=4" width="24" alt="Avatar of kemsky"> kemsky
@@ -3522,7 +3536,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/tereshenkov29">
 				<img src="https://avatars.githubusercontent.com/u/50947571?s=72&u=61760919d1f81a4df4a07d9b342b290a3cc43498&v=4" width="24" alt="Avatar of tereshenkov29"> tereshenkov29
@@ -3532,11 +3546,11 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>158</td>
-		<td>181</td>
+		<td>159</td>
+		<td>182</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/Azorlogh">
 				<img src="https://avatars.githubusercontent.com/u/17968319?s=72&u=77a897fa3eb716bb5d1cf6c75c0886faa384d586&v=4" width="24" alt="Avatar of Azorlogh"> Azorlogh
@@ -3550,7 +3564,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/tul1">
 				<img src="https://avatars.githubusercontent.com/u/10169300?s=72&u=f1a916246bf47d4465f49dc8c7fdc21f0bbd7982&v=4" width="24" alt="Avatar of tul1"> tul1
@@ -3564,7 +3578,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/d1st4r">
 				<img src="https://avatars.githubusercontent.com/u/5354828?s=72&v=4" width="24" alt="Avatar of d1st4r"> d1st4r
@@ -3575,10 +3589,10 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belarus</td>
 		<td>0</td>
-		<td>173</td>
+		<td>175</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/Bibimotik">
 				<img src="https://avatars.githubusercontent.com/u/144282974?s=72&u=a8256acb422b1f513706d457e71ad692e8f5ea7d&v=4" width="24" alt="Avatar of Bibimotik"> Bibimotik
@@ -3592,7 +3606,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/ten0s">
 				<img src="https://avatars.githubusercontent.com/u/1344415?s=72&v=4" width="24" alt="Avatar of ten0s"> ten0s
@@ -3606,21 +3620,35 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
-			<a href="https://github.com/Bararide">
-				<img src="https://avatars.githubusercontent.com/u/118819233?s=72&u=7e3de26f16faad23dfd9ae4792f08bf75882bc18&v=4" width="24" alt="Avatar of Bararide"> Bararide
+			<a href="https://github.com/quai20">
+				<img src="https://avatars.githubusercontent.com/u/17851004?s=72&u=f0921203e538f7010a8c4352baaa6d72119ddc97&v=4" width="24" alt="Avatar of quai20"> quai20
 			</a><br/>
-			Bararide
+			Kevin Balem
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>169</td>
-		<td>169</td>
+		<td><a href="https://twitter.com/balemkevin">balemkevin</a></td>
+		<td>Brest, France</td>
+		<td>170</td>
+		<td>170</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/stefraynaud">
+				<img src="https://avatars.githubusercontent.com/u/1941408?s=72&u=d28504f27c76e03d14fbb4a313dd83bc15f0692c&v=4" width="24" alt="Avatar of stefraynaud"> stefraynaud
+			</a><br/>
+			Stephane Raynaud
+		</td>
+		<td>Shom </td>
+		<td>No Twitter Username</td>
+		<td>Brest, France</td>
+		<td>170</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/lebarsfa">
 				<img src="https://avatars.githubusercontent.com/u/7620482?s=72&v=4" width="24" alt="Avatar of lebarsfa"> lebarsfa
@@ -3634,7 +3662,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/dmitry-sidorov">
 				<img src="https://avatars.githubusercontent.com/u/30592823?s=72&u=40fd599169fe5c18acbc37831c72ad94ef01dafd&v=4" width="24" alt="Avatar of dmitry-sidorov"> dmitry-sidorov
@@ -3648,7 +3676,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/artaka">
+				<img src="https://avatars.githubusercontent.com/u/43890646?s=72&u=b267c219262a59f4d91b1e2fe2adad20fbc1120e&v=4" width="24" alt="Avatar of artaka"> artaka
+			</a><br/>
+			Artem Myshkovets
+		</td>
+		<td>Bstu </td>
+		<td>No Twitter Username</td>
+		<td>Minsk</td>
+		<td>143</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/SecondThundeR">
 				<img src="https://avatars.githubusercontent.com/u/36604233?s=72&u=35136a53f70668e234e34cad0561d05fc0a86d9a&v=4" width="24" alt="Avatar of SecondThundeR"> SecondThundeR
@@ -3662,21 +3704,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/artaka">
-				<img src="https://avatars.githubusercontent.com/u/43890646?s=72&u=b267c219262a59f4d91b1e2fe2adad20fbc1120e&v=4" width="24" alt="Avatar of artaka"> artaka
-			</a><br/>
-			Artem Myshkovets
-		</td>
-		<td>Bstu </td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>141</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>256</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/DionisiuBrovka">
 				<img src="https://avatars.githubusercontent.com/u/76963003?s=72&u=5a637d86297c13a3b60e648d0926c3b0619a0d21&v=4" width="24" alt="Avatar of DionisiuBrovka"> DionisiuBrovka
@@ -3690,21 +3718,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>259</td>
 		<td>
-			<a href="https://github.com/quai20">
-				<img src="https://avatars.githubusercontent.com/u/17851004?s=72&u=f0921203e538f7010a8c4352baaa6d72119ddc97&v=4" width="24" alt="Avatar of quai20"> quai20
+			<a href="https://github.com/cdhainaut">
+				<img src="https://avatars.githubusercontent.com/u/31945985?s=72&u=3f493c2f4c9c4587415ef10a91cbccc296bfb3bb&v=4" width="24" alt="Avatar of cdhainaut"> cdhainaut
 			</a><br/>
-			Kevin Balem
+			Charles Dhainaut
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/balemkevin">balemkevin</a></td>
+		<td>No Twitter Username</td>
 		<td>Brest, France</td>
-		<td>161</td>
-		<td>161</td>
+		<td>91</td>
+		<td>155</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/EVAST9919">
 				<img src="https://avatars.githubusercontent.com/u/22874522?s=72&u=42ab5fa2b8605c7f97ccf528739bdf90a91dcdc9&v=4" width="24" alt="Avatar of EVAST9919"> EVAST9919
@@ -3718,7 +3746,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/khannurien">
+				<img src="https://avatars.githubusercontent.com/u/31770422?s=72&u=bae72639cc0361c4e5fc1530e6df9dc630790eaa&v=4" width="24" alt="Avatar of khannurien"> khannurien
+			</a><br/>
+			Vincent Lannurien
+		</td>
+		<td>Lab-sticc </td>
+		<td>No Twitter Username</td>
+		<td>Brest</td>
+		<td>152</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/alik-avizha">
 				<img src="https://avatars.githubusercontent.com/u/123376663?s=72&u=93e524056bcb995e58317b22d369c46d9a9e100f&v=4" width="24" alt="Avatar of alik-avizha"> alik-avizha
@@ -3732,21 +3774,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/khannurien">
-				<img src="https://avatars.githubusercontent.com/u/31770422?s=72&u=bae72639cc0361c4e5fc1530e6df9dc630790eaa&v=4" width="24" alt="Avatar of khannurien"> khannurien
-			</a><br/>
-			Vincent Lannurien
-		</td>
-		<td>Lab-sticc </td>
-		<td>No Twitter Username</td>
-		<td>Brest</td>
-		<td>151</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>261</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/Tiltet">
 				<img src="https://avatars.githubusercontent.com/u/114957669?s=72&u=7680f0a951476085a96dd118fa665a8276e4402e&v=4" width="24" alt="Avatar of Tiltet"> Tiltet
@@ -3760,7 +3788,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/dzmitryNz">
 				<img src="https://avatars.githubusercontent.com/u/68989170?s=72&v=4" width="24" alt="Avatar of dzmitryNz"> dzmitryNz
@@ -3774,21 +3802,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>265</td>
 		<td>
-			<a href="https://github.com/cdhainaut">
-				<img src="https://avatars.githubusercontent.com/u/31945985?s=72&u=3f493c2f4c9c4587415ef10a91cbccc296bfb3bb&v=4" width="24" alt="Avatar of cdhainaut"> cdhainaut
+			<a href="https://github.com/ax-le">
+				<img src="https://avatars.githubusercontent.com/u/25300254?s=72&u=986fc89f3b78f9d989329bdc2bf2ebb60f7e167d&v=4" width="24" alt="Avatar of ax-le"> ax-le
 			</a><br/>
-			Charles Dhainaut
+			Axel Marmoret
 		</td>
-		<td>No Company</td>
+		<td>Imt Atlantique </td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
-		<td>88</td>
+		<td>141</td>
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/michail-nikolaev">
 				<img src="https://avatars.githubusercontent.com/u/2277142?s=72&v=4" width="24" alt="Avatar of michail-nikolaev"> michail-nikolaev
@@ -3802,21 +3830,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/ax-le">
-				<img src="https://avatars.githubusercontent.com/u/25300254?s=72&u=986fc89f3b78f9d989329bdc2bf2ebb60f7e167d&v=4" width="24" alt="Avatar of ax-le"> ax-le
-			</a><br/>
-			Axel Marmoret
-		</td>
-		<td>Imt Atlantique </td>
-		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>138</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/KeKoParis">
 				<img src="https://avatars.githubusercontent.com/u/91563352?s=72&u=f3613477778e6dfaf7ed98c2344ccba143e4f467&v=4" width="24" alt="Avatar of KeKoParis"> KeKoParis
@@ -3830,7 +3844,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/DmitryKRTV">
 				<img src="https://avatars.githubusercontent.com/u/89204539?s=72&u=f3ea4df2b3e47b462233f6813a28072bc4ffb345&v=4" width="24" alt="Avatar of DmitryKRTV"> DmitryKRTV
@@ -3844,7 +3858,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/jizhang02">
 				<img src="https://avatars.githubusercontent.com/u/46089068?s=72&u=f2fb878d51356bafc35c62d70508f621675443c4&v=4" width="24" alt="Avatar of jizhang02"> jizhang02
@@ -3858,7 +3872,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/Ozerich">
 				<img src="https://avatars.githubusercontent.com/u/406041?s=72&u=e4aff506d37f2b6f3370a26ef52f81e1fb5296cb&v=4" width="24" alt="Avatar of Ozerich"> Ozerich
@@ -3868,11 +3882,11 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Ozitag </td>
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
-		<td>143</td>
-		<td>143</td>
+		<td>144</td>
+		<td>144</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/KovalM">
 				<img src="https://avatars.githubusercontent.com/u/8680298?s=72&u=effe955edcd19e88da7e0d07a0e9ef534d0e5128&v=4" width="24" alt="Avatar of KovalM"> KovalM
@@ -3886,7 +3900,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/jordanbmrd">
 				<img src="https://avatars.githubusercontent.com/u/34632740?s=72&u=dbc7075f0e6331648423b27e4ea8f219009ba113&v=4" width="24" alt="Avatar of jordanbmrd"> jordanbmrd
@@ -3900,7 +3914,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/yantakus">
 				<img src="https://avatars.githubusercontent.com/u/2179726?s=72&u=2930ba6dc0d95702ad1ae3b35f164d5bfbe0c927&v=4" width="24" alt="Avatar of yantakus"> yantakus
@@ -3914,7 +3928,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/glebgol">
 				<img src="https://avatars.githubusercontent.com/u/103337322?s=72&v=4" width="24" alt="Avatar of glebgol"> glebgol
@@ -3928,7 +3942,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/Meteorych">
 				<img src="https://avatars.githubusercontent.com/u/90402270?s=72&u=cded818581aaa0c339024b5bab9e1d06b3bd1483&v=4" width="24" alt="Avatar of Meteorych"> Meteorych
@@ -3942,7 +3956,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/SilantiFross">
 				<img src="https://avatars.githubusercontent.com/u/9060566?s=72&u=2f4ae60f04b22e9841c152e3ea42f315ca58d0f5&v=4" width="24" alt="Avatar of SilantiFross"> SilantiFross
@@ -3956,7 +3970,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/YLG29fr">
 				<img src="https://avatars.githubusercontent.com/u/131044796?s=72&u=2f8a731f51f816d42f472c8e394c1fbd4c7670fa&v=4" width="24" alt="Avatar of YLG29fr"> YLG29fr
@@ -3970,7 +3984,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/Vadimohka">
 				<img src="https://avatars.githubusercontent.com/u/32556101?s=72&u=48cf4ba9b519ee86d7f4d2368e0abd0b93c7a29d&v=4" width="24" alt="Avatar of Vadimohka"> Vadimohka
@@ -3984,7 +3998,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/Svygzhryr">
 				<img src="https://avatars.githubusercontent.com/u/80585863?s=72&u=3a64bbd3a588141d08842d0ad9394248257b68a1&v=4" width="24" alt="Avatar of Svygzhryr"> Svygzhryr
@@ -3998,7 +4012,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/aligenzzz">
 				<img src="https://avatars.githubusercontent.com/u/92694987?s=72&u=b278420cfefe5eaeeb592a23db357a0ddc42559e&v=4" width="24" alt="Avatar of aligenzzz"> aligenzzz
@@ -4012,7 +4026,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/ztimms73">
 				<img src="https://avatars.githubusercontent.com/u/61558546?s=72&u=b14eb9e31124e1f0c641d88444039bd2aefb7e7b&v=4" width="24" alt="Avatar of ztimms73"> ztimms73
@@ -4026,7 +4040,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/GuillaumePressiat">
 				<img src="https://avatars.githubusercontent.com/u/25203135?s=72&u=d68dffe90bbd05a639f255b6e3105fa5cce7e074&v=4" width="24" alt="Avatar of GuillaumePressiat"> GuillaumePressiat
@@ -4034,20 +4048,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 			No Name
 		</td>
 		<td>Brest University Hospital ;<br/>Chru<br/>Brest<br/></td>
-		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>128</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/stefraynaud">
-				<img src="https://avatars.githubusercontent.com/u/1941408?s=72&u=d28504f27c76e03d14fbb4a313dd83bc15f0692c&v=4" width="24" alt="Avatar of stefraynaud"> stefraynaud
-			</a><br/>
-			Stephane Raynaud
-		</td>
-		<td>Shom </td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
 		<td>128</td>
@@ -4112,6 +4112,34 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>287</td>
 		<td>
+			<a href="https://github.com/Eljily-Mohamed">
+				<img src="https://avatars.githubusercontent.com/u/92478509?s=72&u=c38f2e2bd0bce49a147dd7f7f2b630611e6fa90e&v=4" width="24" alt="Avatar of Eljily-Mohamed"> Eljily-Mohamed
+			</a><br/>
+			ELjily-Mohamed
+		</td>
+		<td>École Nationale D'ingénieurs De<br/>Brest(enib)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Brest, France</td>
+		<td>89</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/rodukov">
+				<img src="https://avatars.githubusercontent.com/u/101352977?s=72&u=11e79f4e485901c82ce76bec974e8764a76dac8f&v=4" width="24" alt="Avatar of rodukov"> rodukov
+			</a><br/>
+			138
+		</td>
+		<td>Bsuir Ims </td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Minsk</td>
+		<td>100</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
 			<a href="https://github.com/Dima00138">
 				<img src="https://avatars.githubusercontent.com/u/90451904?s=72&u=1217c28d8c963364cf956a932bed21200b74b14e&v=4" width="24" alt="Avatar of Dima00138"> Dima00138
 			</a><br/>
@@ -4124,7 +4152,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/Pathologic">
 				<img src="https://avatars.githubusercontent.com/u/3012304?s=72&u=45c3c944889f9bafac55ff3f233de84ec3ea63b5&v=4" width="24" alt="Avatar of Pathologic"> Pathologic
@@ -4138,7 +4166,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/eao197">
 				<img src="https://avatars.githubusercontent.com/u/11836621?s=72&u=45d4e0918898d1e70b0eb90a00ca6567c86932ce&v=4" width="24" alt="Avatar of eao197"> eao197
@@ -4152,7 +4180,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/djgreeb">
 				<img src="https://avatars.githubusercontent.com/u/17586315?s=72&u=6b3a24834dfa0ae375764a85cdbf2568849c06fa&v=4" width="24" alt="Avatar of djgreeb"> djgreeb
@@ -4166,7 +4194,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/bassochette">
 				<img src="https://avatars.githubusercontent.com/u/935669?s=72&u=566e77178e9c9246c0ed84687497f635b90d9830&v=4" width="24" alt="Avatar of bassochette"> bassochette
@@ -4180,7 +4208,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/sv1atsk1">
 				<img src="https://avatars.githubusercontent.com/u/127544303?s=72&u=def10ae58983a79f01251a50317081cfb2b7fb52&v=4" width="24" alt="Avatar of sv1atsk1"> sv1atsk1
@@ -4194,21 +4222,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/Eljily-Mohamed">
-				<img src="https://avatars.githubusercontent.com/u/92478509?s=72&u=c38f2e2bd0bce49a147dd7f7f2b630611e6fa90e&v=4" width="24" alt="Avatar of Eljily-Mohamed"> Eljily-Mohamed
-			</a><br/>
-			ELjily-Mohamed
-		</td>
-		<td>École Nationale D'ingénieurs De<br/>Brest(enib)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>89</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/MaxMagazin">
 				<img src="https://avatars.githubusercontent.com/u/2509647?s=72&u=607536a87c71cb9596d0ea4693c011f2a48cb863&v=4" width="24" alt="Avatar of MaxMagazin"> MaxMagazin
@@ -4222,7 +4236,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/mitrofanzxc">
 				<img src="https://avatars.githubusercontent.com/u/89448952?s=72&u=abf1c24e6ab8c72add744d5f2cac7e77155d6b3d&v=4" width="24" alt="Avatar of mitrofanzxc"> mitrofanzxc
@@ -4234,20 +4248,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>118</td>
 		<td>118</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/rodukov">
-				<img src="https://avatars.githubusercontent.com/u/101352977?s=72&u=11e79f4e485901c82ce76bec974e8764a76dac8f&v=4" width="24" alt="Avatar of rodukov"> rodukov
-			</a><br/>
-			138
-		</td>
-		<td>Bsuir Ims </td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Minsk</td>
-		<td>92</td>
-		<td>117</td>
 	</tr>
 	<tr>
 		<td>297</td>
@@ -4336,6 +4336,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>303</td>
 		<td>
+			<a href="https://github.com/staniel359">
+				<img src="https://avatars.githubusercontent.com/u/18214933?s=72&v=4" width="24" alt="Avatar of staniel359"> staniel359
+			</a><br/>
+			Aleksey Shpakovsky
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>113</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
 			<a href="https://github.com/pastilkaxo">
 				<img src="https://avatars.githubusercontent.com/u/98273582?s=72&u=a75da6204acffbb02b165933ae489c870421046c&v=4" width="24" alt="Avatar of pastilkaxo"> pastilkaxo
 			</a><br/>
@@ -4348,7 +4362,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/6Glow">
 				<img src="https://avatars.githubusercontent.com/u/71527547?s=72&u=25cef5c323d5526e38dda2d3d5602d574e519f80&v=4" width="24" alt="Avatar of 6Glow"> 6Glow
@@ -4360,20 +4374,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belarus</td>
 		<td>111</td>
 		<td>111</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/staniel359">
-				<img src="https://avatars.githubusercontent.com/u/18214933?s=72&v=4" width="24" alt="Avatar of staniel359"> staniel359
-			</a><br/>
-			Aleksey Shpakovsky
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>110</td>
-		<td>110</td>
 	</tr>
 	<tr>
 		<td>306</td>
@@ -4442,8 +4442,8 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belarus, Minsk</td>
-		<td>103</td>
-		<td>103</td>
+		<td>104</td>
+		<td>104</td>
 	</tr>
 	<tr>
 		<td>311</td>
@@ -4504,16 +4504,16 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>315</td>
 		<td>
-			<a href="https://github.com/JC-LL">
-				<img src="https://avatars.githubusercontent.com/u/3129617?s=72&u=a8415c40cfcc3937bd522140f510e150acb029d8&v=4" width="24" alt="Avatar of JC-LL"> JC-LL
+			<a href="https://github.com/PurSnake">
+				<img src="https://avatars.githubusercontent.com/u/56314743?s=72&u=b97f6536df823e7baa8789caa718acc24532a985&v=4" width="24" alt="Avatar of PurSnake"> PurSnake
 			</a><br/>
-			Jean-Christophe Le Lann
+			Herman Khomich
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>34</td>
-		<td>101</td>
+		<td>Minsk</td>
+		<td>99</td>
+		<td>99</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -4560,20 +4560,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>319</td>
 		<td>
-			<a href="https://github.com/PurSnake">
-				<img src="https://avatars.githubusercontent.com/u/56314743?s=72&u=b97f6536df823e7baa8789caa718acc24532a985&v=4" width="24" alt="Avatar of PurSnake"> PurSnake
-			</a><br/>
-			Herman Khomich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>98</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
 			<a href="https://github.com/SergGrey1992">
 				<img src="https://avatars.githubusercontent.com/u/55402324?s=72&u=2b577e8a15e83b8bbc11745c59309ea5727f8b8e&v=4" width="24" alt="Avatar of SergGrey1992"> SergGrey1992
 			</a><br/>
@@ -4586,7 +4572,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/Alexander-Domanov">
 				<img src="https://avatars.githubusercontent.com/u/74902666?s=72&u=2183ac7b5f13cab8d593e5ae8b202f20ab9e8e3c&v=4" width="24" alt="Avatar of Alexander-Domanov"> Alexander-Domanov
@@ -4598,6 +4584,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belearus, Minsk</td>
 		<td>96</td>
 		<td>96</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/alexzhirkevich">
+				<img src="https://avatars.githubusercontent.com/u/63979218?s=72&u=d2636e4f14afcf737325473c45459eb9454d538d&v=4" width="24" alt="Avatar of alexzhirkevich"> alexzhirkevich
+			</a><br/>
+			Alexander Zhirkevich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Minsk</td>
+		<td>87</td>
+		<td>95</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -4658,20 +4658,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/alexzhirkevich">
-				<img src="https://avatars.githubusercontent.com/u/63979218?s=72&u=d2636e4f14afcf737325473c45459eb9454d538d&v=4" width="24" alt="Avatar of alexzhirkevich"> alexzhirkevich
-			</a><br/>
-			Alexander Zhirkevich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Minsk</td>
-		<td>87</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
 			<a href="https://github.com/aurrelhebert">
 				<img src="https://avatars.githubusercontent.com/u/2650661?s=72&u=7366e55dba00387ef4338b292944ce3b6858d22c&v=4" width="24" alt="Avatar of aurrelhebert"> aurrelhebert
 			</a><br/>
@@ -4684,7 +4670,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/snglrtycrvtureofspce">
 				<img src="https://avatars.githubusercontent.com/u/51172121?s=72&u=fa55624255860400e45b63aa683d9cd0d0b0355c&v=4" width="24" alt="Avatar of snglrtycrvtureofspce"> snglrtycrvtureofspce
@@ -4698,7 +4684,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/Geass1000">
 				<img src="https://avatars.githubusercontent.com/u/13280419?s=72&u=7abe483714a532f02fe67c18a627a85f3b1ec733&v=4" width="24" alt="Avatar of Geass1000"> Geass1000
@@ -4712,7 +4698,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/bonben">
 				<img src="https://avatars.githubusercontent.com/u/6402741?s=72&u=7ba8b753a3596b26030decffa48b25ee0f348cd9&v=4" width="24" alt="Avatar of bonben"> bonben
@@ -4722,11 +4708,39 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Imt Atlantique </td>
 		<td>No Twitter Username</td>
 		<td>Brest, France</td>
+		<td>37</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/JC-LL">
+				<img src="https://avatars.githubusercontent.com/u/3129617?s=72&u=a8415c40cfcc3937bd522140f510e150acb029d8&v=4" width="24" alt="Avatar of JC-LL"> JC-LL
+			</a><br/>
+			Jean-Christophe Le Lann
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brest, France</td>
 		<td>36</td>
 		<td>93</td>
 	</tr>
 	<tr>
 		<td>331</td>
+		<td>
+			<a href="https://github.com/jbleduigou">
+				<img src="https://avatars.githubusercontent.com/u/1489214?s=72&u=c2721e9ba80113a62537ef4447ece64b021c8071&v=4" width="24" alt="Avatar of jbleduigou"> jbleduigou
+			</a><br/>
+			Jean-Baptiste Le Duigou
+		</td>
+		<td>Aircall </td>
+		<td>No Twitter Username</td>
+		<td>Brest, France</td>
+		<td>93</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/tryzniak">
 				<img src="https://avatars.githubusercontent.com/u/10567153?s=72&v=4" width="24" alt="Avatar of tryzniak"> tryzniak
@@ -4740,7 +4754,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/PlagaMedicum">
 				<img src="https://avatars.githubusercontent.com/u/18022300?s=72&u=ce8ad37371919cf60c4a9b062d51824b85641b41&v=4" width="24" alt="Avatar of PlagaMedicum"> PlagaMedicum
@@ -4752,20 +4766,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Belarus</td>
 		<td>43</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/jbleduigou">
-				<img src="https://avatars.githubusercontent.com/u/1489214?s=72&u=c2721e9ba80113a62537ef4447ece64b021c8071&v=4" width="24" alt="Avatar of jbleduigou"> jbleduigou
-			</a><br/>
-			Jean-Baptiste Le Duigou
-		</td>
-		<td>Aircall </td>
-		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>91</td>
-		<td>91</td>
 	</tr>
 	<tr>
 		<td>334</td>
@@ -4826,6 +4826,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>338</td>
 		<td>
+			<a href="https://github.com/GabellaJhonson">
+				<img src="https://avatars.githubusercontent.com/u/102244000?s=72&u=0517dcd6ba5d172dae1ae7c27b35c9503e8ff81d&v=4" width="24" alt="Avatar of GabellaJhonson"> GabellaJhonson
+			</a><br/>
+			Zakhar Statkevich
+		</td>
+		<td>Leverx </td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>67</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
 			<a href="https://github.com/molind">
 				<img src="https://avatars.githubusercontent.com/u/102496?s=72&u=dc36d272414a6731bc8e1ac6c8e96aa8e121f85e&v=4" width="24" alt="Avatar of molind"> molind
 			</a><br/>
@@ -4838,7 +4852,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/LeonovEgorF">
 				<img src="https://avatars.githubusercontent.com/u/78369961?s=72&u=31ccaecfdee41f2c93f5349c8e6029699b15dc7a&v=4" width="24" alt="Avatar of LeonovEgorF"> LeonovEgorF
@@ -4852,7 +4866,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/Cvazer">
 				<img src="https://avatars.githubusercontent.com/u/5880448?s=72&v=4" width="24" alt="Avatar of Cvazer"> Cvazer
@@ -4866,7 +4880,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/plesend">
 				<img src="https://avatars.githubusercontent.com/u/144067558?s=72&u=dab493acd6361be1acb445763d5c5adae5444bc3&v=4" width="24" alt="Avatar of plesend"> plesend
@@ -4880,7 +4894,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/EpicDima">
 				<img src="https://avatars.githubusercontent.com/u/37583380?s=72&u=5c9188fbe74737eab46bef38f65010db0197cab1&v=4" width="24" alt="Avatar of EpicDima"> EpicDima
@@ -4894,7 +4908,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/Burur1ch">
 				<img src="https://avatars.githubusercontent.com/u/96666210?s=72&u=f58cc7088d2411fe0237c9f19825aad054969d17&v=4" width="24" alt="Avatar of Burur1ch"> Burur1ch
@@ -4908,7 +4922,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/eliasku">
 				<img src="https://avatars.githubusercontent.com/u/3038174?s=72&u=f565ed81ef55c602fafe07488dfef374a865d18a&v=4" width="24" alt="Avatar of eliasku"> eliasku
@@ -4922,7 +4936,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/SenchaBrest">
+				<img src="https://avatars.githubusercontent.com/u/94453515?s=72&v=4" width="24" alt="Avatar of SenchaBrest"> SenchaBrest
+			</a><br/>
+			Kirilovich Arseniy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brest</td>
+		<td>70</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/Moi78">
 				<img src="https://avatars.githubusercontent.com/u/19874518?s=72&u=61940b0722069bf3d25471475ca54f724750a21b&v=4" width="24" alt="Avatar of Moi78"> Moi78
@@ -4936,7 +4964,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/MeFoDy">
 				<img src="https://avatars.githubusercontent.com/u/1439919?s=72&u=bc86abdfbb195d07855b2815127d2b8ca7fae79d&v=4" width="24" alt="Avatar of MeFoDy"> MeFoDy
@@ -4950,7 +4978,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/AntonZelinsky">
 				<img src="https://avatars.githubusercontent.com/u/1431279?s=72&u=cdc0ab5724ca2c0d7c04494d3e2f721f255cab09&v=4" width="24" alt="Avatar of AntonZelinsky"> AntonZelinsky
@@ -4964,7 +4992,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/pkasila">
 				<img src="https://avatars.githubusercontent.com/u/17158860?s=72&u=16b093ed0d078b497fcfbe9b566f163da2ef6c0c&v=4" width="24" alt="Avatar of pkasila"> pkasila
@@ -4978,7 +5006,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/regggulus">
 				<img src="https://avatars.githubusercontent.com/u/58481725?s=72&u=64ff7a27a9f54b61ca0792bbfcbcb92bf5f96755&v=4" width="24" alt="Avatar of regggulus"> regggulus
@@ -4992,7 +5020,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/sneiko">
 				<img src="https://avatars.githubusercontent.com/u/7282829?s=72&u=8121a92122ffa8101914051fa4bba31eefd33b19&v=4" width="24" alt="Avatar of sneiko"> sneiko
@@ -5006,7 +5034,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/Valeronlol">
 				<img src="https://avatars.githubusercontent.com/u/14344014?s=72&u=3e478e1c69d6bca44bc3f850dad762034b020fff&v=4" width="24" alt="Avatar of Valeronlol"> Valeronlol
@@ -5018,34 +5046,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk, Belarus</td>
 		<td>38</td>
 		<td>78</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/GabellaJhonson">
-				<img src="https://avatars.githubusercontent.com/u/102244000?s=72&u=0517dcd6ba5d172dae1ae7c27b35c9503e8ff81d&v=4" width="24" alt="Avatar of GabellaJhonson"> GabellaJhonson
-			</a><br/>
-			Zakhar Statkevich
-		</td>
-		<td>Leverx </td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>55</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/SenchaBrest">
-				<img src="https://avatars.githubusercontent.com/u/94453515?s=72&v=4" width="24" alt="Avatar of SenchaBrest"> SenchaBrest
-			</a><br/>
-			Kirilovich Arseniy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brest</td>
-		<td>66</td>
-		<td>75</td>
 	</tr>
 	<tr>
 		<td>354</td>
@@ -5092,6 +5092,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>357</td>
 		<td>
+			<a href="https://github.com/vkrbt">
+				<img src="https://avatars.githubusercontent.com/u/18279104?s=72&u=eb9868aff60e9fa19c79cdcafc5022c5e77e9893&v=4" width="24" alt="Avatar of vkrbt"> vkrbt
+			</a><br/>
+			Vladislav Korbut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>74</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
 			<a href="https://github.com/MihailMatveichuk">
 				<img src="https://avatars.githubusercontent.com/u/46749402?s=72&u=0f73a60bd42efe43a6da121ee659ae54bbdd915f&v=4" width="24" alt="Avatar of MihailMatveichuk"> MihailMatveichuk
 			</a><br/>
@@ -5104,7 +5118,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/khodosevich">
 				<img src="https://avatars.githubusercontent.com/u/93400749?s=72&u=4c100f62edbd40d33c8dd14d05603f70af5f041c&v=4" width="24" alt="Avatar of khodosevich"> khodosevich
@@ -5116,20 +5130,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>62</td>
 		<td>73</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/vkrbt">
-				<img src="https://avatars.githubusercontent.com/u/18279104?s=72&u=eb9868aff60e9fa19c79cdcafc5022c5e77e9893&v=4" width="24" alt="Avatar of vkrbt"> vkrbt
-			</a><br/>
-			Vladislav Korbut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>72</td>
-		<td>72</td>
 	</tr>
 	<tr>
 		<td>360</td>
@@ -5218,6 +5218,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>366</td>
 		<td>
+			<a href="https://github.com/Chupaka">
+				<img src="https://avatars.githubusercontent.com/u/3432808?s=72&u=6d01401f5503d8270da89f667c8d5a8a8dbdb3e1&v=4" width="24" alt="Avatar of Chupaka"> Chupaka
+			</a><br/>
+			Pavel Skuratovich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>12</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
 			<a href="https://github.com/RaphaelBajon">
 				<img src="https://avatars.githubusercontent.com/u/94925217?s=72&u=efc5c854e63e9a3d30e434bce5157f19fd2cdeb7&v=4" width="24" alt="Avatar of RaphaelBajon"> RaphaelBajon
 			</a><br/>
@@ -5230,7 +5244,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/arsienkavalevic">
 				<img src="https://avatars.githubusercontent.com/u/110474320?s=72&u=4f443a18095f0805142f9f7a4d099f1e0676d902&v=4" width="24" alt="Avatar of arsienkavalevic"> arsienkavalevic
@@ -5244,7 +5258,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/N1nt4nd0">
 				<img src="https://avatars.githubusercontent.com/u/51034643?s=72&u=3d7dec5a9bb1d7cf402452b0176351ed56127731&v=4" width="24" alt="Avatar of N1nt4nd0"> N1nt4nd0
@@ -5258,7 +5272,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/dvk-net">
 				<img src="https://avatars.githubusercontent.com/u/6592966?s=72&u=b21db0c56f4850e15f130cccb1b434eb883dfb39&v=4" width="24" alt="Avatar of dvk-net"> dvk-net
@@ -5272,7 +5286,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/Albedo-13">
 				<img src="https://avatars.githubusercontent.com/u/42911311?s=72&v=4" width="24" alt="Avatar of Albedo-13"> Albedo-13
@@ -5286,7 +5300,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/Malina09">
 				<img src="https://avatars.githubusercontent.com/u/63506873?s=72&u=50920200cc246f9b0666622f0c7c0581854ab84d&v=4" width="24" alt="Avatar of Malina09"> Malina09
@@ -5297,20 +5311,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td><a href="https://twitter.com/MalNatashks">MalNatashks</a></td>
 		<td>Minsk</td>
 		<td>46</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/Chupaka">
-				<img src="https://avatars.githubusercontent.com/u/3432808?s=72&u=6d01401f5503d8270da89f667c8d5a8a8dbdb3e1&v=4" width="24" alt="Avatar of Chupaka"> Chupaka
-			</a><br/>
-			Pavel Skuratovich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>10</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -5540,6 +5540,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>389</td>
 		<td>
+			<a href="https://github.com/Olgasn">
+				<img src="https://avatars.githubusercontent.com/u/11078629?s=72&u=9415ad73655f19fcda8a7a01a69d70addcf109cf&v=4" width="24" alt="Avatar of Olgasn"> Olgasn
+			</a><br/>
+			Asenchik Oleg
+		</td>
+		<td>Gstu It </td>
+		<td>No Twitter Username</td>
+		<td>Gomel</td>
+		<td>54</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a href="https://github.com/Mak-Sim">
 				<img src="https://avatars.githubusercontent.com/u/1843773?s=72&u=0dfaf880d185af189e1785e4ae42ee179c00f5f4&v=4" width="24" alt="Avatar of Mak-Sim"> Mak-Sim
 			</a><br/>
@@ -5552,7 +5566,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/ivanguk10">
+				<img src="https://avatars.githubusercontent.com/u/48579825?s=72&u=a77e0f57477ee236414273e4af2784d5e8fff96d&v=4" width="24" alt="Avatar of ivanguk10"> ivanguk10
+			</a><br/>
+			Ivan Guk
+		</td>
+		<td>Imlab </td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>0</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/Asgarothhh">
 				<img src="https://avatars.githubusercontent.com/u/153011374?s=72&u=4b04f1a0f70b0f3b9b8dd2fe0b484b4f591f3247&v=4" width="24" alt="Avatar of Asgarothhh"> Asgarothhh
@@ -5566,7 +5594,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/bzzdwn">
 				<img src="https://avatars.githubusercontent.com/u/93089691?s=72&u=9e35b51538bc98ec350e4d5a654fbdf100a5da61&v=4" width="24" alt="Avatar of bzzdwn"> bzzdwn
@@ -5580,7 +5608,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/jukuan">
 				<img src="https://avatars.githubusercontent.com/u/3403924?s=72&v=4" width="24" alt="Avatar of jukuan"> jukuan
@@ -5594,7 +5622,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/glebanya13">
 				<img src="https://avatars.githubusercontent.com/u/65718268?s=72&u=569dd34c6a8132344eec4bb0cfdf7611499b5f0f&v=4" width="24" alt="Avatar of glebanya13"> glebanya13
@@ -5606,34 +5634,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>52</td>
 		<td>52</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/ivanguk10">
-				<img src="https://avatars.githubusercontent.com/u/48579825?s=72&u=a77e0f57477ee236414273e4af2784d5e8fff96d&v=4" width="24" alt="Avatar of ivanguk10"> ivanguk10
-			</a><br/>
-			Ivan Guk
-		</td>
-		<td>Imlab </td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>0</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>395</td>
-		<td>
-			<a href="https://github.com/Olgasn">
-				<img src="https://avatars.githubusercontent.com/u/11078629?s=72&u=9415ad73655f19fcda8a7a01a69d70addcf109cf&v=4" width="24" alt="Avatar of Olgasn"> Olgasn
-			</a><br/>
-			Asenchik Oleg
-		</td>
-		<td>Gstu It </td>
-		<td>No Twitter Username</td>
-		<td>Gomel</td>
-		<td>50</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>396</td>
@@ -5666,6 +5666,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>398</td>
 		<td>
+			<a href="https://github.com/jrialland">
+				<img src="https://avatars.githubusercontent.com/u/492066?s=72&u=fd3afb1a78461b9b3d0c29ce47fc3791feb73a61&v=4" width="24" alt="Avatar of jrialland"> jrialland
+			</a><br/>
+			Julien Rialland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brest, France</td>
+		<td>46</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
 			<a href="https://github.com/SEVA77">
 				<img src="https://avatars.githubusercontent.com/u/32693567?s=72&u=054d92e231327c28de51b04dec3f7066c9e102a0&v=4" width="24" alt="Avatar of SEVA77"> SEVA77
 			</a><br/>
@@ -5678,7 +5692,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/BurAndBY">
 				<img src="https://avatars.githubusercontent.com/u/48630651?s=72&v=4" width="24" alt="Avatar of BurAndBY"> BurAndBY
@@ -5692,7 +5706,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/shulgastanslv">
+				<img src="https://avatars.githubusercontent.com/u/90868956?s=72&u=54e8b5ae8ca0a8f5434ef5d619dd58464ce40174&v=4" width="24" alt="Avatar of shulgastanslv"> shulgastanslv
+			</a><br/>
+			Stanisalv Shulga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk</td>
+		<td>40</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/Wishtrader">
 				<img src="https://avatars.githubusercontent.com/u/18312273?s=72&u=b0931649819878b59fd04b4590e346f421468ea0&v=4" width="24" alt="Avatar of Wishtrader"> Wishtrader
@@ -5704,34 +5732,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Gomel</td>
 		<td>46</td>
 		<td>48</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/jrialland">
-				<img src="https://avatars.githubusercontent.com/u/492066?s=72&u=fd3afb1a78461b9b3d0c29ce47fc3791feb73a61&v=4" width="24" alt="Avatar of jrialland"> jrialland
-			</a><br/>
-			Julien Rialland
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brest, France</td>
-		<td>45</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/shulgastanslv">
-				<img src="https://avatars.githubusercontent.com/u/90868956?s=72&u=54e8b5ae8ca0a8f5434ef5d619dd58464ce40174&v=4" width="24" alt="Avatar of shulgastanslv"> shulgastanslv
-			</a><br/>
-			Stanisalv Shulga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk</td>
-		<td>39</td>
-		<td>47</td>
 	</tr>
 	<tr>
 		<td>403</td>
@@ -6688,6 +6688,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>471</td>
 		<td>
+			<a href="https://github.com/kochetkov-av">
+				<img src="https://avatars.githubusercontent.com/u/5887835?s=72&u=328b54b1dcecaaedbbc4c97e9d04879e93d77a5e&v=4" width="24" alt="Avatar of kochetkov-av"> kochetkov-av
+			</a><br/>
+			Aleksander Kochetkov
+		</td>
+		<td>Golang Developer At Coinspaid<br/></td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Minsk</td>
+		<td>0</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
 			<a href="https://github.com/valodzka">
 				<img src="https://avatars.githubusercontent.com/u/9821?s=72&u=0d088dd5c3907a7aabfc0512e743acce9092e0b0&v=4" width="24" alt="Avatar of valodzka"> valodzka
 			</a><br/>
@@ -6700,7 +6714,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/denisyukphp">
 				<img src="https://avatars.githubusercontent.com/u/14075491?s=72&u=7fd259f27c345c13d4e6d609b6f2ecdf264af5ce&v=4" width="24" alt="Avatar of denisyukphp"> denisyukphp
@@ -6714,7 +6728,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/perf3ctstyle">
 				<img src="https://avatars.githubusercontent.com/u/56080788?s=72&v=4" width="24" alt="Avatar of perf3ctstyle"> perf3ctstyle
@@ -6728,7 +6742,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/vincentchoqueuse">
 				<img src="https://avatars.githubusercontent.com/u/5786355?s=72&u=2a378c3364857a774f84e705e2c04e2da86d5b64&v=4" width="24" alt="Avatar of vincentchoqueuse"> vincentchoqueuse
@@ -6742,7 +6756,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/ZiF1R">
 				<img src="https://avatars.githubusercontent.com/u/48289887?s=72&u=5adc5c1d38670aa30be5f0b4b7cfb07f6f88b784&v=4" width="24" alt="Avatar of ZiF1R"> ZiF1R
@@ -6756,7 +6770,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/romantut1988">
 				<img src="https://avatars.githubusercontent.com/u/83417755?s=72&u=cba9afbae8471d70aad698df781541c3071cedee&v=4" width="24" alt="Avatar of romantut1988"> romantut1988
@@ -6768,20 +6782,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Minsk</td>
 		<td>20</td>
 		<td>20</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/kochetkov-av">
-				<img src="https://avatars.githubusercontent.com/u/5887835?s=72&u=328b54b1dcecaaedbbc4c97e9d04879e93d77a5e&v=4" width="24" alt="Avatar of kochetkov-av"> kochetkov-av
-			</a><br/>
-			Aleksander Kochetkov
-		</td>
-		<td>Golang Developer At Coinspaid<br/></td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Minsk</td>
-		<td>0</td>
-		<td>19</td>
 	</tr>
 	<tr>
 		<td>478</td>
@@ -7038,20 +7038,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>496</td>
 		<td>
-			<a href="https://github.com/Svendell">
-				<img src="https://avatars.githubusercontent.com/u/66868765?s=72&u=3531ac294926112b86f914c6deea4b3b21ac21bf&v=4" width="24" alt="Avatar of Svendell"> Svendell
-			</a><br/>
-			Ilya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>15</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
 			<a href="https://github.com/rjkz808">
 				<img src="https://avatars.githubusercontent.com/u/38258624?s=72&u=68eb1485cc889ba2eb68e87ecb35674a427c1e25&v=4" width="24" alt="Avatar of rjkz808"> rjkz808
 			</a><br/>
@@ -7061,6 +7047,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
 		<td>0</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/Svendell">
+				<img src="https://avatars.githubusercontent.com/u/66868765?s=72&u=3531ac294926112b86f914c6deea4b3b21ac21bf&v=4" width="24" alt="Avatar of Svendell"> Svendell
+			</a><br/>
+			Ilya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>15</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -7528,20 +7528,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>531</td>
 		<td>
-			<a href="https://github.com/Briclyaz">
-				<img src="https://avatars.githubusercontent.com/u/54319786?s=72&u=d04c48cd094ef6b2d2ecfa3241f311e853f5d794&v=4" width="24" alt="Avatar of Briclyaz"> Briclyaz
-			</a><br/>
-			Chichikaylo Vitaliy
-		</td>
-		<td>Nlsound Team © </td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>9</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>532</td>
-		<td>
 			<a href="https://github.com/4e4c52">
 				<img src="https://avatars.githubusercontent.com/u/55738?s=72&u=e05357a076a43d016720f2d61404e52ff14c107b&v=4" width="24" alt="Avatar of 4e4c52"> 4e4c52
 			</a><br/>
@@ -7550,6 +7536,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Sxn Labs </td>
 		<td><a href="https://twitter.com/4e4c52">4e4c52</a></td>
 		<td>Brest, France</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/Briclyaz">
+				<img src="https://avatars.githubusercontent.com/u/54319786?s=72&u=d04c48cd094ef6b2d2ecfa3241f311e853f5d794&v=4" width="24" alt="Avatar of Briclyaz"> Briclyaz
+			</a><br/>
+			Chichikaylo Vitaliy
+		</td>
+		<td>Nlsound Team © </td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -7640,6 +7640,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>539</td>
 		<td>
+			<a href="https://github.com/YurySolovyov">
+				<img src="https://avatars.githubusercontent.com/u/2168518?s=72&u=3128e915457136f735306b9cbbad56813e615b84&v=4" width="24" alt="Avatar of YurySolovyov"> YurySolovyov
+			</a><br/>
+			Yury
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Minsk, Belarus</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
 			<a href="https://github.com/Yulia-kv">
 				<img src="https://avatars.githubusercontent.com/u/124212557?s=72&v=4" width="24" alt="Avatar of Yulia-kv"> Yulia-kv
 			</a><br/>
@@ -7652,7 +7666,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/ptandeo">
 				<img src="https://avatars.githubusercontent.com/u/16668742?s=72&u=ceec5ecb8c2d8debd67c386bef2f4528109030b8&v=4" width="24" alt="Avatar of ptandeo"> ptandeo
@@ -7666,7 +7680,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/Chamsterr">
 				<img src="https://avatars.githubusercontent.com/u/89588942?s=72&v=4" width="24" alt="Avatar of Chamsterr"> Chamsterr
@@ -7680,7 +7694,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/Dr-Shadow">
 				<img src="https://avatars.githubusercontent.com/u/5308086?s=72&v=4" width="24" alt="Avatar of Dr-Shadow"> Dr-Shadow
@@ -7694,7 +7708,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/marinadegames">
 				<img src="https://avatars.githubusercontent.com/u/87521761?s=72&u=23f7dc2ab17ae2646486073ea46c252afd54f7d0&v=4" width="24" alt="Avatar of marinadegames"> marinadegames
@@ -7708,7 +7722,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/nhsjdiwlcnsv">
 				<img src="https://avatars.githubusercontent.com/u/46066382?s=72&u=dc6b998d15bcc78639be540cab8593e05673ed22&v=4" width="24" alt="Avatar of nhsjdiwlcnsv"> nhsjdiwlcnsv
@@ -7722,7 +7736,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/GlobusOffZeWorld">
 				<img src="https://avatars.githubusercontent.com/u/74289472?s=72&u=bf1f067063651f91bedcb919e733e8880071d8a0&v=4" width="24" alt="Avatar of GlobusOffZeWorld"> GlobusOffZeWorld
@@ -7736,7 +7750,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/Vokamrecom">
 				<img src="https://avatars.githubusercontent.com/u/31621114?s=72&u=bbf4c493db757040e75b81a45d2f52ccc567fb23&v=4" width="24" alt="Avatar of Vokamrecom"> Vokamrecom
@@ -7750,7 +7764,21 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/DobroSun">
+				<img src="https://avatars.githubusercontent.com/u/51824811?s=72&v=4" width="24" alt="Avatar of DobroSun"> DobroSun
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Minsk</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/AnatoliyBritko">
 				<img src="https://avatars.githubusercontent.com/u/18395787?s=72&u=ff6a95df0787dbfe21ca345981dfea03d07f41c3&v=4" width="24" alt="Avatar of AnatoliyBritko"> AnatoliyBritko
@@ -7764,7 +7792,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/guillaumemoreau">
 				<img src="https://avatars.githubusercontent.com/u/503215?s=72&u=8a0983b65b91cb8019893e46038b76215a8795c6&v=4" width="24" alt="Avatar of guillaumemoreau"> guillaumemoreau
@@ -7778,7 +7806,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/Lanik123">
 				<img src="https://avatars.githubusercontent.com/u/59363466?s=72&u=f863303a57e4d3cbf82aabbe2ee2e2fd324eeca8&v=4" width="24" alt="Avatar of Lanik123"> Lanik123
@@ -7792,21 +7820,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>550</td>
-		<td>
-			<a href="https://github.com/YurySolovyov">
-				<img src="https://avatars.githubusercontent.com/u/2168518?s=72&u=3128e915457136f735306b9cbbad56813e615b84&v=4" width="24" alt="Avatar of YurySolovyov"> YurySolovyov
-			</a><br/>
-			Yury
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Minsk, Belarus</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/nick-petrovsky">
 				<img src="https://avatars.githubusercontent.com/u/1345830?s=72&u=33c76674a9fdc0e57ae7c50d1a4c8857bdb89c9f&v=4" width="24" alt="Avatar of nick-petrovsky"> nick-petrovsky
@@ -7820,7 +7834,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/SergeiMikhailovskii">
 				<img src="https://avatars.githubusercontent.com/u/33265881?s=72&u=5a564bad7e8b658459f3405c920022357168ad87&v=4" width="24" alt="Avatar of SergeiMikhailovskii"> SergeiMikhailovskii
@@ -7834,26 +7848,12 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/DaryaPleshko">
 				<img src="https://avatars.githubusercontent.com/u/108005180?s=72&u=411436766aaca69f54c8e000d7f0df55e18ebc80&v=4" width="24" alt="Avatar of DaryaPleshko"> DaryaPleshko
 			</a><br/>
 			Darya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Minsk</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/DobroSun">
-				<img src="https://avatars.githubusercontent.com/u/51824811?s=72&v=4" width="24" alt="Avatar of DobroSun"> DobroSun
-			</a><br/>
-			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8256,6 +8256,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>583</td>
 		<td>
+			<a href="https://github.com/dillidon">
+				<img src="https://avatars.githubusercontent.com/u/7115804?s=72&u=9605ea184db380edc16578a13a341df62a3f77cb&v=4" width="24" alt="Avatar of dillidon"> dillidon
+			</a><br/>
+			RV
+		</td>
+		<td>Diip.tech </td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
 			<a href="https://github.com/gh0st3e">
 				<img src="https://avatars.githubusercontent.com/u/89907255?s=72&u=d965b8854ac6f59bf6192ec714caa10c026afd11&v=4" width="24" alt="Avatar of gh0st3e"> gh0st3e
 			</a><br/>
@@ -8268,7 +8282,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/AlexShkor">
 				<img src="https://avatars.githubusercontent.com/u/1121836?s=72&u=68bd1a9267664c50fe2308fb8d515000937cce7c&v=4" width="24" alt="Avatar of AlexShkor"> AlexShkor
@@ -8282,7 +8296,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/sguilly">
 				<img src="https://avatars.githubusercontent.com/u/5059932?s=72&v=4" width="24" alt="Avatar of sguilly"> sguilly
@@ -8296,7 +8310,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/knnfmx">
 				<img src="https://avatars.githubusercontent.com/u/47186291?s=72&u=f07532d0e55d7362ea9fe4007152b6f24af45c0a&v=4" width="24" alt="Avatar of knnfmx"> knnfmx
@@ -8306,20 +8320,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/knnfmx">knnfmx</a></td>
 		<td>Minsk, Belarus</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>587</td>
-		<td>
-			<a href="https://github.com/flexxxxer">
-				<img src="https://avatars.githubusercontent.com/u/44833369?s=72&u=019389f0e522a42a6184d63c5f9000daba94819c&v=4" width="24" alt="Avatar of flexxxxer"> flexxxxer
-			</a><br/>
-			Aleksandr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland; Belarus</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -8340,6 +8340,20 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/flexxxxer">
+				<img src="https://avatars.githubusercontent.com/u/44833369?s=72&u=019389f0e522a42a6184d63c5f9000daba94819c&v=4" width="24" alt="Avatar of flexxxxer"> flexxxxer
+			</a><br/>
+			Aleksandr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland; Belarus</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/VladislavNikolaev">
 				<img src="https://avatars.githubusercontent.com/u/1334133?s=72&u=976edc81f83809a4e98fd9f505ba864878904eea&v=4" width="24" alt="Avatar of VladislavNikolaev"> VladislavNikolaev
 			</a><br/>
@@ -8352,7 +8366,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/sofwar">
 				<img src="https://avatars.githubusercontent.com/u/7130905?s=72&u=3194d16ed55fa8d2392d7ea487fc171353c46b39&v=4" width="24" alt="Avatar of sofwar"> sofwar
@@ -8366,7 +8380,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/4500zenja1">
 				<img src="https://avatars.githubusercontent.com/u/83463196?s=72&u=be409c7278644bf4a5585f02b519f4ecc97851d8&v=4" width="24" alt="Avatar of 4500zenja1"> 4500zenja1
@@ -8380,7 +8394,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/alexcorm">
 				<img src="https://avatars.githubusercontent.com/u/8090899?s=72&u=336a3af8d5f9d2922f88282ebf47d6ef98262daa&v=4" width="24" alt="Avatar of alexcorm"> alexcorm
@@ -8394,7 +8408,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/lediraison-a">
 				<img src="https://avatars.githubusercontent.com/u/59822684?s=72&u=d4cc1607c0c4420dcae0c257aec36a13cd4ce525&v=4" width="24" alt="Avatar of lediraison-a"> lediraison-a
@@ -8408,7 +8422,7 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/EugeneTorap">
 				<img src="https://avatars.githubusercontent.com/u/29536522?s=72&u=0913e85e8202a8bc24c964a1b1fb6c9dd6cdff6e&v=4" width="24" alt="Avatar of EugeneTorap"> EugeneTorap
@@ -8420,20 +8434,6 @@ There are `985 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Grodno</td>
 		<td>4</td>
 		<td>4</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
-			<a href="https://github.com/dillidon">
-				<img src="https://avatars.githubusercontent.com/u/7115804?s=72&u=9605ea184db380edc16578a13a341df62a3f77cb&v=4" width="24" alt="Avatar of dillidon"> dillidon
-			</a><br/>
-			RV
-		</td>
-		<td>Diip.tech </td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>3</td>
-		<td>3</td>
 	</tr>
 	<tr>
 		<td>596</td>
