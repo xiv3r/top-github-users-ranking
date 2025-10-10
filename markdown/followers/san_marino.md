@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2025/10/8 5:38 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2025/10/10 11:10 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>211</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -336,7 +336,7 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>12</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -484,19 +484,6 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/lmacchiavelli">
-				<img src="https://avatars.githubusercontent.com/u/1948896?s=72&u=4c5704a11e26fa49988fe5df53c85e8cad8aa2d7&v=4" width="24" alt="Avatar of lmacchiavelli"> lmacchiavelli
-			</a><br/>
-			Lorenzo Macchiavelli
-		</td>
-		<td>22lab </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/agavss">
 				<img src="https://avatars.githubusercontent.com/u/9753429?s=72&v=4" width="24" alt="Avatar of agavss"> agavss
 			</a><br/>
@@ -508,7 +495,7 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/samuele-mrapps">
 				<img src="https://avatars.githubusercontent.com/u/3425734?s=72&v=4" width="24" alt="Avatar of samuele-mrapps"> samuele-mrapps
@@ -521,7 +508,7 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/textarea">
 				<img src="https://avatars.githubusercontent.com/u/1927403?s=72&u=9bb4450dc8c1ade13e37394472ac29ef8058d8ef&v=4" width="24" alt="Avatar of textarea"> textarea
@@ -534,7 +521,7 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/thu105">
 				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
@@ -544,6 +531,19 @@ There are `136 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/lmacchiavelli">
+				<img src="https://avatars.githubusercontent.com/u/1948896?s=72&u=4c5704a11e26fa49988fe5df53c85e8cad8aa2d7&v=4" width="24" alt="Avatar of lmacchiavelli"> lmacchiavelli
+			</a><br/>
+			Lorenzo Macchiavelli
+		</td>
+		<td>22lab </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>3</td>
 	</tr>
 	<tr>
