@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam">
 </a>
 
-The `public contributions` and `private contributions` by users in Vietnam on `2025/10/11 11:26 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
+The `public contributions` and `private contributions` by users in Vietnam on `2025/10/11 11:43 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>34522</td>
-		<td>34522</td>
+		<td>34524</td>
+		<td>34524</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -509,7 +509,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>1</td>
-		<td>3959</td>
+		<td>3961</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -564,8 +564,8 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vinhnx">vinhnx</a></td>
 		<td>Chau Doc, An Giang. Vietnam</td>
-		<td>3500</td>
-		<td>3500</td>
+		<td>3502</td>
+		<td>3502</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -649,7 +649,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td><a href="https://twitter.com/harrytran998">harrytran998</a></td>
 		<td>VietNam</td>
 		<td>382</td>
-		<td>3353</td>
+		<td>3355</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -803,7 +803,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td><a href="https://twitter.com/hoangvvo">hoangvvo</a></td>
 		<td>Vietnam</td>
 		<td>442</td>
-		<td>2977</td>
+		<td>2978</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1209,7 +1209,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td><a href="https://twitter.com/huynhqtienvtag">huynhqtienvtag</a></td>
 		<td>Vietnam</td>
 		<td>1343</td>
-		<td>2163</td>
+		<td>2165</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -3154,8 +3154,8 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>;-; </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam (Elysia Realm)</td>
-		<td>408</td>
-		<td>745</td>
+		<td>409</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -4121,7 +4121,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh city</td>
 		<td>78</td>
-		<td>505</td>
+		<td>506</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -7634,8 +7634,8 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>@grab </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>91</td>
-		<td>91</td>
+		<td>92</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>539</td>

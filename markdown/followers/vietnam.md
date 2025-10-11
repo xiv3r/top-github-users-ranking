@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam">
 </a>
 
-The `number of followers` of users in Vietnam on `2025/10/11 11:26 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
+The `number of followers` of users in Vietnam on `2025/10/11 11:43 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>Devops And Platform Services<br/>Lead<br/></td>
 		<td><a href="https://twitter.com/NhoLuong465731">NhoLuong465731</a></td>
 		<td>From Ho Chi Minh City, Viet Nam</td>
-		<td>6496</td>
+		<td>6497</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -206,7 +206,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>Trietptm Infosec </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>1628</td>
+		<td>1629</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -284,7 +284,7 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hanoi, Vietnam</td>
-		<td>1156</td>
+		<td>1157</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -3097,19 +3097,6 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 	<tr>
 		<td>231</td>
 		<td>
-			<a href="https://github.com/LamThanhNguyen">
-				<img src="https://avatars.githubusercontent.com/u/48795168?s=72&u=5ba95892703edbcb22e8b6a89b7a22515dd0c1f6&v=4" width="24" alt="Avatar of LamThanhNguyen"> LamThanhNguyen
-			</a><br/>
-			Liam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ho Chi Minh City, Viet Nam</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
 			<a href="https://github.com/TomHuynhSG">
 				<img src="https://avatars.githubusercontent.com/u/19964461?s=72&u=86c969282d7efb28eaf1730c6ad85261c5c496ea&v=4" width="24" alt="Avatar of TomHuynhSG"> TomHuynhSG
 			</a><br/>
@@ -3118,6 +3105,19 @@ There are `941 users`  in Vietnam. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Saigon, Vietnam.</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/LamThanhNguyen">
+				<img src="https://avatars.githubusercontent.com/u/48795168?s=72&u=5ba95892703edbcb22e8b6a89b7a22515dd0c1f6&v=4" width="24" alt="Avatar of LamThanhNguyen"> LamThanhNguyen
+			</a><br/>
+			Liam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ho Chi Minh City, Viet Nam</td>
 		<td>121</td>
 	</tr>
 	<tr>
