@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `number of followers` of users in Japan on `2025/10/12 9:53 AM UTC`. This list contains users from `Japan` and cities `Tokyo`.
+The `number of followers` of users in Japan on `2025/10/12 10:07 AM UTC`. This list contains users from `Japan` and cities `Tokyo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1298,7 +1298,7 @@ There are `956 users`  in Japan. You need at least `210 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eltociear">eltociear</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1206</td>
+		<td>1207</td>
 	</tr>
 	<tr>
 		<td>93</td>
