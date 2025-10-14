@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `number of followers` of users in Netherlands on `2025/10/14 9:52 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `number of followers` of users in Netherlands on `2025/10/14 10:10 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>Disney Streaming Services </td>
 		<td><a href="https://twitter.com/lucas_montano">lucas_montano</a></td>
 		<td>Amsterdam, The Netherlands</td>
-		<td>9254</td>
+		<td>9255</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>@unjs . @nitrojs .<br/>@h3js<br/>.<br/>@nuxt<br/><br/></td>
 		<td><a href="https://twitter.com/_pi0_">_pi0_</a></td>
 		<td>Netherlands</td>
-		<td>4736</td>
+		<td>4737</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1428,7 +1428,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>Hackingpassion.com </td>
 		<td><a href="https://twitter.com/bulls__eye">bulls__eye</a></td>
 		<td>Utrecht</td>
-		<td>1083</td>
+		<td>1084</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1545,7 +1545,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>Good Snooze </td>
 		<td><a href="https://twitter.com/jordibruin">jordibruin</a></td>
 		<td>Amsterdam, Netherlands</td>
-		<td>982</td>
+		<td>983</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1844,7 +1844,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>Quansight </td>
 		<td><a href="https://twitter.com/ralfgommers">ralfgommers</a></td>
 		<td>Netherlands</td>
-		<td>848</td>
+		<td>849</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -2915,19 +2915,6 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 	<tr>
 		<td>217</td>
 		<td>
-			<a href="https://github.com/damianh">
-				<img src="https://avatars.githubusercontent.com/u/57436?s=72&u=e0be995bda31f198c58740ad52ac7c04a9d9bba9&v=4" width="24" alt="Avatar of damianh"> damianh
-			</a><br/>
-			Damian Hickey
-		</td>
-		<td>@duendesoftware  </td>
-		<td>No Twitter Username</td>
-		<td>The Hague, Netherlands.</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
 			<a href="https://github.com/nikitabobko">
 				<img src="https://avatars.githubusercontent.com/u/20517828?s=72&u=ce908f675d26d108d845a8f6c91c525abafd2810&v=4" width="24" alt="Avatar of nikitabobko"> nikitabobko
 			</a><br/>
@@ -2936,6 +2923,19 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>@jetbrains </td>
 		<td><a href="https://twitter.com/nikitabobko">nikitabobko</a></td>
 		<td>Amsterdam, The Netherlands</td>
+		<td>547</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/damianh">
+				<img src="https://avatars.githubusercontent.com/u/57436?s=72&u=e0be995bda31f198c58740ad52ac7c04a9d9bba9&v=4" width="24" alt="Avatar of damianh"> damianh
+			</a><br/>
+			Damian Hickey
+		</td>
+		<td>@duendesoftware  </td>
+		<td>No Twitter Username</td>
+		<td>The Hague, Netherlands.</td>
 		<td>546</td>
 	</tr>
 	<tr>
@@ -4457,7 +4457,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>Cwi </td>
 		<td><a href="https://twitter.com/leonardokuffo">leonardokuffo</a></td>
 		<td>Amsterdam</td>
-		<td>368</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>336</td>
@@ -9909,6 +9909,19 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 	<tr>
 		<td>755</td>
 		<td>
+			<a href="https://github.com/markusenglund">
+				<img src="https://avatars.githubusercontent.com/u/22945927?s=72&u=8479c51e09bbff3045be113b372d6425d00d81c7&v=4" width="24" alt="Avatar of markusenglund"> markusenglund
+			</a><br/>
+			Markus Englund
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Utrecht, Netherlands</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
 			<a href="https://github.com/smiegles">
 				<img src="https://avatars.githubusercontent.com/u/3210641?s=72&u=9ed82763a141216037dec53792fb9765d1f54dc5&v=4" width="24" alt="Avatar of smiegles"> smiegles
 			</a><br/>
@@ -9920,7 +9933,7 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/nielsvanvelzen">
 				<img src="https://avatars.githubusercontent.com/u/2305178?s=72&u=a4492a9e4a6719b7ebd44d51de7926c8819da652&v=4" width="24" alt="Avatar of nielsvanvelzen"> nielsvanvelzen
@@ -9930,19 +9943,6 @@ There are `930 users`  in Netherlands. You need at least `157 followers` to be o
 		<td>@tellick  </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands, Europe</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>757</td>
-		<td>
-			<a href="https://github.com/markusenglund">
-				<img src="https://avatars.githubusercontent.com/u/22945927?s=72&u=8479c51e09bbff3045be113b372d6425d00d81c7&v=4" width="24" alt="Avatar of markusenglund"> markusenglund
-			</a><br/>
-			Markus Englund
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Utrecht, Netherlands</td>
 		<td>187</td>
 	</tr>
 	<tr>
