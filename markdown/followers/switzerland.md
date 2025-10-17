@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `number of followers` of users in Switzerland on `2025/10/17 5:42 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `number of followers` of users in Switzerland on `2025/10/17 5:54 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -791,7 +791,7 @@ There are `845 users`  in Switzerland. You need at least `99 followers` to be on
 		<td>Sandibrrm@gmail.com </td>
 		<td><a href="https://twitter.com/Web3developer1">Web3developer1</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>981</td>
+		<td>980</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -960,7 +960,7 @@ There are `845 users`  in Switzerland. You need at least `99 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marcoroth_">marcoroth_</a></td>
 		<td>Basel, Switzerland</td>
-		<td>855</td>
+		<td>856</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1298,7 +1298,7 @@ There are `845 users`  in Switzerland. You need at least `99 followers` to be on
 		<td>Avaloq  </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Swiss</td>
-		<td>649</td>
+		<td>648</td>
 	</tr>
 	<tr>
 		<td>93</td>
