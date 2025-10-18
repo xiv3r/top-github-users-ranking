@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/10/16 4:32 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/10/18 9:33 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `173 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `174 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `173 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>59</td>
+		<td>58</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -471,19 +471,6 @@ There are `173 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/youssoufgao">
-				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
-			</a><br/>
-			Youssouf Saleh Gao
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'djamena</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
 			<a href="https://github.com/DevItnene">
 				<img src="https://avatars.githubusercontent.com/u/218762201?s=72&v=4" width="24" alt="Avatar of DevItnene"> DevItnene
 			</a><br/>
@@ -492,6 +479,19 @@ There are `173 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena - Tchad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/youssoufgao">
+				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
+			</a><br/>
+			Youssouf Saleh Gao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'djamena</td>
 		<td>3</td>
 	</tr>
 	<tr>
