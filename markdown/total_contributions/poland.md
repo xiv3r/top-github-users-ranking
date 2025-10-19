@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` and `private contributions` by users in Poland on `2025/10/19 11:56 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` and `private contributions` by users in Poland on `2025/10/19 12:08 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -606,8 +606,8 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/masagratordev">masagratordev</a></td>
 		<td>Poland</td>
-		<td>3649</td>
-		<td>3656</td>
+		<td>3654</td>
+		<td>3661</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -830,8 +830,8 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rzeszów/Kraków</td>
-		<td>1368</td>
-		<td>3105</td>
+		<td>1370</td>
+		<td>3107</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1600,8 +1600,8 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td>@callstack </td>
 		<td><a href="https://twitter.com/o_kwasniewski">o_kwasniewski</a></td>
 		<td>Szczecin, Poland</td>
-		<td>1030</td>
-		<td>1899</td>
+		<td>1032</td>
+		<td>1901</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -3505,7 +3505,7 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td><a href="https://twitter.com/igloczek">igloczek</a></td>
 		<td>Bielsko-Biała, Poland</td>
 		<td>130</td>
-		<td>1020</td>
+		<td>1022</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -5660,8 +5660,8 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td>Visa </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw, Poland</td>
-		<td>539</td>
-		<td>539</td>
+		<td>540</td>
+		<td>540</td>
 	</tr>
 	<tr>
 		<td>398</td>
@@ -7116,8 +7116,8 @@ There are `939 users`  in Poland. You need at least `83 followers` to be on this
 		<td>Mindnexus.dev </td>
 		<td><a href="https://twitter.com/jskalc">jskalc</a></td>
 		<td>Poland</td>
-		<td>304</td>
-		<td>307</td>
+		<td>306</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>502</td>
