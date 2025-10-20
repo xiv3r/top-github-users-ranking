@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2025/10/18 6:51 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2025/10/20 8:43 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -223,19 +223,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	</tr>
 	<tr>
 		<td>10</td>
-		<td>
-			<a href="https://github.com/ibh-adnanh">
-				<img src="https://avatars.githubusercontent.com/u/184922321?s=72&v=4" width="24" alt="Avatar of ibh-adnanh"> ibh-adnanh
-			</a><br/>
-			Adnan Hajdarevic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>11</td>
 		<td>
 			<a href="https://github.com/stefan-aqvc">
 				<img src="https://avatars.githubusercontent.com/u/203979907?s=72&u=25fab7512d4997097350a56eb14e33342f60b57d&v=4" width="24" alt="Avatar of stefan-aqvc"> stefan-aqvc
