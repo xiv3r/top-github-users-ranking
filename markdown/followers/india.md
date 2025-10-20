@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `number of followers` of users in India on `2025/10/20 10:51 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `number of followers` of users in India on `2025/10/20 11:01 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -4722,6 +4722,19 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 	<tr>
 		<td>356</td>
 		<td>
+			<a href="https://github.com/Mahas1234">
+				<img src="https://avatars.githubusercontent.com/u/166636212?s=72&u=b55cfa69797a052fb81cbd6c45a32afa214d210d&v=4" width="24" alt="Avatar of Mahas1234"> Mahas1234
+			</a><br/>
+			Mahaswi Bejugam
+		</td>
+		<td>Blockseblock </td>
+		<td>No Twitter Username</td>
+		<td>Hyderabad </td>
+		<td>708</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
 			<a href="https://github.com/arnab132">
 				<img src="https://avatars.githubusercontent.com/u/22562694?s=72&u=eec28e07d20369bc695bb2f0c3503bc3b9d7350d&v=4" width="24" alt="Avatar of arnab132"> arnab132
 			</a><br/>
@@ -4731,19 +4744,6 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>India</td>
 		<td>708</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/Mahas1234">
-				<img src="https://avatars.githubusercontent.com/u/166636212?s=72&u=b55cfa69797a052fb81cbd6c45a32afa214d210d&v=4" width="24" alt="Avatar of Mahas1234"> Mahas1234
-			</a><br/>
-			Mahaswi Bejugam
-		</td>
-		<td>Blockseblock </td>
-		<td>No Twitter Username</td>
-		<td>Hyderabad </td>
-		<td>707</td>
 	</tr>
 	<tr>
 		<td>358</td>
@@ -9064,6 +9064,19 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 	<tr>
 		<td>690</td>
 		<td>
+			<a href="https://github.com/prathyyyyy">
+				<img src="https://avatars.githubusercontent.com/u/97932221?s=72&u=b03989f216dd37668ad46b4cf1ad63b4620d66dd&v=4" width="24" alt="Avatar of prathyyyyy"> prathyyyyy
+			</a><br/>
+			Prathy
+		</td>
+		<td>Anna University </td>
+		<td><a href="https://twitter.com/prathyyyyyy">prathyyyyyy</a></td>
+		<td>Tamilnadu , India</td>
+		<td>406</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
 			<a href="https://github.com/0x0Glitch">
 				<img src="https://avatars.githubusercontent.com/u/185660885?s=72&u=3d27a851c65885bf934453192f8d4671af847ed2&v=4" width="24" alt="Avatar of 0x0Glitch"> 0x0Glitch
 			</a><br/>
@@ -9075,7 +9088,7 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 		<td>405</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/mitulgolakiya">
 				<img src="https://avatars.githubusercontent.com/u/1908535?s=72&u=cf03a7fea19c06d2fc938ae4ee9322f4d4f5fa53&v=4" width="24" alt="Avatar of mitulgolakiya"> mitulgolakiya
@@ -9088,7 +9101,7 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 		<td>405</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/GeekAadityaSinha">
 				<img src="https://avatars.githubusercontent.com/u/130149994?s=72&u=ee66f3e465d16a8b631f13a071dbb9afd3567ee7&v=4" width="24" alt="Avatar of GeekAadityaSinha"> GeekAadityaSinha
@@ -9101,7 +9114,7 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 		<td>405</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Sridhar-C-25">
 				<img src="https://avatars.githubusercontent.com/u/75136330?s=72&u=367073763206c52c36f7fb33144d6a57edc57945&v=4" width="24" alt="Avatar of Sridhar-C-25"> Sridhar-C-25
@@ -9111,19 +9124,6 @@ There are `938 users`  in India. You need at least `322 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>405</td>
-	</tr>
-	<tr>
-		<td>694</td>
-		<td>
-			<a href="https://github.com/prathyyyyy">
-				<img src="https://avatars.githubusercontent.com/u/97932221?s=72&u=b03989f216dd37668ad46b4cf1ad63b4620d66dd&v=4" width="24" alt="Avatar of prathyyyyy"> prathyyyyy
-			</a><br/>
-			Prathy
-		</td>
-		<td>Anna University </td>
-		<td><a href="https://twitter.com/prathyyyyyy">prathyyyyyy</a></td>
-		<td>Tamilnadu , India</td>
 		<td>405</td>
 	</tr>
 	<tr>
