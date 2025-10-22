@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/10/19 8:42 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/10/22 6:57 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai - UAE</td>
 		<td>0</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Sharjah, United Arab Emirates</td>
 		<td>5</td>
-		<td>153</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>6</td>
-		<td>134</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -186,8 +186,8 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>45</td>
-		<td>45</td>
+		<td>48</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -234,6 +234,20 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/easternhousinguae">
+				<img src="https://avatars.githubusercontent.com/u/199571396?s=72&v=4" width="24" alt="Avatar of easternhousinguae"> easternhousinguae
+			</a><br/>
+			Eastern Housing UAE
+		</td>
+		<td>Eastern Housing Uae </td>
+		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
+		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
 			</a><br/>
@@ -244,20 +258,6 @@ There are `93 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Dubai</td>
 		<td>2</td>
 		<td>12</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/easternhousinguae">
-				<img src="https://avatars.githubusercontent.com/u/199571396?s=72&v=4" width="24" alt="Avatar of easternhousinguae"> easternhousinguae
-			</a><br/>
-			Eastern Housing UAE
-		</td>
-		<td>Eastern Housing Uae </td>
-		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
-		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
-		<td>11</td>
-		<td>11</td>
 	</tr>
 	<tr>
 		<td>12</td>
