@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2025/10/20 12:30 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2025/10/22 8:43 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -238,14 +238,14 @@ There are `174 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>11</td>
 		<td>
 			<a href="https://github.com/DevItnene">
-				<img src="https://avatars.githubusercontent.com/u/218762201?s=72&v=4" width="24" alt="Avatar of DevItnene"> DevItnene
+				<img src="https://avatars.githubusercontent.com/u/218762201?s=72&u=0e7ef438cee1fc0f3fe6bfbe567ea46bbb589dab&v=4" width="24" alt="Avatar of DevItnene"> DevItnene
 			</a><br/>
 			Mahamat Hassane Itnene
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena - Tchad</td>
-		<td>42</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -302,6 +302,19 @@ There are `174 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>16</td>
 		<td>
+			<a href="https://github.com/Mbaigo">
+				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=fdcbd40311fcfb60b4735ce0194a10f9ac71fca7&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
+			</a><br/>
+			Evrard
+		</td>
+		<td>Thtc </td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
 			<a href="https://github.com/youssoufgao">
 				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
 			</a><br/>
@@ -313,7 +326,7 @@ There are `174 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Muffinlavania">
 				<img src="https://avatars.githubusercontent.com/u/93288617?s=72&u=4626338a95b482cce2badf6f06e573de34a8c9be&v=4" width="24" alt="Avatar of Muffinlavania"> Muffinlavania
@@ -326,7 +339,7 @@ There are `174 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/koubra-gaby">
 				<img src="https://avatars.githubusercontent.com/u/164637552?s=72&u=1d8f812b85e63bee9db648301ef200f195d3cf76&v=4" width="24" alt="Avatar of koubra-gaby"> koubra-gaby
@@ -337,19 +350,6 @@ There are `174 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/KoubraG63161">KoubraG63161</a></td>
 		<td>Chad</td>
 		<td>23</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/Mbaigo">
-				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=fdcbd40311fcfb60b4735ce0194a10f9ac71fca7&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
-			</a><br/>
-			Evrard
-		</td>
-		<td>Thtc </td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena</td>
-		<td>22</td>
 	</tr>
 	<tr>
 		<td>20</td>
