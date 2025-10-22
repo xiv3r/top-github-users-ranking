@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatia">
 </a>
 
-The `number of followers` of users in Croatia on `2025/10/22 10:42 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
+The `number of followers` of users in Croatia on `2025/10/22 10:53 PM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2005,6 +2005,19 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>147</td>
 		<td>
+			<a href="https://github.com/dinoperovic">
+				<img src="https://avatars.githubusercontent.com/u/1486159?s=72&u=c412a454b6d76a90407dab150578e5dc9771d7c5&v=4" width="24" alt="Avatar of dinoperovic"> dinoperovic
+			</a><br/>
+			Dino Perovic
+		</td>
+		<td>Cto @brightdock-inc </td>
+		<td><a href="https://twitter.com/dinoperovic">dinoperovic</a></td>
+		<td>Rijeka, Croatia</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
 			<a href="https://github.com/nibzard">
 				<img src="https://avatars.githubusercontent.com/u/6250945?s=72&u=3799eecbe5b9a807d776cae429684fa38d4bb014&v=4" width="24" alt="Avatar of nibzard"> nibzard
 			</a><br/>
@@ -2016,7 +2029,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/zcuric">
 				<img src="https://avatars.githubusercontent.com/u/1560102?s=72&u=eb452b2df25be954e012fcdb2dcb790fb6e80694&v=4" width="24" alt="Avatar of zcuric"> zcuric
@@ -2029,7 +2042,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/aerkalov">
 				<img src="https://avatars.githubusercontent.com/u/1003989?s=72&v=4" width="24" alt="Avatar of aerkalov"> aerkalov
@@ -2040,19 +2053,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>66</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/dinoperovic">
-				<img src="https://avatars.githubusercontent.com/u/1486159?s=72&u=c412a454b6d76a90407dab150578e5dc9771d7c5&v=4" width="24" alt="Avatar of dinoperovic"> dinoperovic
-			</a><br/>
-			Dino Perovic
-		</td>
-		<td>Cto @brightdock-inc </td>
-		<td><a href="https://twitter.com/dinoperovic">dinoperovic</a></td>
-		<td>Rijeka, Croatia</td>
-		<td>65</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -6373,19 +6373,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>483</td>
 		<td>
-			<a href="https://github.com/safaricd">
-				<img src="https://avatars.githubusercontent.com/u/153173064?s=72&u=1058a3d39581af90dc7aa5692bb228bb838562e2&v=4" width="24" alt="Avatar of safaricd"> safaricd
-			</a><br/>
-			Dominik Safaric
-		</td>
-		<td>Sulie </td>
-		<td><a href="https://twitter.com/dominiksafaric">dominiksafaric</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
 			<a href="https://github.com/lukablaskovic">
 				<img src="https://avatars.githubusercontent.com/u/59925899?s=72&u=30c8f33d97bf15a325e3b4e606dd8f7a3e4bd3e3&v=4" width="24" alt="Avatar of lukablaskovic"> lukablaskovic
 			</a><br/>
@@ -6397,7 +6384,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/dsasko">
 				<img src="https://avatars.githubusercontent.com/u/2742669?s=72&u=8b78ce497a3703119d4f0b26a51f13f70676cba1&v=4" width="24" alt="Avatar of dsasko"> dsasko
@@ -6410,7 +6397,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/FabijanC">
 				<img src="https://avatars.githubusercontent.com/u/28579396?s=72&v=4" width="24" alt="Avatar of FabijanC"> FabijanC
@@ -6423,7 +6410,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/HypeMC">
 				<img src="https://avatars.githubusercontent.com/u/2445045?s=72&u=fa2d0fbe3208ceed09a00e24f329c71f33b38ec5&v=4" width="24" alt="Avatar of HypeMC"> HypeMC
@@ -6436,7 +6423,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/ilx">
 				<img src="https://avatars.githubusercontent.com/u/378043?s=72&u=f12595bf237f9ad18cfc1721214681ae25224931&v=4" width="24" alt="Avatar of ilx"> ilx
@@ -6449,7 +6436,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/darkohedgehog">
 				<img src="https://avatars.githubusercontent.com/u/126003050?s=72&u=8fc2c1165407822ed2a177e35d333d34292f96a5&v=4" width="24" alt="Avatar of darkohedgehog"> darkohedgehog
@@ -6462,7 +6449,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/iskugor">
 				<img src="https://avatars.githubusercontent.com/u/878389?s=72&u=2b7699862f37582bd24d23a042be3bcd9b3a3032&v=4" width="24" alt="Avatar of iskugor"> iskugor
@@ -6475,7 +6462,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/Karl255">
 				<img src="https://avatars.githubusercontent.com/u/49595438?s=72&u=8e27046e1afbe655548740f63ce97f0f4c072046&v=4" width="24" alt="Avatar of Karl255"> Karl255
@@ -6488,7 +6475,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/andhrelja">
 				<img src="https://avatars.githubusercontent.com/u/34381530?s=72&v=4" width="24" alt="Avatar of andhrelja"> andhrelja
@@ -6501,7 +6488,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/LukaKordic">
 				<img src="https://avatars.githubusercontent.com/u/26583913?s=72&u=f3bb4c8a6603d818f930337754067ff3411534fa&v=4" width="24" alt="Avatar of LukaKordic"> LukaKordic
@@ -6514,7 +6501,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/jere357">
 				<img src="https://avatars.githubusercontent.com/u/22777913?s=72&u=52de7ea2117c5d5d06f3e5fef739f51782b805f3&v=4" width="24" alt="Avatar of jere357"> jere357
@@ -6527,7 +6514,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/rkrstacic">
 				<img src="https://avatars.githubusercontent.com/u/35665918?s=72&u=139ccd56cd54d3789b069d3a7c0c5a775145c935&v=4" width="24" alt="Avatar of rkrstacic"> rkrstacic
@@ -6540,7 +6527,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/shestera">
 				<img src="https://avatars.githubusercontent.com/u/52410?s=72&u=2ba939294f8bc9339a83dafd4de2d9c61165f1fb&v=4" width="24" alt="Avatar of shestera"> shestera
@@ -6553,7 +6540,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/dstar55">
 				<img src="https://avatars.githubusercontent.com/u/6433464?s=72&v=4" width="24" alt="Avatar of dstar55"> dstar55
@@ -6566,7 +6553,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/makatalin">
 				<img src="https://avatars.githubusercontent.com/u/143451659?s=72&u=ff2ba9eea8a7ce57709a2c0a6f7b302814318f2b&v=4" width="24" alt="Avatar of makatalin"> makatalin
@@ -6579,7 +6566,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/jkovsi">
 				<img src="https://avatars.githubusercontent.com/u/26582071?s=72&u=6ac5eaf528f2934f521d1b0d1abcd0978bc9a794&v=4" width="24" alt="Avatar of jkovsi"> jkovsi
@@ -6592,7 +6579,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/antifriz">
 				<img src="https://avatars.githubusercontent.com/u/6382271?s=72&u=97225c17f826e4691a97d2cacc94e7499d5367fb&v=4" width="24" alt="Avatar of antifriz"> antifriz
@@ -6605,7 +6592,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/bpenovic">
 				<img src="https://avatars.githubusercontent.com/u/26341805?s=72&u=7dce776b77fd9da1bba1f9e649ddbaa184c03074&v=4" width="24" alt="Avatar of bpenovic"> bpenovic
@@ -6618,7 +6605,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/Vj3k0">
 				<img src="https://avatars.githubusercontent.com/u/1642526?s=72&u=e00feae1f9f20b3b3ded0c8aca8a4420a9159543&v=4" width="24" alt="Avatar of Vj3k0"> Vj3k0
@@ -6631,7 +6618,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/ozana-buljan">
 				<img src="https://avatars.githubusercontent.com/u/33342872?s=72&v=4" width="24" alt="Avatar of ozana-buljan"> ozana-buljan
@@ -6644,7 +6631,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/MPozek">
 				<img src="https://avatars.githubusercontent.com/u/15526815?s=72&u=260b10a29ad93c24b530ba16eab0d5a5000e7682&v=4" width="24" alt="Avatar of MPozek"> MPozek
@@ -6657,7 +6644,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/Ivov1984">
 				<img src="https://avatars.githubusercontent.com/u/109550613?s=72&v=4" width="24" alt="Avatar of Ivov1984"> Ivov1984
@@ -6670,7 +6657,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/toniperic">
 				<img src="https://avatars.githubusercontent.com/u/5714104?s=72&u=68acbe0bc9964a6bb4a39efcecde6372a8682f40&v=4" width="24" alt="Avatar of toniperic"> toniperic
@@ -6683,7 +6670,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/jsmolic">
 				<img src="https://avatars.githubusercontent.com/u/62930983?s=72&u=afdac563f0e39da7c93e2cb2a8595343fe0a673c&v=4" width="24" alt="Avatar of jsmolic"> jsmolic
@@ -6696,7 +6683,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/nsajko">
 				<img src="https://avatars.githubusercontent.com/u/4944410?s=72&u=ebec0a00abc9c2f97142d9a70dca892635363bce&v=4" width="24" alt="Avatar of nsajko"> nsajko
@@ -6709,7 +6696,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/MarkoZabcic">
 				<img src="https://avatars.githubusercontent.com/u/22573?s=72&v=4" width="24" alt="Avatar of MarkoZabcic"> MarkoZabcic
@@ -6718,6 +6705,19 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		</td>
 		<td>Effectiva Studio </td>
 		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/safaricd">
+				<img src="https://avatars.githubusercontent.com/u/153173064?s=72&u=1058a3d39581af90dc7aa5692bb228bb838562e2&v=4" width="24" alt="Avatar of safaricd"> safaricd
+			</a><br/>
+			Dominik Safaric
+		</td>
+		<td>Sulie </td>
+		<td><a href="https://twitter.com/dominiksafaric">dominiksafaric</a></td>
 		<td>Zagreb, Croatia</td>
 		<td>21</td>
 	</tr>
@@ -11703,6 +11703,19 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>893</td>
 		<td>
+			<a href="https://github.com/Chogos">
+				<img src="https://avatars.githubusercontent.com/u/5013687?s=72&u=0ebb2ccea784204ba26a173f1c48971971dc57c0&v=4" width="24" alt="Avatar of Chogos"> Chogos
+			</a><br/>
+			Tomislav Blažeka
+		</td>
+		<td>@emonvia </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>894</td>
+		<td>
 			<a href="https://github.com/killi1812">
 				<img src="https://avatars.githubusercontent.com/u/62441726?s=72&u=7b86aa106d15d8d8727c5f8b47637d7137fe1f32&v=4" width="24" alt="Avatar of killi1812"> killi1812
 			</a><br/>
@@ -11714,7 +11727,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/glepur">
 				<img src="https://avatars.githubusercontent.com/u/3432224?s=72&u=07b24c5e37cc58a84337c33d0862f9fade533a11&v=4" width="24" alt="Avatar of glepur"> glepur
@@ -11727,7 +11740,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/dimitri-dev">
 				<img src="https://avatars.githubusercontent.com/u/58113389?s=72&u=e600d2af38314cdf090cceca270a49862a0b0894&v=4" width="24" alt="Avatar of dimitri-dev"> dimitri-dev
@@ -11740,7 +11753,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/vburojevic">
 				<img src="https://avatars.githubusercontent.com/u/2234474?s=72&u=edee530e7bdf60f928b4a2aa6f58432bbc4b3ba4&v=4" width="24" alt="Avatar of vburojevic"> vburojevic
@@ -11753,7 +11766,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/fgrgic">
 				<img src="https://avatars.githubusercontent.com/u/22770833?s=72&u=9ddaf65bb37b4e9ca02ce0af5a61c6b9e5a97aa0&v=4" width="24" alt="Avatar of fgrgic"> fgrgic
@@ -11766,7 +11779,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/LukaPavicic">
 				<img src="https://avatars.githubusercontent.com/u/34309839?s=72&u=29c5ab456b3e59e32974884bb0c8295adbe04a1a&v=4" width="24" alt="Avatar of LukaPavicic"> LukaPavicic
@@ -11779,7 +11792,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/mprinc">
 				<img src="https://avatars.githubusercontent.com/u/996001?s=72&v=4" width="24" alt="Avatar of mprinc"> mprinc
@@ -11792,7 +11805,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/mmatokovic">
 				<img src="https://avatars.githubusercontent.com/u/27929908?s=72&u=d7f0af19fe73afe4becbd32ebfcba5abb6f177f6&v=4" width="24" alt="Avatar of mmatokovic"> mmatokovic
@@ -11805,7 +11818,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/alenpokos">
 				<img src="https://avatars.githubusercontent.com/u/1493829?s=72&u=cd9f7ee2526255d7cf3f9b325451490b7b0ea496&v=4" width="24" alt="Avatar of alenpokos"> alenpokos
@@ -11818,7 +11831,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/tmarice">
 				<img src="https://avatars.githubusercontent.com/u/1169270?s=72&u=2f2dbe07a394bf128573b2fb26f02ed74d405500&v=4" width="24" alt="Avatar of tmarice"> tmarice
@@ -11831,7 +11844,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/viborc">
 				<img src="https://avatars.githubusercontent.com/u/48092564?s=72&u=5f284e1bd8685f0a16050b6db8577f56b17ce1c2&v=4" width="24" alt="Avatar of viborc"> viborc
@@ -11844,7 +11857,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/JosipKis">
 				<img src="https://avatars.githubusercontent.com/u/120599724?s=72&u=d5219698213cc3cbe6531259ed1e79a807fa42ba&v=4" width="24" alt="Avatar of JosipKis"> JosipKis
@@ -11857,7 +11870,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/gorangolub">
 				<img src="https://avatars.githubusercontent.com/u/9372339?s=72&u=d36948d2d0193129daa23c6e2eefe9f754660632&v=4" width="24" alt="Avatar of gorangolub"> gorangolub
@@ -11870,7 +11883,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/lukarostan">
 				<img src="https://avatars.githubusercontent.com/u/47535948?s=72&u=6f63a420f1f27a4177bbb58147c152bdd9dd103b&v=4" width="24" alt="Avatar of lukarostan"> lukarostan
@@ -11883,7 +11896,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/skoric">
 				<img src="https://avatars.githubusercontent.com/u/1541947?s=72&u=916a8da38b53c1fa1715b9a23e7eb67f7fc5ede5&v=4" width="24" alt="Avatar of skoric"> skoric
@@ -11896,7 +11909,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/Zrna">
 				<img src="https://avatars.githubusercontent.com/u/22341530?s=72&u=02b6cfc983f0478f189c7c13cb9395e41b5cdab1&v=4" width="24" alt="Avatar of Zrna"> Zrna
@@ -11909,7 +11922,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/mile-gepek">
 				<img src="https://avatars.githubusercontent.com/u/67148677?s=72&u=87fd352e3398f941afe4b04befe153f265a221ce&v=4" width="24" alt="Avatar of mile-gepek"> mile-gepek
@@ -11922,7 +11935,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/PribaNosati">
 				<img src="https://avatars.githubusercontent.com/u/40704132?s=72&u=2a43ed9389561757f540f4355d3bbbf0f5a37f0d&v=4" width="24" alt="Avatar of PribaNosati"> PribaNosati
@@ -11935,7 +11948,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/gregex">
 				<img src="https://avatars.githubusercontent.com/u/11517557?s=72&u=bd90515088a2dbca90c3862c141b312171ac167f&v=4" width="24" alt="Avatar of gregex"> gregex
@@ -11948,7 +11961,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/Danijel-Korent">
 				<img src="https://avatars.githubusercontent.com/u/11387192?s=72&u=419089085280e2760064fece68cd357a344e741a&v=4" width="24" alt="Avatar of Danijel-Korent"> Danijel-Korent
@@ -11958,19 +11971,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/DanijelKorent">DanijelKorent</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>913</td>
-		<td>
-			<a href="https://github.com/brunoalfirevic">
-				<img src="https://avatars.githubusercontent.com/u/25875?s=72&u=22f380b7cb11cb9d9e2398c7b7f48e5c82f02290&v=4" width="24" alt="Avatar of brunoalfirevic"> brunoalfirevic
-			</a><br/>
-			Bruno Alfirević
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11989,6 +11989,19 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 	<tr>
 		<td>915</td>
 		<td>
+			<a href="https://github.com/brunoalfirevic">
+				<img src="https://avatars.githubusercontent.com/u/25875?s=72&u=22f380b7cb11cb9d9e2398c7b7f48e5c82f02290&v=4" width="24" alt="Avatar of brunoalfirevic"> brunoalfirevic
+			</a><br/>
+			Bruno Alfirević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>916</td>
+		<td>
 			<a href="https://github.com/ile123">
 				<img src="https://avatars.githubusercontent.com/u/74355346?s=72&u=5d4266d4b26c0d332d531e5315e786d36d98d7f9&v=4" width="24" alt="Avatar of ile123"> ile123
 			</a><br/>
@@ -12000,7 +12013,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/tomiplaz">
 				<img src="https://avatars.githubusercontent.com/u/8911307?s=72&u=fca32c28a3b253ca6e6c1e693004f46b50df1fef&v=4" width="24" alt="Avatar of tomiplaz"> tomiplaz
@@ -12013,7 +12026,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/SempaiEcchi">
 				<img src="https://avatars.githubusercontent.com/u/16268333?s=72&u=c797d05de238adbc16d8756f24db40e1dcab8c7d&v=4" width="24" alt="Avatar of SempaiEcchi"> SempaiEcchi
@@ -12026,7 +12039,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/pkovacevic">
 				<img src="https://avatars.githubusercontent.com/u/928809?s=72&u=b8b95c0adb537ebd9ec2e173f211b6d5dbba8bf4&v=4" width="24" alt="Avatar of pkovacevic"> pkovacevic
@@ -12039,7 +12052,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/MarinoKolaric">
 				<img src="https://avatars.githubusercontent.com/u/47595136?s=72&u=09c096e6d40a17eb733c369a7b05cdca393fdc2b&v=4" width="24" alt="Avatar of MarinoKolaric"> MarinoKolaric
@@ -12052,7 +12065,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/Catzzye">
 				<img src="https://avatars.githubusercontent.com/u/16815295?s=72&u=4932181cccbe198cd2c34b751ff49a0f161f7ee5&v=4" width="24" alt="Avatar of Catzzye"> Catzzye
@@ -12065,7 +12078,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/druzic">
 				<img src="https://avatars.githubusercontent.com/u/59965839?s=72&u=712267875b5db96020138a75c8da4dea62b834e1&v=4" width="24" alt="Avatar of druzic"> druzic
@@ -12078,7 +12091,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/jsaric">
 				<img src="https://avatars.githubusercontent.com/u/20375587?s=72&u=106213f573555d0cd786d5a12ef2c043795d1f56&v=4" width="24" alt="Avatar of jsaric"> jsaric
@@ -12091,7 +12104,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/zlatsic">
 				<img src="https://avatars.githubusercontent.com/u/11090684?s=72&u=2c99ff62f4fe57bda59956b7a4dd1f8837588b38&v=4" width="24" alt="Avatar of zlatsic"> zlatsic
@@ -12104,7 +12117,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/bonidukic">
 				<img src="https://avatars.githubusercontent.com/u/2150991?s=72&u=2d41c5c6713efd6936128d6bfead8324f78da18c&v=4" width="24" alt="Avatar of bonidukic"> bonidukic
@@ -12117,7 +12130,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/lsimic">
 				<img src="https://avatars.githubusercontent.com/u/20503875?s=72&u=6c26bdcc6e6deb1278bc783a2663dfcaf34ba62d&v=4" width="24" alt="Avatar of lsimic"> lsimic
@@ -12130,7 +12143,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/JosipBudimcic">
 				<img src="https://avatars.githubusercontent.com/u/7622492?s=72&u=0b82ee57cb470fc9fb4e4390f2481d1d452077e7&v=4" width="24" alt="Avatar of JosipBudimcic"> JosipBudimcic
@@ -12143,7 +12156,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/coax">
 				<img src="https://avatars.githubusercontent.com/u/189817?s=72&u=b78a739c8ce69892c370c146744f576d6ffadd58&v=4" width="24" alt="Avatar of coax"> coax
@@ -12156,7 +12169,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/izorko33">
 				<img src="https://avatars.githubusercontent.com/u/25002655?s=72&u=00dc2d2ccde596d996c2e996542bfa7a55636051&v=4" width="24" alt="Avatar of izorko33"> izorko33
@@ -12169,7 +12182,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/jonnieZG">
 				<img src="https://avatars.githubusercontent.com/u/8830300?s=72&u=064ec70e10966282ab81ad98b1243d33480b71d9&v=4" width="24" alt="Avatar of jonnieZG"> jonnieZG
@@ -12182,7 +12195,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/Fico125">
 				<img src="https://avatars.githubusercontent.com/u/34810343?s=72&v=4" width="24" alt="Avatar of Fico125"> Fico125
@@ -12195,7 +12208,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/domagojb">
 				<img src="https://avatars.githubusercontent.com/u/1921777?s=72&v=4" width="24" alt="Avatar of domagojb"> domagojb
@@ -12208,7 +12221,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/grbinho">
 				<img src="https://avatars.githubusercontent.com/u/1301092?s=72&u=9d73c5774e73f8f83063ac8e71035da34a57c0a5&v=4" width="24" alt="Avatar of grbinho"> grbinho
@@ -12221,7 +12234,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/dperetin">
 				<img src="https://avatars.githubusercontent.com/u/313649?s=72&v=4" width="24" alt="Avatar of dperetin"> dperetin
@@ -12234,7 +12247,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/akrezic1">
 				<img src="https://avatars.githubusercontent.com/u/7119798?s=72&u=d02a147c6879c2ae32fd356616360683aa5215c5&v=4" width="24" alt="Avatar of akrezic1"> akrezic1
@@ -12247,7 +12260,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/dariodev">
 				<img src="https://avatars.githubusercontent.com/u/1420451?s=72&v=4" width="24" alt="Avatar of dariodev"> dariodev
@@ -12260,7 +12273,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/Yalfoosh">
 				<img src="https://avatars.githubusercontent.com/u/24226470?s=72&v=4" width="24" alt="Avatar of Yalfoosh"> Yalfoosh
@@ -12273,7 +12286,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/helenakos">
 				<img src="https://avatars.githubusercontent.com/u/5180637?s=72&u=a81ad26c51cc7664a8258c5bfd7a3560946ae4d8&v=4" width="24" alt="Avatar of helenakos"> helenakos
@@ -12286,7 +12299,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/JeikWazTaken">
 				<img src="https://avatars.githubusercontent.com/u/15908590?s=72&u=8aa55cb5abcdf354ddc6fe48f9573f9fd48660e1&v=4" width="24" alt="Avatar of JeikWazTaken"> JeikWazTaken
@@ -12299,7 +12312,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/StipeBrzi">
 				<img src="https://avatars.githubusercontent.com/u/36337496?s=72&u=c1864841df7d0c52b7004853252f58c1f536e1fe&v=4" width="24" alt="Avatar of StipeBrzi"> StipeBrzi
@@ -12312,7 +12325,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/dotocan">
 				<img src="https://avatars.githubusercontent.com/u/10552637?s=72&v=4" width="24" alt="Avatar of dotocan"> dotocan
@@ -12325,7 +12338,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/MSekrst">
 				<img src="https://avatars.githubusercontent.com/u/16863956?s=72&u=37dd08db894ad2d4fdab99daee2c9cca9004370a&v=4" width="24" alt="Avatar of MSekrst"> MSekrst
@@ -12338,7 +12351,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/jgracin">
 				<img src="https://avatars.githubusercontent.com/u/25612?s=72&u=8fcfd95695ed76c2644af3314611a8949b87349b&v=4" width="24" alt="Avatar of jgracin"> jgracin
@@ -12351,7 +12364,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/MiroslavAmbros">
 				<img src="https://avatars.githubusercontent.com/u/93548477?s=72&u=6b574615c8bfe0ce9d445c6f71ab0421e533844c&v=4" width="24" alt="Avatar of MiroslavAmbros"> MiroslavAmbros
@@ -12364,7 +12377,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/zlanusic">
 				<img src="https://avatars.githubusercontent.com/u/1186208?s=72&v=4" width="24" alt="Avatar of zlanusic"> zlanusic
@@ -12377,7 +12390,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/codingdojopula">
 				<img src="https://avatars.githubusercontent.com/u/797566?s=72&v=4" width="24" alt="Avatar of codingdojopula"> codingdojopula
@@ -12390,7 +12403,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/ana-jurina">
 				<img src="https://avatars.githubusercontent.com/u/22560928?s=72&u=c5950a7f148769dd79437ee0bf883890449f4ce0&v=4" width="24" alt="Avatar of ana-jurina"> ana-jurina
@@ -12403,7 +12416,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/Sadorrow99">
 				<img src="https://avatars.githubusercontent.com/u/44775496?s=72&u=f1785adf52603b06068f1b66b20fa6f0b569a2f4&v=4" width="24" alt="Avatar of Sadorrow99"> Sadorrow99
@@ -12416,7 +12429,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/Patr0la">
 				<img src="https://avatars.githubusercontent.com/u/15108660?s=72&u=0326820a96fd096ece8c39c68140c007dc512359&v=4" width="24" alt="Avatar of Patr0la"> Patr0la
@@ -12429,7 +12442,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/Mufa0">
 				<img src="https://avatars.githubusercontent.com/u/27413680?s=72&u=9ced54606db5f83649da47ffef08727e53ea7593&v=4" width="24" alt="Avatar of Mufa0"> Mufa0
@@ -12442,7 +12455,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/tbuljevic">
 				<img src="https://avatars.githubusercontent.com/u/1893367?s=72&v=4" width="24" alt="Avatar of tbuljevic"> tbuljevic
@@ -12455,7 +12468,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/Vordas">
 				<img src="https://avatars.githubusercontent.com/u/13844374?s=72&u=71b15472f497d4afae7708235a662c164b197c7c&v=4" width="24" alt="Avatar of Vordas"> Vordas
@@ -12468,7 +12481,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/sambolek">
 				<img src="https://avatars.githubusercontent.com/u/5627631?s=72&u=1676f750a31064c32ac3f38254600f3be3a7b86c&v=4" width="24" alt="Avatar of sambolek"> sambolek
@@ -12481,7 +12494,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/Matija-Alilovic">
 				<img src="https://avatars.githubusercontent.com/u/99608089?s=72&u=45ed5a156a969465f62cbe024896f7780cf64a72&v=4" width="24" alt="Avatar of Matija-Alilovic"> Matija-Alilovic
@@ -12494,7 +12507,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/lstrihic">
 				<img src="https://avatars.githubusercontent.com/u/5384456?s=72&u=72bb8d564e55ece6ba255ae5a6e0d80c13ed51dd&v=4" width="24" alt="Avatar of lstrihic"> lstrihic
@@ -12507,7 +12520,7 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/vjekoart">
 				<img src="https://avatars.githubusercontent.com/u/7541149?s=72&u=b778b19d4acc6e0a6b119407a6df154a70841aa0&v=4" width="24" alt="Avatar of vjekoart"> vjekoart
@@ -12517,19 +12530,6 @@ There are `962 users`  in Croatia. You need at least `11 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>956</td>
-		<td>
-			<a href="https://github.com/faleksic">
-				<img src="https://avatars.githubusercontent.com/u/14061953?s=72&u=c781dd0ece8640ebeb5171548622fdfc04fcf9db&v=4" width="24" alt="Avatar of faleksic"> faleksic
-			</a><br/>
-			Filip Aleksić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zadar, Croatia</td>
 		<td>11</td>
 	</tr>
 	<tr>
