@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `number of followers` of users in Egypt on `2025/10/27 10:02 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `number of followers` of users in Egypt on `2025/10/27 10:14 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1974,7 +1974,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KareemSherif210">KareemSherif210</a></td>
 		<td>Cairo, Egypt</td>
-		<td>238</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -7452,6 +7452,19 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 	<tr>
 		<td>566</td>
 		<td>
+			<a href="https://github.com/0xnightfly">
+				<img src="https://avatars.githubusercontent.com/u/26566294?s=72&u=5073474d6f6fd0b5876fea2f61e1feee5b2d6f8a&v=4" width="24" alt="Avatar of 0xnightfly"> 0xnightfly
+			</a><br/>
+			NɪɢʜᴛFʟʏ
+		</td>
+		<td>Decentralized </td>
+		<td><a href="https://twitter.com/0xnightfly">0xnightfly</a></td>
+		<td>Cairo, Egypt</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
 			<a href="https://github.com/AhmedMabrouk22">
 				<img src="https://avatars.githubusercontent.com/u/105928025?s=72&u=ebf82431ddc8fface5992781ae6bda680ba00fcf&v=4" width="24" alt="Avatar of AhmedMabrouk22"> AhmedMabrouk22
 			</a><br/>
@@ -7463,7 +7476,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/Ad7amstein">
 				<img src="https://avatars.githubusercontent.com/u/102502789?s=72&u=a2153f291873446be90fa25c4ffda7d860a80b9c&v=4" width="24" alt="Avatar of Ad7amstein"> Ad7amstein
@@ -7476,7 +7489,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/1AyaNabil1">
 				<img src="https://avatars.githubusercontent.com/u/96292588?s=72&u=5e813265aa2581b44f7745c23fb11547cbf7347d&v=4" width="24" alt="Avatar of 1AyaNabil1"> 1AyaNabil1
@@ -7489,7 +7502,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/We2Am-BaSsem">
 				<img src="https://avatars.githubusercontent.com/u/58189568?s=72&u=4497a6734b55cbf482e9d66f5340e95127c19015&v=4" width="24" alt="Avatar of We2Am-BaSsem"> We2Am-BaSsem
@@ -7502,7 +7515,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/karimmerhom">
 				<img src="https://avatars.githubusercontent.com/u/62576001?s=72&u=94f276457bab059b40dcd81f1fdb0482d199596a&v=4" width="24" alt="Avatar of karimmerhom"> karimmerhom
@@ -7515,7 +7528,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/MoARABY">
 				<img src="https://avatars.githubusercontent.com/u/111441873?s=72&u=1ea3c98269b81bf7d4d660322749e16266d314cf&v=4" width="24" alt="Avatar of MoARABY"> MoARABY
@@ -7528,7 +7541,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/YasserElgammal">
 				<img src="https://avatars.githubusercontent.com/u/35766609?s=72&u=117ae758eea577406ccf057f34b0f31f40c6a404&v=4" width="24" alt="Avatar of YasserElgammal"> YasserElgammal
@@ -7541,7 +7554,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/mohamed351">
 				<img src="https://avatars.githubusercontent.com/u/34129557?s=72&u=0a1207065df61c7760b06845556ec4655ca795ae&v=4" width="24" alt="Avatar of mohamed351"> mohamed351
@@ -7554,7 +7567,7 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/ismailelmogy">
 				<img src="https://avatars.githubusercontent.com/u/32648591?s=72&v=4" width="24" alt="Avatar of ismailelmogy"> ismailelmogy
@@ -7564,19 +7577,6 @@ There are `983 users`  in Egypt. You need at least `70 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Egypt</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/mahmoud-elghonemy">
-				<img src="https://avatars.githubusercontent.com/u/47304558?s=72&u=8e492619246cf6e6ab910b56a94243ca600197ce&v=4" width="24" alt="Avatar of mahmoud-elghonemy"> mahmoud-elghonemy
-			</a><br/>
-			Mahmoud ElGhonemy (Mahmoud M.Abdelwahab)
-		</td>
-		<td>_vois </td>
-		<td><a href="https://twitter.com/_hopa_">_hopa_</a></td>
-		<td>Cairo , Egypt</td>
 		<td>103</td>
 	</tr>
 	<tr>
