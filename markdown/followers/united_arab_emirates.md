@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/10/26 2:43 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/10/28 9:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `95 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>35</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -206,7 +206,7 @@ There are `95 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Sharjah Art Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah / Manama</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -237,6 +237,19 @@ There are `95 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/habeshahome">
+				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
+			</a><br/>
+			Bamlak Kemaw
+		</td>
+		<td>@qintot @website-et @epicgames <br/></td>
+		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
+		<td>Dubai, UAE</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/Liyanasia">
 				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
 			</a><br/>
@@ -246,19 +259,6 @@ There are `95 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>4</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/habeshahome">
-				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
-			</a><br/>
-			Bamlak Kemaw
-		</td>
-		<td>@qintot @website-et @epicgames <br/></td>
-		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
-		<td>Dubai, UAE</td>
-		<td>3</td>
 	</tr>
 	<tr>
 		<td>13</td>
