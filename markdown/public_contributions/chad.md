@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2025/10/27 4:25 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2025/10/29 2:43 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -601,6 +601,19 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/Tchalle">
+				<img src="https://avatars.githubusercontent.com/u/56738848?s=72&v=4" width="24" alt="Avatar of Tchalle"> Tchalle
+			</a><br/>
+			MAHAMAT TCHALLE GOLLE
+		</td>
+		<td>Tchalle </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/harundjibrin">
 				<img src="https://avatars.githubusercontent.com/u/33425701?s=72&u=96d12ace9db729f775237e16379aa1536cf909e7&v=4" width="24" alt="Avatar of harundjibrin"> harundjibrin
 			</a><br/>
@@ -612,7 +625,7 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/Hisssein">
 				<img src="https://avatars.githubusercontent.com/u/193531357?s=72&u=7ed0535aa9e1e06dcacf1deef3d651b6424c4187&v=4" width="24" alt="Avatar of Hisssein"> Hisssein
@@ -625,7 +638,7 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/Abakar-B">
 				<img src="https://avatars.githubusercontent.com/u/59444125?s=72&v=4" width="24" alt="Avatar of Abakar-B"> Abakar-B
@@ -638,7 +651,7 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/ericbaouro">
 				<img src="https://avatars.githubusercontent.com/u/102951787?s=72&v=4" width="24" alt="Avatar of ericbaouro"> ericbaouro
@@ -648,19 +661,6 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ted </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena, Chad</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/Tchalle">
-				<img src="https://avatars.githubusercontent.com/u/56738848?s=72&v=4" width="24" alt="Avatar of Tchalle"> Tchalle
-			</a><br/>
-			MAHAMAT TCHALLE GOLLE
-		</td>
-		<td>Tchalle </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
 		<td>3</td>
 	</tr>
 	<tr>

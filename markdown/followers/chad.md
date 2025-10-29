@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/10/27 4:25 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/10/29 2:43 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -640,12 +640,12 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/Bobsinging">
-				<img src="https://avatars.githubusercontent.com/u/150949732?s=72&v=4" width="24" alt="Avatar of Bobsinging"> Bobsinging
+			<a href="https://github.com/RigbotUnderscore">
+				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
 			</a><br/>
-			Bob
+			No Name
 		</td>
-		<td>Farting.corp </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>3</td>
@@ -653,12 +653,12 @@ There are `175 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/RigbotUnderscore">
-				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
+			<a href="https://github.com/Bobsinging">
+				<img src="https://avatars.githubusercontent.com/u/150949732?s=72&v=4" width="24" alt="Avatar of Bobsinging"> Bobsinging
 			</a><br/>
-			No Name
+			Bob
 		</td>
-		<td>No Company</td>
+		<td>Farting.corp </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>3</td>
