@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/11/2 10:43 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/11/2 10:54 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3706,6 +3706,20 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>258</td>
 		<td>
+			<a href="https://github.com/danielng01">
+				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
+			</a><br/>
+			Daniel Georgiev
+		</td>
+		<td>Https://iristech.co </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>59</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
 			<a href="https://github.com/steventsvetkov">
 				<img src="https://avatars.githubusercontent.com/u/7537488?s=72&u=147f3fe5cfdb92abbdc1dea298158d2ca374a681&v=4" width="24" alt="Avatar of steventsvetkov"> steventsvetkov
 			</a><br/>
@@ -3718,7 +3732,7 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>557</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/stdNullPtr">
 				<img src="https://avatars.githubusercontent.com/u/8255033?s=72&u=dfcf310ee4c0747ad3906eb0af3d69e2354216fe&v=4" width="24" alt="Avatar of stdNullPtr"> stdNullPtr
@@ -3730,20 +3744,6 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>Bulgaria</td>
 		<td>365</td>
 		<td>557</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/danielng01">
-				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
-			</a><br/>
-			Daniel Georgiev
-		</td>
-		<td>Https://iristech.co </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>59</td>
-		<td>556</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -5750,6 +5750,20 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>404</td>
 		<td>
+			<a href="https://github.com/NepipenkoIgor">
+				<img src="https://avatars.githubusercontent.com/u/7725146?s=72&u=1097439b017d3863e31bcc274c8ceba792ae3fe0&v=4" width="24" alt="Avatar of NepipenkoIgor"> NepipenkoIgor
+			</a><br/>
+			Igor Nepipenko
+		</td>
+		<td>@jsdaddy  </td>
+		<td>No Twitter Username</td>
+		<td>Sveti Vlas, Bulgaria</td>
+		<td>26</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a href="https://github.com/slavivanov">
 				<img src="https://avatars.githubusercontent.com/u/713329?s=72&v=4" width="24" alt="Avatar of slavivanov"> slavivanov
 			</a><br/>
@@ -5760,20 +5774,6 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>Sofia, Bulgaria</td>
 		<td>1</td>
 		<td>201</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/NepipenkoIgor">
-				<img src="https://avatars.githubusercontent.com/u/7725146?s=72&u=1097439b017d3863e31bcc274c8ceba792ae3fe0&v=4" width="24" alt="Avatar of NepipenkoIgor"> NepipenkoIgor
-			</a><br/>
-			Igor Nepipenko
-		</td>
-		<td>@jsdaddy  </td>
-		<td>No Twitter Username</td>
-		<td>Sveti Vlas, Bulgaria</td>
-		<td>26</td>
-		<td>199</td>
 	</tr>
 	<tr>
 		<td>406</td>
@@ -7836,6 +7836,20 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>553</td>
 		<td>
+			<a href="https://github.com/ddmitov">
+				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
+			</a><br/>
+			Dimitar D. Mitov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>62</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
 			<a href="https://github.com/vvasilev-">
 				<img src="https://avatars.githubusercontent.com/u/1783033?s=72&v=4" width="24" alt="Avatar of vvasilev-"> vvasilev-
 			</a><br/>
@@ -7846,20 +7860,6 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>Popovo/Varna, Bulgaria</td>
 		<td>0</td>
 		<td>62</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/ddmitov">
-				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
-			</a><br/>
-			Dimitar D. Mitov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>61</td>
-		<td>61</td>
 	</tr>
 	<tr>
 		<td>555</td>

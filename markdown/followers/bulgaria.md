@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2025/11/2 10:43 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2025/11/2 10:54 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1901,6 +1901,19 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>139</td>
 		<td>
+			<a href="https://github.com/scriptex">
+				<img src="https://avatars.githubusercontent.com/u/4603539?s=72&u=77800a48ef79913bd35970abbbb80f0443de706b&v=4" width="24" alt="Avatar of scriptex"> scriptex
+			</a><br/>
+			Atanas Atanasov
+		</td>
+		<td>@html-lab @toptal @braintrustofficial @andela<br/>@dmarcian<br/></td>
+		<td><a href="https://twitter.com/scriptexbg">scriptexbg</a></td>
+		<td>Varna, Bulgaria</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
 			<a href="https://github.com/ysanatomic">
 				<img src="https://avatars.githubusercontent.com/u/41269324?s=72&u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4" width="24" alt="Avatar of ysanatomic"> ysanatomic
 			</a><br/>
@@ -1910,19 +1923,6 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td><a href="https://twitter.com/YordanStoychev">YordanStoychev</a></td>
 		<td>Bulgaria</td>
 		<td>136</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/scriptex">
-				<img src="https://avatars.githubusercontent.com/u/4603539?s=72&u=77800a48ef79913bd35970abbbb80f0443de706b&v=4" width="24" alt="Avatar of scriptex"> scriptex
-			</a><br/>
-			Atanas Atanasov
-		</td>
-		<td>@html-lab @toptal @braintrustofficial @andela<br/>@dmarcian<br/></td>
-		<td><a href="https://twitter.com/scriptexbg">scriptexbg</a></td>
-		<td>Varna, Bulgaria</td>
-		<td>135</td>
 	</tr>
 	<tr>
 		<td>141</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2025/11/2 10:43 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2025/11/2 10:54 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -4644,6 +4644,19 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>350</td>
 		<td>
+			<a href="https://github.com/ddmitov">
+				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
+			</a><br/>
+			Dimitar D. Mitov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
 			<a href="https://github.com/alexyusnyu">
 				<img src="https://avatars.githubusercontent.com/u/51198513?s=72&u=31b96172dcac492eeb314969f867937b8e4dd388&v=4" width="24" alt="Avatar of alexyusnyu"> alexyusnyu
 			</a><br/>
@@ -4655,7 +4668,7 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Alexander1022">
 				<img src="https://avatars.githubusercontent.com/u/36764735?s=72&u=27324094f292dd3997a11e5c689585a7a9f8b809&v=4" width="24" alt="Avatar of Alexander1022"> Alexander1022
@@ -4668,7 +4681,7 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/etabakov">
 				<img src="https://avatars.githubusercontent.com/u/2611328?s=72&u=a2821eed4247cb3b54bf5cbfa17238170c48e536&v=4" width="24" alt="Avatar of etabakov"> etabakov
@@ -4679,19 +4692,6 @@ There are `968 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>62</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/ddmitov">
-				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
-			</a><br/>
-			Dimitar D. Mitov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>61</td>
 	</tr>
 	<tr>
 		<td>354</td>
