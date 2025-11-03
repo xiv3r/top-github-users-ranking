@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/10/31 11:54 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/11/3 2:15 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -276,6 +276,19 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/Sanusihassan">
+				<img src="https://avatars.githubusercontent.com/u/60857931?s=72&v=4" width="24" alt="Avatar of Sanusihassan"> Sanusihassan
+			</a><br/>
+			Sanusi Hassan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/Djerade">
 				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4" width="24" alt="Avatar of Djerade"> Djerade
 			</a><br/>
@@ -287,7 +300,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
@@ -300,7 +313,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/math323n">
 				<img src="https://avatars.githubusercontent.com/u/59821311?s=72&u=a096d5a938a6ce9645680dde425060b164de90d0&v=4" width="24" alt="Avatar of math323n"> math323n
@@ -313,7 +326,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Jens7388">
 				<img src="https://avatars.githubusercontent.com/u/59821392?s=72&u=60fd3a9b911674b23dc925fd44711549acbc9451&v=4" width="24" alt="Avatar of Jens7388"> Jens7388
@@ -324,19 +337,6 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>6</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/Sanusihassan">
-				<img src="https://avatars.githubusercontent.com/u/60857931?s=72&v=4" width="24" alt="Avatar of Sanusihassan"> Sanusihassan
-			</a><br/>
-			Sanusi Hassan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>5</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -513,7 +513,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 			<a href="https://github.com/Rondouba">
 				<img src="https://avatars.githubusercontent.com/u/74913552?s=72&v=4" width="24" alt="Avatar of Rondouba"> Rondouba
 			</a><br/>
-			Rondouba M. Rochto
+			Rondouba Rochto
 		</td>
 		<td>Aldôlo  </td>
 		<td>No Twitter Username</td>
