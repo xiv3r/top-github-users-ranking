@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2025/11/7 10:45 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2025/11/7 10:58 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -327,7 +327,7 @@ There are `931 users`  in China. You need at least `801 followers` to be on this
 		<td><a href="https://twitter.com/iamairyland">iamairyland</a></td>
 		<td>China</td>
 		<td>548</td>
-		<td>6742</td>
+		<td>6743</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -864,6 +864,20 @@ There are `931 users`  in China. You need at least `801 followers` to be on this
 	<tr>
 		<td>55</td>
 		<td>
+			<a href="https://github.com/sunng87">
+				<img src="https://avatars.githubusercontent.com/u/221942?s=72&u=1920d5982ec95d6e41e4f67e4bf59feb11b388a7&v=4" width="24" alt="Avatar of sunng87"> sunng87
+			</a><br/>
+			Ning Sun
+		</td>
+		<td>@greptimeteam </td>
+		<td><a href="https://twitter.com/Sunng">Sunng</a></td>
+		<td>Beijing / Sunnyvale, CA</td>
+		<td>2023</td>
+		<td>2626</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/bestony">
 				<img src="https://avatars.githubusercontent.com/u/13283837?s=72&u=2ad6eac83cea1173f8781a0bf1652205cefb03c3&v=4" width="24" alt="Avatar of bestony"> bestony
 			</a><br/>
@@ -873,20 +887,6 @@ There are `931 users`  in China. You need at least `801 followers` to be on this
 		<td><a href="https://twitter.com/xiqingongzi">xiqingongzi</a></td>
 		<td>Tianjin，China</td>
 		<td>350</td>
-		<td>2625</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/sunng87">
-				<img src="https://avatars.githubusercontent.com/u/221942?s=72&u=1920d5982ec95d6e41e4f67e4bf59feb11b388a7&v=4" width="24" alt="Avatar of sunng87"> sunng87
-			</a><br/>
-			Ning Sun
-		</td>
-		<td>@greptimeteam </td>
-		<td><a href="https://twitter.com/Sunng">Sunng</a></td>
-		<td>Beijing / Sunnyvale, CA</td>
-		<td>2022</td>
 		<td>2625</td>
 	</tr>
 	<tr>
