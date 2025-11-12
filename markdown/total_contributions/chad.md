@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2025/11/9 11:32 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2025/11/12 1:00 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>527</td>
-		<td>1446</td>
+		<td>534</td>
+		<td>1477</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>0</td>
-		<td>395</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -206,6 +206,20 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/Abdelkerim516">
+				<img src="https://avatars.githubusercontent.com/u/165716982?s=72&u=85ce305281d5348db33b6142165cff0f7dda4758&v=4" width="24" alt="Avatar of Abdelkerim516"> Abdelkerim516
+			</a><br/>
+			ABDEL_ABBO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'djamena</td>
+		<td>71</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/malachieborohoul">
 				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
 			</a><br/>
@@ -216,20 +230,6 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chad</td>
 		<td>65</td>
 		<td>70</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/Abdelkerim516">
-				<img src="https://avatars.githubusercontent.com/u/165716982?s=72&u=85ce305281d5348db33b6142165cff0f7dda4758&v=4" width="24" alt="Avatar of Abdelkerim516"> Abdelkerim516
-			</a><br/>
-			ABDEL_ABBO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'djamena</td>
-		<td>69</td>
-		<td>69</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -290,6 +290,20 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/OneMusty">
+				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
+			</a><br/>
+			OneMusty
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>37</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/MrTopik">
 				<img src="https://avatars.githubusercontent.com/u/125857315?s=72&v=4" width="24" alt="Avatar of MrTopik"> MrTopik
 			</a><br/>
@@ -302,7 +316,7 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/Mbaigo">
 				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=fdcbd40311fcfb60b4735ce0194a10f9ac71fca7&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
@@ -314,20 +328,6 @@ There are `176 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>N'Djamena</td>
 		<td>36</td>
 		<td>36</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/OneMusty">
-				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
-			</a><br/>
-			OneMusty
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>35</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>17</td>
