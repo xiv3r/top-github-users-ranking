@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` by users in Israel on `2025/11/13 4:59 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` by users in Israel on `2025/11/13 5:10 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1862,6 +1862,19 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 	<tr>
 		<td>136</td>
 		<td>
+			<a href="https://github.com/naomifridman">
+				<img src="https://avatars.githubusercontent.com/u/16698973?s=72&v=4" width="24" alt="Avatar of naomifridman"> naomifridman
+			</a><br/>
+			naomi fridman
+		</td>
+		<td>Senior Ai Algorithm Developer<br/>With<br/>Expertise<br/>In<br/>Deep<br/>Learning<br/>And<br/>Machine<br/>Learning<br/>Education:<br/>Msc<br/>Applied<br/>Mathematics<br/>(technion),<br/>Bsc<br/>Math/philosophy/cs<br/>(tel<br/>Aviv<br/>University)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv Israel</td>
+		<td>332</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
 			<a href="https://github.com/ozelentok">
 				<img src="https://avatars.githubusercontent.com/u/1478966?s=72&u=c997d9ef9489ea688d5a13f41d0793a04338016c&v=4" width="24" alt="Avatar of ozelentok"> ozelentok
 			</a><br/>
@@ -1873,7 +1886,7 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/LeoNatan">
 				<img src="https://avatars.githubusercontent.com/u/2270433?s=72&u=5572c60bc25d5d7b245f78a93a6fb2ab854c3248&v=4" width="24" alt="Avatar of LeoNatan"> LeoNatan
@@ -1884,19 +1897,6 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 		<td><a href="https://twitter.com/LeoNatan">LeoNatan</a></td>
 		<td>Ramat HaSharon, Israel</td>
 		<td>331</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/naomifridman">
-				<img src="https://avatars.githubusercontent.com/u/16698973?s=72&v=4" width="24" alt="Avatar of naomifridman"> naomifridman
-			</a><br/>
-			naomi fridman
-		</td>
-		<td>Senior Ai Algorithm Developer<br/>With<br/>Expertise<br/>In<br/>Deep<br/>Learning<br/>And<br/>Machine<br/>Learning<br/>Education:<br/>Msc<br/>Applied<br/>Mathematics<br/>(technion),<br/>Bsc<br/>Math/philosophy/cs<br/>(tel<br/>Aviv<br/>University)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv Israel</td>
-		<td>330</td>
 	</tr>
 	<tr>
 		<td>139</td>

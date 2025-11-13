@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` and `private contributions` by users in Israel on `2025/11/13 4:59 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` and `private contributions` by users in Israel on `2025/11/13 5:10 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1046,6 +1046,20 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/dorsha">
+				<img src="https://avatars.githubusercontent.com/u/5429033?s=72&u=f4e286dead2c1616f9dc5081a31109b34439162d&v=4" width="24" alt="Avatar of dorsha"> dorsha
+			</a><br/>
+			Doron Sharon
+		</td>
+		<td>Descope </td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv, Israel</td>
+		<td>315</td>
+		<td>2078</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/ibraheemalayan">
 				<img src="https://avatars.githubusercontent.com/u/35265448?s=72&u=3cc10e0a73ae1add9de9fe208ddbabb36c2b03aa&v=4" width="24" alt="Avatar of ibraheemalayan"> ibraheemalayan
 			</a><br/>
@@ -1056,20 +1070,6 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 		<td>Jerusalem</td>
 		<td>20</td>
 		<td>2078</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/dorsha">
-				<img src="https://avatars.githubusercontent.com/u/5429033?s=72&u=f4e286dead2c1616f9dc5081a31109b34439162d&v=4" width="24" alt="Avatar of dorsha"> dorsha
-			</a><br/>
-			Doron Sharon
-		</td>
-		<td>Descope </td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv, Israel</td>
-		<td>315</td>
-		<td>2077</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -4826,6 +4826,20 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 	<tr>
 		<td>338</td>
 		<td>
+			<a href="https://github.com/naomifridman">
+				<img src="https://avatars.githubusercontent.com/u/16698973?s=72&v=4" width="24" alt="Avatar of naomifridman"> naomifridman
+			</a><br/>
+			naomi fridman
+		</td>
+		<td>Senior Ai Algorithm Developer<br/>With<br/>Expertise<br/>In<br/>Deep<br/>Learning<br/>And<br/>Machine<br/>Learning<br/>Education:<br/>Msc<br/>Applied<br/>Mathematics<br/>(technion),<br/>Bsc<br/>Math/philosophy/cs<br/>(tel<br/>Aviv<br/>University)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv Israel</td>
+		<td>332</td>
+		<td>332</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
 			<a href="https://github.com/ozelentok">
 				<img src="https://avatars.githubusercontent.com/u/1478966?s=72&u=c997d9ef9489ea688d5a13f41d0793a04338016c&v=4" width="24" alt="Avatar of ozelentok"> ozelentok
 			</a><br/>
@@ -4838,7 +4852,7 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/LeoNatan">
 				<img src="https://avatars.githubusercontent.com/u/2270433?s=72&u=5572c60bc25d5d7b245f78a93a6fb2ab854c3248&v=4" width="24" alt="Avatar of LeoNatan"> LeoNatan
@@ -4850,20 +4864,6 @@ There are `932 users`  in Israel. You need at least `30 followers` to be on this
 		<td>Ramat HaSharon, Israel</td>
 		<td>331</td>
 		<td>331</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/naomifridman">
-				<img src="https://avatars.githubusercontent.com/u/16698973?s=72&v=4" width="24" alt="Avatar of naomifridman"> naomifridman
-			</a><br/>
-			naomi fridman
-		</td>
-		<td>Senior Ai Algorithm Developer<br/>With<br/>Expertise<br/>In<br/>Deep<br/>Learning<br/>And<br/>Machine<br/>Learning<br/>Education:<br/>Msc<br/>Applied<br/>Mathematics<br/>(technion),<br/>Bsc<br/>Math/philosophy/cs<br/>(tel<br/>Aviv<br/>University)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv Israel</td>
-		<td>330</td>
-		<td>330</td>
 	</tr>
 	<tr>
 		<td>341</td>
