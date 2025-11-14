@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2025/11/12 9:30 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2025/11/14 7:49 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>211</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -198,6 +198,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/Scriptis-dev">
+				<img src="https://avatars.githubusercontent.com/u/133271683?s=72&v=4" width="24" alt="Avatar of Scriptis-dev"> Scriptis-dev
+			</a><br/>
+			Adis Omic 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica,Bosnia & Herzegovina</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/dajnox">
 				<img src="https://avatars.githubusercontent.com/u/69596373?s=72&u=bba26c542df5aff0d7f98fc741b0fa38625107d9&v=4" width="24" alt="Avatar of dajnox"> dajnox
 			</a><br/>
@@ -207,19 +220,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Hercegovina</td>
 		<td>6</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/Scriptis-dev">
-				<img src="https://avatars.githubusercontent.com/u/133271683?s=72&v=4" width="24" alt="Avatar of Scriptis-dev"> Scriptis-dev
-			</a><br/>
-			Adis Omic 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica,Bosnia & Herzegovina</td>
-		<td>5</td>
 	</tr>
 	<tr>
 		<td>10</td>
