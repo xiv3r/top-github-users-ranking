@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/11/11 8:39 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/11/14 10:17 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,15 +159,15 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/abxhr">
-				<img src="https://avatars.githubusercontent.com/u/42249391?s=72&u=31495e21ef742a95a0b746144cb1fb0880139eb5&v=4" width="24" alt="Avatar of abxhr"> abxhr
+			<a href="https://github.com/uaeaitester-cmd">
+				<img src="https://avatars.githubusercontent.com/u/243001862?s=72&v=4" width="24" alt="Avatar of uaeaitester-cmd"> uaeaitester-cmd
 			</a><br/>
-			Abshar Mohammed Aslam
+			"UAE AI Tester"
 		</td>
-		<td>Emirates </td>
-		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
+		<td>Freelance Ai Tester -<br/>Uae<br/>Resident<br/></td>
+		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,10 +180,23 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Eastern Housing Uae </td>
 		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
 		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>7</td>
+		<td>
+			<a href="https://github.com/abxhr">
+				<img src="https://avatars.githubusercontent.com/u/42249391?s=72&u=31495e21ef742a95a0b746144cb1fb0880139eb5&v=4" width="24" alt="Avatar of abxhr"> abxhr
+			</a><br/>
+			Abshar Mohammed Aslam
+		</td>
+		<td>Emirates </td>
+		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/faisalbehram">
 				<img src="https://avatars.githubusercontent.com/u/56580297?s=72&u=9c5a753b21e5588747e3255758c8f84e1314ded3&v=4" width="24" alt="Avatar of faisalbehram"> faisalbehram
@@ -196,7 +209,7 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/Alsuwaidismsar">
 				<img src="https://avatars.githubusercontent.com/u/198424369?s=72&u=682e18e66c39795432c51bc78fb5bdfc9c4b2fb4&v=4" width="24" alt="Avatar of Alsuwaidismsar"> Alsuwaidismsar
@@ -209,7 +222,7 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/NorsaG">
 				<img src="https://avatars.githubusercontent.com/u/2400257?s=72&v=4" width="24" alt="Avatar of NorsaG"> NorsaG
@@ -222,7 +235,7 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/Abstract-Pixel">
 				<img src="https://avatars.githubusercontent.com/u/217856804?s=72&u=f125fd22280162b2fec93b688c31ec52fbac5e02&v=4" width="24" alt="Avatar of Abstract-Pixel"> Abstract-Pixel
@@ -235,7 +248,7 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/ReyaanMisra2811">
 				<img src="https://avatars.githubusercontent.com/u/216720965?s=72&u=c2631a0e63ef70e814742f133f6d135ca6b7ffa3&v=4" width="24" alt="Avatar of ReyaanMisra2811"> ReyaanMisra2811
@@ -245,19 +258,6 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/uaeaitester-cmd">
-				<img src="https://avatars.githubusercontent.com/u/243001862?s=72&v=4" width="24" alt="Avatar of uaeaitester-cmd"> uaeaitester-cmd
-			</a><br/>
-			UAE AI Tester
-		</td>
-		<td>Freelance Ai Tester -<br/>Uae<br/>Resident<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -523,19 +523,6 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/fgwilsonuae">
-				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
-			</a><br/>
-			FG Wilson Engineering FZE
-		</td>
-		<td>Fg Wilson Engineering Fze<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai,UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/mrbusllc">
 				<img src="https://avatars.githubusercontent.com/u/214485774?s=72&v=4" width="24" alt="Avatar of mrbusllc"> mrbusllc
 			</a><br/>
@@ -547,20 +534,20 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
-			<a href="https://github.com/successpointcollege0">
-				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
+			<a href="https://github.com/fgwilsonuae">
+				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
 			</a><br/>
-			Razan
+			FG Wilson Engineering FZE
 		</td>
-		<td>Success Point College </td>
+		<td>Fg Wilson Engineering Fze<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sharjah</td>
+		<td>Dubai,UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/mrsecondhand">
 				<img src="https://avatars.githubusercontent.com/u/221927867?s=72&u=ec12fea5ef8b60334c57cdaeaf6f185e5d63718f&v=4" width="24" alt="Avatar of mrsecondhand"> mrsecondhand
@@ -570,6 +557,19 @@ There are `97 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Mr Second Hand </td>
 		<td>No Twitter Username</td>
 		<td>Business Bay - Dubai - United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/successpointcollege0">
+				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
+			</a><br/>
+			Razan
+		</td>
+		<td>Success Point College </td>
+		<td>No Twitter Username</td>
+		<td>Sharjah</td>
 		<td>1</td>
 	</tr>
 	<tr>
