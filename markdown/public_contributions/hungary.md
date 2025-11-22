@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2025/11/22 10:50 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2025/11/22 10:59 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -440,7 +440,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@agilord </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>1285</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -518,7 +518,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>1158</td>
+		<td>1159</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -6126,6 +6126,19 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 	<tr>
 		<td>464</td>
 		<td>
+			<a href="https://github.com/Norbert-Brett">
+				<img src="https://avatars.githubusercontent.com/u/60483492?s=72&u=0a1eed33c86346b2e920b387e03dfb98454d8c43&v=4" width="24" alt="Avatar of Norbert-Brett"> Norbert-Brett
+			</a><br/>
+			Norbert Brett
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Norbert_Brett">Norbert_Brett</a></td>
+		<td>Hungary</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
 			<a href="https://github.com/richardszegh">
 				<img src="https://avatars.githubusercontent.com/u/31483362?s=72&u=6bd405948a4be46b766849d8cefd6986621055c0&v=4" width="24" alt="Avatar of richardszegh"> richardszegh
 			</a><br/>
@@ -6137,7 +6150,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/imrekel">
 				<img src="https://avatars.githubusercontent.com/u/690456?s=72&v=4" width="24" alt="Avatar of imrekel"> imrekel
@@ -6150,7 +6163,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/kistasi">
 				<img src="https://avatars.githubusercontent.com/u/1311945?s=72&u=09312f06307f33b4a399c8cbb4679cdf2ec1e433&v=4" width="24" alt="Avatar of kistasi"> kistasi
@@ -6163,7 +6176,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/attilagyorffy">
 				<img src="https://avatars.githubusercontent.com/u/9091?s=72&u=b05f4166864290ce7379a3e4d1123f7a3d04b185&v=4" width="24" alt="Avatar of attilagyorffy"> attilagyorffy
@@ -6176,7 +6189,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/Resike">
 				<img src="https://avatars.githubusercontent.com/u/3955703?s=72&u=9b74a5a8f7b63b0d7d7cef66e1f2625a3c7ac9cc&v=4" width="24" alt="Avatar of Resike"> Resike
@@ -6189,7 +6202,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/chpatrick">
 				<img src="https://avatars.githubusercontent.com/u/832719?s=72&u=621fdf0391611a57b8090ba2dcd8f0952914ed95&v=4" width="24" alt="Avatar of chpatrick"> chpatrick
@@ -6202,7 +6215,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/stewemetal">
 				<img src="https://avatars.githubusercontent.com/u/5860632?s=72&u=24155bd5c471f831be3588195aed3c471d1fa9d4&v=4" width="24" alt="Avatar of stewemetal"> stewemetal
@@ -6215,7 +6228,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/Zsena">
 				<img src="https://avatars.githubusercontent.com/u/28290673?s=72&u=635f71bd7c90a9ff445ffb0605e2b4bedefa6395&v=4" width="24" alt="Avatar of Zsena"> Zsena
@@ -6228,7 +6241,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/albertborsos">
 				<img src="https://avatars.githubusercontent.com/u/7307145?s=72&u=b8d6f28c9af68b2eff310d1c78eb4ed32ebbbcab&v=4" width="24" alt="Avatar of albertborsos"> albertborsos
@@ -6241,7 +6254,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/tgabi333">
 				<img src="https://avatars.githubusercontent.com/u/187022?s=72&v=4" width="24" alt="Avatar of tgabi333"> tgabi333
@@ -6254,7 +6267,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/beni69">
 				<img src="https://avatars.githubusercontent.com/u/73666440?s=72&v=4" width="24" alt="Avatar of beni69"> beni69
@@ -6267,7 +6280,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/lez">
 				<img src="https://avatars.githubusercontent.com/u/203039?s=72&v=4" width="24" alt="Avatar of lez"> lez
@@ -6278,19 +6291,6 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>35</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/Norbert-Brett">
-				<img src="https://avatars.githubusercontent.com/u/60483492?s=72&u=0a1eed33c86346b2e920b387e03dfb98454d8c43&v=4" width="24" alt="Avatar of Norbert-Brett"> Norbert-Brett
-			</a><br/>
-			Norbert Brett
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Norbert_Brett">Norbert_Brett</a></td>
-		<td>Hungary</td>
-		<td>34</td>
 	</tr>
 	<tr>
 		<td>477</td>
