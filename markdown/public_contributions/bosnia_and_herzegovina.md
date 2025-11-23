@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2025/11/21 8:23 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2025/11/23 10:48 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -133,19 +133,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/nedim-basic">
-				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
-			</a><br/>
-			NedimBašić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia & Herzegovina</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
 			<a href="https://github.com/alde23">
 				<img src="https://avatars.githubusercontent.com/u/150618433?s=72&v=4" width="24" alt="Avatar of alde23"> alde23
 			</a><br/>
@@ -155,6 +142,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
 		<td>17</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/nedim-basic">
+				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
+			</a><br/>
+			NedimBašić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica, Bosnia & Herzegovina</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>5</td>
