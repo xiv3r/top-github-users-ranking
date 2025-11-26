@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2025/11/23 10:48 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2025/11/26 2:15 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -185,6 +185,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/adosalkanovicc">
+				<img src="https://avatars.githubusercontent.com/u/60065307?s=72&u=ddb8946537ba8be16aa63a139c9e82a69667beeb&v=4" width="24" alt="Avatar of adosalkanovicc"> adosalkanovicc
+			</a><br/>
+			Admir 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tuzla</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/KerimZuna">
 				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
 			</a><br/>
@@ -193,19 +206,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Bitsync D.o.o. </td>
 		<td>No Twitter Username</td>
 		<td>Zenica</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/Scriptis-dev">
-				<img src="https://avatars.githubusercontent.com/u/133271683?s=72&v=4" width="24" alt="Avatar of Scriptis-dev"> Scriptis-dev
-			</a><br/>
-			Adis Omic 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica,Bosnia & Herzegovina</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -224,14 +224,14 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/adosalkanovicc">
-				<img src="https://avatars.githubusercontent.com/u/60065307?s=72&u=ddb8946537ba8be16aa63a139c9e82a69667beeb&v=4" width="24" alt="Avatar of adosalkanovicc"> adosalkanovicc
+			<a href="https://github.com/Scriptis-dev">
+				<img src="https://avatars.githubusercontent.com/u/133271683?s=72&v=4" width="24" alt="Avatar of Scriptis-dev"> Scriptis-dev
 			</a><br/>
-			Admir 
+			Adis Omic 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tuzla</td>
+		<td>Zenica,Bosnia & Herzegovina</td>
 		<td>5</td>
 	</tr>
 	<tr>
