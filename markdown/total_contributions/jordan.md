@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2025/11/27 10:01 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2025/11/27 10:10 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1410,6 +1410,20 @@ There are `973 users`  in Jordan. You need at least `9 followers` to be on this 
 	<tr>
 		<td>94</td>
 		<td>
+			<a href="https://github.com/rakanalh">
+				<img src="https://avatars.githubusercontent.com/u/195829?s=72&u=69d3e2e040eccd2b0ebe4bb479da2ffcc2700135&v=4" width="24" alt="Avatar of rakanalh"> rakanalh
+			</a><br/>
+			Rakan Al-Huneiti
+		</td>
+		<td>Open Source </td>
+		<td><a href="https://twitter.com/rakanalh">rakanalh</a></td>
+		<td>Jordan</td>
+		<td>605</td>
+		<td>757</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
 			<a href="https://github.com/Basil-Ismail">
 				<img src="https://avatars.githubusercontent.com/u/107148738?s=72&u=adb5430f1c36e632909149c7b0ed747635f0ccb0&v=4" width="24" alt="Avatar of Basil-Ismail"> Basil-Ismail
 			</a><br/>
@@ -1420,20 +1434,6 @@ There are `973 users`  in Jordan. You need at least `9 followers` to be on this 
 		<td>Amman</td>
 		<td>720</td>
 		<td>757</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/rakanalh">
-				<img src="https://avatars.githubusercontent.com/u/195829?s=72&u=69d3e2e040eccd2b0ebe4bb479da2ffcc2700135&v=4" width="24" alt="Avatar of rakanalh"> rakanalh
-			</a><br/>
-			Rakan Al-Huneiti
-		</td>
-		<td>Open Source </td>
-		<td><a href="https://twitter.com/rakanalh">rakanalh</a></td>
-		<td>Jordan</td>
-		<td>604</td>
-		<td>756</td>
 	</tr>
 	<tr>
 		<td>96</td>
