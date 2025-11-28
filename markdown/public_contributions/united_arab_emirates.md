@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/11/25 11:42 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/11/28 11:40 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>49</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Freelance Ai Tester -<br/>Uae<br/>Resident<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>43</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -276,6 +276,19 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/rputhiyapurayil">
+				<img src="https://avatars.githubusercontent.com/u/15394546?s=72&v=4" width="24" alt="Avatar of rputhiyapurayil"> rputhiyapurayil
+			</a><br/>
+			No Name
+		</td>
+		<td>Century </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/PrinceHabibi03">
 				<img src="https://avatars.githubusercontent.com/u/222849078?s=72&v=4" width="24" alt="Avatar of PrinceHabibi03"> PrinceHabibi03
 			</a><br/>
@@ -287,7 +300,7 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/sharifulraihan27-blip">
 				<img src="https://avatars.githubusercontent.com/u/239804057?s=72&u=25d21a09b6c26ce44e5cc913c5c0c44ac90aa830&v=4" width="24" alt="Avatar of sharifulraihan27-blip"> sharifulraihan27-blip
@@ -300,7 +313,7 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
@@ -309,19 +322,6 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		</td>
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
-		<td>Dubai</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/rputhiyapurayil">
-				<img src="https://avatars.githubusercontent.com/u/15394546?s=72&v=4" width="24" alt="Avatar of rputhiyapurayil"> rputhiyapurayil
-			</a><br/>
-			No Name
-		</td>
-		<td>Century </td>
-		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>2</td>
 	</tr>
@@ -562,19 +562,6 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/successpointcollege0">
-				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
-			</a><br/>
-			Razan
-		</td>
-		<td>Success Point College </td>
-		<td>No Twitter Username</td>
-		<td>Sharjah</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/fgwilsonuae">
 				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
 			</a><br/>
@@ -583,6 +570,19 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Fg Wilson Engineering Fze<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai,UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/successpointcollege0">
+				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
+			</a><br/>
+			Razan
+		</td>
+		<td>Success Point College </td>
+		<td>No Twitter Username</td>
+		<td>Sharjah</td>
 		<td>1</td>
 	</tr>
 	<tr>
