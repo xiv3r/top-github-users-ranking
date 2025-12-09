@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2025/12/9 4:58 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2025/12/9 5:11 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sagikazarmark">sagikazarmark</a></td>
 		<td>Budapest, Hungary</td>
-		<td>2782</td>
+		<td>2784</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -271,7 +271,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@firecrawl </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>1743</td>
+		<td>1745</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1532,7 +1532,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@acryldata  </td>
 		<td><a href="https://twitter.com/treff7es">treff7es</a></td>
 		<td>Budapest</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2239,6 +2239,19 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/iamgergo">
+				<img src="https://avatars.githubusercontent.com/u/6567179?s=72&u=ab0b5a9a5ecf9e4d30ae275b6c22ab1b2d22adbf&v=4" width="24" alt="Avatar of iamgergo"> iamgergo
+			</a><br/>
+			D. Nagy Gergő
+		</td>
+		<td>@conedevelopment  </td>
+		<td>No Twitter Username</td>
+		<td>Hungary</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/p3x-robot">
 				<img src="https://avatars.githubusercontent.com/u/28588124?s=72&u=5da34b5aa0f27bbad0cf26b304d8a9033c7f17f9&v=4" width="24" alt="Avatar of p3x-robot"> p3x-robot
 			</a><br/>
@@ -2248,19 +2261,6 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>292</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/iamgergo">
-				<img src="https://avatars.githubusercontent.com/u/6567179?s=72&u=ab0b5a9a5ecf9e4d30ae275b6c22ab1b2d22adbf&v=4" width="24" alt="Avatar of iamgergo"> iamgergo
-			</a><br/>
-			D. Nagy Gergő
-		</td>
-		<td>@conedevelopment  </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>291</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -3261,7 +3261,7 @@ There are `954 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>244</td>
