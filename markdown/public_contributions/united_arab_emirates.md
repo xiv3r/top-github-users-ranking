@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/12/8 10:35 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/12/11 5:26 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -206,7 +206,7 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Oma Emirates </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah UAE</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -510,19 +510,6 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/TulparGlobalTaxation">
-				<img src="https://avatars.githubusercontent.com/u/210654593?s=72&v=4" width="24" alt="Avatar of TulparGlobalTaxation"> TulparGlobalTaxation
-			</a><br/>
-			Tulpar Taxation
-		</td>
-		<td>Tulpar Global Taxation </td>
-		<td><a href="https://twitter.com/home">home</a></td>
-		<td>Dubai, Business Bay, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
 			<a href="https://github.com/mrbusllc">
 				<img src="https://avatars.githubusercontent.com/u/214485774?s=72&v=4" width="24" alt="Avatar of mrbusllc"> mrbusllc
 			</a><br/>
@@ -534,20 +521,20 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
-			<a href="https://github.com/mrsecondhand">
-				<img src="https://avatars.githubusercontent.com/u/221927867?s=72&u=ec12fea5ef8b60334c57cdaeaf6f185e5d63718f&v=4" width="24" alt="Avatar of mrsecondhand"> mrsecondhand
+			<a href="https://github.com/TulparGlobalTaxation">
+				<img src="https://avatars.githubusercontent.com/u/210654593?s=72&v=4" width="24" alt="Avatar of TulparGlobalTaxation"> TulparGlobalTaxation
 			</a><br/>
-			Mr Second Hand
+			Tulpar Taxation
 		</td>
-		<td>Mr Second Hand </td>
-		<td>No Twitter Username</td>
-		<td>Business Bay - Dubai - United Arab Emirates</td>
+		<td>Tulpar Global Taxation </td>
+		<td><a href="https://twitter.com/home">home</a></td>
+		<td>Dubai, Business Bay, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/vacanciesindubai">
 				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
@@ -557,6 +544,19 @@ There are `98 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Vacanices </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/mrsecondhand">
+				<img src="https://avatars.githubusercontent.com/u/221927867?s=72&u=ec12fea5ef8b60334c57cdaeaf6f185e5d63718f&v=4" width="24" alt="Avatar of mrsecondhand"> mrsecondhand
+			</a><br/>
+			Mr Second Hand
+		</td>
+		<td>Mr Second Hand </td>
+		<td>No Twitter Username</td>
+		<td>Business Bay - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
