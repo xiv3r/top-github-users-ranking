@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/12/13 7:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/12/16 12:38 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>55</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>48</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -180,7 +180,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Eastern Housing Uae </td>
 		<td><a href="https://twitter.com/EasternUae">EasternUae</a></td>
 		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
-		<td>18</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -458,19 +458,6 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/kustomdeco">
-				<img src="https://avatars.githubusercontent.com/u/235700426?s=72&u=27d17ed0b16380158b7a453b30fd5807a9d34515&v=4" width="24" alt="Avatar of kustomdeco"> kustomdeco
-			</a><br/>
-			Kustomdeco
-		</td>
-		<td>Kustomdeco </td>
-		<td>No Twitter Username</td>
-		<td>Office #110C, Diamond Business Center, Block-C, Arjan - Al Barsha South, Dubai - UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/abuhasanwork">
 				<img src="https://avatars.githubusercontent.com/u/192496801?s=72&v=4" width="24" alt="Avatar of abuhasanwork"> abuhasanwork
 			</a><br/>
@@ -479,6 +466,19 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Abu Hasan Technical Works<br/>Llc<br/></td>
 		<td>No Twitter Username</td>
 		<td>England Cluster, Y20, S05 - Dubai - United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/kustomdeco">
+				<img src="https://avatars.githubusercontent.com/u/235700426?s=72&u=27d17ed0b16380158b7a453b30fd5807a9d34515&v=4" width="24" alt="Avatar of kustomdeco"> kustomdeco
+			</a><br/>
+			Kustomdeco
+		</td>
+		<td>Kustomdeco </td>
+		<td>No Twitter Username</td>
+		<td>Office #110C, Diamond Business Center, Block-C, Arjan - Al Barsha South, Dubai - UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -614,19 +614,6 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>40</td>
 		<td>
-			<a href="https://github.com/uaetrippin">
-				<img src="https://avatars.githubusercontent.com/u/238260607?s=72&v=4" width="24" alt="Avatar of uaetrippin"> uaetrippin
-			</a><br/>
-			Trippin UAE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>"One Central, Building 2, 4th Floor Sheikh Zayed Road, Trade Center 2                 PO Box 594, Dubai, United Arab Emirates                "	</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
 			<a href="https://github.com/brandonjohn0998-coder">
 				<img src="https://avatars.githubusercontent.com/u/232760472?s=72&u=d9ff432022e54a614e9e9a3d2f4495419b705021&v=4" width="24" alt="Avatar of brandonjohn0998-coder"> brandonjohn0998-coder
 			</a><br/>
@@ -635,6 +622,19 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>E2e Marketing Agency </td>
 		<td>No Twitter Username</td>
 		<td>UAE, Dubai.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/uaetrippin">
+				<img src="https://avatars.githubusercontent.com/u/238260607?s=72&v=4" width="24" alt="Avatar of uaetrippin"> uaetrippin
+			</a><br/>
+			Trippin UAE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>"One Central, Building 2, 4th Floor Sheikh Zayed Road, Trade Center 2                 PO Box 594, Dubai, United Arab Emirates                "	</td>
 		<td>1</td>
 	</tr>
 	<tr>
