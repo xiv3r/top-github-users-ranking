@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia">
 </a>
 
-The `number of followers` of users in Australia on `2025/12/19 5:54 PM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
+The `number of followers` of users in Australia on `2025/12/19 6:05 PM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -232,7 +232,7 @@ There are `933 users`  in Australia. You need at least `151 followers` to be on 
 		<td>@particular </td>
 		<td>No Twitter Username</td>
 		<td>Brisbane, Australia</td>
-		<td>6429</td>
+		<td>6430</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1155,7 +1155,7 @@ There are `933 users`  in Australia. You need at least `151 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Australia</td>
-		<td>1137</td>
+		<td>1138</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1662,7 +1662,7 @@ There are `933 users`  in Australia. You need at least `151 followers` to be on 
 		<td>Quantpy Pty Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Brisbane, Australia</td>
-		<td>877</td>
+		<td>878</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -4436,19 +4436,6 @@ There are `933 users`  in Australia. You need at least `151 followers` to be on 
 	<tr>
 		<td>334</td>
 		<td>
-			<a href="https://github.com/Michael-F-Bryan">
-				<img src="https://avatars.githubusercontent.com/u/17380079?s=72&u=dda78e55f994abb5d7aa15983133e66a3cdc07ca&v=4" width="24" alt="Avatar of Michael-F-Bryan"> Michael-F-Bryan
-			</a><br/>
-			Michael Bryan
-		</td>
-		<td>@multiversal-venture  </td>
-		<td>No Twitter Username</td>
-		<td>Western Australia</td>
-		<td>378</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
 			<a href="https://github.com/alexhude">
 				<img src="https://avatars.githubusercontent.com/u/13582677?s=72&u=eb54880d75d617b22f69f526afa65d367ff2dd61&v=4" width="24" alt="Avatar of alexhude"> alexhude
 			</a><br/>
@@ -4457,6 +4444,19 @@ There are `933 users`  in Australia. You need at least `151 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne, Australia</td>
+		<td>379</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/Michael-F-Bryan">
+				<img src="https://avatars.githubusercontent.com/u/17380079?s=72&u=dda78e55f994abb5d7aa15983133e66a3cdc07ca&v=4" width="24" alt="Avatar of Michael-F-Bryan"> Michael-F-Bryan
+			</a><br/>
+			Michael Bryan
+		</td>
+		<td>@multiversal-venture  </td>
+		<td>No Twitter Username</td>
+		<td>Western Australia</td>
 		<td>378</td>
 	</tr>
 	<tr>
