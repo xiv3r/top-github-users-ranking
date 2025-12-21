@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/12/19 10:44 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/12/21 7:31 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>52</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>50</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -549,19 +549,6 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/vacanciesindubai">
-				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
-			</a><br/>
-			Vacancies
-		</td>
-		<td>Vacanices </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/mrbusllc">
 				<img src="https://avatars.githubusercontent.com/u/214485774?s=72&v=4" width="24" alt="Avatar of mrbusllc"> mrbusllc
 			</a><br/>
@@ -570,6 +557,19 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Mr Bus Llc </td>
 		<td>No Twitter Username</td>
 		<td>DUBAI</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/vacanciesindubai">
+				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
+			</a><br/>
+			Vacancies
+		</td>
+		<td>Vacanices </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>

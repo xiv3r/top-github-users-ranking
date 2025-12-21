@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/12/19 10:44 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/12/21 7:31 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>6</td>
-		<td>171</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,8 +172,8 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>52</td>
-		<td>52</td>
+		<td>51</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>50</td>
-		<td>50</td>
+		<td>51</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -234,6 +234,20 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/Gkonst1">
+				<img src="https://avatars.githubusercontent.com/u/44822898?s=72&u=b01fc8dd6bf15886a6000f1f25c6e4a44586bd11&v=4" width="24" alt="Avatar of Gkonst1"> Gkonst1
+			</a><br/>
+			Giannis Konstantoulas
+		</td>
+		<td>Instashop </td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/easternhousinguae">
 				<img src="https://avatars.githubusercontent.com/u/199571396?s=72&v=4" width="24" alt="Avatar of easternhousinguae"> easternhousinguae
 			</a><br/>
@@ -244,20 +258,6 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Office 3207, ParkLane Tower - Business Bay - Dubai - United Arab Emirates</td>
 		<td>20</td>
 		<td>20</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/Gkonst1">
-				<img src="https://avatars.githubusercontent.com/u/44822898?s=72&u=b01fc8dd6bf15886a6000f1f25c6e4a44586bd11&v=4" width="24" alt="Avatar of Gkonst1"> Gkonst1
-			</a><br/>
-			Giannis Konstantoulas
-		</td>
-		<td>Instashop </td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>17</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -612,20 +612,6 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/vacanciesindubai">
-				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
-			</a><br/>
-			Vacancies
-		</td>
-		<td>Vacanices </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
 			<a href="https://github.com/mrbusllc">
 				<img src="https://avatars.githubusercontent.com/u/214485774?s=72&v=4" width="24" alt="Avatar of mrbusllc"> mrbusllc
 			</a><br/>
@@ -634,6 +620,20 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Mr Bus Llc </td>
 		<td>No Twitter Username</td>
 		<td>DUBAI</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/vacanciesindubai">
+				<img src="https://avatars.githubusercontent.com/u/216490186?s=72&v=4" width="24" alt="Avatar of vacanciesindubai"> vacanciesindubai
+			</a><br/>
+			Vacancies
+		</td>
+		<td>Vacanices </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/12/19 10:44 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/12/21 7:31 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>40</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -167,7 +167,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -219,7 +219,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Sharjah Art Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah / Manama</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>10</td>
