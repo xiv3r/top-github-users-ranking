@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2025/12/22 1:01 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2025/12/25 7:47 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>569</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -445,6 +445,19 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/Nassir235">
+				<img src="https://avatars.githubusercontent.com/u/80366782?s=72&u=e10692e93e25ad9a207b4a42aba89ef22175f492&v=4" width="24" alt="Avatar of Nassir235"> Nassir235
+			</a><br/>
+			Nassir baharadine abdelkrim
+		</td>
+		<td>Ansice </td>
+		<td><a href="https://twitter.com/NassirBaharad10">NassirBaharad10</a></td>
+		<td>N'djamena</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
 			</a><br/>
@@ -456,7 +469,7 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/moussa-youssouf-issa">
 				<img src="https://avatars.githubusercontent.com/u/57353849?s=72&u=f69be379dd08a8375e2a979a359884e52eec961a&v=4" width="24" alt="Avatar of moussa-youssouf-issa"> moussa-youssouf-issa
@@ -467,19 +480,6 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>N’Djamena, Chad</td>
 		<td>9</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/Nassir235">
-				<img src="https://avatars.githubusercontent.com/u/80366782?s=72&u=e10692e93e25ad9a207b4a42aba89ef22175f492&v=4" width="24" alt="Avatar of Nassir235"> Nassir235
-			</a><br/>
-			Nassir baharadine abdelkrim
-		</td>
-		<td>Ansice </td>
-		<td><a href="https://twitter.com/NassirBaharad10">NassirBaharad10</a></td>
-		<td>N'djamena</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -523,19 +523,6 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/Djet-hub">
-				<img src="https://avatars.githubusercontent.com/u/85284835?s=72&v=4" width="24" alt="Avatar of Djet-hub"> Djet-hub
-			</a><br/>
-			Hubert Djeteinboua
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/djethubert">djethubert</a></td>
-		<td>Chad</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/neorobert">
 				<img src="https://avatars.githubusercontent.com/u/76982842?s=72&v=4" width="24" alt="Avatar of neorobert"> neorobert
 			</a><br/>
@@ -543,6 +530,19 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/Djet-hub">
+				<img src="https://avatars.githubusercontent.com/u/85284835?s=72&v=4" width="24" alt="Avatar of Djet-hub"> Djet-hub
+			</a><br/>
+			Hubert Djeteinboua
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/djethubert">djethubert</a></td>
 		<td>Chad</td>
 		<td>7</td>
 	</tr>
