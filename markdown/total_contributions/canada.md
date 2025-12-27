@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canada">
 </a>
 
-The `public contributions` and `private contributions` by users in Canada on `2025/12/27 7:36 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
+The `public contributions` and `private contributions` by users in Canada on `2025/12/27 7:48 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -284,8 +284,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/behdadesfahbod">behdadesfahbod</a></td>
 		<td>Canada</td>
-		<td>2934</td>
-		<td>5929</td>
+		<td>2936</td>
+		<td>5931</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -746,8 +746,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>Egghead.io </td>
 		<td><a href="https://twitter.com/joelhooks">joelhooks</a></td>
 		<td>Vancouver, WA</td>
-		<td>1812</td>
-		<td>3601</td>
+		<td>1814</td>
+		<td>3604</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -2371,7 +2371,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hamilton, Ontario, Canada</td>
 		<td>3</td>
-		<td>1758</td>
+		<td>1759</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2496,8 +2496,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/meziantou">meziantou</a></td>
 		<td>Montreal</td>
-		<td>1636</td>
-		<td>1636</td>
+		<td>1638</td>
+		<td>1638</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2678,8 +2678,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada / Québec</td>
-		<td>1551</td>
-		<td>1551</td>
+		<td>1552</td>
+		<td>1552</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -3420,8 +3420,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>Maple </td>
 		<td><a href="https://twitter.com/LLCoolChris_">LLCoolChris_</a></td>
 		<td>Toronto, ON</td>
-		<td>351</td>
-		<td>1226</td>
+		<td>352</td>
+		<td>1227</td>
 	</tr>
 	<tr>
 		<td>238</td>
@@ -5324,8 +5324,8 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>Shopify </td>
 		<td>No Twitter Username</td>
 		<td>Ottawa, Canada</td>
-		<td>694</td>
-		<td>694</td>
+		<td>695</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>374</td>

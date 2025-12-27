@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canada">
 </a>
 
-The `public contributions` by users in Canada on `2025/12/27 7:36 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
+The `public contributions` by users in Canada on `2025/12/27 7:48 PM UTC`. This list contains users from `Canada` and cities `Toronto` `Montreal` `Vancouver` `Calgary` `Edmonton` `Quebec-city` `Winnipeg` `Saskatoon` `Regina`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -414,7 +414,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/behdadesfahbod">behdadesfahbod</a></td>
 		<td>Canada</td>
-		<td>2934</td>
+		<td>2936</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -921,7 +921,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>Egghead.io </td>
 		<td><a href="https://twitter.com/joelhooks">joelhooks</a></td>
 		<td>Vancouver, WA</td>
-		<td>1812</td>
+		<td>1814</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1025,7 +1025,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/meziantou">meziantou</a></td>
 		<td>Montreal</td>
-		<td>1636</td>
+		<td>1638</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1064,7 +1064,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada / Québec</td>
-		<td>1551</td>
+		<td>1552</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -2356,6 +2356,19 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/tobi">
+				<img src="https://avatars.githubusercontent.com/u/347?s=72&u=7960534ac523f60d241bb7c7ef986d263ea96170&v=4" width="24" alt="Avatar of tobi"> tobi
+			</a><br/>
+			Tobias Lütke
+		</td>
+		<td>Shopify </td>
+		<td>No Twitter Username</td>
+		<td>Ottawa, Canada</td>
+		<td>695</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/jhawthorn">
 				<img src="https://avatars.githubusercontent.com/u/131752?s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"> jhawthorn
 			</a><br/>
@@ -2367,7 +2380,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>695</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/prof3ssorSt3v3">
 				<img src="https://avatars.githubusercontent.com/u/1200328?s=72&v=4" width="24" alt="Avatar of prof3ssorSt3v3"> prof3ssorSt3v3
@@ -2378,19 +2391,6 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td><a href="https://twitter.com/prof3ssorSt3v3">prof3ssorSt3v3</a></td>
 		<td>Ottawa, Ontario, Canada</td>
 		<td>695</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/tobi">
-				<img src="https://avatars.githubusercontent.com/u/347?s=72&u=7960534ac523f60d241bb7c7ef986d263ea96170&v=4" width="24" alt="Avatar of tobi"> tobi
-			</a><br/>
-			Tobias Lütke
-		</td>
-		<td>Shopify </td>
-		<td>No Twitter Username</td>
-		<td>Ottawa, Canada</td>
-		<td>694</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -3859,7 +3859,7 @@ There are `917 users`  in Canada. You need at least `247 followers` to be on thi
 		<td>Maple </td>
 		<td><a href="https://twitter.com/LLCoolChris_">LLCoolChris_</a></td>
 		<td>Toronto, ON</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>290</td>
