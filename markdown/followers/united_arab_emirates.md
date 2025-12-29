@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/12/27 5:12 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/12/29 7:38 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `100 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>42</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>3</td>
