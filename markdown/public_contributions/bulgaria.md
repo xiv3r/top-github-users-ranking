@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2025/12/30 10:57 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2025/12/30 11:10 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -752,7 +752,7 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>@automattic  </td>
 		<td><a href="https://twitter.com/krenvirsh">krenvirsh</a></td>
 		<td>Varna, Bulgaria</td>
-		<td>847</td>
+		<td>848</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1610,7 +1610,7 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>FMI Sofia</td>
-		<td>411</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>117</td>

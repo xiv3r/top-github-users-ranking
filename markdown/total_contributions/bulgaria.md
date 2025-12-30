@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/12/30 10:57 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/12/30 11:10 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -159,7 +159,7 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Petrich, Bulgaria</td>
 		<td>106</td>
-		<td>7835</td>
+		<td>7837</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>0</td>
-		<td>5346</td>
+		<td>5347</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1278,8 +1278,8 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>FMI Sofia</td>
-		<td>411</td>
-		<td>1587</td>
+		<td>414</td>
+		<td>1590</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -2510,8 +2510,8 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>@automattic  </td>
 		<td><a href="https://twitter.com/krenvirsh">krenvirsh</a></td>
 		<td>Varna, Bulgaria</td>
-		<td>847</td>
-		<td>942</td>
+		<td>848</td>
+		<td>943</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -3972,20 +3972,6 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 	<tr>
 		<td>277</td>
 		<td>
-			<a href="https://github.com/dincho">
-				<img src="https://avatars.githubusercontent.com/u/260329?s=72&v=4" width="24" alt="Avatar of dincho"> dincho
-			</a><br/>
-			Dincho Todorov
-		</td>
-		<td>Vm&co </td>
-		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
-		<td>132</td>
-		<td>471</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
 			<a href="https://github.com/Nikolaj-Georgiev">
 				<img src="https://avatars.githubusercontent.com/u/47087200?s=72&u=4f92d7f2a1ed9e64e8717abaecf9ffbec1e0f2a3&v=4" width="24" alt="Avatar of Nikolaj-Georgiev"> Nikolaj-Georgiev
 			</a><br/>
@@ -3995,6 +3981,20 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>63</td>
+		<td>472</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/dincho">
+				<img src="https://avatars.githubusercontent.com/u/260329?s=72&v=4" width="24" alt="Avatar of dincho"> dincho
+			</a><br/>
+			Dincho Todorov
+		</td>
+		<td>Vm&co </td>
+		<td>No Twitter Username</td>
+		<td>Varna, Bulgaria</td>
+		<td>132</td>
 		<td>471</td>
 	</tr>
 	<tr>
@@ -4107,7 +4107,7 @@ There are `967 users`  in Bulgaria. You need at least `27 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>378</td>
-		<td>452</td>
+		<td>453</td>
 	</tr>
 	<tr>
 		<td>287</td>
