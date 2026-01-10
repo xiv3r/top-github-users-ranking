@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2026/1/7 5:18 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2026/1/10 7:00 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>42</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -380,8 +380,21 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/dengichuko">
-				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of dengichuko"> dengichuko
+			<a href="https://github.com/rahulraj2">
+				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
+			</a><br/>
+			Rahul Raj
+		</td>
+		<td>Emirates Nbd </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/nagaraju3256">
+				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of nagaraju3256"> nagaraju3256
 			</a><br/>
 			Nagaraju Y
 		</td>
@@ -391,7 +404,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/ShuaibAshroff">
 				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
@@ -404,7 +417,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/khalidsheikh03144">
 				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
@@ -417,7 +430,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/khuramnawaz">
 				<img src="https://avatars.githubusercontent.com/u/214780117?s=72&v=4" width="24" alt="Avatar of khuramnawaz"> khuramnawaz
@@ -430,7 +443,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/aquaexpertswatertreatment">
 				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
@@ -443,7 +456,7 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/thevatconsultantcom-ship-it">
 				<img src="https://avatars.githubusercontent.com/u/234348434?s=72&v=4" width="24" alt="Avatar of thevatconsultantcom-ship-it"> thevatconsultantcom-ship-it
@@ -451,19 +464,6 @@ There are `102 users`  in United Arab Emirates. You need at least `0 followers` 
 			TVC
 		</td>
 		<td>Tvc </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/rahulraj2">
-				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
-			</a><br/>
-			Rahul Raj
-		</td>
-		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
