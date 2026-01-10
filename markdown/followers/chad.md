@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2026/1/7 11:32 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2026/1/10 8:39 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `177 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `178 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'djamena</td>
-		<td>27</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1550,6 +1550,19 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>112</td>
 		<td>
+			<a href="https://github.com/Maldja">
+				<img src="https://avatars.githubusercontent.com/u/95779283?s=72&v=4" width="24" alt="Avatar of Maldja"> Maldja
+			</a><br/>
+			Ahmad Adoum hissein
+		</td>
+		<td>Chadian Agency For Radiological<br/>And<br/>Nuclear<br/>Security<br/></td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
 			<a href="https://github.com/mirror163">
 				<img src="https://avatars.githubusercontent.com/u/144686488?s=72&u=74b6979370271b03f54bab0cd5a63982cbe22a56&v=4" width="24" alt="Avatar of mirror163"> mirror163
 			</a><br/>
@@ -1561,7 +1574,7 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/SeriouSurge">
 				<img src="https://avatars.githubusercontent.com/u/101522716?s=72&u=4a827d9646341c129f42d89b6482492b274a17b0&v=4" width="24" alt="Avatar of SeriouSurge"> SeriouSurge
@@ -1574,7 +1587,7 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/moudjahid">
 				<img src="https://avatars.githubusercontent.com/u/22187986?s=72&v=4" width="24" alt="Avatar of moudjahid"> moudjahid
@@ -1582,19 +1595,6 @@ There are `177 users`  in Chad. You need at least `0 followers` to be on this li
 			Moudjahid
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/Maldja">
-				<img src="https://avatars.githubusercontent.com/u/95779283?s=72&v=4" width="24" alt="Avatar of Maldja"> Maldja
-			</a><br/>
-			Ahmad Adoum hissein
-		</td>
-		<td>Chadian Agency For Radiological<br/>And<br/>Nuclear<br/>Security<br/></td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
