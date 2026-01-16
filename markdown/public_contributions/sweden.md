@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2026/1/15 11:50 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2026/1/16 12:02 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -466,7 +466,7 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td>@gitbutlerapp </td>
 		<td><a href="https://twitter.com/krlvi">krlvi</a></td>
 		<td>Stockholm</td>
-		<td>2420</td>
+		<td>2421</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -505,7 +505,7 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td>Science For Life Laboratory<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>2253</td>
+		<td>2256</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1090,7 +1090,7 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td>Apple </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1240</td>
+		<td>1241</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1116,7 +1116,7 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td>@withastro </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1222</td>
+		<td>1224</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1337,7 +1337,7 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td>@evilcorpltd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1092</td>
+		<td>1093</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -4345,6 +4345,19 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 	<tr>
 		<td>327</td>
 		<td>
+			<a href="https://github.com/capricorn86">
+				<img src="https://avatars.githubusercontent.com/u/19155544?s=72&u=6848d42beb6f0dcbda2f8511ee6b75a762ab5fdc&v=4" width="24" alt="Avatar of capricorn86"> capricorn86
+			</a><br/>
+			David Ortner
+		</td>
+		<td>Ortner It Solutions Ab<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
 			<a href="https://github.com/actuallyaridan">
 				<img src="https://avatars.githubusercontent.com/u/96298432?s=72&u=a037a298e8b8d3b4e768d62f81363f17478ebc80&v=4" width="24" alt="Avatar of actuallyaridan"> actuallyaridan
 			</a><br/>
@@ -4354,19 +4367,6 @@ There are `926 users`  in Sweden. You need at least `95 followers` to be on this
 		<td><a href="https://twitter.com/actuallyaridan">actuallyaridan</a></td>
 		<td>Sweden</td>
 		<td>183</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/capricorn86">
-				<img src="https://avatars.githubusercontent.com/u/19155544?s=72&u=6848d42beb6f0dcbda2f8511ee6b75a762ab5fdc&v=4" width="24" alt="Avatar of capricorn86"> capricorn86
-			</a><br/>
-			David Ortner
-		</td>
-		<td>Ortner It Solutions Ab<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>182</td>
 	</tr>
 	<tr>
 		<td>329</td>
