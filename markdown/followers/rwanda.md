@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `number of followers` of users in Rwanda on `2026/1/18 3:33 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `number of followers` of users in Rwanda on `2026/1/18 4:38 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Allancorp </td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
-		<td>994</td>
+		<td>993</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -219,7 +219,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/UsamuelC2287">UsamuelC2287</a></td>
 		<td>Rwanda / Kigali City</td>
-		<td>623</td>
+		<td>625</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -362,7 +362,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>rwanda</td>
-		<td>234</td>
+		<td>235</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -817,7 +817,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Atlp-rwanda </td>
 		<td><a href="https://twitter.com/Ally_leandre">Ally_leandre</a></td>
 		<td>Rwanda,Kigali</td>
-		<td>105</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -978,6 +978,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/nguwenezapchristian">
+				<img src="https://avatars.githubusercontent.com/u/82439746?s=72&u=7364b8654598abb7221f5d5fb66617e35011aee7&v=4" width="24" alt="Avatar of nguwenezapchristian"> nguwenezapchristian
+			</a><br/>
+			Nguweneza P Christian
+		</td>
+		<td>Comprehensive Staffing Resources Ltd<br/></td>
+		<td><a href="https://twitter.com/NguwenezaC">NguwenezaC</a></td>
+		<td>Rwanda</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/r-e-d-ant">
 				<img src="https://avatars.githubusercontent.com/u/66163130?s=72&u=72df40f6f7fd29ebf19416971f8eda634b055452&v=4" width="24" alt="Avatar of r-e-d-ant"> r-e-d-ant
 			</a><br/>
@@ -989,7 +1002,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/mugishap">
 				<img src="https://avatars.githubusercontent.com/u/94197472?s=72&u=4cc048b36b1bbac9e496c7d555f0b6b20935d1dd&v=4" width="24" alt="Avatar of mugishap"> mugishap
@@ -1002,7 +1015,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/hbapte">
 				<img src="https://avatars.githubusercontent.com/u/103334815?s=72&u=cdd65cb7e6e1ec37786c751fec048de4cf504898&v=4" width="24" alt="Avatar of hbapte"> hbapte
@@ -1015,7 +1028,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/RWUBAKWANAYO">
 				<img src="https://avatars.githubusercontent.com/u/68381641?s=72&u=1e7743daac7fec781b19e2200eae773f8db0d30b&v=4" width="24" alt="Avatar of RWUBAKWANAYO"> RWUBAKWANAYO
@@ -1025,19 +1038,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Freelance Full-stack Developer </td>
 		<td><a href="https://twitter.com/rwubakwanayo">rwubakwanayo</a></td>
 		<td>Rwanda, Kigali</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/nguwenezapchristian">
-				<img src="https://avatars.githubusercontent.com/u/82439746?s=72&u=7364b8654598abb7221f5d5fb66617e35011aee7&v=4" width="24" alt="Avatar of nguwenezapchristian"> nguwenezapchristian
-			</a><br/>
-			Nguweneza P Christian
-		</td>
-		<td>Comprehensive Staffing Resources Ltd<br/></td>
-		<td><a href="https://twitter.com/NguwenezaC">NguwenezaC</a></td>
-		<td>Rwanda</td>
 		<td>91</td>
 	</tr>
 	<tr>
@@ -1160,6 +1160,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/Mubaraklouis">
+				<img src="https://avatars.githubusercontent.com/u/65467434?s=72&u=a8c609e63c550341982d79d99ec968e68a00f934&v=4" width="24" alt="Avatar of Mubaraklouis"> Mubaraklouis
+			</a><br/>
+			Mubarak Louis
+		</td>
+		<td>Velocitydev/malga </td>
+		<td><a href="https://twitter.com/LouisMubarak">LouisMubarak</a></td>
+		<td>Kigali Rwanda</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/itsgratien">
 				<img src="https://avatars.githubusercontent.com/u/27460888?s=72&u=a2d593c932781cbebf84db7959114063002874ce&v=4" width="24" alt="Avatar of itsgratien"> itsgratien
 			</a><br/>
@@ -1171,7 +1184,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/Molyceo12">
 				<img src="https://avatars.githubusercontent.com/u/157299697?s=72&u=bea45b3195b104201f4173458a478928afc0580f&v=4" width="24" alt="Avatar of Molyceo12"> Molyceo12
@@ -1184,7 +1197,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/stevenmukama">
 				<img src="https://avatars.githubusercontent.com/u/57868344?s=72&u=e54342e4b2715b59e77c3736a950e05462c4cda9&v=4" width="24" alt="Avatar of stevenmukama"> stevenmukama
@@ -1197,7 +1210,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/thedavidemmanuel">
 				<img src="https://avatars.githubusercontent.com/u/38293570?s=72&u=68ed4e5104edcb7fb37a6076dc1da89298637d74&v=4" width="24" alt="Avatar of thedavidemmanuel"> thedavidemmanuel
@@ -1210,7 +1223,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/Ronnie5562">
 				<img src="https://avatars.githubusercontent.com/u/110787129?s=72&u=60357291bec7a45e286fbe7ab14a0be1f5f38a2e&v=4" width="24" alt="Avatar of Ronnie5562"> Ronnie5562
@@ -1223,7 +1236,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/NyLaurent">
 				<img src="https://avatars.githubusercontent.com/u/150799304?s=72&u=124d8c40198848f047c011627f8c4d4efa52ce41&v=4" width="24" alt="Avatar of NyLaurent"> NyLaurent
@@ -1236,7 +1249,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/dushimsam">
 				<img src="https://avatars.githubusercontent.com/u/66276301?s=72&u=fbe1261159a6a80e31731cb098734601fd996a59&v=4" width="24" alt="Avatar of dushimsam"> dushimsam
@@ -1249,7 +1262,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/aimemalaika">
 				<img src="https://avatars.githubusercontent.com/u/28307960?s=72&u=006d127c3140d8e955b642f91101157ee2b1b6d3&v=4" width="24" alt="Avatar of aimemalaika"> aimemalaika
@@ -1259,19 +1272,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Aime_Malaika">Aime_Malaika</a></td>
 		<td>Rwanda</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/Mubaraklouis">
-				<img src="https://avatars.githubusercontent.com/u/65467434?s=72&u=a8c609e63c550341982d79d99ec968e68a00f934&v=4" width="24" alt="Avatar of Mubaraklouis"> Mubaraklouis
-			</a><br/>
-			Mubarak Louis
-		</td>
-		<td>Velocitydev/malga </td>
-		<td><a href="https://twitter.com/LouisMubarak">LouisMubarak</a></td>
-		<td>Kigali Rwanda</td>
 		<td>82</td>
 	</tr>
 	<tr>
@@ -1290,6 +1290,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>92</td>
 		<td>
+			<a href="https://github.com/Kelly1-prog">
+				<img src="https://avatars.githubusercontent.com/u/196612138?s=72&v=4" width="24" alt="Avatar of Kelly1-prog"> Kelly1-prog
+			</a><br/>
+			mukundunyurwe kelly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>rwanda</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
 			<a href="https://github.com/eliemugenzi">
 				<img src="https://avatars.githubusercontent.com/u/22316636?s=72&u=f967bd2c6742abdac375e095893b1c5fda341238&v=4" width="24" alt="Avatar of eliemugenzi"> eliemugenzi
 			</a><br/>
@@ -1301,30 +1314,17 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/valens200">
-				<img src="https://avatars.githubusercontent.com/u/95166477?s=72&u=75fe8e466f70b5c74bba6fc33bc12aab26b72a9b&v=4" width="24" alt="Avatar of valens200"> valens200
-			</a><br/>
-			Valens Niyonsenga
-		</td>
-		<td>Rca.ac.rw </td>
-		<td><a href="https://twitter.com/200Valens">200Valens</a></td>
-		<td>Nyabihu, Rwanda</td>
-		<td>81</td>
-	</tr>
-	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/Kelly1-prog">
-				<img src="https://avatars.githubusercontent.com/u/196612138?s=72&v=4" width="24" alt="Avatar of Kelly1-prog"> Kelly1-prog
+			<a href="https://github.com/Regiss05">
+				<img src="https://avatars.githubusercontent.com/u/38294716?s=72&u=afbd58c4849c9da1eb4d17b0b03eb2c1ef3ca1da&v=4" width="24" alt="Avatar of Regiss05"> Regiss05
 			</a><br/>
-			mukundunyurwe kelly
+			Regiss Mukubiza
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>rwanda</td>
-		<td>81</td>
+		<td>Wazoplus </td>
+		<td><a href="https://twitter.com/regissmukubiza">regissmukubiza</a></td>
+		<td>Kigali</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1342,14 +1342,14 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/Regiss05">
-				<img src="https://avatars.githubusercontent.com/u/38294716?s=72&u=afbd58c4849c9da1eb4d17b0b03eb2c1ef3ca1da&v=4" width="24" alt="Avatar of Regiss05"> Regiss05
+			<a href="https://github.com/valens200">
+				<img src="https://avatars.githubusercontent.com/u/95166477?s=72&u=75fe8e466f70b5c74bba6fc33bc12aab26b72a9b&v=4" width="24" alt="Avatar of valens200"> valens200
 			</a><br/>
-			Regiss Mukubiza
+			Valens Niyonsenga
 		</td>
-		<td>Wazoplus </td>
-		<td><a href="https://twitter.com/regissmukubiza">regissmukubiza</a></td>
-		<td>Kigali</td>
+		<td>Rca.ac.rw </td>
+		<td><a href="https://twitter.com/200Valens">200Valens</a></td>
+		<td>Nyabihu, Rwanda</td>
 		<td>80</td>
 	</tr>
 	<tr>
@@ -2850,6 +2850,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>212</td>
 		<td>
+			<a href="https://github.com/kasongo-mavetya-emmanuel">
+				<img src="https://avatars.githubusercontent.com/u/56942977?s=72&v=4" width="24" alt="Avatar of kasongo-mavetya-emmanuel"> kasongo-mavetya-emmanuel
+			</a><br/>
+			Kasongo Mavetya Emmanuel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KasMavetyaEmma">KasMavetyaEmma</a></td>
+		<td>Gisenyi/Rwanda</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
 			<a href="https://github.com/Kandy-Peter">
 				<img src="https://avatars.githubusercontent.com/u/80612925?s=72&u=916a4ce3d9ae47f2cacf1d2b955fca1be535729a&v=4" width="24" alt="Avatar of Kandy-Peter"> Kandy-Peter
 			</a><br/>
@@ -2861,7 +2874,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/nshutijean">
 				<img src="https://avatars.githubusercontent.com/u/28356145?s=72&u=0282fc0e403925bf5d42a20809ee5ea15188459d&v=4" width="24" alt="Avatar of nshutijean"> nshutijean
@@ -2874,7 +2887,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/HGaelW">
 				<img src="https://avatars.githubusercontent.com/u/29066856?s=72&u=976d9911dc2c907fee4b24a087d7dfd16d9121fa&v=4" width="24" alt="Avatar of HGaelW"> HGaelW
@@ -2887,7 +2900,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/faid-terence">
 				<img src="https://avatars.githubusercontent.com/u/122970729?s=72&u=367c0de8b0e7e3a386259970166c360163c11d97&v=4" width="24" alt="Avatar of faid-terence"> faid-terence
@@ -2900,7 +2913,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/Maxtoshie">
 				<img src="https://avatars.githubusercontent.com/u/165656781?s=72&u=e443d8dea45d04478c6a8d2675f5a42a9a690f0f&v=4" width="24" alt="Avatar of Maxtoshie"> Maxtoshie
@@ -2913,7 +2926,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/bvenceslas">
 				<img src="https://avatars.githubusercontent.com/u/59555731?s=72&u=874ee771b540434bcc5ec33e85eff66c2abf71ad&v=4" width="24" alt="Avatar of bvenceslas"> bvenceslas
@@ -2923,19 +2936,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>@skillyhub @opencrvs @wezalab @congoclub<br/><br/></td>
 		<td><a href="https://twitter.com/bvenceslas">bvenceslas</a></td>
 		<td>Kigali Rwanda</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/kasongo-mavetya-emmanuel">
-				<img src="https://avatars.githubusercontent.com/u/56942977?s=72&v=4" width="24" alt="Avatar of kasongo-mavetya-emmanuel"> kasongo-mavetya-emmanuel
-			</a><br/>
-			Kasongo Mavetya Emmanuel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KasMavetyaEmma">KasMavetyaEmma</a></td>
-		<td>Gisenyi/Rwanda</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -4917,19 +4917,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>371</td>
 		<td>
-			<a href="https://github.com/MBONOMA">
-				<img src="https://avatars.githubusercontent.com/u/195449482?s=72&u=9e2462d5d1383ea1178f2ed56ef8c46582e27d3d&v=4" width="24" alt="Avatar of MBONOMA"> MBONOMA
-			</a><br/>
-			NTAKOSA
-		</td>
-		<td>Ntakosa Softx Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Kamembe Rwanda</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
 			<a href="https://github.com/Chambeline-Nkah">
 				<img src="https://avatars.githubusercontent.com/u/111080607?s=72&u=10e9c5a27ef0a2421b979958a7512f679944d0ab&v=4" width="24" alt="Avatar of Chambeline-Nkah"> Chambeline-Nkah
 			</a><br/>
@@ -4938,6 +4925,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/MBONOMA">
+				<img src="https://avatars.githubusercontent.com/u/195449482?s=72&u=9e2462d5d1383ea1178f2ed56ef8c46582e27d3d&v=4" width="24" alt="Avatar of MBONOMA"> MBONOMA
+			</a><br/>
+			NTAKOSA
+		</td>
+		<td>Ntakosa Softx Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Kamembe Rwanda</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -5606,19 +5606,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>424</td>
 		<td>
-			<a href="https://github.com/urbanishimwe">
-				<img src="https://avatars.githubusercontent.com/u/33803574?s=72&u=e0e179fa6b68b2f3ab8d88f00b7ddba86392da36&v=4" width="24" alt="Avatar of urbanishimwe"> urbanishimwe
-			</a><br/>
-			Urban Ishimwe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
 			<a href="https://github.com/EzechielKiregha">
 				<img src="https://avatars.githubusercontent.com/u/96211998?s=72&u=6152de30552f5948a4f248a0bee81d8e53e463c3&v=4" width="24" alt="Avatar of EzechielKiregha"> EzechielKiregha
 			</a><br/>
@@ -5626,6 +5613,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		</td>
 		<td>Kiregha Corporation </td>
 		<td><a href="https://twitter.com/KireghaEzechiel">KireghaEzechiel</a></td>
+		<td>Kigali</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/urbanishimwe">
+				<img src="https://avatars.githubusercontent.com/u/33803574?s=72&u=e0e179fa6b68b2f3ab8d88f00b7ddba86392da36&v=4" width="24" alt="Avatar of urbanishimwe"> urbanishimwe
+			</a><br/>
+			Urban Ishimwe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Kigali</td>
 		<td>25</td>
 	</tr>
@@ -5710,19 +5710,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>432</td>
 		<td>
-			<a href="https://github.com/dean-daryl">
-				<img src="https://avatars.githubusercontent.com/u/56021941?s=72&u=0f52514bae4f34c6843d6d2a37c07a7b35d30afe&v=4" width="24" alt="Avatar of dean-daryl"> dean-daryl
-			</a><br/>
-			Dean Daryl MURENZI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
 			<a href="https://github.com/wolfieorama">
 				<img src="https://avatars.githubusercontent.com/u/1047150?s=72&u=6e923b0398f56fa6caf21295339617a0a7d5f4f5&v=4" width="24" alt="Avatar of wolfieorama"> wolfieorama
 			</a><br/>
@@ -5731,6 +5718,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi, Kigali and else where</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/dean-daryl">
+				<img src="https://avatars.githubusercontent.com/u/56021941?s=72&u=0f52514bae4f34c6843d6d2a37c07a7b35d30afe&v=4" width="24" alt="Avatar of dean-daryl"> dean-daryl
+			</a><br/>
+			Dean Daryl MURENZI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -5788,19 +5788,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>438</td>
 		<td>
-			<a href="https://github.com/gitegob">
-				<img src="https://avatars.githubusercontent.com/u/53472419?s=72&u=faad315e662d16df035f0499ebb43068f26cf507&v=4" width="24" alt="Avatar of gitegob"> gitegob
-			</a><br/>
-			Brian Gitego
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gitego_brian">gitego_brian</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
 			<a href="https://github.com/CynthiaUmuhire">
 				<img src="https://avatars.githubusercontent.com/u/109437062?s=72&u=520bf4adefe8b43cbf8fca1c87c54f49b6b3eb95&v=4" width="24" alt="Avatar of CynthiaUmuhire"> CynthiaUmuhire
 			</a><br/>
@@ -5808,6 +5795,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		</td>
 		<td>Ojemba </td>
 		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/gitegob">
+				<img src="https://avatars.githubusercontent.com/u/53472419?s=72&u=faad315e662d16df035f0499ebb43068f26cf507&v=4" width="24" alt="Avatar of gitegob"> gitegob
+			</a><br/>
+			Brian Gitego
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gitego_brian">gitego_brian</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>24</td>
 	</tr>
@@ -6386,19 +6386,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/masonk16">
-				<img src="https://avatars.githubusercontent.com/u/58973360?s=72&u=895045960e9ae8122d974f99100504563e86d9ad&v=4" width="24" alt="Avatar of masonk16"> masonk16
-			</a><br/>
-			Mason Mapfundematsva
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MasonMapfunde">MasonMapfunde</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
 			<a href="https://github.com/jcharles921">
 				<img src="https://avatars.githubusercontent.com/u/72489391?s=72&u=90fa13d030ce94b9d3252d86d5ce65c363d2f8bc&v=4" width="24" alt="Avatar of jcharles921"> jcharles921
 			</a><br/>
@@ -6410,7 +6397,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/kayc0des">
 				<img src="https://avatars.githubusercontent.com/u/109430532?s=72&u=79f83a4dfa710b8ea5843f7db9e98a2b061697e3&v=4" width="24" alt="Avatar of kayc0des"> kayc0des
@@ -6423,7 +6410,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/Laurent-I">
 				<img src="https://avatars.githubusercontent.com/u/96382900?s=72&u=88fbae55c328a68b20725e1d3dd0ae77ced97679&v=4" width="24" alt="Avatar of Laurent-I"> Laurent-I
@@ -6433,6 +6420,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rwanda, Kigali City</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/masonk16">
+				<img src="https://avatars.githubusercontent.com/u/58973360?s=72&u=895045960e9ae8122d974f99100504563e86d9ad&v=4" width="24" alt="Avatar of masonk16"> masonk16
+			</a><br/>
+			Mason Mapfundematsva
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MasonMapfunde">MasonMapfunde</a></td>
+		<td>Kigali, Rwanda</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -6724,19 +6724,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>510</td>
 		<td>
-			<a href="https://github.com/DUSHIME1212">
-				<img src="https://avatars.githubusercontent.com/u/118371312?s=72&u=1b0a085a1cada70407a47447131fa3ae4581fd9b&v=4" width="24" alt="Avatar of DUSHIME1212"> DUSHIME1212
-			</a><br/>
-			Don Aime
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kigali</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
 			<a href="https://github.com/IsiteYves">
 				<img src="https://avatars.githubusercontent.com/u/61538146?s=72&u=0a58ecd692229d039ddfa6f976743a48e8bbfedf&v=4" width="24" alt="Avatar of IsiteYves"> IsiteYves
 			</a><br/>
@@ -6745,6 +6732,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Irembo </td>
 		<td>No Twitter Username</td>
 		<td>Rwanda, Kigali City</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/DUSHIME1212">
+				<img src="https://avatars.githubusercontent.com/u/118371312?s=72&u=1b0a085a1cada70407a47447131fa3ae4581fd9b&v=4" width="24" alt="Avatar of DUSHIME1212"> DUSHIME1212
+			</a><br/>
+			Don Aime
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kigali</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -6932,19 +6932,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>526</td>
 		<td>
-			<a href="https://github.com/ndatumuremyi">
-				<img src="https://avatars.githubusercontent.com/u/60066777?s=72&u=b68e9a506816d84b9b4ea76a9fcf20bcb6a042ff&v=4" width="24" alt="Avatar of ndatumuremyi"> ndatumuremyi
-			</a><br/>
-			Ndatumuremyi paterne
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>527</td>
-		<td>
 			<a href="https://github.com/staffy31">
 				<img src="https://avatars.githubusercontent.com/u/185026052?s=72&u=0621e4c0b736ba4e2dd0e9bdb86339cc70be00f1&v=4" width="24" alt="Avatar of staffy31"> staffy31
 			</a><br/>
@@ -6953,6 +6940,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/ndatumuremyi">
+				<img src="https://avatars.githubusercontent.com/u/60066777?s=72&u=b68e9a506816d84b9b4ea76a9fcf20bcb6a042ff&v=4" width="24" alt="Avatar of ndatumuremyi"> ndatumuremyi
+			</a><br/>
+			Ndatumuremyi paterne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -7712,19 +7712,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>586</td>
 		<td>
-			<a href="https://github.com/lexnotor">
-				<img src="https://avatars.githubusercontent.com/u/105908534?s=72&u=a3b30b5541005032424ca19b83dfb288b514ffd8&v=4" width="24" alt="Avatar of lexnotor"> lexnotor
-			</a><br/>
-			Alexandre Chambu
-		</td>
-		<td>Nextep Solutions </td>
-		<td><a href="https://twitter.com/lexnotor">lexnotor</a></td>
-		<td>Kigali</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>587</td>
-		<td>
 			<a href="https://github.com/peninah98">
 				<img src="https://avatars.githubusercontent.com/u/78850411?s=72&u=d9f5c0594a03f3df11a1c483f792110752f2103f&v=4" width="24" alt="Avatar of peninah98"> peninah98
 			</a><br/>
@@ -7733,6 +7720,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rwanda</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/lexnotor">
+				<img src="https://avatars.githubusercontent.com/u/105908534?s=72&u=a3b30b5541005032424ca19b83dfb288b514ffd8&v=4" width="24" alt="Avatar of lexnotor"> lexnotor
+			</a><br/>
+			Alexandre Chambu
+		</td>
+		<td>Nextep Solutions </td>
+		<td><a href="https://twitter.com/lexnotor">lexnotor</a></td>
+		<td>Kigali</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -7842,19 +7842,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>596</td>
 		<td>
-			<a href="https://github.com/gasheibrahim">
-				<img src="https://avatars.githubusercontent.com/u/52959045?s=72&u=43014046dde54a4c01b06ce26b0ac6d932ec50ba&v=4" width="24" alt="Avatar of gasheibrahim"> gasheibrahim
-			</a><br/>
-			Ibrahim Gashema
-		</td>
-		<td>Hobe Agency & Africa<br/>In<br/>Colors<br/></td>
-		<td><a href="https://twitter.com/papasitamwiza">papasitamwiza</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
 			<a href="https://github.com/ByiringiroUrban">
 				<img src="https://avatars.githubusercontent.com/u/151029116?s=72&u=60aed09bfadf93308479d91593897287d65eb1d6&v=4" width="24" alt="Avatar of ByiringiroUrban"> ByiringiroUrban
 			</a><br/>
@@ -7863,6 +7850,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Wise Academy  </td>
 		<td><a href="https://twitter.com/ByiringiroUrban">ByiringiroUrban</a></td>
 		<td>Kigali Rwanda</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/gasheibrahim">
+				<img src="https://avatars.githubusercontent.com/u/52959045?s=72&u=43014046dde54a4c01b06ce26b0ac6d932ec50ba&v=4" width="24" alt="Avatar of gasheibrahim"> gasheibrahim
+			</a><br/>
+			Ibrahim Gashema
+		</td>
+		<td>Hobe Agency & Africa<br/>In<br/>Colors<br/></td>
+		<td><a href="https://twitter.com/papasitamwiza">papasitamwiza</a></td>
+		<td>Kigali, Rwanda</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -8323,19 +8323,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>633</td>
 		<td>
-			<a href="https://github.com/KIRENGA-Remy">
-				<img src="https://avatars.githubusercontent.com/u/124326207?s=72&u=21a5442bca38ffbacf32e50c75343b7820159854&v=4" width="24" alt="Avatar of KIRENGA-Remy"> KIRENGA-Remy
-			</a><br/>
-			GITOLI Remy Claudien
-		</td>
-		<td>Student & Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>634</td>
-		<td>
 			<a href="https://github.com/Zeden12">
 				<img src="https://avatars.githubusercontent.com/u/118928495?s=72&u=7ec5762f6f8adcdac5e411fe51f4c2af3d9c3665&v=4" width="24" alt="Avatar of Zeden12"> Zeden12
 			</a><br/>
@@ -8347,7 +8334,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/nshimiyimanaamani">
 				<img src="https://avatars.githubusercontent.com/u/47864374?s=72&u=f98d10667e709f9891c8f01f6f440b7b52e01055&v=4" width="24" alt="Avatar of nshimiyimanaamani"> nshimiyimanaamani
@@ -8360,7 +8347,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/intoregaby">
 				<img src="https://avatars.githubusercontent.com/u/203726228?s=72&u=1cb8155ca7d1db3145da2a8890313e974146bf75&v=4" width="24" alt="Avatar of intoregaby"> intoregaby
@@ -8373,20 +8360,20 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
-			<a href="https://github.com/chris-dare">
-				<img src="https://avatars.githubusercontent.com/u/18426797?s=72&u=1ebcc457219537508a960d1246784d5bd7a98b89&v=4" width="24" alt="Avatar of chris-dare"> chris-dare
+			<a href="https://github.com/KIRENGA-Remy">
+				<img src="https://avatars.githubusercontent.com/u/124326207?s=72&u=21a5442bca38ffbacf32e50c75343b7820159854&v=4" width="24" alt="Avatar of KIRENGA-Remy"> KIRENGA-Remy
 			</a><br/>
-			Chris Dare
+			GITOLI Remy Claudien
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chrisdare_">chrisdare_</a></td>
-		<td>Kigali, Rwanda</td>
+		<td>Student & Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/patieru12">
 				<img src="https://avatars.githubusercontent.com/u/29778225?s=72&u=088009efa491b64fad372a8f7c8bac4d11e81e20&v=4" width="24" alt="Avatar of patieru12"> patieru12
@@ -8396,6 +8383,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Genius Software Ltd </td>
 		<td><a href="https://twitter.com/ruberandinda">ruberandinda</a></td>
 		<td>Kigali Rwanda</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/chris-dare">
+				<img src="https://avatars.githubusercontent.com/u/18426797?s=72&u=1ebcc457219537508a960d1246784d5bd7a98b89&v=4" width="24" alt="Avatar of chris-dare"> chris-dare
+			</a><br/>
+			Chris Dare
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chrisdare_">chrisdare_</a></td>
+		<td>Kigali, Rwanda</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -8440,19 +8440,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>642</td>
 		<td>
-			<a href="https://github.com/gsngdavid">
-				<img src="https://avatars.githubusercontent.com/u/89668775?s=72&v=4" width="24" alt="Avatar of gsngdavid"> gsngdavid
-			</a><br/>
-			David Gusenga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>643</td>
-		<td>
 			<a href="https://github.com/SergeInGithub">
 				<img src="https://avatars.githubusercontent.com/u/110470861?s=72&u=610952bbc2721206d9da2fb6cfa8efaa30f74691&v=4" width="24" alt="Avatar of SergeInGithub"> SergeInGithub
 			</a><br/>
@@ -8461,6 +8448,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ny__serge">ny__serge</a></td>
 		<td>kigali, Rwanda</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/gsngdavid">
+				<img src="https://avatars.githubusercontent.com/u/89668775?s=72&v=4" width="24" alt="Avatar of gsngdavid"> gsngdavid
+			</a><br/>
+			David Gusenga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -8752,12 +8752,12 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>666</td>
 		<td>
-			<a href="https://github.com/Kevin-gram">
-				<img src="https://avatars.githubusercontent.com/u/116556392?s=72&u=64884f9a343faf974ff1c280b9a191993665724f&v=4" width="24" alt="Avatar of Kevin-gram"> Kevin-gram
+			<a href="https://github.com/Ardinenukuri">
+				<img src="https://avatars.githubusercontent.com/u/109416235?s=72&u=b706aa41651ea391cf88e5bb4c3f085ce4e6bb23&v=4" width="24" alt="Avatar of Ardinenukuri"> Ardinenukuri
 			</a><br/>
-			Kevin_Nyiringango
+			Ardine
 		</td>
-		<td>Moyotech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
 		<td>16</td>
@@ -8765,12 +8765,12 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>667</td>
 		<td>
-			<a href="https://github.com/Ardinenukuri">
-				<img src="https://avatars.githubusercontent.com/u/109416235?s=72&u=b706aa41651ea391cf88e5bb4c3f085ce4e6bb23&v=4" width="24" alt="Avatar of Ardinenukuri"> Ardinenukuri
+			<a href="https://github.com/Kevin-gram">
+				<img src="https://avatars.githubusercontent.com/u/116556392?s=72&u=64884f9a343faf974ff1c280b9a191993665724f&v=4" width="24" alt="Avatar of Kevin-gram"> Kevin-gram
 			</a><br/>
-			Ardine
+			Kevin_Nyiringango
 		</td>
-		<td>No Company</td>
+		<td>Moyotech </td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
 		<td>16</td>
@@ -9246,19 +9246,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>704</td>
 		<td>
-			<a href="https://github.com/Kayle54187">
-				<img src="https://avatars.githubusercontent.com/u/63566043?s=72&u=1274d9406d17e027f8e4037ba76a864bc375d734&v=4" width="24" alt="Avatar of Kayle54187"> Kayle54187
-			</a><br/>
-			HABIMANA INGABIRE Christian
-		</td>
-		<td>Pivot Access Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>705</td>
-		<td>
 			<a href="https://github.com/EricNiyo73">
 				<img src="https://avatars.githubusercontent.com/u/106761137?s=72&u=b369c22f10e254c4941ec632d985fa2766aea272&v=4" width="24" alt="Avatar of EricNiyo73"> EricNiyo73
 			</a><br/>
@@ -9270,16 +9257,29 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/Kayle54187">
+				<img src="https://avatars.githubusercontent.com/u/63566043?s=72&u=1274d9406d17e027f8e4037ba76a864bc375d734&v=4" width="24" alt="Avatar of Kayle54187"> Kayle54187
+			</a><br/>
+			HABIMANA INGABIRE Christian
+		</td>
+		<td>Pivot Access Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
+		<td>15</td>
+	</tr>
+	<tr>
 		<td>706</td>
 		<td>
-			<a href="https://github.com/Gasorekibo">
-				<img src="https://avatars.githubusercontent.com/u/113452888?s=72&u=995e3d5789c0cb5d1972f93d8292360c1cba64ff&v=4" width="24" alt="Avatar of Gasorekibo"> Gasorekibo
+			<a href="https://github.com/Bien-venu">
+				<img src="https://avatars.githubusercontent.com/u/139080758?s=72&u=7f8bdb5ab4a26fd0d27e312ef4b27b06f4c08152&v=4" width="24" alt="Avatar of Bien-venu"> Bien-venu
 			</a><br/>
-			Gasore Mugwaneza
+			Ishimwe S. Bienvenu
 		</td>
-		<td>@alueducation </td>
-		<td>No Twitter Username</td>
-		<td>Kigali-Rwanda</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/isbienvenu">isbienvenu</a></td>
+		<td>Kigali, Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -9298,14 +9298,14 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>708</td>
 		<td>
-			<a href="https://github.com/Bien-venu">
-				<img src="https://avatars.githubusercontent.com/u/139080758?s=72&u=7f8bdb5ab4a26fd0d27e312ef4b27b06f4c08152&v=4" width="24" alt="Avatar of Bien-venu"> Bien-venu
+			<a href="https://github.com/Gasorekibo">
+				<img src="https://avatars.githubusercontent.com/u/113452888?s=72&u=995e3d5789c0cb5d1972f93d8292360c1cba64ff&v=4" width="24" alt="Avatar of Gasorekibo"> Gasorekibo
 			</a><br/>
-			Ishimwe S. Bienvenu
+			Gasore Mugwaneza
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/isbienvenu">isbienvenu</a></td>
-		<td>Kigali, Rwanda</td>
+		<td>@alueducation </td>
+		<td>No Twitter Username</td>
+		<td>Kigali-Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -9337,19 +9337,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>711</td>
 		<td>
-			<a href="https://github.com/fabmukunzi">
-				<img src="https://avatars.githubusercontent.com/u/83646585?s=72&u=00e4a6ccfdad8d9a509a259ef8620532b7500c13&v=4" width="24" alt="Avatar of fabmukunzi"> fabmukunzi
-			</a><br/>
-			Fabrice Mukunzi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fab_mukunzi">fab_mukunzi</a></td>
-		<td>Kigali,RWANDA</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
 			<a href="https://github.com/hirwaNkevin">
 				<img src="https://avatars.githubusercontent.com/u/126849721?s=72&u=1a495e5248e9b79410e5c5884470bf169e3434d9&v=4" width="24" alt="Avatar of hirwaNkevin"> hirwaNkevin
 			</a><br/>
@@ -9361,20 +9348,20 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>712</td>
 		<td>
-			<a href="https://github.com/ChristianIsingizwe">
-				<img src="https://avatars.githubusercontent.com/u/149111755?s=72&v=4" width="24" alt="Avatar of ChristianIsingizwe"> ChristianIsingizwe
+			<a href="https://github.com/fabmukunzi">
+				<img src="https://avatars.githubusercontent.com/u/83646585?s=72&u=00e4a6ccfdad8d9a509a259ef8620532b7500c13&v=4" width="24" alt="Avatar of fabmukunzi"> fabmukunzi
 			</a><br/>
-			CHRISTIAN
+			Fabrice Mukunzi
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
+		<td><a href="https://twitter.com/fab_mukunzi">fab_mukunzi</a></td>
+		<td>Kigali,RWANDA</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/Igiraneza1">
 				<img src="https://avatars.githubusercontent.com/u/134881953?s=72&u=ed0b7258816a12778723f25baaeec64ad6dffb10&v=4" width="24" alt="Avatar of Igiraneza1"> Igiraneza1
@@ -9387,7 +9374,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/jeandamas">
 				<img src="https://avatars.githubusercontent.com/u/32773127?s=72&u=a5bd4d25e2b68f1735c4c0968db701071c9b1d4f&v=4" width="24" alt="Avatar of jeandamas"> jeandamas
@@ -9400,7 +9387,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/Yves-Developer">
 				<img src="https://avatars.githubusercontent.com/u/97420310?s=72&u=29254dc6301b551db7dbfd5c18d050e9fc8f5223&v=4" width="24" alt="Avatar of Yves-Developer"> Yves-Developer
@@ -9413,20 +9400,20 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
-			<a href="https://github.com/Edouard144">
-				<img src="https://avatars.githubusercontent.com/u/182372855?s=72&u=844eb5a5cecc636095957ed821b38f7662251b40&v=4" width="24" alt="Avatar of Edouard144"> Edouard144
+			<a href="https://github.com/ChristianIsingizwe">
+				<img src="https://avatars.githubusercontent.com/u/149111755?s=72&v=4" width="24" alt="Avatar of ChristianIsingizwe"> ChristianIsingizwe
 			</a><br/>
-			Silent Exit
+			CHRISTIAN
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
+		<td>Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/rubailly">
 				<img src="https://avatars.githubusercontent.com/u/840071?s=72&u=396b9e2ae2ff1b52f76d70da77c0968a07baff32&v=4" width="24" alt="Avatar of rubailly"> rubailly
@@ -9439,7 +9426,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/sergekamanzi">
 				<img src="https://avatars.githubusercontent.com/u/127386891?s=72&u=aadd6e3ffff46ab0141471be2dea1ef88869dcb9&v=4" width="24" alt="Avatar of sergekamanzi"> sergekamanzi
@@ -9449,6 +9436,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Brainwave Technologies </td>
 		<td>No Twitter Username</td>
 		<td>kigali-rwanda</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/Edouard144">
+				<img src="https://avatars.githubusercontent.com/u/182372855?s=72&u=844eb5a5cecc636095957ed821b38f7662251b40&v=4" width="24" alt="Avatar of Edouard144"> Edouard144
+			</a><br/>
+			Silent Exit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -9506,19 +9506,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>724</td>
 		<td>
-			<a href="https://github.com/wswapped">
-				<img src="https://avatars.githubusercontent.com/u/20147208?s=72&u=ffab731e0e18e5a34499fe64d6dda5c89e94f61e&v=4" width="24" alt="Avatar of wswapped"> wswapped
-			</a><br/>
-			wswapped
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
 			<a href="https://github.com/bwanakweli4ever">
 				<img src="https://avatars.githubusercontent.com/u/22841968?s=72&u=b622b19f5a8e59230dd383052178aed6313787a6&v=4" width="24" alt="Avatar of bwanakweli4ever"> bwanakweli4ever
 			</a><br/>
@@ -9530,7 +9517,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/Daydah">
 				<img src="https://avatars.githubusercontent.com/u/8342864?s=72&u=2e69162d05c7f0e2c7dc9588bc1aa0f4df817c55&v=4" width="24" alt="Avatar of Daydah"> Daydah
@@ -9543,7 +9530,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/KALASA-IVAN">
 				<img src="https://avatars.githubusercontent.com/u/71537690?s=72&u=ccf4ed31c482244bd4ec581668f96bf5228b419f&v=4" width="24" alt="Avatar of KALASA-IVAN"> KALASA-IVAN
@@ -9556,20 +9543,20 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>727</td>
 		<td>
-			<a href="https://github.com/hatfelicien">
-				<img src="https://avatars.githubusercontent.com/u/106772904?s=72&u=db6349d4177d00d41a215bf5a1a4d712d54380ef&v=4" width="24" alt="Avatar of hatfelicien"> hatfelicien
+			<a href="https://github.com/wswapped">
+				<img src="https://avatars.githubusercontent.com/u/20147208?s=72&u=ffab731e0e18e5a34499fe64d6dda5c89e94f61e&v=4" width="24" alt="Avatar of wswapped"> wswapped
 			</a><br/>
-			Hategekimana Felicien Bero
+			wswapped
 		</td>
-		<td>Berosoft </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kigali,Rwanda</td>
+		<td>Kigali, Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/ambroisegithub">
 				<img src="https://avatars.githubusercontent.com/u/107347030?s=72&u=f4206981930e8baeda4ca97ca04d38a6f24db0c0&v=4" width="24" alt="Avatar of ambroisegithub"> ambroisegithub
@@ -9579,6 +9566,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AMBROISEMuhayi3">AMBROISEMuhayi3</a></td>
 		<td>KIGALI</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/hatfelicien">
+				<img src="https://avatars.githubusercontent.com/u/106772904?s=72&u=db6349d4177d00d41a215bf5a1a4d712d54380ef&v=4" width="24" alt="Avatar of hatfelicien"> hatfelicien
+			</a><br/>
+			Hategekimana Felicien Bero
+		</td>
+		<td>Berosoft </td>
+		<td>No Twitter Username</td>
+		<td>Kigali,Rwanda</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -9688,19 +9688,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>738</td>
 		<td>
-			<a href="https://github.com/Mr-Olivier">
-				<img src="https://avatars.githubusercontent.com/u/140494598?s=72&u=cdd204429b3af942b4bd9ed6459f97ca731665c2&v=4" width="24" alt="Avatar of Mr-Olivier"> Mr-Olivier
-			</a><br/>
-			Mr Olivier
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/OIradukund43222">OIradukund43222</a></td>
-		<td>Rwanda</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>739</td>
-		<td>
 			<a href="https://github.com/kawacukennedy">
 				<img src="https://avatars.githubusercontent.com/u/185417315?s=72&v=4" width="24" alt="Avatar of kawacukennedy"> kawacukennedy
 			</a><br/>
@@ -9709,6 +9696,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Arnaud_Kennedy">Arnaud_Kennedy</a></td>
 		<td>Kigali, Rwanda</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
+			<a href="https://github.com/Mr-Olivier">
+				<img src="https://avatars.githubusercontent.com/u/140494598?s=72&u=cdd204429b3af942b4bd9ed6459f97ca731665c2&v=4" width="24" alt="Avatar of Mr-Olivier"> Mr-Olivier
+			</a><br/>
+			Mr Olivier
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/OIradukund43222">OIradukund43222</a></td>
+		<td>Rwanda</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -10364,19 +10364,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>790</td>
 		<td>
-			<a href="https://github.com/Blaise-Shyaka">
-				<img src="https://avatars.githubusercontent.com/u/52489421?s=72&u=98a10d9b9df1211a6f081b5acb8bba36cb38bb3c&v=4" width="24" alt="Avatar of Blaise-Shyaka"> Blaise-Shyaka
-			</a><br/>
-			Blaise Pascal Shyaka
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/blaise_shyaka95">blaise_shyaka95</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>791</td>
-		<td>
 			<a href="https://github.com/katros1">
 				<img src="https://avatars.githubusercontent.com/u/101397608?s=72&u=f23ddf41944e0e2fc84339ce23f37a6f5056a9bb&v=4" width="24" alt="Avatar of katros1"> katros1
 			</a><br/>
@@ -10385,6 +10372,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>791</td>
+		<td>
+			<a href="https://github.com/Blaise-Shyaka">
+				<img src="https://avatars.githubusercontent.com/u/52489421?s=72&u=98a10d9b9df1211a6f081b5acb8bba36cb38bb3c&v=4" width="24" alt="Avatar of Blaise-Shyaka"> Blaise-Shyaka
+			</a><br/>
+			Blaise Pascal Shyaka
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/blaise_shyaka95">blaise_shyaka95</a></td>
+		<td>Kigali, Rwanda</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -10416,19 +10416,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>794</td>
 		<td>
-			<a href="https://github.com/alicepretty">
-				<img src="https://avatars.githubusercontent.com/u/61903976?s=72&u=73c73fd17342a4c9ab808cb4cea3c05408f93c3b&v=4" width="24" alt="Avatar of alicepretty"> alicepretty
-			</a><br/>
-			Muhorakeye Alice
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali City, Rwanda</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>795</td>
-		<td>
 			<a href="https://github.com/mugishaisaie">
 				<img src="https://avatars.githubusercontent.com/u/132471136?s=72&u=ed9b0b02c490720f98a2c37bf46c1fd6afff650b&v=4" width="24" alt="Avatar of mugishaisaie"> mugishaisaie
 			</a><br/>
@@ -10437,6 +10424,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>@webdeveloper </td>
 		<td>No Twitter Username</td>
 		<td>KIgali/Rwqanda</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/ernestonkunzimana">
+				<img src="https://avatars.githubusercontent.com/u/50280217?s=72&u=129980cbfed271538bf7e180c5ca825931153f7f&v=4" width="24" alt="Avatar of ernestonkunzimana"> ernestonkunzimana
+			</a><br/>
+			Ernest Nkunzimana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -10468,19 +10468,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>798</td>
 		<td>
-			<a href="https://github.com/ernestonkunzimana">
-				<img src="https://avatars.githubusercontent.com/u/50280217?s=72&u=129980cbfed271538bf7e180c5ca825931153f7f&v=4" width="24" alt="Avatar of ernestonkunzimana"> ernestonkunzimana
-			</a><br/>
-			Ernest Nkunzimana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>799</td>
-		<td>
 			<a href="https://github.com/jado-jeady">
 				<img src="https://avatars.githubusercontent.com/u/81268636?s=72&u=af607ceea6e0e6218f116b567fcfde43d6f0d7b9&v=4" width="24" alt="Avatar of jado-jeady"> jado-jeady
 			</a><br/>
@@ -10489,6 +10476,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/De_jeady">De_jeady</a></td>
 		<td>Kigali-Rwanda </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>799</td>
+		<td>
+			<a href="https://github.com/alicepretty">
+				<img src="https://avatars.githubusercontent.com/u/61903976?s=72&u=73c73fd17342a4c9ab808cb4cea3c05408f93c3b&v=4" width="24" alt="Avatar of alicepretty"> alicepretty
+			</a><br/>
+			Muhorakeye Alice
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali City, Rwanda</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -10871,19 +10871,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>829</td>
 		<td>
-			<a href="https://github.com/minega25">
-				<img src="https://avatars.githubusercontent.com/u/31512000?s=72&u=ddcf53208b4f8412bb96e216177a5737faa9f424&v=4" width="24" alt="Avatar of minega25"> minega25
-			</a><br/>
-			Minega Shyaka Patrick
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda Kigali </td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>830</td>
-		<td>
 			<a href="https://github.com/Elissa100">
 				<img src="https://avatars.githubusercontent.com/u/123935530?s=72&u=598c6facc8facc32b38527bf0d6391c826c05787&v=4" width="24" alt="Avatar of Elissa100"> Elissa100
 			</a><br/>
@@ -10892,6 +10879,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>830</td>
+		<td>
+			<a href="https://github.com/minega25">
+				<img src="https://avatars.githubusercontent.com/u/31512000?s=72&u=ddcf53208b4f8412bb96e216177a5737faa9f424&v=4" width="24" alt="Avatar of minega25"> minega25
+			</a><br/>
+			Minega Shyaka Patrick
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rwanda Kigali </td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -10936,19 +10936,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>834</td>
 		<td>
-			<a href="https://github.com/tuyishimejohnson">
-				<img src="https://avatars.githubusercontent.com/u/116555479?s=72&u=c69368126a5d9ffa4b7048ec0b38188dbdefcf4a&v=4" width="24" alt="Avatar of tuyishimejohnson"> tuyishimejohnson
-			</a><br/>
-			Johnson Noe Tuyishime
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>KN 22 St Kigali, Rwanda </td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>835</td>
-		<td>
 			<a href="https://github.com/dveloper-Elisa">
 				<img src="https://avatars.githubusercontent.com/u/114925665?s=72&u=abb219e5a3e782e73c0cb4e207706e66e80255a2&v=4" width="24" alt="Avatar of dveloper-Elisa"> dveloper-Elisa
 			</a><br/>
@@ -10960,7 +10947,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/amiparadis250">
 				<img src="https://avatars.githubusercontent.com/u/141851169?s=72&u=96e46a79dfd3b75f83cf00e6b384325ababe36ae&v=4" width="24" alt="Avatar of amiparadis250"> amiparadis250
@@ -10970,6 +10957,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Posinnove Teck </td>
 		<td>No Twitter Username</td>
 		<td>Kigali , Rwanda</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/tuyishimejohnson">
+				<img src="https://avatars.githubusercontent.com/u/116555479?s=72&u=c69368126a5d9ffa4b7048ec0b38188dbdefcf4a&v=4" width="24" alt="Avatar of tuyishimejohnson"> tuyishimejohnson
+			</a><br/>
+			Johnson Noe Tuyishime
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>KN 22 St Kigali, Rwanda </td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11053,19 +11053,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>843</td>
 		<td>
-			<a href="https://github.com/MugiranezaJ">
-				<img src="https://avatars.githubusercontent.com/u/35463913?s=72&u=3c35dcb7a9067598d32d91adb71039be564f32a3&v=4" width="24" alt="Avatar of MugiranezaJ"> MugiranezaJ
-			</a><br/>
-			Mugiraneza Jackson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>844</td>
-		<td>
 			<a href="https://github.com/hugues0">
 				<img src="https://avatars.githubusercontent.com/u/43604226?s=72&u=9366733a239ea84a571eaf8e15c7d338d1b9407b&v=4" width="24" alt="Avatar of hugues0"> hugues0
 			</a><br/>
@@ -11074,6 +11061,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iAmHuguesNtwari">iAmHuguesNtwari</a></td>
 		<td>Kigali - Rwanda</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>844</td>
+		<td>
+			<a href="https://github.com/MugiranezaJ">
+				<img src="https://avatars.githubusercontent.com/u/35463913?s=72&u=3c35dcb7a9067598d32d91adb71039be564f32a3&v=4" width="24" alt="Avatar of MugiranezaJ"> MugiranezaJ
+			</a><br/>
+			Mugiraneza Jackson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11183,19 +11183,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>853</td>
 		<td>
-			<a href="https://github.com/PhilippeTsongo">
-				<img src="https://avatars.githubusercontent.com/u/97092968?s=72&u=0975147f35c7c27ba3973499369ab79865761e4d&v=4" width="24" alt="Avatar of PhilippeTsongo"> PhilippeTsongo
-			</a><br/>
-			Philippe Tsongo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/philippetsongo">philippetsongo</a></td>
-		<td>KN 123 St Kigali </td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>854</td>
-		<td>
 			<a href="https://github.com/ishimweghislain">
 				<img src="https://avatars.githubusercontent.com/u/141062631?s=72&u=f3b6adbe045479a70835382c048ae3ff7e5c8af7&v=4" width="24" alt="Avatar of ishimweghislain"> ishimweghislain
 			</a><br/>
@@ -11204,6 +11191,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rwanda, Kamonyi</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/PhilippeTsongo">
+				<img src="https://avatars.githubusercontent.com/u/97092968?s=72&u=0975147f35c7c27ba3973499369ab79865761e4d&v=4" width="24" alt="Avatar of PhilippeTsongo"> PhilippeTsongo
+			</a><br/>
+			Philippe Tsongo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/philippetsongo">philippetsongo</a></td>
+		<td>KN 123 St Kigali </td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11222,19 +11222,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>856</td>
 		<td>
-			<a href="https://github.com/EliseJulio">
-				<img src="https://avatars.githubusercontent.com/u/169044700?s=72&v=4" width="24" alt="Avatar of EliseJulio"> EliseJulio
-			</a><br/>
-			Elise Julio Hakizimana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>857</td>
-		<td>
 			<a href="https://github.com/DavidkingMazimpaka">
 				<img src="https://avatars.githubusercontent.com/u/61178976?s=72&u=72b98e8e6db637df9cea47ed93d99c4dafda237c&v=4" width="24" alt="Avatar of DavidkingMazimpaka"> DavidkingMazimpaka
 			</a><br/>
@@ -11246,7 +11233,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/divin-d1">
 				<img src="https://avatars.githubusercontent.com/u/182405131?s=72&u=218ffb6bf85bd1e597655c952f22b2bc6c3103e3&v=4" width="24" alt="Avatar of divin-d1"> divin-d1
@@ -11256,6 +11243,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Ngwino </td>
 		<td>No Twitter Username</td>
 		<td>Rwanda</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/EliseJulio">
+				<img src="https://avatars.githubusercontent.com/u/169044700?s=72&v=4" width="24" alt="Avatar of EliseJulio"> EliseJulio
+			</a><br/>
+			Elise Julio Hakizimana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11300,6 +11300,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>862</td>
 		<td>
+			<a href="https://github.com/T2Wil">
+				<img src="https://avatars.githubusercontent.com/u/30593186?s=72&u=f221c460621dd4fdc02e4bba3761aad64e147726&v=4" width="24" alt="Avatar of T2Wil"> T2Wil
+			</a><br/>
+			William Ishimwe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>rwanda</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
 			<a href="https://github.com/Nshizirungurw">
 				<img src="https://avatars.githubusercontent.com/u/171362658?s=72&u=df5fedc8da3445c9c98c9114d97342b4ca79c5c9&v=4" width="24" alt="Avatar of Nshizirungurw"> Nshizirungurw
 			</a><br/>
@@ -11311,7 +11324,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/Nelson-Proffession">
 				<img src="https://avatars.githubusercontent.com/u/195411935?s=72&u=464f501c26fb5c4ed76ccedf12aa6261153e40ca&v=4" width="24" alt="Avatar of Nelson-Proffession"> Nelson-Proffession
@@ -11321,19 +11334,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Tabito </td>
 		<td>No Twitter Username</td>
 		<td>Kigali - RWANDA</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>864</td>
-		<td>
-			<a href="https://github.com/T2Wil">
-				<img src="https://avatars.githubusercontent.com/u/30593186?s=72&u=f221c460621dd4fdc02e4bba3761aad64e147726&v=4" width="24" alt="Avatar of T2Wil"> T2Wil
-			</a><br/>
-			William Ishimwe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>rwanda</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -11742,19 +11742,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>896</td>
 		<td>
-			<a href="https://github.com/zannujulius">
-				<img src="https://avatars.githubusercontent.com/u/53622002?s=72&u=e8ca7bd97d0e29ca182492ce98aac22d588c95c8&v=4" width="24" alt="Avatar of zannujulius"> zannujulius
-			</a><br/>
-			Zannu Julius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda.</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>897</td>
-		<td>
 			<a href="https://github.com/GarrixA">
 				<img src="https://avatars.githubusercontent.com/u/117345643?s=72&u=4895b949919784d1bb1bf783469d6527824a12e0&v=4" width="24" alt="Avatar of GarrixA"> GarrixA
 			</a><br/>
@@ -11763,6 +11750,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>@klab-rwanda @atlp-rwanda </td>
 		<td>No Twitter Username</td>
 		<td>Kigali-Rwanda</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>897</td>
+		<td>
+			<a href="https://github.com/zannujulius">
+				<img src="https://avatars.githubusercontent.com/u/53622002?s=72&u=e8ca7bd97d0e29ca182492ce98aac22d588c95c8&v=4" width="24" alt="Avatar of zannujulius"> zannujulius
+			</a><br/>
+			Zannu Julius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda.</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -11833,19 +11833,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>903</td>
 		<td>
-			<a href="https://github.com/tox-in">
-				<img src="https://avatars.githubusercontent.com/u/122396711?s=72&v=4" width="24" alt="Avatar of tox-in"> tox-in
-			</a><br/>
-			tony herve
-		</td>
-		<td>Sszone Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Butare, Rwanda</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>904</td>
-		<td>
 			<a href="https://github.com/Nkemakolamuko">
 				<img src="https://avatars.githubusercontent.com/u/101292204?s=72&u=d501b066b453885e156385f827f4ff2aa7ada5a7&v=4" width="24" alt="Avatar of Nkemakolamuko"> Nkemakolamuko
 			</a><br/>
@@ -11854,6 +11841,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>@tiidelab-fellowship  </td>
 		<td><a href="https://twitter.com/NwekeVincent14">NwekeVincent14</a></td>
 		<td>Rwanda</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>904</td>
+		<td>
+			<a href="https://github.com/tox-in">
+				<img src="https://avatars.githubusercontent.com/u/122396711?s=72&v=4" width="24" alt="Avatar of tox-in"> tox-in
+			</a><br/>
+			tony herve
+		</td>
+		<td>Sszone Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Butare, Rwanda</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -12379,19 +12379,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>945</td>
 		<td>
-			<a href="https://github.com/Ugizwenayo-Divine">
-				<img src="https://avatars.githubusercontent.com/u/52660542?s=72&u=d808783c541fbbfc75c4bb50968c0b57b53b5351&v=4" width="24" alt="Avatar of Ugizwenayo-Divine"> Ugizwenayo-Divine
-			</a><br/>
-			UGIZWENAYO Divine
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rwanda</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>946</td>
-		<td>
 			<a href="https://github.com/Vicia0">
 				<img src="https://avatars.githubusercontent.com/u/85825175?s=72&u=d972122e51ca6bc2630c3b32fd15fc75891485e0&v=4" width="24" alt="Avatar of Vicia0"> Vicia0
 			</a><br/>
@@ -12400,6 +12387,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali,Rwanda</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>946</td>
+		<td>
+			<a href="https://github.com/Ugizwenayo-Divine">
+				<img src="https://avatars.githubusercontent.com/u/52660542?s=72&u=d808783c541fbbfc75c4bb50968c0b57b53b5351&v=4" width="24" alt="Avatar of Ugizwenayo-Divine"> Ugizwenayo-Divine
+			</a><br/>
+			UGIZWENAYO Divine
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rwanda</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -12522,19 +12522,6 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 	<tr>
 		<td>956</td>
 		<td>
-			<a href="https://github.com/Kibogora">
-				<img src="https://avatars.githubusercontent.com/u/110689752?s=72&u=9f00442e30671715ec2cc42468c23c35088791f5&v=4" width="24" alt="Avatar of Kibogora"> Kibogora
-			</a><br/>
-			Kibogora Nsoro
-		</td>
-		<td>Brainink </td>
-		<td><a href="https://twitter.com/BoldNsoro">BoldNsoro</a></td>
-		<td>Kigali</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>957</td>
-		<td>
 			<a href="https://github.com/Themarsguy">
 				<img src="https://avatars.githubusercontent.com/u/104773211?s=72&u=81ac1964d3f75e1df311079030fb0721df6a2b92&v=4" width="24" alt="Avatar of Themarsguy"> Themarsguy
 			</a><br/>
@@ -12546,7 +12533,7 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/Dev-nkundineza">
 				<img src="https://avatars.githubusercontent.com/u/79087014?s=72&u=398ffc24034d7efd477c4e0f31961dcde00fca50&v=4" width="24" alt="Avatar of Dev-nkundineza"> Dev-nkundineza
@@ -12556,6 +12543,19 @@ There are `964 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kigali - Rwanda</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>958</td>
+		<td>
+			<a href="https://github.com/Kibogora">
+				<img src="https://avatars.githubusercontent.com/u/110689752?s=72&u=9f00442e30671715ec2cc42468c23c35088791f5&v=4" width="24" alt="Avatar of Kibogora"> Kibogora
+			</a><br/>
+			Kibogora Nsoro
+		</td>
+		<td>Brainink </td>
+		<td><a href="https://twitter.com/BoldNsoro">BoldNsoro</a></td>
+		<td>Kigali</td>
 		<td>10</td>
 	</tr>
 	<tr>
