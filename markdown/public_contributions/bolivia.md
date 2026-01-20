@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` by users in Bolivia on `2026/1/20 12:25 AM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` by users in Bolivia on `2026/1/20 1:07 AM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Fairese Technologies </td>
 		<td><a href="https://twitter.com/AndyIbanezK">AndyIbanezK</a></td>
 		<td>Bolivia</td>
-		<td>10431</td>
+		<td>10433</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz, Mexico</td>
-		<td>1633</td>
+		<td>1637</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1329,19 +1329,6 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>95</td>
 		<td>
-			<a href="https://github.com/rafael-abuawad">
-				<img src="https://avatars.githubusercontent.com/u/16441300?s=72&u=29f93b21bc299f87468c97a86fcd4ef241fa422a&v=4" width="24" alt="Avatar of rafael-abuawad"> rafael-abuawad
-			</a><br/>
-			Rafael Abuawad
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rabuawad_">rabuawad_</a></td>
-		<td>Bolivia</td>
-		<td>247</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
 			<a href="https://github.com/henrytaby">
 				<img src="https://avatars.githubusercontent.com/u/410918?s=72&u=6c56c2b4e157990fcfe3529e7c4dbb3bfff06b75&v=4" width="24" alt="Avatar of henrytaby"> henrytaby
 			</a><br/>
@@ -1349,6 +1336,19 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/HenryTaby">HenryTaby</a></td>
+		<td>Bolivia</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/rafael-abuawad">
+				<img src="https://avatars.githubusercontent.com/u/16441300?s=72&u=29f93b21bc299f87468c97a86fcd4ef241fa422a&v=4" width="24" alt="Avatar of rafael-abuawad"> rafael-abuawad
+			</a><br/>
+			Rafael Abuawad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rabuawad_">rabuawad_</a></td>
 		<td>Bolivia</td>
 		<td>247</td>
 	</tr>
@@ -1459,6 +1459,19 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>105</td>
 		<td>
+			<a href="https://github.com/zzebnell">
+				<img src="https://avatars.githubusercontent.com/u/127797568?s=72&v=4" width="24" alt="Avatar of zzebnell"> zzebnell
+			</a><br/>
+			Leonel Zeballos Aldunate
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
 			<a href="https://github.com/Odig0">
 				<img src="https://avatars.githubusercontent.com/u/78091956?s=72&u=84e7a5ca0cd50ce6059a385c8b2cb9fa805e42a2&v=4" width="24" alt="Avatar of Odig0"> Odig0
 			</a><br/>
@@ -1470,7 +1483,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/KievAndres">
 				<img src="https://avatars.githubusercontent.com/u/28435811?s=72&u=d18fe790c76532d9eae14690bbe326278baf92c6&v=4" width="24" alt="Avatar of KievAndres"> KievAndres
@@ -1481,19 +1494,6 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td><a href="https://twitter.com/KievAndresDev">KievAndresDev</a></td>
 		<td>La Paz, Bolivia</td>
 		<td>223</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/zzebnell">
-				<img src="https://avatars.githubusercontent.com/u/127797568?s=72&v=4" width="24" alt="Avatar of zzebnell"> zzebnell
-			</a><br/>
-			Leonel Zeballos Aldunate
-		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>221</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1810,6 +1810,19 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>132</td>
 		<td>
+			<a href="https://github.com/fabinnerself">
+				<img src="https://avatars.githubusercontent.com/u/8484799?s=72&u=1495ed1c8a9582225385487718c37175dff1a778&v=4" width="24" alt="Avatar of fabinnerself"> fabinnerself
+			</a><br/>
+			Favian Medina
+		</td>
+		<td>Soletud Aeturnus </td>
+		<td><a href="https://twitter.com/favinnerself">favinnerself</a></td>
+		<td>La Paz Bolivia South America</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
 			<a href="https://github.com/jhasmany-fernandez">
 				<img src="https://avatars.githubusercontent.com/u/36086876?s=72&u=947eb3d15b1c6690eaacc13d22d7b80c725d94b1&v=4" width="24" alt="Avatar of jhasmany-fernandez"> jhasmany-fernandez
 			</a><br/>
@@ -1821,7 +1834,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/davidmanueldev">
 				<img src="https://avatars.githubusercontent.com/u/129340427?s=72&u=c552dd86ed7d03cb4a4e76cd35f49f0680db3ad5&v=4" width="24" alt="Avatar of davidmanueldev"> davidmanueldev
@@ -1831,19 +1844,6 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Unifranz </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/fabinnerself">
-				<img src="https://avatars.githubusercontent.com/u/8484799?s=72&u=1495ed1c8a9582225385487718c37175dff1a778&v=4" width="24" alt="Avatar of fabinnerself"> fabinnerself
-			</a><br/>
-			Favian Medina
-		</td>
-		<td>Soletud Aeturnus </td>
-		<td><a href="https://twitter.com/favinnerself">favinnerself</a></td>
-		<td>La Paz Bolivia South America</td>
 		<td>181</td>
 	</tr>
 	<tr>
@@ -3006,19 +3006,6 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 	<tr>
 		<td>224</td>
 		<td>
-			<a href="https://github.com/GatoJustiniano">
-				<img src="https://avatars.githubusercontent.com/u/27466057?s=72&u=8f0e1dee8729fb6479366e3072c736ea31ff6a7a&v=4" width="24" alt="Avatar of GatoJustiniano"> GatoJustiniano
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>225</td>
-		<td>
 			<a href="https://github.com/gastonnina">
 				<img src="https://avatars.githubusercontent.com/u/360484?s=72&v=4" width="24" alt="Avatar of gastonnina"> gastonnina
 			</a><br/>
@@ -3030,7 +3017,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/MiguelT18">
 				<img src="https://avatars.githubusercontent.com/u/64659722?s=72&u=373d09d4469df4d70723b8ca98c7bc1515d94e3b&v=4" width="24" alt="Avatar of MiguelT18"> MiguelT18
@@ -3043,7 +3030,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/alphaonex86">
 				<img src="https://avatars.githubusercontent.com/u/778581?s=72&v=4" width="24" alt="Avatar of alphaonex86"> alphaonex86
@@ -3056,7 +3043,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/emmi-lili">
 				<img src="https://avatars.githubusercontent.com/u/19696305?s=72&u=21e6b245a7b4ff222d823e707f52e523c1ee03ce&v=4" width="24" alt="Avatar of emmi-lili"> emmi-lili
@@ -3069,7 +3056,7 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/jonatan-esprella-lopez">
 				<img src="https://avatars.githubusercontent.com/u/93718044?s=72&u=758bdd4cf09762adc94048016ab3e4259e35d2fb&v=4" width="24" alt="Avatar of jonatan-esprella-lopez"> jonatan-esprella-lopez
@@ -3079,6 +3066,19 @@ There are `967 users`  in Bolivia. You need at least `4 followers` to be on this
 		<td>Fitness Group International </td>
 		<td><a href="https://twitter.com/EsprellaJonatan">EsprellaJonatan</a></td>
 		<td>Bolivia - Cochabamba</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/GatoJustiniano">
+				<img src="https://avatars.githubusercontent.com/u/27466057?s=72&u=8f0e1dee8729fb6479366e3072c736ea31ff6a7a&v=4" width="24" alt="Avatar of GatoJustiniano"> GatoJustiniano
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>98</td>
 	</tr>
 	<tr>
