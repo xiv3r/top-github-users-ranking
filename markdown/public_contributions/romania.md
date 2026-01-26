@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` by users in Romania on `2026/1/26 6:37 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` by users in Romania on `2026/1/26 6:59 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>Gashawk </td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>52406</td>
+		<td>52407</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>Esevo Tech </td>
 		<td>No Twitter Username</td>
 		<td>Sibiu, Romania</td>
-		<td>14109</td>
+		<td>14112</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>Digi Romania </td>
 		<td><a href="https://twitter.com/MihaiCristianC">MihaiCristianC</a></td>
 		<td>Romania, Bucharest</td>
-		<td>7988</td>
+		<td>7991</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -635,7 +635,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>@matyrobbrtmods @neoforged @themoddinginquisiti <br/></td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>1025</td>
+		<td>1026</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1298,7 +1298,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bucharest</td>
-		<td>537</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -2026,7 +2026,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>Hypersistence </td>
 		<td><a href="https://twitter.com/vlad_mihalcea">vlad_mihalcea</a></td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>293</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -3404,7 +3404,7 @@ There are `960 users`  in Romania. You need at least `26 followers` to be on thi
 		<td>Nexterp-romania </td>
 		<td>No Twitter Username</td>
 		<td>Peciu Nou, Romania</td>
-		<td>133</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>255</td>
