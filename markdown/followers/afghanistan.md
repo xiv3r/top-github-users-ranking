@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" alt="Afghanistan">
 </a>
 
-The `number of followers` of users in Afghanistan on `2026/1/27 5:31 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
+The `number of followers` of users in Afghanistan on `2026/1/27 5:39 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -4254,19 +4254,6 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 	<tr>
 		<td>320</td>
 		<td>
-			<a href="https://github.com/AhmadWahebArifi">
-				<img src="https://avatars.githubusercontent.com/u/207655037?s=72&u=95a34239b6771a76fd5cef55c559f02322506d74&v=4" width="24" alt="Avatar of AhmadWahebArifi"> AhmadWahebArifi
-			</a><br/>
-			Ahmad Waheb Arifi
-		</td>
-		<td>Kpu Development Team </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
 			<a href="https://github.com/WiyarAhmadZai">
 				<img src="https://avatars.githubusercontent.com/u/175953290?s=72&u=833a5cd867297757a394e3f32d46ac5dda067faf&v=4" width="24" alt="Avatar of WiyarAhmadZai"> WiyarAhmadZai
 			</a><br/>
@@ -4275,6 +4262,19 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>Wiyar Companies  </td>
 		<td>No Twitter Username</td>
 		<td>Kabul khoshal khan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/AhmadWahebArifi">
+				<img src="https://avatars.githubusercontent.com/u/207655037?s=72&u=95a34239b6771a76fd5cef55c559f02322506d74&v=4" width="24" alt="Avatar of AhmadWahebArifi"> AhmadWahebArifi
+			</a><br/>
+			Ahmad Waheb Arifi
+		</td>
+		<td>Kpu Development Team </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
 		<td>11</td>
 	</tr>
 	<tr>

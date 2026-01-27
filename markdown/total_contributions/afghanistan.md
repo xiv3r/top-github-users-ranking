@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" alt="Afghanistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Afghanistan on `2026/1/27 5:31 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
+The `public contributions` and `private contributions` by users in Afghanistan on `2026/1/27 5:39 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -145,7 +145,7 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>93</td>
-		<td>235409</td>
+		<td>235417</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -424,8 +424,8 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>Undp </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>261</td>
-		<td>2914</td>
+		<td>262</td>
+		<td>2915</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -472,6 +472,20 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/WiyarAhmadZai">
+				<img src="https://avatars.githubusercontent.com/u/175953290?s=72&u=833a5cd867297757a394e3f32d46ac5dda067faf&v=4" width="24" alt="Avatar of WiyarAhmadZai"> WiyarAhmadZai
+			</a><br/>
+			Muhammad Hakeem Wiyar
+		</td>
+		<td>Wiyar Companies  </td>
+		<td>No Twitter Username</td>
+		<td>Kabul khoshal khan</td>
+		<td>1588</td>
+		<td>2740</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/AhmadWahebArifi">
 				<img src="https://avatars.githubusercontent.com/u/207655037?s=72&u=95a34239b6771a76fd5cef55c559f02322506d74&v=4" width="24" alt="Avatar of AhmadWahebArifi"> AhmadWahebArifi
 			</a><br/>
@@ -482,20 +496,6 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>Kabul</td>
 		<td>925</td>
 		<td>2738</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/WiyarAhmadZai">
-				<img src="https://avatars.githubusercontent.com/u/175953290?s=72&u=833a5cd867297757a394e3f32d46ac5dda067faf&v=4" width="24" alt="Avatar of WiyarAhmadZai"> WiyarAhmadZai
-			</a><br/>
-			Muhammad Hakeem Wiyar
-		</td>
-		<td>Wiyar Companies  </td>
-		<td>No Twitter Username</td>
-		<td>Kabul khoshal khan</td>
-		<td>1583</td>
-		<td>2735</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1013,7 +1013,7 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td><a href="https://twitter.com/Najib_Jafari_">Najib_Jafari_</a></td>
 		<td>kabul Afghanistan</td>
 		<td>118</td>
-		<td>1495</td>
+		<td>1496</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1881,7 +1881,7 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td><a href="https://twitter.com/NasirAriaee">NasirAriaee</a></td>
 		<td>Kabul Afghanistan</td>
 		<td>1</td>
-		<td>800</td>
+		<td>803</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -2833,7 +2833,7 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>3</td>
-		<td>413</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -4218,8 +4218,8 @@ There are `929 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>herat-Afghanistan</td>
-		<td>148</td>
-		<td>148</td>
+		<td>147</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>295</td>
