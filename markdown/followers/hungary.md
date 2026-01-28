@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `number of followers` of users in Hungary on `2026/1/28 6:41 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `number of followers` of users in Hungary on `2026/1/28 7:17 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1238,6 +1238,19 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/vmiklos">
+				<img src="https://avatars.githubusercontent.com/u/13838?s=72&v=4" width="24" alt="Avatar of vmiklos"> vmiklos
+			</a><br/>
+			Miklos Vajna
+		</td>
+		<td>Collabora Productivity </td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/kissgyorgy">
 				<img src="https://avatars.githubusercontent.com/u/244203?s=72&u=38aef62f68b2b39568d39f7322cac1b55837f8b7&v=4" width="24" alt="Avatar of kissgyorgy"> kissgyorgy
 			</a><br/>
@@ -1247,19 +1260,6 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>130</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/vmiklos">
-				<img src="https://avatars.githubusercontent.com/u/13838?s=72&v=4" width="24" alt="Avatar of vmiklos"> vmiklos
-			</a><br/>
-			Miklos Vajna
-		</td>
-		<td>Collabora Productivity </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>129</td>
 	</tr>
 	<tr>
 		<td>90</td>

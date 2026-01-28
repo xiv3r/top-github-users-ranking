@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2026/1/28 6:41 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2026/1/28 7:17 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@flatwhite  </td>
 		<td>No Twitter Username</td>
 		<td>Grenaa, Denmark || Szeged, Hungary</td>
-		<td>3366</td>
+		<td>3368</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -219,7 +219,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td> Epam Systems </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>2816</td>
+		<td>2817</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/szkiba">szkiba</a></td>
 		<td>Biatorbágy, Hungary</td>
-		<td>2377</td>
+		<td>2379</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -323,7 +323,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@sparecores / @rxstudioinc </td>
 		<td><a href="https://twitter.com/daroczig">daroczig</a></td>
 		<td>Los Angeles & Hungary</td>
-		<td>1429</td>
+		<td>1430</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -544,7 +544,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>Grafana </td>
 		<td><a href="https://twitter.com/krajorama">krajorama</a></td>
 		<td>Budapest, Hungary</td>
-		<td>996</td>
+		<td>997</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -947,7 +947,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>Front-end @exercism </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>630</td>
+		<td>631</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1441,7 +1441,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Szeged, Hungary</td>
-		<td>463</td>
+		<td>464</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1927,19 +1927,6 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/ferenci-tamas">
-				<img src="https://avatars.githubusercontent.com/u/25476790?s=72&u=7e3a5f92d1427527f13a2aa2a2207f1ca6b84dfc&v=4" width="24" alt="Avatar of ferenci-tamas"> ferenci-tamas
-			</a><br/>
-			Tamás Ferenci
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>337</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
 			<a href="https://github.com/TwoDCube">
 				<img src="https://avatars.githubusercontent.com/u/14909670?s=72&u=dcf030e981981ccdb976715e2832aa2e65504bea&v=4" width="24" alt="Avatar of TwoDCube"> TwoDCube
 			</a><br/>
@@ -1948,6 +1935,19 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>@ibm </td>
 		<td>No Twitter Username</td>
 		<td>Budapest,Hungary</td>
+		<td>338</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/ferenci-tamas">
+				<img src="https://avatars.githubusercontent.com/u/25476790?s=72&u=7e3a5f92d1427527f13a2aa2a2207f1ca6b84dfc&v=4" width="24" alt="Avatar of ferenci-tamas"> ferenci-tamas
+			</a><br/>
+			Tamás Ferenci
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
 		<td>337</td>
 	</tr>
 	<tr>
@@ -5341,7 +5341,7 @@ There are `952 users`  in Hungary. You need at least `20 followers` to be on thi
 		<td>- </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>53</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>404</td>
