@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `number of followers` of users in Jordan on `2026/1/29 5:06 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `number of followers` of users in Jordan on `2026/1/29 6:25 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `974 users`  in Jordan. You need at least `9 followers` to be on this 
 		<td>Shadow Hacker </td>
 		<td><a href="https://twitter.com/ShadowHackrs">ShadowHackrs</a></td>
 		<td>jordan</td>
-		<td>399</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -8895,19 +8895,6 @@ There are `974 users`  in Jordan. You need at least `9 followers` to be on this 
 	<tr>
 		<td>677</td>
 		<td>
-			<a href="https://github.com/AyoubDroubi">
-				<img src="https://avatars.githubusercontent.com/u/169090888?s=72&u=a115d404b1d6f2986713a58e460904832f546669&v=4" width="24" alt="Avatar of AyoubDroubi"> AyoubDroubi
-			</a><br/>
-			Ayoub Droubi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jordan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>678</td>
-		<td>
 			<a href="https://github.com/feras98nawafleh">
 				<img src="https://avatars.githubusercontent.com/u/85874246?s=72&u=cd7e689d99b0ee19306ba6ea782bc9c638d9aaef&v=4" width="24" alt="Avatar of feras98nawafleh"> feras98nawafleh
 			</a><br/>
@@ -8916,6 +8903,19 @@ There are `974 users`  in Jordan. You need at least `9 followers` to be on this 
 		<td>Intalio </td>
 		<td><a href="https://twitter.com/ferasmaldini">ferasmaldini</a></td>
 		<td>Amman</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/AyoubDroubi">
+				<img src="https://avatars.githubusercontent.com/u/169090888?s=72&u=a115d404b1d6f2986713a58e460904832f546669&v=4" width="24" alt="Avatar of AyoubDroubi"> AyoubDroubi
+			</a><br/>
+			Ayoub Droubi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jordan</td>
 		<td>13</td>
 	</tr>
 	<tr>
