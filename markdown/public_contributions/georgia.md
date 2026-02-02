@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` by users in Georgia on `2026/2/2 11:14 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` by users in Georgia on `2026/2/2 11:25 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi</td>
-		<td>3302</td>
+		<td>3303</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1706,19 +1706,6 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/wizardengineer">
-				<img src="https://avatars.githubusercontent.com/u/61852278?s=72&u=31b55e84ce67cc1627267ca98fe7354687f44839&v=4" width="24" alt="Avatar of wizardengineer"> wizardengineer
-			</a><br/>
-			Julius Alexandre
-		</td>
-		<td>@trailofbits </td>
-		<td>No Twitter Username</td>
-		<td>Georgia, USA</td>
-		<td>334</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
 			<a href="https://github.com/haganbmj">
 				<img src="https://avatars.githubusercontent.com/u/15820761?s=72&v=4" width="24" alt="Avatar of haganbmj"> haganbmj
 			</a><br/>
@@ -1727,6 +1714,19 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td>Optimizely </td>
 		<td><a href="https://twitter.com/haganbmj">haganbmj</a></td>
 		<td>Georgia, United States</td>
+		<td>335</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/wizardengineer">
+				<img src="https://avatars.githubusercontent.com/u/61852278?s=72&u=31b55e84ce67cc1627267ca98fe7354687f44839&v=4" width="24" alt="Avatar of wizardengineer"> wizardengineer
+			</a><br/>
+			Julius Alexandre
+		</td>
+		<td>@trailofbits </td>
+		<td>No Twitter Username</td>
+		<td>Georgia, USA</td>
 		<td>334</td>
 	</tr>
 	<tr>

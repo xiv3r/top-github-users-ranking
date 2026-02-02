@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` and `private contributions` by users in Georgia on `2026/2/2 11:14 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` and `private contributions` by users in Georgia on `2026/2/2 11:25 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -410,8 +410,8 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi</td>
-		<td>3302</td>
-		<td>3321</td>
+		<td>3303</td>
+		<td>3322</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -481,7 +481,7 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td><a href="https://twitter.com/thestonechat">thestonechat</a></td>
 		<td>Georgia</td>
 		<td>0</td>
-		<td>3177</td>
+		<td>3178</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -2314,8 +2314,8 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td>Optimizely </td>
 		<td><a href="https://twitter.com/haganbmj">haganbmj</a></td>
 		<td>Georgia, United States</td>
-		<td>334</td>
-		<td>1115</td>
+		<td>335</td>
+		<td>1116</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -4541,7 +4541,7 @@ There are `964 users`  in Georgia. You need at least `20 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia</td>
 		<td>22</td>
-		<td>443</td>
+		<td>444</td>
 	</tr>
 	<tr>
 		<td>318</td>
