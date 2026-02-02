@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `number of followers` of users in Finland on `2026/2/2 4:11 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `number of followers` of users in Finland on `2026/2/2 4:44 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `924 users`  in Finland. You need at least `51 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Asabeneh">Asabeneh</a></td>
 		<td>Helsinki, Finland</td>
-		<td>20710</td>
+		<td>20713</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -7210,7 +7210,7 @@ There are `924 users`  in Finland. You need at least `51 followers` to be on thi
 			</a><br/>
 			Hakan Aktas
 		</td>
-		<td>@smartbnb </td>
+		<td>@jobilla  </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>73</td>
