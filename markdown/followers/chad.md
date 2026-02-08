@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2026/2/1 12:27 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2026/2/8 10:56 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'djamena</td>
-		<td>38</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1654,10 +1654,10 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>120</td>
 		<td>
-			<a href="https://github.com/orijna">
-				<img src="https://avatars.githubusercontent.com/u/68434054?s=72&u=cfd975b493bb79b01f5136f9a1fb80c96b815875&v=4" width="24" alt="Avatar of orijna"> orijna
+			<a href="https://github.com/1KadenDev">
+				<img src="https://avatars.githubusercontent.com/u/155135431?s=72&u=1da8a7245cfdf40ffc21594581376f2139bea9b8&v=4" width="24" alt="Avatar of 1KadenDev"> 1KadenDev
 			</a><br/>
-			No Name
+			Kaden
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1667,10 +1667,10 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/1KadenDev">
-				<img src="https://avatars.githubusercontent.com/u/155135431?s=72&u=1da8a7245cfdf40ffc21594581376f2139bea9b8&v=4" width="24" alt="Avatar of 1KadenDev"> 1KadenDev
+			<a href="https://github.com/orijna">
+				<img src="https://avatars.githubusercontent.com/u/68434054?s=72&u=cfd975b493bb79b01f5136f9a1fb80c96b815875&v=4" width="24" alt="Avatar of orijna"> orijna
 			</a><br/>
-			Kaden
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>

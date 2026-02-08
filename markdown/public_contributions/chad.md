@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2026/2/1 12:27 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2026/2/8 10:56 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>601</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>294</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -211,19 +211,6 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/malachieborohoul">
-				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
-			</a><br/>
-			BOROHOUL Soguelni Malachie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
-		<td>Chad</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
 			<a href="https://github.com/SanaaBH7">
 				<img src="https://avatars.githubusercontent.com/u/228265386?s=72&u=52f97957224f24b4eeb70142ea3464c8ec6f600d&v=4" width="24" alt="Avatar of SanaaBH7"> SanaaBH7
 			</a><br/>
@@ -235,7 +222,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/DevItnene">
 				<img src="https://avatars.githubusercontent.com/u/218762201?s=72&u=0e7ef438cee1fc0f3fe6bfbe567ea46bbb589dab&v=4" width="24" alt="Avatar of DevItnene"> DevItnene
@@ -248,20 +235,20 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
-			<a href="https://github.com/OneMusty">
-				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
+			<a href="https://github.com/malachieborohoul">
+				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
 			</a><br/>
-			OneMusty
+			BOROHOUL Soguelni Malachie
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
 		<td>Chad</td>
-		<td>37</td>
+		<td>36</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/Aingo2003">
 				<img src="https://avatars.githubusercontent.com/u/216448354?s=72&u=e0f59b586448dca5363064a348328c3ff20eaff1&v=4" width="24" alt="Avatar of Aingo2003"> Aingo2003
@@ -274,7 +261,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/DaneX3089">
 				<img src="https://avatars.githubusercontent.com/u/91909231?s=72&u=f6edd0f89b14aae9381dbecff1df4e96c0be4dd4&v=4" width="24" alt="Avatar of DaneX3089"> DaneX3089
@@ -287,7 +274,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/youssoufgao">
 				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
@@ -300,7 +287,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/Kakaymi10">
 				<img src="https://avatars.githubusercontent.com/u/109428479?s=72&u=730be7c7c254c9ff50873949a71a7bdb7d74ef32&v=4" width="24" alt="Avatar of Kakaymi10"> Kakaymi10
@@ -313,7 +300,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/borkounou">
 				<img src="https://avatars.githubusercontent.com/u/44311725?s=72&u=f3e7725c2819f168cd157a994e692c04593e7ae2&v=4" width="24" alt="Avatar of borkounou"> borkounou
@@ -326,7 +313,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/Roukhaya">
 				<img src="https://avatars.githubusercontent.com/u/188050049?s=72&u=d713c253d447fcc0d2c44be61cf2a1d3132559af&v=4" width="24" alt="Avatar of Roukhaya"> Roukhaya
@@ -337,6 +324,19 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>N'djamena </td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/OneMusty">
+				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
+			</a><br/>
+			OneMusty
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -994,7 +994,7 @@ There are `184 users`  in Chad. You need at least `0 followers` to be on this li
 			<a href="https://github.com/Frederic-Zak">
 				<img src="https://avatars.githubusercontent.com/u/240798395?s=72&u=867cf98b743ecdcf37fa682dfa117446259e5fce&v=4" width="24" alt="Avatar of Frederic-Zak"> Frederic-Zak
 			</a><br/>
-			FREDO_GIT
+			FREDERIC_GIT
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
