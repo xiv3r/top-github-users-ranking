@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" alt="Bahrain">
 </a>
 
-The `public contributions` by users in Bahrain on `2026/2/8 7:13 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
+The `public contributions` by users in Bahrain on `2026/2/8 7:20 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1277,6 +1277,19 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>91</td>
 		<td>
+			<a href="https://github.com/7ussainnabeel">
+				<img src="https://avatars.githubusercontent.com/u/46519970?s=72&u=62d7be974545fc1eea4f9964a0a536c1939f4376&v=4" width="24" alt="Avatar of 7ussainnabeel"> 7ussainnabeel
+			</a><br/>
+			Hussain Nabeel Dhahi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/7ussain_nabeel">7ussain_nabeel</a></td>
+		<td>Bahrain</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
 			<a href="https://github.com/StackPancakes">
 				<img src="https://avatars.githubusercontent.com/u/214682601?s=72&u=f25ef161ee8e7f974765ab60425d5356f6219cf3&v=4" width="24" alt="Avatar of StackPancakes"> StackPancakes
 			</a><br/>
@@ -1288,7 +1301,7 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/Neethusanal">
 				<img src="https://avatars.githubusercontent.com/u/117423137?s=72&v=4" width="24" alt="Avatar of Neethusanal"> Neethusanal
@@ -1297,19 +1310,6 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bahrain</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/7ussainnabeel">
-				<img src="https://avatars.githubusercontent.com/u/46519970?s=72&u=62d7be974545fc1eea4f9964a0a536c1939f4376&v=4" width="24" alt="Avatar of 7ussainnabeel"> 7ussainnabeel
-			</a><br/>
-			Hussain Nabeel Dhahi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/7ussain_nabeel">7ussain_nabeel</a></td>
 		<td>Bahrain</td>
 		<td>108</td>
 	</tr>

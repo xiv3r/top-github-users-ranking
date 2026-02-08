@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" alt="Bahrain">
 </a>
 
-The `public contributions` and `private contributions` by users in Bahrain on `2026/2/8 7:13 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
+The `public contributions` and `private contributions` by users in Bahrain on `2026/2/8 7:20 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -257,7 +257,7 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/vi0at">vi0at</a></td>
 		<td>Bahrain</td>
 		<td>5</td>
-		<td>1947</td>
+		<td>1950</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -2362,6 +2362,20 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>162</td>
 		<td>
+			<a href="https://github.com/7ussainnabeel">
+				<img src="https://avatars.githubusercontent.com/u/46519970?s=72&u=62d7be974545fc1eea4f9964a0a536c1939f4376&v=4" width="24" alt="Avatar of 7ussainnabeel"> 7ussainnabeel
+			</a><br/>
+			Hussain Nabeel Dhahi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/7ussain_nabeel">7ussain_nabeel</a></td>
+		<td>Bahrain</td>
+		<td>110</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a href="https://github.com/naveed786shahid">
 				<img src="https://avatars.githubusercontent.com/u/38219367?s=72&u=84e198f9ece66a49d0a965cf3c3e9e353b232424&v=4" width="24" alt="Avatar of naveed786shahid"> naveed786shahid
 			</a><br/>
@@ -2374,7 +2388,7 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/StackPancakes">
 				<img src="https://avatars.githubusercontent.com/u/214682601?s=72&u=f25ef161ee8e7f974765ab60425d5356f6219cf3&v=4" width="24" alt="Avatar of StackPancakes"> StackPancakes
@@ -2386,20 +2400,6 @@ There are `867 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>American University of Bahrain</td>
 		<td>109</td>
 		<td>109</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/7ussainnabeel">
-				<img src="https://avatars.githubusercontent.com/u/46519970?s=72&u=62d7be974545fc1eea4f9964a0a536c1939f4376&v=4" width="24" alt="Avatar of 7ussainnabeel"> 7ussainnabeel
-			</a><br/>
-			Hussain Nabeel Dhahi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/7ussain_nabeel">7ussain_nabeel</a></td>
-		<td>Bahrain</td>
-		<td>108</td>
-		<td>108</td>
 	</tr>
 	<tr>
 		<td>165</td>
