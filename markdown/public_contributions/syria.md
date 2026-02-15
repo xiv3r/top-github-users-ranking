@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` by users in Syria on `2026/2/15 6:14 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` by users in Syria on `2026/2/15 6:52 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -258,7 +258,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>Hiast </td>
 		<td>No Twitter Username</td>
 		<td>Syria, Damascus</td>
-		<td>765</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -479,7 +479,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Syria</td>
-		<td>489</td>
+		<td>472</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -791,7 +791,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Damascus/Syria</td>
-		<td>259</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -900,6 +900,19 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 	<tr>
 		<td>62</td>
 		<td>
+			<a href="https://github.com/OmarSaiouf">
+				<img src="https://avatars.githubusercontent.com/u/182301060?s=72&u=36c8e40f2a405388c851e62ab5be03c017ff65fa&v=4" width="24" alt="Avatar of OmarSaiouf"> OmarSaiouf
+			</a><br/>
+			Omar Saiouf
+		</td>
+		<td>Https://github.com/t </td>
+		<td>No Twitter Username</td>
+		<td>Syria Homs</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
 			<a href="https://github.com/MohammadMarwan2005">
 				<img src="https://avatars.githubusercontent.com/u/118211755?s=72&u=4cc65bf94f8abe355c0d14479ccd48840f0dc4c4&v=4" width="24" alt="Avatar of MohammadMarwan2005"> MohammadMarwan2005
 			</a><br/>
@@ -911,7 +924,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/hassansaker">
 				<img src="https://avatars.githubusercontent.com/u/156579985?s=72&u=13919dd633d6c13fa80194ed82d756f6228e83c3&v=4" width="24" alt="Avatar of hassansaker"> hassansaker
@@ -924,7 +937,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/Wass76">
 				<img src="https://avatars.githubusercontent.com/u/121487847?s=72&u=5a91dc9e3041a0516e74c7d29d35de09c7800236&v=4" width="24" alt="Avatar of Wass76"> Wass76
@@ -934,19 +947,6 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Syria/Damascus</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/OmarSaiouf">
-				<img src="https://avatars.githubusercontent.com/u/182301060?s=72&u=36c8e40f2a405388c851e62ab5be03c017ff65fa&v=4" width="24" alt="Avatar of OmarSaiouf"> OmarSaiouf
-			</a><br/>
-			Omar Saiouf
-		</td>
-		<td>Https://github.com/t </td>
-		<td>No Twitter Username</td>
-		<td>Syria Homs</td>
 		<td>215</td>
 	</tr>
 	<tr>

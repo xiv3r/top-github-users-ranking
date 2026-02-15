@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` and `private contributions` by users in Syria on `2026/2/15 6:14 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` and `private contributions` by users in Syria on `2026/2/15 6:52 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -228,8 +228,8 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>Https://github.com/t </td>
 		<td>No Twitter Username</td>
 		<td>Syria Homs</td>
-		<td>215</td>
-		<td>1290</td>
+		<td>217</td>
+		<td>1292</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -438,8 +438,8 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>Hiast </td>
 		<td>No Twitter Username</td>
 		<td>Syria, Damascus</td>
-		<td>765</td>
-		<td>796</td>
+		<td>772</td>
+		<td>803</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -822,20 +822,6 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 	<tr>
 		<td>52</td>
 		<td>
-			<a href="https://github.com/youzarsiph">
-				<img src="https://avatars.githubusercontent.com/u/93343012?s=72&u=1076ffe88141ff48de60303decb7393e11fa51a3&v=4" width="24" alt="Avatar of youzarsiph"> youzarsiph
-			</a><br/>
-			Yousef Abu Shanab
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Syria</td>
-		<td>489</td>
-		<td>489</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
 			<a href="https://github.com/OmarElseyyid">
 				<img src="https://avatars.githubusercontent.com/u/76188067?s=72&u=cdf1a985eafc6cbefc50e87f46dd9a1543791402&v=4" width="24" alt="Avatar of OmarElseyyid"> OmarElseyyid
 			</a><br/>
@@ -848,7 +834,7 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>484</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/khalednadam">
 				<img src="https://avatars.githubusercontent.com/u/37756122?s=72&u=8d748f5f8da1661fb12336e2ad52455c46768654&v=4" width="24" alt="Avatar of khalednadam"> khalednadam
@@ -860,6 +846,20 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>Damascus</td>
 		<td>80</td>
 		<td>476</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/youzarsiph">
+				<img src="https://avatars.githubusercontent.com/u/93343012?s=72&u=1076ffe88141ff48de60303decb7393e11fa51a3&v=4" width="24" alt="Avatar of youzarsiph"> youzarsiph
+			</a><br/>
+			Yousef Abu Shanab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Syria</td>
+		<td>472</td>
+		<td>472</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1334,8 +1334,8 @@ There are `978 users`  in Syria. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Damascus/Syria</td>
-		<td>259</td>
-		<td>259</td>
+		<td>260</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>89</td>
