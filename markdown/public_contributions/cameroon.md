@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `public contributions` by users in Cameroon on `2026/2/24 8:26 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `public contributions` by users in Cameroon on `2026/2/24 10:08 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>Xyberclan </td>
 		<td>No Twitter Username</td>
 		<td>Cameroon</td>
-		<td>2483</td>
+		<td>2484</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>Landmark Technologies / Zenva<br/>Tech<br/></td>
 		<td>No Twitter Username</td>
 		<td>Buea - Cameroon</td>
-		<td>2465</td>
+		<td>2466</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -193,7 +193,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/LevelBrams">LevelBrams</a></td>
 		<td>Douala-Cameroun</td>
-		<td>1874</td>
+		<td>1876</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -323,7 +323,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>@adorsy </td>
 		<td>No Twitter Username</td>
 		<td>Bangangte, Cameroon</td>
-		<td>1268</td>
+		<td>1273</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -531,7 +531,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Douala, Cameroun</td>
-		<td>855</td>
+		<td>856</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -648,7 +648,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>Starland </td>
 		<td>No Twitter Username</td>
 		<td>Douala, Cameroon</td>
-		<td>685</td>
+		<td>702</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -744,6 +744,19 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 	<tr>
 		<td>50</td>
 		<td>
+			<a href="https://github.com/Blair2004">
+				<img src="https://avatars.githubusercontent.com/u/5265663?s=72&u=4bfbccfd4f424329fee273ee9397d541c377593e&v=4" width="24" alt="Avatar of Blair2004"> Blair2004
+			</a><br/>
+			Blair Jersyer
+		</td>
+		<td>Nexopos Solutions, @tendoo <br/></td>
+		<td><a href="https://twitter.com/blairjersyer">blairjersyer</a></td>
+		<td>Cameroon. Yaoundé</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
 			<a href="https://github.com/Awambeng">
 				<img src="https://avatars.githubusercontent.com/u/114798938?s=72&u=6138bdeb0c323f5a199b9f5e4c9cbca2897c2f98&v=4" width="24" alt="Avatar of Awambeng"> Awambeng
 			</a><br/>
@@ -755,7 +768,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>591</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/IT-WIBRC">
 				<img src="https://avatars.githubusercontent.com/u/123325922?s=72&u=082babe910002be69408131ac44017388366212a&v=4" width="24" alt="Avatar of IT-WIBRC"> IT-WIBRC
@@ -768,7 +781,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>580</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/speedy143-npm">
 				<img src="https://avatars.githubusercontent.com/u/196196152?s=72&v=4" width="24" alt="Avatar of speedy143-npm"> speedy143-npm
@@ -781,7 +794,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>579</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/Noubissie237">
 				<img src="https://avatars.githubusercontent.com/u/88674637?s=72&u=1e3aa7ab055060c46ae790852c6ddbd2368b44b9&v=4" width="24" alt="Avatar of Noubissie237"> Noubissie237
@@ -794,7 +807,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>577</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/ArmandMeppa">
 				<img src="https://avatars.githubusercontent.com/u/60611368?s=72&u=0d4226c2e5e7749ee40af2ca1a2654f26d442156&v=4" width="24" alt="Avatar of ArmandMeppa"> ArmandMeppa
@@ -805,19 +818,6 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Cameroon</td>
 		<td>576</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/Blair2004">
-				<img src="https://avatars.githubusercontent.com/u/5265663?s=72&u=4bfbccfd4f424329fee273ee9397d541c377593e&v=4" width="24" alt="Avatar of Blair2004"> Blair2004
-			</a><br/>
-			Blair Jersyer
-		</td>
-		<td>Nexopos Solutions, @tendoo <br/></td>
-		<td><a href="https://twitter.com/blairjersyer">blairjersyer</a></td>
-		<td>Cameroon. Yaoundé</td>
-		<td>569</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1173,6 +1173,19 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 	<tr>
 		<td>83</td>
 		<td>
+			<a href="https://github.com/dascomsoft">
+				<img src="https://avatars.githubusercontent.com/u/145954570?s=72&u=1362ad8a82419a95dfb6a37f38abbaccc2807311&v=4" width="24" alt="Avatar of dascomsoft"> dascomsoft
+			</a><br/>
+			Dassi Dieudonne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cameroon</td>
+		<td>403</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
 			<a href="https://github.com/DCT-Berinyuy">
 				<img src="https://avatars.githubusercontent.com/u/139079175?s=72&u=ac8cf4dec258e09b4b36c1a82caeb198e8e69480&v=4" width="24" alt="Avatar of DCT-Berinyuy"> DCT-Berinyuy
 			</a><br/>
@@ -1184,7 +1197,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>401</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/Awungia112">
 				<img src="https://avatars.githubusercontent.com/u/180702006?s=72&v=4" width="24" alt="Avatar of Awungia112"> Awungia112
@@ -1197,7 +1210,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>400</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/michaelnji">
 				<img src="https://avatars.githubusercontent.com/u/73862378?s=72&u=cee5dd5a21c2aef7f368a0d3ee844ba707a7b766&v=4" width="24" alt="Avatar of michaelnji"> michaelnji
@@ -1210,7 +1223,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>393</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/stephane888">
 				<img src="https://avatars.githubusercontent.com/u/23379351?s=72&u=e455cd904f190803214fbaf2fb97824b52b8e003&v=4" width="24" alt="Avatar of stephane888"> stephane888
@@ -1223,7 +1236,7 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>391</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Valsuh45">
 				<img src="https://avatars.githubusercontent.com/u/148695389?s=72&u=88bf80bfdb542120707d4b836f638ba378c38b09&v=4" width="24" alt="Avatar of Valsuh45"> Valsuh45
@@ -1234,19 +1247,6 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Cameroon</td>
 		<td>384</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/dascomsoft">
-				<img src="https://avatars.githubusercontent.com/u/145954570?s=72&u=1362ad8a82419a95dfb6a37f38abbaccc2807311&v=4" width="24" alt="Avatar of dascomsoft"> dascomsoft
-			</a><br/>
-			Dassi Dieudonne
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cameroon</td>
-		<td>375</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -3214,19 +3214,6 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 	<tr>
 		<td>240</td>
 		<td>
-			<a href="https://github.com/Max-DeProgrammer17">
-				<img src="https://avatars.githubusercontent.com/u/128926049?s=72&u=b1c0deb6b0e9b6826f5befa5ccf11eb748a2b373&v=4" width="24" alt="Avatar of Max-DeProgrammer17"> Max-DeProgrammer17
-			</a><br/>
-			Efoe Max
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cameroon, Buea</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
 			<a href="https://github.com/EricMbouwe">
 				<img src="https://avatars.githubusercontent.com/u/40503704?s=72&u=7ea3edd11cab506d95af6d94c0652ff00ee9a79e&v=4" width="24" alt="Avatar of EricMbouwe"> EricMbouwe
 			</a><br/>
@@ -3235,6 +3222,19 @@ There are `896 users`  in Cameroon. You need at least `5 followers` to be on thi
 		<td>Javascript Developer </td>
 		<td><a href="https://twitter.com/ericmbouwe">ericmbouwe</a></td>
 		<td>Cameroon</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/Max-DeProgrammer17">
+				<img src="https://avatars.githubusercontent.com/u/128926049?s=72&u=b1c0deb6b0e9b6826f5befa5ccf11eb748a2b373&v=4" width="24" alt="Avatar of Max-DeProgrammer17"> Max-DeProgrammer17
+			</a><br/>
+			Efoe Max
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cameroon, Buea</td>
 		<td>102</td>
 	</tr>
 	<tr>
