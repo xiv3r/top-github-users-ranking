@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` by users in Morocco on `2026/2/28 5:06 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` by users in Morocco on `2026/2/28 5:33 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>Re-skinning Grp </td>
 		<td>No Twitter Username</td>
 		<td>Morocco - Casa Lbayda <3</td>
-		<td>10643</td>
+		<td>10644</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -362,7 +362,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/zakarialaoui10">zakarialaoui10</a></td>
 		<td>Morocco</td>
-		<td>1327</td>
+		<td>1328</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -401,7 +401,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>Youcode Um6p </td>
 		<td><a href="https://twitter.com/AmineLebrini4">AmineLebrini4</a></td>
 		<td>KHOURIBGA, Morocco</td>
-		<td>1184</td>
+		<td>1185</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -4163,6 +4163,19 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 	<tr>
 		<td>313</td>
 		<td>
+			<a href="https://github.com/yhaddar">
+				<img src="https://avatars.githubusercontent.com/u/88948270?s=72&u=2a7146b8dd1260138c1061c77feefea618798690&v=4" width="24" alt="Avatar of yhaddar"> yhaddar
+			</a><br/>
+			youssef haddar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/y_haddar">y_haddar</a></td>
+		<td>morocco</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
 			<a href="https://github.com/OthmanSALAHI">
 				<img src="https://avatars.githubusercontent.com/u/132019758?s=72&u=0bcb667bf3200f0e64b9b140bbb8e5b7d92a0b5a&v=4" width="24" alt="Avatar of OthmanSALAHI"> OthmanSALAHI
 			</a><br/>
@@ -4174,7 +4187,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/akh9001">
 				<img src="https://avatars.githubusercontent.com/u/56780089?s=72&u=945aeff583fa395d953fa368091eba39bd096eb6&v=4" width="24" alt="Avatar of akh9001"> akh9001
@@ -4187,7 +4200,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/kafiln">
 				<img src="https://avatars.githubusercontent.com/u/15774583?s=72&u=d5f0367bea0f4e1b045bad4fc16e188fb46e6af0&v=4" width="24" alt="Avatar of kafiln"> kafiln
@@ -4200,7 +4213,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/Said-laasri">
 				<img src="https://avatars.githubusercontent.com/u/100702612?s=72&u=83902dd0d884de6bde80815204b3315c3a5a87ff&v=4" width="24" alt="Avatar of Said-laasri"> Said-laasri
@@ -4213,7 +4226,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/Qirall79">
 				<img src="https://avatars.githubusercontent.com/u/66278832?s=72&u=d763890c59d5388dadbe6101addbca530bd9031c&v=4" width="24" alt="Avatar of Qirall79"> Qirall79
@@ -4223,19 +4236,6 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/reformed_walid">reformed_walid</a></td>
 		<td>Casablanca, Morocco</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
-			<a href="https://github.com/yhaddar">
-				<img src="https://avatars.githubusercontent.com/u/88948270?s=72&u=2a7146b8dd1260138c1061c77feefea618798690&v=4" width="24" alt="Avatar of yhaddar"> yhaddar
-			</a><br/>
-			youssef haddar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/y_haddar">y_haddar</a></td>
-		<td>morocco</td>
 		<td>73</td>
 	</tr>
 	<tr>
@@ -8011,6 +8011,19 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 	<tr>
 		<td>609</td>
 		<td>
+			<a href="https://github.com/norshimself">
+				<img src="https://avatars.githubusercontent.com/u/43015915?s=72&u=679dfc9e9042045c1b5e77b0c7381234caac386c&v=4" width="24" alt="Avatar of norshimself"> norshimself
+			</a><br/>
+			Nors
+		</td>
+		<td>1337 </td>
+		<td>No Twitter Username</td>
+		<td>Morocco</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
 			<a href="https://github.com/yassiracharki">
 				<img src="https://avatars.githubusercontent.com/u/34516144?s=72&u=58e02efd638ebb5ab6f4f144a4ebd19621c6ff91&v=4" width="24" alt="Avatar of yassiracharki"> yassiracharki
 			</a><br/>
@@ -8022,7 +8035,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/Haitam-Elgharras">
 				<img src="https://avatars.githubusercontent.com/u/113545837?s=72&u=c3c514ed2f3d851c97f652c3722b8aa7bfd832dc&v=4" width="24" alt="Avatar of Haitam-Elgharras"> Haitam-Elgharras
@@ -8035,7 +8048,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/akhastaf">
 				<img src="https://avatars.githubusercontent.com/u/17098065?s=72&u=449fa04e70fcfdb53249abeca14072acd4223dcb&v=4" width="24" alt="Avatar of akhastaf"> akhastaf
@@ -8048,7 +8061,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/HamzaBenerradi">
 				<img src="https://avatars.githubusercontent.com/u/147662698?s=72&u=79d988287cae70659e9fb12f10953b09327b8b4d&v=4" width="24" alt="Avatar of HamzaBenerradi"> HamzaBenerradi
@@ -8061,7 +8074,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/ibrataha8">
 				<img src="https://avatars.githubusercontent.com/u/115188113?s=72&u=a80320d6d571aefbef2ab46bc6a68d8a8cc18f90&v=4" width="24" alt="Avatar of ibrataha8"> ibrataha8
@@ -8074,7 +8087,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/OSMaben">
 				<img src="https://avatars.githubusercontent.com/u/118306730?s=72&u=62a99e5528f370217a813d69b7fb67c9187f188d&v=4" width="24" alt="Avatar of OSMaben"> OSMaben
@@ -8087,7 +8100,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/boutougaanouar">
 				<img src="https://avatars.githubusercontent.com/u/104114806?s=72&u=b8180a6fe8f70571346a7dbf0eb47f4fb22039c1&v=4" width="24" alt="Avatar of boutougaanouar"> boutougaanouar
@@ -8100,7 +8113,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/KernelOverseer">
 				<img src="https://avatars.githubusercontent.com/u/43656267?s=72&u=adbfc39361b3516803afc0ba493f7cd8ba212960&v=4" width="24" alt="Avatar of KernelOverseer"> KernelOverseer
@@ -8113,7 +8126,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/alma4rebi">
 				<img src="https://avatars.githubusercontent.com/u/9637475?s=72&u=c7775883be0113fd549d5ab0c4b2c5a16360995a&v=4" width="24" alt="Avatar of alma4rebi"> alma4rebi
@@ -8126,7 +8139,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/AXeL-dev">
 				<img src="https://avatars.githubusercontent.com/u/30635693?s=72&u=42f568a8321fc0aca47144a00fc47ffbeb14e437&v=4" width="24" alt="Avatar of AXeL-dev"> AXeL-dev
@@ -8139,7 +8152,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/rmoujan">
 				<img src="https://avatars.githubusercontent.com/u/96055166?s=72&u=67c63caf23f944899c88c238beefb5a329221fae&v=4" width="24" alt="Avatar of rmoujan"> rmoujan
@@ -8152,7 +8165,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/AbdelmawlaFellani">
 				<img src="https://avatars.githubusercontent.com/u/67197201?s=72&u=ec2e2f326fb15301e6cd7705cfa7bcb974a965a3&v=4" width="24" alt="Avatar of AbdelmawlaFellani"> AbdelmawlaFellani
@@ -8165,7 +8178,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/YKO-01">
 				<img src="https://avatars.githubusercontent.com/u/76878092?s=72&u=5d13505fc3084f6e5bc34c407568c8fec4dd4bde&v=4" width="24" alt="Avatar of YKO-01"> YKO-01
@@ -8178,7 +8191,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/Youssra1999">
 				<img src="https://avatars.githubusercontent.com/u/100140863?s=72&u=d3f44f48e21a12faa9e562f7d3bdd893f5534ee9&v=4" width="24" alt="Avatar of Youssra1999"> Youssra1999
@@ -8191,7 +8204,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/Hamzaelaamili">
 				<img src="https://avatars.githubusercontent.com/u/125555445?s=72&u=1b1b7272e42230c07621763e77693215ee70f0a2&v=4" width="24" alt="Avatar of Hamzaelaamili"> Hamzaelaamili
@@ -8204,7 +8217,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/abdoxfox">
 				<img src="https://avatars.githubusercontent.com/u/46646744?s=72&u=0ba9b3042f6b776f9fd7e00f6bcc773c966126fb&v=4" width="24" alt="Avatar of abdoxfox"> abdoxfox
@@ -8217,7 +8230,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/na0495">
 				<img src="https://avatars.githubusercontent.com/u/36574492?s=72&u=3a95579fa898b094b5cde66c8168d46e0ae57851&v=4" width="24" alt="Avatar of na0495"> na0495
@@ -8230,7 +8243,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/YeGoRenji">
 				<img src="https://avatars.githubusercontent.com/u/49578293?s=72&u=63b4275eb0aa4980d101dc688480374d10ae90ed&v=4" width="24" alt="Avatar of YeGoRenji"> YeGoRenji
@@ -8243,7 +8256,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/elmejdki">
 				<img src="https://avatars.githubusercontent.com/u/34653764?s=72&u=ca2fe6093f707c6d5b1ae2a3fefd3f90fa9861c4&v=4" width="24" alt="Avatar of elmejdki"> elmejdki
@@ -8256,7 +8269,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/abdessamadalami">
 				<img src="https://avatars.githubusercontent.com/u/42350345?s=72&u=3ce6f2b96e58ec8c3126c4a66bb6f8c248d36709&v=4" width="24" alt="Avatar of abdessamadalami"> abdessamadalami
@@ -8266,19 +8279,6 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>morocco</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a href="https://github.com/norshimself">
-				<img src="https://avatars.githubusercontent.com/u/43015915?s=72&u=679dfc9e9042045c1b5e77b0c7381234caac386c&v=4" width="24" alt="Avatar of norshimself"> norshimself
-			</a><br/>
-			Nors
-		</td>
-		<td>1337 </td>
-		<td>No Twitter Username</td>
-		<td>Morocco</td>
 		<td>7</td>
 	</tr>
 	<tr>

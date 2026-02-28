@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `number of followers` of users in Morocco on `2026/2/28 5:06 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `number of followers` of users in Morocco on `2026/2/28 5:33 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>Arb/esp/eng - Spam Following,<br/>I<br/>Don’t<br/>Check<br/>Profiles<br/>:,)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Morocco </td>
-		<td>842</td>
+		<td>841</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -531,7 +531,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td> 1337 Med -<br/>42<br/>Network<br/></td>
 		<td>No Twitter Username</td>
 		<td>Morroco, Tangier</td>
-		<td>421</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -1311,7 +1311,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Morocco</td>
-		<td>221</td>
+		<td>220</td>
 	</tr>
 	<tr>
 		<td>94</td>
