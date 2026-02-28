@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` by users in Morocco on `2026/2/28 5:33 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` by users in Morocco on `2026/2/28 6:21 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>Re-skinning Grp </td>
 		<td>No Twitter Username</td>
 		<td>Morocco - Casa Lbayda <3</td>
-		<td>10644</td>
+		<td>10646</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Casablanca , MA</td>
-		<td>8150</td>
+		<td>8151</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1038,7 +1038,7 @@ There are `991 users`  in Morocco. You need at least `38 followers` to be on thi
 		<td>42 Network : 1337<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Morocco</td>
-		<td>459</td>
+		<td>460</td>
 	</tr>
 	<tr>
 		<td>73</td>
