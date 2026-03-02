@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `number of followers` of users in Rwanda on `2026/3/2 12:15 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `number of followers` of users in Rwanda on `2026/3/2 12:39 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -219,7 +219,7 @@ There are `966 users`  in Rwanda. You need at least `10 followers` to be on this
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/UsamuelC2287">UsamuelC2287</a></td>
 		<td>Rwanda / Kigali City</td>
-		<td>622</td>
+		<td>627</td>
 	</tr>
 	<tr>
 		<td>10</td>
