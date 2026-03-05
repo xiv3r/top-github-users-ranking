@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2026/3/5 7:55 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2026/3/5 8:07 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -158,8 +158,8 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>@258ch @apachecn  </td>
 		<td><a href="https://twitter.com/wizardforcel">wizardforcel</a></td>
 		<td>Beijing, China</td>
-		<td>38718</td>
-		<td>38723</td>
+		<td>38719</td>
+		<td>38724</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -228,8 +228,8 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ProbiusOfficial">ProbiusOfficial</a></td>
 		<td>China</td>
-		<td>9501</td>
-		<td>9501</td>
+		<td>9503</td>
+		<td>9503</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -355,7 +355,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td><a href="https://twitter.com/yetone">yetone</a></td>
 		<td>China</td>
 		<td>1341</td>
-		<td>6375</td>
+		<td>6377</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -957,7 +957,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
 		<td>117</td>
-		<td>2799</td>
+		<td>2801</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1320,8 +1320,8 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Tencent Inc. </td>
 		<td><a href="https://twitter.com/overtrue666">overtrue666</a></td>
 		<td>Shenzhen,China</td>
-		<td>2245</td>
-		<td>2245</td>
+		<td>2248</td>
+		<td>2248</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1782,8 +1782,8 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Southern Medical University </td>
 		<td><a href="https://twitter.com/guangchuangyu">guangchuangyu</a></td>
 		<td>Guangzhou, China</td>
-		<td>1064</td>
-		<td>1694</td>
+		<td>1065</td>
+		<td>1695</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -2161,7 +2161,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td><a href="https://twitter.com/xicilion">xicilion</a></td>
 		<td>Nanjing, China</td>
 		<td>1065</td>
-		<td>1314</td>
+		<td>1315</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -4154,6 +4154,20 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/xkcoding">
+				<img src="https://avatars.githubusercontent.com/u/10429917?s=72&u=2ab29bd2c0344eecd8922933cc3141e063c34c9b&v=4" width="24" alt="Avatar of xkcoding"> xkcoding
+			</a><br/>
+			Yangkai.Shen
+		</td>
+		<td>@programming-with-lo @lets-mica @pig-mesh </td>
+		<td>No Twitter Username</td>
+		<td>Hangzhou, China</td>
+		<td>257</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/liu21st">
 				<img src="https://avatars.githubusercontent.com/u/1111670?s=72&v=4" width="24" alt="Avatar of liu21st"> liu21st
 			</a><br/>
@@ -4166,7 +4180,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>441</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/KeKe-Li">
 				<img src="https://avatars.githubusercontent.com/u/13062571?s=72&u=0b5325f5d36e0e2374fa28bd9bbbd7c08b275e35&v=4" width="24" alt="Avatar of KeKe-Li"> KeKe-Li
@@ -4178,20 +4192,6 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>shanghai</td>
 		<td>50</td>
 		<td>440</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/xkcoding">
-				<img src="https://avatars.githubusercontent.com/u/10429917?s=72&u=2ab29bd2c0344eecd8922933cc3141e063c34c9b&v=4" width="24" alt="Avatar of xkcoding"> xkcoding
-			</a><br/>
-			Yangkai.Shen
-		</td>
-		<td>@programming-with-lo @lets-mica @pig-mesh </td>
-		<td>No Twitter Username</td>
-		<td>Hangzhou, China</td>
-		<td>257</td>
-		<td>439</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -5380,8 +5380,8 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Peking University </td>
 		<td><a href="https://twitter.com/0xAA_Science">0xAA_Science</a></td>
 		<td>Beijing</td>
-		<td>220</td>
-		<td>220</td>
+		<td>221</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>378</td>

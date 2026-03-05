@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` by users in China on `2026/3/5 7:55 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` by users in China on `2026/3/5 8:07 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>@258ch @apachecn  </td>
 		<td><a href="https://twitter.com/wizardforcel">wizardforcel</a></td>
 		<td>Beijing, China</td>
-		<td>38718</td>
+		<td>38719</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ProbiusOfficial">ProbiusOfficial</a></td>
 		<td>China</td>
-		<td>9501</td>
+		<td>9503</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -596,7 +596,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Tencent Inc. </td>
 		<td><a href="https://twitter.com/overtrue666">overtrue666</a></td>
 		<td>Shenzhen,China</td>
-		<td>2245</td>
+		<td>2248</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1225,6 +1225,19 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 	<tr>
 		<td>87</td>
 		<td>
+			<a href="https://github.com/GuangchuangYu">
+				<img src="https://avatars.githubusercontent.com/u/626539?s=72&u=97d3d789f2fedd4a9b5eedc4c103e78c6ef85daf&v=4" width="24" alt="Avatar of GuangchuangYu"> GuangchuangYu
+			</a><br/>
+			Guangchuang Yu
+		</td>
+		<td>Southern Medical University </td>
+		<td><a href="https://twitter.com/guangchuangyu">guangchuangyu</a></td>
+		<td>Guangzhou, China</td>
+		<td>1065</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
 			<a href="https://github.com/xicilion">
 				<img src="https://avatars.githubusercontent.com/u/26833060?s=72&u=30020a1eb7633f427600c3fcb09d3a5aaf890880&v=4" width="24" alt="Avatar of xicilion"> xicilion
 			</a><br/>
@@ -1234,19 +1247,6 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td><a href="https://twitter.com/xicilion">xicilion</a></td>
 		<td>Nanjing, China</td>
 		<td>1065</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/GuangchuangYu">
-				<img src="https://avatars.githubusercontent.com/u/626539?s=72&u=97d3d789f2fedd4a9b5eedc4c103e78c6ef85daf&v=4" width="24" alt="Avatar of GuangchuangYu"> GuangchuangYu
-			</a><br/>
-			Guangchuang Yu
-		</td>
-		<td>Southern Medical University </td>
-		<td><a href="https://twitter.com/guangchuangyu">guangchuangyu</a></td>
-		<td>Guangzhou, China</td>
-		<td>1064</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -3664,7 +3664,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Peking University </td>
 		<td><a href="https://twitter.com/0xAA_Science">0xAA_Science</a></td>
 		<td>Beijing</td>
-		<td>220</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>275</td>

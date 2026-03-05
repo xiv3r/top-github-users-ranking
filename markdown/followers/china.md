@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2026/3/5 7:55 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2026/3/5 8:07 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/justjavac">justjavac</a></td>
 		<td>Tianjin, China</td>
-		<td>17186</td>
+		<td>17187</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -4314,7 +4314,7 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>Evergreenai </td>
 		<td><a href="https://twitter.com/Jimmy_JingLv">Jimmy_JingLv</a></td>
 		<td>Chengdu, China</td>
-		<td>1956</td>
+		<td>1957</td>
 	</tr>
 	<tr>
 		<td>325</td>
@@ -8375,6 +8375,19 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 	<tr>
 		<td>637</td>
 		<td>
+			<a href="https://github.com/wshuyi">
+				<img src="https://avatars.githubusercontent.com/u/4951629?s=72&u=7c37f8703b823f42f446e9536eb878019a200e09&v=4" width="24" alt="Avatar of wshuyi"> wshuyi
+			</a><br/>
+			Shuyi Wang
+		</td>
+		<td>Tianjin Normal University </td>
+		<td>No Twitter Username</td>
+		<td>Tianjin</td>
+		<td>1112</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
 			<a href="https://github.com/libdriver">
 				<img src="https://avatars.githubusercontent.com/u/45958776?s=72&u=e055dfd2e38ffc5c46f3d1f110ca1cef07863607&v=4" width="24" alt="Avatar of libdriver"> libdriver
 			</a><br/>
@@ -8384,19 +8397,6 @@ There are `927 users`  in China. You need at least `809 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>1112</td>
-	</tr>
-	<tr>
-		<td>638</td>
-		<td>
-			<a href="https://github.com/wshuyi">
-				<img src="https://avatars.githubusercontent.com/u/4951629?s=72&u=7c37f8703b823f42f446e9536eb878019a200e09&v=4" width="24" alt="Avatar of wshuyi"> wshuyi
-			</a><br/>
-			Shuyi Wang
-		</td>
-		<td>Tianjin Normal University </td>
-		<td>No Twitter Username</td>
-		<td>Tianjin</td>
-		<td>1111</td>
 	</tr>
 	<tr>
 		<td>639</td>
