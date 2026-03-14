@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" alt="Hong Kong">
 </a>
 
-The `public contributions` by users in Hong Kong on `2026/3/14 3:19 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
+The `public contributions` by users in Hong Kong on `2026/3/14 3:35 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>The Hong Kong Polytechnic<br/>University;<br/>The<br/>Hong<br/>Kong<br/>University<br/>Of<br/>Science<br/>And<br/>Technology<br/>(guangzhou)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>7489</td>
+		<td>7490</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -245,7 +245,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>3999</td>
+		<td>4001</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -622,7 +622,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/messense">messense</a></td>
 		<td>Hong Kong</td>
-		<td>1094</td>
+		<td>1095</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -661,7 +661,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>Roo J Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>1028</td>
+		<td>1030</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -752,7 +752,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>927</td>
+		<td>929</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -986,7 +986,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>657</td>
+		<td>658</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -999,7 +999,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/louislam">louislam</a></td>
 		<td>Hong Kong</td>
-		<td>656</td>
+		<td>657</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1441,7 +1441,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>Hkust(gz)  </td>
 		<td><a href="https://twitter.com/barniecao">barniecao</a></td>
 		<td>Hong Kong</td>
-		<td>460</td>
+		<td>463</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -2746,6 +2746,19 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 	<tr>
 		<td>204</td>
 		<td>
+			<a href="https://github.com/poyea">
+				<img src="https://avatars.githubusercontent.com/u/24757020?s=72&u=62ef87ab1e4bea843f674170400603e3a204b666&v=4" width="24" alt="Avatar of poyea"> poyea
+			</a><br/>
+			John Law
+		</td>
+		<td>@amzn </td>
+		<td>No Twitter Username</td>
+		<td>London | Hong Kong</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a href="https://github.com/yujincheng08">
 				<img src="https://avatars.githubusercontent.com/u/5022927?s=72&u=01953f4b351d0b0085156263c5d50bceeb0ed9c1&v=4" width="24" alt="Avatar of yujincheng08"> yujincheng08
 			</a><br/>
@@ -2757,7 +2770,7 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/xmouyang">
 				<img src="https://avatars.githubusercontent.com/u/54017378?s=72&u=18e14241dcbf37eebfe0bfda4c1dd894c12a8830&v=4" width="24" alt="Avatar of xmouyang"> xmouyang
@@ -2768,19 +2781,6 @@ There are `915 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>171</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/poyea">
-				<img src="https://avatars.githubusercontent.com/u/24757020?s=72&u=62ef87ab1e4bea843f674170400603e3a204b666&v=4" width="24" alt="Avatar of poyea"> poyea
-			</a><br/>
-			John Law
-		</td>
-		<td>@amzn </td>
-		<td>No Twitter Username</td>
-		<td>London | Hong Kong</td>
-		<td>170</td>
 	</tr>
 	<tr>
 		<td>207</td>
