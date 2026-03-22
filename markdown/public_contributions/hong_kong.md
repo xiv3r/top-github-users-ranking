@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" alt="Hong Kong">
 </a>
 
-The `public contributions` by users in Hong Kong on `2026/3/22 6:02 PM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
+The `public contributions` by users in Hong Kong on `2026/3/22 7:10 PM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BattlefieldDuck">BattlefieldDuck</a></td>
 		<td>Hong Kong</td>
-		<td>18389</td>
+		<td>18391</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>8965</td>
+		<td>8967</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>Open To Work </td>
 		<td><a href="https://twitter.com/anduin17">anduin17</a></td>
 		<td>Hong Kong SAR</td>
-		<td>8332</td>
+		<td>8336</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -297,7 +297,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>2806</td>
+		<td>2807</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -471,6 +471,19 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/donbeave">
+				<img src="https://avatars.githubusercontent.com/u/139017?s=72&u=49a6fe00b782eebfb2cb5d5c9d9e6ab4a7f76399&v=4" width="24" alt="Avatar of donbeave"> donbeave
+			</a><br/>
+			Alexey Zhokhov
+		</td>
+		<td>@scentbird @chainargos </td>
+		<td><a href="https://twitter.com/donbeave">donbeave</a></td>
+		<td>Hong Kong</td>
+		<td>1454</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/UmmItKin">
 				<img src="https://avatars.githubusercontent.com/u/128139875?s=72&u=f5b24a4c21a68502d73f0790ca63d3cdf708dd33&v=4" width="24" alt="Avatar of UmmItKin"> UmmItKin
 			</a><br/>
@@ -480,19 +493,6 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>1453</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/donbeave">
-				<img src="https://avatars.githubusercontent.com/u/139017?s=72&u=49a6fe00b782eebfb2cb5d5c9d9e6ab4a7f76399&v=4" width="24" alt="Avatar of donbeave"> donbeave
-			</a><br/>
-			Alexey Zhokhov
-		</td>
-		<td>@scentbird @chainargos </td>
-		<td><a href="https://twitter.com/donbeave">donbeave</a></td>
-		<td>Hong Kong</td>
-		<td>1447</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -869,7 +869,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>Ph.d. Candidate, Hkust. <br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong SAR, China</td>
-		<td>833</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -908,7 +908,7 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		<td>@longcipher </td>
 		<td><a href="https://twitter.com/Akagi201">Akagi201</a></td>
 		<td>Hong Kong</td>
-		<td>764</td>
+		<td>769</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -3617,19 +3617,6 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 	<tr>
 		<td>271</td>
 		<td>
-			<a href="https://github.com/Entropy-xcy">
-				<img src="https://avatars.githubusercontent.com/u/22727121?s=72&u=060a069f8ddbdfc7d85a37cf434cc324c278d6cb&v=4" width="24" alt="Avatar of Entropy-xcy"> Entropy-xcy
-			</a><br/>
-			Entropy Xu
-		</td>
-		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
 			<a href="https://github.com/johngai19">
 				<img src="https://avatars.githubusercontent.com/u/19883738?s=72&u=3bb31f09e821678197c05f4c4bcd4a11e0988096&v=4" width="24" alt="Avatar of johngai19"> johngai19
 			</a><br/>
@@ -3637,6 +3624,19 @@ There are `916 users`  in Hong Kong. You need at least `46 followers` to be on t
 		</td>
 		<td>Okx </td>
 		<td><a href="https://twitter.com/Sandcabin">Sandcabin</a></td>
+		<td>Hong Kong</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/Entropy-xcy">
+				<img src="https://avatars.githubusercontent.com/u/22727121?s=72&u=060a069f8ddbdfc7d85a37cf434cc324c278d6cb&v=4" width="24" alt="Avatar of Entropy-xcy"> Entropy-xcy
+			</a><br/>
+			Entropy Xu
+		</td>
+		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>99</td>
 	</tr>
