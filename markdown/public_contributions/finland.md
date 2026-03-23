@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2026/3/23 7:31 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2026/3/23 7:44 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -479,7 +479,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>@upcloudltd  </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>2084</td>
+		<td>2085</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -661,7 +661,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>University Of Jyväskylä </td>
 		<td>No Twitter Username</td>
 		<td>Jyväskylä, Finland</td>
-		<td>1601</td>
+		<td>1603</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -713,7 +713,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hiAndrewQuinn">hiAndrewQuinn</a></td>
 		<td>Finland</td>
-		<td>1548</td>
+		<td>1549</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -882,7 +882,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>Kipinä Software </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1190</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1623,7 +1623,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>702</td>
+		<td>704</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -2039,7 +2039,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>540</td>
+		<td>541</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2104,7 +2104,7 @@ There are `925 users`  in Finland. You need at least `52 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>522</td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>155</td>
