@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `number of followers` of users in Senegal on `2026/3/28 12:24 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `number of followers` of users in Senegal on `2026/3/28 1:29 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -10949,19 +10949,6 @@ There are `927 users`  in Senegal. You need at least `2 followers` to be on this
 	<tr>
 		<td>835</td>
 		<td>
-			<a href="https://github.com/cotiga">
-				<img src="https://avatars.githubusercontent.com/u/16390911?s=72&u=1083b168c2d4431b771c443cfcd5606b838b495c&v=4" width="24" alt="Avatar of cotiga"> cotiga
-			</a><br/>
-			Serge Ledig
-		</td>
-		<td>Cotiga </td>
-		<td>No Twitter Username</td>
-		<td>France, Senegal, World...</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>836</td>
-		<td>
 			<a href="https://github.com/segnbi">
 				<img src="https://avatars.githubusercontent.com/u/78266500?s=72&u=58ba8a99e7ac403991d17d63cbaae5ede44fd74a&v=4" width="24" alt="Avatar of segnbi"> segnbi
 			</a><br/>
@@ -10970,6 +10957,19 @@ There are `927 users`  in Senegal. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/diydev_">diydev_</a></td>
 		<td>Dakar, Senegal</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/cotiga">
+				<img src="https://avatars.githubusercontent.com/u/16390911?s=72&u=1083b168c2d4431b771c443cfcd5606b838b495c&v=4" width="24" alt="Avatar of cotiga"> cotiga
+			</a><br/>
+			Serge Ledig
+		</td>
+		<td>Cotiga </td>
+		<td>No Twitter Username</td>
+		<td>France, Senegal, World...</td>
 		<td>2</td>
 	</tr>
 	<tr>
