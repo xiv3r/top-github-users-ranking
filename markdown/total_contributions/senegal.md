@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `public contributions` and `private contributions` by users in Senegal on `2026/3/28 1:29 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `public contributions` and `private contributions` by users in Senegal on `2026/3/28 1:39 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -579,7 +579,7 @@ There are `927 users`  in Senegal. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/tonux_samb">tonux_samb</a></td>
 		<td>Dakar, Sénégal </td>
 		<td>24</td>
-		<td>1334</td>
+		<td>1336</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1475,7 +1475,7 @@ There are `927 users`  in Senegal. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/adonai_nangui">adonai_nangui</a></td>
 		<td>Dakar, Sénégal</td>
 		<td>97</td>
-		<td>638</td>
+		<td>639</td>
 	</tr>
 	<tr>
 		<td>99</td>
