@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `number of followers` of users in Tanzania on `2026/3/29 12:20 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `number of followers` of users in Tanzania on `2026/3/29 1:26 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1524,6 +1524,19 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>110</td>
 		<td>
+			<a href="https://github.com/vincent-laizer">
+				<img src="https://avatars.githubusercontent.com/u/47497857?s=72&u=51d83eb1774ab3586d586574b243932b7bf4cbc1&v=4" width="24" alt="Avatar of vincent-laizer"> vincent-laizer
+			</a><br/>
+			vincent laizer
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LaizerVincent">LaizerVincent</a></td>
+		<td>Arusha, Tanzania</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a href="https://github.com/elineka">
 				<img src="https://avatars.githubusercontent.com/u/46896641?s=72&u=6a1e0c6623eef9b9266f469ec6383bb3ece7ef7d&v=4" width="24" alt="Avatar of elineka"> elineka
 			</a><br/>
@@ -1535,7 +1548,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/LouisNgatale">
 				<img src="https://avatars.githubusercontent.com/u/27632033?s=72&u=d21b26a76c5a3f267ef43598d122e0e6c48c26bd&v=4" width="24" alt="Avatar of LouisNgatale"> LouisNgatale
@@ -1548,7 +1561,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/mahmudhaji">
 				<img src="https://avatars.githubusercontent.com/u/110393762?s=72&u=b3d83d9c70247b95f3937aca1a31a076a2b37132&v=4" width="24" alt="Avatar of mahmudhaji"> mahmudhaji
@@ -1559,19 +1572,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunguu : Zanzibar-Tanzania</td>
 		<td>59</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/vincent-laizer">
-				<img src="https://avatars.githubusercontent.com/u/47497857?s=72&u=51d83eb1774ab3586d586574b243932b7bf4cbc1&v=4" width="24" alt="Avatar of vincent-laizer"> vincent-laizer
-			</a><br/>
-			vincent laizer
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LaizerVincent">LaizerVincent</a></td>
-		<td>Arusha, Tanzania</td>
-		<td>58</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -8765,19 +8765,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>667</td>
 		<td>
-			<a href="https://github.com/reubenwilliam">
-				<img src="https://avatars.githubusercontent.com/u/102739770?s=72&u=7c22eaaa20a1cba9b15302aba42a050b51114dcb&v=4" width="24" alt="Avatar of reubenwilliam"> reubenwilliam
-			</a><br/>
-			Reuben William
-		</td>
-		<td>@toyotatanzania </td>
-		<td><a href="https://twitter.com/mnyamestt">mnyamestt</a></td>
-		<td>Tanzania</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>668</td>
-		<td>
 			<a href="https://github.com/APKnation">
 				<img src="https://avatars.githubusercontent.com/u/189861655?s=72&u=d5c29ebc2280c5c4bdde073f84001626252728f6&v=4" width="24" alt="Avatar of APKnation"> APKnation
 			</a><br/>
@@ -8786,6 +8773,19 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DODOMA -TANZANIA</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/reubenwilliam">
+				<img src="https://avatars.githubusercontent.com/u/102739770?s=72&u=7c22eaaa20a1cba9b15302aba42a050b51114dcb&v=4" width="24" alt="Avatar of reubenwilliam"> reubenwilliam
+			</a><br/>
+			Reuben William
+		</td>
+		<td>@toyotatanzania </td>
+		<td><a href="https://twitter.com/mnyamestt">mnyamestt</a></td>
+		<td>Tanzania</td>
 		<td>10</td>
 	</tr>
 	<tr>

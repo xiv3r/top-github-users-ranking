@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` by users in Tanzania on `2026/3/29 12:20 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` by users in Tanzania on `2026/3/29 1:26 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Kazibox </td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>3565</td>
+		<td>3566</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -206,7 +206,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>1732</td>
+		<td>1736</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -401,7 +401,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DODOMA -TANZANIA</td>
-		<td>938</td>
+		<td>941</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -583,7 +583,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>589</td>
+		<td>590</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1090,7 +1090,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Econnect Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>345</td>
+		<td>346</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1701,7 +1701,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Myssa Tech </td>
 		<td><a href="https://twitter.com/mussacharles60">mussacharles60</a></td>
 		<td>Tanzania</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>124</td>

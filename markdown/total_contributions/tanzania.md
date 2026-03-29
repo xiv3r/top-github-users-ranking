@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` and `private contributions` by users in Tanzania on `2026/3/29 12:20 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` and `private contributions` by users in Tanzania on `2026/3/29 1:26 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -130,8 +130,8 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Kazibox </td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>3565</td>
-		<td>13909</td>
+		<td>3566</td>
+		<td>13911</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -276,6 +276,20 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/FrugenceFidel">
+				<img src="https://avatars.githubusercontent.com/u/26389425?s=72&u=b7ec3fd547624e0188798e6173fe7bbdb24ba2a2&v=4" width="24" alt="Avatar of FrugenceFidel"> FrugenceFidel
+			</a><br/>
+			Frugence Fidel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frugencefidel">frugencefidel</a></td>
+		<td>Tanzania</td>
+		<td>6</td>
+		<td>3806</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/cygon23">
 				<img src="https://avatars.githubusercontent.com/u/140239023?s=72&u=142a00aee40ba41f362a519af3da18709903ef23&v=4" width="24" alt="Avatar of cygon23"> cygon23
 			</a><br/>
@@ -286,20 +300,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Tanzania</td>
 		<td>993</td>
 		<td>3790</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/FrugenceFidel">
-				<img src="https://avatars.githubusercontent.com/u/26389425?s=72&u=b7ec3fd547624e0188798e6173fe7bbdb24ba2a2&v=4" width="24" alt="Avatar of FrugenceFidel"> FrugenceFidel
-			</a><br/>
-			Frugence Fidel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/frugencefidel">frugencefidel</a></td>
-		<td>Tanzania</td>
-		<td>6</td>
-		<td>3775</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -802,8 +802,8 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Myssa Tech </td>
 		<td><a href="https://twitter.com/mussacharles60">mussacharles60</a></td>
 		<td>Tanzania</td>
-		<td>209</td>
-		<td>2333</td>
+		<td>210</td>
+		<td>2334</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -970,8 +970,8 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>1732</td>
-		<td>2061</td>
+		<td>1736</td>
+		<td>2065</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1489,7 +1489,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>134</td>
-		<td>1460</td>
+		<td>1473</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1685,7 +1685,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/tfkcodes">tfkcodes</a></td>
 		<td>Dar es salaam</td>
 		<td>31</td>
-		<td>1285</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -2376,6 +2376,20 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>163</td>
 		<td>
+			<a href="https://github.com/APKnation">
+				<img src="https://avatars.githubusercontent.com/u/189861655?s=72&u=d5c29ebc2280c5c4bdde073f84001626252728f6&v=4" width="24" alt="Avatar of APKnation"> APKnation
+			</a><br/>
+			apk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>DODOMA -TANZANIA</td>
+		<td>941</td>
+		<td>941</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
 			<a href="https://github.com/reubenwilliam">
 				<img src="https://avatars.githubusercontent.com/u/102739770?s=72&u=7c22eaaa20a1cba9b15302aba42a050b51114dcb&v=4" width="24" alt="Avatar of reubenwilliam"> reubenwilliam
 			</a><br/>
@@ -2386,20 +2400,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Tanzania</td>
 		<td>4</td>
 		<td>939</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/APKnation">
-				<img src="https://avatars.githubusercontent.com/u/189861655?s=72&u=d5c29ebc2280c5c4bdde073f84001626252728f6&v=4" width="24" alt="Avatar of APKnation"> APKnation
-			</a><br/>
-			apk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>DODOMA -TANZANIA</td>
-		<td>938</td>
-		<td>938</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -3440,20 +3440,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>239</td>
 		<td>
-			<a href="https://github.com/wikedzit">
-				<img src="https://avatars.githubusercontent.com/u/28443467?s=72&u=e7af12a2fbbc1954307f685d955a769782c52277&v=4" width="24" alt="Avatar of wikedzit"> wikedzit
-			</a><br/>
-			Timothy Wikedzi
-		</td>
-		<td>@nottech-lab </td>
-		<td><a href="https://twitter.com/wikedzi">wikedzi</a></td>
-		<td>Arusha, Tanzania</td>
-		<td>5</td>
-		<td>617</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
 			<a href="https://github.com/denare">
 				<img src="https://avatars.githubusercontent.com/u/135143686?s=72&u=451b82691e9cd19067f04bf33aaea8046c3352e3&v=4" width="24" alt="Avatar of denare"> denare
 			</a><br/>
@@ -3463,6 +3449,20 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dodoma, Tanzania</td>
 		<td>108</td>
+		<td>618</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/wikedzit">
+				<img src="https://avatars.githubusercontent.com/u/28443467?s=72&u=e7af12a2fbbc1954307f685d955a769782c52277&v=4" width="24" alt="Avatar of wikedzit"> wikedzit
+			</a><br/>
+			Timothy Wikedzi
+		</td>
+		<td>@nottech-lab </td>
+		<td><a href="https://twitter.com/wikedzi">wikedzi</a></td>
+		<td>Arusha, Tanzania</td>
+		<td>5</td>
 		<td>617</td>
 	</tr>
 	<tr>
@@ -3608,6 +3608,20 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 	<tr>
 		<td>251</td>
 		<td>
+			<a href="https://github.com/nyandajr">
+				<img src="https://avatars.githubusercontent.com/u/87903153?s=72&u=22a61e13eebe4ec7a9d7d5b118301ac0d42afd0c&v=4" width="24" alt="Avatar of nyandajr"> nyandajr
+			</a><br/>
+			Nyanda Freddy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tanzania</td>
+		<td>590</td>
+		<td>590</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a href="https://github.com/thisissifumwike">
 				<img src="https://avatars.githubusercontent.com/u/70918334?s=72&u=e7fbc709b1d8ac5c390e966cf438f56682415cea&v=4" width="24" alt="Avatar of thisissifumwike"> thisissifumwike
 			</a><br/>
@@ -3620,7 +3634,7 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>589</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/ShaboDevOps">
 				<img src="https://avatars.githubusercontent.com/u/57992262?s=72&u=5870ccc48e8aa75a7cec8dfea6f387882256099a&v=4" width="24" alt="Avatar of ShaboDevOps"> ShaboDevOps
@@ -3631,20 +3645,6 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td><a href="https://twitter.com/shabo1_18">shabo1_18</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>14</td>
-		<td>589</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/nyandajr">
-				<img src="https://avatars.githubusercontent.com/u/87903153?s=72&u=22a61e13eebe4ec7a9d7d5b118301ac0d42afd0c&v=4" width="24" alt="Avatar of nyandajr"> nyandajr
-			</a><br/>
-			Nyanda Freddy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tanzania</td>
-		<td>589</td>
 		<td>589</td>
 	</tr>
 	<tr>
@@ -4764,8 +4764,8 @@ There are `938 users`  in Tanzania. You need at least `7 followers` to be on thi
 		<td>Econnect Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>345</td>
-		<td>345</td>
+		<td>346</td>
+		<td>346</td>
 	</tr>
 	<tr>
 		<td>334</td>
