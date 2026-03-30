@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `public contributions` and `private contributions` by users in Zimbabwe on `2026/3/29 10:23 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `public contributions` and `private contributions` by users in Zimbabwe on `2026/3/30 12:11 AM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -383,7 +383,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/NChiteshe">NChiteshe</a></td>
 		<td>Harare</td>
 		<td>145</td>
-		<td>3716</td>
+		<td>3717</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -607,7 +607,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/anosmhazo">anosmhazo</a></td>
 		<td>Harare, Zimbabwe</td>
 		<td>41</td>
-		<td>1985</td>
+		<td>1998</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -691,7 +691,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/augmentx_zw">augmentx_zw</a></td>
 		<td>Zimbabwe</td>
 		<td>11</td>
-		<td>1768</td>
+		<td>1770</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -733,7 +733,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Harare</td>
 		<td>197</td>
-		<td>1662</td>
+		<td>1673</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -747,7 +747,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/nigelreign_">nigelreign_</a></td>
 		<td>19 Falcon Street Belmont, Bulawayo, Zimbabwe</td>
 		<td>5</td>
-		<td>1654</td>
+		<td>1656</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -943,7 +943,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/gtchakama">gtchakama</a></td>
 		<td>Harare, Zimbabwe</td>
 		<td>129</td>
-		<td>1472</td>
+		<td>1475</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1340,6 +1340,20 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>89</td>
 		<td>
+			<a href="https://github.com/tkmawarire">
+				<img src="https://avatars.githubusercontent.com/u/18499856?s=72&u=b35e09b1f7f1f6378553f1af873afae78f6b2e4c&v=4" width="24" alt="Avatar of tkmawarire"> tkmawarire
+			</a><br/>
+			#SpecialForces
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tkmawarire">tkmawarire</a></td>
+		<td>Harare, Zimbabwe</td>
+		<td>18</td>
+		<td>1058</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
 			<a href="https://github.com/munyari">
 				<img src="https://avatars.githubusercontent.com/u/5841072?s=72&u=1c63de8899e6d807fac70ad34e9ba0b3c32b30dd&v=4" width="24" alt="Avatar of munyari"> munyari
 			</a><br/>
@@ -1350,20 +1364,6 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>New York/Harare</td>
 		<td>84</td>
 		<td>1049</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/tkmawarire">
-				<img src="https://avatars.githubusercontent.com/u/18499856?s=72&u=b35e09b1f7f1f6378553f1af873afae78f6b2e4c&v=4" width="24" alt="Avatar of tkmawarire"> tkmawarire
-			</a><br/>
-			#SpecialForces
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tkmawarire">tkmawarire</a></td>
-		<td>Harare, Zimbabwe</td>
-		<td>18</td>
-		<td>1046</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1545,7 +1545,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/mtnyoni">mtnyoni</a></td>
 		<td>Harare</td>
 		<td>52</td>
-		<td>933</td>
+		<td>934</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1657,7 +1657,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
 		<td>203</td>
-		<td>882</td>
+		<td>883</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -2091,7 +2091,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/TechTinoe">TechTinoe</a></td>
 		<td>Harare, Zimbabwe</td>
 		<td>30</td>
-		<td>666</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -3547,7 +3547,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
 		<td>26</td>
-		<td>293</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -4154,6 +4154,20 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/tariwecode">
+				<img src="https://avatars.githubusercontent.com/u/53381872?s=72&u=df3d33274369b10367e28845175de3e9805c1cde&v=4" width="24" alt="Avatar of tariwecode"> tariwecode
+			</a><br/>
+			Tari
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mount Pleasant, Harare, Zimbabwe</td>
+		<td>188</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/wraythezw">
 				<img src="https://avatars.githubusercontent.com/u/8004272?s=72&u=1f9ba43b5c0240ae717b064d83cf7e83f7cea039&v=4" width="24" alt="Avatar of wraythezw"> wraythezw
 			</a><br/>
@@ -4163,20 +4177,6 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
 		<td>2</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/tariwecode">
-				<img src="https://avatars.githubusercontent.com/u/53381872?s=72&u=df3d33274369b10367e28845175de3e9805c1cde&v=4" width="24" alt="Avatar of tariwecode"> tariwecode
-			</a><br/>
-			Tari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mount Pleasant, Harare, Zimbabwe</td>
-		<td>187</td>
 		<td>187</td>
 	</tr>
 	<tr>
@@ -4602,6 +4602,20 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/nigelmashayamombe">
+				<img src="https://avatars.githubusercontent.com/u/97184089?s=72&u=e0cb3aed84d86939a2664f2ee118eba6a95a4948&v=4" width="24" alt="Avatar of nigelmashayamombe"> nigelmashayamombe
+			</a><br/>
+			heisen_berg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulawayo , Zimbabwe</td>
+		<td>66</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/TakudzwaDavidMakumbe">
 				<img src="https://avatars.githubusercontent.com/u/183507173?s=72&u=bc05ec6cb7cee9515d56cb6d0cf8cace66890a93&v=4" width="24" alt="Avatar of TakudzwaDavidMakumbe"> TakudzwaDavidMakumbe
 			</a><br/>
@@ -4614,7 +4628,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/ebenjonathan">
 				<img src="https://avatars.githubusercontent.com/u/224844913?s=72&u=9543513bb70dd064b5f04a54bfc77e7516137b1a&v=4" width="24" alt="Avatar of ebenjonathan"> ebenjonathan
@@ -4628,7 +4642,7 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/Kedarcv">
 				<img src="https://avatars.githubusercontent.com/u/165142738?s=72&u=6da98a2ebd67bc55f8d5885386eef4187bab4fb5&v=4" width="24" alt="Avatar of Kedarcv"> Kedarcv
@@ -4640,20 +4654,6 @@ There are `923 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 		<td>Gweru, Zimbabwe</td>
 		<td>143</td>
 		<td>143</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/nigelmashayamombe">
-				<img src="https://avatars.githubusercontent.com/u/97184089?s=72&u=e0cb3aed84d86939a2664f2ee118eba6a95a4948&v=4" width="24" alt="Avatar of nigelmashayamombe"> nigelmashayamombe
-			</a><br/>
-			heisen_berg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulawayo , Zimbabwe</td>
-		<td>66</td>
-		<td>142</td>
 	</tr>
 	<tr>
 		<td>326</td>
