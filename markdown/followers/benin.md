@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `number of followers` of users in Benin on `2026/3/31 2:33 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `number of followers` of users in Benin on `2026/3/31 3:04 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -466,7 +466,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Xandrotech </td>
 		<td>No Twitter Username</td>
 		<td>Benin</td>
-		<td>80</td>
+		<td>81</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -7816,19 +7816,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>594</td>
 		<td>
-			<a href="https://github.com/Eudes20">
-				<img src="https://avatars.githubusercontent.com/u/68712475?s=72&v=4" width="24" alt="Avatar of Eudes20"> Eudes20
-			</a><br/>
-			Jean Eudes Dohou
-		</td>
-		<td>Self </td>
-		<td><a href="https://twitter.com/eudesDoh">eudesDoh</a></td>
-		<td>Benin</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
 			<a href="https://github.com/wenjus26">
 				<img src="https://avatars.githubusercontent.com/u/124069709?s=72&u=8a3651d9a299008dd03d7b0eb697bf4b4f92fc46&v=4" width="24" alt="Avatar of wenjus26"> wenjus26
 			</a><br/>
@@ -7837,6 +7824,19 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Arise Iip </td>
 		<td>No Twitter Username</td>
 		<td>BENIN</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/Eudes20">
+				<img src="https://avatars.githubusercontent.com/u/68712475?s=72&v=4" width="24" alt="Avatar of Eudes20"> Eudes20
+			</a><br/>
+			Jean Eudes Dohou
+		</td>
+		<td>Self </td>
+		<td><a href="https://twitter.com/eudesDoh">eudesDoh</a></td>
+		<td>Benin</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8440,6 +8440,19 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>642</td>
 		<td>
+			<a href="https://github.com/Obhenimen">
+				<img src="https://avatars.githubusercontent.com/u/40512019?s=72&u=315b100d4c01f68a2eb2c33fe487571dc126c536&v=4" width="24" alt="Avatar of Obhenimen"> Obhenimen
+			</a><br/>
+			John Philip
+		</td>
+		<td>Poscholars </td>
+		<td><a href="https://twitter.com/obhenimen">obhenimen</a></td>
+		<td>Benin</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
 			<a href="https://github.com/ericdegboe">
 				<img src="https://avatars.githubusercontent.com/u/12475978?s=72&u=10c2141c8cc35cba4018357432e73b922a58431a&v=4" width="24" alt="Avatar of ericdegboe"> ericdegboe
 			</a><br/>
@@ -8451,7 +8464,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/ebohsamuel">
 				<img src="https://avatars.githubusercontent.com/u/41180409?s=72&u=0a7b7836cf1d40c57ae7c5bd41ecf9ac02d9adb2&v=4" width="24" alt="Avatar of ebohsamuel"> ebohsamuel
@@ -8464,7 +8477,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/WebCodeCrafter">
 				<img src="https://avatars.githubusercontent.com/u/135434841?s=72&v=4" width="24" alt="Avatar of WebCodeCrafter"> WebCodeCrafter
@@ -8474,19 +8487,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Tailoring Sports Investements </td>
 		<td>No Twitter Username</td>
 		<td>Cotonou, Benin</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>645</td>
-		<td>
-			<a href="https://github.com/Obhenimen">
-				<img src="https://avatars.githubusercontent.com/u/40512019?s=72&u=315b100d4c01f68a2eb2c33fe487571dc126c536&v=4" width="24" alt="Avatar of Obhenimen"> Obhenimen
-			</a><br/>
-			John Philip
-		</td>
-		<td>Poscholars </td>
-		<td><a href="https://twitter.com/obhenimen">obhenimen</a></td>
-		<td>Benin</td>
 		<td>2</td>
 	</tr>
 	<tr>

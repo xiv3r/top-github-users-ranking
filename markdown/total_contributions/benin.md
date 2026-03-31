@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` and `private contributions` by users in Benin on `2026/3/31 2:33 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` and `private contributions` by users in Benin on `2026/3/31 3:04 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Abomey-Calavi</td>
 		<td>125</td>
-		<td>12966</td>
+		<td>12968</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -187,7 +187,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/chafik_Hadj">chafik_Hadj</a></td>
 		<td>Benin</td>
 		<td>33</td>
-		<td>4410</td>
+		<td>4411</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/juste_bocovo">juste_bocovo</a></td>
 		<td>Cotonou, Benin</td>
 		<td>38</td>
-		<td>4378</td>
+		<td>4387</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -649,7 +649,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Cotonou, BENIN</td>
 		<td>101</td>
-		<td>1578</td>
+		<td>1579</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -985,7 +985,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Cotonou/Bénin</td>
 		<td>17</td>
-		<td>1186</td>
+		<td>1187</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1474,8 +1474,8 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elton27_Dev">elton27_Dev</a></td>
 		<td>Bénin | Atlantique | Abomey-Calavi</td>
-		<td>357</td>
-		<td>706</td>
+		<td>358</td>
+		<td>707</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1544,8 +1544,8 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Leading Edge Virtual Insight<br/><br/></td>
 		<td><a href="https://twitter.com/Nuelaagafie">Nuelaagafie</a></td>
 		<td>Benin</td>
-		<td>688</td>
-		<td>688</td>
+		<td>689</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1656,8 +1656,8 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Gb Media </td>
 		<td><a href="https://twitter.com/ejovwogfreeman">ejovwogfreeman</a></td>
 		<td>Benin City, Edo State, Nigeria.</td>
-		<td>644</td>
-		<td>644</td>
+		<td>645</td>
+		<td>645</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1825,7 +1825,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/victoryosayi">victoryosayi</a></td>
 		<td>Benin City, Nigeria</td>
 		<td>0</td>
-		<td>605</td>
+		<td>606</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -3504,8 +3504,8 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cotonou,Littoral, Benin</td>
-		<td>188</td>
 		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -3776,6 +3776,20 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>263</td>
 		<td>
+			<a href="https://github.com/Koudous13">
+				<img src="https://avatars.githubusercontent.com/u/153217209?s=72&u=c28a0d2e90765230c8699d61ea4b06cfcdfaf115&v=4" width="24" alt="Avatar of Koudous13"> Koudous13
+			</a><br/>
+			Koudous Daouda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bénin, Parakou</td>
+		<td>140</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
 			<a href="https://github.com/kevinCaris">
 				<img src="https://avatars.githubusercontent.com/u/111183740?s=72&v=4" width="24" alt="Avatar of kevinCaris"> kevinCaris
 			</a><br/>
@@ -3788,7 +3802,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/MuriellekPINSO">
 				<img src="https://avatars.githubusercontent.com/u/122727089?s=72&v=4" width="24" alt="Avatar of MuriellekPINSO"> MuriellekPINSO
@@ -3798,20 +3812,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Woman In Tech </td>
 		<td>No Twitter Username</td>
 		<td>Cotonou</td>
-		<td>139</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/Koudous13">
-				<img src="https://avatars.githubusercontent.com/u/153217209?s=72&u=c28a0d2e90765230c8699d61ea4b06cfcdfaf115&v=4" width="24" alt="Avatar of Koudous13"> Koudous13
-			</a><br/>
-			Koudous Daouda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bénin, Parakou</td>
 		<td>139</td>
 		<td>139</td>
 	</tr>
@@ -4014,6 +4014,20 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>280</td>
 		<td>
+			<a href="https://github.com/wenjus26">
+				<img src="https://avatars.githubusercontent.com/u/124069709?s=72&u=8a3651d9a299008dd03d7b0eb697bf4b4f92fc46&v=4" width="24" alt="Avatar of wenjus26"> wenjus26
+			</a><br/>
+			Réjuste WENOUMI
+		</td>
+		<td>Arise Iip </td>
+		<td>No Twitter Username</td>
+		<td>BENIN</td>
+		<td>119</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a href="https://github.com/Eudes20">
 				<img src="https://avatars.githubusercontent.com/u/68712475?s=72&v=4" width="24" alt="Avatar of Eudes20"> Eudes20
 			</a><br/>
@@ -4026,7 +4040,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/obrymec">
 				<img src="https://avatars.githubusercontent.com/u/90160008?s=72&u=086a56cc3085965d93524f06f63d671a3fff05fd&v=4" width="24" alt="Avatar of obrymec"> obrymec
@@ -4036,20 +4050,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Benin</td>
-		<td>118</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/wenjus26">
-				<img src="https://avatars.githubusercontent.com/u/124069709?s=72&u=8a3651d9a299008dd03d7b0eb697bf4b4f92fc46&v=4" width="24" alt="Avatar of wenjus26"> wenjus26
-			</a><br/>
-			Réjuste WENOUMI
-		</td>
-		<td>Arise Iip </td>
-		<td>No Twitter Username</td>
-		<td>BENIN</td>
 		<td>118</td>
 		<td>118</td>
 	</tr>
@@ -7248,6 +7248,20 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>511</td>
 		<td>
+			<a href="https://github.com/Obhenimen">
+				<img src="https://avatars.githubusercontent.com/u/40512019?s=72&u=315b100d4c01f68a2eb2c33fe487571dc126c536&v=4" width="24" alt="Avatar of Obhenimen"> Obhenimen
+			</a><br/>
+			John Philip
+		</td>
+		<td>Poscholars </td>
+		<td><a href="https://twitter.com/obhenimen">obhenimen</a></td>
+		<td>Benin</td>
+		<td>8</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
 			<a href="https://github.com/azanmassou">
 				<img src="https://avatars.githubusercontent.com/u/122293061?s=72&u=7e4c8fd8589ddea5d92020df8df846559d85b724&v=4" width="24" alt="Avatar of azanmassou"> azanmassou
 			</a><br/>
@@ -7260,7 +7274,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/regisatl">
 				<img src="https://avatars.githubusercontent.com/u/129006552?s=72&u=47e798f7c5af9eb21e60bf2ffe8e3e23efac8d0a&v=4" width="24" alt="Avatar of regisatl"> regisatl
@@ -7274,7 +7288,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/mrstev3n">
 				<img src="https://avatars.githubusercontent.com/u/60428738?s=72&u=846257a441228a93e5d9a549146d03fea1a09fb7&v=4" width="24" alt="Avatar of mrstev3n"> mrstev3n
@@ -7288,7 +7302,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/Soum360">
 				<img src="https://avatars.githubusercontent.com/u/101164733?s=72&v=4" width="24" alt="Avatar of Soum360"> Soum360
@@ -7302,7 +7316,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/HPRISCA">
 				<img src="https://avatars.githubusercontent.com/u/101385241?s=72&u=f829508fc142c262b0cedcf473987629479b1bb8&v=4" width="24" alt="Avatar of HPRISCA"> HPRISCA
@@ -7316,7 +7330,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/ericdegboe">
 				<img src="https://avatars.githubusercontent.com/u/12475978?s=72&u=10c2141c8cc35cba4018357432e73b922a58431a&v=4" width="24" alt="Avatar of ericdegboe"> ericdegboe
@@ -7330,7 +7344,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/ebohsamuel">
 				<img src="https://avatars.githubusercontent.com/u/41180409?s=72&u=0a7b7836cf1d40c57ae7c5bd41ecf9ac02d9adb2&v=4" width="24" alt="Avatar of ebohsamuel"> ebohsamuel
@@ -7344,7 +7358,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/afkgit">
 				<img src="https://avatars.githubusercontent.com/u/17404929?s=72&u=d3ae487709c02ae9ebc55aac77e879b78e414352&v=4" width="24" alt="Avatar of afkgit"> afkgit
@@ -7358,7 +7372,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/petermission1">
 				<img src="https://avatars.githubusercontent.com/u/194737491?s=72&v=4" width="24" alt="Avatar of petermission1"> petermission1
@@ -7372,7 +7386,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/abinkanrin">
 				<img src="https://avatars.githubusercontent.com/u/63587486?s=72&u=5e4517c83ae035fbfd613181006400f669759499&v=4" width="24" alt="Avatar of abinkanrin"> abinkanrin
@@ -7386,7 +7400,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/phayvie">
 				<img src="https://avatars.githubusercontent.com/u/105940544?s=72&u=bfe2aacd5f577e01793a3ce93af9f63e024b4bd5&v=4" width="24" alt="Avatar of phayvie"> phayvie
@@ -7400,7 +7414,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/michael-on-code">
 				<img src="https://avatars.githubusercontent.com/u/56184694?s=72&u=0c6c76dc577ebd46ccf042004524cbe7690735d5&v=4" width="24" alt="Avatar of michael-on-code"> michael-on-code
@@ -7414,7 +7428,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/WebCodeCrafter">
 				<img src="https://avatars.githubusercontent.com/u/135434841?s=72&v=4" width="24" alt="Avatar of WebCodeCrafter"> WebCodeCrafter
@@ -7425,20 +7439,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Cotonou, Benin</td>
 		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/Obhenimen">
-				<img src="https://avatars.githubusercontent.com/u/40512019?s=72&u=315b100d4c01f68a2eb2c33fe487571dc126c536&v=4" width="24" alt="Avatar of Obhenimen"> Obhenimen
-			</a><br/>
-			John Philip
-		</td>
-		<td>Poscholars </td>
-		<td><a href="https://twitter.com/obhenimen">obhenimen</a></td>
-		<td>Benin</td>
-		<td>6</td>
 		<td>7</td>
 	</tr>
 	<tr>
