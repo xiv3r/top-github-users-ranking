@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` by users in Azerbaijan on `2026/3/30 11:25 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2026/3/31 1:45 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/orkhando">orkhando</a></td>
 		<td>Baku,Azerbaijan</td>
-		<td>2641</td>
+		<td>2643</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>Altincicek </td>
 		<td><a href="https://twitter.com/Aydinli42347">Aydinli42347</a></td>
 		<td>Azerbaijan</td>
-		<td>1965</td>
+		<td>1967</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -7803,19 +7803,6 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 	<tr>
 		<td>593</td>
 		<td>
-			<a href="https://github.com/vuusale">
-				<img src="https://avatars.githubusercontent.com/u/58344468?s=72&u=5fc7ca239270fbb6fca7c2fe8c65e8101b106088&v=4" width="24" alt="Avatar of vuusale"> vuusale
-			</a><br/>
-			Vusala Alakbarova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>594</td>
-		<td>
 			<a href="https://github.com/developedbyamin">
 				<img src="https://avatars.githubusercontent.com/u/104716259?s=72&v=4" width="24" alt="Avatar of developedbyamin"> developedbyamin
 			</a><br/>
@@ -7824,6 +7811,19 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan, Baku.</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/vuusale">
+				<img src="https://avatars.githubusercontent.com/u/58344468?s=72&u=5fc7ca239270fbb6fca7c2fe8c65e8101b106088&v=4" width="24" alt="Avatar of vuusale"> vuusale
+			</a><br/>
+			Vusala Alakbarova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
 		<td>3</td>
 	</tr>
 	<tr>

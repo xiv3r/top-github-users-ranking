@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` and `private contributions` by users in Azerbaijan on `2026/3/30 11:25 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` and `private contributions` by users in Azerbaijan on `2026/3/31 1:45 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -201,7 +201,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td><a href="https://twitter.com/hamiddev">hamiddev</a></td>
 		<td>Baku, Azerbaijan</td>
 		<td>4</td>
-		<td>4946</td>
+		<td>4948</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -382,8 +382,8 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/orkhando">orkhando</a></td>
 		<td>Baku,Azerbaijan</td>
-		<td>2641</td>
-		<td>2802</td>
+		<td>2643</td>
+		<td>2804</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -719,7 +719,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan,Baku</td>
 		<td>3</td>
-		<td>1972</td>
+		<td>1973</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -732,8 +732,8 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>Altincicek </td>
 		<td><a href="https://twitter.com/Aydinli42347">Aydinli42347</a></td>
 		<td>Azerbaijan</td>
-		<td>1965</td>
-		<td>1965</td>
+		<td>1967</td>
+		<td>1967</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -859,7 +859,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
 		<td>813</td>
-		<td>1779</td>
+		<td>1787</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1251,7 +1251,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan, Baku</td>
 		<td>172</td>
-		<td>1314</td>
+		<td>1315</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1293,7 +1293,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan Baku</td>
 		<td>38</td>
-		<td>1284</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1307,7 +1307,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan Baku</td>
 		<td>3</td>
-		<td>1268</td>
+		<td>1270</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1391,7 +1391,7 @@ There are `979 users`  in Azerbaijan. You need at least `15 followers` to be on 
 		<td><a href="https://twitter.com/VuqarHasanov14">VuqarHasanov14</a></td>
 		<td>Azerbaijan, Baku</td>
 		<td>4</td>
-		<td>1232</td>
+		<td>1233</td>
 	</tr>
 	<tr>
 		<td>93</td>
