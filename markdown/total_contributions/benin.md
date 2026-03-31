@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` and `private contributions` by users in Benin on `2026/3/31 3:04 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` and `private contributions` by users in Benin on `2026/3/31 3:14 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -117,7 +117,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Abomey-Calavi</td>
 		<td>125</td>
-		<td>12968</td>
+		<td>12970</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -201,7 +201,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/juste_bocovo">juste_bocovo</a></td>
 		<td>Cotonou, Benin</td>
 		<td>38</td>
-		<td>4387</td>
+		<td>4389</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -467,7 +467,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/Blvck_Excelsior">Blvck_Excelsior</a></td>
 		<td>Benin, Cotonou</td>
 		<td>419</td>
-		<td>2007</td>
+		<td>2023</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -1656,8 +1656,8 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Gb Media </td>
 		<td><a href="https://twitter.com/ejovwogfreeman">ejovwogfreeman</a></td>
 		<td>Benin City, Edo State, Nigeria.</td>
-		<td>645</td>
-		<td>645</td>
+		<td>646</td>
+		<td>646</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -2441,7 +2441,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Cotonou</td>
 		<td>49</td>
-		<td>415</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -4196,6 +4196,20 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>293</td>
 		<td>
+			<a href="https://github.com/justekc24">
+				<img src="https://avatars.githubusercontent.com/u/175146592?s=72&u=c3b96360ba999b9b2be8df7d0817de233d0322ec&v=4" width="24" alt="Avatar of justekc24"> justekc24
+			</a><br/>
+			Juste Kocou
+		</td>
+		<td>Institut Nationale Des Science<br/>Technoligies<br/>Et<br/>Industrielle<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cotonou, Bénin</td>
+		<td>76</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
 			<a href="https://github.com/Menor25">
 				<img src="https://avatars.githubusercontent.com/u/66224353?s=72&u=e1316534444bea55397e111363bf062fc2024693&v=4" width="24" alt="Avatar of Menor25"> Menor25
 			</a><br/>
@@ -4205,20 +4219,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/DevMenor">DevMenor</a></td>
 		<td>Benin, Edo State, Nigeria</td>
 		<td>97</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/justekc24">
-				<img src="https://avatars.githubusercontent.com/u/175146592?s=72&u=c3b96360ba999b9b2be8df7d0817de233d0322ec&v=4" width="24" alt="Avatar of justekc24"> justekc24
-			</a><br/>
-			Juste Kocou
-		</td>
-		<td>Institut Nationale Des Science<br/>Technoligies<br/>Et<br/>Industrielle<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cotonou, Bénin</td>
-		<td>75</td>
 		<td>97</td>
 	</tr>
 	<tr>

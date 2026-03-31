@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` by users in Benin on `2026/3/31 3:04 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` by users in Benin on `2026/3/31 3:14 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -271,7 +271,7 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Gb Media </td>
 		<td><a href="https://twitter.com/ejovwogfreeman">ejovwogfreeman</a></td>
 		<td>Benin City, Edo State, Nigeria.</td>
-		<td>645</td>
+		<td>646</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -2551,19 +2551,6 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 	<tr>
 		<td>189</td>
 		<td>
-			<a href="https://github.com/Chrisroid">
-				<img src="https://avatars.githubusercontent.com/u/56808916?s=72&v=4" width="24" alt="Avatar of Chrisroid"> Chrisroid
-			</a><br/>
-			Christian Asarhasa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chrisroid">chrisroid</a></td>
-		<td>Benin City, Nigeria</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
 			<a href="https://github.com/justekc24">
 				<img src="https://avatars.githubusercontent.com/u/175146592?s=72&u=c3b96360ba999b9b2be8df7d0817de233d0322ec&v=4" width="24" alt="Avatar of justekc24"> justekc24
 			</a><br/>
@@ -2572,6 +2559,19 @@ There are `875 users`  in Benin. You need at least `1 followers` to be on this l
 		<td>Institut Nationale Des Science<br/>Technoligies<br/>Et<br/>Industrielle<br/></td>
 		<td>No Twitter Username</td>
 		<td>Cotonou, Bénin</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/Chrisroid">
+				<img src="https://avatars.githubusercontent.com/u/56808916?s=72&v=4" width="24" alt="Avatar of Chrisroid"> Chrisroid
+			</a><br/>
+			Christian Asarhasa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chrisroid">chrisroid</a></td>
+		<td>Benin City, Nigeria</td>
 		<td>75</td>
 	</tr>
 	<tr>
