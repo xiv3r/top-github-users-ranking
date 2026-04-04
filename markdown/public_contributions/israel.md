@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` by users in Israel on `2026/4/3 11:34 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` by users in Israel on `2026/4/4 1:18 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>12358</td>
+		<td>12019</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -219,7 +219,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jossefharush">jossefharush</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>4431</td>
+		<td>4432</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -271,7 +271,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>3452</td>
+		<td>3453</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -297,7 +297,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>Payoneer </td>
 		<td><a href="https://twitter.com/tamir_dresher">tamir_dresher</a></td>
 		<td>Israel</td>
-		<td>3171</td>
+		<td>3207</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -427,7 +427,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>Red Hat, Inc. </td>
 		<td><a href="https://twitter.com/rdavid">rdavid</a></td>
 		<td>Rosh Haayin, Israel</td>
-		<td>2052</td>
+		<td>2053</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -843,7 +843,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>Codelite </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>1063</td>
+		<td>1067</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -5853,6 +5853,19 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 	<tr>
 		<td>443</td>
 		<td>
+			<a href="https://github.com/supercomputer7">
+				<img src="https://avatars.githubusercontent.com/u/51659396?s=72&v=4" width="24" alt="Avatar of supercomputer7"> supercomputer7
+			</a><br/>
+			Liav A.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
 			<a href="https://github.com/bissembert1618">
 				<img src="https://avatars.githubusercontent.com/u/34056189?s=72&u=4784e4d6cf0b3ab1d84793de18cd7f4c6a063866&v=4" width="24" alt="Avatar of bissembert1618"> bissembert1618
 			</a><br/>
@@ -5864,7 +5877,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/romanbsd">
 				<img src="https://avatars.githubusercontent.com/u/49660?s=72&u=b5cec2351cc5d0f50385fd4f4e0c4a4dc7825c57&v=4" width="24" alt="Avatar of romanbsd"> romanbsd
@@ -5877,7 +5890,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/alexilyaev">
 				<img src="https://avatars.githubusercontent.com/u/480469?s=72&v=4" width="24" alt="Avatar of alexilyaev"> alexilyaev
@@ -5890,7 +5903,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/obiwankenoobi">
 				<img src="https://avatars.githubusercontent.com/u/24577941?s=72&u=ac2db552caf1be8e81d428ce9d7a030c34057238&v=4" width="24" alt="Avatar of obiwankenoobi"> obiwankenoobi
@@ -5901,19 +5914,6 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>46</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/supercomputer7">
-				<img src="https://avatars.githubusercontent.com/u/51659396?s=72&v=4" width="24" alt="Avatar of supercomputer7"> supercomputer7
-			</a><br/>
-			Liav A.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>45</td>
 	</tr>
 	<tr>
 		<td>448</td>
