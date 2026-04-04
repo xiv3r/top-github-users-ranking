@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` by users in Israel on `2026/4/4 1:18 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` by users in Israel on `2026/4/4 2:33 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>12019</td>
+		<td>12360</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -297,7 +297,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>Payoneer </td>
 		<td><a href="https://twitter.com/tamir_dresher">tamir_dresher</a></td>
 		<td>Israel</td>
-		<td>3207</td>
+		<td>3231</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1415,7 +1415,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>Iai Elta 🛩️ </td>
 		<td>No Twitter Username</td>
 		<td>Israel 🇮🇱</td>
-		<td>607</td>
+		<td>608</td>
 	</tr>
 	<tr>
 		<td>102</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2026/4/4 1:18 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2026/4/4 2:33 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1623,7 +1623,7 @@ There are `930 users`  in Israel. You need at least `31 followers` to be on this
 		<td>@acsmotioncontrol </td>
 		<td>No Twitter Username</td>
 		<td>Israel </td>
-		<td>187</td>
+		<td>186</td>
 	</tr>
 	<tr>
 		<td>118</td>
