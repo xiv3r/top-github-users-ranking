@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand">
 </a>
 
-The `public contributions` and `private contributions` by users in Thailand on `2026/5/9 4:48 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
+The `public contributions` and `private contributions` by users in Thailand on `2026/5/9 5:07 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -144,8 +144,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Fakduai Logistics And Digital<br/>Platform<br/>Co.,<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Pak Chong, Nakhon Ratchasima, Thailand</td>
-		<td>16170</td>
-		<td>16218</td>
+		<td>16171</td>
+		<td>16219</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td><a href="https://twitter.com/EvarinthoSec">EvarinthoSec</a></td>
 		<td>Surat Thani, Thailand</td>
 		<td>34</td>
-		<td>16119</td>
+		<td>16120</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Trinity </td>
 		<td><a href="https://twitter.com/t27_dev">t27_dev</a></td>
 		<td>Thailand</td>
-		<td>7192</td>
-		<td>15355</td>
+		<td>7194</td>
+		<td>15357</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>@basilisk-labs  </td>
 		<td><a href="https://twitter.com/densmirnov">densmirnov</a></td>
 		<td>Chiang Mai, Thailand</td>
-		<td>6660</td>
-		<td>14024</td>
+		<td>6672</td>
+		<td>14040</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -271,7 +271,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td><a href="https://twitter.com/fukata">fukata</a></td>
 		<td>ChiangMai, Thailand</td>
 		<td>211</td>
-		<td>8433</td>
+		<td>8445</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +285,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Thailand</td>
 		<td>768</td>
-		<td>8169</td>
+		<td>8170</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -383,7 +383,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>King's Mongkut University of Technology North Bangkok</td>
 		<td>118</td>
-		<td>6153</td>
+		<td>6154</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -522,8 +522,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Adapt Centre </td>
 		<td><a href="https://twitter.com/bact">bact</a></td>
 		<td>Dublin and Bangkok</td>
-		<td>5275</td>
-		<td>5275</td>
+		<td>5276</td>
+		<td>5276</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -830,8 +830,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Bombsquad Inc, Frst Corp<br/></td>
 		<td>No Twitter Username</td>
 		<td>Los Angeles, Chicago, Copenhagen, Stockholm, Bangkok</td>
-		<td>2272</td>
-		<td>3753</td>
+		<td>2273</td>
+		<td>3754</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1250,8 +1250,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/TigerKaovilai">TigerKaovilai</a></td>
 		<td>Raleigh, NC, USA; Bangkok, Thailand</td>
-		<td>2018</td>
-		<td>2908</td>
+		<td>2020</td>
+		<td>2910</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1755,7 +1755,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td><a href="https://twitter.com/annibuliful">annibuliful</a></td>
 		<td>Thailand</td>
 		<td>230</td>
-		<td>2008</td>
+		<td>2013</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -2250,6 +2250,20 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 	<tr>
 		<td>154</td>
 		<td>
+			<a href="https://github.com/llinder">
+				<img src="https://avatars.githubusercontent.com/u/99359?s=72&u=f5c11c20d72efdd66f6551ade3368757b39e0fcd&v=4" width="24" alt="Avatar of llinder"> llinder
+			</a><br/>
+			Lance Linder
+		</td>
+		<td>Tetrate </td>
+		<td><a href="https://twitter.com/namocoder">namocoder</a></td>
+		<td>UnitedStates / Thailand</td>
+		<td>25</td>
+		<td>1710</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
 			<a href="https://github.com/nonkung51">
 				<img src="https://avatars.githubusercontent.com/u/27486521?s=72&u=71e7e71920a9ae0181e575daf643fdc9196ab4fc&v=4" width="24" alt="Avatar of nonkung51"> nonkung51
 			</a><br/>
@@ -2260,20 +2274,6 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Bangkok, Thailand</td>
 		<td>67</td>
 		<td>1709</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/llinder">
-				<img src="https://avatars.githubusercontent.com/u/99359?s=72&u=f5c11c20d72efdd66f6551ade3368757b39e0fcd&v=4" width="24" alt="Avatar of llinder"> llinder
-			</a><br/>
-			Lance Linder
-		</td>
-		<td>Tetrate </td>
-		<td><a href="https://twitter.com/namocoder">namocoder</a></td>
-		<td>UnitedStates / Thailand</td>
-		<td>25</td>
-		<td>1708</td>
 	</tr>
 	<tr>
 		<td>156</td>
@@ -2385,7 +2385,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Thailand, Phuket</td>
 		<td>799</td>
-		<td>1660</td>
+		<td>1661</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2748,8 +2748,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thailand</td>
-		<td>197</td>
-		<td>1486</td>
+		<td>198</td>
+		<td>1487</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -3561,7 +3561,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bangkok</td>
 		<td>0</td>
-		<td>1144</td>
+		<td>1145</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3966,8 +3966,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>@attajakorg </td>
 		<td><a href="https://twitter.com/attajak">attajak</a></td>
 		<td>Trang, Thailand</td>
-		<td>829</td>
-		<td>980</td>
+		<td>830</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -4848,8 +4848,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Pretagov </td>
 		<td><a href="https://twitter.com/djay75">djay75</a></td>
 		<td>Bangkok, Thailand</td>
-		<td>521</td>
-		<td>735</td>
+		<td>522</td>
+		<td>736</td>
 	</tr>
 	<tr>
 		<td>340</td>
@@ -5101,7 +5101,7 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Thailand, Bangkok</td>
 		<td>176</td>
-		<td>665</td>
+		<td>666</td>
 	</tr>
 	<tr>
 		<td>358</td>
@@ -6710,8 +6710,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>Adastra (thailand) </td>
 		<td>No Twitter Username</td>
 		<td>Bangkok, Thailand</td>
-		<td>205</td>
-		<td>340</td>
+		<td>208</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>473</td>
@@ -8334,8 +8334,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thailand</td>
-		<td>149</td>
-		<td>149</td>
+		<td>150</td>
+		<td>150</td>
 	</tr>
 	<tr>
 		<td>589</td>
@@ -8558,8 +8558,8 @@ There are `953 users`  in Thailand. You need at least `38 followers` to be on th
 		<td>@vectier </td>
 		<td>No Twitter Username</td>
 		<td>Bangkok, Thailand</td>
-		<td>41</td>
-		<td>116</td>
+		<td>42</td>
+		<td>117</td>
 	</tr>
 	<tr>
 		<td>605</td>
