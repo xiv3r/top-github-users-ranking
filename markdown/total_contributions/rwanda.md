@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` and `private contributions` by users in Rwanda on `2026/5/21 11:06 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` and `private contributions` by users in Rwanda on `2026/5/21 11:25 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -173,7 +173,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kigali, Rwanda</td>
 		<td>127</td>
-		<td>11647</td>
+		<td>11648</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -761,7 +761,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Rwanda-Kigali</td>
 		<td>373</td>
-		<td>3272</td>
+		<td>3273</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -845,7 +845,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/cedric921k">cedric921k</a></td>
 		<td>Kigali  Dubai</td>
 		<td>573</td>
-		<td>3035</td>
+		<td>3036</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1307,7 +1307,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kigali , Rwanda</td>
 		<td>2</td>
-		<td>2199</td>
+		<td>2201</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1993,7 +1993,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/rwajon">rwajon</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>5</td>
-		<td>1665</td>
+		<td>1667</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -3874,20 +3874,6 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 	<tr>
 		<td>270</td>
 		<td>
-			<a href="https://github.com/shemaeric">
-				<img src="https://avatars.githubusercontent.com/u/36806576?s=72&u=5dccf6e40218bea19e2947f54d7285b1e8c123f7&v=4" width="24" alt="Avatar of shemaeric"> shemaeric
-			</a><br/>
-			Shema Eric
-		</td>
-		<td>Qt Global Software Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
-		<td>0</td>
-		<td>944</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
 			<a href="https://github.com/Bien-venu">
 				<img src="https://avatars.githubusercontent.com/u/139080758?s=72&u=7f8bdb5ab4a26fd0d27e312ef4b27b06f4c08152&v=4" width="24" alt="Avatar of Bien-venu"> Bien-venu
 			</a><br/>
@@ -3897,6 +3883,20 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/isbienvenu">isbienvenu</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>88</td>
+		<td>945</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/shemaeric">
+				<img src="https://avatars.githubusercontent.com/u/36806576?s=72&u=5dccf6e40218bea19e2947f54d7285b1e8c123f7&v=4" width="24" alt="Avatar of shemaeric"> shemaeric
+			</a><br/>
+			Shema Eric
+		</td>
+		<td>Qt Global Software Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
+		<td>0</td>
 		<td>944</td>
 	</tr>
 	<tr>
@@ -5059,7 +5059,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/ncutixavier">ncutixavier</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>46</td>
-		<td>701</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>355</td>
@@ -5325,7 +5325,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/Diibro12">Diibro12</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>110</td>
-		<td>668</td>
+		<td>669</td>
 	</tr>
 	<tr>
 		<td>374</td>
@@ -6016,6 +6016,20 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 	<tr>
 		<td>423</td>
 		<td>
+			<a href="https://github.com/jsumbo">
+				<img src="https://avatars.githubusercontent.com/u/123503232?s=72&u=67f5d8c6f0d41b35a7d9ce24dde7daf3f40bbdc6&v=4" width="24" alt="Avatar of jsumbo"> jsumbo
+			</a><br/>
+			Jallah 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kigali, Rwanda</td>
+		<td>123</td>
+		<td>528</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
 			<a href="https://github.com/ChristianIsingizwe">
 				<img src="https://avatars.githubusercontent.com/u/149111755?s=72&v=4" width="24" alt="Avatar of ChristianIsingizwe"> ChristianIsingizwe
 			</a><br/>
@@ -6026,20 +6040,6 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>Rwanda</td>
 		<td>76</td>
 		<td>527</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/jsumbo">
-				<img src="https://avatars.githubusercontent.com/u/123503232?s=72&u=67f5d8c6f0d41b35a7d9ce24dde7daf3f40bbdc6&v=4" width="24" alt="Avatar of jsumbo"> jsumbo
-			</a><br/>
-			Jallah 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kigali, Rwanda</td>
-		<td>121</td>
-		<td>526</td>
 	</tr>
 	<tr>
 		<td>425</td>
@@ -7122,6 +7122,20 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 	<tr>
 		<td>502</td>
 		<td>
+			<a href="https://github.com/MaryGloria01">
+				<img src="https://avatars.githubusercontent.com/u/113646633?s=72&u=0971abebf630334b83bb91be52937903ae859491&v=4" width="24" alt="Avatar of MaryGloria01"> MaryGloria01
+			</a><br/>
+			Ogochukwu GloriaMary Nwanochiri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MaryGloria01">MaryGloria01</a></td>
+		<td>Kigali, Rwanda.</td>
+		<td>151</td>
+		<td>352</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
 			<a href="https://github.com/IRANZI">
 				<img src="https://avatars.githubusercontent.com/u/154799967?s=72&u=40f7067dacc7d42dd099f3cf217045d93c1f05cd&v=4" width="24" alt="Avatar of IRANZI"> IRANZI
 			</a><br/>
@@ -7134,7 +7148,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>352</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/API-Imperfect">
 				<img src="https://avatars.githubusercontent.com/u/3863497?s=72&u=d631907058c01c0f139f7239e840b8a891246c7a&v=4" width="24" alt="Avatar of API-Imperfect"> API-Imperfect
@@ -7148,7 +7162,7 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>351</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/AudryAshleenChivanga">
 				<img src="https://avatars.githubusercontent.com/u/127235974?s=72&v=4" width="24" alt="Avatar of AudryAshleenChivanga"> AudryAshleenChivanga
@@ -7159,20 +7173,6 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Rwanda</td>
 		<td>306</td>
-		<td>351</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/MaryGloria01">
-				<img src="https://avatars.githubusercontent.com/u/113646633?s=72&u=0971abebf630334b83bb91be52937903ae859491&v=4" width="24" alt="Avatar of MaryGloria01"> MaryGloria01
-			</a><br/>
-			Ogochukwu GloriaMary Nwanochiri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MaryGloria01">MaryGloria01</a></td>
-		<td>Kigali, Rwanda.</td>
-		<td>151</td>
 		<td>351</td>
 	</tr>
 	<tr>
@@ -7318,6 +7318,20 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 	<tr>
 		<td>516</td>
 		<td>
+			<a href="https://github.com/barackm">
+				<img src="https://avatars.githubusercontent.com/u/55465133?s=72&u=2324ac47d80ff34d8d84679fb0cbf9a06cfb7e60&v=4" width="24" alt="Avatar of barackm"> barackm
+			</a><br/>
+			Baraka Mukelenga
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/BarackMukelenga">BarackMukelenga</a></td>
+		<td>KIGALI RWANDA KK 8 Av 109</td>
+		<td>50</td>
+		<td>328</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
 			<a href="https://github.com/umutambyi-gad">
 				<img src="https://avatars.githubusercontent.com/u/65312850?s=72&u=e0675af8e27e371b58af95776b1b7c74d0fcdf85&v=4" width="24" alt="Avatar of umutambyi-gad"> umutambyi-gad
 			</a><br/>
@@ -7327,20 +7341,6 @@ There are `970 users`  in Rwanda. You need at least `11 followers` to be on this
 		<td><a href="https://twitter.com/umutambyi_gad">umutambyi_gad</a></td>
 		<td>Kigali, Rwanda</td>
 		<td>16</td>
-		<td>327</td>
-	</tr>
-	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/barackm">
-				<img src="https://avatars.githubusercontent.com/u/55465133?s=72&u=2324ac47d80ff34d8d84679fb0cbf9a06cfb7e60&v=4" width="24" alt="Avatar of barackm"> barackm
-			</a><br/>
-			Baraka Mukelenga
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/BarackMukelenga">BarackMukelenga</a></td>
-		<td>KIGALI RWANDA KK 8 Av 109</td>
-		<td>49</td>
 		<td>327</td>
 	</tr>
 	<tr>
