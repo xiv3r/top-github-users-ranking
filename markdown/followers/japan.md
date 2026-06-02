@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `number of followers` of users in Japan on `2026/6/2 10:51 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
+The `number of followers` of users in Japan on `2026/6/2 11:27 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -349,7 +349,7 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>@ppy  </td>
 		<td><a href="https://twitter.com/ppy">ppy</a></td>
 		<td>Japan</td>
-		<td>5041</td>
+		<td>5042</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -518,7 +518,7 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/unhappychoice_e">unhappychoice_e</a></td>
 		<td>Tokyo, Japan</td>
-		<td>3617</td>
+		<td>3616</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1116,7 +1116,7 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1454</td>
+		<td>1455</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -4176,6 +4176,19 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 	<tr>
 		<td>314</td>
 		<td>
+			<a href="https://github.com/tyru">
+				<img src="https://avatars.githubusercontent.com/u/48169?s=72&v=4" width="24" alt="Avatar of tyru"> tyru
+			</a><br/>
+			Fujiwara Takuya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_tyru_">_tyru_</a></td>
+		<td>Tokyo, Japan</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
 			<a href="https://github.com/try0">
 				<img src="https://avatars.githubusercontent.com/u/17096601?s=72&v=4" width="24" alt="Avatar of try0"> try0
 			</a><br/>
@@ -4187,7 +4200,7 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>526</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/dreamhunter2333">
 				<img src="https://avatars.githubusercontent.com/u/32295532?s=72&u=826e7cda860335b939445106f62e2d65425c8bed&v=4" width="24" alt="Avatar of dreamhunter2333"> dreamhunter2333
@@ -4197,19 +4210,6 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>@awsl-project </td>
 		<td><a href="https://twitter.com/dreamhunter2333">dreamhunter2333</a></td>
 		<td>Tokyo</td>
-		<td>525</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/tyru">
-				<img src="https://avatars.githubusercontent.com/u/48169?s=72&v=4" width="24" alt="Avatar of tyru"> tyru
-			</a><br/>
-			Fujiwara Takuya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_tyru_">_tyru_</a></td>
-		<td>Tokyo, Japan</td>
 		<td>525</td>
 	</tr>
 	<tr>
@@ -5736,19 +5736,6 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 	<tr>
 		<td>434</td>
 		<td>
-			<a href="https://github.com/sue445">
-				<img src="https://avatars.githubusercontent.com/u/608755?s=72&v=4" width="24" alt="Avatar of sue445"> sue445
-			</a><br/>
-			Go Sueyoshi
-		</td>
-		<td>@pixiv  </td>
-		<td><a href="https://twitter.com/sue445">sue445</a></td>
-		<td>Japan</td>
-		<td>407</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
 			<a href="https://github.com/john-rocky">
 				<img src="https://avatars.githubusercontent.com/u/23278992?s=72&u=808e599b4b434491f9d7666abdfb6dc5acb39491&v=4" width="24" alt="Avatar of john-rocky"> john-rocky
 			</a><br/>
@@ -5756,6 +5743,19 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JackdeS11">JackdeS11</a></td>
+		<td>Japan</td>
+		<td>408</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/sue445">
+				<img src="https://avatars.githubusercontent.com/u/608755?s=72&v=4" width="24" alt="Avatar of sue445"> sue445
+			</a><br/>
+			Go Sueyoshi
+		</td>
+		<td>@pixiv  </td>
+		<td><a href="https://twitter.com/sue445">sue445</a></td>
 		<td>Japan</td>
 		<td>407</td>
 	</tr>
@@ -9350,6 +9350,19 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 	<tr>
 		<td>712</td>
 		<td>
+			<a href="https://github.com/tatsuyah">
+				<img src="https://avatars.githubusercontent.com/u/5807827?s=72&u=e03976a6bd7f39e5efa35f51a49523858efc603a&v=4" width="24" alt="Avatar of tatsuyah"> tatsuyah
+			</a><br/>
+			hata
+		</td>
+		<td>Freee K.k. </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>281</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
 			<a href="https://github.com/karupanerura">
 				<img src="https://avatars.githubusercontent.com/u/374550?s=72&u=f92e269d06a8fde48221b9fbe0a9d9206ef9b7b0&v=4" width="24" alt="Avatar of karupanerura"> karupanerura
 			</a><br/>
@@ -9361,7 +9374,7 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/shinobi8894">
 				<img src="https://avatars.githubusercontent.com/u/56811611?s=72&u=95341087dba9d826970d773d8cf2d5deb1503611&v=4" width="24" alt="Avatar of shinobi8894"> shinobi8894
@@ -9371,19 +9384,6 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		<td>@rootsystem-dev </td>
 		<td><a href="https://twitter.com/TadashiAmano">TadashiAmano</a></td>
 		<td>Japan</td>
-		<td>280</td>
-	</tr>
-	<tr>
-		<td>714</td>
-		<td>
-			<a href="https://github.com/tatsuyah">
-				<img src="https://avatars.githubusercontent.com/u/5807827?s=72&u=e03976a6bd7f39e5efa35f51a49523858efc603a&v=4" width="24" alt="Avatar of tatsuyah"> tatsuyah
-			</a><br/>
-			hata
-		</td>
-		<td>Freee K.k. </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
 		<td>280</td>
 	</tr>
 	<tr>
