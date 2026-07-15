@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` by users in Azerbaijan on `2026/7/15 10:48 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2026/7/15 11:27 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -180,7 +180,7 @@ There are `978 users`  in Azerbaijan. You need at least `16 followers` to be on 
 		<td>Altincicek </td>
 		<td><a href="https://twitter.com/Aydinli42347">Aydinli42347</a></td>
 		<td>Azerbaijan</td>
-		<td>3345</td>
+		<td>3349</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -757,6 +757,19 @@ There are `978 users`  in Azerbaijan. You need at least `16 followers` to be on 
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/VuqarAhadli">
+				<img src="https://avatars.githubusercontent.com/u/194717824?s=72&u=608eb915cd7b6919638238b05225d7158ed0d4cf&v=4" width="24" alt="Avatar of VuqarAhadli"> VuqarAhadli
+			</a><br/>
+			Vuq17
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>371</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/arzummammadova">
 				<img src="https://avatars.githubusercontent.com/u/183047795?s=72&u=ae9629a11da034f2a9c72b776e3a771e9fb9c3ae&v=4" width="24" alt="Avatar of arzummammadova"> arzummammadova
 			</a><br/>
@@ -766,19 +779,6 @@ There are `978 users`  in Azerbaijan. You need at least `16 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
 		<td>370</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/VuqarAhadli">
-				<img src="https://avatars.githubusercontent.com/u/194717824?s=72&u=608eb915cd7b6919638238b05225d7158ed0d4cf&v=4" width="24" alt="Avatar of VuqarAhadli"> VuqarAhadli
-			</a><br/>
-			Vuq17
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>369</td>
 	</tr>
 	<tr>
 		<td>53</td>
