@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2026/7/12 4:58 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2026/7/24 5:04 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `151 users`  in San Marino. You need at least `0 followers` to be on this list.
+There are `154 users`  in San Marino. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,25 +116,11 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Aina Tech </td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>3976</td>
-		<td>7421</td>
+		<td>3977</td>
+		<td>7422</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/brunodotgg">
-				<img src="https://avatars.githubusercontent.com/u/35509391?s=72&u=d9a0e48625c1b8c12463295fdd5e9e971efabf90&v=4" width="24" alt="Avatar of brunodotgg"> brunodotgg
-			</a><br/>
-			Bruno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>27</td>
-		<td>3436</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/simooooone">
 				<img src="https://avatars.githubusercontent.com/u/926141?s=72&u=5b615c2094e137ce730611633ac28497a030ac15&v=4" width="24" alt="Avatar of simooooone"> simooooone
@@ -145,7 +131,21 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>4</td>
-		<td>3240</td>
+		<td>4383</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/brunodotgg">
+				<img src="https://avatars.githubusercontent.com/u/35509391?s=72&u=d9a0e48625c1b8c12463295fdd5e9e971efabf90&v=4" width="24" alt="Avatar of brunodotgg"> brunodotgg
+			</a><br/>
+			Bruno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>27</td>
+		<td>3362</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
 		<td>79</td>
-		<td>2360</td>
+		<td>2465</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>11</td>
-		<td>2314</td>
+		<td>2341</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Golee </td>
 		<td>No Twitter Username</td>
 		<td>San Marino / Milan / Remotely</td>
-		<td>30</td>
-		<td>2076</td>
+		<td>36</td>
+		<td>2135</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino, California</td>
 		<td>0</td>
-		<td>2014</td>
+		<td>2047</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Università Di Bologna </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>1166</td>
-		<td>1166</td>
+		<td>1068</td>
+		<td>1068</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -229,7 +229,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>2</td>
-		<td>724</td>
+		<td>748</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
 		<td>372</td>
-		<td>618</td>
+		<td>623</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -256,8 +256,8 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>458</td>
-		<td>458</td>
+		<td>448</td>
+		<td>448</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,8 +270,8 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>97</td>
-		<td>303</td>
+		<td>94</td>
+		<td>314</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,10 +285,24 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>15</td>
-		<td>262</td>
+		<td>298</td>
 	</tr>
 	<tr>
 		<td>14</td>
+		<td>
+			<a href="https://github.com/elena-sarti">
+				<img src="https://avatars.githubusercontent.com/u/233401460?s=72&u=a7346a58212be99cc7d7c656fa3be3022e567973&v=4" width="24" alt="Avatar of elena-sarti"> elena-sarti
+			</a><br/>
+			Elena Sarti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>197</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/LucaMulaa">
 				<img src="https://avatars.githubusercontent.com/u/69772746?s=72&u=961b0448adb076c00d1ba89616f82f5367223881&v=4" width="24" alt="Avatar of LucaMulaa"> LucaMulaa
@@ -302,7 +316,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/nicorsm">
 				<img src="https://avatars.githubusercontent.com/u/2906234?s=72&u=fe40047ee4a3af4d085f0933b49794554c0ea75d&v=4" width="24" alt="Avatar of nicorsm"> nicorsm
@@ -313,10 +327,24 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/nicorsm">nicorsm</a></td>
 		<td>San Marino</td>
 		<td>1</td>
-		<td>146</td>
+		<td>170</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/thu105">
+				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
+			</a><br/>
+			Hein Moe Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
+		<td>0</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/LadyMatteini">
 				<img src="https://avatars.githubusercontent.com/u/94371053?s=72&u=d45f74cfe57e7bb64de3021f70b22dda625d3315&v=4" width="24" alt="Avatar of LadyMatteini"> LadyMatteini
@@ -330,7 +358,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/Matt2309">
 				<img src="https://avatars.githubusercontent.com/u/32431933?s=72&u=3b971a276f6b98a8c08347cb6a13b2e3735489ae&v=4" width="24" alt="Avatar of Matt2309"> Matt2309
@@ -344,34 +372,6 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/thu105">
-				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
-			</a><br/>
-			Hein Moe Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>0</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/N1K0232">
-				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
-			</a><br/>
-			Nico
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
-		<td>Repubblica di San Marino</td>
-		<td>104</td>
-		<td>109</td>
-	</tr>
-	<tr>
 		<td>20</td>
 		<td>
 			<a href="https://github.com/alexsteinerr">
@@ -382,11 +382,53 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>83</td>
-		<td>108</td>
+		<td>84</td>
+		<td>109</td>
 	</tr>
 	<tr>
 		<td>21</td>
+		<td>
+			<a href="https://github.com/N1K0232">
+				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=1cf732902b8ef725ec58b6c1610627ab411573fc&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
+			</a><br/>
+			Nico
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
+		<td>Repubblica di San Marino</td>
+		<td>102</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/MattiaSemproli">
+				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
+			</a><br/>
+			Mattia Semproli
+		</td>
+		<td>University Of Bologna </td>
+		<td>No Twitter Username</td>
+		<td>Italy - San Marino</td>
+		<td>73</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/lucabio">
+				<img src="https://avatars.githubusercontent.com/u/6459123?s=72&u=839f5363861c208bd339b73e70aa9195efc35a97&v=4" width="24" alt="Avatar of lucabio"> lucabio
+			</a><br/>
+			Luca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>57</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/CometaSensitiva">
 				<img src="https://avatars.githubusercontent.com/u/122211053?s=72&u=186acbc99f20484bf96d966a7b9a31c54867ef70&v=4" width="24" alt="Avatar of CometaSensitiva"> CometaSensitiva
@@ -400,7 +442,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/NiykeeMoore">
 				<img src="https://avatars.githubusercontent.com/u/167813727?s=72&v=4" width="24" alt="Avatar of NiykeeMoore"> NiykeeMoore
@@ -414,7 +456,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/salugea">
 				<img src="https://avatars.githubusercontent.com/u/239292711?s=72&u=5175be56fc53a18466a031e903a2f77291e0c2e8&v=4" width="24" alt="Avatar of salugea"> salugea
@@ -428,21 +470,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/MattiaSemproli">
-				<img src="https://avatars.githubusercontent.com/u/116653139?s=72&u=823cb105f280df2e4a58d0af0c91dd28c0ee2ec2&v=4" width="24" alt="Avatar of MattiaSemproli"> MattiaSemproli
-			</a><br/>
-			Mattia Semproli
-		</td>
-		<td>University Of Bologna </td>
-		<td>No Twitter Username</td>
-		<td>Italy - San Marino</td>
-		<td>44</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>25</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/gerza-lab">
 				<img src="https://avatars.githubusercontent.com/u/203333663?s=72&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4" width="24" alt="Avatar of gerza-lab"> gerza-lab
@@ -456,7 +484,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/SergioBartsovski">
 				<img src="https://avatars.githubusercontent.com/u/227632966?s=72&u=6f5e7ac6ce386ccf08a49847107e000b5de67964&v=4" width="24" alt="Avatar of SergioBartsovski"> SergioBartsovski
@@ -470,21 +498,21 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>29</td>
 		<td>
-			<a href="https://github.com/jacquelinaWatson">
-				<img src="https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4" width="24" alt="Avatar of jacquelinaWatson"> jacquelinaWatson
+			<a href="https://github.com/gchen98">
+				<img src="https://avatars.githubusercontent.com/u/10994362?s=72&v=4" width="24" alt="Avatar of gchen98"> gchen98
 			</a><br/>
-			Jackie Watson
+			Gary K. Chen
 		</td>
-		<td>No Company</td>
+		<td>Pioneer Metals </td>
 		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>35</td>
-		<td>35</td>
+		<td>San Marino, CA</td>
+		<td>10</td>
+		<td>38</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/clagenna">
 				<img src="https://avatars.githubusercontent.com/u/3160018?s=72&v=4" width="24" alt="Avatar of clagenna"> clagenna
@@ -498,21 +526,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/elena-sarti">
-				<img src="https://avatars.githubusercontent.com/u/233401460?s=72&u=a7346a58212be99cc7d7c656fa3be3022e567973&v=4" width="24" alt="Avatar of elena-sarti"> elena-sarti
-			</a><br/>
-			Elena Sarti
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>28</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/gioele-santi">
 				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
@@ -526,7 +540,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/simorina">
 				<img src="https://avatars.githubusercontent.com/u/44091399?s=72&u=b55e43da5adeaac6fb4dc69b1ec0ea395349b3fd&v=4" width="24" alt="Avatar of simorina"> simorina
@@ -540,7 +554,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/samuele-mrapps">
 				<img src="https://avatars.githubusercontent.com/u/3425734?s=72&v=4" width="24" alt="Avatar of samuele-mrapps"> samuele-mrapps
@@ -554,7 +568,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/AlessandroBenti">
 				<img src="https://avatars.githubusercontent.com/u/6095166?s=72&v=4" width="24" alt="Avatar of AlessandroBenti"> AlessandroBenti
@@ -568,7 +582,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/ACE27rsm">
 				<img src="https://avatars.githubusercontent.com/u/42338212?s=72&u=3eb79deedbcdcc95ba157ea57afeb2db6c687158&v=4" width="24" alt="Avatar of ACE27rsm"> ACE27rsm
@@ -582,7 +596,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/robertgasperoni">
 				<img src="https://avatars.githubusercontent.com/u/38502586?s=72&u=44b645376e0209912ff61457d4b12d06f32e95f4&v=4" width="24" alt="Avatar of robertgasperoni"> robertgasperoni
@@ -592,11 +606,25 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>In The Net Di<br/>Gasperoni<br/>Robert<br/></td>
 		<td><a href="https://twitter.com/GasperoniRobert">GasperoniRobert</a></td>
 		<td>San Marino</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/jacquelinaWatson">
+				<img src="https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4" width="24" alt="Avatar of jacquelinaWatson"> jacquelinaWatson
+			</a><br/>
+			Jackie Watson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>14</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/ellenico77">
 				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of ellenico77"> ellenico77
@@ -610,7 +638,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/GBerardi">
 				<img src="https://avatars.githubusercontent.com/u/24650716?s=72&v=4" width="24" alt="Avatar of GBerardi"> GBerardi
@@ -624,7 +652,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/Goddari">
 				<img src="https://avatars.githubusercontent.com/u/135111290?s=72&u=53dd2d8994d5504bd6a6e9e55eaffae18a1543e2&v=4" width="24" alt="Avatar of Goddari"> Goddari
@@ -638,7 +666,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/agustingianni">
 				<img src="https://avatars.githubusercontent.com/u/102623?s=72&u=b1c72cebb72a49012050bf4aa25e55ccc5d513f2&v=4" width="24" alt="Avatar of agustingianni"> agustingianni
@@ -648,11 +676,11 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>7</td>
-		<td>7</td>
+		<td>5</td>
+		<td>5</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/sadeepsandew77">
 				<img src="https://avatars.githubusercontent.com/u/190706822?s=72&u=a5fa3234dd6eeec486af1ade9071e6198b53c1cd&v=4" width="24" alt="Avatar of sadeepsandew77"> sadeepsandew77
@@ -666,7 +694,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/stfDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/91994473?s=72&u=1138d665057da073d2d98f705bb33a3b1a31e583&v=4" width="24" alt="Avatar of stfDeveloper"> stfDeveloper
@@ -680,7 +708,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/agavss">
 				<img src="https://avatars.githubusercontent.com/u/9753429?s=72&v=4" width="24" alt="Avatar of agavss"> agavss
@@ -694,21 +722,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/lucabio">
-				<img src="https://avatars.githubusercontent.com/u/6459123?s=72&u=839f5363861c208bd339b73e70aa9195efc35a97&v=4" width="24" alt="Avatar of lucabio"> lucabio
-			</a><br/>
-			Luca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/GioeEng">
 				<img src="https://avatars.githubusercontent.com/u/87013463?s=72&u=d685efb41569ac9622b8e354cc20533b3ba01d97&v=4" width="24" alt="Avatar of GioeEng"> GioeEng
@@ -722,7 +736,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/sarpatil">
 				<img src="https://avatars.githubusercontent.com/u/296710475?s=72&v=4" width="24" alt="Avatar of sarpatil"> sarpatil
@@ -736,7 +750,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/bio71">
 				<img src="https://avatars.githubusercontent.com/u/57481438?s=72&v=4" width="24" alt="Avatar of bio71"> bio71
@@ -748,20 +762,6 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>San Marino</td>
 		<td>4</td>
 		<td>4</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/giacomobartoli">
-				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
-			</a><br/>
-			Giacomo Bartoli
-		</td>
-		<td>@ibm </td>
-		<td>No Twitter Username</td>
-		<td>San Marino, SMR</td>
-		<td>3</td>
-		<td>3</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -836,6 +836,48 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>53</td>
 		<td>
+			<a href="https://github.com/giacomobartoli">
+				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
+			</a><br/>
+			Giacomo Bartoli
+		</td>
+		<td>@ibm </td>
+		<td>No Twitter Username</td>
+		<td>San Marino, SMR</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/mircotamburini">
+				<img src="https://avatars.githubusercontent.com/u/37830748?s=72&v=4" width="24" alt="Avatar of mircotamburini"> mircotamburini
+			</a><br/>
+			No Name
+		</td>
+		<td>Arpa Technologies </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/maxmonterumisi">
+				<img src="https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4" width="24" alt="Avatar of maxmonterumisi"> maxmonterumisi
+			</a><br/>
+			Max Monterumisi
+		</td>
+		<td>Passepartout S.p.a. </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/cardinal76">
 				<img src="https://avatars.githubusercontent.com/u/2583886?s=72&u=a364945912b2a36ca86b0308422e5c0414e79c97&v=4" width="24" alt="Avatar of cardinal76"> cardinal76
 			</a><br/>
@@ -848,7 +890,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/3N37">
 				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
@@ -862,21 +904,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/maxmonterumisi">
-				<img src="https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4" width="24" alt="Avatar of maxmonterumisi"> maxmonterumisi
-			</a><br/>
-			Max Monterumisi
-		</td>
-		<td>Passepartout S.p.a. </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>56</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/zet-ka">
 				<img src="https://avatars.githubusercontent.com/u/245728386?s=72&u=d757309e1381c7d6de43e89c59cd689a2c7c36fe&v=4" width="24" alt="Avatar of zet-ka"> zet-ka
@@ -890,7 +918,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/pigorg">
 				<img src="https://avatars.githubusercontent.com/u/15121381?s=72&u=bbacc55cb85328195c4b1d632b18596f539c777b&v=4" width="24" alt="Avatar of pigorg"> pigorg
@@ -904,7 +932,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/gh-idb-dev">
 				<img src="https://avatars.githubusercontent.com/u/267055307?s=72&u=404db8fd4f26d0ca08b3af3966734ad0a7609d73&v=4" width="24" alt="Avatar of gh-idb-dev"> gh-idb-dev
@@ -918,21 +946,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/infinitai-srl">
-				<img src="https://avatars.githubusercontent.com/u/278913444?s=72&u=ea653816d3b63235bfd4ce813526f4bb881e0233&v=4" width="24" alt="Avatar of infinitai-srl"> infinitai-srl
-			</a><br/>
-			Infinit AI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/ematteo84-ux">
 				<img src="https://avatars.githubusercontent.com/u/249825743?s=72&v=4" width="24" alt="Avatar of ematteo84-ux"> ematteo84-ux
@@ -946,7 +960,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/Giuseppe-lo-russo">
 				<img src="https://avatars.githubusercontent.com/u/258239255?s=72&u=d5a3f71f65a0c53c649fa5e4ffbbb047d7286c54&v=4" width="24" alt="Avatar of Giuseppe-lo-russo"> Giuseppe-lo-russo
@@ -960,7 +974,49 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/infinitai-srl">
+				<img src="https://avatars.githubusercontent.com/u/278913444?s=72&u=ea653816d3b63235bfd4ce813526f4bb881e0233&v=4" width="24" alt="Avatar of infinitai-srl"> infinitai-srl
+			</a><br/>
+			Infinit AI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/MarcomariaTommyMiniero">
+				<img src="https://avatars.githubusercontent.com/u/308778813?s=72&v=4" width="24" alt="Avatar of MarcomariaTommyMiniero"> MarcomariaTommyMiniero
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/nutricaoiek">
+				<img src="https://avatars.githubusercontent.com/u/304808640?s=72&u=f6f4034986db8f9a8c197ac576411e5be450b2a1&v=4" width="24" alt="Avatar of nutricaoiek"> nutricaoiek
+			</a><br/>
+			Nutrição Inteligente
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rua Rafael Marino Neto, 120 Jardim Karaíba - Uberlândia - MG, 38411-186, Brazil</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/TaraNico">
 				<img src="https://avatars.githubusercontent.com/u/31731900?s=72&v=4" width="24" alt="Avatar of TaraNico"> TaraNico
@@ -974,7 +1030,7 @@ There are `151 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/christian-ratiozero">
 				<img src="https://avatars.githubusercontent.com/u/240969336?s=72&u=7720aad26b699fc1f88d6a7caee62690828da2e5&v=4" width="24" alt="Avatar of christian-ratiozero"> christian-ratiozero
