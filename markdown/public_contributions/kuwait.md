@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `public contributions` by users in Kuwait on `2026/8/2 9:46 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `public contributions` by users in Kuwait on `2026/8/2 10:16 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1537,6 +1537,19 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>111</td>
 		<td>
+			<a href="https://github.com/japndisal">
+				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
+			</a><br/>
+			Shehan Sumudhitha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
 			<a href="https://github.com/Jaffardev">
 				<img src="https://avatars.githubusercontent.com/u/60552833?s=72&u=805573f3da7a258cd6d3f1dbd9972d37f83eca33&v=4" width="24" alt="Avatar of Jaffardev"> Jaffardev
 			</a><br/>
@@ -1548,7 +1561,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/AlwaleedAlyan">
 				<img src="https://avatars.githubusercontent.com/u/166330668?s=72&v=4" width="24" alt="Avatar of AlwaleedAlyan"> AlwaleedAlyan
@@ -1561,7 +1574,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/IbrahimRajou">
 				<img src="https://avatars.githubusercontent.com/u/193769067?s=72&u=e30fd7c4f1d7616b71d7bf3338a313350433bb6f&v=4" width="24" alt="Avatar of IbrahimRajou"> IbrahimRajou
@@ -1574,25 +1587,12 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/1am1n">
 				<img src="https://avatars.githubusercontent.com/u/143885826?s=72&u=7c882bf75d99496e672d0ed95e35b6fbf5b375fe&v=4" width="24" alt="Avatar of 1am1n"> 1am1n
 			</a><br/>
 			Mohammed Amin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/japndisal">
-				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
-			</a><br/>
-			Shehan Sumudhitha
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>

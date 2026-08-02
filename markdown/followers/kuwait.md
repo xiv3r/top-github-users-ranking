@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `number of followers` of users in Kuwait on `2026/8/2 9:46 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `number of followers` of users in Kuwait on `2026/8/2 10:16 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -7647,6 +7647,19 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>581</td>
 		<td>
+			<a href="https://github.com/japndisal">
+				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
+			</a><br/>
+			Shehan Sumudhitha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
 			<a href="https://github.com/Joshua-V03">
 				<img src="https://avatars.githubusercontent.com/u/182806031?s=72&u=ab16e63b71165531b62eb7c395dc3f708c52ddfe&v=4" width="24" alt="Avatar of Joshua-V03"> Joshua-V03
 			</a><br/>
@@ -7658,25 +7671,12 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/1am1n">
 				<img src="https://avatars.githubusercontent.com/u/143885826?s=72&u=7c882bf75d99496e672d0ed95e35b6fbf5b375fe&v=4" width="24" alt="Avatar of 1am1n"> 1am1n
 			</a><br/>
 			Mohammed Amin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
-			<a href="https://github.com/japndisal">
-				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
-			</a><br/>
-			Shehan Sumudhitha
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>

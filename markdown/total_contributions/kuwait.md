@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `public contributions` and `private contributions` by users in Kuwait on `2026/8/2 9:46 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `public contributions` and `private contributions` by users in Kuwait on `2026/8/2 10:16 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -425,7 +425,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/tammerofficial">tammerofficial</a></td>
 		<td>Kuwait City</td>
 		<td>146</td>
-		<td>1954</td>
+		<td>1956</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -453,7 +453,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/sh_brhoom">sh_brhoom</a></td>
 		<td>Kuwait</td>
 		<td>31</td>
-		<td>1828</td>
+		<td>1831</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -565,7 +565,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/dmakwt">dmakwt</a></td>
 		<td>Kuwait</td>
 		<td>30</td>
-		<td>1499</td>
+		<td>1500</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -943,7 +943,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>2</td>
-		<td>763</td>
+		<td>764</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -2950,6 +2950,20 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>204</td>
 		<td>
+			<a href="https://github.com/japndisal">
+				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
+			</a><br/>
+			Shehan Sumudhitha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>53</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a href="https://github.com/khm56">
 				<img src="https://avatars.githubusercontent.com/u/43205666?s=72&u=413850c33e4a47bf9baccbb34c47b0124114eb03&v=4" width="24" alt="Avatar of khm56"> khm56
 			</a><br/>
@@ -2962,7 +2976,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Jaffardev">
 				<img src="https://avatars.githubusercontent.com/u/60552833?s=72&u=805573f3da7a258cd6d3f1dbd9972d37f83eca33&v=4" width="24" alt="Avatar of Jaffardev"> Jaffardev
@@ -2976,7 +2990,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/AlwaleedAlyan">
 				<img src="https://avatars.githubusercontent.com/u/166330668?s=72&v=4" width="24" alt="Avatar of AlwaleedAlyan"> AlwaleedAlyan
@@ -2990,7 +3004,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/Joshua-V03">
 				<img src="https://avatars.githubusercontent.com/u/182806031?s=72&u=ab16e63b71165531b62eb7c395dc3f708c52ddfe&v=4" width="24" alt="Avatar of Joshua-V03"> Joshua-V03
@@ -3004,7 +3018,7 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/IbrahimRajou">
 				<img src="https://avatars.githubusercontent.com/u/193769067?s=72&u=e30fd7c4f1d7616b71d7bf3338a313350433bb6f&v=4" width="24" alt="Avatar of IbrahimRajou"> IbrahimRajou
@@ -3018,26 +3032,12 @@ There are `847 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/1am1n">
 				<img src="https://avatars.githubusercontent.com/u/143885826?s=72&u=7c882bf75d99496e672d0ed95e35b6fbf5b375fe&v=4" width="24" alt="Avatar of 1am1n"> 1am1n
 			</a><br/>
 			Mohammed Amin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>51</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/japndisal">
-				<img src="https://avatars.githubusercontent.com/u/76446800?s=72&u=6b4053159d80cc81af960434d1c9752f620b6a4e&v=4" width="24" alt="Avatar of japndisal"> japndisal
-			</a><br/>
-			Shehan Sumudhitha
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
