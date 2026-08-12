@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg" alt="Iraq">
 </a>
 
-The `public contributions` and `private contributions` by users in Iraq on `2026/8/12 12:08 AM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
+The `public contributions` and `private contributions` by users in Iraq on `2026/8/12 12:17 AM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1265,7 +1265,7 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td><a href="https://twitter.com/uAliAmer">uAliAmer</a></td>
 		<td>Baghdad</td>
 		<td>197</td>
-		<td>2299</td>
+		<td>2300</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1405,7 +1405,7 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td><a href="https://twitter.com/tahseen_dev">tahseen_dev</a></td>
 		<td>Iraq</td>
 		<td>9</td>
-		<td>2102</td>
+		<td>2103</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1965,7 +1965,7 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>najaf</td>
 		<td>6</td>
-		<td>1634</td>
+		<td>1636</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2866,20 +2866,6 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 	<tr>
 		<td>198</td>
 		<td>
-			<a href="https://github.com/RaafatTurki">
-				<img src="https://avatars.githubusercontent.com/u/16624558?s=72&u=dc397d94ea6c992d5a2a1144ca87ce296dde4cd2&v=4" width="24" alt="Avatar of RaafatTurki"> RaafatTurki
-			</a><br/>
-			Raafat Turki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iraq</td>
-		<td>188</td>
-		<td>1161</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
 			<a href="https://github.com/hamagold">
 				<img src="https://avatars.githubusercontent.com/u/25257150?s=72&u=2acf3e41aca3e2643fd391a1c6f43b5c4060712f&v=4" width="24" alt="Avatar of hamagold"> hamagold
 			</a><br/>
@@ -2888,8 +2874,22 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td>Hamagold </td>
 		<td><a href="https://twitter.com/hama_inux">hama_inux</a></td>
 		<td>iraq/kurdistan/Erbil</td>
-		<td>687</td>
-		<td>1156</td>
+		<td>695</td>
+		<td>1164</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/RaafatTurki">
+				<img src="https://avatars.githubusercontent.com/u/16624558?s=72&u=dc397d94ea6c992d5a2a1144ca87ce296dde4cd2&v=4" width="24" alt="Avatar of RaafatTurki"> RaafatTurki
+			</a><br/>
+			Raafat Turki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iraq</td>
+		<td>189</td>
+		<td>1162</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -6520,6 +6520,20 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 	<tr>
 		<td>459</td>
 		<td>
+			<a href="https://github.com/mustafaa960">
+				<img src="https://avatars.githubusercontent.com/u/17258498?s=72&u=2ea2e1304100418d64e81e7824bfdad1704c7aff&v=4" width="24" alt="Avatar of mustafaa960"> mustafaa960
+			</a><br/>
+			eng_mustafa
+		</td>
+		<td>Open-code-iq </td>
+		<td>No Twitter Username</td>
+		<td>baghdad</td>
+		<td>14</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
 			<a href="https://github.com/is-L7N">
 				<img src="https://avatars.githubusercontent.com/u/175503197?s=72&u=7bc5cf3d77d7301b1e13d94a9990c31618e5bec8&v=4" width="24" alt="Avatar of is-L7N"> is-L7N
 			</a><br/>
@@ -6532,7 +6546,7 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/asiaihsan">
 				<img src="https://avatars.githubusercontent.com/u/187974509?s=72&u=4e469294052d1e7e78de05c005cf82c031dad450&v=4" width="24" alt="Avatar of asiaihsan"> asiaihsan
@@ -6543,20 +6557,6 @@ There are `955 users`  in Iraq. You need at least `7 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Irbil, Iraq</td>
 		<td>23</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/mustafaa960">
-				<img src="https://avatars.githubusercontent.com/u/17258498?s=72&u=2ea2e1304100418d64e81e7824bfdad1704c7aff&v=4" width="24" alt="Avatar of mustafaa960"> mustafaa960
-			</a><br/>
-			eng_mustafa
-		</td>
-		<td>Open-code-iq </td>
-		<td>No Twitter Username</td>
-		<td>baghdad</td>
-		<td>14</td>
 		<td>102</td>
 	</tr>
 	<tr>
