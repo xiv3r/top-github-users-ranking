@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" alt="Malawi">
 </a>
 
-The `public contributions` by users in Malawi on `2026/8/13 5:42 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
+The `public contributions` by users in Malawi on `2026/8/13 5:53 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2018,6 +2018,19 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/MMphepo">
+				<img src="https://avatars.githubusercontent.com/u/164493503?s=72&u=cd01298beb99ffe34d14e0794fb1f98ee81bfbd0&v=4" width="24" alt="Avatar of MMphepo"> MMphepo
+			</a><br/>
+			Maath Mphepo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malawi</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/MedsonKasese">
 				<img src="https://avatars.githubusercontent.com/u/178281909?s=72&u=2db689b80f1db5ac9b38fbfcf199bbd39bc3e954&v=4" width="24" alt="Avatar of MedsonKasese"> MedsonKasese
 			</a><br/>
@@ -2029,7 +2042,7 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/ruth-chirwa">
 				<img src="https://avatars.githubusercontent.com/u/129673094?s=72&u=d5ca5ba8ac44a4c83cafef027ad92b0fcdf61765&v=4" width="24" alt="Avatar of ruth-chirwa"> ruth-chirwa
@@ -2040,19 +2053,6 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/lemonxx13">lemonxx13</a></td>
 		<td>Malawi</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/MMphepo">
-				<img src="https://avatars.githubusercontent.com/u/164493503?s=72&u=cd01298beb99ffe34d14e0794fb1f98ee81bfbd0&v=4" width="24" alt="Avatar of MMphepo"> MMphepo
-			</a><br/>
-			Maath Mphepo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malawi</td>
-		<td>90</td>
 	</tr>
 	<tr>
 		<td>151</td>

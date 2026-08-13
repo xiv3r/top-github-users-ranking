@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" alt="Malawi">
 </a>
 
-The `public contributions` and `private contributions` by users in Malawi on `2026/8/13 5:42 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
+The `public contributions` and `private contributions` by users in Malawi on `2026/8/13 5:53 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -1573,7 +1573,7 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
 		<td>395</td>
-		<td>949</td>
+		<td>953</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -3505,7 +3505,7 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Blantyre</td>
 		<td>17</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -3566,6 +3566,20 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 	<tr>
 		<td>248</td>
 		<td>
+			<a href="https://github.com/MMphepo">
+				<img src="https://avatars.githubusercontent.com/u/164493503?s=72&u=cd01298beb99ffe34d14e0794fb1f98ee81bfbd0&v=4" width="24" alt="Avatar of MMphepo"> MMphepo
+			</a><br/>
+			Maath Mphepo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malawi</td>
+		<td>93</td>
+		<td>237</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
 			<a href="https://github.com/wtec1">
 				<img src="https://avatars.githubusercontent.com/u/174201581?s=72&u=b58e84aee76709384b77510620496b151af74da7&v=4" width="24" alt="Avatar of wtec1"> wtec1
 			</a><br/>
@@ -3578,7 +3592,7 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/Mzota2">
 				<img src="https://avatars.githubusercontent.com/u/103681065?s=72&u=724e3f7d6a1768daffdc1dae7956e306555a600c&v=4" width="24" alt="Avatar of Mzota2"> Mzota2
@@ -3592,7 +3606,7 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/zikani">
 				<img src="https://avatars.githubusercontent.com/u/46520540?s=72&u=7b8b7fd4de23fe3bb1cd5d55d381dae20b731eb1&v=4" width="24" alt="Avatar of zikani"> zikani
@@ -3603,20 +3617,6 @@ There are `886 users`  in Malawi. You need at least `1 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malawi, Mzuzu</td>
 		<td>52</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/MMphepo">
-				<img src="https://avatars.githubusercontent.com/u/164493503?s=72&u=cd01298beb99ffe34d14e0794fb1f98ee81bfbd0&v=4" width="24" alt="Avatar of MMphepo"> MMphepo
-			</a><br/>
-			Maath Mphepo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malawi</td>
-		<td>90</td>
 		<td>234</td>
 	</tr>
 	<tr>
