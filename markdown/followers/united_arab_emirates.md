@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2026/8/8 11:00 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2026/8/16 8:57 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `138 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>58</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -237,19 +237,6 @@ There are `138 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/hujairi-zz">
-				<img src="https://avatars.githubusercontent.com/u/6237159?s=72&v=4" width="24" alt="Avatar of hujairi-zz"> hujairi-zz
-			</a><br/>
-			Hasan Hujairi
-		</td>
-		<td>Sharjah Art Foundation </td>
-		<td>No Twitter Username</td>
-		<td>Sharjah / Manama</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/rootFaheem">
 				<img src="https://avatars.githubusercontent.com/u/40671244?s=72&u=f0c951f7b184d7c3e2f32286460bd82da8d71859&v=4" width="24" alt="Avatar of rootFaheem"> rootFaheem
 			</a><br/>
@@ -258,6 +245,19 @@ There are `138 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Https://www.storydig </td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/hujairi-zz">
+				<img src="https://avatars.githubusercontent.com/u/6237159?s=72&v=4" width="24" alt="Avatar of hujairi-zz"> hujairi-zz
+			</a><br/>
+			Hasan Hujairi
+		</td>
+		<td>Sharjah Art Foundation </td>
+		<td>No Twitter Username</td>
+		<td>Sharjah / Manama</td>
 		<td>9</td>
 	</tr>
 	<tr>
