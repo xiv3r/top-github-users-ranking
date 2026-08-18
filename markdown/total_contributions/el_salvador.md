@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `public contributions` and `private contributions` by users in El Salvador on `2026/8/18 8:29 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `public contributions` and `private contributions` by users in El Salvador on `2026/8/18 8:43 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td><a href="https://twitter.com/chriswoolum">chriswoolum</a></td>
 		<td>Santa Ana, CA</td>
 		<td>31</td>
-		<td>7876</td>
+		<td>7877</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -173,7 +173,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td><a href="https://twitter.com/AlainDimabuyo">AlainDimabuyo</a></td>
 		<td>San Martin Valdeiglesias, Madrid</td>
 		<td>16</td>
-		<td>6422</td>
+		<td>6424</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -229,7 +229,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Santa Ana, San Jose Costa Rica</td>
 		<td>92</td>
-		<td>4314</td>
+		<td>4316</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -271,7 +271,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Santa Ana, CA</td>
 		<td>38</td>
-		<td>3403</td>
+		<td>3404</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -341,7 +341,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Santa Tecla, El Salvador</td>
 		<td>131</td>
-		<td>2883</td>
+		<td>2884</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -383,7 +383,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td><a href="https://twitter.com/thecodegangsta">thecodegangsta</a></td>
 		<td>Santa Ana CA</td>
 		<td>101</td>
-		<td>2525</td>
+		<td>2526</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -509,7 +509,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Santa Tecla, El Salvador</td>
 		<td>19</td>
-		<td>1973</td>
+		<td>1975</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -523,7 +523,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td><a href="https://twitter.com/loarca_irl">loarca_irl</a></td>
 		<td>San Salvador, El Salvador</td>
 		<td>5</td>
-		<td>1967</td>
+		<td>1968</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1167,7 +1167,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>San Salvador, El Salvador</td>
 		<td>0</td>
-		<td>820</td>
+		<td>823</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1194,8 +1194,8 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Salvador</td>
-		<td>797</td>
 		<td>798</td>
+		<td>799</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1502,8 +1502,8 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Salvador, El Salvador</td>
-		<td>429</td>
-		<td>556</td>
+		<td>430</td>
+		<td>557</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1872,6 +1872,20 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 	<tr>
 		<td>127</td>
 		<td>
+			<a href="https://github.com/Tuquina">
+				<img src="https://avatars.githubusercontent.com/u/54123352?s=72&u=ef6ff158379efe0bb6101ee6911db3e52f559b2f&v=4" width="24" alt="Avatar of Tuquina"> Tuquina
+			</a><br/>
+			Fernando Nahuel Tuquina
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FernandoTuquina">FernandoTuquina</a></td>
+		<td>San Miguel de Tucumán - Tucumán - Argentina</td>
+		<td>352</td>
+		<td>352</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a href="https://github.com/adogrz">
 				<img src="https://avatars.githubusercontent.com/u/67987517?s=72&u=d5c0bb403e1ca6423288a17f9df4013cb4308f7e&v=4" width="24" alt="Avatar of adogrz"> adogrz
 			</a><br/>
@@ -1881,20 +1895,6 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>San Salvador, El Salvador</td>
 		<td>156</td>
-		<td>351</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/Tuquina">
-				<img src="https://avatars.githubusercontent.com/u/54123352?s=72&u=ef6ff158379efe0bb6101ee6911db3e52f559b2f&v=4" width="24" alt="Avatar of Tuquina"> Tuquina
-			</a><br/>
-			Fernando Nahuel Tuquina
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FernandoTuquina">FernandoTuquina</a></td>
-		<td>San Miguel de Tucumán - Tucumán - Argentina</td>
-		<td>351</td>
 		<td>351</td>
 	</tr>
 	<tr>

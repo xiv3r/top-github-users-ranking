@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `public contributions` by users in El Salvador on `2026/8/18 8:29 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `public contributions` by users in El Salvador on `2026/8/18 8:43 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -284,7 +284,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Salvador</td>
-		<td>797</td>
+		<td>798</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -497,19 +497,6 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/eliseo-arevalo">
-				<img src="https://avatars.githubusercontent.com/u/96401071?s=72&u=452c044a363d089203e5aff7a6288bc119139732&v=4" width="24" alt="Avatar of eliseo-arevalo"> eliseo-arevalo
-			</a><br/>
-			Eliseo Arévalo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eliseodev">eliseodev</a></td>
-		<td>San Salvador, El Salvador</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/icarloscornejo">
 				<img src="https://avatars.githubusercontent.com/u/11749476?s=72&u=7947bdb017089f68fb892c425dd6d9602f9f6feb&v=4" width="24" alt="Avatar of icarloscornejo"> icarloscornejo
 			</a><br/>
@@ -517,6 +504,19 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>San Salvador, El Salvador</td>
+		<td>430</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/eliseo-arevalo">
+				<img src="https://avatars.githubusercontent.com/u/96401071?s=72&u=452c044a363d089203e5aff7a6288bc119139732&v=4" width="24" alt="Avatar of eliseo-arevalo"> eliseo-arevalo
+			</a><br/>
+			Eliseo Arévalo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eliseodev">eliseodev</a></td>
 		<td>San Salvador, El Salvador</td>
 		<td>429</td>
 	</tr>
@@ -648,7 +648,7 @@ There are `986 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/FernandoTuquina">FernandoTuquina</a></td>
 		<td>San Miguel de Tucumán - Tucumán - Argentina</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>43</td>
