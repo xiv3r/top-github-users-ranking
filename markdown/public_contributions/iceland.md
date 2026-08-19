@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `public contributions` by users in Iceland on `2026/8/19 2:52 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `public contributions` by users in Iceland on `2026/8/19 3:08 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -245,7 +245,7 @@ There are `881 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Selfemployer </td>
 		<td>No Twitter Username</td>
 		<td>Iceland, Reykjavík</td>
-		<td>1711</td>
+		<td>1717</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -284,7 +284,7 @@ There are `881 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>Tunnels.is </td>
 		<td><a href="https://twitter.com/keyb1nd">keyb1nd</a></td>
 		<td>Iceland</td>
-		<td>1309</td>
+		<td>1310</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -999,7 +999,7 @@ There are `881 users`  in Iceland. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>321</td>
+		<td>324</td>
 	</tr>
 	<tr>
 		<td>70</td>
