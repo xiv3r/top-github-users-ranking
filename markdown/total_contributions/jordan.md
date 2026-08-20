@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2026/8/20 4:19 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2026/8/20 4:48 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -131,7 +131,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td><a href="https://twitter.com/aaronshaf">aaronshaf</a></td>
 		<td>South Jordan, UT</td>
 		<td>2286</td>
-		<td>18636</td>
+		<td>18642</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -313,7 +313,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
 		<td>80</td>
-		<td>5307</td>
+		<td>5310</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -341,7 +341,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Jordan</td>
 		<td>466</td>
-		<td>5269</td>
+		<td>5270</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -355,7 +355,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Jordan, Amman</td>
 		<td>86</td>
-		<td>5249</td>
+		<td>5253</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -677,7 +677,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td><a href="https://twitter.com/utahcon">utahcon</a></td>
 		<td>South Jordan, UT</td>
 		<td>51</td>
-		<td>2757</td>
+		<td>2758</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -733,7 +733,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td><a href="https://twitter.com/AbdallahD3v">AbdallahD3v</a></td>
 		<td>Amman, Jordan</td>
 		<td>335</td>
-		<td>2478</td>
+		<td>2479</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -845,7 +845,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>South Jordan, Utah</td>
 		<td>300</td>
-		<td>2165</td>
+		<td>2167</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1055,7 +1055,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Jordan, Amman</td>
 		<td>6</td>
-		<td>1833</td>
+		<td>1834</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1307,7 +1307,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td><a href="https://twitter.com/mohammadsjaber">mohammadsjaber</a></td>
 		<td>Amman, Jordan</td>
 		<td>0</td>
-		<td>1526</td>
+		<td>1528</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1489,7 +1489,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>South Jordan, UT</td>
 		<td>134</td>
-		<td>1345</td>
+		<td>1346</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1587,7 +1587,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Jordan</td>
 		<td>0</td>
-		<td>1224</td>
+		<td>1225</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1699,7 +1699,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td><a href="https://twitter.com/zeyadslama23">zeyadslama23</a></td>
 		<td>Jordan/Amman</td>
 		<td>236</td>
-		<td>1141</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -4014,6 +4014,20 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 	<tr>
 		<td>280</td>
 		<td>
+			<a href="https://github.com/Ahmad-AbuOsbeh">
+				<img src="https://avatars.githubusercontent.com/u/80678895?s=72&u=0fe078c97115c01a7554adb3c545fe42bca77029&v=4" width="24" alt="Avatar of Ahmad-AbuOsbeh"> Ahmad-AbuOsbeh
+			</a><br/>
+			Ahmad Abu Osbeh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jordan</td>
+		<td>6</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a href="https://github.com/Trivaxy">
 				<img src="https://avatars.githubusercontent.com/u/13611030?s=72&u=af0c4e46876b4c639124ef998893a40c077e4c0e&v=4" width="24" alt="Avatar of Trivaxy"> Trivaxy
 			</a><br/>
@@ -4026,7 +4040,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/tillawy">
 				<img src="https://avatars.githubusercontent.com/u/307041?s=72&u=fb9184ae529e2478cdd068357e2f22e4635c37e1&v=4" width="24" alt="Avatar of tillawy"> tillawy
@@ -4040,7 +4054,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/mohammed-b-hassan">
 				<img src="https://avatars.githubusercontent.com/u/49347700?s=72&u=501029054e82cf96ac43a5a4f8ee03222fa46527&v=4" width="24" alt="Avatar of mohammed-b-hassan"> mohammed-b-hassan
@@ -4054,7 +4068,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/MoathDawahreh">
 				<img src="https://avatars.githubusercontent.com/u/24622198?s=72&u=1a3f83242b40a408524e929fba66acf325aba4b6&v=4" width="24" alt="Avatar of MoathDawahreh"> MoathDawahreh
@@ -4068,7 +4082,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/theskabeater">
 				<img src="https://avatars.githubusercontent.com/u/100046?s=72&u=34a6cfb7e36656bae79709748d37ab5be6f7e127&v=4" width="24" alt="Avatar of theskabeater"> theskabeater
@@ -4082,7 +4096,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/sayefdeen">
 				<img src="https://avatars.githubusercontent.com/u/62254395?s=72&u=c2ae7b581a2b7128f58dfda419bee6627fb5fcbd&v=4" width="24" alt="Avatar of sayefdeen"> sayefdeen
@@ -4096,7 +4110,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/RashidHasan">
 				<img src="https://avatars.githubusercontent.com/u/136935583?s=72&u=3eaba9c0524e18f196cd381f16cdf1f1561c6d73&v=4" width="24" alt="Avatar of RashidHasan"> RashidHasan
@@ -4108,20 +4122,6 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>Amman, Jordan</td>
 		<td>8</td>
 		<td>182</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/Ahmad-AbuOsbeh">
-				<img src="https://avatars.githubusercontent.com/u/80678895?s=72&u=0fe078c97115c01a7554adb3c545fe42bca77029&v=4" width="24" alt="Avatar of Ahmad-AbuOsbeh"> Ahmad-AbuOsbeh
-			</a><br/>
-			Ahmad Abu Osbeh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jordan</td>
-		<td>6</td>
-		<td>181</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -4190,8 +4190,8 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Irbid, Jordan</td>
-		<td>169</td>
-		<td>173</td>
+		<td>170</td>
+		<td>174</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -7248,6 +7248,20 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 	<tr>
 		<td>511</td>
 		<td>
+			<a href="https://github.com/ruba9">
+				<img src="https://avatars.githubusercontent.com/u/27359862?s=72&u=d4424336ae6bea48124cf361bf48ddb73934b500&v=4" width="24" alt="Avatar of ruba9"> ruba9
+			</a><br/>
+			Ruba Aburub
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Jordan</td>
+		<td>6</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
 			<a href="https://github.com/tjoudeh">
 				<img src="https://avatars.githubusercontent.com/u/3114431?s=72&u=9b19915eb0e8f3d7a34303879ed7ca0ace99f9f9&v=4" width="24" alt="Avatar of tjoudeh"> tjoudeh
 			</a><br/>
@@ -7260,7 +7274,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/hopewise">
 				<img src="https://avatars.githubusercontent.com/u/1061157?s=72&u=f9a000f1e0b5ce76ed97203bc39d5c70fd254c0e&v=4" width="24" alt="Avatar of hopewise"> hopewise
@@ -7274,7 +7288,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/TariqAi">
 				<img src="https://avatars.githubusercontent.com/u/145915009?s=72&u=c1635ca3d68b524c9b131a5bf3a83f2092b2708b&v=4" width="24" alt="Avatar of TariqAi"> TariqAi
@@ -7288,7 +7302,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/Samer7777">
 				<img src="https://avatars.githubusercontent.com/u/62020378?s=72&u=32ed6682766a842748496203126b7db3e97b8b6c&v=4" width="24" alt="Avatar of Samer7777"> Samer7777
@@ -7302,7 +7316,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/themud2001">
 				<img src="https://avatars.githubusercontent.com/u/23017502?s=72&u=cacd72a73e969e0ef2d80761c9273341d5568453&v=4" width="24" alt="Avatar of themud2001"> themud2001
@@ -7316,7 +7330,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/RaniaAbdullahh">
 				<img src="https://avatars.githubusercontent.com/u/70090967?s=72&v=4" width="24" alt="Avatar of RaniaAbdullahh"> RaniaAbdullahh
@@ -7330,7 +7344,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/Mohammed-Aljasem">
 				<img src="https://avatars.githubusercontent.com/u/71584041?s=72&u=55803811e763e935af92cbd3a7109aed963e671c&v=4" width="24" alt="Avatar of Mohammed-Aljasem"> Mohammed-Aljasem
@@ -7344,7 +7358,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/Sadi-Ashlaq">
 				<img src="https://avatars.githubusercontent.com/u/71584001?s=72&v=4" width="24" alt="Avatar of Sadi-Ashlaq"> Sadi-Ashlaq
@@ -7358,7 +7372,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/AlRashid-AlKiswane">
 				<img src="https://avatars.githubusercontent.com/u/147489627?s=72&u=43b39aba54151558ab49174c50f8d7ba2c64015b&v=4" width="24" alt="Avatar of AlRashid-AlKiswane"> AlRashid-AlKiswane
@@ -7372,7 +7386,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/mouradHaddad">
 				<img src="https://avatars.githubusercontent.com/u/44726453?s=72&u=d6e8cbcaf1b9c3fcdbc817f8600cbc4f889bb83d&v=4" width="24" alt="Avatar of mouradHaddad"> mouradHaddad
@@ -7386,7 +7400,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/beshiralkhadra">
 				<img src="https://avatars.githubusercontent.com/u/90200679?s=72&u=f94e2bef1cc0e6bae427fcfd35e89ac7576efc47&v=4" width="24" alt="Avatar of beshiralkhadra"> beshiralkhadra
@@ -7400,7 +7414,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/Razan-Rjoub">
 				<img src="https://avatars.githubusercontent.com/u/111699095?s=72&u=024fa3e270be990dfe11a2fb36889f5cc0da19a4&v=4" width="24" alt="Avatar of Razan-Rjoub"> Razan-Rjoub
@@ -7414,7 +7428,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/tareqzoubii">
 				<img src="https://avatars.githubusercontent.com/u/109730169?s=72&u=55492175ffe3c02d1893051d0ea86e7010eaef91&v=4" width="24" alt="Avatar of tareqzoubii"> tareqzoubii
@@ -7428,7 +7442,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/salammustafa728">
 				<img src="https://avatars.githubusercontent.com/u/79628466?s=72&u=91d73874ddd6c0f9f222081306395610391ff2c5&v=4" width="24" alt="Avatar of salammustafa728"> salammustafa728
@@ -7442,7 +7456,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/wael93">
 				<img src="https://avatars.githubusercontent.com/u/10253564?s=72&v=4" width="24" alt="Avatar of wael93"> wael93
@@ -7456,7 +7470,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/Tamaraalrashed">
 				<img src="https://avatars.githubusercontent.com/u/78374286?s=72&u=36243ba5915020f8bb3d93619ef8e205b9235260&v=4" width="24" alt="Avatar of Tamaraalrashed"> Tamaraalrashed
@@ -7470,7 +7484,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/yazantafesh">
 				<img src="https://avatars.githubusercontent.com/u/80677460?s=72&u=6415b4ab1a51c8207168138ab1dfd1bec2fdfad9&v=4" width="24" alt="Avatar of yazantafesh"> yazantafesh
@@ -7484,7 +7498,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/MrTj458">
 				<img src="https://avatars.githubusercontent.com/u/12666122?s=72&u=70fb99440acae03f4590c74c4d5596788d0b46d9&v=4" width="24" alt="Avatar of MrTj458"> MrTj458
@@ -7498,7 +7512,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/fatimaababneh">
 				<img src="https://avatars.githubusercontent.com/u/90201683?s=72&u=d028000e5070dd61fcf593f5db146d18b7ad080a&v=4" width="24" alt="Avatar of fatimaababneh"> fatimaababneh
@@ -7512,7 +7526,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/juggernate">
 				<img src="https://avatars.githubusercontent.com/u/1163103?s=72&v=4" width="24" alt="Avatar of juggernate"> juggernate
@@ -7526,7 +7540,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/abdullah-taqiaddin">
 				<img src="https://avatars.githubusercontent.com/u/72511000?s=72&v=4" width="24" alt="Avatar of abdullah-taqiaddin"> abdullah-taqiaddin
@@ -7540,7 +7554,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/alaaalbayed">
 				<img src="https://avatars.githubusercontent.com/u/31359882?s=72&u=c079aaff8a34a9e69b462ccebedfbf79de867b56&v=4" width="24" alt="Avatar of alaaalbayed"> alaaalbayed
@@ -7554,7 +7568,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/Updatelap">
 				<img src="https://avatars.githubusercontent.com/u/49656896?s=72&u=37fc30b4c860857e626464af32b9ea307f801679&v=4" width="24" alt="Avatar of Updatelap"> Updatelap
@@ -7568,7 +7582,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/rawankh98">
 				<img src="https://avatars.githubusercontent.com/u/81553123?s=72&v=4" width="24" alt="Avatar of rawankh98"> rawankh98
@@ -7582,7 +7596,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/oajlouni">
 				<img src="https://avatars.githubusercontent.com/u/19222189?s=72&u=2a88253b487a3470542e6e6697d108f977dca395&v=4" width="24" alt="Avatar of oajlouni"> oajlouni
@@ -7596,7 +7610,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/dasgoll">
 				<img src="https://avatars.githubusercontent.com/u/5576278?s=72&u=29ec45ca34e2ea49c42126a234c6edd0c15b5336&v=4" width="24" alt="Avatar of dasgoll"> dasgoll
@@ -7610,7 +7624,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/AsharDweedar">
 				<img src="https://avatars.githubusercontent.com/u/30209839?s=72&u=ae867b754dd0a03c79b750b5a4ca99380cbffe18&v=4" width="24" alt="Avatar of AsharDweedar"> AsharDweedar
@@ -7624,7 +7638,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/HassanWael">
 				<img src="https://avatars.githubusercontent.com/u/73555244?s=72&u=f347cb7a400c534edd003447df91eb3c63393d24&v=4" width="24" alt="Avatar of HassanWael"> HassanWael
@@ -7638,7 +7652,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/Emam96">
 				<img src="https://avatars.githubusercontent.com/u/85058808?s=72&u=087aaa05fa189f0ad299f23dd81a7dffcbe8188b&v=4" width="24" alt="Avatar of Emam96"> Emam96
@@ -7652,7 +7666,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/Montaser1998">
 				<img src="https://avatars.githubusercontent.com/u/16105378?s=72&u=263d81b1bec2771e14381e650a6f220fd6475e13&v=4" width="24" alt="Avatar of Montaser1998"> Montaser1998
@@ -7666,7 +7680,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/HamzaHajeir">
 				<img src="https://avatars.githubusercontent.com/u/32960423?s=72&u=d3ec59fe68800088505f17dd8c88ad8f8f93cb6a&v=4" width="24" alt="Avatar of HamzaHajeir"> HamzaHajeir
@@ -7680,7 +7694,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/suha1b-kh">
 				<img src="https://avatars.githubusercontent.com/u/114153249?s=72&u=0cba7a01b3594271e38c7201987c66ad63d7ec54&v=4" width="24" alt="Avatar of suha1b-kh"> suha1b-kh
@@ -7694,7 +7708,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/ahmad-al-jabiri-22">
 				<img src="https://avatars.githubusercontent.com/u/208520335?s=72&v=4" width="24" alt="Avatar of ahmad-al-jabiri-22"> ahmad-al-jabiri-22
@@ -7708,7 +7722,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/sabermhareshdj">
 				<img src="https://avatars.githubusercontent.com/u/125737367?s=72&u=bbe285cd23c095ab835b2f3294ddbf01f95aa52d&v=4" width="24" alt="Avatar of sabermhareshdj"> sabermhareshdj
@@ -7719,20 +7733,6 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>jordan</td>
 		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>545</td>
-		<td>
-			<a href="https://github.com/ruba9">
-				<img src="https://avatars.githubusercontent.com/u/27359862?s=72&u=d4424336ae6bea48124cf361bf48ddb73934b500&v=4" width="24" alt="Avatar of ruba9"> ruba9
-			</a><br/>
-			Ruba Aburub
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Jordan</td>
-		<td>2</td>
 		<td>7</td>
 	</tr>
 	<tr>
