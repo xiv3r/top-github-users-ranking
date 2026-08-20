@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2026/8/20 5:57 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2026/8/20 6:48 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -167,7 +167,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>@inbox-zero  </td>
 		<td><a href="https://twitter.com/elie2222">elie2222</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>2293</td>
+		<td>2294</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -258,7 +258,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tel Aviv, Israel</td>
-		<td>1428</td>
+		<td>1426</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -843,7 +843,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>Shneer Innovations </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>339</td>
+		<td>338</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -2044,6 +2044,19 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 	<tr>
 		<td>150</td>
 		<td>
+			<a href="https://github.com/OmriBaso">
+				<img src="https://avatars.githubusercontent.com/u/50461376?s=72&u=108a1c53ac91c21f97d85d4bf215fb9b9dbfdf0f&v=4" width="24" alt="Avatar of OmriBaso"> OmriBaso
+			</a><br/>
+			Omri Baso
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/omri_baso">omri_baso</a></td>
+		<td>Israel</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
 			<a href="https://github.com/omribahumi">
 				<img src="https://avatars.githubusercontent.com/u/2558457?s=72&v=4" width="24" alt="Avatar of omribahumi"> omribahumi
 			</a><br/>
@@ -2053,19 +2066,6 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/OmriBaso">
-				<img src="https://avatars.githubusercontent.com/u/50461376?s=72&u=108a1c53ac91c21f97d85d4bf215fb9b9dbfdf0f&v=4" width="24" alt="Avatar of OmriBaso"> OmriBaso
-			</a><br/>
-			Omri Baso
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/omri_baso">omri_baso</a></td>
-		<td>Israel</td>
-		<td>157</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2239,19 +2239,6 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 	<tr>
 		<td>165</td>
 		<td>
-			<a href="https://github.com/shaialon">
-				<img src="https://avatars.githubusercontent.com/u/3126207?s=72&u=bdb4a3d6f00d71fab6fd07e3edf6d5b2173c3008&v=4" width="24" alt="Avatar of shaialon"> shaialon
-			</a><br/>
-			Shai Alon
-		</td>
-		<td>Google Cloud </td>
-		<td><a href="https://twitter.com/Shai_Alon">Shai_Alon</a></td>
-		<td>Israel</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
 			<a href="https://github.com/ZviMints">
 				<img src="https://avatars.githubusercontent.com/u/43406781?s=72&u=6d5a9865ccde9ac0485e02f406946a96be0277bd&v=4" width="24" alt="Avatar of ZviMints"> ZviMints
 			</a><br/>
@@ -2263,7 +2250,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/mrT23">
 				<img src="https://avatars.githubusercontent.com/u/21198860?s=72&u=3abae1d25498fbc504a010918913d22896ed238a&v=4" width="24" alt="Avatar of mrT23"> mrT23
@@ -2273,6 +2260,19 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/talrid23">talrid23</a></td>
 		<td>Tel Aviv</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/shaialon">
+				<img src="https://avatars.githubusercontent.com/u/3126207?s=72&u=bdb4a3d6f00d71fab6fd07e3edf6d5b2173c3008&v=4" width="24" alt="Avatar of shaialon"> shaialon
+			</a><br/>
+			Shai Alon
+		</td>
+		<td>Google Cloud </td>
+		<td><a href="https://twitter.com/Shai_Alon">Shai_Alon</a></td>
+		<td>Israel</td>
 		<td>145</td>
 	</tr>
 	<tr>
