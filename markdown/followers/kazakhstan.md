@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `number of followers` of users in Kazakhstan on `2026/8/20 7:01 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `number of followers` of users in Kazakhstan on `2026/8/20 7:44 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -466,7 +466,7 @@ There are `969 users`  in Kazakhstan. You need at least `13 followers` to be on 
 		<td>@alanatechgroup </td>
 		<td><a href="https://twitter.com/JustAlpamys">JustAlpamys</a></td>
 		<td>Astana, Kazakhstan</td>
-		<td>211</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -8895,19 +8895,6 @@ There are `969 users`  in Kazakhstan. You need at least `13 followers` to be on 
 	<tr>
 		<td>677</td>
 		<td>
-			<a href="https://github.com/Aboneyx">
-				<img src="https://avatars.githubusercontent.com/u/79087226?s=72&u=dadbc0b550678b5db5cfe210a4907c4fb28a6af1&v=4" width="24" alt="Avatar of Aboneyx"> Aboneyx
-			</a><br/>
-			Abylay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Almaty</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>678</td>
-		<td>
 			<a href="https://github.com/ostinru">
 				<img src="https://avatars.githubusercontent.com/u/966990?s=72&v=4" width="24" alt="Avatar of ostinru"> ostinru
 			</a><br/>
@@ -8916,6 +8903,19 @@ There are `969 users`  in Kazakhstan. You need at least `13 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan </td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/Aboneyx">
+				<img src="https://avatars.githubusercontent.com/u/79087226?s=72&u=dadbc0b550678b5db5cfe210a4907c4fb28a6af1&v=4" width="24" alt="Avatar of Aboneyx"> Aboneyx
+			</a><br/>
+			Abylay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Almaty</td>
 		<td>17</td>
 	</tr>
 	<tr>
