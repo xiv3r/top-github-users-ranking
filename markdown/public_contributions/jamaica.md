@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" alt="Jamaica">
 </a>
 
-The `public contributions` by users in Jamaica on `2026/8/20 9:22 AM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
+The `public contributions` by users in Jamaica on `2026/8/20 10:46 AM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 		<td>Gramm's Foundation </td>
 		<td><a href="https://twitter.com/_olusiekwin">_olusiekwin</a></td>
 		<td>kingston, JM</td>
-		<td>10455</td>
+		<td>10458</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 		<td>@edufocal  </td>
 		<td><a href="https://twitter.com/TheAvgCoder">TheAvgCoder</a></td>
 		<td>Jamaica</td>
-		<td>1993</td>
+		<td>1994</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 		<td>Perklab, Queen's University </td>
 		<td>No Twitter Username</td>
 		<td>Kingston, ON, Canada</td>
-		<td>1169</td>
+		<td>1172</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -271,7 +271,7 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kingston upon Thames, UK</td>
-		<td>809</td>
+		<td>810</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -2226,19 +2226,6 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 	<tr>
 		<td>164</td>
 		<td>
-			<a href="https://github.com/waveform06">
-				<img src="https://avatars.githubusercontent.com/u/44499545?s=72&u=ccab3a1493d689726cd6ec1d0bd42abd992ca51b&v=4" width="24" alt="Avatar of waveform06"> waveform06
-			</a><br/>
-			Adrian
-		</td>
-		<td>Autheo Foundation </td>
-		<td><a href="https://twitter.com/waveform06">waveform06</a></td>
-		<td>Kingston Upon Thames, UK</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
 			<a href="https://github.com/AL-Pinecore">
 				<img src="https://avatars.githubusercontent.com/u/145985058?s=72&u=fa118e91a7f84e3d3c360e2b7f55123572ee6dce&v=4" width="24" alt="Avatar of AL-Pinecore"> AL-Pinecore
 			</a><br/>
@@ -2247,6 +2234,19 @@ There are `955 users`  in Jamaica. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kingston, PA</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/waveform06">
+				<img src="https://avatars.githubusercontent.com/u/44499545?s=72&u=ccab3a1493d689726cd6ec1d0bd42abd992ca51b&v=4" width="24" alt="Avatar of waveform06"> waveform06
+			</a><br/>
+			Adrian
+		</td>
+		<td>Autheo Foundation </td>
+		<td><a href="https://twitter.com/waveform06">waveform06</a></td>
+		<td>Kingston Upon Thames, UK</td>
 		<td>65</td>
 	</tr>
 	<tr>
