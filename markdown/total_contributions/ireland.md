@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2026/8/20 5:00 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2026/8/20 5:19 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -144,8 +144,8 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>17624</td>
-		<td>17624</td>
+		<td>17626</td>
+		<td>17626</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -186,8 +186,8 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10907</td>
-		<td>13724</td>
+		<td>10940</td>
+		<td>13726</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -214,7 +214,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10250</td>
+		<td>10246</td>
 		<td>11245</td>
 	</tr>
 	<tr>
@@ -299,7 +299,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>1455</td>
-		<td>9194</td>
+		<td>9195</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -6150,8 +6150,8 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>Rconfig </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>335</td>
-		<td>335</td>
+		<td>337</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>433</td>

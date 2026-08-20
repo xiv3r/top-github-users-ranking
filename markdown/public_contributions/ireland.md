@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2026/8/20 5:00 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2026/8/20 5:19 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>17624</td>
+		<td>17626</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10907</td>
+		<td>10940</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10250</td>
+		<td>10246</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -2663,7 +2663,7 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>Rconfig </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>335</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -6737,19 +6737,6 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 	<tr>
 		<td>511</td>
 		<td>
-			<a href="https://github.com/WickTheThird">
-				<img src="https://avatars.githubusercontent.com/u/96390895?s=72&u=dbd2f40734966bea0f6d379f15442b1c0744256f&v=4" width="24" alt="Avatar of WickTheThird"> WickTheThird
-			</a><br/>
-			WickTheThird
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ireland, Dublin</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
 			<a href="https://github.com/samuelteixeiras">
 				<img src="https://avatars.githubusercontent.com/u/711434?s=72&u=2b0536f412a677f126ebfca195041c1431e72409&v=4" width="24" alt="Avatar of samuelteixeiras"> samuelteixeiras
 			</a><br/>
@@ -6758,6 +6745,19 @@ There are `963 users`  in Ireland. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin - Ireland</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/WickTheThird">
+				<img src="https://avatars.githubusercontent.com/u/96390895?s=72&u=dbd2f40734966bea0f6d379f15442b1c0744256f&v=4" width="24" alt="Avatar of WickTheThird"> WickTheThird
+			</a><br/>
+			WickTheThird
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ireland, Dublin</td>
 		<td>33</td>
 	</tr>
 	<tr>
