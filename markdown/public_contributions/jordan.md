@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` by users in Jordan on `2026/8/20 2:21 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` by users in Jordan on `2026/8/20 4:19 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>@activepieces  </td>
 		<td><a href="https://twitter.com/mabuaboud">mabuaboud</a></td>
 		<td>Amman, Jordan</td>
-		<td>3438</td>
+		<td>3439</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -375,7 +375,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>Ensemble Methods </td>
 		<td>No Twitter Username</td>
 		<td>Jordan</td>
-		<td>895</td>
+		<td>896</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -445,6 +445,19 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/ywadi">
+				<img src="https://avatars.githubusercontent.com/u/1124927?s=72&u=9bc1c005b898345162a15550435a71139df79ba5&v=4" width="24" alt="Avatar of ywadi"> ywadi
+			</a><br/>
+			Yousef Wadi
+		</td>
+		<td>Nestrom </td>
+		<td>No Twitter Username</td>
+		<td>Amman, Jordan</td>
+		<td>731</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/saedyousef">
 				<img src="https://avatars.githubusercontent.com/u/11349715?s=72&u=a1927626fe27cc8fefaf7a64290263688929bca8&v=4" width="24" alt="Avatar of saedyousef"> saedyousef
 			</a><br/>
@@ -454,19 +467,6 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Palestine 🇵🇸 | Jordan | Germany</td>
 		<td>729</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/ywadi">
-				<img src="https://avatars.githubusercontent.com/u/1124927?s=72&u=9bc1c005b898345162a15550435a71139df79ba5&v=4" width="24" alt="Avatar of ywadi"> ywadi
-			</a><br/>
-			Yousef Wadi
-		</td>
-		<td>Nestrom </td>
-		<td>No Twitter Username</td>
-		<td>Amman, Jordan</td>
-		<td>727</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -583,7 +583,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>Orphanage </td>
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
-		<td>562</td>
+		<td>563</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -635,7 +635,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
-		<td>495</td>
+		<td>506</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1636,7 +1636,7 @@ There are `972 users`  in Jordan. You need at least `10 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Irbid, Jordan</td>
-		<td>168</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>119</td>
