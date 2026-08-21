@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2026/8/21 4:08 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2026/8/21 4:18 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -229,7 +229,7 @@ There are `669 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/Pitpy">Pitpy</a></td>
 		<td>Vientiane, Laos</td>
 		<td>18</td>
-		<td>3330</td>
+		<td>3331</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1363,7 +1363,7 @@ There are `669 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>1</td>
-		<td>51</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>91</td>
