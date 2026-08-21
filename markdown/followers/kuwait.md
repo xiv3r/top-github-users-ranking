@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `number of followers` of users in Kuwait on `2026/8/21 12:38 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `number of followers` of users in Kuwait on `2026/8/21 2:38 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -284,7 +284,7 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>Kazmaai </td>
 		<td><a href="https://twitter.com/b_alfaris">b_alfaris</a></td>
 		<td>Kuwait</td>
-		<td>97</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -7309,19 +7309,6 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 	<tr>
 		<td>555</td>
 		<td>
-			<a href="https://github.com/Mohamed0400">
-				<img src="https://avatars.githubusercontent.com/u/89158991?s=72&u=0a3eb599adb502052613f11cd5e89aad26e8c5e5&v=4" width="24" alt="Avatar of Mohamed0400"> Mohamed0400
-			</a><br/>
-			Mohamed Megahed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
 			<a href="https://github.com/PBK-25">
 				<img src="https://avatars.githubusercontent.com/u/196552307?s=72&u=888ffa298b883ece455cd8add338857ec1b76806&v=4" width="24" alt="Avatar of PBK-25"> PBK-25
 			</a><br/>
@@ -7330,6 +7317,19 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuwait City</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/Mohamed0400">
+				<img src="https://avatars.githubusercontent.com/u/89158991?s=72&u=0a3eb599adb502052613f11cd5e89aad26e8c5e5&v=4" width="24" alt="Avatar of Mohamed0400"> Mohamed0400
+			</a><br/>
+			Mohamed Megahed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
 		<td>1</td>
 	</tr>
 	<tr>

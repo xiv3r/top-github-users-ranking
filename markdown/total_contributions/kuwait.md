@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `public contributions` and `private contributions` by users in Kuwait on `2026/8/21 12:38 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `public contributions` and `private contributions` by users in Kuwait on `2026/8/21 2:38 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -116,8 +116,8 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>Orbit </td>
 		<td>No Twitter Username</td>
 		<td>Villain, Kuwait</td>
-		<td>28285</td>
-		<td>28285</td>
+		<td>28403</td>
+		<td>28403</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -396,8 +396,8 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>Manaracode </td>
 		<td>No Twitter Username</td>
 		<td>kuwait</td>
-		<td>2597</td>
-		<td>2597</td>
+		<td>2598</td>
+		<td>2598</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -495,7 +495,7 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/b_alfaris">b_alfaris</a></td>
 		<td>Kuwait</td>
 		<td>1194</td>
-		<td>2075</td>
+		<td>2091</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -578,8 +578,8 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hawalli, Kuwait</td>
-		<td>1875</td>
-		<td>1875</td>
+		<td>1881</td>
+		<td>1881</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -850,6 +850,20 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 	<tr>
 		<td>54</td>
 		<td>
+			<a href="https://github.com/PBK-25">
+				<img src="https://avatars.githubusercontent.com/u/196552307?s=72&u=888ffa298b883ece455cd8add338857ec1b76806&v=4" width="24" alt="Avatar of PBK-25"> PBK-25
+			</a><br/>
+			Bokhaled
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait City</td>
+		<td>20</td>
+		<td>1055</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
 			<a href="https://github.com/mbangi66">
 				<img src="https://avatars.githubusercontent.com/u/37992013?s=72&u=2161239064c227949cf5aa293a196e188d8a81e9&v=4" width="24" alt="Avatar of mbangi66"> mbangi66
 			</a><br/>
@@ -862,7 +876,7 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>1026</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/Abdulrahman39">
 				<img src="https://avatars.githubusercontent.com/u/61042799?s=72&u=8b514309f8d0106b3e2102d1e78e5d28609de35c&v=4" width="24" alt="Avatar of Abdulrahman39"> Abdulrahman39
@@ -876,7 +890,7 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>1024</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/Mohamed0400">
 				<img src="https://avatars.githubusercontent.com/u/89158991?s=72&u=0a3eb599adb502052613f11cd5e89aad26e8c5e5&v=4" width="24" alt="Avatar of Mohamed0400"> Mohamed0400
@@ -890,7 +904,7 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>1007</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/SiteQ8">
 				<img src="https://avatars.githubusercontent.com/u/311682?s=72&u=d12b1815f6b445da9e17d307ebc15d317d78ffc5&v=4" width="24" alt="Avatar of SiteQ8"> SiteQ8
@@ -902,20 +916,6 @@ There are `854 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>Kuwait</td>
 		<td>987</td>
 		<td>1002</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/PBK-25">
-				<img src="https://avatars.githubusercontent.com/u/196552307?s=72&u=888ffa298b883ece455cd8add338857ec1b76806&v=4" width="24" alt="Avatar of PBK-25"> PBK-25
-			</a><br/>
-			Bokhaled
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait City</td>
-		<td>20</td>
-		<td>983</td>
 	</tr>
 	<tr>
 		<td>59</td>
