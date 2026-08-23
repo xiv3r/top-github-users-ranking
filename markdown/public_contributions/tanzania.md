@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` by users in Tanzania on `2026/8/23 3:06 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` by users in Tanzania on `2026/8/23 3:39 PM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -128,7 +128,7 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>25457</td>
+		<td>25470</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -640,19 +640,6 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/andylamax">
-				<img src="https://avatars.githubusercontent.com/u/35181546?s=72&u=3e99b3b46745122c79f73e2ebc26dbe1b96aea6e&v=4" width="24" alt="Avatar of andylamax"> andylamax
-			</a><br/>
-			andylamax
-		</td>
-		<td>Asoft Limited </td>
-		<td><a href="https://twitter.com/andy_lamax">andy_lamax</a></td>
-		<td>Tanzania</td>
-		<td>803</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
 			<a href="https://github.com/adolfalfred">
 				<img src="https://avatars.githubusercontent.com/u/101435706?s=72&u=9b353609db02b0ace99cf1df7a5bf1e8244c19c6&v=4" width="24" alt="Avatar of adolfalfred"> adolfalfred
 			</a><br/>
@@ -661,6 +648,19 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dar es Salaam</td>
+		<td>804</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/andylamax">
+				<img src="https://avatars.githubusercontent.com/u/35181546?s=72&u=3e99b3b46745122c79f73e2ebc26dbe1b96aea6e&v=4" width="24" alt="Avatar of andylamax"> andylamax
+			</a><br/>
+			andylamax
+		</td>
+		<td>Asoft Limited </td>
+		<td><a href="https://twitter.com/andy_lamax">andy_lamax</a></td>
+		<td>Tanzania</td>
 		<td>803</td>
 	</tr>
 	<tr>
@@ -692,6 +692,19 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/jenadiusnicholaus">
+				<img src="https://avatars.githubusercontent.com/u/65486696?s=72&u=37308fc87de54a538a8bd2efdd98e80d5b64bebe&v=4" width="24" alt="Avatar of jenadiusnicholaus"> jenadiusnicholaus
+			</a><br/>
+			Jenadius Nicholaus
+		</td>
+		<td>Spikes </td>
+		<td><a href="https://twitter.com/jenadius_kaim">jenadius_kaim</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>763</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/tuposilwe">
 				<img src="https://avatars.githubusercontent.com/u/143642771?s=72&u=e4e56666cb8177b02caeb346fffa93f61da95345&v=4" width="24" alt="Avatar of tuposilwe"> tuposilwe
 			</a><br/>
@@ -701,19 +714,6 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania,arusha</td>
 		<td>763</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/jenadiusnicholaus">
-				<img src="https://avatars.githubusercontent.com/u/65486696?s=72&u=37308fc87de54a538a8bd2efdd98e80d5b64bebe&v=4" width="24" alt="Avatar of jenadiusnicholaus"> jenadiusnicholaus
-			</a><br/>
-			Jenadius Nicholaus
-		</td>
-		<td>Spikes </td>
-		<td><a href="https://twitter.com/jenadius_kaim">jenadius_kaim</a></td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>762</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -843,7 +843,7 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 		<td>Nileagi </td>
 		<td><a href="https://twitter.com/oderoi_">oderoi_</a></td>
 		<td>Dar Es Salaam /Tanzania </td>
-		<td>670</td>
+		<td>672</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1662,7 +1662,7 @@ There are `940 users`  in Tanzania. You need at least `8 followers` to be on thi
 		<td>Davids Furnitures </td>
 		<td><a href="https://twitter.com/Larabaldavid">Larabaldavid</a></td>
 		<td>Tanzania</td>
-		<td>277</td>
+		<td>279</td>
 	</tr>
 	<tr>
 		<td>121</td>
