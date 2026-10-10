@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia">
 </a>
 
-The `public contributions` by users in Australia on `2026/9/12 9:43 PM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
+The `public contributions` by users in Australia on `2026/10/10 6:52 PM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `925 users`  in Australia. You need at least `163 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Australia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kim-em">
 				<img src="https://avatars.githubusercontent.com/u/477956?s=72&u=b0eae48895c773e3f90d1583d0d1cc9d52787b11&v=4" width="24" alt="Avatar of kim-em"> kim-em
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kim-em">Copy rank badge</a><br/>
 			Kim Morrison
 		</td>
 		<td>No Company</td>
@@ -122,7 +124,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JackWhitmore">
 				<img src="https://avatars.githubusercontent.com/u/28727499?s=72&u=e5f3f312e11812246abca0edeb9bd861c7b8c1f4&v=4" width="24" alt="Avatar of JackWhitmore"> JackWhitmore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JackWhitmore">Copy rank badge</a><br/>
 			Jack Whitmore
 		</td>
 		<td>Brightpath Digital </td>
@@ -135,7 +137,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mike-thompson-day8">
 				<img src="https://avatars.githubusercontent.com/u/3033376?s=72&u=fd25f5476ca3d7350ecb7790c969bb9b0433480a&v=4" width="24" alt="Avatar of mike-thompson-day8"> mike-thompson-day8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mike-thompson-day8">Copy rank badge</a><br/>
 			Mike Thompson
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SimonCropp">
 				<img src="https://avatars.githubusercontent.com/u/122666?s=72&v=4" width="24" alt="Avatar of SimonCropp"> SimonCropp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SimonCropp">Copy rank badge</a><br/>
 			Simon Cropp
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hoebat">
 				<img src="https://avatars.githubusercontent.com/u/1455572?s=72&u=1cda75b3718dae9a25e943e0f2db4f8e30e63fc3&v=4" width="24" alt="Avatar of hoebat"> hoebat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hoebat">Copy rank badge</a><br/>
 			Hoebat Kappa Mu
 		</td>
 		<td>@greenways-ai  </td>
@@ -174,7 +176,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mcnamee">
 				<img src="https://avatars.githubusercontent.com/u/1809236?s=72&u=fcecf4894742dca32af70a2affb3b21f56a9733b&v=4" width="24" alt="Avatar of mcnamee"> mcnamee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mcnamee">Copy rank badge</a><br/>
 			▛▚▞▜ ▞▚ ▜▛ ▜▛
 		</td>
 		<td>@dsco-group @resoundly </td>
@@ -187,7 +189,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/djouallah">
 				<img src="https://avatars.githubusercontent.com/u/12554469?s=72&v=4" width="24" alt="Avatar of djouallah"> djouallah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#djouallah">Copy rank badge</a><br/>
 			Mimoune
 		</td>
 		<td>No Company</td>
@@ -200,7 +202,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/phillip-kruger">
 				<img src="https://avatars.githubusercontent.com/u/6836179?s=72&u=e195f33e67ced4a7c35481e195652b927612dde5&v=4" width="24" alt="Avatar of phillip-kruger"> phillip-kruger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#phillip-kruger">Copy rank badge</a><br/>
 			Phillip Krüger
 		</td>
 		<td>Red Hat </td>
@@ -213,7 +215,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benswift">
 				<img src="https://avatars.githubusercontent.com/u/380241?s=72&u=2ed0a1385e079c723b033428e4400c96ba6e6f52&v=4" width="24" alt="Avatar of benswift"> benswift
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benswift">Copy rank badge</a><br/>
 			Ben Swift
 		</td>
 		<td>@anucybernetics  </td>
@@ -226,7 +228,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mithro">
 				<img src="https://avatars.githubusercontent.com/u/21212?s=72&u=a5f1f442c3ac4fb7341cd73020402090c3030fc2&v=4" width="24" alt="Avatar of mithro"> mithro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mithro">Copy rank badge</a><br/>
 			Tim 'mithro' Ansell
 		</td>
 		<td>@wafer-space  </td>
@@ -239,7 +241,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jph00">
 				<img src="https://avatars.githubusercontent.com/u/346999?s=72&v=4" width="24" alt="Avatar of jph00"> jph00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jph00">Copy rank badge</a><br/>
 			Jeremy Howard
 		</td>
 		<td>@answerdotai </td>
@@ -252,7 +254,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/madhavajay">
 				<img src="https://avatars.githubusercontent.com/u/2882739?s=72&u=d2ebf4de0a8ac011e5a3f13936259cc66b132eb4&v=4" width="24" alt="Avatar of madhavajay"> madhavajay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#madhavajay">Copy rank badge</a><br/>
 			Madhava Jay
 		</td>
 		<td>Openmined.org </td>
@@ -265,7 +267,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/harlan-zw">
 				<img src="https://avatars.githubusercontent.com/u/5326365?s=72&u=171656f99ff4c2f33943f642d813fff8399e76a8&v=4" width="24" alt="Avatar of harlan-zw"> harlan-zw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#harlan-zw">Copy rank badge</a><br/>
 			Harlan Wilton
 		</td>
 		<td>Myself </td>
@@ -278,7 +280,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thomasdavis">
 				<img src="https://avatars.githubusercontent.com/u/416209?s=72&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4" width="24" alt="Avatar of thomasdavis"> thomasdavis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thomasdavis">Copy rank badge</a><br/>
 			Thomas Davis
 		</td>
 		<td>Free </td>
@@ -291,7 +293,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ajsutton">
 				<img src="https://avatars.githubusercontent.com/u/72675?s=72&u=8070033640575176b21190c71c18aed01a7216ee&v=4" width="24" alt="Avatar of ajsutton"> ajsutton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ajsutton">Copy rank badge</a><br/>
 			Adrian Sutton
 		</td>
 		<td>No Company</td>
@@ -304,7 +306,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/eudoxia0">
 				<img src="https://avatars.githubusercontent.com/u/1612511?s=72&u=92046ef0685a3711b627524735b5c7f88b23d599&v=4" width="24" alt="Avatar of eudoxia0"> eudoxia0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#eudoxia0">Copy rank badge</a><br/>
 			Fernando Borretti
 		</td>
 		<td>No Company</td>
@@ -317,7 +319,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Raoof128">
 				<img src="https://avatars.githubusercontent.com/u/153150941?s=72&u=3e70d53421f0e9ab71a5286c4847e9aabd086935&v=4" width="24" alt="Avatar of Raoof128"> Raoof128
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Raoof128">Copy rank badge</a><br/>
 			Raouf Abedini
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/auscaster">
 				<img src="https://avatars.githubusercontent.com/u/100876?s=72&u=07ae0aadbc2df917903b346e2d6af66f09796847&v=4" width="24" alt="Avatar of auscaster"> auscaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#auscaster">Copy rank badge</a><br/>
 			Kam  ☄️
 		</td>
 		<td>0state </td>
@@ -343,7 +345,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lox">
 				<img src="https://avatars.githubusercontent.com/u/15758?s=72&u=7eabc6df1c9115f25beb63f28ba701d5c4c4604a&v=4" width="24" alt="Avatar of lox"> lox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lox">Copy rank badge</a><br/>
 			Lachlan Donald
 		</td>
 		<td>@buildkite </td>
@@ -356,7 +358,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/merill">
 				<img src="https://avatars.githubusercontent.com/u/1288081?s=72&u=57eb374fa2f7b642ddc37f6ebf4c926b3cc13b76&v=4" width="24" alt="Avatar of merill"> merill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#merill">Copy rank badge</a><br/>
 			Merill Fernando
 		</td>
 		<td>@jozrahq  </td>
@@ -369,7 +371,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jxom">
 				<img src="https://avatars.githubusercontent.com/u/7336481?s=72&u=14dbdb843fd21723a06ceabab344b11807cd66d3&v=4" width="24" alt="Avatar of jxom"> jxom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jxom">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -382,7 +384,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mnot">
 				<img src="https://avatars.githubusercontent.com/u/74384?s=72&u=866c930e985ba2aaa7d4b7963f758df402274dd1&v=4" width="24" alt="Avatar of mnot"> mnot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mnot">Copy rank badge</a><br/>
 			Mark Nottingham
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mokagio">
 				<img src="https://avatars.githubusercontent.com/u/1218433?s=72&u=d3de805efe212283285e922950833c0e10763722&v=4" width="24" alt="Avatar of mokagio"> mokagio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mokagio">Copy rank badge</a><br/>
 			Gio Lodi
 		</td>
 		<td>@mokacoding  </td>
@@ -408,7 +410,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mblode">
 				<img src="https://avatars.githubusercontent.com/u/7183998?s=72&v=4" width="24" alt="Avatar of mblode"> mblode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mblode">Copy rank badge</a><br/>
 			Matthew Blode
 		</td>
 		<td>Linktree </td>
@@ -421,7 +423,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/projectedanx">
 				<img src="https://avatars.githubusercontent.com/u/238904666?s=72&u=4b0e9e2499dcdf6d2c56002c6381be82e59cbd41&v=4" width="24" alt="Avatar of projectedanx"> projectedanx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#projectedanx">Copy rank badge</a><br/>
 			Daniel Hart | ALifeInArtifyAI
 		</td>
 		<td>No Company</td>
@@ -434,7 +436,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ocavue">
 				<img src="https://avatars.githubusercontent.com/u/24715727?s=72&u=84ea7c131067856b3b9a933081600db82f49971b&v=4" width="24" alt="Avatar of ocavue"> ocavue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ocavue">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -447,7 +449,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leocaseiro">
 				<img src="https://avatars.githubusercontent.com/u/940070?s=72&u=dd7a57b6358944f6d6f9925602a066422492ab12&v=4" width="24" alt="Avatar of leocaseiro"> leocaseiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leocaseiro">Copy rank badge</a><br/>
 			Leo Caseiro
 		</td>
 		<td>No Company</td>
@@ -460,7 +462,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Quackster">
 				<img src="https://avatars.githubusercontent.com/u/1328523?s=72&u=5c9a7548e4ff3f98c76fbb50ae50f0753726405a&v=4" width="24" alt="Avatar of Quackster"> Quackster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Quackster">Copy rank badge</a><br/>
 			Quackster
 		</td>
 		<td>No Company</td>
@@ -473,7 +475,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davidwengier">
 				<img src="https://avatars.githubusercontent.com/u/754264?s=72&u=9d4b6751ea996d673ec3043a697d8fa92afd1553&v=4" width="24" alt="Avatar of davidwengier"> davidwengier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davidwengier">Copy rank badge</a><br/>
 			David Wengier
 		</td>
 		<td>@microsoft  </td>
@@ -486,7 +488,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nyalldawson">
 				<img src="https://avatars.githubusercontent.com/u/1829991?s=72&u=aa8023a3683a5a3799faa0e0fbcccbeb43575af5&v=4" width="24" alt="Avatar of nyalldawson"> nyalldawson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nyalldawson">Copy rank badge</a><br/>
 			Nyall Dawson
 		</td>
 		<td>North Road </td>
@@ -499,7 +501,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/peterbarker">
 				<img src="https://avatars.githubusercontent.com/u/7077857?s=72&u=1e4dbf2bbf3b7cf91d64ca9fabb602ed0a00b335&v=4" width="24" alt="Avatar of peterbarker"> peterbarker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#peterbarker">Copy rank badge</a><br/>
 			Peter Barker
 		</td>
 		<td>E0 </td>
@@ -512,7 +514,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rvagg">
 				<img src="https://avatars.githubusercontent.com/u/495647?s=72&u=ac27cc8c4205b4f7e1e0f7fa243c885d3534ceee&v=4" width="24" alt="Avatar of rvagg"> rvagg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rvagg">Copy rank badge</a><br/>
 			Rod Vagg
 		</td>
 		<td>Require.io </td>
@@ -525,7 +527,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/007revad">
 				<img src="https://avatars.githubusercontent.com/u/39733752?s=72&u=f9262b7a694a0832ecd1547d00dfb21361f8e9cc&v=4" width="24" alt="Avatar of 007revad"> 007revad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#007revad">Copy rank badge</a><br/>
 			Dave Russell
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jbampton">
 				<img src="https://avatars.githubusercontent.com/u/418747?s=72&u=3a41d2d394f55d55483220aa11e7405983ebdb24&v=4" width="24" alt="Avatar of jbampton"> jbampton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jbampton">Copy rank badge</a><br/>
 			John Bampton
 		</td>
 		<td>@john-bampton @fuchsia-agency @slurpcode </td>
@@ -551,7 +553,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DonJayamanne">
 				<img src="https://avatars.githubusercontent.com/u/1948812?s=72&u=4ef46d0bdcc8a0f7e215c9eca2b9977cd97ea88e&v=4" width="24" alt="Avatar of DonJayamanne"> DonJayamanne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DonJayamanne">Copy rank badge</a><br/>
 			Don Jayamanne
 		</td>
 		<td>@microsoft  </td>
@@ -564,7 +566,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SchrodingersGat">
 				<img src="https://avatars.githubusercontent.com/u/10080325?s=72&u=b4262a500f03038d23309ba30cd731fe6675629e&v=4" width="24" alt="Avatar of SchrodingersGat"> SchrodingersGat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SchrodingersGat">Copy rank badge</a><br/>
 			Oliver
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/FagnerMartinsBrack">
 				<img src="https://avatars.githubusercontent.com/u/835857?s=72&v=4" width="24" alt="Avatar of FagnerMartinsBrack"> FagnerMartinsBrack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#FagnerMartinsBrack">Copy rank badge</a><br/>
 			Fayner Brack
 		</td>
 		<td>The Internet </td>
@@ -590,7 +592,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/isaac-mason">
 				<img src="https://avatars.githubusercontent.com/u/67411435?s=72&u=1987e981f50f18b492950a1688d333ae14b19ee4&v=4" width="24" alt="Avatar of isaac-mason"> isaac-mason
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#isaac-mason">Copy rank badge</a><br/>
 			Isaac Mason
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LTLA">
 				<img src="https://avatars.githubusercontent.com/u/8166669?s=72&u=010a3beba855cf3ba298ef96e6f5cfc105abd274&v=4" width="24" alt="Avatar of LTLA"> LTLA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LTLA">Copy rank badge</a><br/>
 			Aaron Lun
 		</td>
 		<td>Philanthropist, Innovator, Creator </td>
@@ -616,7 +618,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bokkypoobah">
 				<img src="https://avatars.githubusercontent.com/u/17121975?s=72&u=289f6058fc6d8534d5935253d69f883c50ed1d8d&v=4" width="24" alt="Avatar of bokkypoobah"> bokkypoobah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bokkypoobah">Copy rank badge</a><br/>
 			milord.eth earthangel.eth "wakethefuckup.eth"
 		</td>
 		<td>Bok Consulting Pty Ltd<br/></td>
@@ -629,7 +631,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aaronparker">
 				<img src="https://avatars.githubusercontent.com/u/8227455?s=72&u=aeadc65233b3845dfc0eb9a8ef1f71800bb1d539&v=4" width="24" alt="Avatar of aaronparker"> aaronparker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aaronparker">Copy rank badge</a><br/>
 			Aaron Parker
 		</td>
 		<td>@get-nerdio </td>
@@ -642,7 +644,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thomaseizinger">
 				<img src="https://avatars.githubusercontent.com/u/5486389?s=72&u=15061e4db68c8b2aac71433521ee4bdd0c21b5af&v=4" width="24" alt="Avatar of thomaseizinger"> thomaseizinger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thomaseizinger">Copy rank badge</a><br/>
 			Thomas Eizinger
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kipcole9">
 				<img src="https://avatars.githubusercontent.com/u/15895?s=72&v=4" width="24" alt="Avatar of kipcole9"> kipcole9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kipcole9">Copy rank badge</a><br/>
 			Kip Cole
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mdsumner">
 				<img src="https://avatars.githubusercontent.com/u/4107631?s=72&u=77e928f4bb904a5c2e8927a02194b86662408329&v=4" width="24" alt="Avatar of mdsumner"> mdsumner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mdsumner">Copy rank badge</a><br/>
 			Michael Sumner
 		</td>
 		<td>Australian Antarctic Division </td>
@@ -681,7 +683,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/freakboy3742">
 				<img src="https://avatars.githubusercontent.com/u/37345?s=72&u=06b637e2290f584cfed894b6692a5e1269049d3c&v=4" width="24" alt="Avatar of freakboy3742"> freakboy3742
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#freakboy3742">Copy rank badge</a><br/>
 			Russell Keith-Magee
 		</td>
 		<td>No Company</td>
@@ -694,7 +696,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ashleydavis">
 				<img src="https://avatars.githubusercontent.com/u/625126?s=72&u=dbadfe64917af81b0335497661e1747f4288dc55&v=4" width="24" alt="Avatar of ashleydavis"> ashleydavis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ashleydavis">Copy rank badge</a><br/>
 			Ashley Davis
 		</td>
 		<td>Code Capers </td>
@@ -707,7 +709,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aaronpowell">
 				<img src="https://avatars.githubusercontent.com/u/434140?s=72&u=b195e03de2628cc26fccf5526045b6ecea96f2e3&v=4" width="24" alt="Avatar of aaronpowell"> aaronpowell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aaronpowell">Copy rank badge</a><br/>
 			Aaron Powell
 		</td>
 		<td>@microsoft </td>
@@ -720,7 +722,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/siliconjungle">
 				<img src="https://avatars.githubusercontent.com/u/71357672?s=72&u=18bc36a235e52a2596efcff661166fabff21212e&v=4" width="24" alt="Avatar of siliconjungle"> siliconjungle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#siliconjungle">Copy rank badge</a><br/>
 			James Addison
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/michaelneale">
 				<img src="https://avatars.githubusercontent.com/u/14976?s=72&v=4" width="24" alt="Avatar of michaelneale"> michaelneale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#michaelneale">Copy rank badge</a><br/>
 			Michael Neale
 		</td>
 		<td>No Company</td>
@@ -746,7 +748,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Hona">
 				<img src="https://avatars.githubusercontent.com/u/10430890?s=72&u=72fef45baa78450b588a5afcda79da863ef2ccc3&v=4" width="24" alt="Avatar of Hona"> Hona
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Hona">Copy rank badge</a><br/>
 			Luke Parker
 		</td>
 		<td>No Company</td>
@@ -759,7 +761,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/grahamegrieve">
 				<img src="https://avatars.githubusercontent.com/u/5858581?s=72&u=fea5eb9c47a78f36686d86490cbcff3059713547&v=4" width="24" alt="Avatar of grahamegrieve"> grahamegrieve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#grahamegrieve">Copy rank badge</a><br/>
 			Grahame Grieve
 		</td>
 		<td>Health Intersections Pty Ltd<br/></td>
@@ -772,7 +774,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pl4nty">
 				<img src="https://avatars.githubusercontent.com/u/21111317?s=72&u=8560dca4c59779ecd01599a2d291a1edd8befdb1&v=4" width="24" alt="Avatar of pl4nty"> pl4nty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pl4nty">Copy rank badge</a><br/>
 			Tom Plant
 		</td>
 		<td>A Cloud Near You<br/></td>
@@ -785,7 +787,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/robjhyndman">
 				<img src="https://avatars.githubusercontent.com/u/127518?s=72&u=ee9a9470735a100002069a6a32be2fd85b332d0e&v=4" width="24" alt="Avatar of robjhyndman"> robjhyndman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#robjhyndman">Copy rank badge</a><br/>
 			Rob J Hyndman
 		</td>
 		<td>Monash University </td>
@@ -798,7 +800,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hamishwillee">
 				<img src="https://avatars.githubusercontent.com/u/5368500?s=72&v=4" width="24" alt="Avatar of hamishwillee"> hamishwillee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hamishwillee">Copy rank badge</a><br/>
 			Hamish Willee
 		</td>
 		<td>Jenosam Pty Ltd </td>
@@ -811,7 +813,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MelbourneDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/16697547?s=72&u=594aee9c06f696c22aea23faebf2466fc1ffe208&v=4" width="24" alt="Avatar of MelbourneDeveloper"> MelbourneDeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MelbourneDeveloper">Copy rank badge</a><br/>
 			Christian Findlay
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/samcm">
 				<img src="https://avatars.githubusercontent.com/u/8144395?s=72&u=903cfcacc4764f5cd7c7f28d8697670c95ebbf8a&v=4" width="24" alt="Avatar of samcm"> samcm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#samcm">Copy rank badge</a><br/>
 			Sam Calder-Mason
 		</td>
 		<td>@ethereum </td>
@@ -837,7 +839,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jcponce">
 				<img src="https://avatars.githubusercontent.com/u/37394697?s=72&u=62c3d1928b3f553d3660d7073edd0b9bdb101011&v=4" width="24" alt="Avatar of jcponce"> jcponce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jcponce">Copy rank badge</a><br/>
 			Juan Carlos Ponce Campuzano
 		</td>
 		<td>No Company</td>
@@ -850,7 +852,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SamSaffron">
 				<img src="https://avatars.githubusercontent.com/u/5213?s=72&v=4" width="24" alt="Avatar of SamSaffron"> SamSaffron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SamSaffron">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>@discourse  </td>
@@ -863,7 +865,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mitchmindtree">
 				<img src="https://avatars.githubusercontent.com/u/4587373?s=72&v=4" width="24" alt="Avatar of mitchmindtree"> mitchmindtree
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mitchmindtree">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@nannou-org  </td>
@@ -876,7 +878,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mitchelloharawild">
 				<img src="https://avatars.githubusercontent.com/u/16127127?s=72&u=687e312a75a50a4c5014bd3542761042759f26ed&v=4" width="24" alt="Avatar of mitchelloharawild"> mitchelloharawild
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mitchelloharawild">Copy rank badge</a><br/>
 			Mitchell O'Hara-Wild
 		</td>
 		<td>Nectric </td>
@@ -889,7 +891,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wassname">
 				<img src="https://avatars.githubusercontent.com/u/1103714?s=72&u=10fffc48ac5656a3ff69f8e24984cd039c56d99d&v=4" width="24" alt="Avatar of wassname"> wassname
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wassname">Copy rank badge</a><br/>
 			wassname (Michael J Clark)
 		</td>
 		<td>I'm Just A Guy<br/>Who<br/>Likes<br/>To<br/>Machine<br/>Learn<br/></td>
@@ -902,7 +904,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/heidi-dang">
 				<img src="https://avatars.githubusercontent.com/u/35790?s=72&u=3ff915125e690d9829639913fc0b32f4f79b6848&v=4" width="24" alt="Avatar of heidi-dang"> heidi-dang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#heidi-dang">Copy rank badge</a><br/>
 			Heidi Dang
 		</td>
 		<td>No Company</td>
@@ -915,7 +917,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tridge">
 				<img src="https://avatars.githubusercontent.com/u/831867?s=72&u=bba8b8ef4657de9f9ea0beca22f722e592ff224f&v=4" width="24" alt="Avatar of tridge"> tridge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tridge">Copy rank badge</a><br/>
 			Andrew Tridgell
 		</td>
 		<td>Aerialrobotics Australia Pty Ltd<br/></td>
@@ -928,7 +930,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tcharding">
 				<img src="https://avatars.githubusercontent.com/u/12626037?s=72&u=97c771fe4dd55ee7c8cc3d47855c958b5c5bcdfa&v=4" width="24" alt="Avatar of tcharding"> tcharding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tcharding">Copy rank badge</a><br/>
 			Tobin C. Harding
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/paulk-asert">
 				<img src="https://avatars.githubusercontent.com/u/280016?s=72&u=b0bde6ed01875237c64fb83a16d655e53febaf47&v=4" width="24" alt="Avatar of paulk-asert"> paulk-asert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#paulk-asert">Copy rank badge</a><br/>
 			Paul King
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dipjyotimetia">
 				<img src="https://avatars.githubusercontent.com/u/18288720?s=72&u=dee7636f49c39d46eece2c6dd0fd1691e134f72e&v=4" width="24" alt="Avatar of dipjyotimetia"> dipjyotimetia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dipjyotimetia">Copy rank badge</a><br/>
 			Dipjyoti Metia
 		</td>
 		<td>@anz-bank </td>
@@ -967,7 +969,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/glennawatson">
 				<img src="https://avatars.githubusercontent.com/u/5834289?s=72&u=6c993285236a992d22dd3bd32b4a168f5bab082e&v=4" width="24" alt="Avatar of glennawatson"> glennawatson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#glennawatson">Copy rank badge</a><br/>
 			Glenn
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/metasal1">
 				<img src="https://avatars.githubusercontent.com/u/54984459?s=72&u=f08027364c2b6d174c167c261af69cf632d78826&v=4" width="24" alt="Avatar of metasal1"> metasal1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#metasal1">Copy rank badge</a><br/>
 			metasal
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/GrahamDumpleton">
 				<img src="https://avatars.githubusercontent.com/u/507637?s=72&v=4" width="24" alt="Avatar of GrahamDumpleton"> GrahamDumpleton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#GrahamDumpleton">Copy rank badge</a><br/>
 			Graham Dumpleton
 		</td>
 		<td>No Company</td>
@@ -1006,7 +1008,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wolfeidau">
 				<img src="https://avatars.githubusercontent.com/u/50636?s=72&u=0ceb7d9bbab889d41348ce08b39d55f195d91f31&v=4" width="24" alt="Avatar of wolfeidau"> wolfeidau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wolfeidau">Copy rank badge</a><br/>
 			Mark Wolfe
 		</td>
 		<td>No Company</td>
@@ -1019,7 +1021,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mitchdenny">
 				<img src="https://avatars.githubusercontent.com/u/513398?s=72&u=57062a7b027852319f1f8e438562023fa0e7196d&v=4" width="24" alt="Avatar of mitchdenny"> mitchdenny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mitchdenny">Copy rank badge</a><br/>
 			Mitch Denny
 		</td>
 		<td>@microsoft  </td>
@@ -1032,7 +1034,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abstractspoon">
 				<img src="https://avatars.githubusercontent.com/u/12944354?s=72&u=a70082e86d8196d5c0386d42bca6ab66da670008&v=4" width="24" alt="Avatar of abstractspoon"> abstractspoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abstractspoon">Copy rank badge</a><br/>
 			.dan.g.
 		</td>
 		<td>Abstractspoon </td>
@@ -1045,7 +1047,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adamhsparks">
 				<img src="https://avatars.githubusercontent.com/u/3195906?s=72&u=5d16842aa4ede1ddaa8911e126cc57b76ff22255&v=4" width="24" alt="Avatar of adamhsparks"> adamhsparks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adamhsparks">Copy rank badge</a><br/>
 			Adam H. Sparks
 		</td>
 		<td>Ccdm-cbada </td>
@@ -1058,7 +1060,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stenzek">
 				<img src="https://avatars.githubusercontent.com/u/11288319?s=72&v=4" width="24" alt="Avatar of stenzek"> stenzek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stenzek">Copy rank badge</a><br/>
 			Connor McLaughlin
 		</td>
 		<td>No Company</td>
@@ -1071,7 +1073,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sidorares">
 				<img src="https://avatars.githubusercontent.com/u/173025?s=72&u=6136e9ff99d12b32378579a5a86af9321fed641c&v=4" width="24" alt="Avatar of sidorares"> sidorares
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sidorares">Copy rank badge</a><br/>
 			Andrey Sidorov
 		</td>
 		<td>Tactiq </td>
@@ -1084,7 +1086,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/navidcy">
 				<img src="https://avatars.githubusercontent.com/u/7112768?s=72&u=8d950a5f9601f19c0ecbefd1aaddfc3658a60913&v=4" width="24" alt="Avatar of navidcy"> navidcy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#navidcy">Copy rank badge</a><br/>
 			Navid C. Constantinou
 		</td>
 		<td>University Of Melbourne @unimelb<br/></td>
@@ -1097,7 +1099,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kevin-lee">
 				<img src="https://avatars.githubusercontent.com/u/2307335?s=72&u=f28ab7c1bf7ac45005b08b8f097f8693bbdb2d4a&v=4" width="24" alt="Avatar of kevin-lee"> kevin-lee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kevin-lee">Copy rank badge</a><br/>
 			Kevin Lee
 		</td>
 		<td>No Company</td>
@@ -1110,7 +1112,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MattParkerDev">
 				<img src="https://avatars.githubusercontent.com/u/61717342?s=72&u=314f356f8d636229e0c9d72b78f9c8854df00420&v=4" width="24" alt="Avatar of MattParkerDev"> MattParkerDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MattParkerDev">Copy rank badge</a><br/>
 			Matt Parker
 		</td>
 		<td>No Company</td>
@@ -1123,7 +1125,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JasonXuDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/48086348?s=72&u=d20411e9d23c842133c63038b40b805b4b2ab1a2&v=4" width="24" alt="Avatar of JasonXuDeveloper"> JasonXuDeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JasonXuDeveloper">Copy rank badge</a><br/>
 			JasonXuDeveloper - 傑
 		</td>
 		<td>No Company</td>
@@ -1136,7 +1138,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/djnavarro">
 				<img src="https://avatars.githubusercontent.com/u/2896325?s=72&u=f5a70b057d2f771ececfb5007cf38f70d23e7c3f&v=4" width="24" alt="Avatar of djnavarro"> djnavarro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#djnavarro">Copy rank badge</a><br/>
 			Danielle Navarro
 		</td>
 		<td>No Company</td>
@@ -1149,7 +1151,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/robmorgan">
 				<img src="https://avatars.githubusercontent.com/u/178939?s=72&u=501a7a3c059878fcb2b31c2e34a6cc44f5287746&v=4" width="24" alt="Avatar of robmorgan"> robmorgan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#robmorgan">Copy rank badge</a><br/>
 			Rob Morgan
 		</td>
 		<td>@brightfame </td>
@@ -1162,7 +1164,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/RichardScottOZ">
 				<img src="https://avatars.githubusercontent.com/u/72196131?s=72&u=beff080061096d3009054e00998d19035ec69713&v=4" width="24" alt="Avatar of RichardScottOZ"> RichardScottOZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#RichardScottOZ">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1175,7 +1177,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Tobias-Fischer">
 				<img src="https://avatars.githubusercontent.com/u/5497832?s=72&u=46ec135677e89e1f52f45a567cd4963a62c07a35&v=4" width="24" alt="Avatar of Tobias-Fischer"> Tobias-Fischer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Tobias-Fischer">Copy rank badge</a><br/>
 			Tobias Fischer
 		</td>
 		<td>Queensland University Of Technology<br/></td>
@@ -1188,7 +1190,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sammcj">
 				<img src="https://avatars.githubusercontent.com/u/862951?s=72&u=cfd1c4a95ff2d92c1201a95c68b52dd353b8cc10&v=4" width="24" alt="Avatar of sammcj"> sammcj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sammcj">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>@digio </td>
@@ -1201,7 +1203,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/martinthomson">
 				<img src="https://avatars.githubusercontent.com/u/67641?s=72&u=adea16237836e526afa569daa66747dacb79c56d&v=4" width="24" alt="Avatar of martinthomson"> martinthomson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#martinthomson">Copy rank badge</a><br/>
 			Martin Thomson
 		</td>
 		<td>@mozilla </td>
@@ -1214,7 +1216,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/linsalrob">
 				<img src="https://avatars.githubusercontent.com/u/836231?s=72&u=075747512ef9f25d70d8417e956c3bada01b8745&v=4" width="24" alt="Avatar of linsalrob"> linsalrob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#linsalrob">Copy rank badge</a><br/>
 			Rob Edwards
 		</td>
 		<td>Flinders University </td>
@@ -1227,7 +1229,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Eric-Guo">
 				<img src="https://avatars.githubusercontent.com/u/1131536?s=72&u=4c05644d4fa75ff7eeecf3a93b3c836b23d4be58&v=4" width="24" alt="Avatar of Eric-Guo"> Eric-Guo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Eric-Guo">Copy rank badge</a><br/>
 			Eric Guo
 		</td>
 		<td>@thape-cn @eduvo @bayetech </td>
@@ -1240,7 +1242,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gloveboxes">
 				<img src="https://avatars.githubusercontent.com/u/9853509?s=72&u=f66b7e8e54a5a829b23a63910776351063cb64b2&v=4" width="24" alt="Avatar of gloveboxes"> gloveboxes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gloveboxes">Copy rank badge</a><br/>
 			Dave Glover
 		</td>
 		<td>Microsoft </td>
@@ -1253,7 +1255,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/petercorke">
 				<img src="https://avatars.githubusercontent.com/u/11801682?s=72&u=c6f8c9ba184f406c6ac4f8fd0991290b0d5fb5bb&v=4" width="24" alt="Avatar of petercorke"> petercorke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#petercorke">Copy rank badge</a><br/>
 			Peter Corke
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dd32">
 				<img src="https://avatars.githubusercontent.com/u/767313?s=72&v=4" width="24" alt="Avatar of dd32"> dd32
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dd32">Copy rank badge</a><br/>
 			Dion Hulse
 		</td>
 		<td>@wordpress @automattic  </td>
@@ -1279,7 +1281,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bcm-works">
 				<img src="https://avatars.githubusercontent.com/u/608191?s=72&u=aff3fee812cbab181c77b40b33e9f4e090222c6d&v=4" width="24" alt="Avatar of bcm-works"> bcm-works
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bcm-works">Copy rank badge</a><br/>
 			Brendan Murty
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Rosuav">
 				<img src="https://avatars.githubusercontent.com/u/640535?s=72&u=e8e5191202a5c74709c8789086b4f3809c061c92&v=4" width="24" alt="Avatar of Rosuav"> Rosuav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Rosuav">Copy rank badge</a><br/>
 			Chris Angelico
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/atomiks">
 				<img src="https://avatars.githubusercontent.com/u/22450188?s=72&u=34468c8ba8dc419f952724da66f7ede0dcc4d54d&v=4" width="24" alt="Avatar of atomiks"> atomiks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#atomiks">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TimOliver">
 				<img src="https://avatars.githubusercontent.com/u/429119?s=72&u=98d2e07b76dcb3afdd5786b1e8fa102f2c125f01&v=4" width="24" alt="Avatar of TimOliver"> TimOliver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TimOliver">Copy rank badge</a><br/>
 			Tim Oliver
 		</td>
 		<td>Third Intelligence Inc. </td>
@@ -1331,7 +1333,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tysoncung">
 				<img src="https://avatars.githubusercontent.com/u/45380903?s=72&u=bb67884dae7c67760392eccfe91173a532e34aba&v=4" width="24" alt="Avatar of tysoncung"> tysoncung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tysoncung">Copy rank badge</a><br/>
 			Tyson Cung
 		</td>
 		<td>Hivo.co </td>
@@ -1344,7 +1346,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/justinmclean">
 				<img src="https://avatars.githubusercontent.com/u/144504?s=72&u=3c7c8c12e429085edca4e3d4f767a65ff706bf48&v=4" width="24" alt="Avatar of justinmclean"> justinmclean
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#justinmclean">Copy rank badge</a><br/>
 			Justin Mclean
 		</td>
 		<td>Class Software </td>
@@ -1357,7 +1359,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Mause">
 				<img src="https://avatars.githubusercontent.com/u/1405026?s=72&v=4" width="24" alt="Avatar of Mause"> Mause
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Mause">Copy rank badge</a><br/>
 			Elliana May
 		</td>
 		<td>@duckdblabs </td>
@@ -1370,7 +1372,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Brendonovich">
 				<img src="https://avatars.githubusercontent.com/u/14191578?s=72&u=754cb88a1ea65648439ac0a7bc76022391a1931e&v=4" width="24" alt="Avatar of Brendonovich"> Brendonovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Brendonovich">Copy rank badge</a><br/>
 			Brendan Allan
 		</td>
 		<td>@anomalyco </td>
@@ -1383,7 +1385,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cpmech">
 				<img src="https://avatars.githubusercontent.com/u/9506388?s=72&u=00be55e1d00d8cb7f0bddd10c990121dea65d8d3&v=4" width="24" alt="Avatar of cpmech"> cpmech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cpmech">Copy rank badge</a><br/>
 			Dorival Pedroso
 		</td>
 		<td>No Company</td>
@@ -1396,7 +1398,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MattJColes">
 				<img src="https://avatars.githubusercontent.com/u/1024954?s=72&u=e323dcfaa77fe89e5cf3479edf9e467a13faf56e&v=4" width="24" alt="Avatar of MattJColes"> MattJColes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MattJColes">Copy rank badge</a><br/>
 			Matt Coles
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sanjay-kv">
 				<img src="https://avatars.githubusercontent.com/u/30715153?s=72&u=5c0d3cb71bf76aedb1cafe33698bf06729177a86&v=4" width="24" alt="Avatar of sanjay-kv"> sanjay-kv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sanjay-kv">Copy rank badge</a><br/>
 			Sanjay Viswanathan
 		</td>
 		<td>@recodehive </td>
@@ -1422,7 +1424,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/willvelida">
 				<img src="https://avatars.githubusercontent.com/u/8111944?s=72&u=d5fdb8644d768c7c699bfdf0686bf0ce1e856e47&v=4" width="24" alt="Avatar of willvelida"> willvelida
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#willvelida">Copy rank badge</a><br/>
 			Will Velida
 		</td>
 		<td>Microsoft </td>
@@ -1435,7 +1437,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AshKyd">
 				<img src="https://avatars.githubusercontent.com/u/49600?s=72&u=5dac95d9a54accc8e219f6bf985e26d84070be8b&v=4" width="24" alt="Avatar of AshKyd"> AshKyd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AshKyd">Copy rank badge</a><br/>
 			Ash Kyd
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davidlattimore">
 				<img src="https://avatars.githubusercontent.com/u/8983542?s=72&u=7af3be0e6d02fbd6d99962285b8f9a0e2175c30d&v=4" width="24" alt="Avatar of davidlattimore"> davidlattimore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davidlattimore">Copy rank badge</a><br/>
 			David Lattimore
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timriley">
 				<img src="https://avatars.githubusercontent.com/u/3134?s=72&v=4" width="24" alt="Avatar of timriley"> timriley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timriley">Copy rank badge</a><br/>
 			Tim Riley
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Djelibeybi">
 				<img src="https://avatars.githubusercontent.com/u/103232?s=72&u=a54aa86a5560e12574f1a1f8e0fcf7c078a737ff&v=4" width="24" alt="Avatar of Djelibeybi"> Djelibeybi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Djelibeybi">Copy rank badge</a><br/>
 			Avi Miller
 		</td>
 		<td>@colourwithin  </td>
@@ -1487,7 +1489,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ArjunAranetaCodes">
 				<img src="https://avatars.githubusercontent.com/u/16072259?s=72&u=1497aa160bad8392218073f86ec1b428263fc80e&v=4" width="24" alt="Avatar of ArjunAranetaCodes"> ArjunAranetaCodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ArjunAranetaCodes">Copy rank badge</a><br/>
 			Arjun Araneta
 		</td>
 		<td>Morecodes </td>
@@ -1500,7 +1502,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/viraptor">
 				<img src="https://avatars.githubusercontent.com/u/188063?s=72&u=f6ecb59b6f8558f60a62c6ece8304bea5dd4e9e1&v=4" width="24" alt="Avatar of viraptor"> viraptor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#viraptor">Copy rank badge</a><br/>
 			Stanisław Pitucha
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/michaelsproul">
 				<img src="https://avatars.githubusercontent.com/u/4452260?s=72&u=cf7424ecabcab72d2d0a0cea0beebd50f1f72be0&v=4" width="24" alt="Avatar of michaelsproul"> michaelsproul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#michaelsproul">Copy rank badge</a><br/>
 			Michael Sproul
 		</td>
 		<td>@sigp  </td>
@@ -1526,7 +1528,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/codess-aus">
 				<img src="https://avatars.githubusercontent.com/u/5952956?s=72&u=918807378a8fbab80c1abe54cc2dfd697fe8253d&v=4" width="24" alt="Avatar of codess-aus"> codess-aus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#codess-aus">Copy rank badge</a><br/>
 			Michelle Mei-Ling Sandford
 		</td>
 		<td>Microsoft </td>
@@ -1539,7 +1541,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jshwi">
 				<img src="https://avatars.githubusercontent.com/u/32796616?s=72&u=2ef026d079c6f22b9f941da20dabbb000805a6ca&v=4" width="24" alt="Avatar of jshwi"> jshwi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jshwi">Copy rank badge</a><br/>
 			Stephen Whitlock
 		</td>
 		<td>Squiz </td>
@@ -1552,7 +1554,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leaanthony">
 				<img src="https://avatars.githubusercontent.com/u/1943904?s=72&v=4" width="24" alt="Avatar of leaanthony"> leaanthony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leaanthony">Copy rank badge</a><br/>
 			Lea Anthony
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alecthomas">
 				<img src="https://avatars.githubusercontent.com/u/41767?s=72&v=4" width="24" alt="Avatar of alecthomas"> alecthomas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alecthomas">Copy rank badge</a><br/>
 			Alec Thomas
 		</td>
 		<td>No Company</td>
@@ -1578,7 +1580,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/oscartbeaumont">
 				<img src="https://avatars.githubusercontent.com/u/21004798?s=72&u=cb424a67be6049361d289fd028333f7c0c054ba0&v=4" width="24" alt="Avatar of oscartbeaumont"> oscartbeaumont
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#oscartbeaumont">Copy rank badge</a><br/>
 			Oscar Beaumont
 		</td>
 		<td>@zephyrcloudio </td>
@@ -1591,7 +1593,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bfollington">
 				<img src="https://avatars.githubusercontent.com/u/5009316?s=72&u=2693ff855b678c93cbc4248b942e9c28105bc041&v=4" width="24" alt="Avatar of bfollington"> bfollington
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bfollington">Copy rank badge</a><br/>
 			Ben Follington
 		</td>
 		<td>Common Tools </td>
@@ -1604,7 +1606,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/djmdjm">
 				<img src="https://avatars.githubusercontent.com/u/170281?s=72&u=21df3ed7493a5cceaa1e5eb9ac29a6d794d8c900&v=4" width="24" alt="Avatar of djmdjm"> djmdjm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#djmdjm">Copy rank badge</a><br/>
 			Damien Miller
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dmex">
 				<img src="https://avatars.githubusercontent.com/u/1306177?s=72&u=e79c82d33c0b98a7b63335e981298ceca8a303a0&v=4" width="24" alt="Avatar of dmex"> dmex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dmex">Copy rank badge</a><br/>
 			dmex
 		</td>
 		<td>Process Hacker </td>
@@ -1630,7 +1632,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Psy-Fer">
 				<img src="https://avatars.githubusercontent.com/u/8985577?s=72&u=57ed3839d72ddcab9445d6b11c94d4ac4bd6cc2d&v=4" width="24" alt="Avatar of Psy-Fer"> Psy-Fer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Psy-Fer">Copy rank badge</a><br/>
 			James Ferguson
 		</td>
 		<td>Genomic Technologies Group </td>
@@ -1643,7 +1645,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Anyesh">
 				<img src="https://avatars.githubusercontent.com/u/26220465?s=72&u=9410bfd951093885d9b133e2a23bbf9102b76951&v=4" width="24" alt="Avatar of Anyesh"> Anyesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Anyesh">Copy rank badge</a><br/>
 			Anish Shrestha
 		</td>
 		<td>@alayacare </td>
@@ -1656,7 +1658,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nnethercote">
 				<img src="https://avatars.githubusercontent.com/u/1940286?s=72&u=fbd0eb2dbbc97e46b2e313d3f50d62d1d169bac4&v=4" width="24" alt="Avatar of nnethercote"> nnethercote
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nnethercote">Copy rank badge</a><br/>
 			Nicholas Nethercote
 		</td>
 		<td>No Company</td>
@@ -1669,7 +1671,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/daftspunk">
 				<img src="https://avatars.githubusercontent.com/u/1392869?s=72&u=823e69acf6ddbd5b82f94662380ef7c82f711aef&v=4" width="24" alt="Avatar of daftspunk"> daftspunk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#daftspunk">Copy rank badge</a><br/>
 			daft
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cxong">
 				<img src="https://avatars.githubusercontent.com/u/1083215?s=72&u=def6ecf74c5ad59d8a3d87979cb82551bb0703cc&v=4" width="24" alt="Avatar of cxong"> cxong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cxong">Copy rank badge</a><br/>
 			congusbongus
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/NeatGuyCoding">
 				<img src="https://avatars.githubusercontent.com/u/15627489?s=72&u=b11d98a256072b56faaa3a075a09e7f679f3e05e&v=4" width="24" alt="Avatar of NeatGuyCoding"> NeatGuyCoding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#NeatGuyCoding">Copy rank badge</a><br/>
 			NeatGuyCoding
 		</td>
 		<td>No Company</td>
@@ -1708,7 +1710,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/centminmod">
 				<img src="https://avatars.githubusercontent.com/u/5899584?s=72&u=7d779f781d22d3097d04186c0eda5fe239b8f60d&v=4" width="24" alt="Avatar of centminmod"> centminmod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#centminmod">Copy rank badge</a><br/>
 			George Liu (eva2000)
 		</td>
 		<td>No Company</td>
@@ -1721,7 +1723,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/btnguyen2k">
 				<img src="https://avatars.githubusercontent.com/u/2164028?s=72&u=068cc7399ca1683b6fc4f0ae7b6a4b42ef9fbd31&v=4" width="24" alt="Avatar of btnguyen2k"> btnguyen2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#btnguyen2k">Copy rank badge</a><br/>
 			Thanh Ba Nguyen
 		</td>
 		<td>Microsoft </td>
@@ -1734,7 +1736,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/loklaan">
 				<img src="https://avatars.githubusercontent.com/u/1560301?s=72&u=38518dc441203b3351f15902ba765bdc1cc0c5c9&v=4" width="24" alt="Avatar of loklaan"> loklaan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#loklaan">Copy rank badge</a><br/>
 			Lochlan Bunn
 		</td>
 		<td>@canva  </td>
@@ -1747,7 +1749,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JayZeeDesign">
 				<img src="https://avatars.githubusercontent.com/u/22532527?s=72&u=804ca9253ba1a05aaaaf31a75084bac6c0b79184&v=4" width="24" alt="Avatar of JayZeeDesign"> JayZeeDesign
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JayZeeDesign">Copy rank badge</a><br/>
 			Jason Zhou
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/olamy">
 				<img src="https://avatars.githubusercontent.com/u/19728?s=72&u=7d45694e8150f992beab6979fb7fe9dfaad2597e&v=4" width="24" alt="Avatar of olamy"> olamy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#olamy">Copy rank badge</a><br/>
 			Olivier Lamy
 		</td>
 		<td>@kawa-software </td>
@@ -1773,7 +1775,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bitcoinbrisbane">
 				<img src="https://avatars.githubusercontent.com/u/8411406?s=72&u=dc466d5e16e63504d10f374467e6d3dab9510e2d&v=4" width="24" alt="Avatar of bitcoinbrisbane"> bitcoinbrisbane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bitcoinbrisbane">Copy rank badge</a><br/>
 			Lucas Cullen
 		</td>
 		<td>Bitcoin Brisbane </td>
@@ -1786,7 +1788,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/japgolly">
 				<img src="https://avatars.githubusercontent.com/u/202935?s=72&v=4" width="24" alt="Avatar of japgolly"> japgolly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#japgolly">Copy rank badge</a><br/>
 			David Barri
 		</td>
 		<td>No Company</td>
@@ -1799,7 +1801,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MysteryPancake">
 				<img src="https://avatars.githubusercontent.com/u/9063769?s=72&u=063c9934985c1ed394f71828d9b753571fe6f640&v=4" width="24" alt="Avatar of MysteryPancake"> MysteryPancake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MysteryPancake">Copy rank badge</a><br/>
 			Hallam Roberts
 		</td>
 		<td>No Company</td>
@@ -1812,7 +1814,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dpgeorge">
 				<img src="https://avatars.githubusercontent.com/u/6187689?s=72&v=4" width="24" alt="Avatar of dpgeorge"> dpgeorge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dpgeorge">Copy rank badge</a><br/>
 			Damien George
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tinkle-community">
 				<img src="https://avatars.githubusercontent.com/u/240652709?s=72&u=173f5ddce29e4e981dae8b3d6f7ead57d810c813&v=4" width="24" alt="Avatar of tinkle-community"> tinkle-community
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tinkle-community">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1838,7 +1840,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/chrisleekr">
 				<img src="https://avatars.githubusercontent.com/u/5715919?s=72&u=dacecb274cf6f37da96567b9005ca62079fadf9c&v=4" width="24" alt="Avatar of chrisleekr"> chrisleekr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#chrisleekr">Copy rank badge</a><br/>
 			Chris Lee
 		</td>
 		<td>Luxury Escapes </td>
@@ -1851,7 +1853,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tseemann">
 				<img src="https://avatars.githubusercontent.com/u/453972?s=72&u=d2bbc8bbb7a331143413a6587b7468f5b536b4f2&v=4" width="24" alt="Avatar of tseemann"> tseemann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tseemann">Copy rank badge</a><br/>
 			Torsten Seemann
 		</td>
 		<td>The University Of Melbourne<br/></td>
@@ -1864,7 +1866,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wdhdev">
 				<img src="https://avatars.githubusercontent.com/u/87287585?s=72&u=ba5468a32a59a7112b89c5dc41dfc39af9cad13f&v=4" width="24" alt="Avatar of wdhdev"> wdhdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wdhdev">Copy rank badge</a><br/>
 			William Harrison
 		</td>
 		<td>@is-a-dev @getlocalcert </td>
@@ -1877,7 +1879,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lorenzodarioben-lgtm">
 				<img src="https://avatars.githubusercontent.com/u/228310513?s=72&u=bcddccdf3e4bc525358c520e58db42261f6fa44d&v=4" width="24" alt="Avatar of lorenzodarioben-lgtm"> lorenzodarioben-lgtm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lorenzodarioben-lgtm">Copy rank badge</a><br/>
 			Lorenzo_Dario_Ben
 		</td>
 		<td>Deakin University </td>
@@ -1890,7 +1892,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ghuntley">
 				<img src="https://avatars.githubusercontent.com/u/127353?s=72&u=022d367a948fba3cfe178424b404ac8f2a28412e&v=4" width="24" alt="Avatar of ghuntley"> ghuntley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ghuntley">Copy rank badge</a><br/>
 			Geoffrey Huntley
 		</td>
 		<td>No Company</td>
@@ -1903,7 +1905,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sahandghavidel">
 				<img src="https://avatars.githubusercontent.com/u/71052435?s=72&u=1e11ed8e252953b31429b22d4a66eef7cda21485&v=4" width="24" alt="Avatar of sahandghavidel"> sahandghavidel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sahandghavidel">Copy rank badge</a><br/>
 			Sahand Ghavidel
 		</td>
 		<td>No Company</td>
@@ -1916,7 +1918,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/KodrAus">
 				<img src="https://avatars.githubusercontent.com/u/6721458?s=72&u=c8956510962ac9e13d64f35289865bc26b53d334&v=4" width="24" alt="Avatar of KodrAus"> KodrAus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#KodrAus">Copy rank badge</a><br/>
 			Ashley Mannix
 		</td>
 		<td>@datalust </td>
@@ -1929,7 +1931,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gridbugs">
 				<img src="https://avatars.githubusercontent.com/u/417118?s=72&u=ca18a9d4f9340c470e023e8bb9df8bdf34048408&v=4" width="24" alt="Avatar of gridbugs"> gridbugs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gridbugs">Copy rank badge</a><br/>
 			Stephen Sherratt
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joshhanley">
 				<img src="https://avatars.githubusercontent.com/u/882837?s=72&u=de3c42b9be4289306e7c8e2c88445a5dada3eb11&v=4" width="24" alt="Avatar of joshhanley"> joshhanley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joshhanley">Copy rank badge</a><br/>
 			Josh Hanley
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/luispedro">
 				<img src="https://avatars.githubusercontent.com/u/79334?s=72&u=a57ac311c9302d275350da20e29a9df22fe8458d&v=4" width="24" alt="Avatar of luispedro"> luispedro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#luispedro">Copy rank badge</a><br/>
 			Luis Pedro Coelho
 		</td>
 		<td>Queensland University Of Technology<br/></td>
@@ -1968,7 +1970,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MewX">
 				<img src="https://avatars.githubusercontent.com/u/5752560?s=72&v=4" width="24" alt="Avatar of MewX"> MewX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MewX">Copy rank badge</a><br/>
 			MewX
 		</td>
 		<td>@google </td>
@@ -1981,7 +1983,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Moult">
 				<img src="https://avatars.githubusercontent.com/u/88302?s=72&v=4" width="24" alt="Avatar of Moult"> Moult
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Moult">Copy rank badge</a><br/>
 			Dion Moult
 		</td>
 		<td>No Company</td>
@@ -1994,7 +1996,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tqwewe">
 				<img src="https://avatars.githubusercontent.com/u/16362377?s=72&u=3d95f79b6765a0815f318ab606c299b9ff2d19d9&v=4" width="24" alt="Avatar of tqwewe"> tqwewe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tqwewe">Copy rank badge</a><br/>
 			Ari Seyhun
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jarrodwatts">
 				<img src="https://avatars.githubusercontent.com/u/35651410?s=72&u=a3263c49ee3f22aa26ea85b5b39ff03d949ab24a&v=4" width="24" alt="Avatar of jarrodwatts"> jarrodwatts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jarrodwatts">Copy rank badge</a><br/>
 			Jarrod Watts
 		</td>
 		<td>No Company</td>
@@ -2020,7 +2022,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/scudette">
 				<img src="https://avatars.githubusercontent.com/u/3856546?s=72&u=2e4189229071f0584937264dcf8a10be921dfbb4&v=4" width="24" alt="Avatar of scudette"> scudette
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#scudette">Copy rank badge</a><br/>
 			Mike Cohen
 		</td>
 		<td>@velocidex  </td>
@@ -2033,7 +2035,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MegaManSec">
 				<img src="https://avatars.githubusercontent.com/u/2505339?s=72&u=78aedab1262910f581b6fdfb2072e6d0248cb3b5&v=4" width="24" alt="Avatar of MegaManSec"> MegaManSec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MegaManSec">Copy rank badge</a><br/>
 			Joshua Rogers
 		</td>
 		<td>No Company</td>
@@ -2046,7 +2048,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gbouras13">
 				<img src="https://avatars.githubusercontent.com/u/84495559?s=72&u=3fb972c1e16d9a71f77f462f015cc046c5e9fc52&v=4" width="24" alt="Avatar of gbouras13"> gbouras13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gbouras13">Copy rank badge</a><br/>
 			George Bouras
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/xxfast">
 				<img src="https://avatars.githubusercontent.com/u/13775137?s=72&u=4ed1bf92588dc85a52b45ba3a4b604a96c3de191&v=4" width="24" alt="Avatar of xxfast"> xxfast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#xxfast">Copy rank badge</a><br/>
 			Isuru Rajapakse
 		</td>
 		<td>Motorola Solutions </td>
@@ -2072,7 +2074,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stemangiola">
 				<img src="https://avatars.githubusercontent.com/u/7232890?s=72&u=733185355f839329f2d035b9c37af229672a57b8&v=4" width="24" alt="Avatar of stemangiola"> stemangiola
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stemangiola">Copy rank badge</a><br/>
 			Stefano Mangiola
 		</td>
 		<td>Saigenci </td>
@@ -2085,7 +2087,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tmcgilchrist">
 				<img src="https://avatars.githubusercontent.com/u/170937?s=72&u=b0989bf770ded7b3ff0b936eeaa5a174b2fa9848&v=4" width="24" alt="Avatar of tmcgilchrist"> tmcgilchrist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tmcgilchrist">Copy rank badge</a><br/>
 			Tim McGilchrist
 		</td>
 		<td>@tarides </td>
@@ -2098,7 +2100,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yuleisui">
 				<img src="https://avatars.githubusercontent.com/u/7608399?s=72&u=cbf5c2f9db91fd9795415951ff608f080238c49b&v=4" width="24" alt="Avatar of yuleisui"> yuleisui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yuleisui">Copy rank badge</a><br/>
 			Yulei Sui
 		</td>
 		<td>Unsw </td>
@@ -2111,7 +2113,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ajfisher">
 				<img src="https://avatars.githubusercontent.com/u/119203?s=72&u=21a2d38e0e56506c8d94e6cfd5b08bb81adf3dfa&v=4" width="24" alt="Avatar of ajfisher"> ajfisher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ajfisher">Copy rank badge</a><br/>
 			ajfisher
 		</td>
 		<td>Tetratherix, Loypal, Rocket Melbourne<br/></td>
@@ -2124,7 +2126,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stackotter">
 				<img src="https://avatars.githubusercontent.com/u/26103979?s=72&u=90f660b345ec22bf5319313488f93ea5dd89cb21&v=4" width="24" alt="Avatar of stackotter"> stackotter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stackotter">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wwood">
 				<img src="https://avatars.githubusercontent.com/u/15348?s=72&v=4" width="24" alt="Avatar of wwood"> wwood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wwood">Copy rank badge</a><br/>
 			Ben J Woodcroft
 		</td>
 		<td>Queensland University Of Technology<br/></td>
@@ -2150,7 +2152,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ScriptSmith">
 				<img src="https://avatars.githubusercontent.com/u/17246877?s=72&u=40c3458d7db4b7452033e053868c8472f2fbdeea&v=4" width="24" alt="Avatar of ScriptSmith"> ScriptSmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ScriptSmith">Copy rank badge</a><br/>
 			Adam Smith
 		</td>
 		<td>@eresearchqut </td>
@@ -2163,7 +2165,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/shazzar00ni">
 				<img src="https://avatars.githubusercontent.com/u/155769623?s=72&u=4828016c7aab8052f252156e9a935a6b40b6e4fd&v=4" width="24" alt="Avatar of shazzar00ni"> shazzar00ni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#shazzar00ni">Copy rank badge</a><br/>
 			Shannon Lockett
 		</td>
 		<td>Blockbrain Group </td>
@@ -2176,7 +2178,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/matt-goldman">
 				<img src="https://avatars.githubusercontent.com/u/19944129?s=72&u=3e6bc96c9ea815d1df37766869adcb1f1d8d0faf&v=4" width="24" alt="Avatar of matt-goldman"> matt-goldman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#matt-goldman">Copy rank badge</a><br/>
 			Matt Goldman
 		</td>
 		<td>@verdaniq </td>
@@ -2189,7 +2191,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/samthor">
 				<img src="https://avatars.githubusercontent.com/u/119184?s=72&v=4" width="24" alt="Avatar of samthor"> samthor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#samthor">Copy rank badge</a><br/>
 			Sam Thorogood
 		</td>
 		<td>No Company</td>
@@ -2202,7 +2204,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/maks">
 				<img src="https://avatars.githubusercontent.com/u/71999?s=72&u=18310f72f7f569f3ab66052d54875221cd417cea&v=4" width="24" alt="Avatar of maks"> maks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#maks">Copy rank badge</a><br/>
 			Maksim Lin
 		</td>
 		<td>Manichord </td>
@@ -2215,7 +2217,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JoshuaBatty">
 				<img src="https://avatars.githubusercontent.com/u/1289413?s=72&u=a6d022ab045ef13613134366170e3bc8102a8bb9&v=4" width="24" alt="Avatar of JoshuaBatty"> JoshuaBatty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JoshuaBatty">Copy rank badge</a><br/>
 			Joshua Batty
 		</td>
 		<td>Mindbuffer </td>
@@ -2228,7 +2230,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/FedericoTartarini">
 				<img src="https://avatars.githubusercontent.com/u/40018640?s=72&u=d3977559e371cefa633ccec94300fb85c2903ba7&v=4" width="24" alt="Avatar of FedericoTartarini"> FedericoTartarini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#FedericoTartarini">Copy rank badge</a><br/>
 			Federico Tartarini
 		</td>
 		<td>The University Of Sydney<br/></td>
@@ -2241,7 +2243,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/robn">
 				<img src="https://avatars.githubusercontent.com/u/130670?s=72&v=4" width="24" alt="Avatar of robn"> robn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#robn">Copy rank badge</a><br/>
 			Rob Norris
 		</td>
 		<td>@truenas </td>
@@ -2254,7 +2256,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/emitanaka">
 				<img src="https://avatars.githubusercontent.com/u/7620319?s=72&u=ace9d5aab04e5413b19580c8092bfe6caade3535&v=4" width="24" alt="Avatar of emitanaka"> emitanaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#emitanaka">Copy rank badge</a><br/>
 			Emi Tanaka
 		</td>
 		<td>Australian National University </td>
@@ -2267,7 +2269,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/beauwilliams">
 				<img src="https://avatars.githubusercontent.com/u/7098556?s=72&u=19ed744c53cefd2e0b33846ed58d960f8a7a09dd&v=4" width="24" alt="Avatar of beauwilliams"> beauwilliams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#beauwilliams">Copy rank badge</a><br/>
 			Beau
 		</td>
 		<td>Atlassian </td>
@@ -2280,7 +2282,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/xiongnemo">
 				<img src="https://avatars.githubusercontent.com/u/38759782?s=72&u=78b3085064a4cee298231f2fb5212c3ccafcba59&v=4" width="24" alt="Avatar of xiongnemo"> xiongnemo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#xiongnemo">Copy rank badge</a><br/>
 			Nemo Xiong
 		</td>
 		<td>Monash University </td>
@@ -2293,7 +2295,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/owenlamont">
 				<img src="https://avatars.githubusercontent.com/u/12672027?s=72&u=fbb0c1e48d625abeddba3df79868eb8e49eb5665&v=4" width="24" alt="Avatar of owenlamont"> owenlamont
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#owenlamont">Copy rank badge</a><br/>
 			Owen Lamont
 		</td>
 		<td>Optigrid </td>
@@ -2306,7 +2308,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jborean93">
 				<img src="https://avatars.githubusercontent.com/u/8462645?s=72&u=30e33479c0d7d6356175848bd931e06b192f8039&v=4" width="24" alt="Avatar of jborean93"> jborean93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jborean93">Copy rank badge</a><br/>
 			Jordan Borean
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Michael-F-Bryan">
 				<img src="https://avatars.githubusercontent.com/u/17380079?s=72&u=dda78e55f994abb5d7aa15983133e66a3cdc07ca&v=4" width="24" alt="Avatar of Michael-F-Bryan"> Michael-F-Bryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Michael-F-Bryan">Copy rank badge</a><br/>
 			Michael Bryan
 		</td>
 		<td>@sunfish-robotics </td>
@@ -2332,7 +2334,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Vercidium">
 				<img src="https://avatars.githubusercontent.com/u/12014138?s=72&u=88e6bee9bf99cd2a9a58902a3b010291547fae4e&v=4" width="24" alt="Avatar of Vercidium"> Vercidium
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Vercidium">Copy rank badge</a><br/>
 			Vercidium
 		</td>
 		<td>Vercidium </td>
@@ -2345,7 +2347,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/martinbjeldbak">
 				<img src="https://avatars.githubusercontent.com/u/823316?s=72&u=0758f04ccbf8ea266bfc032939efc30e33b4781c&v=4" width="24" alt="Avatar of martinbjeldbak"> martinbjeldbak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#martinbjeldbak">Copy rank badge</a><br/>
 			Martin Bjeldbak Madsen
 		</td>
 		<td>@imc-trading </td>
@@ -2358,7 +2360,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/foyzulkarim">
 				<img src="https://avatars.githubusercontent.com/u/497812?s=72&u=671aa0b8aba0c100792bd4e7eca9106ae01f4d7d&v=4" width="24" alt="Avatar of foyzulkarim"> foyzulkarim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#foyzulkarim">Copy rank badge</a><br/>
 			Foyzul Karim
 		</td>
 		<td>Self </td>
@@ -2371,7 +2373,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adamhannigan">
 				<img src="https://avatars.githubusercontent.com/u/11745561?s=72&u=0d204cb2009ff733a13942c50643f18e7929450d&v=4" width="24" alt="Avatar of adamhannigan"> adamhannigan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adamhannigan">Copy rank badge</a><br/>
 			Adam Hannigan
 		</td>
 		<td>Thought Farm Pty Ltd<br/></td>
@@ -2384,7 +2386,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jc21">
 				<img src="https://avatars.githubusercontent.com/u/1518257?s=72&u=7b4aa64434045013cc970ef9ba636adb4022f7b5&v=4" width="24" alt="Avatar of jc21"> jc21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jc21">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kring">
 				<img src="https://avatars.githubusercontent.com/u/924374?s=72&u=26ae5357ea3de6417fd5908e62c98899cebd0d97&v=4" width="24" alt="Avatar of kring"> kring
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kring">Copy rank badge</a><br/>
 			Kevin Ring
 		</td>
 		<td>Cesium </td>
@@ -2410,7 +2412,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/johndpope">
 				<img src="https://avatars.githubusercontent.com/u/289994?s=72&u=8a44bbb07dac5f6fb620190921aee38b2e055242&v=4" width="24" alt="Avatar of johndpope"> johndpope
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#johndpope">Copy rank badge</a><br/>
 			John D. Pope
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jni">
 				<img src="https://avatars.githubusercontent.com/u/492549?s=72&v=4" width="24" alt="Avatar of jni"> jni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jni">Copy rank badge</a><br/>
 			Juan Nunez-Iglesias
 		</td>
 		<td>Monash Eresearch Centre, Monash<br/>University<br/></td>
@@ -2436,7 +2438,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/glasnt">
 				<img src="https://avatars.githubusercontent.com/u/813732?s=72&v=4" width="24" alt="Avatar of glasnt"> glasnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#glasnt">Copy rank badge</a><br/>
 			Katie McLaughlin
 		</td>
 		<td>@googlecloudplatform </td>
@@ -2449,7 +2451,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/settermjd">
 				<img src="https://avatars.githubusercontent.com/u/196801?s=72&u=d68381b5c46387278ca4e8445ed62f76cf92c5ac&v=4" width="24" alt="Avatar of settermjd"> settermjd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#settermjd">Copy rank badge</a><br/>
 			Matthew Setter
 		</td>
 		<td>Matthew Setter </td>
@@ -2462,7 +2464,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pda">
 				<img src="https://avatars.githubusercontent.com/u/15759?s=72&v=4" width="24" alt="Avatar of pda"> pda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pda">Copy rank badge</a><br/>
 			Paul Annesley
 		</td>
 		<td>@buildkite </td>
@@ -2475,7 +2477,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mbhall88">
 				<img src="https://avatars.githubusercontent.com/u/20403931?s=72&v=4" width="24" alt="Avatar of mbhall88"> mbhall88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mbhall88">Copy rank badge</a><br/>
 			Michael Hall
 		</td>
 		<td>University Of Queensland |<br/>Frazer<br/>Institute<br/><br/></td>
@@ -2488,7 +2490,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jayvdb">
 				<img src="https://avatars.githubusercontent.com/u/15092?s=72&u=7f743c3c4752785fe699656ae971ef897ff78c11&v=4" width="24" alt="Avatar of jayvdb"> jayvdb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jayvdb">Copy rank badge</a><br/>
 			John Vandenberg
 		</td>
 		<td>Curtin University </td>
@@ -2501,7 +2503,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TheCSharpAcademy">
 				<img src="https://avatars.githubusercontent.com/u/108711476?s=72&u=2ca4792252d4b9fcba71093a5933b5013c3eb320&v=4" width="24" alt="Avatar of TheCSharpAcademy"> TheCSharpAcademy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TheCSharpAcademy">Copy rank badge</a><br/>
 			The C# Academy
 		</td>
 		<td>The C# Academy </td>
@@ -2514,7 +2516,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/auscompgeek">
 				<img src="https://avatars.githubusercontent.com/u/128854?s=72&v=4" width="24" alt="Avatar of auscompgeek"> auscompgeek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#auscompgeek">Copy rank badge</a><br/>
 			David Vo
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jasperblues">
 				<img src="https://avatars.githubusercontent.com/u/430321?s=72&u=f943afec6d754694e53f1eb6208f3dd070d52b36&v=4" width="24" alt="Avatar of jasperblues"> jasperblues
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jasperblues">Copy rank badge</a><br/>
 			Jasper Blues
 		</td>
 		<td>No Company</td>
@@ -2540,7 +2542,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/patrickgwsmith">
 				<img src="https://avatars.githubusercontent.com/u/2635733?s=72&u=f6d6817f48dd2d06a97ce52f52995e194d97317c&v=4" width="24" alt="Avatar of patrickgwsmith"> patrickgwsmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#patrickgwsmith">Copy rank badge</a><br/>
 			Patrick George Wyndham Smith
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AlexStormwood">
 				<img src="https://avatars.githubusercontent.com/u/22165407?s=72&u=63d80431d36dbb5ad027d60ef503832a0f590e60&v=4" width="24" alt="Avatar of AlexStormwood"> AlexStormwood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AlexStormwood">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>@bigfootds  </td>
@@ -2566,7 +2568,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wuyoscar">
 				<img src="https://avatars.githubusercontent.com/u/72287536?s=72&u=6ef805b641c8a9fe68a0ab77e3814f6de820e13c&v=4" width="24" alt="Avatar of wuyoscar"> wuyoscar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wuyoscar">Copy rank badge</a><br/>
 			Oscar Wu
 		</td>
 		<td>No Company</td>
@@ -2579,7 +2581,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ashquarky">
 				<img src="https://avatars.githubusercontent.com/u/8533313?s=72&u=59747c6fa5eb333c4eae05783633509c2441090e&v=4" width="24" alt="Avatar of ashquarky"> ashquarky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ashquarky">Copy rank badge</a><br/>
 			Ash
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TabishB">
 				<img src="https://avatars.githubusercontent.com/u/30385142?s=72&u=1e3921e251dc25aeae79c3f0da4c8651dff04dfe&v=4" width="24" alt="Avatar of TabishB"> TabishB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TabishB">Copy rank badge</a><br/>
 			Tabish Bidiwale
 		</td>
 		<td>@fission-ai </td>
@@ -2605,7 +2607,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gnif">
 				<img src="https://avatars.githubusercontent.com/u/351151?s=72&u=b7f51247ff8a3cb6b75cffcabbbf1afd9eabafbd&v=4" width="24" alt="Avatar of gnif"> gnif
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gnif">Copy rank badge</a><br/>
 			Geoffrey McRae
 		</td>
 		<td>Looking Glass </td>
@@ -2618,7 +2620,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/eliocamp">
 				<img src="https://avatars.githubusercontent.com/u/8617595?s=72&u=0a35e19e70d548ee941960abf40efd92f2209972&v=4" width="24" alt="Avatar of eliocamp"> eliocamp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#eliocamp">Copy rank badge</a><br/>
 			Elio Campitelli
 		</td>
 		<td>No Company</td>
@@ -2631,7 +2633,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sampotts">
 				<img src="https://avatars.githubusercontent.com/u/719092?s=72&u=7a6ec562a3081548f1befe93cbedcbb7b0ba5645&v=4" width="24" alt="Avatar of sampotts"> sampotts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sampotts">Copy rank badge</a><br/>
 			Sam Potts
 		</td>
 		<td>Mux </td>
@@ -2644,7 +2646,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jpillora">
 				<img src="https://avatars.githubusercontent.com/u/633843?s=72&v=4" width="24" alt="Avatar of jpillora"> jpillora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jpillora">Copy rank badge</a><br/>
 			Jaime Pillora
 		</td>
 		<td>No Company</td>
@@ -2657,7 +2659,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yoninazarathy">
 				<img src="https://avatars.githubusercontent.com/u/19950326?s=72&u=2add9d2e3ec0bf281df98a0faad7a1defb57bddd&v=4" width="24" alt="Avatar of yoninazarathy"> yoninazarathy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yoninazarathy">Copy rank badge</a><br/>
 			Yoni Nazarathy
 		</td>
 		<td>Uq, Accumulation Point, And<br/>Pumas<br/>Ai<br/></td>
@@ -2670,7 +2672,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abcoathup">
 				<img src="https://avatars.githubusercontent.com/u/28278242?s=72&u=c266954ab22c384bbd26a33cdc68ce0d232b1d91&v=4" width="24" alt="Avatar of abcoathup"> abcoathup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abcoathup">Copy rank badge</a><br/>
 			Andrew B Coathup
 		</td>
 		<td>@ethereal-news </td>
@@ -2683,7 +2685,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dicook">
 				<img src="https://avatars.githubusercontent.com/u/253191?s=72&v=4" width="24" alt="Avatar of dicook"> dicook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dicook">Copy rank badge</a><br/>
 			Dianne Cook
 		</td>
 		<td>Monash University </td>
@@ -2696,7 +2698,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/daveallie">
 				<img src="https://avatars.githubusercontent.com/u/968573?s=72&u=22941d2849c3a93cbe2dd9ec6ce7c2c074026c97&v=4" width="24" alt="Avatar of daveallie"> daveallie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#daveallie">Copy rank badge</a><br/>
 			Dave Allie
 		</td>
 		<td>@visibuild </td>
@@ -2709,7 +2711,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rrwick">
 				<img src="https://avatars.githubusercontent.com/u/7053555?s=72&u=e1b5324b13f403f4e47f1f15d562f2d3410e8a2b&v=4" width="24" alt="Avatar of rrwick"> rrwick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rrwick">Copy rank badge</a><br/>
 			Ryan Wick
 		</td>
 		<td>University Of Melbourne </td>
@@ -2722,7 +2724,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SebastianElvis">
 				<img src="https://avatars.githubusercontent.com/u/9570153?s=72&u=46277711d77645bd25046917ea13e9d9634257a1&v=4" width="24" alt="Avatar of SebastianElvis"> SebastianElvis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SebastianElvis">Copy rank badge</a><br/>
 			Runchao Han
 		</td>
 		<td>@babylonlabs-io </td>
@@ -2735,7 +2737,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hazzik">
 				<img src="https://avatars.githubusercontent.com/u/144791?s=72&u=07544198e555f35f0c036ae399aba65fbf714c99&v=4" width="24" alt="Avatar of hazzik"> hazzik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hazzik">Copy rank badge</a><br/>
 			Alex Zaytsev
 		</td>
 		<td>No Company</td>
@@ -2748,7 +2750,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/phocks">
 				<img src="https://avatars.githubusercontent.com/u/437566?s=72&u=69c0ce9984f8ea7bcc3c7f8c39dd284364d402f6&v=4" width="24" alt="Avatar of phocks"> phocks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#phocks">Copy rank badge</a><br/>
 			Joshua Byrd
 		</td>
 		<td>@abcnews  </td>
@@ -2761,7 +2763,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Firstyear">
 				<img src="https://avatars.githubusercontent.com/u/271005?s=72&u=e021bd5ec5f2ff26f0b3a8487bf19266c598e1a4&v=4" width="24" alt="Avatar of Firstyear"> Firstyear
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Firstyear">Copy rank badge</a><br/>
 			Firstyear
 		</td>
 		<td>Suse </td>
@@ -2774,7 +2776,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/vicr123">
 				<img src="https://avatars.githubusercontent.com/u/7380161?s=72&v=4" width="24" alt="Avatar of vicr123"> vicr123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#vicr123">Copy rank badge</a><br/>
 			Victor Tran
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rdahis">
 				<img src="https://avatars.githubusercontent.com/u/6617207?s=72&u=8ae0cb5cc7f5994084ca62d3e78ac50e9ddda768&v=4" width="24" alt="Avatar of rdahis"> rdahis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rdahis">Copy rank badge</a><br/>
 			Ricardo Dahis
 		</td>
 		<td>Monash University </td>
@@ -2800,7 +2802,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/huxingyi">
 				<img src="https://avatars.githubusercontent.com/u/3941597?s=72&u=584cf9a2347e5c26344649c3224ff9e64b4c42b5&v=4" width="24" alt="Avatar of huxingyi"> huxingyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#huxingyi">Copy rank badge</a><br/>
 			Jeremy HU
 		</td>
 		<td>@dust3d-modeling  </td>
@@ -2813,7 +2815,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/notahat">
 				<img src="https://avatars.githubusercontent.com/u/3866?s=72&v=4" width="24" alt="Avatar of notahat"> notahat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#notahat">Copy rank badge</a><br/>
 			Pete Yandell
 		</td>
 		<td>No Company</td>
@@ -2826,7 +2828,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/loftwah">
 				<img src="https://avatars.githubusercontent.com/u/19922556?s=72&u=33abbb962da016192812b2d73ff087f274ceb327&v=4" width="24" alt="Avatar of loftwah"> loftwah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#loftwah">Copy rank badge</a><br/>
 			Dean Lofts
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jakka351">
 				<img src="https://avatars.githubusercontent.com/u/57064943?s=72&u=438eb64f3a699efc18f732a776789c33f222c57a&v=4" width="24" alt="Avatar of jakka351"> jakka351
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jakka351">Copy rank badge</a><br/>
 			Jakka351
 		</td>
 		<td>Tester Present Specialist Automotive<br/>Solutions<br/><br/></td>
@@ -2852,7 +2854,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ychescale9">
 				<img src="https://avatars.githubusercontent.com/u/11519072?s=72&u=c5e35b6c03ea874dfc49446574d68142c9337a66&v=4" width="24" alt="Avatar of ychescale9"> ychescale9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ychescale9">Copy rank badge</a><br/>
 			Yang
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/danoli3">
 				<img src="https://avatars.githubusercontent.com/u/830748?s=72&u=faac375e209bbef1a5c11fa85349b3d13c37ce02&v=4" width="24" alt="Avatar of danoli3"> danoli3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#danoli3">Copy rank badge</a><br/>
 			Dan Rosser
 		</td>
 		<td>Past: @robothousestudio @smgstudio @utsgamesstudio<br/></td>
@@ -2878,7 +2880,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rstacruz">
 				<img src="https://avatars.githubusercontent.com/u/74385?s=72&u=3ff62084d6407dcd8ad75af2a73d9f0b60bfc368&v=4" width="24" alt="Avatar of rstacruz"> rstacruz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rstacruz">Copy rank badge</a><br/>
 			Rico Sta. Cruz
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nickw444">
 				<img src="https://avatars.githubusercontent.com/u/1289759?s=72&u=b36204251ae99c7a67939ffdb78369813a36e3c7&v=4" width="24" alt="Avatar of nickw444"> nickw444
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nickw444">Copy rank badge</a><br/>
 			Nick Whyte
 		</td>
 		<td>@canva  </td>
@@ -2904,7 +2906,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kivikakk">
 				<img src="https://avatars.githubusercontent.com/u/1915?s=72&u=605216b7ae7b1ba71b470ca043a162adab654b85&v=4" width="24" alt="Avatar of kivikakk"> kivikakk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kivikakk">Copy rank badge</a><br/>
 			Asherah Connor
 		</td>
 		<td>@gitlab </td>
@@ -2917,7 +2919,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/russmaxdesign">
 				<img src="https://avatars.githubusercontent.com/u/858141?s=72&u=9ea8cc9841e7791c48cc26e02b9248c06c3426c0&v=4" width="24" alt="Avatar of russmaxdesign"> russmaxdesign
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#russmaxdesign">Copy rank badge</a><br/>
 			Russ Weakley
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/drewnoakes">
 				<img src="https://avatars.githubusercontent.com/u/350947?s=72&u=f061e156d867a03173e21d7ca14f132d84f79c74&v=4" width="24" alt="Avatar of drewnoakes"> drewnoakes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#drewnoakes">Copy rank badge</a><br/>
 			Drew Noakes
 		</td>
 		<td>@microsoft </td>
@@ -2943,7 +2945,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alexgleith">
 				<img src="https://avatars.githubusercontent.com/u/3445853?s=72&u=1abfcb02bc3247e78196c83e20e940840af5df3e&v=4" width="24" alt="Avatar of alexgleith"> alexgleith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alexgleith">Copy rank badge</a><br/>
 			Alex Leith
 		</td>
 		<td>@auspatious  </td>
@@ -2956,7 +2958,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/radar">
 				<img src="https://avatars.githubusercontent.com/u/2687?s=72&u=1931cab48a8e76951fbd0971b888d3e07256cb4a&v=4" width="24" alt="Avatar of radar"> radar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#radar">Copy rank badge</a><br/>
 			Ryan Bigg
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/oleg-shilo">
 				<img src="https://avatars.githubusercontent.com/u/16729806?s=72&u=0524ef93a3504ce0ebf6ec9300d43cefe5d43fc0&v=4" width="24" alt="Avatar of oleg-shilo"> oleg-shilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#oleg-shilo">Copy rank badge</a><br/>
 			Oleg Shilo
 		</td>
 		<td>Cube </td>
@@ -2982,7 +2984,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benkaiser">
 				<img src="https://avatars.githubusercontent.com/u/608054?s=72&u=9fbc49400f678dc170eef4b4e3f27da6c5ee99cf&v=4" width="24" alt="Avatar of benkaiser"> benkaiser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benkaiser">Copy rank badge</a><br/>
 			Benjamin Kaiser
 		</td>
 		<td>Microsoft </td>
@@ -2995,7 +2997,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jernejk">
 				<img src="https://avatars.githubusercontent.com/u/5943653?s=72&u=a21442197a890da0a1b502d6b83d0bba3c8755a3&v=4" width="24" alt="Avatar of jernejk"> jernejk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jernejk">Copy rank badge</a><br/>
 			Jernej Kavka (JK) [SSW • Microsoft MVP]
 		</td>
 		<td>@sswconsulting </td>
@@ -3008,7 +3010,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/axw">
 				<img src="https://avatars.githubusercontent.com/u/843579?s=72&u=6a21bbd8a03e4ad971b14f82837f2364ae562c2c&v=4" width="24" alt="Avatar of axw"> axw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#axw">Copy rank badge</a><br/>
 			Andrew Wilkins
 		</td>
 		<td>Clickhouse </td>
@@ -3021,7 +3023,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/brendanzab">
 				<img src="https://avatars.githubusercontent.com/u/695077?s=72&u=c5bc9dc0678bc61e2018df0578fe65cda9f7deec&v=4" width="24" alt="Avatar of brendanzab"> brendanzab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#brendanzab">Copy rank badge</a><br/>
 			Brendan Zabarauskas
 		</td>
 		<td>@yeslogic  </td>
@@ -3034,7 +3036,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Maikuolan">
 				<img src="https://avatars.githubusercontent.com/u/12571108?s=72&u=597aad1d1da6a12518c22cf0aa2047bf85c7a7f2&v=4" width="24" alt="Avatar of Maikuolan"> Maikuolan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Maikuolan">Copy rank badge</a><br/>
 			Caleb Mazalevskis
 		</td>
 		<td>No Company</td>
@@ -3047,7 +3049,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thepowersgang">
 				<img src="https://avatars.githubusercontent.com/u/955596?s=72&v=4" width="24" alt="Avatar of thepowersgang"> thepowersgang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thepowersgang">Copy rank badge</a><br/>
 			John Hodge (Mutabah)
 		</td>
 		<td>No Company</td>
@@ -3060,7 +3062,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kirb">
 				<img src="https://avatars.githubusercontent.com/u/773309?s=72&u=5ed1e2b67bd3f40b0c939a593e7cc7673bc2b26b&v=4" width="24" alt="Avatar of kirb"> kirb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kirb">Copy rank badge</a><br/>
 			Adam Demasi
 		</td>
 		<td>@hbang & @chariz </td>
@@ -3073,7 +3075,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cetanu">
 				<img src="https://avatars.githubusercontent.com/u/2289018?s=72&u=7a92c215bddde9b4c8d4c30ad6ed0f73c6292757&v=4" width="24" alt="Avatar of cetanu"> cetanu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cetanu">Copy rank badge</a><br/>
 			Vasilios
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/insin">
 				<img src="https://avatars.githubusercontent.com/u/226692?s=72&u=d6ecfae3c032e468870caf4abcf80d1bb6817052&v=4" width="24" alt="Avatar of insin"> insin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#insin">Copy rank badge</a><br/>
 			Jonny Buchanan
 		</td>
 		<td>So It Is Solutions<br/></td>
@@ -3099,7 +3101,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rizsotto">
 				<img src="https://avatars.githubusercontent.com/u/1200425?s=72&v=4" width="24" alt="Avatar of rizsotto"> rizsotto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rizsotto">Copy rank badge</a><br/>
 			László Nagy
 		</td>
 		<td>No Company</td>
@@ -3112,7 +3114,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/psviderski">
 				<img src="https://avatars.githubusercontent.com/u/783910?s=72&u=453f9b7df638dcb6abefb8e8f37aef475ce71ef8&v=4" width="24" alt="Avatar of psviderski"> psviderski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#psviderski">Copy rank badge</a><br/>
 			Pasha Sviderski
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/erikd">
 				<img src="https://avatars.githubusercontent.com/u/307277?s=72&v=4" width="24" alt="Avatar of erikd"> erikd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#erikd">Copy rank badge</a><br/>
 			Erik de Castro Lopo
 		</td>
 		<td>No Company</td>
@@ -3138,7 +3140,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jstac">
 				<img src="https://avatars.githubusercontent.com/u/3887684?s=72&u=f0629f5047e996056a28fcbd85809a64d467a0a1&v=4" width="24" alt="Avatar of jstac"> jstac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jstac">Copy rank badge</a><br/>
 			John Stachurski
 		</td>
 		<td>Australian National University </td>
@@ -3151,7 +3153,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/harrism">
 				<img src="https://avatars.githubusercontent.com/u/783069?s=72&v=4" width="24" alt="Avatar of harrism"> harrism
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#harrism">Copy rank badge</a><br/>
 			Mark Harris
 		</td>
 		<td>@nvidia </td>
@@ -3164,7 +3166,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adammurdoch">
 				<img src="https://avatars.githubusercontent.com/u/99316?s=72&v=4" width="24" alt="Avatar of adammurdoch"> adammurdoch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adammurdoch">Copy rank badge</a><br/>
 			Adam Murdoch
 		</td>
 		<td>No Company</td>
@@ -3177,7 +3179,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/awaismirza">
 				<img src="https://avatars.githubusercontent.com/u/23274953?s=72&u=249979fccb444bf90779127083e5c9025182ab3d&v=4" width="24" alt="Avatar of awaismirza"> awaismirza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#awaismirza">Copy rank badge</a><br/>
 			Awais Jamil
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ncoghlan">
 				<img src="https://avatars.githubusercontent.com/u/1026649?s=72&u=0d25ddfb5f320a9f4a88a6cb3f866aa27546b17b&v=4" width="24" alt="Avatar of ncoghlan"> ncoghlan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ncoghlan">Copy rank badge</a><br/>
 			Alyssa Coghlan
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/philnash">
 				<img src="https://avatars.githubusercontent.com/u/31462?s=72&u=6a1d946f9918f8c1a4d61b2041936a2c60ec0bb9&v=4" width="24" alt="Avatar of philnash"> philnash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#philnash">Copy rank badge</a><br/>
 			Phil Nash
 		</td>
 		<td>@resend </td>
@@ -3216,7 +3218,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gregdavill">
 				<img src="https://avatars.githubusercontent.com/u/344310?s=72&u=9002149957a8bda96307d3a3754f7533f93680b3&v=4" width="24" alt="Avatar of gregdavill"> gregdavill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gregdavill">Copy rank badge</a><br/>
 			Greg Davill
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/andimarek">
 				<img src="https://avatars.githubusercontent.com/u/1706744?s=72&u=50064e7ee447e4855942224cd3347d4ba93ba242&v=4" width="24" alt="Avatar of andimarek"> andimarek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#andimarek">Copy rank badge</a><br/>
 			Andreas Marek
 		</td>
 		<td>No Company</td>
@@ -3242,7 +3244,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/naddison36">
 				<img src="https://avatars.githubusercontent.com/u/6491112?s=72&u=eee27d774752202954a1575a88a21864fdbd59d6&v=4" width="24" alt="Avatar of naddison36"> naddison36
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#naddison36">Copy rank badge</a><br/>
 			Nick Addison
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tobyzerner">
 				<img src="https://avatars.githubusercontent.com/u/128862?s=72&v=4" width="24" alt="Avatar of tobyzerner"> tobyzerner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tobyzerner">Copy rank badge</a><br/>
 			Toby Zerner
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mkj">
 				<img src="https://avatars.githubusercontent.com/u/328137?s=72&v=4" width="24" alt="Avatar of mkj"> mkj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mkj">Copy rank badge</a><br/>
 			Matt Johnston
 		</td>
 		<td>@codeconstruct </td>
@@ -3281,7 +3283,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bethesque">
 				<img src="https://avatars.githubusercontent.com/u/446228?s=72&u=7616d6c79a453a392ee3ecd83e98963fcdffa94c&v=4" width="24" alt="Avatar of bethesque"> bethesque
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bethesque">Copy rank badge</a><br/>
 			Beth Skurrie
 		</td>
 		<td>No Company</td>
@@ -3294,7 +3296,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/domesticmouse">
 				<img src="https://avatars.githubusercontent.com/u/30503?s=72&v=4" width="24" alt="Avatar of domesticmouse"> domesticmouse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#domesticmouse">Copy rank badge</a><br/>
 			Brett Morgan
 		</td>
 		<td>@flutter  </td>
@@ -3307,7 +3309,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wezm">
 				<img src="https://avatars.githubusercontent.com/u/21787?s=72&u=38fe6c25c7d2b214482cf5801230b208e1416e9e&v=4" width="24" alt="Avatar of wezm"> wezm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wezm">Copy rank badge</a><br/>
 			Wesley Moore
 		</td>
 		<td>Yeslogic </td>
@@ -3320,7 +3322,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davidar">
 				<img src="https://avatars.githubusercontent.com/u/24291?s=72&u=93f85b6775af3939c31a52ad6f486c7ffdd9899d&v=4" width="24" alt="Avatar of davidar"> davidar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davidar">Copy rank badge</a><br/>
 			David A Roberts
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kurobeats">
 				<img src="https://avatars.githubusercontent.com/u/4091936?s=72&u=e312fe1d956cbbd78dddc8b3db50eede11423cf7&v=4" width="24" alt="Avatar of kurobeats"> kurobeats
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kurobeats">Copy rank badge</a><br/>
 			Anthony Cozamanis
 		</td>
 		<td>Unaffiliated </td>
@@ -3346,7 +3348,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/revodavid">
 				<img src="https://avatars.githubusercontent.com/u/152948?s=72&u=7654ccaf286ea770bd407e4675f424201d69d238&v=4" width="24" alt="Avatar of revodavid"> revodavid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#revodavid">Copy rank badge</a><br/>
 			David Smith
 		</td>
 		<td>Microsoft </td>
@@ -3359,7 +3361,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Alhadis">
 				<img src="https://avatars.githubusercontent.com/u/2346707?s=72&u=bd0eb4f21fd0eb6fb74043f803b1edb6c54f488a&v=4" width="24" alt="Avatar of Alhadis"> Alhadis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Alhadis">Copy rank badge</a><br/>
 			John Gardner
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jonoxer">
 				<img src="https://avatars.githubusercontent.com/u/87360?s=72&v=4" width="24" alt="Avatar of jonoxer"> jonoxer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jonoxer">Copy rank badge</a><br/>
 			Jonathan Oxer
 		</td>
 		<td>Superhouse Automation / Freetronics<br/></td>
@@ -3385,7 +3387,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ben-rogerson">
 				<img src="https://avatars.githubusercontent.com/u/21288568?s=72&u=169cc2f20e82296a2e29624da8b76f33e1f65b06&v=4" width="24" alt="Avatar of ben-rogerson"> ben-rogerson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ben-rogerson">Copy rank badge</a><br/>
 			Ben Rogerson
 		</td>
 		<td>No Company</td>
@@ -3398,7 +3400,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/r-martins">
 				<img src="https://avatars.githubusercontent.com/u/191149?s=72&v=4" width="24" alt="Avatar of r-martins"> r-martins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#r-martins">Copy rank badge</a><br/>
 			Ricardo Martins
 		</td>
 		<td>Magenteiro </td>
@@ -3411,7 +3413,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/KaelWD">
 				<img src="https://avatars.githubusercontent.com/u/16421948?s=72&u=829dbc335b1010f97246ff43d38585c022a2404c&v=4" width="24" alt="Avatar of KaelWD"> KaelWD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#KaelWD">Copy rank badge</a><br/>
 			Kael
 		</td>
 		<td>No Company</td>
@@ -3424,7 +3426,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/BastiaanOlij">
 				<img src="https://avatars.githubusercontent.com/u/1945449?s=72&u=96b5dc9be2859dca5f31314c87d99a68a21e1576&v=4" width="24" alt="Avatar of BastiaanOlij"> BastiaanOlij
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#BastiaanOlij">Copy rank badge</a><br/>
 			Bastiaan Olij
 		</td>
 		<td>Godot </td>
@@ -3437,7 +3439,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/auxesis">
 				<img src="https://avatars.githubusercontent.com/u/12306?s=72&v=4" width="24" alt="Avatar of auxesis"> auxesis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#auxesis">Copy rank badge</a><br/>
 			Lindsay Holmwood
 		</td>
 		<td>@cipherstash  </td>
@@ -3450,7 +3452,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kaievns">
 				<img src="https://avatars.githubusercontent.com/u/14523?s=72&u=624162f72712e4da586ca08238f136d95c498644&v=4" width="24" alt="Avatar of kaievns"> kaievns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kaievns">Copy rank badge</a><br/>
 			Kai Evans
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mefellows">
 				<img src="https://avatars.githubusercontent.com/u/53900?s=72&u=88dec25c5aa36932f268ad44fe947abb20372ed3&v=4" width="24" alt="Avatar of mefellows"> mefellows
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mefellows">Copy rank badge</a><br/>
 			Matt Fellows
 		</td>
 		<td>Smartbear / Pactflow.io </td>
@@ -3476,7 +3478,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abraunegg">
 				<img src="https://avatars.githubusercontent.com/u/4956234?s=72&v=4" width="24" alt="Avatar of abraunegg"> abraunegg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abraunegg">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3489,7 +3491,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/geshan">
 				<img src="https://avatars.githubusercontent.com/u/170554?s=72&u=f194ca193e5ecb213f024c30e3cb6df47f1a5873&v=4" width="24" alt="Avatar of geshan"> geshan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#geshan">Copy rank badge</a><br/>
 			Geshan Manandhar
 		</td>
 		<td>Safewill </td>
@@ -3502,7 +3504,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hawkowl">
 				<img src="https://avatars.githubusercontent.com/u/3307100?s=72&u=f8927794f9ad9e6e17041caef4a51f52fe4c8fbd&v=4" width="24" alt="Avatar of hawkowl"> hawkowl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hawkowl">Copy rank badge</a><br/>
 			Amber Brown
 		</td>
 		<td>Red Hat </td>
@@ -3515,7 +3517,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ray-x">
 				<img src="https://avatars.githubusercontent.com/u/1681295?s=72&u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4" width="24" alt="Avatar of ray-x"> ray-x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ray-x">Copy rank badge</a><br/>
 			rayx
 		</td>
 		<td>No Company</td>
@@ -3528,7 +3530,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/psifertex">
 				<img src="https://avatars.githubusercontent.com/u/140215?s=72&u=c00b4b5443eff0d428d38a8a0d49a5740ce7d42e&v=4" width="24" alt="Avatar of psifertex"> psifertex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#psifertex">Copy rank badge</a><br/>
 			Jordan
 		</td>
 		<td>@vector35 </td>
@@ -3541,7 +3543,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/michaeldyrynda">
 				<img src="https://avatars.githubusercontent.com/u/558441?s=72&u=3ec74c99ae325600fe14c845353942de6fef36b7&v=4" width="24" alt="Avatar of michaeldyrynda"> michaeldyrynda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#michaeldyrynda">Copy rank badge</a><br/>
 			Michael Dyrynda
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/EvieePy">
 				<img src="https://avatars.githubusercontent.com/u/29671945?s=72&u=d4e0dbe6baacabc42d08c8d53a85b0ac0f15fb65&v=4" width="24" alt="Avatar of EvieePy"> EvieePy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#EvieePy">Copy rank badge</a><br/>
 			Mysty
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Irev-Dev">
 				<img src="https://avatars.githubusercontent.com/u/29681384?s=72&u=ce666c7fa27251d80c18e19143c2b44e158944cc&v=4" width="24" alt="Avatar of Irev-Dev"> Irev-Dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Irev-Dev">Copy rank badge</a><br/>
 			Kurt Hutten
 		</td>
 		<td>@kittycad </td>
@@ -3580,7 +3582,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pento">
 				<img src="https://avatars.githubusercontent.com/u/352291?s=72&v=4" width="24" alt="Avatar of pento"> pento
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pento">Copy rank badge</a><br/>
 			Gary Pendergast
 		</td>
 		<td>No Company</td>
@@ -3593,7 +3595,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JakeGinnivan">
 				<img src="https://avatars.githubusercontent.com/u/453152?s=72&u=91962d725f162edee37288c1b5b0f49e99fe0fa5&v=4" width="24" alt="Avatar of JakeGinnivan"> JakeGinnivan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JakeGinnivan">Copy rank badge</a><br/>
 			Jake Ginnivan
 		</td>
 		<td>Arkahna </td>
@@ -3606,7 +3608,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mgreen27">
 				<img src="https://avatars.githubusercontent.com/u/13081800?s=72&u=5ccc081fe0f6c8aec730f6ec07aebfedddc24403&v=4" width="24" alt="Avatar of mgreen27"> mgreen27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mgreen27">Copy rank badge</a><br/>
 			Matthew Green
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/fredimachado">
 				<img src="https://avatars.githubusercontent.com/u/29800?s=72&u=dd94a3799fb7ac475060a3ac56e2a5e158a65e63&v=4" width="24" alt="Avatar of fredimachado"> fredimachado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#fredimachado">Copy rank badge</a><br/>
 			Fredi Machado
 		</td>
 		<td>@westpac </td>
@@ -3632,7 +3634,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/chendo">
 				<img src="https://avatars.githubusercontent.com/u/2661?s=72&u=7639a5a525578b2a1cb4231a04e720645eeec96b&v=4" width="24" alt="Avatar of chendo"> chendo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#chendo">Copy rank badge</a><br/>
 			chendo
 		</td>
 		<td>@assemblyfour  </td>
@@ -3645,7 +3647,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Jason2Brownlee">
 				<img src="https://avatars.githubusercontent.com/u/83992495?s=72&u=d67b0fb422a0f37caa0218ef219228a004675485&v=4" width="24" alt="Avatar of Jason2Brownlee"> Jason2Brownlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Jason2Brownlee">Copy rank badge</a><br/>
 			Jason Brownlee
 		</td>
 		<td>@superfastpython </td>
@@ -3658,7 +3660,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tomanagle">
 				<img src="https://avatars.githubusercontent.com/u/8683577?s=72&u=36a5b42eba5a42010713baef103aa4d06205b3de&v=4" width="24" alt="Avatar of tomanagle"> tomanagle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tomanagle">Copy rank badge</a><br/>
 			Tom
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/goldingn">
 				<img src="https://avatars.githubusercontent.com/u/4450731?s=72&u=05dbce4a5309699a50d587fdee1afe823fd10f07&v=4" width="24" alt="Avatar of goldingn"> goldingn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#goldingn">Copy rank badge</a><br/>
 			Nick Golding
 		</td>
 		<td>Idem </td>
@@ -3684,7 +3686,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stephenbradshaw">
 				<img src="https://avatars.githubusercontent.com/u/7692557?s=72&v=4" width="24" alt="Avatar of stephenbradshaw"> stephenbradshaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stephenbradshaw">Copy rank badge</a><br/>
 			Stephen Bradshaw
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/keithpitt">
 				<img src="https://avatars.githubusercontent.com/u/25882?s=72&u=8f2306844b429d92706df00471a37a9f661f1b4d&v=4" width="24" alt="Avatar of keithpitt"> keithpitt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#keithpitt">Copy rank badge</a><br/>
 			Keith Pitt
 		</td>
 		<td>Unreasonable Magic </td>
@@ -3710,7 +3712,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jasontaylordev">
 				<img src="https://avatars.githubusercontent.com/u/1988321?s=72&u=ff4b496f6d4bedf7e701aa36d4f04a9e45452440&v=4" width="24" alt="Avatar of jasontaylordev"> jasontaylordev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jasontaylordev">Copy rank badge</a><br/>
 			Jason Taylor
 		</td>
 		<td>@particular </td>
@@ -3723,7 +3725,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/projectgus">
 				<img src="https://avatars.githubusercontent.com/u/205573?s=72&v=4" width="24" alt="Avatar of projectgus"> projectgus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#projectgus">Copy rank badge</a><br/>
 			Angus Gratton
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/qinlili23333">
 				<img src="https://avatars.githubusercontent.com/u/24567775?s=72&u=b691f55f795df0d7f353b965f999e6b5ea643381&v=4" width="24" alt="Avatar of qinlili23333"> qinlili23333
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#qinlili23333">Copy rank badge</a><br/>
 			琴梨梨OvO
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/beeradmoore">
 				<img src="https://avatars.githubusercontent.com/u/904737?s=72&u=73462af5f3c3fdf1e09dcd492d232d72a9d28440&v=4" width="24" alt="Avatar of beeradmoore"> beeradmoore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#beeradmoore">Copy rank badge</a><br/>
 			Brad
 		</td>
 		<td>Four Pi </td>
@@ -3762,7 +3764,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/boyter">
 				<img src="https://avatars.githubusercontent.com/u/612151?s=72&u=f8bb69f7dac7b4eca957b645cb53fdfeb3bba47d&v=4" width="24" alt="Avatar of boyter"> boyter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#boyter">Copy rank badge</a><br/>
 			Ben Boyter
 		</td>
 		<td>No Company</td>
@@ -3775,7 +3777,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SathyaBhat">
 				<img src="https://avatars.githubusercontent.com/u/25424?s=72&v=4" width="24" alt="Avatar of SathyaBhat"> SathyaBhat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SathyaBhat">Copy rank badge</a><br/>
 			Sathyajith Bhat
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ajtowns">
 				<img src="https://avatars.githubusercontent.com/u/127186?s=72&u=547375ac58f0e1938debaf9135787fc644ae9820&v=4" width="24" alt="Avatar of ajtowns"> ajtowns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ajtowns">Copy rank badge</a><br/>
 			Anthony Towns
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DamonOehlman">
 				<img src="https://avatars.githubusercontent.com/u/609693?s=72&u=407710d57077032bde0759c03835d81f0bcd4229&v=4" width="24" alt="Avatar of DamonOehlman"> DamonOehlman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DamonOehlman">Copy rank badge</a><br/>
 			Damon Oehlman
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tonybaloney">
 				<img src="https://avatars.githubusercontent.com/u/1532417?s=72&u=5a9c1b3f5bea61c621e7fd4183742abb0dd8204f&v=4" width="24" alt="Avatar of tonybaloney"> tonybaloney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tonybaloney">Copy rank badge</a><br/>
 			Anthony Shaw
 		</td>
 		<td>Microsoft </td>
@@ -3827,7 +3829,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/markmcd">
 				<img src="https://avatars.githubusercontent.com/u/109308?s=72&v=4" width="24" alt="Avatar of markmcd"> markmcd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#markmcd">Copy rank badge</a><br/>
 			Mark McDonald
 		</td>
 		<td>@google-deepmind  </td>
@@ -3840,7 +3842,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timusus">
 				<img src="https://avatars.githubusercontent.com/u/4422616?s=72&u=9d6c0772c452a9d8b5ef8a9794dc3dda75925bb2&v=4" width="24" alt="Avatar of timusus"> timusus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timusus">Copy rank badge</a><br/>
 			Tim Malseed
 		</td>
 		<td>Australian Broadcasting Corporation </td>
@@ -3853,7 +3855,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nickfarrow">
 				<img src="https://avatars.githubusercontent.com/u/24557779?s=72&u=36eea17d5d12ed82d62690ea1bd254a5c8d3717e&v=4" width="24" alt="Avatar of nickfarrow"> nickfarrow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nickfarrow">Copy rank badge</a><br/>
 			Nick
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thrasher-">
 				<img src="https://avatars.githubusercontent.com/u/4685270?s=72&u=31c5b5234c429abf9222b0ab9d21e3ae93905ac4&v=4" width="24" alt="Avatar of thrasher-"> thrasher-
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thrasher-">Copy rank badge</a><br/>
 			Adrian Gallagher
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/physwizz">
 				<img src="https://avatars.githubusercontent.com/u/57054304?s=72&u=e0bd74927414db17ffe0f074fb3ef046c6f91a6b&v=4" width="24" alt="Avatar of physwizz"> physwizz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#physwizz">Copy rank badge</a><br/>
 			physwizz 
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wspr">
 				<img src="https://avatars.githubusercontent.com/u/8169?s=72&v=4" width="24" alt="Avatar of wspr"> wspr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wspr">Copy rank badge</a><br/>
 			Will Robertson
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/whatnick">
 				<img src="https://avatars.githubusercontent.com/u/491396?s=72&u=5c056120c187618a6b6d1bd2d74a20c2992b2adc&v=4" width="24" alt="Avatar of whatnick"> whatnick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#whatnick">Copy rank badge</a><br/>
 			Tisham Dhar
 		</td>
 		<td>Whatnick Inc </td>
@@ -3918,7 +3920,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LightAndLight">
 				<img src="https://avatars.githubusercontent.com/u/2536121?s=72&u=9cb384bd40376406c4794065573112aea81c36f3&v=4" width="24" alt="Avatar of LightAndLight"> LightAndLight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LightAndLight">Copy rank badge</a><br/>
 			Isaac Elliott
 		</td>
 		<td>No Company</td>
@@ -3931,7 +3933,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dominikwilkowski">
 				<img src="https://avatars.githubusercontent.com/u/1266923?s=72&v=4" width="24" alt="Avatar of dominikwilkowski"> dominikwilkowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dominikwilkowski">Copy rank badge</a><br/>
 			Dominik Wilkowski
 		</td>
 		<td>No Company</td>
@@ -3944,7 +3946,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timacdonald">
 				<img src="https://avatars.githubusercontent.com/u/24803032?s=72&u=c87e7e313590f8a9bfeaefd941e208cfb684de07&v=4" width="24" alt="Avatar of timacdonald"> timacdonald
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timacdonald">Copy rank badge</a><br/>
 			Tim MacDonald
 		</td>
 		<td>@laravel  </td>
@@ -3957,7 +3959,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mzbac">
 				<img src="https://avatars.githubusercontent.com/u/7523197?s=72&u=f4ab3202ad1f4cbe76602f1f8d32b1ca0cef71f5&v=4" width="24" alt="Avatar of mzbac"> mzbac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mzbac">Copy rank badge</a><br/>
 			Anchen
 		</td>
 		<td>No Company</td>
@@ -3970,7 +3972,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lmiller1990">
 				<img src="https://avatars.githubusercontent.com/u/19196536?s=72&u=8fc5c9d3a010264b51d56049df87a6d229c9a64d&v=4" width="24" alt="Avatar of lmiller1990"> lmiller1990
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lmiller1990">Copy rank badge</a><br/>
 			Lachlan Miller
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thelindat">
 				<img src="https://avatars.githubusercontent.com/u/65407488?s=72&u=e78ba409a37856d3c1f4db196811f69e6f74c5ff&v=4" width="24" alt="Avatar of thelindat"> thelindat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thelindat">Copy rank badge</a><br/>
 			Linden
 		</td>
 		<td>No Company</td>
@@ -3996,7 +3998,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sj26">
 				<img src="https://avatars.githubusercontent.com/u/14028?s=72&u=cbb8ccd4668f985db542b4fd8357fb21ff360700&v=4" width="24" alt="Avatar of sj26"> sj26
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sj26">Copy rank badge</a><br/>
 			Samuel Cochran
 		</td>
 		<td>@buildkite </td>
@@ -4009,7 +4011,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JakeLin">
 				<img src="https://avatars.githubusercontent.com/u/573856?s=72&v=4" width="24" alt="Avatar of JakeLin"> JakeLin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JakeLin">Copy rank badge</a><br/>
 			Jake Lin
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Showfom">
 				<img src="https://avatars.githubusercontent.com/u/6773591?s=72&v=4" width="24" alt="Avatar of Showfom"> Showfom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Showfom">Copy rank badge</a><br/>
 			Xiufeng Guo
 		</td>
 		<td>@xtomcom </td>
@@ -4035,7 +4037,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mohammadKarimi">
 				<img src="https://avatars.githubusercontent.com/u/5300102?s=72&u=be00dd5270b00b2fa5e5ad7f866da087bcab61b5&v=4" width="24" alt="Avatar of mohammadKarimi"> mohammadKarimi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mohammadKarimi">Copy rank badge</a><br/>
 			Mohammad Karimi
 		</td>
 		<td>@icodenext </td>
@@ -4048,7 +4050,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/directorcia">
 				<img src="https://avatars.githubusercontent.com/u/13878059?s=72&v=4" width="24" alt="Avatar of directorcia"> directorcia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#directorcia">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Ciaops </td>
@@ -4061,7 +4063,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cjheath">
 				<img src="https://avatars.githubusercontent.com/u/1703?s=72&u=04b7a340657fdb3eb2ed94dd12e463562d76ddfd&v=4" width="24" alt="Avatar of cjheath"> cjheath
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cjheath">Copy rank badge</a><br/>
 			Clifford Heath
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/craighckby-stack">
 				<img src="https://avatars.githubusercontent.com/u/242091616?s=72&v=4" width="24" alt="Avatar of craighckby-stack"> craighckby-stack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#craighckby-stack">Copy rank badge</a><br/>
 			Craig Huckerby
 		</td>
 		<td>For Hire </td>
@@ -4087,7 +4089,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jonocarroll">
 				<img src="https://avatars.githubusercontent.com/u/9496865?s=72&u=7f6c3853b6c592dcf6e20df51127ab48906cd57e&v=4" width="24" alt="Avatar of jonocarroll"> jonocarroll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jonocarroll">Copy rank badge</a><br/>
 			Jonathan Carroll
 		</td>
 		<td>@irregularlyschedule </td>
@@ -4100,7 +4102,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/igas">
 				<img src="https://avatars.githubusercontent.com/u/175652?s=72&u=cce87f7924c75194db7ff8df809f1e386d340ea4&v=4" width="24" alt="Avatar of igas"> igas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#igas">Copy rank badge</a><br/>
 			Marcus Wood
 		</td>
 		<td>@visiblelightio </td>
@@ -4113,7 +4115,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dwightwatson">
 				<img src="https://avatars.githubusercontent.com/u/1100408?s=72&u=4ee1778b7ad20f4434193baeb963b976f36d0665&v=4" width="24" alt="Avatar of dwightwatson"> dwightwatson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dwightwatson">Copy rank badge</a><br/>
 			Dwight Watson
 		</td>
 		<td>@roomies-com  </td>
@@ -4126,7 +4128,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/airlied">
 				<img src="https://avatars.githubusercontent.com/u/4900660?s=72&v=4" width="24" alt="Avatar of airlied"> airlied
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#airlied">Copy rank badge</a><br/>
 			Dave Airlie
 		</td>
 		<td>Red Hat </td>
@@ -4139,7 +4141,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/andrewharvey">
 				<img src="https://avatars.githubusercontent.com/u/117278?s=72&u=b02d0c2ab996042c2301fa69677a8956c63c1363&v=4" width="24" alt="Avatar of andrewharvey"> andrewharvey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#andrewharvey">Copy rank badge</a><br/>
 			Andrew Harvey
 		</td>
 		<td>Alantgeo </td>
@@ -4152,7 +4154,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nathanhoad">
 				<img src="https://avatars.githubusercontent.com/u/78984?s=72&u=6c8d4b20c97bcf8a0b6a0c5fd0317912113fb8b1&v=4" width="24" alt="Avatar of nathanhoad"> nathanhoad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nathanhoad">Copy rank badge</a><br/>
 			Nathan Hoad
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ispysoftware">
 				<img src="https://avatars.githubusercontent.com/u/800093?s=72&u=a60fd54d28021a862d8777c29f02277caa093524&v=4" width="24" alt="Avatar of ispysoftware"> ispysoftware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ispysoftware">Copy rank badge</a><br/>
 			sean t
 		</td>
 		<td>Developerinabox </td>
@@ -4178,7 +4180,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mishmanners">
 				<img src="https://avatars.githubusercontent.com/u/36594527?s=72&u=8db9fd220dce6f3240cb950bc93ebb5f4719ccc5&v=4" width="24" alt="Avatar of mishmanners"> mishmanners
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mishmanners">Copy rank badge</a><br/>
 			Michelle "MishManners®™" Duke
 		</td>
 		<td>@github  </td>
@@ -4191,7 +4193,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/RussKie">
 				<img src="https://avatars.githubusercontent.com/u/4403806?s=72&u=1e8e8f03278efcfba962e98cc8d2b855470ce32c&v=4" width="24" alt="Avatar of RussKie"> RussKie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#RussKie">Copy rank badge</a><br/>
 			Igor Velikorossov
 		</td>
 		<td>Microsoft </td>
@@ -4204,7 +4206,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/oxinabox">
 				<img src="https://avatars.githubusercontent.com/u/5127634?s=72&u=1a41e7a4b97c24df5178ab16a75bc64424e1e36b&v=4" width="24" alt="Avatar of oxinabox"> oxinabox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#oxinabox">Copy rank badge</a><br/>
 			Frames White
 		</td>
 		<td>@cellbauhaus  </td>
@@ -4217,7 +4219,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/robbibt">
 				<img src="https://avatars.githubusercontent.com/u/17680388?s=72&u=bd529276abc19636b95cafe4220c997c19ebf496&v=4" width="24" alt="Avatar of robbibt"> robbibt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#robbibt">Copy rank badge</a><br/>
 			Robbi Bishop-Taylor
 		</td>
 		<td>@geoscienceaustralia </td>
@@ -4230,7 +4232,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AliasIO">
 				<img src="https://avatars.githubusercontent.com/u/77259?s=72&u=176920ae90cf78524d96d49b0e48a463c0f177a2&v=4" width="24" alt="Avatar of AliasIO"> AliasIO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AliasIO">Copy rank badge</a><br/>
 			Elbert Alias
 		</td>
 		<td>Wappalyzer </td>
@@ -4243,7 +4245,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SvenDowideit">
 				<img src="https://avatars.githubusercontent.com/u/28492?s=72&v=4" width="24" alt="Avatar of SvenDowideit"> SvenDowideit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SvenDowideit">Copy rank badge</a><br/>
 			Sven Dowideit
 		</td>
 		<td>Dept. Of The Environment,<br/>Tourism,<br/>Science<br/>And<br/>Innovation,<br/>Queensland<br/></td>
@@ -4256,7 +4258,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/redguardtoo">
 				<img src="https://avatars.githubusercontent.com/u/184553?s=72&u=059419ac278c652d2860e79f0e8721516621a225&v=4" width="24" alt="Avatar of redguardtoo"> redguardtoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#redguardtoo">Copy rank badge</a><br/>
 			Chen Bin
 		</td>
 		<td>Working </td>
@@ -4269,7 +4271,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Edesem">
 				<img src="https://avatars.githubusercontent.com/u/93417266?s=72&u=a4724f904b54bbe9ca0f0a342b57ef0020b2b7ff&v=4" width="24" alt="Avatar of Edesem"> Edesem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Edesem">Copy rank badge</a><br/>
 			Mashed
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jarrodnorwell">
 				<img src="https://avatars.githubusercontent.com/u/69136905?s=72&u=3bfb81622ab98621570e33938e46da5944e37dc7&v=4" width="24" alt="Avatar of jarrodnorwell"> jarrodnorwell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jarrodnorwell">Copy rank badge</a><br/>
 			Jarrod Norwell
 		</td>
 		<td>Folium </td>
@@ -4295,7 +4297,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stuartcarnie">
 				<img src="https://avatars.githubusercontent.com/u/52852?s=72&v=4" width="24" alt="Avatar of stuartcarnie"> stuartcarnie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stuartcarnie">Copy rank badge</a><br/>
 			Stuart Carnie
 		</td>
 		<td>Influxdata </td>
@@ -4308,7 +4310,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SashenJayathilaka">
 				<img src="https://avatars.githubusercontent.com/u/99184393?s=72&u=3ce3f05b7b837e73d00b4147b482dffb1abed4d5&v=4" width="24" alt="Avatar of SashenJayathilaka"> SashenJayathilaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SashenJayathilaka">Copy rank badge</a><br/>
 			Sashen Jayathilaka
 		</td>
 		<td>Postgraduate Deakin University </td>
@@ -4321,7 +4323,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alphadl">
 				<img src="https://avatars.githubusercontent.com/u/20458732?s=72&u=f7c035e3141002fe3f94c947d1dd3c2dcda36fb0&v=4" width="24" alt="Avatar of alphadl"> alphadl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alphadl">Copy rank badge</a><br/>
 			Liam Liang Ding
 		</td>
 		<td>No Company</td>
@@ -4334,7 +4336,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kitsonk">
 				<img src="https://avatars.githubusercontent.com/u/1282577?s=72&u=c26d8b414dbb03122c8487e1cbccad996e34ef73&v=4" width="24" alt="Avatar of kitsonk"> kitsonk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kitsonk">Copy rank badge</a><br/>
 			Kitson Kelly
 		</td>
 		<td>@a2b-australia </td>
@@ -4347,7 +4349,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davidgilbertson">
 				<img src="https://avatars.githubusercontent.com/u/4443482?s=72&u=2b7a0fdd9544ba5e368f3fa665eff1b0a94c2fb1&v=4" width="24" alt="Avatar of davidgilbertson"> davidgilbertson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davidgilbertson">Copy rank badge</a><br/>
 			David Gilbertson
 		</td>
 		<td>No Company</td>
@@ -4360,7 +4362,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bjeanes">
 				<img src="https://avatars.githubusercontent.com/u/2560?s=72&v=4" width="24" alt="Avatar of bjeanes"> bjeanes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bjeanes">Copy rank badge</a><br/>
 			Bo Jeanes
 		</td>
 		<td>@hivetechlabs </td>
@@ -4373,7 +4375,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/vanderaj">
 				<img src="https://avatars.githubusercontent.com/u/5029993?s=72&u=698052ef88733be74ae93bacfcbb9abde3c7db45&v=4" width="24" alt="Avatar of vanderaj"> vanderaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#vanderaj">Copy rank badge</a><br/>
 			Andrew van der Stock
 		</td>
 		<td>Owasp Foundation </td>
@@ -4386,7 +4388,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/0xdevalias">
 				<img src="https://avatars.githubusercontent.com/u/753891?s=72&u=91b663823a9d5d4587a092636d6f478d06a0981c&v=4" width="24" alt="Avatar of 0xdevalias"> 0xdevalias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#0xdevalias">Copy rank badge</a><br/>
 			Glenn 'devalias' Grant
 		</td>
 		<td>Open To Opportunities </td>
@@ -4399,7 +4401,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jondubois">
 				<img src="https://avatars.githubusercontent.com/u/1187447?s=72&u=2c49c7ca89491ced222f05d70bff6b7802c16719&v=4" width="24" alt="Avatar of jondubois"> jondubois
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jondubois">Copy rank badge</a><br/>
 			Jon Dubois
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tanzirmehedi">
 				<img src="https://avatars.githubusercontent.com/u/23363707?s=72&u=e803dff7419a03eb20c2255ad6bb0afe8555cabc&v=4" width="24" alt="Avatar of tanzirmehedi"> tanzirmehedi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tanzirmehedi">Copy rank badge</a><br/>
 			Sk Tanzir Mehedi
 		</td>
 		<td>Queensland University Of Technology<br/>(qut)<br/></td>
@@ -4425,7 +4427,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/chrishulbert">
 				<img src="https://avatars.githubusercontent.com/u/9010?s=72&u=9b6fd7ad270b66aeec72442f6d34f5c49502e17d&v=4" width="24" alt="Avatar of chrishulbert"> chrishulbert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#chrishulbert">Copy rank badge</a><br/>
 			Chris Hulbert
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/torifat">
 				<img src="https://avatars.githubusercontent.com/u/208544?s=72&v=4" width="24" alt="Avatar of torifat"> torifat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#torifat">Copy rank badge</a><br/>
 			Rifat Nabi
 		</td>
 		<td>@atlassian </td>
@@ -4451,7 +4453,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/retronym">
 				<img src="https://avatars.githubusercontent.com/u/65551?s=72&v=4" width="24" alt="Avatar of retronym"> retronym
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#retronym">Copy rank badge</a><br/>
 			Jason Zaugg
 		</td>
 		<td>Akka </td>
@@ -4464,7 +4466,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Ralim">
 				<img src="https://avatars.githubusercontent.com/u/5425387?s=72&v=4" width="24" alt="Avatar of Ralim"> Ralim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Ralim">Copy rank badge</a><br/>
 			Ben V. Brown
 		</td>
 		<td>Ralimtek </td>
@@ -4477,7 +4479,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benfulcher">
 				<img src="https://avatars.githubusercontent.com/u/4446070?s=72&u=60f7eff892a012a85aba929d7fae4e909b6979f1&v=4" width="24" alt="Avatar of benfulcher"> benfulcher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benfulcher">Copy rank badge</a><br/>
 			Ben Fulcher
 		</td>
 		<td>@dynamicsandneuralsy </td>
@@ -4490,7 +4492,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/meatpiHQ">
 				<img src="https://avatars.githubusercontent.com/u/94690098?s=72&u=0bb5df54ed055dee2b913b155c8103a2569c5078&v=4" width="24" alt="Avatar of meatpiHQ"> meatpiHQ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#meatpiHQ">Copy rank badge</a><br/>
 			MeatPi Electronics 
 		</td>
 		<td>Meatpi Electronics  </td>
@@ -4503,7 +4505,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tobyilee">
 				<img src="https://avatars.githubusercontent.com/u/19189?s=72&v=4" width="24" alt="Avatar of tobyilee"> tobyilee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tobyilee">Copy rank badge</a><br/>
 			Toby Lee
 		</td>
 		<td>Epril Pty Ltd </td>
@@ -4516,7 +4518,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Malinskiy">
 				<img src="https://avatars.githubusercontent.com/u/2089114?s=72&u=821a9d3f50dca11c39b5f6319bb69525a2c8fee2&v=4" width="24" alt="Avatar of Malinskiy"> Malinskiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Malinskiy">Copy rank badge</a><br/>
 			Anton Malinski
 		</td>
 		<td>@marathonlabs  </td>
@@ -4529,7 +4531,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sdeering">
 				<img src="https://avatars.githubusercontent.com/u/1787454?s=72&u=8a3f29d516916c818cb2444a0f2804beda5c3d1e&v=4" width="24" alt="Avatar of sdeering"> sdeering
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sdeering">Copy rank badge</a><br/>
 			Sam Deering
 		</td>
 		<td>Sam Deering </td>
@@ -4542,7 +4544,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Benjamin-Dobell">
 				<img src="https://avatars.githubusercontent.com/u/482276?s=72&u=fd2644e48ece80668cc4ef616173ba450dbd029e&v=4" width="24" alt="Avatar of Benjamin-Dobell"> Benjamin-Dobell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Benjamin-Dobell">Copy rank badge</a><br/>
 			Benjamin Dobell
 		</td>
 		<td>Breaka Club </td>
@@ -4555,7 +4557,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/livinamuk">
 				<img src="https://avatars.githubusercontent.com/u/7821313?s=72&u=de0ad648f5a7a6b12e0013c0812e35087f4b7d3b&v=4" width="24" alt="Avatar of livinamuk"> livinamuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#livinamuk">Copy rank badge</a><br/>
 			Chris Burrows
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alessandrod">
 				<img src="https://avatars.githubusercontent.com/u/62002?s=72&u=37aa36bcc913992cd3b833d2e5b2ac151cffbb59&v=4" width="24" alt="Avatar of alessandrod"> alessandrod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alessandrod">Copy rank badge</a><br/>
 			Alessandro Decina
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kdm9">
 				<img src="https://avatars.githubusercontent.com/u/1560490?s=72&v=4" width="24" alt="Avatar of kdm9"> kdm9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kdm9">Copy rank badge</a><br/>
 			Dr. K. D. Murray
 		</td>
 		<td>Gekkonid Scientific </td>
@@ -4594,7 +4596,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jsun969">
 				<img src="https://avatars.githubusercontent.com/u/29330847?s=72&u=7f9a4c9d3807aefcc1272ff2a50710a03ae40e8a&v=4" width="24" alt="Avatar of jsun969"> jsun969
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jsun969">Copy rank badge</a><br/>
 			Justin Sun
 		</td>
 		<td>Adelaide University </td>
@@ -4607,7 +4609,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/itsdouges">
 				<img src="https://avatars.githubusercontent.com/u/6801309?s=72&u=bd0933a65a08d88ae3d9b11ae9e5b323c986b412&v=4" width="24" alt="Avatar of itsdouges"> itsdouges
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#itsdouges">Copy rank badge</a><br/>
 			mike douges
 		</td>
 		<td>@paper-design </td>
@@ -4620,7 +4622,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/puffnfresh">
 				<img src="https://avatars.githubusercontent.com/u/37715?s=72&v=4" width="24" alt="Avatar of puffnfresh"> puffnfresh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#puffnfresh">Copy rank badge</a><br/>
 			Brian McKenna
 		</td>
 		<td>Launceston & North East<br/>Railway<br/></td>
@@ -4633,7 +4635,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sporto">
 				<img src="https://avatars.githubusercontent.com/u/1005498?s=72&u=b6689026e304fa7106e101d5a5e60158a8e4b619&v=4" width="24" alt="Avatar of sporto"> sporto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sporto">Copy rank badge</a><br/>
 			Sebastian Porto
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tiagomatosweb">
 				<img src="https://avatars.githubusercontent.com/u/3372967?s=72&u=2638cdf7b82655a76cb02faa4ada25e832bd4e4d&v=4" width="24" alt="Avatar of tiagomatosweb"> tiagomatosweb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tiagomatosweb">Copy rank badge</a><br/>
 			Tiago Matos
 		</td>
 		<td>No Company</td>
@@ -4659,7 +4661,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gpheheise">
 				<img src="https://avatars.githubusercontent.com/u/8024412?s=72&u=f54e6b103604a026bc89b8bee65dad936f3a959b&v=4" width="24" alt="Avatar of gpheheise"> gpheheise
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gpheheise">Copy rank badge</a><br/>
 			gpheheise
 		</td>
 		<td>Lufthansa Industry Solutions </td>
@@ -4672,7 +4674,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/geelen">
 				<img src="https://avatars.githubusercontent.com/u/23264?s=72&u=6869ae3ebff2debb80cdb1cf324916fea8221885&v=4" width="24" alt="Avatar of geelen"> geelen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#geelen">Copy rank badge</a><br/>
 			Glen Maddern
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/josephj">
 				<img src="https://avatars.githubusercontent.com/u/136648?s=72&v=4" width="24" alt="Avatar of josephj"> josephj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#josephj">Copy rank badge</a><br/>
 			Joseph Chiang
 		</td>
 		<td>@ignitionapp  </td>
@@ -4698,7 +4700,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mitchivin">
 				<img src="https://avatars.githubusercontent.com/u/207781802?s=72&u=092de484f7737cb7a0b8a2e4c5784e15a9d0f400&v=4" width="24" alt="Avatar of mitchivin"> mitchivin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mitchivin">Copy rank badge</a><br/>
 			Mitch Ivin
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TrudAX">
 				<img src="https://avatars.githubusercontent.com/u/26786918?s=72&u=b1a46145542ff05c532d31586ad9fcc0d7ee45a5&v=4" width="24" alt="Avatar of TrudAX"> TrudAX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TrudAX">Copy rank badge</a><br/>
 			Denis Trunin
 		</td>
 		<td>No Company</td>
@@ -4724,7 +4726,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jordwest">
 				<img src="https://avatars.githubusercontent.com/u/416133?s=72&v=4" width="24" alt="Avatar of jordwest"> jordwest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jordwest">Copy rank badge</a><br/>
 			Jordan West
 		</td>
 		<td>No Company</td>
@@ -4737,7 +4739,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bardiharborow">
 				<img src="https://avatars.githubusercontent.com/u/1073681?s=72&u=5f9beb46757340f39067c48557a1137133d91a39&v=4" width="24" alt="Avatar of bardiharborow"> bardiharborow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bardiharborow">Copy rank badge</a><br/>
 			Bardi Harborow
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Ryzee119">
 				<img src="https://avatars.githubusercontent.com/u/21236406?s=72&u=c8009500b41013bb36fbdee9bf6c1e0314a0655f&v=4" width="24" alt="Avatar of Ryzee119"> Ryzee119
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Ryzee119">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jhy">
 				<img src="https://avatars.githubusercontent.com/u/76934?s=72&u=99dc2877fa4643e6fba8b5c2f17c81fdb1e89b19&v=4" width="24" alt="Avatar of jhy"> jhy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jhy">Copy rank badge</a><br/>
 			Jonathan Hedley
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/6mile">
 				<img src="https://avatars.githubusercontent.com/u/7798480?s=72&u=a42189b47bb0a215ad63a97100ec7824d71e16d7&v=4" width="24" alt="Avatar of 6mile"> 6mile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#6mile">Copy rank badge</a><br/>
 			Paul McCarty
 		</td>
 		<td>@opensourcemalware </td>
@@ -4789,7 +4791,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/markdalgleish">
 				<img src="https://avatars.githubusercontent.com/u/696693?s=72&u=e1e15b2629838f78c6aa17acc618a3ebc667e26a&v=4" width="24" alt="Avatar of markdalgleish"> markdalgleish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#markdalgleish">Copy rank badge</a><br/>
 			Mark Dalgleish
 		</td>
 		<td>@remix-run </td>
@@ -4802,7 +4804,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kortschak">
 				<img src="https://avatars.githubusercontent.com/u/275221?s=72&u=afde66b960b9f3326fca83c2fce3e6758a58d6de&v=4" width="24" alt="Avatar of kortschak"> kortschak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kortschak">Copy rank badge</a><br/>
 			Dan Kortschak
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/amitsaha">
 				<img src="https://avatars.githubusercontent.com/u/512598?s=72&u=0705fb19bac57f4c632ba4648c633924dc302ce6&v=4" width="24" alt="Avatar of amitsaha"> amitsaha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#amitsaha">Copy rank badge</a><br/>
 			Amit Saha
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/futantan">
 				<img src="https://avatars.githubusercontent.com/u/6268441?s=72&u=a0a73d3334fca1d6afc6002203028edbda476417&v=4" width="24" alt="Avatar of futantan"> futantan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#futantan">Copy rank badge</a><br/>
 			Tantan Fu
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/federicobond">
 				<img src="https://avatars.githubusercontent.com/u/138426?s=72&u=3117125771b06e3aa8da468c8f41e4038d717974&v=4" width="24" alt="Avatar of federicobond"> federicobond
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#federicobond">Copy rank badge</a><br/>
 			Federico Bond
 		</td>
 		<td>No Company</td>
@@ -4854,7 +4856,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/atymic">
 				<img src="https://avatars.githubusercontent.com/u/50683531?s=72&u=38451a183643d9281841e467cb6c7d1b8d057920&v=4" width="24" alt="Avatar of atymic"> atymic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#atymic">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/waferbaby">
 				<img src="https://avatars.githubusercontent.com/u/1027?s=72&u=b7a450ca454266d887060ce3ad85ca4dcde35e82&v=4" width="24" alt="Avatar of waferbaby"> waferbaby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#waferbaby">Copy rank badge</a><br/>
 			bogan
 		</td>
 		<td>@get-mosh </td>
@@ -4880,7 +4882,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mikefarah">
 				<img src="https://avatars.githubusercontent.com/u/1151925?s=72&v=4" width="24" alt="Avatar of mikefarah"> mikefarah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mikefarah">Copy rank badge</a><br/>
 			Mike Farah
 		</td>
 		<td>Contact Harald </td>
@@ -4893,7 +4895,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kyal102">
 				<img src="https://avatars.githubusercontent.com/u/277543146?s=72&u=012854014b999c4666396b42d7cd116cb80a758d&v=4" width="24" alt="Avatar of kyal102"> kyal102
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kyal102">Copy rank badge</a><br/>
 			Jarvi3.com
 		</td>
 		<td>@ecokure Ptyltd </td>
@@ -4906,7 +4908,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jesstelford">
 				<img src="https://avatars.githubusercontent.com/u/612020?s=72&v=4" width="24" alt="Avatar of jesstelford"> jesstelford
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jesstelford">Copy rank badge</a><br/>
 			Jess Telford
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bradzacher">
 				<img src="https://avatars.githubusercontent.com/u/7462525?s=72&u=e9348570a8def9214eef0dbc696a564be1da3ec2&v=4" width="24" alt="Avatar of bradzacher"> bradzacher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bradzacher">Copy rank badge</a><br/>
 			Brad Zacher
 		</td>
 		<td>Software Engineer @canva </td>
@@ -4932,7 +4934,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/orlyjamie">
 				<img src="https://avatars.githubusercontent.com/u/6668807?s=72&u=3a7b30bfa068c3f6430ee09b4ac118188fff484b&v=4" width="24" alt="Avatar of orlyjamie"> orlyjamie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#orlyjamie">Copy rank badge</a><br/>
 			Jamieson O'Reilly
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jessarcher">
 				<img src="https://avatars.githubusercontent.com/u/4977161?s=72&u=a6c1a5a9ff0e8aca7d908e0d5fbf7a61cf1b3b70&v=4" width="24" alt="Avatar of jessarcher"> jessarcher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jessarcher">Copy rank badge</a><br/>
 			Jess Archer
 		</td>
 		<td>@laravel </td>
@@ -4958,7 +4960,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pksjce">
 				<img src="https://avatars.githubusercontent.com/u/417268?s=72&u=df53b6066a9e8b86c92f4293ec3ee0ca0f485caa&v=4" width="24" alt="Avatar of pksjce"> pksjce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pksjce">Copy rank badge</a><br/>
 			Pavithra Kodmad
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kkozmic">
 				<img src="https://avatars.githubusercontent.com/u/117943?s=72&v=4" width="24" alt="Avatar of kkozmic"> kkozmic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kkozmic">Copy rank badge</a><br/>
 			Krzysztof Kozmic
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mvandermeulen">
 				<img src="https://avatars.githubusercontent.com/u/14543143?s=72&u=d500761bffc5508e00bb57b8094ddf116e1eb6f4&v=4" width="24" alt="Avatar of mvandermeulen"> mvandermeulen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mvandermeulen">Copy rank badge</a><br/>
 			Mark
 		</td>
 		<td>Fivenynes </td>
@@ -4997,7 +4999,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/iampedii">
 				<img src="https://avatars.githubusercontent.com/u/7813872?s=72&u=31c0df372b270ab71cba781c4d338439fdf96308&v=4" width="24" alt="Avatar of iampedii"> iampedii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#iampedii">Copy rank badge</a><br/>
 			Pedi
 		</td>
 		<td>No Company</td>
@@ -5010,7 +5012,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ZenarchistCode">
 				<img src="https://avatars.githubusercontent.com/u/103560182?s=72&u=6a5bcab02fe356bdaad704ff669258745a5d6240&v=4" width="24" alt="Avatar of ZenarchistCode"> ZenarchistCode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ZenarchistCode">Copy rank badge</a><br/>
 			Zenarchist
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/HesamAsad">
 				<img src="https://avatars.githubusercontent.com/u/60576045?s=72&u=17a5817d2739ce17c88e4be6e55b1ef06e34d391&v=4" width="24" alt="Avatar of HesamAsad"> HesamAsad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#HesamAsad">Copy rank badge</a><br/>
 			Hesam Asadollahzadeh
 		</td>
 		<td>University Of Melbourne </td>
@@ -5036,7 +5038,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/anguslees">
 				<img src="https://avatars.githubusercontent.com/u/224224?s=72&u=7e6889787de131309750669f7f45fc9cce6dd509&v=4" width="24" alt="Avatar of anguslees"> anguslees
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#anguslees">Copy rank badge</a><br/>
 			Angus Lees
 		</td>
 		<td>@canva </td>
@@ -5049,7 +5051,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benschwarz">
 				<img src="https://avatars.githubusercontent.com/u/924?s=72&u=ecfc6e22baa4792e134144c9fffcf2bd5d6da1ca&v=4" width="24" alt="Avatar of benschwarz"> benschwarz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benschwarz">Copy rank badge</a><br/>
 			Ben Schwarz
 		</td>
 		<td>@calibreapp  </td>
@@ -5062,7 +5064,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abruzzi">
 				<img src="https://avatars.githubusercontent.com/u/122324?s=72&u=68d1bac121015e437133ca8b7d1d5b39626a46be&v=4" width="24" alt="Avatar of abruzzi"> abruzzi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abruzzi">Copy rank badge</a><br/>
 			Juntao Qiu
 		</td>
 		<td>Atlassian </td>
@@ -5075,7 +5077,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/vaibhavsagar">
 				<img src="https://avatars.githubusercontent.com/u/1525767?s=72&u=8f91a64bd860df859b2d446e585fd333756abbfa&v=4" width="24" alt="Avatar of vaibhavsagar"> vaibhavsagar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#vaibhavsagar">Copy rank badge</a><br/>
 			Vaibhav Sagar
 		</td>
 		<td>No Company</td>
@@ -5088,7 +5090,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MKSG-MugunthKumar">
 				<img src="https://avatars.githubusercontent.com/u/129776?s=72&u=ad81fcf9ea800dc9a70901e13b7df1b478f80aa2&v=4" width="24" alt="Avatar of MKSG-MugunthKumar"> MKSG-MugunthKumar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MKSG-MugunthKumar">Copy rank badge</a><br/>
 			Mugunth Kumar (MK)
 		</td>
 		<td>Mindkraft Studios Group </td>
@@ -5101,7 +5103,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/matthewd">
 				<img src="https://avatars.githubusercontent.com/u/1034?s=72&v=4" width="24" alt="Avatar of matthewd"> matthewd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#matthewd">Copy rank badge</a><br/>
 			Matthew Draper
 		</td>
 		<td>@shopify </td>
@@ -5114,7 +5116,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leadedge">
 				<img src="https://avatars.githubusercontent.com/u/7351229?s=72&u=e3570b13b21914d1de2763388033387d87ad3e9a&v=4" width="24" alt="Avatar of leadedge"> leadedge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leadedge">Copy rank badge</a><br/>
 			Lynn Jarvis
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bennetthardwick">
 				<img src="https://avatars.githubusercontent.com/u/17743045?s=72&u=7835d63ed1a8d2ce0acade9bf348ec7214a028c5&v=4" width="24" alt="Avatar of bennetthardwick"> bennetthardwick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bennetthardwick">Copy rank badge</a><br/>
 			Bennett Hardwick
 		</td>
 		<td>@foxglove </td>
@@ -5140,7 +5142,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yob">
 				<img src="https://avatars.githubusercontent.com/u/8132?s=72&u=8d212e5e4a16aced2027f86b19091f8dc211bb5b&v=4" width="24" alt="Avatar of yob"> yob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yob">Copy rank badge</a><br/>
 			James Healy
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/magnetikonline">
 				<img src="https://avatars.githubusercontent.com/u/1818757?s=72&u=27ca8c53c66113faa67f6b48aeb8841717c0ee2f&v=4" width="24" alt="Avatar of magnetikonline"> magnetikonline
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#magnetikonline">Copy rank badge</a><br/>
 			Peter Mescalchin
 		</td>
 		<td>Magnetikonline </td>
@@ -5166,7 +5168,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/scrrlt">
 				<img src="https://avatars.githubusercontent.com/u/235653744?s=72&u=a1ac06e5ca9e42e353b97319da78913757c6cf7c&v=4" width="24" alt="Avatar of scrrlt"> scrrlt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#scrrlt">Copy rank badge</a><br/>
 			Scarlet Moore
 		</td>
 		<td>No Company</td>
@@ -5179,7 +5181,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dformoso">
 				<img src="https://avatars.githubusercontent.com/u/2955131?s=72&u=05408cecb7b11643f449a605be82ff3af7b1acc9&v=4" width="24" alt="Avatar of dformoso"> dformoso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dformoso">Copy rank badge</a><br/>
 			Daniel Martinez Formoso
 		</td>
 		<td>Google </td>
@@ -5192,7 +5194,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/liamoc">
 				<img src="https://avatars.githubusercontent.com/u/61991?s=72&u=bd81731e20a19752862d1293f3cf34d00a6f246a&v=4" width="24" alt="Avatar of liamoc"> liamoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#liamoc">Copy rank badge</a><br/>
 			Liam O'Connor
 		</td>
 		<td>Australian National University </td>
@@ -5205,7 +5207,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/initstring">
 				<img src="https://avatars.githubusercontent.com/u/26131150?s=72&u=d702b800c642d5817424896474529287193f32ef&v=4" width="24" alt="Avatar of initstring"> initstring
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#initstring">Copy rank badge</a><br/>
 			initstring
 		</td>
 		<td>No Company</td>
@@ -5218,7 +5220,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/geekscape">
 				<img src="https://avatars.githubusercontent.com/u/75430?s=72&v=4" width="24" alt="Avatar of geekscape"> geekscape
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#geekscape">Copy rank badge</a><br/>
 			Andy Gelme
 		</td>
 		<td>Geekscape Pty. Ltd. </td>
@@ -5231,7 +5233,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/randomaccess3">
 				<img src="https://avatars.githubusercontent.com/u/1241363?s=72&v=4" width="24" alt="Avatar of randomaccess3"> randomaccess3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#randomaccess3">Copy rank badge</a><br/>
 			Phill Moore
 		</td>
 		<td>No Company</td>
@@ -5244,7 +5246,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/fredwu">
 				<img src="https://avatars.githubusercontent.com/u/31945?s=72&v=4" width="24" alt="Avatar of fredwu"> fredwu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#fredwu">Copy rank badge</a><br/>
 			Fred Wu
 		</td>
 		<td>@wuit </td>
@@ -5257,7 +5259,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/soarcn">
 				<img src="https://avatars.githubusercontent.com/u/1614390?s=72&u=107e9fdf2647dfe636f965c0890efc7111f5d925&v=4" width="24" alt="Avatar of soarcn"> soarcn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#soarcn">Copy rank badge</a><br/>
 			Kai Liao
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/edisonyls">
 				<img src="https://avatars.githubusercontent.com/u/89026659?s=72&u=e59fc6a5f687c3ca69ac0318200d8ec0027c63f2&v=4" width="24" alt="Avatar of edisonyls"> edisonyls
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#edisonyls">Copy rank badge</a><br/>
 			Edison Yang
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joshprice">
 				<img src="https://avatars.githubusercontent.com/u/9307?s=72&v=4" width="24" alt="Avatar of joshprice"> joshprice
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joshprice">Copy rank badge</a><br/>
 			Josh Price
 		</td>
 		<td>Alembic </td>
@@ -5296,7 +5298,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/xaviershay">
 				<img src="https://avatars.githubusercontent.com/u/1714?s=72&v=4" width="24" alt="Avatar of xaviershay"> xaviershay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#xaviershay">Copy rank badge</a><br/>
 			Xavier Shay
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ideasman42">
 				<img src="https://avatars.githubusercontent.com/u/1869379?s=72&u=6ff10c5e0d64d632ae406fc25d776dfa089c9391&v=4" width="24" alt="Avatar of ideasman42"> ideasman42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ideasman42">Copy rank badge</a><br/>
 			Campbell Barton
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mike42">
 				<img src="https://avatars.githubusercontent.com/u/2080552?s=72&v=4" width="24" alt="Avatar of mike42"> mike42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mike42">Copy rank badge</a><br/>
 			Michael Billington
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/shenki">
 				<img src="https://avatars.githubusercontent.com/u/207355?s=72&v=4" width="24" alt="Avatar of shenki"> shenki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#shenki">Copy rank badge</a><br/>
 			Joel Stanley
 		</td>
 		<td>@tenstorrent </td>
@@ -5348,7 +5350,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/RManLuo">
 				<img src="https://avatars.githubusercontent.com/u/34737002?s=72&u=e2175dcd4cc62f0445f448286369a62d29f34469&v=4" width="24" alt="Avatar of RManLuo"> RManLuo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#RManLuo">Copy rank badge</a><br/>
 			Linhao Luo
 		</td>
 		<td>Monash University </td>
@@ -5361,7 +5363,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/NiluK">
 				<img src="https://avatars.githubusercontent.com/u/14311730?s=72&u=a5b252e9901876bcbe3e96259975cf882f26d26d&v=4" width="24" alt="Avatar of NiluK"> NiluK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#NiluK">Copy rank badge</a><br/>
 			Nilu Kulasingham
 		</td>
 		<td>No Company</td>
@@ -5374,7 +5376,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/daurnimator">
 				<img src="https://avatars.githubusercontent.com/u/127971?s=72&v=4" width="24" alt="Avatar of daurnimator"> daurnimator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#daurnimator">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gustavohenke">
 				<img src="https://avatars.githubusercontent.com/u/826553?s=72&v=4" width="24" alt="Avatar of gustavohenke"> gustavohenke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gustavohenke">Copy rank badge</a><br/>
 			Gustavo Henke
 		</td>
 		<td>@canva  </td>
@@ -5400,7 +5402,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jesseduffield">
 				<img src="https://avatars.githubusercontent.com/u/8456633?s=72&u=1183e9d1442669992861877a4f313b51e3bbd119&v=4" width="24" alt="Avatar of jesseduffield"> jesseduffield
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jesseduffield">Copy rank badge</a><br/>
 			Jesse Duffield
 		</td>
 		<td>No Company</td>
@@ -5413,7 +5415,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jamesb93">
 				<img src="https://avatars.githubusercontent.com/u/13281862?s=72&u=f52bea48e506d7720e05c8fb1c476b1f7ddc081c&v=4" width="24" alt="Avatar of jamesb93"> jamesb93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jamesb93">Copy rank badge</a><br/>
 			James Bradbury
 		</td>
 		<td>No Company</td>
@@ -5426,7 +5428,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/w0ng">
 				<img src="https://avatars.githubusercontent.com/u/960708?s=72&v=4" width="24" alt="Avatar of w0ng"> w0ng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#w0ng">Copy rank badge</a><br/>
 			Andrew Wong
 		</td>
 		<td>@canva  </td>
@@ -5439,7 +5441,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alexdolbun">
 				<img src="https://avatars.githubusercontent.com/u/21699701?s=72&u=4d3f1adabf81c3cef9a9800ac0da4164cc327b9a&v=4" width="24" alt="Avatar of alexdolbun"> alexdolbun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alexdolbun">Copy rank badge</a><br/>
 			Aleksei Dolgikh 2025 (@alexdolbun)
 		</td>
 		<td>Https://unicornwitne </td>
@@ -5452,7 +5454,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leevigraham">
 				<img src="https://avatars.githubusercontent.com/u/25124?s=72&u=30f795781471e611f63aefdfcf39f523b0e22ca3&v=4" width="24" alt="Avatar of leevigraham"> leevigraham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leevigraham">Copy rank badge</a><br/>
 			Leevi Graham
 		</td>
 		<td>@newism  </td>
@@ -5465,7 +5467,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/liamzebedee">
 				<img src="https://avatars.githubusercontent.com/u/584141?s=72&u=4d923d0d46611d47175069baca238238f33281da&v=4" width="24" alt="Avatar of liamzebedee"> liamzebedee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#liamzebedee">Copy rank badge</a><br/>
 			Liam Zebedee
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/laktek">
 				<img src="https://avatars.githubusercontent.com/u/5358?s=72&v=4" width="24" alt="Avatar of laktek"> laktek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#laktek">Copy rank badge</a><br/>
 			Lakshan Perera
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hjc4869">
 				<img src="https://avatars.githubusercontent.com/u/1969802?s=72&u=64b8b39a3c3360d8de6f8964eeb7a20cbb87ab2e&v=4" width="24" alt="Avatar of hjc4869"> hjc4869
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hjc4869">Copy rank badge</a><br/>
 			David Huang
 		</td>
 		<td>No Company</td>
@@ -5504,7 +5506,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gtramontina">
 				<img src="https://avatars.githubusercontent.com/u/374635?s=72&v=4" width="24" alt="Avatar of gtramontina"> gtramontina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gtramontina">Copy rank badge</a><br/>
 			Guilherme J. Tramontina
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/upsuper">
 				<img src="https://avatars.githubusercontent.com/u/333750?s=72&u=651316a0bc85f3978374a78ad6606030ce20be1f&v=4" width="24" alt="Avatar of upsuper"> upsuper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#upsuper">Copy rank badge</a><br/>
 			Xidorn Quan
 		</td>
 		<td>@canva  </td>
@@ -5530,7 +5532,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jagregory">
 				<img src="https://avatars.githubusercontent.com/u/10828?s=72&v=4" width="24" alt="Avatar of jagregory"> jagregory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jagregory">Copy rank badge</a><br/>
 			James Gregory
 		</td>
 		<td>@entireio </td>
@@ -5543,7 +5545,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/srikat">
 				<img src="https://avatars.githubusercontent.com/u/2188656?s=72&v=4" width="24" alt="Avatar of srikat"> srikat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#srikat">Copy rank badge</a><br/>
 			Sridhar Katakam
 		</td>
 		<td>No Company</td>
@@ -5556,7 +5558,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Tarang74">
 				<img src="https://avatars.githubusercontent.com/u/31427635?s=72&u=e3614749003f206d6b0bb912add9f571cea34785&v=4" width="24" alt="Avatar of Tarang74"> Tarang74
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Tarang74">Copy rank badge</a><br/>
 			Tarang Janawalkar
 		</td>
 		<td>Queensland University Of Technology<br/>&<br/>Audima<br/>Labs<br/></td>
@@ -5569,7 +5571,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davecheney">
 				<img src="https://avatars.githubusercontent.com/u/7171?s=72&u=5616ab442b740916bb53748d0cfeb1345d2ffa99&v=4" width="24" alt="Avatar of davecheney"> davecheney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davecheney">Copy rank badge</a><br/>
 			Dave Cheney
 		</td>
 		<td>Github </td>
@@ -5582,7 +5584,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yesmeck">
 				<img src="https://avatars.githubusercontent.com/u/465125?s=72&u=982f219d866d7908acc8fae0fd37cd66a0d279c1&v=4" width="24" alt="Avatar of yesmeck"> yesmeck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yesmeck">Copy rank badge</a><br/>
 			Wei Zhu
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/futureshocked">
 				<img src="https://avatars.githubusercontent.com/u/25273?s=72&v=4" width="24" alt="Avatar of futureshocked"> futureshocked
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#futureshocked">Copy rank badge</a><br/>
 			Peter Dalmaris
 		</td>
 		<td>Tech Explorations </td>
@@ -5608,7 +5610,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pprevos">
 				<img src="https://avatars.githubusercontent.com/u/8123361?s=72&u=bdfbad364c29e3978c69db635d8386721b375da1&v=4" width="24" alt="Avatar of pprevos"> pprevos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pprevos">Copy rank badge</a><br/>
 			Peter Prevos
 		</td>
 		<td>@colibanwater </td>
@@ -5621,7 +5623,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Damovisa">
 				<img src="https://avatars.githubusercontent.com/u/1887732?s=72&u=050cee18f7ab1e3bc977711c38f00d332d8b7a34&v=4" width="24" alt="Avatar of Damovisa"> Damovisa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Damovisa">Copy rank badge</a><br/>
 			Damian Brady
 		</td>
 		<td>@github  </td>
@@ -5634,7 +5636,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mon">
 				<img src="https://avatars.githubusercontent.com/u/3398021?s=72&v=4" width="24" alt="Avatar of mon"> mon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mon">Copy rank badge</a><br/>
 			Will
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/andyyhope">
 				<img src="https://avatars.githubusercontent.com/u/844960?s=72&u=711e207f563f82907c21d6a3858e553a9b039515&v=4" width="24" alt="Avatar of andyyhope"> andyyhope
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#andyyhope">Copy rank badge</a><br/>
 			Andyy Hope
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/datanerd">
 				<img src="https://avatars.githubusercontent.com/u/59625655?s=72&u=f51af4469baa8b4dde3e28eb124299d89da1756b&v=4" width="24" alt="Avatar of datanerd"> datanerd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#datanerd">Copy rank badge</a><br/>
 			Andre Kolodochka
 		</td>
 		<td>@sonarsource </td>
@@ -5673,7 +5675,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/chris-horner">
 				<img src="https://avatars.githubusercontent.com/u/1245751?s=72&u=e0835df4ba7d48ff091abcfa84ce42abe1377f74&v=4" width="24" alt="Avatar of chris-horner"> chris-horner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#chris-horner">Copy rank badge</a><br/>
 			Chris Horner
 		</td>
 		<td>No Company</td>
@@ -5686,7 +5688,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AgeManning">
 				<img src="https://avatars.githubusercontent.com/u/7454587?s=72&u=c5fd55e058ec4c7a85eb72286244ba09a3446de5&v=4" width="24" alt="Avatar of AgeManning"> AgeManning
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AgeManning">Copy rank badge</a><br/>
 			Age Manning
 		</td>
 		<td>@sigp  </td>
@@ -5699,7 +5701,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MaikuB">
 				<img src="https://avatars.githubusercontent.com/u/25263378?s=72&u=2adeb506034dc07182d6894f6c5d55e8c62c348e&v=4" width="24" alt="Avatar of MaikuB"> MaikuB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MaikuB">Copy rank badge</a><br/>
 			Michael Bui
 		</td>
 		<td>No Company</td>
@@ -5712,7 +5714,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/maraisr">
 				<img src="https://avatars.githubusercontent.com/u/599459?s=72&u=334be41a858bac1a6570efd0a00115e4701cbeb2&v=4" width="24" alt="Avatar of maraisr"> maraisr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#maraisr">Copy rank badge</a><br/>
 			Marais Rossouw
 		</td>
 		<td>Github </td>
@@ -5725,7 +5727,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LuaxY">
 				<img src="https://avatars.githubusercontent.com/u/5818379?s=72&u=4948f3b4376dd893894ddf67f43a5a913d38d6e2&v=4" width="24" alt="Avatar of LuaxY"> LuaxY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LuaxY">Copy rank badge</a><br/>
 			Luax
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/modenaxe">
 				<img src="https://avatars.githubusercontent.com/u/7674529?s=72&u=5596432dc56d0dd23afe2a71b594126fb863b6f1&v=4" width="24" alt="Avatar of modenaxe"> modenaxe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#modenaxe">Copy rank badge</a><br/>
 			Luca Modenese
 		</td>
 		<td>University Of New South<br/>Wales<br/></td>
@@ -5751,7 +5753,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aussieBIMguru">
 				<img src="https://avatars.githubusercontent.com/u/58870499?s=72&u=0b16b2f8cec32e9e96cf8a2e86f26440ab7b395d&v=4" width="24" alt="Avatar of aussieBIMguru"> aussieBIMguru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aussieBIMguru">Copy rank badge</a><br/>
 			Gavin Nicholls
 		</td>
 		<td>Aussie Bim Guru </td>
@@ -5764,7 +5766,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pentestfunctions">
 				<img src="https://avatars.githubusercontent.com/u/144001335?s=72&u=0a4453a9a9cef38ca92dfc9b0de4f11853c81853&v=4" width="24" alt="Avatar of pentestfunctions"> pentestfunctions
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pentestfunctions">Copy rank badge</a><br/>
 			Opabinia
 		</td>
 		<td>Coo @ Hacknexus </td>
@@ -5777,7 +5779,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jaydenseric">
 				<img src="https://avatars.githubusercontent.com/u/1754873?s=72&u=679f0150563bad9639162ff2500c625b64bb805c&v=4" width="24" alt="Avatar of jaydenseric"> jaydenseric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jaydenseric">Copy rank badge</a><br/>
 			Jayden Seric
 		</td>
 		<td>Spry Equipment </td>
@@ -5790,7 +5792,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jthegedus">
 				<img src="https://avatars.githubusercontent.com/u/20798510?s=72&u=2c807bc2239c2597aef1842e56cf057737614368&v=4" width="24" alt="Avatar of jthegedus"> jthegedus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jthegedus">Copy rank badge</a><br/>
 			James Hegedus
 		</td>
 		<td>No Company</td>
@@ -5803,7 +5805,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/liammclennan">
 				<img src="https://avatars.githubusercontent.com/u/271514?s=72&u=3fb5d4fe75d03f2af635a163cbee0a727b1606eb&v=4" width="24" alt="Avatar of liammclennan"> liammclennan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#liammclennan">Copy rank badge</a><br/>
 			Liam McLennan
 		</td>
 		<td>No Company</td>
@@ -5816,7 +5818,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yonaskolb">
 				<img src="https://avatars.githubusercontent.com/u/2393781?s=72&u=1bf6047eb6227942afcba2ce08dad1b1dc609ead&v=4" width="24" alt="Avatar of yonaskolb"> yonaskolb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yonaskolb">Copy rank badge</a><br/>
 			Yonas Kolb
 		</td>
 		<td>No Company</td>
@@ -5829,7 +5831,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/avneesh0612">
 				<img src="https://avatars.githubusercontent.com/u/76690419?s=72&u=5f40f8b06887916c783362f0cfa51e7c61055e06&v=4" width="24" alt="Avatar of avneesh0612"> avneesh0612
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#avneesh0612">Copy rank badge</a><br/>
 			Avneesh Agarwal
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/voidtools">
 				<img src="https://avatars.githubusercontent.com/u/31149593?s=72&u=e797454feeb03232375b4bc78d5d925ab71a55da&v=4" width="24" alt="Avatar of voidtools"> voidtools
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#voidtools">Copy rank badge</a><br/>
 			David Carpenter
 		</td>
 		<td>Voidtools </td>
@@ -5855,7 +5857,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jacqui">
 				<img src="https://avatars.githubusercontent.com/u/3397?s=72&u=d4f3e31b7ff45ac7a32ad1377dc77a48fdb68e2f&v=4" width="24" alt="Avatar of jacqui"> jacqui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jacqui">Copy rank badge</a><br/>
 			Jacqui Lough
 		</td>
 		<td>No Company</td>
@@ -5868,7 +5870,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/deathau">
 				<img src="https://avatars.githubusercontent.com/u/1421840?s=72&v=4" width="24" alt="Avatar of deathau"> deathau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#deathau">Copy rank badge</a><br/>
 			Gordon Pedersen
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/devgeeks">
 				<img src="https://avatars.githubusercontent.com/u/554999?s=72&u=0a7ca68a28898095ee84ba52f9581530b878255d&v=4" width="24" alt="Avatar of devgeeks"> devgeeks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#devgeeks">Copy rank badge</a><br/>
 			tommy-carlos williams
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DanielThomas">
 				<img src="https://avatars.githubusercontent.com/u/1479220?s=72&u=872aedc5635f7fbc183cf4bd6d17ee06be3c31ea&v=4" width="24" alt="Avatar of DanielThomas"> DanielThomas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DanielThomas">Copy rank badge</a><br/>
 			Danny Thomas
 		</td>
 		<td>@netflix </td>
@@ -5907,7 +5909,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lifeparticle">
 				<img src="https://avatars.githubusercontent.com/u/1612112?s=72&u=c9cb9f85c86b39eaa99cdda562d9b4445e2f18db&v=4" width="24" alt="Avatar of lifeparticle"> lifeparticle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lifeparticle">Copy rank badge</a><br/>
 			Mahbub Zaman
 		</td>
 		<td>@eungella-io </td>
@@ -5920,7 +5922,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DavidMGilbert">
 				<img src="https://avatars.githubusercontent.com/u/78646883?s=72&u=e99e365261cc6813af4b5ae9be3b526345fa3d8e&v=4" width="24" alt="Avatar of DavidMGilbert"> DavidMGilbert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DavidMGilbert">Copy rank badge</a><br/>
 			David Gilbert
 		</td>
 		<td>@davidmgilbert </td>
@@ -5933,7 +5935,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/C-Moir">
 				<img src="https://avatars.githubusercontent.com/u/103167956?s=72&u=da97f98a98e3897919874b54f2ed8a25fc1043c1&v=4" width="24" alt="Avatar of C-Moir"> C-Moir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#C-Moir">Copy rank badge</a><br/>
 			Cameron J. Moir
 		</td>
 		<td>Streamables.live </td>
@@ -5946,7 +5948,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kimman8">
 				<img src="https://avatars.githubusercontent.com/u/40331446?s=72&u=1d77de79d2e1833224860013500d5b43675adb33&v=4" width="24" alt="Avatar of kimman8"> kimman8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kimman8">Copy rank badge</a><br/>
 			Kim
 		</td>
 		<td>Frontend Developer </td>
@@ -5959,7 +5961,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/steshaw">
 				<img src="https://avatars.githubusercontent.com/u/45735?s=72&u=5529adec51c8ed4bee11b5010ab4856382e9d5d1&v=4" width="24" alt="Avatar of steshaw"> steshaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#steshaw">Copy rank badge</a><br/>
 			Steven Shaw
 		</td>
 		<td>No Company</td>
@@ -5972,7 +5974,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/CMCDragonkai">
 				<img src="https://avatars.githubusercontent.com/u/640797?s=72&u=6c7a520f7ea51e48baa24d387b931b10601f6334&v=4" width="24" alt="Avatar of CMCDragonkai"> CMCDragonkai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#CMCDragonkai">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@matrixai </td>
@@ -5985,7 +5987,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/danilodelucio">
 				<img src="https://avatars.githubusercontent.com/u/47226196?s=72&u=033d956016a8294c87d9031c38d14226bfd7fa6b&v=4" width="24" alt="Avatar of danilodelucio"> danilodelucio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#danilodelucio">Copy rank badge</a><br/>
 			Danilo de Lucio
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nigels-com">
 				<img src="https://avatars.githubusercontent.com/u/545677?s=72&u=c27fe5df7982785b3682f90ab636cb64d747e74f&v=4" width="24" alt="Avatar of nigels-com"> nigels-com
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nigels-com">Copy rank badge</a><br/>
 			Nigel Stewart
 		</td>
 		<td>No Company</td>
@@ -6011,7 +6013,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/durgeshsamariya">
 				<img src="https://avatars.githubusercontent.com/u/16861529?s=72&u=f462621c9fff59fa448be4469608d40f2b3ac0f6&v=4" width="24" alt="Avatar of durgeshsamariya"> durgeshsamariya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#durgeshsamariya">Copy rank badge</a><br/>
 			Durgesh Samariya
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/theleoborges">
 				<img src="https://avatars.githubusercontent.com/u/34305?s=72&v=4" width="24" alt="Avatar of theleoborges"> theleoborges
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#theleoborges">Copy rank badge</a><br/>
 			Leonardo Borges
 		</td>
 		<td>@optus </td>
@@ -6037,7 +6039,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Viralmaniar">
 				<img src="https://avatars.githubusercontent.com/u/3501170?s=72&u=f4dbbbffe12b75610a44cfc2cd8abe205af2084c&v=4" width="24" alt="Avatar of Viralmaniar"> Viralmaniar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Viralmaniar">Copy rank badge</a><br/>
 			Viral Maniar
 		</td>
 		<td>Preemptive Cyber Security Pty<br/>Ltd<br/></td>
@@ -6050,7 +6052,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jclulow">
 				<img src="https://avatars.githubusercontent.com/u/304070?s=72&u=6414f62f2eb5e5274f7264295faf0f473ae31d87&v=4" width="24" alt="Avatar of jclulow"> jclulow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jclulow">Copy rank badge</a><br/>
 			Joshua M. Clulow
 		</td>
 		<td>@oxidecomputer </td>
@@ -6063,7 +6065,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/amaitland">
 				<img src="https://avatars.githubusercontent.com/u/307872?s=72&v=4" width="24" alt="Avatar of amaitland"> amaitland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#amaitland">Copy rank badge</a><br/>
 			Alex Maitland
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bmewburn">
 				<img src="https://avatars.githubusercontent.com/u/5885195?s=72&u=5af2003fd1d80e28c8f92e51e3b0efafb95bf88a&v=4" width="24" alt="Avatar of bmewburn"> bmewburn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bmewburn">Copy rank badge</a><br/>
 			Ben Mewburn
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mhart">
 				<img src="https://avatars.githubusercontent.com/u/367936?s=72&v=4" width="24" alt="Avatar of mhart"> mhart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mhart">Copy rank badge</a><br/>
 			Michael Hart
 		</td>
 		<td>@cloudflare </td>
@@ -6102,7 +6104,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pat">
 				<img src="https://avatars.githubusercontent.com/u/4183?s=72&u=99a2a6796c6e27f47867f1e1f97c1f9ada52a411&v=4" width="24" alt="Avatar of pat"> pat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pat">Copy rank badge</a><br/>
 			Pat Allan
 		</td>
 		<td>No Company</td>
@@ -6115,7 +6117,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/emukidid">
 				<img src="https://avatars.githubusercontent.com/u/4575117?s=72&v=4" width="24" alt="Avatar of emukidid"> emukidid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#emukidid">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hugobowne">
 				<img src="https://avatars.githubusercontent.com/u/4182382?s=72&u=a93e9ba3d80ee85101e5b9676071314fb0fc6c4f&v=4" width="24" alt="Avatar of hugobowne"> hugobowne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hugobowne">Copy rank badge</a><br/>
 			Hugo Bowne-Anderson
 		</td>
 		<td>Outerbounds </td>
@@ -6141,7 +6143,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/simsaens">
 				<img src="https://avatars.githubusercontent.com/u/816857?s=72&u=f1732e5969ff3cd4c0cc15d8ae59e19ec7f9a8da&v=4" width="24" alt="Avatar of simsaens"> simsaens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#simsaens">Copy rank badge</a><br/>
 			Sim Saëns
 		</td>
 		<td>Two Lives Left </td>
@@ -6154,7 +6156,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/scotty-c">
 				<img src="https://avatars.githubusercontent.com/u/8423099?s=72&u=3ed97acaece5e0e8e14f975d007862ca02478729&v=4" width="24" alt="Avatar of scotty-c"> scotty-c
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#scotty-c">Copy rank badge</a><br/>
 			Scott Coulton
 		</td>
 		<td>No Company</td>
@@ -6167,7 +6169,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ryanseddon">
 				<img src="https://avatars.githubusercontent.com/u/143402?s=72&u=a96238ae81533c0d28935995bce2e39cd7deb739&v=4" width="24" alt="Avatar of ryanseddon"> ryanseddon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ryanseddon">Copy rank badge</a><br/>
 			Ryan Seddon
 		</td>
 		<td>No Company</td>
@@ -6180,7 +6182,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nataliethenerd">
 				<img src="https://avatars.githubusercontent.com/u/79350460?s=72&u=50fd9ff6e5d4b77db4e3b7353e6f709eed7933e7&v=4" width="24" alt="Avatar of nataliethenerd"> nataliethenerd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nataliethenerd">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6193,7 +6195,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dagronf">
 				<img src="https://avatars.githubusercontent.com/u/2636615?s=72&u=a86668f01bc20e3d5d0923c86de5f58718bb196b&v=4" width="24" alt="Avatar of dagronf"> dagronf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dagronf">Copy rank badge</a><br/>
 			Darren Ford
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adamrehn">
 				<img src="https://avatars.githubusercontent.com/u/3490860?s=72&u=f0a7996e0e1cdc34a5cb6af114fe5a48cc649455&v=4" width="24" alt="Avatar of adamrehn"> adamrehn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adamrehn">Copy rank badge</a><br/>
 			Adam Rehn
 		</td>
 		<td>@tensorworks </td>
@@ -6219,7 +6221,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/karkranikhil">
 				<img src="https://avatars.githubusercontent.com/u/11937732?s=72&u=585e9abf8e6df5611fd2ba7757e3e8a9d21ac3a3&v=4" width="24" alt="Avatar of karkranikhil"> karkranikhil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#karkranikhil">Copy rank badge</a><br/>
 			nikhil karkra
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/iann0036">
 				<img src="https://avatars.githubusercontent.com/u/4401744?s=72&u=45422070013372017ff27019ebf9d830e273d617&v=4" width="24" alt="Avatar of iann0036"> iann0036
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#iann0036">Copy rank badge</a><br/>
 			Ian Mckay
 		</td>
 		<td>@kablamooss </td>
@@ -6245,7 +6247,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jtblin">
 				<img src="https://avatars.githubusercontent.com/u/1388974?s=72&v=4" width="24" alt="Avatar of jtblin"> jtblin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jtblin">Copy rank badge</a><br/>
 			Jerome
 		</td>
 		<td>Atlassian </td>
@@ -6258,7 +6260,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sachinruk">
 				<img src="https://avatars.githubusercontent.com/u/1410927?s=72&u=7def186c68c7609c3673215352c7da64b0984d0d&v=4" width="24" alt="Avatar of sachinruk"> sachinruk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sachinruk">Copy rank badge</a><br/>
 			Sachin Abeywardana
 		</td>
 		<td>@canva  </td>
@@ -6271,7 +6273,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/fediskhakov">
 				<img src="https://avatars.githubusercontent.com/u/2765768?s=72&u=5e0ed97125fb3569872e77a20647a00f1b3ec11d&v=4" width="24" alt="Avatar of fediskhakov"> fediskhakov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#fediskhakov">Copy rank badge</a><br/>
 			Fedor Iskhakov
 		</td>
 		<td>Research School Of Economics,<br/>Anu<br/></td>
@@ -6284,7 +6286,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/juliocesar">
 				<img src="https://avatars.githubusercontent.com/u/16590?s=72&u=227ffaa78ee31db017e6d50751f0a912086d93f3&v=4" width="24" alt="Avatar of juliocesar"> juliocesar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#juliocesar">Copy rank badge</a><br/>
 			Julio Cesar Ody
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lucascaton">
 				<img src="https://avatars.githubusercontent.com/u/86755?s=72&u=bf525a42810c01d9a82d73798945f65c3b94645a&v=4" width="24" alt="Avatar of lucascaton"> lucascaton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lucascaton">Copy rank badge</a><br/>
 			Lucas Caton
 		</td>
 		<td>@envato </td>
@@ -6310,7 +6312,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gavanlamb">
 				<img src="https://avatars.githubusercontent.com/u/6965644?s=72&u=2878664d1a65fed1f75b8ad65cc7366a77a6ad5d&v=4" width="24" alt="Avatar of gavanlamb"> gavanlamb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gavanlamb">Copy rank badge</a><br/>
 			Gavan Lamb
 		</td>
 		<td>@cupel-co,@masuki-co </td>
@@ -6323,7 +6325,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/muhammadtalhasultan">
 				<img src="https://avatars.githubusercontent.com/u/31367048?s=72&u=c84252140e1fbcde0adcf5fe867c07cc65eaf660&v=4" width="24" alt="Avatar of muhammadtalhasultan"> muhammadtalhasultan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#muhammadtalhasultan">Copy rank badge</a><br/>
 			Muhammad Talha Sultan
 		</td>
 		<td>@innvotechnologies </td>
@@ -6336,7 +6338,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aravindvnair99">
 				<img src="https://avatars.githubusercontent.com/u/22199259?s=72&v=4" width="24" alt="Avatar of aravindvnair99"> aravindvnair99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aravindvnair99">Copy rank badge</a><br/>
 			Aravind Nair
 		</td>
 		<td>Amazon Web Services (@aws)<br/></td>
@@ -6349,7 +6351,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mattgallagher">
 				<img src="https://avatars.githubusercontent.com/u/28080?s=72&u=69a24c445f2a3764c448b646497599b420e1065b&v=4" width="24" alt="Avatar of mattgallagher"> mattgallagher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mattgallagher">Copy rank badge</a><br/>
 			Matt Gallagher
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ihadeed">
 				<img src="https://avatars.githubusercontent.com/u/13794420?s=72&u=63ff01abd09810c734c1ccd6511b1303479cde96&v=4" width="24" alt="Avatar of ihadeed"> ihadeed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ihadeed">Copy rank badge</a><br/>
 			Ibby Hadeed
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jmcph4">
 				<img src="https://avatars.githubusercontent.com/u/717268?s=72&v=4" width="24" alt="Avatar of jmcph4"> jmcph4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jmcph4">Copy rank badge</a><br/>
 			Jack McPherson
 		</td>
 		<td>@tpluslabs </td>
@@ -6388,7 +6390,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/c42f">
 				<img src="https://avatars.githubusercontent.com/u/601473?s=72&u=cad9dc1f39ed4838df0b7b5e6eeece88a166edf0&v=4" width="24" alt="Avatar of c42f"> c42f
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#c42f">Copy rank badge</a><br/>
 			Claire Foster
 		</td>
 		<td>I'm Independent :) </td>
@@ -6401,7 +6403,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/zmdominguez">
 				<img src="https://avatars.githubusercontent.com/u/410969?s=72&u=af3ebdf54048cc9ff97c0b0ea4528357b0fab8b7&v=4" width="24" alt="Avatar of zmdominguez"> zmdominguez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#zmdominguez">Copy rank badge</a><br/>
 			Zarah Dominguez
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/meee1">
 				<img src="https://avatars.githubusercontent.com/u/511568?s=72&u=7fcf5d2019b4b78598384b3ba27beec282dcd4c6&v=4" width="24" alt="Avatar of meee1"> meee1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#meee1">Copy rank badge</a><br/>
 			Michael Oborne
 		</td>
 		<td>Cubepilot Pty Ltd </td>
@@ -6427,7 +6429,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Aria-Dolatabadian">
 				<img src="https://avatars.githubusercontent.com/u/74664712?s=72&u=1315fbfd2de480a46ea6e52aab107fbf8136a6f5&v=4" width="24" alt="Avatar of Aria-Dolatabadian"> Aria-Dolatabadian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Aria-Dolatabadian">Copy rank badge</a><br/>
 			Aria Dolatabadian
 		</td>
 		<td>The University Of Western<br/>Australia<br/></td>
@@ -6440,7 +6442,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stevenbird">
 				<img src="https://avatars.githubusercontent.com/u/55406?s=72&u=cdeece592e934cacc2d86802d9ec0408492b3dca&v=4" width="24" alt="Avatar of stevenbird"> stevenbird
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stevenbird">Copy rank badge</a><br/>
 			Steven Bird
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rikka0w0">
 				<img src="https://avatars.githubusercontent.com/u/4704366?s=72&u=fdd4fbea0c2aeeeb76b791c1f7a4c94dfb9e110c&v=4" width="24" alt="Avatar of rikka0w0"> rikka0w0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rikka0w0">Copy rank badge</a><br/>
 			Rikka0_0小六花
 		</td>
 		<td>Unsw </td>
@@ -6466,7 +6468,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MightyMoud">
 				<img src="https://avatars.githubusercontent.com/u/54428626?s=72&v=4" width="24" alt="Avatar of MightyMoud"> MightyMoud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MightyMoud">Copy rank badge</a><br/>
 			Mahmoud Mousa
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wahyd4">
 				<img src="https://avatars.githubusercontent.com/u/836576?s=72&u=ff88f6f286209af31d52c74e7d374ea10f4538fb&v=4" width="24" alt="Avatar of wahyd4"> wahyd4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wahyd4">Copy rank badge</a><br/>
 			Junwei Zhao
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/huntc">
 				<img src="https://avatars.githubusercontent.com/u/694893?s=72&u=e33eb3e2d8f3b3c9604ef0b9af2bc8b8c9f61be2&v=4" width="24" alt="Avatar of huntc"> huntc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#huntc">Copy rank badge</a><br/>
 			Christopher Hunt
 		</td>
 		<td>Titan Class P/l </td>
@@ -6505,7 +6507,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gtonkinhill">
 				<img src="https://avatars.githubusercontent.com/u/10625107?s=72&u=bcfa64a282ada1067f99dc79e24b92396f0db7d2&v=4" width="24" alt="Avatar of gtonkinhill"> gtonkinhill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gtonkinhill">Copy rank badge</a><br/>
 			Gerry Tonkin-Hill
 		</td>
 		<td>Peter Maccallum Cancer Centre<br/>&<br/>University<br/>Of<br/>Melbourne<br/></td>
@@ -6518,7 +6520,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ninxsoft">
 				<img src="https://avatars.githubusercontent.com/u/4812595?s=72&u=e1b49396bf4ccd298067630b70b516359a84e8d7&v=4" width="24" alt="Avatar of ninxsoft"> ninxsoft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ninxsoft">Copy rank badge</a><br/>
 			Nindi Gill
 		</td>
 		<td>Block, Inc. </td>
@@ -6531,7 +6533,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dsymonds">
 				<img src="https://avatars.githubusercontent.com/u/31506?s=72&v=4" width="24" alt="Avatar of dsymonds"> dsymonds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dsymonds">Copy rank badge</a><br/>
 			David Symonds
 		</td>
 		<td>Canva </td>
@@ -6544,7 +6546,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ginsudev">
 				<img src="https://avatars.githubusercontent.com/u/25361391?s=72&u=a079994841787813e25b2a188e8be2a989b75f9e&v=4" width="24" alt="Avatar of ginsudev"> ginsudev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ginsudev">Copy rank badge</a><br/>
 			Ginsu
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/secretGeek">
 				<img src="https://avatars.githubusercontent.com/u/2861690?s=72&u=fd4c048c1ea81e2213362779f1e690568f781629&v=4" width="24" alt="Avatar of secretGeek"> secretGeek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#secretGeek">Copy rank badge</a><br/>
 			Leon Bambrick
 		</td>
 		<td>Nimblething.net </td>
@@ -6570,7 +6572,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/devraj">
 				<img src="https://avatars.githubusercontent.com/u/5961?s=72&u=45274469dfa43027a85d9dc448d65e0f07fbcf4b&v=4" width="24" alt="Avatar of devraj"> devraj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#devraj">Copy rank badge</a><br/>
 			Dev Mukherjee
 		</td>
 		<td>@anomaly </td>
@@ -6583,7 +6585,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ydkhatri">
 				<img src="https://avatars.githubusercontent.com/u/13247440?s=72&v=4" width="24" alt="Avatar of ydkhatri"> ydkhatri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ydkhatri">Copy rank badge</a><br/>
 			Yogesh Khatri (@swiftforensics)
 		</td>
 		<td>Cybercx </td>
@@ -6596,7 +6598,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SerCeMan">
 				<img src="https://avatars.githubusercontent.com/u/1780970?s=72&u=3f878bde530798fd88e394679ce6b29ab9c9e26a&v=4" width="24" alt="Avatar of SerCeMan"> SerCeMan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SerCeMan">Copy rank badge</a><br/>
 			Sergey Tselovalnikov
 		</td>
 		<td>Canva </td>
@@ -6609,7 +6611,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/OJ">
 				<img src="https://avatars.githubusercontent.com/u/28896?s=72&u=d05827ec7c3935f8a00eb0f4dfa3b330b91f7071&v=4" width="24" alt="Avatar of OJ"> OJ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#OJ">Copy rank badge</a><br/>
 			OJ Reeves
 		</td>
 		<td>@crossfirecoding  </td>
@@ -6622,7 +6624,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jimjam-slam">
 				<img src="https://avatars.githubusercontent.com/u/6520659?s=72&u=51f04cbd18a393cb12a2f9236c6086f410fc01e7&v=4" width="24" alt="Avatar of jimjam-slam"> jimjam-slam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jimjam-slam">Copy rank badge</a><br/>
 			James Goldie
 		</td>
 		<td>Https://countercurre </td>
@@ -6635,7 +6637,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LesleyLai">
 				<img src="https://avatars.githubusercontent.com/u/8359374?s=72&u=5e88c83cc9f8d513b6913c8525a123333f04c1a6&v=4" width="24" alt="Avatar of LesleyLai"> LesleyLai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LesleyLai">Copy rank badge</a><br/>
 			Lesley Lai
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/philippbayer">
 				<img src="https://avatars.githubusercontent.com/u/413885?s=72&u=628514d8dcc43bfb1dce7b89b9dc1b3fbdfb6e31&v=4" width="24" alt="Avatar of philippbayer"> philippbayer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#philippbayer">Copy rank badge</a><br/>
 			Philipp Bayer
 		</td>
 		<td>University Of Western Australia<br/></td>
@@ -6661,7 +6663,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davidmoten">
 				<img src="https://avatars.githubusercontent.com/u/318187?s=72&u=baf23f16412ad44c031572eb51e52d5f3eeccd2b&v=4" width="24" alt="Avatar of davidmoten"> davidmoten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davidmoten">Copy rank badge</a><br/>
 			Dave Moten
 		</td>
 		<td>No Company</td>
@@ -6674,7 +6676,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nicknochnack">
 				<img src="https://avatars.githubusercontent.com/u/5948934?s=72&u=63c24c0b0d48a11a284602eb571e5adb7dd3c14e&v=4" width="24" alt="Avatar of nicknochnack"> nicknochnack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nicknochnack">Copy rank badge</a><br/>
 			Nicholas Renotte
 		</td>
 		<td>No Company</td>
@@ -6687,7 +6689,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/theKashey">
 				<img src="https://avatars.githubusercontent.com/u/582410?s=72&u=844b5d54a5a4bd10163866a01f221e7d8d53dff4&v=4" width="24" alt="Avatar of theKashey"> theKashey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#theKashey">Copy rank badge</a><br/>
 			Anton Korzunov
 		</td>
 		<td>@atlassian </td>
@@ -6700,7 +6702,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mcauser">
 				<img src="https://avatars.githubusercontent.com/u/1038959?s=72&u=071768559a5840d38cf316da52c2d8d5cf2ea000&v=4" width="24" alt="Avatar of mcauser"> mcauser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mcauser">Copy rank badge</a><br/>
 			Mike Causer
 		</td>
 		<td>@red-ant </td>
@@ -6713,7 +6715,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sync">
 				<img src="https://avatars.githubusercontent.com/u/21725?s=72&v=4" width="24" alt="Avatar of sync"> sync
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sync">Copy rank badge</a><br/>
 			Anthony Mittaz
 		</td>
 		<td>Dblechoc </td>
@@ -6726,7 +6728,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stuartwdouglas">
 				<img src="https://avatars.githubusercontent.com/u/328571?s=72&v=4" width="24" alt="Avatar of stuartwdouglas"> stuartwdouglas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stuartwdouglas">Copy rank badge</a><br/>
 			Stuart Douglas
 		</td>
 		<td>Block </td>
@@ -6739,7 +6741,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dmcke5">
 				<img src="https://avatars.githubusercontent.com/u/76074061?s=72&u=ee10ce8d1f172267c4474d17178e4c7a7bfa4657&v=4" width="24" alt="Avatar of dmcke5"> dmcke5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dmcke5">Copy rank badge</a><br/>
 			Daniel
 		</td>
 		<td>No Company</td>
@@ -6752,7 +6754,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Avangelista">
 				<img src="https://avatars.githubusercontent.com/u/41681154?s=72&u=bd4057ff42944f8e0f8d509336c31d92930f0db4&v=4" width="24" alt="Avatar of Avangelista"> Avangelista
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Avangelista">Copy rank badge</a><br/>
 			Rory
 		</td>
 		<td>No Company</td>
@@ -6765,7 +6767,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nickvsnetworking">
 				<img src="https://avatars.githubusercontent.com/u/26107392?s=72&v=4" width="24" alt="Avatar of nickvsnetworking"> nickvsnetworking
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nickvsnetworking">Copy rank badge</a><br/>
 			Nick
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stevage">
 				<img src="https://avatars.githubusercontent.com/u/678344?s=72&u=5580a4280c64e8e66d3bd8bbfac1f15e20cb91dd&v=4" width="24" alt="Avatar of stevage"> stevage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stevage">Copy rank badge</a><br/>
 			Steve Bennett
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jroper">
 				<img src="https://avatars.githubusercontent.com/u/105833?s=72&u=a3df1286efbeee47c7b9392dde6a650770b8c905&v=4" width="24" alt="Avatar of jroper"> jroper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jroper">Copy rank badge</a><br/>
 			James Roper
 		</td>
 		<td>@lightbend </td>
@@ -6804,7 +6806,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Booligoosh">
 				<img src="https://avatars.githubusercontent.com/u/14034891?s=72&u=cdb85683142b0b209ab0d5699f9411c67b3095d7&v=4" width="24" alt="Avatar of Booligoosh"> Booligoosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Booligoosh">Copy rank badge</a><br/>
 			Ethan
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/simonswiss">
 				<img src="https://avatars.githubusercontent.com/u/485747?s=72&u=7f384fbb572a8fe7d68561941acd53328becd78b&v=4" width="24" alt="Avatar of simonswiss"> simonswiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#simonswiss">Copy rank badge</a><br/>
 			Simon Vrachliotis
 		</td>
 		<td>No Company</td>
@@ -6830,7 +6832,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jossmac">
 				<img src="https://avatars.githubusercontent.com/u/2730833?s=72&u=4edd4746c56400c8c0206749820ec9309ca18448&v=4" width="24" alt="Avatar of jossmac"> jossmac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jossmac">Copy rank badge</a><br/>
 			Joss Mackison
 		</td>
 		<td>No Company</td>
@@ -6843,7 +6845,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aidansteele">
 				<img src="https://avatars.githubusercontent.com/u/369053?s=72&v=4" width="24" alt="Avatar of aidansteele"> aidansteele
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aidansteele">Copy rank badge</a><br/>
 			Aidan Steele
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/plasticine">
 				<img src="https://avatars.githubusercontent.com/u/18076?s=72&u=66d9e080afd45919a4b0cdee1da17799ac5f2ea2&v=4" width="24" alt="Avatar of plasticine"> plasticine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#plasticine">Copy rank badge</a><br/>
 			Justin Morris
 		</td>
 		<td>@extraordinarymoney </td>
@@ -6869,7 +6871,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dcousens">
 				<img src="https://avatars.githubusercontent.com/u/413395?s=72&u=034ef1433a0704d9c91b57b993009b0383d6b7c0&v=4" width="24" alt="Avatar of dcousens"> dcousens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dcousens">Copy rank badge</a><br/>
 			Daniel Cousens
 		</td>
 		<td>Thinkmill </td>
@@ -6882,7 +6884,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/danieldelcore">
 				<img src="https://avatars.githubusercontent.com/u/3030010?s=72&u=fe72eb9fd1e59e4daf72bee43a0f22810d6dfd08&v=4" width="24" alt="Avatar of danieldelcore"> danieldelcore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#danieldelcore">Copy rank badge</a><br/>
 			Daniel Del Core
 		</td>
 		<td>@atlassian </td>
@@ -6895,7 +6897,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abolkog">
 				<img src="https://avatars.githubusercontent.com/u/3861725?s=72&u=82cffe76f5e38c046dac76319e017a372d6cae4d&v=4" width="24" alt="Avatar of abolkog"> abolkog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abolkog">Copy rank badge</a><br/>
 			Khalid Elshafie
 		</td>
 		<td>@nyaladev  </td>
@@ -6908,7 +6910,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aussiearef">
 				<img src="https://avatars.githubusercontent.com/u/9376717?s=72&u=1c55476b8d608ee533c225278cfa332a6226353c&v=4" width="24" alt="Avatar of aussiearef"> aussiearef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aussiearef">Copy rank badge</a><br/>
 			Aref Karimi
 		</td>
 		<td>No Company</td>
@@ -6921,7 +6923,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MattCowgill">
 				<img src="https://avatars.githubusercontent.com/u/8002951?s=72&u=069f6832fd9e93fe7f42630078eb219832e54c81&v=4" width="24" alt="Avatar of MattCowgill"> MattCowgill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MattCowgill">Copy rank badge</a><br/>
 			Matt Cowgill
 		</td>
 		<td>No Company</td>
@@ -6934,7 +6936,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tonymorris">
 				<img src="https://avatars.githubusercontent.com/u/210558?s=72&u=f13c0c19cfde8b4cdb9ac5ebc2cd4e86ef95f2aa&v=4" width="24" alt="Avatar of tonymorris"> tonymorris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tonymorris">Copy rank badge</a><br/>
 			Tony Morris
 		</td>
 		<td>No Company</td>
@@ -6947,7 +6949,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dae">
 				<img src="https://avatars.githubusercontent.com/u/180542?s=72&u=5ac38a5a13589a3af9ca6a22b54ce8d189b014ef&v=4" width="24" alt="Avatar of dae"> dae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dae">Copy rank badge</a><br/>
 			Damien Elmes
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bartjellema">
 				<img src="https://avatars.githubusercontent.com/u/993603?s=72&u=6efecac5a8cf479012b5f73e1b0aa70087dfd296&v=4" width="24" alt="Avatar of bartjellema"> bartjellema
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bartjellema">Copy rank badge</a><br/>
 			Bart Jellema
 		</td>
 		<td>No Company</td>
@@ -6973,7 +6975,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/neekey">
 				<img src="https://avatars.githubusercontent.com/u/499870?s=72&u=be785f9d2d6a83d2078098ffe5225353fc6241e9&v=4" width="24" alt="Avatar of neekey"> neekey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#neekey">Copy rank badge</a><br/>
 			Neekey
 		</td>
 		<td>Narratiive </td>
@@ -6986,7 +6988,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/davkean">
 				<img src="https://avatars.githubusercontent.com/u/1103906?s=72&u=1035a491467736d552a6e504d109e93f768bef41&v=4" width="24" alt="Avatar of davkean"> davkean
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#davkean">Copy rank badge</a><br/>
 			David Kean
 		</td>
 		<td>@microsoft </td>
@@ -6999,7 +7001,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/arttnba3">
 				<img src="https://avatars.githubusercontent.com/u/28689148?s=72&u=844e2daffcdc3a5ad3ff3eef6f6c3bd473b560e9&v=4" width="24" alt="Avatar of arttnba3"> arttnba3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#arttnba3">Copy rank badge</a><br/>
 			arttnba3
 		</td>
 		<td>@xdsec, @ctf-wiki, @a3infra </td>
@@ -7012,7 +7014,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Donchitos">
 				<img src="https://avatars.githubusercontent.com/u/150119193?s=72&v=4" width="24" alt="Avatar of Donchitos"> Donchitos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Donchitos">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7025,7 +7027,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/huonw">
 				<img src="https://avatars.githubusercontent.com/u/1203825?s=72&u=5e9be09a72b0fe0289c65d7e2b94f45e2d2a63e8&v=4" width="24" alt="Avatar of huonw"> huonw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#huonw">Copy rank badge</a><br/>
 			Huon Wilson
 		</td>
 		<td>@clipboard-app </td>
@@ -7038,7 +7040,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cht8687">
 				<img src="https://avatars.githubusercontent.com/u/4587603?s=72&u=82cbb1fb963e547ae1fa5855810da6ecd87a6491&v=4" width="24" alt="Avatar of cht8687"> cht8687
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cht8687">Copy rank badge</a><br/>
 			Robert Chang
 		</td>
 		<td>Self-employed </td>
@@ -7051,7 +7053,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/chengzhag">
 				<img src="https://avatars.githubusercontent.com/u/9084912?s=72&u=92abd4f1843b893a374530adf9bcafb690dde73e&v=4" width="24" alt="Avatar of chengzhag"> chengzhag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#chengzhag">Copy rank badge</a><br/>
 			Cheng Zhang
 		</td>
 		<td>Monash University </td>
@@ -7064,7 +7066,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thaytan">
 				<img src="https://avatars.githubusercontent.com/u/74973?s=72&u=c1d19f628cc2ff534513c50ca8223a9c4170b6f4&v=4" width="24" alt="Avatar of thaytan"> thaytan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thaytan">Copy rank badge</a><br/>
 			Jan Schmidt
 		</td>
 		<td>Centricular Ltd </td>
@@ -7077,7 +7079,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abcminiuser">
 				<img src="https://avatars.githubusercontent.com/u/141648?s=72&u=5a3b9437c1b978555b11a17ce4a502c271ec4958&v=4" width="24" alt="Avatar of abcminiuser"> abcminiuser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abcminiuser">Copy rank badge</a><br/>
 			Dean Camera
 		</td>
 		<td>No Company</td>
@@ -7090,7 +7092,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DamienIrving">
 				<img src="https://avatars.githubusercontent.com/u/2062210?s=72&u=1255edb7964acb456fe4c16661c374308418b520&v=4" width="24" alt="Avatar of DamienIrving"> DamienIrving
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DamienIrving">Copy rank badge</a><br/>
 			Damien Irving
 		</td>
 		<td>Csiro </td>
@@ -7103,7 +7105,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hunto">
 				<img src="https://avatars.githubusercontent.com/u/23501718?s=72&u=fb0cc82376ba11f360dd27805b0d64aa8a73ed40&v=4" width="24" alt="Avatar of hunto"> hunto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hunto">Copy rank badge</a><br/>
 			Tao Huang
 		</td>
 		<td>The University Of Sydney<br/></td>
@@ -7116,7 +7118,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/md-5">
 				<img src="https://avatars.githubusercontent.com/u/1007849?s=72&v=4" width="24" alt="Avatar of md-5"> md-5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#md-5">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@spigotmc </td>
@@ -7129,7 +7131,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tmeasday">
 				<img src="https://avatars.githubusercontent.com/u/132554?s=72&u=403e2ba7886d295aef290df6a3a3e9735f3743ce&v=4" width="24" alt="Avatar of tmeasday"> tmeasday
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tmeasday">Copy rank badge</a><br/>
 			Tom Coleman
 		</td>
 		<td>@chromaui  </td>
@@ -7142,7 +7144,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adevnadia">
 				<img src="https://avatars.githubusercontent.com/u/6586830?s=72&u=6c03f4a6cf5acad5e6a564297219356ebfb8c52d&v=4" width="24" alt="Avatar of adevnadia"> adevnadia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adevnadia">Copy rank badge</a><br/>
 			Nadia Makarevich
 		</td>
 		<td>No Company</td>
@@ -7155,7 +7157,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tomdalling">
 				<img src="https://avatars.githubusercontent.com/u/219664?s=72&v=4" width="24" alt="Avatar of tomdalling"> tomdalling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tomdalling">Copy rank badge</a><br/>
 			Tom Dalling
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Ifera">
 				<img src="https://avatars.githubusercontent.com/u/32965703?s=72&u=cedb3d0d0a0f07554cdd207a3c74253b9028f61e&v=4" width="24" alt="Avatar of Ifera"> Ifera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Ifera">Copy rank badge</a><br/>
 			Tayyab R.
 		</td>
 		<td>No Company</td>
@@ -7181,7 +7183,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AngusJohnson">
 				<img src="https://avatars.githubusercontent.com/u/5280692?s=72&u=ce1676643e375c2ded80339de0fdae26158bdcd2&v=4" width="24" alt="Avatar of AngusJohnson"> AngusJohnson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AngusJohnson">Copy rank badge</a><br/>
 			Angus Johnson
 		</td>
 		<td>No Company</td>
@@ -7194,7 +7196,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/d3ndr1t30x">
 				<img src="https://avatars.githubusercontent.com/u/117501042?s=72&u=fbd19d5cc71ee2da86de48e41ff5625cc77930b6&v=4" width="24" alt="Avatar of d3ndr1t30x"> d3ndr1t30x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#d3ndr1t30x">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timchurches">
 				<img src="https://avatars.githubusercontent.com/u/2859105?s=72&u=8d9708b225946f1e3f7e4ac65923604cff9e8f3f&v=4" width="24" alt="Avatar of timchurches"> timchurches
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timchurches">Copy rank badge</a><br/>
 			Tim Churches
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/KelvinJin">
 				<img src="https://avatars.githubusercontent.com/u/2549987?s=72&v=4" width="24" alt="Avatar of KelvinJin"> KelvinJin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#KelvinJin">Copy rank badge</a><br/>
 			Jin Wang
 		</td>
 		<td>Uthoft </td>
@@ -7233,7 +7235,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nshalabi">
 				<img src="https://avatars.githubusercontent.com/u/8732745?s=72&u=624ff4099ff6ec0b097624391d821514b00d61a2&v=4" width="24" alt="Avatar of nshalabi"> nshalabi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nshalabi">Copy rank badge</a><br/>
 			Nader Shallabi
 		</td>
 		<td>Applying Code </td>
@@ -7246,7 +7248,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jokeyrhyme">
 				<img src="https://avatars.githubusercontent.com/u/479816?s=72&u=0d086d0b1c5bc0e8e82f5c30a87f9b4ffbbb4693&v=4" width="24" alt="Avatar of jokeyrhyme"> jokeyrhyme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jokeyrhyme">Copy rank badge</a><br/>
 			Ron Waldon-Howe
 		</td>
 		<td>No Company</td>
@@ -7259,7 +7261,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jarshwah">
 				<img src="https://avatars.githubusercontent.com/u/541083?s=72&u=658ff54b0a13e6e441908c3369742f52f59af286&v=4" width="24" alt="Avatar of jarshwah"> jarshwah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jarshwah">Copy rank badge</a><br/>
 			Josh Smeaton
 		</td>
 		<td>@octoenergy  </td>
@@ -7272,7 +7274,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/buymeasoda">
 				<img src="https://avatars.githubusercontent.com/u/44082?s=72&u=17af7762bfef84ad1972340c54f71e3830d31d01&v=4" width="24" alt="Avatar of buymeasoda"> buymeasoda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#buymeasoda">Copy rank badge</a><br/>
 			Ian Hill
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/neilfws">
 				<img src="https://avatars.githubusercontent.com/u/45497?s=72&v=4" width="24" alt="Avatar of neilfws"> neilfws
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#neilfws">Copy rank badge</a><br/>
 			Neil Saunders
 		</td>
 		<td>No Company</td>
@@ -7298,7 +7300,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/1hakr">
 				<img src="https://avatars.githubusercontent.com/u/614675?s=72&u=cb2854f90c36b75150d2a0b4be107b9dbe86620f&v=4" width="24" alt="Avatar of 1hakr"> 1hakr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#1hakr">Copy rank badge</a><br/>
 			Hari
 		</td>
 		<td>@dworks  </td>
@@ -7311,7 +7313,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lunacookies">
 				<img src="https://avatars.githubusercontent.com/u/31783266?s=72&u=e679bef44479763365f1011ec9bea188815bb759&v=4" width="24" alt="Avatar of lunacookies"> lunacookies
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lunacookies">Copy rank badge</a><br/>
 			Luna Razzaghipour
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/trozware">
 				<img src="https://avatars.githubusercontent.com/u/5117298?s=72&u=550645492480fd646a5f81378786ae21c3b364c5&v=4" width="24" alt="Avatar of trozware"> trozware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#trozware">Copy rank badge</a><br/>
 			Sarah Reichelt
 		</td>
 		<td>Trozware </td>
@@ -7337,7 +7339,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/fraserxu">
 				<img src="https://avatars.githubusercontent.com/u/1183541?s=72&v=4" width="24" alt="Avatar of fraserxu"> fraserxu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#fraserxu">Copy rank badge</a><br/>
 			Fraser Xu
 		</td>
 		<td>Envato </td>
@@ -7350,7 +7352,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/GenevieveBuckley">
 				<img src="https://avatars.githubusercontent.com/u/30920819?s=72&u=379384c75ec7d253bb0e9311122e0b5b4f82d305&v=4" width="24" alt="Avatar of GenevieveBuckley"> GenevieveBuckley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#GenevieveBuckley">Copy rank badge</a><br/>
 			Genevieve Buckley
 		</td>
 		<td>Monash University </td>
@@ -7363,7 +7365,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/haskellcamargo">
 				<img src="https://avatars.githubusercontent.com/u/7553006?s=72&u=aac63dcb5cb7391bea184aab57af8cf3731f6069&v=4" width="24" alt="Avatar of haskellcamargo"> haskellcamargo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#haskellcamargo">Copy rank badge</a><br/>
 			Marcelo Camargo
 		</td>
 		<td>@canva </td>
@@ -7376,7 +7378,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/amaarora">
 				<img src="https://avatars.githubusercontent.com/u/41290559?s=72&u=1233b652f96c0e61d7201679187efd83cc4a351c&v=4" width="24" alt="Avatar of amaarora"> amaarora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#amaarora">Copy rank badge</a><br/>
 			Aman Arora
 		</td>
 		<td>Relevanceai </td>
@@ -7389,7 +7391,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adg">
 				<img src="https://avatars.githubusercontent.com/u/8446613?s=72&u=be3a5cbe67c8270c30844bff3bd0531a609770cb&v=4" width="24" alt="Avatar of adg"> adg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adg">Copy rank badge</a><br/>
 			Andrew Gerrand
 		</td>
 		<td>Google Inc. </td>
@@ -7402,7 +7404,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/haileys">
 				<img src="https://avatars.githubusercontent.com/u/179065?s=72&u=2d7e389abe6d082d1fea6f0bb74e8a978042d352&v=4" width="24" alt="Avatar of haileys"> haileys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#haileys">Copy rank badge</a><br/>
 			Hailey Somerville
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MBJamshidi">
 				<img src="https://avatars.githubusercontent.com/u/65065305?s=72&v=4" width="24" alt="Avatar of MBJamshidi"> MBJamshidi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MBJamshidi">Copy rank badge</a><br/>
 			Behdad Jamshidi
 		</td>
 		<td>Murdoch University </td>
@@ -7428,7 +7430,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/robbievanleeuwen">
 				<img src="https://avatars.githubusercontent.com/u/18841910?s=72&v=4" width="24" alt="Avatar of robbievanleeuwen"> robbievanleeuwen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#robbievanleeuwen">Copy rank badge</a><br/>
 			Robbie van Leeuwen
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/0arm">
 				<img src="https://avatars.githubusercontent.com/u/29310830?s=72&u=a32b81b413b8314485383dc4752f949b08b41210&v=4" width="24" alt="Avatar of 0arm"> 0arm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#0arm">Copy rank badge</a><br/>
 			0arm
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hugomd">
 				<img src="https://avatars.githubusercontent.com/u/1646536?s=72&u=b9b922ee51740cc538f9eec2bd711d8b6403b99d&v=4" width="24" alt="Avatar of hugomd"> hugomd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hugomd">Copy rank badge</a><br/>
 			Hugo
 		</td>
 		<td>@cashapp @block @square </td>
@@ -7467,7 +7469,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DungLai">
 				<img src="https://avatars.githubusercontent.com/u/27338301?s=72&u=c2e5f83c5fb1e5d8a058a37986f691e89a7f4a99&v=4" width="24" alt="Avatar of DungLai"> DungLai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DungLai">Copy rank badge</a><br/>
 			Tuan Dung Lai
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/radekosmulski">
 				<img src="https://avatars.githubusercontent.com/u/2444926?s=72&v=4" width="24" alt="Avatar of radekosmulski"> radekosmulski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#radekosmulski">Copy rank badge</a><br/>
 			Radek Osmulski
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/troyhunt">
 				<img src="https://avatars.githubusercontent.com/u/273244?s=72&u=e2039bfd9eae43283d156f59e627d335df293bd8&v=4" width="24" alt="Avatar of troyhunt"> troyhunt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#troyhunt">Copy rank badge</a><br/>
 			Troy Hunt
 		</td>
 		<td>Troyhunt.com </td>
@@ -7506,7 +7508,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/BeauNouvelle">
 				<img src="https://avatars.githubusercontent.com/u/13442331?s=72&u=03c51c1b792c067fe832eccbbb8ae951a8603187&v=4" width="24" alt="Avatar of BeauNouvelle"> BeauNouvelle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#BeauNouvelle">Copy rank badge</a><br/>
 			Beau Nouvelle
 		</td>
 		<td>Ios Development Consultant </td>
@@ -7519,7 +7521,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hridayarajbanshi">
 				<img src="https://avatars.githubusercontent.com/u/35860420?s=72&u=5ec992c1ad96b7e92e4064ded9c1cbb192e16c94&v=4" width="24" alt="Avatar of hridayarajbanshi"> hridayarajbanshi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hridayarajbanshi">Copy rank badge</a><br/>
 			Hridaya Rajbanshi
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/KathyReid">
 				<img src="https://avatars.githubusercontent.com/u/114158?s=72&v=4" width="24" alt="Avatar of KathyReid"> KathyReid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#KathyReid">Copy rank badge</a><br/>
 			Kathy Reid
 		</td>
 		<td>@anucybernetics </td>
@@ -7545,7 +7547,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Sibras">
 				<img src="https://avatars.githubusercontent.com/u/5628451?s=72&v=4" width="24" alt="Avatar of Sibras"> Sibras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Sibras">Copy rank badge</a><br/>
 			Matthew Oliver
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/BronsonQuick">
 				<img src="https://avatars.githubusercontent.com/u/1377956?s=72&u=99401b9a94893a7458f491da41177e40f484b35e&v=4" width="24" alt="Avatar of BronsonQuick"> BronsonQuick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#BronsonQuick">Copy rank badge</a><br/>
 			Bronson Quick
 		</td>
 		<td>No Company</td>
@@ -7571,7 +7573,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/drnic">
 				<img src="https://avatars.githubusercontent.com/u/108?s=72&u=2cbfc0fbb4f9ff7a485ee1930ce1ff6872120d47&v=4" width="24" alt="Avatar of drnic"> drnic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#drnic">Copy rank badge</a><br/>
 			Dr Nic Williams
 		</td>
 		<td>@mocra  </td>
@@ -7584,7 +7586,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lanjelot">
 				<img src="https://avatars.githubusercontent.com/u/214154?s=72&v=4" width="24" alt="Avatar of lanjelot"> lanjelot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lanjelot">Copy rank badge</a><br/>
 			lanjelot
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/donnaskiez">
 				<img src="https://avatars.githubusercontent.com/u/54422048?s=72&u=4c5dbe8dd5e645f2b625e6ca4034f6da9feef0d1&v=4" width="24" alt="Avatar of donnaskiez"> donnaskiez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#donnaskiez">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adamlyttleapps">
 				<img src="https://avatars.githubusercontent.com/u/40189502?s=72&u=48b980d5412cec70ae6b77a78bedcecd67434967&v=4" width="24" alt="Avatar of adamlyttleapps"> adamlyttleapps
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adamlyttleapps">Copy rank badge</a><br/>
 			Adam Lyttle
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ryanheise">
 				<img src="https://avatars.githubusercontent.com/u/19899190?s=72&u=5fa89db9d03e77a0f1d69f3b75c9e985b090d657&v=4" width="24" alt="Avatar of ryanheise"> ryanheise
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ryanheise">Copy rank badge</a><br/>
 			Ryan Heise
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/apkelly">
 				<img src="https://avatars.githubusercontent.com/u/2559953?s=72&u=bc43616516a1db58b0f039e22dab4da43bfa18fa&v=4" width="24" alt="Avatar of apkelly"> apkelly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#apkelly">Copy rank badge</a><br/>
 			Andrew Kelly
 		</td>
 		<td>@mx51  </td>
@@ -7649,7 +7651,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tvytlx">
 				<img src="https://avatars.githubusercontent.com/u/7189225?s=72&u=44f820777f9dca84da2f6c043c46378fc781d9ca&v=4" width="24" alt="Avatar of tvytlx"> tvytlx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tvytlx">Copy rank badge</a><br/>
 			Xiao Tan
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/infosec-au">
 				<img src="https://avatars.githubusercontent.com/u/5241936?s=72&u=4072de3cabb736814bbeec8bbe9a01eb7e841c30&v=4" width="24" alt="Avatar of infosec-au"> infosec-au
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#infosec-au">Copy rank badge</a><br/>
 			Shubs
 		</td>
 		<td>Assetnote </td>
@@ -7675,7 +7677,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timgates42">
 				<img src="https://avatars.githubusercontent.com/u/47873678?s=72&u=74b8c51087fd8ff432ba53d76ac9b2b6d2d1d8b0&v=4" width="24" alt="Avatar of timgates42"> timgates42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timgates42">Copy rank badge</a><br/>
 			Tim Gates
 		</td>
 		<td>Iress </td>
@@ -7688,7 +7690,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ethicalhackingplayground">
 				<img src="https://avatars.githubusercontent.com/u/33673319?s=72&u=33d0fd23d355b499b1c6e0ea6a984b679b6be694&v=4" width="24" alt="Avatar of ethicalhackingplayground"> ethicalhackingplayground
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ethicalhackingplayground">Copy rank badge</a><br/>
 			zoidsec
 		</td>
 		<td>@misfitsdevelopment  </td>
@@ -7701,7 +7703,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tonyarnold">
 				<img src="https://avatars.githubusercontent.com/u/4802?s=72&u=e483bc80b296043c0836a6e68a7e69c38ba5d080&v=4" width="24" alt="Avatar of tonyarnold"> tonyarnold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tonyarnold">Copy rank badge</a><br/>
 			Tony Arnold
 		</td>
 		<td>@mantel-lab & @thecocoabots <br/></td>
@@ -7714,7 +7716,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LucasGarcez">
 				<img src="https://avatars.githubusercontent.com/u/12939735?s=72&u=6e82efcb8a33cb92a39a9103225f329a715e6f1d&v=4" width="24" alt="Avatar of LucasGarcez"> LucasGarcez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LucasGarcez">Copy rank badge</a><br/>
 			Lucas Garcez
 		</td>
 		<td>@coffstack  </td>
@@ -7727,7 +7729,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JackMcKew">
 				<img src="https://avatars.githubusercontent.com/u/19178331?s=72&u=4d88af033d6dd6f51b0b6a2441a8a618e01d79b1&v=4" width="24" alt="Avatar of JackMcKew"> JackMcKew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JackMcKew">Copy rank badge</a><br/>
 			Jack McKew
 		</td>
 		<td>Cyberlytica, Deckee, Galah Cyber<br/></td>
@@ -7740,7 +7742,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rohitash-chandra">
 				<img src="https://avatars.githubusercontent.com/u/8530586?s=72&u=c4d4659106b52a24f7219965169892dc31342d8d&v=4" width="24" alt="Avatar of rohitash-chandra"> rohitash-chandra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rohitash-chandra">Copy rank badge</a><br/>
 			Rohitash Chandra
 		</td>
 		<td>Unsw Sydney </td>
@@ -7753,7 +7755,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/markhibberd">
 				<img src="https://avatars.githubusercontent.com/u/22832?s=72&u=c2a90188c1724ca05a1516d40b6bcac141f3f6e0&v=4" width="24" alt="Avatar of markhibberd"> markhibberd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#markhibberd">Copy rank badge</a><br/>
 			markhibberd
 		</td>
 		<td>No Company</td>
@@ -7766,7 +7768,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jcouyang">
 				<img src="https://avatars.githubusercontent.com/u/1235045?s=72&v=4" width="24" alt="Avatar of jcouyang"> jcouyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jcouyang">Copy rank badge</a><br/>
 			Jichao Ouyang
 		</td>
 		<td>@myob-technology <=< @thoughtworks </td>
@@ -7779,7 +7781,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/valorin">
 				<img src="https://avatars.githubusercontent.com/u/897369?s=72&v=4" width="24" alt="Avatar of valorin"> valorin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#valorin">Copy rank badge</a><br/>
 			Stephen Rees-Carter
 		</td>
 		<td>Valorin Security </td>
@@ -7792,7 +7794,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/taybenlor">
 				<img src="https://avatars.githubusercontent.com/u/137128?s=72&u=caa5147e611121ffc1275e5d2c0f339acaaf885c&v=4" width="24" alt="Avatar of taybenlor"> taybenlor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#taybenlor">Copy rank badge</a><br/>
 			Ben Taylor
 		</td>
 		<td>Stile Education </td>
@@ -7805,7 +7807,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mikel">
 				<img src="https://avatars.githubusercontent.com/u/3366?s=72&u=189a9c74d7722cc436e0bc0c9bb8243dd33f6f15&v=4" width="24" alt="Avatar of mikel"> mikel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mikel">Copy rank badge</a><br/>
 			Mikel Lindsaar
 		</td>
 		<td>Storeconnect, Metapulse, Reinteractive </td>
@@ -7818,7 +7820,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JaciBrunning">
 				<img src="https://avatars.githubusercontent.com/u/10258152?s=72&u=063cdfb1e0c2582e8192dbfc87e8e779814a4c53&v=4" width="24" alt="Avatar of JaciBrunning"> JaciBrunning
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JaciBrunning">Copy rank badge</a><br/>
 			Jaci Brunning
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DrMeers">
 				<img src="https://avatars.githubusercontent.com/u/48157?s=72&v=4" width="24" alt="Avatar of DrMeers"> DrMeers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DrMeers">Copy rank badge</a><br/>
 			Simon Meers
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joho">
 				<img src="https://avatars.githubusercontent.com/u/4092?s=72&u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4" width="24" alt="Avatar of joho"> joho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joho">Copy rank badge</a><br/>
 			John Barton
 		</td>
 		<td>@amberelectric </td>
@@ -7857,7 +7859,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stennie">
 				<img src="https://avatars.githubusercontent.com/u/15554?s=72&u=3d761bf67792c4916965f687196022dfc1b1b83e&v=4" width="24" alt="Avatar of stennie"> stennie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stennie">Copy rank badge</a><br/>
 			Stennie Steneker
 		</td>
 		<td>Stealth Startup </td>
@@ -7870,7 +7872,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yaakov-h">
 				<img src="https://avatars.githubusercontent.com/u/426009?s=72&v=4" width="24" alt="Avatar of yaakov-h"> yaakov-h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yaakov-h">Copy rank badge</a><br/>
 			Yaakov
 		</td>
 		<td>No Company</td>
@@ -7883,7 +7885,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/codingo">
 				<img src="https://avatars.githubusercontent.com/u/886344?s=72&u=02eb14a4159bbd45e793f69b0f46565ec52c8bd6&v=4" width="24" alt="Avatar of codingo"> codingo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#codingo">Copy rank badge</a><br/>
 			Michael Skelton
 		</td>
 		<td>@bugcrowd  </td>
@@ -7896,7 +7898,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mrvautin">
 				<img src="https://avatars.githubusercontent.com/u/299398?s=72&u=e8b4f2dda22004ad2071c6f9a90b88ce9c8f1acd&v=4" width="24" alt="Avatar of mrvautin"> mrvautin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mrvautin">Copy rank badge</a><br/>
 			Mark Moffat
 		</td>
 		<td>No Company</td>
@@ -7909,7 +7911,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/emilytrau">
 				<img src="https://avatars.githubusercontent.com/u/13267947?s=72&u=9242427f15850ecf02dc9b3d64646ff2d68ebb57&v=4" width="24" alt="Avatar of emilytrau"> emilytrau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#emilytrau">Copy rank badge</a><br/>
 			Emily Trau
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nullobject">
 				<img src="https://avatars.githubusercontent.com/u/3614?s=72&u=da2e1e74ec10488f22a6837471816301d10ff813&v=4" width="24" alt="Avatar of nullobject"> nullobject
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nullobject">Copy rank badge</a><br/>
 			Joshua Bassett
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/josephsurin">
 				<img src="https://avatars.githubusercontent.com/u/14977484?s=72&u=e4ec03c6fa1edf7803230edc78678fdbd5ca4043&v=4" width="24" alt="Avatar of josephsurin"> josephsurin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#josephsurin">Copy rank badge</a><br/>
 			joseph
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rogerclarkmelbourne">
 				<img src="https://avatars.githubusercontent.com/u/6146984?s=72&v=4" width="24" alt="Avatar of rogerclarkmelbourne"> rogerclarkmelbourne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rogerclarkmelbourne">Copy rank badge</a><br/>
 			Roger Clark
 		</td>
 		<td>Roger Clark </td>
@@ -7961,7 +7963,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adrianherrera">
 				<img src="https://avatars.githubusercontent.com/u/8626578?s=72&u=a8ad455f275becad734bf8e2680c4119c96b3c1f&v=4" width="24" alt="Avatar of adrianherrera"> adrianherrera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adrianherrera">Copy rank badge</a><br/>
 			Adrian Herrera
 		</td>
 		<td>No Company</td>
@@ -7974,7 +7976,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/danpalmer">
 				<img src="https://avatars.githubusercontent.com/u/202400?s=72&u=e7a97b575e8caf28577faca300162ca15104ba20&v=4" width="24" alt="Avatar of danpalmer"> danpalmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#danpalmer">Copy rank badge</a><br/>
 			Dan Palmer
 		</td>
 		<td>@google </td>
@@ -7987,7 +7989,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/defi-vandelay">
 				<img src="https://avatars.githubusercontent.com/u/173619575?s=72&u=7d798d542c26e6b6b61d5359877d57dade551f9d&v=4" width="24" alt="Avatar of defi-vandelay"> defi-vandelay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#defi-vandelay">Copy rank badge</a><br/>
 			DeFi Vandelay
 		</td>
 		<td>@vix-labs  </td>
@@ -8000,7 +8002,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nicbarker">
 				<img src="https://avatars.githubusercontent.com/u/2264338?s=72&u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4" width="24" alt="Avatar of nicbarker"> nicbarker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nicbarker">Copy rank badge</a><br/>
 			Nic Barker
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MilesMcBain">
 				<img src="https://avatars.githubusercontent.com/u/9996346?s=72&v=4" width="24" alt="Avatar of MilesMcBain"> MilesMcBain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MilesMcBain">Copy rank badge</a><br/>
 			Miles McBain
 		</td>
 		<td>No Company</td>
@@ -8026,7 +8028,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/0x25bit">
 				<img src="https://avatars.githubusercontent.com/u/36723956?s=72&u=312f67deb2e9075ab15830672b3bdc82c305ed43&v=4" width="24" alt="Avatar of 0x25bit"> 0x25bit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#0x25bit">Copy rank badge</a><br/>
 			Aekr1_         //akrasia
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/yamadapc">
 				<img src="https://avatars.githubusercontent.com/u/3923654?s=72&u=20cf765d2362f4ddf0bcd32f71233b595929f4da&v=4" width="24" alt="Avatar of yamadapc"> yamadapc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#yamadapc">Copy rank badge</a><br/>
 			Pedro Tacla Yamada
 		</td>
 		<td>Procreate - Prev Atlassian<br/></td>
@@ -8052,7 +8054,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/h4m5t">
 				<img src="https://avatars.githubusercontent.com/u/70065998?s=72&u=867cca82cc18f6ba872db73747a55f382d743b75&v=4" width="24" alt="Avatar of h4m5t"> h4m5t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#h4m5t">Copy rank badge</a><br/>
 			h4m5t
 		</td>
 		<td>@neuromaster-token </td>
@@ -8065,7 +8067,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DanielOaks">
 				<img src="https://avatars.githubusercontent.com/u/251281?s=72&u=598eccca072fb8bc1ab2dc2a51414cae555ac2af&v=4" width="24" alt="Avatar of DanielOaks"> DanielOaks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DanielOaks">Copy rank badge</a><br/>
 			Daniel Oaks
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mrmckeb">
 				<img src="https://avatars.githubusercontent.com/u/5043083?s=72&u=ec584c5db0560973cf564f09520dc631c01e5e10&v=4" width="24" alt="Avatar of mrmckeb"> mrmckeb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mrmckeb">Copy rank badge</a><br/>
 			Brody McKee
 		</td>
 		<td>Vercel </td>
@@ -8091,7 +8093,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kyleneideck">
 				<img src="https://avatars.githubusercontent.com/u/2290968?s=72&u=3190a10fac7a30478367fb367d64ddfb19361e18&v=4" width="24" alt="Avatar of kyleneideck"> kyleneideck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kyleneideck">Copy rank badge</a><br/>
 			Kyle Neideck
 		</td>
 		<td>No Company</td>
@@ -8104,7 +8106,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/prologic">
 				<img src="https://avatars.githubusercontent.com/u/1290234?s=72&v=4" width="24" alt="Avatar of prologic"> prologic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#prologic">Copy rank badge</a><br/>
 			James Mills
 		</td>
 		<td>@anzx </td>
@@ -8117,7 +8119,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stowball">
 				<img src="https://avatars.githubusercontent.com/u/853552?s=72&u=ddf76343d9dac2621bd42f5ad063f85cb0d3490b&v=4" width="24" alt="Avatar of stowball"> stowball
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stowball">Copy rank badge</a><br/>
 			Matt Stow
 		</td>
 		<td>Thinkmill </td>
@@ -8130,7 +8132,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TomasBeuzen">
 				<img src="https://avatars.githubusercontent.com/u/40379073?s=72&u=c7e5f0fbd4a02ccd81f9cd06fd03346da91051b7&v=4" width="24" alt="Avatar of TomasBeuzen"> TomasBeuzen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TomasBeuzen">Copy rank badge</a><br/>
 			Tomas Beuzen
 		</td>
 		<td>Solar Analytics </td>
@@ -8143,7 +8145,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/andrewpollock">
 				<img src="https://avatars.githubusercontent.com/u/6906046?s=72&u=5f875d5e20f8eadbcf832c7e391212240c01bee3&v=4" width="24" alt="Avatar of andrewpollock"> andrewpollock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#andrewpollock">Copy rank badge</a><br/>
 			Andrew Pollock
 		</td>
 		<td>Openssf </td>
@@ -8156,7 +8158,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tamim">
 				<img src="https://avatars.githubusercontent.com/u/1166111?s=72&u=f1995b403fb98744649b0b61cb4fbc765f91e126&v=4" width="24" alt="Avatar of tamim"> tamim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tamim">Copy rank badge</a><br/>
 			Tamim Shahriar
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/paulhauner">
 				<img src="https://avatars.githubusercontent.com/u/6660660?s=72&u=4be2a70bb1ac0015c74caced57233f4e3a8e1de4&v=4" width="24" alt="Avatar of paulhauner"> paulhauner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#paulhauner">Copy rank badge</a><br/>
 			Paul Hauner
 		</td>
 		<td>Co-founder @sigp  </td>
@@ -8182,7 +8184,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ericjiang97">
 				<img src="https://avatars.githubusercontent.com/u/5687681?s=72&u=6961950d1f8bc479e537ce1dda9b97c6100937c6&v=4" width="24" alt="Avatar of ericjiang97"> ericjiang97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ericjiang97">Copy rank badge</a><br/>
 			Eric Jiang
 		</td>
 		<td>@google </td>
@@ -8195,7 +8197,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ianw">
 				<img src="https://avatars.githubusercontent.com/u/108448?s=72&v=4" width="24" alt="Avatar of ianw"> ianw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ianw">Copy rank badge</a><br/>
 			Ian Wienand
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JosephusPaye">
 				<img src="https://avatars.githubusercontent.com/u/5924865?s=72&u=e0ac16b0bc99d0b43f3f31587f122ad52e731658&v=4" width="24" alt="Avatar of JosephusPaye"> JosephusPaye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JosephusPaye">Copy rank badge</a><br/>
 			Josephus Paye II
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dijonmusters">
 				<img src="https://avatars.githubusercontent.com/u/13792200?s=72&u=c84e0a9f3ab29fc83eef134866afce0a56a156f4&v=4" width="24" alt="Avatar of dijonmusters"> dijonmusters
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dijonmusters">Copy rank badge</a><br/>
 			Jon Meyers
 		</td>
 		<td>Supabase </td>
@@ -8234,7 +8236,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/justinfrench">
 				<img src="https://avatars.githubusercontent.com/u/5240?s=72&u=9f20ccca034251de3108097264ab506508a92efa&v=4" width="24" alt="Avatar of justinfrench"> justinfrench
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#justinfrench">Copy rank badge</a><br/>
 			Justin French
 		</td>
 		<td>No Company</td>
@@ -8247,7 +8249,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ldiebold">
 				<img src="https://avatars.githubusercontent.com/u/1305724?s=72&u=d579e9ecf4ca1bf29a185bbf76b575039b8cf789&v=4" width="24" alt="Avatar of ldiebold"> ldiebold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ldiebold">Copy rank badge</a><br/>
 			Luke Diebold
 		</td>
 		<td>Agripath </td>
@@ -8260,7 +8262,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DelphiWorlds">
 				<img src="https://avatars.githubusercontent.com/u/22670829?s=72&u=557e995f35b89ad79d41231fdb2c81e7c8c2cc0f&v=4" width="24" alt="Avatar of DelphiWorlds"> DelphiWorlds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DelphiWorlds">Copy rank badge</a><br/>
 			DelphiWorlds
 		</td>
 		<td>No Company</td>
@@ -8273,7 +8275,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Raathigesh">
 				<img src="https://avatars.githubusercontent.com/u/3108160?s=72&u=6048b2afe0ec23a42a869d2d26e63fe2f149bcff&v=4" width="24" alt="Avatar of Raathigesh"> Raathigesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Raathigesh">Copy rank badge</a><br/>
 			Raathi Kugarajan
 		</td>
 		<td>@atlassian </td>
@@ -8286,7 +8288,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/olebedev">
 				<img src="https://avatars.githubusercontent.com/u/848535?s=72&u=5625aeaafeae30d243959a69860060a277a7574d&v=4" width="24" alt="Avatar of olebedev"> olebedev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#olebedev">Copy rank badge</a><br/>
 			Oleg Lebedev
 		</td>
 		<td>@canva </td>
@@ -8299,7 +8301,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/0neSe7en">
 				<img src="https://avatars.githubusercontent.com/u/2234539?s=72&u=390e0f868d0dcfc95cd09973eb26052191103c90&v=4" width="24" alt="Avatar of 0neSe7en"> 0neSe7en
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#0neSe7en">Copy rank badge</a><br/>
 			WangSiyuan
 		</td>
 		<td>@core0-io </td>
@@ -8312,7 +8314,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/datawithdanny">
 				<img src="https://avatars.githubusercontent.com/u/34679470?s=72&u=af288bacf7be8a9ecfc3e7d7c8b5210bc40bf658&v=4" width="24" alt="Avatar of datawithdanny"> datawithdanny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#datawithdanny">Copy rank badge</a><br/>
 			Danny Ma
 		</td>
 		<td>Data With Danny </td>
@@ -8325,7 +8327,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TimMoore">
 				<img src="https://avatars.githubusercontent.com/u/44385?s=72&u=67d3e41a471186270a86fdd15f627f822fe238b2&v=4" width="24" alt="Avatar of TimMoore"> TimMoore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TimMoore">Copy rank badge</a><br/>
 			Tim Marcus Moore
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dragonwocky">
 				<img src="https://avatars.githubusercontent.com/u/16874139?s=72&u=f520c753759d1e9774b095f10b3f604b6382ccec&v=4" width="24" alt="Avatar of dragonwocky"> dragonwocky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dragonwocky">Copy rank badge</a><br/>
 			Tom
 		</td>
 		<td>@boxofdevs @notion-enhancer  </td>
@@ -8351,7 +8353,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/drwasho">
 				<img src="https://avatars.githubusercontent.com/u/3887694?s=72&u=418c593b957a734e16a979094314f2366ac2f6d9&v=4" width="24" alt="Avatar of drwasho"> drwasho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#drwasho">Copy rank badge</a><br/>
 			Dr Washington Sanchez
 		</td>
 		<td>No Company</td>
@@ -8364,7 +8366,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joshuamorony">
 				<img src="https://avatars.githubusercontent.com/u/2578009?s=72&u=364a94dcc481e5069cd2b72d7dcd21c90ec1f2d6&v=4" width="24" alt="Avatar of joshuamorony"> joshuamorony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joshuamorony">Copy rank badge</a><br/>
 			Josh Morony
 		</td>
 		<td>No Company</td>
@@ -8377,7 +8379,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JohnClema">
 				<img src="https://avatars.githubusercontent.com/u/1367017?s=72&u=bf85780bb2a0fb892c934a3add2a03322ae9ad2f&v=4" width="24" alt="Avatar of JohnClema"> JohnClema
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JohnClema">Copy rank badge</a><br/>
 			John Clema
 		</td>
 		<td>@incrementalsystems  </td>
@@ -8390,7 +8392,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/t04glovern">
 				<img src="https://avatars.githubusercontent.com/u/7262516?s=72&u=b3e2497337af83a3e1bc0d59412ce21d3d95956e&v=4" width="24" alt="Avatar of t04glovern"> t04glovern
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#t04glovern">Copy rank badge</a><br/>
 			Nathan Glover
 		</td>
 		<td>@first-mode </td>
@@ -8403,7 +8405,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/julapy">
 				<img src="https://avatars.githubusercontent.com/u/331382?s=72&u=54e983adf85e778743142f927a49870680db60d5&v=4" width="24" alt="Avatar of julapy"> julapy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#julapy">Copy rank badge</a><br/>
 			LK
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kmkurn">
 				<img src="https://avatars.githubusercontent.com/u/3627895?s=72&u=f4ab27ddd1c3c73560ec244e94a09c42384a8c6e&v=4" width="24" alt="Avatar of kmkurn"> kmkurn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kmkurn">Copy rank badge</a><br/>
 			Kemal Kurniawan
 		</td>
 		<td>University Of New South<br/>Wales<br/></td>
@@ -8429,7 +8431,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/priseborough">
 				<img src="https://avatars.githubusercontent.com/u/3596952?s=72&v=4" width="24" alt="Avatar of priseborough"> priseborough
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#priseborough">Copy rank badge</a><br/>
 			Paul Riseborough
 		</td>
 		<td>Gnc Solutions Pty Ltd<br/></td>
@@ -8442,7 +8444,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/timburgan">
 				<img src="https://avatars.githubusercontent.com/u/55899215?s=72&u=2fae113cfd366da05d3905959738f3434ed894c2&v=4" width="24" alt="Avatar of timburgan"> timburgan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#timburgan">Copy rank badge</a><br/>
 			Tim Burgan
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/moroshko">
 				<img src="https://avatars.githubusercontent.com/u/259753?s=72&u=c6e9ec3adc8a65ed4856c0c74c1ecc4c710ed5bc&v=4" width="24" alt="Avatar of moroshko"> moroshko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#moroshko">Copy rank badge</a><br/>
 			Misha Moroshko
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ntwb">
 				<img src="https://avatars.githubusercontent.com/u/1016458?s=72&v=4" width="24" alt="Avatar of ntwb"> ntwb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ntwb">Copy rank badge</a><br/>
 			Stephen Edgar
 		</td>
 		<td>Netweb </td>
@@ -8481,7 +8483,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Japh">
 				<img src="https://avatars.githubusercontent.com/u/237905?s=72&v=4" width="24" alt="Avatar of Japh"> Japh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Japh">Copy rank badge</a><br/>
 			Japh
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/UnexpectedMaker">
 				<img src="https://avatars.githubusercontent.com/u/3156212?s=72&u=8e2bf8fd8a09062b385f19e062f0560490994010&v=4" width="24" alt="Avatar of UnexpectedMaker"> UnexpectedMaker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#UnexpectedMaker">Copy rank badge</a><br/>
 			Unexpected Maker
 		</td>
 		<td>Unexpected Maker </td>
@@ -8507,7 +8509,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jimmo">
 				<img src="https://avatars.githubusercontent.com/u/5102768?s=72&v=4" width="24" alt="Avatar of jimmo"> jimmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jimmo">Copy rank badge</a><br/>
 			Jim Mussared
 		</td>
 		<td>@micropython </td>
@@ -8520,7 +8522,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/buddhikajay">
 				<img src="https://avatars.githubusercontent.com/u/6940024?s=72&u=f76192b9e0ec75648369200708ed9f099388af64&v=4" width="24" alt="Avatar of buddhikajay"> buddhikajay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#buddhikajay">Copy rank badge</a><br/>
 			Buddhika Jayawardhana
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mrjahsan">
 				<img src="https://avatars.githubusercontent.com/u/24445155?s=72&u=a1487e532f46c4bcb828a1a798ea55155610905e&v=4" width="24" alt="Avatar of mrjahsan"> mrjahsan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mrjahsan">Copy rank badge</a><br/>
 			Junaid Ahsan
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wbowling">
 				<img src="https://avatars.githubusercontent.com/u/1418260?s=72&u=007314a14c9bcf7886311db53cbbbe2e16fd2fd1&v=4" width="24" alt="Avatar of wbowling"> wbowling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wbowling">Copy rank badge</a><br/>
 			William Bowling
 		</td>
 		<td>@zellic </td>
@@ -8559,7 +8561,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alexbrainman">
 				<img src="https://avatars.githubusercontent.com/u/9796621?s=72&v=4" width="24" alt="Avatar of alexbrainman"> alexbrainman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alexbrainman">Copy rank badge</a><br/>
 			Alex Brainman
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hakluke">
 				<img src="https://avatars.githubusercontent.com/u/13975395?s=72&u=2901efccbf259b76108be8414c1fd6c94a74c4c9&v=4" width="24" alt="Avatar of hakluke"> hakluke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hakluke">Copy rank badge</a><br/>
 			Luke Stephens (hakluke)
 		</td>
 		<td>@haksecio  </td>
@@ -8585,7 +8587,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jasonlewis">
 				<img src="https://avatars.githubusercontent.com/u/829059?s=72&u=968ef627cbb9d71ca2f0511a9256ab816d04dafa&v=4" width="24" alt="Avatar of jasonlewis"> jasonlewis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jasonlewis">Copy rank badge</a><br/>
 			Jason Lewis
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/farazsth98">
 				<img src="https://avatars.githubusercontent.com/u/25904081?s=72&u=ceb523200c9954b41dd6817732aef42652cb8146&v=4" width="24" alt="Avatar of farazsth98"> farazsth98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#farazsth98">Copy rank badge</a><br/>
 			Faith
 		</td>
 		<td>Zellic </td>
@@ -8611,7 +8613,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/racheltho">
 				<img src="https://avatars.githubusercontent.com/u/2602738?s=72&u=ffe041edc50b6ab74ca8f1c2832f14487102cfc8&v=4" width="24" alt="Avatar of racheltho"> racheltho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#racheltho">Copy rank badge</a><br/>
 			Rachel Thomas
 		</td>
 		<td>@fastai  </td>
@@ -8624,7 +8626,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cironunes">
 				<img src="https://avatars.githubusercontent.com/u/469908?s=72&u=6ba84534a960ee36a1c511c932677fd2f7e1b8e1&v=4" width="24" alt="Avatar of cironunes"> cironunes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cironunes">Copy rank badge</a><br/>
 			Ciro Nunes
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/toolmantim">
 				<img src="https://avatars.githubusercontent.com/u/153?s=72&u=3a85fc8d6d7a5bede6ea34513ef871b06d606113&v=4" width="24" alt="Avatar of toolmantim"> toolmantim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#toolmantim">Copy rank badge</a><br/>
 			Tim Lucas
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/azz">
 				<img src="https://avatars.githubusercontent.com/u/1297597?s=72&v=4" width="24" alt="Avatar of azz"> azz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#azz">Copy rank badge</a><br/>
 			Lucas Azzola
 		</td>
 		<td>@up-banking </td>
@@ -8663,7 +8665,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bentrengrove">
 				<img src="https://avatars.githubusercontent.com/u/19445?s=72&u=ce83fbe41803f8f8bfffee4fe41cd984c55fedfe&v=4" width="24" alt="Avatar of bentrengrove"> bentrengrove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bentrengrove">Copy rank badge</a><br/>
 			Ben Trengrove
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alex-page">
 				<img src="https://avatars.githubusercontent.com/u/19199063?s=72&u=90e9e0a4d89909828c2059bc029c6a1e840a56e6&v=4" width="24" alt="Avatar of alex-page"> alex-page
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alex-page">Copy rank badge</a><br/>
 			Alex Page
 		</td>
 		<td>@shopify </td>
@@ -8689,7 +8691,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/willthames">
 				<img src="https://avatars.githubusercontent.com/u/391807?s=72&u=d6de1e1884116bde4cb686d0e44d7d0d6188c402&v=4" width="24" alt="Avatar of willthames"> willthames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#willthames">Copy rank badge</a><br/>
 			Will Thames
 		</td>
 		<td>@skedulo  </td>
@@ -8702,7 +8704,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mzhaoshuai">
 				<img src="https://avatars.githubusercontent.com/u/22476764?s=72&u=45de2eca601916e09e519e439c05d6556ddcc1da&v=4" width="24" alt="Avatar of mzhaoshuai"> mzhaoshuai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mzhaoshuai">Copy rank badge</a><br/>
 			Shuai Zhao
 		</td>
 		<td>University Of Technology Sydney<br/></td>
@@ -8715,7 +8717,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/trevorstephens">
 				<img src="https://avatars.githubusercontent.com/u/5210848?s=72&u=b1ac2f4f524d54766a76ec4b5e53ca584e865e8d&v=4" width="24" alt="Avatar of trevorstephens"> trevorstephens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#trevorstephens">Copy rank badge</a><br/>
 			Trevor Stephens
 		</td>
 		<td>Xero </td>
@@ -8728,7 +8730,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/evgenyneu">
 				<img src="https://avatars.githubusercontent.com/u/880411?s=72&u=198cf0ca4a70a29bb237acc8196c70ee1ad578dd&v=4" width="24" alt="Avatar of evgenyneu"> evgenyneu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#evgenyneu">Copy rank badge</a><br/>
 			Evgenii Neumerzhitckii
 		</td>
 		<td>No Company</td>
@@ -8741,7 +8743,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/tomquirk">
 				<img src="https://avatars.githubusercontent.com/u/12551741?s=72&u=17fa075196687e08c236ea97c5d79a5fead57f36&v=4" width="24" alt="Avatar of tomquirk"> tomquirk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#tomquirk">Copy rank badge</a><br/>
 			Tom Quirk
 		</td>
 		<td>@taxnuggetsacademy </td>
@@ -8754,7 +8756,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/abrasive">
 				<img src="https://avatars.githubusercontent.com/u/648691?s=72&u=deae2e5307cc522aa577b36c5e1dada81f4594d0&v=4" width="24" alt="Avatar of abrasive"> abrasive
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#abrasive">Copy rank badge</a><br/>
 			James Wah
 		</td>
 		<td>No Company</td>
@@ -8767,7 +8769,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benbarsdell">
 				<img src="https://avatars.githubusercontent.com/u/3979096?s=72&u=b45990d1ef25ad2745f61aa097f54bd5bd53800d&v=4" width="24" alt="Avatar of benbarsdell"> benbarsdell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benbarsdell">Copy rank badge</a><br/>
 			Ben Barsdell
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rodjek">
 				<img src="https://avatars.githubusercontent.com/u/80629?s=72&v=4" width="24" alt="Avatar of rodjek"> rodjek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rodjek">Copy rank badge</a><br/>
 			Tim Sharpe
 		</td>
 		<td>No Company</td>
@@ -8793,7 +8795,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Sutto">
 				<img src="https://avatars.githubusercontent.com/u/553?s=72&u=fdfb7d902a3902ab500a5b7e670ced001c2457a6&v=4" width="24" alt="Avatar of Sutto"> Sutto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Sutto">Copy rank badge</a><br/>
 			Darcy Laycock
 		</td>
 		<td>Newie </td>
@@ -8806,7 +8808,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Meligy">
 				<img src="https://avatars.githubusercontent.com/u/171637?s=72&v=4" width="24" alt="Avatar of Meligy"> Meligy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Meligy">Copy rank badge</a><br/>
 			Meligy
 		</td>
 		<td>Commonwealth Bank Of Australia<br/>(cba)<br/></td>
@@ -8819,7 +8821,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jmirtsch">
 				<img src="https://avatars.githubusercontent.com/u/791757?s=72&u=6ba888ef67e2b6ad38c01f743a5fa74dd7a28eee&v=4" width="24" alt="Avatar of jmirtsch"> jmirtsch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jmirtsch">Copy rank badge</a><br/>
 			Jon Mirtschin
 		</td>
 		<td>Geometry Gym Pty Ltd<br/></td>
@@ -8832,7 +8834,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/geeknam">
 				<img src="https://avatars.githubusercontent.com/u/199628?s=72&u=77f3bb1e7bdf4ab23a1549f348e254d490b4f949&v=4" width="24" alt="Avatar of geeknam"> geeknam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#geeknam">Copy rank badge</a><br/>
 			Nam Ngo
 		</td>
 		<td>Nab </td>
@@ -8845,7 +8847,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stevemao">
 				<img src="https://avatars.githubusercontent.com/u/6316590?s=72&v=4" width="24" alt="Avatar of stevemao"> stevemao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stevemao">Copy rank badge</a><br/>
 			Steve Mao
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Hujjat">
 				<img src="https://avatars.githubusercontent.com/u/5115878?s=72&u=8e4c554ddb8ef6a19a5b9bf24024728d4b621754&v=4" width="24" alt="Avatar of Hujjat"> Hujjat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Hujjat">Copy rank badge</a><br/>
 			Hujjat Nazari
 		</td>
 		<td>Codeinspire.io </td>
@@ -8871,7 +8873,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rachsmithcodes">
 				<img src="https://avatars.githubusercontent.com/u/1632086?s=72&u=d8d6c9020169d6f282112ac3ff6d3e2d3e67b87e&v=4" width="24" alt="Avatar of rachsmithcodes"> rachsmithcodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rachsmithcodes">Copy rank badge</a><br/>
 			Rachel Smith
 		</td>
 		<td>@codepen  </td>
@@ -8884,7 +8886,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/duncanhunter">
 				<img src="https://avatars.githubusercontent.com/u/2058227?s=72&u=8c8aac5830e5ad0ae5eefd37ab88b26b5392170f&v=4" width="24" alt="Avatar of duncanhunter"> duncanhunter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#duncanhunter">Copy rank badge</a><br/>
 			Duncan Hunter
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/treffynnon">
 				<img src="https://avatars.githubusercontent.com/u/65215?s=72&u=4de7401474a901cd3ac487c0d8ee64598ca78aa9&v=4" width="24" alt="Avatar of treffynnon"> treffynnon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#treffynnon">Copy rank badge</a><br/>
 			Simon Holywell
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/BrodieRobertson">
 				<img src="https://avatars.githubusercontent.com/u/30792656?s=72&u=f65c0c6fa5669419379031d2ff1f992264f50122&v=4" width="24" alt="Avatar of BrodieRobertson"> BrodieRobertson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#BrodieRobertson">Copy rank badge</a><br/>
 			Brodie Robertson
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hasibaust13">
 				<img src="https://avatars.githubusercontent.com/u/32868239?s=72&u=f32e84edfec46a1e9c94bded6d21a3aa58befd5a&v=4" width="24" alt="Avatar of hasibaust13"> hasibaust13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hasibaust13">Copy rank badge</a><br/>
 			Khan Md Hasib
 		</td>
 		<td>No Company</td>
@@ -8936,7 +8938,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leotrieu">
 				<img src="https://avatars.githubusercontent.com/u/4714917?s=72&u=46e9de6e770b60b212b5194ed27b5ac2f696f0b5&v=4" width="24" alt="Avatar of leotrieu"> leotrieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leotrieu">Copy rank badge</a><br/>
 			Leo Trieu
 		</td>
 		<td>Code4startup </td>
@@ -8949,7 +8951,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Alireza-Malekzadeh">
 				<img src="https://avatars.githubusercontent.com/u/76087029?s=72&u=18fa6f3a39d376a4bbc21c1369d211c9b22d8866&v=4" width="24" alt="Avatar of Alireza-Malekzadeh"> Alireza-Malekzadeh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Alireza-Malekzadeh">Copy rank badge</a><br/>
 			Alireza Malekzadeh
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/carlcastanas">
 				<img src="https://avatars.githubusercontent.com/u/89068725?s=72&u=50ef983238d9fbb5d42faa7f73c8f7934ea83e2d&v=4" width="24" alt="Avatar of carlcastanas"> carlcastanas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#carlcastanas">Copy rank badge</a><br/>
 			Carl Andrew Castañas
 		</td>
 		<td>Icreatechs </td>
@@ -8975,7 +8977,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aaguilerav">
 				<img src="https://avatars.githubusercontent.com/u/1019683?s=72&u=249fa5d0bca2397abdfdd3799284e2db9d19db02&v=4" width="24" alt="Avatar of aaguilerav"> aaguilerav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aaguilerav">Copy rank badge</a><br/>
 			Alejandro
 		</td>
 		<td>Https://powerledger. </td>
@@ -8988,7 +8990,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mrcraigo">
 				<img src="https://avatars.githubusercontent.com/u/3930013?s=72&u=71b180d46a2ffe1eec76eeaf285dd061545292b7&v=4" width="24" alt="Avatar of mrcraigo"> mrcraigo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mrcraigo">Copy rank badge</a><br/>
 			Craig McMillan
 		</td>
 		<td>Australian Bitcoins </td>
@@ -9001,7 +9003,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mandymichael">
 				<img src="https://avatars.githubusercontent.com/u/11938879?s=72&u=c5505103b08df897eb5f7e57d578ad1bcf1c625d&v=4" width="24" alt="Avatar of mandymichael"> mandymichael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mandymichael">Copy rank badge</a><br/>
 			Mandy Michael
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/cjbj">
 				<img src="https://avatars.githubusercontent.com/u/200778?s=72&u=ff9308f5c327c59b0d00b977cdae318e8797f8d3&v=4" width="24" alt="Avatar of cjbj"> cjbj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#cjbj">Copy rank badge</a><br/>
 			Christopher Jones
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bjtu-lucas-nlp">
 				<img src="https://avatars.githubusercontent.com/u/17002294?s=72&u=1ea87f050bae2fd53168e7d8f1e41208ec3b31e0&v=4" width="24" alt="Avatar of bjtu-lucas-nlp"> bjtu-lucas-nlp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bjtu-lucas-nlp">Copy rank badge</a><br/>
 			Kezhi Lu
 		</td>
 		<td>University Of Technology Sydney<br/></td>
@@ -9040,7 +9042,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MajicDesigns">
 				<img src="https://avatars.githubusercontent.com/u/19828051?s=72&u=315b6fa1ae7d4309f5a1e2647b1010a20c683062&v=4" width="24" alt="Avatar of MajicDesigns"> MajicDesigns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MajicDesigns">Copy rank badge</a><br/>
 			Marco Colli
 		</td>
 		<td>No Company</td>
@@ -9053,7 +9055,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pjf">
 				<img src="https://avatars.githubusercontent.com/u/12072?s=72&v=4" width="24" alt="Avatar of pjf"> pjf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pjf">Copy rank badge</a><br/>
 			Paul Fenwick
 		</td>
 		<td>Perl Training Australia </td>
@@ -9066,7 +9068,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/proficnc">
 				<img src="https://avatars.githubusercontent.com/u/4628419?s=72&u=5fe6cd50a5b98f0fdfc9f0903ada6a72a3af2c3e&v=4" width="24" alt="Avatar of proficnc"> proficnc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#proficnc">Copy rank badge</a><br/>
 			Philip
 		</td>
 		<td>Cubepilot Global Pty Ltd<br/></td>
@@ -9079,7 +9081,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/xiaodaigh">
 				<img src="https://avatars.githubusercontent.com/u/4497189?s=72&u=55075716f8d484cf82517feb6188c9d851a49bc5&v=4" width="24" alt="Avatar of xiaodaigh"> xiaodaigh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#xiaodaigh">Copy rank badge</a><br/>
 			evalparse
 		</td>
 		<td>@evalparse </td>
@@ -9092,7 +9094,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/FAXES">
 				<img src="https://avatars.githubusercontent.com/u/31368070?s=72&u=5430edaf0c6a959689019b78a274d1e8650cac66&v=4" width="24" alt="Avatar of FAXES"> FAXES
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#FAXES">Copy rank badge</a><br/>
 			Josh
 		</td>
 		<td>Weblutions </td>
@@ -9105,7 +9107,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/WaLLy3K">
 				<img src="https://avatars.githubusercontent.com/u/3049142?s=72&u=98f945eb39b6ed96a292a35bc0dddeb417d8d1e1&v=4" width="24" alt="Avatar of WaLLy3K"> WaLLy3K
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#WaLLy3K">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@pi-hole  </td>
@@ -9118,7 +9120,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/malcolmgroves">
 				<img src="https://avatars.githubusercontent.com/u/790786?s=72&v=4" width="24" alt="Avatar of malcolmgroves"> malcolmgroves
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#malcolmgroves">Copy rank badge</a><br/>
 			Malcolm Groves
 		</td>
 		<td>No Company</td>
@@ -9131,7 +9133,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/prodigysml">
 				<img src="https://avatars.githubusercontent.com/u/16996819?s=72&u=8ac045207384ce660425a4fdded4a836e20988a2&v=4" width="24" alt="Avatar of prodigysml"> prodigysml
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#prodigysml">Copy rank badge</a><br/>
 			Sajeeb Lohani (sml555 / prodigysml)
 		</td>
 		<td>Kingside </td>
@@ -9144,7 +9146,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TheCherno">
 				<img src="https://avatars.githubusercontent.com/u/1475290?s=72&u=afc80e3f2feeb9e425f2e449019950f82d37c220&v=4" width="24" alt="Avatar of TheCherno"> TheCherno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TheCherno">Copy rank badge</a><br/>
 			Yan Chernikov
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pixegami">
 				<img src="https://avatars.githubusercontent.com/u/75361404?s=72&u=5fa491a9c79667bec80796428def78be79fa9602&v=4" width="24" alt="Avatar of pixegami"> pixegami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pixegami">Copy rank badge</a><br/>
 			Pixegami
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SaitoWu">
 				<img src="https://avatars.githubusercontent.com/u/348915?s=72&u=260e59b851777fd525e9107a68472eae622d7d39&v=4" width="24" alt="Avatar of SaitoWu"> SaitoWu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SaitoWu">Copy rank badge</a><br/>
 			Xin Wu
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Z-Shang">
 				<img src="https://avatars.githubusercontent.com/u/859939?s=72&u=66a5003d53763b6e4250a3501674cf6f110d404d&v=4" width="24" alt="Avatar of Z-Shang"> Z-Shang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Z-Shang">Copy rank badge</a><br/>
 			Z-Shang
 		</td>
 		<td>Mongodb </td>
@@ -9196,7 +9198,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rogchap">
 				<img src="https://avatars.githubusercontent.com/u/270252?s=72&u=81ed8f51fc49eecc6633c488d9c4b347c4ed8a93&v=4" width="24" alt="Avatar of rogchap"> rogchap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rogchap">Copy rank badge</a><br/>
 			Roger Chapman
 		</td>
 		<td>Safetyculture </td>
@@ -9209,7 +9211,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Gomah">
 				<img src="https://avatars.githubusercontent.com/u/2362138?s=72&u=cb48a0de48ca04e2eb8cf2632520285d5a7a28bc&v=4" width="24" alt="Avatar of Gomah"> Gomah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Gomah">Copy rank badge</a><br/>
 			Thomas Marrec
 		</td>
 		<td>No Company</td>
@@ -9222,7 +9224,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/xzyfer">
 				<img src="https://avatars.githubusercontent.com/u/579928?s=72&v=4" width="24" alt="Avatar of xzyfer"> xzyfer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#xzyfer">Copy rank badge</a><br/>
 			Michael Mifsud
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ronrest">
 				<img src="https://avatars.githubusercontent.com/u/10935663?s=72&u=ac7e49b57e6513856bdfe03f1cc183f62153c091&v=4" width="24" alt="Avatar of ronrest"> ronrest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ronrest">Copy rank badge</a><br/>
 			Ronny Restrepo
 		</td>
 		<td>Seer Medical </td>
@@ -9248,7 +9250,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/basarat">
 				<img src="https://avatars.githubusercontent.com/u/874898?s=72&u=faa0298491214204a2af78a9e1cea2f5f4c5e346&v=4" width="24" alt="Avatar of basarat"> basarat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#basarat">Copy rank badge</a><br/>
 			Basarat Ali Syed
 		</td>
 		<td>Https://booleanart.c </td>
@@ -9261,7 +9263,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Krutie">
 				<img src="https://avatars.githubusercontent.com/u/19180970?s=72&u=e498d54c0119c1ff7d3211cfca6107134650e327&v=4" width="24" alt="Avatar of Krutie"> Krutie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Krutie">Copy rank badge</a><br/>
 			Krutie Patel
 		</td>
 		<td>Krutie Patel </td>
@@ -9274,7 +9276,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/aershov24">
 				<img src="https://avatars.githubusercontent.com/u/13550565?s=72&u=224542b7dfdd82e4cfc74bf123f138f80ca416f5&v=4" width="24" alt="Avatar of aershov24"> aershov24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#aershov24">Copy rank badge</a><br/>
 			Alex Ershov
 		</td>
 		<td>Fullstack.cafe, Mlstack.cafe </td>
@@ -9287,7 +9289,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dekz">
 				<img src="https://avatars.githubusercontent.com/u/27389?s=72&u=859e8ff79d459c87a0dc26c19d75edf71b3133e4&v=4" width="24" alt="Avatar of dekz"> dekz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dekz">Copy rank badge</a><br/>
 			Jacob Evans
 		</td>
 		<td>@0xproject  </td>
@@ -9300,7 +9302,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alexgurr">
 				<img src="https://avatars.githubusercontent.com/u/4161867?s=72&u=871cd791b0384cdcbc613fc7153f1db6e2f96e79&v=4" width="24" alt="Avatar of alexgurr"> alexgurr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alexgurr">Copy rank badge</a><br/>
 			Alex Gurr
 		</td>
 		<td>Cloudwave </td>
@@ -9313,7 +9315,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/sbarski">
 				<img src="https://avatars.githubusercontent.com/u/4902?s=72&u=2de56468ff6fd702a380d2b3d5a7d06fefd993d3&v=4" width="24" alt="Avatar of sbarski"> sbarski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#sbarski">Copy rank badge</a><br/>
 			Peter Sbarski
 		</td>
 		<td>A Cloud Guru </td>
@@ -9326,7 +9328,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JizhiziLi">
 				<img src="https://avatars.githubusercontent.com/u/8871365?s=72&u=2e08e5226a2fc4f55605fc1b89cd5b70314ca115&v=4" width="24" alt="Avatar of JizhiziLi"> JizhiziLi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JizhiziLi">Copy rank badge</a><br/>
 			Jizhizi Li
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/camjackson">
 				<img src="https://avatars.githubusercontent.com/u/1930451?s=72&v=4" width="24" alt="Avatar of camjackson"> camjackson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#camjackson">Copy rank badge</a><br/>
 			Cam Jackson
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thien94">
 				<img src="https://avatars.githubusercontent.com/u/12378920?s=72&u=4dd64802ccec02504267b8c1f90442684bcd6590&v=4" width="24" alt="Avatar of thien94"> thien94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thien94">Copy rank badge</a><br/>
 			Thien Nguyen
 		</td>
 		<td>Australian Centre For Robotics<br/></td>
@@ -9365,7 +9367,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gwils">
 				<img src="https://avatars.githubusercontent.com/u/8112688?s=72&u=3d6e8de5401d9e575470515db2b5958c3cb7f2ec&v=4" width="24" alt="Avatar of gwils"> gwils
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gwils">Copy rank badge</a><br/>
 			George Wilson
 		</td>
 		<td>No Company</td>
@@ -9378,7 +9380,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nathanielw">
 				<img src="https://avatars.githubusercontent.com/u/4693844?s=72&u=936cfd664c9b86f4360fe3d66e80a0702dc45385&v=4" width="24" alt="Avatar of nathanielw"> nathanielw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nathanielw">Copy rank badge</a><br/>
 			Nate Watson
 		</td>
 		<td>No Company</td>
@@ -9391,7 +9393,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/but0n">
 				<img src="https://avatars.githubusercontent.com/u/7625588?s=72&v=4" width="24" alt="Avatar of but0n"> but0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#but0n">Copy rank badge</a><br/>
 			JMA
 		</td>
 		<td>No Company</td>
@@ -9404,7 +9406,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jess-hammer">
 				<img src="https://avatars.githubusercontent.com/u/59108399?s=72&u=d07c0f85a92c1ca3ae15c75ca7b3a6704b3e18c4&v=4" width="24" alt="Avatar of jess-hammer"> jess-hammer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jess-hammer">Copy rank badge</a><br/>
 			Jess Hammer
 		</td>
 		<td>No Company</td>
@@ -9417,7 +9419,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/vektah">
 				<img src="https://avatars.githubusercontent.com/u/2247982?s=72&u=5cf6734b6ded309f1319857a2cea623190b65e66&v=4" width="24" alt="Avatar of vektah"> vektah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#vektah">Copy rank badge</a><br/>
 			Adam Scarr
 		</td>
 		<td>Square </td>
@@ -9430,7 +9432,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lukakerr">
 				<img src="https://avatars.githubusercontent.com/u/20056300?s=72&u=2b12ddb0c8c079e5db6130fffac4d82198bd5f73&v=4" width="24" alt="Avatar of lukakerr"> lukakerr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lukakerr">Copy rank badge</a><br/>
 			Luka Kerr
 		</td>
 		<td>@canva </td>
@@ -9443,7 +9445,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/liweiyi88">
 				<img src="https://avatars.githubusercontent.com/u/7248260?s=72&u=fe1dfd8b7dbc6681cdf16838b79b54943df779d1&v=4" width="24" alt="Avatar of liweiyi88"> liweiyi88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#liweiyi88">Copy rank badge</a><br/>
 			Julian Li
 		</td>
 		<td>Rea Group </td>
@@ -9456,7 +9458,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/fwouts">
 				<img src="https://avatars.githubusercontent.com/u/772570?s=72&v=4" width="24" alt="Avatar of fwouts"> fwouts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#fwouts">Copy rank badge</a><br/>
 			Francois Wouts
 		</td>
 		<td>Zenc Labs </td>
@@ -9469,7 +9471,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pathtofile">
 				<img src="https://avatars.githubusercontent.com/u/47049312?s=72&u=8521f57abc8b23d0cccc8d3de6081b53497465c3&v=4" width="24" alt="Avatar of pathtofile"> pathtofile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pathtofile">Copy rank badge</a><br/>
 			pat_h/to/file
 		</td>
 		<td>No Company</td>
@@ -9482,7 +9484,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rid00z">
 				<img src="https://avatars.githubusercontent.com/u/1546173?s=72&u=f32dda3b88eb7ca9168578782cfca5df3c3b5b01&v=4" width="24" alt="Avatar of rid00z"> rid00z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rid00z">Copy rank badge</a><br/>
 			Michael Ridland
 		</td>
 		<td>No Company</td>
@@ -9495,7 +9497,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hoff-dot-world">
 				<img src="https://avatars.githubusercontent.com/u/164138907?s=72&u=8674f0be6fa35392a993c09b66e72b5703fdd7a1&v=4" width="24" alt="Avatar of hoff-dot-world"> hoff-dot-world
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hoff-dot-world">Copy rank badge</a><br/>
 			Matt
 		</td>
 		<td>Hoff.industries </td>
@@ -9508,7 +9510,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kentcb">
 				<img src="https://avatars.githubusercontent.com/u/1901832?s=72&u=52c58b39edf83ffcf224ee4ad185fd7e49bd3b86&v=4" width="24" alt="Avatar of kentcb"> kentcb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kentcb">Copy rank badge</a><br/>
 			Kent Boogaart
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/justinsteven">
 				<img src="https://avatars.githubusercontent.com/u/1893909?s=72&u=edc8fc2e360e4fe8d007619b932164ad9333d167&v=4" width="24" alt="Avatar of justinsteven"> justinsteven
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#justinsteven">Copy rank badge</a><br/>
 			Justin Steven
 		</td>
 		<td>Tanto Security </td>
@@ -9534,7 +9536,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/eugeneware">
 				<img src="https://avatars.githubusercontent.com/u/38154?s=72&u=4c3de3267a4a56cd97ce3d29b983b0616798e23b&v=4" width="24" alt="Avatar of eugeneware"> eugeneware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#eugeneware">Copy rank badge</a><br/>
 			Eugene Ware
 		</td>
 		<td>No Company</td>
@@ -9547,7 +9549,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/SimonBiggs">
 				<img src="https://avatars.githubusercontent.com/u/6559099?s=72&u=c95fea8391373fe698b8ab51ec9ec829a1265a79&v=4" width="24" alt="Avatar of SimonBiggs"> SimonBiggs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#SimonBiggs">Copy rank badge</a><br/>
 			Simon Biggs
 		</td>
 		<td>Anthropic </td>
@@ -9560,7 +9562,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rfk">
 				<img src="https://avatars.githubusercontent.com/u/34695?s=72&u=115ddc7f73e22085ca682ee5e39d32c1c0d79d11&v=4" width="24" alt="Avatar of rfk"> rfk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rfk">Copy rank badge</a><br/>
 			Ryan Kelly
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/AndiiCodes">
 				<img src="https://avatars.githubusercontent.com/u/116770908?s=72&u=6032bc795738514974917c1f0817d71eb2767f4c&v=4" width="24" alt="Avatar of AndiiCodes"> AndiiCodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#AndiiCodes">Copy rank badge</a><br/>
 			AndiiCodes
 		</td>
 		<td>Rmit University </td>
@@ -9586,7 +9588,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Bluebie">
 				<img src="https://avatars.githubusercontent.com/u/12768?s=72&u=d399b79323c1d4c54aa9a9a33a3ff18ab7dafb33&v=4" width="24" alt="Avatar of Bluebie"> Bluebie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Bluebie">Copy rank badge</a><br/>
 			Phoenix Fox
 		</td>
 		<td>No Company</td>
@@ -9599,7 +9601,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nkbt">
 				<img src="https://avatars.githubusercontent.com/u/175264?s=72&v=4" width="24" alt="Avatar of nkbt"> nkbt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nkbt">Copy rank badge</a><br/>
 			Nikita Butenko
 		</td>
 		<td>No Company</td>
@@ -9612,7 +9614,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wileam">
 				<img src="https://avatars.githubusercontent.com/u/4486533?s=72&u=df199674c080ca2890291f027612bba2441b3a64&v=4" width="24" alt="Avatar of wileam"> wileam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wileam">Copy rank badge</a><br/>
 			Joanna Wu
 		</td>
 		<td>No Company</td>
@@ -9625,7 +9627,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/enzyme69">
 				<img src="https://avatars.githubusercontent.com/u/3952687?s=72&v=4" width="24" alt="Avatar of enzyme69"> enzyme69
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#enzyme69">Copy rank badge</a><br/>
 			Blender Sushi
 		</td>
 		<td>No Company</td>
@@ -9638,7 +9640,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/gourab98">
 				<img src="https://avatars.githubusercontent.com/u/43195697?s=72&u=74574321e8232f48887d2591f335ad04eeeda117&v=4" width="24" alt="Avatar of gourab98"> gourab98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#gourab98">Copy rank badge</a><br/>
 			Gourab Saha
 		</td>
 		<td>Curtin University </td>
@@ -9651,7 +9653,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JaseZiv">
 				<img src="https://avatars.githubusercontent.com/u/31471783?s=72&u=fb465f34129bbe6a73612112c3e3217818437e4c&v=4" width="24" alt="Avatar of JaseZiv"> JaseZiv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JaseZiv">Copy rank badge</a><br/>
 			Jason Zivkovic
 		</td>
 		<td>Reece Group </td>
@@ -9664,7 +9666,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/shengyufan">
 				<img src="https://avatars.githubusercontent.com/u/31605209?s=72&u=d1a8cc71ae58e3533e1c73f4b11090b31ee3ba1c&v=4" width="24" alt="Avatar of shengyufan"> shengyufan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#shengyufan">Copy rank badge</a><br/>
 			Yufan Sheng
 		</td>
 		<td>No Company</td>
@@ -9677,7 +9679,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/inflex">
 				<img src="https://avatars.githubusercontent.com/u/5660591?s=72&u=0ed0defef03c7e827c3bcaf538012061a0eba45b&v=4" width="24" alt="Avatar of inflex"> inflex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#inflex">Copy rank badge</a><br/>
 			Paul Daniels
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/erikaduan">
 				<img src="https://avatars.githubusercontent.com/u/34994264?s=72&u=54d32ba570ed4e734ba2b170a61a3630a255f09f&v=4" width="24" alt="Avatar of erikaduan"> erikaduan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#erikaduan">Copy rank badge</a><br/>
 			Erika Duan
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/oznu">
 				<img src="https://avatars.githubusercontent.com/u/3979615?s=72&v=4" width="24" alt="Avatar of oznu"> oznu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#oznu">Copy rank badge</a><br/>
 			oznu
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/taitems">
 				<img src="https://avatars.githubusercontent.com/u/234593?s=72&v=4" width="24" alt="Avatar of taitems"> taitems
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#taitems">Copy rank badge</a><br/>
 			Tait Brown
 		</td>
 		<td>Cuttable </td>
@@ -9729,7 +9731,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/NathanW2">
 				<img src="https://avatars.githubusercontent.com/u/381660?s=72&u=18ca8adcdd61491607c1336f0cf245c1e503eb03&v=4" width="24" alt="Avatar of NathanW2"> NathanW2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#NathanW2">Copy rank badge</a><br/>
 			Nathan Woodrow
 		</td>
 		<td>Chartis Technology/metrix Assets </td>
@@ -9742,7 +9744,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MrChrisW">
 				<img src="https://avatars.githubusercontent.com/u/5282264?s=72&u=2d81b96f9acc24cf5f0b2d910b5f7f6e75dd716e&v=4" width="24" alt="Avatar of MrChrisW"> MrChrisW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MrChrisW">Copy rank badge</a><br/>
 			Chris Wilson ⚡
 		</td>
 		<td>Github </td>
@@ -9755,7 +9757,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/vortexau">
 				<img src="https://avatars.githubusercontent.com/u/859420?s=72&u=2dd2259f27fc54e7d793d7fab85802220a8b9130&v=4" width="24" alt="Avatar of vortexau"> vortexau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#vortexau">Copy rank badge</a><br/>
 			vortex (James McLean)
 		</td>
 		<td>No Company</td>
@@ -9768,7 +9770,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rowanwins">
 				<img src="https://avatars.githubusercontent.com/u/6735870?s=72&v=4" width="24" alt="Avatar of rowanwins"> rowanwins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rowanwins">Copy rank badge</a><br/>
 			Rowan Winsemius
 		</td>
 		<td>No Company</td>
@@ -9781,7 +9783,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/theojulienne">
 				<img src="https://avatars.githubusercontent.com/u/349190?s=72&v=4" width="24" alt="Avatar of theojulienne"> theojulienne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#theojulienne">Copy rank badge</a><br/>
 			Theo Julienne
 		</td>
 		<td>No Company</td>
@@ -9794,7 +9796,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ali7amdi">
 				<img src="https://avatars.githubusercontent.com/u/5763547?s=72&u=93e3257750d07f9905701184d38bde4e70bcfb62&v=4" width="24" alt="Avatar of ali7amdi"> ali7amdi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ali7amdi">Copy rank badge</a><br/>
 			Ali Hamdi
 		</td>
 		<td>Rmit University </td>
@@ -9807,7 +9809,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mukul500">
 				<img src="https://avatars.githubusercontent.com/u/11819326?s=72&u=91bfd9fa3b249d8130e2b5865a6cd4e579f84323&v=4" width="24" alt="Avatar of mukul500"> mukul500
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mukul500">Copy rank badge</a><br/>
 			Mukul Banga
 		</td>
 		<td>Backwings Studio </td>
@@ -9820,7 +9822,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thombergs">
 				<img src="https://avatars.githubusercontent.com/u/1363578?s=72&u=f605da71b3ecc47eea2bb71c66caff2776f50fb2&v=4" width="24" alt="Avatar of thombergs"> thombergs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thombergs">Copy rank badge</a><br/>
 			Tom Hombergs
 		</td>
 		<td>@atlassian </td>
@@ -9833,7 +9835,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/adriantwarog">
 				<img src="https://avatars.githubusercontent.com/u/22957728?s=72&u=6d4e3f30878a6a19ad2d2b77c0d1cb813632f2fb&v=4" width="24" alt="Avatar of adriantwarog"> adriantwarog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#adriantwarog">Copy rank badge</a><br/>
 			Adrian Twarog
 		</td>
 		<td>No Company</td>
@@ -9846,7 +9848,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joshnewans">
 				<img src="https://avatars.githubusercontent.com/u/13210235?s=72&u=704d5e0107ad5ad87b75826769de6e6c0643bd7e&v=4" width="24" alt="Avatar of joshnewans"> joshnewans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joshnewans">Copy rank badge</a><br/>
 			Josh Newans
 		</td>
 		<td>No Company</td>
@@ -9859,7 +9861,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wireghoul">
 				<img src="https://avatars.githubusercontent.com/u/92534?s=72&v=4" width="24" alt="Avatar of wireghoul"> wireghoul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wireghoul">Copy rank badge</a><br/>
 			Eldar Marcussen
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/NiREvil">
 				<img src="https://avatars.githubusercontent.com/u/126243832?s=72&u=26e1703d28cec128e84869d0e808c2c791f3625c&v=4" width="24" alt="Avatar of NiREvil"> NiREvil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#NiREvil">Copy rank badge</a><br/>
 			∏I
 		</td>
 		<td>Rayan El </td>
@@ -9885,7 +9887,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jonleighton">
 				<img src="https://avatars.githubusercontent.com/u/1979?s=72&u=fd0e2c64313b95e39732e6b60e11e9c15575f6cf&v=4" width="24" alt="Avatar of jonleighton"> jonleighton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jonleighton">Copy rank badge</a><br/>
 			Jon Leighton
 		</td>
 		<td>No Company</td>
@@ -9898,7 +9900,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/nickgammon">
 				<img src="https://avatars.githubusercontent.com/u/185088?s=72&v=4" width="24" alt="Avatar of nickgammon"> nickgammon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#nickgammon">Copy rank badge</a><br/>
 			Nick Gammon
 		</td>
 		<td>No Company</td>
@@ -9911,7 +9913,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/alexhude">
 				<img src="https://avatars.githubusercontent.com/u/13582677?s=72&u=eb54880d75d617b22f69f526afa65d367ff2dd61&v=4" width="24" alt="Avatar of alexhude"> alexhude
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#alexhude">Copy rank badge</a><br/>
 			Alexander Hude
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/anthonygore">
 				<img src="https://avatars.githubusercontent.com/u/5368448?s=72&u=0b55d61310166c1da5da8121825b3ab2cbe30580&v=4" width="24" alt="Avatar of anthonygore"> anthonygore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#anthonygore">Copy rank badge</a><br/>
 			Anthony Gore
 		</td>
 		<td>@rocket-alumni-solut  </td>
@@ -9937,7 +9939,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/affrae">
 				<img src="https://avatars.githubusercontent.com/u/745341?s=72&u=50f359bd60e6691cec25bc070c3452ae27171238&v=4" width="24" alt="Avatar of affrae"> affrae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#affrae">Copy rank badge</a><br/>
 			Daniel Figucio
 		</td>
 		<td>Autohand.ai </td>
@@ -9950,7 +9952,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/manoj9788">
 				<img src="https://avatars.githubusercontent.com/u/1823178?s=72&u=04bc24c833116404ca09861ed18fc1e8cab1a85a&v=4" width="24" alt="Avatar of manoj9788"> manoj9788
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#manoj9788">Copy rank badge</a><br/>
 			Manoj Kumar
 		</td>
 		<td>No Company</td>
@@ -9963,7 +9965,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/KimMeen">
 				<img src="https://avatars.githubusercontent.com/u/33118451?s=72&u=713b605cdb4fc3da717e945ab14b2e237be6a9f6&v=4" width="24" alt="Avatar of KimMeen"> KimMeen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#KimMeen">Copy rank badge</a><br/>
 			Ming Jin
 		</td>
 		<td>Griffith University </td>
@@ -9976,7 +9978,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jonowilliams26">
 				<img src="https://avatars.githubusercontent.com/u/37890156?s=72&u=9a0b49effa33b90441af90889041c56d1ee5be0a&v=4" width="24" alt="Avatar of jonowilliams26"> jonowilliams26
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jonowilliams26">Copy rank badge</a><br/>
 			Jono Williams
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/EEVblog">
 				<img src="https://avatars.githubusercontent.com/u/5207459?s=72&u=eb01790251739bac4222dc38c39f97184bcfbc40&v=4" width="24" alt="Avatar of EEVblog"> EEVblog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#EEVblog">Copy rank badge</a><br/>
 			Dave Jones
 		</td>
 		<td>Eevblog </td>
@@ -10002,7 +10004,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mitchemmc">
 				<img src="https://avatars.githubusercontent.com/u/7615006?s=72&u=a60208164d272314d9faa69fa2fec2323e56d7a0&v=4" width="24" alt="Avatar of mitchemmc"> mitchemmc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mitchemmc">Copy rank badge</a><br/>
 			Mitchell McCaffrey
 		</td>
 		<td>No Company</td>
@@ -10015,7 +10017,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Falconerd">
 				<img src="https://avatars.githubusercontent.com/u/1349538?s=72&u=8bc0455cc019cf10b855f0402f33317a35c0fe98&v=4" width="24" alt="Avatar of Falconerd"> Falconerd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Falconerd">Copy rank badge</a><br/>
 			Dylan Falconer
 		</td>
 		<td>No Company</td>
@@ -10028,7 +10030,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bberak">
 				<img src="https://avatars.githubusercontent.com/u/1929971?s=72&u=9fa72644c3ada4423ceb0823ff55a42970b64e4b&v=4" width="24" alt="Avatar of bberak"> bberak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bberak">Copy rank badge</a><br/>
 			Boris Berak
 		</td>
 		<td>No Company</td>
@@ -10041,7 +10043,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/matthaywardwebdesign">
 				<img src="https://avatars.githubusercontent.com/u/6156252?s=72&u=cf12b7ffe9bcd8bdac91535ea27eaf5c097a643a&v=4" width="24" alt="Avatar of matthaywardwebdesign"> matthaywardwebdesign
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#matthaywardwebdesign">Copy rank badge</a><br/>
 			Matt Hayward
 		</td>
 		<td>Pipelabs </td>
@@ -10054,7 +10056,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/PinkyJie">
 				<img src="https://avatars.githubusercontent.com/u/551329?s=72&v=4" width="24" alt="Avatar of PinkyJie"> PinkyJie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#PinkyJie">Copy rank badge</a><br/>
 			Wenbo Jie
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ash47">
 				<img src="https://avatars.githubusercontent.com/u/3754510?s=72&v=4" width="24" alt="Avatar of ash47"> ash47
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ash47">Copy rank badge</a><br/>
 			Ash47
 		</td>
 		<td>No Company</td>
@@ -10080,7 +10082,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JackNoordhuis">
 				<img src="https://avatars.githubusercontent.com/u/10399774?s=72&u=b612bd8d8236ac89a79a301bbd14ea8845934560&v=4" width="24" alt="Avatar of JackNoordhuis"> JackNoordhuis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JackNoordhuis">Copy rank badge</a><br/>
 			Jack Noordhuis
 		</td>
 		<td>@nxtlvlsoftware  </td>
@@ -10093,7 +10095,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/acantril">
 				<img src="https://avatars.githubusercontent.com/u/15226029?s=72&u=5b047c423bdd689755f124ed7eaffa6c970dc5cb&v=4" width="24" alt="Avatar of acantril"> acantril
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#acantril">Copy rank badge</a><br/>
 			Adrian Cantrill
 		</td>
 		<td>No Company</td>
@@ -10106,7 +10108,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Endermanch">
 				<img src="https://avatars.githubusercontent.com/u/44542704?s=72&u=40960bd395d7bd5e58dd6eefba8d517fc0bce2e9&v=4" width="24" alt="Avatar of Endermanch"> Endermanch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Endermanch">Copy rank badge</a><br/>
 			Andrew
 		</td>
 		<td>Freelancing: Hmu! </td>
@@ -10119,7 +10121,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DmitryBaranovskiy">
 				<img src="https://avatars.githubusercontent.com/u/22726?s=72&u=3ac09220c1c4805bca05cba6c42200277d7f49cb&v=4" width="24" alt="Avatar of DmitryBaranovskiy"> DmitryBaranovskiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DmitryBaranovskiy">Copy rank badge</a><br/>
 			Dmitry Baranovskiy
 		</td>
 		<td>@adobe </td>
@@ -10132,7 +10134,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/defaultnamehere">
 				<img src="https://avatars.githubusercontent.com/u/2187165?s=72&u=b32a2d3bfedb32e77aa27e843c515af0c348b797&v=4" width="24" alt="Avatar of defaultnamehere"> defaultnamehere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#defaultnamehere">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>No Company</td>
@@ -10145,7 +10147,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/matthewpalmer">
 				<img src="https://avatars.githubusercontent.com/u/1917632?s=72&u=b51ed707e3810e930f00c19c3dd56d77141f3aaa&v=4" width="24" alt="Avatar of matthewpalmer"> matthewpalmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#matthewpalmer">Copy rank badge</a><br/>
 			Matthew Palmer
 		</td>
 		<td>No Company</td>
@@ -10158,7 +10160,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jnothman">
 				<img src="https://avatars.githubusercontent.com/u/78827?s=72&u=17334e24ba35d41cad10bc633e981ea82a2016e6&v=4" width="24" alt="Avatar of jnothman"> jnothman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jnothman">Copy rank badge</a><br/>
 			Joel Nothman
 		</td>
 		<td>Canva </td>
@@ -10171,7 +10173,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Coder-Yu">
 				<img src="https://avatars.githubusercontent.com/u/6328763?s=72&u=79d6c0c3e55f191e45d7fbb87e969bad7d9a9a08&v=4" width="24" alt="Avatar of Coder-Yu"> Coder-Yu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Coder-Yu">Copy rank badge</a><br/>
 			Junliang Yu
 		</td>
 		<td>Assistant Professor, Griffith University<br/></td>
@@ -10184,7 +10186,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bradwoods">
 				<img src="https://avatars.githubusercontent.com/u/28694502?s=72&u=c5aaef52deccc4a5dd817073336b4c2aa78e651e&v=4" width="24" alt="Avatar of bradwoods"> bradwoods
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bradwoods">Copy rank badge</a><br/>
 			Brad Woods
 		</td>
 		<td>Canva </td>
@@ -10197,7 +10199,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/stanleyhuangyc">
 				<img src="https://avatars.githubusercontent.com/u/3292790?s=72&v=4" width="24" alt="Avatar of stanleyhuangyc"> stanleyhuangyc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#stanleyhuangyc">Copy rank badge</a><br/>
 			Stanley Huang
 		</td>
 		<td>Freematics </td>
@@ -10210,7 +10212,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/PaulStovell">
 				<img src="https://avatars.githubusercontent.com/u/47085?s=72&u=ead28c770f04cefb11c0aab85319304be1c8edc4&v=4" width="24" alt="Avatar of PaulStovell"> PaulStovell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#PaulStovell">Copy rank badge</a><br/>
 			Paul Stovell
 		</td>
 		<td>Octopus Deploy </td>
@@ -10223,7 +10225,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/colingourlay">
 				<img src="https://avatars.githubusercontent.com/u/66612?s=72&u=aaf8fe089a238b70a278544577efcafd132d1a00&v=4" width="24" alt="Avatar of colingourlay"> colingourlay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#colingourlay">Copy rank badge</a><br/>
 			Colin Gourlay
 		</td>
 		<td>No Company</td>
@@ -10236,7 +10238,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/TomsMater">
 				<img src="https://avatars.githubusercontent.com/u/84258378?s=72&u=1ea7724aa0ed4af967cdaec83f23f10ba41c05d6&v=4" width="24" alt="Avatar of TomsMater"> TomsMater
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#TomsMater">Copy rank badge</a><br/>
 			Thomas Mathew
 		</td>
 		<td>@google.. I Wish 😅<br/></td>
@@ -10249,7 +10251,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mxswd">
 				<img src="https://avatars.githubusercontent.com/u/136101?s=72&u=386901648d0d98e711f50001843fbea5c0200472&v=4" width="24" alt="Avatar of mxswd"> mxswd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mxswd">Copy rank badge</a><br/>
 			Maxwell
 		</td>
 		<td>No Company</td>
@@ -10262,7 +10264,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dbr">
 				<img src="https://avatars.githubusercontent.com/u/509?s=72&u=c318ce63ae3935789e84cdcb1f83af8163091c48&v=4" width="24" alt="Avatar of dbr"> dbr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dbr">Copy rank badge</a><br/>
 			dbr/Ben
 		</td>
 		<td>No Company</td>
@@ -10275,7 +10277,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/skittles9823">
 				<img src="https://avatars.githubusercontent.com/u/7065700?s=72&u=ad4ff38c26dd80bf4dede3b11f0af92a7efda37e&v=4" width="24" alt="Avatar of skittles9823"> skittles9823
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#skittles9823">Copy rank badge</a><br/>
 			Rhyse Simpson
 		</td>
 		<td>No Company</td>
@@ -10288,7 +10290,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/hlashbrooke">
 				<img src="https://avatars.githubusercontent.com/u/1543143?s=72&u=62a5320b318a299a5b3252fd7d6fc3ae7e133cb5&v=4" width="24" alt="Avatar of hlashbrooke"> hlashbrooke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#hlashbrooke">Copy rank badge</a><br/>
 			Hugh Lashbrooke
 		</td>
 		<td>No Company</td>
@@ -10301,7 +10303,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/0vm">
 				<img src="https://avatars.githubusercontent.com/u/79897291?s=72&u=86a783d81083e7081848933d05a74b295f62f9ee&v=4" width="24" alt="Avatar of 0vm"> 0vm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#0vm">Copy rank badge</a><br/>
 			Ak
 		</td>
 		<td>No Company</td>
@@ -10314,7 +10316,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/JedWatson">
 				<img src="https://avatars.githubusercontent.com/u/872310?s=72&u=9548676d01f104232ee42e5ac0d985db77e6a5a4&v=4" width="24" alt="Avatar of JedWatson"> JedWatson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#JedWatson">Copy rank badge</a><br/>
 			Jed Watson
 		</td>
 		<td>Thinkmill </td>
@@ -10327,7 +10329,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/unruledboy">
 				<img src="https://avatars.githubusercontent.com/u/682883?s=72&u=f2b5be5a593acbdbccc4f884e426374325167245&v=4" width="24" alt="Avatar of unruledboy"> unruledboy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#unruledboy">Copy rank badge</a><br/>
 			Wilson Chen
 		</td>
 		<td>Dev Yeah </td>
@@ -10340,7 +10342,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/wizardofozzie">
 				<img src="https://avatars.githubusercontent.com/u/4364971?s=72&u=af1eb9d1d9e9eee7d1f5f54fdcba69538fd810f0&v=4" width="24" alt="Avatar of wizardofozzie"> wizardofozzie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#wizardofozzie">Copy rank badge</a><br/>
 			WizardOfOzzie
 		</td>
 		<td>No Company</td>
@@ -10353,7 +10355,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/C-Sto">
 				<img src="https://avatars.githubusercontent.com/u/7466346?s=72&u=2c088b1cd971ce8f78dec4c7d3de8bdd0b3ac19a&v=4" width="24" alt="Avatar of C-Sto"> C-Sto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#C-Sto">Copy rank badge</a><br/>
 			C_Sto
 		</td>
 		<td>No Company</td>
@@ -10366,7 +10368,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ngot">
 				<img src="https://avatars.githubusercontent.com/u/5243774?s=72&v=4" width="24" alt="Avatar of ngot"> ngot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ngot">Copy rank badge</a><br/>
 			Henry Zhuang
 		</td>
 		<td>Atlassian </td>
@@ -10379,7 +10381,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/mattray">
 				<img src="https://avatars.githubusercontent.com/u/330023?s=72&u=49fac6e1eb13378c970206fc20cd8de3a03b3a9c&v=4" width="24" alt="Avatar of mattray"> mattray
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#mattray">Copy rank badge</a><br/>
 			Matt Ray
 		</td>
 		<td>Wiz </td>
@@ -10392,7 +10394,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bennyxguo">
 				<img src="https://avatars.githubusercontent.com/u/24708758?s=72&u=7f66a6bf1ee92f025e62c367a261b455bd4a41f4&v=4" width="24" alt="Avatar of bennyxguo"> bennyxguo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bennyxguo">Copy rank badge</a><br/>
 			Benny Guo (三钻)
 		</td>
 		<td>@3bitzdev </td>
@@ -10405,7 +10407,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/he-y">
 				<img src="https://avatars.githubusercontent.com/u/10541284?s=72&u=a108fb11bf31ef03400aed2a27b8a5b52a650d5c&v=4" width="24" alt="Avatar of he-y"> he-y
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#he-y">Copy rank badge</a><br/>
 			Yang He
 		</td>
 		<td>University Of Technology Sydney<br/></td>
@@ -10418,7 +10420,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/b2developer">
 				<img src="https://avatars.githubusercontent.com/u/8958665?s=72&u=8dea165e5907c7bf0bf0a5fefe2525dc71631af5&v=4" width="24" alt="Avatar of b2developer"> b2developer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#b2developer">Copy rank badge</a><br/>
 			Brad
 		</td>
 		<td>No Company</td>
@@ -10431,7 +10433,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/rajyraman">
 				<img src="https://avatars.githubusercontent.com/u/5035266?s=72&u=820d7110710fa1db2efc34041712eb00363c58c7&v=4" width="24" alt="Avatar of rajyraman"> rajyraman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#rajyraman">Copy rank badge</a><br/>
 			Natraj Yegnaraman
 		</td>
 		<td>No Company</td>
@@ -10444,7 +10446,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/leonyuhanov">
 				<img src="https://avatars.githubusercontent.com/u/7405342?s=72&u=64adda84d181a5f1534da4e871fb0281d9611f31&v=4" width="24" alt="Avatar of leonyuhanov"> leonyuhanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#leonyuhanov">Copy rank badge</a><br/>
 			Elec Dash Tron
 		</td>
 		<td>Elec Dash Tron </td>
@@ -10457,7 +10459,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/kaloraat">
 				<img src="https://avatars.githubusercontent.com/u/15702617?s=72&v=4" width="24" alt="Avatar of kaloraat"> kaloraat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#kaloraat">Copy rank badge</a><br/>
 			Ryan (Narayan) Dhungel
 		</td>
 		<td>Kaloraat </td>
@@ -10470,7 +10472,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/pybites">
 				<img src="https://avatars.githubusercontent.com/u/24620154?s=72&u=af64a2387cfdd8a984e843ff711a2d9f7c24c5cf&v=4" width="24" alt="Avatar of pybites"> pybites
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#pybites">Copy rank badge</a><br/>
 			Pybites
 		</td>
 		<td>Pybites </td>
@@ -10483,7 +10485,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Karolyna84">
 				<img src="https://avatars.githubusercontent.com/u/43585182?s=72&v=4" width="24" alt="Avatar of Karolyna84"> Karolyna84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Karolyna84">Copy rank badge</a><br/>
 			Karolyna
 		</td>
 		<td>No Company</td>
@@ -10496,7 +10498,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/amanda08">
 				<img src="https://avatars.githubusercontent.com/u/4359281?s=72&u=e3347ee931e00427d4587000863e98822c38a92c&v=4" width="24" alt="Avatar of amanda08"> amanda08
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#amanda08">Copy rank badge</a><br/>
 			Amanda Ellis
 		</td>
 		<td>No Company</td>
@@ -10509,7 +10511,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/edhinrichsen">
 				<img src="https://avatars.githubusercontent.com/u/11088862?s=72&u=ecf645d9904c3b649b982c75e17e25432d72ac7c&v=4" width="24" alt="Avatar of edhinrichsen"> edhinrichsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#edhinrichsen">Copy rank badge</a><br/>
 			Ed Hinrichsen
 		</td>
 		<td>Ferocia </td>
@@ -10522,7 +10524,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/LaloCo">
 				<img src="https://avatars.githubusercontent.com/u/4640571?s=72&u=4b457c2933c2e93693a11c39981fb17f59154147&v=4" width="24" alt="Avatar of LaloCo"> LaloCo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#LaloCo">Copy rank badge</a><br/>
 			Eduardo Rosas
 		</td>
 		<td>No Company</td>
@@ -10535,7 +10537,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/friendica">
 				<img src="https://avatars.githubusercontent.com/u/1176581?s=72&u=7e5f839bf2b48498f5095641890f60bb88fd4a39&v=4" width="24" alt="Avatar of friendica"> friendica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#friendica">Copy rank badge</a><br/>
 			Friendica
 		</td>
 		<td>No Company</td>
@@ -10548,7 +10550,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/thushv89">
 				<img src="https://avatars.githubusercontent.com/u/1381369?s=72&u=9fad2396736673951540e75450230e7f17b36644&v=4" width="24" alt="Avatar of thushv89"> thushv89
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#thushv89">Copy rank badge</a><br/>
 			Thushan Ganegedara
 		</td>
 		<td>Tiktok </td>
@@ -10561,7 +10563,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lebinh">
 				<img src="https://avatars.githubusercontent.com/u/234997?s=72&u=10833917b54a2d7500647e5154e2685dbb12a1ac&v=4" width="24" alt="Avatar of lebinh"> lebinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lebinh">Copy rank badge</a><br/>
 			Binh Le
 		</td>
 		<td>@google </td>
@@ -10574,7 +10576,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/DrSleep">
 				<img src="https://avatars.githubusercontent.com/u/7841432?s=72&u=c97ad9f97bbed07fa563e2b2a9c4e54e76f3bc49&v=4" width="24" alt="Avatar of DrSleep"> DrSleep
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#DrSleep">Copy rank badge</a><br/>
 			Vladimir
 		</td>
 		<td>No Company</td>
@@ -10587,7 +10589,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/epoch">
 				<img src="https://avatars.githubusercontent.com/u/43175?s=72&u=c7768417f3cf6b1ef9e00301231396f194e65aa2&v=4" width="24" alt="Avatar of epoch"> epoch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#epoch">Copy rank badge</a><br/>
 			DT
 		</td>
 		<td>No Company</td>
@@ -10600,7 +10602,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/joshwnj">
 				<img src="https://avatars.githubusercontent.com/u/36711?s=72&v=4" width="24" alt="Avatar of joshwnj"> joshwnj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#joshwnj">Copy rank badge</a><br/>
 			Josh Johnston
 		</td>
 		<td>X-team </td>
@@ -10613,7 +10615,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/debajyotikarmaker">
 				<img src="https://avatars.githubusercontent.com/u/15763541?s=72&u=0508a3471528a98d3d624a9686cd799064147226&v=4" width="24" alt="Avatar of debajyotikarmaker"> debajyotikarmaker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#debajyotikarmaker">Copy rank badge</a><br/>
 			Debajyoti karmaker
 		</td>
 		<td>The University Of Queensland<br/></td>
@@ -10626,7 +10628,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/lpredrum136">
 				<img src="https://avatars.githubusercontent.com/u/30977997?s=72&u=057252c07ed7f3295aa7bb52229a3e6afb23e64b&v=4" width="24" alt="Avatar of lpredrum136"> lpredrum136
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#lpredrum136">Copy rank badge</a><br/>
 			Duy Hai (Henry) Nguyen
 		</td>
 		<td>National Australia Bank </td>
@@ -10639,7 +10641,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/benhoskings">
 				<img src="https://avatars.githubusercontent.com/u/901?s=72&v=4" width="24" alt="Avatar of benhoskings"> benhoskings
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#benhoskings">Copy rank badge</a><br/>
 			Ben Hoskings
 		</td>
 		<td>@ferocia  </td>
@@ -10652,7 +10654,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/ComponentFactory">
 				<img src="https://avatars.githubusercontent.com/u/13988848?s=72&u=3aef4a62de1d089b2e0c9f70cdcb85241a5aea90&v=4" width="24" alt="Avatar of ComponentFactory"> ComponentFactory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#ComponentFactory">Copy rank badge</a><br/>
 			Phil Wright
 		</td>
 		<td>No Company</td>
@@ -10665,7 +10667,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/skorks">
 				<img src="https://avatars.githubusercontent.com/u/109413?s=72&v=4" width="24" alt="Avatar of skorks"> skorks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#skorks">Copy rank badge</a><br/>
 			Alan Skorkin
 		</td>
 		<td>No Company</td>
@@ -10678,7 +10680,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/albertstill">
 				<img src="https://avatars.githubusercontent.com/u/2787876?s=72&u=340859051db8320fbea3b54dce04b7085158f80a&v=4" width="24" alt="Avatar of albertstill"> albertstill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#albertstill">Copy rank badge</a><br/>
 			Albert Still
 		</td>
 		<td>@spotify </td>
@@ -10691,7 +10693,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/bensonruan">
 				<img src="https://avatars.githubusercontent.com/u/36299151?s=72&u=74e6f7c07901fa6607feb3095845774eda166a01&v=4" width="24" alt="Avatar of bensonruan"> bensonruan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#bensonruan">Copy rank badge</a><br/>
 			Benson Ruan
 		</td>
 		<td>No Company</td>
@@ -10704,7 +10706,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/dhotson">
 				<img src="https://avatars.githubusercontent.com/u/21532?s=72&u=22a029f1c2965148ce70f3c1e6c1af6f88d71466&v=4" width="24" alt="Avatar of dhotson"> dhotson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#dhotson">Copy rank badge</a><br/>
 			Dennis Hotson
 		</td>
 		<td>No Company</td>
@@ -10717,7 +10719,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/MehdiK">
 				<img src="https://avatars.githubusercontent.com/u/1029804?s=72&u=041a61244a7da5c4d2de35e0f54ddd23cb7612b5&v=4" width="24" alt="Avatar of MehdiK"> MehdiK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#MehdiK">Copy rank badge</a><br/>
 			Mehdi Khalili
 		</td>
 		<td>No Company</td>
@@ -10730,7 +10732,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/zaferatakli">
 				<img src="https://avatars.githubusercontent.com/u/191713174?s=72&u=1236bbe4720d085cb3aae5b465f5d68b3ded2803&v=4" width="24" alt="Avatar of zaferatakli"> zaferatakli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#zaferatakli">Copy rank badge</a><br/>
 			Zafer Atakli
 		</td>
 		<td>Istqb Certified Qa Manual<br/>&<br/>Automation<br/>Test<br/>Engineer<br/></td>
@@ -10743,7 +10745,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/greenlaw110">
 				<img src="https://avatars.githubusercontent.com/u/216930?s=72&v=4" width="24" alt="Avatar of greenlaw110"> greenlaw110
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#greenlaw110">Copy rank badge</a><br/>
 			Gelin Luo
 		</td>
 		<td>@aws/redshift/cp </td>
@@ -10756,7 +10758,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/HorridHanu">
 				<img src="https://avatars.githubusercontent.com/u/86579429?s=72&u=818c879f99064002a93a58ae992108c10d5c9cd0&v=4" width="24" alt="Avatar of HorridHanu"> HorridHanu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#HorridHanu">Copy rank badge</a><br/>
 			Hanu
 		</td>
 		<td>@codewithhanu  </td>
@@ -10769,7 +10771,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Turnerj">
 				<img src="https://avatars.githubusercontent.com/u/904226?s=72&u=3a891b622c7330a2a38f7691dfabde47bab17433&v=4" width="24" alt="Avatar of Turnerj"> Turnerj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Turnerj">Copy rank badge</a><br/>
 			James Turner
 		</td>
 		<td>@turnersoftware  </td>
@@ -10782,7 +10784,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/jeromyanglim">
 				<img src="https://avatars.githubusercontent.com/u/132546?s=72&v=4" width="24" alt="Avatar of jeromyanglim"> jeromyanglim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#jeromyanglim">Copy rank badge</a><br/>
 			Jeromy Anglim
 		</td>
 		<td>No Company</td>
@@ -10795,7 +10797,7 @@ There are `925 users`  in Australia. You need at least `163 followers` to be on 
 		<td>
 			<a href="https://github.com/Interkarma">
 				<img src="https://avatars.githubusercontent.com/u/10426244?s=72&u=15e94b76c40c99a3d0115b8fc52dfc87cac3254a&v=4" width="24" alt="Avatar of Interkarma"> Interkarma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/australia.md#Interkarma">Copy rank badge</a><br/>
 			Gavin Clayton
 		</td>
 		<td>Daggerfall Workshop </td>
