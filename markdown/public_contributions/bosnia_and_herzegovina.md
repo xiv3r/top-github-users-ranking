@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2026/9/14 5:19 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2026/10/13 3:43 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Bosnia And Herzegovina GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -107,131 +109,131 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/Nbc66">
-				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
-			</a><br/>
-			Kerim Čamdžić
+			<a href="https://github.com/alde23">
+				<img src="https://avatars.githubusercontent.com/u/150618433?s=72&v=4" width="24" alt="Avatar of alde23"> alde23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#alde23">Copy rank badge</a><br/>
+			Ali Dervovic
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
+		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
-		<td>71</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a href="https://github.com/SenadAlagic">
 				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=6b220bda9da04cecc8adf68bc983e5b81f4717ad&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#SenadAlagic">Copy rank badge</a><br/>
 			Alagić Senad
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bihac / Mostar</td>
-		<td>33</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/alde23">
-				<img src="https://avatars.githubusercontent.com/u/150618433?s=72&v=4" width="24" alt="Avatar of alde23"> alde23
-			</a><br/>
-			Ali Dervovic
+			<a href="https://github.com/Nbc66">
+				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#Nbc66">Copy rank badge</a><br/>
+			Kerim Čamdžić
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
 		<td>Sarajevo</td>
-		<td>17</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/nedim-basic">
-				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
-			</a><br/>
-			NedimBašić
+			<a href="https://github.com/amarselic">
+				<img src="https://avatars.githubusercontent.com/u/283724138?s=72&v=4" width="24" alt="Avatar of amarselic"> amarselic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#amarselic">Copy rank badge</a><br/>
+			Amar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia & Herzegovina</td>
-		<td>8</td>
+		<td>Tuzla, Bosnia & Herzegovina</td>
+		<td>27</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
 			<a href="https://github.com/adosalkanovicc">
-				<img src="https://avatars.githubusercontent.com/u/60065307?s=72&u=ddb8946537ba8be16aa63a139c9e82a69667beeb&v=4" width="24" alt="Avatar of adosalkanovicc"> adosalkanovicc
-			</a><br/>
-			Admir 
+				<img src="https://avatars.githubusercontent.com/u/60065307?s=72&u=d99591096e2c046bac34199488a3df9ba5f84b70&v=4" width="24" alt="Avatar of adosalkanovicc"> adosalkanovicc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#adosalkanovicc">Copy rank badge</a><br/>
+			adosalkanovic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tuzla</td>
-		<td>7</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
 			<a href="https://github.com/adnanh">
 				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"> adnanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#adnanh">Copy rank badge</a><br/>
 			Adnan Hajdarević
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>3</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/KerimZuna">
-				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
-			</a><br/>
-			Kerim Žuna
+			<a href="https://github.com/arminimamovic99">
+				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=37ee678ae70ac03c4ea8b483710e7198671efd99&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#arminimamovic99">Copy rank badge</a><br/>
+			Armin Imamovic
 		</td>
-		<td>Bitsync D.o.o. </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zenica</td>
-		<td>3</td>
+		<td>Zenica, Bosnia and Herzegovina</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/arminimamovic99">
-				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=93601f5cf88d181d9f3a64675b897ad79411423b&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
-			</a><br/>
-			Armin Imamovic
+			<a href="https://github.com/mirza-neimarlija">
+				<img src="https://avatars.githubusercontent.com/u/314219782?s=72&u=10c7bc4a0508c021714d8c4fd4f111011ca4b681&v=4" width="24" alt="Avatar of mirza-neimarlija"> mirza-neimarlija
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#mirza-neimarlija">Copy rank badge</a><br/>
+			Mirza Neimarlija
 		</td>
-		<td>Knowl Solutions </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>2</td>
+		<td>Sarajevo</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/MirzaMedar">
-				<img src="https://avatars.githubusercontent.com/u/23072261?s=72&u=a278c5bd0c312d12f384de537edbe2c69b7f0b25&v=4" width="24" alt="Avatar of MirzaMedar"> MirzaMedar
-			</a><br/>
-			Mirza Medar
+			<a href="https://github.com/pandzicivan">
+				<img src="https://avatars.githubusercontent.com/u/13085426?s=72&u=154fa773e18d1d9b56dfd7af5510e9fd4e15ba88&v=4" width="24" alt="Avatar of pandzicivan"> pandzicivan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#pandzicivan">Copy rank badge</a><br/>
+			Ivan Pandzic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Mostar</td>
+		<td>Mostar, BiH</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/stefan-aqvc">
-				<img src="https://avatars.githubusercontent.com/u/203979907?s=72&u=25fab7512d4997097350a56eb14e33342f60b57d&v=4" width="24" alt="Avatar of stefan-aqvc"> stefan-aqvc
-			</a><br/>
-			Stefan Stanić
+			<a href="https://github.com/izGamber">
+				<img src="https://avatars.githubusercontent.com/u/271933870?s=72&u=2102895accc688ede2a5c64defa3ac4e53c7b40d&v=4" width="24" alt="Avatar of izGamber"> izGamber
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bosnia_and_herzegovina.md#izGamber">Copy rank badge</a><br/>
+			iz_Gamber
 		</td>
-		<td>Aqvc </td>
+		<td>Social System Digital -<br/>Ssd<br/>@github<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>Tuzla City</td>
 		<td>1</td>
 	</tr>
 </table>
