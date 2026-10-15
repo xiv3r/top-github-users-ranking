@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia">
 </a>
 
-The `public contributions` by users in Colombia on `2026/9/17 3:38 AM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
+The `public contributions` by users in Colombia on `2026/10/15 11:21 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `967 users`  in Colombia. You need at least `41 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Colombia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,1177 +111,1268 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/NietoDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/135185791?s=72&u=c691e2425559bc013fd6d3fe18b67ff34005ce33&v=4" width="24" alt="Avatar of NietoDeveloper"> NietoDeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#NietoDeveloper">Copy rank badge</a><br/>
 			Manuel Nieto
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
-		<td>16098</td>
+		<td>16515</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a href="https://github.com/mikerb95">
 				<img src="https://avatars.githubusercontent.com/u/69970540?s=72&u=cf16cf7329e3412b647b779c5680408e23bb248a&v=4" width="24" alt="Avatar of mikerb95"> mikerb95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mikerb95">Copy rank badge</a><br/>
 			Mike Rodriguez
 		</td>
 		<td>Codebymike </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia.</td>
-		<td>11463</td>
+		<td>12793</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
 			<a href="https://github.com/johnny4young">
 				<img src="https://avatars.githubusercontent.com/u/112983?s=72&u=d84627e11f6b0e8431a703674b0908d62208226d&v=4" width="24" alt="Avatar of johnny4young"> johnny4young
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#johnny4young">Copy rank badge</a><br/>
 			Johnny IV Young Ospino
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/johnny4young">johnny4young</a></td>
 		<td>Medellín, Colombia</td>
-		<td>9644</td>
+		<td>12053</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/akawolfcito">
-				<img src="https://avatars.githubusercontent.com/u/791301?s=72&u=a7ce07827ce4579b859941dfd611fdb6f8e7ab97&v=4" width="24" alt="Avatar of akawolfcito"> akawolfcito
-			</a><br/>
-			Luis Fernando Ushiña
-		</td>
-		<td>Denlabs </td>
-		<td><a href="https://twitter.com/AKAwolfcito">AKAwolfcito</a></td>
-		<td>Medellín</td>
-		<td>8389</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/DLozanoNavas">
-				<img src="https://avatars.githubusercontent.com/u/25040921?s=72&u=9909c39ac93e4000e6f62bd56890cb6200a013e6&v=4" width="24" alt="Avatar of DLozanoNavas"> DLozanoNavas
-			</a><br/>
-			Daniel Lozano Navas
-		</td>
-		<td>@fenixalliance </td>
-		<td><a href="https://twitter.com/DLozanoNavas">DLozanoNavas</a></td>
-		<td>Medellín, Colombia</td>
-		<td>8303</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/rmunate">
 				<img src="https://avatars.githubusercontent.com/u/91748598?s=72&u=0cd3a68386e3d9e23e43ea933f14ded88d448bba&v=4" width="24" alt="Avatar of rmunate"> rmunate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rmunate">Copy rank badge</a><br/>
 			Raúl Mauricio Uñate Castro
 		</td>
 		<td>Orionis Framework </td>
 		<td><a href="https://twitter.com/rmunate">rmunate</a></td>
 		<td>Colombia</td>
-		<td>4712</td>
+		<td>9509</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/akawolfcito">
+				<img src="https://avatars.githubusercontent.com/u/791301?s=72&u=a7ce07827ce4579b859941dfd611fdb6f8e7ab97&v=4" width="24" alt="Avatar of akawolfcito"> akawolfcito
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#akawolfcito">Copy rank badge</a><br/>
+			Luis Fernando Ushiña
+		</td>
+		<td>Denlabs </td>
+		<td><a href="https://twitter.com/AKAwolfcito">AKAwolfcito</a></td>
+		<td>Medellín</td>
+		<td>8201</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/DLozanoNavas">
+				<img src="https://avatars.githubusercontent.com/u/25040921?s=72&u=9909c39ac93e4000e6f62bd56890cb6200a013e6&v=4" width="24" alt="Avatar of DLozanoNavas"> DLozanoNavas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DLozanoNavas">Copy rank badge</a><br/>
+			Daniel Lozano Navas
+		</td>
+		<td>@fenixalliance </td>
+		<td><a href="https://twitter.com/DLozanoNavas">DLozanoNavas</a></td>
+		<td>Medellín, Colombia</td>
+		<td>7663</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
 			<a href="https://github.com/xergioalex">
 				<img src="https://avatars.githubusercontent.com/u/2729395?s=72&u=319f19b43948594a1bb9ad44144f26cc8a263310&v=4" width="24" alt="Avatar of xergioalex"> xergioalex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#xergioalex">Copy rank badge</a><br/>
 			Sergio Florez
 		</td>
 		<td>@dailybothq  </td>
 		<td><a href="https://twitter.com/XergioAleX">XergioAleX</a></td>
 		<td>Pereira, Colombia</td>
-		<td>4441</td>
+		<td>6403</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/Mgldvd">
-				<img src="https://avatars.githubusercontent.com/u/2009698?s=72&u=92edcc207776f152b269aa4e375b79e69122b624&v=4" width="24" alt="Avatar of Mgldvd"> Mgldvd
-			</a><br/>
-			Mgldvd
-		</td>
-		<td>Mgldvd </td>
-		<td><a href="https://twitter.com/Mgldvd_tech">Mgldvd_tech</a></td>
-		<td>Colombia</td>
-		<td>4309</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/hulkike">
-				<img src="https://avatars.githubusercontent.com/u/1154819?s=72&u=8697805b4112b886c06ff618d17197e1bcaeb0da&v=4" width="24" alt="Avatar of hulkike"> hulkike
-			</a><br/>
-			Hernando Enrique Moreno Moreno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia, Bogotá</td>
-		<td>4259</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/goanpeca">
-				<img src="https://avatars.githubusercontent.com/u/3627835?s=72&u=681254ac5446aa475a84398950616b0348e3f0d6&v=4" width="24" alt="Avatar of goanpeca"> goanpeca
-			</a><br/>
-			Gonzalo Peña-Castellanos
-		</td>
-		<td>Backblaze </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>4254</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/jdvelasq">
-				<img src="https://avatars.githubusercontent.com/u/8204100?s=72&u=a214dac89e7b4ee4244ae29f1a9a0a921e876608&v=4" width="24" alt="Avatar of jdvelasq"> jdvelasq
-			</a><br/>
-			Juan David Velásquez-Henao
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>3764</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/nethalo">
 				<img src="https://avatars.githubusercontent.com/u/7537643?s=72&u=9a81c33635a85abc46744fac78ec22c31b08d2e0&v=4" width="24" alt="Avatar of nethalo"> nethalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nethalo">Copy rank badge</a><br/>
 			Daniel Guzmán Burgos
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cali, Colombia</td>
-		<td>3476</td>
+		<td>4626</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/Mgldvd">
+				<img src="https://avatars.githubusercontent.com/u/2009698?s=72&u=92edcc207776f152b269aa4e375b79e69122b624&v=4" width="24" alt="Avatar of Mgldvd"> Mgldvd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Mgldvd">Copy rank badge</a><br/>
+			Mgldvd
+		</td>
+		<td>Mgldvd </td>
+		<td><a href="https://twitter.com/Mgldvd_tech">Mgldvd_tech</a></td>
+		<td>Colombia</td>
+		<td>4407</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/jdvelasq">
+				<img src="https://avatars.githubusercontent.com/u/8204100?s=72&u=a214dac89e7b4ee4244ae29f1a9a0a921e876608&v=4" width="24" alt="Avatar of jdvelasq"> jdvelasq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdvelasq">Copy rank badge</a><br/>
+			Juan David Velásquez-Henao
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>4397</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/goanpeca">
+				<img src="https://avatars.githubusercontent.com/u/3627835?s=72&u=681254ac5446aa475a84398950616b0348e3f0d6&v=4" width="24" alt="Avatar of goanpeca"> goanpeca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#goanpeca">Copy rank badge</a><br/>
+			Gonzalo Peña-Castellanos
+		</td>
+		<td>Backblaze </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>4240</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/hulkike">
+				<img src="https://avatars.githubusercontent.com/u/1154819?s=72&u=8697805b4112b886c06ff618d17197e1bcaeb0da&v=4" width="24" alt="Avatar of hulkike"> hulkike
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hulkike">Copy rank badge</a><br/>
+			Hernando Enrique Moreno Moreno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia, Bogotá</td>
+		<td>4212</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/angoca">
-				<img src="https://avatars.githubusercontent.com/u/294317?s=72&v=4" width="24" alt="Avatar of angoca"> angoca
-			</a><br/>
-			Andres Gomez Casanova
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/angoca">angoca</a></td>
-		<td>Bogota, Colombia</td>
-		<td>3356</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/vtamara">
-				<img src="https://avatars.githubusercontent.com/u/701221?s=72&u=f509b0b1b601b6be39b9c02dd78acfa81fedf4ef&v=4" width="24" alt="Avatar of vtamara"> vtamara
-			</a><br/>
-			Vladimir Támara Patiño
-		</td>
-		<td>Pasos De Jesús </td>
-		<td><a href="https://twitter.com/VladimirTamara">VladimirTamara</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>3009</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/tech-andgar">
-				<img src="https://avatars.githubusercontent.com/u/19521054?s=72&u=2bac0e494b335399eaf9d11b4e2762c9006ace6e&v=4" width="24" alt="Avatar of tech-andgar"> tech-andgar
-			</a><br/>
-			Andrés García
-		</td>
-		<td>Slalom </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>2613</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/galvisjuanc">
-				<img src="https://avatars.githubusercontent.com/u/62962472?s=72&u=b84685c67eae425150bfeb55423f05aeb6b0fc91&v=4" width="24" alt="Avatar of galvisjuanc"> galvisjuanc
-			</a><br/>
-			Juan Camilo Galvis Cuéllar
-		</td>
-		<td>Artemisa Tech </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, D.C</td>
-		<td>2575</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/Stivenjs">
-				<img src="https://avatars.githubusercontent.com/u/143671152?s=72&u=f49db0d1b8850e375854652c07d0721cfa15f9f4&v=4" width="24" alt="Avatar of Stivenjs"> Stivenjs
-			</a><br/>
-			Steven Jaime 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>2570</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/harveybc">
 				<img src="https://avatars.githubusercontent.com/u/1993265?s=72&u=1410f024ca4e9951d6a443d3d6426a3de1a68977&v=4" width="24" alt="Avatar of harveybc"> harveybc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#harveybc">Copy rank badge</a><br/>
 			Harvey Bastidas
 		</td>
 		<td>Ingeni-us Engineering </td>
 		<td><a href="https://twitter.com/ingeni_us">ingeni_us</a></td>
 		<td>Colombia</td>
-		<td>2297</td>
+		<td>3869</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/c4milo">
+				<img src="https://avatars.githubusercontent.com/u/41681?s=72&u=6735b4e7a861c3431ef92c60fc79a957e4e77ca7&v=4" width="24" alt="Avatar of c4milo"> c4milo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#c4milo">Copy rank badge</a><br/>
+			Camilo Aguilar
+		</td>
+		<td>Coreweave </td>
+		<td>No Twitter Username</td>
+		<td>Medellín and New York.</td>
+		<td>3518</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/angoca">
+				<img src="https://avatars.githubusercontent.com/u/294317?s=72&v=4" width="24" alt="Avatar of angoca"> angoca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#angoca">Copy rank badge</a><br/>
+			Andres Gomez Casanova
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/angoca">angoca</a></td>
+		<td>Bogota, Colombia</td>
+		<td>3358</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/vtamara">
+				<img src="https://avatars.githubusercontent.com/u/701221?s=72&u=f509b0b1b601b6be39b9c02dd78acfa81fedf4ef&v=4" width="24" alt="Avatar of vtamara"> vtamara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vtamara">Copy rank badge</a><br/>
+			Vladimir Támara Patiño
+		</td>
+		<td>Pasos De Jesús </td>
+		<td><a href="https://twitter.com/VladimirTamara">VladimirTamara</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>3044</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/galvisjuanc">
+				<img src="https://avatars.githubusercontent.com/u/62962472?s=72&u=b84685c67eae425150bfeb55423f05aeb6b0fc91&v=4" width="24" alt="Avatar of galvisjuanc"> galvisjuanc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#galvisjuanc">Copy rank badge</a><br/>
+			Juan Camilo Galvis Cuéllar
+		</td>
+		<td>Artemisa Tech </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, D.C</td>
+		<td>2546</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/tech-andgar">
+				<img src="https://avatars.githubusercontent.com/u/19521054?s=72&u=2bac0e494b335399eaf9d11b4e2762c9006ace6e&v=4" width="24" alt="Avatar of tech-andgar"> tech-andgar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#tech-andgar">Copy rank badge</a><br/>
+			Andrés García
+		</td>
+		<td>Slalom </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>2442</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/Asperjasp">
-				<img src="https://avatars.githubusercontent.com/u/164816065?s=72&u=813a147586e665038af89d6acd4fe5a0c9697d8e&v=4" width="24" alt="Avatar of Asperjasp"> Asperjasp
-			</a><br/>
-			Alejandro Sánchez
+			<a href="https://github.com/Stivenjs">
+				<img src="https://avatars.githubusercontent.com/u/143671152?s=72&u=6d631cb018ae1ae29017b4d20629bde256698d26&v=4" width="24" alt="Avatar of Stivenjs"> Stivenjs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Stivenjs">Copy rank badge</a><br/>
+			Steven Jaime 
 		</td>
-		<td>Universidad Nacional De Colombia<br/>-<br/>Unal<br/></td>
-		<td><a href="https://twitter.com/Asperjasp">Asperjasp</a></td>
-		<td>🎻  Music | 🧑‍🔬 AI Research | ⌨️ Code from Colombia - Bogotá </td>
-		<td>2137</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>2385</td>
 	</tr>
 	<tr>
 		<td>20</td>
 		<td>
 			<a href="https://github.com/rodrigo-arenas">
 				<img src="https://avatars.githubusercontent.com/u/31422766?s=72&u=feb49d9957f1f313f71f9f41053b53c43175e26b&v=4" width="24" alt="Avatar of rodrigo-arenas"> rodrigo-arenas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rodrigo-arenas">Copy rank badge</a><br/>
 			Rodrigo Arenas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>2114</td>
+		<td>2314</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
 			<a href="https://github.com/DevCop95">
 				<img src="https://avatars.githubusercontent.com/u/264654485?s=72&u=5a1953fe48a68da3340498e7e8e5018062afc7ae&v=4" width="24" alt="Avatar of DevCop95"> DevCop95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DevCop95">Copy rank badge</a><br/>
 			Dev101x
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>2073</td>
+		<td>2287</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/daniel-lxs">
-				<img src="https://avatars.githubusercontent.com/u/57051444?s=72&u=73a69f86a211d6f2b4ed6ee36233f073e0826ef8&v=4" width="24" alt="Avatar of daniel-lxs"> daniel-lxs
-			</a><br/>
-			Daniel
+			<a href="https://github.com/Asperjasp">
+				<img src="https://avatars.githubusercontent.com/u/164816065?s=72&u=813a147586e665038af89d6acd4fe5a0c9697d8e&v=4" width="24" alt="Avatar of Asperjasp"> Asperjasp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Asperjasp">Copy rank badge</a><br/>
+			Alejandro Sánchez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>2033</td>
+		<td>Universidad Nacional De Colombia<br/>-<br/>Unal<br/></td>
+		<td><a href="https://twitter.com/Asperjasp">Asperjasp</a></td>
+		<td>🎻  Music | 🧑‍🔬 AI Research | ⌨️ Code from Colombia - Bogotá </td>
+		<td>2264</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/miguelcolmenares">
-				<img src="https://avatars.githubusercontent.com/u/1714344?s=72&u=937fceb3bb85d0676d7b28462b492941b7b876f6&v=4" width="24" alt="Avatar of miguelcolmenares"> miguelcolmenares
-			</a><br/>
-			Miguel Colmenares
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>1935</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/Israel-Laguan">
 				<img src="https://avatars.githubusercontent.com/u/36519478?s=72&u=4976e0aeebe213aa370fb5f72db3850ffae32180&v=4" width="24" alt="Avatar of Israel-Laguan"> Israel-Laguan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Israel-Laguan">Copy rank badge</a><br/>
 			Israel Antonio Rosales Laguan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cordoba, Colombia</td>
-		<td>1904</td>
+		<td>2177</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/daniel-lxs">
+				<img src="https://avatars.githubusercontent.com/u/57051444?s=72&u=73a69f86a211d6f2b4ed6ee36233f073e0826ef8&v=4" width="24" alt="Avatar of daniel-lxs"> daniel-lxs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#daniel-lxs">Copy rank badge</a><br/>
+			Daniel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>2128</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/darnellwashingtonjr94-art">
-				<img src="https://avatars.githubusercontent.com/u/275614407?s=72&v=4" width="24" alt="Avatar of darnellwashingtonjr94-art"> darnellwashingtonjr94-art
-			</a><br/>
-			Credkellar-Boop
+			<a href="https://github.com/miguelcolmenares">
+				<img src="https://avatars.githubusercontent.com/u/1714344?s=72&u=937fceb3bb85d0676d7b28462b492941b7b876f6&v=4" width="24" alt="Avatar of miguelcolmenares"> miguelcolmenares
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguelcolmenares">Copy rank badge</a><br/>
+			Miguel Colmenares
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cali</td>
-		<td>1896</td>
+		<td>Bogotá, Colombia</td>
+		<td>1986</td>
 	</tr>
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/cesc1989">
-				<img src="https://avatars.githubusercontent.com/u/1375981?s=72&u=ed9d00ff9f5e03676267a24fd43ee305e4e09723&v=4" width="24" alt="Avatar of cesc1989"> cesc1989
-			</a><br/>
-			Francisco Quintero
-		</td>
-		<td>@devaspros </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1835</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/DevZyxlJs">
-				<img src="https://avatars.githubusercontent.com/u/189913226?s=72&u=ff9051b87929791d989020348a7d4698d1b41966&v=4" width="24" alt="Avatar of DevZyxlJs"> DevZyxlJs
-			</a><br/>
-			I'am Diego
-		</td>
-		<td>Stellar </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1671</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/rohaquinlop">
-				<img src="https://avatars.githubusercontent.com/u/50106623?s=72&u=4fcee2dc87f9c80457048db279549a94a6873d1d&v=4" width="24" alt="Avatar of rohaquinlop"> rohaquinlop
-			</a><br/>
-			Robin Quintero
-		</td>
-		<td>@genlogs </td>
-		<td><a href="https://twitter.com/rhafidbuilds">rhafidbuilds</a></td>
-		<td>Palmira, Colombia</td>
-		<td>1622</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/imlargo">
 				<img src="https://avatars.githubusercontent.com/u/134282467?s=72&u=ba75bf6c30bc3d58905e7cf1c61f099c81d2623b&v=4" width="24" alt="Avatar of imlargo"> imlargo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#imlargo">Copy rank badge</a><br/>
 			Juan Carlos Largo
 		</td>
 		<td>Universidad Nacional Colombia </td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia</td>
-		<td>1543</td>
+		<td>1843</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>27</td>
 		<td>
-			<a href="https://github.com/Draise14">
-				<img src="https://avatars.githubusercontent.com/u/35357409?s=72&u=9cae139efe344357516484ce3b35cc3f2d323712&v=4" width="24" alt="Avatar of Draise14"> Draise14
-			</a><br/>
-			Draise
+			<a href="https://github.com/cesc1989">
+				<img src="https://avatars.githubusercontent.com/u/1375981?s=72&u=ed9d00ff9f5e03676267a24fd43ee305e4e09723&v=4" width="24" alt="Avatar of cesc1989"> cesc1989
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cesc1989">Copy rank badge</a><br/>
+			Francisco Quintero
 		</td>
-		<td>No Company</td>
+		<td>@devaspros </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>1480</td>
+		<td>1740</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/DevZyxlJs">
+				<img src="https://avatars.githubusercontent.com/u/189913226?s=72&u=e11dce4c87cbdd83428c980c173e70f8c518a6d7&v=4" width="24" alt="Avatar of DevZyxlJs"> DevZyxlJs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DevZyxlJs">Copy rank badge</a><br/>
+			I'am Diego
+		</td>
+		<td>Stellar </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1662</td>
+	</tr>
+	<tr>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/EdgarOrtegaRamirez">
 				<img src="https://avatars.githubusercontent.com/u/2790520?s=72&u=93cf41af960856b1e588c9ad9389f4d336b785ae&v=4" width="24" alt="Avatar of EdgarOrtegaRamirez"> EdgarOrtegaRamirez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#EdgarOrtegaRamirez">Copy rank badge</a><br/>
 			Edgar Ortega
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Barranquilla, Colombia</td>
-		<td>1468</td>
+		<td>1467</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/rohaquinlop">
+				<img src="https://avatars.githubusercontent.com/u/50106623?s=72&u=4fcee2dc87f9c80457048db279549a94a6873d1d&v=4" width="24" alt="Avatar of rohaquinlop"> rohaquinlop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rohaquinlop">Copy rank badge</a><br/>
+			Robin Quintero
+		</td>
+		<td>@genlogs </td>
+		<td><a href="https://twitter.com/rhafidbuilds">rhafidbuilds</a></td>
+		<td>Palmira, Colombia</td>
+		<td>1467</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/ronalc90">
+				<img src="https://avatars.githubusercontent.com/u/36252532?s=72&u=75989d699738a88353eaf60c73984e9e92daa67a&v=4" width="24" alt="Avatar of ronalc90"> ronalc90
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ronalc90">Copy rank badge</a><br/>
+			Ronald Cipagauta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1447</td>
 	</tr>
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/rickbeerendonk">
-				<img src="https://avatars.githubusercontent.com/u/479223?s=72&u=6681b7cfe56d5f6de0a179a72b0dfb6d7b85a1ed&v=4" width="24" alt="Avatar of rickbeerendonk"> rickbeerendonk
-			</a><br/>
-			Rick Beerendonk
+			<a href="https://github.com/FabianVarela">
+				<img src="https://avatars.githubusercontent.com/u/8941029?s=72&u=19874ae14511c4efa6ccfa8e5d684260dc5596b8&v=4" width="24" alt="Avatar of FabianVarela"> FabianVarela
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#FabianVarela">Copy rank badge</a><br/>
+			Fabian Varela Bonett
 		</td>
-		<td>@oblicum  </td>
-		<td>No Twitter Username</td>
-		<td>The Netherlands / Colombia</td>
-		<td>1419</td>
+		<td>Make It Reality </td>
+		<td><a href="https://twitter.com/fabianvarelab">fabianvarelab</a></td>
+		<td>Bogotá</td>
+		<td>1343</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/ccordoba12">
-				<img src="https://avatars.githubusercontent.com/u/365293?s=72&v=4" width="24" alt="Avatar of ccordoba12"> ccordoba12
-			</a><br/>
-			Carlos Cordoba
+			<a href="https://github.com/AnderssonProgramming">
+				<img src="https://avatars.githubusercontent.com/u/158221956?s=72&u=f07024c534cdba6b0b34f47547ca0c77e5252285&v=4" width="24" alt="Avatar of AnderssonProgramming"> AnderssonProgramming
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AnderssonProgramming">Copy rank badge</a><br/>
+			ander-ECI
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ccordoba12">ccordoba12</a></td>
-		<td>Bogota, Colombia</td>
-		<td>1290</td>
+		<td>Escuela Colombiana De Ingeniería<br/>Julio<br/>Garavito<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>1327</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
 			<a href="https://github.com/mrcego">
 				<img src="https://avatars.githubusercontent.com/u/65884507?s=72&u=8e9aafc67a74066d7e7020f7d3cfc76e95ccbd06&v=4" width="24" alt="Avatar of mrcego"> mrcego
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mrcego">Copy rank badge</a><br/>
 			Cesar Gomez
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CodingWithCego">CodingWithCego</a></td>
 		<td>Cartagena - Colombia</td>
-		<td>1286</td>
+		<td>1323</td>
 	</tr>
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/FabianVarela">
-				<img src="https://avatars.githubusercontent.com/u/8941029?s=72&u=19874ae14511c4efa6ccfa8e5d684260dc5596b8&v=4" width="24" alt="Avatar of FabianVarela"> FabianVarela
-			</a><br/>
-			Fabian Varela Bonett
+			<a href="https://github.com/aalin">
+				<img src="https://avatars.githubusercontent.com/u/41148?s=72&v=4" width="24" alt="Avatar of aalin"> aalin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#aalin">Copy rank badge</a><br/>
+			Andrés Alin
 		</td>
-		<td>Make It Reality </td>
-		<td><a href="https://twitter.com/fabianvarelab">fabianvarelab</a></td>
-		<td>Bogotá</td>
-		<td>1282</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1315</td>
 	</tr>
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/davidangarita1">
-				<img src="https://avatars.githubusercontent.com/u/58228284?s=72&u=cccef2a17aef49b44f1135931fbc5a95e722de9a&v=4" width="24" alt="Avatar of davidangarita1"> davidangarita1
-			</a><br/>
-			David Angarita
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>1278</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/ruedalibre">
 				<img src="https://avatars.githubusercontent.com/u/62817659?s=72&u=049ac444b8c5332f6015e0a78d979004b93b3cb0&v=4" width="24" alt="Avatar of ruedalibre"> ruedalibre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ruedalibre">Copy rank badge</a><br/>
 			ANDRES PEREZ DIAZ
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>1271</td>
+		<td>1284</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/AndresMpa">
+				<img src="https://avatars.githubusercontent.com/u/39841241?s=72&u=4f485750f3eb04c3c67f943d3f2abf17f64022cb&v=4" width="24" alt="Avatar of AndresMpa"> AndresMpa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AndresMpa">Copy rank badge</a><br/>
+			Andrés M. Prieto
+		</td>
+		<td>Dailybot </td>
+		<td><a href="https://twitter.com/AndresMpa">AndresMpa</a></td>
+		<td>Colombia</td>
+		<td>1279</td>
 	</tr>
 	<tr>
 		<td>38</td>
 		<td>
 			<a href="https://github.com/Andres6936">
 				<img src="https://avatars.githubusercontent.com/u/18540634?s=72&u=c2cf64636794f0935a5709da3b677f70adb31ec1&v=4" width="24" alt="Avatar of Andres6936"> Andres6936
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Andres6936">Copy rank badge</a><br/>
 			Joan Andrés
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago de Cali (Colombia)</td>
-		<td>1253</td>
+		<td>1279</td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/demarchenac">
-				<img src="https://avatars.githubusercontent.com/u/20970325?s=72&u=5797aa76af3e4dc3e942b669f062d5a6c6b9ace2&v=4" width="24" alt="Avatar of demarchenac"> demarchenac
-			</a><br/>
-			Cristhian De Marchena
+			<a href="https://github.com/sebastianvelace">
+				<img src="https://avatars.githubusercontent.com/u/227471236?s=72&u=3a3adaeb1842859fb51fd82fd5548e7e7ddc63ac&v=4" width="24" alt="Avatar of sebastianvelace"> sebastianvelace
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sebastianvelace">Copy rank badge</a><br/>
+			Sebasvelace
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia.</td>
-		<td>1217</td>
+		<td><a href="https://twitter.com/Sebasti21148483">Sebasti21148483</a></td>
+		<td>Bogota colombia </td>
+		<td>1264</td>
 	</tr>
 	<tr>
 		<td>40</td>
 		<td>
-			<a href="https://github.com/ronalc90">
-				<img src="https://avatars.githubusercontent.com/u/36252532?s=72&u=75989d699738a88353eaf60c73984e9e92daa67a&v=4" width="24" alt="Avatar of ronalc90"> ronalc90
-			</a><br/>
-			Ronald Cipagauta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1191</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/Davis-3450">
-				<img src="https://avatars.githubusercontent.com/u/64158093?s=72&u=e13fc8edbdefbd3dd4a2fd5fa8bb5766bb07e713&v=4" width="24" alt="Avatar of Davis-3450"> Davis-3450
-			</a><br/>
-			Davis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1168</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
 			<a href="https://github.com/Alorse">
 				<img src="https://avatars.githubusercontent.com/u/2040873?s=72&u=b3cfb2b9f9832a56366add9cb498d64242e0733b&v=4" width="24" alt="Avatar of Alorse"> Alorse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Alorse">Copy rank badge</a><br/>
 			Alfredo Ortegón Sepúlveda
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>1103</td>
+		<td>1236</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/demarchenac">
+				<img src="https://avatars.githubusercontent.com/u/20970325?s=72&u=5797aa76af3e4dc3e942b669f062d5a6c6b9ace2&v=4" width="24" alt="Avatar of demarchenac"> demarchenac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#demarchenac">Copy rank badge</a><br/>
+			Cristhian De Marchena
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia.</td>
+		<td>1219</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/ccordoba12">
+				<img src="https://avatars.githubusercontent.com/u/365293?s=72&v=4" width="24" alt="Avatar of ccordoba12"> ccordoba12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ccordoba12">Copy rank badge</a><br/>
+			Carlos Cordoba
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ccordoba12">ccordoba12</a></td>
+		<td>Bogota, Colombia</td>
+		<td>1215</td>
 	</tr>
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/Naiker12">
-				<img src="https://avatars.githubusercontent.com/u/128765218?s=72&u=c0fc08430f587a28971154b5bf3ae32448b8a932&v=4" width="24" alt="Avatar of Naiker12"> Naiker12
-			</a><br/>
-			naiker.codes
+			<a href="https://github.com/DragonJAR">
+				<img src="https://avatars.githubusercontent.com/u/28887492?s=72&u=900846401760ff34afd852c5c1a3228d1e0374df&v=4" width="24" alt="Avatar of DragonJAR"> DragonJAR
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DragonJAR">Copy rank badge</a><br/>
+			Jaime Andrés Restrepo
 		</td>
-		<td>No Company</td>
+		<td>Dragonjar Sas </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1082</td>
+		<td>Manizales, Caldas, Colombia</td>
+		<td>1212</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/nexckycort">
-				<img src="https://avatars.githubusercontent.com/u/50475272?s=72&u=cecac0c86907d323eaa58c96eb539d59bfe35acb&v=4" width="24" alt="Avatar of nexckycort"> nexckycort
-			</a><br/>
-			Nestor Cortina
+			<a href="https://github.com/rickbeerendonk">
+				<img src="https://avatars.githubusercontent.com/u/479223?s=72&u=6681b7cfe56d5f6de0a179a72b0dfb6d7b85a1ed&v=4" width="24" alt="Avatar of rickbeerendonk"> rickbeerendonk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rickbeerendonk">Copy rank badge</a><br/>
+			Rick Beerendonk
 		</td>
-		<td>My House :) </td>
-		<td><a href="https://twitter.com/nexckycort">nexckycort</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>1039</td>
+		<td>@oblicum  </td>
+		<td>No Twitter Username</td>
+		<td>The Netherlands / Colombia</td>
+		<td>1205</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
-			<a href="https://github.com/AnderssonProgramming">
-				<img src="https://avatars.githubusercontent.com/u/158221956?s=72&u=f07024c534cdba6b0b34f47547ca0c77e5252285&v=4" width="24" alt="Avatar of AnderssonProgramming"> AnderssonProgramming
-			</a><br/>
-			ander-ECI
-		</td>
-		<td>Escuela Colombiana De Ingeniería<br/>Julio<br/>Garavito<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>1030</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/jvillegasd">
-				<img src="https://avatars.githubusercontent.com/u/23248296?s=72&u=c6bb9abb377dce45d75d2148d4d954846b620c5b&v=4" width="24" alt="Avatar of jvillegasd"> jvillegasd
-			</a><br/>
-			Johnny Villegas
-		</td>
-		<td>@camino-financial </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1022</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/aalin">
-				<img src="https://avatars.githubusercontent.com/u/41148?s=72&v=4" width="24" alt="Avatar of aalin"> aalin
-			</a><br/>
-			Andrés Alin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1021</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/hernandoabella">
-				<img src="https://avatars.githubusercontent.com/u/24196857?s=72&u=cbd0a409ad28411f2d161f0c9a45f0503526facc&v=4" width="24" alt="Avatar of hernandoabella"> hernandoabella
-			</a><br/>
-			Hernando Abella
-		</td>
-		<td>Hernando Abella  </td>
-		<td><a href="https://twitter.com/hernandoabella">hernandoabella</a></td>
-		<td>Santa Marta, Colombia</td>
-		<td>1016</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/sebastianvelace">
-				<img src="https://avatars.githubusercontent.com/u/227471236?s=72&u=3a3adaeb1842859fb51fd82fd5548e7e7ddc63ac&v=4" width="24" alt="Avatar of sebastianvelace"> sebastianvelace
-			</a><br/>
-			Sebasvelace
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogota colombia </td>
-		<td>1016</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/jkdevcode">
-				<img src="https://avatars.githubusercontent.com/u/174388386?s=72&u=9bd9d0c727f5b1d1c8f093072266c6776de74801&v=4" width="24" alt="Avatar of jkdevcode"> jkdevcode
-			</a><br/>
-			Dario Zamora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>976</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/seap-udea">
-				<img src="https://avatars.githubusercontent.com/u/11349479?s=72&u=acbe0929a666ebe3f56ddd33a25cbdc37d97dccf&v=4" width="24" alt="Avatar of seap-udea"> seap-udea
-			</a><br/>
-			Solar, Earth and Planetary Physics Group
-		</td>
-		<td>University Of Antioquia </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>947</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/eacardenase">
-				<img src="https://avatars.githubusercontent.com/u/65690946?s=72&u=6961e670668036d353fd7977d687eee7f785ea1e&v=4" width="24" alt="Avatar of eacardenase"> eacardenase
-			</a><br/>
-			Edwin Cárdenas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eacardenase">eacardenase</a></td>
-		<td>Colombia</td>
-		<td>941</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/lucas-barake">
-				<img src="https://avatars.githubusercontent.com/u/86905052?s=72&u=b96d84e08fe4a601582cc21b1a94ea2fc2e82990&v=4" width="24" alt="Avatar of lucas-barake"> lucas-barake
-			</a><br/>
-			Lucas Patron
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>939</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
 			<a href="https://github.com/pandres95">
 				<img src="https://avatars.githubusercontent.com/u/2502577?s=72&v=4" width="24" alt="Avatar of pandres95"> pandres95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pandres95">Copy rank badge</a><br/>
 			Pablo Andrés Dorado Suárez
 		</td>
 		<td>@virto-network </td>
 		<td><a href="https://twitter.com/pandres95">pandres95</a></td>
 		<td>Bogotá, Colombia</td>
-		<td>908</td>
+		<td>1137</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>46</td>
 		<td>
-			<a href="https://github.com/geovannymcode">
-				<img src="https://avatars.githubusercontent.com/u/10421376?s=72&u=580a685351d3d463500a3105375c9baba35dbc87&v=4" width="24" alt="Avatar of geovannymcode"> geovannymcode
-			</a><br/>
-			Geovanny Mendoza
+			<a href="https://github.com/nexckycort">
+				<img src="https://avatars.githubusercontent.com/u/50475272?s=72&u=cecac0c86907d323eaa58c96eb539d59bfe35acb&v=4" width="24" alt="Avatar of nexckycort"> nexckycort
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nexckycort">Copy rank badge</a><br/>
+			Nestor Cortina
 		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/geovannycode">geovannycode</a></td>
-		<td>Barranquilla - Atlantico, Colombia</td>
-		<td>901</td>
+		<td>My House :) </td>
+		<td><a href="https://twitter.com/nexckycort">nexckycort</a></td>
+		<td>Barranquilla, Colombia</td>
+		<td>1137</td>
 	</tr>
 	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/mateodaza">
-				<img src="https://avatars.githubusercontent.com/u/18689480?s=72&u=b8f9680a86047d7a71f82be066c0553b8a4028ba&v=4" width="24" alt="Avatar of mateodaza"> mateodaza
-			</a><br/>
-			Mateo Daza
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mateodazab">mateodazab</a></td>
-		<td>Colombia</td>
-		<td>898</td>
-	</tr>
-	<tr>
-		<td>57</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/miguelnietoa">
 				<img src="https://avatars.githubusercontent.com/u/39246879?s=72&u=c8182159a7ee9cd3b83d32f05b714bcd363691b7&v=4" width="24" alt="Avatar of miguelnietoa"> miguelnietoa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguelnietoa">Copy rank badge</a><br/>
 			Miguel Nieto
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>890</td>
+		<td>1130</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/maoacr">
+				<img src="https://avatars.githubusercontent.com/u/46768525?s=72&u=5527f56b2ec7636bee964e176742a064a6be224e&v=4" width="24" alt="Avatar of maoacr"> maoacr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#maoacr">Copy rank badge</a><br/>
+			const { dev } = Mao;
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/maoacr">maoacr</a></td>
+		<td>Colombia</td>
+		<td>1113</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/cardel">
+				<img src="https://avatars.githubusercontent.com/u/619145?s=72&u=3d826dc17e36cd2020d353ce3ad895ed8b125921&v=4" width="24" alt="Avatar of cardel"> cardel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cardel">Copy rank badge</a><br/>
+			Carlos Andres Delgado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1093</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/lucas-barake">
+				<img src="https://avatars.githubusercontent.com/u/86905052?s=72&u=b96d84e08fe4a601582cc21b1a94ea2fc2e82990&v=4" width="24" alt="Avatar of lucas-barake"> lucas-barake
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lucas-barake">Copy rank badge</a><br/>
+			Lucas Patron
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1064</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/davidangarita1">
+				<img src="https://avatars.githubusercontent.com/u/58228284?s=72&u=cccef2a17aef49b44f1135931fbc5a95e722de9a&v=4" width="24" alt="Avatar of davidangarita1"> davidangarita1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davidangarita1">Copy rank badge</a><br/>
+			David Angarita
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>1044</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/mateodaza">
+				<img src="https://avatars.githubusercontent.com/u/18689480?s=72&u=b8f9680a86047d7a71f82be066c0553b8a4028ba&v=4" width="24" alt="Avatar of mateodaza"> mateodaza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mateodaza">Copy rank badge</a><br/>
+			Mateo Daza
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mateodazab">mateodazab</a></td>
+		<td>Colombia</td>
+		<td>1029</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/Naiker12">
+				<img src="https://avatars.githubusercontent.com/u/128765218?s=72&u=c0fc08430f587a28971154b5bf3ae32448b8a932&v=4" width="24" alt="Avatar of Naiker12"> Naiker12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Naiker12">Copy rank badge</a><br/>
+			naiker.codes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1016</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/seap-udea">
+				<img src="https://avatars.githubusercontent.com/u/11349479?s=72&u=acbe0929a666ebe3f56ddd33a25cbdc37d97dccf&v=4" width="24" alt="Avatar of seap-udea"> seap-udea
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#seap-udea">Copy rank badge</a><br/>
+			Solar, Earth and Planetary Physics Group
+		</td>
+		<td>University Of Antioquia </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>980</td>
+	</tr>
+	<tr>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/germanescobar">
 				<img src="https://avatars.githubusercontent.com/u/166389?s=72&u=3c1ce398da1da08a5c01fdae325666600066da67&v=4" width="24" alt="Avatar of germanescobar"> germanescobar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#germanescobar">Copy rank badge</a><br/>
 			German Escobar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia</td>
-		<td>865</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/jvillegasd">
+				<img src="https://avatars.githubusercontent.com/u/23248296?s=72&u=c6bb9abb377dce45d75d2148d4d954846b620c5b&v=4" width="24" alt="Avatar of jvillegasd"> jvillegasd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jvillegasd">Copy rank badge</a><br/>
+			Johnny Villegas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>972</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/eacardenase">
+				<img src="https://avatars.githubusercontent.com/u/65690946?s=72&u=6961e670668036d353fd7977d687eee7f785ea1e&v=4" width="24" alt="Avatar of eacardenase"> eacardenase
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#eacardenase">Copy rank badge</a><br/>
+			Edwin Cárdenas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eacardenase">eacardenase</a></td>
+		<td>Colombia</td>
+		<td>965</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/Davis-3450">
+				<img src="https://avatars.githubusercontent.com/u/64158093?s=72&u=e13fc8edbdefbd3dd4a2fd5fa8bb5766bb07e713&v=4" width="24" alt="Avatar of Davis-3450"> Davis-3450
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Davis-3450">Copy rank badge</a><br/>
+			Davis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>948</td>
 	</tr>
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/barbosa89">
-				<img src="https://avatars.githubusercontent.com/u/9729573?s=72&u=581c8e6b811922c20bf10ed6962ce3dadb3c4af6&v=4" width="24" alt="Avatar of barbosa89"> barbosa89
-			</a><br/>
-			Omar A. Barbosa Ortiz
+			<a href="https://github.com/jhonsu01">
+				<img src="https://avatars.githubusercontent.com/u/1801015?s=72&u=39e8fd19b99be144b745720572b57c9ba2199476&v=4" width="24" alt="Avatar of jhonsu01"> jhonsu01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jhonsu01">Copy rank badge</a><br/>
+			Jhon Supelano
 		</td>
-		<td>7pack </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JHONSU777">JHONSU777</a></td>
 		<td>Colombia</td>
-		<td>848</td>
+		<td>938</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/mariobot">
-				<img src="https://avatars.githubusercontent.com/u/1220191?s=72&v=4" width="24" alt="Avatar of mariobot"> mariobot
-			</a><br/>
-			Mario Botero
+			<a href="https://github.com/Youngermaster">
+				<img src="https://avatars.githubusercontent.com/u/36933318?s=72&u=ae9a1cc756e5db37656d32c0cde0a2dde0d935a8&v=4" width="24" alt="Avatar of Youngermaster"> Youngermaster
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Youngermaster">Copy rank badge</a><br/>
+			Juan Manuel Young Hoyos
 		</td>
-		<td>Home </td>
-		<td><a href="https://twitter.com/mariobot">mariobot</a></td>
-		<td>Colombia</td>
-		<td>844</td>
+		<td>@grisu-studio </td>
+		<td><a href="https://twitter.com/jmyounghoyos">jmyounghoyos</a></td>
+		<td>Medellín, Colombia</td>
+		<td>911</td>
 	</tr>
 	<tr>
 		<td>61</td>
 		<td>
 			<a href="https://github.com/johinsDev">
 				<img src="https://avatars.githubusercontent.com/u/23360793?s=72&u=33d49e42487a434576c8c2e17897f2a692d87bb4&v=4" width="24" alt="Avatar of johinsDev"> johinsDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#johinsDev">Copy rank badge</a><br/>
 			Johan Villamil
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>816</td>
+		<td>907</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/DanielCardonaRojas">
-				<img src="https://avatars.githubusercontent.com/u/5472687?s=72&v=4" width="24" alt="Avatar of DanielCardonaRojas"> DanielCardonaRojas
-			</a><br/>
-			Daniel Cardona Rojas
+			<a href="https://github.com/nakednous">
+				<img src="https://avatars.githubusercontent.com/u/645599?s=72&v=4" width="24" alt="Avatar of nakednous"> nakednous
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nakednous">Copy rank badge</a><br/>
+			Jean Pierre Charalambos
 		</td>
-		<td>No Company</td>
+		<td>Universidad Nacional De Colombia<br/></td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Antioquia, Colombia</td>
-		<td>815</td>
+		<td>Colombia</td>
+		<td>899</td>
 	</tr>
 	<tr>
 		<td>63</td>
 		<td>
-			<a href="https://github.com/sierraporta">
-				<img src="https://avatars.githubusercontent.com/u/29123331?s=72&u=536839628ac42644a1388d1f298e5896f57ca857&v=4" width="24" alt="Avatar of sierraporta"> sierraporta
-			</a><br/>
-			David Sierra Porta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>815</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/Maikpwwq">
-				<img src="https://avatars.githubusercontent.com/u/34326347?s=72&u=3db4b0e3e77a45ac6e327a302b0e45a7cd657f56&v=4" width="24" alt="Avatar of Maikpwwq"> Maikpwwq
-			</a><br/>
-			Michael Arias Fajardo
-		</td>
-		<td>Nexasoft Sas </td>
-		<td><a href="https://twitter.com/nkiqi_">nkiqi_</a></td>
-		<td>Colombia, Bogotá</td>
-		<td>799</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/jhonsu01">
-				<img src="https://avatars.githubusercontent.com/u/1801015?s=72&u=fab11e455fe79a5c6257167bb08dbd7f45f5768d&v=4" width="24" alt="Avatar of jhonsu01"> jhonsu01
-			</a><br/>
-			Jhon Supelano
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JHONSU777">JHONSU777</a></td>
-		<td>Colombia</td>
-		<td>790</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
 			<a href="https://github.com/espinosacodes">
-				<img src="https://avatars.githubusercontent.com/u/137323891?s=72&u=df2b047ebf384e7b4ec96626bffeafa85b2f0632&v=4" width="24" alt="Avatar of espinosacodes"> espinosacodes
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/137323891?s=72&u=855f226649dfea437cfcadb308ddda00de1a8f7d&v=4" width="24" alt="Avatar of espinosacodes"> espinosacodes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#espinosacodes">Copy rank badge</a><br/>
 			Santiago Espinosa Giraldo
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/espinosacodes">espinosacodes</a></td>
 		<td>Colombia</td>
-		<td>779</td>
+		<td>887</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/Snt8">
+				<img src="https://avatars.githubusercontent.com/u/197444053?s=72&u=05b8aea335019ff4a03007b652b9106b0eef4847&v=4" width="24" alt="Avatar of Snt8"> Snt8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Snt8">Copy rank badge</a><br/>
+			Edy S. Avila
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá D.C., Colombia</td>
+		<td>852</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/hernandoabella">
+				<img src="https://avatars.githubusercontent.com/u/24196857?s=72&u=cbd0a409ad28411f2d161f0c9a45f0503526facc&v=4" width="24" alt="Avatar of hernandoabella"> hernandoabella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hernandoabella">Copy rank badge</a><br/>
+			Hernando Abella
+		</td>
+		<td>Hernando Abella  </td>
+		<td><a href="https://twitter.com/hernandoabella">hernandoabella</a></td>
+		<td>Santa Marta, Colombia</td>
+		<td>844</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/Maikpwwq">
+				<img src="https://avatars.githubusercontent.com/u/34326347?s=72&u=3db4b0e3e77a45ac6e327a302b0e45a7cd657f56&v=4" width="24" alt="Avatar of Maikpwwq"> Maikpwwq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Maikpwwq">Copy rank badge</a><br/>
+			Michael Arias Fajardo
+		</td>
+		<td>Nexasoft Sas </td>
+		<td><a href="https://twitter.com/nkiqi_">nkiqi_</a></td>
+		<td>Colombia, Bogotá</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/DavidsDvm">
-				<img src="https://avatars.githubusercontent.com/u/33884578?s=72&u=ef203180ba47a19548ad2a5f26f37b9e96b3ee4e&v=4" width="24" alt="Avatar of DavidsDvm"> DavidsDvm
-			</a><br/>
-			DavidsDvm
+			<a href="https://github.com/CarlosMendez1997Col">
+				<img src="https://avatars.githubusercontent.com/u/132113522?s=72&u=1339a486f708d997fdf9f06d50de7db37b24961b&v=4" width="24" alt="Avatar of CarlosMendez1997Col"> CarlosMendez1997Col
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CarlosMendez1997Col">Copy rank badge</a><br/>
+			Carlos Mendez
 		</td>
-		<td>No Company</td>
+		<td>Stockholm Environment Institute (sei)<br/></td>
 		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>771</td>
+		<td>Bogotá, Colombia</td>
+		<td>839</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/DragonJAR">
-				<img src="https://avatars.githubusercontent.com/u/28887492?s=72&u=900846401760ff34afd852c5c1a3228d1e0374df&v=4" width="24" alt="Avatar of DragonJAR"> DragonJAR
-			</a><br/>
-			Jaime Andrés Restrepo
+			<a href="https://github.com/geovannymcode">
+				<img src="https://avatars.githubusercontent.com/u/10421376?s=72&u=580a685351d3d463500a3105375c9baba35dbc87&v=4" width="24" alt="Avatar of geovannymcode"> geovannymcode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#geovannymcode">Copy rank badge</a><br/>
+			Geovanny Mendoza
 		</td>
-		<td>Dragonjar Sas </td>
-		<td>No Twitter Username</td>
-		<td>Manizales, Caldas, Colombia</td>
-		<td>761</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/geovannycode">geovannycode</a></td>
+		<td>Barranquilla - Atlantico, Colombia</td>
+		<td>829</td>
 	</tr>
 	<tr>
 		<td>69</td>
 		<td>
 			<a href="https://github.com/felipemontoya">
 				<img src="https://avatars.githubusercontent.com/u/2816902?s=72&u=e5a24f528085557527e71a778f4589bf4568ce10&v=4" width="24" alt="Avatar of felipemontoya"> felipemontoya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#felipemontoya">Copy rank badge</a><br/>
 			Felipe Montoya
 		</td>
 		<td>@edunext </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá</td>
-		<td>751</td>
+		<td>826</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
-			<a href="https://github.com/maoacr">
-				<img src="https://avatars.githubusercontent.com/u/46768525?s=72&u=5527f56b2ec7636bee964e176742a064a6be224e&v=4" width="24" alt="Avatar of maoacr"> maoacr
-			</a><br/>
-			const { dev } = Mao;
+			<a href="https://github.com/mariobot">
+				<img src="https://avatars.githubusercontent.com/u/1220191?s=72&v=4" width="24" alt="Avatar of mariobot"> mariobot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mariobot">Copy rank badge</a><br/>
+			Mario Botero
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/maoacr">maoacr</a></td>
+		<td>Home </td>
+		<td><a href="https://twitter.com/mariobot">mariobot</a></td>
 		<td>Colombia</td>
-		<td>751</td>
+		<td>810</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/Achalogy">
-				<img src="https://avatars.githubusercontent.com/u/62490806?s=72&u=53553a88a9bdb11b76479ea04777590c5ffd03a6&v=4" width="24" alt="Avatar of Achalogy"> Achalogy
-			</a><br/>
-			Acha
+			<a href="https://github.com/jkdevcode">
+				<img src="https://avatars.githubusercontent.com/u/174388386?s=72&u=9bd9d0c727f5b1d1c8f093072266c6776de74801&v=4" width="24" alt="Avatar of jkdevcode"> jkdevcode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jkdevcode">Copy rank badge</a><br/>
+			Dario Zamora
 		</td>
-		<td>Achalogy </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>740</td>
+		<td>809</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/juanferfranco">
-				<img src="https://avatars.githubusercontent.com/u/2473101?s=72&u=7cadc682c36634397c89c14b30eb187d10444692&v=4" width="24" alt="Avatar of juanferfranco"> juanferfranco
-			</a><br/>
-			Juan Fernando Franco Higuita
+			<a href="https://github.com/sierraporta">
+				<img src="https://avatars.githubusercontent.com/u/29123331?s=72&u=536839628ac42644a1388d1f298e5896f57ca857&v=4" width="24" alt="Avatar of sierraporta"> sierraporta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sierraporta">Copy rank badge</a><br/>
+			David Sierra Porta
 		</td>
-		<td>Universidad Pontificia Bolivariana </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellín-Colombia</td>
-		<td>722</td>
+		<td>Colombia</td>
+		<td>799</td>
 	</tr>
 	<tr>
 		<td>73</td>
 		<td>
+			<a href="https://github.com/DanielCardonaRojas">
+				<img src="https://avatars.githubusercontent.com/u/5472687?s=72&v=4" width="24" alt="Avatar of DanielCardonaRojas"> DanielCardonaRojas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DanielCardonaRojas">Copy rank badge</a><br/>
+			Daniel Cardona Rojas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Antioquia, Colombia</td>
+		<td>794</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/DavidsDvm">
+				<img src="https://avatars.githubusercontent.com/u/33884578?s=72&u=ef203180ba47a19548ad2a5f26f37b9e96b3ee4e&v=4" width="24" alt="Avatar of DavidsDvm"> DavidsDvm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DavidsDvm">Copy rank badge</a><br/>
+			DavidsDvm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>769</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/amalvarezme">
+				<img src="https://avatars.githubusercontent.com/u/48390324?s=72&u=a1825a38121eaa497abc12cd73bb59666f8f4001&v=4" width="24" alt="Avatar of amalvarezme"> amalvarezme
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#amalvarezme">Copy rank badge</a><br/>
+			Andrés Marino Álvarez Meza
+		</td>
+		<td>Universidad Nacional De Colombia<br/>Sede<br/>Manizales<br/></td>
+		<td>No Twitter Username</td>
+		<td>Manizales, Caldas - Colombia</td>
+		<td>762</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
 			<a href="https://github.com/Nickware">
 				<img src="https://avatars.githubusercontent.com/u/17228704?s=72&u=1875365f3192842c9951c5048a40ca21edbe182c&v=4" width="24" alt="Avatar of Nickware"> Nickware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Nickware">Copy rank badge</a><br/>
 			Nicolás Torres
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
-		<td>713</td>
+		<td>735</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>77</td>
 		<td>
-			<a href="https://github.com/dalgarins">
-				<img src="https://avatars.githubusercontent.com/u/8527174?s=72&u=9e0ec484523a8db384ebc4899bc3b8beb28acd39&v=4" width="24" alt="Avatar of dalgarins"> dalgarins
-			</a><br/>
-			Darwin Esteban Algarin Sarmiento
+			<a href="https://github.com/barbosa89">
+				<img src="https://avatars.githubusercontent.com/u/9729573?s=72&u=581c8e6b811922c20bf10ed6962ce3dadb3c4af6&v=4" width="24" alt="Avatar of barbosa89"> barbosa89
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#barbosa89">Copy rank badge</a><br/>
+			Omar A. Barbosa Ortiz
 		</td>
-		<td>No Company</td>
+		<td>7pack </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>712</td>
+		<td>727</td>
 	</tr>
 	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/omazapa">
-				<img src="https://avatars.githubusercontent.com/u/275148?s=72&u=0916a7b08af34109bba755ef220c3c4d8dde62b1&v=4" width="24" alt="Avatar of omazapa"> omazapa
-			</a><br/>
-			Omar  Zapata 
-		</td>
-		<td>Cern </td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>706</td>
-	</tr>
-	<tr>
-		<td>76</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/aleocampodev">
 				<img src="https://avatars.githubusercontent.com/u/38270435?s=72&u=8484184c9bb3040aa285c828c544c05fc0342d6f&v=4" width="24" alt="Avatar of aleocampodev"> aleocampodev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#aleocampodev">Copy rank badge</a><br/>
 			Alejandra Ocampo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellin,Colombia</td>
-		<td>700</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/c4milo">
-				<img src="https://avatars.githubusercontent.com/u/41681?s=72&u=6735b4e7a861c3431ef92c60fc79a957e4e77ca7&v=4" width="24" alt="Avatar of c4milo"> c4milo
-			</a><br/>
-			Camilo Aguilar
-		</td>
-		<td>Coreweave </td>
-		<td>No Twitter Username</td>
-		<td>Medellín and New York.</td>
-		<td>680</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/cansadadeserfeliz">
-				<img src="https://avatars.githubusercontent.com/u/2270752?s=72&u=158799321778accbec5767870f2150568aef9212&v=4" width="24" alt="Avatar of cansadadeserfeliz"> cansadadeserfeliz
-			</a><br/>
-			Vera
-		</td>
-		<td>Desparchado.co </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>680</td>
+		<td>709</td>
 	</tr>
 	<tr>
 		<td>79</td>
 		<td>
-			<a href="https://github.com/jcduro">
-				<img src="https://avatars.githubusercontent.com/u/69373493?s=72&u=aea7d35436698fb98d6c29842cc50dd803029ccf&v=4" width="24" alt="Avatar of jcduro"> jcduro
-			</a><br/>
-			JUAN CARLOS
+			<a href="https://github.com/Achalogy">
+				<img src="https://avatars.githubusercontent.com/u/62490806?s=72&u=53553a88a9bdb11b76479ea04777590c5ffd03a6&v=4" width="24" alt="Avatar of Achalogy"> Achalogy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Achalogy">Copy rank badge</a><br/>
+			Acha
 		</td>
-		<td>Bexartideas.com </td>
+		<td>Achalogy </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>661</td>
+		<td>706</td>
 	</tr>
 	<tr>
 		<td>80</td>
 		<td>
-			<a href="https://github.com/Snt8">
-				<img src="https://avatars.githubusercontent.com/u/197444053?s=72&u=05b8aea335019ff4a03007b652b9106b0eef4847&v=4" width="24" alt="Avatar of Snt8"> Snt8
-			</a><br/>
-			Edy S. Avila
+			<a href="https://github.com/omazapa">
+				<img src="https://avatars.githubusercontent.com/u/275148?s=72&u=0916a7b08af34109bba755ef220c3c4d8dde62b1&v=4" width="24" alt="Avatar of omazapa"> omazapa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#omazapa">Copy rank badge</a><br/>
+			Omar  Zapata 
 		</td>
-		<td>No Company</td>
+		<td>Cern </td>
 		<td>No Twitter Username</td>
-		<td>Bogotá D.C., Colombia</td>
-		<td>661</td>
+		<td>Medellín</td>
+		<td>692</td>
 	</tr>
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/CarlosMendez1997Col">
-				<img src="https://avatars.githubusercontent.com/u/132113522?s=72&u=1339a486f708d997fdf9f06d50de7db37b24961b&v=4" width="24" alt="Avatar of CarlosMendez1997Col"> CarlosMendez1997Col
-			</a><br/>
-			Carlos Mendez
+			<a href="https://github.com/jzamora5">
+				<img src="https://avatars.githubusercontent.com/u/15051424?s=72&u=65c47f8120e5f312e9359daf6cbee928c9b62fbe&v=4" width="24" alt="Avatar of jzamora5"> jzamora5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jzamora5">Copy rank badge</a><br/>
+			Jhoan Stiven Zamora
 		</td>
-		<td>Stockholm Environment Institute (sei)<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>645</td>
+		<td>688</td>
 	</tr>
 	<tr>
 		<td>82</td>
 		<td>
-			<a href="https://github.com/urian121">
-				<img src="https://avatars.githubusercontent.com/u/5271446?s=72&u=ef0298e763b5e19f2592a0f8a945e52ff723d1d2&v=4" width="24" alt="Avatar of urian121"> urian121
-			</a><br/>
-			URIAN VIERA
+			<a href="https://github.com/Noisk8">
+				<img src="https://avatars.githubusercontent.com/u/17709296?s=72&u=5c0b7caf1ac6f9dc092229b6f3bdb70a9a5a1b5a&v=4" width="24" alt="Avatar of Noisk8"> Noisk8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Noisk8">Copy rank badge</a><br/>
+			Noisk8
 		</td>
-		<td>No Company</td>
+		<td>@platohedro  </td>
 		<td>No Twitter Username</td>
-		<td>Bogotá, Fontibón - Colombia</td>
-		<td>626</td>
+		<td>Medellín</td>
+		<td>686</td>
 	</tr>
 	<tr>
 		<td>83</td>
 		<td>
 			<a href="https://github.com/brayandiazc">
 				<img src="https://avatars.githubusercontent.com/u/7065934?s=72&u=ce8586aea6048da821a2c1d2da6abaae93339a35&v=4" width="24" alt="Avatar of brayandiazc"> brayandiazc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#brayandiazc">Copy rank badge</a><br/>
 			Brayan Diaz C
 		</td>
 		<td>@adalid-cl @uddbootcamp @desafiolatam @iqonno<br/></td>
 		<td><a href="https://twitter.com/brayandiazc">brayandiazc</a></td>
 		<td>Colombia</td>
-		<td>606</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/guevaraStian">
-				<img src="https://avatars.githubusercontent.com/u/22348210?s=72&u=14d2468b698f1e261df2a980212dcf8bf2294a83&v=4" width="24" alt="Avatar of guevaraStian"> guevaraStian
-			</a><br/>
-			GuevaraStian
+			<a href="https://github.com/dalgarins">
+				<img src="https://avatars.githubusercontent.com/u/8527174?s=72&u=9e0ec484523a8db384ebc4899bc3b8beb28acd39&v=4" width="24" alt="Avatar of dalgarins"> dalgarins
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dalgarins">Copy rank badge</a><br/>
+			Darwin Esteban Algarin Sarmiento
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>602</td>
+		<td>649</td>
 	</tr>
 	<tr>
 		<td>85</td>
 		<td>
-			<a href="https://github.com/cardel">
-				<img src="https://avatars.githubusercontent.com/u/619145?s=72&u=3d826dc17e36cd2020d353ce3ad895ed8b125921&v=4" width="24" alt="Avatar of cardel"> cardel
-			</a><br/>
-			Carlos Andres Delgado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>598</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/Youngermaster">
-				<img src="https://avatars.githubusercontent.com/u/36933318?s=72&u=ae9a1cc756e5db37656d32c0cde0a2dde0d935a8&v=4" width="24" alt="Avatar of Youngermaster"> Youngermaster
-			</a><br/>
-			Juan Manuel Young Hoyos
-		</td>
-		<td>@grisu-studio </td>
-		<td><a href="https://twitter.com/jmyounghoyos">jmyounghoyos</a></td>
-		<td>Medellín, Colombia</td>
-		<td>597</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/Noisk8">
-				<img src="https://avatars.githubusercontent.com/u/17709296?s=72&u=5c0b7caf1ac6f9dc092229b6f3bdb70a9a5a1b5a&v=4" width="24" alt="Avatar of Noisk8"> Noisk8
-			</a><br/>
-			Noisk8
-		</td>
-		<td>@platohedro  </td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>596</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
 			<a href="https://github.com/contactochronoshield-cyber">
 				<img src="https://avatars.githubusercontent.com/u/250069304?s=72&u=5afa051b8a8ddbbaf24ccb8bddcf04b1f2fd9301&v=4" width="24" alt="Avatar of contactochronoshield-cyber"> contactochronoshield-cyber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#contactochronoshield-cyber">Copy rank badge</a><br/>
 			Chrono Shield Systems
 		</td>
 		<td>Chrono Shield Networks <br/></td>
 		<td>No Twitter Username</td>
 		<td>Bogotá,Colombia</td>
-		<td>575</td>
+		<td>635</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>86</td>
 		<td>
-			<a href="https://github.com/elpapi42">
-				<img src="https://avatars.githubusercontent.com/u/17053461?s=72&u=cbe01397bc2f8ab575bff0d712b53dfc0b05fce4&v=4" width="24" alt="Avatar of elpapi42"> elpapi42
-			</a><br/>
-			Whitman Bohorquez
+			<a href="https://github.com/jairoFernandez">
+				<img src="https://avatars.githubusercontent.com/u/3932407?s=72&u=7bead3f7196fda89b5708a3cab9355ab0788c4f6&v=4" width="24" alt="Avatar of jairoFernandez"> jairoFernandez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jairoFernandez">Copy rank badge</a><br/>
+			Jairo Fernández
 		</td>
-		<td>No Company</td>
+		<td>@konstructio  </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>564</td>
+		<td>Bogotá, Colombia</td>
+		<td>613</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/SebasYe05">
 				<img src="https://avatars.githubusercontent.com/u/139504148?s=72&u=37f779652cdb8612ffb71107b9c8ef38ac67d33c&v=4" width="24" alt="Avatar of SebasYe05"> SebasYe05
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#SebasYe05">Copy rank badge</a><br/>
 			Sebastian Sotomayor
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>563</td>
+		<td>607</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/guevaraStian">
+				<img src="https://avatars.githubusercontent.com/u/22348210?s=72&u=14d2468b698f1e261df2a980212dcf8bf2294a83&v=4" width="24" alt="Avatar of guevaraStian"> guevaraStian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#guevaraStian">Copy rank badge</a><br/>
+			GuevaraStian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>596</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/jcduro">
+				<img src="https://avatars.githubusercontent.com/u/69373493?s=72&u=aea7d35436698fb98d6c29842cc50dd803029ccf&v=4" width="24" alt="Avatar of jcduro"> jcduro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jcduro">Copy rank badge</a><br/>
+			JUAN CARLOS
+		</td>
+		<td>Bexartideas.com </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>594</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/mnesarco">
+				<img src="https://avatars.githubusercontent.com/u/1087317?s=72&u=ce1626832b2e2830656f954fc6d5c1a45e8c26e2&v=4" width="24" alt="Avatar of mnesarco"> mnesarco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mnesarco">Copy rank badge</a><br/>
+			Frank David Martínez M
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mnesarco">mnesarco</a></td>
+		<td>Colombia</td>
+		<td>593</td>
 	</tr>
 	<tr>
 		<td>91</td>
 		<td>
+			<a href="https://github.com/Edu4rdSHL">
+				<img src="https://avatars.githubusercontent.com/u/32582878?s=72&u=9cb36185e38fcc2d3890ce07fbd652e25019e228&v=4" width="24" alt="Avatar of Edu4rdSHL"> Edu4rdSHL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Edu4rdSHL">Copy rank badge</a><br/>
+			Eduard Tolosa
+		</td>
+		<td>Somos Internet </td>
+		<td><a href="https://twitter.com/edu4rdshl">edu4rdshl</a></td>
+		<td>Colombia</td>
+		<td>586</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/ema28pro">
+				<img src="https://avatars.githubusercontent.com/u/183181665?s=72&u=0e5e8179795e6ff7516c5da3ed75b2ba639c7e1b&v=4" width="24" alt="Avatar of ema28pro"> ema28pro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ema28pro">Copy rank badge</a><br/>
+			Emanuel López Franco
+		</td>
+		<td>The Path Of Becoming<br/>Inc.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>579</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/elpapi42">
+				<img src="https://avatars.githubusercontent.com/u/17053461?s=72&u=cbe01397bc2f8ab575bff0d712b53dfc0b05fce4&v=4" width="24" alt="Avatar of elpapi42"> elpapi42
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#elpapi42">Copy rank badge</a><br/>
+			Whitman Bohorquez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>578</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/miguel-vila">
+				<img src="https://avatars.githubusercontent.com/u/824335?s=72&u=d56da5e4ebb5c3926514bd3bdb9d671e9cb4d374&v=4" width="24" alt="Avatar of miguel-vila"> miguel-vila
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguel-vila">Copy rank badge</a><br/>
+			Miguel Vilá
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>562</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/urian121">
+				<img src="https://avatars.githubusercontent.com/u/5271446?s=72&u=ef0298e763b5e19f2592a0f8a945e52ff723d1d2&v=4" width="24" alt="Avatar of urian121"> urian121
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#urian121">Copy rank badge</a><br/>
+			URIAN VIERA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Fontibón - Colombia</td>
+		<td>561</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/AndresCdo">
+				<img src="https://avatars.githubusercontent.com/u/73312784?s=72&u=35f1c7462be53cb1a835aa7d34872c88a2d23838&v=4" width="24" alt="Avatar of AndresCdo"> AndresCdo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AndresCdo">Copy rank badge</a><br/>
+			Andres Caicedo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>561</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/cosmoscalibur">
+				<img src="https://avatars.githubusercontent.com/u/1097777?s=72&u=72f15528a5387a30d7031a6d88b6b580bfd41aee&v=4" width="24" alt="Avatar of cosmoscalibur"> cosmoscalibur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cosmoscalibur">Copy rank badge</a><br/>
+			Edward Villegas-Pulgarin
+		</td>
+		<td>@tributi-co </td>
+		<td><a href="https://twitter.com/cosmoscalibur">cosmoscalibur</a></td>
+		<td>Medellin, Colombia</td>
+		<td>556</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
 			<a href="https://github.com/marcos-rg">
 				<img src="https://avatars.githubusercontent.com/u/138086115?s=72&u=398d78bffa17b242e379743e6d693bfbfcd518dd&v=4" width="24" alt="Avatar of marcos-rg"> marcos-rg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marcos-rg">Copy rank badge</a><br/>
 			Marcos Reyes
 		</td>
 		<td>No Company</td>
@@ -1288,12 +1381,38 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>552</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>99</td>
 		<td>
-			<a href="https://github.com/miguel-vila">
-				<img src="https://avatars.githubusercontent.com/u/824335?s=72&u=d56da5e4ebb5c3926514bd3bdb9d671e9cb4d374&v=4" width="24" alt="Avatar of miguel-vila"> miguel-vila
-			</a><br/>
-			Miguel Vilá
+			<a href="https://github.com/YeisonCardona">
+				<img src="https://avatars.githubusercontent.com/u/4206584?s=72&u=e60ef1345e99b8353a846485294f28d37f13778f&v=4" width="24" alt="Avatar of YeisonCardona"> YeisonCardona
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#YeisonCardona">Copy rank badge</a><br/>
+			Yeison Cardona
+		</td>
+		<td>Dunderlab </td>
+		<td>No Twitter Username</td>
+		<td>Manizales - Colombia</td>
+		<td>551</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/cansadadeserfeliz">
+				<img src="https://avatars.githubusercontent.com/u/2270752?s=72&u=158799321778accbec5767870f2150568aef9212&v=4" width="24" alt="Avatar of cansadadeserfeliz"> cansadadeserfeliz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cansadadeserfeliz">Copy rank badge</a><br/>
+			Vera
+		</td>
+		<td>Desparchado.co </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>547</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/Zay-M3">
+				<img src="https://avatars.githubusercontent.com/u/181848019?s=72&u=91998e8e457004536a834be08b33a8f0a60b5686&v=4" width="24" alt="Avatar of Zay-M3"> Zay-M3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Zay-M3">Copy rank badge</a><br/>
+			Oscar Estrada Betancout
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1301,271 +1420,271 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/MrUprizing">
-				<img src="https://avatars.githubusercontent.com/u/111722885?s=72&u=75994eecc6938b1ce1ce8099559f1aabb31efe14&v=4" width="24" alt="Avatar of MrUprizing"> MrUprizing
-			</a><br/>
-			Nicolas Vargas
-		</td>
-		<td>@crafter-station </td>
-		<td><a href="https://twitter.com/MrUprizing">MrUprizing</a></td>
-		<td>Bogotá - Colombia</td>
-		<td>526</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/IvanCastroRuiz">
-				<img src="https://avatars.githubusercontent.com/u/89880933?s=72&u=d86cf9be765636252458386be72a6a02a0e5bcee&v=4" width="24" alt="Avatar of IvanCastroRuiz"> IvanCastroRuiz
-			</a><br/>
-			Ivan Castro Ruiz
-		</td>
-		<td>Systems Plus Tecnologies </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla</td>
-		<td>522</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/cardotrejos">
-				<img src="https://avatars.githubusercontent.com/u/8602086?s=72&u=9caf0ad872a9d96b7b305552fb178c9ce9cf00cf&v=4" width="24" alt="Avatar of cardotrejos"> cardotrejos
-			</a><br/>
-			Ricardo Trejos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cardotrejos">cardotrejos</a></td>
-		<td>Medellín, Colombia</td>
-		<td>517</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/Zay-M3">
-				<img src="https://avatars.githubusercontent.com/u/181848019?s=72&u=91998e8e457004536a834be08b33a8f0a60b5686&v=4" width="24" alt="Avatar of Zay-M3"> Zay-M3
-			</a><br/>
-			Oscar Estrada Betancout
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>517</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/escamoteur">
-				<img src="https://avatars.githubusercontent.com/u/16635729?s=72&u=4639a20c318c0407121f106e1e0ee76221a9bb7d&v=4" width="24" alt="Avatar of escamoteur"> escamoteur
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Thomasburkhartb">Thomasburkhartb</a></td>
-		<td>Medellin, Colombia</td>
-		<td>514</td>
-	</tr>
-	<tr>
-		<td>98</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/fugazi">
 				<img src="https://avatars.githubusercontent.com/u/403366?s=72&v=4" width="24" alt="Avatar of fugazi"> fugazi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fugazi">Copy rank badge</a><br/>
 			Douglas Fugazi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellin, Colombia</td>
-		<td>510</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/nakednous">
-				<img src="https://avatars.githubusercontent.com/u/645599?s=72&v=4" width="24" alt="Avatar of nakednous"> nakednous
-			</a><br/>
-			Jean Pierre Charalambos
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>505</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/fredericksalazar">
-				<img src="https://avatars.githubusercontent.com/u/1855499?s=72&u=76865e920915b84c0ad4f48cf53ac963844996f4&v=4" width="24" alt="Avatar of fredericksalazar"> fredericksalazar
-			</a><br/>
-			FrederickSalazar
-		</td>
-		<td>Globant </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>499</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/KingDarBoja">
-				<img src="https://avatars.githubusercontent.com/u/30560560?s=72&u=8e9f7826d598d9e9cab2eb036e02ff067b4ded95&v=4" width="24" alt="Avatar of KingDarBoja"> KingDarBoja
-			</a><br/>
-			KingDarBoja
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>497</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/lporras">
-				<img src="https://avatars.githubusercontent.com/u/232293?s=72&u=3e25a9f8a1023a65c47b1226ad7c606878be2783&v=4" width="24" alt="Avatar of lporras"> lporras
-			</a><br/>
-			Luis Alfredo Porras Páez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lporras16">lporras16</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>495</td>
+		<td>542</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/arendondiosa">
-				<img src="https://avatars.githubusercontent.com/u/14989202?s=72&u=0a9b9835d72f0563ebe50b77aab0351ca94769d1&v=4" width="24" alt="Avatar of arendondiosa"> arendondiosa
-			</a><br/>
-			Alejandro E. Rendon
-		</td>
-		<td>@genlogs </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>492</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/AndresMpa">
-				<img src="https://avatars.githubusercontent.com/u/39841241?s=72&u=4f485750f3eb04c3c67f943d3f2abf17f64022cb&v=4" width="24" alt="Avatar of AndresMpa"> AndresMpa
-			</a><br/>
-			Andrés M. Prieto
-		</td>
-		<td>Dailybot </td>
-		<td><a href="https://twitter.com/AndresMpa">AndresMpa</a></td>
-		<td>Colombia</td>
-		<td>492</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/dalthviz">
-				<img src="https://avatars.githubusercontent.com/u/16781833?s=72&u=f11fabb4382b63e96428df6a7fb89bd907d45133&v=4" width="24" alt="Avatar of dalthviz"> dalthviz
-			</a><br/>
-			Daniel Althviz Moré
-		</td>
-		<td>Quansight </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>490</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
 			<a href="https://github.com/AnuarHarb">
 				<img src="https://avatars.githubusercontent.com/u/13136969?s=72&u=15b8ffc1d1c4abcf8599f4981741f51eea7e7c7c&v=4" width="24" alt="Avatar of AnuarHarb"> AnuarHarb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AnuarHarb">Copy rank badge</a><br/>
 			Anuar Harb
 		</td>
 		<td>Costa Digital </td>
 		<td>No Twitter Username</td>
 		<td>Barranquilla</td>
-		<td>488</td>
+		<td>542</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/juanferfranco">
+				<img src="https://avatars.githubusercontent.com/u/2473101?s=72&u=7cadc682c36634397c89c14b30eb187d10444692&v=4" width="24" alt="Avatar of juanferfranco"> juanferfranco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanferfranco">Copy rank badge</a><br/>
+			Juan Fernando Franco Higuita
+		</td>
+		<td>Universidad Pontificia Bolivariana </td>
+		<td>No Twitter Username</td>
+		<td>Medellín-Colombia</td>
+		<td>537</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/ruloCode">
+				<img src="https://avatars.githubusercontent.com/u/48034545?s=72&u=b78d210fde0abceb393490fed51ee0eb2db8feee&v=4" width="24" alt="Avatar of ruloCode"> ruloCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ruloCode">Copy rank badge</a><br/>
+			Andrés Santana
+		</td>
+		<td>Platzi Master </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, colombia</td>
+		<td>533</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/cardotrejos">
+				<img src="https://avatars.githubusercontent.com/u/8602086?s=72&u=9caf0ad872a9d96b7b305552fb178c9ce9cf00cf&v=4" width="24" alt="Avatar of cardotrejos"> cardotrejos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cardotrejos">Copy rank badge</a><br/>
+			Ricardo Trejos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cardotrejos">cardotrejos</a></td>
+		<td>Medellín, Colombia</td>
+		<td>527</td>
 	</tr>
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/jairoFernandez">
-				<img src="https://avatars.githubusercontent.com/u/3932407?s=72&u=7bead3f7196fda89b5708a3cab9355ab0788c4f6&v=4" width="24" alt="Avatar of jairoFernandez"> jairoFernandez
-			</a><br/>
-			Jairo Fernández
+			<a href="https://github.com/CarmeloCampos">
+				<img src="https://avatars.githubusercontent.com/u/31357533?s=72&u=4d65dfd955b310a5f3ea46317ad09120105ab876&v=4" width="24" alt="Avatar of CarmeloCampos"> CarmeloCampos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CarmeloCampos">Copy rank badge</a><br/>
+			Carmelo Campos
 		</td>
-		<td>@konstructio  </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>487</td>
+		<td>@dogalyir  </td>
+		<td><a href="https://twitter.com/CarmeloAlone">CarmeloAlone</a></td>
+		<td>Colombia</td>
+		<td>524</td>
 	</tr>
 	<tr>
 		<td>108</td>
 		<td>
-			<a href="https://github.com/danielgomezrico">
-				<img src="https://avatars.githubusercontent.com/u/76348?s=72&v=4" width="24" alt="Avatar of danielgomezrico"> danielgomezrico
-			</a><br/>
-			Daniel Gomez
+			<a href="https://github.com/dougbutner">
+				<img src="https://avatars.githubusercontent.com/u/1251232?s=72&u=3efe754f880ac43f8e3691a23a8a48cb307a5ed6&v=4" width="24" alt="Avatar of dougbutner"> dougbutner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dougbutner">Copy rank badge</a><br/>
+			Douglas Butner 🜛 Gudasol 
 		</td>
-		<td>No Company</td>
+		<td>@currentxchange @tetragrids  </td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>484</td>
+		<td>Maryland -> Medellín / Guatemala</td>
+		<td>522</td>
 	</tr>
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/augustosalazar">
-				<img src="https://avatars.githubusercontent.com/u/4458129?s=72&u=83c7a41ed71b52b7fbff8f3e01e6389d1ead95cc&v=4" width="24" alt="Avatar of augustosalazar"> augustosalazar
-			</a><br/>
-			Augusto Salazar SIlva
+			<a href="https://github.com/MrUprizing">
+				<img src="https://avatars.githubusercontent.com/u/111722885?s=72&u=75994eecc6938b1ce1ce8099559f1aabb31efe14&v=4" width="24" alt="Avatar of MrUprizing"> MrUprizing
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MrUprizing">Copy rank badge</a><br/>
+			Nicolas Vargas
 		</td>
-		<td>Uninorte </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>473</td>
+		<td>@crafter-station </td>
+		<td><a href="https://twitter.com/MrUprizing">MrUprizing</a></td>
+		<td>Bogotá - Colombia</td>
+		<td>518</td>
 	</tr>
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/renegade93">
-				<img src="https://avatars.githubusercontent.com/u/3698510?s=72&u=7fc1cff3acbe7eaeeef17c45ba66e237e88eec23&v=4" width="24" alt="Avatar of renegade93"> renegade93
-			</a><br/>
-			Andy
+			<a href="https://github.com/fredericksalazar">
+				<img src="https://avatars.githubusercontent.com/u/1855499?s=72&u=76865e920915b84c0ad4f48cf53ac963844996f4&v=4" width="24" alt="Avatar of fredericksalazar"> fredericksalazar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fredericksalazar">Copy rank badge</a><br/>
+			FrederickSalazar
 		</td>
-		<td>@lengio </td>
-		<td><a href="https://twitter.com/andyortiz93">andyortiz93</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>473</td>
+		<td>Globant </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>514</td>
 	</tr>
 	<tr>
 		<td>111</td>
 		<td>
 			<a href="https://github.com/cimode">
 				<img src="https://avatars.githubusercontent.com/u/88695275?s=72&u=bfc7aaa9a7ba35b757800bbeb33f6dc52bbe45df&v=4" width="24" alt="Avatar of cimode"> cimode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cimode">Copy rank badge</a><br/>
 			Cristian Moreno
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/crisfmoreno95">crisfmoreno95</a></td>
 		<td>Bucaramanga, Santander, Colombia</td>
-		<td>472</td>
+		<td>514</td>
 	</tr>
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/mauriciovasquezbernal">
-				<img src="https://avatars.githubusercontent.com/u/13031921?s=72&u=ab7d52fd178dc3111854269cba77c52a43e460ef&v=4" width="24" alt="Avatar of mauriciovasquezbernal"> mauriciovasquezbernal
-			</a><br/>
-			Mauricio Vásquez
+			<a href="https://github.com/KingDarBoja">
+				<img src="https://avatars.githubusercontent.com/u/30560560?s=72&u=8e9f7826d598d9e9cab2eb036e02ff067b4ded95&v=4" width="24" alt="Avatar of KingDarBoja"> KingDarBoja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#KingDarBoja">Copy rank badge</a><br/>
+			KingDarBoja
 		</td>
-		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/maurovasquezb">maurovasquezb</a></td>
-		<td>Medellin - Colombia</td>
-		<td>471</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>508</td>
 	</tr>
 	<tr>
 		<td>113</td>
 		<td>
+			<a href="https://github.com/arendondiosa">
+				<img src="https://avatars.githubusercontent.com/u/14989202?s=72&u=0a9b9835d72f0563ebe50b77aab0351ca94769d1&v=4" width="24" alt="Avatar of arendondiosa"> arendondiosa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#arendondiosa">Copy rank badge</a><br/>
+			Alejandro E. Rendon
+		</td>
+		<td>@genlogs </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>499</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/renegade93">
+				<img src="https://avatars.githubusercontent.com/u/3698510?s=72&u=7fc1cff3acbe7eaeeef17c45ba66e237e88eec23&v=4" width="24" alt="Avatar of renegade93"> renegade93
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#renegade93">Copy rank badge</a><br/>
+			Andy
+		</td>
+		<td>@lengio </td>
+		<td><a href="https://twitter.com/andyortiz93">andyortiz93</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>494</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/danielgomezrico">
+				<img src="https://avatars.githubusercontent.com/u/76348?s=72&v=4" width="24" alt="Avatar of danielgomezrico"> danielgomezrico
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#danielgomezrico">Copy rank badge</a><br/>
+			Daniel Gomez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/Carlixgonzam">
+				<img src="https://avatars.githubusercontent.com/u/158210542?s=72&u=8b7b603576ea8580c89a9cb5dd8b20c4415893b3&v=4" width="24" alt="Avatar of Carlixgonzam"> Carlixgonzam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Carlixgonzam">Copy rank badge</a><br/>
+			Carla González Mina
+		</td>
+		<td>Universidad De Los Andes<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/thEpisode">
+				<img src="https://avatars.githubusercontent.com/u/9383114?s=72&u=cd9b71340def0e127faa979906ff9f3e988ec9c3&v=4" width="24" alt="Avatar of thEpisode"> thEpisode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#thEpisode">Copy rank badge</a><br/>
+			Camilo Rodriguez Cuaran
+		</td>
+		<td>@blackwoodstoneholdi  </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/lporras">
+				<img src="https://avatars.githubusercontent.com/u/232293?s=72&u=3e25a9f8a1023a65c47b1226ad7c606878be2783&v=4" width="24" alt="Avatar of lporras"> lporras
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lporras">Copy rank badge</a><br/>
+			Luis Alfredo Porras Páez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lporras16">lporras16</a></td>
+		<td>Barranquilla, Colombia</td>
+		<td>483</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/gustavoeenriquez">
+				<img src="https://avatars.githubusercontent.com/u/90524857?s=72&v=4" width="24" alt="Avatar of gustavoeenriquez"> gustavoeenriquez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gustavoeenriquez">Copy rank badge</a><br/>
+			Gustavo Enríquez
+		</td>
+		<td>Cimamaker </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>482</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/miguelacaceresrios">
+				<img src="https://avatars.githubusercontent.com/u/124009046?s=72&u=8f93955aeb2cac97ca959b95911ed501f2ef062f&v=4" width="24" alt="Avatar of miguelacaceresrios"> miguelacaceresrios
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguelacaceresrios">Copy rank badge</a><br/>
+			Miguel Ángel Cáceres Ríos
+		</td>
+		<td>Isometrical-game-com </td>
+		<td>No Twitter Username</td>
+		<td>colombia</td>
+		<td>470</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/entr0phy4">
+				<img src="https://avatars.githubusercontent.com/u/128427935?s=72&u=c2a1feeb7759610c1d3299dd778a4fa6866ea6e1&v=4" width="24" alt="Avatar of entr0phy4"> entr0phy4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#entr0phy4">Copy rank badge</a><br/>
+			David Agámez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, D.C</td>
+		<td>469</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
 			<a href="https://github.com/JEstebanMejiaV">
 				<img src="https://avatars.githubusercontent.com/u/11859638?s=72&u=7a3b8417edadcc364f4b0ab1d25e1749925be5cc&v=4" width="24" alt="Avatar of JEstebanMejiaV"> JEstebanMejiaV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JEstebanMejiaV">Copy rank badge</a><br/>
 			Juan Esteban Mejía Velásquez
 		</td>
 		<td>Wunderman Thompson  </td>
@@ -1574,180 +1693,219 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/jdnichollsc">
-				<img src="https://avatars.githubusercontent.com/u/2154886?s=72&u=157debb34167a189dbd1f967c716e4a2d4702ec6&v=4" width="24" alt="Avatar of jdnichollsc"> jdnichollsc
-			</a><br/>
-			J.D Nicholls
-		</td>
-		<td>Marketx </td>
-		<td><a href="https://twitter.com/jdnichollsc">jdnichollsc</a></td>
-		<td>Colombia</td>
-		<td>446</td>
-	</tr>
-	<tr>
-		<td>115</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/khriztianmoreno">
 				<img src="https://avatars.githubusercontent.com/u/1481964?s=72&u=504d5069ebc3c535cfc0303dec8b7f4d78c73779&v=4" width="24" alt="Avatar of khriztianmoreno"> khriztianmoreno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#khriztianmoreno">Copy rank badge</a><br/>
 			Khriztian Moreno
 		</td>
 		<td>Mercadolibre </td>
 		<td><a href="https://twitter.com/khriztianmoreno">khriztianmoreno</a></td>
 		<td>Medellin, Colombia</td>
-		<td>439</td>
+		<td>451</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/dalthviz">
+				<img src="https://avatars.githubusercontent.com/u/16781833?s=72&u=f11fabb4382b63e96428df6a7fb89bd907d45133&v=4" width="24" alt="Avatar of dalthviz"> dalthviz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dalthviz">Copy rank badge</a><br/>
+			Daniel Althviz Moré
+		</td>
+		<td>Quansight </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>449</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/jdnichollsc">
+				<img src="https://avatars.githubusercontent.com/u/2154886?s=72&u=157debb34167a189dbd1f967c716e4a2d4702ec6&v=4" width="24" alt="Avatar of jdnichollsc"> jdnichollsc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdnichollsc">Copy rank badge</a><br/>
+			J.D Nicholls
+		</td>
+		<td>Marketx </td>
+		<td><a href="https://twitter.com/jdnichollsc">jdnichollsc</a></td>
+		<td>Colombia</td>
+		<td>444</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/paulosuzart">
+				<img src="https://avatars.githubusercontent.com/u/141896?s=72&u=1e5b21ba74645d0964a9790fc913db7781e6ee9b&v=4" width="24" alt="Avatar of paulosuzart"> paulosuzart
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#paulosuzart">Copy rank badge</a><br/>
+			Paulo Suzart
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/augustosalazar">
+				<img src="https://avatars.githubusercontent.com/u/4458129?s=72&u=83c7a41ed71b52b7fbff8f3e01e6389d1ead95cc&v=4" width="24" alt="Avatar of augustosalazar"> augustosalazar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#augustosalazar">Copy rank badge</a><br/>
+			Augusto Salazar SIlva
+		</td>
+		<td>Uninorte </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/seagomezar">
+				<img src="https://avatars.githubusercontent.com/u/2058936?s=72&u=786c97cb737b3c8787466c54542320226cfeab8b&v=4" width="24" alt="Avatar of seagomezar"> seagomezar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#seagomezar">Copy rank badge</a><br/>
+			Sebastian Gomez
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td><a href="https://twitter.com/sebasgojs">sebasgojs</a></td>
+		<td>Medellín, Colombia</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/darwinovalle">
 				<img src="https://avatars.githubusercontent.com/u/126737315?s=72&u=c3498f1404818927b57ddca9637ddc89ab316dbc&v=4" width="24" alt="Avatar of darwinovalle"> darwinovalle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#darwinovalle">Copy rank badge</a><br/>
 			Darwin Ovalle
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
-		<td>439</td>
+		<td>436</td>
 	</tr>
 	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/pvdrz">
-				<img src="https://avatars.githubusercontent.com/u/31802960?s=72&u=6a4de4f7c4da898596484b77f1eaf35949128833&v=4" width="24" alt="Avatar of pvdrz"> pvdrz
-			</a><br/>
-			Christian Poveda Ruiz
-		</td>
-		<td>Ferrous Systems </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>118</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/andresfelipemendez">
 				<img src="https://avatars.githubusercontent.com/u/2092695?s=72&u=541254f84efa7edeaa2ea0cf2d4e0c8dd4fc4430&v=4" width="24" alt="Avatar of andresfelipemendez"> andresfelipemendez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andresfelipemendez">Copy rank badge</a><br/>
 			Andrés Felipe Méndez
 		</td>
 		<td>Heroic Labs </td>
 		<td>No Twitter Username</td>
 		<td>Pereira - Colombia</td>
-		<td>437</td>
+		<td>429</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>131</td>
 		<td>
-			<a href="https://github.com/devalexanderdaza">
-				<img src="https://avatars.githubusercontent.com/u/29244110?s=72&u=6979f9723c954e9ab81cf06f00cc76024753ff3b&v=4" width="24" alt="Avatar of devalexanderdaza"> devalexanderdaza
-			</a><br/>
-			Alexander Daza
-		</td>
-		<td>@validation-solution  </td>
-		<td><a href="https://twitter.com/devalexanderdaz">devalexanderdaz</a></td>
-		<td>Bogotá DC, Colombia</td>
-		<td>436</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/ruloCode">
-				<img src="https://avatars.githubusercontent.com/u/48034545?s=72&u=b78d210fde0abceb393490fed51ee0eb2db8feee&v=4" width="24" alt="Avatar of ruloCode"> ruloCode
-			</a><br/>
-			Andrés Santana
-		</td>
-		<td>Platzi Master </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, colombia</td>
-		<td>435</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/cosmoscalibur">
-				<img src="https://avatars.githubusercontent.com/u/1097777?s=72&u=72f15528a5387a30d7031a6d88b6b580bfd41aee&v=4" width="24" alt="Avatar of cosmoscalibur"> cosmoscalibur
-			</a><br/>
-			Edward Villegas-Pulgarin
-		</td>
-		<td>@tributi-co </td>
-		<td><a href="https://twitter.com/cosmoscalibur">cosmoscalibur</a></td>
-		<td>Medellin, Colombia</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/kevyder">
-				<img src="https://avatars.githubusercontent.com/u/12550192?s=72&u=4fd5bce875e242bc59e84c43b403f6ee36d0164d&v=4" width="24" alt="Avatar of kevyder"> kevyder
-			</a><br/>
-			Kevin Rodríguez ✌️
+			<a href="https://github.com/MontoyaAndres">
+				<img src="https://avatars.githubusercontent.com/u/15065852?s=72&u=32fea25f1574a3485db31699e0a47c5467a89f53&v=4" width="24" alt="Avatar of MontoyaAndres"> MontoyaAndres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MontoyaAndres">Copy rank badge</a><br/>
+			Andrés Montoya
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá D.C - Colombia</td>
-		<td>423</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/HectorPulido">
-				<img src="https://avatars.githubusercontent.com/u/30538313?s=72&u=9a07f4a19dca0d76502cb7af58c79d49ea032f86&v=4" width="24" alt="Avatar of HectorPulido"> HectorPulido
-			</a><br/>
-			Hector Pulido
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Hector_Pulido_">Hector_Pulido_</a></td>
+		<td><a href="https://twitter.com/AndresMontoyaIN">AndresMontoyaIN</a></td>
 		<td>Colombia</td>
+		<td>422</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/asanchezyali">
+				<img src="https://avatars.githubusercontent.com/u/29262782?s=72&u=47b0f16c0eacb5e09fedb9775c5cadf9b41e4a5c&v=4" width="24" alt="Avatar of asanchezyali"> asanchezyali
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#asanchezyali">Copy rank badge</a><br/>
+			Alejandro Sánchez Yalí
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/asanchezyali">asanchezyali</a></td>
+		<td>Colombia</td>
+		<td>419</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/manuelgilm">
+				<img src="https://avatars.githubusercontent.com/u/51758502?s=72&u=f7079af602b1838578d921ab44f739857021dfc4&v=4" width="24" alt="Avatar of manuelgilm"> manuelgilm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#manuelgilm">Copy rank badge</a><br/>
+			Manuel Gil
+		</td>
+		<td>Epam Systems </td>
+		<td>No Twitter Username</td>
+		<td>Zipaquirá, Colombia</td>
+		<td>418</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/mauriciovasquezbernal">
+				<img src="https://avatars.githubusercontent.com/u/13031921?s=72&u=ab7d52fd178dc3111854269cba77c52a43e460ef&v=4" width="24" alt="Avatar of mauriciovasquezbernal"> mauriciovasquezbernal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mauriciovasquezbernal">Copy rank badge</a><br/>
+			Mauricio Vásquez
+		</td>
+		<td>@microsoft  </td>
+		<td><a href="https://twitter.com/maurovasquezb">maurovasquezb</a></td>
+		<td>Medellin - Colombia</td>
 		<td>416</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>135</td>
 		<td>
-			<a href="https://github.com/AndresCdo">
-				<img src="https://avatars.githubusercontent.com/u/73312784?s=72&u=35f1c7462be53cb1a835aa7d34872c88a2d23838&v=4" width="24" alt="Avatar of AndresCdo"> AndresCdo
-			</a><br/>
-			Andres Caicedo
+			<a href="https://github.com/Carchaloneo22">
+				<img src="https://avatars.githubusercontent.com/u/159488757?s=72&u=bff2053b7bc97a5381b3a62cfd306fed39cc7b6d&v=4" width="24" alt="Avatar of Carchaloneo22"> Carchaloneo22
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Carchaloneo22">Copy rank badge</a><br/>
+			Carlos Chaparro
 		</td>
-		<td>No Company</td>
+		<td>S3media </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>416</td>
+		<td>415</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/jcomte23">
+				<img src="https://avatars.githubusercontent.com/u/63869544?s=72&u=fe0e88e5c4f1cfa0c9b55b5e66a9bc60af1fdb89&v=4" width="24" alt="Avatar of jcomte23"> jcomte23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jcomte23">Copy rank badge</a><br/>
+			Javier Cómbita Téllez
+		</td>
+		<td>Riwi </td>
+		<td><a href="https://twitter.com/jcomte23">jcomte23</a></td>
+		<td>Barranquilla, Colombia</td>
+		<td>413</td>
+	</tr>
+	<tr>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/Kemquiros">
 				<img src="https://avatars.githubusercontent.com/u/9395764?s=72&u=f5c43d644da57d2717d85e1a5402fa9732faabf6&v=4" width="24" alt="Avatar of Kemquiros"> Kemquiros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Kemquiros">Copy rank badge</a><br/>
 			John Tapias
 		</td>
 		<td>Vecanova </td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia / Global</td>
-		<td>414</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/miguelacaceresrios">
-				<img src="https://avatars.githubusercontent.com/u/124009046?s=72&u=8f93955aeb2cac97ca959b95911ed501f2ef062f&v=4" width="24" alt="Avatar of miguelacaceresrios"> miguelacaceresrios
-			</a><br/>
-			Miguel Ángel Cáceres Ríos
-		</td>
-		<td>Isometrical-game-com </td>
-		<td>No Twitter Username</td>
-		<td>colombia</td>
 		<td>413</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/devalexanderdaza">
+				<img src="https://avatars.githubusercontent.com/u/29244110?s=72&u=6979f9723c954e9ab81cf06f00cc76024753ff3b&v=4" width="24" alt="Avatar of devalexanderdaza"> devalexanderdaza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#devalexanderdaza">Copy rank badge</a><br/>
+			Alexander Daza
+		</td>
+		<td>@validation-solution  </td>
+		<td><a href="https://twitter.com/devalexanderdaz">devalexanderdaz</a></td>
+		<td>Bogotá DC, Colombia</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/pachocamacho1990">
 				<img src="https://avatars.githubusercontent.com/u/32247848?s=72&u=58a934f507899aa1d1e999acc31a24085ba9778c&v=4" width="24" alt="Avatar of pachocamacho1990"> pachocamacho1990
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pachocamacho1990">Copy rank badge</a><br/>
 			Francisco J. Camacho
 		</td>
 		<td>Stealth </td>
@@ -1756,128 +1914,76 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>408</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>140</td>
 		<td>
-			<a href="https://github.com/camilogarciabotero">
-				<img src="https://avatars.githubusercontent.com/u/25586362?s=72&u=25e7719411b2eda77ed0b66935b5dab6f9d6a5b0&v=4" width="24" alt="Avatar of camilogarciabotero"> camilogarciabotero
-			</a><br/>
-			Camilo García
-		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td><a href="https://twitter.com/gaspardelanoche">gaspardelanoche</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>404</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/AndresMorelos">
-				<img src="https://avatars.githubusercontent.com/u/6563162?s=72&u=6f3e2a7066b6f8eff27c3f6814522c4fe84b94d7&v=4" width="24" alt="Avatar of AndresMorelos"> AndresMorelos
-			</a><br/>
-			Andrés Morelos
+			<a href="https://github.com/buritica">
+				<img src="https://avatars.githubusercontent.com/u/228120?s=72&v=4" width="24" alt="Avatar of buritica"> buritica
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#buritica">Copy rank badge</a><br/>
+			Juan Pablo Buriticá
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>403</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/amalvarezme">
-				<img src="https://avatars.githubusercontent.com/u/48390324?s=72&u=a1825a38121eaa497abc12cd73bb59666f8f4001&v=4" width="24" alt="Avatar of amalvarezme"> amalvarezme
-			</a><br/>
-			Andrés Marino Álvarez Meza
-		</td>
-		<td>Universidad Nacional De Colombia<br/>Sede<br/>Manizales<br/></td>
-		<td>No Twitter Username</td>
-		<td>Manizales, Caldas - Colombia</td>
+		<td><a href="https://twitter.com/buritica">buritica</a></td>
+		<td>New York | Bogotá</td>
 		<td>402</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>141</td>
 		<td>
-			<a href="https://github.com/HoyosJuan">
-				<img src="https://avatars.githubusercontent.com/u/84806689?s=72&u=8e37fed47b2b4c9fb8957324b9b22013c212866d&v=4" width="24" alt="Avatar of HoyosJuan"> HoyosJuan
-			</a><br/>
-			Juan Hoyos
-		</td>
-		<td>That Open Company </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>402</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/Carlixgonzam">
-				<img src="https://avatars.githubusercontent.com/u/158210542?s=72&u=8b7b603576ea8580c89a9cb5dd8b20c4415893b3&v=4" width="24" alt="Avatar of Carlixgonzam"> Carlixgonzam
-			</a><br/>
-			Carla González Mina
-		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>400</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/vkamenar">
-				<img src="https://avatars.githubusercontent.com/u/69826282?s=72&u=6d529410fd265e2985839599edb75f6ce8d9b870&v=4" width="24" alt="Avatar of vkamenar"> vkamenar
-			</a><br/>
-			Vladimir Kameñar
-		</td>
-		<td>@celersms </td>
-		<td><a href="https://twitter.com/KamenarVladimir">KamenarVladimir</a></td>
-		<td>Bogota, Colombia</td>
-		<td>395</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/paulosuzart">
-				<img src="https://avatars.githubusercontent.com/u/141896?s=72&u=1e5b21ba74645d0964a9790fc913db7781e6ee9b&v=4" width="24" alt="Avatar of paulosuzart"> paulosuzart
-			</a><br/>
-			Paulo Suzart
+			<a href="https://github.com/lmac-1">
+				<img src="https://avatars.githubusercontent.com/u/64803272?s=72&u=d08c44610838f7622f192d3783bce3b74c80e77e&v=4" width="24" alt="Avatar of lmac-1"> lmac-1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lmac-1">Copy rank badge</a><br/>
+			Lucy Macartney
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
+		<td><a href="https://twitter.com/codingwithlucy">codingwithlucy</a></td>
+		<td>Cali, Colombia</td>
+		<td>393</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/HectorPulido">
+				<img src="https://avatars.githubusercontent.com/u/30538313?s=72&u=9a07f4a19dca0d76502cb7af58c79d49ea032f86&v=4" width="24" alt="Avatar of HectorPulido"> HectorPulido
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#HectorPulido">Copy rank badge</a><br/>
+			Hector Pulido
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Hector_Pulido_">Hector_Pulido_</a></td>
+		<td>Colombia</td>
 		<td>392</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>143</td>
 		<td>
-			<a href="https://github.com/seagomezar">
-				<img src="https://avatars.githubusercontent.com/u/2058936?s=72&u=786c97cb737b3c8787466c54542320226cfeab8b&v=4" width="24" alt="Avatar of seagomezar"> seagomezar
-			</a><br/>
-			Sebastian Gomez
+			<a href="https://github.com/Valdes-Tresanco-MS">
+				<img src="https://avatars.githubusercontent.com/u/36672242?s=72&u=eabb08f6f40ea7840f86955d3281bda3e03b069d&v=4" width="24" alt="Avatar of Valdes-Tresanco-MS"> Valdes-Tresanco-MS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Valdes-Tresanco-MS">Copy rank badge</a><br/>
+			Mario Sergio Valdés Tresanco
 		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td><a href="https://twitter.com/sebasgojs">sebasgojs</a></td>
-		<td>Medellín, Colombia</td>
-		<td>388</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/gustavoeenriquez">
-				<img src="https://avatars.githubusercontent.com/u/90524857?s=72&v=4" width="24" alt="Avatar of gustavoeenriquez"> gustavoeenriquez
-			</a><br/>
-			Gustavo Enríquez
-		</td>
-		<td>Cimamaker </td>
+		<td>University Of Medellín <br/></td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>386</td>
+		<td>392</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/pvdrz">
+				<img src="https://avatars.githubusercontent.com/u/31802960?s=72&u=6a4de4f7c4da898596484b77f1eaf35949128833&v=4" width="24" alt="Avatar of pvdrz"> pvdrz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pvdrz">Copy rank badge</a><br/>
+			Christian Poveda Ruiz
+		</td>
+		<td>Ferrous Systems </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>391</td>
+	</tr>
+	<tr>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/Angelfire">
 				<img src="https://avatars.githubusercontent.com/u/315504?s=72&u=4064cb7336de405ae1ed902e0856bf8891765cc3&v=4" width="24" alt="Avatar of Angelfire"> Angelfire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Angelfire">Copy rank badge</a><br/>
 			Andrés Bedoya (SrHart)
 		</td>
 		<td>No Company</td>
@@ -1886,11 +1992,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>384</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/dfonquet">
 				<img src="https://avatars.githubusercontent.com/u/55598243?s=72&u=57ffe1aea62f4e3b6b48b92710ea4f3634ec02c6&v=4" width="24" alt="Avatar of dfonquet"> dfonquet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dfonquet">Copy rank badge</a><br/>
 			Daniel F.T
 		</td>
 		<td>No Company</td>
@@ -1899,440 +2005,401 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>384</td>
 	</tr>
 	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/jcomte23">
-				<img src="https://avatars.githubusercontent.com/u/63869544?s=72&u=fe0e88e5c4f1cfa0c9b55b5e66a9bc60af1fdb89&v=4" width="24" alt="Avatar of jcomte23"> jcomte23
-			</a><br/>
-			Javier Cómbita Téllez
-		</td>
-		<td>Riwi </td>
-		<td><a href="https://twitter.com/jcomte23">jcomte23</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>380</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/dougbutner">
-				<img src="https://avatars.githubusercontent.com/u/1251232?s=72&u=3efe754f880ac43f8e3691a23a8a48cb307a5ed6&v=4" width="24" alt="Avatar of dougbutner"> dougbutner
-			</a><br/>
-			Douglas Butner 🜛 Gudasol 
-		</td>
-		<td>@currentxchange @tetragrids  </td>
-		<td>No Twitter Username</td>
-		<td>Maryland -> Medellín / Guatemala</td>
-		<td>379</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/ema28pro">
-				<img src="https://avatars.githubusercontent.com/u/183181665?s=72&u=0e5e8179795e6ff7516c5da3ed75b2ba639c7e1b&v=4" width="24" alt="Avatar of ema28pro"> ema28pro
-			</a><br/>
-			Emanuel López Franco
-		</td>
-		<td>The Path Of Becoming<br/>Inc.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>377</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/manuelgilm">
-				<img src="https://avatars.githubusercontent.com/u/51758502?s=72&u=f7079af602b1838578d921ab44f739857021dfc4&v=4" width="24" alt="Avatar of manuelgilm"> manuelgilm
-			</a><br/>
-			Manuel Gil
-		</td>
-		<td>Epam Systems </td>
-		<td>No Twitter Username</td>
-		<td>Zipaquirá, Colombia</td>
-		<td>369</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/rojasjuniore">
-				<img src="https://avatars.githubusercontent.com/u/8616891?s=72&u=2769a5b104e05d2ebf66af51b9964780ff8cdc7c&v=4" width="24" alt="Avatar of rojasjuniore"> rojasjuniore
-			</a><br/>
-			Junior Rojas
-		</td>
-		<td>Rojasjuniore </td>
-		<td><a href="https://twitter.com/rojasjuniore">rojasjuniore</a></td>
-		<td>Colombia</td>
-		<td>369</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/cabol">
-				<img src="https://avatars.githubusercontent.com/u/5407370?s=72&u=74600b39c964fb580c6feedb002f3627b1ac68ab&v=4" width="24" alt="Avatar of cabol"> cabol
-			</a><br/>
-			Carlos Andres Bolaños R.A.
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/candresbolanos">candresbolanos</a></td>
-		<td>Colombia</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/MontoyaAndres">
-				<img src="https://avatars.githubusercontent.com/u/15065852?s=72&u=32fea25f1574a3485db31699e0a47c5467a89f53&v=4" width="24" alt="Avatar of MontoyaAndres"> MontoyaAndres
-			</a><br/>
-			Andrés Montoya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AndresMontoyaIN">AndresMontoyaIN</a></td>
-		<td>Colombia</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/roadev">
-				<img src="https://avatars.githubusercontent.com/u/4525107?s=72&u=0a200104b0f35b8f1b276676d4dabe435e13928b&v=4" width="24" alt="Avatar of roadev"> roadev
-			</a><br/>
-			Juan Roa
-		</td>
-		<td>Rodar Libre </td>
-		<td><a href="https://twitter.com/jroadev">jroadev</a></td>
-		<td>Cali, Colombia</td>
-		<td>364</td>
-	</tr>
-	<tr>
 		<td>147</td>
 		<td>
-			<a href="https://github.com/andyquinterom">
-				<img src="https://avatars.githubusercontent.com/u/51521150?s=72&u=2fabb1bc5a3cb8493043aeed3607c2d7f0f543bd&v=4" width="24" alt="Avatar of andyquinterom"> andyquinterom
-			</a><br/>
-			Andrés Quintero Moreano
+			<a href="https://github.com/alejoriosm04">
+				<img src="https://avatars.githubusercontent.com/u/65176988?s=72&u=31604cb689879a4016f18048cb453f7b24d026a7&v=4" width="24" alt="Avatar of alejoriosm04"> alejoriosm04
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alejoriosm04">Copy rank badge</a><br/>
+			Alejandro Ríos Muñoz
 		</td>
-		<td>@ixpantia </td>
-		<td><a href="https://twitter.com/AndyQuinteroM">AndyQuinteroM</a></td>
-		<td>Colombia, Bogotá</td>
-		<td>362</td>
+		<td>@gruponovaeafit </td>
+		<td><a href="https://twitter.com/alejoriosm04">alejoriosm04</a></td>
+		<td>Colombia</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>148</td>
 		<td>
 			<a href="https://github.com/Crola1702">
 				<img src="https://avatars.githubusercontent.com/u/69475004?s=72&u=bfd2e76f9cf4c702296b2ae60f16c85bb0964170&v=4" width="24" alt="Avatar of Crola1702"> Crola1702
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Crola1702">Copy rank badge</a><br/>
 			Cristóbal Arroyo
 		</td>
 		<td>@ekumenlabs  </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>358</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>149</td>
 		<td>
-			<a href="https://github.com/mnesarco">
-				<img src="https://avatars.githubusercontent.com/u/1087317?s=72&u=ce1626832b2e2830656f954fc6d5c1a45e8c26e2&v=4" width="24" alt="Avatar of mnesarco"> mnesarco
-			</a><br/>
-			Frank David Martínez M
+			<a href="https://github.com/camilogarciabotero">
+				<img src="https://avatars.githubusercontent.com/u/25586362?s=72&u=25e7719411b2eda77ed0b66935b5dab6f9d6a5b0&v=4" width="24" alt="Avatar of camilogarciabotero"> camilogarciabotero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camilogarciabotero">Copy rank badge</a><br/>
+			Camilo García
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mnesarco">mnesarco</a></td>
-		<td>Colombia</td>
-		<td>352</td>
+		<td>Universidad De Los Andes<br/></td>
+		<td><a href="https://twitter.com/gaspardelanoche">gaspardelanoche</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>376</td>
 	</tr>
 	<tr>
 		<td>150</td>
 		<td>
-			<a href="https://github.com/slashman">
-				<img src="https://avatars.githubusercontent.com/u/3891742?s=72&u=9484eaecf500ad8a8af1c6eb39bb19cf4a9ea1af&v=4" width="24" alt="Avatar of slashman"> slashman
-			</a><br/>
-			Santiago Zapata
+			<a href="https://github.com/AlejandroBlanco2001">
+				<img src="https://avatars.githubusercontent.com/u/40709873?s=72&u=d17cff02982a23a69d0c5f3f4e97c13f9e50a522&v=4" width="24" alt="Avatar of AlejandroBlanco2001"> AlejandroBlanco2001
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AlejandroBlanco2001">Copy rank badge</a><br/>
+			Isaac Alejandro Blanco
 		</td>
-		<td>Slashware Interactive </td>
-		<td><a href="https://twitter.com/slashie_">slashie_</a></td>
-		<td>Medellín, Colombia</td>
-		<td>345</td>
+		<td>@auvik </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla ,Colombia</td>
+		<td>374</td>
 	</tr>
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/TomasCardona07">
-				<img src="https://avatars.githubusercontent.com/u/281458879?s=72&v=4" width="24" alt="Avatar of TomasCardona07"> TomasCardona07
-			</a><br/>
-			Tomas Cardona
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Envigado, Colombia</td>
-		<td>343</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/buritica">
-				<img src="https://avatars.githubusercontent.com/u/228120?s=72&v=4" width="24" alt="Avatar of buritica"> buritica
-			</a><br/>
-			Juan Pablo Buriticá
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/buritica">buritica</a></td>
-		<td>New York | Bogotá</td>
-		<td>342</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/dfloaizab">
-				<img src="https://avatars.githubusercontent.com/u/65038210?s=72&u=58eb665529b3b87eb9acdf940b7f8423d9f70b8b&v=4" width="24" alt="Avatar of dfloaizab"> dfloaizab
-			</a><br/>
-			Diego Loaiza
-		</td>
-		<td>Homesweethome </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>342</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
 			<a href="https://github.com/paladinescamila">
 				<img src="https://avatars.githubusercontent.com/u/38636399?s=72&u=fcd267c6cd51458fcecf18c50a419275aecd4ea1&v=4" width="24" alt="Avatar of paladinescamila"> paladinescamila
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#paladinescamila">Copy rank badge</a><br/>
 			Camila Paladines
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>340</td>
+		<td>368</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>152</td>
 		<td>
-			<a href="https://github.com/SalahAdDin">
-				<img src="https://avatars.githubusercontent.com/u/5034215?s=72&u=edc4489ceac80b94645f6e4ad59770902cd16d96&v=4" width="24" alt="Avatar of SalahAdDin"> SalahAdDin
-			</a><br/>
-			José Luis
+			<a href="https://github.com/AndresMorelos">
+				<img src="https://avatars.githubusercontent.com/u/6563162?s=72&u=6f3e2a7066b6f8eff27c3f6814522c4fe84b94d7&v=4" width="24" alt="Avatar of AndresMorelos"> AndresMorelos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AndresMorelos">Copy rank badge</a><br/>
+			Andrés Morelos
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>331</td>
+		<td>367</td>
 	</tr>
 	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/AlejandroBlanco2001">
-				<img src="https://avatars.githubusercontent.com/u/40709873?s=72&u=d17cff02982a23a69d0c5f3f4e97c13f9e50a522&v=4" width="24" alt="Avatar of AlejandroBlanco2001"> AlejandroBlanco2001
-			</a><br/>
-			Isaac Alejandro Blanco
-		</td>
-		<td>Auvik </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla ,Colombia</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/setohe0909">
-				<img src="https://avatars.githubusercontent.com/u/4140414?s=72&u=fbad72e60144c1a43161bec6322348103b88f57d&v=4" width="24" alt="Avatar of setohe0909"> setohe0909
-			</a><br/>
-			S3TO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>327</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/diegoALJ">
-				<img src="https://avatars.githubusercontent.com/u/58564968?s=72&u=15cae648ed2eee2752b50f47c0f4e164422b1fe0&v=4" width="24" alt="Avatar of diegoALJ"> diegoALJ
-			</a><br/>
-			Diego Montoya Tovar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>324</td>
-	</tr>
-	<tr>
-		<td>159</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/leshz">
 				<img src="https://avatars.githubusercontent.com/u/15240477?s=72&u=189952b9be4c9d987a9a2c80a8f123e78b36978f&v=4" width="24" alt="Avatar of leshz"> leshz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leshz">Copy rank badge</a><br/>
 			Jeffer Barragán
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellin, Colombia 🇨🇴  Remote</td>
-		<td>324</td>
+		<td>366</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>154</td>
 		<td>
-			<a href="https://github.com/Doniben">
-				<img src="https://avatars.githubusercontent.com/u/51678086?s=72&u=970a962f778f718618561c6d4de44ace86b2e2e7&v=4" width="24" alt="Avatar of Doniben"> Doniben
-			</a><br/>
-			Doniben Jimenez Jaramillo
+			<a href="https://github.com/dfloaizab">
+				<img src="https://avatars.githubusercontent.com/u/65038210?s=72&u=58eb665529b3b87eb9acdf940b7f8423d9f70b8b&v=4" width="24" alt="Avatar of dfloaizab"> dfloaizab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dfloaizab">Copy rank badge</a><br/>
+			Diego Loaiza
 		</td>
-		<td>Esperantoco </td>
+		<td>Homesweethome </td>
 		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>321</td>
+		<td>Cali, Colombia</td>
+		<td>365</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>155</td>
 		<td>
-			<a href="https://github.com/FBarreraP">
-				<img src="https://avatars.githubusercontent.com/u/137205063?s=72&u=68dc26fb8aa4df89dcc9fe231f8289656048830e&v=4" width="24" alt="Avatar of FBarreraP"> FBarreraP
-			</a><br/>
-			Fabián Barrera Prieto
-		</td>
-		<td>Universidad Militar Nueva Granada<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>320</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/srcolinas">
-				<img src="https://avatars.githubusercontent.com/u/18264558?s=72&u=0928e6378d148bfaf28b44927fb3b955fc01f648&v=4" width="24" alt="Avatar of srcolinas"> srcolinas
-			</a><br/>
-			Sebastián Rodríguez Colina
+			<a href="https://github.com/kevyder">
+				<img src="https://avatars.githubusercontent.com/u/12550192?s=72&u=4fd5bce875e242bc59e84c43b403f6ee36d0164d&v=4" width="24" alt="Avatar of kevyder"> kevyder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kevyder">Copy rank badge</a><br/>
+			Kevin Rodríguez ✌️
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>319</td>
+		<td>Bogotá D.C - Colombia</td>
+		<td>363</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/TomasCardona07">
+				<img src="https://avatars.githubusercontent.com/u/281458879?s=72&v=4" width="24" alt="Avatar of TomasCardona07"> TomasCardona07
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#TomasCardona07">Copy rank badge</a><br/>
+			Tomas Cardona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Envigado, Colombia</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/vkamenar">
+				<img src="https://avatars.githubusercontent.com/u/69826282?s=72&u=6d529410fd265e2985839599edb75f6ce8d9b870&v=4" width="24" alt="Avatar of vkamenar"> vkamenar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vkamenar">Copy rank badge</a><br/>
+			Vladimir Kameñar
+		</td>
+		<td>@celersms </td>
+		<td><a href="https://twitter.com/KamenarVladimir">KamenarVladimir</a></td>
+		<td>Bogota, Colombia</td>
+		<td>354</td>
+	</tr>
+	<tr>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/forero">
 				<img src="https://avatars.githubusercontent.com/u/1848618?s=72&u=55aabb675426ae5ef060167588b925220b11976e&v=4" width="24" alt="Avatar of forero"> forero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#forero">Copy rank badge</a><br/>
 			Jaime Forero-Romero
 		</td>
 		<td>Universidad De Los Andes<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
-		<td>312</td>
+		<td>349</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/andyquinterom">
+				<img src="https://avatars.githubusercontent.com/u/51521150?s=72&u=2fabb1bc5a3cb8493043aeed3607c2d7f0f543bd&v=4" width="24" alt="Avatar of andyquinterom"> andyquinterom
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andyquinterom">Copy rank badge</a><br/>
+			Andrés Quintero Moreano
+		</td>
+		<td>@ixpantia </td>
+		<td><a href="https://twitter.com/AndyQuinteroM">AndyQuinteroM</a></td>
+		<td>Colombia, Bogotá</td>
+		<td>349</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/roadev">
+				<img src="https://avatars.githubusercontent.com/u/4525107?s=72&u=0a200104b0f35b8f1b276676d4dabe435e13928b&v=4" width="24" alt="Avatar of roadev"> roadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#roadev">Copy rank badge</a><br/>
+			Juan Roa
+		</td>
+		<td>Rodar Libre </td>
+		<td><a href="https://twitter.com/jroadev">jroadev</a></td>
+		<td>Cali, Colombia</td>
+		<td>345</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/Maurux01">
+				<img src="https://avatars.githubusercontent.com/u/108948735?s=72&u=97659f2f1783c225111c223db8dc9befc9f45d13&v=4" width="24" alt="Avatar of Maurux01"> Maurux01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Maurux01">Copy rank badge</a><br/>
+			Mauro Infante
+		</td>
+		<td>Maurux Org </td>
+		<td><a href="https://twitter.com/maurux01">maurux01</a></td>
+		<td>colombia</td>
+		<td>344</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/cabol">
+				<img src="https://avatars.githubusercontent.com/u/5407370?s=72&u=74600b39c964fb580c6feedb002f3627b1ac68ab&v=4" width="24" alt="Avatar of cabol"> cabol
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cabol">Copy rank badge</a><br/>
+			Carlos Andres Bolaños R.A.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/candresbolanos">candresbolanos</a></td>
+		<td>Colombia</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/HoyosJuan">
+				<img src="https://avatars.githubusercontent.com/u/84806689?s=72&u=8e37fed47b2b4c9fb8957324b9b22013c212866d&v=4" width="24" alt="Avatar of HoyosJuan"> HoyosJuan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#HoyosJuan">Copy rank badge</a><br/>
+			Juan Hoyos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>164</td>
 		<td>
+			<a href="https://github.com/slashman">
+				<img src="https://avatars.githubusercontent.com/u/3891742?s=72&u=9484eaecf500ad8a8af1c6eb39bb19cf4a9ea1af&v=4" width="24" alt="Avatar of slashman"> slashman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#slashman">Copy rank badge</a><br/>
+			Santiago Zapata
+		</td>
+		<td>Slashware Interactive </td>
+		<td><a href="https://twitter.com/slashie_">slashie_</a></td>
+		<td>Medellín, Colombia</td>
+		<td>342</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/rojasjuniore">
+				<img src="https://avatars.githubusercontent.com/u/8616891?s=72&u=2769a5b104e05d2ebf66af51b9964780ff8cdc7c&v=4" width="24" alt="Avatar of rojasjuniore"> rojasjuniore
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rojasjuniore">Copy rank badge</a><br/>
+			Junior Rojas
+		</td>
+		<td>Rojasjuniore </td>
+		<td><a href="https://twitter.com/rojasjuniore">rojasjuniore</a></td>
+		<td>Colombia</td>
+		<td>339</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/SalahAdDin">
+				<img src="https://avatars.githubusercontent.com/u/5034215?s=72&u=edc4489ceac80b94645f6e4ad59770902cd16d96&v=4" width="24" alt="Avatar of SalahAdDin"> SalahAdDin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#SalahAdDin">Copy rank badge</a><br/>
+			José Luis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>336</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/diegoALJ">
+				<img src="https://avatars.githubusercontent.com/u/58564968?s=72&u=15cae648ed2eee2752b50f47c0f4e164422b1fe0&v=4" width="24" alt="Avatar of diegoALJ"> diegoALJ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#diegoALJ">Copy rank badge</a><br/>
+			Diego Montoya Tovar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>335</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/Doniben">
+				<img src="https://avatars.githubusercontent.com/u/51678086?s=72&u=970a962f778f718618561c6d4de44ace86b2e2e7&v=4" width="24" alt="Avatar of Doniben"> Doniben
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Doniben">Copy rank badge</a><br/>
+			Doniben Jimenez Jaramillo
+		</td>
+		<td>Esperantoco </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/juanhcode">
+				<img src="https://avatars.githubusercontent.com/u/64670953?s=72&u=d8528f571e91d3c6ce44c7fd0d7eabc102315e66&v=4" width="24" alt="Avatar of juanhcode"> juanhcode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanhcode">Copy rank badge</a><br/>
+			Juan Hoyos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
 			<a href="https://github.com/DaniDiazTech">
 				<img src="https://avatars.githubusercontent.com/u/64286838?s=72&u=d5db41fd9d9da5ad2e07a7146f2b6c6e459f4a54&v=4" width="24" alt="Avatar of DaniDiazTech"> DaniDiazTech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DaniDiazTech">Copy rank badge</a><br/>
 			Daniel Diaz
 		</td>
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/DaniDiazTech">DaniDiazTech</a></td>
 		<td>Colombia</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/entr0phy4">
-				<img src="https://avatars.githubusercontent.com/u/128427935?s=72&u=c2a1feeb7759610c1d3299dd778a4fa6866ea6e1&v=4" width="24" alt="Avatar of entr0phy4"> entr0phy4
-			</a><br/>
-			David Agámez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, D.C</td>
-		<td>307</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/AcSsalazar">
-				<img src="https://avatars.githubusercontent.com/u/93289569?s=72&u=36e141dfe12798a978e0f0b249ed211789aa33c8&v=4" width="24" alt="Avatar of AcSsalazar"> AcSsalazar
-			</a><br/>
-			Andrés Salazar
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>307</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/MaferMazu">
-				<img src="https://avatars.githubusercontent.com/u/35668326?s=72&u=9960b61d9ffd1ea9e3b8c66738bb52313f4f80f0&v=4" width="24" alt="Avatar of MaferMazu"> MaferMazu
-			</a><br/>
-			María Fernanda Magallanes
-		</td>
-		<td>@edunext </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>304</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/jdrodas">
-				<img src="https://avatars.githubusercontent.com/u/29258977?s=72&u=fe4f98d0404c2685c619b4bbbd82f3464959e404&v=4" width="24" alt="Avatar of jdrodas"> jdrodas
-			</a><br/>
-			Juan Dario Rodas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JuanDarioRodas">JuanDarioRodas</a></td>
-		<td>Medellin, Colombia</td>
-		<td>302</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/paganotoni">
-				<img src="https://avatars.githubusercontent.com/u/645522?s=72&u=39b7ae98b8664d5da25ff1b7e5cf5ec332b9e11f&v=4" width="24" alt="Avatar of paganotoni"> paganotoni
-			</a><br/>
-			Antonio Pagano
-		</td>
-		<td>Wawandco </td>
-		<td><a href="https://twitter.com/paganotoni">paganotoni</a></td>
-		<td>Barranquilla / Colombia</td>
-		<td>302</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/Djkde01">
-				<img src="https://avatars.githubusercontent.com/u/60515878?s=72&u=ce16eac0247ea7d9ebda63f100d870b90b683974&v=4" width="24" alt="Avatar of Djkde01"> Djkde01
-			</a><br/>
-			Sergio Estrella
-		</td>
-		<td>Curoo </td>
-		<td><a href="https://twitter.com/djkde">djkde</a></td>
-		<td>Pereira, Colombia</td>
-		<td>302</td>
+		<td>325</td>
 	</tr>
 	<tr>
 		<td>171</td>
 		<td>
+			<a href="https://github.com/mauricio-hub">
+				<img src="https://avatars.githubusercontent.com/u/72770038?s=72&u=128469a1cb392ddc08c6ed589c0cbda6f5109e11&v=4" width="24" alt="Avatar of mauricio-hub"> mauricio-hub
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mauricio-hub">Copy rank badge</a><br/>
+			Mauricio González
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>323</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/FBarreraP">
+				<img src="https://avatars.githubusercontent.com/u/137205063?s=72&u=68dc26fb8aa4df89dcc9fe231f8289656048830e&v=4" width="24" alt="Avatar of FBarreraP"> FBarreraP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#FBarreraP">Copy rank badge</a><br/>
+			Fabián Barrera Prieto
+		</td>
+		<td>Universidad Militar Nueva Granada<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/setohe0909">
+				<img src="https://avatars.githubusercontent.com/u/4140414?s=72&u=fbad72e60144c1a43161bec6322348103b88f57d&v=4" width="24" alt="Avatar of setohe0909"> setohe0909
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#setohe0909">Copy rank badge</a><br/>
+			S3TO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/srcolinas">
+				<img src="https://avatars.githubusercontent.com/u/18264558?s=72&u=0928e6378d148bfaf28b44927fb3b955fc01f648&v=4" width="24" alt="Avatar of srcolinas"> srcolinas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#srcolinas">Copy rank badge</a><br/>
+			Sebastián Rodríguez Colina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/frayosorio">
+				<img src="https://avatars.githubusercontent.com/u/67879242?s=72&u=7a31b20b1f6e72185b0d628925d9915ca2a673cb&v=4" width="24" alt="Avatar of frayosorio"> frayosorio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#frayosorio">Copy rank badge</a><br/>
+			Fray Leon Osorio Rivera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>316</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
 			<a href="https://github.com/arpagon">
 				<img src="https://avatars.githubusercontent.com/u/824129?s=72&u=efc805fbf710257b92ca23c3339b6696cf48f58d&v=4" width="24" alt="Avatar of arpagon"> arpagon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#arpagon">Copy rank badge</a><br/>
 			Sebastian Rojo
 		</td>
 		<td>Emiliavision </td>
 		<td><a href="https://twitter.com/arpagon">arpagon</a></td>
 		<td>medellin, colombia</td>
-		<td>300</td>
+		<td>307</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/anibal">
 				<img src="https://avatars.githubusercontent.com/u/16866?s=72&u=3dba24b0204bb35f116761c59e2f5856d214fa96&v=4" width="24" alt="Avatar of anibal"> anibal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#anibal">Copy rank badge</a><br/>
 			Aníbal Rojas
 		</td>
 		<td>No Company</td>
@@ -2341,63 +2408,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/DiegoRBaquero">
 				<img src="https://avatars.githubusercontent.com/u/2006839?s=72&u=adad0c6d70edba7deb8fe22077794a3a70bbb348&v=4" width="24" alt="Avatar of DiegoRBaquero"> DiegoRBaquero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DiegoRBaquero">Copy rank badge</a><br/>
 			Diego Rodríguez Baquero
 		</td>
 		<td>Payjoy </td>
 		<td><a href="https://twitter.com/DiegoRBaquero">DiegoRBaquero</a></td>
 		<td>Colombia</td>
-		<td>294</td>
+		<td>288</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/jdrodas">
+				<img src="https://avatars.githubusercontent.com/u/29258977?s=72&u=fe4f98d0404c2685c619b4bbbd82f3464959e404&v=4" width="24" alt="Avatar of jdrodas"> jdrodas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdrodas">Copy rank badge</a><br/>
+			Juan Dario Rodas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JuanDarioRodas">JuanDarioRodas</a></td>
+		<td>Medellin, Colombia</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/JoseRZapata">
 				<img src="https://avatars.githubusercontent.com/u/7782210?s=72&u=d324e69ee836f2ab4e7000289c62bcbc55b2de8a&v=4" width="24" alt="Avatar of JoseRZapata"> JoseRZapata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JoseRZapata">Copy rank badge</a><br/>
 			Jose R. Zapata
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/joserzapata">joserzapata</a></td>
 		<td>Medellin, Colombia</td>
-		<td>294</td>
+		<td>288</td>
 	</tr>
 	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/simonhoyos">
-				<img src="https://avatars.githubusercontent.com/u/23706543?s=72&u=29aea88c331e47b77917789b091ee9e52d88d0e3&v=4" width="24" alt="Avatar of simonhoyos"> simonhoyos
-			</a><br/>
-			Simon Hoyos
-		</td>
-		<td>@dealmakertech   </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>291</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/Carchaloneo22">
-				<img src="https://avatars.githubusercontent.com/u/159488757?s=72&u=bff2053b7bc97a5381b3a62cfd306fed39cc7b6d&v=4" width="24" alt="Avatar of Carchaloneo22"> Carchaloneo22
-			</a><br/>
-			Carlos Chaparro
-		</td>
-		<td>S3media </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>289</td>
-	</tr>
-	<tr>
-		<td>177</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/jorgechauxjr">
 				<img src="https://avatars.githubusercontent.com/u/55110994?s=72&u=e2d70a009a004483d7cc0d910b054497b225a401&v=4" width="24" alt="Avatar of jorgechauxjr"> jorgechauxjr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jorgechauxjr">Copy rank badge</a><br/>
 			Jorge Chaux
 		</td>
 		<td>No Company</td>
@@ -2406,37 +2460,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>182</td>
 		<td>
-			<a href="https://github.com/YeisonCardona">
-				<img src="https://avatars.githubusercontent.com/u/4206584?s=72&u=e60ef1345e99b8353a846485294f28d37f13778f&v=4" width="24" alt="Avatar of YeisonCardona"> YeisonCardona
-			</a><br/>
-			Yeison Cardona
+			<a href="https://github.com/danielgara">
+				<img src="https://avatars.githubusercontent.com/u/2061370?s=72&u=c8a4919b9e3018e5a7182029b3f25d21e6e1e8d4&v=4" width="24" alt="Avatar of danielgara"> danielgara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#danielgara">Copy rank badge</a><br/>
+			Daniel Correa
 		</td>
-		<td>Dunderlab </td>
-		<td>No Twitter Username</td>
-		<td>Manizales - Colombia</td>
-		<td>287</td>
+		<td>Universidad Eafit </td>
+		<td><a href="https://twitter.com/danielgarax">danielgarax</a></td>
+		<td>Medellín, Colombia</td>
+		<td>284</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>183</td>
 		<td>
-			<a href="https://github.com/carboleda">
-				<img src="https://avatars.githubusercontent.com/u/4198484?s=72&u=15047ad05a4d70db0eb45b7b1296937455041f2a&v=4" width="24" alt="Avatar of carboleda"> carboleda
-			</a><br/>
-			Carlos Fernando Arboleda
+			<a href="https://github.com/MaferMazu">
+				<img src="https://avatars.githubusercontent.com/u/35668326?s=72&u=9960b61d9ffd1ea9e3b8c66738bb52313f4f80f0&v=4" width="24" alt="Avatar of MaferMazu"> MaferMazu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MaferMazu">Copy rank badge</a><br/>
+			María Fernanda Magallanes
 		</td>
-		<td>@epam, @gdgcali </td>
+		<td>@edunext </td>
 		<td>No Twitter Username</td>
-		<td>Cali - Colombia</td>
-		<td>287</td>
+		<td>Bogotá, Colombia</td>
+		<td>283</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/nmenag">
+				<img src="https://avatars.githubusercontent.com/u/4958877?s=72&u=1108dfbfabcba5452e6f7bfe4b133935e1e30cd5&v=4" width="24" alt="Avatar of nmenag"> nmenag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nmenag">Copy rank badge</a><br/>
+			Nicolas Mena
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/MiltonLn">
 				<img src="https://avatars.githubusercontent.com/u/7388681?s=72&u=338541f2c995d9e6ab4344548407209b902a2d24&v=4" width="24" alt="Avatar of MiltonLn"> MiltonLn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MiltonLn">Copy rank badge</a><br/>
 			Milton Lenis
 		</td>
 		<td>No Company</td>
@@ -2445,245 +2512,245 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>186</td>
 		<td>
-			<a href="https://github.com/lmac-1">
-				<img src="https://avatars.githubusercontent.com/u/64803272?s=72&u=d08c44610838f7622f192d3783bce3b74c80e77e&v=4" width="24" alt="Avatar of lmac-1"> lmac-1
-			</a><br/>
-			Lucy Macartney
+			<a href="https://github.com/carboleda">
+				<img src="https://avatars.githubusercontent.com/u/4198484?s=72&u=15047ad05a4d70db0eb45b7b1296937455041f2a&v=4" width="24" alt="Avatar of carboleda"> carboleda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carboleda">Copy rank badge</a><br/>
+			Carlos Fernando Arboleda
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/codingwithlucy">codingwithlucy</a></td>
-		<td>Cali, Colombia</td>
-		<td>279</td>
+		<td>@epam, @gdgcali </td>
+		<td>No Twitter Username</td>
+		<td>Cali - Colombia</td>
+		<td>280</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/sanchezluys">
+				<img src="https://avatars.githubusercontent.com/u/44624521?s=72&u=7fe27c2cd5fdf11fd3b843a9cea7a12d676b891a&v=4" width="24" alt="Avatar of sanchezluys"> sanchezluys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sanchezluys">Copy rank badge</a><br/>
+			Luys
+		</td>
+		<td>Automatizacion/bots/ Y Hardware A<br/>La<br/>Medida<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bucaramanga/Colombia</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/Gothsec">
+				<img src="https://avatars.githubusercontent.com/u/112715997?s=72&u=107afc8cc5f061740f365e5436c4cda214a8b5c2&v=4" width="24" alt="Avatar of Gothsec"> Gothsec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Gothsec">Copy rank badge</a><br/>
+			Andres Hernandez 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>270</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/CoffeJeanCode">
+				<img src="https://avatars.githubusercontent.com/u/45444014?s=72&u=1674692ebbf8e557ff6efde8c90a04dbf8141ef4&v=4" width="24" alt="Avatar of CoffeJeanCode"> CoffeJeanCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CoffeJeanCode">Copy rank badge</a><br/>
+			Jean Pierre Ortiz Murcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>269</td>
+	</tr>
+	<tr>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/Miqueas">
 				<img src="https://avatars.githubusercontent.com/u/31262466?s=72&u=14a7facb232a149b0322d7683095f24cda9d6a7c&v=4" width="24" alt="Avatar of Miqueas"> Miqueas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Miqueas">Copy rank badge</a><br/>
 			Miqueas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>279</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/xaca">
-				<img src="https://avatars.githubusercontent.com/u/4655301?s=72&u=fde20ac8e1aa8727762d79cd23c498b5038a0f4f&v=4" width="24" alt="Avatar of xaca"> xaca
-			</a><br/>
-			Xaca Rana
-		</td>
-		<td>Xacarana.com </td>
-		<td><a href="https://twitter.com/xacarana">xacarana</a></td>
-		<td>Medellín - Colombia</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/mesirendon">
-				<img src="https://avatars.githubusercontent.com/u/1184373?s=72&u=8f3eb23e6a83085d026c17b1436c83c3030012dc&v=4" width="24" alt="Avatar of mesirendon"> mesirendon
-			</a><br/>
-			Mesi Rendon
-		</td>
-		<td>Modak </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/darwinyusef">
-				<img src="https://avatars.githubusercontent.com/u/49506075?s=72&u=7ad03882e0595ca7770971c330f463bb713245cc&v=4" width="24" alt="Avatar of darwinyusef"> darwinyusef
-			</a><br/>
-			Yusef Gonzalez
-		</td>
-		<td>Aquicreamos </td>
-		<td><a href="https://twitter.com/darwinyusef">darwinyusef</a></td>
-		<td>Medellín</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/danielgara">
-				<img src="https://avatars.githubusercontent.com/u/2061370?s=72&u=c8a4919b9e3018e5a7182029b3f25d21e6e1e8d4&v=4" width="24" alt="Avatar of danielgara"> danielgara
-			</a><br/>
-			Daniel Correa
-		</td>
-		<td>Universidad Eafit </td>
-		<td><a href="https://twitter.com/danielgarax">danielgarax</a></td>
-		<td>Medellín, Colombia</td>
-		<td>275</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/frayosorio">
-				<img src="https://avatars.githubusercontent.com/u/67879242?s=72&u=7a31b20b1f6e72185b0d628925d9915ca2a673cb&v=4" width="24" alt="Avatar of frayosorio"> frayosorio
-			</a><br/>
-			Fray Leon Osorio Rivera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>263</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/altair3542">
-				<img src="https://avatars.githubusercontent.com/u/104391164?s=72&u=d4fb86beae0cc657152cfc3d83845cb1a41641b1&v=4" width="24" alt="Avatar of altair3542"> altair3542
-			</a><br/>
-			Santiago Mesa
-		</td>
-		<td>@lewagon  </td>
-		<td><a href="https://twitter.com/thiagomesa">thiagomesa</a></td>
-		<td>Medellín - Antioquia</td>
-		<td>256</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/jucarata">
-				<img src="https://avatars.githubusercontent.com/u/83429985?s=72&u=e2104b90a070a4663cdb2c7eca5bb2addfeb6dc3&v=4" width="24" alt="Avatar of jucarata"> jucarata
-			</a><br/>
-			Juan Camilo Ramírez Tabares
-		</td>
-		<td>Universidad Icesi </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/YANCARLOSOFICIAL">
-				<img src="https://avatars.githubusercontent.com/u/169872361?s=72&u=96d49b85ee6b3c836a561e7d0cb42b1c39a31c68&v=4" width="24" alt="Avatar of YANCARLOSOFICIAL"> YANCARLOSOFICIAL
-			</a><br/>
-			Yan Carlos Guerra 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>248</td>
+		<td>268</td>
 	</tr>
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/nmenag">
-				<img src="https://avatars.githubusercontent.com/u/4958877?s=72&u=1108dfbfabcba5452e6f7bfe4b133935e1e30cd5&v=4" width="24" alt="Avatar of nmenag"> nmenag
-			</a><br/>
-			Nicolas Mena
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>248</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/asanchezyali">
-				<img src="https://avatars.githubusercontent.com/u/29262782?s=72&u=47b0f16c0eacb5e09fedb9775c5cadf9b41e4a5c&v=4" width="24" alt="Avatar of asanchezyali"> asanchezyali
-			</a><br/>
-			Alejandro Sánchez Yalí
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/asanchezyali">asanchezyali</a></td>
-		<td>Colombia</td>
-		<td>247</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/camiloaacevedo">
-				<img src="https://avatars.githubusercontent.com/u/145441735?s=72&u=ca71b2e4c616a32b3e0e15b2a8d87a9e1376d0b2&v=4" width="24" alt="Avatar of camiloaacevedo"> camiloaacevedo
-			</a><br/>
-			Camilo A. Acevedo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>244</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
 			<a href="https://github.com/andresayac">
 				<img src="https://avatars.githubusercontent.com/u/16548795?s=72&u=e5a134707de0d8defb54b2786af43f1e54d1ab75&v=4" width="24" alt="Avatar of andresayac"> andresayac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andresayac">Copy rank badge</a><br/>
 			Andres Aya
 		</td>
 		<td>Afaya </td>
 		<td><a href="https://twitter.com/andresayaa">andresayaa</a></td>
 		<td>Colombia</td>
-		<td>242</td>
+		<td>267</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/jucarata">
+				<img src="https://avatars.githubusercontent.com/u/83429985?s=72&u=e2104b90a070a4663cdb2c7eca5bb2addfeb6dc3&v=4" width="24" alt="Avatar of jucarata"> jucarata
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jucarata">Copy rank badge</a><br/>
+			Juan Camilo Ramírez Tabares
+		</td>
+		<td>Universidad Icesi </td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>267</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/paganotoni">
+				<img src="https://avatars.githubusercontent.com/u/645522?s=72&u=39b7ae98b8664d5da25ff1b7e5cf5ec332b9e11f&v=4" width="24" alt="Avatar of paganotoni"> paganotoni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#paganotoni">Copy rank badge</a><br/>
+			Antonio Pagano
+		</td>
+		<td>Wawandco </td>
+		<td><a href="https://twitter.com/paganotoni">paganotoni</a></td>
+		<td>Barranquilla / Colombia</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/emamut">
+				<img src="https://avatars.githubusercontent.com/u/134828?s=72&u=7ff1f42e8024e560880fafc02e6e548bd5129fd3&v=4" width="24" alt="Avatar of emamut"> emamut
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#emamut">Copy rank badge</a><br/>
+			Faber Andrés Vergara Holguín
+		</td>
+		<td>Emamut </td>
+		<td><a href="https://twitter.com/e_mamut">e_mamut</a></td>
+		<td>Bogotá D.C</td>
+		<td>261</td>
 	</tr>
 	<tr>
 		<td>195</td>
 		<td>
-			<a href="https://github.com/1cgonza">
-				<img src="https://avatars.githubusercontent.com/u/4657617?s=72&u=afa5fcaa53f2ac40029867ecb60bdd67d9f3a7fb&v=4" width="24" alt="Avatar of 1cgonza"> 1cgonza
-			</a><br/>
-			Juan Camilo González
+			<a href="https://github.com/Djkde01">
+				<img src="https://avatars.githubusercontent.com/u/60515878?s=72&u=ce16eac0247ea7d9ebda63f100d870b90b683974&v=4" width="24" alt="Avatar of Djkde01"> Djkde01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Djkde01">Copy rank badge</a><br/>
+			Sergio Estrella
 		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td><a href="https://twitter.com/1cgonza">1cgonza</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>242</td>
+		<td>Curoo </td>
+		<td><a href="https://twitter.com/djkde">djkde</a></td>
+		<td>Pereira, Colombia</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>196</td>
 		<td>
-			<a href="https://github.com/fhernanb">
-				<img src="https://avatars.githubusercontent.com/u/5994282?s=72&u=38adc1607011c131e47863c421f2230d291ec924&v=4" width="24" alt="Avatar of fhernanb"> fhernanb
-			</a><br/>
-			Freddy Hernández
-		</td>
-		<td>Universidad Nacional De Colombia<br/>Sede<br/>Medellín<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>241</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
 			<a href="https://github.com/NeckerFree">
 				<img src="https://avatars.githubusercontent.com/u/8497300?s=72&u=8b461448c71770c57497b2fdc77a41d537262ae3&v=4" width="24" alt="Avatar of NeckerFree"> NeckerFree
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#NeckerFree">Copy rank badge</a><br/>
 			Elio Cortés
 		</td>
 		<td>Backend Software Developer </td>
 		<td><a href="https://twitter.com/ElioCortesM">ElioCortesM</a></td>
 		<td>Bogotá, Colombia </td>
-		<td>241</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/rkmax">
+				<img src="https://avatars.githubusercontent.com/u/395707?s=72&u=3d736d382ee07b7721d02b51cf62166cbcdd42af&v=4" width="24" alt="Avatar of rkmax"> rkmax
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rkmax">Copy rank badge</a><br/>
+			Julian Reyes Escrigas
+		</td>
+		<td>Octane-security </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>254</td>
 	</tr>
 	<tr>
 		<td>198</td>
 		<td>
-			<a href="https://github.com/Derlys">
-				<img src="https://avatars.githubusercontent.com/u/58484607?s=72&u=4943ecc82f683e7ad8899c027433b9af0acfffd5&v=4" width="24" alt="Avatar of Derlys"> Derlys
-			</a><br/>
-			derlys
+			<a href="https://github.com/jairoserrano">
+				<img src="https://avatars.githubusercontent.com/u/285757?s=72&u=e663bec9259ecce83ec6c3ce7c7e2c62ce7f04da&v=4" width="24" alt="Avatar of jairoserrano"> jairoserrano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jairoserrano">Copy rank badge</a><br/>
+			Jairo Enrique Serrano Castañeda
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Colombia/ Medellín</td>
-		<td>241</td>
+		<td>Cartagena, Colombia</td>
+		<td>253</td>
 	</tr>
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/CarlosYazid">
+				<img src="https://avatars.githubusercontent.com/u/140143753?s=72&u=e0c62f9657a318f2be666ad73552f7b82f0b1f23&v=4" width="24" alt="Avatar of CarlosYazid"> CarlosYazid
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CarlosYazid">Copy rank badge</a><br/>
+			Carlos Yazid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/YANCARLOSOFICIAL">
+				<img src="https://avatars.githubusercontent.com/u/169872361?s=72&u=96d49b85ee6b3c836a561e7d0cb42b1c39a31c68&v=4" width="24" alt="Avatar of YANCARLOSOFICIAL"> YANCARLOSOFICIAL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#YANCARLOSOFICIAL">Copy rank badge</a><br/>
+			Yan Carlos Guerra 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/botero-dev">
+				<img src="https://avatars.githubusercontent.com/u/1028756?s=72&u=5aa3d25f38c5fa25864c05a101111ef8f19b3c54&v=4" width="24" alt="Avatar of botero-dev"> botero-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#botero-dev">Copy rank badge</a><br/>
+			Andrés Botero
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/0xafbf">0xafbf</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/ncardozo">
+				<img src="https://avatars.githubusercontent.com/u/1417846?s=72&u=ddd6a94241a480361992eda329c634fc250e9cda&v=4" width="24" alt="Avatar of ncardozo"> ncardozo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ncardozo">Copy rank badge</a><br/>
+			Nicolas Cardozo
+		</td>
+		<td>Universidad De Los Andes<br/></td>
+		<td><a href="https://twitter.com/ncardoz">ncardoz</a></td>
+		<td>Colombia</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/alvarobyrne">
+				<img src="https://avatars.githubusercontent.com/u/165956?s=72&u=b8c2d16359f916c4a0589c256d791a39d42d4ee8&v=4" width="24" alt="Avatar of alvarobyrne"> alvarobyrne
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alvarobyrne">Copy rank badge</a><br/>
+			Alvaro Obyrne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>239</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a href="https://github.com/santiagoramirez10">
 				<img src="https://avatars.githubusercontent.com/u/77732857?s=72&u=d3e66b2a11c4f6d4af7b2bb49c59e771f6672513&v=4" width="24" alt="Avatar of santiagoramirez10"> santiagoramirez10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#santiagoramirez10">Copy rank badge</a><br/>
 			Santiago Ramírez Pérez
 		</td>
 		<td>Universidad De Antioquia </td>
@@ -2692,323 +2759,375 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/alvarobyrne">
-				<img src="https://avatars.githubusercontent.com/u/165956?s=72&u=b8c2d16359f916c4a0589c256d791a39d42d4ee8&v=4" width="24" alt="Avatar of alvarobyrne"> alvarobyrne
-			</a><br/>
-			Alvaro Obyrne
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/AriSophDev">
-				<img src="https://avatars.githubusercontent.com/u/111167233?s=72&u=1717c2f0bd8236a3172a5c16ff8a1149ac12c502&v=4" width="24" alt="Avatar of AriSophDev"> AriSophDev
-			</a><br/>
-			Topi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/ncardozo">
-				<img src="https://avatars.githubusercontent.com/u/1417846?s=72&u=ddd6a94241a480361992eda329c634fc250e9cda&v=4" width="24" alt="Avatar of ncardozo"> ncardozo
-			</a><br/>
-			Nicolas Cardozo
-		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td><a href="https://twitter.com/ncardoz">ncardoz</a></td>
-		<td>Colombia</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/talcual">
-				<img src="https://avatars.githubusercontent.com/u/1000677?s=72&u=fc2f4a2543d0e780d0bc5b845bec006db4f03a0f&v=4" width="24" alt="Avatar of talcual"> talcual
-			</a><br/>
-			Luis Toscano
-		</td>
-		<td>Caribecoders It </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/CarlosYazid">
-				<img src="https://avatars.githubusercontent.com/u/140143753?s=72&u=e0c62f9657a318f2be666ad73552f7b82f0b1f23&v=4" width="24" alt="Avatar of CarlosYazid"> CarlosYazid
-			</a><br/>
-			Carlos Yazid
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>233</td>
-	</tr>
-	<tr>
 		<td>205</td>
-		<td>
-			<a href="https://github.com/Sam-SSD">
-				<img src="https://avatars.githubusercontent.com/u/66537888?s=72&u=ce2ad9db8ffde3218556b14c5bcbaa0a01a8b2ad&v=4" width="24" alt="Avatar of Sam-SSD"> Sam-SSD
-			</a><br/>
-			Sam SD
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/johnsi15">
-				<img src="https://avatars.githubusercontent.com/u/2974447?s=72&u=108bf24160ad3b1129f0e48b52ca2bb0c5a9f10a&v=4" width="24" alt="Avatar of johnsi15"> johnsi15
-			</a><br/>
-			John Serrano
-		</td>
-		<td>John Serrano </td>
-		<td><a href="https://twitter.com/johnserranodev">johnserranodev</a></td>
-		<td>Cúcuta Colombia</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/sanchezluys">
-				<img src="https://avatars.githubusercontent.com/u/44624521?s=72&u=7fe27c2cd5fdf11fd3b843a9cea7a12d676b891a&v=4" width="24" alt="Avatar of sanchezluys"> sanchezluys
-			</a><br/>
-			Luys
-		</td>
-		<td>Automatizacion/bots/ Y Hardware A<br/>La<br/>Medida<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bucaramanga/Colombia</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/luismvargasg">
-				<img src="https://avatars.githubusercontent.com/u/60363752?s=72&u=1a49c9139906f74b3e886d95dc4751cc7d5f31b6&v=4" width="24" alt="Avatar of luismvargasg"> luismvargasg
-			</a><br/>
-			Luis Miguel Vargas Guevara
-		</td>
-		<td>@colav  </td>
-		<td><a href="https://twitter.com/luismvargasg1">luismvargasg1</a></td>
-		<td>Medellín, Colombia.</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/alesanabriav7">
-				<img src="https://avatars.githubusercontent.com/u/1097809?s=72&u=69118d89f24d1203d5bfb5fd90eb9384ba943f38&v=4" width="24" alt="Avatar of alesanabriav7"> alesanabriav7
-			</a><br/>
-			Alejandro Sanabria
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alesanabriav">alesanabriav</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/Oriojas">
-				<img src="https://avatars.githubusercontent.com/u/18704334?s=72&u=011630941c964fe6afcd9de86ecc1721a6b9389f&v=4" width="24" alt="Avatar of Oriojas"> Oriojas
-			</a><br/>
-			Oscar Riojas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/alejoriosm04">
-				<img src="https://avatars.githubusercontent.com/u/65176988?s=72&u=31604cb689879a4016f18048cb453f7b24d026a7&v=4" width="24" alt="Avatar of alejoriosm04"> alejoriosm04
-			</a><br/>
-			Alejandro Ríos Muñoz
-		</td>
-		<td>@gruponovaeafit </td>
-		<td><a href="https://twitter.com/alejoriosm04">alejoriosm04</a></td>
-		<td>Colombia</td>
-		<td>221</td>
-	</tr>
-	<tr>
-		<td>212</td>
 		<td>
 			<a href="https://github.com/EdwinPuertas">
 				<img src="https://avatars.githubusercontent.com/u/1892308?s=72&u=5bd0606724f542bb6575d05531eadeb5d5adee3c&v=4" width="24" alt="Avatar of EdwinPuertas"> EdwinPuertas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#EdwinPuertas">Copy rank badge</a><br/>
 			Edwin Puertas
 		</td>
 		<td>Universidad Tecnológica De Bolivar<br/></td>
 		<td><a href="https://twitter.com/OafToBark23">OafToBark23</a></td>
 		<td>Cartagena</td>
-		<td>218</td>
+		<td>234</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>206</td>
 		<td>
-			<a href="https://github.com/Edu4rdSHL">
-				<img src="https://avatars.githubusercontent.com/u/32582878?s=72&u=9cb36185e38fcc2d3890ce07fbd652e25019e228&v=4" width="24" alt="Avatar of Edu4rdSHL"> Edu4rdSHL
-			</a><br/>
-			Eduard Tolosa
+			<a href="https://github.com/alesanabriav7">
+				<img src="https://avatars.githubusercontent.com/u/1097809?s=72&u=69118d89f24d1203d5bfb5fd90eb9384ba943f38&v=4" width="24" alt="Avatar of alesanabriav7"> alesanabriav7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alesanabriav7">Copy rank badge</a><br/>
+			Alejandro Sanabria
 		</td>
-		<td>Somos Internet </td>
-		<td><a href="https://twitter.com/edu4rdshl">edu4rdshl</a></td>
-		<td>Colombia</td>
-		<td>216</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alesanabriav">alesanabriav</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>233</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>207</td>
 		<td>
-			<a href="https://github.com/trainingLeader">
-				<img src="https://avatars.githubusercontent.com/u/131613955?s=72&u=8c60bfd7bce171c4a4950b584e9589322946d6d4&v=4" width="24" alt="Avatar of trainingLeader"> trainingLeader
-			</a><br/>
-			Johlver Jose Pardo
+			<a href="https://github.com/jofsanchezci">
+				<img src="https://avatars.githubusercontent.com/u/21145093?s=72&u=b26f9e274a9cd05040b360a191d4d0b04da2f905&v=4" width="24" alt="Avatar of jofsanchezci"> jofsanchezci
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jofsanchezci">Copy rank badge</a><br/>
+			Joaquin Fernando Sanchez
 		</td>
-		<td>Campuslands </td>
+		<td>Universidad Nacional De Colombia<br/></td>
 		<td>No Twitter Username</td>
-		<td>Bucaramanga Colombia</td>
-		<td>216</td>
+		<td>Bogotá</td>
+		<td>231</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>208</td>
 		<td>
-			<a href="https://github.com/rkmax">
-				<img src="https://avatars.githubusercontent.com/u/395707?s=72&u=3d736d382ee07b7721d02b51cf62166cbcdd42af&v=4" width="24" alt="Avatar of rkmax"> rkmax
-			</a><br/>
-			Julian Reyes Escrigas
+			<a href="https://github.com/talcual">
+				<img src="https://avatars.githubusercontent.com/u/1000677?s=72&u=fc2f4a2543d0e780d0bc5b845bec006db4f03a0f&v=4" width="24" alt="Avatar of talcual"> talcual
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#talcual">Copy rank badge</a><br/>
+			Luis Toscano
 		</td>
-		<td>Octane-security </td>
+		<td>Caribecoders It </td>
 		<td>No Twitter Username</td>
 		<td>Barranquilla, Colombia</td>
-		<td>216</td>
+		<td>230</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>209</td>
 		<td>
-			<a href="https://github.com/botero-dev">
-				<img src="https://avatars.githubusercontent.com/u/1028756?s=72&u=5aa3d25f38c5fa25864c05a101111ef8f19b3c54&v=4" width="24" alt="Avatar of botero-dev"> botero-dev
-			</a><br/>
-			Andrés Botero
+			<a href="https://github.com/altair3542">
+				<img src="https://avatars.githubusercontent.com/u/104391164?s=72&u=d4fb86beae0cc657152cfc3d83845cb1a41641b1&v=4" width="24" alt="Avatar of altair3542"> altair3542
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#altair3542">Copy rank badge</a><br/>
+			Santiago Mesa
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/0xafbf">0xafbf</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>214</td>
+		<td>@lewagon  </td>
+		<td><a href="https://twitter.com/thiagomesa">thiagomesa</a></td>
+		<td>Medellín - Antioquia</td>
+		<td>227</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>210</td>
 		<td>
-			<a href="https://github.com/CoffeJeanCode">
-				<img src="https://avatars.githubusercontent.com/u/45444014?s=72&u=1674692ebbf8e557ff6efde8c90a04dbf8141ef4&v=4" width="24" alt="Avatar of CoffeJeanCode"> CoffeJeanCode
-			</a><br/>
-			Jean Pierre Ortiz Murcia
+			<a href="https://github.com/stevensotelo">
+				<img src="https://avatars.githubusercontent.com/u/4921829?s=72&v=4" width="24" alt="Avatar of stevensotelo"> stevensotelo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#stevensotelo">Copy rank badge</a><br/>
+			Steven Sotelo
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>214</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/hipdev">
-				<img src="https://avatars.githubusercontent.com/u/48492084?s=72&u=8ef9979092347c9498086089d5a523b80cc7d469&v=4" width="24" alt="Avatar of hipdev"> hipdev
-			</a><br/>
-			Julián David
-		</td>
-		<td>Coverbase </td>
-		<td><a href="https://twitter.com/hipdev_">hipdev_</a></td>
-		<td>Medellín</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/kdmonteal">
-				<img src="https://avatars.githubusercontent.com/u/36426077?s=72&u=b1b347ce3149827d1cee6691f892c4c9b2962fbe&v=4" width="24" alt="Avatar of kdmonteal"> kdmonteal
-			</a><br/>
-			Daniella Marin
-		</td>
-		<td>No Company</td>
+		<td>@ciat-dapa  </td>
 		<td>No Twitter Username</td>
 		<td>Cali, Colombia</td>
-		<td>212</td>
+		<td>227</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>211</td>
 		<td>
-			<a href="https://github.com/jairoserrano">
-				<img src="https://avatars.githubusercontent.com/u/285757?s=72&u=e663bec9259ecce83ec6c3ce7c7e2c62ce7f04da&v=4" width="24" alt="Avatar of jairoserrano"> jairoserrano
-			</a><br/>
-			Jairo Enrique Serrano Castañeda
+			<a href="https://github.com/simonhoyos">
+				<img src="https://avatars.githubusercontent.com/u/23706543?s=72&u=29aea88c331e47b77917789b091ee9e52d88d0e3&v=4" width="24" alt="Avatar of simonhoyos"> simonhoyos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#simonhoyos">Copy rank badge</a><br/>
+			Simon Hoyos
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cartagena, Colombia</td>
-		<td>208</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/andfoy">
-				<img src="https://avatars.githubusercontent.com/u/1878982?s=72&u=1567bf7129dcc400d5a1756f54aa9e3f37823087&v=4" width="24" alt="Avatar of andfoy"> andfoy
-			</a><br/>
-			Edgar Andrés Margffoy Tuay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/mauricio-hub">
-				<img src="https://avatars.githubusercontent.com/u/72770038?s=72&u=128469a1cb392ddc08c6ed589c0cbda6f5109e11&v=4" width="24" alt="Avatar of mauricio-hub"> mauricio-hub
-			</a><br/>
-			Mauricio González
-		</td>
-		<td>No Company</td>
+		<td>@dealmakertech   </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>206</td>
+		<td>225</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/juanmarcosdev">
 				<img src="https://avatars.githubusercontent.com/u/46875325?s=72&u=bd1bab93b48b5108f9b421a9d286a4aa97c814b4&v=4" width="24" alt="Avatar of juanmarcosdev"> juanmarcosdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanmarcosdev">Copy rank badge</a><br/>
 			Juan Marcos Caicedo Mejía
 		</td>
 		<td>@icesi </td>
 		<td><a href="https://twitter.com/juanmarcosdev">juanmarcosdev</a></td>
 		<td>Cali, Colombia</td>
-		<td>205</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/Sam-SSD">
+				<img src="https://avatars.githubusercontent.com/u/66537888?s=72&u=ce2ad9db8ffde3218556b14c5bcbaa0a01a8b2ad&v=4" width="24" alt="Avatar of Sam-SSD"> Sam-SSD
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Sam-SSD">Copy rank badge</a><br/>
+			Sam SD
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>223</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/xaca">
+				<img src="https://avatars.githubusercontent.com/u/4655301?s=72&u=fde20ac8e1aa8727762d79cd23c498b5038a0f4f&v=4" width="24" alt="Avatar of xaca"> xaca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#xaca">Copy rank badge</a><br/>
+			Xaca Rana
+		</td>
+		<td>Xacarana.com </td>
+		<td><a href="https://twitter.com/xacarana">xacarana</a></td>
+		<td>Medellín - Colombia</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/Danfoa">
+				<img src="https://avatars.githubusercontent.com/u/8356912?s=72&u=de940e9df44ab2cd00541ae4214110baff8298c8&v=4" width="24" alt="Avatar of Danfoa"> Danfoa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Danfoa">Copy rank badge</a><br/>
+			Daniel Ordonez
+		</td>
+		<td>Iit  </td>
+		<td><a href="https://twitter.com/OrdonezApraez">OrdonezApraez</a></td>
+		<td>Italy-Colombia</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/fhernanb">
+				<img src="https://avatars.githubusercontent.com/u/5994282?s=72&u=38adc1607011c131e47863c421f2230d291ec924&v=4" width="24" alt="Avatar of fhernanb"> fhernanb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fhernanb">Copy rank badge</a><br/>
+			Freddy Hernández
+		</td>
+		<td>Universidad Nacional De Colombia<br/>Sede<br/>Medellín<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/miguelperezdev">
+				<img src="https://avatars.githubusercontent.com/u/159577452?s=72&u=22bcef5cdd4e8b7d4026debda41020d5743ee949&v=4" width="24" alt="Avatar of miguelperezdev"> miguelperezdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguelperezdev">Copy rank badge</a><br/>
+			Miguel Perez Ojeda
+		</td>
+		<td>Icesi </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/Derlys">
+				<img src="https://avatars.githubusercontent.com/u/58484607?s=72&u=4943ecc82f683e7ad8899c027433b9af0acfffd5&v=4" width="24" alt="Avatar of Derlys"> Derlys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Derlys">Copy rank badge</a><br/>
+			derlys
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia/ Medellín</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/jahirfiquitiva">
+				<img src="https://avatars.githubusercontent.com/u/10360816?s=72&u=081db898d742f25415db261bab6637e41c243aee&v=4" width="24" alt="Avatar of jahirfiquitiva"> jahirfiquitiva
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jahirfiquitiva">Copy rank badge</a><br/>
+			Jahir Fiquitiva ☻
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jahirfiquitiva">jahirfiquitiva</a></td>
+		<td>Duitama, Colombia</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/luismvargasg">
+				<img src="https://avatars.githubusercontent.com/u/60363752?s=72&u=1a49c9139906f74b3e886d95dc4751cc7d5f31b6&v=4" width="24" alt="Avatar of luismvargasg"> luismvargasg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#luismvargasg">Copy rank badge</a><br/>
+			Luis Miguel Vargas Guevara
+		</td>
+		<td>@colav  </td>
+		<td><a href="https://twitter.com/luismvargasg1">luismvargasg1</a></td>
+		<td>Medellín, Colombia.</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/danyel117">
+				<img src="https://avatars.githubusercontent.com/u/11917658?s=72&u=a8b55f7a686007aaecd289e7a56e479d2089c276&v=4" width="24" alt="Avatar of danyel117"> danyel117
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#danyel117">Copy rank badge</a><br/>
+			Daniel Saldarriaga López
+		</td>
+		<td>Prevalentware </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/trainingLeader">
+				<img src="https://avatars.githubusercontent.com/u/131613955?s=72&u=8c60bfd7bce171c4a4950b584e9589322946d6d4&v=4" width="24" alt="Avatar of trainingLeader"> trainingLeader
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#trainingLeader">Copy rank badge</a><br/>
+			Johlver Jose Pardo
+		</td>
+		<td>Campuslands </td>
+		<td>No Twitter Username</td>
+		<td>Bucaramanga Colombia</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/ebar0n">
+				<img src="https://avatars.githubusercontent.com/u/1896362?s=72&u=a84ae3c0c557ebd0231a6b87766153def7873faf&v=4" width="24" alt="Avatar of ebar0n"> ebar0n
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ebar0n">Copy rank badge</a><br/>
+			Edwar Baron
+		</td>
+		<td>@platzi </td>
+		<td><a href="https://twitter.com/ebar0n">ebar0n</a></td>
+		<td>Colombia</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/CafeFPS">
+				<img src="https://avatars.githubusercontent.com/u/92343247?s=72&u=88e54a95a5b1323b80de876bf764ccbb49727d77&v=4" width="24" alt="Avatar of CafeFPS"> CafeFPS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CafeFPS">Copy rank badge</a><br/>
+			Café
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/CafeFPS">CafeFPS</a></td>
+		<td>Bogotá D.C. - Colombia</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/hipdev">
+				<img src="https://avatars.githubusercontent.com/u/48492084?s=72&u=8ef9979092347c9498086089d5a523b80cc7d469&v=4" width="24" alt="Avatar of hipdev"> hipdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hipdev">Copy rank badge</a><br/>
+			Julián David
+		</td>
+		<td>Coverbase </td>
+		<td><a href="https://twitter.com/hipdev_">hipdev_</a></td>
+		<td>Medellín</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/gsalgadotoledo">
+				<img src="https://avatars.githubusercontent.com/u/1288502?s=72&u=4db57c923a60601fc158895b825487ba7faed131&v=4" width="24" alt="Avatar of gsalgadotoledo"> gsalgadotoledo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gsalgadotoledo">Copy rank badge</a><br/>
+			Gustavo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/andremov">
+				<img src="https://avatars.githubusercontent.com/u/842843?s=72&u=2a60cd1fad68813cb4da68ee8b357c40fe8980cf&v=4" width="24" alt="Avatar of andremov"> andremov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andremov">Copy rank badge</a><br/>
+			Andrés Movilla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/Oriojas">
+				<img src="https://avatars.githubusercontent.com/u/18704334?s=72&u=011630941c964fe6afcd9de86ecc1721a6b9389f&v=4" width="24" alt="Avatar of Oriojas"> Oriojas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Oriojas">Copy rank badge</a><br/>
+			Oscar Riojas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/kdmonteal">
+				<img src="https://avatars.githubusercontent.com/u/36426077?s=72&u=b1b347ce3149827d1cee6691f892c4c9b2962fbe&v=4" width="24" alt="Avatar of kdmonteal"> kdmonteal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kdmonteal">Copy rank badge</a><br/>
+			Daniella Marin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/AriSophDev">
+				<img src="https://avatars.githubusercontent.com/u/111167233?s=72&u=1717c2f0bd8236a3172a5c16ff8a1149ac12c502&v=4" width="24" alt="Avatar of AriSophDev"> AriSophDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AriSophDev">Copy rank badge</a><br/>
+			Topi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/MigueMartelo">
+				<img src="https://avatars.githubusercontent.com/u/20935123?s=72&u=4c5d0114093cc2a8eb8273ff524a7e5e369556bf&v=4" width="24" alt="Avatar of MigueMartelo"> MigueMartelo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MigueMartelo">Copy rank badge</a><br/>
+			Miguel Angel Martelo Quiroz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/miguemartelo31">miguemartelo31</a></td>
+		<td>Cartagena, Colombia</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/mesirendon">
+				<img src="https://avatars.githubusercontent.com/u/1184373?s=72&u=8f3eb23e6a83085d026c17b1436c83c3030012dc&v=4" width="24" alt="Avatar of mesirendon"> mesirendon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mesirendon">Copy rank badge</a><br/>
+			Mesi Rendon
+		</td>
+		<td>Modak </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a href="https://github.com/nunezluis">
 				<img src="https://avatars.githubusercontent.com/u/10715852?s=72&u=9e28115153666d8caf6aa0bc2c61703233561263&v=4" width="24" alt="Avatar of nunezluis"> nunezluis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nunezluis">Copy rank badge</a><br/>
 			Luis A. Núñez
 		</td>
 		<td>Universidad Industrial De Santander<br/></td>
@@ -3017,37 +3136,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>234</td>
 		<td>
-			<a href="https://github.com/emamut">
-				<img src="https://avatars.githubusercontent.com/u/134828?s=72&u=7ff1f42e8024e560880fafc02e6e548bd5129fd3&v=4" width="24" alt="Avatar of emamut"> emamut
-			</a><br/>
-			Faber Andrés Vergara Holguín
+			<a href="https://github.com/1cgonza">
+				<img src="https://avatars.githubusercontent.com/u/4657617?s=72&u=afa5fcaa53f2ac40029867ecb60bdd67d9f3a7fb&v=4" width="24" alt="Avatar of 1cgonza"> 1cgonza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#1cgonza">Copy rank badge</a><br/>
+			Juan Camilo González
 		</td>
-		<td>Emamut </td>
-		<td><a href="https://twitter.com/e_mamut">e_mamut</a></td>
-		<td>Bogotá D.C</td>
-		<td>203</td>
+		<td>Universidad De Los Andes<br/></td>
+		<td><a href="https://twitter.com/1cgonza">1cgonza</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>204</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>235</td>
 		<td>
-			<a href="https://github.com/ht1204">
-				<img src="https://avatars.githubusercontent.com/u/15142761?s=72&v=4" width="24" alt="Avatar of ht1204"> ht1204
-			</a><br/>
-			Hector Triana
+			<a href="https://github.com/keliumJU">
+				<img src="https://avatars.githubusercontent.com/u/48634254?s=72&u=e5ef874499c3b840af8bd4789fda333f527ae028&v=4" width="24" alt="Avatar of keliumJU"> keliumJU
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#keliumJU">Copy rank badge</a><br/>
+			norn
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cartagena de Indias, Colombia</td>
-		<td>201</td>
+		<td>Colombia</td>
+		<td>202</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/roca12">
 				<img src="https://avatars.githubusercontent.com/u/44822667?s=72&u=0a1962a95f5e1f51bac5e9f25ac3532a10f5f662&v=4" width="24" alt="Avatar of roca12"> roca12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#roca12">Copy rank badge</a><br/>
 			Diego Rodriguez
 		</td>
 		<td>Ueb / Roca12 Dev<br/></td>
@@ -3056,232 +3175,219 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/esarmiem">
-				<img src="https://avatars.githubusercontent.com/u/114357859?s=72&u=d8747c1cda72c4a256ab5893bf9658f580c551f4&v=4" width="24" alt="Avatar of esarmiem"> esarmiem
-			</a><br/>
-			elder sarmiento
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>200</td>
-	</tr>
-	<tr>
-		<td>229</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/jestrade">
-				<img src="https://avatars.githubusercontent.com/u/84158?s=72&u=481c7d309287b3a1b3e98c9a887b0bf09a92485d&v=4" width="24" alt="Avatar of jestrade"> jestrade
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/84158?s=72&u=fdfd8e5ca3be74bbae859449c1a18d1f1fab3d9c&v=4" width="24" alt="Avatar of jestrade"> jestrade
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jestrade">Copy rank badge</a><br/>
 			Jesus Estrada
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jestrade">jestrade</a></td>
 		<td>Barranquilla, Colombia</td>
-		<td>198</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/stevensotelo">
-				<img src="https://avatars.githubusercontent.com/u/4921829?s=72&v=4" width="24" alt="Avatar of stevensotelo"> stevensotelo
-			</a><br/>
-			Steven Sotelo
-		</td>
-		<td>@ciat-dapa  </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/Jacksonpirlo">
-				<img src="https://avatars.githubusercontent.com/u/141880433?s=72&u=114892936186064822ff4a68d84ee05d443b5044&v=4" width="24" alt="Avatar of Jacksonpirlo"> Jacksonpirlo
-			</a><br/>
-			Jackson Florez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sabaneta/Colombia</td>
-		<td>196</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/Danfoa">
-				<img src="https://avatars.githubusercontent.com/u/8356912?s=72&u=de940e9df44ab2cd00541ae4214110baff8298c8&v=4" width="24" alt="Avatar of Danfoa"> Danfoa
-			</a><br/>
-			Daniel Ordonez
-		</td>
-		<td>Iit  </td>
-		<td><a href="https://twitter.com/OrdonezApraez">OrdonezApraez</a></td>
-		<td>Italy-Colombia</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/hoodrichpirobo">
-				<img src="https://avatars.githubusercontent.com/u/74674131?s=72&u=5b1ebef5df71dd551b8b64e6cb1acb10ef07a079&v=4" width="24" alt="Avatar of hoodrichpirobo"> hoodrichpirobo
-			</a><br/>
-			CUX "INDIO" PRADA
-		</td>
-		<td>@cp-upv </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia.</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/keliumJU">
-				<img src="https://avatars.githubusercontent.com/u/48634254?s=72&u=e5ef874499c3b840af8bd4789fda333f527ae028&v=4" width="24" alt="Avatar of keliumJU"> keliumJU
-			</a><br/>
-			norn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/dlizcano">
-				<img src="https://avatars.githubusercontent.com/u/3753046?s=72&v=4" width="24" alt="Avatar of dlizcano"> dlizcano
-			</a><br/>
-			Diego J. Lizcano
-		</td>
-		<td>@scmas </td>
-		<td><a href="https://twitter.com/dlizcano">dlizcano</a></td>
-		<td>Bogota, Colombia</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/vant3x">
-				<img src="https://avatars.githubusercontent.com/u/11634391?s=72&u=58d954a172fe883c182765546b34561486bdf2d9&v=4" width="24" alt="Avatar of vant3x"> vant3x
-			</a><br/>
-			Alejandro Velásquez Molina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/Carlos-Marrugo">
-				<img src="https://avatars.githubusercontent.com/u/140767174?s=72&u=2427c1f80249eb83abb810104ada28213f7e6916&v=4" width="24" alt="Avatar of Carlos-Marrugo"> Carlos-Marrugo
-			</a><br/>
-			Carlos Marrugo 
-		</td>
-		<td>Fluedu </td>
-		<td>No Twitter Username</td>
-		<td>Colombia, Cartagena</td>
-		<td>190</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>238</td>
 		<td>
-			<a href="https://github.com/unmultimedio">
-				<img src="https://avatars.githubusercontent.com/u/4431392?s=72&u=280b0b056ac5b84f625a3dc1df4d46d192873a51&v=4" width="24" alt="Avatar of unmultimedio"> unmultimedio
-			</a><br/>
-			Julian Figueroa
+			<a href="https://github.com/jdpinedac">
+				<img src="https://avatars.githubusercontent.com/u/53188?s=72&v=4" width="24" alt="Avatar of jdpinedac"> jdpinedac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdpinedac">Copy rank badge</a><br/>
+			Juan Pineda
 		</td>
-		<td>@bufbuild  </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>189</td>
+		<td>Pyxis S.a.s. </td>
+		<td><a href="https://twitter.com/jdpinedac">jdpinedac</a></td>
+		<td>Medellín - Colombia</td>
+		<td>198</td>
 	</tr>
 	<tr>
 		<td>239</td>
 		<td>
-			<a href="https://github.com/oscarmmi">
-				<img src="https://avatars.githubusercontent.com/u/23621801?s=72&u=e7ce721955dcb00307641457da0315f648dfa34b&v=4" width="24" alt="Avatar of oscarmmi"> oscarmmi
-			</a><br/>
-			Oscar Muñoz
+			<a href="https://github.com/ht1204">
+				<img src="https://avatars.githubusercontent.com/u/15142761?s=72&v=4" width="24" alt="Avatar of ht1204"> ht1204
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ht1204">Copy rank badge</a><br/>
+			Hector Triana
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>186</td>
+		<td>Cartagena de Indias, Colombia</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>240</td>
 		<td>
-			<a href="https://github.com/jahirfiquitiva">
-				<img src="https://avatars.githubusercontent.com/u/10360816?s=72&u=081db898d742f25415db261bab6637e41c243aee&v=4" width="24" alt="Avatar of jahirfiquitiva"> jahirfiquitiva
-			</a><br/>
-			Jahir Fiquitiva ☻
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jahirfiquitiva">jahirfiquitiva</a></td>
-		<td>Duitama, Colombia</td>
-		<td>183</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/MigueMartelo">
-				<img src="https://avatars.githubusercontent.com/u/20935123?s=72&u=4c5d0114093cc2a8eb8273ff524a7e5e369556bf&v=4" width="24" alt="Avatar of MigueMartelo"> MigueMartelo
-			</a><br/>
-			Miguel Angel Martelo Quiroz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/miguemartelo31">miguemartelo31</a></td>
-		<td>Cartagena, Colombia</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/Juanescacha">
-				<img src="https://avatars.githubusercontent.com/u/6394715?s=72&u=78388a0f03034d69e5a1d599ca6c1ffc4232e3d0&v=4" width="24" alt="Avatar of Juanescacha"> Juanescacha
-			</a><br/>
-			Juan Esteban Camargo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>243</td>
-		<td>
 			<a href="https://github.com/ferch5003">
 				<img src="https://avatars.githubusercontent.com/u/26355409?s=72&u=a18ba62869f17624086b0812101edaa9c1a04162&v=4" width="24" alt="Avatar of ferch5003"> ferch5003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ferch5003">Copy rank badge</a><br/>
 			Fernando Visbal
 		</td>
 		<td>@mercadolibre </td>
 		<td>No Twitter Username</td>
 		<td>Barranquilla, Colombia</td>
-		<td>176</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/ProfKaz">
+				<img src="https://avatars.githubusercontent.com/u/44684110?s=72&u=174493951e1971398c1759f2e8de4c64c56f9f54&v=4" width="24" alt="Avatar of ProfKaz"> ProfKaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ProfKaz">Copy rank badge</a><br/>
+			Sebastián Zamorano A.
+		</td>
+		<td>Microhome </td>
+		<td><a href="https://twitter.com/Prof_kaz">Prof_kaz</a></td>
+		<td>Colombia</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/mora200217">
+				<img src="https://avatars.githubusercontent.com/u/24869683?s=72&u=ddd28445ec0cc59c5d54679f55fadaf75bddfc10&v=4" width="24" alt="Avatar of mora200217"> mora200217
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mora200217">Copy rank badge</a><br/>
+			Andrés Morales
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td><a href="https://twitter.com/mora200217">mora200217</a></td>
+		<td>Bogota, Colombia</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/dlizcano">
+				<img src="https://avatars.githubusercontent.com/u/3753046?s=72&v=4" width="24" alt="Avatar of dlizcano"> dlizcano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dlizcano">Copy rank badge</a><br/>
+			Diego J. Lizcano
+		</td>
+		<td>@scmas </td>
+		<td><a href="https://twitter.com/dlizcano">dlizcano</a></td>
+		<td>Bogota, Colombia</td>
+		<td>187</td>
 	</tr>
 	<tr>
 		<td>244</td>
 		<td>
-			<a href="https://github.com/andremov">
-				<img src="https://avatars.githubusercontent.com/u/842843?s=72&u=2a60cd1fad68813cb4da68ee8b357c40fe8980cf&v=4" width="24" alt="Avatar of andremov"> andremov
-			</a><br/>
-			Andrés Movilla
+			<a href="https://github.com/andfoy">
+				<img src="https://avatars.githubusercontent.com/u/1878982?s=72&u=1567bf7129dcc400d5a1756f54aa9e3f37823087&v=4" width="24" alt="Avatar of andfoy"> andfoy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andfoy">Copy rank badge</a><br/>
+			Edgar Andrés Margffoy Tuay
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/Carlos-Marrugo">
+				<img src="https://avatars.githubusercontent.com/u/140767174?s=72&u=2427c1f80249eb83abb810104ada28213f7e6916&v=4" width="24" alt="Avatar of Carlos-Marrugo"> Carlos-Marrugo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Carlos-Marrugo">Copy rank badge</a><br/>
+			Carlos Marrugo 
+		</td>
+		<td>Fluedu </td>
+		<td>No Twitter Username</td>
+		<td>Colombia, Cartagena</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/esarmiem">
+				<img src="https://avatars.githubusercontent.com/u/114357859?s=72&u=d8747c1cda72c4a256ab5893bf9658f580c551f4&v=4" width="24" alt="Avatar of esarmiem"> esarmiem
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#esarmiem">Copy rank badge</a><br/>
+			elder sarmiento
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/dafevara">
+				<img src="https://avatars.githubusercontent.com/u/38985?s=72&u=26586b61b8e9f28f38a41bf3f8bee99bdca671e8&v=4" width="24" alt="Avatar of dafevara"> dafevara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dafevara">Copy rank badge</a><br/>
+			Daniel Valencia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/Juanescacha">
+				<img src="https://avatars.githubusercontent.com/u/6394715?s=72&u=78388a0f03034d69e5a1d599ca6c1ffc4232e3d0&v=4" width="24" alt="Avatar of Juanescacha"> Juanescacha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Juanescacha">Copy rank badge</a><br/>
+			Juan Esteban Camargo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/juliandavidmr">
+				<img src="https://avatars.githubusercontent.com/u/4544102?s=72&u=5611dfdff007e9ac7a8575a607a5b95288b744d6&v=4" width="24" alt="Avatar of juliandavidmr"> juliandavidmr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juliandavidmr">Copy rank badge</a><br/>
+			Julian David
+		</td>
+		<td>Deuna </td>
+		<td>No Twitter Username</td>
+		<td>Colombia, Huila</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/Jacksonpirlo">
+				<img src="https://avatars.githubusercontent.com/u/141880433?s=72&u=114892936186064822ff4a68d84ee05d443b5044&v=4" width="24" alt="Avatar of Jacksonpirlo"> Jacksonpirlo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jacksonpirlo">Copy rank badge</a><br/>
+			Jackson Florez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sabaneta/Colombia</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/johnsi15">
+				<img src="https://avatars.githubusercontent.com/u/2974447?s=72&u=108bf24160ad3b1129f0e48b52ca2bb0c5a9f10a&v=4" width="24" alt="Avatar of johnsi15"> johnsi15
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#johnsi15">Copy rank badge</a><br/>
+			John Serrano
+		</td>
+		<td>John Serrano </td>
+		<td><a href="https://twitter.com/johnserranodev">johnserranodev</a></td>
+		<td>Cúcuta Colombia</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/GabrielLidenor">
+				<img src="https://avatars.githubusercontent.com/u/765963?s=72&u=523fc5b0bdc360cd94187a2271c9c679ede6baff&v=4" width="24" alt="Avatar of GabrielLidenor"> GabrielLidenor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#GabrielLidenor">Copy rank badge</a><br/>
+			Gabriel Lidenor 
+		</td>
+		<td>Svitla Systems </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/FatChicken277">
 				<img src="https://avatars.githubusercontent.com/u/60363061?s=72&u=130232a7f065d48a71e76d76a81a125fbb71d2fa&v=4" width="24" alt="Avatar of FatChicken277"> FatChicken277
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#FatChicken277">Copy rank badge</a><br/>
 			Alejandro Ramírez C.
 		</td>
 		<td>No Company</td>
@@ -3290,128 +3396,193 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/hoodrichpirobo">
+				<img src="https://avatars.githubusercontent.com/u/74674131?s=72&u=5b1ebef5df71dd551b8b64e6cb1acb10ef07a079&v=4" width="24" alt="Avatar of hoodrichpirobo"> hoodrichpirobo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hoodrichpirobo">Copy rank badge</a><br/>
+			CUX "INDIO" PRADA
+		</td>
+		<td>@cp-upv </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia.</td>
+		<td>174</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/kuadrosx">
+				<img src="https://avatars.githubusercontent.com/u/7940?s=72&v=4" width="24" alt="Avatar of kuadrosx"> kuadrosx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kuadrosx">Copy rank badge</a><br/>
+			Jorge Cuadrado
+		</td>
+		<td>Truora </td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/K31NER">
 				<img src="https://avatars.githubusercontent.com/u/146565072?s=72&u=03c7a8573a155b4f887ea9f1a30fc69567e7ffee&v=4" width="24" alt="Avatar of K31NER"> K31NER
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#K31NER">Copy rank badge</a><br/>
 			Keiner ZR
 		</td>
 		<td>@keymack-tech  </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/yavallejo">
+				<img src="https://avatars.githubusercontent.com/u/1815758?s=72&u=465d6d65848bc06885e10767ac06c742a3c6df60&v=4" width="24" alt="Avatar of yavallejo"> yavallejo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yavallejo">Copy rank badge</a><br/>
+			Yan Arlex Vallejo
+		</td>
+		<td>Aprendiendoando </td>
+		<td><a href="https://twitter.com/yavallejo">yavallejo</a></td>
+		<td>Colombia</td>
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/ebar0n">
-				<img src="https://avatars.githubusercontent.com/u/1896362?s=72&u=a84ae3c0c557ebd0231a6b87766153def7873faf&v=4" width="24" alt="Avatar of ebar0n"> ebar0n
-			</a><br/>
-			Edwar Baron
-		</td>
-		<td>@platzi </td>
-		<td><a href="https://twitter.com/ebar0n">ebar0n</a></td>
-		<td>Colombia</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/jdpinedac">
-				<img src="https://avatars.githubusercontent.com/u/53188?s=72&v=4" width="24" alt="Avatar of jdpinedac"> jdpinedac
-			</a><br/>
-			Juan Pineda
-		</td>
-		<td>Pyxis S.a.s. </td>
-		<td><a href="https://twitter.com/jdpinedac">jdpinedac</a></td>
-		<td>Medellín - Colombia</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/johnhcano">
-				<img src="https://avatars.githubusercontent.com/u/1677032?s=72&v=4" width="24" alt="Avatar of johnhcano"> johnhcano
-			</a><br/>
-			JhonHCanoB
-		</td>
-		<td>Jhon Haide Cano Beltrán<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/mora200217">
-				<img src="https://avatars.githubusercontent.com/u/24869683?s=72&u=81b04e905afaec0cceb90b2a9cce72cc0da29fbd&v=4" width="24" alt="Avatar of mora200217"> mora200217
-			</a><br/>
-			Andrés Morales
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td><a href="https://twitter.com/mora200217">mora200217</a></td>
-		<td>Bogota, Colombia</td>
-		<td>167</td>
-	</tr>
-	<tr>
-		<td>251</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/gndx">
 				<img src="https://avatars.githubusercontent.com/u/10554486?s=72&u=bd74f58c100ed69d501cbab90f66b9c50919ada9&v=4" width="24" alt="Avatar of gndx"> gndx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gndx">Copy rank badge</a><br/>
 			Oscar Barajas Tavares
 		</td>
 		<td>Learning Engineer At @platzi<br/><br/></td>
 		<td><a href="https://twitter.com/gndx">gndx</a></td>
 		<td>Colombia</td>
-		<td>166</td>
+		<td>169</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/Jacobopp27">
+				<img src="https://avatars.githubusercontent.com/u/104159451?s=72&u=2bd69f838e5853f121b5cfa15a0f5114cb88a8b6&v=4" width="24" alt="Avatar of Jacobopp27"> Jacobopp27
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jacobopp27">Copy rank badge</a><br/>
+			Jacobo Posada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/vant3x">
+				<img src="https://avatars.githubusercontent.com/u/11634391?s=72&u=58d954a172fe883c182765546b34561486bdf2d9&v=4" width="24" alt="Avatar of vant3x"> vant3x
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vant3x">Copy rank badge</a><br/>
+			Alejandro Velásquez Molina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/unmultimedio">
+				<img src="https://avatars.githubusercontent.com/u/4431392?s=72&u=31720b3d8ade4dc6dfd5eb5df5d63d0f3c6eb72b&v=4" width="24" alt="Avatar of unmultimedio"> unmultimedio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#unmultimedio">Copy rank badge</a><br/>
+			Julian Figueroa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/camiloaacevedo">
+				<img src="https://avatars.githubusercontent.com/u/145441735?s=72&u=ca71b2e4c616a32b3e0e15b2a8d87a9e1376d0b2&v=4" width="24" alt="Avatar of camiloaacevedo"> camiloaacevedo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camiloaacevedo">Copy rank badge</a><br/>
+			Camilo A. Acevedo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/darwinyusef">
+				<img src="https://avatars.githubusercontent.com/u/49506075?s=72&u=7ad03882e0595ca7770971c330f463bb713245cc&v=4" width="24" alt="Avatar of darwinyusef"> darwinyusef
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#darwinyusef">Copy rank badge</a><br/>
+			Yusef Gonzalez
+		</td>
+		<td>Aquicreamos </td>
+		<td><a href="https://twitter.com/darwinyusef">darwinyusef</a></td>
+		<td>Medellín</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/Rocio01">
+				<img src="https://avatars.githubusercontent.com/u/57466928?s=72&u=93991bcf5241dd5fc4ce9c44e67d16b8ec1e1ba4&v=4" width="24" alt="Avatar of Rocio01"> Rocio01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Rocio01">Copy rank badge</a><br/>
+			Zulma Rocio Martinez Guarin
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Bogota - Colombia</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/lfades">
 				<img src="https://avatars.githubusercontent.com/u/4278345?s=72&u=b0181f898b0f3b6afb97f6625834253eb254ffed&v=4" width="24" alt="Avatar of lfades"> lfades
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lfades">Copy rank badge</a><br/>
 			Luis Alvarez D.
 		</td>
 		<td>Https://vercel.com </td>
 		<td><a href="https://twitter.com/luis_fades">luis_fades</a></td>
 		<td>Sabaneta - Colombia</td>
-		<td>165</td>
+		<td>160</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/CARLOSNAMIAS">
+				<img src="https://avatars.githubusercontent.com/u/169299897?s=72&u=137dc41cc995752cd51a74fdae75bde050a5b377&v=4" width="24" alt="Avatar of CARLOSNAMIAS"> CARLOSNAMIAS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CARLOSNAMIAS">Copy rank badge</a><br/>
+			Carlos Namias
+		</td>
+		<td>Servicio Nacional De Aprendizaje<br/>Sena<br/></td>
+		<td>No Twitter Username</td>
+		<td> Colombia</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/jorgearguellles">
 				<img src="https://avatars.githubusercontent.com/u/69608367?s=72&u=c27ba5e6559d8ba2bd64727ea7f83fb80f188397&v=4" width="24" alt="Avatar of jorgearguellles"> jorgearguellles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jorgearguellles">Copy rank badge</a><br/>
 			Jorge Argüelles
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>160</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/jofsanchezci">
-				<img src="https://avatars.githubusercontent.com/u/21145093?s=72&u=b26f9e274a9cd05040b360a191d4d0b04da2f905&v=4" width="24" alt="Avatar of jofsanchezci"> jofsanchezci
-			</a><br/>
-			Joaquin Fernando Sanchez
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>255</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/Feru34">
 				<img src="https://avatars.githubusercontent.com/u/78154196?s=72&u=3cfc73deec2d7735ffc760f6458a707aaa16d781&v=4" width="24" alt="Avatar of Feru34"> Feru34
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Feru34">Copy rank badge</a><br/>
 			Felipe Rueda
 		</td>
 		<td>Universidad De Los Andes<br/>Disc<br/></td>
@@ -3420,37 +3591,63 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>269</td>
 		<td>
-			<a href="https://github.com/estrada9166">
-				<img src="https://avatars.githubusercontent.com/u/15656860?s=72&u=08f8cf5d895c77c9f16818ec79151565d186f716&v=4" width="24" alt="Avatar of estrada9166"> estrada9166
-			</a><br/>
-			Alejandro Estrada
+			<a href="https://github.com/joansebgarcia">
+				<img src="https://avatars.githubusercontent.com/u/116913262?s=72&u=e5519b9ceefee20b57761e0055276cbb5a667e09&v=4" width="24" alt="Avatar of joansebgarcia"> joansebgarcia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#joansebgarcia">Copy rank badge</a><br/>
+			Joan Sebastian García
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>154</td>
+		<td>Colombia</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>270</td>
 		<td>
-			<a href="https://github.com/GabrielLidenor">
-				<img src="https://avatars.githubusercontent.com/u/765963?s=72&u=523fc5b0bdc360cd94187a2271c9c679ede6baff&v=4" width="24" alt="Avatar of GabrielLidenor"> GabrielLidenor
-			</a><br/>
-			Gabriel Lidenor 
+			<a href="https://github.com/IngJuanMaSuarez">
+				<img src="https://avatars.githubusercontent.com/u/9418267?s=72&u=866e1ec781254fbb295e8ddefbe0255123bc7dce&v=4" width="24" alt="Avatar of IngJuanMaSuarez"> IngJuanMaSuarez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#IngJuanMaSuarez">Copy rank badge</a><br/>
+			GeoCositas Para Dummies
 		</td>
-		<td>Svitla Systems </td>
+		<td>Esri Colombia </td>
+		<td><a href="https://twitter.com/IngJuanMaSuarez">IngJuanMaSuarez</a></td>
+		<td>Colombia</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/alexlondon07">
+				<img src="https://avatars.githubusercontent.com/u/5550470?s=72&u=5242a8321229a8e7f618e461aa79d041d6a5752a&v=4" width="24" alt="Avatar of alexlondon07"> alexlondon07
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alexlondon07">Copy rank badge</a><br/>
+			Alexander Londoño Espejo
+		</td>
+		<td>Globant </td>
+		<td><a href="https://twitter.com/alexlondon07">alexlondon07</a></td>
+		<td>Medellín - Colombia</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/MauricioRobayo">
+				<img src="https://avatars.githubusercontent.com/u/2121481?s=72&u=98a0388ae5bf7bb8ceec2e6233e25d81891b99ae&v=4" width="24" alt="Avatar of MauricioRobayo"> MauricioRobayo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MauricioRobayo">Copy rank badge</a><br/>
+			Mauricio Robayo
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>154</td>
+		<td>152</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/sahvsergio">
 				<img src="https://avatars.githubusercontent.com/u/82914044?s=72&u=1cac9d3f629052a4ada40b70cabd267be8662206&v=4" width="24" alt="Avatar of sahvsergio"> sahvsergio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sahvsergio">Copy rank badge</a><br/>
 			Sergio Andrés Herrera Velásquez
 		</td>
 		<td>No Company</td>
@@ -3459,63 +3656,63 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>274</td>
 		<td>
-			<a href="https://github.com/AparicioJohan">
-				<img src="https://avatars.githubusercontent.com/u/44405276?s=72&u=19209ddca52a35183c3d7c6a6215b539adfe44e1&v=4" width="24" alt="Avatar of AparicioJohan"> AparicioJohan
-			</a><br/>
-			Johan Steven Aparicio
+			<a href="https://github.com/osnoser1">
+				<img src="https://avatars.githubusercontent.com/u/1179744?s=72&u=5cbbe6b300c69fa2dc000af0830ec929c6905ef9&v=4" width="24" alt="Avatar of osnoser1"> osnoser1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#osnoser1">Copy rank badge</a><br/>
+			Alfonso Andrés López Molina
 		</td>
-		<td>Uw - Madison </td>
-		<td><a href="https://twitter.com/jstaparicio">jstaparicio</a></td>
-		<td>Cali, Colombia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/osnoser1">osnoser1</a></td>
+		<td>Colombia</td>
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/illuminaki">
 				<img src="https://avatars.githubusercontent.com/u/17013285?s=72&u=85044e28df6d876f8964567256530c67ed26402c&v=4" width="24" alt="Avatar of illuminaki"> illuminaki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#illuminaki">Copy rank badge</a><br/>
 			Sebastian Agudelo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellin Colombia</td>
-		<td>150</td>
+		<td>151</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>276</td>
 		<td>
-			<a href="https://github.com/kuadrosx">
-				<img src="https://avatars.githubusercontent.com/u/7940?s=72&v=4" width="24" alt="Avatar of kuadrosx"> kuadrosx
-			</a><br/>
-			Jorge Cuadrado
-		</td>
-		<td>Truora </td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/MauricioRobayo">
-				<img src="https://avatars.githubusercontent.com/u/2121481?s=72&u=98a0388ae5bf7bb8ceec2e6233e25d81891b99ae&v=4" width="24" alt="Avatar of MauricioRobayo"> MauricioRobayo
-			</a><br/>
-			Mauricio Robayo
+			<a href="https://github.com/estrada9166">
+				<img src="https://avatars.githubusercontent.com/u/15656860?s=72&u=08f8cf5d895c77c9f16818ec79151565d186f716&v=4" width="24" alt="Avatar of estrada9166"> estrada9166
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#estrada9166">Copy rank badge</a><br/>
+			Alejandro Estrada
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>148</td>
+		<td>Medellin, Colombia</td>
+		<td>151</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/sebasvelasco353">
+				<img src="https://avatars.githubusercontent.com/u/11669998?s=72&u=326ad3a4355bc89a52c201e752e6e0dcf5804a69&v=4" width="24" alt="Avatar of sebasvelasco353"> sebasvelasco353
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sebasvelasco353">Copy rank badge</a><br/>
+			Sebastian Velasco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>cali, colombia</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/Ronald-Prato">
 				<img src="https://avatars.githubusercontent.com/u/37622085?s=72&u=d2baced994e13fa0bee30ad87b219f8ebb5c3410&v=4" width="24" alt="Avatar of Ronald-Prato"> Ronald-Prato
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Ronald-Prato">Copy rank badge</a><br/>
 			Ronald Prato
 		</td>
 		<td>No Company</td>
@@ -3524,50 +3721,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/Jacobopp27">
-				<img src="https://avatars.githubusercontent.com/u/104159451?s=72&u=2bd69f838e5853f121b5cfa15a0f5114cb88a8b6&v=4" width="24" alt="Avatar of Jacobopp27"> Jacobopp27
-			</a><br/>
-			Jacobo Posada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/CARLOSNAMIAS">
-				<img src="https://avatars.githubusercontent.com/u/169299897?s=72&u=137dc41cc995752cd51a74fdae75bde050a5b377&v=4" width="24" alt="Avatar of CARLOSNAMIAS"> CARLOSNAMIAS
-			</a><br/>
-			Carlos Namias
-		</td>
-		<td>Servicio Nacional De Aprendizaje<br/>Sena<br/></td>
-		<td>No Twitter Username</td>
-		<td> Colombia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/yavallejo">
-				<img src="https://avatars.githubusercontent.com/u/1815758?s=72&u=465d6d65848bc06885e10767ac06c742a3c6df60&v=4" width="24" alt="Avatar of yavallejo"> yavallejo
-			</a><br/>
-			Yan Arlex Vallejo
-		</td>
-		<td>Aprendiendoando </td>
-		<td><a href="https://twitter.com/yavallejo">yavallejo</a></td>
-		<td>Colombia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>267</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/cbarros7">
 				<img src="https://avatars.githubusercontent.com/u/60367519?s=72&u=fff8d899433d11f11367af80d579477e4e74fa3f&v=4" width="24" alt="Avatar of cbarros7"> cbarros7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cbarros7">Copy rank badge</a><br/>
 			Carlos Barros
 		</td>
 		<td>Mercado Libre </td>
@@ -3576,193 +3734,128 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>280</td>
 		<td>
-			<a href="https://github.com/Deniisolo">
-				<img src="https://avatars.githubusercontent.com/u/127909505?s=72&u=d49df4185df5a21fe4f6f106dbec60bc7a903e7e&v=4" width="24" alt="Avatar of Deniisolo"> Deniisolo
-			</a><br/>
-			Denis Alvarez
+			<a href="https://github.com/AparicioJohan">
+				<img src="https://avatars.githubusercontent.com/u/44405276?s=72&u=19209ddca52a35183c3d7c6a6215b539adfe44e1&v=4" width="24" alt="Avatar of AparicioJohan"> AparicioJohan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AparicioJohan">Copy rank badge</a><br/>
+			Johan Steven Aparicio
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>147</td>
+		<td>Uw - Madison </td>
+		<td><a href="https://twitter.com/jstaparicio">jstaparicio</a></td>
+		<td>Cali, Colombia</td>
+		<td>146</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>281</td>
 		<td>
-			<a href="https://github.com/danyel117">
-				<img src="https://avatars.githubusercontent.com/u/11917658?s=72&u=a8b55f7a686007aaecd289e7a56e479d2089c276&v=4" width="24" alt="Avatar of danyel117"> danyel117
-			</a><br/>
-			Daniel Saldarriaga López
+			<a href="https://github.com/JuandaGarcia">
+				<img src="https://avatars.githubusercontent.com/u/39936759?s=72&u=4641b7826e230e96ae976d5eb7eafe122ba49f92&v=4" width="24" alt="Avatar of JuandaGarcia"> JuandaGarcia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuandaGarcia">Copy rank badge</a><br/>
+			Juan David Garcia Rincon
 		</td>
-		<td>Prevalentware </td>
+		<td>Archie Labs </td>
+		<td><a href="https://twitter.com/juandagarciadev">juandagarciadev</a></td>
+		<td>Cali, Colombia 🇨🇴</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/Mawfyy">
+				<img src="https://avatars.githubusercontent.com/u/94380448?s=72&u=a1298ff2439ebe36ba795ce372e1590c638bf257&v=4" width="24" alt="Avatar of Mawfyy"> Mawfyy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Mawfyy">Copy rank badge</a><br/>
+			Mawfyy
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>146</td>
+		<td>145</td>
 	</tr>
 	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/josefdc">
-				<img src="https://avatars.githubusercontent.com/u/77589315?s=72&u=8b5837a778a009bb21c8892cbfd61a88907d0a4d&v=4" width="24" alt="Avatar of josefdc"> josefdc
-			</a><br/>
-			Jose Felipe Duarte Coronado
-		</td>
-		<td> Laboratory For Research<br/>In<br/>Complex<br/>Systems<br/></td>
-		<td><a href="https://twitter.com/josefdc_">josefdc_</a></td>
-		<td>Pereira, Colombia</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/davidgonzalezfx">
-				<img src="https://avatars.githubusercontent.com/u/20234025?s=72&u=0e3a699c03f51e38b56b6ab7a4173e70d49163ac&v=4" width="24" alt="Avatar of davidgonzalezfx"> davidgonzalezfx
-			</a><br/>
-			David Gonzalez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/davidgonzalezfx">davidgonzalezfx</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>272</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/fegonzalez7">
 				<img src="https://avatars.githubusercontent.com/u/41346691?s=72&u=1c6d954179a9713176b96665134edeaa4047fa45&v=4" width="24" alt="Avatar of fegonzalez7"> fegonzalez7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fegonzalez7">Copy rank badge</a><br/>
 			Felipe Gonzalez Roldan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/dafevara">
-				<img src="https://avatars.githubusercontent.com/u/38985?s=72&u=26586b61b8e9f28f38a41bf3f8bee99bdca671e8&v=4" width="24" alt="Avatar of dafevara"> dafevara
-			</a><br/>
-			Daniel Valencia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/osnoser1">
-				<img src="https://avatars.githubusercontent.com/u/1179744?s=72&u=5cbbe6b300c69fa2dc000af0830ec929c6905ef9&v=4" width="24" alt="Avatar of osnoser1"> osnoser1
-			</a><br/>
-			Alfonso Andrés López Molina
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/osnoser1">osnoser1</a></td>
-		<td>Colombia</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/IngJuanMaSuarez">
-				<img src="https://avatars.githubusercontent.com/u/9418267?s=72&u=866e1ec781254fbb295e8ddefbe0255123bc7dce&v=4" width="24" alt="Avatar of IngJuanMaSuarez"> IngJuanMaSuarez
-			</a><br/>
-			GeoCositas Para Dummies
-		</td>
-		<td>Esri Colombia </td>
-		<td><a href="https://twitter.com/IngJuanMaSuarez">IngJuanMaSuarez</a></td>
-		<td>Colombia</td>
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/felipeska">
 				<img src="https://avatars.githubusercontent.com/u/613443?s=72&u=577873d387d9c9e73d2e177342103f40447e1247&v=4" width="24" alt="Avatar of felipeska"> felipeska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#felipeska">Copy rank badge</a><br/>
 			Felipe
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/felipeska">felipeska</a></td>
 		<td>Bogotá</td>
-		<td>142</td>
+		<td>144</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>285</td>
 		<td>
-			<a href="https://github.com/Emjey25">
-				<img src="https://avatars.githubusercontent.com/u/110546904?s=72&u=72bfb261cdb5dbc0219849e1af3b4605ae37042a&v=4" width="24" alt="Avatar of Emjey25"> Emjey25
-			</a><br/>
-			Luneska Newton</>
+			<a href="https://github.com/Deniisolo">
+				<img src="https://avatars.githubusercontent.com/u/127909505?s=72&u=d49df4185df5a21fe4f6f106dbec60bc7a903e7e&v=4" width="24" alt="Avatar of Deniisolo"> Deniisolo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Deniisolo">Copy rank badge</a><br/>
+			Denis Alvarez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellín , Antioquia - Colombia </td>
+		<td>Bogotá</td>
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>286</td>
 		<td>
-			<a href="https://github.com/QuitoTactico">
-				<img src="https://avatars.githubusercontent.com/u/99926526?s=72&u=f6024135310c12dfd0be2e3d37548c12b8394245&v=4" width="24" alt="Avatar of QuitoTactico"> QuitoTactico
-			</a><br/>
-			Esteban Vergara Giraldo
+			<a href="https://github.com/sarmijavier">
+				<img src="https://avatars.githubusercontent.com/u/59220792?s=72&u=92da98d487f865b24249bfc4ab40c5f24ee66a8b&v=4" width="24" alt="Avatar of sarmijavier"> sarmijavier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sarmijavier">Copy rank badge</a><br/>
+			 Javier Sarmiento 
 		</td>
-		<td>@eafit University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellín - Colombia</td>
-		<td>138</td>
+		<td>Bogotá, Col</td>
+		<td>140</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>287</td>
 		<td>
-			<a href="https://github.com/Jes015">
-				<img src="https://avatars.githubusercontent.com/u/120581623?s=72&u=592559d98058c8bb9ce110a52c20f2f9653d2d04&v=4" width="24" alt="Avatar of Jes015"> Jes015
-			</a><br/>
-			Jes015
+			<a href="https://github.com/ManuLasker">
+				<img src="https://avatars.githubusercontent.com/u/32755400?s=72&u=6799542a92af9b003ba58277a1c1d707c919bc53&v=4" width="24" alt="Avatar of ManuLasker"> ManuLasker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ManuLasker">Copy rank badge</a><br/>
+			Emanuel Isaac Afanador
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Jes_15_">Jes_15_</a></td>
+		<td><a href="https://twitter.com/MathLasker">MathLasker</a></td>
 		<td>Colombia</td>
-		<td>138</td>
+		<td>140</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>288</td>
 		<td>
-			<a href="https://github.com/davidriveraarbelaez">
-				<img src="https://avatars.githubusercontent.com/u/6808258?s=72&u=576032a669f4e0dcc5a711f147973787714144c6&v=4" width="24" alt="Avatar of davidriveraarbelaez"> davidriveraarbelaez
-			</a><br/>
-			David Rivera A
+			<a href="https://github.com/jstats1702">
+				<img src="https://avatars.githubusercontent.com/u/31402171?s=72&u=1c9b0fbbcf8af0f82cf8cad95ac6235c687ea828&v=4" width="24" alt="Avatar of jstats1702"> jstats1702
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jstats1702">Copy rank badge</a><br/>
+			Juan Sosa
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DavidRRiveraA">DavidRRiveraA</a></td>
-		<td>Colombia</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/Maurux01">
-				<img src="https://avatars.githubusercontent.com/u/108948735?s=72&u=97659f2f1783c225111c223db8dc9befc9f45d13&v=4" width="24" alt="Avatar of Maurux01"> Maurux01
-			</a><br/>
-			Mauro Infante
-		</td>
-		<td>Maurux Org </td>
-		<td><a href="https://twitter.com/MauFel2">MauFel2</a></td>
-		<td>colombia</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/Fhernd">
 				<img src="https://avatars.githubusercontent.com/u/1562371?s=72&u=3af29f6a56458514df1ae1155a6817956808c25a&v=4" width="24" alt="Avatar of Fhernd"> Fhernd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Fhernd">Copy rank badge</a><br/>
 			John Ortiz Ordoñez
 		</td>
 		<td>Ortizol </td>
@@ -3771,24 +3864,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/Jorger">
-				<img src="https://avatars.githubusercontent.com/u/30050?s=72&u=e687513c36597ab0fec153745a9299316ea6fbf8&v=4" width="24" alt="Avatar of Jorger"> Jorger
-			</a><br/>
-			Jorge Rubiano
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cajicá, Cundinamarca, Colombia</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>284</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/esbanarango">
 				<img src="https://avatars.githubusercontent.com/u/1156865?s=72&u=11611c435d3e154fa48b190641a3e56962b5f64c&v=4" width="24" alt="Avatar of esbanarango"> esbanarango
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#esbanarango">Copy rank badge</a><br/>
 			Esteban
 		</td>
 		<td>@apple Inc </td>
@@ -3797,50 +3877,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>291</td>
 		<td>
-			<a href="https://github.com/fabiolexcastro">
-				<img src="https://avatars.githubusercontent.com/u/20421819?s=72&u=528f3601dc9c6fdfe01fea999b7e78a83e810242&v=4" width="24" alt="Avatar of fabiolexcastro"> fabiolexcastro
-			</a><br/>
-			Fabio Lex Castro
+			<a href="https://github.com/johnhcano">
+				<img src="https://avatars.githubusercontent.com/u/1677032?s=72&v=4" width="24" alt="Avatar of johnhcano"> johnhcano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#johnhcano">Copy rank badge</a><br/>
+			JhonHCanoB
 		</td>
-		<td>Ciat </td>
-		<td><a href="https://twitter.com/fabiolexcastro">fabiolexcastro</a></td>
-		<td>Cali - Valle</td>
+		<td>Jhon Haide Cano Beltrán<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/CafeFPS">
-				<img src="https://avatars.githubusercontent.com/u/92343247?s=72&u=88e54a95a5b1323b80de876bf764ccbb49727d77&v=4" width="24" alt="Avatar of CafeFPS"> CafeFPS
-			</a><br/>
-			Café
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/CafeFPS">CafeFPS</a></td>
-		<td>Bogotá D.C. - Colombia</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/sarmijavier">
-				<img src="https://avatars.githubusercontent.com/u/59220792?s=72&u=02da4a305a8d9e14920d448ee6b224f7126320de&v=4" width="24" alt="Avatar of sarmijavier"> sarmijavier
-			</a><br/>
-			 Javier Sarmiento 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SarmiJavier">SarmiJavier</a></td>
-		<td>Bogotá, Col</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>288</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/cedaniel200">
 				<img src="https://avatars.githubusercontent.com/u/4853196?s=72&v=4" width="24" alt="Avatar of cedaniel200"> cedaniel200
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cedaniel200">Copy rank badge</a><br/>
 			César Daniel Meneses Guevara
 		</td>
 		<td>No Company</td>
@@ -3849,193 +3903,245 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/joansebgarcia">
-				<img src="https://avatars.githubusercontent.com/u/116913262?s=72&u=e5519b9ceefee20b57761e0055276cbb5a667e09&v=4" width="24" alt="Avatar of joansebgarcia"> joansebgarcia
-			</a><br/>
-			Joan Sebastian García
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/jstats1702">
-				<img src="https://avatars.githubusercontent.com/u/31402171?s=72&u=1c9b0fbbcf8af0f82cf8cad95ac6235c687ea828&v=4" width="24" alt="Avatar of jstats1702"> jstats1702
-			</a><br/>
-			Juan Sosa
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/jclosadab1996">
-				<img src="https://avatars.githubusercontent.com/u/92903961?s=72&u=161e84ee7022c989681a6d9b719b2d15d519f106&v=4" width="24" alt="Avatar of jclosadab1996"> jclosadab1996
-			</a><br/>
-			Juan Camilo Losada Bultaif
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/ManuLasker">
-				<img src="https://avatars.githubusercontent.com/u/32755400?s=72&u=6799542a92af9b003ba58277a1c1d707c919bc53&v=4" width="24" alt="Avatar of ManuLasker"> ManuLasker
-			</a><br/>
-			Emanuel Isaac Afanador
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MathLasker">MathLasker</a></td>
-		<td>Colombia</td>
-		<td>132</td>
-	</tr>
-	<tr>
 		<td>293</td>
-		<td>
-			<a href="https://github.com/Valdes-Tresanco-MS">
-				<img src="https://avatars.githubusercontent.com/u/36672242?s=72&u=eabb08f6f40ea7840f86955d3281bda3e03b069d&v=4" width="24" alt="Avatar of Valdes-Tresanco-MS"> Valdes-Tresanco-MS
-			</a><br/>
-			Mario Sergio Valdés Tresanco
-		</td>
-		<td>University Of Medellín <br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/Athesto">
-				<img src="https://avatars.githubusercontent.com/u/3835100?s=72&v=4" width="24" alt="Avatar of Athesto"> Athesto
-			</a><br/>
-			Gustavo Adolfo Mejía Sánchez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/im_tavo">im_tavo</a></td>
-		<td>Colombia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/zejiran">
-				<img src="https://avatars.githubusercontent.com/u/30379522?s=72&u=0984d3e5115ad518eced42ce5c5ca69e3cd619c4&v=4" width="24" alt="Avatar of zejiran"> zejiran
-			</a><br/>
-			Juan Alegría
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/juanszalegria">juanszalegria</a></td>
-		<td>Colombia</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>296</td>
 		<td>
 			<a href="https://github.com/kur0bai">
 				<img src="https://avatars.githubusercontent.com/u/63330010?s=72&u=67fea4150b7f34a5fd58c4a7cd247a75cdf1827e&v=4" width="24" alt="Avatar of kur0bai"> kur0bai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kur0bai">Copy rank badge</a><br/>
 			Jesus S
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>128</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/restrepo">
+				<img src="https://avatars.githubusercontent.com/u/655883?s=72&v=4" width="24" alt="Avatar of restrepo"> restrepo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#restrepo">Copy rank badge</a><br/>
+			Diego Restrepo
+		</td>
+		<td>Universidad De Antioquia </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/soreygarcia">
+				<img src="https://avatars.githubusercontent.com/u/1839450?s=72&v=4" width="24" alt="Avatar of soreygarcia"> soreygarcia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#soreygarcia">Copy rank badge</a><br/>
+			Sorey García
+		</td>
+		<td>Mill 5 </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/estevg">
+				<img src="https://avatars.githubusercontent.com/u/28814083?s=72&u=aaf37f5502dd92a5215b6344d03ea29efc289c50&v=4" width="24" alt="Avatar of estevg"> estevg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#estevg">Copy rank badge</a><br/>
+			Esteban Vega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia.</td>
+		<td>131</td>
 	</tr>
 	<tr>
 		<td>297</td>
 		<td>
+			<a href="https://github.com/Athesto">
+				<img src="https://avatars.githubusercontent.com/u/3835100?s=72&v=4" width="24" alt="Avatar of Athesto"> Athesto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Athesto">Copy rank badge</a><br/>
+			Gustavo Adolfo Mejía Sánchez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/im_tavo">im_tavo</a></td>
+		<td>Colombia</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a href="https://github.com/santiaguf">
 				<img src="https://avatars.githubusercontent.com/u/810823?s=72&u=30259460c4fd94248cb7f0f4e7f5cd3ca1eaf2e4&v=4" width="24" alt="Avatar of santiaguf"> santiaguf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#santiaguf">Copy rank badge</a><br/>
 			Santiago Bernal
 		</td>
 		<td>@aumentada </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>298</td>
-		<td>
-			<a href="https://github.com/JuandaGarcia">
-				<img src="https://avatars.githubusercontent.com/u/39936759?s=72&u=4641b7826e230e96ae976d5eb7eafe122ba49f92&v=4" width="24" alt="Avatar of JuandaGarcia"> JuandaGarcia
-			</a><br/>
-			Juan David Garcia Rincon
-		</td>
-		<td>Archie Labs </td>
-		<td><a href="https://twitter.com/juandagarciadev">juandagarciadev</a></td>
-		<td>Cali, Colombia 🇨🇴</td>
-		<td>123</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>299</td>
 		<td>
-			<a href="https://github.com/aranajhonny">
-				<img src="https://avatars.githubusercontent.com/u/9091881?s=72&u=4cbc0ff0d8e6f6392cf1774e72c72d516743f563&v=4" width="24" alt="Avatar of aranajhonny"> aranajhonny
-			</a><br/>
-			Jhonny
+			<a href="https://github.com/fabiolexcastro">
+				<img src="https://avatars.githubusercontent.com/u/20421819?s=72&u=528f3601dc9c6fdfe01fea999b7e78a83e810242&v=4" width="24" alt="Avatar of fabiolexcastro"> fabiolexcastro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fabiolexcastro">Copy rank badge</a><br/>
+			Fabio Lex Castro
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia / Venezuela</td>
-		<td>120</td>
+		<td>Ciat </td>
+		<td><a href="https://twitter.com/fabiolexcastro">fabiolexcastro</a></td>
+		<td>Cali - Valle</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>300</td>
 		<td>
-			<a href="https://github.com/mjvalenzuela">
-				<img src="https://avatars.githubusercontent.com/u/74375508?s=72&u=c01b2b22a5fbed50146b1259070aa74f626c742e&v=4" width="24" alt="Avatar of mjvalenzuela"> mjvalenzuela
-			</a><br/>
-			Johanna
+			<a href="https://github.com/oscarmmi">
+				<img src="https://avatars.githubusercontent.com/u/23621801?s=72&u=e7ce721955dcb00307641457da0315f648dfa34b&v=4" width="24" alt="Avatar of oscarmmi"> oscarmmi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#oscarmmi">Copy rank badge</a><br/>
+			Oscar Muñoz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>120</td>
+		<td>Colombia</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>301</td>
 		<td>
-			<a href="https://github.com/fagonzalezo">
-				<img src="https://avatars.githubusercontent.com/u/5608021?s=72&v=4" width="24" alt="Avatar of fagonzalezo"> fagonzalezo
-			</a><br/>
-			Fabio A. González
+			<a href="https://github.com/davidriveraarbelaez">
+				<img src="https://avatars.githubusercontent.com/u/6808258?s=72&u=576032a669f4e0dcc5a711f147973787714144c6&v=4" width="24" alt="Avatar of davidriveraarbelaez"> davidriveraarbelaez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davidriveraarbelaez">Copy rank badge</a><br/>
+			David Rivera A
 		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>119</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DavidRRiveraA">DavidRRiveraA</a></td>
+		<td>Colombia</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>302</td>
 		<td>
+			<a href="https://github.com/JacoboGarcesO">
+				<img src="https://avatars.githubusercontent.com/u/66318565?s=72&u=d66a47d722c9c1c027b326cfb1d314b0541f5897&v=4" width="24" alt="Avatar of JacoboGarcesO"> JacoboGarcesO
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JacoboGarcesO">Copy rank badge</a><br/>
+			Jacobo Garcés Oquendo
+		</td>
+		<td>Pragma </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
 			<a href="https://github.com/Skatox">
 				<img src="https://avatars.githubusercontent.com/u/177008?s=72&u=5fe0ecdf765da5c672c430012723f4ff2be39689&v=4" width="24" alt="Avatar of Skatox"> Skatox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Skatox">Copy rank badge</a><br/>
 			Miguel Useche
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/skatox">skatox</a></td>
 		<td>Cucuta, Colombia</td>
-		<td>116</td>
+		<td>124</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/josefdc">
+				<img src="https://avatars.githubusercontent.com/u/77589315?s=72&u=8b5837a778a009bb21c8892cbfd61a88907d0a4d&v=4" width="24" alt="Avatar of josefdc"> josefdc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#josefdc">Copy rank badge</a><br/>
+			Jose Felipe Duarte Coronado
+		</td>
+		<td> Laboratory For Research<br/>In<br/>Complex<br/>Systems<br/></td>
+		<td><a href="https://twitter.com/josefdc_">josefdc_</a></td>
+		<td>Pereira, Colombia</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/josemoncada87">
+				<img src="https://avatars.githubusercontent.com/u/201211?s=72&u=27617c702f181ee54b602aacb560948369ff1c28&v=4" width="24" alt="Avatar of josemoncada87"> josemoncada87
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#josemoncada87">Copy rank badge</a><br/>
+			Jose Andrés Moncada
+		</td>
+		<td>Universidad Icesi </td>
+		<td><a href="https://twitter.com/josemoncada87">josemoncada87</a></td>
+		<td>Cali, Colombia</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/Emjey25">
+				<img src="https://avatars.githubusercontent.com/u/110546904?s=72&u=72bfb261cdb5dbc0219849e1af3b4605ae37042a&v=4" width="24" alt="Avatar of Emjey25"> Emjey25
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Emjey25">Copy rank badge</a><br/>
+			Luneska Newton</>
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín , Antioquia - Colombia </td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/QuitoTactico">
+				<img src="https://avatars.githubusercontent.com/u/99926526?s=72&u=f6024135310c12dfd0be2e3d37548c12b8394245&v=4" width="24" alt="Avatar of QuitoTactico"> QuitoTactico
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#QuitoTactico">Copy rank badge</a><br/>
+			Esteban Vergara Giraldo
+		</td>
+		<td>@eafit University </td>
+		<td>No Twitter Username</td>
+		<td>Medellín - Colombia</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/JuanKRuiz">
+				<img src="https://avatars.githubusercontent.com/u/1454560?s=72&u=03a2e911007b1bfdaa5e6f049a8d38861d3188b9&v=4" width="24" alt="Avatar of JuanKRuiz"> JuanKRuiz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanKRuiz">Copy rank badge</a><br/>
+			Juan Carlos Ruiz Pacheco
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/aranajhonny">
+				<img src="https://avatars.githubusercontent.com/u/9091881?s=72&u=4cbc0ff0d8e6f6392cf1774e72c72d516743f563&v=4" width="24" alt="Avatar of aranajhonny"> aranajhonny
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#aranajhonny">Copy rank badge</a><br/>
+			Jhonny
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia / Venezuela</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/nathsotomayor">
+				<img src="https://avatars.githubusercontent.com/u/28455356?s=72&u=12aa2dc8391fb185e8739c5ba58dd38d88b32b7d&v=4" width="24" alt="Avatar of nathsotomayor"> nathsotomayor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nathsotomayor">Copy rank badge</a><br/>
+			Nathaly Sotomayor Ampudia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nathsotomayor">nathsotomayor</a></td>
+		<td>Buenaventura, Colombia</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/Josedn">
 				<img src="https://avatars.githubusercontent.com/u/9516680?s=72&u=4f3bdd8442c3227864d6fd7a40f5666a12e1bd5e&v=4" width="24" alt="Avatar of Josedn"> Josedn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Josedn">Copy rank badge</a><br/>
 			José D
 		</td>
 		<td>No Company</td>
@@ -4044,102 +4150,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>312</td>
 		<td>
-			<a href="https://github.com/juliandavidmr">
-				<img src="https://avatars.githubusercontent.com/u/4544102?s=72&u=5611dfdff007e9ac7a8575a607a5b95288b744d6&v=4" width="24" alt="Avatar of juliandavidmr"> juliandavidmr
-			</a><br/>
-			Julian David
+			<a href="https://github.com/Juanpabedoyav">
+				<img src="https://avatars.githubusercontent.com/u/68037012?s=72&u=54808a19f8aa5859a64b820f0de95cfa7659b9c6&v=4" width="24" alt="Avatar of Juanpabedoyav"> Juanpabedoyav
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Juanpabedoyav">Copy rank badge</a><br/>
+			Juan Pablo Bedoya Vasco
 		</td>
-		<td>Deuna </td>
-		<td>No Twitter Username</td>
-		<td>Colombia, Huila</td>
+		<td>Grupo Éxito </td>
+		<td><a href="https://twitter.com/juanpabedoyav">juanpabedoyav</a></td>
+		<td>Medellín - Colombia</td>
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>313</td>
 		<td>
-			<a href="https://github.com/ProfKaz">
-				<img src="https://avatars.githubusercontent.com/u/44684110?s=72&u=174493951e1971398c1759f2e8de4c64c56f9f54&v=4" width="24" alt="Avatar of ProfKaz"> ProfKaz
-			</a><br/>
-			Sebastián Zamorano A.
+			<a href="https://github.com/Jes015">
+				<img src="https://avatars.githubusercontent.com/u/120581623?s=72&u=592559d98058c8bb9ce110a52c20f2f9653d2d04&v=4" width="24" alt="Avatar of Jes015"> Jes015
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jes015">Copy rank badge</a><br/>
+			Jes015
 		</td>
-		<td>Microhome </td>
-		<td><a href="https://twitter.com/Prof_kaz">Prof_kaz</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jes_15_">Jes_15_</a></td>
 		<td>Colombia</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/JuanKRuiz">
-				<img src="https://avatars.githubusercontent.com/u/1454560?s=72&u=03a2e911007b1bfdaa5e6f049a8d38861d3188b9&v=4" width="24" alt="Avatar of JuanKRuiz"> JuanKRuiz
-			</a><br/>
-			Juan Carlos Ruiz Pacheco
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>314</td>
 		<td>
-			<a href="https://github.com/EngAndres">
-				<img src="https://avatars.githubusercontent.com/u/5447614?s=72&v=4" width="24" alt="Avatar of EngAndres"> EngAndres
-			</a><br/>
-			Carlos Andres Sierra
-		</td>
-		<td>Research Group On Artificial<br/>Life<br/>-<br/>Alife<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogota D.C., Colombia</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/cvalencia1991">
-				<img src="https://avatars.githubusercontent.com/u/107327344?s=72&u=5fabc13afa486c25a437d9a83c201bb25bc9dfe9&v=4" width="24" alt="Avatar of cvalencia1991"> cvalencia1991
-			</a><br/>
-			Cesar Valencia Aguilar
-		</td>
-		<td> Full-stack Developer </td>
-		<td><a href="https://twitter.com/cvalenciaguilar">cvalenciaguilar</a></td>
-		<td>Cali,Colombia</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/lcmartinezdev">
-				<img src="https://avatars.githubusercontent.com/u/4006316?s=72&u=850910c29d0ee38daca4f2e70125772f569e4ddb&v=4" width="24" alt="Avatar of lcmartinezdev"> lcmartinezdev
-			</a><br/>
-			Luis Martinez
+			<a href="https://github.com/hdtoledo">
+				<img src="https://avatars.githubusercontent.com/u/17147509?s=72&u=a012ea0e2c16f4490b600af83cea8d480f50322f&v=4" width="24" alt="Avatar of hdtoledo"> hdtoledo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hdtoledo">Copy rank badge</a><br/>
+			hdtoledo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lcmartinez_">lcmartinez_</a></td>
-		<td>Colombia</td>
-		<td>112</td>
+		<td><a href="https://twitter.com/hdtoledo">hdtoledo</a></td>
+		<td>Garzón - Huila - Colombia</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/restrepo">
-				<img src="https://avatars.githubusercontent.com/u/655883?s=72&v=4" width="24" alt="Avatar of restrepo"> restrepo
-			</a><br/>
-			Diego Restrepo
-		</td>
-		<td>Universidad De Antioquia </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>112</td>
-	</tr>
-	<tr>
-		<td>311</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/andresf2448">
 				<img src="https://avatars.githubusercontent.com/u/58791994?s=72&u=02b50d0952674b5f3bbf7229a54c16237133871b&v=4" width="24" alt="Avatar of andresf2448"> andresf2448
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andresf2448">Copy rank badge</a><br/>
 			Andrés Felipe Velásquez Trujillo
 		</td>
 		<td>No Company</td>
@@ -4148,24 +4202,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/JuanDavidTriana">
-				<img src="https://avatars.githubusercontent.com/u/88797895?s=72&u=bd7a0ce5c6a6f2d477b270f3484618c569190b10&v=4" width="24" alt="Avatar of JuanDavidTriana"> JuanDavidTriana
-			</a><br/>
-			Juan David Triana Turmeque
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia </td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>313</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/Vampitech">
 				<img src="https://avatars.githubusercontent.com/u/47399571?s=72&u=26c369b8d667f360c4e130b3a5bb6012d37892f5&v=4" width="24" alt="Avatar of Vampitech"> Vampitech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Vampitech">Copy rank badge</a><br/>
 			Vampitech
 		</td>
 		<td>Vampi </td>
@@ -4174,37 +4215,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>317</td>
 		<td>
-			<a href="https://github.com/RafxDev">
-				<img src="https://avatars.githubusercontent.com/u/166156330?s=72&u=fec69239db5b6627fa7321f9e9fd6c8a2c06aa86&v=4" width="24" alt="Avatar of RafxDev"> RafxDev
-			</a><br/>
-			RafxDev
+			<a href="https://github.com/jdariasl">
+				<img src="https://avatars.githubusercontent.com/u/7811453?s=72&v=4" width="24" alt="Avatar of jdariasl"> jdariasl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdariasl">Copy rank badge</a><br/>
+			Julián D. Arias-Londoño
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/DonAurelio">
-				<img src="https://avatars.githubusercontent.com/u/9855594?s=72&u=2cb9cb1f6dfaedc87d0543fa64fbbd95d3c090d4&v=4" width="24" alt="Avatar of DonAurelio"> DonAurelio
-			</a><br/>
-			Aurelio Vivas
-		</td>
-		<td>Univesidad De Los Andes<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>Universidad De Antioquia </td>
+		<td><a href="https://twitter.com/judaarlo">judaarlo</a></td>
+		<td>Medellín, Colombia.</td>
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/jclosadab1996">
+				<img src="https://avatars.githubusercontent.com/u/92903961?s=72&u=161e84ee7022c989681a6d9b719b2d15d519f106&v=4" width="24" alt="Avatar of jclosadab1996"> jclosadab1996
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jclosadab1996">Copy rank badge</a><br/>
+			Juan Camilo Losada Bultaif
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/Bethsyf">
 				<img src="https://avatars.githubusercontent.com/u/84050237?s=72&u=23fe36ebf27fa94c45ca962ef6cc2fe4873452e4&v=4" width="24" alt="Avatar of Bethsyf"> Bethsyf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Bethsyf">Copy rank badge</a><br/>
 			Bethsy Falcon
 		</td>
 		<td>No Company</td>
@@ -4213,50 +4254,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>320</td>
 		<td>
-			<a href="https://github.com/Juanpabedoyav">
-				<img src="https://avatars.githubusercontent.com/u/68037012?s=72&u=54808a19f8aa5859a64b820f0de95cfa7659b9c6&v=4" width="24" alt="Avatar of Juanpabedoyav"> Juanpabedoyav
-			</a><br/>
-			Juan Pablo Bedoya Vasco
+			<a href="https://github.com/Camilo-neck">
+				<img src="https://avatars.githubusercontent.com/u/69314816?s=72&u=fd052118766bfce000e801405d793f47158abb37&v=4" width="24" alt="Avatar of Camilo-neck"> Camilo-neck
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Camilo-neck">Copy rank badge</a><br/>
+			Camilo
 		</td>
-		<td>Grupo Éxito </td>
-		<td><a href="https://twitter.com/juanpabedoyav">juanpabedoyav</a></td>
-		<td>Medellín - Colombia</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
-			<a href="https://github.com/miguelperezdev">
-				<img src="https://avatars.githubusercontent.com/u/159577452?s=72&u=22bcef5cdd4e8b7d4026debda41020d5743ee949&v=4" width="24" alt="Avatar of miguelperezdev"> miguelperezdev
-			</a><br/>
-			Miguel Perez Ojeda
-		</td>
-		<td>Icesi </td>
+		<td>Bettercampus </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>106</td>
+		<td>107</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>321</td>
 		<td>
-			<a href="https://github.com/carlos-paezf">
-				<img src="https://avatars.githubusercontent.com/u/55883267?s=72&u=cd06f3bda51dc38042d35a7e9db57a0f55e5e004&v=4" width="24" alt="Avatar of carlos-paezf"> carlos-paezf
-			</a><br/>
-			Carlos David Páez Ferreira
+			<a href="https://github.com/czabala847">
+				<img src="https://avatars.githubusercontent.com/u/26287588?s=72&u=ea4dbab1a33c0a4f8b1dfe25a9d5afdf891d7af5&v=4" width="24" alt="Avatar of czabala847"> czabala847
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#czabala847">Copy rank badge</a><br/>
+			Carlos Zabala Roqueme
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santander, Colombia</td>
-		<td>106</td>
+		<td>Barranquilla, Colombia</td>
+		<td>107</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/stivenjimenez">
 				<img src="https://avatars.githubusercontent.com/u/58489695?s=72&u=1b538b90b6142b200d54585a523241080f09ed0a&v=4" width="24" alt="Avatar of stivenjimenez"> stivenjimenez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#stivenjimenez">Copy rank badge</a><br/>
 			Stiven Jimenez
 		</td>
 		<td>Sodtrack </td>
@@ -4265,63 +4293,89 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/jeanctech">
-				<img src="https://avatars.githubusercontent.com/u/107894113?s=72&u=99f021199ea9322df593121c7608e0a043fb3986&v=4" width="24" alt="Avatar of jeanctech"> jeanctech
-			</a><br/>
-			JeanCarlos Jimenez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jeanctech">jeanctech</a></td>
-		<td>Colombia</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/jfcmacro">
-				<img src="https://avatars.githubusercontent.com/u/80134?s=72&v=4" width="24" alt="Avatar of jfcmacro"> jfcmacro
-			</a><br/>
-			Juan Francisco Cardona McCormick
-		</td>
-		<td>Epam Latam </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>103</td>
-	</tr>
-	<tr>
 		<td>323</td>
 		<td>
-			<a href="https://github.com/yaazkal">
-				<img src="https://avatars.githubusercontent.com/u/5897701?s=72&v=4" width="24" alt="Avatar of yaazkal"> yaazkal
-			</a><br/>
-			Juan David Hurtado G
+			<a href="https://github.com/Jorger">
+				<img src="https://avatars.githubusercontent.com/u/30050?s=72&u=e687513c36597ab0fec153745a9299316ea6fbf8&v=4" width="24" alt="Avatar of Jorger"> Jorger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jorger">Copy rank badge</a><br/>
+			Jorge Rubiano
 		</td>
-		<td>Orbiware </td>
-		<td><a href="https://twitter.com/yaazkal">yaazkal</a></td>
-		<td>Medellín, Colombia</td>
-		<td>101</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cajicá, Cundinamarca, Colombia</td>
+		<td>105</td>
 	</tr>
 	<tr>
 		<td>324</td>
 		<td>
+			<a href="https://github.com/carlos-paezf">
+				<img src="https://avatars.githubusercontent.com/u/55883267?s=72&u=cd06f3bda51dc38042d35a7e9db57a0f55e5e004&v=4" width="24" alt="Avatar of carlos-paezf"> carlos-paezf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carlos-paezf">Copy rank badge</a><br/>
+			Carlos David Páez Ferreira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santander, Colombia</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/zejiran">
+				<img src="https://avatars.githubusercontent.com/u/30379522?s=72&u=0984d3e5115ad518eced42ce5c5ca69e3cd619c4&v=4" width="24" alt="Avatar of zejiran"> zejiran
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#zejiran">Copy rank badge</a><br/>
+			Juan Alegría
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/juanszalegria">juanszalegria</a></td>
+		<td>Colombia</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
 			<a href="https://github.com/juanramirezc2">
 				<img src="https://avatars.githubusercontent.com/u/4117152?s=72&u=b3e3fcc29abe3d3eda69fa0ee00ef3400401a484&v=4" width="24" alt="Avatar of juanramirezc2"> juanramirezc2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanramirezc2">Copy rank badge</a><br/>
 			Juan Ramirez 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/juanramirezc2">juanramirezc2</a></td>
 		<td>Colombia</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/andresporras3423">
+				<img src="https://avatars.githubusercontent.com/u/36645207?s=72&u=ecaa7422f495a2fcca17b606bcae1b059c922140&v=4" width="24" alt="Avatar of andresporras3423"> andresporras3423
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andresporras3423">Copy rank badge</a><br/>
+			Oscar Andrés Russi Porras
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/jfcmacro">
+				<img src="https://avatars.githubusercontent.com/u/80134?s=72&v=4" width="24" alt="Avatar of jfcmacro"> jfcmacro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jfcmacro">Copy rank badge</a><br/>
+			Juan Francisco Cardona McCormick
+		</td>
+		<td>Epam Latam </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/walterrdev">
 				<img src="https://avatars.githubusercontent.com/u/13527538?s=72&u=58f80c7affad2b15a58b25bb9ab93260e51cd76c&v=4" width="24" alt="Avatar of walterrdev"> walterrdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#walterrdev">Copy rank badge</a><br/>
 			Walter Rodriguez C.
 		</td>
 		<td>Expertowps </td>
@@ -4330,63 +4384,89 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>330</td>
 		<td>
-			<a href="https://github.com/alexlondon07">
-				<img src="https://avatars.githubusercontent.com/u/5550470?s=72&u=5242a8321229a8e7f618e461aa79d041d6a5752a&v=4" width="24" alt="Avatar of alexlondon07"> alexlondon07
-			</a><br/>
-			Alexander Londoño Espejo
+			<a href="https://github.com/yaazkal">
+				<img src="https://avatars.githubusercontent.com/u/5897701?s=72&v=4" width="24" alt="Avatar of yaazkal"> yaazkal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yaazkal">Copy rank badge</a><br/>
+			Juan David Hurtado G
 		</td>
-		<td>Globant </td>
-		<td><a href="https://twitter.com/alexlondon07">alexlondon07</a></td>
-		<td>Medellín - Colombia</td>
+		<td>Orbiware </td>
+		<td><a href="https://twitter.com/yaazkal">yaazkal</a></td>
+		<td>Medellín, Colombia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/jriost">
+				<img src="https://avatars.githubusercontent.com/u/201810442?s=72&u=c1d6c18268ed2ebc9b59e9d47b416c2207a39ad3&v=4" width="24" alt="Avatar of jriost"> jriost
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jriost">Copy rank badge</a><br/>
+			Jose Alexander Ríos Trespalacios
+		</td>
+		<td>Lambda Analytics </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, CO</td>
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/cvalencia1991">
+				<img src="https://avatars.githubusercontent.com/u/107327344?s=72&u=5fabc13afa486c25a437d9a83c201bb25bc9dfe9&v=4" width="24" alt="Avatar of cvalencia1991"> cvalencia1991
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cvalencia1991">Copy rank badge</a><br/>
+			Cesar Valencia Aguilar
+		</td>
+		<td> Full-stack Developer </td>
+		<td><a href="https://twitter.com/cvalenciaguilar">cvalenciaguilar</a></td>
+		<td>Cali,Colombia</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/AugustoAleGon">
+				<img src="https://avatars.githubusercontent.com/u/14319083?s=72&u=7d9d97d3cd93767c01206fa6b7bf6c60d227871b&v=4" width="24" alt="Avatar of AugustoAleGon"> AugustoAleGon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AugustoAleGon">Copy rank badge</a><br/>
+			Augusto Gonzalez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AugustoAleGon">AugustoAleGon</a></td>
+		<td>Colombia</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/JesusChapman">
+				<img src="https://avatars.githubusercontent.com/u/64093255?s=72&u=b91caa3552716107317b6cee677259d93df5e8a9&v=4" width="24" alt="Avatar of JesusChapman"> JesusChapman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JesusChapman">Copy rank badge</a><br/>
+			Jesús Chapman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/santigarcor">
 				<img src="https://avatars.githubusercontent.com/u/7565417?s=72&u=31bb4a5e390360c7a940677f1c93b4683259082d&v=4" width="24" alt="Avatar of santigarcor"> santigarcor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#santigarcor">Copy rank badge</a><br/>
 			Santiago García
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/miguel-ardila">
-				<img src="https://avatars.githubusercontent.com/u/21690375?s=72&u=32080624bddce7bc1fac34ce3ebab5b15164a09b&v=4" width="24" alt="Avatar of miguel-ardila"> miguel-ardila
-			</a><br/>
-			Miguel Ardila
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/Zulu55">
-				<img src="https://avatars.githubusercontent.com/u/12401602?s=72&u=a20e89a840522633e46ce107deae1edd35a1db90&v=4" width="24" alt="Avatar of Zulu55"> Zulu55
-			</a><br/>
-			Juan Carlos Zuluaga
-		</td>
-		<td>Zulu Software </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/dantsub">
 				<img src="https://avatars.githubusercontent.com/u/33495291?s=72&u=01ff1e78116a7d7293ebad8b31973c8751b74a04&v=4" width="24" alt="Avatar of dantsub"> dantsub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dantsub">Copy rank badge</a><br/>
 			Joshua Martinez
 		</td>
 		<td>No Company</td>
@@ -4395,24 +4475,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>337</td>
 		<td>
-			<a href="https://github.com/sguerrero-dev">
-				<img src="https://avatars.githubusercontent.com/u/233105728?s=72&u=db3ea5bcd3593f0b13bb02d6b55a4184f950c1f6&v=4" width="24" alt="Avatar of sguerrero-dev"> sguerrero-dev
-			</a><br/>
-			Santiago Guerrero Jimenez
+			<a href="https://github.com/miguel-ardila">
+				<img src="https://avatars.githubusercontent.com/u/21690375?s=72&u=32080624bddce7bc1fac34ce3ebab5b15164a09b&v=4" width="24" alt="Avatar of miguel-ardila"> miguel-ardila
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#miguel-ardila">Copy rank badge</a><br/>
+			Miguel Ardila
 		</td>
-		<td>No Company</td>
+		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/edsadr">
+				<img src="https://avatars.githubusercontent.com/u/1189785?s=72&u=b4837fa5baea961ccd0e1f157aa1182340df8354&v=4" width="24" alt="Avatar of edsadr"> edsadr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#edsadr">Copy rank badge</a><br/>
+			Adrián Estrada
+		</td>
+		<td>Medellinjs </td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/diegoandresalvarez">
+				<img src="https://avatars.githubusercontent.com/u/22099942?s=72&v=4" width="24" alt="Avatar of diegoandresalvarez"> diegoandresalvarez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#diegoandresalvarez">Copy rank badge</a><br/>
+			Diego Andrés Alvarez Marín
+		</td>
+		<td>Universidad Nacional De Colombia<br/>-<br/>Sede<br/>Manizales<br/></td>
+		<td>No Twitter Username</td>
+		<td>Manizales, Colombia</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/Naveduran">
 				<img src="https://avatars.githubusercontent.com/u/77937987?s=72&u=7e768af56e3aa4166eff7e63b03de7ca655ae01b&v=4" width="24" alt="Avatar of Naveduran"> Naveduran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Naveduran">Copy rank badge</a><br/>
 			Natalia Vera Duran
 		</td>
 		<td>Universidad Nacional De Colombia<br/></td>
@@ -4421,11 +4527,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/jcbages">
+				<img src="https://avatars.githubusercontent.com/u/4754941?s=72&u=61d0009e8c790307c633fe9b42da107f9eecd0b3&v=4" width="24" alt="Avatar of jcbages"> jcbages
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jcbages">Copy rank badge</a><br/>
+			Juan Camilo Bages
+		</td>
+		<td>Jcbages.com </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/josetresdev">
 				<img src="https://avatars.githubusercontent.com/u/170025736?s=72&u=efe45ec1183f8e9869e59152e655f6db577e920d&v=4" width="24" alt="Avatar of josetresdev"> josetresdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#josetresdev">Copy rank badge</a><br/>
 			Jose Trespalacios B.
 		</td>
 		<td>No Company</td>
@@ -4434,11 +4553,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/amyspark-ng">
+				<img src="https://avatars.githubusercontent.com/u/92493175?s=72&u=43323dbd989af4e30633c6314e1d6282d088cede&v=4" width="24" alt="Avatar of amyspark-ng"> amyspark-ng
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#amyspark-ng">Copy rank badge</a><br/>
+			amyspark-ng
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amyspark_ng">amyspark_ng</a></td>
+		<td>Colombia</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/DuvanVilladiego">
+				<img src="https://avatars.githubusercontent.com/u/73791709?s=72&u=32d302b4b6782471e838e72fc0d7e5ae950a8d80&v=4" width="24" alt="Avatar of DuvanVilladiego"> DuvanVilladiego
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DuvanVilladiego">Copy rank badge</a><br/>
+			Duvan Villadiego
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/jamlfy">
+				<img src="https://avatars.githubusercontent.com/u/1652887?s=72&u=567ff4f31ba88a2f5bbd0e7c5cb8771cc04d0ad0&v=4" width="24" alt="Avatar of jamlfy"> jamlfy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jamlfy">Copy rank badge</a><br/>
+			Jamlfy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/leocjj">
 				<img src="https://avatars.githubusercontent.com/u/53725367?s=72&u=e157d09d4f21b96c7d7f9410ce190b95fcb6a1f7&v=4" width="24" alt="Avatar of leocjj"> leocjj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leocjj">Copy rank badge</a><br/>
 			Leonardo Calderon
 		</td>
 		<td>@endava </td>
@@ -4447,24 +4605,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>347</td>
 		<td>
-			<a href="https://github.com/PaoloManciniV">
-				<img src="https://avatars.githubusercontent.com/u/87822214?s=72&u=6ccdc220b30d6aeb4280a4a1ae248825bcfd1004&v=4" width="24" alt="Avatar of PaoloManciniV"> PaoloManciniV
-			</a><br/>
-			Paolo Mancini
+			<a href="https://github.com/san99tiago">
+				<img src="https://avatars.githubusercontent.com/u/23286431?s=72&u=889efa568a20a16c45c6b7421add8d3f32fe62ee&v=4" width="24" alt="Avatar of san99tiago"> san99tiago
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#san99tiago">Copy rank badge</a><br/>
+			Santiago Garcia Arango
 		</td>
-		<td>No Company</td>
+		<td>Amazon Web Services </td>
 		<td>No Twitter Username</td>
-		<td>Barranquilla</td>
+		<td>Medellín, Colombia</td>
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/baristaGeek">
 				<img src="https://avatars.githubusercontent.com/u/8325094?s=72&u=b2e12a6d2a9e546972428cf6c41111ac16cae64e&v=4" width="24" alt="Avatar of baristaGeek"> baristaGeek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#baristaGeek">Copy rank badge</a><br/>
 			Esteban Vargas
 		</td>
 		<td>No Company</td>
@@ -4473,11 +4631,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/maoaiz">
 				<img src="https://avatars.githubusercontent.com/u/1550196?s=72&u=2dd55cdb7e7c6c35569b0b1c46e0dedbefe1b27f&v=4" width="24" alt="Avatar of maoaiz"> maoaiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#maoaiz">Copy rank badge</a><br/>
 			Mauricio
 		</td>
 		<td>Recibosypagos.com </td>
@@ -4486,115 +4644,63 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/josemoncada87">
-				<img src="https://avatars.githubusercontent.com/u/201211?s=72&u=27617c702f181ee54b602aacb560948369ff1c28&v=4" width="24" alt="Avatar of josemoncada87"> josemoncada87
-			</a><br/>
-			Jose Andrés Moncada
-		</td>
-		<td>Universidad Icesi </td>
-		<td><a href="https://twitter.com/josemoncada87">josemoncada87</a></td>
-		<td>Cali, Colombia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/arizamoisesco">
-				<img src="https://avatars.githubusercontent.com/u/8660092?s=72&u=d5ef5f7bbee0d8b0798b9e6ada32045e1f914cdf&v=4" width="24" alt="Avatar of arizamoisesco"> arizamoisesco
-			</a><br/>
-			Moises Ariza
-		</td>
-		<td>@generation-org </td>
-		<td><a href="https://twitter.com/arizamoisesCO">arizamoisesCO</a></td>
-		<td>Colombia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/JesusChapman">
-				<img src="https://avatars.githubusercontent.com/u/64093255?s=72&u=b91caa3552716107317b6cee677259d93df5e8a9&v=4" width="24" alt="Avatar of JesusChapman"> JesusChapman
-			</a><br/>
-			Jesús Chapman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/edsadr">
-				<img src="https://avatars.githubusercontent.com/u/1189785?s=72&u=b4837fa5baea961ccd0e1f157aa1182340df8354&v=4" width="24" alt="Avatar of edsadr"> edsadr
-			</a><br/>
-			Adrián Estrada
-		</td>
-		<td>Medellinjs </td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/DuvanVilladiego">
-				<img src="https://avatars.githubusercontent.com/u/73791709?s=72&u=32d302b4b6782471e838e72fc0d7e5ae950a8d80&v=4" width="24" alt="Avatar of DuvanVilladiego"> DuvanVilladiego
-			</a><br/>
-			Duvan Villadiego
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>343</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/jdalzatec">
 				<img src="https://avatars.githubusercontent.com/u/2148473?s=72&u=c6bd3060cb9337c1c42319a928095f6e5f8fa318&v=4" width="24" alt="Avatar of jdalzatec"> jdalzatec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdalzatec">Copy rank badge</a><br/>
 			Juan David Alzate Cardona
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Manizales, Colombia</td>
-		<td>90</td>
+		<td>92</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>351</td>
 		<td>
-			<a href="https://github.com/lemyskaman">
-				<img src="https://avatars.githubusercontent.com/u/4540813?s=72&u=52a40d4f170ff847f887158dcf1c7a376ce1c207&v=4" width="24" alt="Avatar of lemyskaman"> lemyskaman
-			</a><br/>
-			Lemys Lopez
+			<a href="https://github.com/arizamoisesco">
+				<img src="https://avatars.githubusercontent.com/u/8660092?s=72&u=d5ef5f7bbee0d8b0798b9e6ada32045e1f914cdf&v=4" width="24" alt="Avatar of arizamoisesco"> arizamoisesco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#arizamoisesco">Copy rank badge</a><br/>
+			Moises Ariza
 		</td>
-		<td>Kamansoft </td>
+		<td>@generation-org </td>
+		<td><a href="https://twitter.com/arizamoisesCO">arizamoisesCO</a></td>
+		<td>Colombia</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/osmandi">
+				<img src="https://avatars.githubusercontent.com/u/30201113?s=72&v=4" width="24" alt="Avatar of osmandi"> osmandi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#osmandi">Copy rank badge</a><br/>
+			Osmandi Gomez
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>90</td>
+		<td>91</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/CamiloYate09">
 				<img src="https://avatars.githubusercontent.com/u/26048794?s=72&u=894c49a250366b713285f90edd2efc73408e0706&v=4" width="24" alt="Avatar of CamiloYate09"> CamiloYate09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CamiloYate09">Copy rank badge</a><br/>
 			Camilo Yate
 		</td>
 		<td>@ean  </td>
 		<td><a href="https://twitter.com/MiliDUBA">MiliDUBA</a></td>
 		<td>Colombia</td>
-		<td>89</td>
+		<td>90</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Sebas1012">
 				<img src="https://avatars.githubusercontent.com/u/50553819?s=72&u=14dfdae1868e2a24058ed37de303fb5e1f860e91&v=4" width="24" alt="Avatar of Sebas1012"> Sebas1012
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Sebas1012">Copy rank badge</a><br/>
 			Sebastian Henao
 		</td>
 		<td>F2x </td>
@@ -4603,102 +4709,167 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>355</td>
 		<td>
-			<a href="https://github.com/jriost">
-				<img src="https://avatars.githubusercontent.com/u/201810442?s=72&u=c1d6c18268ed2ebc9b59e9d47b416c2207a39ad3&v=4" width="24" alt="Avatar of jriost"> jriost
-			</a><br/>
-			Jose Alexander Ríos Trespalacios
+			<a href="https://github.com/EngAndres">
+				<img src="https://avatars.githubusercontent.com/u/5447614?s=72&v=4" width="24" alt="Avatar of EngAndres"> EngAndres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#EngAndres">Copy rank badge</a><br/>
+			Carlos Andres Sierra
 		</td>
-		<td>Lambda Analytics </td>
+		<td>Research Group On Artificial<br/>Life<br/>-<br/>Alife<br/></td>
 		<td>No Twitter Username</td>
-		<td>Medellín, CO</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/yoanpinzon">
-				<img src="https://avatars.githubusercontent.com/u/28374876?s=72&u=c9d194b598ca9befcd8b699a3cc131087310848f&v=4" width="24" alt="Avatar of yoanpinzon"> yoanpinzon
-			</a><br/>
-			Yoan Pinzón
-		</td>
-		<td>Pontificia Universidad Javeriana Cali<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Cali </td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/RamirezAlex">
-				<img src="https://avatars.githubusercontent.com/u/1482473?s=72&u=9c9a5f5d5bd59bd5bd46b37dd24944dd3e23959d&v=4" width="24" alt="Avatar of RamirezAlex"> RamirezAlex
-			</a><br/>
-			Alex Ramirez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RamirezAlex">RamirezAlex</a></td>
-		<td>Medellin, Colombia</td>
+		<td>Bogota D.C., Colombia</td>
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/psirusteam">
 				<img src="https://avatars.githubusercontent.com/u/9940454?s=72&u=dd6d3441d96dbb4944f9153a8c7eea6ff83901f0&v=4" width="24" alt="Avatar of psirusteam"> psirusteam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#psirusteam">Copy rank badge</a><br/>
 			AG
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/JohnBetaCode">
+				<img src="https://avatars.githubusercontent.com/u/43115782?s=72&u=50d09f97a8d41bf7900c6b93e518c40008da9f46&v=4" width="24" alt="Avatar of JohnBetaCode"> JohnBetaCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JohnBetaCode">Copy rank badge</a><br/>
+			John Betancourt
+		</td>
+		<td>Kiwibot / Robot.com /<br/>Redkraken(founder)<br/></td>
+		<td><a href="https://twitter.com/JohnBetaCode">JohnBetaCode</a></td>
+		<td>USA / Colombia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/jthan24">
+				<img src="https://avatars.githubusercontent.com/u/396418?s=72&u=339593ed6eee70dc1031901770793e8056ea56cf&v=4" width="24" alt="Avatar of jthan24"> jthan24
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jthan24">Copy rank badge</a><br/>
+			Jhonny Pong
+		</td>
+		<td>Non Employee </td>
+		<td><a href="https://twitter.com/jthan24">jthan24</a></td>
+		<td>Colombia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/lemyskaman">
+				<img src="https://avatars.githubusercontent.com/u/4540813?s=72&u=52a40d4f170ff847f887158dcf1c7a376ce1c207&v=4" width="24" alt="Avatar of lemyskaman"> lemyskaman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lemyskaman">Copy rank badge</a><br/>
+			Lemys Lopez
+		</td>
+		<td>Kamansoft </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/RamirezAlex">
+				<img src="https://avatars.githubusercontent.com/u/1482473?s=72&u=9c9a5f5d5bd59bd5bd46b37dd24944dd3e23959d&v=4" width="24" alt="Avatar of RamirezAlex"> RamirezAlex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#RamirezAlex">Copy rank badge</a><br/>
+			Alex Ramirez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RamirezAlex">RamirezAlex</a></td>
+		<td>Medellin, Colombia</td>
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>361</td>
 		<td>
-			<a href="https://github.com/mikedev64">
-				<img src="https://avatars.githubusercontent.com/u/84690368?s=72&u=8cd9c360f3f5133b2bd7fa806aebbb4c7cdbb3ab&v=4" width="24" alt="Avatar of mikedev64"> mikedev64
-			</a><br/>
-			Joan Sebastian Cardozo Salinas
+			<a href="https://github.com/appitoriadev">
+				<img src="https://avatars.githubusercontent.com/u/11842952?s=72&u=56a9f3e56a22d7ac712ac8acc21e5457df8ee87e&v=4" width="24" alt="Avatar of appitoriadev"> appitoriadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#appitoriadev">Copy rank badge</a><br/>
+			Laura Velez
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/appitoriadev">appitoriadev</a></td>
 		<td>Colombia</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/Zulu55">
+				<img src="https://avatars.githubusercontent.com/u/12401602?s=72&u=a20e89a840522633e46ce107deae1edd35a1db90&v=4" width="24" alt="Avatar of Zulu55"> Zulu55
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Zulu55">Copy rank badge</a><br/>
+			Juan Carlos Zuluaga
+		</td>
+		<td>Zulu Software </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>363</td>
 		<td>
-			<a href="https://github.com/Taurien">
-				<img src="https://avatars.githubusercontent.com/u/87723557?s=72&u=51a28fdf888b78cd3f0fb35d723bdd5f5b0cf855&v=4" width="24" alt="Avatar of Taurien"> Taurien
-			</a><br/>
-			Michel Cruz
+			<a href="https://github.com/jvelezpo">
+				<img src="https://avatars.githubusercontent.com/u/1050904?s=72&v=4" width="24" alt="Avatar of jvelezpo"> jvelezpo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jvelezpo">Copy rank badge</a><br/>
+			Juan Sebastian velez Posada
 		</td>
-		<td>Teker </td>
+		<td>Rms-team </td>
 		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
+		<td>Medellin-Colombia</td>
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>364</td>
 		<td>
-			<a href="https://github.com/BalmungSan">
-				<img src="https://avatars.githubusercontent.com/u/11336950?s=72&u=9a38f661bd195d291f281ba75ed6779aadc9436a&v=4" width="24" alt="Avatar of BalmungSan"> BalmungSan
-			</a><br/>
-			Luis Miguel Mejía Suárez
+			<a href="https://github.com/mjvalenzuela">
+				<img src="https://avatars.githubusercontent.com/u/74375508?s=72&u=c01b2b22a5fbed50146b1259070aa74f626c742e&v=4" width="24" alt="Avatar of mjvalenzuela"> mjvalenzuela
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mjvalenzuela">Copy rank badge</a><br/>
+			Johanna
 		</td>
-		<td>@47deg </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td>Bogotá, Colombia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/IvanCastroRuiz">
+				<img src="https://avatars.githubusercontent.com/u/89880933?s=72&u=d86cf9be765636252458386be72a6a02a0e5bcee&v=4" width="24" alt="Avatar of IvanCastroRuiz"> IvanCastroRuiz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#IvanCastroRuiz">Copy rank badge</a><br/>
+			Ivan Castro Ruiz
+		</td>
+		<td>Systems Plus Tecnologies </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/pacgrafica">
+				<img src="https://avatars.githubusercontent.com/u/42302863?s=72&u=76ffa1f434054906dffff84b91dbf4a2b87aa5f1&v=4" width="24" alt="Avatar of pacgrafica"> pacgrafica
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pacgrafica">Copy rank badge</a><br/>
+			Juan
+		</td>
+		<td>Pac Gráfica </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/YanethM">
 				<img src="https://avatars.githubusercontent.com/u/26027199?s=72&u=ec2ad2683ed44696199a72b2c64dd3beeace729f&v=4" width="24" alt="Avatar of YanethM"> YanethM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#YanethM">Copy rank badge</a><br/>
 			YanethMejiaRendon
 		</td>
 		<td>Freelance - Frontend &<br/>React<br/>Native<br/>Developer<br/><br/></td>
@@ -4707,63 +4878,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/nicoguaro">
-				<img src="https://avatars.githubusercontent.com/u/1097787?s=72&v=4" width="24" alt="Avatar of nicoguaro"> nicoguaro
-			</a><br/>
-			Nicolás Guarín-Zapata
-		</td>
-		<td>Universidad Eafit </td>
-		<td><a href="https://twitter.com/nicoguaro">nicoguaro</a></td>
-		<td>Medellín</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/diegoandresalvarez">
-				<img src="https://avatars.githubusercontent.com/u/22099942?s=72&v=4" width="24" alt="Avatar of diegoandresalvarez"> diegoandresalvarez
-			</a><br/>
-			Diego Andrés Alvarez Marín
-		</td>
-		<td>Universidad Nacional De Colombia<br/>-<br/>Sede<br/>Manizales<br/></td>
-		<td>No Twitter Username</td>
-		<td>Manizales, Colombia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/appitoriadev">
-				<img src="https://avatars.githubusercontent.com/u/11842952?s=72&u=56a9f3e56a22d7ac712ac8acc21e5457df8ee87e&v=4" width="24" alt="Avatar of appitoriadev"> appitoriadev
-			</a><br/>
-			Laura Velez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/appitoriadev">appitoriadev</a></td>
-		<td>Colombia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>358</td>
-		<td>
-			<a href="https://github.com/amyspark-ng">
-				<img src="https://avatars.githubusercontent.com/u/92493175?s=72&u=43323dbd989af4e30633c6314e1d6282d088cede&v=4" width="24" alt="Avatar of amyspark-ng"> amyspark-ng
-			</a><br/>
-			amyspark-ng
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amyspark_ng">amyspark_ng</a></td>
-		<td>Colombia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>359</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/batusai513">
 				<img src="https://avatars.githubusercontent.com/u/996671?s=72&v=4" width="24" alt="Avatar of batusai513"> batusai513
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#batusai513">Copy rank badge</a><br/>
 			Richard Roncancio
 		</td>
 		<td>Koombea </td>
@@ -4772,37 +4891,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>369</td>
 		<td>
-			<a href="https://github.com/Rojas-Andres">
-				<img src="https://avatars.githubusercontent.com/u/47504973?s=72&u=f6a77c184351e47eb71265f6bf3fe7c7e35b40b8&v=4" width="24" alt="Avatar of Rojas-Andres"> Rojas-Andres
-			</a><br/>
-			Andres Rojas
+			<a href="https://github.com/nicoguaro">
+				<img src="https://avatars.githubusercontent.com/u/1097787?s=72&v=4" width="24" alt="Avatar of nicoguaro"> nicoguaro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nicoguaro">Copy rank badge</a><br/>
+			Nicolás Guarín-Zapata
 		</td>
-		<td>Rebus </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Universidad Eafit </td>
+		<td><a href="https://twitter.com/nicoguaro">nicoguaro</a></td>
+		<td>Medellín</td>
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/JohnBetaCode">
-				<img src="https://avatars.githubusercontent.com/u/43115782?s=72&u=50d09f97a8d41bf7900c6b93e518c40008da9f46&v=4" width="24" alt="Avatar of JohnBetaCode"> JohnBetaCode
-			</a><br/>
-			John Betancourt
-		</td>
-		<td>Kiwibot / Robot.com /<br/>Redkraken(founder)<br/></td>
-		<td><a href="https://twitter.com/JohnBetaCode">JohnBetaCode</a></td>
-		<td>USA / Colombia</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>362</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/CAPJackie">
 				<img src="https://avatars.githubusercontent.com/u/30916586?s=72&u=a9144b0b97d9067c7286faffdb3431723eaf6eaf&v=4" width="24" alt="Avatar of CAPJackie"> CAPJackie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CAPJackie">Copy rank badge</a><br/>
 			Juan David Ramirez Mendoza
 		</td>
 		<td>Perficient Latin America </td>
@@ -4811,193 +4917,167 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>371</td>
 		<td>
-			<a href="https://github.com/KillerZeus666">
-				<img src="https://avatars.githubusercontent.com/u/142058319?s=72&u=0a2c7ed430c0f0b4dbe00d198f648fe95488c9de&v=4" width="24" alt="Avatar of KillerZeus666"> KillerZeus666
-			</a><br/>
-			Katheryn Guasca
+			<a href="https://github.com/davidgonzalezfx">
+				<img src="https://avatars.githubusercontent.com/u/20234025?s=72&u=0e3a699c03f51e38b56b6ab7a4173e70d49163ac&v=4" width="24" alt="Avatar of davidgonzalezfx"> davidgonzalezfx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davidgonzalezfx">Copy rank badge</a><br/>
+			David Gonzalez
 		</td>
-		<td>Pontificia Universidad Javeriana </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/davidgonzalezfx">davidgonzalezfx</a></td>
 		<td>Bogotá, Colombia</td>
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>372</td>
 		<td>
-			<a href="https://github.com/pacgrafica">
-				<img src="https://avatars.githubusercontent.com/u/42302863?s=72&u=76ffa1f434054906dffff84b91dbf4a2b87aa5f1&v=4" width="24" alt="Avatar of pacgrafica"> pacgrafica
-			</a><br/>
-			Juan
-		</td>
-		<td>Pac Gráfica </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/jthan24">
-				<img src="https://avatars.githubusercontent.com/u/396418?s=72&u=339593ed6eee70dc1031901770793e8056ea56cf&v=4" width="24" alt="Avatar of jthan24"> jthan24
-			</a><br/>
-			Jhonny Pong
-		</td>
-		<td>Non Employee </td>
-		<td><a href="https://twitter.com/jthan24">jthan24</a></td>
-		<td>Colombia</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/nathsotomayor">
-				<img src="https://avatars.githubusercontent.com/u/28455356?s=72&u=12aa2dc8391fb185e8739c5ba58dd38d88b32b7d&v=4" width="24" alt="Avatar of nathsotomayor"> nathsotomayor
-			</a><br/>
-			Nathaly Sotomayor Ampudia
+			<a href="https://github.com/PaoloManciniV">
+				<img src="https://avatars.githubusercontent.com/u/87822214?s=72&u=6ccdc220b30d6aeb4280a4a1ae248825bcfd1004&v=4" width="24" alt="Avatar of PaoloManciniV"> PaoloManciniV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#PaoloManciniV">Copy rank badge</a><br/>
+			Paolo Mancini
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nathsotomayor">nathsotomayor</a></td>
-		<td>Buenaventura, Colombia</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla</td>
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>373</td>
 		<td>
-			<a href="https://github.com/cristian2213">
-				<img src="https://avatars.githubusercontent.com/u/55324229?s=72&u=92547e47d9fe22e366f3d9c3c754a0cd09a6e78e&v=4" width="24" alt="Avatar of cristian2213"> cristian2213
-			</a><br/>
-			Cristian Johany
+			<a href="https://github.com/fagonzalezo">
+				<img src="https://avatars.githubusercontent.com/u/5608021?s=72&v=4" width="24" alt="Avatar of fagonzalezo"> fagonzalezo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fagonzalezo">Copy rank badge</a><br/>
+			Fabio A. González
 		</td>
-		<td>Freelancer </td>
+		<td>Universidad Nacional De Colombia<br/></td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Bogotá</td>
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/san99tiago">
-				<img src="https://avatars.githubusercontent.com/u/23286431?s=72&u=889efa568a20a16c45c6b7421add8d3f32fe62ee&v=4" width="24" alt="Avatar of san99tiago"> san99tiago
-			</a><br/>
-			Santiago Garcia Arango
-		</td>
-		<td>Amazon Web Services </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>369</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/fguzman82">
 				<img src="https://avatars.githubusercontent.com/u/34175524?s=72&u=221ca3ba6fd407024965634b3db93f91a57d52c0&v=4" width="24" alt="Avatar of fguzman82"> fguzman82
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fguzman82">Copy rank badge</a><br/>
 			Fabio Guzman
 		</td>
 		<td>Upb </td>
 		<td><a href="https://twitter.com/FGuzmanAI">FGuzmanAI</a></td>
 		<td>Colombia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/jeanctech">
+				<img src="https://avatars.githubusercontent.com/u/107894113?s=72&u=99f021199ea9322df593121c7608e0a043fb3986&v=4" width="24" alt="Avatar of jeanctech"> jeanctech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jeanctech">Copy rank badge</a><br/>
+			JeanCarlos Jimenez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jeanctech">jeanctech</a></td>
+		<td>Colombia</td>
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/DavidArmendariz">
+				<img src="https://avatars.githubusercontent.com/u/21047920?s=72&u=a334a2dd3c9f0caa18c0eeed0d3492509aa0cca5&v=4" width="24" alt="Avatar of DavidArmendariz"> DavidArmendariz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DavidArmendariz">Copy rank badge</a><br/>
+			David Armendáriz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mathsdev_">mathsdev_</a></td>
+		<td>Medellín, Colombia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/mikedev64">
+				<img src="https://avatars.githubusercontent.com/u/84690368?s=72&u=8cd9c360f3f5133b2bd7fa806aebbb4c7cdbb3ab&v=4" width="24" alt="Avatar of mikedev64"> mikedev64
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mikedev64">Copy rank badge</a><br/>
+			Joan Sebastian Cardozo Salinas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/leonardo1317">
 				<img src="https://avatars.githubusercontent.com/u/19290073?s=72&u=d33638b310abc13df06e4932747143ce8d6d43f0&v=4" width="24" alt="Avatar of leonardo1317"> leonardo1317
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leonardo1317">Copy rank badge</a><br/>
 			Leonardo Romero
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cali - Colombia</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/Jonathanbees">
-				<img src="https://avatars.githubusercontent.com/u/78938901?s=72&u=8debde6eb0613b9fc03a2b0805385524d91b69db&v=4" width="24" alt="Avatar of Jonathanbees"> Jonathanbees
-			</a><br/>
-			Jonathan Betancur
-		</td>
-		<td>University @eafit </td>
-		<td>No Twitter Username</td>
-		<td>Medellín-Colombia</td>
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>379</td>
 		<td>
-			<a href="https://github.com/Edimer">
-				<img src="https://avatars.githubusercontent.com/u/29940818?s=72&u=3c221549fc5a049df415f3edb0259e7d0f88834c&v=4" width="24" alt="Avatar of Edimer"> Edimer
-			</a><br/>
-			Edimer David Jaramillo
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/Mawfyy">
-				<img src="https://avatars.githubusercontent.com/u/94380448?s=72&u=a1298ff2439ebe36ba795ce372e1590c638bf257&v=4" width="24" alt="Avatar of Mawfyy"> Mawfyy
-			</a><br/>
-			Mawfyy
+			<a href="https://github.com/edunickdev">
+				<img src="https://avatars.githubusercontent.com/u/114629663?s=72&u=32187c20e4c17cc6dade8e1af4b2c814ab3ebb59&v=4" width="24" alt="Avatar of edunickdev"> edunickdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#edunickdev">Copy rank badge</a><br/>
+			El Código Recuerda
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá D.C.</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/anaisaoviedo-upb">
+				<img src="https://avatars.githubusercontent.com/u/218331513?s=72&u=8b918b6253d6cbe6422e9900175b56d1ad44837b&v=4" width="24" alt="Avatar of anaisaoviedo-upb"> anaisaoviedo-upb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#anaisaoviedo-upb">Copy rank badge</a><br/>
+			Ana Isabel Oviedo Carrascal
+		</td>
+		<td>Universidad Pontificia Bolivariana </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/KillerZeus666">
+				<img src="https://avatars.githubusercontent.com/u/142058319?s=72&u=0a2c7ed430c0f0b4dbe00d198f648fe95488c9de&v=4" width="24" alt="Avatar of KillerZeus666"> KillerZeus666
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#KillerZeus666">Copy rank badge</a><br/>
+			Katheryn Guasca
+		</td>
+		<td>Pontificia Universidad Javeriana </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/jarrisondev">
 				<img src="https://avatars.githubusercontent.com/u/62910118?s=72&u=2a678f98d47318dd37318331b03274f6cc54a219&v=4" width="24" alt="Avatar of jarrisondev"> jarrisondev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jarrisondev">Copy rank badge</a><br/>
 			Jarrison Cano 
 		</td>
 		<td>Dash Energy </td>
 		<td><a href="https://twitter.com/jarrisondev">jarrisondev</a></td>
 		<td>Medellín, Colombia</td>
-		<td>75</td>
+		<td>73</td>
 	</tr>
 	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/savq">
-				<img src="https://avatars.githubusercontent.com/u/30883030?s=72&u=e5916408360dfbf22942b356a6315b8805c29aa1&v=4" width="24" alt="Avatar of savq"> savq
-			</a><br/>
-			Sergio A. Vargas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/karobotco">
-				<img src="https://avatars.githubusercontent.com/u/4212784?s=72&u=8023d7504846f6f3d0df82a2538ed56ae3c560cc&v=4" width="24" alt="Avatar of karobotco"> karobotco
-			</a><br/>
-			karobot.co
-		</td>
-		<td>Karobot </td>
-		<td><a href="https://twitter.com/karobotco">karobotco</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>377</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/Gambl3r08">
 				<img src="https://avatars.githubusercontent.com/u/17953383?s=72&u=a92781d4b832a35e47e042f6f4c3594fb34ad9df&v=4" width="24" alt="Avatar of Gambl3r08"> Gambl3r08
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Gambl3r08">Copy rank badge</a><br/>
 			Roberto Lozada
 		</td>
 		<td>No Company</td>
@@ -5006,11 +5086,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/D4nielJ">
 				<img src="https://avatars.githubusercontent.com/u/79114233?s=72&u=c45d64c5454a2d3282d13fe27851d9b235ccc6d2&v=4" width="24" alt="Avatar of D4nielJ"> D4nielJ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#D4nielJ">Copy rank badge</a><br/>
 			Daniel J
 		</td>
 		<td>No Company</td>
@@ -5019,63 +5099,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>385</td>
 		<td>
-			<a href="https://github.com/DavidArmendariz">
-				<img src="https://avatars.githubusercontent.com/u/21047920?s=72&u=a334a2dd3c9f0caa18c0eeed0d3492509aa0cca5&v=4" width="24" alt="Avatar of DavidArmendariz"> DavidArmendariz
-			</a><br/>
-			David Armendáriz
+			<a href="https://github.com/Heric-Olier">
+				<img src="https://avatars.githubusercontent.com/u/17723079?s=72&u=740bf8845fc475c24ecbf2710bf977004bf71542&v=4" width="24" alt="Avatar of Heric-Olier"> Heric-Olier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Heric-Olier">Copy rank badge</a><br/>
+			Heric Olier
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mathsdev_">mathsdev_</a></td>
-		<td>Medellín, Colombia</td>
+		<td>@itglobers </td>
+		<td><a href="https://twitter.com/heric_olier">heric_olier</a></td>
+		<td>Medellin, Colombia</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/Javtor">
+				<img src="https://avatars.githubusercontent.com/u/8462127?s=72&u=bab92c1a6a76cc5730c21d7f44c2423d2759fa20&v=4" width="24" alt="Avatar of Javtor"> Javtor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Javtor">Copy rank badge</a><br/>
+			Javier Torres
+		</td>
+		<td>Llamaindex </td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>387</td>
 		<td>
-			<a href="https://github.com/andrscrrn">
-				<img src="https://avatars.githubusercontent.com/u/1095614?s=72&u=60368b4c6c82839af96083cda8de6f3846da6034&v=4" width="24" alt="Avatar of andrscrrn"> andrscrrn
-			</a><br/>
-			Andres Carreño
+			<a href="https://github.com/BalmungSan">
+				<img src="https://avatars.githubusercontent.com/u/11336950?s=72&u=9a38f661bd195d291f281ba75ed6779aadc9436a&v=4" width="24" alt="Avatar of BalmungSan"> BalmungSan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BalmungSan">Copy rank badge</a><br/>
+			Luis Miguel Mejía Suárez
 		</td>
-		<td>No Company</td>
+		<td>@47deg </td>
 		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/andreslon">
-				<img src="https://avatars.githubusercontent.com/u/2242679?s=72&u=ea679e30429907fd17231cbfa9bccd3d00e7eec3&v=4" width="24" alt="Avatar of andreslon"> andreslon
-			</a><br/>
-			Andrés Londoño
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Medellin, Colombia</td>
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/jgmurillo10">
-				<img src="https://avatars.githubusercontent.com/u/16781872?s=72&u=f53f4ba4221208d4a056fdc888573c064960d752&v=4" width="24" alt="Avatar of jgmurillo10"> jgmurillo10
-			</a><br/>
-			Juan Guillermo Murillo
-		</td>
-		<td>Snappr </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, CO</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>383</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/sjones6">
 				<img src="https://avatars.githubusercontent.com/u/12819256?s=72&u=26ea85b4c456c7be015d09fc3047c77be59046ce&v=4" width="24" alt="Avatar of sjones6"> sjones6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sjones6">Copy rank badge</a><br/>
 			Spencer Jones
 		</td>
 		<td>Medallo.dev </td>
@@ -5084,37 +5151,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>389</td>
 		<td>
-			<a href="https://github.com/edunickdev">
-				<img src="https://avatars.githubusercontent.com/u/114629663?s=72&u=32187c20e4c17cc6dade8e1af4b2c814ab3ebb59&v=4" width="24" alt="Avatar of edunickdev"> edunickdev
-			</a><br/>
-			El Código Recuerda
+			<a href="https://github.com/SGarcia710">
+				<img src="https://avatars.githubusercontent.com/u/36606545?s=72&u=175f4134ee82de89072ea6a92dd822609da65096&v=4" width="24" alt="Avatar of SGarcia710"> SGarcia710
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#SGarcia710">Copy rank badge</a><br/>
+			Sebastian Garcia
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá D.C.</td>
+		<td>Astound Commerce </td>
+		<td><a href="https://twitter.com/sebg96">sebg96</a></td>
+		<td>Chía, Colombia</td>
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/jamlfy">
-				<img src="https://avatars.githubusercontent.com/u/1652887?s=72&u=567ff4f31ba88a2f5bbd0e7c5cb8771cc04d0ad0&v=4" width="24" alt="Avatar of jamlfy"> jamlfy
-			</a><br/>
-			Jamlfy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>386</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/walis85300">
 				<img src="https://avatars.githubusercontent.com/u/4245976?s=72&u=4e7e5a5b8780f3b5c6c100e63622d8efede548ce&v=4" width="24" alt="Avatar of walis85300"> walis85300
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#walis85300">Copy rank badge</a><br/>
 			Eduardo Álvarez
 		</td>
 		<td>Leadsales </td>
@@ -5123,89 +5177,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/Factral">
-				<img src="https://avatars.githubusercontent.com/u/74687828?s=72&u=b67e3455e743be83b06b3a93542de2aaa3280e30&v=4" width="24" alt="Avatar of Factral"> Factral
-			</a><br/>
-			Fabian Perez *-*
-		</td>
-		<td>Universidad Industrial De Santander<br/></td>
-		<td><a href="https://twitter.com/fabianprzz">fabianprzz</a></td>
-		<td>Colombia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/georgehossa">
-				<img src="https://avatars.githubusercontent.com/u/3743350?s=72&u=a1ed064500c5d81b165db8c5d2413243fcd1776a&v=4" width="24" alt="Avatar of georgehossa"> georgehossa
-			</a><br/>
-			Jorge Ossa
-		</td>
-		<td>@globant </td>
-		<td><a href="https://twitter.com/georgehossa">georgehossa</a></td>
-		<td>Colombia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/maorjuela73">
-				<img src="https://avatars.githubusercontent.com/u/2160977?s=72&u=d551f9e4e02e5fd03e7271c72c74f1769e1f1bce&v=4" width="24" alt="Avatar of maorjuela73"> maorjuela73
-			</a><br/>
-			Miguel Orjuela
-		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/Javtor">
-				<img src="https://avatars.githubusercontent.com/u/8462127?s=72&u=bab92c1a6a76cc5730c21d7f44c2423d2759fa20&v=4" width="24" alt="Avatar of Javtor"> Javtor
-			</a><br/>
-			Javier Torres
-		</td>
-		<td>Llamaindex </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>67</td>
-	</tr>
-	<tr>
 		<td>391</td>
 		<td>
-			<a href="https://github.com/DanielRestrepoGaleano">
-				<img src="https://avatars.githubusercontent.com/u/95378480?s=72&u=837f047598e03793a5c2143ddc4a8d15e226d6b3&v=4" width="24" alt="Avatar of DanielRestrepoGaleano"> DanielRestrepoGaleano
-			</a><br/>
-			Daniel
+			<a href="https://github.com/karobotco">
+				<img src="https://avatars.githubusercontent.com/u/4212784?s=72&u=8023d7504846f6f3d0df82a2538ed56ae3c560cc&v=4" width="24" alt="Avatar of karobotco"> karobotco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#karobotco">Copy rank badge</a><br/>
+			karobot.co
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín/Colombia</td>
+		<td>Karobot </td>
+		<td><a href="https://twitter.com/karobotco">karobotco</a></td>
+		<td>Bogotá, Colombia</td>
 		<td>66</td>
 	</tr>
 	<tr>
 		<td>392</td>
 		<td>
-			<a href="https://github.com/Heric-Olier">
-				<img src="https://avatars.githubusercontent.com/u/17723079?s=72&u=740bf8845fc475c24ecbf2710bf977004bf71542&v=4" width="24" alt="Avatar of Heric-Olier"> Heric-Olier
-			</a><br/>
-			Heric Olier
+			<a href="https://github.com/Jonathanbees">
+				<img src="https://avatars.githubusercontent.com/u/78938901?s=72&u=8debde6eb0613b9fc03a2b0805385524d91b69db&v=4" width="24" alt="Avatar of Jonathanbees"> Jonathanbees
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jonathanbees">Copy rank badge</a><br/>
+			Jonathan Betancur
 		</td>
-		<td>@itglobers </td>
-		<td><a href="https://twitter.com/heric_olier">heric_olier</a></td>
-		<td>Medellin, Colombia</td>
+		<td>University @eafit </td>
+		<td>No Twitter Username</td>
+		<td>Medellín-Colombia</td>
 		<td>66</td>
 	</tr>
 	<tr>
 		<td>393</td>
 		<td>
+			<a href="https://github.com/julitogtu">
+				<img src="https://avatars.githubusercontent.com/u/5529389?s=72&u=301a04588c449742c8558bb3dca99513e86f751c&v=4" width="24" alt="Avatar of julitogtu"> julitogtu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#julitogtu">Copy rank badge</a><br/>
+			Julio Avellaneda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
 			<a href="https://github.com/Mauricio-KND">
 				<img src="https://avatars.githubusercontent.com/u/55145520?s=72&u=e7f7c96e8cb75c1638602b32745502a8432d5e1a&v=4" width="24" alt="Avatar of Mauricio-KND"> Mauricio-KND
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Mauricio-KND">Copy rank badge</a><br/>
 			Mauricio Drada Dávila
 		</td>
 		<td>Anyone Ai </td>
@@ -5214,11 +5229,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/Edimer">
+				<img src="https://avatars.githubusercontent.com/u/29940818?s=72&u=3c221549fc5a049df415f3edb0259e7d0f88834c&v=4" width="24" alt="Avatar of Edimer"> Edimer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Edimer">Copy rank badge</a><br/>
+			Edimer David Jaramillo
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/luisfsanchezp">
 				<img src="https://avatars.githubusercontent.com/u/43077713?s=72&u=97ab9e3c56aa97151097a22d4570169a8d41b3e5&v=4" width="24" alt="Avatar of luisfsanchezp"> luisfsanchezp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#luisfsanchezp">Copy rank badge</a><br/>
 			Luis Fernando Sanchez
 		</td>
 		<td>Sanxo Information Technologies S.a.s.<br/></td>
@@ -5227,11 +5255,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/bl00p1ng">
 				<img src="https://avatars.githubusercontent.com/u/31226489?s=72&u=2245a76d9565cd9d1aed74419a80d1380a11d9c9&v=4" width="24" alt="Avatar of bl00p1ng"> bl00p1ng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#bl00p1ng">Copy rank badge</a><br/>
 			Andrés López
 		</td>
 		<td>No Company</td>
@@ -5240,11 +5268,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/Rojas-Andres">
+				<img src="https://avatars.githubusercontent.com/u/47504973?s=72&u=f6a77c184351e47eb71265f6bf3fe7c7e35b40b8&v=4" width="24" alt="Avatar of Rojas-Andres"> Rojas-Andres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Rojas-Andres">Copy rank badge</a><br/>
+			Andres Rojas
+		</td>
+		<td>Rebus </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/cristian2213">
+				<img src="https://avatars.githubusercontent.com/u/55324229?s=72&u=92547e47d9fe22e366f3d9c3c754a0cd09a6e78e&v=4" width="24" alt="Avatar of cristian2213"> cristian2213
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cristian2213">Copy rank badge</a><br/>
+			Cristian Johany
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/georgehossa">
+				<img src="https://avatars.githubusercontent.com/u/3743350?s=72&u=a1ed064500c5d81b165db8c5d2413243fcd1776a&v=4" width="24" alt="Avatar of georgehossa"> georgehossa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#georgehossa">Copy rank badge</a><br/>
+			Jorge Ossa
+		</td>
+		<td>@globant </td>
+		<td><a href="https://twitter.com/georgehossa">georgehossa</a></td>
+		<td>Colombia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/dsalazars">
 				<img src="https://avatars.githubusercontent.com/u/107491344?s=72&u=94d1ef12ebfc074843d87273da832772013da32f&v=4" width="24" alt="Avatar of dsalazars"> dsalazars
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dsalazars">Copy rank badge</a><br/>
 			Duvan Salazar
 		</td>
 		<td>Topaz </td>
@@ -5253,50 +5320,63 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>402</td>
 		<td>
-			<a href="https://github.com/jameshell">
-				<img src="https://avatars.githubusercontent.com/u/16164671?s=72&u=997b94bc31f1b90b78873258a5004e73af1576be&v=4" width="24" alt="Avatar of jameshell"> jameshell
-			</a><br/>
-			James
+			<a href="https://github.com/savq">
+				<img src="https://avatars.githubusercontent.com/u/30883030?s=72&u=e5916408360dfbf22942b356a6315b8805c29aa1&v=4" width="24" alt="Avatar of savq"> savq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#savq">Copy rank badge</a><br/>
+			Sergio A. Vargas
 		</td>
-		<td>Tech9 </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>403</td>
 		<td>
-			<a href="https://github.com/Andres-debug">
-				<img src="https://avatars.githubusercontent.com/u/60768402?s=72&u=71a7198d3cfa163f777db86e1c2c513755e29428&v=4" width="24" alt="Avatar of Andres-debug"> Andres-debug
-			</a><br/>
-			Andres Diaz
+			<a href="https://github.com/scyth3-c">
+				<img src="https://avatars.githubusercontent.com/u/52190352?s=72&u=aeedebc11d0afb833033150ecb643adf3a139917&v=4" width="24" alt="Avatar of scyth3-c"> scyth3-c
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#scyth3-c">Copy rank badge</a><br/>
+			Kevin Bohorquez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td>@vermellcc </td>
+		<td><a href="https://twitter.com/scyth3_c">scyth3_c</a></td>
+		<td>Colombia,  Bogota</td>
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>404</td>
 		<td>
-			<a href="https://github.com/cdmunoz">
-				<img src="https://avatars.githubusercontent.com/u/1638437?s=72&u=050b5c41886b6a1981b964d14ca5b39256405493&v=4" width="24" alt="Avatar of cdmunoz"> cdmunoz
-			</a><br/>
-			Carlos Daniel
+			<a href="https://github.com/tomasr">
+				<img src="https://avatars.githubusercontent.com/u/16179?s=72&v=4" width="24" alt="Avatar of tomasr"> tomasr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#tomasr">Copy rank badge</a><br/>
+			Tomas Restrepo
 		</td>
-		<td>@kompas-mx </td>
-		<td><a href="https://twitter.com/cdmunozi">cdmunozi</a></td>
-		<td>Medellín</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/stivenramireza">
+				<img src="https://avatars.githubusercontent.com/u/31974084?s=72&u=a9130af1688cf9f4e9faca68276576afa91fa248&v=4" width="24" alt="Avatar of stivenramireza"> stivenramireza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#stivenramireza">Copy rank badge</a><br/>
+			Stiven Ramírez Arango
+		</td>
+		<td>Tyba Por Credicorp Capital<br/></td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Antioquia, Colombia</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/Santiagorg10">
 				<img src="https://avatars.githubusercontent.com/u/228542762?s=72&u=bb37c6963e64439d12641b258a016b8193910a76&v=4" width="24" alt="Avatar of Santiagorg10"> Santiagorg10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Santiagorg10">Copy rank badge</a><br/>
 			Santiago Ramirez Gonzalez
 		</td>
 		<td>Via Terrestre </td>
@@ -5305,102 +5385,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/czabala847">
-				<img src="https://avatars.githubusercontent.com/u/26287588?s=72&u=ea4dbab1a33c0a4f8b1dfe25a9d5afdf891d7af5&v=4" width="24" alt="Avatar of czabala847"> czabala847
-			</a><br/>
-			Carlos Zabala Roqueme
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/juanluisbaptiste">
-				<img src="https://avatars.githubusercontent.com/u/2113585?s=72&u=b733c9c40825192669a06c0661eff0a4abea18a0&v=4" width="24" alt="Avatar of juanluisbaptiste"> juanluisbaptiste
-			</a><br/>
-			Juan Luis Baptiste
-		</td>
-		<td>Juanbaptiste.tech </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/jdariasl">
-				<img src="https://avatars.githubusercontent.com/u/7811453?s=72&v=4" width="24" alt="Avatar of jdariasl"> jdariasl
-			</a><br/>
-			Julián D. Arias-Londoño
-		</td>
-		<td>Universidad De Antioquia </td>
-		<td><a href="https://twitter.com/judaarlo">judaarlo</a></td>
-		<td>Medellín, Colombia.</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/equiman">
-				<img src="https://avatars.githubusercontent.com/u/933393?s=72&u=470f0a8e2d969de71a959860f2cd9906db01b107&v=4" width="24" alt="Avatar of equiman"> equiman
-			</a><br/>
-			Camilo Martinez
-		</td>
-		<td>@deinsoftware </td>
-		<td><a href="https://twitter.com/equiman">equiman</a></td>
-		<td>Medellin - Colombia</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/scyth3-c">
-				<img src="https://avatars.githubusercontent.com/u/52190352?s=72&u=aeedebc11d0afb833033150ecb643adf3a139917&v=4" width="24" alt="Avatar of scyth3-c"> scyth3-c
-			</a><br/>
-			Kevin Bohorquez
-		</td>
-		<td>@vermellcc </td>
-		<td><a href="https://twitter.com/scyth3_c">scyth3_c</a></td>
-		<td>Colombia,  Bogota</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/tomasr">
-				<img src="https://avatars.githubusercontent.com/u/16179?s=72&v=4" width="24" alt="Avatar of tomasr"> tomasr
-			</a><br/>
-			Tomas Restrepo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>61</td>
-	</tr>
-	<tr>
 		<td>407</td>
 		<td>
-			<a href="https://github.com/stivenramireza">
-				<img src="https://avatars.githubusercontent.com/u/31974084?s=72&u=2451c71950ae3a99666e9210e5090349d6c3e741&v=4" width="24" alt="Avatar of stivenramireza"> stivenramireza
-			</a><br/>
-			Stiven Ramírez Arango
+			<a href="https://github.com/nicoavilan">
+				<img src="https://avatars.githubusercontent.com/u/46981195?s=72&u=5f2d432a640425765cd54758cbe965dc59357c1d&v=4" width="24" alt="Avatar of nicoavilan"> nicoavilan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nicoavilan">Copy rank badge</a><br/>
+			Nicolás Avilán V.
 		</td>
-		<td>Tyba Por Credicorp Capital<br/></td>
+		<td>Profesor Principal. Escuela De<br/>Ciencias<br/>E<br/>Ingeniería.<br/>Universidad<br/>Del<br/>Rosario<br/></td>
 		<td>No Twitter Username</td>
-		<td>Medellín, Antioquia, Colombia</td>
-		<td>61</td>
+		<td>Bogotá</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>408</td>
 		<td>
 			<a href="https://github.com/cristianblar">
 				<img src="https://avatars.githubusercontent.com/u/68017807?s=72&u=ae7ed2d88985dacf482c596fb552b46022e3cf7a&v=4" width="24" alt="Avatar of cristianblar"> cristianblar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cristianblar">Copy rank badge</a><br/>
 			Cristian Blandon
 		</td>
 		<td>No Company</td>
@@ -5411,14 +5413,14 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>409</td>
 		<td>
-			<a href="https://github.com/BROC95">
-				<img src="https://avatars.githubusercontent.com/u/43561128?s=72&v=4" width="24" alt="Avatar of BROC95"> BROC95
-			</a><br/>
-			Breyner Ocampo Cárdenas  
+			<a href="https://github.com/Taurien">
+				<img src="https://avatars.githubusercontent.com/u/87723557?s=72&u=51a28fdf888b78cd3f0fb35d723bdd5f5b0cf855&v=4" width="24" alt="Avatar of Taurien"> Taurien
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Taurien">Copy rank badge</a><br/>
+			Michel Cruz
 		</td>
-		<td>No Company</td>
+		<td>Teker </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Cali, Colombia</td>
 		<td>61</td>
 	</tr>
 	<tr>
@@ -5426,7 +5428,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/Bhalut">
 				<img src="https://avatars.githubusercontent.com/u/28445496?s=72&u=52a4f9e824bac8909a964f348bcd97ae9b8b7d26&v=4" width="24" alt="Avatar of Bhalut"> Bhalut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Bhalut">Copy rank badge</a><br/>
 			Abdel Mejia
 		</td>
 		<td>@polygon-us  </td>
@@ -5437,74 +5439,74 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>411</td>
 		<td>
-			<a href="https://github.com/aanzolaavila">
-				<img src="https://avatars.githubusercontent.com/u/16315577?s=72&u=4dfa9f893b6746dff98c636f689716a011820032&v=4" width="24" alt="Avatar of aanzolaavila"> aanzolaavila
-			</a><br/>
-			Alejandro Anzola Avila
+			<a href="https://github.com/cdmunoz">
+				<img src="https://avatars.githubusercontent.com/u/1638437?s=72&u=050b5c41886b6a1981b964d14ca5b39256405493&v=4" width="24" alt="Avatar of cdmunoz"> cdmunoz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cdmunoz">Copy rank badge</a><br/>
+			Carlos Daniel
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aanzolaavila">aanzolaavila</a></td>
-		<td>Bogota, Colombia</td>
-		<td>61</td>
+		<td>@kompas-mx </td>
+		<td><a href="https://twitter.com/cdmunozi">cdmunozi</a></td>
+		<td>Medellín</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>412</td>
 		<td>
-			<a href="https://github.com/AntonioEstela">
-				<img src="https://avatars.githubusercontent.com/u/40125100?s=72&u=cba4e9cf3fd73e7b04967a22c4a54122b3dede55&v=4" width="24" alt="Avatar of AntonioEstela"> AntonioEstela
-			</a><br/>
-			Antonio Estela
+			<a href="https://github.com/DanielRestrepoGaleano">
+				<img src="https://avatars.githubusercontent.com/u/95378480?s=72&u=837f047598e03793a5c2143ddc4a8d15e226d6b3&v=4" width="24" alt="Avatar of DanielRestrepoGaleano"> DanielRestrepoGaleano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DanielRestrepoGaleano">Copy rank badge</a><br/>
+			Daniel
 		</td>
-		<td>Globant </td>
-		<td><a href="https://twitter.com/Antonio__Estela">Antonio__Estela</a></td>
-		<td>Cali, Colombia</td>
-		<td>61</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín/Colombia</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>413</td>
 		<td>
-			<a href="https://github.com/Oswe-gif">
-				<img src="https://avatars.githubusercontent.com/u/84868357?s=72&u=3a3800009dda64bcab50db7550ebaf2c89298bde&v=4" width="24" alt="Avatar of Oswe-gif"> Oswe-gif
-			</a><br/>
-			Jhoan Oswaldo Ome Vega
+			<a href="https://github.com/andreslon">
+				<img src="https://avatars.githubusercontent.com/u/2242679?s=72&u=ea679e30429907fd17231cbfa9bccd3d00e7eec3&v=4" width="24" alt="Avatar of andreslon"> andreslon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andreslon">Copy rank badge</a><br/>
+			Andrés Londoño
 		</td>
-		<td>Universidad De La Sabana<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>Colombia</td>
 		<td>60</td>
 	</tr>
 	<tr>
 		<td>414</td>
 		<td>
-			<a href="https://github.com/hdtoledo">
-				<img src="https://avatars.githubusercontent.com/u/17147509?s=72&u=a012ea0e2c16f4490b600af83cea8d480f50322f&v=4" width="24" alt="Avatar of hdtoledo"> hdtoledo
-			</a><br/>
-			hdtoledo
+			<a href="https://github.com/juanluisbaptiste">
+				<img src="https://avatars.githubusercontent.com/u/2113585?s=72&u=b733c9c40825192669a06c0661eff0a4abea18a0&v=4" width="24" alt="Avatar of juanluisbaptiste"> juanluisbaptiste
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanluisbaptiste">Copy rank badge</a><br/>
+			Juan Luis Baptiste
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hdtoledo">hdtoledo</a></td>
-		<td>Garzón - Huila - Colombia</td>
+		<td>Juanbaptiste.tech </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
 		<td>60</td>
 	</tr>
 	<tr>
 		<td>415</td>
 		<td>
-			<a href="https://github.com/gelvezz23">
-				<img src="https://avatars.githubusercontent.com/u/8592355?s=72&u=2efa483037f9eba4f59698a7bb84703910cf6c63&v=4" width="24" alt="Avatar of gelvezz23"> gelvezz23
-			</a><br/>
-			CarlosG
+			<a href="https://github.com/AntonioEstela">
+				<img src="https://avatars.githubusercontent.com/u/40125100?s=72&u=cba4e9cf3fd73e7b04967a22c4a54122b3dede55&v=4" width="24" alt="Avatar of AntonioEstela"> AntonioEstela
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AntonioEstela">Copy rank badge</a><br/>
+			Antonio Estela
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/23_mao">23_mao</a></td>
-		<td>Colombia</td>
-		<td>59</td>
+		<td>Globant </td>
+		<td><a href="https://twitter.com/Antonio__Estela">Antonio__Estela</a></td>
+		<td>Cali, Colombia</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>416</td>
 		<td>
 			<a href="https://github.com/DannyLuna17">
 				<img src="https://avatars.githubusercontent.com/u/69711934?s=72&u=9057fcf3f3a51bd6314893794294615a1858e2b0&v=4" width="24" alt="Avatar of DannyLuna17"> DannyLuna17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DannyLuna17">Copy rank badge</a><br/>
 			Danny Luna
 		</td>
 		<td>No Company</td>
@@ -5515,35 +5517,48 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>417</td>
 		<td>
-			<a href="https://github.com/SGarcia710">
-				<img src="https://avatars.githubusercontent.com/u/36606545?s=72&u=175f4134ee82de89072ea6a92dd822609da65096&v=4" width="24" alt="Avatar of SGarcia710"> SGarcia710
-			</a><br/>
-			Sebastian Garcia
+			<a href="https://github.com/matheo">
+				<img src="https://avatars.githubusercontent.com/u/260185?s=72&u=8e3a6930953eb8eba239261b5fcbb9c04ee84aba&v=4" width="24" alt="Avatar of matheo"> matheo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#matheo">Copy rank badge</a><br/>
+			Mateo Tibaquirá
 		</td>
-		<td>Astound Commerce </td>
-		<td><a href="https://twitter.com/sebg96">sebg96</a></td>
-		<td>Chía, Colombia</td>
+		<td>@ngdyn </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>58</td>
 	</tr>
 	<tr>
 		<td>418</td>
 		<td>
-			<a href="https://github.com/aldrinleal">
-				<img src="https://avatars.githubusercontent.com/u/253109?s=72&u=6b1a5d1a3736f3a2114fba029fd9cc83c2f3fafb&v=4" width="24" alt="Avatar of aldrinleal"> aldrinleal
-			</a><br/>
-			Aldrin Leal
+			<a href="https://github.com/sguerrero-dev">
+				<img src="https://avatars.githubusercontent.com/u/233105728?s=72&u=db3ea5bcd3593f0b13bb02d6b55a4184f950c1f6&v=4" width="24" alt="Avatar of sguerrero-dev"> sguerrero-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sguerrero-dev">Copy rank badge</a><br/>
+			Santiago Guerrero Jimenez
 		</td>
-		<td>@ingenieux  </td>
-		<td><a href="https://twitter.com/aldrinleal">aldrinleal</a></td>
-		<td>Envigado, Colombia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>58</td>
 	</tr>
 	<tr>
 		<td>419</td>
 		<td>
+			<a href="https://github.com/dsolartec">
+				<img src="https://avatars.githubusercontent.com/u/66956234?s=72&u=f668957a95035703af1510ba63fcf4c931ce6398&v=4" width="24" alt="Avatar of dsolartec"> dsolartec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dsolartec">Copy rank badge</a><br/>
+			Daniel Solarte
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
 			<a href="https://github.com/Johndev85">
 				<img src="https://avatars.githubusercontent.com/u/53975214?s=72&u=56715035c162b90b7bee0f182fbcbadbef125d9c&v=4" width="24" alt="Avatar of Johndev85"> Johndev85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Johndev85">Copy rank badge</a><br/>
 			John B
 		</td>
 		<td>@mercadolibre </td>
@@ -5552,120 +5567,107 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/majomaken">
-				<img src="https://avatars.githubusercontent.com/u/40671304?s=72&u=ced96ff1f890c43dfefd46a04ab83fb47620d44c&v=4" width="24" alt="Avatar of majomaken"> majomaken
-			</a><br/>
-			Miguel Jimenez 
-		</td>
-		<td>Molt </td>
-		<td><a href="https://twitter.com/majomakendev">majomakendev</a></td>
-		<td>Colombia</td>
-		<td>58</td>
-	</tr>
-	<tr>
 		<td>421</td>
 		<td>
-			<a href="https://github.com/NELSONLUENGAS">
-				<img src="https://avatars.githubusercontent.com/u/90053867?s=72&u=d1e53e4ab89dc595a7c84921246201c546560af1&v=4" width="24" alt="Avatar of NELSONLUENGAS"> NELSONLUENGAS
-			</a><br/>
-			NELSON ANDRES LUENGAS SILVA 
+			<a href="https://github.com/aanzolaavila">
+				<img src="https://avatars.githubusercontent.com/u/16315577?s=72&u=4dfa9f893b6746dff98c636f689716a011820032&v=4" width="24" alt="Avatar of aanzolaavila"> aanzolaavila
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#aanzolaavila">Copy rank badge</a><br/>
+			Alejandro Anzola Avila
 		</td>
-		<td>Technology </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>57</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aanzolaavila">aanzolaavila</a></td>
+		<td>Bogota, Colombia</td>
+		<td>58</td>
 	</tr>
 	<tr>
 		<td>422</td>
 		<td>
-			<a href="https://github.com/alesalazard">
-				<img src="https://avatars.githubusercontent.com/u/89657198?s=72&u=64c9f7c9e3979e6ba4a7c18be9cd6b5f8bfd505b&v=4" width="24" alt="Avatar of alesalazard"> alesalazard
-			</a><br/>
-			Alexandra Salazar
+			<a href="https://github.com/h3ct0rjs">
+				<img src="https://avatars.githubusercontent.com/u/4080895?s=72&u=956279057ee0702f2d490c4d503a782742e03660&v=4" width="24" alt="Avatar of h3ct0rjs"> h3ct0rjs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#h3ct0rjs">Copy rank badge</a><br/>
+			Héctor F. Jiménez. S
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>@godaddy @gdcorp-engineering </td>
+		<td><a href="https://twitter.com/c1b3rh4ck">c1b3rh4ck</a></td>
 		<td>Colombia</td>
-		<td>56</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>423</td>
 		<td>
-			<a href="https://github.com/dsolartec">
-				<img src="https://avatars.githubusercontent.com/u/66956234?s=72&u=f668957a95035703af1510ba63fcf4c931ce6398&v=4" width="24" alt="Avatar of dsolartec"> dsolartec
-			</a><br/>
-			Daniel Solarte
+			<a href="https://github.com/equiman">
+				<img src="https://avatars.githubusercontent.com/u/933393?s=72&u=470f0a8e2d969de71a959860f2cd9906db01b107&v=4" width="24" alt="Avatar of equiman"> equiman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#equiman">Copy rank badge</a><br/>
+			Camilo Martinez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>56</td>
+		<td>@deinsoftware </td>
+		<td><a href="https://twitter.com/equiman">equiman</a></td>
+		<td>Medellin - Colombia</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>424</td>
 		<td>
-			<a href="https://github.com/andresporras3423">
-				<img src="https://avatars.githubusercontent.com/u/36645207?s=72&u=ecaa7422f495a2fcca17b606bcae1b059c922140&v=4" width="24" alt="Avatar of andresporras3423"> andresporras3423
-			</a><br/>
-			Oscar Andrés Russi Porras
+			<a href="https://github.com/angelbotto">
+				<img src="https://avatars.githubusercontent.com/u/266151?s=72&u=3bd740fbd4db87cd5aded1bcb421f9e1dc5945ed&v=4" width="24" alt="Avatar of angelbotto"> angelbotto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#angelbotto">Copy rank badge</a><br/>
+			Angel Celis Botto
 		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
+		<td>@liftitapp & @beuapp <br/></td>
+		<td><a href="https://twitter.com/bottico">bottico</a></td>
+		<td>Colombia</td>
 		<td>56</td>
 	</tr>
 	<tr>
 		<td>425</td>
 		<td>
-			<a href="https://github.com/jvelezpo">
-				<img src="https://avatars.githubusercontent.com/u/1050904?s=72&v=4" width="24" alt="Avatar of jvelezpo"> jvelezpo
-			</a><br/>
-			Juan Sebastian velez Posada
+			<a href="https://github.com/Factral">
+				<img src="https://avatars.githubusercontent.com/u/74687828?s=72&u=b67e3455e743be83b06b3a93542de2aaa3280e30&v=4" width="24" alt="Avatar of Factral"> Factral
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Factral">Copy rank badge</a><br/>
+			Fabian Perez *-*
 		</td>
-		<td>Rms-team </td>
-		<td>No Twitter Username</td>
-		<td>Medellin-Colombia</td>
+		<td>Universidad Industrial De Santander<br/></td>
+		<td><a href="https://twitter.com/fabianprzz">fabianprzz</a></td>
+		<td>Colombia</td>
 		<td>56</td>
 	</tr>
 	<tr>
 		<td>426</td>
 		<td>
-			<a href="https://github.com/dilanEspindola">
-				<img src="https://avatars.githubusercontent.com/u/85508235?s=72&u=e50a34fda5d688a4dcdaa709a932377b5e61e6cd&v=4" width="24" alt="Avatar of dilanEspindola"> dilanEspindola
-			</a><br/>
-			Siesta
+			<a href="https://github.com/kenderb">
+				<img src="https://avatars.githubusercontent.com/u/40863532?s=72&u=b8acc3d26f42e5095e3bd365c42173df38027ebd&v=4" width="24" alt="Avatar of kenderb"> kenderb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kenderb">Copy rank badge</a><br/>
+			Kender Bolivar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>colombia</td>
+		<td>Colombia</td>
 		<td>56</td>
 	</tr>
 	<tr>
 		<td>427</td>
 		<td>
-			<a href="https://github.com/kenderb">
-				<img src="https://avatars.githubusercontent.com/u/40863532?s=72&u=ba9cd4644870a9f2613cc2f7e29661c4183247bb&v=4" width="24" alt="Avatar of kenderb"> kenderb
-			</a><br/>
-			Kender Bolivar
+			<a href="https://github.com/yowl">
+				<img src="https://avatars.githubusercontent.com/u/2720041?s=72&u=26f05259d47d7245cf1aba6f56eec278944659a7&v=4" width="24" alt="Avatar of yowl"> yowl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yowl">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/KBTarts">KBTarts</a></td>
-		<td>Colombia</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
 		<td>56</td>
 	</tr>
 	<tr>
 		<td>428</td>
 		<td>
-			<a href="https://github.com/BrayanTorres2">
-				<img src="https://avatars.githubusercontent.com/u/47356178?s=72&u=8ec953cdca99ef059c53c64cede86cca5c48efd0&v=4" width="24" alt="Avatar of BrayanTorres2"> BrayanTorres2
-			</a><br/>
-			Brayan Torres
+			<a href="https://github.com/bithavoc">
+				<img src="https://avatars.githubusercontent.com/u/219289?s=72&u=55e2f1963f237672ffa5f124cd7283c543eddf62&v=4" width="24" alt="Avatar of bithavoc"> bithavoc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#bithavoc">Copy rank badge</a><br/>
+			Johan Hernandez
 		</td>
-		<td>Universidad Ean </td>
-		<td><a href="https://twitter.com/brayantorres44">brayantorres44</a></td>
-		<td>Bogotá</td>
+		<td>Bithavoc.io </td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
 		<td>55</td>
 	</tr>
 	<tr>
@@ -5673,7 +5675,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/orimarselasirg">
 				<img src="https://avatars.githubusercontent.com/u/84402210?s=72&u=611124a57000e4f6136f0dbc6f3088533e142d3b&v=4" width="24" alt="Avatar of orimarselasirg"> orimarselasirg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#orimarselasirg">Copy rank badge</a><br/>
 			Rami Grisales
 		</td>
 		<td>Opinno </td>
@@ -5686,7 +5688,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/jpvillaisaza">
 				<img src="https://avatars.githubusercontent.com/u/584947?s=72&u=0a97815fa09f828b7687df25a5e709b8e2f240f0&v=4" width="24" alt="Avatar of jpvillaisaza"> jpvillaisaza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jpvillaisaza">Copy rank badge</a><br/>
 			Juan Pedro Villa Isaza
 		</td>
 		<td>@stackbuilders </td>
@@ -5699,7 +5701,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/maysalazar16">
 				<img src="https://avatars.githubusercontent.com/u/71298101?s=72&u=2992cb1b66be3bb886cf859c5a8b1a99564303b8&v=4" width="24" alt="Avatar of maysalazar16"> maysalazar16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#maysalazar16">Copy rank badge</a><br/>
 			Mairon_Salazar
 		</td>
 		<td>Sena </td>
@@ -5710,87 +5712,48 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>432</td>
 		<td>
-			<a href="https://github.com/isabelyb">
-				<img src="https://avatars.githubusercontent.com/u/63390283?s=72&u=b075b03c8aceaa50bb3396cd7c6245500c26986a&v=4" width="24" alt="Avatar of isabelyb"> isabelyb
-			</a><br/>
-			Isabel Yepes
+			<a href="https://github.com/davoshack">
+				<img src="https://avatars.githubusercontent.com/u/9823391?s=72&u=b6869da883dd88277f1b8ad6e3a54842d251add1&v=4" width="24" alt="Avatar of davoshack"> davoshack
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davoshack">Copy rank badge</a><br/>
+			Juan D Hernández G
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/isa_yepes">isa_yepes</a></td>
-		<td>Colombia</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
 		<td>55</td>
 	</tr>
 	<tr>
 		<td>433</td>
 		<td>
-			<a href="https://github.com/jubenitezg">
-				<img src="https://avatars.githubusercontent.com/u/37056971?s=72&u=803de5342d3e3888532f0d72d3cea7c138a066c6&v=4" width="24" alt="Avatar of jubenitezg"> jubenitezg
-			</a><br/>
-			Julian Benitez Gutierrez
+			<a href="https://github.com/panchicore">
+				<img src="https://avatars.githubusercontent.com/u/108517?s=72&v=4" width="24" alt="Avatar of panchicore"> panchicore
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#panchicore">Copy rank badge</a><br/>
+			Luis Pallares
 		</td>
-		<td>Epam </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá - Colombia</td>
+		<td>Validmind.ai, Outputs.tech, United Nations<br/>World<br/>Food<br/>Programme<br/></td>
+		<td><a href="https://twitter.com/panchicore">panchicore</a></td>
+		<td>Colombia</td>
 		<td>55</td>
 	</tr>
 	<tr>
 		<td>434</td>
 		<td>
-			<a href="https://github.com/matheo">
-				<img src="https://avatars.githubusercontent.com/u/260185?s=72&u=8e3a6930953eb8eba239261b5fcbb9c04ee84aba&v=4" width="24" alt="Avatar of matheo"> matheo
-			</a><br/>
-			Mateo Tibaquirá
+			<a href="https://github.com/maorjuela73">
+				<img src="https://avatars.githubusercontent.com/u/2160977?s=72&u=d551f9e4e02e5fd03e7271c72c74f1769e1f1bce&v=4" width="24" alt="Avatar of maorjuela73"> maorjuela73
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#maorjuela73">Copy rank badge</a><br/>
+			Miguel Orjuela
 		</td>
-		<td>@ngdyn </td>
+		<td>Universidad De Los Andes<br/></td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Bogotá, Colombia</td>
 		<td>54</td>
 	</tr>
 	<tr>
 		<td>435</td>
 		<td>
-			<a href="https://github.com/Jonathan1322">
-				<img src="https://avatars.githubusercontent.com/u/234003261?s=72&u=2efce6a6d45e72ab2b20546232ff1158befb99aa&v=4" width="24" alt="Avatar of Jonathan1322"> Jonathan1322
-			</a><br/>
-			Jonathan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/bithavoc">
-				<img src="https://avatars.githubusercontent.com/u/219289?s=72&u=55e2f1963f237672ffa5f124cd7283c543eddf62&v=4" width="24" alt="Avatar of bithavoc"> bithavoc
-			</a><br/>
-			Johan Hernandez
-		</td>
-		<td>Bithavoc.io </td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/moicanbas">
-				<img src="https://avatars.githubusercontent.com/u/109709947?s=72&u=262026eca3fcff856de9a77e965f2cdb3176cddc&v=4" width="24" alt="Avatar of moicanbas"> moicanbas
-			</a><br/>
-			Moisés Cantillo
-		</td>
-		<td>Riwi </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
 			<a href="https://github.com/ahenaor">
 				<img src="https://avatars.githubusercontent.com/u/56163429?s=72&u=3a95961ba60bbf810c0a8347820af89fe2edda4b&v=4" width="24" alt="Avatar of ahenaor"> ahenaor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ahenaor">Copy rank badge</a><br/>
 			Alejandro Henao Ruiz
 		</td>
 		<td>Bancolombia </td>
@@ -5799,11 +5762,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/Andres-debug">
+				<img src="https://avatars.githubusercontent.com/u/60768402?s=72&u=71a7198d3cfa163f777db86e1c2c513755e29428&v=4" width="24" alt="Avatar of Andres-debug"> Andres-debug
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Andres-debug">Copy rank badge</a><br/>
+			Andres Diaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/alesalazard">
+				<img src="https://avatars.githubusercontent.com/u/89657198?s=72&u=64c9f7c9e3979e6ba4a7c18be9cd6b5f8bfd505b&v=4" width="24" alt="Avatar of alesalazard"> alesalazard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alesalazard">Copy rank badge</a><br/>
+			Alexandra Salazar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/LaDuquesaDev">
 				<img src="https://avatars.githubusercontent.com/u/50048833?s=72&u=17b0715545255d170496b68421c2a027be1dfb2c&v=4" width="24" alt="Avatar of LaDuquesaDev"> LaDuquesaDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LaDuquesaDev">Copy rank badge</a><br/>
 			Yulimar Duque de Alba
 		</td>
 		<td>No Company</td>
@@ -5812,24 +5801,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/alexyslozada">
+				<img src="https://avatars.githubusercontent.com/u/2720556?s=72&u=14fee2c99bad25516dda2ab34dad887e12488ded&v=4" width="24" alt="Avatar of alexyslozada"> alexyslozada
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alexyslozada">Copy rank badge</a><br/>
+			Alexys Lozada
+		</td>
+		<td>@edteamlat </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>51</td>
+	</tr>
+	<tr>
 		<td>440</td>
 		<td>
-			<a href="https://github.com/yomar-dev">
-				<img src="https://avatars.githubusercontent.com/u/30967483?s=72&u=0e60849f5a3a2ffe851daa6f3629398bff9ea3a8&v=4" width="24" alt="Avatar of yomar-dev"> yomar-dev
-			</a><br/>
-			Yomar Miranda
+			<a href="https://github.com/BrayanTorres2">
+				<img src="https://avatars.githubusercontent.com/u/47356178?s=72&u=8ec953cdca99ef059c53c64cede86cca5c48efd0&v=4" width="24" alt="Avatar of BrayanTorres2"> BrayanTorres2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BrayanTorres2">Copy rank badge</a><br/>
+			Brayan Torres
 		</td>
-		<td>@merlinapp  </td>
-		<td><a href="https://twitter.com/yomar_dev">yomar_dev</a></td>
-		<td>Bogotá DC, Colombia</td>
-		<td>52</td>
+		<td>Universidad Ean </td>
+		<td><a href="https://twitter.com/brayantorres44">brayantorres44</a></td>
+		<td>Bogotá</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>441</td>
 		<td>
 			<a href="https://github.com/carlosmart626">
 				<img src="https://avatars.githubusercontent.com/u/4366727?s=72&u=5fe5f5ed7878bef840a3dd6c494eb5976d25a314&v=4" width="24" alt="Avatar of carlosmart626"> carlosmart626
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carlosmart626">Copy rank badge</a><br/>
 			Carlos Martinez
 		</td>
 		<td>@payjoy </td>
@@ -5840,22 +5842,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>442</td>
 		<td>
-			<a href="https://github.com/Krank2me">
-				<img src="https://avatars.githubusercontent.com/u/9942486?s=72&u=73c72e59ac97be0394f36821050cfbd8a8050e1a&v=4" width="24" alt="Avatar of Krank2me"> Krank2me
-			</a><br/>
-			Frank Alejo Betancur
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/krank2me">krank2me</a></td>
-		<td>Medellín - Colombia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
 			<a href="https://github.com/JuniorPacheco">
 				<img src="https://avatars.githubusercontent.com/u/92345860?s=72&u=c628d2c0bb44d274d34c0071ba9c53b6b5014389&v=4" width="24" alt="Avatar of JuniorPacheco"> JuniorPacheco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuniorPacheco">Copy rank badge</a><br/>
 			Junior Fabián Pacheco Moyano
 		</td>
 		<td>No Company</td>
@@ -5864,11 +5853,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/majomaken">
+				<img src="https://avatars.githubusercontent.com/u/40671304?s=72&u=ced96ff1f890c43dfefd46a04ab83fb47620d44c&v=4" width="24" alt="Avatar of majomaken"> majomaken
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#majomaken">Copy rank badge</a><br/>
+			Miguel Jimenez 
+		</td>
+		<td>Molt </td>
+		<td><a href="https://twitter.com/majomakendev">majomakendev</a></td>
+		<td>Colombia</td>
+		<td>50</td>
+	</tr>
+	<tr>
 		<td>444</td>
 		<td>
 			<a href="https://github.com/mayrascript">
 				<img src="https://avatars.githubusercontent.com/u/15218336?s=72&u=26322984654c4342c9513aedd81a934dafe933e6&v=4" width="24" alt="Avatar of mayrascript"> mayrascript
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mayrascript">Copy rank badge</a><br/>
 			Mayra Alejandra Rodriguez Maldonado
 		</td>
 		<td>@rovistack  </td>
@@ -5881,7 +5883,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/alejolo311">
 				<img src="https://avatars.githubusercontent.com/u/55110006?s=72&u=07012bd42f0f12bcf186dda7ca1b57033e1d46f2&v=4" width="24" alt="Avatar of alejolo311"> alejolo311
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alejolo311">Copy rank badge</a><br/>
 			Alejo López
 		</td>
 		<td>Galgo </td>
@@ -5892,9 +5894,22 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>446</td>
 		<td>
+			<a href="https://github.com/awwester">
+				<img src="https://avatars.githubusercontent.com/u/6151877?s=72&u=f3d1751e8b182f69ce844d3653661ac804a6e12e&v=4" width="24" alt="Avatar of awwester"> awwester
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#awwester">Copy rank badge</a><br/>
+			Adam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Armenia, Colombia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
 			<a href="https://github.com/PatoProgramador">
 				<img src="https://avatars.githubusercontent.com/u/72218702?s=72&u=e3f15040522450439f38696369aed3dedc922d01&v=4" width="24" alt="Avatar of PatoProgramador"> PatoProgramador
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#PatoProgramador">Copy rank badge</a><br/>
 			Kevin Patiño
 		</td>
 		<td>Spidersecurity </td>
@@ -5903,24 +5918,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/davoshack">
-				<img src="https://avatars.githubusercontent.com/u/9823391?s=72&u=b6869da883dd88277f1b8ad6e3a54842d251add1&v=4" width="24" alt="Avatar of davoshack"> davoshack
-			</a><br/>
-			Juan D Hernández G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>49</td>
-	</tr>
-	<tr>
 		<td>448</td>
 		<td>
 			<a href="https://github.com/Alejandro-sin">
 				<img src="https://avatars.githubusercontent.com/u/56524545?s=72&u=412c1d903989c46a875e6655c2d82b3ab72bdc69&v=4" width="24" alt="Avatar of Alejandro-sin"> Alejandro-sin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Alejandro-sin">Copy rank badge</a><br/>
 			Alejandro Giraldo Londoño
 		</td>
 		<td>No Company</td>
@@ -5931,74 +5933,61 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>449</td>
 		<td>
-			<a href="https://github.com/DanielSuarezDev">
-				<img src="https://avatars.githubusercontent.com/u/65202664?s=72&u=89e9ec023a70de95704cbeee5e50cfa2f96ff692&v=4" width="24" alt="Avatar of DanielSuarezDev"> DanielSuarezDev
-			</a><br/>
-			DanielSuarez
+			<a href="https://github.com/Krank2me">
+				<img src="https://avatars.githubusercontent.com/u/9942486?s=72&u=73c72e59ac97be0394f36821050cfbd8a8050e1a&v=4" width="24" alt="Avatar of Krank2me"> Krank2me
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Krank2me">Copy rank badge</a><br/>
+			Frank Alejo Betancur
 		</td>
-		<td>@pawfolio </td>
-		<td><a href="https://twitter.com/DanielSuarezDev">DanielSuarezDev</a></td>
-		<td>Bogotá , Colombia</td>
-		<td>49</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/krank2me">krank2me</a></td>
+		<td>Medellín - Colombia</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>450</td>
 		<td>
-			<a href="https://github.com/h3ct0rjs">
-				<img src="https://avatars.githubusercontent.com/u/4080895?s=72&u=956279057ee0702f2d490c4d503a782742e03660&v=4" width="24" alt="Avatar of h3ct0rjs"> h3ct0rjs
-			</a><br/>
-			Héctor F. Jiménez. S
+			<a href="https://github.com/JuanCaCode">
+				<img src="https://avatars.githubusercontent.com/u/118025146?s=72&u=6074f84ff2091c2d5af72a2ec815de9f24d085e1&v=4" width="24" alt="Avatar of JuanCaCode"> JuanCaCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanCaCode">Copy rank badge</a><br/>
+			Juan Camilo Campo T
 		</td>
-		<td>@godaddy @gdcorp-engineering </td>
-		<td><a href="https://twitter.com/c1b3rh4ck">c1b3rh4ck</a></td>
-		<td>Colombia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JuanCaCoder">JuanCaCoder</a></td>
+		<td>Cali, Colombia</td>
 		<td>48</td>
 	</tr>
 	<tr>
 		<td>451</td>
 		<td>
-			<a href="https://github.com/jgomezc1">
-				<img src="https://avatars.githubusercontent.com/u/6733581?s=72&u=ffdd4804e85cfa4f9771bd75795cf89c7a13c766&v=4" width="24" alt="Avatar of jgomezc1"> jgomezc1
-			</a><br/>
-			Juan Gomez
+			<a href="https://github.com/JuanDavidTriana">
+				<img src="https://avatars.githubusercontent.com/u/88797895?s=72&u=bd7a0ce5c6a6f2d477b270f3484618c569190b10&v=4" width="24" alt="Avatar of JuanDavidTriana"> JuanDavidTriana
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanDavidTriana">Copy rank badge</a><br/>
+			Juan David Triana Turmeque
 		</td>
-		<td>Universidad Eafit </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td>Colombia </td>
 		<td>48</td>
 	</tr>
 	<tr>
 		<td>452</td>
 		<td>
-			<a href="https://github.com/joseucarvajal">
-				<img src="https://avatars.githubusercontent.com/u/5514431?s=72&u=6bf278bd0f2ae0d6cebd577d57045af775791f0b&v=4" width="24" alt="Avatar of joseucarvajal"> joseucarvajal
-			</a><br/>
-			Jose Ubaldo Carvajal
+			<a href="https://github.com/NELSONLUENGAS">
+				<img src="https://avatars.githubusercontent.com/u/90053867?s=72&u=d1e53e4ab89dc595a7c84921246201c546560af1&v=4" width="24" alt="Avatar of NELSONLUENGAS"> NELSONLUENGAS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#NELSONLUENGAS">Copy rank badge</a><br/>
+			NELSON ANDRES LUENGAS SILVA 
 		</td>
-		<td>Engineering Lead At Moxehub<br/>/<br/>Professor<br/>At<br/>Universidad<br/>De<br/>Manizales<br/></td>
+		<td>Technology </td>
 		<td>No Twitter Username</td>
-		<td>Manizales, Caldas, Colombia</td>
+		<td>Colombia</td>
 		<td>48</td>
 	</tr>
 	<tr>
 		<td>453</td>
 		<td>
-			<a href="https://github.com/JacoboGarcesO">
-				<img src="https://avatars.githubusercontent.com/u/66318565?s=72&u=d66a47d722c9c1c027b326cfb1d314b0541f5897&v=4" width="24" alt="Avatar of JacoboGarcesO"> JacoboGarcesO
-			</a><br/>
-			Jacobo Garcés Oquendo
-		</td>
-		<td>Pragma </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
 			<a href="https://github.com/victor291201">
 				<img src="https://avatars.githubusercontent.com/u/63429860?s=72&u=dcc2cec92818e2b35422f127ec96407939c2aabc&v=4" width="24" alt="Avatar of victor291201"> victor291201
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#victor291201">Copy rank badge</a><br/>
 			Victor Hugo Cervantes Anaya
 		</td>
 		<td>Independiente </td>
@@ -6007,63 +5996,115 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/fazd">
+				<img src="https://avatars.githubusercontent.com/u/16343293?s=72&u=91f90df421067a22e3a2f46fdbaf964cc8920889&v=4" width="24" alt="Avatar of fazd"> fazd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fazd">Copy rank badge</a><br/>
+			Fabio Zapata
+		</td>
+		<td> Globant </td>
+		<td><a href="https://twitter.com/Fazd98">Fazd98</a></td>
+		<td>Barranquilla</td>
+		<td>47</td>
+	</tr>
+	<tr>
 		<td>455</td>
 		<td>
-			<a href="https://github.com/ricardo1470">
-				<img src="https://avatars.githubusercontent.com/u/51006723?s=72&u=0120779d1523edfc91cc14a1cf944fc6110950e6&v=4" width="24" alt="Avatar of ricardo1470"> ricardo1470
-			</a><br/>
-			Ricardo Alfonso Camayo Erazo
+			<a href="https://github.com/jgmurillo10">
+				<img src="https://avatars.githubusercontent.com/u/16781872?s=72&u=f53f4ba4221208d4a056fdc888573c064960d752&v=4" width="24" alt="Avatar of jgmurillo10"> jgmurillo10
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jgmurillo10">Copy rank badge</a><br/>
+			Juan Guillermo Murillo
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RICARDO1470">RICARDO1470</a></td>
-		<td>Cali Colombia</td>
+		<td>Snappr </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, CO</td>
 		<td>47</td>
 	</tr>
 	<tr>
 		<td>456</td>
 		<td>
-			<a href="https://github.com/conejoninja">
-				<img src="https://avatars.githubusercontent.com/u/475423?s=72&u=92469c1ec366c329099cc0e81f6508052864f7c9&v=4" width="24" alt="Avatar of conejoninja"> conejoninja
-			</a><br/>
-			Daniel Esteban
+			<a href="https://github.com/rodbarrdaniel-coder">
+				<img src="https://avatars.githubusercontent.com/u/229999565?s=72&u=122b467857b43fd031d3e4b07a5d392aa5a8b9a9&v=4" width="24" alt="Avatar of rodbarrdaniel-coder"> rodbarrdaniel-coder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rodbarrdaniel-coder">Copy rank badge</a><br/>
+			★𝐊𝐄𝐘𝐂𝐇𝐘_𝐄𝐆𝐍𝐄𝐑_𝐃𝐄𝐕★
 		</td>
-		<td>Socialpay / Truust.io </td>
-		<td><a href="https://twitter.com/_conejo">_conejo</a></td>
-		<td>Cartagena, Spain</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>colombia</td>
 		<td>46</td>
 	</tr>
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/erifranck">
-				<img src="https://avatars.githubusercontent.com/u/11810222?s=72&u=24fea45782c3b704b41a5d5d8bd8f1e67fdca280&v=4" width="24" alt="Avatar of erifranck"> erifranck
-			</a><br/>
-			Erifranck Nuñez
+			<a href="https://github.com/JahazielHernandezHoyos">
+				<img src="https://avatars.githubusercontent.com/u/48532611?s=72&u=33884fe0a76bc769aed6f4c88aa56a1fceac8c88&v=4" width="24" alt="Avatar of JahazielHernandezHoyos"> JahazielHernandezHoyos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JahazielHernandezHoyos">Copy rank badge</a><br/>
+			Jahaziel Hernandez Hoyos
 		</td>
-		<td>@drawmycodecomic </td>
-		<td><a href="https://twitter.com/erifranckn">erifranckn</a></td>
-		<td>Bogota Colombia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia, Antioquia, Marinilla</td>
 		<td>46</td>
 	</tr>
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/daguttt">
-				<img src="https://avatars.githubusercontent.com/u/70865733?s=72&u=714f4a97f528c86252ccf7f1a4802aa60bf04926&v=4" width="24" alt="Avatar of daguttt"> daguttt
-			</a><br/>
-			Daniel Gutierrez Muñoz
+			<a href="https://github.com/DanielSuarezDev">
+				<img src="https://avatars.githubusercontent.com/u/65202664?s=72&u=89e9ec023a70de95704cbeee5e50cfa2f96ff692&v=4" width="24" alt="Avatar of DanielSuarezDev"> DanielSuarezDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DanielSuarezDev">Copy rank badge</a><br/>
+			DanielSuarez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/daguttt">daguttt</a></td>
-		<td>Medellín, Antioquia, Colombia</td>
+		<td>@pawfolio </td>
+		<td><a href="https://twitter.com/DanielSuarezDev">DanielSuarezDev</a></td>
+		<td>Bogotá , Colombia</td>
 		<td>46</td>
 	</tr>
 	<tr>
 		<td>459</td>
 		<td>
+			<a href="https://github.com/Secastrog">
+				<img src="https://avatars.githubusercontent.com/u/86118089?s=72&u=525155e8ba1801b9998cf570d7c9d44ebb6362bf&v=4" width="24" alt="Avatar of Secastrog"> Secastrog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Secastrog">Copy rank badge</a><br/>
+			Sergio Castro 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá D.C - Colombia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/josedaniel">
+				<img src="https://avatars.githubusercontent.com/u/120134?s=72&v=4" width="24" alt="Avatar of josedaniel"> josedaniel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#josedaniel">Copy rank badge</a><br/>
+			José Daniel Paternina
+		</td>
+		<td>Dëbrain </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/erifranck">
+				<img src="https://avatars.githubusercontent.com/u/11810222?s=72&u=24fea45782c3b704b41a5d5d8bd8f1e67fdca280&v=4" width="24" alt="Avatar of erifranck"> erifranck
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#erifranck">Copy rank badge</a><br/>
+			Erifranck Nuñez
+		</td>
+		<td>@drawmycodecomic </td>
+		<td><a href="https://twitter.com/erifranckn">erifranckn</a></td>
+		<td>Bogota Colombia</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
 			<a href="https://github.com/ogranada">
 				<img src="https://avatars.githubusercontent.com/u/1445677?s=72&u=75d245f859fe7179d23f2ac60ba900068bd97f36&v=4" width="24" alt="Avatar of ogranada"> ogranada
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ogranada">Copy rank badge</a><br/>
 			Oscar Andres Granada Baquro
 		</td>
 		<td>No Company</td>
@@ -6072,37 +6113,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>463</td>
 		<td>
-			<a href="https://github.com/mcewenar">
-				<img src="https://avatars.githubusercontent.com/u/66033434?s=72&u=67d9bbc927eab3c056244f7193068dd609f2bc75&v=4" width="24" alt="Avatar of mcewenar"> mcewenar
-			</a><br/>
-			David Mc Ewen
+			<a href="https://github.com/aldrinleal">
+				<img src="https://avatars.githubusercontent.com/u/253109?s=72&u=6b1a5d1a3736f3a2114fba029fd9cc83c2f3fafb&v=4" width="24" alt="Avatar of aldrinleal"> aldrinleal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#aldrinleal">Copy rank badge</a><br/>
+			Aldrin Leal
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/McEwenar">McEwenar</a></td>
-		<td>Medellín, Colombia</td>
+		<td>@ingenieux  </td>
+		<td><a href="https://twitter.com/aldrinleal">aldrinleal</a></td>
+		<td>Envigado, Colombia</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>464</td>
 		<td>
-			<a href="https://github.com/panchicore">
-				<img src="https://avatars.githubusercontent.com/u/108517?s=72&v=4" width="24" alt="Avatar of panchicore"> panchicore
-			</a><br/>
-			Luis Pallares
+			<a href="https://github.com/gelvezz23">
+				<img src="https://avatars.githubusercontent.com/u/8592355?s=72&u=2efa483037f9eba4f59698a7bb84703910cf6c63&v=4" width="24" alt="Avatar of gelvezz23"> gelvezz23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gelvezz23">Copy rank badge</a><br/>
+			CarlosG
 		</td>
-		<td>Validmind.ai, Outputs.tech, United Nations<br/>World<br/>Food<br/>Programme<br/></td>
-		<td><a href="https://twitter.com/panchicore">panchicore</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/23_mao">23_mao</a></td>
 		<td>Colombia</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/kaelwebdev">
 				<img src="https://avatars.githubusercontent.com/u/26536134?s=72&u=cf5406e76214c11b5cbcfcdc1c32bb46b6716fa6&v=4" width="24" alt="Avatar of kaelwebdev"> kaelwebdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kaelwebdev">Copy rank badge</a><br/>
 			Carlos Daniel C
 		</td>
 		<td>No Company</td>
@@ -6111,11 +6152,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/leocabeza">
 				<img src="https://avatars.githubusercontent.com/u/2538304?s=72&u=63109351ff79a2f6be6bc58f06b5e90b5f3e5812&v=4" width="24" alt="Avatar of leocabeza"> leocabeza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leocabeza">Copy rank badge</a><br/>
 			Leonardo Cabeza
 		</td>
 		<td>No Company</td>
@@ -6124,24 +6165,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/Secastrog">
-				<img src="https://avatars.githubusercontent.com/u/86118089?s=72&u=525155e8ba1801b9998cf570d7c9d44ebb6362bf&v=4" width="24" alt="Avatar of Secastrog"> Secastrog
-			</a><br/>
-			Sergio Castro 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá D.C - Colombia</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>465</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/kr1shn4murt1">
 				<img src="https://avatars.githubusercontent.com/u/3812619?s=72&v=4" width="24" alt="Avatar of kr1shn4murt1"> kr1shn4murt1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kr1shn4murt1">Copy rank badge</a><br/>
 			Steven Zuluaga
 		</td>
 		<td>Https://kronux.com.c </td>
@@ -6150,11 +6178,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/recantilloSena">
 				<img src="https://avatars.githubusercontent.com/u/48037613?s=72&u=fe4b8f2bfdffffa6f6fd773fdb4dd5f7c52ca998&v=4" width="24" alt="Avatar of recantilloSena"> recantilloSena
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#recantilloSena">Copy rank badge</a><br/>
 			Ricardo Enrique Cantillo Carrillo
 		</td>
 		<td>Iaplus.co  </td>
@@ -6163,37 +6191,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/fazd">
-				<img src="https://avatars.githubusercontent.com/u/16343293?s=72&u=91f90df421067a22e3a2f46fdbaf964cc8920889&v=4" width="24" alt="Avatar of fazd"> fazd
-			</a><br/>
-			Fabio Zapata
-		</td>
-		<td> Globant </td>
-		<td><a href="https://twitter.com/Fazd98">Fazd98</a></td>
-		<td>Barranquilla</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
-			<a href="https://github.com/EddAngulo">
-				<img src="https://avatars.githubusercontent.com/u/19328920?s=72&u=3c2cc1fe6ab5c658fa9dd060c8dea15914346247&v=4" width="24" alt="Avatar of EddAngulo"> EddAngulo
-			</a><br/>
-			Eduardo Angulo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>44</td>
-	</tr>
-	<tr>
 		<td>469</td>
+		<td>
+			<a href="https://github.com/joseucarvajal">
+				<img src="https://avatars.githubusercontent.com/u/5514431?s=72&u=6bf278bd0f2ae0d6cebd577d57045af775791f0b&v=4" width="24" alt="Avatar of joseucarvajal"> joseucarvajal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#joseucarvajal">Copy rank badge</a><br/>
+			Jose Ubaldo Carvajal
+		</td>
+		<td>Engineering Lead At Moxehub<br/>/<br/>Professor<br/>At<br/>Universidad<br/>De<br/>Manizales<br/></td>
+		<td>No Twitter Username</td>
+		<td>Manizales, Caldas, Colombia</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/moicanbas">
+				<img src="https://avatars.githubusercontent.com/u/109709947?s=72&u=262026eca3fcff856de9a77e965f2cdb3176cddc&v=4" width="24" alt="Avatar of moicanbas"> moicanbas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#moicanbas">Copy rank badge</a><br/>
+			Moisés Cantillo
+		</td>
+		<td>Riwi </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/iKenshu">
 				<img src="https://avatars.githubusercontent.com/u/5619966?s=72&u=cefd255731d2b2756cc730a905cfb5b2f1b652d8&v=4" width="24" alt="Avatar of iKenshu"> iKenshu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#iKenshu">Copy rank badge</a><br/>
 			Kevin Morales
 		</td>
 		<td>No Company</td>
@@ -6202,128 +6230,128 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>472</td>
 		<td>
-			<a href="https://github.com/osmandi">
-				<img src="https://avatars.githubusercontent.com/u/30201113?s=72&v=4" width="24" alt="Avatar of osmandi"> osmandi
-			</a><br/>
-			Osmandi Gomez
+			<a href="https://github.com/isabelyb">
+				<img src="https://avatars.githubusercontent.com/u/63390283?s=72&u=b075b03c8aceaa50bb3396cd7c6245500c26986a&v=4" width="24" alt="Avatar of isabelyb"> isabelyb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#isabelyb">Copy rank badge</a><br/>
+			Isabel Yepes
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/isa_yepes">isa_yepes</a></td>
 		<td>Colombia</td>
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>473</td>
 		<td>
-			<a href="https://github.com/saulmoralespa">
-				<img src="https://avatars.githubusercontent.com/u/19959663?s=72&u=ee46407afc8123edc2dd5d9a827a65f4fde1ffac&v=4" width="24" alt="Avatar of saulmoralespa"> saulmoralespa
-			</a><br/>
-			Saúl Morales Pacheco
+			<a href="https://github.com/Jyndev">
+				<img src="https://avatars.githubusercontent.com/u/141097852?s=72&u=f39fce2acfc520504220f011851e2cf37b780c5a&v=4" width="24" alt="Avatar of Jyndev"> Jyndev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jyndev">Copy rank badge</a><br/>
+			Jyndev
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Norte de Santander, Colombia</td>
+		<td>Cucuta, Colombia</td>
 		<td>43</td>
-	</tr>
-	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/alexyslozada">
-				<img src="https://avatars.githubusercontent.com/u/2720556?s=72&u=14fee2c99bad25516dda2ab34dad887e12488ded&v=4" width="24" alt="Avatar of alexyslozada"> alexyslozada
-			</a><br/>
-			Alexys Lozada
-		</td>
-		<td>@edteamlat </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
-			<a href="https://github.com/eduard-martinez">
-				<img src="https://avatars.githubusercontent.com/u/24576122?s=72&u=8092eac7857baab63d2e0c7243e473463b082b1a&v=4" width="24" alt="Avatar of eduard-martinez"> eduard-martinez
-			</a><br/>
-			Eduard Fernando Martinez Gonzalez
-		</td>
-		<td>Universidad Icesi </td>
-		<td><a href="https://twitter.com/emartigo">emartigo</a></td>
-		<td>Cali, Colombia</td>
-		<td>42</td>
 	</tr>
 	<tr>
 		<td>474</td>
 		<td>
-			<a href="https://github.com/JuanCaCode">
-				<img src="https://avatars.githubusercontent.com/u/118025146?s=72&u=6074f84ff2091c2d5af72a2ec815de9f24d085e1&v=4" width="24" alt="Avatar of JuanCaCode"> JuanCaCode
-			</a><br/>
-			Juan Camilo Campo T
+			<a href="https://github.com/Jonathan1322">
+				<img src="https://avatars.githubusercontent.com/u/234003261?s=72&u=2efce6a6d45e72ab2b20546232ff1158befb99aa&v=4" width="24" alt="Avatar of Jonathan1322"> Jonathan1322
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Jonathan1322">Copy rank badge</a><br/>
+			Jonathan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JuanCaCoder">JuanCaCoder</a></td>
-		<td>Cali, Colombia</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla</td>
 		<td>42</td>
 	</tr>
 	<tr>
 		<td>475</td>
 		<td>
-			<a href="https://github.com/SaraBermudez4">
-				<img src="https://avatars.githubusercontent.com/u/71676082?s=72&u=cd3ceb7102aa0f763a3dc629f99a2e8661b66662&v=4" width="24" alt="Avatar of SaraBermudez4"> SaraBermudez4
-			</a><br/>
-			Sara Bermudez
+			<a href="https://github.com/Oswe-gif">
+				<img src="https://avatars.githubusercontent.com/u/84868357?s=72&u=3a3800009dda64bcab50db7550ebaf2c89298bde&v=4" width="24" alt="Avatar of Oswe-gif"> Oswe-gif
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Oswe-gif">Copy rank badge</a><br/>
+			Jhoan Oswaldo Ome Vega
 		</td>
-		<td>No Company</td>
+		<td>Universidad De La Sabana<br/></td>
 		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>41</td>
+		<td>Bogotá, Colombia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>476</td>
 		<td>
-			<a href="https://github.com/AugustoAleGon">
-				<img src="https://avatars.githubusercontent.com/u/14319083?s=72&u=7d9d97d3cd93767c01206fa6b7bf6c60d227871b&v=4" width="24" alt="Avatar of AugustoAleGon"> AugustoAleGon
-			</a><br/>
-			Augusto Gonzalez
+			<a href="https://github.com/saulmoralespa">
+				<img src="https://avatars.githubusercontent.com/u/19959663?s=72&u=ee46407afc8123edc2dd5d9a827a65f4fde1ffac&v=4" width="24" alt="Avatar of saulmoralespa"> saulmoralespa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#saulmoralespa">Copy rank badge</a><br/>
+			Saúl Morales Pacheco
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AugustoAleGon">AugustoAleGon</a></td>
-		<td>Colombia</td>
-		<td>41</td>
+		<td>No Twitter Username</td>
+		<td>Norte de Santander, Colombia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>477</td>
 		<td>
-			<a href="https://github.com/trackmastersteve">
-				<img src="https://avatars.githubusercontent.com/u/16858514?s=72&u=1a542b3cee1d7cdaa79e3b6db3c2246229fc2798&v=4" width="24" alt="Avatar of trackmastersteve"> trackmastersteve
-			</a><br/>
-			Stephen Harris
+			<a href="https://github.com/EddAngulo">
+				<img src="https://avatars.githubusercontent.com/u/19328920?s=72&u=3c2cc1fe6ab5c658fa9dd060c8dea15914346247&v=4" width="24" alt="Avatar of EddAngulo"> EddAngulo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#EddAngulo">Copy rank badge</a><br/>
+			Eduardo Angulo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cali, USA</td>
-		<td>41</td>
+		<td>Barranquilla, Colombia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>478</td>
 		<td>
-			<a href="https://github.com/marcewp15">
-				<img src="https://avatars.githubusercontent.com/u/55101396?s=72&u=f7d6bc96e4f3a371ec06bb1f4df0265c057f9f7b&v=4" width="24" alt="Avatar of marcewp15"> marcewp15
-			</a><br/>
-			Marcela Sánchez
+			<a href="https://github.com/jgomezc1">
+				<img src="https://avatars.githubusercontent.com/u/6733581?s=72&u=ffdd4804e85cfa4f9771bd75795cf89c7a13c766&v=4" width="24" alt="Avatar of jgomezc1"> jgomezc1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jgomezc1">Copy rank badge</a><br/>
+			Juan Gomez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MarceWp15">MarceWp15</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>40</td>
+		<td>Universidad Eafit </td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>479</td>
 		<td>
+			<a href="https://github.com/jameshell">
+				<img src="https://avatars.githubusercontent.com/u/16164671?s=72&u=997b94bc31f1b90b78873258a5004e73af1576be&v=4" width="24" alt="Avatar of jameshell"> jameshell
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jameshell">Copy rank badge</a><br/>
+			James
+		</td>
+		<td>Tech9 </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/sebastian-sanchez-col">
+				<img src="https://avatars.githubusercontent.com/u/55052559?s=72&v=4" width="24" alt="Avatar of sebastian-sanchez-col"> sebastian-sanchez-col
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sebastian-sanchez-col">Copy rank badge</a><br/>
+			Sebastian Sanchez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Valle del Cauca, Colombia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
 			<a href="https://github.com/claudiainbytes">
 				<img src="https://avatars.githubusercontent.com/u/2236929?s=72&u=29a210954b5fb055dacff816dcea6d0a621d6d5b&v=4" width="24" alt="Avatar of claudiainbytes"> claudiainbytes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#claudiainbytes">Copy rank badge</a><br/>
 			Claudia Estupiñán Forero
 		</td>
 		<td>Claudiainbytes </td>
@@ -6332,37 +6360,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>482</td>
 		<td>
-			<a href="https://github.com/jonatanmedina12">
-				<img src="https://avatars.githubusercontent.com/u/136943363?s=72&u=02d7a9bf99782224337ae68e6bafea4f897eba18&v=4" width="24" alt="Avatar of jonatanmedina12"> jonatanmedina12
-			</a><br/>
-			Jonatan_Medina
-		</td>
-		<td>I Work In This<br/>Thing<br/>Called<br/>Life<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia/Bogotá</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/sebastian-sanchez-col">
-				<img src="https://avatars.githubusercontent.com/u/55052559?s=72&v=4" width="24" alt="Avatar of sebastian-sanchez-col"> sebastian-sanchez-col
-			</a><br/>
-			Sebastian Sanchez
+			<a href="https://github.com/daguttt">
+				<img src="https://avatars.githubusercontent.com/u/70865733?s=72&u=714f4a97f528c86252ccf7f1a4802aa60bf04926&v=4" width="24" alt="Avatar of daguttt"> daguttt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#daguttt">Copy rank badge</a><br/>
+			Daniel Gutierrez Muñoz
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Valle del Cauca, Colombia</td>
+		<td><a href="https://twitter.com/daguttt">daguttt</a></td>
+		<td>Medellín, Antioquia, Colombia</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/FeliPrado31">
 				<img src="https://avatars.githubusercontent.com/u/55117998?s=72&u=c960598d56bd279d5451e8880231e13e36839552&v=4" width="24" alt="Avatar of FeliPrado31"> FeliPrado31
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#FeliPrado31">Copy rank badge</a><br/>
 			Juan Felipe Cubillos
 		</td>
 		<td>No Company</td>
@@ -6371,11 +6386,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/racar">
+				<img src="https://avatars.githubusercontent.com/u/1040151?s=72&u=546ddce6323402b71860d29b7ae88cf651348b1b&v=4" width="24" alt="Avatar of racar"> racar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#racar">Copy rank badge</a><br/>
+			Rafael Carrascal Reyes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/ortegacmanuel">
 				<img src="https://avatars.githubusercontent.com/u/413133?s=72&u=927cfaa602e9e03622d90acc6882cc95c0a6fbc4&v=4" width="24" alt="Avatar of ortegacmanuel"> ortegacmanuel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ortegacmanuel">Copy rank badge</a><br/>
 			Manuel Ortega
 		</td>
 		<td>@zenchef </td>
@@ -6384,24 +6412,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>486</td>
 		<td>
-			<a href="https://github.com/jadarve">
-				<img src="https://avatars.githubusercontent.com/u/2498576?s=72&u=c78f8f2b8958be81e510db9b29cb1e35c6eec6d8&v=4" width="24" alt="Avatar of jadarve"> jadarve
-			</a><br/>
-			Juan David Adarve
+			<a href="https://github.com/mcewenar">
+				<img src="https://avatars.githubusercontent.com/u/66033434?s=72&u=67d9bbc927eab3c056244f7193068dd609f2bc75&v=4" width="24" alt="Avatar of mcewenar"> mcewenar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mcewenar">Copy rank badge</a><br/>
+			David Mc Ewen
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td><a href="https://twitter.com/McEwenar">McEwenar</a></td>
+		<td>Medellín, Colombia</td>
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/enspdf">
 				<img src="https://avatars.githubusercontent.com/u/8334660?s=72&u=acb01557107d543bbc6f3a68af184847a4d35a56&v=4" width="24" alt="Avatar of enspdf"> enspdf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#enspdf">Copy rank badge</a><br/>
 			Sebastian Higuita Castañeda
 		</td>
 		<td>No Company</td>
@@ -6410,37 +6438,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/CesarM8761">
-				<img src="https://avatars.githubusercontent.com/u/86856004?s=72&u=696c5e592ef8eca6c8cb3ca740501230dc0a594b&v=4" width="24" alt="Avatar of CesarM8761"> CesarM8761
-			</a><br/>
-			César Martínez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/Jyndev">
-				<img src="https://avatars.githubusercontent.com/u/141097852?s=72&u=f39fce2acfc520504220f011851e2cf37b780c5a&v=4" width="24" alt="Avatar of Jyndev"> Jyndev
-			</a><br/>
-			Jyndev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cucuta, Colombia</td>
-		<td>38</td>
-	</tr>
-	<tr>
 		<td>488</td>
+		<td>
+			<a href="https://github.com/eduard-martinez">
+				<img src="https://avatars.githubusercontent.com/u/24576122?s=72&u=8092eac7857baab63d2e0c7243e473463b082b1a&v=4" width="24" alt="Avatar of eduard-martinez"> eduard-martinez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#eduard-martinez">Copy rank badge</a><br/>
+			Eduard Fernando Martinez Gonzalez
+		</td>
+		<td>Universidad Icesi </td>
+		<td><a href="https://twitter.com/emartigo">emartigo</a></td>
+		<td>Cali, Colombia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/dianjuar">
+				<img src="https://avatars.githubusercontent.com/u/7026066?s=72&v=4" width="24" alt="Avatar of dianjuar"> dianjuar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dianjuar">Copy rank badge</a><br/>
+			Diego Julião
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dianjuar">dianjuar</a></td>
+		<td>Medellín - Colombia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/camilomontoyau">
 				<img src="https://avatars.githubusercontent.com/u/5333383?s=72&u=c7b9a2b6f572c2fd1dd60fe9f4cd59bb3497f6ff&v=4" width="24" alt="Avatar of camilomontoyau"> camilomontoyau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camilomontoyau">Copy rank badge</a><br/>
 			camilo montoya
 		</td>
 		<td>Techstars </td>
@@ -6449,76 +6477,102 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>489</td>
-		<td>
-			<a href="https://github.com/carogomezt">
-				<img src="https://avatars.githubusercontent.com/u/17128791?s=72&u=ac99cf94e9268737308a72aae31fd8470704fece&v=4" width="24" alt="Avatar of carogomezt"> carogomezt
-			</a><br/>
-			Carolina Gómez Trejos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/caro_gomezt">caro_gomezt</a></td>
-		<td>Colombia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/dianjuar">
-				<img src="https://avatars.githubusercontent.com/u/7026066?s=72&v=4" width="24" alt="Avatar of dianjuar"> dianjuar
-			</a><br/>
-			Diego Julião
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dianjuar">dianjuar</a></td>
-		<td>Medellín - Colombia</td>
-		<td>37</td>
-	</tr>
-	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/julitogtu">
-				<img src="https://avatars.githubusercontent.com/u/5529389?s=72&u=301a04588c449742c8558bb3dca99513e86f751c&v=4" width="24" alt="Avatar of julitogtu"> julitogtu
-			</a><br/>
-			Julio Avellaneda
+			<a href="https://github.com/latorrents">
+				<img src="https://avatars.githubusercontent.com/u/11384973?s=72&u=c3b852f80e7c601484e9743a97ed51221e96b6eb&v=4" width="24" alt="Avatar of latorrents"> latorrents
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#latorrents">Copy rank badge</a><br/>
+			David Latorre
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td><a href="https://twitter.com/lat0rrents">lat0rrents</a></td>
+		<td>Bogotá, Colombia</td>
 		<td>37</td>
 	</tr>
 	<tr>
 		<td>492</td>
 		<td>
-			<a href="https://github.com/claudiagomezll">
-				<img src="https://avatars.githubusercontent.com/u/31231104?s=72&u=7b45b5e6f60db7a6d172d5e3985a5c7a66cbf1ca&v=4" width="24" alt="Avatar of claudiagomezll"> claudiagomezll
-			</a><br/>
-			Claudia Yamile Gómez Llanez
+			<a href="https://github.com/pyjavo">
+				<img src="https://avatars.githubusercontent.com/u/3085051?s=72&u=29ca6eb41c61f070c62ba210d086905731e477c5&v=4" width="24" alt="Avatar of pyjavo"> pyjavo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pyjavo">Copy rank badge</a><br/>
+			Javier Daza
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cúcuta - Colombia</td>
-		<td>36</td>
+		<td>Colombia</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>493</td>
 		<td>
-			<a href="https://github.com/juanbeniteza">
-				<img src="https://avatars.githubusercontent.com/u/22871775?s=72&u=784730017182b4f2c28ccc49a85365f35fafda2e&v=4" width="24" alt="Avatar of juanbeniteza"> juanbeniteza
-			</a><br/>
-			Juan Benitez 
+			<a href="https://github.com/conejoninja">
+				<img src="https://avatars.githubusercontent.com/u/475423?s=72&u=92469c1ec366c329099cc0e81f6508052864f7c9&v=4" width="24" alt="Avatar of conejoninja"> conejoninja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#conejoninja">Copy rank badge</a><br/>
+			Daniel Esteban
 		</td>
-		<td>Epam Systems </td>
-		<td>No Twitter Username</td>
-		<td>Cartagena, Colombia</td>
+		<td>Socialpay / Truust.io </td>
+		<td><a href="https://twitter.com/_conejo">_conejo</a></td>
+		<td>Cartagena, Spain</td>
 		<td>36</td>
 	</tr>
 	<tr>
 		<td>494</td>
 		<td>
+			<a href="https://github.com/SaraBermudez4">
+				<img src="https://avatars.githubusercontent.com/u/71676082?s=72&u=cd3ceb7102aa0f763a3dc629f99a2e8661b66662&v=4" width="24" alt="Avatar of SaraBermudez4"> SaraBermudez4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#SaraBermudez4">Copy rank badge</a><br/>
+			Sara Bermudez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/ricardo1470">
+				<img src="https://avatars.githubusercontent.com/u/51006723?s=72&u=0120779d1523edfc91cc14a1cf944fc6110950e6&v=4" width="24" alt="Avatar of ricardo1470"> ricardo1470
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ricardo1470">Copy rank badge</a><br/>
+			Ricardo Alfonso Camayo Erazo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RICARDO1470">RICARDO1470</a></td>
+		<td>Cali Colombia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/andcastillo">
+				<img src="https://avatars.githubusercontent.com/u/3810292?s=72&u=45e52ea4be11340e4b45b6c4d913abdf1cfeaa87&v=4" width="24" alt="Avatar of andcastillo"> andcastillo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andcastillo">Copy rank badge</a><br/>
+			Andres Castillo
+		</td>
+		<td>Univalle </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/jadarve">
+				<img src="https://avatars.githubusercontent.com/u/2498576?s=72&u=c78f8f2b8958be81e510db9b29cb1e35c6eec6d8&v=4" width="24" alt="Avatar of jadarve"> jadarve
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jadarve">Copy rank badge</a><br/>
+			Juan David Adarve
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
 			<a href="https://github.com/lyca2206">
 				<img src="https://avatars.githubusercontent.com/u/98626570?s=72&u=98a8e5d51f1f50c97c5c89ccdac63ced432f21f4&v=4" width="24" alt="Avatar of lyca2206"> lyca2206
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lyca2206">Copy rank badge</a><br/>
 			Ariel Pabón
 		</td>
 		<td>Globant, Icesi University </td>
@@ -6527,102 +6581,115 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>499</td>
 		<td>
-			<a href="https://github.com/alzheimeer">
-				<img src="https://avatars.githubusercontent.com/u/46305568?s=72&u=659dd661203e86596b8f81887685950d604a59a6&v=4" width="24" alt="Avatar of alzheimeer"> alzheimeer
-			</a><br/>
-			Niklauss Mauricio Quintero
+			<a href="https://github.com/kristianpaul">
+				<img src="https://avatars.githubusercontent.com/u/326463?s=72&u=8a5a802fe34998231fea02e50c012223e0135f96&v=4" width="24" alt="Avatar of kristianpaul"> kristianpaul
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kristianpaul">Copy rank badge</a><br/>
+			Cristian Paul Peñaranda Rojas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alzheimeer">alzheimeer</a></td>
-		<td>colombia</td>
+		<td><a href="https://twitter.com/kristianpaul0">kristianpaul0</a></td>
+		<td>Cali, Colombia</td>
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>496</td>
-		<td>
-			<a href="https://github.com/vdevalen">
-				<img src="https://avatars.githubusercontent.com/u/72038716?s=72&u=ff4025889e2568514c44333c42675f422bc5be86&v=4" width="24" alt="Avatar of vdevalen"> vdevalen
-			</a><br/>
-			Valentina Pinzón Montoya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia.</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>497</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/jcalvarezj">
 				<img src="https://avatars.githubusercontent.com/u/30153921?s=72&u=32eadf2994a9759c7b2e8fe9edaefd7e68b1f989&v=4" width="24" alt="Avatar of jcalvarezj"> jcalvarezj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jcalvarezj">Copy rank badge</a><br/>
 			Juan C. Alvarez
 		</td>
 		<td>Jikkosoft </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/elyxdev">
-				<img src="https://avatars.githubusercontent.com/u/151476172?s=72&u=43d256651e762e7774cddb2971e8b96e553360fa&v=4" width="24" alt="Avatar of elyxdev"> elyxdev
-			</a><br/>
-			Elyx
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia.</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>499</td>
-		<td>
-			<a href="https://github.com/racar">
-				<img src="https://avatars.githubusercontent.com/u/1040151?s=72&u=546ddce6323402b71860d29b7ae88cf651348b1b&v=4" width="24" alt="Avatar of racar"> racar
-			</a><br/>
-			Rafael Carrascal Reyes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
-			<a href="https://github.com/kmilo17pet">
-				<img src="https://avatars.githubusercontent.com/u/11412210?s=72&u=ddaaac7b147ed6eb4fdbd8031466b1a9350ce7e2&v=4" width="24" alt="Avatar of kmilo17pet"> kmilo17pet
-			</a><br/>
-			J. Camilo G.C.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>33</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>501</td>
 		<td>
-			<a href="https://github.com/xd-mau5">
-				<img src="https://avatars.githubusercontent.com/u/73971855?s=72&u=707b66c160f20db7452a9c0534d95585e671e914&v=4" width="24" alt="Avatar of xd-mau5"> xd-mau5
-			</a><br/>
-			Omar Izquierdo
+			<a href="https://github.com/claudiagomezll">
+				<img src="https://avatars.githubusercontent.com/u/31231104?s=72&u=7b45b5e6f60db7a6d172d5e3985a5c7a66cbf1ca&v=4" width="24" alt="Avatar of claudiagomezll"> claudiagomezll
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#claudiagomezll">Copy rank badge</a><br/>
+			Claudia Yamile Gómez Llanez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Montería, Colombia</td>
-		<td>33</td>
+		<td>Cúcuta - Colombia</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>502</td>
 		<td>
+			<a href="https://github.com/julianaprietoa">
+				<img src="https://avatars.githubusercontent.com/u/33792986?s=72&u=87a9a0140b30bfc3c9097db03e68ab903c0953bf&v=4" width="24" alt="Avatar of julianaprietoa"> julianaprietoa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#julianaprietoa">Copy rank badge</a><br/>
+			Juliana Prieto
+		</td>
+		<td>@nubank  </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/jgomezpe">
+				<img src="https://avatars.githubusercontent.com/u/10710521?s=72&u=91bb7edc2f0d08d4f28f1c410c5598d96e88a683&v=4" width="24" alt="Avatar of jgomezpe"> jgomezpe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jgomezpe">Copy rank badge</a><br/>
+			Jonatan Gomez Perdomo
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/HX-AQuintero">
+				<img src="https://avatars.githubusercontent.com/u/93171512?s=72&u=64a9394d2097d5405f985fafec7206554627e08e&v=4" width="24" alt="Avatar of HX-AQuintero"> HX-AQuintero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#HX-AQuintero">Copy rank badge</a><br/>
+			Alejandro Quintero Mejía
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BatmathDev">BatmathDev</a></td>
+		<td>Medellín, Colombia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/lcmartinezdev">
+				<img src="https://avatars.githubusercontent.com/u/4006316?s=72&u=850910c29d0ee38daca4f2e70125772f569e4ddb&v=4" width="24" alt="Avatar of lcmartinezdev"> lcmartinezdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lcmartinezdev">Copy rank badge</a><br/>
+			Luis Martinez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lcmartinez_">lcmartinez_</a></td>
+		<td>Colombia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/alzheimeer">
+				<img src="https://avatars.githubusercontent.com/u/46305568?s=72&u=659dd661203e86596b8f81887685950d604a59a6&v=4" width="24" alt="Avatar of alzheimeer"> alzheimeer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alzheimeer">Copy rank badge</a><br/>
+			Niklauss Mauricio Quintero
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alzheimeer">alzheimeer</a></td>
+		<td>colombia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
 			<a href="https://github.com/jfbg98">
 				<img src="https://avatars.githubusercontent.com/u/61260950?s=72&u=357340b3ebe6db9fe800661073faa494e78ee629&v=4" width="24" alt="Avatar of jfbg98"> jfbg98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jfbg98">Copy rank badge</a><br/>
 			Juan Bernal
 		</td>
 		<td>@cifrato </td>
@@ -6631,63 +6698,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>508</td>
 		<td>
-			<a href="https://github.com/gsalgadotoledo">
-				<img src="https://avatars.githubusercontent.com/u/1288502?s=72&u=4db57c923a60601fc158895b825487ba7faed131&v=4" width="24" alt="Avatar of gsalgadotoledo"> gsalgadotoledo
-			</a><br/>
-			Gustavo
+			<a href="https://github.com/xd-mau5">
+				<img src="https://avatars.githubusercontent.com/u/73971855?s=72&u=707b66c160f20db7452a9c0534d95585e671e914&v=4" width="24" alt="Avatar of xd-mau5"> xd-mau5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#xd-mau5">Copy rank badge</a><br/>
+			Omar Izquierdo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
+		<td>Montería, Colombia</td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>509</td>
 		<td>
-			<a href="https://github.com/pkgzx">
-				<img src="https://avatars.githubusercontent.com/u/106822638?s=72&u=56b746d872adce4010541dac666c21c41371085e&v=4" width="24" alt="Avatar of pkgzx"> pkgzx
-			</a><br/>
-			Olvadis Hernandez
+			<a href="https://github.com/elyxdev">
+				<img src="https://avatars.githubusercontent.com/u/151476172?s=72&u=43d256651e762e7774cddb2971e8b96e553360fa&v=4" width="24" alt="Avatar of elyxdev"> elyxdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#elyxdev">Copy rank badge</a><br/>
+			Elyx
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia.</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/zarfadev">
+				<img src="https://avatars.githubusercontent.com/u/145287911?s=72&u=d48012ebb6cb6656a89f8dcf348b3448ce90f18b&v=4" width="24" alt="Avatar of zarfadev"> zarfadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#zarfadev">Copy rank badge</a><br/>
+			Miguel Villegas
+		</td>
+		<td>M&s Creators </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/jgomezpe">
-				<img src="https://avatars.githubusercontent.com/u/10710521?s=72&u=91bb7edc2f0d08d4f28f1c410c5598d96e88a683&v=4" width="24" alt="Avatar of jgomezpe"> jgomezpe
-			</a><br/>
-			Jonatan Gomez Perdomo
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>506</td>
-		<td>
-			<a href="https://github.com/Liceth">
-				<img src="https://avatars.githubusercontent.com/u/7264272?s=72&u=78e58eafc063f0319556eab4ee906097c61404a9&v=4" width="24" alt="Avatar of Liceth"> Liceth
-			</a><br/>
-			Liceth Ovalles
-		</td>
-		<td>@kinesso </td>
-		<td><a href="https://twitter.com/liloovalles">liloovalles</a></td>
-		<td>Bogotá </td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>507</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/eldalo">
 				<img src="https://avatars.githubusercontent.com/u/2158847?s=72&u=4d2f9c64e503916a0accd40314a55b47bc073069&v=4" width="24" alt="Avatar of eldalo"> eldalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#eldalo">Copy rank badge</a><br/>
 			Diego Alexander Londoño
 		</td>
 		<td>@vipmedicalgroup </td>
@@ -6696,11 +6750,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/bakjos">
+				<img src="https://avatars.githubusercontent.com/u/1247502?s=72&u=5f63aa36a09a96bed347cd92475e3a53ad1c8bfa&v=4" width="24" alt="Avatar of bakjos"> bakjos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#bakjos">Copy rank badge</a><br/>
+			Giovanny Gutiérrez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/juanbeniteza">
+				<img src="https://avatars.githubusercontent.com/u/22871775?s=72&u=784730017182b4f2c28ccc49a85365f35fafda2e&v=4" width="24" alt="Avatar of juanbeniteza"> juanbeniteza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanbeniteza">Copy rank badge</a><br/>
+			Juan Benitez 
+		</td>
+		<td>Epam Systems </td>
+		<td>No Twitter Username</td>
+		<td>Cartagena, Colombia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/YerlinMatu">
 				<img src="https://avatars.githubusercontent.com/u/15937354?s=72&u=ea4b70cd4c0d0119baf94f890c77c21316abcf87&v=4" width="24" alt="Avatar of YerlinMatu"> YerlinMatu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#YerlinMatu">Copy rank badge</a><br/>
 			Yerlin Maturana
 		</td>
 		<td>@h4ckdo  </td>
@@ -6709,24 +6789,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>515</td>
 		<td>
-			<a href="https://github.com/kristianpaul">
-				<img src="https://avatars.githubusercontent.com/u/326463?s=72&u=8a5a802fe34998231fea02e50c012223e0135f96&v=4" width="24" alt="Avatar of kristianpaul"> kristianpaul
-			</a><br/>
-			Cristian Paul Peñaranda Rojas
+			<a href="https://github.com/pkgzx">
+				<img src="https://avatars.githubusercontent.com/u/106822638?s=72&u=56b746d872adce4010541dac666c21c41371085e&v=4" width="24" alt="Avatar of pkgzx"> pkgzx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pkgzx">Copy rank badge</a><br/>
+			Olvadis Hernandez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kristianpaul0">kristianpaul0</a></td>
-		<td>Cali, Colombia</td>
-		<td>30</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>31</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/Ikdemm">
 				<img src="https://avatars.githubusercontent.com/u/41400280?s=72&u=d42defe149d3bf1c54e43a579bf512ecc5d09d80&v=4" width="24" alt="Avatar of Ikdemm"> Ikdemm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Ikdemm">Copy rank badge</a><br/>
 			Ikdem Ben Mbarek
 		</td>
 		<td>Waaw.tn </td>
@@ -6735,63 +6815,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>517</td>
 		<td>
-			<a href="https://github.com/Diego-18">
-				<img src="https://avatars.githubusercontent.com/u/40433474?s=72&u=40361a3fca84f581326a9cea308bed0fc4a16fa7&v=4" width="24" alt="Avatar of Diego-18"> Diego-18
-			</a><br/>
-			Diego Jose Chavez Chirinos
-		</td>
-		<td>Creativity Tech </td>
-		<td>No Twitter Username</td>
-		<td>Medellin - Colombia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/bakjos">
-				<img src="https://avatars.githubusercontent.com/u/1247502?s=72&u=5f63aa36a09a96bed347cd92475e3a53ad1c8bfa&v=4" width="24" alt="Avatar of bakjos"> bakjos
-			</a><br/>
-			Giovanny Gutiérrez
+			<a href="https://github.com/andrescortesdev">
+				<img src="https://avatars.githubusercontent.com/u/59241395?s=72&u=bc9c96532b6addf6d001948062fb4174603d84be&v=4" width="24" alt="Avatar of andrescortesdev"> andrescortesdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andrescortesdev">Copy rank badge</a><br/>
+			Robinson Andres Cortes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>Bogotá D.C</td>
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>513</td>
-		<td>
-			<a href="https://github.com/JuanJoseRestrepo">
-				<img src="https://avatars.githubusercontent.com/u/47890848?s=72&u=daacfdb462a41790c4bc8d282e747b286d3eb331&v=4" width="24" alt="Avatar of JuanJoseRestrepo"> JuanJoseRestrepo
-			</a><br/>
-			BoniJeyJey
-		</td>
-		<td>Icesi | Uniandes University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/mkualquiera">
-				<img src="https://avatars.githubusercontent.com/u/13303029?s=72&u=6bdbb9910bcd1b871de48a3bc6a64a8d7346546d&v=4" width="24" alt="Avatar of mkualquiera"> mkualquiera
-			</a><br/>
-			Juan Pablo Ossa Zapata
-		</td>
-		<td>@huestudios  </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>515</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/Sarl23">
 				<img src="https://avatars.githubusercontent.com/u/24307023?s=72&u=edb2f888d2a8972ea0362063dbb8d8c66b6f3e27&v=4" width="24" alt="Avatar of Sarl23"> Sarl23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Sarl23">Copy rank badge</a><br/>
 			Sergio Rojas
 		</td>
 		<td>No Company</td>
@@ -6800,24 +6841,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/jvidalba1">
-				<img src="https://avatars.githubusercontent.com/u/968980?s=72&u=d16d35f381675bccd7ae61003ea648dd64dffb6f&v=4" width="24" alt="Avatar of jvidalba1"> jvidalba1
-			</a><br/>
-			Mateo Vidal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín - Colombia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>517</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/MAFLIXD">
 				<img src="https://avatars.githubusercontent.com/u/116380301?s=72&u=9d0b22554ee6d583c00c521052be7935fc657655&v=4" width="24" alt="Avatar of MAFLIXD"> MAFLIXD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MAFLIXD">Copy rank badge</a><br/>
 			Santiago Mafla Gonzalez
 		</td>
 		<td>Compensar University Foundation </td>
@@ -6826,37 +6854,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/zarfadev">
-				<img src="https://avatars.githubusercontent.com/u/145287911?s=72&u=710be6fbd9ac24784cacd678bd3082babe4076fe&v=4" width="24" alt="Avatar of zarfadev"> zarfadev
-			</a><br/>
-			Miguel Villegas
-		</td>
-		<td>M&s Creators </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/apipemc">
-				<img src="https://avatars.githubusercontent.com/u/590222?s=72&u=eb3d0f9de7f55764cd44640c02b0070078fcfd94&v=4" width="24" alt="Avatar of apipemc"> apipemc
-			</a><br/>
-			Martinez Andres
-		</td>
-		<td>@red-valley </td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
 		<td>520</td>
+		<td>
+			<a href="https://github.com/jonatanmedina12">
+				<img src="https://avatars.githubusercontent.com/u/136943363?s=72&u=02d7a9bf99782224337ae68e6bafea4f897eba18&v=4" width="24" alt="Avatar of jonatanmedina12"> jonatanmedina12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jonatanmedina12">Copy rank badge</a><br/>
+			Jonatan_Medina
+		</td>
+		<td>I Work In This<br/>Thing<br/>Called<br/>Life<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia/Bogotá</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/sneyderdev">
 				<img src="https://avatars.githubusercontent.com/u/48073625?s=72&u=c4e1d1cf83a6f391e5073e0d3e67c06baaa3fbea&v=4" width="24" alt="Avatar of sneyderdev"> sneyderdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sneyderdev">Copy rank badge</a><br/>
 			Sneyder Barreto 
 		</td>
 		<td>No Company</td>
@@ -6865,63 +6880,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/pyjavo">
-				<img src="https://avatars.githubusercontent.com/u/3085051?s=72&u=29ca6eb41c61f070c62ba210d086905731e477c5&v=4" width="24" alt="Avatar of pyjavo"> pyjavo
-			</a><br/>
-			Javier Daza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
 		<td>522</td>
 		<td>
-			<a href="https://github.com/Camilo-neck">
-				<img src="https://avatars.githubusercontent.com/u/69314816?s=72&u=fd052118766bfce000e801405d793f47158abb37&v=4" width="24" alt="Avatar of Camilo-neck"> Camilo-neck
-			</a><br/>
-			Camilo
+			<a href="https://github.com/Diego-18">
+				<img src="https://avatars.githubusercontent.com/u/40433474?s=72&u=40361a3fca84f581326a9cea308bed0fc4a16fa7&v=4" width="24" alt="Avatar of Diego-18"> Diego-18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Diego-18">Copy rank badge</a><br/>
+			Diego Jose Chavez Chirinos
 		</td>
-		<td>Bettercampus </td>
+		<td>Creativity Tech </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Medellin - Colombia</td>
 		<td>29</td>
 	</tr>
 	<tr>
 		<td>523</td>
 		<td>
-			<a href="https://github.com/andcastillo">
-				<img src="https://avatars.githubusercontent.com/u/3810292?s=72&u=45e52ea4be11340e4b45b6c4d913abdf1cfeaa87&v=4" width="24" alt="Avatar of andcastillo"> andcastillo
-			</a><br/>
-			Andres Castillo
+			<a href="https://github.com/scastillo">
+				<img src="https://avatars.githubusercontent.com/u/170664?s=72&v=4" width="24" alt="Avatar of scastillo"> scastillo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#scastillo">Copy rank badge</a><br/>
+			Sebastian Castillo
 		</td>
-		<td>Univalle </td>
+		<td>@baristaventures  </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Medellin, Colombia</td>
 		<td>29</td>
 	</tr>
 	<tr>
 		<td>524</td>
 		<td>
-			<a href="https://github.com/andreshugueth">
-				<img src="https://avatars.githubusercontent.com/u/60365013?s=72&u=a46f6408a150556d87ef486cb0e3239e3034646a&v=4" width="24" alt="Avatar of andreshugueth"> andreshugueth
-			</a><br/>
-			Andres Hugueth
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/andreshugueth">andreshugueth</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>525</td>
-		<td>
 			<a href="https://github.com/AndresHerrera">
 				<img src="https://avatars.githubusercontent.com/u/725695?s=72&u=e7d7eae31590f34bd5d37019bcde3977cdf43f06&v=4" width="24" alt="Avatar of AndresHerrera"> AndresHerrera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AndresHerrera">Copy rank badge</a><br/>
 			Andres Herrera
 		</td>
 		<td>No Company</td>
@@ -6930,11 +6919,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/marisbotero">
 				<img src="https://avatars.githubusercontent.com/u/17012519?s=72&u=c6c97d5fc3fed5e466b0ff6bf00fa54d69551160&v=4" width="24" alt="Avatar of marisbotero"> marisbotero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marisbotero">Copy rank badge</a><br/>
 			Maris Botero
 		</td>
 		<td>@mercadolibre </td>
@@ -6943,11 +6932,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/carloscuatin">
 				<img src="https://avatars.githubusercontent.com/u/6613911?s=72&u=507c7ef3bc950fa90031936ba0fd1660ef8313f2&v=4" width="24" alt="Avatar of carloscuatin"> carloscuatin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carloscuatin">Copy rank badge</a><br/>
 			Carlos Cuatin
 		</td>
 		<td>No Company</td>
@@ -6956,11 +6945,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/mxaxaxbx">
+				<img src="https://avatars.githubusercontent.com/u/6446220?s=72&u=4debd19719e91e914df436c4d85c44765c60efe6&v=4" width="24" alt="Avatar of mxaxaxbx"> mxaxaxbx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mxaxaxbx">Copy rank badge</a><br/>
+			Miguel A. Arenas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/miguelarenascol">miguelarenascol</a></td>
+		<td>Bogotá, Colombìa</td>
+		<td>28</td>
+	</tr>
+	<tr>
 		<td>528</td>
 		<td>
 			<a href="https://github.com/ansalox">
 				<img src="https://avatars.githubusercontent.com/u/54609399?s=72&u=6ccd396418bf630d6373f1a606d65273a5a8c008&v=4" width="24" alt="Avatar of ansalox"> ansalox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ansalox">Copy rank badge</a><br/>
 			Ansalox
 		</td>
 		<td>Independent </td>
@@ -6973,7 +6975,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/jcvar">
 				<img src="https://avatars.githubusercontent.com/u/36166613?s=72&u=78200d5bc9ee53d3434eeb719c901124cb814144&v=4" width="24" alt="Avatar of jcvar"> jcvar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jcvar">Copy rank badge</a><br/>
 			Juan Camilo Vargas
 		</td>
 		<td>No Company</td>
@@ -6984,9 +6986,35 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>530</td>
 		<td>
+			<a href="https://github.com/carogomezt">
+				<img src="https://avatars.githubusercontent.com/u/17128791?s=72&u=ac99cf94e9268737308a72aae31fd8470704fece&v=4" width="24" alt="Avatar of carogomezt"> carogomezt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carogomezt">Copy rank badge</a><br/>
+			Carolina Gómez Trejos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/caro_gomezt">caro_gomezt</a></td>
+		<td>Colombia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/weincoder">
+				<img src="https://avatars.githubusercontent.com/u/25071700?s=72&u=fb97491701d80b073981a15bbfabd8e872bc77e9&v=4" width="24" alt="Avatar of weincoder"> weincoder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#weincoder">Copy rank badge</a><br/>
+			Daniel Herrera Sánchez
+		</td>
+		<td>@bancolombia </td>
+		<td><a href="https://twitter.com/weincoder">weincoder</a></td>
+		<td>Medellín</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
 			<a href="https://github.com/czam01">
 				<img src="https://avatars.githubusercontent.com/u/5354922?s=72&u=4c873ccd943b81f443891fbb0e03d2f41a7242c8&v=4" width="24" alt="Avatar of czam01"> czam01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#czam01">Copy rank badge</a><br/>
 			Carlos Zambrano
 		</td>
 		<td>No Company</td>
@@ -6995,11 +7023,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/david4tech">
+				<img src="https://avatars.githubusercontent.com/u/61300552?s=72&u=95dac36000a34d926a6d289b1a1a394fd62f1b24&v=4" width="24" alt="Avatar of david4tech"> david4tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#david4tech">Copy rank badge</a><br/>
+			David Arias Fuentes
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/devarias_">devarias_</a></td>
+		<td>Medellín</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/brayanrodallega">
+				<img src="https://avatars.githubusercontent.com/u/93452642?s=72&u=d3d817dfebce1e1a133bd5cb6133ffea5fce5610&v=4" width="24" alt="Avatar of brayanrodallega"> brayanrodallega
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#brayanrodallega">Copy rank badge</a><br/>
+			Brayan Rodallega
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Brayan1a1">Brayan1a1</a></td>
+		<td>Colombia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/GetDragon">
 				<img src="https://avatars.githubusercontent.com/u/26883875?s=72&u=170f40da7cb21988efba1281d94de4e4ec2df8cc&v=4" width="24" alt="Avatar of GetDragon"> GetDragon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#GetDragon">Copy rank badge</a><br/>
 			GetDragon
 		</td>
 		<td>Dragon Soft. </td>
@@ -7008,11 +7062,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/andresochoas">
+				<img src="https://avatars.githubusercontent.com/u/18619074?s=72&u=eac1d4b9155381277d6d88c56516e89315e49f33&v=4" width="24" alt="Avatar of andresochoas"> andresochoas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andresochoas">Copy rank badge</a><br/>
+			Andrés Ochoa
+		</td>
+		<td>@seudrim </td>
+		<td><a href="https://twitter.com/andresochoa">andresochoa</a></td>
+		<td>Colombia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/musartedev">
 				<img src="https://avatars.githubusercontent.com/u/22798836?s=72&u=7321d6771d73f65d6ebdb3bcb3c2dd3f095c1fdb&v=4" width="24" alt="Avatar of musartedev"> musartedev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#musartedev">Copy rank badge</a><br/>
 			Mariangélica Useche
 		</td>
 		<td>@platzidev  </td>
@@ -7021,24 +7088,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>538</td>
 		<td>
-			<a href="https://github.com/dcu">
-				<img src="https://avatars.githubusercontent.com/u/73729?s=72&v=4" width="24" alt="Avatar of dcu"> dcu
-			</a><br/>
-			David Cuadrado
+			<a href="https://github.com/jdjuan">
+				<img src="https://avatars.githubusercontent.com/u/3171900?s=72&u=cc1089bffd0741191b8e16bf97e0dcf8357cebe4&v=4" width="24" alt="Avatar of jdjuan"> jdjuan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdjuan">Copy rank badge</a><br/>
+			Juan Herrera
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
+		<td><a href="https://twitter.com/jdjuan">jdjuan</a></td>
+		<td>Manizales, Colombia</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/hguzman">
 				<img src="https://avatars.githubusercontent.com/u/1308210?s=72&u=55d29b427bff29bd5dd861f33f7dcd2f3957836a&v=4" width="24" alt="Avatar of hguzman"> hguzman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hguzman">Copy rank badge</a><br/>
 			Henry Miguel Guzmán Escorcia
 		</td>
 		<td>Carsok S.a.s </td>
@@ -7047,180 +7114,154 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>540</td>
 		<td>
-			<a href="https://github.com/mxaxaxbx">
-				<img src="https://avatars.githubusercontent.com/u/6446220?s=72&u=4debd19719e91e914df436c4d85c44765c60efe6&v=4" width="24" alt="Avatar of mxaxaxbx"> mxaxaxbx
-			</a><br/>
-			Miguel A. Arenas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/miguelarenascol">miguelarenascol</a></td>
-		<td>Bogotá, Colombìa</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/Sainterman">
-				<img src="https://avatars.githubusercontent.com/u/8432770?s=72&u=b93c25b72a2262459fa4e05e869405484f6e1778&v=4" width="24" alt="Avatar of Sainterman"> Sainterman
-			</a><br/>
-			Santiago Castillo
+			<a href="https://github.com/scuervo91">
+				<img src="https://avatars.githubusercontent.com/u/47048845?s=72&u=ef8db326ba3c6682b282288212b3a28300728a18&v=4" width="24" alt="Avatar of scuervo91"> scuervo91
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#scuervo91">Copy rank badge</a><br/>
+			Santiago Cuervo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Bogotá</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>541</td>
 		<td>
-			<a href="https://github.com/latorrents">
-				<img src="https://avatars.githubusercontent.com/u/11384973?s=72&u=c3b852f80e7c601484e9743a97ed51221e96b6eb&v=4" width="24" alt="Avatar of latorrents"> latorrents
-			</a><br/>
-			David Latorre
+			<a href="https://github.com/josearangos">
+				<img src="https://avatars.githubusercontent.com/u/13352055?s=72&u=21dc3e67cfc389d5fb1cfefa36947c3674608162&v=4" width="24" alt="Avatar of josearangos"> josearangos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#josearangos">Copy rank badge</a><br/>
+			Jose Alberto Arango Sanchez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lat0rrents">lat0rrents</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>25</td>
+		<td>Konecta </td>
+		<td>No Twitter Username</td>
+		<td>Medellín-Colombia</td>
+		<td>26</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/abracu">
 				<img src="https://avatars.githubusercontent.com/u/4533788?s=72&u=4562acdf88adf49ec531a85ae6031f5e940d8b4a&v=4" width="24" alt="Avatar of abracu"> abracu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#abracu">Copy rank badge</a><br/>
 			ALFREDO BRAVO CUERO
 		</td>
 		<td>Backend Developer </td>
 		<td><a href="https://twitter.com/abracu">abracu</a></td>
 		<td>Colombia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>539</td>
-		<td>
-			<a href="https://github.com/weincoder">
-				<img src="https://avatars.githubusercontent.com/u/25071700?s=72&u=fb97491701d80b073981a15bbfabd8e872bc77e9&v=4" width="24" alt="Avatar of weincoder"> weincoder
-			</a><br/>
-			Daniel Herrera Sánchez
-		</td>
-		<td>@bancolombia </td>
-		<td><a href="https://twitter.com/weincoder">weincoder</a></td>
-		<td>Medellín</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>540</td>
-		<td>
-			<a href="https://github.com/juan267">
-				<img src="https://avatars.githubusercontent.com/u/8763740?s=72&u=5f18186185f63eb44f0947fd78b8a5f9fdeb40bf&v=4" width="24" alt="Avatar of juan267"> juan267
-			</a><br/>
-			Juan Gomez Aranzazu
-		</td>
-		<td>@levelshealth  </td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a href="https://github.com/dsantafe">
-				<img src="https://avatars.githubusercontent.com/u/33662288?s=72&u=2822296a0f8cc689b04d1f6472a271b06db11c88&v=4" width="24" alt="Avatar of dsantafe"> dsantafe
-			</a><br/>
-			David Santafe Zorrilla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>542</td>
-		<td>
-			<a href="https://github.com/andresochoas">
-				<img src="https://avatars.githubusercontent.com/u/18619074?s=72&u=eac1d4b9155381277d6d88c56516e89315e49f33&v=4" width="24" alt="Avatar of andresochoas"> andresochoas
-			</a><br/>
-			Andrés Ochoa
-		</td>
-		<td>@seudrim </td>
-		<td><a href="https://twitter.com/andresochoa">andresochoa</a></td>
-		<td>Colombia</td>
-		<td>24</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>543</td>
 		<td>
-			<a href="https://github.com/jdjuan">
-				<img src="https://avatars.githubusercontent.com/u/3171900?s=72&u=cc1089bffd0741191b8e16bf97e0dcf8357cebe4&v=4" width="24" alt="Avatar of jdjuan"> jdjuan
-			</a><br/>
-			Juan Herrera
+			<a href="https://github.com/moisesvw">
+				<img src="https://avatars.githubusercontent.com/u/403136?s=72&u=d8fbc1e46aa7b4dbd9333763a8fdeaff96fd2aca&v=4" width="24" alt="Avatar of moisesvw"> moisesvw
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#moisesvw">Copy rank badge</a><br/>
+			Moises
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jdjuan">jdjuan</a></td>
-		<td>Manizales, Colombia</td>
-		<td>23</td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>544</td>
 		<td>
-			<a href="https://github.com/arpunk">
-				<img src="https://avatars.githubusercontent.com/u/11342?s=72&u=510d17763f42be9cce3d064830178e6c283b21fb&v=4" width="24" alt="Avatar of arpunk"> arpunk
-			</a><br/>
-			Ricardo Lanziano
+			<a href="https://github.com/dcu">
+				<img src="https://avatars.githubusercontent.com/u/73729?s=72&v=4" width="24" alt="Avatar of dcu"> dcu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dcu">Copy rank badge</a><br/>
+			David Cuadrado
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>23</td>
+		<td>Bogota, Colombia</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>545</td>
 		<td>
 			<a href="https://github.com/jsgiraldoh">
 				<img src="https://avatars.githubusercontent.com/u/8978140?s=72&u=11fb59044504216d0eb3b61987ab4978b2f3d2c9&v=4" width="24" alt="Avatar of jsgiraldoh"> jsgiraldoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jsgiraldoh">Copy rank badge</a><br/>
 			Johan Giraldo
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jsgiraldoh">jsgiraldoh</a></td>
 		<td>Armenia, Quindío, Colombia</td>
-		<td>23</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>546</td>
 		<td>
-			<a href="https://github.com/andrescortesdev">
-				<img src="https://avatars.githubusercontent.com/u/59241395?s=72&u=bc9c96532b6addf6d001948062fb4174603d84be&v=4" width="24" alt="Avatar of andrescortesdev"> andrescortesdev
-			</a><br/>
-			Robinson Andres Cortes
+			<a href="https://github.com/kmilo17pet">
+				<img src="https://avatars.githubusercontent.com/u/11412210?s=72&u=ddaaac7b147ed6eb4fdbd8031466b1a9350ce7e2&v=4" width="24" alt="Avatar of kmilo17pet"> kmilo17pet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kmilo17pet">Copy rank badge</a><br/>
+			J. Camilo G.C.
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogotá D.C</td>
-		<td>23</td>
+		<td>Medellín, Colombia</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>547</td>
 		<td>
-			<a href="https://github.com/moisesvw">
-				<img src="https://avatars.githubusercontent.com/u/403136?s=72&u=d8fbc1e46aa7b4dbd9333763a8fdeaff96fd2aca&v=4" width="24" alt="Avatar of moisesvw"> moisesvw
-			</a><br/>
-			Moises
+			<a href="https://github.com/harvic3">
+				<img src="https://avatars.githubusercontent.com/u/16002685?s=72&u=beff6ffc1f0f922361af364ece65153c0a52a7d1&v=4" width="24" alt="Avatar of harvic3"> harvic3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#harvic3">Copy rank badge</a><br/>
+			Vıɔʇoɹ A Hıƃnıʇɐ C
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>23</td>
+		<td>Wardenclyffe Ac </td>
+		<td><a href="https://twitter.com/vickoel">vickoel</a></td>
+		<td>Medellin/Colombia</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>548</td>
 		<td>
+			<a href="https://github.com/vdevalen">
+				<img src="https://avatars.githubusercontent.com/u/72038716?s=72&u=ff4025889e2568514c44333c42675f422bc5be86&v=4" width="24" alt="Avatar of vdevalen"> vdevalen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vdevalen">Copy rank badge</a><br/>
+			Valentina Pinzón Montoya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia.</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/BROC95">
+				<img src="https://avatars.githubusercontent.com/u/43561128?s=72&v=4" width="24" alt="Avatar of BROC95"> BROC95
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BROC95">Copy rank badge</a><br/>
+			Breyner Ocampo Cárdenas  
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/guerreroeileen">
+				<img src="https://avatars.githubusercontent.com/u/31892516?s=72&u=1bac172417ec5c47fc255b918c5b2a32885eb7aa&v=4" width="24" alt="Avatar of guerreroeileen"> guerreroeileen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#guerreroeileen">Copy rank badge</a><br/>
+			Eileen Guerrero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>
 			<a href="https://github.com/alejandronanez">
 				<img src="https://avatars.githubusercontent.com/u/464978?s=72&v=4" width="24" alt="Avatar of alejandronanez"> alejandronanez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#alejandronanez">Copy rank badge</a><br/>
 			Alejandro Ñáñez Ortiz
 		</td>
 		<td>@wisdom-dental </td>
@@ -7229,55 +7270,16 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>549</td>
-		<td>
-			<a href="https://github.com/StyvenSoft">
-				<img src="https://avatars.githubusercontent.com/u/10743862?s=72&u=ffe7bbe69deeb67c258e3270d02f105e548d13a3&v=4" width="24" alt="Avatar of StyvenSoft"> StyvenSoft
-			</a><br/>
-			Steveen Echeverri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/styvensoft">styvensoft</a></td>
-		<td>Colombia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>550</td>
-		<td>
-			<a href="https://github.com/camartinezbu">
-				<img src="https://avatars.githubusercontent.com/u/47795078?s=72&u=82bb464253a962d4ba9441785b85167411caef4e&v=4" width="24" alt="Avatar of camartinezbu"> camartinezbu
-			</a><br/>
-			Camilo Martínez Burgos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/camartinezbu">camartinezbu</a></td>
-		<td>Bogotá, Colombia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/scuervo91">
-				<img src="https://avatars.githubusercontent.com/u/47048845?s=72&u=ef8db326ba3c6682b282288212b3a28300728a18&v=4" width="24" alt="Avatar of scuervo91"> scuervo91
-			</a><br/>
-			Santiago Cuervo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>22</td>
-	</tr>
-	<tr>
 		<td>552</td>
 		<td>
-			<a href="https://github.com/vcardona">
-				<img src="https://avatars.githubusercontent.com/u/1784348?s=72&u=52b51215fa793382bcc098edffa092f70ae36d70&v=4" width="24" alt="Avatar of vcardona"> vcardona
-			</a><br/>
-			Victor Cardona
+			<a href="https://github.com/MinAnnie">
+				<img src="https://avatars.githubusercontent.com/u/57324708?s=72&u=6061436b7e1823cf0eecf4a5804b4f259a251eb8&v=4" width="24" alt="Avatar of MinAnnie"> MinAnnie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MinAnnie">Copy rank badge</a><br/>
+			Angie Matiz
 		</td>
-		<td>Vintage Robot </td>
-		<td>No Twitter Username</td>
-		<td>Medellín - Colombia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AngieMatiz6">AngieMatiz6</a></td>
+		<td>Colombia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -7285,7 +7287,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/jdgg777">
 				<img src="https://avatars.githubusercontent.com/u/93837288?s=72&v=4" width="24" alt="Avatar of jdgg777"> jdgg777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jdgg777">Copy rank badge</a><br/>
 			Jose Gomez
 		</td>
 		<td>No Company</td>
@@ -7296,14 +7298,14 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>554</td>
 		<td>
-			<a href="https://github.com/ferestrepoca">
-				<img src="https://avatars.githubusercontent.com/u/11912846?s=72&u=b9cd523f27c6d11b0e42493c36fa2a33fc0cbe17&v=4" width="24" alt="Avatar of ferestrepoca"> ferestrepoca
-			</a><br/>
-			Felipe Restrepo-Calle
+			<a href="https://github.com/japeto">
+				<img src="https://avatars.githubusercontent.com/u/9052079?s=72&u=a22c6a64cfac356aefd839ded74209f661732ec6&v=4" width="24" alt="Avatar of japeto"> japeto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#japeto">Copy rank badge</a><br/>
+			japeto
 		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>Universidad Del Valle </td>
+		<td><a href="https://twitter.com/jefferamado">jefferamado</a></td>
+		<td>Cali,Colombia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -7311,7 +7313,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/valegrajales">
 				<img src="https://avatars.githubusercontent.com/u/353398?s=72&u=a9bc3bb8687f40250c511813d6b0111e7c116eca&v=4" width="24" alt="Avatar of valegrajales"> valegrajales
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#valegrajales">Copy rank badge</a><br/>
 			Laura Valentina Grajales Olarte
 		</td>
 		<td>Microsoft </td>
@@ -7322,12 +7324,12 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>556</td>
 		<td>
-			<a href="https://github.com/andrescaro16">
-				<img src="https://avatars.githubusercontent.com/u/88978612?s=72&u=7889c35cec69b1b427563bd54f2a1a9057a0d6c6&v=4" width="24" alt="Avatar of andrescaro16"> andrescaro16
-			</a><br/>
-			Andrés Julian Caro Restrepo
+			<a href="https://github.com/dsantafe">
+				<img src="https://avatars.githubusercontent.com/u/33662288?s=72&u=2822296a0f8cc689b04d1f6472a271b06db11c88&v=4" width="24" alt="Avatar of dsantafe"> dsantafe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dsantafe">Copy rank badge</a><br/>
+			David Santafe Zorrilla
 		</td>
-		<td>@eafit </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>22</td>
@@ -7337,7 +7339,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/CsarGomez">
 				<img src="https://avatars.githubusercontent.com/u/5133753?s=72&u=5866f5a88b0b021d7098842dcfb88d2d6484a7f0&v=4" width="24" alt="Avatar of CsarGomez"> CsarGomez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CsarGomez">Copy rank badge</a><br/>
 			Cesar Gomez
 		</td>
 		<td>@innovateondemand </td>
@@ -7348,22 +7350,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>558</td>
 		<td>
-			<a href="https://github.com/imagentleman">
-				<img src="https://avatars.githubusercontent.com/u/2272928?s=72&u=d929cf5df6818665c94b53cc26f29e1be1016a66&v=4" width="24" alt="Avatar of imagentleman"> imagentleman
-			</a><br/>
-			José Antonio Chio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
 			<a href="https://github.com/jonakls">
 				<img src="https://avatars.githubusercontent.com/u/89610430?s=72&u=6f0a94f220a9a5ad5c3bde0788d518777c966f19&v=4" width="24" alt="Avatar of jonakls"> jonakls
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jonakls">Copy rank badge</a><br/>
 			Jonathan Narvaez
 		</td>
 		<td>Litigando </td>
@@ -7372,16 +7361,29 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/vcardona">
+				<img src="https://avatars.githubusercontent.com/u/1784348?s=72&u=52b51215fa793382bcc098edffa092f70ae36d70&v=4" width="24" alt="Avatar of vcardona"> vcardona
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vcardona">Copy rank badge</a><br/>
+			Victor Cardona
+		</td>
+		<td>Vintage Robot </td>
+		<td>No Twitter Username</td>
+		<td>Medellín - Colombia</td>
+		<td>21</td>
+	</tr>
+	<tr>
 		<td>560</td>
 		<td>
-			<a href="https://github.com/guerreroeileen">
-				<img src="https://avatars.githubusercontent.com/u/31892516?s=72&u=1bac172417ec5c47fc255b918c5b2a32885eb7aa&v=4" width="24" alt="Avatar of guerreroeileen"> guerreroeileen
-			</a><br/>
-			Eileen Guerrero
+			<a href="https://github.com/ferestrepoca">
+				<img src="https://avatars.githubusercontent.com/u/11912846?s=72&u=b9cd523f27c6d11b0e42493c36fa2a33fc0cbe17&v=4" width="24" alt="Avatar of ferestrepoca"> ferestrepoca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ferestrepoca">Copy rank badge</a><br/>
+			Felipe Restrepo-Calle
 		</td>
-		<td>No Company</td>
+		<td>Universidad Nacional De Colombia<br/></td>
 		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
+		<td>Bogotá, Colombia</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -7389,7 +7391,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/LizzParody">
 				<img src="https://avatars.githubusercontent.com/u/13105188?s=72&u=a3adc243a6e536ac2258b76a21e60f1bbb626707&v=4" width="24" alt="Avatar of LizzParody"> LizzParody
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LizzParody">Copy rank badge</a><br/>
 			Lizz Parody
 		</td>
 		<td>No Company</td>
@@ -7400,35 +7402,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>562</td>
 		<td>
-			<a href="https://github.com/HX-AQuintero">
-				<img src="https://avatars.githubusercontent.com/u/93171512?s=72&u=64a9394d2097d5405f985fafec7206554627e08e&v=4" width="24" alt="Avatar of HX-AQuintero"> HX-AQuintero
-			</a><br/>
-			Alejandro Quintero Mejía
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BatmathDev">BatmathDev</a></td>
-		<td>Medellín, Colombia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>563</td>
-		<td>
-			<a href="https://github.com/david4tech">
-				<img src="https://avatars.githubusercontent.com/u/61300552?s=72&u=95dac36000a34d926a6d289b1a1a394fd62f1b24&v=4" width="24" alt="Avatar of david4tech"> david4tech
-			</a><br/>
-			David Arias Fuentes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/devarias_">devarias_</a></td>
-		<td>Medellín</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>564</td>
-		<td>
 			<a href="https://github.com/woakas">
 				<img src="https://avatars.githubusercontent.com/u/131361?s=72&v=4" width="24" alt="Avatar of woakas"> woakas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#woakas">Copy rank badge</a><br/>
 			Gustavo Andrés Angulo
 		</td>
 		<td>Ubidots </td>
@@ -7437,11 +7413,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/juan267">
+				<img src="https://avatars.githubusercontent.com/u/8763740?s=72&u=5f18186185f63eb44f0947fd78b8a5f9fdeb40bf&v=4" width="24" alt="Avatar of juan267"> juan267
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juan267">Copy rank badge</a><br/>
+			Juan Gomez Aranzazu
+		</td>
+		<td>@levelshealth  </td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/Tech-Code1">
 				<img src="https://avatars.githubusercontent.com/u/61479618?s=72&u=2ea97abb32215042ae1edb2b1c037db3bb70fd61&v=4" width="24" alt="Avatar of Tech-Code1"> Tech-Code1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Tech-Code1">Copy rank badge</a><br/>
 			David Montoya
 		</td>
 		<td>Teleperformance </td>
@@ -7450,63 +7439,63 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/yoanpinzon">
+				<img src="https://avatars.githubusercontent.com/u/28374876?s=72&u=c9d194b598ca9befcd8b699a3cc131087310848f&v=4" width="24" alt="Avatar of yoanpinzon"> yoanpinzon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yoanpinzon">Copy rank badge</a><br/>
+			Yoan Pinzón
+		</td>
+		<td>Pontificia Universidad Javeriana Cali<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Cali </td>
+		<td>20</td>
+	</tr>
+	<tr>
 		<td>566</td>
 		<td>
-			<a href="https://github.com/141cg">
-				<img src="https://avatars.githubusercontent.com/u/223525554?s=72&u=4ac90f4fe0a3cc5998fb622d3e9cab7e82d8278f&v=4" width="24" alt="Avatar of 141cg"> 141cg
-			</a><br/>
-			Valentina Cardona Gómez
+			<a href="https://github.com/marcewp15">
+				<img src="https://avatars.githubusercontent.com/u/55101396?s=72&u=f7d6bc96e4f3a371ec06bb1f4df0265c057f9f7b&v=4" width="24" alt="Avatar of marcewp15"> marcewp15
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marcewp15">Copy rank badge</a><br/>
+			Marcela Sánchez
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín-Antioquía</td>
-		<td>20</td>
+		<td><a href="https://twitter.com/MarceWp15">MarceWp15</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>567</td>
 		<td>
-			<a href="https://github.com/harvic3">
-				<img src="https://avatars.githubusercontent.com/u/16002685?s=72&u=beff6ffc1f0f922361af364ece65153c0a52a7d1&v=4" width="24" alt="Avatar of harvic3"> harvic3
-			</a><br/>
-			Vıɔʇoɹ A Hıƃnıʇɐ C
+			<a href="https://github.com/Areshkew">
+				<img src="https://avatars.githubusercontent.com/u/63183250?s=72&u=2261ed0852ae27e96a17f965699715dcf1c1aae6&v=4" width="24" alt="Avatar of Areshkew"> Areshkew
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Areshkew">Copy rank badge</a><br/>
+			Gustavo Ramirez
 		</td>
-		<td>Wardenclyffe Ac </td>
-		<td><a href="https://twitter.com/vickodev">vickodev</a></td>
-		<td>Medellin/Colombia</td>
-		<td>20</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>568</td>
 		<td>
-			<a href="https://github.com/Josscoder">
-				<img src="https://avatars.githubusercontent.com/u/49004785?s=72&u=303d529b90226a2100d0982dd8468a7610e78ffc&v=4" width="24" alt="Avatar of Josscoder"> Josscoder
-			</a><br/>
-			Josscoder
+			<a href="https://github.com/marcof90">
+				<img src="https://avatars.githubusercontent.com/u/40369391?s=72&u=7e0b74b0a95a39fe40b0b19bf1549bf666a99c03&v=4" width="24" alt="Avatar of marcof90"> marcof90
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marcof90">Copy rank badge</a><br/>
+			Marco Fidel Sanabria
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Josscoder">Josscoder</a></td>
+		<td>Magic Solutions </td>
+		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>19</td>
 	</tr>
 	<tr>
 		<td>569</td>
 		<td>
-			<a href="https://github.com/jodatm">
-				<img src="https://avatars.githubusercontent.com/u/1753545?s=72&u=d914100e61be0aded6eae2c42239eac52a7a13d6&v=4" width="24" alt="Avatar of jodatm"> jodatm
-			</a><br/>
-			Joshua Triana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
 			<a href="https://github.com/ewa1do">
 				<img src="https://avatars.githubusercontent.com/u/72087299?s=72&u=ff82cacc96f4a2ed5e2b06319a9239520d352f08&v=4" width="24" alt="Avatar of ewa1do"> ewa1do
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ewa1do">Copy rank badge</a><br/>
 			Eduardo Vera
 		</td>
 		<td>No Company</td>
@@ -7515,11 +7504,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/m3lissaeg">
 				<img src="https://avatars.githubusercontent.com/u/42422967?s=72&u=4ce7bef0b797404720c34ce2195c6a4f18240571&v=4" width="24" alt="Avatar of m3lissaeg"> m3lissaeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#m3lissaeg">Copy rank badge</a><br/>
 			Melissa Escobar Gutiérrez
 		</td>
 		<td>No Company</td>
@@ -7528,11 +7517,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/MINOTAURO18">
 				<img src="https://avatars.githubusercontent.com/u/109045797?s=72&u=9559886baceb37ff127df86ae49b4e3088845710&v=4" width="24" alt="Avatar of MINOTAURO18"> MINOTAURO18
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MINOTAURO18">Copy rank badge</a><br/>
 			Alexander Muñoz
 		</td>
 		<td>Front-end Developer </td>
@@ -7541,11 +7530,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/andrescaro16">
+				<img src="https://avatars.githubusercontent.com/u/88978612?s=72&u=7889c35cec69b1b427563bd54f2a1a9057a0d6c6&v=4" width="24" alt="Avatar of andrescaro16"> andrescaro16
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andrescaro16">Copy rank badge</a><br/>
+			Andrés Julian Caro Restrepo
+		</td>
+		<td>@eafit </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>19</td>
+	</tr>
+	<tr>
 		<td>573</td>
 		<td>
 			<a href="https://github.com/jmarrietar">
 				<img src="https://avatars.githubusercontent.com/u/4519569?s=72&u=5e207a79cdcf96741d715719ac05e3b0a9f86081&v=4" width="24" alt="Avatar of jmarrietar"> jmarrietar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jmarrietar">Copy rank badge</a><br/>
 			Jose Miguel Arrieta
 		</td>
 		<td>Universidad Nacional De Colombia<br/><br/></td>
@@ -7556,35 +7558,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>574</td>
 		<td>
-			<a href="https://github.com/JahazielHernandezHoyos">
-				<img src="https://avatars.githubusercontent.com/u/48532611?s=72&u=33884fe0a76bc769aed6f4c88aa56a1fceac8c88&v=4" width="24" alt="Avatar of JahazielHernandezHoyos"> JahazielHernandezHoyos
-			</a><br/>
-			Jahaziel Hernandez Hoyos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia, Antioquia, Marinilla</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/nklopstock611">
-				<img src="https://avatars.githubusercontent.com/u/77993013?s=72&u=64efed3493db38754793c988da8a3edb8c2de021&v=4" width="24" alt="Avatar of nklopstock611"> nklopstock611
-			</a><br/>
-			Nicolás Klopstock Triana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
 			<a href="https://github.com/codewithsebas">
 				<img src="https://avatars.githubusercontent.com/u/91224854?s=72&u=1da7723b6bffc2f2e40a1e1369b07fc33ff4289a&v=4" width="24" alt="Avatar of codewithsebas"> codewithsebas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#codewithsebas">Copy rank badge</a><br/>
 			Joab Giraldo
 		</td>
 		<td>Canchea </td>
@@ -7593,24 +7569,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>575</td>
 		<td>
-			<a href="https://github.com/Areshkew">
-				<img src="https://avatars.githubusercontent.com/u/63183250?s=72&u=2261ed0852ae27e96a17f965699715dcf1c1aae6&v=4" width="24" alt="Avatar of Areshkew"> Areshkew
-			</a><br/>
-			Gustavo Ramirez
+			<a href="https://github.com/mafesernaarboleda">
+				<img src="https://avatars.githubusercontent.com/u/14205513?s=72&u=673074e36c2dc87f6a53249596148ea3b5b250aa&v=4" width="24" alt="Avatar of mafesernaarboleda"> mafesernaarboleda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mafesernaarboleda">Copy rank badge</a><br/>
+			Maria Fernanda Serna Arboleda
 		</td>
-		<td>No Company</td>
+		<td>Nodesource </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Medellin, Colombia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/fega">
 				<img src="https://avatars.githubusercontent.com/u/6069807?s=72&u=4223ca2f3ac13f571a44606278cb2081d497ca8c&v=4" width="24" alt="Avatar of fega"> fega
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#fega">Copy rank badge</a><br/>
 			Fabian Gutierrez
 		</td>
 		<td>Kickfit </td>
@@ -7619,11 +7595,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/dicodiaz">
 				<img src="https://avatars.githubusercontent.com/u/70329406?s=72&u=a3a9a3f06120ec64858867e9419d7229249e709c&v=4" width="24" alt="Avatar of dicodiaz"> dicodiaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dicodiaz">Copy rank badge</a><br/>
 			Dico Diaz Dussan
 		</td>
 		<td>No Company</td>
@@ -7632,24 +7608,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>580</td>
-		<td>
-			<a href="https://github.com/ashcat2005">
-				<img src="https://avatars.githubusercontent.com/u/8674093?s=72&v=4" width="24" alt="Avatar of ashcat2005"> ashcat2005
-			</a><br/>
-			Eduard Larranaga
-		</td>
-		<td>National Astronomical Observatory </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>581</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/jomen93">
 				<img src="https://avatars.githubusercontent.com/u/20984979?s=72&u=cf66ae36546fbae39cc57069fd258bc5fef6b32e&v=4" width="24" alt="Avatar of jomen93"> jomen93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jomen93">Copy rank badge</a><br/>
 			Johan Méndez
 		</td>
 		<td>No Company</td>
@@ -7658,63 +7621,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>579</td>
 		<td>
-			<a href="https://github.com/Carlos9190">
-				<img src="https://avatars.githubusercontent.com/u/145574115?s=72&u=0e9284071717feb8475667c9044b6a49e2d0f9fe&v=4" width="24" alt="Avatar of Carlos9190"> Carlos9190
-			</a><br/>
-			Carlos Eduardo Ibarra Manzano
+			<a href="https://github.com/ashcat2005">
+				<img src="https://avatars.githubusercontent.com/u/8674093?s=72&v=4" width="24" alt="Avatar of ashcat2005"> ashcat2005
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ashcat2005">Copy rank badge</a><br/>
+			Eduard Larranaga
 		</td>
-		<td>No Company</td>
+		<td>National Astronomical Observatory </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>580</td>
 		<td>
-			<a href="https://github.com/mpratt">
-				<img src="https://avatars.githubusercontent.com/u/647713?s=72&u=779d22067703d1e7641f05f877086b3ab3a036c5&v=4" width="24" alt="Avatar of mpratt"> mpratt
-			</a><br/>
-			Michael Pratt
+			<a href="https://github.com/dilanEspindola">
+				<img src="https://avatars.githubusercontent.com/u/85508235?s=72&u=e50a34fda5d688a4dcdaa709a932377b5e61e6cd&v=4" width="24" alt="Avatar of dilanEspindola"> dilanEspindola
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dilanEspindola">Copy rank badge</a><br/>
+			Siesta
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogotá - Colombia</td>
+		<td>colombia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>581</td>
 		<td>
-			<a href="https://github.com/paulocoronado">
-				<img src="https://avatars.githubusercontent.com/u/1460156?s=72&u=7dabaeab47a8fcfe1eaadfac2075b8d648cb0d5c&v=4" width="24" alt="Avatar of paulocoronado"> paulocoronado
-			</a><br/>
-			Paulo César Coronado
-		</td>
-		<td>Universidad Distrital Francisco José<br/>De<br/>Caldas<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/ecespedesp">
-				<img src="https://avatars.githubusercontent.com/u/154869462?s=72&u=807c5678abd10f57c445ea7bb4a4ed4d3803b84c&v=4" width="24" alt="Avatar of ecespedesp"> ecespedesp
-			</a><br/>
-			Elias Cespedes Pinedo
+			<a href="https://github.com/camartinezbu">
+				<img src="https://avatars.githubusercontent.com/u/47795078?s=72&u=82bb464253a962d4ba9441785b85167411caef4e&v=4" width="24" alt="Avatar of camartinezbu"> camartinezbu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camartinezbu">Copy rank badge</a><br/>
+			Camilo Martínez Burgos
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia, Santa  Marta</td>
-		<td>18</td>
+		<td><a href="https://twitter.com/camartinezbu">camartinezbu</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>17</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/Victorgonbu">
 				<img src="https://avatars.githubusercontent.com/u/61803988?s=72&u=42702d1a17231babd585ad1a335bd0c4ab778196&v=4" width="24" alt="Avatar of Victorgonbu"> Victorgonbu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Victorgonbu">Copy rank badge</a><br/>
 			Victor Manuel Gonzalez Buitrago
 		</td>
 		<td>Interfactura </td>
@@ -7723,11 +7673,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/LeoRToro">
 				<img src="https://avatars.githubusercontent.com/u/13055051?s=72&u=3563a740681267402838a1e9ae2a2aa6e5c864e0&v=4" width="24" alt="Avatar of LeoRToro"> LeoRToro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LeoRToro">Copy rank badge</a><br/>
 			LeoRamirez
 		</td>
 		<td>Themarketingroom Sas </td>
@@ -7736,37 +7686,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>588</td>
-		<td>
-			<a href="https://github.com/awwester">
-				<img src="https://avatars.githubusercontent.com/u/6151877?s=72&u=f3d1751e8b182f69ce844d3653661ac804a6e12e&v=4" width="24" alt="Avatar of awwester"> awwester
-			</a><br/>
-			Adam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Armenia, Colombia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>589</td>
-		<td>
-			<a href="https://github.com/marcof90">
-				<img src="https://avatars.githubusercontent.com/u/40369391?s=72&u=7e0b74b0a95a39fe40b0b19bf1549bf666a99c03&v=4" width="24" alt="Avatar of marcof90"> marcof90
-			</a><br/>
-			Marco Fidel Sanabria
-		</td>
-		<td>Magic Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>590</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/rskinnerc">
 				<img src="https://avatars.githubusercontent.com/u/26911718?s=72&u=3aba4a1a31cc53a3a5a58efc560477bd74603d0a&v=4" width="24" alt="Avatar of rskinnerc"> rskinnerc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rskinnerc">Copy rank badge</a><br/>
 			Ronald Skinner
 		</td>
 		<td>Dealmaker </td>
@@ -7775,11 +7699,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/sebastianfrasic">
 				<img src="https://avatars.githubusercontent.com/u/32890741?s=72&u=155555e72bef1a50444e6d77885c9e270a178430&v=4" width="24" alt="Avatar of sebastianfrasic"> sebastianfrasic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sebastianfrasic">Copy rank badge</a><br/>
 			Juan Sebastián Frásica G
 		</td>
 		<td>Mercado Libre </td>
@@ -7788,37 +7712,76 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>586</td>
 		<td>
-			<a href="https://github.com/marlondeve">
-				<img src="https://avatars.githubusercontent.com/u/98413724?s=72&u=233edd10576c7d02a5b38630c32f7a7a27194904&v=4" width="24" alt="Avatar of marlondeve"> marlondeve
-			</a><br/>
-			Marlon Miranda
+			<a href="https://github.com/mpratt">
+				<img src="https://avatars.githubusercontent.com/u/647713?s=72&u=779d22067703d1e7641f05f877086b3ab3a036c5&v=4" width="24" alt="Avatar of mpratt"> mpratt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mpratt">Copy rank badge</a><br/>
+			Michael Pratt
 		</td>
-		<td>Meritumdev </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá - Colombia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/paulocoronado">
+				<img src="https://avatars.githubusercontent.com/u/1460156?s=72&u=7dabaeab47a8fcfe1eaadfac2075b8d648cb0d5c&v=4" width="24" alt="Avatar of paulocoronado"> paulocoronado
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#paulocoronado">Copy rank badge</a><br/>
+			Paulo César Coronado
+		</td>
+		<td>Universidad Distrital Francisco José<br/>De<br/>Caldas<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/ecespedesp">
+				<img src="https://avatars.githubusercontent.com/u/154869462?s=72&u=807c5678abd10f57c445ea7bb4a4ed4d3803b84c&v=4" width="24" alt="Avatar of ecespedesp"> ecespedesp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ecespedesp">Copy rank badge</a><br/>
+			Elias Cespedes Pinedo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia, Santa  Marta</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/DeveloperMDCM">
+				<img src="https://avatars.githubusercontent.com/u/54366580?s=72&u=fef870c20268246e3668c8faf70a64e07a68688d&v=4" width="24" alt="Avatar of DeveloperMDCM"> DeveloperMDCM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DeveloperMDCM">Copy rank badge</a><br/>
+			MDCM
+		</td>
+		<td>Cecar, Jiraco, Erco </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>590</td>
 		<td>
-			<a href="https://github.com/japeto">
-				<img src="https://avatars.githubusercontent.com/u/9052079?s=72&u=a22c6a64cfac356aefd839ded74209f661732ec6&v=4" width="24" alt="Avatar of japeto"> japeto
-			</a><br/>
-			japeto
+			<a href="https://github.com/apipemc">
+				<img src="https://avatars.githubusercontent.com/u/590222?s=72&u=eb3d0f9de7f55764cd44640c02b0070078fcfd94&v=4" width="24" alt="Avatar of apipemc"> apipemc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#apipemc">Copy rank badge</a><br/>
+			Martinez Andres
 		</td>
-		<td>Universidad Del Valle </td>
-		<td><a href="https://twitter.com/jefferamado">jefferamado</a></td>
-		<td>Cali,Colombia</td>
+		<td>@red-valley </td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/cjamcu">
 				<img src="https://avatars.githubusercontent.com/u/42654354?s=72&u=447756c0978a76e2413fd559be9a94cc49462494&v=4" width="24" alt="Avatar of cjamcu"> cjamcu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cjamcu">Copy rank badge</a><br/>
 			Carlos Javier
 		</td>
 		<td>No Company</td>
@@ -7827,24 +7790,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>595</td>
-		<td>
-			<a href="https://github.com/manuelj555">
-				<img src="https://avatars.githubusercontent.com/u/1214013?s=72&u=4468d26b2f2ceb1e2c6c6dcb03f5e92d5ab596a9&v=4" width="24" alt="Avatar of manuelj555"> manuelj555
-			</a><br/>
-			Manuel Aguirre
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>596</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/JuanCarlosMarino">
 				<img src="https://avatars.githubusercontent.com/u/46898982?s=72&u=af5d66b566b90a44e41658e88d0db311f6c86b65&v=4" width="24" alt="Avatar of JuanCarlosMarino"> JuanCarlosMarino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanCarlosMarino">Copy rank badge</a><br/>
 			Juan Carlos Mariño Morantes
 		</td>
 		<td>Universidad Pontificia Bolivariana </td>
@@ -7853,24 +7803,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>593</td>
 		<td>
-			<a href="https://github.com/mafesernaarboleda">
-				<img src="https://avatars.githubusercontent.com/u/14205513?s=72&u=673074e36c2dc87f6a53249596148ea3b5b250aa&v=4" width="24" alt="Avatar of mafesernaarboleda"> mafesernaarboleda
-			</a><br/>
-			Maria Fernanda Serna Arboleda
+			<a href="https://github.com/marlondeve">
+				<img src="https://avatars.githubusercontent.com/u/98413724?s=72&u=233edd10576c7d02a5b38630c32f7a7a27194904&v=4" width="24" alt="Avatar of marlondeve"> marlondeve
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marlondeve">Copy rank badge</a><br/>
+			Marlon Miranda
 		</td>
-		<td>Nodesource </td>
+		<td>Meritumdev </td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td>Colombia</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/manuelzapata">
 				<img src="https://avatars.githubusercontent.com/u/427391?s=72&u=ddb037a1fdbc56107716638a5fc30fa791decf9e&v=4" width="24" alt="Avatar of manuelzapata"> manuelzapata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#manuelzapata">Copy rank badge</a><br/>
 			Manuel Zapata
 		</td>
 		<td>No Company</td>
@@ -7879,11 +7829,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/ProfeJulianLasso">
 				<img src="https://avatars.githubusercontent.com/u/98534497?s=72&u=71bb3e9f3a6658e396651d2798a59731db5a0701&v=4" width="24" alt="Avatar of ProfeJulianLasso"> ProfeJulianLasso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ProfeJulianLasso">Copy rank badge</a><br/>
 			Julian Lasso
 		</td>
 		<td>Sofka Technologies </td>
@@ -7892,37 +7842,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>596</td>
 		<td>
-			<a href="https://github.com/AngelSanchezT">
-				<img src="https://avatars.githubusercontent.com/u/13964664?s=72&u=c4df74fdb77e61a6a5b19e3da822df6cc4d6eb35&v=4" width="24" alt="Avatar of AngelSanchezT"> AngelSanchezT
-			</a><br/>
-			Angel Sanchez Tenjo
+			<a href="https://github.com/nklopstock611">
+				<img src="https://avatars.githubusercontent.com/u/77993013?s=72&u=64efed3493db38754793c988da8a3edb8c2de021&v=4" width="24" alt="Avatar of nklopstock611"> nklopstock611
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nklopstock611">Copy rank badge</a><br/>
+			Nicolás Klopstock Triana
 		</td>
-		<td>Xolit </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
+		<td>Bogotá</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/BonIcy">
+				<img src="https://avatars.githubusercontent.com/u/124089647?s=72&u=946d94ccf99aa61e040fd85d9c38bd4dae85851e&v=4" width="24" alt="Avatar of BonIcy"> BonIcy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BonIcy">Copy rank badge</a><br/>
+			Yisuusss:3
+		</td>
+		<td>Uts </td>
+		<td>No Twitter Username</td>
+		<td>Bucaramanga, Colombia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/judero01col">
+				<img src="https://avatars.githubusercontent.com/u/22176530?s=72&u=8f7f430b0016aa14b37195437d7b4103f31732fa&v=4" width="24" alt="Avatar of judero01col"> judero01col
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#judero01col">Copy rank badge</a><br/>
+			Jurgen De León Rodriguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>601</td>
-		<td>
-			<a href="https://github.com/soreygarcia">
-				<img src="https://avatars.githubusercontent.com/u/1839450?s=72&v=4" width="24" alt="Avatar of soreygarcia"> soreygarcia
-			</a><br/>
-			Sorey García
-		</td>
-		<td>Mill 5 </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>602</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/andres-morenogr">
 				<img src="https://avatars.githubusercontent.com/u/18253264?s=72&u=65ba340f7ce56a4cce522029ad0a8d1ec25211eb&v=4" width="24" alt="Avatar of andres-morenogr"> andres-morenogr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andres-morenogr">Copy rank badge</a><br/>
 			Andrés Moreno
 		</td>
 		<td>No Company</td>
@@ -7931,24 +7894,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>600</td>
 		<td>
-			<a href="https://github.com/dwn84">
-				<img src="https://avatars.githubusercontent.com/u/50523550?s=72&v=4" width="24" alt="Avatar of dwn84"> dwn84
-			</a><br/>
-			No Name
+			<a href="https://github.com/jodatm">
+				<img src="https://avatars.githubusercontent.com/u/1753545?s=72&u=d914100e61be0aded6eae2c42239eac52a7a13d6&v=4" width="24" alt="Avatar of jodatm"> jodatm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jodatm">Copy rank badge</a><br/>
+			Joshua Triana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/niwdeyen">niwdeyen</a></td>
-		<td>Colombia</td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/141cg">
+				<img src="https://avatars.githubusercontent.com/u/223525554?s=72&u=4ac90f4fe0a3cc5998fb622d3e9cab7e82d8278f&v=4" width="24" alt="Avatar of 141cg"> 141cg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#141cg">Copy rank badge</a><br/>
+			Valentina Cardona Gómez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín-Antioquía</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/JuanJoDiaz19">
 				<img src="https://avatars.githubusercontent.com/u/103236583?s=72&u=d7ead8548fdec4332c3da01eb9b0c5bdf3582201&v=4" width="24" alt="Avatar of JuanJoDiaz19"> JuanJoDiaz19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanJoDiaz19">Copy rank badge</a><br/>
 			Juan Jose Diaz
 		</td>
 		<td>Universidad Icesi </td>
@@ -7957,24 +7933,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>605</td>
-		<td>
-			<a href="https://github.com/MACEVAMO26">
-				<img src="https://avatars.githubusercontent.com/u/111383645?s=72&u=d7323e6cf42936800af96783b89185dea7ea6937&v=4" width="24" alt="Avatar of MACEVAMO26"> MACEVAMO26
-			</a><br/>
-			Maria Vanegas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>606</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/Barmadmim">
 				<img src="https://avatars.githubusercontent.com/u/176044194?s=72&u=bf6b7720b16b436ee640dec7619976ad64d68847&v=4" width="24" alt="Avatar of Barmadmim"> Barmadmim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Barmadmim">Copy rank badge</a><br/>
 			Bryan Andres Ramírez Márquez
 		</td>
 		<td>No Company</td>
@@ -7983,11 +7946,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/FingerTipsSN">
 				<img src="https://avatars.githubusercontent.com/u/100815753?s=72&u=508bd3eb8671231f794b86798a5ee6a9a5315989&v=4" width="24" alt="Avatar of FingerTipsSN"> FingerTipsSN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#FingerTipsSN">Copy rank badge</a><br/>
 			ManuDev
 		</td>
 		<td>Bancolombia </td>
@@ -7996,63 +7959,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>605</td>
 		<td>
-			<a href="https://github.com/DeveloperMDCM">
-				<img src="https://avatars.githubusercontent.com/u/54366580?s=72&u=fef870c20268246e3668c8faf70a64e07a68688d&v=4" width="24" alt="Avatar of DeveloperMDCM"> DeveloperMDCM
-			</a><br/>
-			MDCM
-		</td>
-		<td>Cecar, Jiraco, Erco </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>609</td>
-		<td>
-			<a href="https://github.com/leonjaramillo">
-				<img src="https://avatars.githubusercontent.com/u/10146089?s=72&u=b914c314cb8ffd0c645144c35305d55431806057&v=4" width="24" alt="Avatar of leonjaramillo"> leonjaramillo
-			</a><br/>
-			León Jaramillo
-		</td>
-		<td>@spla  </td>
-		<td>No Twitter Username</td>
-		<td>Marinilla, Colombia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/scastillo">
-				<img src="https://avatars.githubusercontent.com/u/170664?s=72&v=4" width="24" alt="Avatar of scastillo"> scastillo
-			</a><br/>
-			Sebastian Castillo
-		</td>
-		<td>@baristaventures  </td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>611</td>
-		<td>
-			<a href="https://github.com/brayanrodallega">
-				<img src="https://avatars.githubusercontent.com/u/93452642?s=72&u=d3d817dfebce1e1a133bd5cb6133ffea5fce5610&v=4" width="24" alt="Avatar of brayanrodallega"> brayanrodallega
-			</a><br/>
-			Brayan Rodallega
+			<a href="https://github.com/Daz-Riza-Seriog">
+				<img src="https://avatars.githubusercontent.com/u/69307962?s=72&u=45a7d1e256ec9c9f37332fd3160968b75239dbfa&v=4" width="24" alt="Avatar of Daz-Riza-Seriog"> Daz-Riza-Seriog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Daz-Riza-Seriog">Copy rank badge</a><br/>
+			Sergio Andrés Díaz Ariza
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Brayan1a1">Brayan1a1</a></td>
+		<td><a href="https://twitter.com/Daz_Riza_Serio">Daz_Riza_Serio</a></td>
 		<td>Colombia</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/datacloudgui">
 				<img src="https://avatars.githubusercontent.com/u/20608195?s=72&u=938d32e6e3886897981a555fd19e389fc4e045e6&v=4" width="24" alt="Avatar of datacloudgui"> datacloudgui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#datacloudgui">Copy rank badge</a><br/>
 			Guillermo S
 		</td>
 		<td>No Company</td>
@@ -8061,11 +7985,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/davrivas">
+				<img src="https://avatars.githubusercontent.com/u/15196755?s=72&u=41e8a07222b3989cd7ce00bfc111cd7d0960b401&v=4" width="24" alt="Avatar of davrivas"> davrivas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davrivas">Copy rank badge</a><br/>
+			David Rivas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/jon85p">
+				<img src="https://avatars.githubusercontent.com/u/490112?s=72&u=a5604a9ef162c10e289a287bb7c47cb9eac1752e&v=4" width="24" alt="Avatar of jon85p"> jon85p
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jon85p">Copy rank badge</a><br/>
+			Jhon Valencia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucaramanga, Colombia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/teffcode">
 				<img src="https://avatars.githubusercontent.com/u/25943655?s=72&u=19b88fe5a166241acd15a5cea357b0bc38d83ce3&v=4" width="24" alt="Avatar of teffcode"> teffcode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#teffcode">Copy rank badge</a><br/>
 			Estefany Aguilar 
 		</td>
 		<td>No Company</td>
@@ -8074,11 +8024,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/mfcaicedo">
 				<img src="https://avatars.githubusercontent.com/u/67482617?s=72&u=519bebef03c1bd07f3281293ffe5daf616661237&v=4" width="24" alt="Avatar of mfcaicedo"> mfcaicedo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mfcaicedo">Copy rank badge</a><br/>
 			Milthon Caicedo
 		</td>
 		<td>Universidad Del Cauca </td>
@@ -8087,11 +8037,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/yeion7">
+				<img src="https://avatars.githubusercontent.com/u/9127504?s=72&u=2030798999e29a0ab4e2e785603f3c5bce1337f8&v=4" width="24" alt="Avatar of yeion7"> yeion7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yeion7">Copy rank badge</a><br/>
+			Yeison Daza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/LuisRicado77">
 				<img src="https://avatars.githubusercontent.com/u/94335765?s=72&u=b9465fbae242dc1c91d5231f19a88977c6d116f8&v=4" width="24" alt="Avatar of LuisRicado77"> LuisRicado77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LuisRicado77">Copy rank badge</a><br/>
 			Luis Daniel Ricardo Sayas
 		</td>
 		<td>Home </td>
@@ -8100,11 +8063,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/agzsoftsi">
 				<img src="https://avatars.githubusercontent.com/u/7608129?s=72&u=1b0148d4e46d19999d70360014d1a05e4a599f4f&v=4" width="24" alt="Avatar of agzsoftsi"> agzsoftsi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#agzsoftsi">Copy rank badge</a><br/>
 			Carlos Garcia
 		</td>
 		<td>Agzsoftsi </td>
@@ -8113,11 +8076,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/cartovarc">
 				<img src="https://avatars.githubusercontent.com/u/26529546?s=72&u=312fb1574e6fcad1afc320a44ec2f419103ad6fc&v=4" width="24" alt="Avatar of cartovarc"> cartovarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cartovarc">Copy rank badge</a><br/>
 			Carlos Fernando Tovar Ceron
 		</td>
 		<td>No Company</td>
@@ -8126,41 +8089,80 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/kristellu">
+				<img src="https://avatars.githubusercontent.com/u/28717626?s=72&u=c85ba6d74c476f3d6ff2c5e27cbf73fb71531391&v=4" width="24" alt="Avatar of kristellu"> kristellu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kristellu">Copy rank badge</a><br/>
+			Kristell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/Josscoder">
+				<img src="https://avatars.githubusercontent.com/u/49004785?s=72&u=303d529b90226a2100d0982dd8468a7610e78ffc&v=4" width="24" alt="Avatar of Josscoder"> Josscoder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Josscoder">Copy rank badge</a><br/>
+			Josscoder
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Josscoder">Josscoder</a></td>
+		<td>Colombia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/dwn84">
+				<img src="https://avatars.githubusercontent.com/u/50523550?s=72&v=4" width="24" alt="Avatar of dwn84"> dwn84
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dwn84">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/niwdeyen">niwdeyen</a></td>
+		<td>Colombia</td>
+		<td>12</td>
+	</tr>
+	<tr>
 		<td>618</td>
 		<td>
-			<a href="https://github.com/Rocio01">
-				<img src="https://avatars.githubusercontent.com/u/57466928?s=72&u=93991bcf5241dd5fc4ce9c44e67d16b8ec1e1ba4&v=4" width="24" alt="Avatar of Rocio01"> Rocio01
-			</a><br/>
-			Zulma Rocio Martinez Guarin
+			<a href="https://github.com/manuelj555">
+				<img src="https://avatars.githubusercontent.com/u/1214013?s=72&u=4468d26b2f2ceb1e2c6c6dcb03f5e92d5ab596a9&v=4" width="24" alt="Avatar of manuelj555"> manuelj555
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#manuelj555">Copy rank badge</a><br/>
+			Manuel Aguirre
 		</td>
-		<td>Freelance Full-stack Developer </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogota - Colombia</td>
+		<td>Colombia</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>619</td>
 		<td>
-			<a href="https://github.com/camilaleniss">
-				<img src="https://avatars.githubusercontent.com/u/34484913?s=72&u=5899cd36804ea73b047349b96f13379c8df64041&v=4" width="24" alt="Avatar of camilaleniss"> camilaleniss
-			</a><br/>
-			Camila Lenis
+			<a href="https://github.com/Liceth">
+				<img src="https://avatars.githubusercontent.com/u/7264272?s=72&u=78e58eafc063f0319556eab4ee906097c61404a9&v=4" width="24" alt="Avatar of Liceth"> Liceth
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Liceth">Copy rank badge</a><br/>
+			Liceth Ovalles
 		</td>
-		<td>@nubank </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
+		<td>@kinesso </td>
+		<td><a href="https://twitter.com/liloovalles">liloovalles</a></td>
+		<td>Bogotá </td>
 		<td>11</td>
 	</tr>
 	<tr>
 		<td>620</td>
 		<td>
-			<a href="https://github.com/MinAnnie">
-				<img src="https://avatars.githubusercontent.com/u/57324708?s=72&u=6061436b7e1823cf0eecf4a5804b4f259a251eb8&v=4" width="24" alt="Avatar of MinAnnie"> MinAnnie
-			</a><br/>
-			Angie Matiz
+			<a href="https://github.com/sha2cs">
+				<img src="https://avatars.githubusercontent.com/u/122885545?s=72&u=b5794cf3d1827a182262eb35b539d671ba164bbc&v=4" width="24" alt="Avatar of sha2cs"> sha2cs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sha2cs">Copy rank badge</a><br/>
+			Hermes Alejandro Acevedo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AngieMatiz6">AngieMatiz6</a></td>
+		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>11</td>
 	</tr>
@@ -8169,7 +8171,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/jissbossh">
 				<img src="https://avatars.githubusercontent.com/u/50022849?s=72&u=c87e33f6aa9955bbb91a11ba0a57c2eb4a9a85de&v=4" width="24" alt="Avatar of jissbossh"> jissbossh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jissbossh">Copy rank badge</a><br/>
 			Jorge Ivan Sierra Suarez
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/camy2015">
 				<img src="https://avatars.githubusercontent.com/u/125774547?s=72&u=55d37f91f444c58a2052e516e821733a19f7c470&v=4" width="24" alt="Avatar of camy2015"> camy2015
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camy2015">Copy rank badge</a><br/>
 			CamyGrbb
 		</td>
 		<td>No Company</td>
@@ -8193,22 +8195,22 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>623</td>
 		<td>
-			<a href="https://github.com/asenac">
-				<img src="https://avatars.githubusercontent.com/u/1282736?s=72&u=4c4a75d887839d0fe11f9515d5d02c0498662b04&v=4" width="24" alt="Avatar of asenac"> asenac
-			</a><br/>
-			Andrés Senac
+			<a href="https://github.com/StyvenSoft">
+				<img src="https://avatars.githubusercontent.com/u/10743862?s=72&u=ffe7bbe69deeb67c258e3270d02f105e548d13a3&v=4" width="24" alt="Avatar of StyvenSoft"> StyvenSoft
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#StyvenSoft">Copy rank badge</a><br/>
+			Steveen Echeverri
 		</td>
-		<td>@firebolt-analytics  </td>
-		<td><a href="https://twitter.com/cu3dots">cu3dots</a></td>
-		<td>Cartagena, Spain</td>
-		<td>11</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/styvensoft">styvensoft</a></td>
+		<td>Colombia</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>624</td>
 		<td>
 			<a href="https://github.com/gollum23">
 				<img src="https://avatars.githubusercontent.com/u/1058783?s=72&v=4" width="24" alt="Avatar of gollum23"> gollum23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gollum23">Copy rank badge</a><br/>
 			Diego Forero
 		</td>
 		<td>No Company</td>
@@ -8219,22 +8221,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>625</td>
 		<td>
-			<a href="https://github.com/4SoftwareDevelopers">
-				<img src="https://avatars.githubusercontent.com/u/48886136?s=72&u=ba12665052571a5379c7f8ba11c5f0122c51aae8&v=4" width="24" alt="Avatar of 4SoftwareDevelopers"> 4SoftwareDevelopers
-			</a><br/>
-			4SoftwareDevelopers
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/4SDevelopers">4SDevelopers</a></td>
-		<td>Colombia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
 			<a href="https://github.com/ansegura7">
 				<img src="https://avatars.githubusercontent.com/u/36505798?s=72&u=e023f5faf826527b1876c245ed04fb6bd76f41ef&v=4" width="24" alt="Avatar of ansegura7"> ansegura7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ansegura7">Copy rank badge</a><br/>
 			Andres Segura-Tinoco
 		</td>
 		<td>No Company</td>
@@ -8243,11 +8232,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/anagudelogu">
 				<img src="https://avatars.githubusercontent.com/u/77069011?s=72&u=cd5d4aeaababf8a3624c236f5ff0f389a55bb043&v=4" width="24" alt="Avatar of anagudelogu"> anagudelogu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#anagudelogu">Copy rank badge</a><br/>
 			Andres Agudelo Guzman
 		</td>
 		<td>No Company</td>
@@ -8256,37 +8245,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/leonjaramillo">
+				<img src="https://avatars.githubusercontent.com/u/10146089?s=72&u=b914c314cb8ffd0c645144c35305d55431806057&v=4" width="24" alt="Avatar of leonjaramillo"> leonjaramillo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leonjaramillo">Copy rank badge</a><br/>
+			León Jaramillo
+		</td>
+		<td>@spla  </td>
+		<td>No Twitter Username</td>
+		<td>Marinilla, Colombia</td>
+		<td>10</td>
+	</tr>
+	<tr>
 		<td>628</td>
-		<td>
-			<a href="https://github.com/judero01col">
-				<img src="https://avatars.githubusercontent.com/u/22176530?s=72&u=8f7f430b0016aa14b37195437d7b4103f31732fa&v=4" width="24" alt="Avatar of judero01col"> judero01col
-			</a><br/>
-			Jurgen De León Rodriguez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a href="https://github.com/jcbages">
-				<img src="https://avatars.githubusercontent.com/u/4754941?s=72&u=61d0009e8c790307c633fe9b42da107f9eecd0b3&v=4" width="24" alt="Avatar of jcbages"> jcbages
-			</a><br/>
-			Juan Camilo Bages
-		</td>
-		<td>Jcbages.com </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>630</td>
 		<td>
 			<a href="https://github.com/JhennerTigreros">
 				<img src="https://avatars.githubusercontent.com/u/32320832?s=72&u=466af6bcb7080ca3d1c4ee4e0b9dfd5cecce6268&v=4" width="24" alt="Avatar of JhennerTigreros"> JhennerTigreros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JhennerTigreros">Copy rank badge</a><br/>
 			Jhenner Tigreros
 		</td>
 		<td>Www.platzi.com </td>
@@ -8295,11 +8271,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>629</td>
+		<td>
+			<a href="https://github.com/BioAITeam">
+				<img src="https://avatars.githubusercontent.com/u/69865207?s=72&u=0fc09e5a8589b9ac0dceca98800e9188e25c64a1&v=4" width="24" alt="Avatar of BioAITeam"> BioAITeam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BioAITeam">Copy rank badge</a><br/>
+			Bioinformatics and Artificial Intelligence Team
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/cejaramillof">
 				<img src="https://avatars.githubusercontent.com/u/19381328?s=72&u=003a6e10a95ce0e8908916b7b2a061b1a6677861&v=4" width="24" alt="Avatar of cejaramillof"> cejaramillof
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cejaramillof">Copy rank badge</a><br/>
 			Carlos Jaramillo
 		</td>
 		<td>@terminalinc  </td>
@@ -8308,11 +8297,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/julianfrancor">
 				<img src="https://avatars.githubusercontent.com/u/53787841?s=72&u=f4d466ff5f6e9ffaba3efa44663c58c871e3e60c&v=4" width="24" alt="Avatar of julianfrancor"> julianfrancor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#julianfrancor">Copy rank badge</a><br/>
 			Julian Franco
 		</td>
 		<td>Mercado Libre </td>
@@ -8321,11 +8310,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/juanrmv">
 				<img src="https://avatars.githubusercontent.com/u/7602986?s=72&u=dcec6ccf5f1c9988444e27fad467eff646f16e3c&v=4" width="24" alt="Avatar of juanrmv"> juanrmv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanrmv">Copy rank badge</a><br/>
 			Juan Ricardo Martín
 		</td>
 		<td>@kashportsa  </td>
@@ -8334,24 +8323,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>634</td>
-		<td>
-			<a href="https://github.com/redrabbit">
-				<img src="https://avatars.githubusercontent.com/u/430974?s=72&u=a331b5bfa7b803a4ceb531c0a86b50a46922e2d1&v=4" width="24" alt="Avatar of redrabbit"> redrabbit
-			</a><br/>
-			Mario Flach
-		</td>
-		<td>@marko-ding  </td>
-		<td>No Twitter Username</td>
-		<td>Colombia 🇨🇴</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>635</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/AlejoG10">
 				<img src="https://avatars.githubusercontent.com/u/58871456?s=72&u=07b7f42df705d7fa3f8d86c92b5136601c275eda&v=4" width="24" alt="Avatar of AlejoG10"> AlejoG10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AlejoG10">Copy rank badge</a><br/>
 			Alejandro González D.
 		</td>
 		<td>No Company</td>
@@ -8360,37 +8336,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>634</td>
 		<td>
-			<a href="https://github.com/oscarmcm">
-				<img src="https://avatars.githubusercontent.com/u/2553459?s=72&u=068b1cd827e4ae5ba62998d6965bbdb1d7935d62&v=4" width="24" alt="Avatar of oscarmcm"> oscarmcm
-			</a><br/>
-			Oscar Cortez
+			<a href="https://github.com/AngelSanchezT">
+				<img src="https://avatars.githubusercontent.com/u/13964664?s=72&u=c4df74fdb77e61a6a5b19e3da822df6cc4d6eb35&v=4" width="24" alt="Avatar of AngelSanchezT"> AngelSanchezT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AngelSanchezT">Copy rank badge</a><br/>
+			Angel Sanchez Tenjo
 		</td>
-		<td>@handraise </td>
-		<td><a href="https://twitter.com/oscar_mcm">oscar_mcm</a></td>
-		<td>Bogotá, Colombia</td>
+		<td>Xolit </td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>635</td>
 		<td>
-			<a href="https://github.com/ucd-dnp">
-				<img src="https://avatars.githubusercontent.com/u/48596716?s=72&u=81a4bf84962d45ab9b7f8083e4248419341d8575&v=4" width="24" alt="Avatar of ucd-dnp"> ucd-dnp
-			</a><br/>
-			Unidad de Ciencia de Datos
+			<a href="https://github.com/dersteppenwolf">
+				<img src="https://avatars.githubusercontent.com/u/110606?s=72&v=4" width="24" alt="Avatar of dersteppenwolf"> dersteppenwolf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#dersteppenwolf">Copy rank badge</a><br/>
+			Juan Carlos Méndez
 		</td>
-		<td>Departamento Nacional De Planeación<br/></td>
+		<td>@gkudos  </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/mangualero">
 				<img src="https://avatars.githubusercontent.com/u/3422968?s=72&u=c59272d7b5a912d6126fd6c6f17db71e20f506eb&v=4" width="24" alt="Avatar of mangualero"> mangualero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mangualero">Copy rank badge</a><br/>
 			Yovany Alvarez
 		</td>
 		<td>Open Innovation </td>
@@ -8399,11 +8375,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/64lines">
 				<img src="https://avatars.githubusercontent.com/u/698147?s=72&u=992534f7c607ae4bc48ae3f37cbd0e6b89b9c4cf&v=4" width="24" alt="Avatar of 64lines"> 64lines
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#64lines">Copy rank badge</a><br/>
 			Julian Alexander Murillo
 		</td>
 		<td>Universidad Politécnica De Cartagena<br/></td>
@@ -8412,11 +8388,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/chestergalindo">
+				<img src="https://avatars.githubusercontent.com/u/33326122?s=72&u=24d088e62f648d258ef0f81745e8cfcd374bc456&v=4" width="24" alt="Avatar of chestergalindo"> chestergalindo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#chestergalindo">Copy rank badge</a><br/>
+			César Galindo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/Carlos9190">
+				<img src="https://avatars.githubusercontent.com/u/145574115?s=72&u=0e9284071717feb8475667c9044b6a49e2d0f9fe&v=4" width="24" alt="Avatar of Carlos9190"> Carlos9190
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Carlos9190">Copy rank badge</a><br/>
+			Carlos Eduardo Ibarra Manzano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>9</td>
+	</tr>
+	<tr>
 		<td>640</td>
 		<td>
 			<a href="https://github.com/arturovictoriar">
 				<img src="https://avatars.githubusercontent.com/u/55114092?s=72&u=816e0505b877d10f05197f5cebb6be9739253460&v=4" width="24" alt="Avatar of arturovictoriar"> arturovictoriar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#arturovictoriar">Copy rank badge</a><br/>
 			Arturo Victoria Rincon
 		</td>
 		<td>No Company</td>
@@ -8427,9 +8429,22 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>641</td>
 		<td>
+			<a href="https://github.com/asenac">
+				<img src="https://avatars.githubusercontent.com/u/1282736?s=72&u=4c4a75d887839d0fe11f9515d5d02c0498662b04&v=4" width="24" alt="Avatar of asenac"> asenac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#asenac">Copy rank badge</a><br/>
+			Andrés Senac
+		</td>
+		<td>@firebolt-analytics  </td>
+		<td><a href="https://twitter.com/cu3dots">cu3dots</a></td>
+		<td>Cartagena, Spain</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
 			<a href="https://github.com/DavidCuentasMar">
 				<img src="https://avatars.githubusercontent.com/u/5695447?s=72&u=0835d662e507f771bfea2e659dc94bb101ef1f0e&v=4" width="24" alt="Avatar of DavidCuentasMar"> DavidCuentasMar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DavidCuentasMar">Copy rank badge</a><br/>
 			David Cuentas Mar
 		</td>
 		<td>No Company</td>
@@ -8438,29 +8453,16 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>642</td>
-		<td>
-			<a href="https://github.com/sha2cs">
-				<img src="https://avatars.githubusercontent.com/u/122885545?s=72&u=b5794cf3d1827a182262eb35b539d671ba164bbc&v=4" width="24" alt="Avatar of sha2cs"> sha2cs
-			</a><br/>
-			Hermes Alejandro Acevedo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>643</td>
 		<td>
-			<a href="https://github.com/dersteppenwolf">
-				<img src="https://avatars.githubusercontent.com/u/110606?s=72&v=4" width="24" alt="Avatar of dersteppenwolf"> dersteppenwolf
-			</a><br/>
-			Juan Carlos Méndez
+			<a href="https://github.com/4SoftwareDevelopers">
+				<img src="https://avatars.githubusercontent.com/u/48886136?s=72&u=ba12665052571a5379c7f8ba11c5f0122c51aae8&v=4" width="24" alt="Avatar of 4SoftwareDevelopers"> 4SoftwareDevelopers
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#4SoftwareDevelopers">Copy rank badge</a><br/>
+			4SoftwareDevelopers
 		</td>
-		<td>@gkudos  </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/4SDevelopers">4SDevelopers</a></td>
+		<td>Colombia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8468,7 +8470,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/hardstonepaul">
 				<img src="https://avatars.githubusercontent.com/u/17052773?s=72&u=6e0f699efa3ca294213225567ee8ef077cfdf48f&v=4" width="24" alt="Avatar of hardstonepaul"> hardstonepaul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hardstonepaul">Copy rank badge</a><br/>
 			HardSt
 		</td>
 		<td>Botonpromo Sas </td>
@@ -8479,22 +8481,35 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>645</td>
 		<td>
-			<a href="https://github.com/LorenaBarr">
-				<img src="https://avatars.githubusercontent.com/u/135673691?s=72&u=b1e25aa492c3ca4d2bc255950c1d2f6275a1efe6&v=4" width="24" alt="Avatar of LorenaBarr"> LorenaBarr
-			</a><br/>
-			Karen Lorena Barrera 
+			<a href="https://github.com/stevenbrand99">
+				<img src="https://avatars.githubusercontent.com/u/32555547?s=72&v=4" width="24" alt="Avatar of stevenbrand99"> stevenbrand99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#stevenbrand99">Copy rank badge</a><br/>
+			Steven Brand Ramirez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Thoropass </td>
+		<td><a href="https://twitter.com/stevenbrand99">stevenbrand99</a></td>
+		<td>Cali, Colombia</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>646</td>
 		<td>
+			<a href="https://github.com/pabhoz">
+				<img src="https://avatars.githubusercontent.com/u/2641636?s=72&u=6a7e91e6e338ae4cc3b142cc400d5458e51ccbfd&v=4" width="24" alt="Avatar of pabhoz"> pabhoz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pabhoz">Copy rank badge</a><br/>
+			Pablo Bejarano
+		</td>
+		<td>Veevart </td>
+		<td><a href="https://twitter.com/pabhoz">pabhoz</a></td>
+		<td>Cali, Colombia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
 			<a href="https://github.com/llanox">
 				<img src="https://avatars.githubusercontent.com/u/282575?s=72&u=1bcd0e69d8b705814a8b8d272b3c0e62c3daf83e&v=4" width="24" alt="Avatar of llanox"> llanox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#llanox">Copy rank badge</a><br/>
 			Juan Gabriel Gutierrez
 		</td>
 		<td>No Company</td>
@@ -8503,11 +8518,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/CesarM8761">
+				<img src="https://avatars.githubusercontent.com/u/86856004?s=72&u=696c5e592ef8eca6c8cb3ca740501230dc0a594b&v=4" width="24" alt="Avatar of CesarM8761"> CesarM8761
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CesarM8761">Copy rank badge</a><br/>
+			César Martínez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/jissbossg">
 				<img src="https://avatars.githubusercontent.com/u/10810296?s=72&u=94e05deaee6d27ece2adbb86a8f15a2613d2f427&v=4" width="24" alt="Avatar of jissbossg"> jissbossg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jissbossg">Copy rank badge</a><br/>
 			Jorge Ivan Sierra Suarez
 		</td>
 		<td>No Company</td>
@@ -8516,11 +8544,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/mkualquiera">
+				<img src="https://avatars.githubusercontent.com/u/13303029?s=72&u=6bdbb9910bcd1b871de48a3bc6a64a8d7346546d&v=4" width="24" alt="Avatar of mkualquiera"> mkualquiera
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mkualquiera">Copy rank badge</a><br/>
+			Juan Pablo Ossa Zapata
+		</td>
+		<td>@huestudios  </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/ElkinAMG">
 				<img src="https://avatars.githubusercontent.com/u/58569564?s=72&u=e27cc50e4f19b5af9b17a4d70c764a62ab232f60&v=4" width="24" alt="Avatar of ElkinAMG"> ElkinAMG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ElkinAMG">Copy rank badge</a><br/>
 			Elkin Mejia
 		</td>
 		<td>No Company</td>
@@ -8529,11 +8570,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/redrabbit">
+				<img src="https://avatars.githubusercontent.com/u/430974?s=72&u=a331b5bfa7b803a4ceb531c0a86b50a46922e2d1&v=4" width="24" alt="Avatar of redrabbit"> redrabbit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#redrabbit">Copy rank badge</a><br/>
+			Mario Flach
+		</td>
+		<td>@marko-ding  </td>
+		<td>No Twitter Username</td>
+		<td>Colombia 🇨🇴</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/camilaleniss">
+				<img src="https://avatars.githubusercontent.com/u/34484913?s=72&u=5899cd36804ea73b047349b96f13379c8df64041&v=4" width="24" alt="Avatar of camilaleniss"> camilaleniss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camilaleniss">Copy rank badge</a><br/>
+			Camila Lenis
+		</td>
+		<td>@nubank </td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/cdiaz">
 				<img src="https://avatars.githubusercontent.com/u/3867689?s=72&u=752577e637592310efca732aa30353eb9fcde336&v=4" width="24" alt="Avatar of cdiaz"> cdiaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#cdiaz">Copy rank badge</a><br/>
 			Cristiam Diaz
 		</td>
 		<td>Quantux, @noders  </td>
@@ -8542,11 +8609,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/SharaGB">
 				<img src="https://avatars.githubusercontent.com/u/90220978?s=72&u=d84ee682b9288c59f57e27d2fadcf7c29e3b7525&v=4" width="24" alt="Avatar of SharaGB"> SharaGB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#SharaGB">Copy rank badge</a><br/>
 			Shara García Betancur 
 		</td>
 		<td>Servicio Para Los Clientes<br/>-<br/>Bancolombia<br/></td>
@@ -8555,11 +8622,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/nebiros">
+				<img src="https://avatars.githubusercontent.com/u/97343?s=72&u=7d4085ee4b0121f36b16d3af60c992c8506b5aeb&v=4" width="24" alt="Avatar of nebiros"> nebiros
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nebiros">Copy rank badge</a><br/>
+			Juan Felipe Alvarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin, Colombia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/Oxyrus">
 				<img src="https://avatars.githubusercontent.com/u/11398826?s=72&u=72a13510daf3c733c018411458adcb8d1945c551&v=4" width="24" alt="Avatar of Oxyrus"> Oxyrus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Oxyrus">Copy rank badge</a><br/>
 			Andrés Pérez
 		</td>
 		<td>Team International </td>
@@ -8568,76 +8648,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>652</td>
-		<td>
-			<a href="https://github.com/stevenbrand99">
-				<img src="https://avatars.githubusercontent.com/u/32555547?s=72&v=4" width="24" alt="Avatar of stevenbrand99"> stevenbrand99
-			</a><br/>
-			Steven Brand Ramirez
-		</td>
-		<td>Thoropass </td>
-		<td><a href="https://twitter.com/stevenbrand99">stevenbrand99</a></td>
-		<td>Cali, Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/JorgeMrtnzG">
-				<img src="https://avatars.githubusercontent.com/u/3285923?s=72&u=df17369bbbd4016b29222d17f2a4802f2a0f3716&v=4" width="24" alt="Avatar of JorgeMrtnzG"> JorgeMrtnzG
-			</a><br/>
-			Jorge Martínez Gómez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/Julianty123">
-				<img src="https://avatars.githubusercontent.com/u/22751572?s=72&v=4" width="24" alt="Avatar of Julianty123"> Julianty123
-			</a><br/>
-			Julián
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/BioAITeam">
-				<img src="https://avatars.githubusercontent.com/u/69865207?s=72&u=0fc09e5a8589b9ac0dceca98800e9188e25c64a1&v=4" width="24" alt="Avatar of BioAITeam"> BioAITeam
-			</a><br/>
-			Bioinformatics and Artificial Intelligence Team
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a href="https://github.com/JuanDRodasM">
-				<img src="https://avatars.githubusercontent.com/u/196130314?s=72&u=e40bdd5ee93d3cb9fa4e526ab4eb9f2130a65b1e&v=4" width="24" alt="Avatar of JuanDRodasM"> JuanDRodasM
-			</a><br/>
-			Juan Dario Rodas Marin
-		</td>
-		<td>Universidad Pontificia Bolivariana </td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/pygabo">
 				<img src="https://avatars.githubusercontent.com/u/17889145?s=72&u=8b9fbc90f60c0d718b1f5fdbc6f3098fb4a8cb5b&v=4" width="24" alt="Avatar of pygabo"> pygabo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pygabo">Copy rank badge</a><br/>
 			Jose Guzman
 		</td>
 		<td>Rappi </td>
@@ -8646,11 +8661,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/hackvan">
 				<img src="https://avatars.githubusercontent.com/u/179497?s=72&u=bda3eec4bfb0444379173f0969042e929179c2c3&v=4" width="24" alt="Avatar of hackvan"> hackvan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#hackvan">Copy rank badge</a><br/>
 			Diego Camacho
 		</td>
 		<td>@resuelve </td>
@@ -8659,89 +8674,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>659</td>
-		<td>
-			<a href="https://github.com/jorlugaqui">
-				<img src="https://avatars.githubusercontent.com/u/189450?s=72&u=532184b0f293d280583f452972af4b7dbd1818c5&v=4" width="24" alt="Avatar of jorlugaqui"> jorlugaqui
-			</a><br/>
-			Jorge Galvis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>660</td>
 		<td>
-			<a href="https://github.com/chestergalindo">
-				<img src="https://avatars.githubusercontent.com/u/33326122?s=72&u=24d088e62f648d258ef0f81745e8cfcd374bc456&v=4" width="24" alt="Avatar of chestergalindo"> chestergalindo
-			</a><br/>
-			César Galindo
+			<a href="https://github.com/TzStrikerYT">
+				<img src="https://avatars.githubusercontent.com/u/55103198?s=72&u=245ddbde72ea66cb63147113d984a2a31b60c204&v=4" width="24" alt="Avatar of TzStrikerYT"> TzStrikerYT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#TzStrikerYT">Copy rank badge</a><br/>
+			Michael Cocuy
 		</td>
-		<td>No Company</td>
+		<td>Holberton School </td>
 		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td>Bogotá D.C.</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>661</td>
 		<td>
-			<a href="https://github.com/AJRDRGZ">
-				<img src="https://avatars.githubusercontent.com/u/12037179?s=72&u=b8d9bee43a70f8c91aac2eb412f26d83a78aff76&v=4" width="24" alt="Avatar of AJRDRGZ"> AJRDRGZ
-			</a><br/>
-			Alejandro Rodriguez
+			<a href="https://github.com/oscarmcm">
+				<img src="https://avatars.githubusercontent.com/u/2553459?s=72&u=068b1cd827e4ae5ba62998d6965bbdb1d7935d62&v=4" width="24" alt="Avatar of oscarmcm"> oscarmcm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#oscarmcm">Copy rank badge</a><br/>
+			Oscar Cortez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>7</td>
+		<td>@handraise </td>
+		<td><a href="https://twitter.com/oscar_mcm">oscar_mcm</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>662</td>
 		<td>
-			<a href="https://github.com/angelbotto">
-				<img src="https://avatars.githubusercontent.com/u/266151?s=72&u=3bd740fbd4db87cd5aded1bcb421f9e1dc5945ed&v=4" width="24" alt="Avatar of angelbotto"> angelbotto
-			</a><br/>
-			Angel Celis Botto
-		</td>
-		<td>@liftitapp & @beuapp <br/></td>
-		<td><a href="https://twitter.com/bottico">bottico</a></td>
-		<td>Colombia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/yeion7">
-				<img src="https://avatars.githubusercontent.com/u/9127504?s=72&u=2030798999e29a0ab4e2e785603f3c5bce1337f8&v=4" width="24" alt="Avatar of yeion7"> yeion7
-			</a><br/>
-			Yeison Daza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>664</td>
-		<td>
-			<a href="https://github.com/nebiros">
-				<img src="https://avatars.githubusercontent.com/u/97343?s=72&u=7d4085ee4b0121f36b16d3af60c992c8506b5aeb&v=4" width="24" alt="Avatar of nebiros"> nebiros
-			</a><br/>
-			Juan Felipe Alvarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>665</td>
-		<td>
 			<a href="https://github.com/yurynino">
 				<img src="https://avatars.githubusercontent.com/u/1976887?s=72&u=09238525403446c9be45ab0b3679f80c64fa57c0&v=4" width="24" alt="Avatar of yurynino"> yurynino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yurynino">Copy rank badge</a><br/>
 			Yury Nino
 		</td>
 		<td>Google </td>
@@ -8750,24 +8713,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/StevenMedina">
-				<img src="https://avatars.githubusercontent.com/u/9811859?s=72&u=82113358e6e64085c68ea75128157ce4410db3f7&v=4" width="24" alt="Avatar of StevenMedina"> StevenMedina
-			</a><br/>
-			Steven Medina
-		</td>
-		<td>@genlogs </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>667</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/DavidToca">
 				<img src="https://avatars.githubusercontent.com/u/225831?s=72&u=85acacfa2f6018b05428196b3b90f0d4aa2f6b4a&v=4" width="24" alt="Avatar of DavidToca"> DavidToca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DavidToca">Copy rank badge</a><br/>
 			David Toca
 		</td>
 		<td>No Company</td>
@@ -8776,11 +8726,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/KatherinAguilera">
 				<img src="https://avatars.githubusercontent.com/u/4594747?s=72&u=59a2eddd70b02976053ca84c80df6578617588cd&v=4" width="24" alt="Avatar of KatherinAguilera"> KatherinAguilera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#KatherinAguilera">Copy rank badge</a><br/>
 			Katherine Aguilera
 		</td>
 		<td>No Company</td>
@@ -8789,12 +8739,12 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>665</td>
 		<td>
-			<a href="https://github.com/Cristiandi">
-				<img src="https://avatars.githubusercontent.com/u/23464104?s=72&u=f36668a172bba6735ddaf8ef63f49ee23fb6ed25&v=4" width="24" alt="Avatar of Cristiandi"> Cristiandi
-			</a><br/>
-			Cristian David Ippolito Carrillo
+			<a href="https://github.com/Julianty123">
+				<img src="https://avatars.githubusercontent.com/u/22751572?s=72&v=4" width="24" alt="Avatar of Julianty123"> Julianty123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Julianty123">Copy rank badge</a><br/>
+			Julián
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8802,11 +8752,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/MitchAguilar">
 				<img src="https://avatars.githubusercontent.com/u/25367106?s=72&u=7df10fe9c55be866000fa8c5bcdd1c65b6fc12dd&v=4" width="24" alt="Avatar of MitchAguilar"> MitchAguilar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MitchAguilar">Copy rank badge</a><br/>
 			Maicol Aguilar Perez
 		</td>
 		<td>Stm Soluciones Y Tecnologías<br/>Móviles<br/>S.a.s<br/></td>
@@ -8815,11 +8765,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/Cristiandi">
+				<img src="https://avatars.githubusercontent.com/u/23464104?s=72&u=f36668a172bba6735ddaf8ef63f49ee23fb6ed25&v=4" width="24" alt="Avatar of Cristiandi"> Cristiandi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Cristiandi">Copy rank badge</a><br/>
+			Cristian David Ippolito Carrillo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/jjyepez">
 				<img src="https://avatars.githubusercontent.com/u/2139352?s=72&u=fefd836f6ac3ec5558c42c95b49745f5f33ab6c8&v=4" width="24" alt="Avatar of jjyepez"> jjyepez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jjyepez">Copy rank badge</a><br/>
 			Julio J.
 		</td>
 		<td>No Company</td>
@@ -8828,11 +8791,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/nicolastobon09">
+				<img src="https://avatars.githubusercontent.com/u/49601650?s=72&u=b2f498ba9492db0ff5eb33e242a1e31b17a18963&v=4" width="24" alt="Avatar of nicolastobon09"> nicolastobon09
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nicolastobon09">Copy rank badge</a><br/>
+			Nicolás Álvarez Tobón
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nicolastobon09">nicolastobon09</a></td>
+		<td>cali - colombia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/Samuelpz1">
 				<img src="https://avatars.githubusercontent.com/u/106036575?s=72&u=c8ca7eef75ba4fda1af39d8fe497b3214c8ee2f0&v=4" width="24" alt="Avatar of Samuelpz1"> Samuelpz1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Samuelpz1">Copy rank badge</a><br/>
 			Samuel Padierna Zapata
 		</td>
 		<td>Prgx </td>
@@ -8841,24 +8817,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>673</td>
-		<td>
-			<a href="https://github.com/edwintrumpet">
-				<img src="https://avatars.githubusercontent.com/u/47165886?s=72&u=6c7707f5257fd6a5491cca3597d1f125f61a7dbd&v=4" width="24" alt="Avatar of edwintrumpet"> edwintrumpet
-			</a><br/>
-			edwin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá - Colombia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>674</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/joshstephenson">
 				<img src="https://avatars.githubusercontent.com/u/11002?s=72&u=48401ef12c1c6071da9c67838964cf72c2627b69&v=4" width="24" alt="Avatar of joshstephenson"> joshstephenson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#joshstephenson">Copy rank badge</a><br/>
 			Josh Stephenson
 		</td>
 		<td>Bright Mediums </td>
@@ -8867,11 +8830,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/MelinaMejia95">
 				<img src="https://avatars.githubusercontent.com/u/19215389?s=72&u=086de720e921d288ca60c6ba78ca1106dc6d8621&v=4" width="24" alt="Avatar of MelinaMejia95"> MelinaMejia95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MelinaMejia95">Copy rank badge</a><br/>
 			Melina Mejía Bedoya
 		</td>
 		<td>@pagerinc  </td>
@@ -8880,24 +8843,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>673</td>
 		<td>
-			<a href="https://github.com/sagrath23">
-				<img src="https://avatars.githubusercontent.com/u/65415?s=72&u=7b980b8d194e84c631735c5f9b1e0f96f36eb3e5&v=4" width="24" alt="Avatar of sagrath23"> sagrath23
-			</a><br/>
-			Steven Augusto Villegas
+			<a href="https://github.com/ucd-dnp">
+				<img src="https://avatars.githubusercontent.com/u/48596716?s=72&u=81a4bf84962d45ab9b7f8083e4248419341d8575&v=4" width="24" alt="Avatar of ucd-dnp"> ucd-dnp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ucd-dnp">Copy rank badge</a><br/>
+			Unidad de Ciencia de Datos
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/stifflerbassman">stifflerbassman</a></td>
-		<td>Cali</td>
+		<td>Departamento Nacional De Planeación<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/natagr23">
 				<img src="https://avatars.githubusercontent.com/u/16936525?s=72&u=77a55fa3474d6952e34eab3b51629cc756cb1191&v=4" width="24" alt="Avatar of natagr23"> natagr23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#natagr23">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Https://portafolio-c </td>
@@ -8906,11 +8869,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/CJ7MO">
 				<img src="https://avatars.githubusercontent.com/u/104647401?s=72&u=07fc45e9cd983ef5cb9ee10be180f61f0894bab4&v=4" width="24" alt="Avatar of CJ7MO"> CJ7MO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#CJ7MO">Copy rank badge</a><br/>
 			Cristian Josué Martínez Obando
 		</td>
 		<td>No Company</td>
@@ -8919,11 +8882,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/santitigaga">
 				<img src="https://avatars.githubusercontent.com/u/12372370?s=72&u=8da1759179b1ef2f12c1d40bed06b93202261178&v=4" width="24" alt="Avatar of santitigaga"> santitigaga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#santitigaga">Copy rank badge</a><br/>
 			Santiago Garcia Gil
 		</td>
 		<td>Bancolombia </td>
@@ -8932,11 +8895,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/davenisc">
 				<img src="https://avatars.githubusercontent.com/u/28924441?s=72&u=39d773468ddb57637cc44d2d0c6007ab2bf83ad6&v=4" width="24" alt="Avatar of davenisc"> davenisc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davenisc">Copy rank badge</a><br/>
 			davenisc
 		</td>
 		<td>Https://nesshq.com </td>
@@ -8945,11 +8908,50 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/JuanDRodasM">
+				<img src="https://avatars.githubusercontent.com/u/196130314?s=72&u=e40bdd5ee93d3cb9fa4e526ab4eb9f2130a65b1e&v=4" width="24" alt="Avatar of JuanDRodasM"> JuanDRodasM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanDRodasM">Copy rank badge</a><br/>
+			Juan Dario Rodas Marin
+		</td>
+		<td>Universidad Pontificia Bolivariana </td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/jorlugaqui">
+				<img src="https://avatars.githubusercontent.com/u/189450?s=72&u=532184b0f293d280583f452972af4b7dbd1818c5&v=4" width="24" alt="Avatar of jorlugaqui"> jorlugaqui
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jorlugaqui">Copy rank badge</a><br/>
+			Jorge Galvis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
+			<a href="https://github.com/supermavster">
+				<img src="https://avatars.githubusercontent.com/u/20430676?s=72&u=55adec7c73d2f71d6b3092fe42cddbe13d59c674&v=4" width="24" alt="Avatar of supermavster"> supermavster
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#supermavster">Copy rank badge</a><br/>
+			Miguel Ángel
+		</td>
+		<td>Supermavster </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>681</td>
 		<td>
 			<a href="https://github.com/yograterol">
 				<img src="https://avatars.githubusercontent.com/u/3322886?s=72&u=0979500604bac8957b32811303c535ba0db6361a&v=4" width="24" alt="Avatar of yograterol"> yograterol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yograterol">Copy rank badge</a><br/>
 			Yohan Graterol
 		</td>
 		<td>No Company</td>
@@ -8962,10 +8964,10 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/davidjose47sudo">
 				<img src="https://avatars.githubusercontent.com/u/78758821?s=72&u=a2c2933f628ef0e52df57f2bb8742f8013320ae4&v=4" width="24" alt="Avatar of davidjose47sudo"> davidjose47sudo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#davidjose47sudo">Copy rank badge</a><br/>
 			David Silva
 		</td>
-		<td>Tecnoparqueatl </td>
+		<td>Plataforma50 </td>
 		<td>No Twitter Username</td>
 		<td>Barranquilla</td>
 		<td>4</td>
@@ -8973,23 +8975,23 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>683</td>
 		<td>
-			<a href="https://github.com/Daz-Riza-Seriog">
-				<img src="https://avatars.githubusercontent.com/u/69307962?s=72&u=45a7d1e256ec9c9f37332fd3160968b75239dbfa&v=4" width="24" alt="Avatar of Daz-Riza-Seriog"> Daz-Riza-Seriog
-			</a><br/>
-			Sergio Andrés Díaz Ariza
+			<a href="https://github.com/DiegoBelPe">
+				<img src="https://avatars.githubusercontent.com/u/36344168?s=72&u=74ee55aa6c288e3085535dca19e9b61409ee8acb&v=4" width="24" alt="Avatar of DiegoBelPe"> DiegoBelPe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DiegoBelPe">Copy rank badge</a><br/>
+			Diego Beltrán Pereira
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Daz_Riza_Serio">Daz_Riza_Serio</a></td>
+		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>4</td>
 	</tr>
 	<tr>
 		<td>684</td>
 		<td>
-			<a href="https://github.com/DiegoBelPe">
-				<img src="https://avatars.githubusercontent.com/u/36344168?s=72&u=74ee55aa6c288e3085535dca19e9b61409ee8acb&v=4" width="24" alt="Avatar of DiegoBelPe"> DiegoBelPe
-			</a><br/>
-			Diego Beltrán Pereira
+			<a href="https://github.com/arpunk">
+				<img src="https://avatars.githubusercontent.com/u/11342?s=72&u=510d17763f42be9cce3d064830178e6c283b21fb&v=4" width="24" alt="Avatar of arpunk"> arpunk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#arpunk">Copy rank badge</a><br/>
+			Ricardo Lanziano
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9001,7 +9003,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/andres-root">
 				<img src="https://avatars.githubusercontent.com/u/2503245?s=72&u=a81e41e52bd8bf24b4bd0161de841f2096191834&v=4" width="24" alt="Avatar of andres-root"> andres-root
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andres-root">Copy rank badge</a><br/>
 			Andrés Luján
 		</td>
 		<td>No Company</td>
@@ -9012,22 +9014,9 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>686</td>
 		<td>
-			<a href="https://github.com/vany0114">
-				<img src="https://avatars.githubusercontent.com/u/12032625?s=72&u=7bf8272431ddc9edadb7528eb8c6b672ab0c6d58&v=4" width="24" alt="Avatar of vany0114"> vany0114
-			</a><br/>
-			Geovanny Alzate Sandoval
-		</td>
-		<td>Drivingthru </td>
-		<td><a href="https://twitter.com/geovany0114">geovany0114</a></td>
-		<td>Colombia, Medellín</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>687</td>
-		<td>
 			<a href="https://github.com/lauralpezb">
 				<img src="https://avatars.githubusercontent.com/u/62390441?s=72&u=325521d90521ecffac68e5c72f15770386243aee&v=4" width="24" alt="Avatar of lauralpezb"> lauralpezb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lauralpezb">Copy rank badge</a><br/>
 			Laura López
 		</td>
 		<td>Mercado Libre </td>
@@ -9036,11 +9025,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>687</td>
+		<td>
+			<a href="https://github.com/sagrath23">
+				<img src="https://avatars.githubusercontent.com/u/65415?s=72&u=7b980b8d194e84c631735c5f9b1e0f96f36eb3e5&v=4" width="24" alt="Avatar of sagrath23"> sagrath23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sagrath23">Copy rank badge</a><br/>
+			Steven Augusto Villegas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/stifflerbassman">stifflerbassman</a></td>
+		<td>Cali</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>688</td>
 		<td>
 			<a href="https://github.com/JohnFTitor">
 				<img src="https://avatars.githubusercontent.com/u/74314917?s=72&u=f22af8c7c19a38af60ce5b41a2fcfa329cd324de&v=4" width="24" alt="Avatar of JohnFTitor"> JohnFTitor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JohnFTitor">Copy rank badge</a><br/>
 			Andrés Felipe Naranjo
 		</td>
 		<td>No Company</td>
@@ -9051,14 +9053,14 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>689</td>
 		<td>
-			<a href="https://github.com/JoseaSosa24">
-				<img src="https://avatars.githubusercontent.com/u/39164801?s=72&u=75c3ffb7d3f260b940e873eedcdb691d10c7129d&v=4" width="24" alt="Avatar of JoseaSosa24"> JoseaSosa24
-			</a><br/>
-			Jose Sosa
+			<a href="https://github.com/StevenMedina">
+				<img src="https://avatars.githubusercontent.com/u/9811859?s=72&u=82113358e6e64085c68ea75128157ce4410db3f7&v=4" width="24" alt="Avatar of StevenMedina"> StevenMedina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#StevenMedina">Copy rank badge</a><br/>
+			Steven Medina
 		</td>
-		<td>No Company</td>
+		<td>@genlogs </td>
 		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Bogotá, Colombia</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -9066,7 +9068,7 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>
 			<a href="https://github.com/DiegOliveros">
 				<img src="https://avatars.githubusercontent.com/u/2998313?s=72&u=1fc09d26fda2b217585a6fe8db9246010832eb74&v=4" width="24" alt="Avatar of DiegOliveros"> DiegOliveros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#DiegOliveros">Copy rank badge</a><br/>
 			Diego Iván Oliveros Acosta
 		</td>
 		<td>@iswpoli  </td>
@@ -9077,9 +9079,35 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>691</td>
 		<td>
+			<a href="https://github.com/JorgeMrtnzG">
+				<img src="https://avatars.githubusercontent.com/u/3285923?s=72&u=df17369bbbd4016b29222d17f2a4802f2a0f3716&v=4" width="24" alt="Avatar of JorgeMrtnzG"> JorgeMrtnzG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JorgeMrtnzG">Copy rank badge</a><br/>
+			Jorge Martínez Gómez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/canro91">
+				<img src="https://avatars.githubusercontent.com/u/3131595?s=72&u=5487d4085759bcfc295835acfd8c44cacd9b0e98&v=4" width="24" alt="Avatar of canro91"> canro91
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#canro91">Copy rank badge</a><br/>
+			Cesar Aguirre
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia 🇨🇴</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
 			<a href="https://github.com/PilarPinto">
 				<img src="https://avatars.githubusercontent.com/u/30970686?s=72&u=c53c5e4d196593665cc2d7f81e913a0035253023&v=4" width="24" alt="Avatar of PilarPinto"> PilarPinto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#PilarPinto">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9088,38 +9116,12 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>692</td>
-		<td>
-			<a href="https://github.com/esneyder">
-				<img src="https://avatars.githubusercontent.com/u/6963913?s=72&u=71d0277e2177549932d0549f9a8b811ac3490f54&v=4" width="24" alt="Avatar of esneyder"> esneyder
-			</a><br/>
-			Edwin Esneyder Alvarez
-		</td>
-		<td>Gleamsoft </td>
-		<td>No Twitter Username</td>
-		<td>Medellín-Colombia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>693</td>
-		<td>
-			<a href="https://github.com/nicolastobon09">
-				<img src="https://avatars.githubusercontent.com/u/49601650?s=72&u=b2f498ba9492db0ff5eb33e242a1e31b17a18963&v=4" width="24" alt="Avatar of nicolastobon09"> nicolastobon09
-			</a><br/>
-			Nicolás Álvarez Tobón
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nicolastobon09">nicolastobon09</a></td>
-		<td>cali - colombia</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>694</td>
 		<td>
-			<a href="https://github.com/suarezjulian">
-				<img src="https://avatars.githubusercontent.com/u/1881941?s=72&u=247e1143b74843f4204b2196f4a84601c5957141&v=4" width="24" alt="Avatar of suarezjulian"> suarezjulian
-			</a><br/>
-			Julián Suárez
+			<a href="https://github.com/innacroft">
+				<img src="https://avatars.githubusercontent.com/u/48539319?s=72&u=f48d06737d025a67a8038304d73e8d961d639bac&v=4" width="24" alt="Avatar of innacroft"> innacroft
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#innacroft">Copy rank badge</a><br/>
+			Ingrid Natalia Rodriguez Ovalle
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9129,9 +9131,35 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>695</td>
 		<td>
+			<a href="https://github.com/suarezjulian">
+				<img src="https://avatars.githubusercontent.com/u/1881941?s=72&u=247e1143b74843f4204b2196f4a84601c5957141&v=4" width="24" alt="Avatar of suarezjulian"> suarezjulian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#suarezjulian">Copy rank badge</a><br/>
+			Julián Suárez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/andreshugueth">
+				<img src="https://avatars.githubusercontent.com/u/60365013?s=72&u=a46f6408a150556d87ef486cb0e3239e3034646a&v=4" width="24" alt="Avatar of andreshugueth"> andreshugueth
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andreshugueth">Copy rank badge</a><br/>
+			Andres Hugueth
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/andreshugueth">andreshugueth</a></td>
+		<td>Barranquilla, Colombia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>697</td>
+		<td>
 			<a href="https://github.com/felipevcc">
 				<img src="https://avatars.githubusercontent.com/u/95534180?s=72&u=390af3aaf8cf157b65f0e4f17553e397950ce021&v=4" width="24" alt="Avatar of felipevcc"> felipevcc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#felipevcc">Copy rank badge</a><br/>
 			Felipe Villamizar
 		</td>
 		<td>Panthera </td>
@@ -9140,11 +9168,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/senekis">
 				<img src="https://avatars.githubusercontent.com/u/189874?s=72&u=1c9afc857cd29c21128aecc327cd6e6ee59b95aa&v=4" width="24" alt="Avatar of senekis"> senekis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#senekis">Copy rank badge</a><br/>
 			Johanna Mantilla
 		</td>
 		<td>No Company</td>
@@ -9153,11 +9181,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/WilliamMendez">
 				<img src="https://avatars.githubusercontent.com/u/69637352?s=72&u=39666b0aa2c72ac97f3c07223b592fb35f731242&v=4" width="24" alt="Avatar of WilliamMendez"> WilliamMendez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#WilliamMendez">Copy rank badge</a><br/>
 			William Mendez
 		</td>
 		<td>No Company</td>
@@ -9166,11 +9194,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/yharyarias">
 				<img src="https://avatars.githubusercontent.com/u/36517495?s=72&u=45cb0a2a78fc33e259d17d9c6d8f4d16ed10c7fa&v=4" width="24" alt="Avatar of yharyarias"> yharyarias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#yharyarias">Copy rank badge</a><br/>
 			Yhary Arias
 		</td>
 		<td>Elia </td>
@@ -9179,24 +9207,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>699</td>
-		<td>
-			<a href="https://github.com/anfepar">
-				<img src="https://avatars.githubusercontent.com/u/22940371?s=72&u=f9353845a0278f6a0c2002d1560b6f3cf3bdc5ca&v=4" width="24" alt="Avatar of anfepar"> anfepar
-			</a><br/>
-			Andres Felipe Pardo Mesa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogota, Colombia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/edwinthinks">
 				<img src="https://avatars.githubusercontent.com/u/11335191?s=72&u=ed89617a5e8602fb28a72d1117de192698b24594&v=4" width="24" alt="Avatar of edwinthinks"> edwinthinks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#edwinthinks">Copy rank badge</a><br/>
 			Edwin Mak
 		</td>
 		<td>@strety  </td>
@@ -9205,11 +9220,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/anfepar">
+				<img src="https://avatars.githubusercontent.com/u/22940371?s=72&u=f9353845a0278f6a0c2002d1560b6f3cf3bdc5ca&v=4" width="24" alt="Avatar of anfepar"> anfepar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#anfepar">Copy rank badge</a><br/>
+			Andres Felipe Pardo Mesa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogota, Colombia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/juanpabl0svn">
 				<img src="https://avatars.githubusercontent.com/u/87534135?s=72&u=245795a1882047cf941f0b4e08d4c43a9164c8c2&v=4" width="24" alt="Avatar of juanpabl0svn"> juanpabl0svn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanpabl0svn">Copy rank badge</a><br/>
 			JuanPabloSanVillegas
 		</td>
 		<td>No Company</td>
@@ -9218,24 +9246,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>702</td>
-		<td>
-			<a href="https://github.com/lisudea">
-				<img src="https://avatars.githubusercontent.com/u/25753205?s=72&u=26614a22cf0ce3199cda710a5221f26e444973be&v=4" width="24" alt="Avatar of lisudea"> lisudea
-			</a><br/>
-			LIS UdeA
-		</td>
-		<td>Universidad De Antioquia </td>
-		<td>No Twitter Username</td>
-		<td>Medellín</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/PterPmnta">
 				<img src="https://avatars.githubusercontent.com/u/3231405?s=72&u=9f7968fd87da2ba71c1fb274241b11e263695929&v=4" width="24" alt="Avatar of PterPmnta"> PterPmnta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#PterPmnta">Copy rank badge</a><br/>
 			Pedro Pimienta M.
 		</td>
 		<td>No Company</td>
@@ -9244,11 +9259,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/chrisgamezprofe">
+				<img src="https://avatars.githubusercontent.com/u/11613993?s=72&u=64005962ffb19b3118236a62e5ba2da9212383c8&v=4" width="24" alt="Avatar of chrisgamezprofe"> chrisgamezprofe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#chrisgamezprofe">Copy rank badge</a><br/>
+			Chris Gámez Profe
+		</td>
+		<td>Tivit Latam </td>
+		<td><a href="https://twitter.com/ChrisGamezProfe">ChrisGamezProfe</a></td>
+		<td>Colombia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/anmarphy">
 				<img src="https://avatars.githubusercontent.com/u/13108061?s=72&u=2c9d4110a38955a8070ef418c2cb720d6fa478d3&v=4" width="24" alt="Avatar of anmarphy"> anmarphy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#anmarphy">Copy rank badge</a><br/>
 			Marce HB
 		</td>
 		<td>Universidad Nacional De Colombia<br/></td>
@@ -9257,24 +9285,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>707</td>
 		<td>
-			<a href="https://github.com/mayefa10">
-				<img src="https://avatars.githubusercontent.com/u/90971238?s=72&u=9160ac8dba7eeccc45b7be06732cb239181113bf&v=4" width="24" alt="Avatar of mayefa10"> mayefa10
-			</a><br/>
-			July Quintero
+			<a href="https://github.com/vany0114">
+				<img src="https://avatars.githubusercontent.com/u/12032625?s=72&u=7bf8272431ddc9edadb7528eb8c6b672ab0c6d58&v=4" width="24" alt="Avatar of vany0114"> vany0114
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vany0114">Copy rank badge</a><br/>
+			Geovanny Alzate Sandoval
 		</td>
-		<td>Jqwebdeveloper.com/ </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
+		<td>Drivingthru </td>
+		<td><a href="https://twitter.com/geovany0114">geovany0114</a></td>
+		<td>Colombia, Medellín</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/mohemiv">
+				<img src="https://avatars.githubusercontent.com/u/5724896?s=72&u=9fc288dfcef95c72ec3b2c0bfb6fb6af0b5c3032&v=4" width="24" alt="Avatar of mohemiv"> mohemiv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mohemiv">Copy rank badge</a><br/>
+			Arseniy Sharoglazov
+		</td>
+		<td>My Personal Account </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/juanmarin97">
 				<img src="https://avatars.githubusercontent.com/u/8534968?s=72&u=d75eebd4b3d7c052564217deb1c7318271ef61d7&v=4" width="24" alt="Avatar of juanmarin97"> juanmarin97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juanmarin97">Copy rank badge</a><br/>
 			Juan David M
 		</td>
 		<td>Nexer Group / Colombia<br/></td>
@@ -9283,11 +9324,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/leonmezu1">
 				<img src="https://avatars.githubusercontent.com/u/52045562?s=72&u=d5519b0bc6dd5b1a997af06a19930c487f01a212&v=4" width="24" alt="Avatar of leonmezu1"> leonmezu1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#leonmezu1">Copy rank badge</a><br/>
 			Leonardo Mezu
 		</td>
 		<td>Modyo </td>
@@ -9296,11 +9337,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/betotorodev">
 				<img src="https://avatars.githubusercontent.com/u/56264829?s=72&u=e30720f6c3795131fc75c774302d2305084cc491&v=4" width="24" alt="Avatar of betotorodev"> betotorodev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#betotorodev">Copy rank badge</a><br/>
 			Beto Toro
 		</td>
 		<td>@reflexai  </td>
@@ -9309,11 +9350,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/VelzckC0D3">
 				<img src="https://avatars.githubusercontent.com/u/92229666?s=72&u=1d3d23933e08f09d165bfe560f71f194e151ad2c&v=4" width="24" alt="Avatar of VelzckC0D3"> VelzckC0D3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#VelzckC0D3">Copy rank badge</a><br/>
 			Alejandro Velasquez
 		</td>
 		<td>Microverse  </td>
@@ -9322,11 +9363,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/vargas88hugo">
+				<img src="https://avatars.githubusercontent.com/u/51675103?s=72&u=193b668c70d50d98c971338735c5e5273ba07b70&v=4" width="24" alt="Avatar of vargas88hugo"> vargas88hugo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#vargas88hugo">Copy rank badge</a><br/>
+			Hugo Vargas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/LorenaBarr">
+				<img src="https://avatars.githubusercontent.com/u/135673691?s=72&u=b1e25aa492c3ca4d2bc255950c1d2f6275a1efe6&v=4" width="24" alt="Avatar of LorenaBarr"> LorenaBarr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LorenaBarr">Copy rank badge</a><br/>
+			Karen Lorena Barrera 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/Ivan2125">
 				<img src="https://avatars.githubusercontent.com/u/96154830?s=72&u=70ef408821093bc2235d067db48fe617fff38099&v=4" width="24" alt="Avatar of Ivan2125"> Ivan2125
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Ivan2125">Copy rank badge</a><br/>
 			Iván Parra
 		</td>
 		<td>No Company</td>
@@ -9335,77 +9402,12 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/rubenpad">
 				<img src="https://avatars.githubusercontent.com/u/35588894?s=72&u=49d78ed8d7709390a64fc7ad54ec7c77bc7cac8c&v=4" width="24" alt="Avatar of rubenpad"> rubenpad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#rubenpad">Copy rank badge</a><br/>
 			Rubén Padilla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
-			<a href="https://github.com/iamrestrepo">
-				<img src="https://avatars.githubusercontent.com/u/22506402?s=72&u=d34d5eda4401dca4e17837ddc7bd333c372b90d4&v=4" width="24" alt="Avatar of iamrestrepo"> iamrestrepo
-			</a><br/>
-			Monica Restrepo
-		</td>
-		<td>Web3 / Fintech 🌎<br/></td>
-		<td><a href="https://twitter.com/ImRestrepo">ImRestrepo</a></td>
-		<td>New York / Medellín / Madrid</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>713</td>
-		<td>
-			<a href="https://github.com/sebasgavi">
-				<img src="https://avatars.githubusercontent.com/u/4133176?s=72&u=5584dc6a830bbfdfc442f049da54bc0a68ba4e46&v=4" width="24" alt="Avatar of sebasgavi"> sebasgavi
-			</a><br/>
-			Sebastián Gaviria
-		</td>
-		<td>Tranqui Finanzas @tranquifinanzas </td>
-		<td>No Twitter Username</td>
-		<td>Cali, Colombia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>714</td>
-		<td>
-			<a href="https://github.com/carlooos28">
-				<img src="https://avatars.githubusercontent.com/u/1222301?s=72&u=36836a7ce7c5a98b946fad3c10813e3c22457648&v=4" width="24" alt="Avatar of carlooos28"> carlooos28
-			</a><br/>
-			Carlos Moreno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá-Colombia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>715</td>
-		<td>
-			<a href="https://github.com/WilliamCadenas21">
-				<img src="https://avatars.githubusercontent.com/u/20405614?s=72&u=a35523203f154e3370560edd68c3f58fb499d837&v=4" width="24" alt="Avatar of WilliamCadenas21"> WilliamCadenas21
-			</a><br/>
-			William Cadenas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/williamcad21">williamcad21</a></td>
-		<td>Colombia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>716</td>
-		<td>
-			<a href="https://github.com/ofaaoficial">
-				<img src="https://avatars.githubusercontent.com/u/26628689?s=72&u=ba7b17cf40a75643c7cd11c1e193a6b6c00d1475&v=4" width="24" alt="Avatar of ofaaoficial"> ofaaoficial
-			</a><br/>
-			Oscar Amado
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9415,9 +9417,87 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>717</td>
 		<td>
+			<a href="https://github.com/iamrestrepo">
+				<img src="https://avatars.githubusercontent.com/u/22506402?s=72&u=d34d5eda4401dca4e17837ddc7bd333c372b90d4&v=4" width="24" alt="Avatar of iamrestrepo"> iamrestrepo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#iamrestrepo">Copy rank badge</a><br/>
+			Monica Restrepo
+		</td>
+		<td>Web3 / Fintech 🌎<br/></td>
+		<td><a href="https://twitter.com/ImRestrepo">ImRestrepo</a></td>
+		<td>New York / Medellín / Madrid</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/nlopezgi">
+				<img src="https://avatars.githubusercontent.com/u/4062751?s=72&u=7e8085aa8ea003e8aec78fd97dd99fa9647514ec&v=4" width="24" alt="Avatar of nlopezgi"> nlopezgi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#nlopezgi">Copy rank badge</a><br/>
+			Nicolas Lopez
+		</td>
+		<td>Engflow </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/sebasgavi">
+				<img src="https://avatars.githubusercontent.com/u/4133176?s=72&u=5584dc6a830bbfdfc442f049da54bc0a68ba4e46&v=4" width="24" alt="Avatar of sebasgavi"> sebasgavi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#sebasgavi">Copy rank badge</a><br/>
+			Sebastián Gaviria
+		</td>
+		<td>Tranqui Finanzas @tranquifinanzas </td>
+		<td>No Twitter Username</td>
+		<td>Cali, Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
+			<a href="https://github.com/WilliamCadenas21">
+				<img src="https://avatars.githubusercontent.com/u/20405614?s=72&u=a35523203f154e3370560edd68c3f58fb499d837&v=4" width="24" alt="Avatar of WilliamCadenas21"> WilliamCadenas21
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#WilliamCadenas21">Copy rank badge</a><br/>
+			William Cadenas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/williamcad21">williamcad21</a></td>
+		<td>Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/carlooos28">
+				<img src="https://avatars.githubusercontent.com/u/1222301?s=72&u=36836a7ce7c5a98b946fad3c10813e3c22457648&v=4" width="24" alt="Avatar of carlooos28"> carlooos28
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carlooos28">Copy rank badge</a><br/>
+			Carlos Moreno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá-Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/jaravad">
+				<img src="https://avatars.githubusercontent.com/u/30931849?s=72&u=64de3a1705a4c58450d4f069edd1773596a24f88&v=4" width="24" alt="Avatar of jaravad"> jaravad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jaravad">Copy rank badge</a><br/>
+			Jesus Santiago
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jaravad">jaravad</a></td>
+		<td>Barranquilla, Colombia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
 			<a href="https://github.com/jachinte">
 				<img src="https://avatars.githubusercontent.com/u/1284036?s=72&u=7153fbb1162da9c9113088d8f3ac79abb90bb9f9&v=4" width="24" alt="Avatar of jachinte"> jachinte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jachinte">Copy rank badge</a><br/>
 			Miguel Jimenez
 		</td>
 		<td>No Company</td>
@@ -9426,37 +9506,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>724</td>
 		<td>
-			<a href="https://github.com/johncerpa">
-				<img src="https://avatars.githubusercontent.com/u/19353444?s=72&u=a4030c0643c546accd715e1d057f848566859405&v=4" width="24" alt="Avatar of johncerpa"> johncerpa
-			</a><br/>
-			Jhon Cerpa
+			<a href="https://github.com/Lulzphantom">
+				<img src="https://avatars.githubusercontent.com/u/9116183?s=72&u=3f187519590688018bd812eb5e40ccd0782fbac9&v=4" width="24" alt="Avatar of Lulzphantom"> Lulzphantom
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Lulzphantom">Copy rank badge</a><br/>
+			Christian Andres Arteaga
 		</td>
-		<td>Perficient Latam </td>
-		<td><a href="https://twitter.com/jhoncerpa_">jhoncerpa_</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>719</td>
-		<td>
-			<a href="https://github.com/chrisgamezprofe">
-				<img src="https://avatars.githubusercontent.com/u/11613993?s=72&u=64005962ffb19b3118236a62e5ba2da9212383c8&v=4" width="24" alt="Avatar of chrisgamezprofe"> chrisgamezprofe
-			</a><br/>
-			Chris Gámez Profe
-		</td>
-		<td>Tivit Latam </td>
-		<td><a href="https://twitter.com/ChrisGamezProfe">ChrisGamezProfe</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/juandc">
 				<img src="https://avatars.githubusercontent.com/u/15987317?s=72&u=9fc770f35028d4de93c40d1e6ea8d336757a1c76&v=4" width="24" alt="Avatar of juandc"> juandc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juandc">Copy rank badge</a><br/>
 			Juan David Castro
 		</td>
 		<td>@platzi </td>
@@ -9465,11 +9532,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/epsanchezma">
 				<img src="https://avatars.githubusercontent.com/u/7122890?s=72&u=faafc3ee1fbf828ad448f7f48e16168ad98cd646&v=4" width="24" alt="Avatar of epsanchezma"> epsanchezma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#epsanchezma">Copy rank badge</a><br/>
 			Elba Sanchez Marquez
 		</td>
 		<td>No Company</td>
@@ -9478,11 +9545,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/marianvilla">
 				<img src="https://avatars.githubusercontent.com/u/3924809?s=72&u=e7d55dca0605b6f820a5af20ff28bb724173f6bd&v=4" width="24" alt="Avatar of marianvilla"> marianvilla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#marianvilla">Copy rank badge</a><br/>
 			Marian Villa
 		</td>
 		<td>@pionerasdev @interledger  </td>
@@ -9491,11 +9558,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/echevemaster">
 				<img src="https://avatars.githubusercontent.com/u/747681?s=72&v=4" width="24" alt="Avatar of echevemaster"> echevemaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#echevemaster">Copy rank badge</a><br/>
 			Eduardo Echeverría
 		</td>
 		<td>@merlinapp </td>
@@ -9504,11 +9571,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/diegoug">
 				<img src="https://avatars.githubusercontent.com/u/144631?s=72&u=c142f54a65ec3d6d344eb3b89563427ab2b9dc8a&v=4" width="24" alt="Avatar of diegoug"> diegoug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#diegoug">Copy rank badge</a><br/>
 			Diego Alonso Uribe Gamez
 		</td>
 		<td>Unipersonal </td>
@@ -9517,11 +9584,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/MarceGomez">
 				<img src="https://avatars.githubusercontent.com/u/78246279?s=72&u=69c117c8eb8619bbcf9171e26438ca61bd208a29&v=4" width="24" alt="Avatar of MarceGomez"> MarceGomez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#MarceGomez">Copy rank badge</a><br/>
 			Marcela Gómez
 		</td>
 		<td>Arca Group </td>
@@ -9530,37 +9597,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>726</td>
-		<td>
-			<a href="https://github.com/kristellu">
-				<img src="https://avatars.githubusercontent.com/u/28717626?s=72&u=c85ba6d74c476f3d6ff2c5e27cbf73fb71531391&v=4" width="24" alt="Avatar of kristellu"> kristellu
-			</a><br/>
-			Kristell
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>727</td>
-		<td>
-			<a href="https://github.com/daorejuela1">
-				<img src="https://avatars.githubusercontent.com/u/18744697?s=72&u=29c86a5d44040db7064edfc9124ddb4b6a31261c&v=4" width="24" alt="Avatar of daorejuela1"> daorejuela1
-			</a><br/>
-			David Orejuela
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/daorejuela1">daorejuela1</a></td>
-		<td>Colombia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>728</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/LinaDev14">
 				<img src="https://avatars.githubusercontent.com/u/86454777?s=72&u=712b9f05a46afa7c75a8fd8fb1dd537bc6850794&v=4" width="24" alt="Avatar of LinaDev14"> LinaDev14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#LinaDev14">Copy rank badge</a><br/>
 			Lina María Guerrero
 		</td>
 		<td>Bancolombia </td>
@@ -9569,11 +9610,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/julgachancipa">
 				<img src="https://avatars.githubusercontent.com/u/46653809?s=72&u=4e44524a5b798552d41fbe2dee827a9cbf968105&v=4" width="24" alt="Avatar of julgachancipa"> julgachancipa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#julgachancipa">Copy rank badge</a><br/>
 			Emma Gachancipá
 		</td>
 		<td>No Company</td>
@@ -9582,11 +9623,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/diegozencode">
 				<img src="https://avatars.githubusercontent.com/u/11590956?s=72&u=f8eec69a01bddd5f3860f64acaafba51e463383b&v=4" width="24" alt="Avatar of diegozencode"> diegozencode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#diegozencode">Copy rank badge</a><br/>
 			Diego
 		</td>
 		<td>No Company</td>
@@ -9595,11 +9636,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/haachicanoy">
 				<img src="https://avatars.githubusercontent.com/u/6349681?s=72&u=52b21b7c7c34fb5e0721b6333c051aa0fc3667a2&v=4" width="24" alt="Avatar of haachicanoy"> haachicanoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#haachicanoy">Copy rank badge</a><br/>
 			Harold Achicanoy Estrella
 		</td>
 		<td>Alliance Of Bioversity International<br/>&<br/>Ciat<br/></td>
@@ -9608,24 +9649,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>735</td>
 		<td>
-			<a href="https://github.com/vargas88hugo">
-				<img src="https://avatars.githubusercontent.com/u/51675103?s=72&u=193b668c70d50d98c971338735c5e5273ba07b70&v=4" width="24" alt="Avatar of vargas88hugo"> vargas88hugo
-			</a><br/>
-			Hugo Vargas
+			<a href="https://github.com/NathaEEUD">
+				<img src="https://avatars.githubusercontent.com/u/31085824?s=72&u=337bab34eee7338a154ca519562fe437c7f692ea&v=4" width="24" alt="Avatar of NathaEEUD"> NathaEEUD
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#NathaEEUD">Copy rank badge</a><br/>
+			Nathaly Riaño Bejarano
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
+		<td><a href="https://twitter.com/nasterboost">nasterboost</a></td>
+		<td>Bogotá</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/Goye">
 				<img src="https://avatars.githubusercontent.com/u/11186639?s=72&u=e8897e62198b2e2ec9598e9eef1de93fa4c89e7b&v=4" width="24" alt="Avatar of Goye"> Goye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Goye">Copy rank badge</a><br/>
 			Carlos Goyeneche
 		</td>
 		<td>No Company</td>
@@ -9634,24 +9675,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>737</td>
 		<td>
-			<a href="https://github.com/pabhoz">
-				<img src="https://avatars.githubusercontent.com/u/2641636?s=72&u=6a7e91e6e338ae4cc3b142cc400d5458e51ccbfd&v=4" width="24" alt="Avatar of pabhoz"> pabhoz
-			</a><br/>
-			Pablo Bejarano
+			<a href="https://github.com/Yenniferh">
+				<img src="https://avatars.githubusercontent.com/u/19285706?s=72&u=3abc78a1f596f219363b33253ffe7e2d70d95736&v=4" width="24" alt="Avatar of Yenniferh"> Yenniferh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#Yenniferh">Copy rank badge</a><br/>
+			Yennifer Herrera
 		</td>
-		<td>Veevart </td>
-		<td><a href="https://twitter.com/pabhoz">pabhoz</a></td>
-		<td>Cali, Colombia</td>
+		<td>Universidad Del Norte </td>
+		<td><a href="https://twitter.com/yenniferha">yenniferha</a></td>
+		<td>Barranquilla, Colombia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/mapra99">
+				<img src="https://avatars.githubusercontent.com/u/27536621?s=72&u=fdf09bd78a28c3883e00be1c00c2863618dc2a5c&v=4" width="24" alt="Avatar of mapra99"> mapra99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mapra99">Copy rank badge</a><br/>
+			Miguel Prada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/damuz91">
 				<img src="https://avatars.githubusercontent.com/u/2810042?s=72&u=748d02aca804790ebd27a3a9a6b964595e99476f&v=4" width="24" alt="Avatar of damuz91"> damuz91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#damuz91">Copy rank badge</a><br/>
 			David Muñoz
 		</td>
 		<td>Spiderdoor Llc </td>
@@ -9660,37 +9714,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>736</td>
-		<td>
-			<a href="https://github.com/canro91">
-				<img src="https://avatars.githubusercontent.com/u/3131595?s=72&u=5487d4085759bcfc295835acfd8c44cacd9b0e98&v=4" width="24" alt="Avatar of canro91"> canro91
-			</a><br/>
-			Cesar Aguirre
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia 🇨🇴</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>737</td>
-		<td>
-			<a href="https://github.com/innacroft">
-				<img src="https://avatars.githubusercontent.com/u/48539319?s=72&u=f48d06737d025a67a8038304d73e8d961d639bac&v=4" width="24" alt="Avatar of innacroft"> innacroft
-			</a><br/>
-			Ingrid Natalia Rodriguez Ovalle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>738</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/AlisonQuinter17">
 				<img src="https://avatars.githubusercontent.com/u/59661657?s=72&u=3ec72c4048ffafdd485d67b0fc2743e25ff714ad&v=4" width="24" alt="Avatar of AlisonQuinter17"> AlisonQuinter17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AlisonQuinter17">Copy rank badge</a><br/>
 			Alison Quintero
 		</td>
 		<td>No Company</td>
@@ -9699,11 +9727,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/mariacarlinahernandez">
 				<img src="https://avatars.githubusercontent.com/u/23056276?s=72&u=f89c8bc98bf2bcc30f1c7752543217da4f373554&v=4" width="24" alt="Avatar of mariacarlinahernandez"> mariacarlinahernandez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mariacarlinahernandez">Copy rank badge</a><br/>
 			María Carlina Hernández
 		</td>
 		<td>No Company</td>
@@ -9712,24 +9740,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>740</td>
-		<td>
-			<a href="https://github.com/merq-rodriguez">
-				<img src="https://avatars.githubusercontent.com/u/36940045?s=72&u=21989d8bde4c99a06bf514297a3ecb46ab8d743e&v=4" width="24" alt="Avatar of merq-rodriguez"> merq-rodriguez
-			</a><br/>
-			Stiven Rodriguez
-		</td>
-		<td>Pragma </td>
-		<td><a href="https://twitter.com/stiivcode">stiivcode</a></td>
-		<td>Colombia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/stevepinero">
 				<img src="https://avatars.githubusercontent.com/u/1239174?s=72&u=406f60f0400e94cce338694193075e75d54d501a&v=4" width="24" alt="Avatar of stevepinero"> stevepinero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#stevepinero">Copy rank badge</a><br/>
 			Steve Pinero
 		</td>
 		<td>Og Sistemas </td>
@@ -9738,11 +9753,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/ofaaoficial">
+				<img src="https://avatars.githubusercontent.com/u/26628689?s=72&u=ba7b17cf40a75643c7cd11c1e193a6b6c00d1475&v=4" width="24" alt="Avatar of ofaaoficial"> ofaaoficial
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#ofaaoficial">Copy rank badge</a><br/>
+			Oscar Amado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
+			<a href="https://github.com/AJRDRGZ">
+				<img src="https://avatars.githubusercontent.com/u/12037179?s=72&u=b8d9bee43a70f8c91aac2eb412f26d83a78aff76&v=4" width="24" alt="Avatar of AJRDRGZ"> AJRDRGZ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#AJRDRGZ">Copy rank badge</a><br/>
+			Alejandro Rodriguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/carcagi">
 				<img src="https://avatars.githubusercontent.com/u/7891882?s=72&u=5326a7107ccc8fa56c3ddd1713ffa5038a5b5eae&v=4" width="24" alt="Avatar of carcagi"> carcagi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#carcagi">Copy rank badge</a><br/>
 			Carlos Cárdenas
 		</td>
 		<td>No Company</td>
@@ -9751,24 +9792,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>746</td>
 		<td>
-			<a href="https://github.com/dacorredor11">
-				<img src="https://avatars.githubusercontent.com/u/37881424?s=72&u=943a16b7190523d3c36721c7e7ffce254e3be2f8&v=4" width="24" alt="Avatar of dacorredor11"> dacorredor11
-			</a><br/>
-			David Corredor
+			<a href="https://github.com/lisudea">
+				<img src="https://avatars.githubusercontent.com/u/25753205?s=72&u=26614a22cf0ce3199cda710a5221f26e444973be&v=4" width="24" alt="Avatar of lisudea"> lisudea
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lisudea">Copy rank badge</a><br/>
+			LIS UdeA
 		</td>
-		<td>Thoropass </td>
-		<td><a href="https://twitter.com/dacorredor11">dacorredor11</a></td>
-		<td>Colombia</td>
+		<td>Universidad De Antioquia </td>
+		<td>No Twitter Username</td>
+		<td>Medellín</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/achaverrar">
 				<img src="https://avatars.githubusercontent.com/u/99678501?s=72&u=7dab3aa3d31edb22bd77381150a08e368a2caaed&v=4" width="24" alt="Avatar of achaverrar"> achaverrar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#achaverrar">Copy rank badge</a><br/>
 			Ayxa Chaverra R.
 		</td>
 		<td>No Company</td>
@@ -9777,11 +9818,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/monoprosito">
 				<img src="https://avatars.githubusercontent.com/u/6069359?s=72&u=690eff35d295683321251abcd827aa19936d508a&v=4" width="24" alt="Avatar of monoprosito"> monoprosito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#monoprosito">Copy rank badge</a><br/>
 			Santiago Arboleda
 		</td>
 		<td>No Company</td>
@@ -9790,24 +9831,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>746</td>
-		<td>
-			<a href="https://github.com/JuanDAC">
-				<img src="https://avatars.githubusercontent.com/u/28373565?s=72&u=86e744b3b617674df83d9d86cc7bfc184a7775cc&v=4" width="24" alt="Avatar of JuanDAC"> JuanDAC
-			</a><br/>
-			JuanDAC
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>747</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/camilooob">
 				<img src="https://avatars.githubusercontent.com/u/32441824?s=72&u=5217aa314788d1f9d074354c8865c1cee19440e2&v=4" width="24" alt="Avatar of camilooob"> camilooob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#camilooob">Copy rank badge</a><br/>
 			Camilo Baquero
 		</td>
 		<td>Twitter: @camilooob </td>
@@ -9816,11 +9844,37 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>750</td>
+		<td>
+			<a href="https://github.com/JuanDAC">
+				<img src="https://avatars.githubusercontent.com/u/28373565?s=72&u=86e744b3b617674df83d9d86cc7bfc184a7775cc&v=4" width="24" alt="Avatar of JuanDAC"> JuanDAC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanDAC">Copy rank badge</a><br/>
+			JuanDAC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/danielromeroauk">
+				<img src="https://avatars.githubusercontent.com/u/1313346?s=72&u=0ebab4fb5ca0d9b9f0ae3e9e8b290550db9d2dec&v=4" width="24" alt="Avatar of danielromeroauk"> danielromeroauk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#danielromeroauk">Copy rank badge</a><br/>
+			Daniel Guillermo Romero
+		</td>
+		<td>@la-haus  </td>
+		<td><a href="https://twitter.com/DanielRomeroAuk">DanielRomeroAuk</a></td>
+		<td>Arauca, Colombia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/giovannyortegon">
 				<img src="https://avatars.githubusercontent.com/u/37087716?s=72&u=1c6471e6c853056b54de8a1ae62f4f4b5ed6358a&v=4" width="24" alt="Avatar of giovannyortegon"> giovannyortegon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#giovannyortegon">Copy rank badge</a><br/>
 			Giovanny Ortegon
 		</td>
 		<td>No Company</td>
@@ -9829,11 +9883,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/M1Lr05">
 				<img src="https://avatars.githubusercontent.com/u/35640848?s=72&u=fe05737317cd2f9b2da7723c9bf82017e03a8c5c&v=4" width="24" alt="Avatar of M1Lr05"> M1Lr05
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#M1Lr05">Copy rank badge</a><br/>
 			Rafael Mercado
 		</td>
 		<td>No Company</td>
@@ -9842,24 +9896,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>750</td>
-		<td>
-			<a href="https://github.com/pableres">
-				<img src="https://avatars.githubusercontent.com/u/40926407?s=72&u=320fec6913282e0a49ca9e4db98d890b26eed523&v=4" width="24" alt="Avatar of pableres"> pableres
-			</a><br/>
-			Pablo Vallejo-Medina
-		</td>
-		<td>Fundación Universitaria Konrad Lorenz<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>751</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/winos">
 				<img src="https://avatars.githubusercontent.com/u/1524860?s=72&v=4" width="24" alt="Avatar of winos"> winos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#winos">Copy rank badge</a><br/>
 			Da
 		</td>
 		<td>No Company</td>
@@ -9868,11 +9909,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/pableres">
+				<img src="https://avatars.githubusercontent.com/u/40926407?s=72&u=320fec6913282e0a49ca9e4db98d890b26eed523&v=4" width="24" alt="Avatar of pableres"> pableres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#pableres">Copy rank badge</a><br/>
+			Pablo Vallejo-Medina
+		</td>
+		<td>Fundación Universitaria Konrad Lorenz<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/luismescobarf">
 				<img src="https://avatars.githubusercontent.com/u/35964032?s=72&u=cde5c1d21ac8d1e300fc13c0d7db33f2468a138c&v=4" width="24" alt="Avatar of luismescobarf"> luismescobarf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#luismescobarf">Copy rank badge</a><br/>
 			Luis Miguel Escobar
 		</td>
 		<td>Universidad Libre Seccional Pereira<br/></td>
@@ -9881,24 +9935,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>753</td>
-		<td>
-			<a href="https://github.com/josearangos">
-				<img src="https://avatars.githubusercontent.com/u/13352055?s=72&u=21dc3e67cfc389d5fb1cfefa36947c3674608162&v=4" width="24" alt="Avatar of josearangos"> josearangos
-			</a><br/>
-			Jose Alberto Arango Sanchez
-		</td>
-		<td>Konecta </td>
-		<td>No Twitter Username</td>
-		<td>Medellín-Colombia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>754</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/mariasmoUN">
 				<img src="https://avatars.githubusercontent.com/u/110046283?s=72&u=0dac934486b1940fad8bebfb3cc08507dc73bb96&v=4" width="24" alt="Avatar of mariasmoUN"> mariasmoUN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#mariasmoUN">Copy rank badge</a><br/>
 			Mariana Arias
 		</td>
 		<td>No Company</td>
@@ -9907,11 +9948,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/gigo6000">
 				<img src="https://avatars.githubusercontent.com/u/387648?s=72&u=9f018ccaf22537c966fc5af96da68e64f4e2085b&v=4" width="24" alt="Avatar of gigo6000"> gigo6000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#gigo6000">Copy rank badge</a><br/>
 			Carlos Mafla
 		</td>
 		<td>No Company</td>
@@ -9920,11 +9961,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/juan-csv">
 				<img src="https://avatars.githubusercontent.com/u/52021675?s=72&u=765735189a6b1cfc3e1464f5aa1aec6fe9a86483&v=4" width="24" alt="Avatar of juan-csv"> juan-csv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#juan-csv">Copy rank badge</a><br/>
 			Juan Camilo López Montes
 		</td>
 		<td>No Company</td>
@@ -9933,11 +9974,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/kwmejia">
 				<img src="https://avatars.githubusercontent.com/u/108960263?s=72&u=dca19997229d6ff690e3bdc2fe0b238d7e2a0ace&v=4" width="24" alt="Avatar of kwmejia"> kwmejia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#kwmejia">Copy rank badge</a><br/>
 			Kevin Mejía
 		</td>
 		<td>Riwi </td>
@@ -9946,37 +9987,24 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>761</td>
 		<td>
-			<a href="https://github.com/chriscoderdr">
-				<img src="https://avatars.githubusercontent.com/u/2073238?s=72&u=1d22749ec905a5770c034d2d6fc2c8f1eeb36fc4&v=4" width="24" alt="Avatar of chriscoderdr"> chriscoderdr
-			</a><br/>
-			Chris Gomez
+			<a href="https://github.com/JaisonKeiver">
+				<img src="https://avatars.githubusercontent.com/u/129422550?s=72&u=a216bded2c94b38fa7a1fb6f66d67db0a9724b44&v=4" width="24" alt="Avatar of JaisonKeiver"> JaisonKeiver
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JaisonKeiver">Copy rank badge</a><br/>
+			Jaison Keiver Rodríguez
 		</td>
-		<td>Gbh </td>
+		<td>S360 Labs </td>
 		<td>No Twitter Username</td>
-		<td>Medellin, Colombia</td>
+		<td>Colombia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/NathaEEUD">
-				<img src="https://avatars.githubusercontent.com/u/31085824?s=72&u=337bab34eee7338a154ca519562fe437c7f692ea&v=4" width="24" alt="Avatar of NathaEEUD"> NathaEEUD
-			</a><br/>
-			Nathaly Riaño Bejarano
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nasterboost">nasterboost</a></td>
-		<td>Bogotá</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>760</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/JuanHoKKeR">
 				<img src="https://avatars.githubusercontent.com/u/112980127?s=72&u=543fd4fbce1201b7461b9ccec5faff0a28d46b70&v=4" width="24" alt="Avatar of JuanHoKKeR"> JuanHoKKeR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#JuanHoKKeR">Copy rank badge</a><br/>
 			Juan Cruz
 		</td>
 		<td>No Company</td>
@@ -9985,11 +10013,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/liberathor">
 				<img src="https://avatars.githubusercontent.com/u/1112502?s=72&u=172d1fa92e678a6b62719bbd29934467c7980aa8&v=4" width="24" alt="Avatar of liberathor"> liberathor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#liberathor">Copy rank badge</a><br/>
 			Juan Carlos Ramírez
 		</td>
 		<td>Liberathion Studios </td>
@@ -9998,24 +10026,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>762</td>
-		<td>
-			<a href="https://github.com/mapra99">
-				<img src="https://avatars.githubusercontent.com/u/27536621?s=72&u=fdf09bd78a28c3883e00be1c00c2863618dc2a5c&v=4" width="24" alt="Avatar of mapra99"> mapra99
-			</a><br/>
-			Miguel Prada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/BrianSammit">
 				<img src="https://avatars.githubusercontent.com/u/64173189?s=72&u=beedff026a676a7b63529bd146d4bdcbd5f84f0f&v=4" width="24" alt="Avatar of BrianSammit"> BrianSammit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#BrianSammit">Copy rank badge</a><br/>
 			Brian Sammit Cruz Rodriguez
 		</td>
 		<td>Freelance Full-stack Developer </td>
@@ -10024,11 +10039,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/lmbd92">
 				<img src="https://avatars.githubusercontent.com/u/5832536?s=72&u=adb29cf821faab8c3c0c5c88ce0227f1983bc6fd&v=4" width="24" alt="Avatar of lmbd92"> lmbd92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#lmbd92">Copy rank badge</a><br/>
 			Lina Beltrán
 		</td>
 		<td>Eafit University </td>
@@ -10037,24 +10052,11 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>765</td>
-		<td>
-			<a href="https://github.com/jcolorado19">
-				<img src="https://avatars.githubusercontent.com/u/8047140?s=72&u=afcdbab6d367cc5c706f98d23a99e82d88b80478&v=4" width="24" alt="Avatar of jcolorado19"> jcolorado19
-			</a><br/>
-			Jhon Carlos Colorado
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jhoncolorado07">jhoncolorado07</a></td>
-		<td>Colombia</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>766</td>
 		<td>
 			<a href="https://github.com/tille">
 				<img src="https://avatars.githubusercontent.com/u/380315?s=72&u=9120291ca831c93ae633d3f2caa7cf520ec7a388&v=4" width="24" alt="Avatar of tille"> tille
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#tille">Copy rank badge</a><br/>
 			Jorman Bustos
 		</td>
 		<td>No Company</td>
@@ -10065,22 +10067,48 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 	<tr>
 		<td>767</td>
 		<td>
-			<a href="https://github.com/nlopezgi">
-				<img src="https://avatars.githubusercontent.com/u/4062751?s=72&u=7e8085aa8ea003e8aec78fd97dd99fa9647514ec&v=4" width="24" alt="Avatar of nlopezgi"> nlopezgi
-			</a><br/>
-			Nicolas Lopez
+			<a href="https://github.com/merq-rodriguez">
+				<img src="https://avatars.githubusercontent.com/u/36940045?s=72&u=21989d8bde4c99a06bf514297a3ecb46ab8d743e&v=4" width="24" alt="Avatar of merq-rodriguez"> merq-rodriguez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#merq-rodriguez">Copy rank badge</a><br/>
+			Stiven Rodriguez
 		</td>
-		<td>Engflow </td>
-		<td>No Twitter Username</td>
+		<td>Pragma </td>
+		<td><a href="https://twitter.com/stiivcode">stiivcode</a></td>
 		<td>Colombia</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>768</td>
 		<td>
+			<a href="https://github.com/jfgomez86">
+				<img src="https://avatars.githubusercontent.com/u/26999?s=72&v=4" width="24" alt="Avatar of jfgomez86"> jfgomez86
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#jfgomez86">Copy rank badge</a><br/>
+			Jose Felix Gomez
+		</td>
+		<td>Koombea </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>769</td>
+		<td>
+			<a href="https://github.com/YilverMolina">
+				<img src="https://avatars.githubusercontent.com/u/6888715?s=72&u=63bc26fc21ad578178c25b9953e431489a71d598&v=4" width="24" alt="Avatar of YilverMolina"> YilverMolina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#YilverMolina">Copy rank badge</a><br/>
+			Yilver Molina Hurtatiz
+		</td>
+		<td>Globant </td>
+		<td><a href="https://twitter.com/YilverMH">YilverMH</a></td>
+		<td>Bogotá D.C.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
 			<a href="https://github.com/akegiraldo">
 				<img src="https://avatars.githubusercontent.com/u/30760255?s=72&u=603c104224c9a8e15a26208580eb86b8f9391a5e&v=4" width="24" alt="Avatar of akegiraldo"> akegiraldo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#akegiraldo">Copy rank badge</a><br/>
 			Kevin Giraldo
 		</td>
 		<td>Attention, Inc </td>
@@ -10089,16 +10117,16 @@ There are `967 users`  in Colombia. You need at least `41 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>771</td>
 		<td>
-			<a href="https://github.com/YilverMolina">
-				<img src="https://avatars.githubusercontent.com/u/6888715?s=72&u=63bc26fc21ad578178c25b9953e431489a71d598&v=4" width="24" alt="Avatar of YilverMolina"> YilverMolina
-			</a><br/>
-			Yilver Molina Hurtatiz
+			<a href="https://github.com/andrearosr">
+				<img src="https://avatars.githubusercontent.com/u/12634807?s=72&u=df0d565ebaf24f8bc7025638b6bbd89eb2364aea&v=4" width="24" alt="Avatar of andrearosr"> andrearosr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/colombia.md#andrearosr">Copy rank badge</a><br/>
+			Andrea Rosales
 		</td>
-		<td>Globant </td>
-		<td><a href="https://twitter.com/YilverMH">YilverMH</a></td>
-		<td>Bogotá D.C.</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
 		<td>1</td>
 	</tr>
 </table>
