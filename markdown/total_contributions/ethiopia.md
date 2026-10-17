@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` and `private contributions` by users in Ethiopia on `2026/9/19 6:24 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` and `private contributions` by users in Ethiopia on `2026/10/17 10:39 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `985 users`  in Ethiopia. You need at least `20 followers` to be on this list.
+There are `986 users`  in Ethiopia. You need at least `20 followers` to be on this list.
 
 <table>
 	<tr>
@@ -117,7 +117,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/aniwkn">aniwkn</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>26</td>
-		<td>41038</td>
+		<td>41189</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia, Addis Ababa</td>
 		<td>20</td>
-		<td>19770</td>
+		<td>17099</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>A2sv  </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>104</td>
-		<td>12515</td>
+		<td>413</td>
+		<td>12619</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,21 +159,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
 		<td>200</td>
-		<td>12272</td>
+		<td>12249</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/tokukiyu">
-				<img src="https://avatars.githubusercontent.com/u/106821330?s=72&u=e0bc2c69b28b39061389aed23fabc837133dc057&v=4" width="24" alt="Avatar of tokukiyu"> tokukiyu
+			<a href="https://github.com/melaku-z">
+				<img src="https://avatars.githubusercontent.com/u/11456040?s=72&u=262a357dc35f1d0a7f5551806d735a25cb156059&v=4" width="24" alt="Avatar of melaku-z"> melaku-z
 			</a><br/>
-			Tokuma Abdisa
+			Melaku Zewdu
 		</td>
-		<td>Quantumkit </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>2</td>
-		<td>11395</td>
+		<td>Ethiopia</td>
+		<td>109</td>
+		<td>12145</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,21 +187,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>0</td>
-		<td>11365</td>
+		<td>11869</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/melaku-z">
-				<img src="https://avatars.githubusercontent.com/u/11456040?s=72&u=262a357dc35f1d0a7f5551806d735a25cb156059&v=4" width="24" alt="Avatar of melaku-z"> melaku-z
+			<a href="https://github.com/tokukiyu">
+				<img src="https://avatars.githubusercontent.com/u/106821330?s=72&u=e0bc2c69b28b39061389aed23fabc837133dc057&v=4" width="24" alt="Avatar of tokukiyu"> tokukiyu
 			</a><br/>
-			Melaku Zewdu
+			Tokuma Abdisa
 		</td>
-		<td>No Company</td>
+		<td>Quantumkit </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>113</td>
-		<td>11212</td>
+		<td>Addis Ababa</td>
+		<td>1</td>
+		<td>11348</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@solvixteams </td>
 		<td><a href="https://twitter.com/haxurn">haxurn</a></td>
 		<td>Ethiopia, Addis Ababa</td>
-		<td>316</td>
-		<td>9914</td>
+		<td>320</td>
+		<td>10372</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/natnaeln4d">natnaeln4d</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>9133</td>
+		<td>14</td>
+		<td>9453</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,10 +243,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/amano_dema">amano_dema</a></td>
 		<td>Ethiopia , Addis Ababa</td>
 		<td>40</td>
-		<td>8718</td>
+		<td>8869</td>
 	</tr>
 	<tr>
 		<td>11</td>
+		<td>
+			<a href="https://github.com/Olyadtemesgen">
+				<img src="https://avatars.githubusercontent.com/u/105017653?s=72&u=336ace5097e0efaef6732b0ef937184b03970c32&v=4" width="24" alt="Avatar of Olyadtemesgen"> Olyadtemesgen
+			</a><br/>
+			Olyad Temesgen Amsalu
+		</td>
+		<td>@xgnosis </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>8272</td>
+	</tr>
+	<tr>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/onesamket">
 				<img src="https://avatars.githubusercontent.com/u/120477045?s=72&u=d53b7f4f3ed4058012b9c3e0760e05db965cf6d4&v=4" width="24" alt="Avatar of onesamket"> onesamket
@@ -256,53 +270,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@siket-apps  </td>
 		<td><a href="https://twitter.com/onesamket">onesamket</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>212</td>
-		<td>8177</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/abela12">
-				<img src="https://avatars.githubusercontent.com/u/46282557?s=72&u=fe4470be5eada7ce9c0243ce14fca12a6e4baf47&v=4" width="24" alt="Avatar of abela12"> abela12
-			</a><br/>
-			Abel Berhanu
-		</td>
-		<td>@gashadigital @siltawi  </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia , Addis Abeba</td>
-		<td>16</td>
-		<td>8035</td>
+		<td>169</td>
+		<td>7954</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>
-			<a href="https://github.com/mohammedsbd">
-				<img src="https://avatars.githubusercontent.com/u/175719241?s=72&u=bd73924efc3d4b75148eb4c1d7e0bf565fcfbaf1&v=4" width="24" alt="Avatar of mohammedsbd"> mohammedsbd
-			</a><br/>
-			Mohammed Salih
-		</td>
-		<td>Afrodigital.dev </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>7250</td>
-		<td>7308</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/Rick1330">
-				<img src="https://avatars.githubusercontent.com/u/133630952?s=72&u=c3324e075417f955e9e2496f5ed3ee1e9531c1f4&v=4" width="24" alt="Avatar of Rick1330"> Rick1330
-			</a><br/>
-			Elshaday Mengesha
-		</td>
-		<td>@anchorpipe  </td>
-		<td><a href="https://twitter.com/Rick_Riener">Rick_Riener</a></td>
-		<td>Addis Ababa</td>
-		<td>3505</td>
-		<td>6527</td>
-	</tr>
-	<tr>
-		<td>15</td>
 		<td>
 			<a href="https://github.com/dKibru">
 				<img src="https://avatars.githubusercontent.com/u/32495495?s=72&u=2ed907da745040a8a8ffdc2018db0c92a8bb9cd8&v=4" width="24" alt="Avatar of dKibru"> dKibru
@@ -313,21 +285,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/tdkibru">tdkibru</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>3</td>
-		<td>6521</td>
+		<td>7227</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/abela12">
+				<img src="https://avatars.githubusercontent.com/u/46282557?s=72&u=fe4470be5eada7ce9c0243ce14fca12a6e4baf47&v=4" width="24" alt="Avatar of abela12"> abela12
+			</a><br/>
+			Abel Berhanu
+		</td>
+		<td>@gashadigital @siltawi  </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia , Addis Abeba</td>
+		<td>20</td>
+		<td>7195</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/eandualem">
+				<img src="https://avatars.githubusercontent.com/u/19794057?s=72&u=68e68ed9fe5afb283a82abd33fc069c67550bea9&v=4" width="24" alt="Avatar of eandualem"> eandualem
+			</a><br/>
+			Elias Andualem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>3276</td>
+		<td>6814</td>
 	</tr>
 	<tr>
 		<td>16</td>
 		<td>
-			<a href="https://github.com/frectonz">
-				<img src="https://avatars.githubusercontent.com/u/53809656?s=72&u=83268faafff1ed0c8c36211717f2f711c93f9bdc&v=4" width="24" alt="Avatar of frectonz"> frectonz
+			<a href="https://github.com/Rick1330">
+				<img src="https://avatars.githubusercontent.com/u/133630952?s=72&u=c3324e075417f955e9e2496f5ed3ee1e9531c1f4&v=4" width="24" alt="Avatar of Rick1330"> Rick1330
 			</a><br/>
-			Fraol Lemecha
+			Elshaday Mengesha
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/frectonz">frectonz</a></td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>1612</td>
-		<td>6080</td>
+		<td>@anchorpipe  </td>
+		<td><a href="https://twitter.com/Rick_Riener">Rick_Riener</a></td>
+		<td>Addis Ababa</td>
+		<td>3690</td>
+		<td>6526</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -340,39 +340,25 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@synheart-ai  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>219</td>
-		<td>5764</td>
+		<td>206</td>
+		<td>6500</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/meke16">
-				<img src="https://avatars.githubusercontent.com/u/192334560?s=72&u=7582dc760069d931e15c1216f9cf76319c41877e&v=4" width="24" alt="Avatar of meke16"> meke16
+			<a href="https://github.com/frectonz">
+				<img src="https://avatars.githubusercontent.com/u/53809656?s=72&u=83268faafff1ed0c8c36211717f2f711c93f9bdc&v=4" width="24" alt="Avatar of frectonz"> frectonz
 			</a><br/>
-			Cherinet Habtamu
+			Fraol Lemecha
 		</td>
-		<td>Tanef Tech Solution </td>
-		<td><a href="https://twitter.com/Cherinet_16">Cherinet_16</a></td>
-		<td>Ethiopia,Addis Ababa</td>
-		<td>547</td>
-		<td>5570</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frectonz">frectonz</a></td>
+		<td>Ethiopia, Addis Abeba</td>
+		<td>1553</td>
+		<td>6497</td>
 	</tr>
 	<tr>
 		<td>19</td>
-		<td>
-			<a href="https://github.com/kena741">
-				<img src="https://avatars.githubusercontent.com/u/93039027?s=72&u=d570f24d49e461c5ce8b4dddd17a8a85732f1a5c&v=4" width="24" alt="Avatar of kena741"> kena741
-			</a><br/>
-			Kena G.
-		</td>
-		<td>Addis Ababa University <br/></td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>270</td>
-		<td>5341</td>
-	</tr>
-	<tr>
-		<td>20</td>
 		<td>
 			<a href="https://github.com/MelakuDemeke">
 				<img src="https://avatars.githubusercontent.com/u/38818398?s=72&u=2a84ffcfea33f92b313930fed7905d3974d24a69&v=4" width="24" alt="Avatar of MelakuDemeke"> MelakuDemeke
@@ -382,11 +368,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@ensitesolution  </td>
 		<td><a href="https://twitter.com/MelakuDemeke_">MelakuDemeke_</a></td>
 		<td>Ethiopia</td>
-		<td>583</td>
-		<td>5224</td>
+		<td>561</td>
+		<td>6281</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/biruk-tesfaye">
 				<img src="https://avatars.githubusercontent.com/u/32713845?s=72&v=4" width="24" alt="Avatar of biruk-tesfaye"> biruk-tesfaye
@@ -397,80 +383,10 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/biruktesfayeve">biruktesfayeve</a></td>
 		<td>Addis Ababa Ethiopia</td>
 		<td>0</td>
-		<td>5204</td>
+		<td>6080</td>
 	</tr>
 	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/hiruy72">
-				<img src="https://avatars.githubusercontent.com/u/205558156?s=72&u=87cf95a8441ad728f47159556265b7b5f2c3c9f7&v=4" width="24" alt="Avatar of hiruy72"> hiruy72
-			</a><br/>
-			Hiruy Legesse Adane
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>3028</td>
-		<td>4949</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/amdebirhan-asmamaw">
-				<img src="https://avatars.githubusercontent.com/u/131457486?s=72&u=99ed854ae679c53d69979290c7a6ca201db857a6&v=4" width="24" alt="Avatar of amdebirhan-asmamaw"> amdebirhan-asmamaw
-			</a><br/>
-			Amdebirhan Asmamaw
-		</td>
-		<td>Blih-technologies </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1010</td>
-		<td>4878</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/FANIMAN">
-				<img src="https://avatars.githubusercontent.com/u/39411233?s=72&u=8f663572b28f9eb958d5bc3abba553c6f2fb46f9&v=4" width="24" alt="Avatar of FANIMAN"> FANIMAN
-			</a><br/>
-			Fantahun Fekadu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>129</td>
-		<td>4800</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/sgc93">
-				<img src="https://avatars.githubusercontent.com/u/109880887?s=72&u=95300a95c42e1fbb123b692e69cf6d017e11ef07&v=4" width="24" alt="Avatar of sgc93"> sgc93
-			</a><br/>
-			Smachew Gedefaw C.
-		</td>
-		<td>Zare Innovations </td>
-		<td><a href="https://twitter.com/smachew">smachew</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>418</td>
-		<td>4726</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/ba5liel">
-				<img src="https://avatars.githubusercontent.com/u/55631362?s=72&u=d3945b214c3b50dcdd6d04bd09034eba6408611c&v=4" width="24" alt="Avatar of ba5liel"> ba5liel
-			</a><br/>
-			basliel
-		</td>
-		<td>@knovuslab  </td>
-		<td><a href="https://twitter.com/basliel16">basliel16</a></td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>93</td>
-		<td>4674</td>
-	</tr>
-	<tr>
-		<td>27</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/abeltyr">
 				<img src="https://avatars.githubusercontent.com/u/30269130?s=72&u=efc49bbfdd15feabbdc8c3562102c99a142a8401&v=4" width="24" alt="Avatar of abeltyr"> abeltyr
@@ -481,66 +397,66 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia addis ababa</td>
 		<td>475</td>
-		<td>4478</td>
+		<td>5863</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>22</td>
 		<td>
-			<a href="https://github.com/Peterase-1">
-				<img src="https://avatars.githubusercontent.com/u/177719527?s=72&u=cf398b23c65b7c5c21cfc6ecedb9753639b79b7f&v=4" width="24" alt="Avatar of Peterase-1"> Peterase-1
+			<a href="https://github.com/meke16">
+				<img src="https://avatars.githubusercontent.com/u/192334560?s=72&u=240c702e0aa9883e6e8f33d51ea3b159c12a11cc&v=4" width="24" alt="Avatar of meke16"> meke16
 			</a><br/>
-			Petros Asegid
+			Cherinet Habtamu
 		</td>
-		<td>Debre Berhan University </td>
+		<td>Tanef Tech Solution </td>
+		<td><a href="https://twitter.com/Cherinet_16">Cherinet_16</a></td>
+		<td>Ethiopia,Addis Ababa</td>
+		<td>540</td>
+		<td>5779</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/sgc93">
+				<img src="https://avatars.githubusercontent.com/u/109880887?s=72&u=95300a95c42e1fbb123b692e69cf6d017e11ef07&v=4" width="24" alt="Avatar of sgc93"> sgc93
+			</a><br/>
+			Smachew Gedefaw C.
+		</td>
+		<td>Zare Innovations </td>
+		<td><a href="https://twitter.com/smachew">smachew</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>423</td>
+		<td>5602</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/kena741">
+				<img src="https://avatars.githubusercontent.com/u/93039027?s=72&u=d570f24d49e461c5ce8b4dddd17a8a85732f1a5c&v=4" width="24" alt="Avatar of kena741"> kena741
+			</a><br/>
+			Kena G.
+		</td>
+		<td>Addis Ababa University <br/></td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>350</td>
+		<td>5400</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/hiruy72">
+				<img src="https://avatars.githubusercontent.com/u/205558156?s=72&u=87cf95a8441ad728f47159556265b7b5f2c3c9f7&v=4" width="24" alt="Avatar of hiruy72"> hiruy72
+			</a><br/>
+			Hiruy Legesse Adane
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>1704</td>
-		<td>4426</td>
+		<td>3343</td>
+		<td>5267</td>
 	</tr>
 	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/kika1s1">
-				<img src="https://avatars.githubusercontent.com/u/99613456?s=72&u=abbb8884bc0929946d005fa16172d4f7cf31d236&v=4" width="24" alt="Avatar of kika1s1"> kika1s1
-			</a><br/>
-			Tamirat Kebede
-		</td>
-		<td>Afridev </td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>432</td>
-		<td>4200</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/Fasill">
-				<img src="https://avatars.githubusercontent.com/u/81506454?s=72&u=f2c9d797f18cac997dfaff1b79cbcedbb3fcedd9&v=4" width="24" alt="Avatar of Fasill"> Fasill
-			</a><br/>
-			FASIL
-		</td>
-		<td>Ethiopia </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>127</td>
-		<td>4135</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/Yagth">
-				<img src="https://avatars.githubusercontent.com/u/92119273?s=72&u=6fa5a9fdc2e56ae9c5030d1195888a41cf70e37e&v=4" width="24" alt="Avatar of Yagth"> Yagth
-			</a><br/>
-			Yeabesera Derese 
-		</td>
-		<td>Icoglabs </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>443</td>
-		<td>4113</td>
-	</tr>
-	<tr>
-		<td>32</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/vernu">
 				<img src="https://avatars.githubusercontent.com/u/7479824?s=72&u=90d5aa17d4e0143d12ad8ee8fab1eeab5cc0976a&v=4" width="24" alt="Avatar of vernu"> vernu
@@ -550,11 +466,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>671</td>
-		<td>4045</td>
+		<td>930</td>
+		<td>5183</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/amdebirhan-asmamaw">
+				<img src="https://avatars.githubusercontent.com/u/131457486?s=72&u=99ed854ae679c53d69979290c7a6ca201db857a6&v=4" width="24" alt="Avatar of amdebirhan-asmamaw"> amdebirhan-asmamaw
+			</a><br/>
+			Amdebirhan Asmamaw
+		</td>
+		<td>Blih-technologies </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>961</td>
+		<td>4939</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/FANIMAN">
+				<img src="https://avatars.githubusercontent.com/u/39411233?s=72&u=8f663572b28f9eb958d5bc3abba553c6f2fb46f9&v=4" width="24" alt="Avatar of FANIMAN"> FANIMAN
+			</a><br/>
+			Fantahun Fekadu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>110</td>
+		<td>4792</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/mohammedsbd">
+				<img src="https://avatars.githubusercontent.com/u/175719241?s=72&u=bd73924efc3d4b75148eb4c1d7e0bf565fcfbaf1&v=4" width="24" alt="Avatar of mohammedsbd"> mohammedsbd
+			</a><br/>
+			Mohammed Salih
+		</td>
+		<td>Afrodigital.dev </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>4495</td>
+		<td>4553</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/CakeInTech">
 				<img src="https://avatars.githubusercontent.com/u/69153321?s=72&u=31eed9b4df2cfbdf5912ba1030bf6f9cf5553909&v=4" width="24" alt="Avatar of CakeInTech"> CakeInTech
@@ -565,7 +523,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis ababa, Ethiopia</td>
 		<td>19</td>
-		<td>3961</td>
+		<td>4532</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/kika1s1">
+				<img src="https://avatars.githubusercontent.com/u/99613456?s=72&u=abbb8884bc0929946d005fa16172d4f7cf31d236&v=4" width="24" alt="Avatar of kika1s1"> kika1s1
+			</a><br/>
+			Tamirat Kebede
+		</td>
+		<td>Afridev </td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>446</td>
+		<td>4524</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/Peterase-1">
+				<img src="https://avatars.githubusercontent.com/u/177719527?s=72&u=cf398b23c65b7c5c21cfc6ecedb9753639b79b7f&v=4" width="24" alt="Avatar of Peterase-1"> Peterase-1
+			</a><br/>
+			Petros Asegid
+		</td>
+		<td>Debre Berhan University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1612</td>
+		<td>4493</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/ba5liel">
+				<img src="https://avatars.githubusercontent.com/u/55631362?s=72&u=d3945b214c3b50dcdd6d04bd09034eba6408611c&v=4" width="24" alt="Avatar of ba5liel"> ba5liel
+			</a><br/>
+			basliel
+		</td>
+		<td>@knovuslab  </td>
+		<td><a href="https://twitter.com/basliel16">basliel16</a></td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>93</td>
+		<td>4445</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -579,10 +579,52 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/VoltageBerhanu">VoltageBerhanu</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>52</td>
-		<td>3952</td>
+		<td>4184</td>
 	</tr>
 	<tr>
 		<td>35</td>
+		<td>
+			<a href="https://github.com/milkias17">
+				<img src="https://avatars.githubusercontent.com/u/66522725?s=72&u=e30dbc0d22e2d47027507306ed7d52990e49dd53&v=4" width="24" alt="Avatar of milkias17"> milkias17
+			</a><br/>
+			Milkias Yeheyis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1476</td>
+		<td>4144</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/Yagth">
+				<img src="https://avatars.githubusercontent.com/u/92119273?s=72&u=6fa5a9fdc2e56ae9c5030d1195888a41cf70e37e&v=4" width="24" alt="Avatar of Yagth"> Yagth
+			</a><br/>
+			Yeabesera Derese 
+		</td>
+		<td>Icoglabs </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>724</td>
+		<td>4009</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/sifenfisaha">
+				<img src="https://avatars.githubusercontent.com/u/190786260?s=72&u=2f6afe6309e0d64e6b1739b49a7b12402178723d&v=4" width="24" alt="Avatar of sifenfisaha"> sifenfisaha
+			</a><br/>
+			Sifen Fisaha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/See_Fun0">See_Fun0</a></td>
+		<td>Ethiopia</td>
+		<td>531</td>
+		<td>4000</td>
+	</tr>
+	<tr>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/nabiloo19">
 				<img src="https://avatars.githubusercontent.com/u/45761185?s=72&u=8a0e206e60253a1603e53884b4169eeabd48c79f&v=4" width="24" alt="Avatar of nabiloo19"> nabiloo19
@@ -593,24 +635,122 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/alanssinabil19">alanssinabil19</a></td>
 		<td>Ethiopia, Addis Ababa</td>
 		<td>146</td>
-		<td>3922</td>
+		<td>3960</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>39</td>
 		<td>
-			<a href="https://github.com/Olyadtemesgen">
-				<img src="https://avatars.githubusercontent.com/u/105017653?s=72&u=336ace5097e0efaef6732b0ef937184b03970c32&v=4" width="24" alt="Avatar of Olyadtemesgen"> Olyadtemesgen
+			<a href="https://github.com/abdiesu04">
+				<img src="https://avatars.githubusercontent.com/u/99608238?s=72&v=4" width="24" alt="Avatar of abdiesu04"> abdiesu04
 			</a><br/>
-			Olyad Temesgen Amsalu
+			Abdi Esayas
 		</td>
-		<td>@xgnosis </td>
+		<td>A2sv </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>87</td>
+		<td>3949</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/wuletawwonte">
+				<img src="https://avatars.githubusercontent.com/u/12524453?s=72&u=8ce5383d0b6533cbf388ec1405f8a8e4de8f941f&v=4" width="24" alt="Avatar of wuletawwonte"> wuletawwonte
+			</a><br/>
+			Wuletaw Wonte
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wuletawwonte">wuletawwonte</a></td>
+		<td>Ethiopia</td>
+		<td>46</td>
+		<td>3946</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/cipher-attack">
+				<img src="https://avatars.githubusercontent.com/u/190141977?s=72&u=2e93457c9812a27bd25e2c40df4e1b41eea74d2f&v=4" width="24" alt="Avatar of cipher-attack"> cipher-attack
+			</a><br/>
+			CIPHER 
+		</td>
+		<td>Vlzsq2mxvldua1pxykuw </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa (ethiopia)</td>
+		<td>799</td>
+		<td>3890</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/Fasill">
+				<img src="https://avatars.githubusercontent.com/u/81506454?s=72&u=f2c9d797f18cac997dfaff1b79cbcedbb3fcedd9&v=4" width="24" alt="Avatar of Fasill"> Fasill
+			</a><br/>
+			FASIL
+		</td>
+		<td>Ethiopia </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>122</td>
+		<td>3870</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/bengeos">
+				<img src="https://avatars.githubusercontent.com/u/7533157?s=72&v=4" width="24" alt="Avatar of bengeos"> bengeos
+			</a><br/>
+			Biniam Kassahun
+		</td>
+		<td>Gluon </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>127</td>
+		<td>3824</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/teklumt">
+				<img src="https://avatars.githubusercontent.com/u/135549662?s=72&u=8005c511739400c5acd324e3aca263fb617f1db5&v=4" width="24" alt="Avatar of teklumt"> teklumt
+			</a><br/>
+			Teklu moges
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>194</td>
+		<td>3786</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/Yoseph-M">
+				<img src="https://avatars.githubusercontent.com/u/171858284?s=72&u=df3a8381a7b23a2864cdc6184128fdc3f45e6d77&v=4" width="24" alt="Avatar of Yoseph-M"> Yoseph-M
+			</a><br/>
+			Yoseph_M
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>2</td>
-		<td>3843</td>
+		<td>3388</td>
+		<td>3711</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/solomon-mh">
+				<img src="https://avatars.githubusercontent.com/u/132606059?s=72&v=4" width="24" alt="Avatar of solomon-mh"> solomon-mh
+			</a><br/>
+			Solomon Muhye
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ethiopia</td>
+		<td>83</td>
+		<td>3706</td>
+	</tr>
+	<tr>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/Hailemeskel-Getaneh">
 				<img src="https://avatars.githubusercontent.com/u/159171440?s=72&u=6cc13cc10038f21d4d1147793e845cee8acfb643&v=4" width="24" alt="Avatar of Hailemeskel-Getaneh"> Hailemeskel-Getaneh
@@ -620,25 +760,39 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Debre Birhan, Ethiopia</td>
-		<td>3510</td>
-		<td>3776</td>
+		<td>3491</td>
+		<td>3659</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>48</td>
 		<td>
-			<a href="https://github.com/sifenfisaha">
-				<img src="https://avatars.githubusercontent.com/u/190786260?s=72&u=2f6afe6309e0d64e6b1739b49a7b12402178723d&v=4" width="24" alt="Avatar of sifenfisaha"> sifenfisaha
+			<a href="https://github.com/dagim-shimelis">
+				<img src="https://avatars.githubusercontent.com/u/79264107?s=72&u=d8035c96828780fd9127f9efee8a61ed1f9b1073&v=4" width="24" alt="Avatar of dagim-shimelis"> dagim-shimelis
 			</a><br/>
-			Sifen Fisaha
+			Dagim Shimelis
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/See_Fun0">See_Fun0</a></td>
-		<td>Ethiopia</td>
-		<td>581</td>
-		<td>3718</td>
+		<td><a href="https://twitter.com/Dagim__Shimelis">Dagim__Shimelis</a></td>
+		<td>Ethiopia , Addis Ababa</td>
+		<td>94</td>
+		<td>3585</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/yaphet17">
+				<img src="https://avatars.githubusercontent.com/u/78301074?s=72&u=169b8617a25bb8539f5e5af35cda59754b80ee51&v=4" width="24" alt="Avatar of yaphet17"> yaphet17
+			</a><br/>
+			Yafet Berhanu
+		</td>
+		<td>@northconcepts @kinnectd  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>16</td>
+		<td>3584</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/adilmohak">
 				<img src="https://avatars.githubusercontent.com/u/60693922?s=72&u=f3fc48f496b6a8b39221047eaea6d4f5099bf0dc&v=4" width="24" alt="Avatar of adilmohak"> adilmohak
@@ -649,189 +803,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/adilmohak1">adilmohak1</a></td>
 		<td>Addis ababa, Ethiopia</td>
 		<td>7</td>
-		<td>3713</td>
+		<td>3524</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>51</td>
 		<td>
-			<a href="https://github.com/dagim-shimelis">
-				<img src="https://avatars.githubusercontent.com/u/79264107?s=72&u=d8035c96828780fd9127f9efee8a61ed1f9b1073&v=4" width="24" alt="Avatar of dagim-shimelis"> dagim-shimelis
+			<a href="https://github.com/Selamawit926">
+				<img src="https://avatars.githubusercontent.com/u/57093209?s=72&u=60373c18463069305027a216bfe0db6a0297ff51&v=4" width="24" alt="Avatar of Selamawit926"> Selamawit926
 			</a><br/>
-			Dagim Shimelis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Dagim__Shimelis">Dagim__Shimelis</a></td>
-		<td>Ethiopia , Addis Ababa</td>
-		<td>48</td>
-		<td>3667</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/milkias17">
-				<img src="https://avatars.githubusercontent.com/u/66522725?s=72&u=e30dbc0d22e2d47027507306ed7d52990e49dd53&v=4" width="24" alt="Avatar of milkias17"> milkias17
-			</a><br/>
-			Milkias Yeheyis
+			Selamawit Elias
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>1520</td>
-		<td>3655</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/haileznabu">
-				<img src="https://avatars.githubusercontent.com/u/43222722?s=72&u=e3ac4cfe9da117dbf92771544a47f4b857f6df1e&v=4" width="24" alt="Avatar of haileznabu"> haileznabu
-			</a><br/>
-			HAILE ZNABU
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>285</td>
-		<td>3653</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/yaphet17">
-				<img src="https://avatars.githubusercontent.com/u/78301074?s=72&u=169b8617a25bb8539f5e5af35cda59754b80ee51&v=4" width="24" alt="Avatar of yaphet17"> yaphet17
-			</a><br/>
-			Yafet Berhanu
-		</td>
-		<td>@northconcepts @kinnectd  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>3595</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/solomon-mh">
-				<img src="https://avatars.githubusercontent.com/u/132606059?s=72&v=4" width="24" alt="Avatar of solomon-mh"> solomon-mh
-			</a><br/>
-			Solomon Muhye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ethiopia</td>
-		<td>72</td>
-		<td>3546</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/abdiesu04">
-				<img src="https://avatars.githubusercontent.com/u/99608238?s=72&v=4" width="24" alt="Avatar of abdiesu04"> abdiesu04
-			</a><br/>
-			Abdi Esayas
-		</td>
-		<td>A2sv </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>90</td>
-		<td>3525</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/abdiberhe">
-				<img src="https://avatars.githubusercontent.com/u/117733570?s=72&u=3153b2d1ac18978f1907cdfee2f1f00dfc581181&v=4" width="24" alt="Avatar of abdiberhe"> abdiberhe
-			</a><br/>
-			Abdi Berhe
-		</td>
-		<td>Xavad Technologies </td>
-		<td><a href="https://twitter.com/abdiberhe">abdiberhe</a></td>
-		<td>Ethiopia</td>
 		<td>0</td>
-		<td>3467</td>
+		<td>3523</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/getabalewKemaw">
-				<img src="https://avatars.githubusercontent.com/u/192819343?s=72&u=5fbee44f690db03010b176a9082957051bde7ffd&v=4" width="24" alt="Avatar of getabalewKemaw"> getabalewKemaw
+				<img src="https://avatars.githubusercontent.com/u/192819343?s=72&u=50a1f3cbe68e73f4c830de48dde6e89f3bf86b2e&v=4" width="24" alt="Avatar of getabalewKemaw"> getabalewKemaw
 			</a><br/>
 			Getabalew Kemaw
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/getabalewKemawP">getabalewKemawP</a></td>
 		<td>Ethiopia</td>
-		<td>1140</td>
-		<td>3440</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/teklumt">
-				<img src="https://avatars.githubusercontent.com/u/135549662?s=72&u=8005c511739400c5acd324e3aca263fb617f1db5&v=4" width="24" alt="Avatar of teklumt"> teklumt
-			</a><br/>
-			Teklu moges
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>73</td>
-		<td>3341</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/Atnatewoss">
-				<img src="https://avatars.githubusercontent.com/u/165107377?s=72&u=674e20f6c4beeb73c611c4f3e9f98cfe7de10677&v=4" width="24" alt="Avatar of Atnatewoss"> Atnatewoss
-			</a><br/>
-			Atnatewos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1523</td>
-		<td>3336</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/ghost2023">
-				<img src="https://avatars.githubusercontent.com/u/95122168?s=72&u=cf9ec8671a10720ae3bcfd5ef97874657a19e790&v=4" width="24" alt="Avatar of ghost2023"> ghost2023
-			</a><br/>
-			Nathnael Wondisha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NathnaelWondis2">NathnaelWondis2</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>125</td>
-		<td>3319</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/TibebeJS">
-				<img src="https://avatars.githubusercontent.com/u/45547122?s=72&v=4" width="24" alt="Avatar of TibebeJS"> TibebeJS
-			</a><br/>
-			Tibebeselasie Mehari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>0</td>
-		<td>3307</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/TheWadeh">
-				<img src="https://avatars.githubusercontent.com/u/151718328?s=72&u=70e50cd4a6025b43a093933c73dea5b943e8f702&v=4" width="24" alt="Avatar of TheWadeh"> TheWadeh
-			</a><br/>
-			Abdulfetah Jemal
-		</td>
-		<td>Sof Omar Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>147</td>
-		<td>3290</td>
+		<td>1037</td>
+		<td>3438</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -844,39 +844,81 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@theseus Group </td>
 		<td><a href="https://twitter.com/lisanabay">lisanabay</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>406</td>
-		<td>3283</td>
+		<td>404</td>
+		<td>3412</td>
 	</tr>
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/poricf">
-				<img src="https://avatars.githubusercontent.com/u/116361774?s=72&u=f403a256f4098fc380dd42cfa0160067dcd44109&v=4" width="24" alt="Avatar of poricf"> poricf
+			<a href="https://github.com/Atnatewoss">
+				<img src="https://avatars.githubusercontent.com/u/165107377?s=72&u=066c54bc652e05feaeb353a875bba9a5c5e3f439&v=4" width="24" alt="Avatar of Atnatewoss"> Atnatewoss
 			</a><br/>
-			Fahmi Dinsefa
+			No Name
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Fahmi_khandro">Fahmi_khandro</a></td>
-		<td>Ethiopia</td>
-		<td>3279</td>
-		<td>3279</td>
+		<td>Icog Labs </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1612</td>
+		<td>3393</td>
 	</tr>
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/NegusNati">
-				<img src="https://avatars.githubusercontent.com/u/84500378?s=72&u=14ae5719ccc3a2c01a50db03a9c3ae1053fb66b2&v=4" width="24" alt="Avatar of NegusNati"> NegusNati
+			<a href="https://github.com/abdiberhe">
+				<img src="https://avatars.githubusercontent.com/u/117733570?s=72&u=3153b2d1ac18978f1907cdfee2f1f00dfc581181&v=4" width="24" alt="Avatar of abdiberhe"> abdiberhe
 			</a><br/>
-			NATNAEL BIRHANU
+			Abdi Berhe
 		</td>
-		<td>Koket Investment </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, ETH</td>
-		<td>411</td>
-		<td>3278</td>
+		<td>Xavad Technologies </td>
+		<td><a href="https://twitter.com/abdiberhe">abdiberhe</a></td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>3383</td>
 	</tr>
 	<tr>
 		<td>56</td>
+		<td>
+			<a href="https://github.com/TheWadeh">
+				<img src="https://avatars.githubusercontent.com/u/151718328?s=72&u=cd41b0477467b765ab9aa3051dfd8c996ac8a10a&v=4" width="24" alt="Avatar of TheWadeh"> TheWadeh
+			</a><br/>
+			Abdulfetah Jemal
+		</td>
+		<td>Sof Omar Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>124</td>
+		<td>3333</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/abdu4188">
+				<img src="https://avatars.githubusercontent.com/u/39178255?s=72&u=4b45ebf0ce516de01c1a734c681804563abd93f2&v=4" width="24" alt="Avatar of abdu4188"> abdu4188
+			</a><br/>
+			Abdulaziz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/youngg_simbba">youngg_simbba</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>43</td>
+		<td>3293</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/haileznabu">
+				<img src="https://avatars.githubusercontent.com/u/43222722?s=72&u=e3ac4cfe9da117dbf92771544a47f4b857f6df1e&v=4" width="24" alt="Avatar of haileznabu"> haileznabu
+			</a><br/>
+			HAILE ZNABU
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>272</td>
+		<td>3285</td>
+	</tr>
+	<tr>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/chera-mihiretu">
 				<img src="https://avatars.githubusercontent.com/u/63361469?s=72&v=4" width="24" alt="Avatar of chera-mihiretu"> chera-mihiretu
@@ -886,64 +928,22 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia, oromia, nekemt</td>
-		<td>1026</td>
-		<td>3232</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/mikiyas-degefu">
-				<img src="https://avatars.githubusercontent.com/u/80261020?s=72&u=94dc9887a3d80a75349138e2dfed453d0dc110a2&v=4" width="24" alt="Avatar of mikiyas-degefu"> mikiyas-degefu
-			</a><br/>
-			Mikiyas Degefu
-		</td>
-		<td>Mopd </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>362</td>
-		<td>3199</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/mubareksd">
-				<img src="https://avatars.githubusercontent.com/u/37532590?s=72&v=4" width="24" alt="Avatar of mubareksd"> mubareksd
-			</a><br/>
-			Mubarek Seid Juhar
-		</td>
-		<td>@kinetsystems </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>196</td>
-		<td>3121</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/melaku2402">
-				<img src="https://avatars.githubusercontent.com/u/200127809?s=72&u=b5033e0e57ccf478650db8cf84cfde8b9170d767&v=4" width="24" alt="Avatar of melaku2402"> melaku2402
-			</a><br/>
-			Melaku Adane
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>213</td>
-		<td>3115</td>
+		<td>1028</td>
+		<td>3275</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/Selamawit926">
-				<img src="https://avatars.githubusercontent.com/u/57093209?s=72&u=60373c18463069305027a216bfe0db6a0297ff51&v=4" width="24" alt="Avatar of Selamawit926"> Selamawit926
+			<a href="https://github.com/Wes-Isaac">
+				<img src="https://avatars.githubusercontent.com/u/59416136?s=72&u=e154d13af86bb3a4b9b969e81360ccd1854020ec&v=4" width="24" alt="Avatar of Wes-Isaac"> Wes-Isaac
 			</a><br/>
-			Selamawit Elias
+			Isaac
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>3115</td>
+		<td>Ethiopia/Remote</td>
+		<td>13</td>
+		<td>3253</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -956,291 +956,25 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Eskalate </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>615</td>
-		<td>3098</td>
+		<td>617</td>
+		<td>3217</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/Tesfamichael12">
-				<img src="https://avatars.githubusercontent.com/u/149233683?s=72&u=ca6d73466da6d33a38a41d01c45009d871fb6f64&v=4" width="24" alt="Avatar of Tesfamichael12"> Tesfamichael12
+			<a href="https://github.com/mikiyas-degefu">
+				<img src="https://avatars.githubusercontent.com/u/80261020?s=72&u=94dc9887a3d80a75349138e2dfed453d0dc110a2&v=4" width="24" alt="Avatar of mikiyas-degefu"> mikiyas-degefu
 			</a><br/>
-			Tesfamichael Tafere
+			Mikiyas Degefu
 		</td>
-		<td>No Company</td>
+		<td>Mopd </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>213</td>
-		<td>3094</td>
+		<td>218</td>
+		<td>3215</td>
 	</tr>
 	<tr>
 		<td>63</td>
-		<td>
-			<a href="https://github.com/SKAT-16">
-				<img src="https://avatars.githubusercontent.com/u/94533342?s=72&u=29cf006a5b15f75fc347cf3cd4622b7ca484e704&v=4" width="24" alt="Avatar of SKAT-16"> SKAT-16
-			</a><br/>
-			Nati G
-		</td>
-		<td>Bell Bit </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>668</td>
-		<td>3094</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/Bereket-G">
-				<img src="https://avatars.githubusercontent.com/u/19642322?s=72&u=4db07d14db092c3a6c63b258aa754b9762ecb1fd&v=4" width="24" alt="Avatar of Bereket-G"> Bereket-G
-			</a><br/>
-			Bereket Gebredingle 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>19</td>
-		<td>3044</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/yidyetebeje">
-				<img src="https://avatars.githubusercontent.com/u/93323621?s=72&u=547cf91dd6ebd3a7ba658f23084e151cdf04398b&v=4" width="24" alt="Avatar of yidyetebeje"> yidyetebeje
-			</a><br/>
-			Yidnekachew Tebeje
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-		<td>3041</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/abdu4188">
-				<img src="https://avatars.githubusercontent.com/u/39178255?s=72&u=4b45ebf0ce516de01c1a734c681804563abd93f2&v=4" width="24" alt="Avatar of abdu4188"> abdu4188
-			</a><br/>
-			Abdulaziz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/youngg_simbba">youngg_simbba</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>43</td>
-		<td>3022</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/million-mesfin">
-				<img src="https://avatars.githubusercontent.com/u/174714897?s=72&v=4" width="24" alt="Avatar of million-mesfin"> million-mesfin
-			</a><br/>
-			Million Mesfin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>3011</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/eandualem">
-				<img src="https://avatars.githubusercontent.com/u/19794057?s=72&u=2d5a72a88c3d7bba6d474ce0da48098af9541dd8&v=4" width="24" alt="Avatar of eandualem"> eandualem
-			</a><br/>
-			Elias Andualem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>1212</td>
-		<td>3006</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/wuletawwonte">
-				<img src="https://avatars.githubusercontent.com/u/12524453?s=72&u=8ce5383d0b6533cbf388ec1405f8a8e4de8f941f&v=4" width="24" alt="Avatar of wuletawwonte"> wuletawwonte
-			</a><br/>
-			Wuletaw Wonte
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wuletawwonte">wuletawwonte</a></td>
-		<td>Ethiopia</td>
-		<td>20</td>
-		<td>2964</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
-			<a href="https://github.com/kaleabteweld">
-				<img src="https://avatars.githubusercontent.com/u/42609047?s=72&u=db0d235bca4955cc4ee7ef0c7fdad4b562022343&v=4" width="24" alt="Avatar of kaleabteweld"> kaleabteweld
-			</a><br/>
-			kaleab Teweldbrhan Abay
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kaleabteweld3">kaleabteweld3</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>27</td>
-		<td>2959</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/tinsaye-simeneh">
-				<img src="https://avatars.githubusercontent.com/u/64516393?s=72&u=7d501c7321622eae3e73261145d42d84d01a03d7&v=4" width="24" alt="Avatar of tinsaye-simeneh"> tinsaye-simeneh
-			</a><br/>
-			Tinsaye S. Dessie
-		</td>
-		<td>Al - Ns </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>207</td>
-		<td>2869</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/Wes-Isaac">
-				<img src="https://avatars.githubusercontent.com/u/59416136?s=72&u=e154d13af86bb3a4b9b969e81360ccd1854020ec&v=4" width="24" alt="Avatar of Wes-Isaac"> Wes-Isaac
-			</a><br/>
-			Isaac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia/Remote</td>
-		<td>13</td>
-		<td>2857</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/devabdisa">
-				<img src="https://avatars.githubusercontent.com/u/193072882?s=72&u=5cda4516a477df86112d2877baa9da88b23d2a49&v=4" width="24" alt="Avatar of devabdisa"> devabdisa
-			</a><br/>
-			Abdisa ketema
-		</td>
-		<td>Tnt Ethiopia </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>781</td>
-		<td>2770</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/kidussolo">
-				<img src="https://avatars.githubusercontent.com/u/34998324?s=72&u=5adda53002749617701203fd8bfa98d72332b75f&v=4" width="24" alt="Avatar of kidussolo"> kidussolo
-			</a><br/>
-			Kidus Solomon
-		</td>
-		<td>The Quick Company </td>
-		<td><a href="https://twitter.com/kidussolomon1">kidussolomon1</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>16</td>
-		<td>2766</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/harunjeylan">
-				<img src="https://avatars.githubusercontent.com/u/89667324?s=72&u=3f6bd9431e8a9f32ce0469acedc17eb3843cf308&v=4" width="24" alt="Avatar of harunjeylan"> harunjeylan
-			</a><br/>
-			Harun Jeylan
-		</td>
-		<td>Adama Scince And Technology<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>144</td>
-		<td>2754</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/Fisseha-Estifanos">
-				<img src="https://avatars.githubusercontent.com/u/74893977?s=72&u=a2982cf9bf62bc7c08a5268241b783abea04efd1&v=4" width="24" alt="Avatar of Fisseha-Estifanos"> Fisseha-Estifanos
-			</a><br/>
-			Fisseha Estifanos
-		</td>
-		<td>Freelancer  </td>
-		<td><a href="https://twitter.com/fish0_16">fish0_16</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>240</td>
-		<td>2726</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/semernur">
-				<img src="https://avatars.githubusercontent.com/u/85545098?s=72&u=360a236eb9da985b9f10b330ce52fb66352088e4&v=4" width="24" alt="Avatar of semernur"> semernur
-			</a><br/>
-			SEMEREDIN NURGEBA 
-		</td>
-		<td>@chapa-et </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>15</td>
-		<td>2715</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/Yosi-HQ">
-				<img src="https://avatars.githubusercontent.com/u/64016670?s=72&u=c5379abce4b8e941df48162e65ff6d4ca81e9041&v=4" width="24" alt="Avatar of Yosi-HQ"> Yosi-HQ
-			</a><br/>
-			Eyosiyas Eyasu
-		</td>
-		<td>Information Network Security Agency<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>37</td>
-		<td>2703</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/Dave-lab12">
-				<img src="https://avatars.githubusercontent.com/u/56738450?s=72&u=836f1b5b7978f10abf4ac16d2a020c24cde62555&v=4" width="24" alt="Avatar of Dave-lab12"> Dave-lab12
-			</a><br/>
-			Dawit Mekonnen
-		</td>
-		<td>Icog-labs </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>284</td>
-		<td>2692</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/MohammedIbrahim8887">
-				<img src="https://avatars.githubusercontent.com/u/95257247?s=72&u=c40456e01a88d2417bcdeb0dbd3e4270e02e9964&v=4" width="24" alt="Avatar of MohammedIbrahim8887"> MohammedIbrahim8887
-			</a><br/>
-			Mohammed Ibrahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>501</td>
-		<td>2691</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/game-ale">
-				<img src="https://avatars.githubusercontent.com/u/186712687?s=72&u=1be85b8dca427a47c849de4af71dfa51763efeb2&v=4" width="24" alt="Avatar of game-ale"> game-ale
-			</a><br/>
-			Gemechu Alemu Bedasa
-		</td>
-		<td>Adama Science And Technology<br/>University<br/></td>
-		<td><a href="https://twitter.com/alemu_geme88545">alemu_geme88545</a></td>
-		<td>Ethiopia</td>
-		<td>2539</td>
-		<td>2671</td>
-	</tr>
-	<tr>
-		<td>82</td>
 		<td>
 			<a href="https://github.com/Jima-J9M1">
 				<img src="https://avatars.githubusercontent.com/u/73731892?s=72&u=e2f705b2b411a0da208c0acc3f2b7c6b9b8780c8&v=4" width="24" alt="Avatar of Jima-J9M1"> Jima-J9M1
@@ -1250,109 +984,95 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Shega Media And Technology<br/></td>
 		<td><a href="https://twitter.com/jimaDube">jimaDube</a></td>
 		<td>Ethiopia</td>
-		<td>220</td>
-		<td>2655</td>
+		<td>216</td>
+		<td>3178</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>64</td>
 		<td>
-			<a href="https://github.com/Kenenisaboru">
-				<img src="https://avatars.githubusercontent.com/u/192923935?s=72&u=4518ed321384d7ebed3a7c45b726832612eb847a&v=4" width="24" alt="Avatar of Kenenisaboru"> Kenenisaboru
+			<a href="https://github.com/mubareksd">
+				<img src="https://avatars.githubusercontent.com/u/37532590?s=72&v=4" width="24" alt="Avatar of mubareksd"> mubareksd
 			</a><br/>
-			kenenisa Boru
+			Mubarek Seid Juhar
 		</td>
-		<td>No Company</td>
+		<td>@kinetsystems </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia Adis Abeba</td>
-		<td>2313</td>
-		<td>2654</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/olyadboka">
-				<img src="https://avatars.githubusercontent.com/u/193741868?s=72&u=8be96445245465a96e4246075b0bca430fa69e5c&v=4" width="24" alt="Avatar of olyadboka"> olyadboka
-			</a><br/>
-			Olyad Boka
-		</td>
-		<td>Thinkup </td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>286</td>
-		<td>2628</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/Son-OfAnton">
-				<img src="https://avatars.githubusercontent.com/u/93878882?s=72&v=4" width="24" alt="Avatar of Son-OfAnton"> Son-OfAnton
-			</a><br/>
-			Admas Terefe Girma
-		</td>
-		<td>Addis Ababa University </td>
-		<td><a href="https://twitter.com/___admas___">___admas___</a></td>
-		<td>Addis Ababa</td>
-		<td>99</td>
-		<td>2606</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/muhammedb8826">
-				<img src="https://avatars.githubusercontent.com/u/115731485?s=72&u=019c9736a04d7a2b3c593eef7751e8f56bf8cc4e&v=4" width="24" alt="Avatar of muhammedb8826"> muhammedb8826
-			</a><br/>
-			Muhammed Berisso
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/muhammedb8826">muhammedb8826</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>473</td>
-		<td>2571</td>
+		<td>182</td>
+		<td>3130</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>65</td>
 		<td>
-			<a href="https://github.com/eyos-ias">
-				<img src="https://avatars.githubusercontent.com/u/75771087?s=72&u=b69d6c93db686ed89d721ba78b8a9aeb9167381a&v=4" width="24" alt="Avatar of eyos-ias"> eyos-ias
+			<a href="https://github.com/SKAT-16">
+				<img src="https://avatars.githubusercontent.com/u/94533342?s=72&u=29cf006a5b15f75fc347cf3cd4622b7ca484e704&v=4" width="24" alt="Avatar of SKAT-16"> SKAT-16
 			</a><br/>
-			Eyosias
+			Nati G
+		</td>
+		<td>Bell Bit </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>670</td>
+		<td>3117</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/ghost2023">
+				<img src="https://avatars.githubusercontent.com/u/95122168?s=72&u=cf9ec8671a10720ae3bcfd5ef97874657a19e790&v=4" width="24" alt="Avatar of ghost2023"> ghost2023
+			</a><br/>
+			Nathnael Wondisha
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/eyos_ias">eyos_ias</a></td>
-		<td>Addis Ababa</td>
-		<td>693</td>
-		<td>2565</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/addispupi">
-				<img src="https://avatars.githubusercontent.com/u/72408025?s=72&u=9bb5a1ef12b8d3ec439078969e0df5b4eba24ada&v=4" width="24" alt="Avatar of addispupi"> addispupi
-			</a><br/>
-			Addisu Hailemariam
-		</td>
-		<td>Gasha Digital Technology </td>
-		<td><a href="https://twitter.com/addispupi">addispupi</a></td>
+		<td><a href="https://twitter.com/NathnaelWondis2">NathnaelWondis2</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>227</td>
-		<td>2556</td>
+		<td>127</td>
+		<td>3100</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>67</td>
 		<td>
-			<a href="https://github.com/TadesseAsrie">
-				<img src="https://avatars.githubusercontent.com/u/223765537?s=72&u=626170ef8d167b31e915c917a50ecd11205c6f71&v=4" width="24" alt="Avatar of TadesseAsrie"> TadesseAsrie
+			<a href="https://github.com/Tesfamichael12">
+				<img src="https://avatars.githubusercontent.com/u/149233683?s=72&u=ca6d73466da6d33a38a41d01c45009d871fb6f64&v=4" width="24" alt="Avatar of Tesfamichael12"> Tesfamichael12
 			</a><br/>
-			Tadesse Asrie
+			Tesfamichael Tafere
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>1516</td>
-		<td>2543</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>204</td>
+		<td>3096</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/Dave-lab12">
+				<img src="https://avatars.githubusercontent.com/u/56738450?s=72&u=836f1b5b7978f10abf4ac16d2a020c24cde62555&v=4" width="24" alt="Avatar of Dave-lab12"> Dave-lab12
+			</a><br/>
+			Dawit Mekonnen
+		</td>
+		<td>Icog-labs </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>285</td>
+		<td>3087</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/NegusNati">
+				<img src="https://avatars.githubusercontent.com/u/84500378?s=72&u=14ae5719ccc3a2c01a50db03a9c3ae1053fb66b2&v=4" width="24" alt="Avatar of NegusNati"> NegusNati
+			</a><br/>
+			NATNAEL BIRHANU
+		</td>
+		<td>Koket Investment </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, ETH</td>
+		<td>185</td>
+		<td>3087</td>
+	</tr>
+	<tr>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/Esubaalew">
 				<img src="https://avatars.githubusercontent.com/u/106541640?s=72&u=ca419eb1ea0e4e2b8f6e89455de1f6e1d9e4e0c5&v=4" width="24" alt="Avatar of Esubaalew"> Esubaalew
@@ -1362,53 +1082,123 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Addis Ababa University <br/></td>
 		<td><a href="https://twitter.com/Esubaalew">Esubaalew</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>594</td>
-		<td>2512</td>
+		<td>1074</td>
+		<td>3068</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>71</td>
 		<td>
-			<a href="https://github.com/bengeos">
-				<img src="https://avatars.githubusercontent.com/u/7533157?s=72&v=4" width="24" alt="Avatar of bengeos"> bengeos
+			<a href="https://github.com/TibebeJS">
+				<img src="https://avatars.githubusercontent.com/u/45547122?s=72&v=4" width="24" alt="Avatar of TibebeJS"> TibebeJS
 			</a><br/>
-			Biniam Kassahun
-		</td>
-		<td>Gluon </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>127</td>
-		<td>2498</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/Dagimassefa">
-				<img src="https://avatars.githubusercontent.com/u/94830418?s=72&u=a5f4976d4c6964a1fabbff632cd76cc1ba5f0ac5&v=4" width="24" alt="Avatar of Dagimassefa"> Dagimassefa
-			</a><br/>
-			Dagim Assefa
-		</td>
-		<td>Addis Ababa University </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>85</td>
-		<td>2496</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/aynuayex">
-				<img src="https://avatars.githubusercontent.com/u/111756164?s=72&u=56ec7f660f454c55936b0cdf87048966aa7397b1&v=4" width="24" alt="Avatar of aynuayex"> aynuayex
-			</a><br/>
-			Ayne Abreham Alemayehu
+			Tibebeselasie Mehari
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AbrehamAyne">AbrehamAyne</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>156</td>
-		<td>2479</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>3047</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/johhann">
+				<img src="https://avatars.githubusercontent.com/u/52071311?s=72&u=b4dcd8824b80e271cb6fbd803525a6390d7b09e2&v=4" width="24" alt="Avatar of johhann"> johhann
+			</a><br/>
+			Yohannes Mekonnen
+		</td>
+		<td>@mereb-tech  </td>
+		<td><a href="https://twitter.com/YohannesMak">YohannesMak</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>108</td>
+		<td>3037</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/yared2124">
+				<img src="https://avatars.githubusercontent.com/u/219840869?s=72&u=26758df0d8decdf4716f933649cbbb10297ecdd6&v=4" width="24" alt="Avatar of yared2124"> yared2124
+			</a><br/>
+			yared aregayehu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aregayehu68339">aregayehu68339</a></td>
+		<td>Addis Ababa</td>
+		<td>3021</td>
+		<td>3021</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/TadesseAsrie">
+				<img src="https://avatars.githubusercontent.com/u/223765537?s=72&u=32c207ce618ad381a83e8b08f6e8aaf12ca743d3&v=4" width="24" alt="Avatar of TadesseAsrie"> TadesseAsrie
+			</a><br/>
+			Tadesse Asrie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>1539</td>
+		<td>3010</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/Bereket-G">
+				<img src="https://avatars.githubusercontent.com/u/19642322?s=72&u=4db07d14db092c3a6c63b258aa754b9762ecb1fd&v=4" width="24" alt="Avatar of Bereket-G"> Bereket-G
+			</a><br/>
+			Bereket Gebredingle 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>16</td>
+		<td>2982</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/poricf">
+				<img src="https://avatars.githubusercontent.com/u/116361774?s=72&u=f403a256f4098fc380dd42cfa0160067dcd44109&v=4" width="24" alt="Avatar of poricf"> poricf
+			</a><br/>
+			Fahmi Dinsefa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Fahmi_khandro">Fahmi_khandro</a></td>
+		<td>Ethiopia</td>
+		<td>2938</td>
+		<td>2938</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/gemachistesfaye">
+				<img src="https://avatars.githubusercontent.com/u/196615697?s=72&u=63df668823dc85c791717c7372d2a353a968008c&v=4" width="24" alt="Avatar of gemachistesfaye"> gemachistesfaye
+			</a><br/>
+			Gemachis Tesfaye
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adaama, Ethiopia</td>
+		<td>2476</td>
+		<td>2932</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/Kenenisaboru">
+				<img src="https://avatars.githubusercontent.com/u/192923935?s=72&u=4518ed321384d7ebed3a7c45b726832612eb847a&v=4" width="24" alt="Avatar of Kenenisaboru"> Kenenisaboru
+			</a><br/>
+			kenenisa Boru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia Adis Abeba</td>
+		<td>2574</td>
+		<td>2915</td>
+	</tr>
+	<tr>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/daniel-bogale">
 				<img src="https://avatars.githubusercontent.com/u/104236560?s=72&u=f389c383b9ce7de1f003eaf8084861e5581f8f08&v=4" width="24" alt="Avatar of daniel-bogale"> daniel-bogale
@@ -1419,38 +1209,94 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/daniel_bogale_">daniel_bogale_</a></td>
 		<td>Ethiopia/Addis-abeba</td>
 		<td>20</td>
-		<td>2425</td>
+		<td>2899</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>80</td>
 		<td>
-			<a href="https://github.com/BEKI77">
-				<img src="https://avatars.githubusercontent.com/u/86204534?s=72&u=23fb3ad4189fd9e0d940b40026130536af1d9e0b&v=4" width="24" alt="Avatar of BEKI77"> BEKI77
+			<a href="https://github.com/million-mesfin">
+				<img src="https://avatars.githubusercontent.com/u/174714897?s=72&v=4" width="24" alt="Avatar of million-mesfin"> million-mesfin
 			</a><br/>
-			BEREKET TADIWOS
+			Million Mesfin
 		</td>
-		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
-		<td><a href="https://twitter.com/BEKITAD77">BEKITAD77</a></td>
-		<td>Addis Ababa</td>
-		<td>172</td>
-		<td>2421</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>2886</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>81</td>
 		<td>
-			<a href="https://github.com/zacktam12">
-				<img src="https://avatars.githubusercontent.com/u/152074229?s=72&u=ff7e9681c8cf0dc10f5018173a31140dea101e20&v=4" width="24" alt="Avatar of zacktam12"> zacktam12
+			<a href="https://github.com/MohammedIbrahim8887">
+				<img src="https://avatars.githubusercontent.com/u/95257247?s=72&u=c40456e01a88d2417bcdeb0dbd3e4270e02e9964&v=4" width="24" alt="Avatar of MohammedIbrahim8887"> MohammedIbrahim8887
 			</a><br/>
-			Zekarias Tamiru
+			Mohammed Ibrahim
 		</td>
-		<td>Ie Netwok Solutions </td>
-		<td><a href="https://twitter.com/zacktaam">zacktaam</a></td>
-		<td>ADDIS ABABA,ETHIOPIA</td>
-		<td>1025</td>
-		<td>2417</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>511</td>
+		<td>2885</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/kidussolo">
+				<img src="https://avatars.githubusercontent.com/u/34998324?s=72&u=5adda53002749617701203fd8bfa98d72332b75f&v=4" width="24" alt="Avatar of kidussolo"> kidussolo
+			</a><br/>
+			Kidus Solomon
+		</td>
+		<td>The Quick Company </td>
+		<td><a href="https://twitter.com/kidussolomon1">kidussolomon1</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>16</td>
+		<td>2878</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/yidyetebeje">
+				<img src="https://avatars.githubusercontent.com/u/93323621?s=72&u=547cf91dd6ebd3a7ba658f23084e151cdf04398b&v=4" width="24" alt="Avatar of yidyetebeje"> yidyetebeje
+			</a><br/>
+			Yidnekachew Tebeje
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>9</td>
+		<td>2870</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/muhammedb8826">
+				<img src="https://avatars.githubusercontent.com/u/115731485?s=72&u=019c9736a04d7a2b3c593eef7751e8f56bf8cc4e&v=4" width="24" alt="Avatar of muhammedb8826"> muhammedb8826
+			</a><br/>
+			Muhammed Berisso
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/muhammedb8826">muhammedb8826</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>489</td>
+		<td>2867</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/olyadboka">
+				<img src="https://avatars.githubusercontent.com/u/193741868?s=72&u=8be96445245465a96e4246075b0bca430fa69e5c&v=4" width="24" alt="Avatar of olyadboka"> olyadboka
+			</a><br/>
+			Olyad Boka
+		</td>
+		<td>Thinkup </td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>353</td>
+		<td>2860</td>
+	</tr>
+	<tr>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/abel-tefera">
 				<img src="https://avatars.githubusercontent.com/u/40035531?s=72&u=f049f9b1b0f737638adbf6f00756ff659df5b151&v=4" width="24" alt="Avatar of abel-tefera"> abel-tefera
@@ -1460,50 +1306,204 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>78</td>
-		<td>2408</td>
+		<td>75</td>
+		<td>2827</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/mooler-z">
+				<img src="https://avatars.githubusercontent.com/u/56194726?s=72&u=3885a7a8bc0ca9fabf99e4a4f42ea60db763bde1&v=4" width="24" alt="Avatar of mooler-z"> mooler-z
+			</a><br/>
+			Mulugeta Zeferu
+		</td>
+		<td>Henon Edtech </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>26</td>
+		<td>2817</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/semernur">
+				<img src="https://avatars.githubusercontent.com/u/85545098?s=72&u=360a236eb9da985b9f10b330ce52fb66352088e4&v=4" width="24" alt="Avatar of semernur"> semernur
+			</a><br/>
+			SEMEREDIN NURGEBA 
+		</td>
+		<td>@chapa-et </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>9</td>
+		<td>2755</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/ismaelkedir">
+				<img src="https://avatars.githubusercontent.com/u/14148399?s=72&u=592c13d751144a9af07f7c6a0927893eb5357f0d&v=4" width="24" alt="Avatar of ismaelkedir"> ismaelkedir
+			</a><br/>
+			Ismael
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/shirogrammer">shirogrammer</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>105</td>
+		<td>2728</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/game-ale">
+				<img src="https://avatars.githubusercontent.com/u/186712687?s=72&u=1be85b8dca427a47c849de4af71dfa51763efeb2&v=4" width="24" alt="Avatar of game-ale"> game-ale
+			</a><br/>
+			Gemechu Alemu Bedasa
+		</td>
+		<td>Adama Science And Technology<br/>University<br/></td>
+		<td><a href="https://twitter.com/alemu_geme88545">alemu_geme88545</a></td>
+		<td>Ethiopia</td>
+		<td>2515</td>
+		<td>2697</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/ephremdeme">
+				<img src="https://avatars.githubusercontent.com/u/38384199?s=72&u=d9f3257f1f6e88805aa5dbe0974a3e8c215a766a&v=4" width="24" alt="Avatar of ephremdeme"> ephremdeme
+			</a><br/>
+			Ephrem Demelash
+		</td>
+		<td>Box Exchanger </td>
+		<td><a href="https://twitter.com/demelash_ephrem">demelash_ephrem</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>215</td>
+		<td>2687</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/kaleabteweld">
+				<img src="https://avatars.githubusercontent.com/u/42609047?s=72&u=db0d235bca4955cc4ee7ef0c7fdad4b562022343&v=4" width="24" alt="Avatar of kaleabteweld"> kaleabteweld
+			</a><br/>
+			kaleab Teweldbrhan Abay
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kaleabteweld3">kaleabteweld3</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>19</td>
+		<td>2674</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/melaku2402">
+				<img src="https://avatars.githubusercontent.com/u/200127809?s=72&u=b5033e0e57ccf478650db8cf84cfde8b9170d767&v=4" width="24" alt="Avatar of melaku2402"> melaku2402
+			</a><br/>
+			Melaku Adane
+		</td>
+		<td>Self-employed </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>254</td>
+		<td>2661</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/eyos-ias">
+				<img src="https://avatars.githubusercontent.com/u/75771087?s=72&u=b69d6c93db686ed89d721ba78b8a9aeb9167381a&v=4" width="24" alt="Avatar of eyos-ias"> eyos-ias
+			</a><br/>
+			Eyosias
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eyos_ias">eyos_ias</a></td>
+		<td>Addis Ababa</td>
+		<td>716</td>
+		<td>2647</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/tinsaye-simeneh">
+				<img src="https://avatars.githubusercontent.com/u/64516393?s=72&u=7d501c7321622eae3e73261145d42d84d01a03d7&v=4" width="24" alt="Avatar of tinsaye-simeneh"> tinsaye-simeneh
+			</a><br/>
+			Tinsaye S. Dessie
+		</td>
+		<td>Al - Ns </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>101</td>
+		<td>2622</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/devabdisa">
+				<img src="https://avatars.githubusercontent.com/u/193072882?s=72&u=5cda4516a477df86112d2877baa9da88b23d2a49&v=4" width="24" alt="Avatar of devabdisa"> devabdisa
+			</a><br/>
+			Abdisa ketema
+		</td>
+		<td>Tnt Ethiopia </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>626</td>
+		<td>2578</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/harunjeylan">
+				<img src="https://avatars.githubusercontent.com/u/89667324?s=72&u=3f6bd9431e8a9f32ce0469acedc17eb3843cf308&v=4" width="24" alt="Avatar of harunjeylan"> harunjeylan
+			</a><br/>
+			Harun Jeylan
+		</td>
+		<td>Adama Scince And Technology<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>144</td>
+		<td>2572</td>
 	</tr>
 	<tr>
 		<td>98</td>
 		<td>
-			<a href="https://github.com/Mikearaya">
-				<img src="https://avatars.githubusercontent.com/u/9751246?s=72&u=32efa8d9e5554708887d3b8a2fd210fd266e8133&v=4" width="24" alt="Avatar of Mikearaya"> Mikearaya
+			<a href="https://github.com/addispupi">
+				<img src="https://avatars.githubusercontent.com/u/72408025?s=72&u=9bb5a1ef12b8d3ec439078969e0df5b4eba24ada&v=4" width="24" alt="Avatar of addispupi"> addispupi
 			</a><br/>
-			Mikael Araya
+			Addisu Hailemariam
 		</td>
-		<td>Full-stack Software Developer </td>
-		<td>No Twitter Username</td>
+		<td>Gasha Digital Technology </td>
+		<td><a href="https://twitter.com/addispupi">addispupi</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>1042</td>
-		<td>2395</td>
+		<td>204</td>
+		<td>2535</td>
 	</tr>
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/kenenisa">
-				<img src="https://avatars.githubusercontent.com/u/53818162?s=72&u=21ee289edb74a85871634241ca2b73d10d14617d&v=4" width="24" alt="Avatar of kenenisa"> kenenisa
+			<a href="https://github.com/BEKI77">
+				<img src="https://avatars.githubusercontent.com/u/86204534?s=72&u=23fb3ad4189fd9e0d940b40026130536af1d9e0b&v=4" width="24" alt="Avatar of BEKI77"> BEKI77
 			</a><br/>
-			Kenenisa Alemayehu
+			BEREKET TADIWOS
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/keni_ax">keni_ax</a></td>
-		<td>Addis ababa</td>
-		<td>117</td>
-		<td>2381</td>
+		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
+		<td><a href="https://twitter.com/BEKITAD77">BEKITAD77</a></td>
+		<td>Addis Ababa</td>
+		<td>222</td>
+		<td>2521</td>
 	</tr>
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/Fitsumhelina">
-				<img src="https://avatars.githubusercontent.com/u/151903384?s=72&u=42e8344a86d24e85c062c8d251cc96181eedf4ec&v=4" width="24" alt="Avatar of Fitsumhelina"> Fitsumhelina
+			<a href="https://github.com/Fisseha-Estifanos">
+				<img src="https://avatars.githubusercontent.com/u/74893977?s=72&u=a2982cf9bf62bc7c08a5268241b783abea04efd1&v=4" width="24" alt="Avatar of Fisseha-Estifanos"> Fisseha-Estifanos
 			</a><br/>
-			Fitsum Helina
+			Fisseha Estifanos
 		</td>
-		<td>@tetercreatives @techtonic-tribe @ethioeureka </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa </td>
-		<td>442</td>
-		<td>2361</td>
+		<td>Freelancer  </td>
+		<td><a href="https://twitter.com/fish0_16">fish0_16</a></td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>240</td>
+		<td>2500</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1516,151 +1516,25 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>269</td>
-		<td>2361</td>
+		<td>377</td>
+		<td>2488</td>
 	</tr>
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/yared2124">
-				<img src="https://avatars.githubusercontent.com/u/219840869?s=72&u=26758df0d8decdf4716f933649cbbb10297ecdd6&v=4" width="24" alt="Avatar of yared2124"> yared2124
+			<a href="https://github.com/Mikearaya">
+				<img src="https://avatars.githubusercontent.com/u/9751246?s=72&u=32efa8d9e5554708887d3b8a2fd210fd266e8133&v=4" width="24" alt="Avatar of Mikearaya"> Mikearaya
 			</a><br/>
-			yared aregayehu
+			Mikael Araya
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aregayehu68339">aregayehu68339</a></td>
-		<td>Addis Ababa</td>
-		<td>2326</td>
-		<td>2326</td>
+		<td>Full-stack Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1016</td>
+		<td>2486</td>
 	</tr>
 	<tr>
 		<td>103</td>
-		<td>
-			<a href="https://github.com/nahom-zewdu">
-				<img src="https://avatars.githubusercontent.com/u/116443749?s=72&u=20eb2323ce8803fdf5186d171dc9b4b45c38e15f&v=4" width="24" alt="Avatar of nahom-zewdu"> nahom-zewdu
-			</a><br/>
-			Nahom Zewdu
-		</td>
-		<td>@realeskalate  </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>2156</td>
-		<td>2291</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/mooler-z">
-				<img src="https://avatars.githubusercontent.com/u/56194726?s=72&u=3885a7a8bc0ca9fabf99e4a4f42ea60db763bde1&v=4" width="24" alt="Avatar of mooler-z"> mooler-z
-			</a><br/>
-			Mulugeta Zeferu
-		</td>
-		<td>Henon Edtech </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>133</td>
-		<td>2291</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/ubeyidah">
-				<img src="https://avatars.githubusercontent.com/u/159727076?s=72&u=398a5210bca59ed8554a7eab84fde65df86f0c3a&v=4" width="24" alt="Avatar of ubeyidah"> ubeyidah
-			</a><br/>
-			Ubeyidah
-		</td>
-		<td>Waitkit.dev </td>
-		<td><a href="https://twitter.com/ubeyidah">ubeyidah</a></td>
-		<td>Ethiopia</td>
-		<td>666</td>
-		<td>2270</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/mengiefen">
-				<img src="https://avatars.githubusercontent.com/u/39188456?s=72&v=4" width="24" alt="Avatar of mengiefen"> mengiefen
-			</a><br/>
-			Menge
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>34</td>
-		<td>2244</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/fitsumcs">
-				<img src="https://avatars.githubusercontent.com/u/19759888?s=72&u=bad3bc6cd354b187f7e507e0d7bb910cd7cf9ff8&v=4" width="24" alt="Avatar of fitsumcs"> fitsumcs
-			</a><br/>
-			Fitsum Alemu
-		</td>
-		<td>Excellerent Technology Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>296</td>
-		<td>2236</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/ismaelkedir">
-				<img src="https://avatars.githubusercontent.com/u/14148399?s=72&u=592c13d751144a9af07f7c6a0927893eb5357f0d&v=4" width="24" alt="Avatar of ismaelkedir"> ismaelkedir
-			</a><br/>
-			Ismael
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/shirogrammer">shirogrammer</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>97</td>
-		<td>2216</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/mintesnot-teshome">
-				<img src="https://avatars.githubusercontent.com/u/126505475?s=72&u=55b840033400f983edf50222e7dcde4c492ce0fc&v=4" width="24" alt="Avatar of mintesnot-teshome"> mintesnot-teshome
-			</a><br/>
-			Mintesnot Teshome
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>223</td>
-		<td>2213</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/letera1">
-				<img src="https://avatars.githubusercontent.com/u/168364436?s=72&u=1251a6215d90f2933f9be50a4db6c3adc1c2d684&v=4" width="24" alt="Avatar of letera1"> letera1
-			</a><br/>
-			Letera Tujo
-		</td>
-		<td>Haramaya University </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa ,  Ethiopia</td>
-		<td>1114</td>
-		<td>2211</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/yeab-B">
-				<img src="https://avatars.githubusercontent.com/u/166545362?s=72&u=2784b3aac4c895b1581a5b0543e8e9da040bc753&v=4" width="24" alt="Avatar of yeab-B"> yeab-B
-			</a><br/>
-			Yeabsira Behailu
-		</td>
-		<td>Eliora's </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>585</td>
-		<td>2205</td>
-	</tr>
-	<tr>
-		<td>112</td>
 		<td>
 			<a href="https://github.com/HuluWZ">
 				<img src="https://avatars.githubusercontent.com/u/59336998?s=72&u=d9c210afc14e7190f4cc1521d40668a221e7056c&v=4" width="24" alt="Avatar of HuluWZ"> HuluWZ
@@ -1670,95 +1544,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>180</td>
-		<td>2195</td>
+		<td>193</td>
+		<td>2461</td>
 	</tr>
 	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Aseadd">
-				<img src="https://avatars.githubusercontent.com/u/48018471?s=72&u=017e57794269f591ad0008fc4db232bb47328476&v=4" width="24" alt="Avatar of Aseadd"> Aseadd
-			</a><br/>
-			Addis Tsega
-		</td>
-		<td> Full-stack Developer </td>
-		<td><a href="https://twitter.com/AdaTsega">AdaTsega</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>2185</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/FedhiJob">
-				<img src="https://avatars.githubusercontent.com/u/165522312?s=72&u=13a946bfec381b18a31ef985c5928b23af95ae6f&v=4" width="24" alt="Avatar of FedhiJob"> FedhiJob
-			</a><br/>
-			Fedasa Eyob
-		</td>
-		<td>Yes </td>
-		<td><a href="https://twitter.com/FedasaEyob">FedasaEyob</a></td>
-		<td>Addis Ababa</td>
-		<td>586</td>
-		<td>2172</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/mrnpro">
-				<img src="https://avatars.githubusercontent.com/u/88460514?s=72&u=4a8d9d60b0f8b69a7517b5c031783a491cda04d6&v=4" width="24" alt="Avatar of mrnpro"> mrnpro
-			</a><br/>
-			Natnael Fikadu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia , Addis Ababa</td>
-		<td>43</td>
-		<td>2167</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/amejid">
-				<img src="https://avatars.githubusercontent.com/u/17243325?s=72&u=4094ceff346c0ab94e98fbe46f958c5bc9516953&v=4" width="24" alt="Avatar of amejid"> amejid
-			</a><br/>
-			Abdelmejid Oumer Ali
-		</td>
-		<td>@medrafaet </td>
-		<td><a href="https://twitter.com/amejidoumer">amejidoumer</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>2165</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/Ephrem-shimels21">
-				<img src="https://avatars.githubusercontent.com/u/106282573?s=72&u=c3070049e8c4bded3fd902d30edccb04bf667714&v=4" width="24" alt="Avatar of Ephrem-shimels21"> Ephrem-shimels21
-			</a><br/>
-			Ephrem Shimels
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tamire_ephrem">tamire_ephrem</a></td>
-		<td>Addis Ababa</td>
-		<td>12</td>
-		<td>2164</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/Shamil-B">
-				<img src="https://avatars.githubusercontent.com/u/77851940?s=72&u=a3cfedeb87406c7e7d5cc48e68e1eafa82515c1f&v=4" width="24" alt="Avatar of Shamil-B"> Shamil-B
-			</a><br/>
-			Shamil
-		</td>
-		<td>@a2sv @arezarmada </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
-		<td>2161</td>
-	</tr>
-	<tr>
-		<td>119</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/yonas44">
 				<img src="https://avatars.githubusercontent.com/u/72081991?s=72&u=64d1783178f4260da5a4119d969f2ef4d19c6690&v=4" width="24" alt="Avatar of yonas44"> yonas44
@@ -1769,486 +1559,10 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>0</td>
-		<td>2152</td>
+		<td>2446</td>
 	</tr>
 	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/danieltsega">
-				<img src="https://avatars.githubusercontent.com/u/116147211?s=72&u=9e0483f0254a85f7d534d916435363a9f99abd78&v=4" width="24" alt="Avatar of danieltsega"> danieltsega
-			</a><br/>
-			Daniel Tsega
-		</td>
-		<td>Xavad Technologies (co-founder) </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>231</td>
-		<td>2141</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/yab3ts">
-				<img src="https://avatars.githubusercontent.com/u/149154528?s=72&u=71bb82af414dcab1b484615def6e7abf5bf5757a&v=4" width="24" alt="Avatar of yab3ts"> yab3ts
-			</a><br/>
-			Yabets Maregn 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1490</td>
-		<td>2139</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/dododoyo">
-				<img src="https://avatars.githubusercontent.com/u/94123357?s=72&u=b08c682b5ba9a5aa4e04fff137c7fda7525d428e&v=4" width="24" alt="Avatar of dododoyo"> dododoyo
-			</a><br/>
-			Dolphin Mulugeta
-		</td>
-		<td>Addis Ababa University </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>16</td>
-		<td>2125</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/xautiik">
-				<img src="https://avatars.githubusercontent.com/u/185494575?s=72&u=08d33eeefb3aecc5a093747002c12e9c7c1df9cc&v=4" width="24" alt="Avatar of xautiik"> xautiik
-			</a><br/>
-			Olyad T.
-		</td>
-		<td>Dw </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>87</td>
-		<td>2116</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/GetachewTebikew">
-				<img src="https://avatars.githubusercontent.com/u/39857690?s=72&v=4" width="24" alt="Avatar of GetachewTebikew"> GetachewTebikew
-			</a><br/>
-			Getachew Tebikew
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>2094</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/nigussolomon">
-				<img src="https://avatars.githubusercontent.com/u/78663320?s=72&u=899ef682fb5d35165cb8c038631587779a744c67&v=4" width="24" alt="Avatar of nigussolomon"> nigussolomon
-			</a><br/>
-			Nigus Solomon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>409</td>
-		<td>2087</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/AbdulwahidHusein">
-				<img src="https://avatars.githubusercontent.com/u/134911626?s=72&u=01ceec87c05e0b8183f91eb3b2a94ae3aa5675f8&v=4" width="24" alt="Avatar of AbdulwahidHusein"> AbdulwahidHusein
-			</a><br/>
-			Abdulwahid Hussen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>826</td>
-		<td>2081</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/yeab14">
-				<img src="https://avatars.githubusercontent.com/u/155532389?s=72&u=d02e729b8effb7a24aa0a37877390b4792abfa84&v=4" width="24" alt="Avatar of yeab14"> yeab14
-			</a><br/>
-			Yeabsira Dereje
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>59</td>
-		<td>2077</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/gemachistesfaye">
-				<img src="https://avatars.githubusercontent.com/u/196615697?s=72&u=c55f9453fee5ca19115d11d6a1eb434e4169071e&v=4" width="24" alt="Avatar of gemachistesfaye"> gemachistesfaye
-			</a><br/>
-			Gemachis Tesfaye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adaama, Ethiopia</td>
-		<td>1621</td>
-		<td>2074</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/FiraBro">
-				<img src="https://avatars.githubusercontent.com/u/192071818?s=72&u=2b1a32e418b5c6d8396f9ed5c72d0c4690a04cfa&v=4" width="24" alt="Avatar of FiraBro"> FiraBro
-			</a><br/>
-			Firagos Jemal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Dire Dawa</td>
-		<td>2049</td>
-		<td>2074</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/codewithmesfin">
-				<img src="https://avatars.githubusercontent.com/u/36897190?s=72&u=9884518756d8d42cb3b33920e10738ba696cd267&v=4" width="24" alt="Avatar of codewithmesfin"> codewithmesfin
-			</a><br/>
-			Mesfin Tsegaye
-		</td>
-		<td>Mevinai Plc </td>
-		<td><a href="https://twitter.com/codewithmesfin">codewithmesfin</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>60</td>
-		<td>2070</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/Bemmy7">
-				<img src="https://avatars.githubusercontent.com/u/44458004?s=72&u=f3ec53a10c95330f75b5e4fbc02e16c13cb40033&v=4" width="24" alt="Avatar of Bemmy7"> Bemmy7
-			</a><br/>
-			Bemnet Nikodimos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>0</td>
-		<td>2069</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/Maxd646">
-				<img src="https://avatars.githubusercontent.com/u/184818393?s=72&u=91775c0d5a600bd01117dae1a57bb89720affeed&v=4" width="24" alt="Avatar of Maxd646"> Maxd646
-			</a><br/>
-			Daniel Kebede
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>2025</td>
-		<td>2057</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/NebeyouMusie">
-				<img src="https://avatars.githubusercontent.com/u/120266392?s=72&u=569cfa3c48ff97be23488793fb16e701958dc8ee&v=4" width="24" alt="Avatar of NebeyouMusie"> NebeyouMusie
-			</a><br/>
-			Nebeyou Musie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NebeyouMusie">NebeyouMusie</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>2</td>
-		<td>2046</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/Bushra-KB">
-				<img src="https://avatars.githubusercontent.com/u/29249243?s=72&u=b1caac72ff8f552f1fc6d4204d9ded0e5c77e176&v=4" width="24" alt="Avatar of Bushra-KB"> Bushra-KB
-			</a><br/>
-			Bushra Kidanemariam
-		</td>
-		<td>Debre Berhan University </td>
-		<td>No Twitter Username</td>
-		<td>Debre Berhan, Ethiopia</td>
-		<td>32</td>
-		<td>2022</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/natanim-kemal">
-				<img src="https://avatars.githubusercontent.com/u/114761914?s=72&u=b79cfc67a1bab6f99f8eacc17e99a758d06d42f7&v=4" width="24" alt="Avatar of natanim-kemal"> natanim-kemal
-			</a><br/>
-			natanim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1748</td>
-		<td>2003</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/BisratGirma">
-				<img src="https://avatars.githubusercontent.com/u/30285329?s=72&u=6efe25518f70e0f38158bcfa0963051f4c5c6452&v=4" width="24" alt="Avatar of BisratGirma"> BisratGirma
-			</a><br/>
-			Bisrat Girma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>106</td>
-		<td>1947</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/bezawitassaye">
-				<img src="https://avatars.githubusercontent.com/u/119955274?s=72&u=9f52f6162a283f621d048e1362e8e0e33108c301&v=4" width="24" alt="Avatar of bezawitassaye"> bezawitassaye
-			</a><br/>
-			Bezawit Assaye
-		</td>
-		<td>Aait </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>557</td>
-		<td>1934</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/naanmohammed">
-				<img src="https://avatars.githubusercontent.com/u/124832435?s=72&u=d0a6e87b23f5f724d6d5d090e56b55681338183a&v=4" width="24" alt="Avatar of naanmohammed"> naanmohammed
-			</a><br/>
-			Naan Ahmed Mohammed
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/_naanahmed">_naanahmed</a></td>
-		<td>Addis Ababa</td>
-		<td>0</td>
-		<td>1931</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/YosephSE">
-				<img src="https://avatars.githubusercontent.com/u/88291669?s=72&u=3f148e45819288aa4d2d0036c54ff6cbb65b1acc&v=4" width="24" alt="Avatar of YosephSE"> YosephSE
-			</a><br/>
-			Yoseph Kedir
-		</td>
-		<td>Givethanks </td>
-		<td><a href="https://twitter.com/YosephKedir">YosephKedir</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>976</td>
-		<td>1903</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/Nahom32">
-				<img src="https://avatars.githubusercontent.com/u/70108056?s=72&u=2ff58c94f2d0164c681fa3416bcd8715dc2e2586&v=4" width="24" alt="Avatar of Nahom32"> Nahom32
-			</a><br/>
-			Nahom Senay
-		</td>
-		<td>Icog Labs, Resonance Labs<br/>(aait)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>437</td>
-		<td>1900</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/brookmg">
-				<img src="https://avatars.githubusercontent.com/u/7487888?s=72&u=b414228e1fcb4f85915e290c7f60324bbdaf313e&v=4" width="24" alt="Avatar of brookmg"> brookmg
-			</a><br/>
-			Brook Mezgebu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/brook_mezgebu">brook_mezgebu</a></td>
-		<td>Ethiopia, Addis abeba</td>
-		<td>104</td>
-		<td>1895</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/ZorEl212">
-				<img src="https://avatars.githubusercontent.com/u/93014559?s=72&u=7fd465beeb33c049a060c9af3b497948d995fe66&v=4" width="24" alt="Avatar of ZorEl212"> ZorEl212
-			</a><br/>
-			Yeabsira Desalegn
-		</td>
-		<td>Hawaasa University  </td>
-		<td><a href="https://twitter.com/yeabsiradesale1">yeabsiradesale1</a></td>
-		<td>Hawassa, Ethiopia</td>
-		<td>762</td>
-		<td>1889</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/haileamlakwalelige">
-				<img src="https://avatars.githubusercontent.com/u/120473611?s=72&u=a56e00925247e7fd3a53939d269e602b234bb29c&v=4" width="24" alt="Avatar of haileamlakwalelige"> haileamlakwalelige
-			</a><br/>
-			Haileamlak Waleligne
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Haileopia">Haileopia</a></td>
-		<td>Adiss Ababa,Ethiopia</td>
-		<td>37</td>
-		<td>1888</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/Akuna444">
-				<img src="https://avatars.githubusercontent.com/u/56131204?s=72&u=6e10f8b2e28f24d29a562a8c9a1b6a9657e4bbf1&v=4" width="24" alt="Avatar of Akuna444"> Akuna444
-			</a><br/>
-			Aklil Solomon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>86</td>
-		<td>1887</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/binhussen">
-				<img src="https://avatars.githubusercontent.com/u/52010789?s=72&u=5a215e4c246708d6b110e6e714bdfc80097fefd2&v=4" width="24" alt="Avatar of binhussen"> binhussen
-			</a><br/>
-			Mohammed Hussen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/binhussens">binhussens</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>1862</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/Shambel96">
-				<img src="https://avatars.githubusercontent.com/u/172547097?s=72&u=79f1f9af67966f39175eff051dd832d69539f9ac&v=4" width="24" alt="Avatar of Shambel96"> Shambel96
-			</a><br/>
-			Shambel Dechu
-		</td>
-		<td>Jimma University </td>
-		<td><a href="https://twitter.com/dechu_shambel">dechu_shambel</a></td>
-		<td>Welenchiti, Ethiopia</td>
-		<td>1274</td>
-		<td>1842</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/yabebalFantaye">
-				<img src="https://avatars.githubusercontent.com/u/9449439?s=72&u=9c0c8281590bae7d0aa4ccb5d7a53b7fa2b80721&v=4" width="24" alt="Avatar of yabebalFantaye"> yabebalFantaye
-			</a><br/>
-			yabebal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>18</td>
-		<td>1830</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/NatiDevHQ">
-				<img src="https://avatars.githubusercontent.com/u/185730705?s=72&u=32b992884da98d7a4f1da6d932a3a2393412b361&v=4" width="24" alt="Avatar of NatiDevHQ"> NatiDevHQ
-			</a><br/>
-			Natnael Getachew
-		</td>
-		<td>Open For Work </td>
-		<td>No Twitter Username</td>
-		<td>Addis ababa</td>
-		<td>119</td>
-		<td>1825</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/ayanasamuel8">
-				<img src="https://avatars.githubusercontent.com/u/125457325?s=72&u=ac0ba20865bee1d5685781007c76318e38222172&v=4" width="24" alt="Avatar of ayanasamuel8"> ayanasamuel8
-			</a><br/>
-			Ayana Samuel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>1679</td>
-		<td>1821</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/johhann">
-				<img src="https://avatars.githubusercontent.com/u/52071311?s=72&u=b4dcd8824b80e271cb6fbd803525a6390d7b09e2&v=4" width="24" alt="Avatar of johhann"> johhann
-			</a><br/>
-			Yohannes Mekonnen
-		</td>
-		<td>@drogatechnology  </td>
-		<td><a href="https://twitter.com/YohannesMak">YohannesMak</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>108</td>
-		<td>1810</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/Leta-Kasahun">
-				<img src="https://avatars.githubusercontent.com/u/193022391?s=72&u=892dff5a10d05892a027760a1a9ddab82a3888bb&v=4" width="24" alt="Avatar of Leta-Kasahun"> Leta-Kasahun
-			</a><br/>
-			🌟 **Leta  Kasahun**    
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Debre Birhan, Ethiopia</td>
-		<td>1341</td>
-		<td>1808</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/alan-sultan">
-				<img src="https://avatars.githubusercontent.com/u/169437091?s=72&v=4" width="24" alt="Avatar of alan-sultan"> alan-sultan
-			</a><br/>
-			Alan Sultan
-		</td>
-		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>156</td>
-		<td>1806</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/Anom-a">
-				<img src="https://avatars.githubusercontent.com/u/113196912?s=72&u=80cf80d46256063400638d74f36677a1632cf6f9&v=4" width="24" alt="Avatar of Anom-a"> Anom-a
-			</a><br/>
-			Anom Abebe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>251</td>
-		<td>1798</td>
-	</tr>
-	<tr>
-		<td>154</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/gebre17">
 				<img src="https://avatars.githubusercontent.com/u/127201283?s=72&u=9908b11018869accab1d4db88baafb86301e476d&v=4" width="24" alt="Avatar of gebre17"> gebre17
@@ -2259,10 +1573,486 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
 		<td>141</td>
-		<td>1795</td>
+		<td>2381</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/mrnpro">
+				<img src="https://avatars.githubusercontent.com/u/88460514?s=72&u=4a8d9d60b0f8b69a7517b5c031783a491cda04d6&v=4" width="24" alt="Avatar of mrnpro"> mrnpro
+			</a><br/>
+			Natnael Fikadu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia , Addis Ababa</td>
+		<td>152</td>
+		<td>2379</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/Dagimassefa">
+				<img src="https://avatars.githubusercontent.com/u/94830418?s=72&u=a5f4976d4c6964a1fabbff632cd76cc1ba5f0ac5&v=4" width="24" alt="Avatar of Dagimassefa"> Dagimassefa
+			</a><br/>
+			Dagim Assefa
+		</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>98</td>
+		<td>2379</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/kenenisa">
+				<img src="https://avatars.githubusercontent.com/u/53818162?s=72&u=21ee289edb74a85871634241ca2b73d10d14617d&v=4" width="24" alt="Avatar of kenenisa"> kenenisa
+			</a><br/>
+			Kenenisa Alemayehu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/keni_ax">keni_ax</a></td>
+		<td>Addis ababa</td>
+		<td>77</td>
+		<td>2372</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/amejid">
+				<img src="https://avatars.githubusercontent.com/u/17243325?s=72&u=4094ceff346c0ab94e98fbe46f958c5bc9516953&v=4" width="24" alt="Avatar of amejid"> amejid
+			</a><br/>
+			Abdelmejid Oumer Ali
+		</td>
+		<td>@medrafaet </td>
+		<td><a href="https://twitter.com/amejidoumer">amejidoumer</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>8</td>
+		<td>2358</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/aynuayex">
+				<img src="https://avatars.githubusercontent.com/u/111756164?s=72&u=56ec7f660f454c55936b0cdf87048966aa7397b1&v=4" width="24" alt="Avatar of aynuayex"> aynuayex
+			</a><br/>
+			Ayne Abreham Alemayehu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AbrehamAyne">AbrehamAyne</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>177</td>
+		<td>2357</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/zacktam12">
+				<img src="https://avatars.githubusercontent.com/u/152074229?s=72&u=ff7e9681c8cf0dc10f5018173a31140dea101e20&v=4" width="24" alt="Avatar of zacktam12"> zacktam12
+			</a><br/>
+			Zekarias Tamiru
+		</td>
+		<td>Ie Netwok Solutions </td>
+		<td><a href="https://twitter.com/zacktaam">zacktaam</a></td>
+		<td>ADDIS ABABA,ETHIOPIA</td>
+		<td>871</td>
+		<td>2318</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/Samuel-0228">
+				<img src="https://avatars.githubusercontent.com/u/198710196?s=72&u=27dd2c2dafb1e41ca29adbbbf7f7baa9d9b57b46&v=4" width="24" alt="Avatar of Samuel-0228"> Samuel-0228
+			</a><br/>
+			Samuel
+		</td>
+		<td>Gebeya Inc </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>952</td>
+		<td>2312</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/Leta-Kasahun">
+				<img src="https://avatars.githubusercontent.com/u/193022391?s=72&u=e7eb306d7d298564ad545d0dea1555e69fec271b&v=4" width="24" alt="Avatar of Leta-Kasahun"> Leta-Kasahun
+			</a><br/>
+			🌟 **Leta  Kasahun**    
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Debre Birhan, Ethiopia</td>
+		<td>1254</td>
+		<td>2277</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/fitsumcs">
+				<img src="https://avatars.githubusercontent.com/u/19759888?s=72&u=bad3bc6cd354b187f7e507e0d7bb910cd7cf9ff8&v=4" width="24" alt="Avatar of fitsumcs"> fitsumcs
+			</a><br/>
+			Fitsum Alemu
+		</td>
+		<td>Excellerent Technology Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>299</td>
+		<td>2244</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/ahmedtaju">
+				<img src="https://avatars.githubusercontent.com/u/151705759?s=72&v=4" width="24" alt="Avatar of ahmedtaju"> ahmedtaju
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>262</td>
+		<td>2240</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/mintesnot-teshome">
+				<img src="https://avatars.githubusercontent.com/u/126505475?s=72&u=55b840033400f983edf50222e7dcde4c492ce0fc&v=4" width="24" alt="Avatar of mintesnot-teshome"> mintesnot-teshome
+			</a><br/>
+			Mintesnot Teshome
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>223</td>
+		<td>2227</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/Bemmy7">
+				<img src="https://avatars.githubusercontent.com/u/44458004?s=72&u=f3ec53a10c95330f75b5e4fbc02e16c13cb40033&v=4" width="24" alt="Avatar of Bemmy7"> Bemmy7
+			</a><br/>
+			Bemnet Nikodimos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Abeba</td>
+		<td>0</td>
+		<td>2215</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/GetachewTebikew">
+				<img src="https://avatars.githubusercontent.com/u/39857690?s=72&v=4" width="24" alt="Avatar of GetachewTebikew"> GetachewTebikew
+			</a><br/>
+			Getachew Tebikew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>2213</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/letera1">
+				<img src="https://avatars.githubusercontent.com/u/168364436?s=72&u=1251a6215d90f2933f9be50a4db6c3adc1c2d684&v=4" width="24" alt="Avatar of letera1"> letera1
+			</a><br/>
+			Letera Tujo
+		</td>
+		<td>Haramaya University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa ,  Ethiopia</td>
+		<td>1091</td>
+		<td>2185</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/Bushra-KB">
+				<img src="https://avatars.githubusercontent.com/u/29249243?s=72&u=b1caac72ff8f552f1fc6d4204d9ded0e5c77e176&v=4" width="24" alt="Avatar of Bushra-KB"> Bushra-KB
+			</a><br/>
+			Bushra Kidanemariam
+		</td>
+		<td>Debre Berhan University </td>
+		<td>No Twitter Username</td>
+		<td>Debre Berhan, Ethiopia</td>
+		<td>25</td>
+		<td>2183</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/xautiik">
+				<img src="https://avatars.githubusercontent.com/u/185494575?s=72&u=08d33eeefb3aecc5a093747002c12e9c7c1df9cc&v=4" width="24" alt="Avatar of xautiik"> xautiik
+			</a><br/>
+			Olyad T.
+		</td>
+		<td>Dw </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>89</td>
+		<td>2178</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/FedhiJob">
+				<img src="https://avatars.githubusercontent.com/u/165522312?s=72&u=13a946bfec381b18a31ef985c5928b23af95ae6f&v=4" width="24" alt="Avatar of FedhiJob"> FedhiJob
+			</a><br/>
+			Fedasa Eyob
+		</td>
+		<td>Yes </td>
+		<td><a href="https://twitter.com/FedasaEyob">FedasaEyob</a></td>
+		<td>Addis Ababa</td>
+		<td>587</td>
+		<td>2169</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/nahom-zewdu">
+				<img src="https://avatars.githubusercontent.com/u/116443749?s=72&u=20eb2323ce8803fdf5186d171dc9b4b45c38e15f&v=4" width="24" alt="Avatar of nahom-zewdu"> nahom-zewdu
+			</a><br/>
+			Nahom Zewdu
+		</td>
+		<td>@realeskalate  </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>2026</td>
+		<td>2161</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/yeab14">
+				<img src="https://avatars.githubusercontent.com/u/155532389?s=72&u=d02e729b8effb7a24aa0a37877390b4792abfa84&v=4" width="24" alt="Avatar of yeab14"> yeab14
+			</a><br/>
+			Yeabsira Dereje
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>47</td>
+		<td>2160</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/codewithmesfin">
+				<img src="https://avatars.githubusercontent.com/u/36897190?s=72&u=9884518756d8d42cb3b33920e10738ba696cd267&v=4" width="24" alt="Avatar of codewithmesfin"> codewithmesfin
+			</a><br/>
+			Mesfin Tsegaye
+		</td>
+		<td>Mevinai Plc </td>
+		<td><a href="https://twitter.com/codewithmesfin">codewithmesfin</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>58</td>
+		<td>2155</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/Tommy-devgit">
+				<img src="https://avatars.githubusercontent.com/u/201990122?s=72&u=ec28ffb0af4671f93af28c63a06f28f0a0976648&v=4" width="24" alt="Avatar of Tommy-devgit"> Tommy-devgit
+			</a><br/>
+			Tomas Melesse
+		</td>
+		<td>Clientreach Ai </td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>885</td>
+		<td>2134</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/Aseadd">
+				<img src="https://avatars.githubusercontent.com/u/48018471?s=72&u=017e57794269f591ad0008fc4db232bb47328476&v=4" width="24" alt="Avatar of Aseadd"> Aseadd
+			</a><br/>
+			Addis Tsega
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AdaTsega">AdaTsega</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>6</td>
+		<td>2129</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/Maxd646">
+				<img src="https://avatars.githubusercontent.com/u/184818393?s=72&u=91775c0d5a600bd01117dae1a57bb89720affeed&v=4" width="24" alt="Avatar of Maxd646"> Maxd646
+			</a><br/>
+			Daniel Kebede
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>2098</td>
+		<td>2126</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/ubeyidah">
+				<img src="https://avatars.githubusercontent.com/u/159727076?s=72&u=398a5210bca59ed8554a7eab84fde65df86f0c3a&v=4" width="24" alt="Avatar of ubeyidah"> ubeyidah
+			</a><br/>
+			Ubeyidah
+		</td>
+		<td>Waitkit.dev </td>
+		<td><a href="https://twitter.com/ubeyidah">ubeyidah</a></td>
+		<td>Ethiopia</td>
+		<td>661</td>
+		<td>2120</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/Meku-nint">
+				<img src="https://avatars.githubusercontent.com/u/154579159?s=72&u=898955ce9d23b47d111ec59d991ffbc7af20996a&v=4" width="24" alt="Avatar of Meku-nint"> Meku-nint
+			</a><br/>
+			D_mekunint
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis ababa,Ethiopia</td>
+		<td>380</td>
+		<td>2094</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/NebeyouMusie">
+				<img src="https://avatars.githubusercontent.com/u/120266392?s=72&u=569cfa3c48ff97be23488793fb16e701958dc8ee&v=4" width="24" alt="Avatar of NebeyouMusie"> NebeyouMusie
+			</a><br/>
+			Nebeyou Musie
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NebeyouMusie">NebeyouMusie</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>2089</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/Henok-Enyew">
+				<img src="https://avatars.githubusercontent.com/u/154423957?s=72&u=af8c8998f67785b10e415f53591deff719567413&v=4" width="24" alt="Avatar of Henok-Enyew"> Henok-Enyew
+			</a><br/>
+			Henok Enyew
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Enoch90s">Enoch90s</a></td>
+		<td>Ethiopia</td>
+		<td>438</td>
+		<td>2081</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/ayanasamuel8">
+				<img src="https://avatars.githubusercontent.com/u/125457325?s=72&u=ac0ba20865bee1d5685781007c76318e38222172&v=4" width="24" alt="Avatar of ayanasamuel8"> ayanasamuel8
+			</a><br/>
+			Ayana Samuel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>1924</td>
+		<td>2067</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/Ephrem-shimels21">
+				<img src="https://avatars.githubusercontent.com/u/106282573?s=72&u=c3070049e8c4bded3fd902d30edccb04bf667714&v=4" width="24" alt="Avatar of Ephrem-shimels21"> Ephrem-shimels21
+			</a><br/>
+			Ephrem Shimels
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tamire_ephrem">tamire_ephrem</a></td>
+		<td>Addis Ababa</td>
+		<td>32</td>
+		<td>2060</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/YosephSE">
+				<img src="https://avatars.githubusercontent.com/u/88291669?s=72&u=3f148e45819288aa4d2d0036c54ff6cbb65b1acc&v=4" width="24" alt="Avatar of YosephSE"> YosephSE
+			</a><br/>
+			Yoseph Kedir
+		</td>
+		<td>Givethanks </td>
+		<td><a href="https://twitter.com/YosephKedir">YosephKedir</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1003</td>
+		<td>2039</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/natanim-kemal">
+				<img src="https://avatars.githubusercontent.com/u/114761914?s=72&u=b79cfc67a1bab6f99f8eacc17e99a758d06d42f7&v=4" width="24" alt="Avatar of natanim-kemal"> natanim-kemal
+			</a><br/>
+			natanim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1781</td>
+		<td>2036</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/Mr-MaNia7">
+				<img src="https://avatars.githubusercontent.com/u/93995267?s=72&u=e19343d140b1de6d00c76df5ef7a741fc12fad69&v=4" width="24" alt="Avatar of Mr-MaNia7"> Mr-MaNia7
+			</a><br/>
+			Abdulkarim Getachew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>23</td>
+		<td>2025</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/Shambel96">
+				<img src="https://avatars.githubusercontent.com/u/172547097?s=72&u=79f1f9af67966f39175eff051dd832d69539f9ac&v=4" width="24" alt="Avatar of Shambel96"> Shambel96
+			</a><br/>
+			Shambel Dechu
+		</td>
+		<td>Jimma University </td>
+		<td><a href="https://twitter.com/dechu_shambel">dechu_shambel</a></td>
+		<td>Welenchiti, Ethiopia</td>
+		<td>1481</td>
+		<td>2014</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/nigussolomon">
+				<img src="https://avatars.githubusercontent.com/u/78663320?s=72&u=899ef682fb5d35165cb8c038631587779a744c67&v=4" width="24" alt="Avatar of nigussolomon"> nigussolomon
+			</a><br/>
+			Nigus Solomon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>409</td>
+		<td>2009</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/surafelx">
 				<img src="https://avatars.githubusercontent.com/u/63095824?s=72&u=814c4bb88027797788cdffa61d289ba6a89e6ce2&v=4" width="24" alt="Avatar of surafelx"> surafelx
@@ -2272,78 +2062,288 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Celerus Global </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>886</td>
-		<td>1769</td>
+		<td>938</td>
+		<td>1966</td>
 	</tr>
 	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/yabebalFantaye">
+				<img src="https://avatars.githubusercontent.com/u/9449439?s=72&u=9c0c8281590bae7d0aa4ccb5d7a53b7fa2b80721&v=4" width="24" alt="Avatar of yabebalFantaye"> yabebalFantaye
+			</a><br/>
+			yabebal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>20</td>
+		<td>1960</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/danieltsega">
+				<img src="https://avatars.githubusercontent.com/u/116147211?s=72&u=9e0483f0254a85f7d534d916435363a9f99abd78&v=4" width="24" alt="Avatar of danieltsega"> danieltsega
+			</a><br/>
+			Daniel Tsega
+		</td>
+		<td>Xavad Technologies (co-founder) </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>242</td>
+		<td>1955</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/dododoyo">
+				<img src="https://avatars.githubusercontent.com/u/94123357?s=72&u=b08c682b5ba9a5aa4e04fff137c7fda7525d428e&v=4" width="24" alt="Avatar of dododoyo"> dododoyo
+			</a><br/>
+			Dolphin Mulugeta
+		</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>1952</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/Felmeta-M">
+				<img src="https://avatars.githubusercontent.com/u/96541480?s=72&u=54ad3214d9b0e9fc0bff4426abc9fcc4d7cc0296&v=4" width="24" alt="Avatar of Felmeta-M"> Felmeta-M
+			</a><br/>
+			Felmeta Muktar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>25</td>
+		<td>1936</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/FiraBro">
+				<img src="https://avatars.githubusercontent.com/u/192071818?s=72&u=2b1a32e418b5c6d8396f9ed5c72d0c4690a04cfa&v=4" width="24" alt="Avatar of FiraBro"> FiraBro
+			</a><br/>
+			Firagos Jemal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Dire Dawa</td>
+		<td>1910</td>
+		<td>1935</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/NehemiahAklil">
+				<img src="https://avatars.githubusercontent.com/u/45801078?s=72&u=0a9da6b4ea1a4d87d1f4669e0627c5674e03187e&v=4" width="24" alt="Avatar of NehemiahAklil"> NehemiahAklil
+			</a><br/>
+			Nehemiah Aklil
+		</td>
+		<td>Wegegtatech </td>
+		<td><a href="https://twitter.com/AklilNehemiah">AklilNehemiah</a></td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>184</td>
+		<td>1933</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/ephrem-ketachew">
+				<img src="https://avatars.githubusercontent.com/u/156383015?s=72&u=4a8bc9f9d9cd3c21f63fae634102cccf357f69f3&v=4" width="24" alt="Avatar of ephrem-ketachew"> ephrem-ketachew
+			</a><br/>
+			Ephrem Ketachew
+		</td>
+		<td>Software Engineering Student At<br/>Bahir<br/>Dar<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ehiopia</td>
+		<td>1680</td>
+		<td>1921</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/b1n1yam">
+				<img src="https://avatars.githubusercontent.com/u/44252898?s=72&u=c47fe2623edab99a5a1883ba00eb48a28412f5db&v=4" width="24" alt="Avatar of b1n1yam"> b1n1yam
+			</a><br/>
+			Biniyam Daniel
+		</td>
+		<td>@addis-ai-org  </td>
+		<td><a href="https://twitter.com/b1n1yam">b1n1yam</a></td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>156</td>
+		<td>1910</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/haileamlakwalelige">
+				<img src="https://avatars.githubusercontent.com/u/120473611?s=72&u=a56e00925247e7fd3a53939d269e602b234bb29c&v=4" width="24" alt="Avatar of haileamlakwalelige"> haileamlakwalelige
+			</a><br/>
+			Haileamlak Waleligne
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Haileopia">Haileopia</a></td>
+		<td>Adiss Ababa,Ethiopia</td>
+		<td>79</td>
+		<td>1902</td>
+	</tr>
+	<tr>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/Sumeyahassen">
 				<img src="https://avatars.githubusercontent.com/u/191365338?s=72&u=a10e7c459e65630914379dfed427e98d7d9acbae&v=4" width="24" alt="Avatar of Sumeyahassen"> Sumeyahassen
 			</a><br/>
-			sumeyahassen
+			 Sumeya Hassen Mohamed
 		</td>
 		<td>Derash </td>
 		<td>No Twitter Username</td>
 		<td>Addis Abeba  Ethiopia</td>
-		<td>819</td>
-		<td>1765</td>
+		<td>844</td>
+		<td>1897</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/ZorEl212">
+				<img src="https://avatars.githubusercontent.com/u/93014559?s=72&u=7fd465beeb33c049a060c9af3b497948d995fe66&v=4" width="24" alt="Avatar of ZorEl212"> ZorEl212
+			</a><br/>
+			Yeabsira Desalegn
+		</td>
+		<td>Hawaasa University  </td>
+		<td><a href="https://twitter.com/yeabsiradesale1">yeabsiradesale1</a></td>
+		<td>Hawassa, Ethiopia</td>
+		<td>762</td>
+		<td>1887</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/Nahom32">
+				<img src="https://avatars.githubusercontent.com/u/70108056?s=72&u=2ff58c94f2d0164c681fa3416bcd8715dc2e2586&v=4" width="24" alt="Avatar of Nahom32"> Nahom32
+			</a><br/>
+			Nahom Senay
+		</td>
+		<td>Icog Labs, Resonance Labs<br/>(aait)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>580</td>
+		<td>1881</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/WildCayote">
+				<img src="https://avatars.githubusercontent.com/u/113772033?s=72&u=53f032b53cb09f3ccef798c5ea5d85af23dd9f16&v=4" width="24" alt="Avatar of WildCayote"> WildCayote
+			</a><br/>
+			Tinsae Shemalise
+		</td>
+		<td>Addis Ababa University </td>
+		<td><a href="https://twitter.com/tinsu77590">tinsu77590</a></td>
+		<td>Ethiopia</td>
+		<td>28</td>
+		<td>1873</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/mntc3434">
+				<img src="https://avatars.githubusercontent.com/u/148215622?s=72&u=91021e467b23399e0e9ea96bef489a203db8c935&v=4" width="24" alt="Avatar of mntc3434"> mntc3434
+			</a><br/>
+			Mintesinot getu
+		</td>
+		<td>👨‍💻personal Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1806</td>
+		<td>1863</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/naanmohammed">
+				<img src="https://avatars.githubusercontent.com/u/124832435?s=72&u=d0a6e87b23f5f724d6d5d090e56b55681338183a&v=4" width="24" alt="Avatar of naanmohammed"> naanmohammed
+			</a><br/>
+			Naan Ahmed Mohammed
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/_naanahmed">_naanahmed</a></td>
+		<td>Addis Ababa</td>
+		<td>0</td>
+		<td>1861</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/alan-sultan">
+				<img src="https://avatars.githubusercontent.com/u/169437091?s=72&v=4" width="24" alt="Avatar of alan-sultan"> alan-sultan
+			</a><br/>
+			Alan Sultan
+		</td>
+		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>133</td>
+		<td>1837</td>
 	</tr>
 	<tr>
 		<td>157</td>
 		<td>
-			<a href="https://github.com/Moi-29">
-				<img src="https://avatars.githubusercontent.com/u/204142300?s=72&u=42b59ed430b60b13363a1a6770ad94ec5eb844cd&v=4" width="24" alt="Avatar of Moi-29"> Moi-29
+			<a href="https://github.com/Anom-a">
+				<img src="https://avatars.githubusercontent.com/u/113196912?s=72&u=80cf80d46256063400638d74f36677a1632cf6f9&v=4" width="24" alt="Avatar of Anom-a"> Anom-a
 			</a><br/>
-			Moibon
+			Anom Abebe
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>69</td>
-		<td>1752</td>
+		<td>Addis Ababa</td>
+		<td>261</td>
+		<td>1830</td>
 	</tr>
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/epha-b1">
-				<img src="https://avatars.githubusercontent.com/u/113988832?s=72&u=b27564c830daa6ac1be03f02a520a577ab80e7ea&v=4" width="24" alt="Avatar of epha-b1"> epha-b1
+			<a href="https://github.com/yihune1234">
+				<img src="https://avatars.githubusercontent.com/u/197728600?s=72&u=88b09ccf5d533990b981021c680c20845b26b355&v=4" width="24" alt="Avatar of yihune1234"> yihune1234
 			</a><br/>
-			Ephrem Belaineh
+			yihune Belay Sebsibe
 		</td>
-		<td>No Company</td>
+		<td>Software Engineering Student |<br/>Haramaya<br/>University<br/></td>
 		<td>No Twitter Username</td>
-		<td>Addis ababa</td>
-		<td>235</td>
-		<td>1749</td>
+		<td>Ethiopia</td>
+		<td>520</td>
+		<td>1823</td>
 	</tr>
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/Samuel-0228">
-				<img src="https://avatars.githubusercontent.com/u/198710196?s=72&u=577ae5637a03528cdd99251899415836ee5f6c6a&v=4" width="24" alt="Avatar of Samuel-0228"> Samuel-0228
+			<a href="https://github.com/BisratGirma">
+				<img src="https://avatars.githubusercontent.com/u/30285329?s=72&u=6efe25518f70e0f38158bcfa0963051f4c5c6452&v=4" width="24" alt="Avatar of BisratGirma"> BisratGirma
 			</a><br/>
-			Samuel
+			Bisrat Girma
 		</td>
-		<td>Gebeya Inc </td>
-		<td><a href="https://twitter.com/Shmuelnog">Shmuelnog</a></td>
-		<td>Addis Ababa</td>
-		<td>868</td>
-		<td>1743</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>106</td>
+		<td>1817</td>
 	</tr>
 	<tr>
 		<td>160</td>
 		<td>
-			<a href="https://github.com/tekluabayneh">
-				<img src="https://avatars.githubusercontent.com/u/160180978?s=72&u=f2c19a13216d155839e6e2ee8a1941e7a2d427c8&v=4" width="24" alt="Avatar of tekluabayneh"> tekluabayneh
+			<a href="https://github.com/fireayehu">
+				<img src="https://avatars.githubusercontent.com/u/35679017?s=72&u=659a6c765e8460f9873dae7cf9f646e2ae5c1dc9&v=4" width="24" alt="Avatar of fireayehu"> fireayehu
 			</a><br/>
-			Teklu Abayneh
+			Fireayehu Zekarias
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Aait </td>
+		<td><a href="https://twitter.com/fireayehu">fireayehu</a></td>
 		<td>Ethiopia</td>
-		<td>1734</td>
-		<td>1739</td>
+		<td>38</td>
+		<td>1816</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2356,347 +2356,39 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia,Addis Ababa</td>
-		<td>48</td>
-		<td>1729</td>
+		<td>65</td>
+		<td>1798</td>
 	</tr>
 	<tr>
 		<td>162</td>
 		<td>
-			<a href="https://github.com/Daniel-W1">
-				<img src="https://avatars.githubusercontent.com/u/82764803?s=72&v=4" width="24" alt="Avatar of Daniel-W1"> Daniel-W1
+			<a href="https://github.com/brookmg">
+				<img src="https://avatars.githubusercontent.com/u/7487888?s=72&u=b414228e1fcb4f85915e290c7f60324bbdaf313e&v=4" width="24" alt="Avatar of brookmg"> brookmg
 			</a><br/>
-			Daniel
+			Brook Mezgebu
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>182</td>
-		<td>1710</td>
+		<td><a href="https://twitter.com/brook_mezgebu">brook_mezgebu</a></td>
+		<td>Ethiopia, Addis abeba</td>
+		<td>105</td>
+		<td>1792</td>
 	</tr>
 	<tr>
 		<td>163</td>
 		<td>
-			<a href="https://github.com/yihune1234">
-				<img src="https://avatars.githubusercontent.com/u/197728600?s=72&u=88b09ccf5d533990b981021c680c20845b26b355&v=4" width="24" alt="Avatar of yihune1234"> yihune1234
+			<a href="https://github.com/bezawitassaye">
+				<img src="https://avatars.githubusercontent.com/u/119955274?s=72&u=9f52f6162a283f621d048e1362e8e0e33108c301&v=4" width="24" alt="Avatar of bezawitassaye"> bezawitassaye
 			</a><br/>
-			yihune Belay Sebsibe
+			Bezawit Assaye
 		</td>
-		<td>Software Engineering Student |<br/>Haramaya<br/>University<br/></td>
+		<td>Aait </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>520</td>
-		<td>1707</td>
+		<td>442</td>
+		<td>1787</td>
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>
-			<a href="https://github.com/solomon-winner">
-				<img src="https://avatars.githubusercontent.com/u/110690465?s=72&u=3c4ee5e34bfb537e5995e7e53e015adc583634ce&v=4" width="24" alt="Avatar of solomon-winner"> solomon-winner
-			</a><br/>
-			Solomon Yalew
-		</td>
-		<td>Techbee Innovations </td>
-		<td><a href="https://twitter.com/SolomonYal20539">SolomonYal20539</a></td>
-		<td>Ethiopia</td>
-		<td>177</td>
-		<td>1687</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/samayine">
-				<img src="https://avatars.githubusercontent.com/u/105039572?s=72&u=52863f63dd61f8e3204ace64fd5836436fb3ad98&v=4" width="24" alt="Avatar of samayine"> samayine
-			</a><br/>
-			Samuel Ayine
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1334</td>
-		<td>1681</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/Tommy-devgit">
-				<img src="https://avatars.githubusercontent.com/u/201990122?s=72&u=ec28ffb0af4671f93af28c63a06f28f0a0976648&v=4" width="24" alt="Avatar of Tommy-devgit"> Tommy-devgit
-			</a><br/>
-			Tomas Melesse
-		</td>
-		<td>Clientreach Ai </td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>433</td>
-		<td>1679</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/sami-bre">
-				<img src="https://avatars.githubusercontent.com/u/95348536?s=72&u=658a736c29d040d8eba0b1253838599133a35291&v=4" width="24" alt="Avatar of sami-bre"> sami-bre
-			</a><br/>
-			Samuel Birhanu
-		</td>
-		<td>Aai-labs </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa - Ethiopia</td>
-		<td>267</td>
-		<td>1668</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/muleA">
-				<img src="https://avatars.githubusercontent.com/u/56386485?s=72&u=b29ec90c3fc48d424b4183057d6a154e93af5227&v=4" width="24" alt="Avatar of muleA"> muleA
-			</a><br/>
-			Mulugeta Adamu
-		</td>
-		<td>Top Link Technology </td>
-		<td><a href="https://twitter.com/mulugeta_adamu">mulugeta_adamu</a></td>
-		<td>addis ababa ,Ethiopia</td>
-		<td>97</td>
-		<td>1651</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/Yaya1200">
-				<img src="https://avatars.githubusercontent.com/u/174056755?s=72&u=c41077696a48cce7df944b0584d7a38b0094af6e&v=4" width="24" alt="Avatar of Yaya1200"> Yaya1200
-			</a><br/>
-			Yared Gebre
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>924</td>
-		<td>1641</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/sentack">
-				<img src="https://avatars.githubusercontent.com/u/69603703?s=72&u=bfeb4f2fe074488465f109f9c7f79d40ceb4614b&v=4" width="24" alt="Avatar of sentack"> sentack
-			</a><br/>
-			SENA TAKELE
-		</td>
-		<td>Sentack </td>
-		<td><a href="https://twitter.com/sentak01">sentak01</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>168</td>
-		<td>1635</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/kalu-c">
-				<img src="https://avatars.githubusercontent.com/u/155809658?s=72&u=67ac0c240de352b338435f5542f587249675c6bf&v=4" width="24" alt="Avatar of kalu-c"> kalu-c
-			</a><br/>
-			Endekalu Zemenu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>152</td>
-		<td>1618</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/jabezinu">
-				<img src="https://avatars.githubusercontent.com/u/189609981?s=72&u=9b6863b57c94ff7eb09cc00a419b80ac5f6bcefd&v=4" width="24" alt="Avatar of jabezinu"> jabezinu
-			</a><br/>
-			Yab
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>663</td>
-		<td>1606</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/addanex">
-				<img src="https://avatars.githubusercontent.com/u/125744573?s=72&u=5f64e13cca377839c9cbeaf05f0fd93c361750d9&v=4" width="24" alt="Avatar of addanex"> addanex
-			</a><br/>
-			Yosef A.
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/addaanex">addaanex</a></td>
-		<td>Addis Ababa</td>
-		<td>642</td>
-		<td>1605</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/NehemiahAklil">
-				<img src="https://avatars.githubusercontent.com/u/45801078?s=72&u=0a9da6b4ea1a4d87d1f4669e0627c5674e03187e&v=4" width="24" alt="Avatar of NehemiahAklil"> NehemiahAklil
-			</a><br/>
-			Nehemiah Aklil
-		</td>
-		<td>Wegegtatech </td>
-		<td><a href="https://twitter.com/AklilNehemiah">AklilNehemiah</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>178</td>
-		<td>1603</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/fitsumM12">
-				<img src="https://avatars.githubusercontent.com/u/58865020?s=72&u=701f674f279edb2e3d8c6822ffc86af0af51352f&v=4" width="24" alt="Avatar of fitsumM12"> fitsumM12
-			</a><br/>
-			Fitsum Mesfin
-		</td>
-		<td>Finova Software Plc. </td>
-		<td><a href="https://twitter.com/FitsumMD">FitsumMD</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>29</td>
-		<td>1601</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/Aklilu-Mandefro">
-				<img src="https://avatars.githubusercontent.com/u/65851700?s=72&u=8a60eb31b13e96bc5c0065ce474fa9676328de7f&v=4" width="24" alt="Avatar of Aklilu-Mandefro"> Aklilu-Mandefro
-			</a><br/>
-			Aklilu Mandefro
-		</td>
-		<td>Digital Portfolio™ </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>47</td>
-		<td>1592</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/AbdulazizAyalew">
-				<img src="https://avatars.githubusercontent.com/u/162428984?s=72&u=63a54645f12340654f17d830079b5b72927df0ae&v=4" width="24" alt="Avatar of AbdulazizAyalew"> AbdulazizAyalew
-			</a><br/>
-			Abdulaziz Ayalew
-		</td>
-		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
-		<td><a href="https://twitter.com/AbdulazizAyalew">AbdulazizAyalew</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>838</td>
-		<td>1588</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/eendale">
-				<img src="https://avatars.githubusercontent.com/u/77967123?s=72&u=ee041c6b4df86c968b14545da13584b4a4b45cc9&v=4" width="24" alt="Avatar of eendale"> eendale
-			</a><br/>
-			Endale
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/25endale">25endale</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>30</td>
-		<td>1582</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/Beki78">
-				<img src="https://avatars.githubusercontent.com/u/146061009?s=72&u=0963792f3d307cad35ac8bc2e06502fb9c858f91&v=4" width="24" alt="Avatar of Beki78"> Beki78
-			</a><br/>
-			Bereket Getachew
-		</td>
-		<td>Ethio Dev </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>5</td>
-		<td>1578</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/Zel-hub7">
-				<img src="https://avatars.githubusercontent.com/u/101441573?s=72&u=4a739268340d4201475410a7bf407cd1c35bd162&v=4" width="24" alt="Avatar of Zel-hub7"> Zel-hub7
-			</a><br/>
-			Zelalem Yohannes
-		</td>
-		<td>Software Engineer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>41</td>
-		<td>1577</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/eyuuab">
-				<img src="https://avatars.githubusercontent.com/u/120777151?s=72&u=81af0ad2ee52f8c2477f746f45b1af14f18f68fb&v=4" width="24" alt="Avatar of eyuuab"> eyuuab
-			</a><br/>
-			Eyobed Abreham
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>159</td>
-		<td>1574</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/yaredtekile">
-				<img src="https://avatars.githubusercontent.com/u/55293585?s=72&v=4" width="24" alt="Avatar of yaredtekile"> yaredtekile
-			</a><br/>
-			Yared Tekile
-		</td>
-		<td>Digital Green </td>
-		<td><a href="https://twitter.com/Yar3d__">Yar3d__</a></td>
-		<td>Ethiopia</td>
-		<td>166</td>
-		<td>1573</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/amenabe22">
-				<img src="https://avatars.githubusercontent.com/u/47492590?s=72&u=682e54a7b67dfb376bf2a147ab003029a99439cd&v=4" width="24" alt="Avatar of amenabe22"> amenabe22
-			</a><br/>
-			Amen Abe
-		</td>
-		<td>Moyats </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>90</td>
-		<td>1563</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/ami798">
-				<img src="https://avatars.githubusercontent.com/u/183639755?s=72&u=160459985baa2abcc208049adb81629a9c82fb7e&v=4" width="24" alt="Avatar of ami798"> ami798
-			</a><br/>
-			Amira Abdurahman 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amiprin7">amiprin7</a></td>
-		<td>Ethiopia</td>
-		<td>1527</td>
-		<td>1549</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/SiloGecho97">
-				<img src="https://avatars.githubusercontent.com/u/16652511?s=72&u=2bdf34c6aa13ea3063a1ec253562e678f51be49c&v=4" width="24" alt="Avatar of SiloGecho97"> SiloGecho97
-			</a><br/>
-			Silas Getachew Merdasa
-		</td>
-		<td>@storyblok </td>
-		<td><a href="https://twitter.com/Silogecho">Silogecho</a></td>
-		<td>Ethiopia</td>
-		<td>4</td>
-		<td>1539</td>
-	</tr>
-	<tr>
-		<td>186</td>
 		<td>
 			<a href="https://github.com/Mule-ME">
 				<img src="https://avatars.githubusercontent.com/u/83214007?s=72&u=7e1deec2b98d0a83f43a617075e8301960c33307&v=4" width="24" alt="Avatar of Mule-ME"> Mule-ME
@@ -2707,136 +2399,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/Mulualem_Eshetu">Mulualem_Eshetu</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>36</td>
-		<td>1533</td>
+		<td>1772</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>165</td>
 		<td>
-			<a href="https://github.com/esmaelmohammed-ux">
-				<img src="https://avatars.githubusercontent.com/u/237391690?s=72&u=5d563510d0c1ca306de2b5f894c87d0be01791fb&v=4" width="24" alt="Avatar of esmaelmohammed-ux"> esmaelmohammed-ux
+			<a href="https://github.com/yaredtekile">
+				<img src="https://avatars.githubusercontent.com/u/55293585?s=72&v=4" width="24" alt="Avatar of yaredtekile"> yaredtekile
 			</a><br/>
-			Esmael
+			Yared Tekile
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/esmael mohammed">esmael mohammed</a></td>
-		<td>Adama ,Ethiopia</td>
-		<td>1531</td>
-		<td>1531</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/betselotT">
-				<img src="https://avatars.githubusercontent.com/u/99252072?s=72&u=4606b5c63af952d37598aafaf11162041b68f719&v=4" width="24" alt="Avatar of betselotT"> betselotT
-			</a><br/>
-			Betselot Tesfa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1119</td>
-		<td>1530</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/BemnetMussa">
-				<img src="https://avatars.githubusercontent.com/u/117770007?s=72&u=296728c04a37b1165865777046ebc7668e0d34c4&v=4" width="24" alt="Avatar of BemnetMussa"> BemnetMussa
-			</a><br/>
-			Bemnet Mussa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Digital Green </td>
+		<td><a href="https://twitter.com/Yar3d__">Yar3d__</a></td>
 		<td>Ethiopia</td>
-		<td>1050</td>
-		<td>1521</td>
+		<td>165</td>
+		<td>1760</td>
 	</tr>
 	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/eyobbegashaw">
-				<img src="https://avatars.githubusercontent.com/u/188770920?s=72&u=0fd2bd6d1c702f9d98acaf4b1678d368b0e29256&v=4" width="24" alt="Avatar of eyobbegashaw"> eyobbegashaw
-			</a><br/>
-			Eyob Begashaw Ayele
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Debre Brhan/Ethiopia</td>
-		<td>1520</td>
-		<td>1520</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/fikadu-girma">
-				<img src="https://avatars.githubusercontent.com/u/199211941?s=72&u=6e838d1416133eaeceac6e200fa3c0a990c503da&v=4" width="24" alt="Avatar of fikadu-girma"> fikadu-girma
-			</a><br/>
-			Fikadu Girma(DevCap)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>140</td>
-		<td>1519</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/Felmeta-M">
-				<img src="https://avatars.githubusercontent.com/u/96541480?s=72&u=54ad3214d9b0e9fc0bff4426abc9fcc4d7cc0296&v=4" width="24" alt="Avatar of Felmeta-M"> Felmeta-M
-			</a><br/>
-			Felmeta Muktar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>745</td>
-		<td>1516</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/AnexDev1">
-				<img src="https://avatars.githubusercontent.com/u/92826091?s=72&u=c1a49064ae909e595f9e4a50913706812d0d78e5&v=4" width="24" alt="Avatar of AnexDev1"> AnexDev1
-			</a><br/>
-			Anwar Nasir
-		</td>
-		<td>Skylink </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>226</td>
-		<td>1515</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/YonasGr">
-				<img src="https://avatars.githubusercontent.com/u/139625821?s=72&u=5a51b2a7d1afe2e04293e6700e320f2fe771fbda&v=4" width="24" alt="Avatar of YonasGr"> YonasGr
-			</a><br/>
-			Yonas Girma
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yonasggr">yonasggr</a></td>
-		<td>Harar, Ethiopia</td>
-		<td>322</td>
-		<td>1506</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/yinebebt">
-				<img src="https://avatars.githubusercontent.com/u/84726535?s=72&u=060f5cb5fbc94b234a78a04787b1638e571bd9e2&v=4" width="24" alt="Avatar of yinebebt"> yinebebt
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yinebebt_">yinebebt_</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>155</td>
-		<td>1500</td>
-	</tr>
-	<tr>
-		<td>196</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/nahomderese">
 				<img src="https://avatars.githubusercontent.com/u/65091771?s=72&u=8055eaaee958be8eb1db7a3c4d00a541f972a6e0&v=4" width="24" alt="Avatar of nahomderese"> nahomderese
@@ -2847,234 +2427,276 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia, Addis ababa</td>
 		<td>25</td>
-		<td>1492</td>
+		<td>1758</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>167</td>
 		<td>
-			<a href="https://github.com/yaredow">
-				<img src="https://avatars.githubusercontent.com/u/87979010?s=72&u=ae5cbc0b795afbc7227070b49d10df0e62cc7da8&v=4" width="24" alt="Avatar of yaredow"> yaredow
+			<a href="https://github.com/Daniel-W1">
+				<img src="https://avatars.githubusercontent.com/u/82764803?s=72&v=4" width="24" alt="Avatar of Daniel-W1"> Daniel-W1
 			</a><br/>
-			Yared Yilma
-		</td>
-		<td>Decentral Technologies </td>
-		<td><a href="https://twitter.com/yaredow">yaredow</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>695</td>
-		<td>1470</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/beka-birhanu">
-				<img src="https://avatars.githubusercontent.com/u/119675042?s=72&u=20f0220c1c34b127916baa81ad06961a127ac9e6&v=4" width="24" alt="Avatar of beka-birhanu"> beka-birhanu
-			</a><br/>
-			Beka B. Atomsa
-		</td>
-		<td>@brianhjobling </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>248</td>
-		<td>1469</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/yohannescodes">
-				<img src="https://avatars.githubusercontent.com/u/58071246?s=72&u=0fa76852066ccb6ddf283a5c5b9cbe3e8b959bf4&v=4" width="24" alt="Avatar of yohannescodes"> yohannescodes
-			</a><br/>
-			Yohannes Haile
-		</td>
-		<td>@onedegree-labs </td>
-		<td><a href="https://twitter.com/IBYohannes">IBYohannes</a></td>
-		<td>Addis Ababa</td>
-		<td>196</td>
-		<td>1463</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/abudi47">
-				<img src="https://avatars.githubusercontent.com/u/136098639?s=72&u=2b1faeee42c13734499b3f06e17c0d297d92cd28&v=4" width="24" alt="Avatar of abudi47"> abudi47
-			</a><br/>
-			Abduselam Tesfaye
+			Daniel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis ababa ,Ethiopia</td>
-		<td>446</td>
-		<td>1463</td>
+		<td>Addis Ababa</td>
+		<td>184</td>
+		<td>1754</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>168</td>
 		<td>
-			<a href="https://github.com/zmekonnen251">
-				<img src="https://avatars.githubusercontent.com/u/92645881?s=72&u=45bc4e6581d17c32c4d115dbf54d486ca198b27d&v=4" width="24" alt="Avatar of zmekonnen251"> zmekonnen251
+			<a href="https://github.com/Moi-29">
+				<img src="https://avatars.githubusercontent.com/u/204142300?s=72&u=42b59ed430b60b13363a1a6770ad94ec5eb844cd&v=4" width="24" alt="Avatar of Moi-29"> Moi-29
 			</a><br/>
-			Zelalem Mekonnen
+			Moibon
 		</td>
-		<td>@microverseinc  </td>
-		<td><a href="https://twitter.com/mek_zela">mek_zela</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>66</td>
+		<td>1752</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/eyuuab">
+				<img src="https://avatars.githubusercontent.com/u/120777151?s=72&u=81af0ad2ee52f8c2477f746f45b1af14f18f68fb&v=4" width="24" alt="Avatar of eyuuab"> eyuuab
+			</a><br/>
+			Eyobed Abreham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>154</td>
+		<td>1749</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/Yaya1200">
+				<img src="https://avatars.githubusercontent.com/u/174056755?s=72&u=c41077696a48cce7df944b0584d7a38b0094af6e&v=4" width="24" alt="Avatar of Yaya1200"> Yaya1200
+			</a><br/>
+			Yared Gebre
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>1742</td>
+		<td>1745</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/sentack">
+				<img src="https://avatars.githubusercontent.com/u/69603703?s=72&u=bfeb4f2fe074488465f109f9c7f79d40ceb4614b&v=4" width="24" alt="Avatar of sentack"> sentack
+			</a><br/>
+			SENA TAKELE
+		</td>
+		<td>Sentack </td>
+		<td><a href="https://twitter.com/sentak01">sentak01</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>121</td>
+		<td>1745</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/Akuna444">
+				<img src="https://avatars.githubusercontent.com/u/56131204?s=72&u=6e10f8b2e28f24d29a562a8c9a1b6a9657e4bbf1&v=4" width="24" alt="Avatar of Akuna444"> Akuna444
+			</a><br/>
+			Aklil Solomon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>11</td>
+		<td>1742</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/binhussen">
+				<img src="https://avatars.githubusercontent.com/u/52010789?s=72&u=5a215e4c246708d6b110e6e714bdfc80097fefd2&v=4" width="24" alt="Avatar of binhussen"> binhussen
+			</a><br/>
+			Mohammed Hussen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/binhussens">binhussens</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>1</td>
-		<td>1459</td>
+		<td>1738</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>174</td>
 		<td>
-			<a href="https://github.com/Mr-MaNia7">
-				<img src="https://avatars.githubusercontent.com/u/93995267?s=72&u=e19343d140b1de6d00c76df5ef7a741fc12fad69&v=4" width="24" alt="Avatar of Mr-MaNia7"> Mr-MaNia7
+			<a href="https://github.com/samayine">
+				<img src="https://avatars.githubusercontent.com/u/105039572?s=72&u=52863f63dd61f8e3204ace64fd5836436fb3ad98&v=4" width="24" alt="Avatar of samayine"> samayine
 			</a><br/>
-			Abdulkarim Getachew
+			Samuel Ayine
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>23</td>
-		<td>1459</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1406</td>
+		<td>1728</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>175</td>
 		<td>
-			<a href="https://github.com/Ludis-ET">
-				<img src="https://avatars.githubusercontent.com/u/132431582?s=72&u=c37d014c87a3a2d119e1f224e39243a3f52a286e&v=4" width="24" alt="Avatar of Ludis-ET"> Ludis-ET
+			<a href="https://github.com/eendale">
+				<img src="https://avatars.githubusercontent.com/u/77967123?s=72&u=ee041c6b4df86c968b14545da13584b4a4b45cc9&v=4" width="24" alt="Avatar of eendale"> eendale
 			</a><br/>
-			Ludis
+			Endale
 		</td>
-		<td>Aastu </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia, Adddis Ababa</td>
-		<td>489</td>
-		<td>1459</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>16</td>
+		<td>1727</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>176</td>
 		<td>
-			<a href="https://github.com/fireayehu">
-				<img src="https://avatars.githubusercontent.com/u/35679017?s=72&u=659a6c765e8460f9873dae7cf9f646e2ae5c1dc9&v=4" width="24" alt="Avatar of fireayehu"> fireayehu
+			<a href="https://github.com/amenabe22">
+				<img src="https://avatars.githubusercontent.com/u/47492590?s=72&u=682e54a7b67dfb376bf2a147ab003029a99439cd&v=4" width="24" alt="Avatar of amenabe22"> amenabe22
 			</a><br/>
-			Fireayehu Zekarias
+			Amen Abe
 		</td>
-		<td>Aait </td>
-		<td><a href="https://twitter.com/fireayehu">fireayehu</a></td>
+		<td>Moyats </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>95</td>
+		<td>1688</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/baydisng13">
+				<img src="https://avatars.githubusercontent.com/u/44190023?s=72&u=9c34c4bf1d83114ef65160807c4a99d76fc08eda&v=4" width="24" alt="Avatar of baydisng13"> baydisng13
+			</a><br/>
+			Theodore Negusu
+		</td>
+		<td>Brainstormers </td>
+		<td><a href="https://twitter.com/TheodoreNegusu">TheodoreNegusu</a></td>
+		<td>Ethiopia, A.A</td>
+		<td>91</td>
+		<td>1678</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/solomon-winner">
+				<img src="https://avatars.githubusercontent.com/u/110690465?s=72&u=3c4ee5e34bfb537e5995e7e53e015adc583634ce&v=4" width="24" alt="Avatar of solomon-winner"> solomon-winner
+			</a><br/>
+			Solomon Yalew
+		</td>
+		<td>Techbee Innovations </td>
+		<td><a href="https://twitter.com/SolomonYal20539">SolomonYal20539</a></td>
 		<td>Ethiopia</td>
-		<td>18</td>
-		<td>1457</td>
+		<td>184</td>
+		<td>1676</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>179</td>
 		<td>
-			<a href="https://github.com/Jeyididya">
-				<img src="https://avatars.githubusercontent.com/u/39322936?s=72&u=0f845a86184da1c96162a433673d6fdfc93e8bf7&v=4" width="24" alt="Avatar of Jeyididya"> Jeyididya
+			<a href="https://github.com/muleA">
+				<img src="https://avatars.githubusercontent.com/u/56386485?s=72&u=b29ec90c3fc48d424b4183057d6a154e93af5227&v=4" width="24" alt="Avatar of muleA"> muleA
 			</a><br/>
-			Yididya andualem
+			Mulugeta Adamu
+		</td>
+		<td>Top Link Technology </td>
+		<td><a href="https://twitter.com/mulugeta_adamu">mulugeta_adamu</a></td>
+		<td>addis ababa ,Ethiopia</td>
+		<td>72</td>
+		<td>1652</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/addanex">
+				<img src="https://avatars.githubusercontent.com/u/125744573?s=72&u=5f64e13cca377839c9cbeaf05f0fd93c361750d9&v=4" width="24" alt="Avatar of addanex"> addanex
+			</a><br/>
+			Yosef A.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/addaanex">addaanex</a></td>
+		<td>Addis Ababa</td>
+		<td>645</td>
+		<td>1647</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/tekluabayneh">
+				<img src="https://avatars.githubusercontent.com/u/160180978?s=72&u=f2c19a13216d155839e6e2ee8a1941e7a2d427c8&v=4" width="24" alt="Avatar of tekluabayneh"> tekluabayneh
+			</a><br/>
+			Teklu Abayneh
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia </td>
-		<td>102</td>
-		<td>1453</td>
+		<td>Ethiopia</td>
+		<td>1635</td>
+		<td>1640</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>182</td>
 		<td>
-			<a href="https://github.com/balewgize">
-				<img src="https://avatars.githubusercontent.com/u/60035452?s=72&u=04bdc037bb73808cb2bc73b43148aca970a46eab&v=4" width="24" alt="Avatar of balewgize"> balewgize
+			<a href="https://github.com/fikadu-girma">
+				<img src="https://avatars.githubusercontent.com/u/199211941?s=72&u=6e838d1416133eaeceac6e200fa3c0a990c503da&v=4" width="24" alt="Avatar of fikadu-girma"> fikadu-girma
 			</a><br/>
-			Alemnew Marie
+			Fikadu Girma(DevCap)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>140</td>
+		<td>1623</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/Abdesol">
+				<img src="https://avatars.githubusercontent.com/u/69455299?s=72&u=f98c43e7c9a3d4905516986221e4493e363a1951&v=4" width="24" alt="Avatar of Abdesol"> Abdesol
+			</a><br/>
+			Abdella Solomon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AbdellaSolomon">AbdellaSolomon</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>123</td>
+		<td>1608</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/nardos-tsige">
+				<img src="https://avatars.githubusercontent.com/u/241655737?s=72&u=44ee3979c0f6a8230892da874efda627b41b97c7&v=4" width="24" alt="Avatar of nardos-tsige"> nardos-tsige
+			</a><br/>
+			Nardos Tsige
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>165</td>
-		<td>1444</td>
+		<td>1557</td>
+		<td>1604</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>185</td>
 		<td>
-			<a href="https://github.com/AbenezerAtnafu">
-				<img src="https://avatars.githubusercontent.com/u/61490595?s=72&v=4" width="24" alt="Avatar of AbenezerAtnafu"> AbenezerAtnafu
+			<a href="https://github.com/AbdulazizAyalew">
+				<img src="https://avatars.githubusercontent.com/u/162428984?s=72&u=63a54645f12340654f17d830079b5b72927df0ae&v=4" width="24" alt="Avatar of AbdulazizAyalew"> AbdulazizAyalew
 			</a><br/>
-			Abenezer Atnafu
+			Abdulaziz Ayalew
 		</td>
-		<td>Eshi Digital </td>
-		<td>No Twitter Username</td>
+		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
+		<td><a href="https://twitter.com/AbdulazizAyalew">AbdulazizAyalew</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>331</td>
-		<td>1442</td>
+		<td>859</td>
+		<td>1601</td>
 	</tr>
 	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/halleygz">
-				<img src="https://avatars.githubusercontent.com/u/98106633?s=72&u=3cfe8455093e6a8984517bc87c81bd49aca365f6&v=4" width="24" alt="Avatar of halleygz"> halleygz
-			</a><br/>
-			Halleluya Mulugeta
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Halle_Mulugeta">Halle_Mulugeta</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>848</td>
-		<td>1434</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/rav3n11">
-				<img src="https://avatars.githubusercontent.com/u/49443576?s=72&u=cc188d02a641601cb3a41a75b3519cb4bb08789d&v=4" width="24" alt="Avatar of rav3n11"> rav3n11
-			</a><br/>
-			Bereket Terefe
-		</td>
-		<td>@efuye  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>811</td>
-		<td>1431</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/Mekdi-kassa">
-				<img src="https://avatars.githubusercontent.com/u/178584740?s=72&u=a952be34aa62e79f65ade5196dd02297639e1da6&v=4" width="24" alt="Avatar of Mekdi-kassa"> Mekdi-kassa
-			</a><br/>
-			Mekdelawit Abadina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>1295</td>
-		<td>1426</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/wubeZ">
-				<img src="https://avatars.githubusercontent.com/u/85889061?s=72&u=bad37e9c0b986769b712c15014eaa2a8741eabfe&v=4" width="24" alt="Avatar of wubeZ"> wubeZ
-			</a><br/>
-			Wubshet Zeleke
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wube_Z">wube_Z</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>2</td>
-		<td>1410</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/k4l3b4">
-				<img src="https://avatars.githubusercontent.com/u/59311872?s=72&v=4" width="24" alt="Avatar of k4l3b4"> k4l3b4
-			</a><br/>
-			Caleb Abebe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/k4l3ba">k4l3ba</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>387</td>
-		<td>1409</td>
-	</tr>
-	<tr>
-		<td>213</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/surafel-kindu">
 				<img src="https://avatars.githubusercontent.com/u/34341576?s=72&u=237c857b3e8fed695df0f7cea3ebcc69a8e11bff&v=4" width="24" alt="Avatar of surafel-kindu"> surafel-kindu
@@ -3084,8 +2706,386 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Afroawi Tech (afroawi.com) </td>
 		<td><a href="https://twitter.com/surafel_kindu">surafel_kindu</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>89</td>
-		<td>1398</td>
+		<td>119</td>
+		<td>1589</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/Heiliger4">
+				<img src="https://avatars.githubusercontent.com/u/137763215?s=72&u=a4158eb30a0324e943ed0095cb7e8d350b9af043&v=4" width="24" alt="Avatar of Heiliger4"> Heiliger4
+			</a><br/>
+			Heiliger
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KPG4404">KPG4404</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>331</td>
+		<td>1575</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/Fitsumhelina">
+				<img src="https://avatars.githubusercontent.com/u/151903384?s=72&u=42e8344a86d24e85c062c8d251cc96181eedf4ec&v=4" width="24" alt="Avatar of Fitsumhelina"> Fitsumhelina
+			</a><br/>
+			Fitsum Helina
+		</td>
+		<td>@tetercreatives @techtonic-tribe @ethioeureka </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa </td>
+		<td>78</td>
+		<td>1569</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/esmaelmohammed-ux">
+				<img src="https://avatars.githubusercontent.com/u/237391690?s=72&u=5d563510d0c1ca306de2b5f894c87d0be01791fb&v=4" width="24" alt="Avatar of esmaelmohammed-ux"> esmaelmohammed-ux
+			</a><br/>
+			Esmael
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/esmael mohammed">esmael mohammed</a></td>
+		<td>Adama ,Ethiopia</td>
+		<td>1562</td>
+		<td>1562</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/sami-bre">
+				<img src="https://avatars.githubusercontent.com/u/95348536?s=72&u=658a736c29d040d8eba0b1253838599133a35291&v=4" width="24" alt="Avatar of sami-bre"> sami-bre
+			</a><br/>
+			Samuel Birhanu
+		</td>
+		<td>Aai-labs </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa - Ethiopia</td>
+		<td>378</td>
+		<td>1558</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/SiloGecho97">
+				<img src="https://avatars.githubusercontent.com/u/16652511?s=72&u=2bdf34c6aa13ea3063a1ec253562e678f51be49c&v=4" width="24" alt="Avatar of SiloGecho97"> SiloGecho97
+			</a><br/>
+			Silas Getachew Merdasa
+		</td>
+		<td>@storyblok </td>
+		<td><a href="https://twitter.com/Silogecho">Silogecho</a></td>
+		<td>Ethiopia</td>
+		<td>4</td>
+		<td>1555</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/NatiDevHQ">
+				<img src="https://avatars.githubusercontent.com/u/185730705?s=72&u=32b992884da98d7a4f1da6d932a3a2393412b361&v=4" width="24" alt="Avatar of NatiDevHQ"> NatiDevHQ
+			</a><br/>
+			Natnael Getachew
+		</td>
+		<td>Open For Work </td>
+		<td>No Twitter Username</td>
+		<td>Addis ababa</td>
+		<td>95</td>
+		<td>1553</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/epha-b1">
+				<img src="https://avatars.githubusercontent.com/u/113988832?s=72&u=b27564c830daa6ac1be03f02a520a577ab80e7ea&v=4" width="24" alt="Avatar of epha-b1"> epha-b1
+			</a><br/>
+			Ephrem Belaineh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis ababa</td>
+		<td>235</td>
+		<td>1550</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/rav3n11">
+				<img src="https://avatars.githubusercontent.com/u/49443576?s=72&u=cc188d02a641601cb3a41a75b3519cb4bb08789d&v=4" width="24" alt="Avatar of rav3n11"> rav3n11
+			</a><br/>
+			Bereket Terefe
+		</td>
+		<td>@efuye  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>809</td>
+		<td>1540</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/ami798">
+				<img src="https://avatars.githubusercontent.com/u/183639755?s=72&u=160459985baa2abcc208049adb81629a9c82fb7e&v=4" width="24" alt="Avatar of ami798"> ami798
+			</a><br/>
+			Amira Abdurahman 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amiprin7">amiprin7</a></td>
+		<td>Ethiopia</td>
+		<td>1519</td>
+		<td>1539</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/demirewu-manidefro">
+				<img src="https://avatars.githubusercontent.com/u/187315312?s=72&u=7ddc66b53f9aa0c304fd98d89046086e2af7f0b4&v=4" width="24" alt="Avatar of demirewu-manidefro"> demirewu-manidefro
+			</a><br/>
+			Demirewu Manidefro
+		</td>
+		<td>Self-learner / Student </td>
+		<td>No Twitter Username</td>
+		<td>Debrebrhan, Ethiopia</td>
+		<td>1488</td>
+		<td>1537</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/Zel-hub7">
+				<img src="https://avatars.githubusercontent.com/u/101441573?s=72&u=4a739268340d4201475410a7bf407cd1c35bd162&v=4" width="24" alt="Avatar of Zel-hub7"> Zel-hub7
+			</a><br/>
+			Zelalem Yohannes
+		</td>
+		<td>Software Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>41</td>
+		<td>1532</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/Aklilu-Mandefro">
+				<img src="https://avatars.githubusercontent.com/u/65851700?s=72&u=8a60eb31b13e96bc5c0065ce474fa9676328de7f&v=4" width="24" alt="Avatar of Aklilu-Mandefro"> Aklilu-Mandefro
+			</a><br/>
+			Aklilu Mandefro
+		</td>
+		<td>Digital Portfolio™ </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>16</td>
+		<td>1523</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/eyobbegashaw">
+				<img src="https://avatars.githubusercontent.com/u/188770920?s=72&u=0fd2bd6d1c702f9d98acaf4b1678d368b0e29256&v=4" width="24" alt="Avatar of eyobbegashaw"> eyobbegashaw
+			</a><br/>
+			Eyob Begashaw Ayele
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Debre Brhan/Ethiopia</td>
+		<td>1521</td>
+		<td>1521</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/YonasGr">
+				<img src="https://avatars.githubusercontent.com/u/139625821?s=72&u=5a51b2a7d1afe2e04293e6700e320f2fe771fbda&v=4" width="24" alt="Avatar of YonasGr"> YonasGr
+			</a><br/>
+			Yonas Girma
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yonasggr">yonasggr</a></td>
+		<td>Harar, Ethiopia</td>
+		<td>406</td>
+		<td>1521</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/jabezinu">
+				<img src="https://avatars.githubusercontent.com/u/189609981?s=72&u=9b6863b57c94ff7eb09cc00a419b80ac5f6bcefd&v=4" width="24" alt="Avatar of jabezinu"> jabezinu
+			</a><br/>
+			Yab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>552</td>
+		<td>1519</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/balewgize">
+				<img src="https://avatars.githubusercontent.com/u/60035452?s=72&u=04bdc037bb73808cb2bc73b43148aca970a46eab&v=4" width="24" alt="Avatar of balewgize"> balewgize
+			</a><br/>
+			Alemnew Marie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>276</td>
+		<td>1518</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/tewodros-m">
+				<img src="https://avatars.githubusercontent.com/u/117937212?s=72&u=981892668521a9131b8da727e38cd57003e6cb42&v=4" width="24" alt="Avatar of tewodros-m"> tewodros-m
+			</a><br/>
+			Tewodros
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>35</td>
+		<td>1516</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/mikilezen">
+				<img src="https://avatars.githubusercontent.com/u/87323234?s=72&u=67fd07e2e25ac99428ed2d4a646b58226d9844c3&v=4" width="24" alt="Avatar of mikilezen"> mikilezen
+			</a><br/>
+			Mikiyas Zenebe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>726</td>
+		<td>1511</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/isakhu">
+				<img src="https://avatars.githubusercontent.com/u/201251296?s=72&u=030bee85a6602e5515e5ace2d1b9ef29cf80b754&v=4" width="24" alt="Avatar of isakhu"> isakhu
+			</a><br/>
+			Yishak Tule
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>1503</td>
+		<td>1504</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/natnaelesk">
+				<img src="https://avatars.githubusercontent.com/u/136860387?s=72&u=5a5f1ec704cb835d4c99fa16f2ac53b6a7b482c6&v=4" width="24" alt="Avatar of natnaelesk"> natnaelesk
+			</a><br/>
+			Natnael Eskinder
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>254</td>
+		<td>1496</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/yohannescodes">
+				<img src="https://avatars.githubusercontent.com/u/58071246?s=72&u=0fa76852066ccb6ddf283a5c5b9cbe3e8b959bf4&v=4" width="24" alt="Avatar of yohannescodes"> yohannescodes
+			</a><br/>
+			Yohannes Haile
+		</td>
+		<td>@onedegree-labs </td>
+		<td><a href="https://twitter.com/IBYohannes">IBYohannes</a></td>
+		<td>Addis Ababa</td>
+		<td>200</td>
+		<td>1495</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/AnexDev1">
+				<img src="https://avatars.githubusercontent.com/u/92826091?s=72&u=c1a49064ae909e595f9e4a50913706812d0d78e5&v=4" width="24" alt="Avatar of AnexDev1"> AnexDev1
+			</a><br/>
+			Anwar Nasir
+		</td>
+		<td>Skylink </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>267</td>
+		<td>1486</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/yab3ts">
+				<img src="https://avatars.githubusercontent.com/u/149154528?s=72&u=71bb82af414dcab1b484615def6e7abf5bf5757a&v=4" width="24" alt="Avatar of yab3ts"> yab3ts
+			</a><br/>
+			Yabets Maregn 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>841</td>
+		<td>1483</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/kalu-c">
+				<img src="https://avatars.githubusercontent.com/u/155809658?s=72&u=67ac0c240de352b338435f5542f587249675c6bf&v=4" width="24" alt="Avatar of kalu-c"> kalu-c
+			</a><br/>
+			Endekalu Zemenu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>129</td>
+		<td>1478</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/Robaplus75">
+				<img src="https://avatars.githubusercontent.com/u/98416443?s=72&v=4" width="24" alt="Avatar of Robaplus75"> Robaplus75
+			</a><br/>
+			Robel Wondimu
+		</td>
+		<td>@medrafaet  </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>61</td>
+		<td>1477</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/BisRyy">
+				<img src="https://avatars.githubusercontent.com/u/87482476?s=72&u=9e89ca8c23b00290da8d5fd8c03b82ca25356855&v=4" width="24" alt="Avatar of BisRyy"> BisRyy
+			</a><br/>
+			Bisrat Kebere
+		</td>
+		<td>@innovatefusion </td>
+		<td><a href="https://twitter.com/BisRyyy">BisRyyy</a></td>
+		<td>Ethiopia</td>
+		<td>47</td>
+		<td>1476</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/yaba101">
+				<img src="https://avatars.githubusercontent.com/u/63213576?s=72&u=17fd0fa38730c068b4cbf9f1fa622c0ba7364167&v=4" width="24" alt="Avatar of yaba101"> yaba101
+			</a><br/>
+			Yeabsira Mekuria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>164</td>
+		<td>1475</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -3098,25 +3098,81 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yonathandejene">yonathandejene</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>246</td>
-		<td>1383</td>
+		<td>202</td>
+		<td>1474</td>
 	</tr>
 	<tr>
 		<td>215</td>
 		<td>
-			<a href="https://github.com/Benawi">
-				<img src="https://avatars.githubusercontent.com/u/21217148?s=72&u=292933e6f3465781f0d52b86f5c4d0a67daad07b&v=4" width="24" alt="Avatar of Benawi"> Benawi
+			<a href="https://github.com/yohannes-wegayehu">
+				<img src="https://avatars.githubusercontent.com/u/206997736?s=72&u=8efcdaf6a2ecd11e48fe78aede74219d57ef8767&v=4" width="24" alt="Avatar of yohannes-wegayehu"> yohannes-wegayehu
 			</a><br/>
-			Habtamu (ቤናዊ)  Alemayehu
+			Yohannes Wegayehu
 		</td>
-		<td>Lois Smart It Solutions<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>1314</td>
-		<td>1380</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yohannes_dev">yohannes_dev</a></td>
+		<td>Debre Berhan , Amhara region, Ethiopia</td>
+		<td>636</td>
+		<td>1471</td>
 	</tr>
 	<tr>
 		<td>216</td>
+		<td>
+			<a href="https://github.com/nathanaelcheramlak">
+				<img src="https://avatars.githubusercontent.com/u/124700160?s=72&u=6d3bf508312f998cbbf564552e5aa846bd9c6b11&v=4" width="24" alt="Avatar of nathanaelcheramlak"> nathanaelcheramlak
+			</a><br/>
+			Nathanael Cheramlak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia.</td>
+		<td>539</td>
+		<td>1470</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/daveragos">
+				<img src="https://avatars.githubusercontent.com/u/96292329?s=72&u=476e6ff6f7a8027dfb263658ec245fe2442bf860&v=4" width="24" alt="Avatar of daveragos"> daveragos
+			</a><br/>
+			Dawit Beyene
+		</td>
+		<td>Ragoose </td>
+		<td><a href="https://twitter.com/dave_ragos">dave_ragos</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>746</td>
+		<td>1469</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/yofabr">
+				<img src="https://avatars.githubusercontent.com/u/169093816?s=72&u=c50e76230216f5f7a0ff8e4d78e587d4c9c41f66&v=4" width="24" alt="Avatar of yofabr"> yofabr
+			</a><br/>
+			Yoftahe Abraham
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yofabr_">yofabr_</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1047</td>
+		<td>1464</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/Kumilachew-g">
+				<img src="https://avatars.githubusercontent.com/u/65109017?s=72&u=9fae08daa576ea417b37256aa180d3dad5687585&v=4" width="24" alt="Avatar of Kumilachew-g"> Kumilachew-g
+			</a><br/>
+			Kumilachew Getie
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/Getie_Haddis">Getie_Haddis</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>12</td>
+		<td>1462</td>
+	</tr>
+	<tr>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/eziraa">
 				<img src="https://avatars.githubusercontent.com/u/109516808?s=72&u=9d79f53d65b44b924976c06ea93e974a0104a20d&v=4" width="24" alt="Avatar of eziraa"> eziraa
@@ -3126,106 +3182,50 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bahir Dar, Ethiopia</td>
-		<td>110</td>
-		<td>1378</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/mntc3434">
-				<img src="https://avatars.githubusercontent.com/u/148215622?s=72&u=91021e467b23399e0e9ea96bef489a203db8c935&v=4" width="24" alt="Avatar of mntc3434"> mntc3434
-			</a><br/>
-			Mintesinot getu
-		</td>
-		<td>👨‍💻personal Developer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1314</td>
-		<td>1371</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/J0na555">
-				<img src="https://avatars.githubusercontent.com/u/196735486?s=72&u=d4ba087000a4e0e55110298d42d836de258ac5b8&v=4" width="24" alt="Avatar of J0na555"> J0na555
-			</a><br/>
-			Yonas 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JinxedJonass">JinxedJonass</a></td>
-		<td>Ethiopia</td>
-		<td>949</td>
-		<td>1368</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/temesgen-982">
-				<img src="https://avatars.githubusercontent.com/u/146086384?s=72&u=e350a02289d766f7c16027ab951b47d7c5e781f7&v=4" width="24" alt="Avatar of temesgen-982"> temesgen-982
-			</a><br/>
-			Temesgen Adane
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>521</td>
-		<td>1365</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/cherab19">
-				<img src="https://avatars.githubusercontent.com/u/163351078?s=72&u=44bd3a8c946b5a02beeb8a97e5e39211652034a8&v=4" width="24" alt="Avatar of cherab19"> cherab19
-			</a><br/>
-			Cherenet Degefe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>DIRE DAWA,ETHIOPIA</td>
-		<td>869</td>
-		<td>1363</td>
+		<td>136</td>
+		<td>1460</td>
 	</tr>
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/HaileabT">
-				<img src="https://avatars.githubusercontent.com/u/99401380?s=72&u=01c52a5e726399119e9b79631ef8e680bfd5f33d&v=4" width="24" alt="Avatar of HaileabT"> HaileabT
+			<a href="https://github.com/yinebebt">
+				<img src="https://avatars.githubusercontent.com/u/84726535?s=72&u=060f5cb5fbc94b234a78a04787b1638e571bd9e2&v=4" width="24" alt="Avatar of yinebebt"> yinebebt
 			</a><br/>
-			Haileab Tesfaye
+			Yinebeb Tariku
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>271</td>
-		<td>1363</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>176</td>
+		<td>1443</td>
 	</tr>
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/Addisu87">
-				<img src="https://avatars.githubusercontent.com/u/85212711?s=72&u=b5f9badae0769e60e74c01e2c51d47ac2e63ed4c&v=4" width="24" alt="Avatar of Addisu87"> Addisu87
+			<a href="https://github.com/pilanop">
+				<img src="https://avatars.githubusercontent.com/u/86802058?s=72&u=a3ebe252d21a0a885f277d5ec27a8ae166998da8&v=4" width="24" alt="Avatar of pilanop"> pilanop
 			</a><br/>
-			Addisu
+			Khalid
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AddisuTedla">AddisuTedla</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>167</td>
-		<td>1362</td>
+		<td>Enchanted Technologies </td>
+		<td><a href="https://twitter.com/Pilanop_">Pilanop_</a></td>
+		<td>Ethiopia</td>
+		<td>16</td>
+		<td>1443</td>
 	</tr>
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/Robaplus75">
-				<img src="https://avatars.githubusercontent.com/u/98416443?s=72&v=4" width="24" alt="Avatar of Robaplus75"> Robaplus75
+			<a href="https://github.com/mikiyas-girma">
+				<img src="https://avatars.githubusercontent.com/u/101556775?s=72&u=da75197b14ec4a72a842c3454ca96f312b622a7c&v=4" width="24" alt="Avatar of mikiyas-girma"> mikiyas-girma
 			</a><br/>
-			Robel Wondimu
+			Mikiyas Girma
 		</td>
-		<td>@medrafaet  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>59</td>
-		<td>1354</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>1437</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -3239,122 +3239,66 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
 		<td>727</td>
-		<td>1352</td>
+		<td>1437</td>
 	</tr>
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/yohannes-wegayehu">
-				<img src="https://avatars.githubusercontent.com/u/206997736?s=72&u=8efcdaf6a2ecd11e48fe78aede74219d57ef8767&v=4" width="24" alt="Avatar of yohannes-wegayehu"> yohannes-wegayehu
+			<a href="https://github.com/yaredow">
+				<img src="https://avatars.githubusercontent.com/u/87979010?s=72&u=ae5cbc0b795afbc7227070b49d10df0e62cc7da8&v=4" width="24" alt="Avatar of yaredow"> yaredow
 			</a><br/>
-			Yohannes Wegayehu
+			Yared Yilma
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yohannes_dev">yohannes_dev</a></td>
-		<td>Debre Berhan , Amhara region, Ethiopia</td>
-		<td>644</td>
-		<td>1351</td>
+		<td>Decentral Technologies </td>
+		<td><a href="https://twitter.com/yaredow">yaredow</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>465</td>
+		<td>1431</td>
 	</tr>
 	<tr>
 		<td>226</td>
 		<td>
-			<a href="https://github.com/buka-pitch">
-				<img src="https://avatars.githubusercontent.com/u/70853164?s=72&u=b31a0fbc4073604b1d2ee300a1f4a82b164970e4&v=4" width="24" alt="Avatar of buka-pitch"> buka-pitch
+			<a href="https://github.com/cherab19">
+				<img src="https://avatars.githubusercontent.com/u/163351078?s=72&u=44bd3a8c946b5a02beeb8a97e5e39211652034a8&v=4" width="24" alt="Avatar of cherab19"> cherab19
 			</a><br/>
-			Biruk yonas (Buka_pitch)
+			Cherenet Degefe
 		</td>
-		<td>@niletech-it-solutio @epicgames @etprogs <br/></td>
-		<td><a href="https://twitter.com/Buka_Pitch">Buka_Pitch</a></td>
-		<td>Ethiopia</td>
-		<td>89</td>
-		<td>1349</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>DIRE DAWA,ETHIOPIA</td>
+		<td>688</td>
+		<td>1425</td>
 	</tr>
 	<tr>
 		<td>227</td>
 		<td>
-			<a href="https://github.com/Joshz-090">
-				<img src="https://avatars.githubusercontent.com/u/198375774?s=72&u=f0a7702f9897f0735ad7a241cbcf6b838a515084&v=4" width="24" alt="Avatar of Joshz-090"> Joshz-090
+			<a href="https://github.com/halleygz">
+				<img src="https://avatars.githubusercontent.com/u/98106633?s=72&u=3cfe8455093e6a8984517bc87c81bd49aca365f6&v=4" width="24" alt="Avatar of halleygz"> halleygz
 			</a><br/>
-			Eyasu Zerihun Asma
+			Halleluya Mulugeta
 		</td>
-		<td>Zemen Tech </td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>264</td>
-		<td>1347</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Halle_Mulugeta">Halle_Mulugeta</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>852</td>
+		<td>1420</td>
 	</tr>
 	<tr>
 		<td>228</td>
 		<td>
-			<a href="https://github.com/Heiliger4">
-				<img src="https://avatars.githubusercontent.com/u/137763215?s=72&u=a4158eb30a0324e943ed0095cb7e8d350b9af043&v=4" width="24" alt="Avatar of Heiliger4"> Heiliger4
+			<a href="https://github.com/fitsumm12">
+				<img src="https://avatars.githubusercontent.com/u/58865020?s=72&u=701f674f279edb2e3d8c6822ffc86af0af51352f&v=4" width="24" alt="Avatar of fitsumm12"> fitsumm12
 			</a><br/>
-			Heiliger
+			Fitsum Mesfin
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KPG4404">KPG4404</a></td>
+		<td>Finova Software Plc. </td>
+		<td><a href="https://twitter.com/FitsumMD">FitsumMD</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>328</td>
-		<td>1340</td>
+		<td>29</td>
+		<td>1417</td>
 	</tr>
 	<tr>
 		<td>229</td>
-		<td>
-			<a href="https://github.com/Abelmekonn">
-				<img src="https://avatars.githubusercontent.com/u/123172904?s=72&u=8ccb8ab37f38153735fe7d525ade2f4dfae4bcb8&v=4" width="24" alt="Avatar of Abelmekonn"> Abelmekonn
-			</a><br/>
-			Abel mekonn
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia,Adama</td>
-		<td>15</td>
-		<td>1335</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/tewodros-m">
-				<img src="https://avatars.githubusercontent.com/u/117937212?s=72&u=981892668521a9131b8da727e38cd57003e6cb42&v=4" width="24" alt="Avatar of tewodros-m"> tewodros-m
-			</a><br/>
-			Tewodros
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>35</td>
-		<td>1333</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/BisRyy">
-				<img src="https://avatars.githubusercontent.com/u/87482476?s=72&u=9e89ca8c23b00290da8d5fd8c03b82ca25356855&v=4" width="24" alt="Avatar of BisRyy"> BisRyy
-			</a><br/>
-			Bisrat Kebere
-		</td>
-		<td>@innovatefusion </td>
-		<td><a href="https://twitter.com/BisRyyy">BisRyyy</a></td>
-		<td>Ethiopia</td>
-		<td>47</td>
-		<td>1328</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/demirewu-manidefro">
-				<img src="https://avatars.githubusercontent.com/u/187315312?s=72&u=7ddc66b53f9aa0c304fd98d89046086e2af7f0b4&v=4" width="24" alt="Avatar of demirewu-manidefro"> demirewu-manidefro
-			</a><br/>
-			Demirewu Manidefro
-		</td>
-		<td>Self-learner / Student </td>
-		<td>No Twitter Username</td>
-		<td>Debrebrhan, Ethiopia</td>
-		<td>1261</td>
-		<td>1321</td>
-	</tr>
-	<tr>
-		<td>233</td>
 		<td>
 			<a href="https://github.com/MubarekAdem">
 				<img src="https://avatars.githubusercontent.com/u/156066237?s=72&u=52b2e0028ed76e2baab062ceb8ef171c8079497d&v=4" width="24" alt="Avatar of MubarekAdem"> MubarekAdem
@@ -3364,137 +3308,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Dal </td>
 		<td><a href="https://twitter.com/Beatus_Ad">Beatus_Ad</a></td>
 		<td>Addis Ababa , Ethiopia</td>
-		<td>169</td>
-		<td>1311</td>
+		<td>146</td>
+		<td>1398</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>230</td>
 		<td>
-			<a href="https://github.com/Nathanim1919">
-				<img src="https://avatars.githubusercontent.com/u/106013719?s=72&u=93060c3dc34498f1e6969f495a7454c064081198&v=4" width="24" alt="Avatar of Nathanim1919"> Nathanim1919
+			<a href="https://github.com/J0na555">
+				<img src="https://avatars.githubusercontent.com/u/196735486?s=72&u=d4ba087000a4e0e55110298d42d836de258ac5b8&v=4" width="24" alt="Avatar of J0na555"> J0na555
 			</a><br/>
-			Nathanim
+			Yonas 
 		</td>
-		<td>Dreamerspace </td>
-		<td>No Twitter Username</td>
-		<td>Addis ababa, ethiopia</td>
-		<td>380</td>
-		<td>1303</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/pilanop">
-				<img src="https://avatars.githubusercontent.com/u/86802058?s=72&u=a3ebe252d21a0a885f277d5ec27a8ae166998da8&v=4" width="24" alt="Avatar of pilanop"> pilanop
-			</a><br/>
-			Khalid
-		</td>
-		<td>Enchanted Technologies </td>
-		<td><a href="https://twitter.com/Pilanop_">Pilanop_</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JinxedJonass">JinxedJonass</a></td>
 		<td>Ethiopia</td>
-		<td>16</td>
-		<td>1299</td>
+		<td>985</td>
+		<td>1397</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>231</td>
 		<td>
-			<a href="https://github.com/mikiyas-girma">
-				<img src="https://avatars.githubusercontent.com/u/101556775?s=72&u=4364bc8c4037e848eda8c8126ac8ec7ffd60c33e&v=4" width="24" alt="Avatar of mikiyas-girma"> mikiyas-girma
+			<a href="https://github.com/abudi47">
+				<img src="https://avatars.githubusercontent.com/u/136098639?s=72&u=2b1faeee42c13734499b3f06e17c0d297d92cd28&v=4" width="24" alt="Avatar of abudi47"> abudi47
 			</a><br/>
-			Mikiyas Girma
+			Abduselam Tesfaye
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>77</td>
-		<td>1277</td>
+		<td>Addis ababa ,Ethiopia</td>
+		<td>449</td>
+		<td>1384</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>232</td>
 		<td>
-			<a href="https://github.com/BashirMohamedAli">
-				<img src="https://avatars.githubusercontent.com/u/62313798?s=72&u=56b372e6436457fa4ece33430ab8f983739abc24&v=4" width="24" alt="Avatar of BashirMohamedAli"> BashirMohamedAli
+			<a href="https://github.com/BemnetMussa">
+				<img src="https://avatars.githubusercontent.com/u/117770007?s=72&u=2830c03288bdc0c0df700cf4490db64dd14e4a14&v=4" width="24" alt="Avatar of BemnetMussa"> BemnetMussa
 			</a><br/>
-			Bashir Mohamed Ali
-		</td>
-		<td>Enterx </td>
-		<td><a href="https://twitter.com/mrbashirx">mrbashirx</a></td>
-		<td>jijiga, Somali, Ethiopia</td>
-		<td>45</td>
-		<td>1274</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/ephremdeme">
-				<img src="https://avatars.githubusercontent.com/u/38384199?s=72&u=d9f3257f1f6e88805aa5dbe0974a3e8c215a766a&v=4" width="24" alt="Avatar of ephremdeme"> ephremdeme
-			</a><br/>
-			Ephrem Demelash
-		</td>
-		<td>Box Exchanger </td>
-		<td><a href="https://twitter.com/demelash_ephrem">demelash_ephrem</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>59</td>
-		<td>1273</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/esti08-hu">
-				<img src="https://avatars.githubusercontent.com/u/98952769?s=72&u=a72b5000449c5f4c5807cdb11ceb41133d9e3568&v=4" width="24" alt="Avatar of esti08-hu"> esti08-hu
-			</a><br/>
-			Estifanos A.
-		</td>
-		<td>404 </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>1272</td>
-		<td>1272</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/nathenapse">
-				<img src="https://avatars.githubusercontent.com/u/6860642?s=72&u=5ce75335ee31ef358c89c480c1e15900e65a16ba&v=4" width="24" alt="Avatar of nathenapse"> nathenapse
-			</a><br/>
-			nathenapse
+			Bemnet Mussa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa , Ethiopia</td>
-		<td>4</td>
-		<td>1254</td>
+		<td>Ethiopia</td>
+		<td>858</td>
+		<td>1371</td>
 	</tr>
 	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/Manuel-heav">
-				<img src="https://avatars.githubusercontent.com/u/66178225?s=72&v=4" width="24" alt="Avatar of Manuel-heav"> Manuel-heav
-			</a><br/>
-			Amanuael Kebede
-		</td>
-		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
-		<td><a href="https://twitter.com/the_blogrammer">the_blogrammer</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>44</td>
-		<td>1250</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/1eyob">
-				<img src="https://avatars.githubusercontent.com/u/44950199?s=72&u=e68537e43ab77dd404bbf51bbfd41295c9158b19&v=4" width="24" alt="Avatar of 1eyob"> 1eyob
-			</a><br/>
-			Eyob Birhanu
-		</td>
-		<td>Stealth Startup </td>
-		<td><a href="https://twitter.com/Eyoba28">Eyoba28</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>12</td>
-		<td>1247</td>
-	</tr>
-	<tr>
-		<td>243</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/mntedev">
 				<img src="https://avatars.githubusercontent.com/u/66208963?s=72&u=7e9e891b55c0ef23211b21c496b92c6a69df471d&v=4" width="24" alt="Avatar of mntedev"> mntedev
@@ -3505,10 +3365,108 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>10</td>
-		<td>1245</td>
+		<td>1366</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/AbenezerAtnafu">
+				<img src="https://avatars.githubusercontent.com/u/61490595?s=72&v=4" width="24" alt="Avatar of AbenezerAtnafu"> AbenezerAtnafu
+			</a><br/>
+			Abenezer Atnafu
+		</td>
+		<td>Eshi Digital </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>336</td>
+		<td>1362</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/YonAndualem">
+				<img src="https://avatars.githubusercontent.com/u/104837049?s=72&v=4" width="24" alt="Avatar of YonAndualem"> YonAndualem
+			</a><br/>
+			Yonas Berhanu Andualem 
+		</td>
+		<td>@izzy-bingo  </td>
+		<td><a href="https://twitter.com/YonAndualem">YonAndualem</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>243</td>
+		<td>1338</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/Joshz-090">
+				<img src="https://avatars.githubusercontent.com/u/198375774?s=72&u=f0a7702f9897f0735ad7a241cbcf6b838a515084&v=4" width="24" alt="Avatar of Joshz-090"> Joshz-090
+			</a><br/>
+			Eyasu Zerihun Asma
+		</td>
+		<td>Zemen Tech </td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>262</td>
+		<td>1330</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/Nathanim1919">
+				<img src="https://avatars.githubusercontent.com/u/106013719?s=72&u=93060c3dc34498f1e6969f495a7454c064081198&v=4" width="24" alt="Avatar of Nathanim1919"> Nathanim1919
+			</a><br/>
+			Nathanim
+		</td>
+		<td>Dreamerspace </td>
+		<td>No Twitter Username</td>
+		<td>Addis ababa, ethiopia</td>
+		<td>357</td>
+		<td>1330</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/Jeyididya">
+				<img src="https://avatars.githubusercontent.com/u/39322936?s=72&u=0f845a86184da1c96162a433673d6fdfc93e8bf7&v=4" width="24" alt="Avatar of Jeyididya"> Jeyididya
+			</a><br/>
+			Yididya andualem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia </td>
+		<td>45</td>
+		<td>1328</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/YohannesTz">
+				<img src="https://avatars.githubusercontent.com/u/52599607?s=72&u=483a9fbec1d1c48d89b1e3a9919a0933de85fa6a&v=4" width="24" alt="Avatar of YohannesTz"> YohannesTz
+			</a><br/>
+			Yohannes Tezera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>126</td>
+		<td>1327</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/yonana-sahile">
+				<img src="https://avatars.githubusercontent.com/u/196822720?s=72&u=6f7c22341af9231c231705d5cb833e7edf163f23&v=4" width="24" alt="Avatar of yonana-sahile"> yonana-sahile
+			</a><br/>
+			Yonas Sahile
+		</td>
+		<td>Freelance / Open To<br/>Opportunities<br/></td>
+		<td><a href="https://twitter.com/sahile_yon2056">sahile_yon2056</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>771</td>
+		<td>1325</td>
+	</tr>
+	<tr>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/Henok-Belachew">
 				<img src="https://avatars.githubusercontent.com/u/102800600?s=72&u=741e0372096aacf22dbae18adda97bfbdf81996a&v=4" width="24" alt="Avatar of Henok-Belachew"> Henok-Belachew
@@ -3519,24 +3477,38 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/Welde_Tsadik">Welde_Tsadik</a></td>
 		<td>Addis Ababa, Ethiopia </td>
 		<td>5</td>
-		<td>1242</td>
+		<td>1324</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>242</td>
 		<td>
-			<a href="https://github.com/b1n1yam">
-				<img src="https://avatars.githubusercontent.com/u/44252898?s=72&u=c47fe2623edab99a5a1883ba00eb48a28412f5db&v=4" width="24" alt="Avatar of b1n1yam"> b1n1yam
+			<a href="https://github.com/Beki78">
+				<img src="https://avatars.githubusercontent.com/u/146061009?s=72&u=0963792f3d307cad35ac8bc2e06502fb9c858f91&v=4" width="24" alt="Avatar of Beki78"> Beki78
 			</a><br/>
-			Biniyam Daniel
+			Bereket Getachew
 		</td>
-		<td>@addis-ai-org  </td>
-		<td><a href="https://twitter.com/b1n1yam">b1n1yam</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>58</td>
-		<td>1241</td>
+		<td>Ethio Dev </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>3</td>
+		<td>1317</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/freab">
+				<img src="https://avatars.githubusercontent.com/u/128427313?s=72&u=7b4d58c495fce14154494acc64456a60e8ffb1b4&v=4" width="24" alt="Avatar of freab"> freab
+			</a><br/>
+			freab mesfin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FreabM">FreabM</a></td>
+		<td>Ethiopia</td>
+		<td>84</td>
+		<td>1310</td>
+	</tr>
+	<tr>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/millionsime">
 				<img src="https://avatars.githubusercontent.com/u/29772958?s=72&u=9470fc8121dd10fb54081c33d53cdbf36b70fcf7&v=4" width="24" alt="Avatar of millionsime"> millionsime
@@ -3546,53 +3518,207 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Ofin Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Bale, Robe, Ethiopia</td>
-		<td>14</td>
-		<td>1240</td>
+		<td>44</td>
+		<td>1310</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/buka-pitch">
+				<img src="https://avatars.githubusercontent.com/u/70853164?s=72&u=b31a0fbc4073604b1d2ee300a1f4a82b164970e4&v=4" width="24" alt="Avatar of buka-pitch"> buka-pitch
+			</a><br/>
+			Biruk yonas (Buka_pitch)
+		</td>
+		<td>@niletech-it-solutio @epicgames @etprogs <br/></td>
+		<td><a href="https://twitter.com/Buka_Pitch">Buka_Pitch</a></td>
+		<td>Ethiopia</td>
+		<td>89</td>
+		<td>1308</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/aelaf-git">
+				<img src="https://avatars.githubusercontent.com/u/200469519?s=72&u=5d1e40de78b5a7e1e14ceebb2f1cf751dadc1d28&v=4" width="24" alt="Avatar of aelaf-git"> aelaf-git
+			</a><br/>
+			Aelaf Eskindir Abebe
+		</td>
+		<td>Cognilance </td>
+		<td><a href="https://twitter.com/aelaf_the_great">aelaf_the_great</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>922</td>
+		<td>1300</td>
 	</tr>
 	<tr>
 		<td>247</td>
 		<td>
-			<a href="https://github.com/theShinigami">
-				<img src="https://avatars.githubusercontent.com/u/56839725?s=72&u=8073c6e48d284d86fd79e552a9074f5ab6b77db2&v=4" width="24" alt="Avatar of theShinigami"> theShinigami
+			<a href="https://github.com/BytePhilosopher">
+				<img src="https://avatars.githubusercontent.com/u/204242121?s=72&u=89ce60c21a7afd64779de5637a7efdc96c6e1a43&v=4" width="24" alt="Avatar of BytePhilosopher"> BytePhilosopher
 			</a><br/>
-			Sal
+			Yostina Abera Gobie
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>162</td>
-		<td>1239</td>
+		<td>1114</td>
+		<td>1292</td>
 	</tr>
 	<tr>
 		<td>248</td>
 		<td>
-			<a href="https://github.com/Abdesol">
-				<img src="https://avatars.githubusercontent.com/u/69455299?s=72&u=f98c43e7c9a3d4905516986221e4493e363a1951&v=4" width="24" alt="Avatar of Abdesol"> Abdesol
+			<a href="https://github.com/Addisu87">
+				<img src="https://avatars.githubusercontent.com/u/85212711?s=72&u=b5f9badae0769e60e74c01e2c51d47ac2e63ed4c&v=4" width="24" alt="Avatar of Addisu87"> Addisu87
 			</a><br/>
-			Abdella Solomon
+			Addisu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AbdellaSolomon">AbdellaSolomon</a></td>
+		<td><a href="https://twitter.com/AddisuTedla">AddisuTedla</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>123</td>
-		<td>1235</td>
+		<td>160</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>249</td>
 		<td>
-			<a href="https://github.com/bealugirma23">
-				<img src="https://avatars.githubusercontent.com/u/100837992?s=72&u=f6fbf891819436ce65ff8fd278898cbda45c1e06&v=4" width="24" alt="Avatar of bealugirma23"> bealugirma23
+			<a href="https://github.com/Benawi">
+				<img src="https://avatars.githubusercontent.com/u/21217148?s=72&u=292933e6f3465781f0d52b86f5c4d0a67daad07b&v=4" width="24" alt="Avatar of Benawi"> Benawi
 			</a><br/>
-			Bealu Girma
+			Habtamu (ቤናዊ)  Alemayehu
 		</td>
-		<td>One Planet  </td>
-		<td><a href="https://twitter.com/bealugirma23">bealugirma23</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>94</td>
-		<td>1228</td>
+		<td>Lois Smart It Solutions<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>1208</td>
+		<td>1285</td>
 	</tr>
 	<tr>
 		<td>250</td>
+		<td>
+			<a href="https://github.com/wubeZ">
+				<img src="https://avatars.githubusercontent.com/u/85889061?s=72&u=bad37e9c0b986769b712c15014eaa2a8741eabfe&v=4" width="24" alt="Avatar of wubeZ"> wubeZ
+			</a><br/>
+			Wubshet Zeleke
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wube_Z">wube_Z</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>1275</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/yadi09">
+				<img src="https://avatars.githubusercontent.com/u/140100340?s=72&u=449b0b4eaaf2678a663d75bdd54e481e09b96378&v=4" width="24" alt="Avatar of yadi09"> yadi09
+			</a><br/>
+			Yadamzer Terefe
+		</td>
+		<td>Ethiopia </td>
+		<td><a href="https://twitter.com/Yadii0988">Yadii0988</a></td>
+		<td>addis ababa</td>
+		<td>128</td>
+		<td>1267</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/dagimg-dot">
+				<img src="https://avatars.githubusercontent.com/u/106905365?s=72&u=6615e5805c166c4390e3f19adeb157bcf568873f&v=4" width="24" alt="Avatar of dagimg-dot"> dagimg-dot
+			</a><br/>
+			Dagim G. Astatkie
+		</td>
+		<td>Klik </td>
+		<td><a href="https://twitter.com/dagimg_dot">dagimg_dot</a></td>
+		<td>Addis Ababa, Ethiopiia</td>
+		<td>802</td>
+		<td>1264</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/zmekonnen251">
+				<img src="https://avatars.githubusercontent.com/u/92645881?s=72&u=45bc4e6581d17c32c4d115dbf54d486ca198b27d&v=4" width="24" alt="Avatar of zmekonnen251"> zmekonnen251
+			</a><br/>
+			Zelalem Mekonnen
+		</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/mek_zela">mek_zela</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>1264</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/SegniDessalegn">
+				<img src="https://avatars.githubusercontent.com/u/96206349?s=72&u=f57318290405cbd3fdff38bf5e64c52cf83f9036&v=4" width="24" alt="Avatar of SegniDessalegn"> SegniDessalegn
+			</a><br/>
+			Segni
+		</td>
+		<td>Draftbit </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>83</td>
+		<td>1256</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/nathenapse">
+				<img src="https://avatars.githubusercontent.com/u/6860642?s=72&u=5ce75335ee31ef358c89c480c1e15900e65a16ba&v=4" width="24" alt="Avatar of nathenapse"> nathenapse
+			</a><br/>
+			nathenapse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>4</td>
+		<td>1251</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/abel-cosmic">
+				<img src="https://avatars.githubusercontent.com/u/119308986?s=72&u=985c98311ff626d7caec7cbd4dbf242c34c55a04&v=4" width="24" alt="Avatar of abel-cosmic"> abel-cosmic
+			</a><br/>
+			Abel Shibabaw
+		</td>
+		<td>Trident Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>51</td>
+		<td>1248</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/temesgen-982">
+				<img src="https://avatars.githubusercontent.com/u/146086384?s=72&u=e350a02289d766f7c16027ab951b47d7c5e781f7&v=4" width="24" alt="Avatar of temesgen-982"> temesgen-982
+			</a><br/>
+			Temesgen Adane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>455</td>
+		<td>1235</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/ALPHACOD3RS">
+				<img src="https://avatars.githubusercontent.com/u/77591327?s=72&u=178da09f21aed1b42f372b0a99e5c9dd4bd45171&v=4" width="24" alt="Avatar of ALPHACOD3RS"> ALPHACOD3RS
+			</a><br/>
+			Naol Ketema
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ACod3r">ACod3r</a></td>
+		<td>Ethiopia</td>
+		<td>101</td>
+		<td>1231</td>
+	</tr>
+	<tr>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/birhanumoges">
 				<img src="https://avatars.githubusercontent.com/u/211559761?s=72&u=f0f63eedd999468dbf86c2ac1c43203eb73cf42e&v=4" width="24" alt="Avatar of birhanumoges"> birhanumoges
@@ -3606,315 +3732,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1227</td>
 	</tr>
 	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/nathanaelcheramlak">
-				<img src="https://avatars.githubusercontent.com/u/124700160?s=72&u=6d3bf508312f998cbbf564552e5aa846bd9c6b11&v=4" width="24" alt="Avatar of nathanaelcheramlak"> nathanaelcheramlak
-			</a><br/>
-			Nathanael Cheramlak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia.</td>
-		<td>533</td>
-		<td>1226</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/BytePhilosopher">
-				<img src="https://avatars.githubusercontent.com/u/204242121?s=72&u=89ce60c21a7afd64779de5637a7efdc96c6e1a43&v=4" width="24" alt="Avatar of BytePhilosopher"> BytePhilosopher
-			</a><br/>
-			Yostina Abera Gobie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1150</td>
-		<td>1224</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/freab">
-				<img src="https://avatars.githubusercontent.com/u/128427313?s=72&u=7b4d58c495fce14154494acc64456a60e8ffb1b4&v=4" width="24" alt="Avatar of freab"> freab
-			</a><br/>
-			freab mesfin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FreabM">FreabM</a></td>
-		<td>Ethiopia</td>
-		<td>10</td>
-		<td>1221</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/natnaelesk">
-				<img src="https://avatars.githubusercontent.com/u/136860387?s=72&u=5a5f1ec704cb835d4c99fa16f2ac53b6a7b482c6&v=4" width="24" alt="Avatar of natnaelesk"> natnaelesk
-			</a><br/>
-			Natnael Eskinder
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>210</td>
-		<td>1218</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/gosag">
-				<img src="https://avatars.githubusercontent.com/u/206127554?s=72&u=5c13c59db4667315e2753607b0c3bf349ddf0be8&v=4" width="24" alt="Avatar of gosag"> gosag
-			</a><br/>
-			Gosa Girma Ejersa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>926</td>
-		<td>1218</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/ake144">
-				<img src="https://avatars.githubusercontent.com/u/122739445?s=72&u=75e2479ad1102c2e7274dcffa5ae711a26eec5ce&v=4" width="24" alt="Avatar of ake144"> ake144
-			</a><br/>
-			Aklilu Tamirat 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AkeTamirat94397">AkeTamirat94397</a></td>
-		<td>Ethiopia</td>
-		<td>597</td>
-		<td>1201</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/YonAndualem">
-				<img src="https://avatars.githubusercontent.com/u/104837049?s=72&v=4" width="24" alt="Avatar of YonAndualem"> YonAndualem
-			</a><br/>
-			Yonas Berhanu Andualem 
-		</td>
-		<td>@izzy-bingo  </td>
-		<td><a href="https://twitter.com/YonAndualem">YonAndualem</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>143</td>
-		<td>1193</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/Eul45">
-				<img src="https://avatars.githubusercontent.com/u/176154715?s=72&u=9b10fcc252d96badaf303f0fa967c57a5ee428ca&v=4" width="24" alt="Avatar of Eul45"> Eul45
-			</a><br/>
-			Eyuel Engida
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>522</td>
-		<td>1189</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/Bahirumulugeta">
-				<img src="https://avatars.githubusercontent.com/u/57240268?s=72&u=93d281dc797a5f5a58da4970f2cd06d64dc01d48&v=4" width="24" alt="Avatar of Bahirumulugeta"> Bahirumulugeta
-			</a><br/>
-			Bahiru Mulugeta
-		</td>
-		<td>Seaice Technologies </td>
-		<td><a href="https://twitter.com/bahiru_mulugeta">bahiru_mulugeta</a></td>
-		<td>Addis Ababa</td>
-		<td>13</td>
-		<td>1188</td>
-	</tr>
-	<tr>
 		<td>260</td>
 		<td>
-			<a href="https://github.com/dawitterefe">
-				<img src="https://avatars.githubusercontent.com/u/118431181?s=72&u=6d718eed24eeda006bf469529902a2d520a2ddc1&v=4" width="24" alt="Avatar of dawitterefe"> dawitterefe
+			<a href="https://github.com/HaileabT">
+				<img src="https://avatars.githubusercontent.com/u/99401380?s=72&u=6e2fa79b867325a102f6ca22dec39bb428d05f32&v=4" width="24" alt="Avatar of HaileabT"> HaileabT
 			</a><br/>
-			Dawit Terefe
+			Haileab Tesfaye
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>50</td>
-		<td>1185</td>
+		<td>Addis Ababa</td>
+		<td>328</td>
+		<td>1222</td>
 	</tr>
 	<tr>
 		<td>261</td>
-		<td>
-			<a href="https://github.com/netcrawlerr">
-				<img src="https://avatars.githubusercontent.com/u/100708946?s=72&u=07a04c89705b56363796564ed7f64e89c2353c17&v=4" width="24" alt="Avatar of netcrawlerr"> netcrawlerr
-			</a><br/>
-			Mejid
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>198</td>
-		<td>1177</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/YohannesTz">
-				<img src="https://avatars.githubusercontent.com/u/52599607?s=72&u=483a9fbec1d1c48d89b1e3a9919a0933de85fa6a&v=4" width="24" alt="Avatar of YohannesTz"> YohannesTz
-			</a><br/>
-			Yohannes Tezera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>156</td>
-		<td>1171</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/Kumneger0">
-				<img src="https://avatars.githubusercontent.com/u/93655689?s=72&u=f8050490b11f767d53d48c467f68ee2ae6fdb255&v=4" width="24" alt="Avatar of Kumneger0"> Kumneger0
-			</a><br/>
-			kumneger Wondimu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kumneger0">kumneger0</a></td>
-		<td>Ethiopia Addis Abeba</td>
-		<td>1159</td>
-		<td>1159</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/abi556">
-				<img src="https://avatars.githubusercontent.com/u/134966562?s=72&u=0b7630541dca1a44b61ed31ad1f1e1b4f59d3c49&v=4" width="24" alt="Avatar of abi556"> abi556
-			</a><br/>
-			Abiy Hailu Getachew
-		</td>
-		<td>Addis Ababa University </td>
-		<td><a href="https://twitter.com/AbiyHailu16">AbiyHailu16</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>246</td>
-		<td>1153</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/destifo">
-				<img src="https://avatars.githubusercontent.com/u/77430541?s=72&u=1e7bc56b444df0e3c5ec9480ff7a75df8d34e33b&v=4" width="24" alt="Avatar of destifo"> destifo
-			</a><br/>
-			Estifanos Bireda
-		</td>
-		<td>Metatype.dev </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>13</td>
-		<td>1153</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/abel-cosmic">
-				<img src="https://avatars.githubusercontent.com/u/119308986?s=72&u=985c98311ff626d7caec7cbd4dbf242c34c55a04&v=4" width="24" alt="Avatar of abel-cosmic"> abel-cosmic
-			</a><br/>
-			Abel Shibabaw
-		</td>
-		<td>Trident Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>74</td>
-		<td>1148</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/kid-us">
-				<img src="https://avatars.githubusercontent.com/u/98009847?s=72&u=a5cf66c69f970821b51cc9996cf88d7fdeb8439f&v=4" width="24" alt="Avatar of kid-us"> kid-us
-			</a><br/>
-			Kidus
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/kidus_29">kidus_29</a></td>
-		<td>Ethiopia</td>
-		<td>152</td>
-		<td>1135</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/mfeti">
-				<img src="https://avatars.githubusercontent.com/u/105536586?s=72&u=306532615eb7d4baf3456f976689bcde0825dca5&v=4" width="24" alt="Avatar of mfeti"> mfeti
-			</a><br/>
-			Mohammed Ahmed
-		</td>
-		<td>**** </td>
-		<td><a href="https://twitter.com/ItFeti33726">ItFeti33726</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>231</td>
-		<td>1119</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a href="https://github.com/mike489">
-				<img src="https://avatars.githubusercontent.com/u/65677875?s=72&u=0ad437a223dbe040adf041224b7cce4b4d5757ab&v=4" width="24" alt="Avatar of mike489"> mike489
-			</a><br/>
-			Michael Tesfaye
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mike_tesfaye4">mike_tesfaye4</a></td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>117</td>
-		<td>1117</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/Yobil-Job">
-				<img src="https://avatars.githubusercontent.com/u/167990260?s=72&u=9b8ea64949f39e28f6c06b5e3e616a86d022209b&v=4" width="24" alt="Avatar of Yobil-Job"> Yobil-Job
-			</a><br/>
-			Eyob Weldetensay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>293</td>
-		<td>1114</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/Anicodeth">
-				<img src="https://avatars.githubusercontent.com/u/105945598?s=72&u=77cdfa42438f5bf100232ff8c14cb640deccb10a&v=4" width="24" alt="Avatar of Anicodeth"> Anicodeth
-			</a><br/>
-			Ananya Fekeremariam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>127</td>
-		<td>1112</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/aelaf-git">
-				<img src="https://avatars.githubusercontent.com/u/200469519?s=72&u=5d1e40de78b5a7e1e14ceebb2f1cf751dadc1d28&v=4" width="24" alt="Avatar of aelaf-git"> aelaf-git
-			</a><br/>
-			Aelaf Eskindir Abebe
-		</td>
-		<td>Cognilance </td>
-		<td><a href="https://twitter.com/aelaf_the_great">aelaf_the_great</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>698</td>
-		<td>1111</td>
-	</tr>
-	<tr>
-		<td>273</td>
 		<td>
 			<a href="https://github.com/biruk1122">
 				<img src="https://avatars.githubusercontent.com/u/97092282?s=72&u=e4af75239b6a64e600c282fc0924b9b4b1fe6eb3&v=4" width="24" alt="Avatar of biruk1122"> biruk1122
@@ -3924,347 +3756,207 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Abeba Ethiopia </td>
-		<td>341</td>
-		<td>1104</td>
+		<td>505</td>
+		<td>1221</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/Abelmekonn">
+				<img src="https://avatars.githubusercontent.com/u/123172904?s=72&u=8ccb8ab37f38153735fe7d525ade2f4dfae4bcb8&v=4" width="24" alt="Avatar of Abelmekonn"> Abelmekonn
+			</a><br/>
+			Abel mekonn
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia,Adama</td>
+		<td>13</td>
+		<td>1217</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/gosag">
+				<img src="https://avatars.githubusercontent.com/u/206127554?s=72&u=5c13c59db4667315e2753607b0c3bf349ddf0be8&v=4" width="24" alt="Avatar of gosag"> gosag
+			</a><br/>
+			Gosa Girma Ejersa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>924</td>
+		<td>1217</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/Simonbelete">
+				<img src="https://avatars.githubusercontent.com/u/26250117?s=72&v=4" width="24" alt="Avatar of Simonbelete"> Simonbelete
+			</a><br/>
+			Simon Belete
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/theShinigami">
+				<img src="https://avatars.githubusercontent.com/u/56839725?s=72&u=8073c6e48d284d86fd79e552a9074f5ab6b77db2&v=4" width="24" alt="Avatar of theShinigami"> theShinigami
+			</a><br/>
+			Sal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>167</td>
+		<td>1213</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/Kumneger0">
+				<img src="https://avatars.githubusercontent.com/u/93655689?s=72&u=f8050490b11f767d53d48c467f68ee2ae6fdb255&v=4" width="24" alt="Avatar of Kumneger0"> Kumneger0
+			</a><br/>
+			kumneger Wondimu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kumneger0">kumneger0</a></td>
+		<td>Ethiopia Addis Abeba</td>
+		<td>1211</td>
+		<td>1211</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/betselotT">
+				<img src="https://avatars.githubusercontent.com/u/99252072?s=72&u=4606b5c63af952d37598aafaf11162041b68f719&v=4" width="24" alt="Avatar of betselotT"> betselotT
+			</a><br/>
+			Betselot Tesfa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>858</td>
+		<td>1211</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/habte-selassie27">
+				<img src="https://avatars.githubusercontent.com/u/107303282?s=72&u=01820a4384ff97240af93f7d37bc49f5757ffd6b&v=4" width="24" alt="Avatar of habte-selassie27"> habte-selassie27
+			</a><br/>
+			Habte Selassie Fitsum 
+		</td>
+		<td>App Div </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1210</td>
+		<td>1210</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/yaya2127">
+				<img src="https://avatars.githubusercontent.com/u/173305762?s=72&u=23e5f88d720782a947caa6f3f3e7f29afb9e1d91&v=4" width="24" alt="Avatar of yaya2127"> yaya2127
+			</a><br/>
+			yared kinetibeb
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Yared_kin212">Yared_kin212</a></td>
+		<td>Ethiopia</td>
+		<td>724</td>
+		<td>1210</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/wendirad">
+				<img src="https://avatars.githubusercontent.com/u/53967346?s=72&u=caf6ee9c53f3d6c909e3272afcb2ad4e7ba2bc75&v=4" width="24" alt="Avatar of wendirad"> wendirad
+			</a><br/>
+			Wendirad Demelash
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wendiradD">wendiradD</a></td>
+		<td>Ethiopia, Adama</td>
+		<td>471</td>
+		<td>1208</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/Elish-Ab">
+				<img src="https://avatars.githubusercontent.com/u/116567028?s=72&u=99024a3db95a3f26a73170247d396db3fca1e5f4&v=4" width="24" alt="Avatar of Elish-Ab"> Elish-Ab
+			</a><br/>
+			Elisha Abriham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>42</td>
+		<td>1208</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/yeab-B">
+				<img src="https://avatars.githubusercontent.com/u/166545362?s=72&u=2784b3aac4c895b1581a5b0543e8e9da040bc753&v=4" width="24" alt="Avatar of yeab-B"> yeab-B
+			</a><br/>
+			Yeabsira Behailu
+		</td>
+		<td>Eliora's </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>312</td>
+		<td>1189</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/1eyob">
+				<img src="https://avatars.githubusercontent.com/u/44950199?s=72&u=e68537e43ab77dd404bbf51bbfd41295c9158b19&v=4" width="24" alt="Avatar of 1eyob"> 1eyob
+			</a><br/>
+			Eyob Birhanu
+		</td>
+		<td>Stealth Startup </td>
+		<td><a href="https://twitter.com/Eyoba28">Eyoba28</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>12</td>
+		<td>1186</td>
 	</tr>
 	<tr>
 		<td>274</td>
-		<td>
-			<a href="https://github.com/daveragos">
-				<img src="https://avatars.githubusercontent.com/u/96292329?s=72&u=476e6ff6f7a8027dfb263658ec245fe2442bf860&v=4" width="24" alt="Avatar of daveragos"> daveragos
-			</a><br/>
-			Dawit Beyene
-		</td>
-		<td>Ragoose </td>
-		<td><a href="https://twitter.com/dave_ragos">dave_ragos</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>316</td>
-		<td>1104</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/yonana-sahile">
-				<img src="https://avatars.githubusercontent.com/u/196822720?s=72&u=6f7c22341af9231c231705d5cb833e7edf163f23&v=4" width="24" alt="Avatar of yonana-sahile"> yonana-sahile
-			</a><br/>
-			Yonas Sahile
-		</td>
-		<td>Freelance / Open To<br/>Opportunities<br/></td>
-		<td><a href="https://twitter.com/sahile_yon2056">sahile_yon2056</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>545</td>
-		<td>1099</td>
-	</tr>
-	<tr>
-		<td>276</td>
 		<td>
 			<a href="https://github.com/Kidus-Nesibu">
 				<img src="https://avatars.githubusercontent.com/u/118051709?s=72&u=c34a5d7ecb87cc9fa65ba93c602ef1dd8b8f2315&v=4" width="24" alt="Avatar of Kidus-Nesibu"> Kidus-Nesibu
 			</a><br/>
 			Kidus Nesibu
 		</td>
-		<td>No Company</td>
+		<td>Etta Solutions </td>
 		<td><a href="https://twitter.com/kidus_nesibu">kidus_nesibu</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>625</td>
-		<td>1088</td>
+		<td>1169</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>275</td>
 		<td>
-			<a href="https://github.com/nahomWM">
-				<img src="https://avatars.githubusercontent.com/u/216862887?s=72&v=4" width="24" alt="Avatar of nahomWM"> nahomWM
+			<a href="https://github.com/beka-birhanu">
+				<img src="https://avatars.githubusercontent.com/u/119675042?s=72&u=20f0220c1c34b127916baa81ad06961a127ac9e6&v=4" width="24" alt="Avatar of beka-birhanu"> beka-birhanu
 			</a><br/>
-			nahom weldemedhin
+			Beka B. Atomsa
 		</td>
-		<td>Debre Berhan University </td>
+		<td>@brianhjobling </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>459</td>
-		<td>1069</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>261</td>
+		<td>1166</td>
 	</tr>
 	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/nuredin10">
-				<img src="https://avatars.githubusercontent.com/u/90145257?s=72&u=c73363898ddfbbfba60bc54dc605681f495eaf49&v=4" width="24" alt="Avatar of nuredin10"> nuredin10
-			</a><br/>
-			Nuredin Ibrahim
-		</td>
-		<td>Sweaven Solutions Plc </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>7</td>
-		<td>1066</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/hawire">
-				<img src="https://avatars.githubusercontent.com/u/205974689?s=72&u=1c9e4568e109cc2ec7fa39d2ed17eb0578a1b873&v=4" width="24" alt="Avatar of hawire"> hawire
-			</a><br/>
-			Bitania Finoteselam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1062</td>
-		<td>1062</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/haftamudesta">
-				<img src="https://avatars.githubusercontent.com/u/99684109?s=72&u=aefe73c6a477b392a839ce49bc7556faf35ff8e4&v=4" width="24" alt="Avatar of haftamudesta"> haftamudesta
-			</a><br/>
-			Haftamu Desta
-		</td>
-		<td>Microvese </td>
-		<td><a href="https://twitter.com/DestaHftamu">DestaHftamu</a></td>
-		<td>Addis Ababa</td>
-		<td>1002</td>
-		<td>1052</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/RoyBellingan">
-				<img src="https://avatars.githubusercontent.com/u/368572?s=72&v=4" width="24" alt="Avatar of RoyBellingan"> RoyBellingan
-			</a><br/>
-			Roy Bellingan
-		</td>
-		<td>Transmetal G.d.i. </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>97</td>
-		<td>1049</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/Eyob-smax">
-				<img src="https://avatars.githubusercontent.com/u/167653682?s=72&u=601c5382f10eeb0209b645b501f27bb37758f065&v=4" width="24" alt="Avatar of Eyob-smax"> Eyob-smax
-			</a><br/>
-			Eyob Simachew
-		</td>
-		<td>Maya Business Group </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1045</td>
-		<td>1045</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/annah11">
-				<img src="https://avatars.githubusercontent.com/u/137293765?s=72&u=49f118198e88d9c7341f2b6d92f4eafbd79f264d&v=4" width="24" alt="Avatar of annah11"> annah11
-			</a><br/>
-			Hana Mesfin
-		</td>
-		<td>A2svian </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>739</td>
-		<td>1041</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/dawit2123">
-				<img src="https://avatars.githubusercontent.com/u/106137900?s=72&u=fb1d6baa2709d44afa604eb205bf38168f21b804&v=4" width="24" alt="Avatar of dawit2123"> dawit2123
-			</a><br/>
-			Dawit Munie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1040</td>
-		<td>1040</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/abenezer121">
-				<img src="https://avatars.githubusercontent.com/u/57215372?s=72&u=915cc4ba748ecfffc3f7896bf81f6a87512f8337&v=4" width="24" alt="Avatar of abenezer121"> abenezer121
-			</a><br/>
-			Abenezer Seifu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>195</td>
-		<td>1036</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/Yohanes-Fikru">
-				<img src="https://avatars.githubusercontent.com/u/34979331?s=72&u=1ab295b681b7dc1935c271eab5fa824971f7c6b9&v=4" width="24" alt="Avatar of Yohanes-Fikru"> Yohanes-Fikru
-			</a><br/>
-			Yohanes Fikru Temam
-		</td>
-		<td>@muqecha-studios </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>121</td>
-		<td>1030</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/yaredtsy">
-				<img src="https://avatars.githubusercontent.com/u/34584266?s=72&v=4" width="24" alt="Avatar of yaredtsy"> yaredtsy
-			</a><br/>
-			yared tsegaye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>899</td>
-		<td>1017</td>
-	</tr>
-	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/bonssss">
-				<img src="https://avatars.githubusercontent.com/u/128582091?s=72&u=5b4e320ab792ed795647c607d4c6d1728c127814&v=4" width="24" alt="Avatar of bonssss"> bonssss
-			</a><br/>
-			Bonsa Desalegn
-		</td>
-		<td>Arifpay Financial Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1010</td>
-		<td>1010</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/Neftalem-Dagnachew">
-				<img src="https://avatars.githubusercontent.com/u/198768389?s=72&u=b3865cd31f1b64b307fa5da9ca1a73e1dbe6bcd5&v=4" width="24" alt="Avatar of Neftalem-Dagnachew"> Neftalem-Dagnachew
-			</a><br/>
-			Neftalem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>addis ababa</td>
-		<td>654</td>
-		<td>1010</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/kitessafikadu">
-				<img src="https://avatars.githubusercontent.com/u/148215887?s=72&u=e4a97a8433539f2b9608ce6f4a217ecd8647bd55&v=4" width="24" alt="Avatar of kitessafikadu"> kitessafikadu
-			</a><br/>
-			Kitessa Fikadu
-		</td>
-		<td>@syndeor </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>384</td>
-		<td>1008</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/Eyosias5">
-				<img src="https://avatars.githubusercontent.com/u/31965944?s=72&u=cf40aaf5d82ac6e9cd6a6ff9f1a4e8c79e1c5db6&v=4" width="24" alt="Avatar of Eyosias5"> Eyosias5
-			</a><br/>
-			Eyosiasx5
-		</td>
-		<td>@alamahq  </td>
-		<td><a href="https://twitter.com/eyosias_x5">eyosias_x5</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>51</td>
-		<td>1008</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/Rio3210">
-				<img src="https://avatars.githubusercontent.com/u/101450610?s=72&u=c2022c577bc8ec4b0f2ce6fb8c5742657e32aa1d&v=4" width="24" alt="Avatar of Rio3210"> Rio3210
-			</a><br/>
-			Surafel Workayehu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Rio3210_">Rio3210_</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>54</td>
-		<td>1008</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/Paul-tes">
-				<img src="https://avatars.githubusercontent.com/u/86291500?s=72&u=d92315314a7378c8ebc499f36faaab9f2c5ce62c&v=4" width="24" alt="Avatar of Paul-tes"> Paul-tes
-			</a><br/>
-			Paul Tesfaye
-		</td>
-		<td>Genesis Ai Labs </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia / Addis Ababa</td>
-		<td>12</td>
-		<td>1006</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/bisre1921">
-				<img src="https://avatars.githubusercontent.com/u/129043122?s=72&u=46c38cc43525471bcce12c3afcf10f1a3a4e2902&v=4" width="24" alt="Avatar of bisre1921"> bisre1921
-			</a><br/>
-			Bisrat Tewodros
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>41</td>
-		<td>1006</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/asm2212">
-				<img src="https://avatars.githubusercontent.com/u/146835831?s=72&u=e471c50030df83036967e1005fb43c9a708bf65e&v=4" width="24" alt="Avatar of asm2212"> asm2212
-			</a><br/>
-			Asmare Admasu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>C:\Earth\Africa\Ethiopia\A.A</td>
-		<td>126</td>
-		<td>1004</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/amanuel-alex">
-				<img src="https://avatars.githubusercontent.com/u/129431354?s=72&u=6b9a67cad4adf532d9b5a8936da797932f1b7d6c&v=4" width="24" alt="Avatar of amanuel-alex"> amanuel-alex
-			</a><br/>
-			Amanuel Alemayehu
-		</td>
-		<td>Haramaya University  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>586</td>
-		<td>1002</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/yordanos-bogale5">
-				<img src="https://avatars.githubusercontent.com/u/145749217?s=72&u=7685ef35493a5145238727280a2c7272dd2cfc0b&v=4" width="24" alt="Avatar of yordanos-bogale5"> yordanos-bogale5
-			</a><br/>
-			Yordanos Bogale
-		</td>
-		<td>@creavers Service Plc |<br/>@infinite<br/>Solution<br/>Dpl<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>47</td>
-		<td>994</td>
-	</tr>
-	<tr>
-		<td>298</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/eyobofficial">
 				<img src="https://avatars.githubusercontent.com/u/12211962?s=72&u=5a140331208d7add6c5d013343ff6cc4f23494b3&v=4" width="24" alt="Avatar of eyobofficial"> eyobofficial
@@ -4274,109 +3966,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@wellthy @zedelab @djaas-swamp <br/></td>
 		<td><a href="https://twitter.com/eyobofficial">eyobofficial</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
-		<td>993</td>
+		<td>21</td>
+		<td>1165</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>277</td>
 		<td>
-			<a href="https://github.com/Yoni-Berihun">
-				<img src="https://avatars.githubusercontent.com/u/167955229?s=72&u=6b47c4b6127a2339bb83d19f58996cd225c71f7a&v=4" width="24" alt="Avatar of Yoni-Berihun"> Yoni-Berihun
+			<a href="https://github.com/abi556">
+				<img src="https://avatars.githubusercontent.com/u/134966562?s=72&u=0b7630541dca1a44b61ed31ad1f1e1b4f59d3c49&v=4" width="24" alt="Avatar of abi556"> abi556
 			</a><br/>
-			Yonatan Berihun
+			Abiy Hailu Getachew
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, </td>
-		<td>497</td>
-		<td>993</td>
+		<td>Addis Ababa University </td>
+		<td><a href="https://twitter.com/AbiyHailu16">AbiyHailu16</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>222</td>
+		<td>1158</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>278</td>
 		<td>
-			<a href="https://github.com/yaba101">
-				<img src="https://avatars.githubusercontent.com/u/63213576?s=72&u=17fd0fa38730c068b4cbf9f1fa622c0ba7364167&v=4" width="24" alt="Avatar of yaba101"> yaba101
+			<a href="https://github.com/Yohanes-Fikru">
+				<img src="https://avatars.githubusercontent.com/u/34979331?s=72&u=1ab295b681b7dc1935c271eab5fa824971f7c6b9&v=4" width="24" alt="Avatar of Yohanes-Fikru"> Yohanes-Fikru
 			</a><br/>
-			Yeabsira Mekuria
+			Yohanes Fikru Temam
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>164</td>
-		<td>984</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/edenWerke">
-				<img src="https://avatars.githubusercontent.com/u/163598468?s=72&u=b28432b1393610be04abad1cf65196d1693f2746&v=4" width="24" alt="Avatar of edenWerke"> edenWerke
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>516</td>
-		<td>980</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/wuhibe">
-				<img src="https://avatars.githubusercontent.com/u/84741707?s=72&u=6224daffb67f3ffecb8bba067c7ea89dcc8d867a&v=4" width="24" alt="Avatar of wuhibe"> wuhibe
-			</a><br/>
-			Wuhibe Tamire
-		</td>
-		<td>No Company</td>
+		<td>@muqecha-studios </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>33</td>
-		<td>975</td>
+		<td>186</td>
+		<td>1154</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/MenelikBerhan">
-				<img src="https://avatars.githubusercontent.com/u/125494245?s=72&v=4" width="24" alt="Avatar of MenelikBerhan"> MenelikBerhan
+			<a href="https://github.com/Mekdi-kassa">
+				<img src="https://avatars.githubusercontent.com/u/178584740?s=72&u=a952be34aa62e79f65ade5196dd02297639e1da6&v=4" width="24" alt="Avatar of Mekdi-kassa"> Mekdi-kassa
 			</a><br/>
-			No Name
+			Mekdelawit Abadina
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-		<td>968</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>1018</td>
+		<td>1153</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>280</td>
 		<td>
-			<a href="https://github.com/ermitesh">
-				<img src="https://avatars.githubusercontent.com/u/59338167?s=72&u=12639f4d02266999753328588b8e0679e0d29163&v=4" width="24" alt="Avatar of ermitesh"> ermitesh
+			<a href="https://github.com/ake144">
+				<img src="https://avatars.githubusercontent.com/u/122739445?s=72&u=75e2479ad1102c2e7274dcffa5ae711a26eec5ce&v=4" width="24" alt="Avatar of ake144"> ake144
 			</a><br/>
-			Ermias Teshome
+			Aklilu Tamirat 
 		</td>
-		<td>Textcortex Ai </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkeTamirat94397">AkeTamirat94397</a></td>
 		<td>Ethiopia</td>
-		<td>0</td>
-		<td>968</td>
+		<td>559</td>
+		<td>1148</td>
 	</tr>
 	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/yadi09">
-				<img src="https://avatars.githubusercontent.com/u/140100340?s=72&u=449b0b4eaaf2678a663d75bdd54e481e09b96378&v=4" width="24" alt="Avatar of yadi09"> yadi09
-			</a><br/>
-			Yadamzer Terefe
-		</td>
-		<td>Ethiopia </td>
-		<td><a href="https://twitter.com/Yadii0988">Yadii0988</a></td>
-		<td>addis ababa</td>
-		<td>133</td>
-		<td>963</td>
-	</tr>
-	<tr>
-		<td>306</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/kaleabmelkie">
 				<img src="https://avatars.githubusercontent.com/u/29814842?s=72&u=a72c7f316037d93e24e3cc01d8e952cbe411533e&v=4" width="24" alt="Avatar of kaleabmelkie"> kaleabmelkie
@@ -4387,52 +4037,38 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/kaleab14">kaleab14</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>1</td>
-		<td>960</td>
+		<td>1147</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>282</td>
 		<td>
-			<a href="https://github.com/tsega">
-				<img src="https://avatars.githubusercontent.com/u/206924?s=72&u=4fe9720329c6efac67a9681ee2aaa85cc809e652&v=4" width="24" alt="Avatar of tsega"> tsega
+			<a href="https://github.com/bonssss">
+				<img src="https://avatars.githubusercontent.com/u/128582091?s=72&u=5b4e320ab792ed795647c607d4c6d1728c127814&v=4" width="24" alt="Avatar of bonssss"> bonssss
 			</a><br/>
-			Tsegaselassie Tadesse
+			Bonsa Desalegn
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tsegat">tsegat</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>41</td>
-		<td>955</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/baydisng13">
-				<img src="https://avatars.githubusercontent.com/u/44190023?s=72&u=9c34c4bf1d83114ef65160807c4a99d76fc08eda&v=4" width="24" alt="Avatar of baydisng13"> baydisng13
-			</a><br/>
-			Theodore Negusu
-		</td>
-		<td>Brainstormers </td>
-		<td><a href="https://twitter.com/TheodoreNegusu">TheodoreNegusu</a></td>
-		<td>Ethiopia, A.A</td>
-		<td>82</td>
-		<td>950</td>
-	</tr>
-	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/Yareda21">
-				<img src="https://avatars.githubusercontent.com/u/135129440?s=72&u=38cc4239c7adb370e3a6bd2a3ada3983398bc126&v=4" width="24" alt="Avatar of Yareda21"> Yareda21
-			</a><br/>
-			Yared Kebede
-		</td>
-		<td>Exceed Advanced Training And<br/>Consultancy<br/></td>
+		<td>Arifpay Financial Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Megenagna, Addis Ababa, Ethiopia</td>
-		<td>97</td>
-		<td>950</td>
+		<td>Ethiopia</td>
+		<td>1141</td>
+		<td>1141</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/esti08-hu">
+				<img src="https://avatars.githubusercontent.com/u/98952769?s=72&u=a72b5000449c5f4c5807cdb11ceb41133d9e3568&v=4" width="24" alt="Avatar of esti08-hu"> esti08-hu
+			</a><br/>
+			Estifanos A.
+		</td>
+		<td>404 </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>1135</td>
+		<td>1135</td>
+	</tr>
+	<tr>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/Abel-desu">
 				<img src="https://avatars.githubusercontent.com/u/95746961?s=72&u=6f776e10aaf338b4752c275c3ad8ae10b5947c08&v=4" width="24" alt="Avatar of Abel-desu"> Abel-desu
@@ -4442,81 +4078,277 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/abeldesalegn97">abeldesalegn97</a></td>
 		<td>Ethiopia, Addis Ababa</td>
-		<td>143</td>
-		<td>950</td>
+		<td>217</td>
+		<td>1134</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>285</td>
 		<td>
-			<a href="https://github.com/fanuelal">
-				<img src="https://avatars.githubusercontent.com/u/36011334?s=72&u=5a9036339c505b0fee6c2bbc4bea823d8c64c455&v=4" width="24" alt="Avatar of fanuelal"> fanuelal
+			<a href="https://github.com/Anicodeth">
+				<img src="https://avatars.githubusercontent.com/u/105945598?s=72&u=77cdfa42438f5bf100232ff8c14cb640deccb10a&v=4" width="24" alt="Avatar of Anicodeth"> Anicodeth
 			</a><br/>
-			Fanuel Almaw
-		</td>
-		<td>Askuala Link </td>
-		<td><a href="https://twitter.com/AlmawFanuel">AlmawFanuel</a></td>
-		<td>Ethiopia</td>
-		<td>1</td>
-		<td>949</td>
-	</tr>
-	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/yaya2127">
-				<img src="https://avatars.githubusercontent.com/u/173305762?s=72&u=23e5f88d720782a947caa6f3f3e7f29afb9e1d91&v=4" width="24" alt="Avatar of yaya2127"> yaya2127
-			</a><br/>
-			yared kinetibeb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Yared_kin212">Yared_kin212</a></td>
-		<td>Ethiopia</td>
-		<td>691</td>
-		<td>949</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/BIGANUEL">
-				<img src="https://avatars.githubusercontent.com/u/162797908?s=72&u=f4e51687e9cb329c9d4e8471da580cb711efb327&v=4" width="24" alt="Avatar of BIGANUEL"> BIGANUEL
-			</a><br/>
-			Amanuel Wubishet
+			Ananya Fekeremariam
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa , Ethiopia</td>
-		<td>15</td>
-		<td>946</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>128</td>
+		<td>1125</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/Manuel-heav">
+				<img src="https://avatars.githubusercontent.com/u/66178225?s=72&v=4" width="24" alt="Avatar of Manuel-heav"> Manuel-heav
+			</a><br/>
+			Amanuael Kebede
+		</td>
+		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
+		<td><a href="https://twitter.com/the_blogrammer">the_blogrammer</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>22</td>
+		<td>1118</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/wuhibe">
+				<img src="https://avatars.githubusercontent.com/u/84741707?s=72&u=6224daffb67f3ffecb8bba067c7ea89dcc8d867a&v=4" width="24" alt="Avatar of wuhibe"> wuhibe
+			</a><br/>
+			Wuhibe Tamire
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>34</td>
+		<td>1117</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/Yobil-Job">
+				<img src="https://avatars.githubusercontent.com/u/167990260?s=72&u=9b8ea64949f39e28f6c06b5e3e616a86d022209b&v=4" width="24" alt="Avatar of Yobil-Job"> Yobil-Job
+			</a><br/>
+			Eyob Weldetensay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>283</td>
+		<td>1111</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/mfeti">
+				<img src="https://avatars.githubusercontent.com/u/105536586?s=72&u=306532615eb7d4baf3456f976689bcde0825dca5&v=4" width="24" alt="Avatar of mfeti"> mfeti
+			</a><br/>
+			Mohammed Ahmed
+		</td>
+		<td>**** </td>
+		<td><a href="https://twitter.com/ItFeti33726">ItFeti33726</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>218</td>
+		<td>1110</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/RoyBellingan">
+				<img src="https://avatars.githubusercontent.com/u/368572?s=72&v=4" width="24" alt="Avatar of RoyBellingan"> RoyBellingan
+			</a><br/>
+			Roy Bellingan
+		</td>
+		<td>Transmetal G.d.i. </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>112</td>
+		<td>1110</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/lijnati">
+				<img src="https://avatars.githubusercontent.com/u/80381617?s=72&u=0a78cdd903db82ddb2d5285f6ec9f358ef653b62&v=4" width="24" alt="Avatar of lijnati"> lijnati
+			</a><br/>
+			yegetaneh firew
+		</td>
+		<td>Xylolabs </td>
+		<td><a href="https://twitter.com/0xnahtty">0xnahtty</a></td>
+		<td>Ethiopia</td>
+		<td>273</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/Eul45">
+				<img src="https://avatars.githubusercontent.com/u/176154715?s=72&u=9b10fcc252d96badaf303f0fa967c57a5ee428ca&v=4" width="24" alt="Avatar of Eul45"> Eul45
+			</a><br/>
+			Eyuel Engida
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>494</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/k4l3b4">
+				<img src="https://avatars.githubusercontent.com/u/59311872?s=72&v=4" width="24" alt="Avatar of k4l3b4"> k4l3b4
+			</a><br/>
+			Caleb Abebe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/k4l3ba">k4l3ba</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>510</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/Paul-tes">
+				<img src="https://avatars.githubusercontent.com/u/86291500?s=72&u=d92315314a7378c8ebc499f36faaab9f2c5ce62c&v=4" width="24" alt="Avatar of Paul-tes"> Paul-tes
+			</a><br/>
+			Paul Tesfaye
+		</td>
+		<td>Genesis Ai Labs </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia / Addis Ababa</td>
+		<td>9</td>
+		<td>1103</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/fahamijemal">
+				<img src="https://avatars.githubusercontent.com/u/132432021?s=72&u=099e5e445a4b142da738af023a621f2175045f97&v=4" width="24" alt="Avatar of fahamijemal"> fahamijemal
+			</a><br/>
+			Fahami Jemal Harun 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama,oromia,ethiopia</td>
+		<td>141</td>
+		<td>1103</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/bealugirma23">
+				<img src="https://avatars.githubusercontent.com/u/100837992?s=72&u=f6fbf891819436ce65ff8fd278898cbda45c1e06&v=4" width="24" alt="Avatar of bealugirma23"> bealugirma23
+			</a><br/>
+			Bealu Girma
+		</td>
+		<td>One Planet  </td>
+		<td><a href="https://twitter.com/bealugirma23">bealugirma23</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>91</td>
+		<td>1103</td>
+	</tr>
+	<tr>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/samwondim">
 				<img src="https://avatars.githubusercontent.com/u/99725255?s=72&u=91cdefb02e3453add60bf43ada8a781c34e97b6e&v=4" width="24" alt="Avatar of samwondim"> samwondim
 			</a><br/>
 			Samuel B. Wondimagegnehu
 		</td>
-		<td>Singularitynet, Icog Labs </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>667</td>
-		<td>943</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/amxson">
-				<img src="https://avatars.githubusercontent.com/u/91834366?s=72&v=4" width="24" alt="Avatar of amxson"> amxson
-			</a><br/>
-			Amar Asfaw
-		</td>
 		<td>Icog Labs </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>935</td>
-		<td>935</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>690</td>
+		<td>1099</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/nahomWM">
+				<img src="https://avatars.githubusercontent.com/u/216862887?s=72&v=4" width="24" alt="Avatar of nahomWM"> nahomWM
+			</a><br/>
+			nahom weldemedhin
+		</td>
+		<td>Icog-labs </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>439</td>
+		<td>1098</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/MagMc007">
+				<img src="https://avatars.githubusercontent.com/u/177134918?s=72&u=fa274b2531e366d9a66187b5357249b995b13841&v=4" width="24" alt="Avatar of MagMc007"> MagMc007
+			</a><br/>
+			Merga Shasho Mekonnen
+		</td>
+		<td>@a2sv-astu  </td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>768</td>
+		<td>1089</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/bisre1921">
+				<img src="https://avatars.githubusercontent.com/u/129043122?s=72&u=46c38cc43525471bcce12c3afcf10f1a3a4e2902&v=4" width="24" alt="Avatar of bisre1921"> bisre1921
+			</a><br/>
+			Bisrat Tewodros
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>38</td>
+		<td>1085</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/BashirMohamedAli">
+				<img src="https://avatars.githubusercontent.com/u/62313798?s=72&u=56b372e6436457fa4ece33430ab8f983739abc24&v=4" width="24" alt="Avatar of BashirMohamedAli"> BashirMohamedAli
+			</a><br/>
+			Bashir Mohamed Ali
+		</td>
+		<td>Enterx </td>
+		<td><a href="https://twitter.com/mrbashirx">mrbashirx</a></td>
+		<td>jijiga, Somali, Ethiopia</td>
+		<td>23</td>
+		<td>1071</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/dawitterefe">
+				<img src="https://avatars.githubusercontent.com/u/118431181?s=72&u=d58dce6aaf873dae71c0c568c693601f2679ec16&v=4" width="24" alt="Avatar of dawitterefe"> dawitterefe
+			</a><br/>
+			Dawit Terefe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>50</td>
+		<td>1062</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/netcrawlerr">
+				<img src="https://avatars.githubusercontent.com/u/100708946?s=72&u=07a04c89705b56363796564ed7f64e89c2353c17&v=4" width="24" alt="Avatar of netcrawlerr"> netcrawlerr
+			</a><br/>
+			Mejid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>199</td>
+		<td>1044</td>
+	</tr>
+	<tr>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Fine-Guy-21">
 				<img src="https://avatars.githubusercontent.com/u/122565078?s=72&u=63508e4c6a3f5644f4d4d889f78672e1be82f5b9&v=4" width="24" alt="Avatar of Fine-Guy-21"> Fine-Guy-21
@@ -4526,221 +4358,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>251</td>
-		<td>935</td>
+		<td>268</td>
+		<td>1043</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>305</td>
 		<td>
-			<a href="https://github.com/AbrhamWendmeneh">
-				<img src="https://avatars.githubusercontent.com/u/99592824?s=72&u=9b826ac3b624b344dd290f15af5dfd0343200618&v=4" width="24" alt="Avatar of AbrhamWendmeneh"> AbrhamWendmeneh
+			<a href="https://github.com/meraf00">
+				<img src="https://avatars.githubusercontent.com/u/96904152?s=72&v=4" width="24" alt="Avatar of meraf00"> meraf00
 			</a><br/>
-			Abrham Wendmeneh
+			Leul Wujira
 		</td>
-		<td>Addis Ababa University </td>
+		<td>Aait </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>44</td>
-		<td>934</td>
+		<td>21</td>
+		<td>1038</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>306</td>
 		<td>
-			<a href="https://github.com/kevenmuba">
-				<img src="https://avatars.githubusercontent.com/u/168195414?s=72&u=b75ad157de7f6d2f95231f85a46c452f20e96aae&v=4" width="24" alt="Avatar of kevenmuba"> kevenmuba
+			<a href="https://github.com/Yareda21">
+				<img src="https://avatars.githubusercontent.com/u/135129440?s=72&u=38cc4239c7adb370e3a6bd2a3ada3983398bc126&v=4" width="24" alt="Avatar of Yareda21"> Yareda21
 			</a><br/>
-			Mubarek keven
+			Yared Kebede
 		</td>
-		<td>No Company</td>
+		<td>Exceed Advanced Training And<br/>Consultancy<br/></td>
 		<td>No Twitter Username</td>
-		<td>Adiss Abeba,Ethiopia</td>
-		<td>496</td>
-		<td>934</td>
+		<td>Megenagna, Addis Ababa, Ethiopia</td>
+		<td>75</td>
+		<td>1028</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>307</td>
 		<td>
-			<a href="https://github.com/bonatolasa">
-				<img src="https://avatars.githubusercontent.com/u/146835715?s=72&u=1d7918258be58dd844c894c817e78a98343a7ac5&v=4" width="24" alt="Avatar of bonatolasa"> bonatolasa
+			<a href="https://github.com/nuredin10">
+				<img src="https://avatars.githubusercontent.com/u/90145257?s=72&u=c73363898ddfbbfba60bc54dc605681f495eaf49&v=4" width="24" alt="Avatar of nuredin10"> nuredin10
 			</a><br/>
-			BonaTolasa
+			Nuredin Ibrahim
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bonito243">bonito243</a></td>
-		<td>Jimma, Ethiopia</td>
-		<td>334</td>
-		<td>933</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/noble-ch">
-				<img src="https://avatars.githubusercontent.com/u/123499650?s=72&u=05faba5630b8f8d65caf57a06ef1cf4b0ec8d6c1&v=4" width="24" alt="Avatar of noble-ch"> noble-ch
-			</a><br/>
-			Noble Biru
-		</td>
-		<td>Adama Science And Technology<br/>University<br/></td>
+		<td>Sweaven Solutions Plc </td>
 		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>5</td>
-		<td>929</td>
+		<td>Addis Ababa</td>
+		<td>7</td>
+		<td>1018</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>308</td>
 		<td>
-			<a href="https://github.com/Elish-Ab">
-				<img src="https://avatars.githubusercontent.com/u/116567028?s=72&u=99024a3db95a3f26a73170247d396db3fca1e5f4&v=4" width="24" alt="Avatar of Elish-Ab"> Elish-Ab
+			<a href="https://github.com/edenWerke">
+				<img src="https://avatars.githubusercontent.com/u/163598468?s=72&u=b28432b1393610be04abad1cf65196d1693f2746&v=4" width="24" alt="Avatar of edenWerke"> edenWerke
 			</a><br/>
-			Elisha Abriham
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>46</td>
-		<td>929</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/abshwabu">
-				<img src="https://avatars.githubusercontent.com/u/68740969?s=72&v=4" width="24" alt="Avatar of abshwabu"> abshwabu
-			</a><br/>
-			ABDULAZIZ Shewabu REDI
-		</td>
-		<td>Kesb Tech </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>650</td>
-		<td>925</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/yeabtsega45">
-				<img src="https://avatars.githubusercontent.com/u/118176644?s=72&u=844c8853fe0a18235d1e64b33d44ff5d7f94937f&v=4" width="24" alt="Avatar of yeabtsega45"> yeabtsega45
-			</a><br/>
-			Yeabtsega Yeshidnber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>225</td>
-		<td>921</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/Haile-08">
-				<img src="https://avatars.githubusercontent.com/u/75433928?s=72&u=720e77cb779a32689fc24436eb8e0b6fac069a0a&v=4" width="24" alt="Avatar of Haile-08"> Haile-08
-			</a><br/>
-			Haile Melaku
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>231</td>
-		<td>915</td>
+		<td>515</td>
+		<td>1018</td>
 	</tr>
 	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/izzy-Ti">
-				<img src="https://avatars.githubusercontent.com/u/198761897?s=72&u=10752a7bfb0c269b89814c5fa1ebb44160a13e4d&v=4" width="24" alt="Avatar of izzy-Ti"> izzy-Ti
-			</a><br/>
-			israel A
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>443</td>
-		<td>914</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/sebrinamusbah">
-				<img src="https://avatars.githubusercontent.com/u/203940429?s=72&u=7f07430a49ee11578eb23b9a9a6061d6a925a567&v=4" width="24" alt="Avatar of sebrinamusbah"> sebrinamusbah
-			</a><br/>
-			sebrin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>762</td>
-		<td>912</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a href="https://github.com/Feven-Tolosa">
-				<img src="https://avatars.githubusercontent.com/u/170771747?s=72&u=514d3c7aa896472481f6b5eb34172c4d8b996305&v=4" width="24" alt="Avatar of Feven-Tolosa"> Feven-Tolosa
-			</a><br/>
-			Feven_Mercy
-		</td>
-		<td>Jimma University 🎓 <br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia </td>
-		<td>731</td>
-		<td>902</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/wendirad">
-				<img src="https://avatars.githubusercontent.com/u/53967346?s=72&u=caf6ee9c53f3d6c909e3272afcb2ad4e7ba2bc75&v=4" width="24" alt="Avatar of wendirad"> wendirad
-			</a><br/>
-			Wendirad Demelash
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wendiradD">wendiradD</a></td>
-		<td>Ethiopia, Adama</td>
-		<td>259</td>
-		<td>900</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/ALPHACOD3RS">
-				<img src="https://avatars.githubusercontent.com/u/77591327?s=72&u=178da09f21aed1b42f372b0a99e5c9dd4bd45171&v=4" width="24" alt="Avatar of ALPHACOD3RS"> ALPHACOD3RS
-			</a><br/>
-			Naol Ketema
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ACod3r">ACod3r</a></td>
-		<td>Ethiopia</td>
-		<td>91</td>
-		<td>896</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/dagimg-dot">
-				<img src="https://avatars.githubusercontent.com/u/106905365?s=72&u=6615e5805c166c4390e3f19adeb157bcf568873f&v=4" width="24" alt="Avatar of dagimg-dot"> dagimg-dot
-			</a><br/>
-			Dagim G. Astatkie
-		</td>
-		<td>Klik </td>
-		<td><a href="https://twitter.com/dagimg_dot">dagimg_dot</a></td>
-		<td>Addis Ababa, Ethiopiia</td>
-		<td>832</td>
-		<td>895</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/yordiyes">
-				<img src="https://avatars.githubusercontent.com/u/133559301?s=72&u=470388c3d7c0a5bb8e9a834b25854aee39b99ea6&v=4" width="24" alt="Avatar of yordiyes"> yordiyes
-			</a><br/>
-			Yordanos Yeshitla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>35</td>
-		<td>895</td>
-	</tr>
-	<tr>
-		<td>332</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/BeamlakAschalew">
 				<img src="https://avatars.githubusercontent.com/u/72562470?s=72&v=4" width="24" alt="Avatar of BeamlakAschalew"> BeamlakAschalew
@@ -4750,11 +4428,221 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/beamlakdev">beamlakdev</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>253</td>
-		<td>894</td>
+		<td>338</td>
+		<td>1014</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/Eyob-smax">
+				<img src="https://avatars.githubusercontent.com/u/167653682?s=72&u=601c5382f10eeb0209b645b501f27bb37758f065&v=4" width="24" alt="Avatar of Eyob-smax"> Eyob-smax
+			</a><br/>
+			Eyob Simachew
+		</td>
+		<td>Maya Business Group </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1009</td>
+		<td>1009</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/kitessafikadu">
+				<img src="https://avatars.githubusercontent.com/u/148215887?s=72&u=e4a97a8433539f2b9608ce6f4a217ecd8647bd55&v=4" width="24" alt="Avatar of kitessafikadu"> kitessafikadu
+			</a><br/>
+			Kitessa Fikadu
+		</td>
+		<td>@syndeor </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>379</td>
+		<td>1003</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/Feven-Tolosa">
+				<img src="https://avatars.githubusercontent.com/u/170771747?s=72&u=514d3c7aa896472481f6b5eb34172c4d8b996305&v=4" width="24" alt="Avatar of Feven-Tolosa"> Feven-Tolosa
+			</a><br/>
+			Feven_Mercy
+		</td>
+		<td>Jimma University 🎓 <br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia </td>
+		<td>781</td>
+		<td>998</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/yordanos-bogale5">
+				<img src="https://avatars.githubusercontent.com/u/145749217?s=72&u=7685ef35493a5145238727280a2c7272dd2cfc0b&v=4" width="24" alt="Avatar of yordanos-bogale5"> yordanos-bogale5
+			</a><br/>
+			Yordanos Bogale
+		</td>
+		<td>@creavers Service Plc |<br/>@infinite<br/>Solution<br/>Dpl<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>46</td>
+		<td>994</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/abenezer121">
+				<img src="https://avatars.githubusercontent.com/u/57215372?s=72&u=915cc4ba748ecfffc3f7896bf81f6a87512f8337&v=4" width="24" alt="Avatar of abenezer121"> abenezer121
+			</a><br/>
+			Abenezer Seifu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>212</td>
+		<td>993</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/amanuel1221">
+				<img src="https://avatars.githubusercontent.com/u/193352217?s=72&u=f1e19174e148a1dfe6d34b115ea548a38060772f&v=4" width="24" alt="Avatar of amanuel1221"> amanuel1221
+			</a><br/>
+			Amanuel Amare
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AmanuelAma66386">AmanuelAma66386</a></td>
+		<td>Ethiopia</td>
+		<td>897</td>
+		<td>992</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/Neftalem-Dagnachew">
+				<img src="https://avatars.githubusercontent.com/u/198768389?s=72&u=b3865cd31f1b64b307fa5da9ca1a73e1dbe6bcd5&v=4" width="24" alt="Avatar of Neftalem-Dagnachew"> Neftalem-Dagnachew
+			</a><br/>
+			Neftalem
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dneftalem">dneftalem</a></td>
+		<td>addis ababa</td>
+		<td>791</td>
+		<td>989</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/kid-us">
+				<img src="https://avatars.githubusercontent.com/u/98009847?s=72&u=a5cf66c69f970821b51cc9996cf88d7fdeb8439f&v=4" width="24" alt="Avatar of kid-us"> kid-us
+			</a><br/>
+			Kidus
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/kidus_29">kidus_29</a></td>
+		<td>Ethiopia</td>
+		<td>152</td>
+		<td>986</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/Bahirumulugeta">
+				<img src="https://avatars.githubusercontent.com/u/57240268?s=72&u=93d281dc797a5f5a58da4970f2cd06d64dc01d48&v=4" width="24" alt="Avatar of Bahirumulugeta"> Bahirumulugeta
+			</a><br/>
+			Bahiru Mulugeta
+		</td>
+		<td>Seaice Technologies </td>
+		<td><a href="https://twitter.com/bahiru_mulugeta">bahiru_mulugeta</a></td>
+		<td>Addis Ababa</td>
+		<td>25</td>
+		<td>980</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Yoni-Berihun">
+				<img src="https://avatars.githubusercontent.com/u/167955229?s=72&u=6b47c4b6127a2339bb83d19f58996cd225c71f7a&v=4" width="24" alt="Avatar of Yoni-Berihun"> Yoni-Berihun
+			</a><br/>
+			Yonatan Berihun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, </td>
+		<td>481</td>
+		<td>980</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/amanuel-alex">
+				<img src="https://avatars.githubusercontent.com/u/129431354?s=72&u=6b9a67cad4adf532d9b5a8936da797932f1b7d6c&v=4" width="24" alt="Avatar of amanuel-alex"> amanuel-alex
+			</a><br/>
+			Amanuel Alemayehu
+		</td>
+		<td>Haramaya University  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>576</td>
+		<td>978</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/abshwabu">
+				<img src="https://avatars.githubusercontent.com/u/68740969?s=72&v=4" width="24" alt="Avatar of abshwabu"> abshwabu
+			</a><br/>
+			ABDULAZIZ Shewabu REDI
+		</td>
+		<td>Kesb Tech </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>757</td>
+		<td>978</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/yeab-dev">
+				<img src="https://avatars.githubusercontent.com/u/144266037?s=72&u=9d797a40dd8c77493e25ca691a2bacccd74480ee&v=4" width="24" alt="Avatar of yeab-dev"> yeab-dev
+			</a><br/>
+			Yeab
+		</td>
+		<td>Wegegta Technologues </td>
+		<td><a href="https://twitter.com/yeab_dev">yeab_dev</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>273</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/duresaguye">
+				<img src="https://avatars.githubusercontent.com/u/129600771?s=72&u=c0c8f58019350c76e790e2df927e3c6439284e03&v=4" width="24" alt="Avatar of duresaguye"> duresaguye
+			</a><br/>
+			Dura G.
+		</td>
+		<td>@techeth </td>
+		<td><a href="https://twitter.com/dure_guye">dure_guye</a></td>
+		<td>Addis Ababa</td>
+		<td>158</td>
+		<td>972</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/ermitesh">
+				<img src="https://avatars.githubusercontent.com/u/59338167?s=72&u=12639f4d02266999753328588b8e0679e0d29163&v=4" width="24" alt="Avatar of ermitesh"> ermitesh
+			</a><br/>
+			Ermias Teshome
+		</td>
+		<td>Textcortex Ai </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>970</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/Efode-r2d2">
 				<img src="https://avatars.githubusercontent.com/u/10376677?s=72&u=ef7093bed1f363e928228fc763c483ec3a287239&v=4" width="24" alt="Avatar of Efode-r2d2"> Efode-r2d2
@@ -4765,94 +4653,122 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/__efode">__efode</a></td>
 		<td>Addis Ababa</td>
 		<td>0</td>
-		<td>890</td>
+		<td>967</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/BIGANUEL">
+				<img src="https://avatars.githubusercontent.com/u/162797908?s=72&u=f4e51687e9cb329c9d4e8471da580cb711efb327&v=4" width="24" alt="Avatar of BIGANUEL"> BIGANUEL
+			</a><br/>
+			Amanuel Wubishet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>15</td>
+		<td>963</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/amxson">
+				<img src="https://avatars.githubusercontent.com/u/91834366?s=72&v=4" width="24" alt="Avatar of amxson"> amxson
+			</a><br/>
+			Amar Asfaw
+		</td>
+		<td>Icog Labs </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>955</td>
+		<td>955</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/Ludis-ET">
+				<img src="https://avatars.githubusercontent.com/u/132431582?s=72&u=c37d014c87a3a2d119e1f224e39243a3f52a286e&v=4" width="24" alt="Avatar of Ludis-ET"> Ludis-ET
+			</a><br/>
+			Ludis
+		</td>
+		<td>Aastu </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Adddis Ababa</td>
+		<td>501</td>
+		<td>955</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/Saronzeleke">
+				<img src="https://avatars.githubusercontent.com/u/161972402?s=72&u=ad9e637ecf030295ca1ff34bb7d8dc70067f7cd7&v=4" width="24" alt="Avatar of Saronzeleke"> Saronzeleke
+			</a><br/>
+			Saron Zeleke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>952</td>
+		<td>952</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/AbrhamWendmeneh">
+				<img src="https://avatars.githubusercontent.com/u/99592824?s=72&u=9b826ac3b624b344dd290f15af5dfd0343200618&v=4" width="24" alt="Avatar of AbrhamWendmeneh"> AbrhamWendmeneh
+			</a><br/>
+			Abrham Wendmeneh
+		</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>36</td>
+		<td>951</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/asm2212">
+				<img src="https://avatars.githubusercontent.com/u/146835831?s=72&u=e471c50030df83036967e1005fb43c9a708bf65e&v=4" width="24" alt="Avatar of asm2212"> asm2212
+			</a><br/>
+			Asmare Admasu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>C:\Earth\Africa\Ethiopia\A.A</td>
+		<td>126</td>
+		<td>950</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/bonatolasa">
+				<img src="https://avatars.githubusercontent.com/u/146835715?s=72&u=1d7918258be58dd844c894c817e78a98343a7ac5&v=4" width="24" alt="Avatar of bonatolasa"> bonatolasa
+			</a><br/>
+			BonaTolasa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bonito243">bonito243</a></td>
+		<td>Jimma, Ethiopia</td>
+		<td>441</td>
+		<td>944</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/TheSecondChance">
+				<img src="https://avatars.githubusercontent.com/u/132612647?s=72&u=f53e264046618a6b67b0a7b7efbee7a3ee37498c&v=4" width="24" alt="Avatar of TheSecondChance"> TheSecondChance
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eyasu_software">eyasu_software</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>130</td>
+		<td>935</td>
 	</tr>
 	<tr>
 		<td>334</td>
-		<td>
-			<a href="https://github.com/Sireat">
-				<img src="https://avatars.githubusercontent.com/u/102405529?s=72&u=323d35b8f5a1d7cfb4f7935da3d738fc8f17eee8&v=4" width="24" alt="Avatar of Sireat"> Sireat
-			</a><br/>
-			Sireat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,  Ethiopia</td>
-		<td>60</td>
-		<td>888</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/Henok0728">
-				<img src="https://avatars.githubusercontent.com/u/169617350?s=72&u=47b2ac91ac5449486f599d91f5bf73910986f63d&v=4" width="24" alt="Avatar of Henok0728"> Henok0728
-			</a><br/>
-			Henok Gizaw
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>444</td>
-		<td>884</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/Tsedniya">
-				<img src="https://avatars.githubusercontent.com/u/136121375?s=72&u=631f724a870885553a1898774e32ee15a24ced81&v=4" width="24" alt="Avatar of Tsedniya"> Tsedniya
-			</a><br/>
-			Tsedniya Frezewed 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>881</td>
-		<td>881</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/meraf00">
-				<img src="https://avatars.githubusercontent.com/u/96904152?s=72&v=4" width="24" alt="Avatar of meraf00"> meraf00
-			</a><br/>
-			Leul Wujira
-		</td>
-		<td>Aait </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>34</td>
-		<td>881</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/fahamijemal">
-				<img src="https://avatars.githubusercontent.com/u/132432021?s=72&u=099e5e445a4b142da738af023a621f2175045f97&v=4" width="24" alt="Avatar of fahamijemal"> fahamijemal
-			</a><br/>
-			Fahami Jemal Harun 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama,oromia,ethiopia</td>
-		<td>139</td>
-		<td>881</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/jossephus">
-				<img src="https://avatars.githubusercontent.com/u/46337696?s=72&u=27e02efb31ff2ff3b49dcf2fb7116b2079651dea&v=4" width="24" alt="Avatar of jossephus"> jossephus
-			</a><br/>
-			Josseph
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jossephus">jossephus</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>879</td>
-		<td>879</td>
-	</tr>
-	<tr>
-		<td>340</td>
 		<td>
 			<a href="https://github.com/TOT8894">
 				<img src="https://avatars.githubusercontent.com/u/244352516?s=72&u=aff9a5c61ce44ecb2503e68fbed942955c16ac47&v=4" width="24" alt="Avatar of TOT8894"> TOT8894
@@ -4862,95 +4778,81 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa,  Ethiopia</td>
-		<td>873</td>
-		<td>873</td>
+		<td>929</td>
+		<td>929</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>335</td>
 		<td>
-			<a href="https://github.com/dagmawibabi">
-				<img src="https://avatars.githubusercontent.com/u/44819176?s=72&u=29b1a624b4ec3b70f2fefea413d745af95c6d91b&v=4" width="24" alt="Avatar of dagmawibabi"> dagmawibabi
+			<a href="https://github.com/MenelikBerhan">
+				<img src="https://avatars.githubusercontent.com/u/125494245?s=72&v=4" width="24" alt="Avatar of MenelikBerhan"> MenelikBerhan
 			</a><br/>
-			Dagmawi Babi
-		</td>
-		<td>Dream Intelligence </td>
-		<td><a href="https://twitter.com/DagmawiBabi">DagmawiBabi</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>375</td>
-		<td>867</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/deribewsoftware">
-				<img src="https://avatars.githubusercontent.com/u/118039173?s=72&u=e74382cba6e809a823ee45f0c166214a27d7bd38&v=4" width="24" alt="Avatar of deribewsoftware"> deribewsoftware
-			</a><br/>
-			Deribew Shimelis wosene
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Aabab ,Ethiopia</td>
-		<td>324</td>
-		<td>866</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/Isa1asN">
-				<img src="https://avatars.githubusercontent.com/u/101455473?s=72&u=e2c3fc61a31f032aa4d2630213f6125d94566ea2&v=4" width="24" alt="Avatar of Isa1asN"> Isa1asN
-			</a><br/>
-			Esayas N. Beshah
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>32</td>
-		<td>863</td>
+		<td>9</td>
+		<td>925</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>336</td>
 		<td>
-			<a href="https://github.com/Tadessejemal1">
-				<img src="https://avatars.githubusercontent.com/u/85793292?s=72&u=3cbcb11aa70f0d3dc2778c100f225f41e939e993&v=4" width="24" alt="Avatar of Tadessejemal1"> Tadessejemal1
+			<a href="https://github.com/sebrinamusbah">
+				<img src="https://avatars.githubusercontent.com/u/203940429?s=72&u=7f07430a49ee11578eb23b9a9a6061d6a925a567&v=4" width="24" alt="Avatar of sebrinamusbah"> sebrinamusbah
 			</a><br/>
-			Tadesse Jemal
+			sebrin
 		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/tadesse">tadesse</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>127</td>
-		<td>856</td>
+		<td>762</td>
+		<td>924</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>337</td>
 		<td>
-			<a href="https://github.com/redet-G">
-				<img src="https://avatars.githubusercontent.com/u/20116752?s=72&u=77264a9d72671642729b4d954ced432211c0b08d&v=4" width="24" alt="Avatar of redet-G"> redet-G
+			<a href="https://github.com/tsega">
+				<img src="https://avatars.githubusercontent.com/u/206924?s=72&u=4fe9720329c6efac67a9681ee2aaa85cc809e652&v=4" width="24" alt="Avatar of tsega"> tsega
 			</a><br/>
-			Redet Getachew
+			Tsegaselassie Tadesse
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tsegat">tsegat</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>41</td>
+		<td>922</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/yaredtsy">
+				<img src="https://avatars.githubusercontent.com/u/34584266?s=72&v=4" width="24" alt="Avatar of yaredtsy"> yaredtsy
+			</a><br/>
+			yared tsegaye
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>230</td>
-		<td>854</td>
+		<td>Ethiopia</td>
+		<td>819</td>
+		<td>918</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>339</td>
 		<td>
-			<a href="https://github.com/tarik350">
-				<img src="https://avatars.githubusercontent.com/u/80385670?s=72&u=c4fd46f6717aa7dd449c5fbc5e9262fd6bd9502d&v=4" width="24" alt="Avatar of tarik350"> tarik350
+			<a href="https://github.com/mumekonin">
+				<img src="https://avatars.githubusercontent.com/u/180072762?s=72&u=754bdd69370c3e6ceaececcc2647775d7b351c94&v=4" width="24" alt="Avatar of mumekonin"> mumekonin
 			</a><br/>
-			Tarik Teshome
+			Mulualem Mekonin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tarik_teshome">tarik_teshome</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>32</td>
-		<td>853</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>624</td>
+		<td>913</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/yeabnoah">
 				<img src="https://avatars.githubusercontent.com/u/141928801?s=72&u=53d1a4b50bda3e5b682b5d001af8eb88c2bd404d&v=4" width="24" alt="Avatar of yeabnoah"> yeabnoah
@@ -4960,39 +4862,193 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Life Os </td>
 		<td><a href="https://twitter.com/yeab2k">yeab2k</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>75</td>
-		<td>850</td>
+		<td>59</td>
+		<td>909</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/fanuelal">
+				<img src="https://avatars.githubusercontent.com/u/36011334?s=72&u=5a9036339c505b0fee6c2bbc4bea823d8c64c455&v=4" width="24" alt="Avatar of fanuelal"> fanuelal
+			</a><br/>
+			Fanuel Almaw
+		</td>
+		<td>Askuala Link </td>
+		<td><a href="https://twitter.com/AlmawFanuel">AlmawFanuel</a></td>
+		<td>Ethiopia</td>
+		<td>1</td>
+		<td>904</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/jossephus">
+				<img src="https://avatars.githubusercontent.com/u/46337696?s=72&u=27e02efb31ff2ff3b49dcf2fb7116b2079651dea&v=4" width="24" alt="Avatar of jossephus"> jossephus
+			</a><br/>
+			Josseph
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jossephus">jossephus</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>899</td>
+		<td>899</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/Dagic-zewdu">
+				<img src="https://avatars.githubusercontent.com/u/68595873?s=72&u=a7b5ce68a0fa4da2130047afb1b4088fdd71f147&v=4" width="24" alt="Avatar of Dagic-zewdu"> Dagic-zewdu
+			</a><br/>
+			Dagmawi zewdu
+		</td>
+		<td>Metrix Tech </td>
+		<td><a href="https://twitter.com/dagic4">dagic4</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>7</td>
+		<td>893</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/annah11">
+				<img src="https://avatars.githubusercontent.com/u/137293765?s=72&u=49f118198e88d9c7341f2b6d92f4eafbd79f264d&v=4" width="24" alt="Avatar of annah11"> annah11
+			</a><br/>
+			Hana Mesfin
+		</td>
+		<td>A2svian </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>590</td>
+		<td>890</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/Rio3210">
+				<img src="https://avatars.githubusercontent.com/u/101450610?s=72&u=c2022c577bc8ec4b0f2ce6fb8c5742657e32aa1d&v=4" width="24" alt="Avatar of Rio3210"> Rio3210
+			</a><br/>
+			Surafel Workayehu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Rio3210_">Rio3210_</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>88</td>
+		<td>887</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/Henok0728">
+				<img src="https://avatars.githubusercontent.com/u/169617350?s=72&u=a3dc29bd84b4a86aae45eb3b1cb45cf26d8aed4f&v=4" width="24" alt="Avatar of Henok0728"> Henok0728
+			</a><br/>
+			Henok Gizaw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>352</td>
+		<td>885</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/gelila-d">
+				<img src="https://avatars.githubusercontent.com/u/190993043?s=72&u=dbca747814eaca703c470b169cccc027f3d49d98&v=4" width="24" alt="Avatar of gelila-d"> gelila-d
+			</a><br/>
+			Gelila Dereje
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>183</td>
+		<td>885</td>
 	</tr>
 	<tr>
 		<td>348</td>
 		<td>
-			<a href="https://github.com/yeab-dev">
-				<img src="https://avatars.githubusercontent.com/u/144266037?s=72&u=9d797a40dd8c77493e25ca691a2bacccd74480ee&v=4" width="24" alt="Avatar of yeab-dev"> yeab-dev
+			<a href="https://github.com/Abenittz">
+				<img src="https://avatars.githubusercontent.com/u/136760687?s=72&u=aee80f3649e6289f9d0eab5e3fcab31070a2a08a&v=4" width="24" alt="Avatar of Abenittz"> Abenittz
 			</a><br/>
-			Yeab
+			Abenezer Tesfaye
 		</td>
-		<td>Wegegta Technologues </td>
-		<td><a href="https://twitter.com/yeab_dev">yeab_dev</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>281</td>
-		<td>849</td>
+		<td>25</td>
+		<td>881</td>
 	</tr>
 	<tr>
 		<td>349</td>
 		<td>
-			<a href="https://github.com/Ibranista">
-				<img src="https://avatars.githubusercontent.com/u/68871293?s=72&u=7cbb1035c9e6078292f36925e5eceb8c167d16a3&v=4" width="24" alt="Avatar of Ibranista"> Ibranista
+			<a href="https://github.com/Haile-08">
+				<img src="https://avatars.githubusercontent.com/u/75433928?s=72&u=720e77cb779a32689fc24436eb8e0b6fac069a0a&v=4" width="24" alt="Avatar of Haile-08"> Haile-08
 			</a><br/>
-			Ibrahim Kedir
+			Haile Melaku
 		</td>
-		<td>Playstream Llc </td>
-		<td><a href="https://twitter.com/ibranista">ibranista</a></td>
-		<td>Addis Ababa</td>
-		<td>20</td>
-		<td>848</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>230</td>
+		<td>879</td>
 	</tr>
 	<tr>
 		<td>350</td>
+		<td>
+			<a href="https://github.com/Eyosias5">
+				<img src="https://avatars.githubusercontent.com/u/31965944?s=72&u=cf40aaf5d82ac6e9cd6a6ff9f1a4e8c79e1c5db6&v=4" width="24" alt="Avatar of Eyosias5"> Eyosias5
+			</a><br/>
+			Eyosiasx5
+		</td>
+		<td>@alamahq  </td>
+		<td><a href="https://twitter.com/eyosias_x5">eyosias_x5</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>51</td>
+		<td>878</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/Fraol-12">
+				<img src="https://avatars.githubusercontent.com/u/199615248?s=72&u=45ab71c9862edfcc989341821c65c4f050f1eea3&v=4" width="24" alt="Avatar of Fraol-12"> Fraol-12
+			</a><br/>
+			Firaol Merga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>609</td>
+		<td>878</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/lemi-fayera">
+				<img src="https://avatars.githubusercontent.com/u/206424836?s=72&u=2c63a67d2944d39ec6cbb746aa25529408d0fa61&v=4" width="24" alt="Avatar of lemi-fayera"> lemi-fayera
+			</a><br/>
+			Lemi Fayera
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lemi_fayera">lemi_fayera</a></td>
+		<td>Ethiopia, Oromia, Gindo</td>
+		<td>663</td>
+		<td>873</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/kevenmuba">
+				<img src="https://avatars.githubusercontent.com/u/168195414?s=72&u=b75ad157de7f6d2f95231f85a46c452f20e96aae&v=4" width="24" alt="Avatar of kevenmuba"> kevenmuba
+			</a><br/>
+			Mubarek keven
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adiss Abeba,Ethiopia</td>
+		<td>498</td>
+		<td>870</td>
+	</tr>
+	<tr>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Mubarek26">
 				<img src="https://avatars.githubusercontent.com/u/173202894?s=72&u=360deef47befc801bbad8954f02e358f50536f18&v=4" width="24" alt="Avatar of Mubarek26"> Mubarek26
@@ -5002,25 +5058,81 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Techwave Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>547</td>
-		<td>844</td>
+		<td>509</td>
+		<td>864</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>355</td>
 		<td>
-			<a href="https://github.com/abdulhakimfedlu">
-				<img src="https://avatars.githubusercontent.com/u/155722598?s=72&u=4f1ba5d9483bcc375ec1285877a33ce446d6c2e5&v=4" width="24" alt="Avatar of abdulhakimfedlu"> abdulhakimfedlu
+			<a href="https://github.com/tsionbirhanu">
+				<img src="https://avatars.githubusercontent.com/u/168160291?s=72&u=db661ed490374db78bbc066a367db0c7038ba8ba&v=4" width="24" alt="Avatar of tsionbirhanu"> tsionbirhanu
 			</a><br/>
-			Abdulhakim Fedlu
+			Tsion Birhanu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BirhanuAsf95840">BirhanuAsf95840</a></td>
+		<td>Adama, Ethiopia</td>
+		<td>412</td>
+		<td>864</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/yordiyes">
+				<img src="https://avatars.githubusercontent.com/u/133559301?s=72&u=470388c3d7c0a5bb8e9a834b25854aee39b99ea6&v=4" width="24" alt="Avatar of yordiyes"> yordiyes
+			</a><br/>
+			Yordanos Yeshitla
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>844</td>
-		<td>844</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>32</td>
+		<td>863</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/dawit2123">
+				<img src="https://avatars.githubusercontent.com/u/106137900?s=72&u=fb1d6baa2709d44afa604eb205bf38168f21b804&v=4" width="24" alt="Avatar of dawit2123"> dawit2123
+			</a><br/>
+			Dawit Munie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>861</td>
+		<td>861</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/ashnafi1426">
+				<img src="https://avatars.githubusercontent.com/u/201331839?s=72&u=a0c58aef7b86a9dfcd752e6e10ef2bd474728955&v=4" width="24" alt="Avatar of ashnafi1426"> ashnafi1426
+			</a><br/>
+			Ashenafi sileshi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>667</td>
+		<td>856</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/Kalkidan407">
+				<img src="https://avatars.githubusercontent.com/u/178004754?s=72&u=242549b8912c780a516247eab92e7bb687c455ee&v=4" width="24" alt="Avatar of Kalkidan407"> Kalkidan407
+			</a><br/>
+			Kalkidan Kelemework
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Tshehay">Tshehay</a></td>
+		<td>Addis Ababa , Ethiopia </td>
+		<td>580</td>
+		<td>848</td>
+	</tr>
+	<tr>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/MadisoMelese">
 				<img src="https://avatars.githubusercontent.com/u/157389082?s=72&u=5deda817ddf4b92a324c1908e72ab37e59b55f50&v=4" width="24" alt="Avatar of MadisoMelese"> MadisoMelese
@@ -5030,11 +5142,39 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Teamwork It Solution </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>450</td>
-		<td>838</td>
+		<td>469</td>
+		<td>847</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/DeazStar">
+				<img src="https://avatars.githubusercontent.com/u/106472486?s=72&u=700caa7b5dcbcc48020ab1feb0694d1f7720bf66&v=4" width="24" alt="Avatar of DeazStar"> DeazStar
+			</a><br/>
+			Naod Ararsa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>261</td>
+		<td>846</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/miketorreno">
+				<img src="https://avatars.githubusercontent.com/u/80712616?s=72&v=4" width="24" alt="Avatar of miketorreno"> miketorreno
+			</a><br/>
+			Mike
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mike_torreno">mike_torreno</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>482</td>
+		<td>845</td>
+	</tr>
+	<tr>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/devmkey">
 				<img src="https://avatars.githubusercontent.com/u/60662620?s=72&u=10d6069196d197cec618e5d1b84fa06abcd63a4d&v=4" width="24" alt="Avatar of devmkey"> devmkey
@@ -5048,49 +5188,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>833</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>364</td>
 		<td>
-			<a href="https://github.com/Kalkidan407">
-				<img src="https://avatars.githubusercontent.com/u/178004754?s=72&u=4b2dd8acb2c0f8067fefbcb5094459cf08b15de4&v=4" width="24" alt="Avatar of Kalkidan407"> Kalkidan407
+			<a href="https://github.com/yeabtsega45">
+				<img src="https://avatars.githubusercontent.com/u/118176644?s=72&u=844c8853fe0a18235d1e64b33d44ff5d7f94937f&v=4" width="24" alt="Avatar of yeabtsega45"> yeabtsega45
 			</a><br/>
-			Kalkidan Kelemework
+			Yeabtsega Yeshidnber
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Tshehay">Tshehay</a></td>
-		<td>Addis Ababa , Ethiopia </td>
-		<td>559</td>
-		<td>832</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/SegniDessalegn">
-				<img src="https://avatars.githubusercontent.com/u/96206349?s=72&u=f57318290405cbd3fdff38bf5e64c52cf83f9036&v=4" width="24" alt="Avatar of SegniDessalegn"> SegniDessalegn
-			</a><br/>
-			Segni
-		</td>
-		<td>Draftbit </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>83</td>
-		<td>832</td>
+		<td>155</td>
+		<td>829</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>365</td>
 		<td>
-			<a href="https://github.com/Fraol-12">
-				<img src="https://avatars.githubusercontent.com/u/199615248?s=72&u=45ab71c9862edfcc989341821c65c4f050f1eea3&v=4" width="24" alt="Avatar of Fraol-12"> Fraol-12
+			<a href="https://github.com/deribewsoftware">
+				<img src="https://avatars.githubusercontent.com/u/118039173?s=72&u=e74382cba6e809a823ee45f0c166214a27d7bd38&v=4" width="24" alt="Avatar of deribewsoftware"> deribewsoftware
 			</a><br/>
-			Firaol Merga
+			Deribew Shimelis wosene
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>526</td>
-		<td>822</td>
+		<td>Addis Aabab ,Ethiopia</td>
+		<td>315</td>
+		<td>828</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/redet-G">
+				<img src="https://avatars.githubusercontent.com/u/20116752?s=72&u=77264a9d72671642729b4d954ced432211c0b08d&v=4" width="24" alt="Avatar of redet-G"> redet-G
+			</a><br/>
+			Redet Getachew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>175</td>
+		<td>824</td>
+	</tr>
+	<tr>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/furoyal7">
 				<img src="https://avatars.githubusercontent.com/u/210918158?s=72&u=42de39a212f9cb1141e4fa58c850739bd0eb1e42&v=4" width="24" alt="Avatar of furoyal7"> furoyal7
@@ -5104,119 +5244,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>820</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>368</td>
 		<td>
-			<a href="https://github.com/tsionbirhanu">
-				<img src="https://avatars.githubusercontent.com/u/168160291?s=72&u=db661ed490374db78bbc066a367db0c7038ba8ba&v=4" width="24" alt="Avatar of tsionbirhanu"> tsionbirhanu
+			<a href="https://github.com/ab3lT">
+				<img src="https://avatars.githubusercontent.com/u/72024981?s=72&u=ae5c20c88c6caf374a9d95247e53e43ac73a1b62&v=4" width="24" alt="Avatar of ab3lT"> ab3lT
 			</a><br/>
-			Tsion Birhanu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BirhanuAsf95840">BirhanuAsf95840</a></td>
-		<td>Adama, Ethiopia</td>
-		<td>418</td>
-		<td>820</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/Abenittz">
-				<img src="https://avatars.githubusercontent.com/u/136760687?s=72&u=aee80f3649e6289f9d0eab5e3fcab31070a2a08a&v=4" width="24" alt="Avatar of Abenittz"> Abenittz
-			</a><br/>
-			Abenezer Tesfaye
+			ab3lT
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>453</td>
+		<td>816</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/dagmawibabi">
+				<img src="https://avatars.githubusercontent.com/u/44819176?s=72&u=29b1a624b4ec3b70f2fefea413d745af95c6d91b&v=4" width="24" alt="Avatar of dagmawibabi"> dagmawibabi
+			</a><br/>
+			Dagmawi Babi
+		</td>
+		<td>Dream Intelligence </td>
+		<td><a href="https://twitter.com/DagmawiBabi">DagmawiBabi</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>26</td>
-		<td>805</td>
+		<td>377</td>
+		<td>814</td>
 	</tr>
 	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/miketorreno">
-				<img src="https://avatars.githubusercontent.com/u/80712616?s=72&v=4" width="24" alt="Avatar of miketorreno"> miketorreno
-			</a><br/>
-			Mike
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mike_torreno">mike_torreno</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>452</td>
-		<td>805</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/Dagic-zewdu">
-				<img src="https://avatars.githubusercontent.com/u/68595873?s=72&u=a7b5ce68a0fa4da2130047afb1b4088fdd71f147&v=4" width="24" alt="Avatar of Dagic-zewdu"> Dagic-zewdu
-			</a><br/>
-			Dagmawi zewdu
-		</td>
-		<td>Metrix Tech </td>
-		<td><a href="https://twitter.com/dagic4">dagic4</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>7</td>
-		<td>797</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/theblackethiopiandude">
-				<img src="https://avatars.githubusercontent.com/u/76533841?s=72&u=516a8d7d30b6e9354e9046817f092841cf2b15d8&v=4" width="24" alt="Avatar of theblackethiopiandude"> theblackethiopiandude
-			</a><br/>
-			Eyosiyas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>796</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/NebiyouBelaineh">
-				<img src="https://avatars.githubusercontent.com/u/66259527?s=72&u=8f05473b02e0fe5e8e36bb1d2161226cd9d38b9b&v=4" width="24" alt="Avatar of NebiyouBelaineh"> NebiyouBelaineh
-			</a><br/>
-			Nebiyou Belaineh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SeifuNebiyou">SeifuNebiyou</a></td>
-		<td>Ethiopia</td>
-		<td>494</td>
-		<td>793</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/duresaguye">
-				<img src="https://avatars.githubusercontent.com/u/129600771?s=72&u=c0c8f58019350c76e790e2df927e3c6439284e03&v=4" width="24" alt="Avatar of duresaguye"> duresaguye
-			</a><br/>
-			Dura G.
-		</td>
-		<td>@techeth </td>
-		<td><a href="https://twitter.com/dure_guye">dure_guye</a></td>
-		<td>Addis Ababa</td>
-		<td>154</td>
-		<td>791</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/Kumilachew-g">
-				<img src="https://avatars.githubusercontent.com/u/65109017?s=72&u=9fae08daa576ea417b37256aa180d3dad5687585&v=4" width="24" alt="Avatar of Kumilachew-g"> Kumilachew-g
-			</a><br/>
-			Kumilachew Getie
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/Getie_Haddis">Getie_Haddis</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>786</td>
-	</tr>
-	<tr>
-		<td>366</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/samuael">
 				<img src="https://avatars.githubusercontent.com/u/39623015?s=72&u=aca7bba4c8abe57dc4c8d32bddd77534572c6ce5&v=4" width="24" alt="Avatar of samuael"> samuael
@@ -5226,53 +5282,81 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@thrasher-corp And @ammi-2022 </td>
 		<td><a href="https://twitter.com/SamuaelAdnew">SamuaelAdnew</a></td>
 		<td>Ethiopia</td>
-		<td>45</td>
-		<td>774</td>
+		<td>32</td>
+		<td>814</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>371</td>
 		<td>
-			<a href="https://github.com/tsi1221">
-				<img src="https://avatars.githubusercontent.com/u/184611811?s=72&u=676f799621d3477b556d6b350885add9ec2c6970&v=4" width="24" alt="Avatar of tsi1221"> tsi1221
+			<a href="https://github.com/NebiyouBelaineh">
+				<img src="https://avatars.githubusercontent.com/u/66259527?s=72&u=8f05473b02e0fe5e8e36bb1d2161226cd9d38b9b&v=4" width="24" alt="Avatar of NebiyouBelaineh"> NebiyouBelaineh
 			</a><br/>
-			tsehaynesh B.
+			Nebiyou Belaineh
 		</td>
-		<td>Insa </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SeifuNebiyou">SeifuNebiyou</a></td>
+		<td>Ethiopia</td>
+		<td>478</td>
+		<td>813</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/noble-ch">
+				<img src="https://avatars.githubusercontent.com/u/123499650?s=72&u=05faba5630b8f8d65caf57a06ef1cf4b0ec8d6c1&v=4" width="24" alt="Avatar of noble-ch"> noble-ch
+			</a><br/>
+			Noble Biru
+		</td>
+		<td>Adama Science And Technology<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>5</td>
+		<td>806</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/atocodes">
+				<img src="https://avatars.githubusercontent.com/u/80741016?s=72&u=455f69cca129e3674c77ca4256426a9d0ddc8008&v=4" width="24" alt="Avatar of atocodes"> atocodes
+			</a><br/>
+			አቶ Codes
+		</td>
+		<td>እኔ ሐበሻ | Mhcda<br/></td>
+		<td><a href="https://twitter.com/ato_codes">ato_codes</a></td>
+		<td>Ethiopia Addis Ababa</td>
+		<td>233</td>
+		<td>801</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/nebiyelioul">
+				<img src="https://avatars.githubusercontent.com/u/39603410?s=72&u=8918aecee2eb02765ddc680e7602fbc35ffac100&v=4" width="24" alt="Avatar of nebiyelioul"> nebiyelioul
+			</a><br/>
+			Nebiye Lioul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>2</td>
+		<td>788</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/theblackethiopiandude">
+				<img src="https://avatars.githubusercontent.com/u/76533841?s=72&u=516a8d7d30b6e9354e9046817f092841cf2b15d8&v=4" width="24" alt="Avatar of theblackethiopiandude"> theblackethiopiandude
+			</a><br/>
+			Eyosiyas
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>487</td>
-		<td>770</td>
+		<td>0</td>
+		<td>786</td>
 	</tr>
 	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/lijnati">
-				<img src="https://avatars.githubusercontent.com/u/80381617?s=72&u=0a78cdd903db82ddb2d5285f6ec9f358ef653b62&v=4" width="24" alt="Avatar of lijnati"> lijnati
-			</a><br/>
-			yegetaneh firew
-		</td>
-		<td>Xylo </td>
-		<td><a href="https://twitter.com/0xnahtty">0xnahtty</a></td>
-		<td>Ethiopia</td>
-		<td>202</td>
-		<td>769</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/Misikerr">
-				<img src="https://avatars.githubusercontent.com/u/146325517?s=72&u=4407c2202e539ef6dd2a75e60b97d4a0c384ab51&v=4" width="24" alt="Avatar of Misikerr"> Misikerr
-			</a><br/>
-			Misiker_Genene
-		</td>
-		<td>Zementech </td>
-		<td>No Twitter Username</td>
-		<td>Arbaminch, Ethiopia</td>
-		<td>242</td>
-		<td>766</td>
-	</tr>
-	<tr>
-		<td>370</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/Yihun-Alemayehu">
 				<img src="https://avatars.githubusercontent.com/u/101422490?s=72&u=a50375b498ac11869d6cdec23bf67b04b6c72ce9&v=4" width="24" alt="Avatar of Yihun-Alemayehu"> Yihun-Alemayehu
@@ -5282,134 +5366,50 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Yize Tech </td>
 		<td>No Twitter Username</td>
 		<td>Addis ababa</td>
-		<td>59</td>
-		<td>764</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/TheSecondChance">
-				<img src="https://avatars.githubusercontent.com/u/132612647?s=72&u=f53e264046618a6b67b0a7b7efbee7a3ee37498c&v=4" width="24" alt="Avatar of TheSecondChance"> TheSecondChance
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eyasu_software">eyasu_software</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>137</td>
-		<td>757</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/gelila-d">
-				<img src="https://avatars.githubusercontent.com/u/190993043?s=72&u=dbca747814eaca703c470b169cccc027f3d49d98&v=4" width="24" alt="Avatar of gelila-d"> gelila-d
-			</a><br/>
-			Gelila Dereje
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>169</td>
-		<td>755</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/fahim-11">
-				<img src="https://avatars.githubusercontent.com/u/135438380?s=72&u=e2a617a56884f7267a8496377b3e02496e366717&v=4" width="24" alt="Avatar of fahim-11"> fahim-11
-			</a><br/>
-			Fahim Oumer
-		</td>
-		<td>Alyah Software Plc </td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar ,Ethiopia</td>
-		<td>1</td>
-		<td>754</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/NatnaelMalike">
-				<img src="https://avatars.githubusercontent.com/u/112170027?s=72&u=ea38ea8f58f6f40e8b2306eac7c813ac9694dff8&v=4" width="24" alt="Avatar of NatnaelMalike"> NatnaelMalike
-			</a><br/>
-			Natnael Malike
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>38</td>
-		<td>754</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/Muller1616">
-				<img src="https://avatars.githubusercontent.com/u/183144163?s=72&u=86b39242ca17a632508f42cefd667c5262fe7e7c&v=4" width="24" alt="Avatar of Muller1616"> Muller1616
-			</a><br/>
-			Mulugeta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>750</td>
-		<td>750</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/Samuel-Fikre">
-				<img src="https://avatars.githubusercontent.com/u/173048410?s=72&u=828869268d9f2250cabf6570619779a8b544be68&v=4" width="24" alt="Avatar of Samuel-Fikre"> Samuel-Fikre
-			</a><br/>
-			Samuel Fikre
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SamuelFikre_">SamuelFikre_</a></td>
-		<td>Addis Ababa</td>
-		<td>282</td>
-		<td>749</td>
+		<td>47</td>
+		<td>782</td>
 	</tr>
 	<tr>
 		<td>377</td>
 		<td>
-			<a href="https://github.com/gelftheshot">
-				<img src="https://avatars.githubusercontent.com/u/113858444?s=72&u=bb0e11839846463bfdd6e98ba8ea5b56fbd0efa4&v=4" width="24" alt="Avatar of gelftheshot"> gelftheshot
+			<a href="https://github.com/BinaDev29">
+				<img src="https://avatars.githubusercontent.com/u/201996932?s=72&u=e205b23aae7965dbc3492db0fee54c7cb0ab209f&v=4" width="24" alt="Avatar of BinaDev29"> BinaDev29
 			</a><br/>
-			Lihon Gebre
+			꧁༒☬ᶜᴿᴬᶻᵞkíllє®™r☬༒꧂
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>17</td>
-		<td>746</td>
+		<td>Student </td>
+		<td><a href="https://twitter.com/BTehakele16435">BTehakele16435</a></td>
+		<td>Debre Berhan University (DBU) :  Ethiopia</td>
+		<td>491</td>
+		<td>776</td>
 	</tr>
 	<tr>
 		<td>378</td>
 		<td>
-			<a href="https://github.com/DeazStar">
-				<img src="https://avatars.githubusercontent.com/u/106472486?s=72&u=026d5c018a48b96221edd9336616fcbb77bec81b&v=4" width="24" alt="Avatar of DeazStar"> DeazStar
+			<a href="https://github.com/tsi1221">
+				<img src="https://avatars.githubusercontent.com/u/184611811?s=72&u=cd35e3c28c571b07bbb36f838550349f3d62dc24&v=4" width="24" alt="Avatar of tsi1221"> tsi1221
 			</a><br/>
-			Naod Ararsa
+			tsehaynesh B.
 		</td>
-		<td>No Company</td>
+		<td>Insa </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>196</td>
-		<td>746</td>
+		<td>483</td>
+		<td>765</td>
 	</tr>
 	<tr>
 		<td>379</td>
 		<td>
-			<a href="https://github.com/Yohannesdejene">
-				<img src="https://avatars.githubusercontent.com/u/81425097?s=72&u=bf7bc1a1ebd1e2d20d82fbf4291515c569f0a207&v=4" width="24" alt="Avatar of Yohannesdejene"> Yohannesdejene
+			<a href="https://github.com/practicmakesperfact">
+				<img src="https://avatars.githubusercontent.com/u/185587092?s=72&u=6b8f39c9b994e378e3d963e08bedd01ff2da3b57&v=4" width="24" alt="Avatar of practicmakesperfact"> practicmakesperfact
 			</a><br/>
-			johnabi
+			Haymanot Asmare
 		</td>
-		<td>Addis Ababa University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>19</td>
-		<td>740</td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>563</td>
+		<td>748</td>
 	</tr>
 	<tr>
 		<td>380</td>
@@ -5422,137 +5422,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>255</td>
-		<td>732</td>
+		<td>234</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>381</td>
 		<td>
-			<a href="https://github.com/dot-ruth">
-				<img src="https://avatars.githubusercontent.com/u/88771414?s=72&u=6504a740035b0d6cdec255b4ff65786b8bce3f55&v=4" width="24" alt="Avatar of dot-ruth"> dot-ruth
+			<a href="https://github.com/Tsedniya">
+				<img src="https://avatars.githubusercontent.com/u/136121375?s=72&u=631f724a870885553a1898774e32ee15a24ced81&v=4" width="24" alt="Avatar of Tsedniya"> Tsedniya
 			</a><br/>
-			Ruth Abiti 
+			Tsedniya Frezewed 
 		</td>
-		<td>Yenehealth </td>
-		<td><a href="https://twitter.com/Ruth__dot">Ruth__dot</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>126</td>
-		<td>730</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>743</td>
+		<td>743</td>
 	</tr>
 	<tr>
 		<td>382</td>
 		<td>
-			<a href="https://github.com/Osamaseid">
-				<img src="https://avatars.githubusercontent.com/u/119799518?s=72&u=0eae0a38046dafbb23c125bdcdf8b0f3b7621670&v=4" width="24" alt="Avatar of Osamaseid"> Osamaseid
+			<a href="https://github.com/RobelAlemayehu">
+				<img src="https://avatars.githubusercontent.com/u/199835958?s=72&u=ece1566e5e0660fc0efb2bf7b6bc1462de15d22d&v=4" width="24" alt="Avatar of RobelAlemayehu"> RobelAlemayehu
 			</a><br/>
-			OSAMA SEID
+			Robel Alemayehu Gebreyohannes
 		</td>
-		<td>Jimma University </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>236</td>
-		<td>728</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Rovel_19">Rovel_19</a></td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>737</td>
+		<td>737</td>
 	</tr>
 	<tr>
 		<td>383</td>
 		<td>
-			<a href="https://github.com/zakisudev">
-				<img src="https://avatars.githubusercontent.com/u/36282172?s=72&u=706cc22b06fcbd9dff43e29b58eb69db4d2dea62&v=4" width="24" alt="Avatar of zakisudev"> zakisudev
+			<a href="https://github.com/yonasleykun27">
+				<img src="https://avatars.githubusercontent.com/u/107372399?s=72&u=96e671bc2781e1d400064f8e851b3cf56a2e55e0&v=4" width="24" alt="Avatar of yonasleykun27"> yonasleykun27
 			</a><br/>
-			Zekaria Mohammed Hussien
+			Yonas Leykun
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zakisu">zakisu</a></td>
-		<td>Addis Ababa</td>
-		<td>13</td>
-		<td>724</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>730</td>
+		<td>730</td>
 	</tr>
 	<tr>
 		<td>384</td>
 		<td>
-			<a href="https://github.com/EphriamHab">
-				<img src="https://avatars.githubusercontent.com/u/117913070?s=72&u=a938e919dbf0383b290467b845943f9954fc3801&v=4" width="24" alt="Avatar of EphriamHab"> EphriamHab
+			<a href="https://github.com/Sireat">
+				<img src="https://avatars.githubusercontent.com/u/102405529?s=72&u=323d35b8f5a1d7cfb4f7935da3d738fc8f17eee8&v=4" width="24" alt="Avatar of Sireat"> Sireat
 			</a><br/>
-			Ephrem Habtamu
+			Sireat
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>60</td>
-		<td>699</td>
+		<td>Addis Ababa,  Ethiopia</td>
+		<td>53</td>
+		<td>730</td>
 	</tr>
 	<tr>
 		<td>385</td>
-		<td>
-			<a href="https://github.com/Bisrategebriel">
-				<img src="https://avatars.githubusercontent.com/u/42300234?s=72&u=9ecb9bd44276ba049bc0c56b8173f2d8971db8b1&v=4" width="24" alt="Avatar of Bisrategebriel"> Bisrategebriel
-			</a><br/>
-			Bisrategebriel Fisseha
-		</td>
-		<td>Insight Sphere </td>
-		<td><a href="https://twitter.com/Bisrate22Fish">Bisrate22Fish</a></td>
-		<td>Addis Ababa</td>
-		<td>175</td>
-		<td>698</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/Samrawit-alemu">
-				<img src="https://avatars.githubusercontent.com/u/152712148?s=72&u=6082bc882f0dd9216505c4826a0daf036074eb79&v=4" width="24" alt="Avatar of Samrawit-alemu"> Samrawit-alemu
-			</a><br/>
-			Samrawit Alemu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>698</td>
-		<td>698</td>
-	</tr>
-	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/Atnabon">
-				<img src="https://avatars.githubusercontent.com/u/99293642?s=72&u=b57a56d51980aa354efea9b9e835b81302771062&v=4" width="24" alt="Avatar of Atnabon"> Atnabon
-			</a><br/>
-			Atnabon Deressa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>698</td>
-		<td>698</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/bete7512">
-				<img src="https://avatars.githubusercontent.com/u/99134122?s=72&u=e6d193c67a2f0a4ea2f88a35110ce927149c973d&v=4" width="24" alt="Avatar of bete7512"> bete7512
-			</a><br/>
-			Bete Goshme
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addiss Ababa,Ethiopia</td>
-		<td>363</td>
-		<td>696</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/shmuye">
-				<img src="https://avatars.githubusercontent.com/u/167541848?s=72&u=9ecd0493872a8bbae3f47c869879bcaf702bfad3&v=4" width="24" alt="Avatar of shmuye"> shmuye
-			</a><br/>
-			Shmuye Ayalneh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/shudev27">shudev27</a></td>
-		<td>Addis Ababa</td>
-		<td>566</td>
-		<td>696</td>
-	</tr>
-	<tr>
-		<td>390</td>
 		<td>
 			<a href="https://github.com/BesufikadHosiso">
 				<img src="https://avatars.githubusercontent.com/u/194159936?s=72&u=f2981e0c36ec5839238e8ec8deb8dbde85106d68&v=4" width="24" alt="Avatar of BesufikadHosiso"> BesufikadHosiso
@@ -5562,11 +5492,123 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Matrix </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>447</td>
-		<td>692</td>
+		<td>461</td>
+		<td>723</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/tarik350">
+				<img src="https://avatars.githubusercontent.com/u/80385670?s=72&u=c4fd46f6717aa7dd449c5fbc5e9262fd6bd9502d&v=4" width="24" alt="Avatar of tarik350"> tarik350
+			</a><br/>
+			Tarik Teshome
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tarik_teshome">tarik_teshome</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>24</td>
+		<td>715</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/Muller1616">
+				<img src="https://avatars.githubusercontent.com/u/183144163?s=72&u=86b39242ca17a632508f42cefd667c5262fe7e7c&v=4" width="24" alt="Avatar of Muller1616"> Muller1616
+			</a><br/>
+			Mulugeta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>714</td>
+		<td>714</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/eyob13-coder">
+				<img src="https://avatars.githubusercontent.com/u/157361748?s=72&u=2064f3c94f4b984c8b38db63116c8502289573b3&v=4" width="24" alt="Avatar of eyob13-coder"> eyob13-coder
+			</a><br/>
+			Eyob
+		</td>
+		<td>@eotcopensource </td>
+		<td><a href="https://twitter.com/Eyob_Geremew_">Eyob_Geremew_</a></td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>369</td>
+		<td>714</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/Bisrategebriel">
+				<img src="https://avatars.githubusercontent.com/u/42300234?s=72&u=9ecb9bd44276ba049bc0c56b8173f2d8971db8b1&v=4" width="24" alt="Avatar of Bisrategebriel"> Bisrategebriel
+			</a><br/>
+			Bisrategebriel Fisseha
+		</td>
+		<td>Insight Sphere </td>
+		<td><a href="https://twitter.com/Bisrate22Fish">Bisrate22Fish</a></td>
+		<td>Addis Ababa</td>
+		<td>179</td>
+		<td>714</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/Samuel-Fikre">
+				<img src="https://avatars.githubusercontent.com/u/173048410?s=72&u=828869268d9f2250cabf6570619779a8b544be68&v=4" width="24" alt="Avatar of Samuel-Fikre"> Samuel-Fikre
+			</a><br/>
+			Samuel Fikre
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SamuelFikre_">SamuelFikre_</a></td>
+		<td>Addis Ababa</td>
+		<td>306</td>
+		<td>710</td>
 	</tr>
 	<tr>
 		<td>391</td>
+		<td>
+			<a href="https://github.com/Osamaseid">
+				<img src="https://avatars.githubusercontent.com/u/119799518?s=72&u=0eae0a38046dafbb23c125bdcdf8b0f3b7621670&v=4" width="24" alt="Avatar of Osamaseid"> Osamaseid
+			</a><br/>
+			OSAMA SEID
+		</td>
+		<td>Jimma University </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>220</td>
+		<td>709</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/Abelo73">
+				<img src="https://avatars.githubusercontent.com/u/117712700?s=72&u=762a0b34cb9196a467e6f12845598e72d736c26f&v=4" width="24" alt="Avatar of Abelo73"> Abelo73
+			</a><br/>
+			Abel Adisu
+		</td>
+		<td> @abelo73 </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Abeba</td>
+		<td>235</td>
+		<td>709</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/EphriamHab">
+				<img src="https://avatars.githubusercontent.com/u/117913070?s=72&u=a938e919dbf0383b290467b845943f9954fc3801&v=4" width="24" alt="Avatar of EphriamHab"> EphriamHab
+			</a><br/>
+			Ephrem Habtamu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>59</td>
+		<td>708</td>
+	</tr>
+	<tr>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/kaleabMelkamu">
 				<img src="https://avatars.githubusercontent.com/u/45170349?s=72&v=4" width="24" alt="Avatar of kaleabMelkamu"> kaleabMelkamu
@@ -5576,50 +5618,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dev_kaleab">dev_kaleab</a></td>
 		<td>Addis Ababa,Ethiopia</td>
-		<td>2</td>
-		<td>692</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/MubarekHussen">
-				<img src="https://avatars.githubusercontent.com/u/96715809?s=72&u=7b2952a94b7fffd3c8932777186148e261832b6b&v=4" width="24" alt="Avatar of MubarekHussen"> MubarekHussen
-			</a><br/>
-			Mubarek Hussen Endris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>691</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/leobitz">
-				<img src="https://avatars.githubusercontent.com/u/16560814?s=72&u=9195dd66c78f5a4bad1608faf049f2a662385f55&v=4" width="24" alt="Avatar of leobitz"> leobitz
-			</a><br/>
-			Amanuel Negash Mersha
-		</td>
-		<td>Addis Ababa University </td>
-		<td><a href="https://twitter.com/AmanBitz">AmanBitz</a></td>
-		<td>Addis Ababa</td>
-		<td>34</td>
-		<td>687</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/nebiyelioul">
-				<img src="https://avatars.githubusercontent.com/u/39603410?s=72&u=8918aecee2eb02765ddc680e7602fbc35ffac100&v=4" width="24" alt="Avatar of nebiyelioul"> nebiyelioul
-			</a><br/>
-			Nebiye Lioul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>2</td>
-		<td>686</td>
+		<td>17</td>
+		<td>707</td>
 	</tr>
 	<tr>
 		<td>395</td>
@@ -5632,193 +5632,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abrsiz">abrsiz</a></td>
 		<td>Addis Ababa , Ethiopia</td>
-		<td>249</td>
-		<td>682</td>
+		<td>259</td>
+		<td>702</td>
 	</tr>
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/RobelAlemayehu">
-				<img src="https://avatars.githubusercontent.com/u/199835958?s=72&u=ece1566e5e0660fc0efb2bf7b6bc1462de15d22d&v=4" width="24" alt="Avatar of RobelAlemayehu"> RobelAlemayehu
+			<a href="https://github.com/MubarekHussen">
+				<img src="https://avatars.githubusercontent.com/u/96715809?s=72&u=7b2952a94b7fffd3c8932777186148e261832b6b&v=4" width="24" alt="Avatar of MubarekHussen"> MubarekHussen
 			</a><br/>
-			Robel Alemayehu Gebreyohannes
+			Mubarek Hussen Endris
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Rovel_19">Rovel_19</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>682</td>
-		<td>682</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>698</td>
 	</tr>
 	<tr>
 		<td>397</td>
 		<td>
-			<a href="https://github.com/tenbite-daniel">
-				<img src="https://avatars.githubusercontent.com/u/101597746?s=72&v=4" width="24" alt="Avatar of tenbite-daniel"> tenbite-daniel
+			<a href="https://github.com/Atnabon">
+				<img src="https://avatars.githubusercontent.com/u/99293642?s=72&u=b57a56d51980aa354efea9b9e835b81302771062&v=4" width="24" alt="Avatar of Atnabon"> Atnabon
 			</a><br/>
-			Tenbite Daniel
+			Atnabon Deressa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>677</td>
-		<td>677</td>
+		<td>695</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>398</td>
 		<td>
-			<a href="https://github.com/noahchernet">
-				<img src="https://avatars.githubusercontent.com/u/86301024?s=72&u=034be963172a3bac6dedaaf8645d4cea2a226d17&v=4" width="24" alt="Avatar of noahchernet"> noahchernet
+			<a href="https://github.com/fahim-11">
+				<img src="https://avatars.githubusercontent.com/u/135438380?s=72&u=e2a617a56884f7267a8496377b3e02496e366717&v=4" width="24" alt="Avatar of fahim-11"> fahim-11
 			</a><br/>
-			Noah Chernet
+			Fahim Oumer
 		</td>
-		<td>No Company</td>
+		<td>Alyah Software Plc </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>65</td>
-		<td>677</td>
+		<td>Bahir Dar ,Ethiopia</td>
+		<td>1</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>399</td>
-		<td>
-			<a href="https://github.com/DagNo1">
-				<img src="https://avatars.githubusercontent.com/u/102017186?s=72&u=3b3b04692dee21c1b2f00952ba640688e5ae8c3f&v=4" width="24" alt="Avatar of DagNo1"> DagNo1
-			</a><br/>
-			Dagim Tesfaye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>150</td>
-		<td>677</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/mumekonin">
-				<img src="https://avatars.githubusercontent.com/u/180072762?s=72&u=f6fcc1715f41e5b64f24ac308514381dcb2c9a3a&v=4" width="24" alt="Avatar of mumekonin"> mumekonin
-			</a><br/>
-			MULUALEM MEKONIN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>496</td>
-		<td>675</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/Kidtd12">
-				<img src="https://avatars.githubusercontent.com/u/187760549?s=72&u=efd57662fe7cdf2803e672cc4c1b9b2208d65f02&v=4" width="24" alt="Avatar of Kidtd12"> Kidtd12
-			</a><br/>
-			kidist tadesse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa </td>
-		<td>652</td>
-		<td>669</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/Yemisirach">
-				<img src="https://avatars.githubusercontent.com/u/104437323?s=72&u=904c8b9f2b9c3e3438ccc2a27982160733dd1de3&v=4" width="24" alt="Avatar of Yemisirach"> Yemisirach
-			</a><br/>
-			No Name
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/TamratYemsrach">TamratYemsrach</a></td>
-		<td>Hossaena, South Ethiopia</td>
-		<td>44</td>
-		<td>664</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/yonasleykun27">
-				<img src="https://avatars.githubusercontent.com/u/107372399?s=72&u=96e671bc2781e1d400064f8e851b3cf56a2e55e0&v=4" width="24" alt="Avatar of yonasleykun27"> yonasleykun27
-			</a><br/>
-			Yonas Leykun
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>650</td>
-		<td>650</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/yohhannees">
-				<img src="https://avatars.githubusercontent.com/u/105593295?s=72&u=4c84231b6ce1b5d73bebdb847246442c140301f0&v=4" width="24" alt="Avatar of yohhannees"> yohhannees
-			</a><br/>
-			Yohannes Getachew
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yohhannees">yohhannees</a></td>
-		<td>Addis Ababa</td>
-		<td>102</td>
-		<td>649</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/nardoshood">
-				<img src="https://avatars.githubusercontent.com/u/47063922?s=72&u=84337fae9706794b76606cd88ff1506feffa4588&v=4" width="24" alt="Avatar of nardoshood"> nardoshood
-			</a><br/>
-			Nardos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nardos_hood">nardos_hood</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-		<td>645</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/Getachew0557">
-				<img src="https://avatars.githubusercontent.com/u/85767924?s=72&u=dfe520750ff9d4f5f41affb549f5bf6d904b013f&v=4" width="24" alt="Avatar of Getachew0557"> Getachew0557
-			</a><br/>
-			Getachew Getu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/EnyewGetu">EnyewGetu</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>299</td>
-		<td>638</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/MicrQ">
-				<img src="https://avatars.githubusercontent.com/u/140071383?s=72&u=3439453365cec36d95dc5f59979b222c4f38b9ee&v=4" width="24" alt="Avatar of MicrQ"> MicrQ
-			</a><br/>
-			Abenet Gebre
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Abenet_">Abenet_</a></td>
-		<td>Hawassa, Ethiopia</td>
-		<td>90</td>
-		<td>631</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/chalasimon">
-				<img src="https://avatars.githubusercontent.com/u/26658543?s=72&u=7930ce3d774dd6dd87ca8b5bd46925f178cb857c&v=4" width="24" alt="Avatar of chalasimon"> chalasimon
-			</a><br/>
-			chalasimon
-		</td>
-		<td>Awash Bank S.c. </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>25</td>
-		<td>629</td>
-	</tr>
-	<tr>
-		<td>409</td>
 		<td>
 			<a href="https://github.com/milen-ale">
 				<img src="https://avatars.githubusercontent.com/u/96333200?s=72&u=5aa3f73185e5b07686a538f1f8cb274fa550f688&v=4" width="24" alt="Avatar of milen-ale"> milen-ale
@@ -5829,24 +5689,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/milenalebel2">milenalebel2</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>15</td>
-		<td>627</td>
+		<td>693</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>400</td>
 		<td>
-			<a href="https://github.com/Miheret-Girmachew">
-				<img src="https://avatars.githubusercontent.com/u/124549518?s=72&u=e4f48ab44ac5e8f3ca088d9296def613f0d52b2b&v=4" width="24" alt="Avatar of Miheret-Girmachew"> Miheret-Girmachew
+			<a href="https://github.com/Ibranista">
+				<img src="https://avatars.githubusercontent.com/u/68871293?s=72&u=7cbb1035c9e6078292f36925e5eceb8c167d16a3&v=4" width="24" alt="Avatar of Ibranista"> Ibranista
 			</a><br/>
-			Miheret Girmachew 
+			Ibrahim Kedir
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>200</td>
-		<td>616</td>
+		<td>Playstream Llc </td>
+		<td><a href="https://twitter.com/ibranista">ibranista</a></td>
+		<td>Addis Ababa</td>
+		<td>20</td>
+		<td>688</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/NathyG2524">
 				<img src="https://avatars.githubusercontent.com/u/88330679?s=72&u=9017c4191c6a09514f4a29456c6892da4f0b13a1&v=4" width="24" alt="Avatar of NathyG2524"> NathyG2524
@@ -5856,120 +5716,260 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NathyGirma">NathyGirma</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>128</td>
-		<td>611</td>
+		<td>127</td>
+		<td>688</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/jenberu">
+				<img src="https://avatars.githubusercontent.com/u/121803439?s=72&u=953b929daa1e467fccceea4df4bd9a7723e00de6&v=4" width="24" alt="Avatar of jenberu"> jenberu
+			</a><br/>
+			jemberu kassie
+		</td>
+		<td>Bahir Dar University </td>
+		<td>No Twitter Username</td>
+		<td>Bahir Dar, Ethiopia</td>
+		<td>38</td>
+		<td>686</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/dot-ruth">
+				<img src="https://avatars.githubusercontent.com/u/88771414?s=72&u=6504a740035b0d6cdec255b4ff65786b8bce3f55&v=4" width="24" alt="Avatar of dot-ruth"> dot-ruth
+			</a><br/>
+			Ruth Abiti 
+		</td>
+		<td>Yenehealth </td>
+		<td><a href="https://twitter.com/Ruth__dot">Ruth__dot</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>138</td>
+		<td>686</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/wacoo">
+				<img src="https://avatars.githubusercontent.com/u/9458141?s=72&u=9db93e834174a3012a41b2a57c1fb6a6208a0e0b&v=4" width="24" alt="Avatar of wacoo"> wacoo
+			</a><br/>
+			Wondmagegn Abriham
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/wabaham9">wabaham9</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>36</td>
+		<td>679</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/leobitz">
+				<img src="https://avatars.githubusercontent.com/u/16560814?s=72&u=9195dd66c78f5a4bad1608faf049f2a662385f55&v=4" width="24" alt="Avatar of leobitz"> leobitz
+			</a><br/>
+			Amanuel Negash Mersha
+		</td>
+		<td>Addis Ababa University </td>
+		<td><a href="https://twitter.com/AmanBitz">AmanBitz</a></td>
+		<td>Addis Ababa</td>
+		<td>47</td>
+		<td>678</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/YeabTilahun">
+				<img src="https://avatars.githubusercontent.com/u/74009399?s=72&u=85ed5ca3c5ea304aa7b8bea797675a1ad9e3abcd&v=4" width="24" alt="Avatar of YeabTilahun"> YeabTilahun
+			</a><br/>
+			Yeabsira
+		</td>
+		<td>Ablaze Labs </td>
+		<td><a href="https://twitter.com/yeabtilahun_">yeabtilahun_</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>44</td>
+		<td>678</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/yohhannees">
+				<img src="https://avatars.githubusercontent.com/u/105593295?s=72&u=4c84231b6ce1b5d73bebdb847246442c140301f0&v=4" width="24" alt="Avatar of yohhannees"> yohhannees
+			</a><br/>
+			Yohannes Getachew
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yohhannees">yohhannees</a></td>
+		<td>Addis Ababa</td>
+		<td>102</td>
+		<td>677</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/arthemisz">
+				<img src="https://avatars.githubusercontent.com/u/212117538?s=72&u=397407bc4812b4b699713f7ff51a632ea9030ae0&v=4" width="24" alt="Avatar of arthemisz"> arthemisz
+			</a><br/>
+			Melekte Ermias
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Xarthemisz">Xarthemisz</a></td>
+		<td>Ethiopia </td>
+		<td>672</td>
+		<td>677</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/DagNo1">
+				<img src="https://avatars.githubusercontent.com/u/102017186?s=72&u=3b3b04692dee21c1b2f00952ba640688e5ae8c3f&v=4" width="24" alt="Avatar of DagNo1"> DagNo1
+			</a><br/>
+			Dagim Tesfaye
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>129</td>
+		<td>675</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/abrhame">
+				<img src="https://avatars.githubusercontent.com/u/99506193?s=72&u=53978c2cec1e8dd2f27d790c30491150bf37ce93&v=4" width="24" alt="Avatar of abrhame"> abrhame
+			</a><br/>
+			Abrham Lakew
+		</td>
+		<td>Africa To Silicon Valley<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/shmuye">
+				<img src="https://avatars.githubusercontent.com/u/167541848?s=72&u=9ecd0493872a8bbae3f47c869879bcaf702bfad3&v=4" width="24" alt="Avatar of shmuye"> shmuye
+			</a><br/>
+			Shmuye Ayalneh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/shudev27">shudev27</a></td>
+		<td>Addis Ababa</td>
+		<td>540</td>
+		<td>672</td>
 	</tr>
 	<tr>
 		<td>412</td>
 		<td>
+			<a href="https://github.com/MannyIOI">
+				<img src="https://avatars.githubusercontent.com/u/39325482?s=72&u=1bda5e71193dbda6a668e252a6734fcf1eb1824d&v=4" width="24" alt="Avatar of MannyIOI"> MannyIOI
+			</a><br/>
+			Amanuel T.
+		</td>
+		<td>@shilengae  </td>
+		<td><a href="https://twitter.com/AmanuelTef">AmanuelTef</a></td>
+		<td>Ethiopia</td>
+		<td>27</td>
+		<td>666</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/tenbite-daniel">
+				<img src="https://avatars.githubusercontent.com/u/101597746?s=72&v=4" width="24" alt="Avatar of tenbite-daniel"> tenbite-daniel
+			</a><br/>
+			Tenbite Daniel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>660</td>
+		<td>660</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/Tadessejemal1">
+				<img src="https://avatars.githubusercontent.com/u/85793292?s=72&u=3cbcb11aa70f0d3dc2778c100f225f41e939e993&v=4" width="24" alt="Avatar of Tadessejemal1"> Tadessejemal1
+			</a><br/>
+			Tadesse Jemal
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/tadesse">tadesse</a></td>
+		<td>Ethiopia</td>
+		<td>121</td>
+		<td>658</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
 			<a href="https://github.com/TAMIRAT-FEREJA-T">
-				<img src="https://avatars.githubusercontent.com/u/100931093?s=72&u=e49a3ea889e1371398a491182e40a44f344f5687&v=4" width="24" alt="Avatar of TAMIRAT-FEREJA-T"> TAMIRAT-FEREJA-T
+				<img src="https://avatars.githubusercontent.com/u/100931093?s=72&u=787cc5dbb6a8339f261f27ef64eb042782a51d02&v=4" width="24" alt="Avatar of TAMIRAT-FEREJA-T"> TAMIRAT-FEREJA-T
 			</a><br/>
 			TAMIRAT-FEREJA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa ,ETHIOPIA</td>
-		<td>16</td>
-		<td>610</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/edmealem-k">
-				<img src="https://avatars.githubusercontent.com/u/121786586?s=72&u=59b3f3bf79f2977e7771ec46be4a6681245d2b06&v=4" width="24" alt="Avatar of edmealem-k"> edmealem-k
-			</a><br/>
-			Edmealem.k
-		</td>
-		<td>Nexudy </td>
-		<td><a href="https://twitter.com/edmealem_k">edmealem_k</a></td>
-		<td>Bahir Dar Ethiopia</td>
-		<td>259</td>
-		<td>607</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/Sagni-prog">
-				<img src="https://avatars.githubusercontent.com/u/98890510?s=72&u=5bb16356e20b68aea2928951d56cda9347d5c77c&v=4" width="24" alt="Avatar of Sagni-prog"> Sagni-prog
-			</a><br/>
-			Sagni Alemayehu
-		</td>
-		<td>Finserve Technology </td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>0</td>
-		<td>604</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/mikiasyonas">
-				<img src="https://avatars.githubusercontent.com/u/39672085?s=72&u=a85cd1874c1b4bbf015787392369d4b21e536354&v=4" width="24" alt="Avatar of mikiasyonas"> mikiasyonas
-			</a><br/>
-			Mikias Yonas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>77</td>
-		<td>603</td>
+		<td>17</td>
+		<td>657</td>
 	</tr>
 	<tr>
 		<td>416</td>
 		<td>
-			<a href="https://github.com/Melak12">
-				<img src="https://avatars.githubusercontent.com/u/45941116?s=72&u=feddb7060f8bc915b715fee6d74738b4d62a3579&v=4" width="24" alt="Avatar of Melak12"> Melak12
+			<a href="https://github.com/gelftheshot">
+				<img src="https://avatars.githubusercontent.com/u/113858444?s=72&u=bb0e11839846463bfdd6e98ba8ea5b56fbd0efa4&v=4" width="24" alt="Avatar of gelftheshot"> gelftheshot
 			</a><br/>
-			Melak
+			Lihon Gebre
 		</td>
-		<td>Self-employed </td>
-		<td><a href="https://twitter.com/MelakeWub">MelakeWub</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>68</td>
-		<td>603</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>17</td>
+		<td>651</td>
 	</tr>
 	<tr>
 		<td>417</td>
 		<td>
-			<a href="https://github.com/banadawit">
-				<img src="https://avatars.githubusercontent.com/u/129886937?s=72&u=1954161f9bac8e04bd2fc8cb1c8ca39a6a942fd9&v=4" width="24" alt="Avatar of banadawit"> banadawit
+			<a href="https://github.com/Samrawit-alemu">
+				<img src="https://avatars.githubusercontent.com/u/152712148?s=72&u=6082bc882f0dd9216505c4826a0daf036074eb79&v=4" width="24" alt="Avatar of Samrawit-alemu"> Samrawit-alemu
 			</a><br/>
-			Bana Dawit
+			Samrawit Alemu
 		</td>
-		<td>Haramaya University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Harar, Ethiopia</td>
-		<td>361</td>
-		<td>597</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>646</td>
+		<td>646</td>
 	</tr>
 	<tr>
 		<td>418</td>
 		<td>
-			<a href="https://github.com/kenean-50">
-				<img src="https://avatars.githubusercontent.com/u/33159311?s=72&u=c729d833b14db580561af515523717d2a506e9d4&v=4" width="24" alt="Avatar of kenean-50"> kenean-50
+			<a href="https://github.com/Yohannesdejene">
+				<img src="https://avatars.githubusercontent.com/u/81425097?s=72&u=bf7bc1a1ebd1e2d20d82fbf4291515c569f0a207&v=4" width="24" alt="Avatar of Yohannesdejene"> Yohannesdejene
 			</a><br/>
-			kenean
+			johnabi
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kenean50">kenean50</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>596</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>14</td>
+		<td>638</td>
 	</tr>
 	<tr>
 		<td>419</td>
 		<td>
-			<a href="https://github.com/Tewodros-Tilahun-01">
-				<img src="https://avatars.githubusercontent.com/u/113050664?s=72&v=4" width="24" alt="Avatar of Tewodros-Tilahun-01"> Tewodros-Tilahun-01
+			<a href="https://github.com/Getachew0557">
+				<img src="https://avatars.githubusercontent.com/u/85767924?s=72&u=dfe520750ff9d4f5f41affb549f5bf6d904b013f&v=4" width="24" alt="Avatar of Getachew0557"> Getachew0557
 			</a><br/>
-			tewodros tilahun
+			Getachew Getu
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba , Ethiopia </td>
-		<td>531</td>
-		<td>596</td>
+		<td><a href="https://twitter.com/EnyewGetu">EnyewGetu</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>291</td>
+		<td>635</td>
 	</tr>
 	<tr>
 		<td>420</td>
@@ -5983,10 +5983,234 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia,Addis Ababa</td>
 		<td>23</td>
-		<td>594</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>421</td>
+		<td>
+			<a href="https://github.com/MicrQ">
+				<img src="https://avatars.githubusercontent.com/u/140071383?s=72&u=3439453365cec36d95dc5f59979b222c4f38b9ee&v=4" width="24" alt="Avatar of MicrQ"> MicrQ
+			</a><br/>
+			Abenet Gebre
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Abenet_">Abenet_</a></td>
+		<td>Hawassa, Ethiopia</td>
+		<td>89</td>
+		<td>630</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/Orion777-cmd">
+				<img src="https://avatars.githubusercontent.com/u/89917090?s=72&u=c94d8414d105ff7b1f8f2e903d91d3b60eb9c479&v=4" width="24" alt="Avatar of Orion777-cmd"> Orion777-cmd
+			</a><br/>
+			Abiy Biru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>58</td>
+		<td>627</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/bete7512">
+				<img src="https://avatars.githubusercontent.com/u/99134122?s=72&u=e6d193c67a2f0a4ea2f88a35110ce927149c973d&v=4" width="24" alt="Avatar of bete7512"> bete7512
+			</a><br/>
+			Bete Goshme
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addiss Ababa,Ethiopia</td>
+		<td>295</td>
+		<td>625</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/EYOB123695">
+				<img src="https://avatars.githubusercontent.com/u/116643686?s=72&v=4" width="24" alt="Avatar of EYOB123695"> EYOB123695
+			</a><br/>
+			Eyob
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>398</td>
+		<td>615</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/zakisudev">
+				<img src="https://avatars.githubusercontent.com/u/36282172?s=72&u=706cc22b06fcbd9dff43e29b58eb69db4d2dea62&v=4" width="24" alt="Avatar of zakisudev"> zakisudev
+			</a><br/>
+			Zekaria Mohammed Hussien
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zakisu">zakisu</a></td>
+		<td>Addis Ababa</td>
+		<td>33</td>
+		<td>613</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/biruk-tafese">
+				<img src="https://avatars.githubusercontent.com/u/98220455?s=72&u=95e039ae20256adf1d6f61854f3c2ca935d49969&v=4" width="24" alt="Avatar of biruk-tafese"> biruk-tafese
+			</a><br/>
+			Biruk Tafesse
+		</td>
+		<td>Software Developer @hello-bayemuya-app <br/></td>
+		<td><a href="https://twitter.com/biruktafese2025">biruktafese2025</a></td>
+		<td>Addis Ababa</td>
+		<td>108</td>
+		<td>613</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/Sagni-prog">
+				<img src="https://avatars.githubusercontent.com/u/98890510?s=72&u=5bb16356e20b68aea2928951d56cda9347d5c77c&v=4" width="24" alt="Avatar of Sagni-prog"> Sagni-prog
+			</a><br/>
+			Sagni Alemayehu
+		</td>
+		<td>Finserve Technology </td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>0</td>
+		<td>608</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/mikiyasET">
+				<img src="https://avatars.githubusercontent.com/u/25723129?s=72&u=5d18c3ea5574469d0aa6c3fbafb18e04b2898936&v=4" width="24" alt="Avatar of mikiyasET"> mikiyasET
+			</a><br/>
+			Mikiyas Lemlemu
+		</td>
+		<td>Codeabay </td>
+		<td><a href="https://twitter.com/mikiyaslemlemu">mikiyaslemlemu</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>21</td>
+		<td>601</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/Rita-Birhanu">
+				<img src="https://avatars.githubusercontent.com/u/200732971?s=72&v=4" width="24" alt="Avatar of Rita-Birhanu"> Rita-Birhanu
+			</a><br/>
+			Rita Birhanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>17</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/habtamuworkugselassie">
+				<img src="https://avatars.githubusercontent.com/u/1775307?s=72&u=d72bd0493f13a234df95df978c25b3d50f9d0b10&v=4" width="24" alt="Avatar of habtamuworkugselassie"> habtamuworkugselassie
+			</a><br/>
+			Habtamu Worku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>326</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/Misikerr">
+				<img src="https://avatars.githubusercontent.com/u/146325517?s=72&u=4407c2202e539ef6dd2a75e60b97d4a0c384ab51&v=4" width="24" alt="Avatar of Misikerr"> Misikerr
+			</a><br/>
+			Misiker_Genene
+		</td>
+		<td>Zementech </td>
+		<td>No Twitter Username</td>
+		<td>Arbaminch, Ethiopia</td>
+		<td>162</td>
+		<td>598</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/Yemisirach">
+				<img src="https://avatars.githubusercontent.com/u/104437323?s=72&u=904c8b9f2b9c3e3438ccc2a27982160733dd1de3&v=4" width="24" alt="Avatar of Yemisirach"> Yemisirach
+			</a><br/>
+			No Name
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/TamratYemsrach">TamratYemsrach</a></td>
+		<td>Hossaena, South Ethiopia</td>
+		<td>55</td>
+		<td>597</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/noahchernet">
+				<img src="https://avatars.githubusercontent.com/u/86301024?s=72&u=034be963172a3bac6dedaaf8645d4cea2a226d17&v=4" width="24" alt="Avatar of noahchernet"> noahchernet
+			</a><br/>
+			Noah Chernet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>58</td>
+		<td>593</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/Andu2023">
+				<img src="https://avatars.githubusercontent.com/u/134935622?s=72&u=976536effb1c576a1603497da9cf1baec0cb305c&v=4" width="24" alt="Avatar of Andu2023"> Andu2023
+			</a><br/>
+			Andualem Assefa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>26</td>
+		<td>592</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/Asrat001">
+				<img src="https://avatars.githubusercontent.com/u/103597170?s=72&u=62a1b0fe6b18fe5335a19279c2ec695ee535becc&v=4" width="24" alt="Avatar of Asrat001"> Asrat001
+			</a><br/>
+			Asrat-Maaser
+		</td>
+		<td>@3blenterprises  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba , Ethiopia</td>
+		<td>113</td>
+		<td>591</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/bati58">
+				<img src="https://avatars.githubusercontent.com/u/197773134?s=72&u=383ea72b82ba22d79c071a9230880a266f08349f&v=4" width="24" alt="Avatar of bati58"> bati58
+			</a><br/>
+			bati jano
+		</td>
+		<td>Astu </td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>590</td>
+		<td>590</td>
+	</tr>
+	<tr>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/amir-yimam">
 				<img src="https://avatars.githubusercontent.com/u/262686061?s=72&u=53cdfbe4abe165be0f86a7d0ec6c487758f9f3c0&v=4" width="24" alt="Avatar of amir-yimam"> amir-yimam
@@ -6000,189 +6224,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>590</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>438</td>
 		<td>
-			<a href="https://github.com/bati58">
-				<img src="https://avatars.githubusercontent.com/u/197773134?s=72&u=383ea72b82ba22d79c071a9230880a266f08349f&v=4" width="24" alt="Avatar of bati58"> bati58
+			<a href="https://github.com/Beki-D">
+				<img src="https://avatars.githubusercontent.com/u/85803740?s=72&u=2d2759506c27c047429236c6b6e3bfa31808acb4&v=4" width="24" alt="Avatar of Beki-D"> Beki-D
 			</a><br/>
-			bati jano
+			Beki-D
 		</td>
-		<td>Astu </td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>583</td>
-		<td>583</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/Yehonatal">
-				<img src="https://avatars.githubusercontent.com/u/83646080?s=72&u=dc29174ca484e1deba4e5faf3e901f7847a2cf5e&v=4" width="24" alt="Avatar of Yehonatal"> Yehonatal
-			</a><br/>
-			Yonatan Afewerk Teshome
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Harar</td>
-		<td>487</td>
-		<td>581</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/barekegnn">
-				<img src="https://avatars.githubusercontent.com/u/152094105?s=72&u=456c9a2d91a79d1cd5ec7a091f91ea95a6c29931&v=4" width="24" alt="Avatar of barekegnn"> barekegnn
-			</a><br/>
-			Barekegn Asefa
-		</td>
-		<td>Graduated From Haramaya University<br/>||<br/>Software<br/>Engineering<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>25</td>
-		<td>581</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/YeabTilahun">
-				<img src="https://avatars.githubusercontent.com/u/74009399?s=72&u=85ed5ca3c5ea304aa7b8bea797675a1ad9e3abcd&v=4" width="24" alt="Avatar of YeabTilahun"> YeabTilahun
-			</a><br/>
-			Yeabsira
-		</td>
-		<td>Ablaze Labs </td>
-		<td><a href="https://twitter.com/yeabtilahun_">yeabtilahun_</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>44</td>
-		<td>578</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/metiinie">
-				<img src="https://avatars.githubusercontent.com/u/196482966?s=72&u=880e44c2285fb5a9829fbab017a55701fb134b57&v=4" width="24" alt="Avatar of metiinie"> metiinie
-			</a><br/>
-			Awol Ibrahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ETHIOPIA</td>
-		<td>575</td>
-		<td>575</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/Asrat001">
-				<img src="https://avatars.githubusercontent.com/u/103597170?s=72&u=62a1b0fe6b18fe5335a19279c2ec695ee535becc&v=4" width="24" alt="Avatar of Asrat001"> Asrat001
-			</a><br/>
-			Asrat-Maaser
-		</td>
-		<td>@3blenterprises  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba , Ethiopia</td>
-		<td>119</td>
-		<td>573</td>
-	</tr>
-	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/kaleabSolomon">
-				<img src="https://avatars.githubusercontent.com/u/70288297?s=72&u=755ec18ffb15a3e237cd8b3ba4adb21555b3b440&v=4" width="24" alt="Avatar of kaleabSolomon"> kaleabSolomon
-			</a><br/>
-			kaleab solomon
-		</td>
-		<td>No Company</td>
+		<td>Microlink It College </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>89</td>
-		<td>573</td>
+		<td>16</td>
+		<td>587</td>
 	</tr>
 	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/biruk-tafese">
-				<img src="https://avatars.githubusercontent.com/u/98220455?s=72&u=95e039ae20256adf1d6f61854f3c2ca935d49969&v=4" width="24" alt="Avatar of biruk-tafese"> biruk-tafese
-			</a><br/>
-			Biruk Tafesse
-		</td>
-		<td>Software Developer @hello-bayemuya-app <br/></td>
-		<td><a href="https://twitter.com/biruktafese2025">biruktafese2025</a></td>
-		<td>Addis Ababa</td>
-		<td>69</td>
-		<td>573</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
-			<a href="https://github.com/Dagmawi-Y">
-				<img src="https://avatars.githubusercontent.com/u/135310799?s=72&u=d7422e3ccbbe59d985faf4aec752b6d9738a25ca&v=4" width="24" alt="Avatar of Dagmawi-Y"> Dagmawi-Y
-			</a><br/>
-			Dagmawi Hailu
-		</td>
-		<td>Edopia.ai </td>
-		<td><a href="https://twitter.com/daggyohannes">daggyohannes</a></td>
-		<td>Addis Ababa</td>
-		<td>211</td>
-		<td>571</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/eyob13-coder">
-				<img src="https://avatars.githubusercontent.com/u/157361748?s=72&u=2064f3c94f4b984c8b38db63116c8502289573b3&v=4" width="24" alt="Avatar of eyob13-coder"> eyob13-coder
-			</a><br/>
-			Eyob
-		</td>
-		<td>@eotcopensource </td>
-		<td><a href="https://twitter.com/Eyob_Geremew_">Eyob_Geremew_</a></td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>382</td>
-		<td>567</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
-			<a href="https://github.com/atocodes">
-				<img src="https://avatars.githubusercontent.com/u/80741016?s=72&u=455f69cca129e3674c77ca4256426a9d0ddc8008&v=4" width="24" alt="Avatar of atocodes"> atocodes
-			</a><br/>
-			አቶ Codes
-		</td>
-		<td>እኔ ሐበሻ | Mhcda<br/></td>
-		<td><a href="https://twitter.com/ato_codes">ato_codes</a></td>
-		<td>Ethiopia Addis Ababa</td>
-		<td>187</td>
-		<td>565</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/BinaDev29">
-				<img src="https://avatars.githubusercontent.com/u/201996932?s=72&u=e205b23aae7965dbc3492db0fee54c7cb0ab209f&v=4" width="24" alt="Avatar of BinaDev29"> BinaDev29
-			</a><br/>
-			꧁༒☬ᶜᴿᴬᶻᵞkíllє®™r☬༒꧂
-		</td>
-		<td>Student </td>
-		<td><a href="https://twitter.com/BTehakele16435">BTehakele16435</a></td>
-		<td>Debre Berhan University (DBU) :  Ethiopia</td>
-		<td>501</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/Ebo1996">
-				<img src="https://avatars.githubusercontent.com/u/175691356?s=72&u=6858b4a52ae038a305e4990bb1782398cbbaeacc&v=4" width="24" alt="Avatar of Ebo1996"> Ebo1996
-			</a><br/>
-			EBISA BERHANU
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>527</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>435</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/hmhard">
 				<img src="https://avatars.githubusercontent.com/u/53700166?s=72&u=c9b38fb95d2efb56744a17fcec85184be2522841&v=4" width="24" alt="Avatar of hmhard"> hmhard
@@ -6193,458 +6249,38 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/MiniyahilK">MiniyahilK</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>3</td>
-		<td>560</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/kidusshoa">
-				<img src="https://avatars.githubusercontent.com/u/123260863?s=72&u=73fd22fa316d32c26e8f9e593f234161a5901c02&v=4" width="24" alt="Avatar of kidusshoa"> kidusshoa
-			</a><br/>
-			Kidus Zekarias
-		</td>
-		<td>Playstream Interactive </td>
-		<td><a href="https://twitter.com/simplygenius2">simplygenius2</a></td>
-		<td>Addis Ababa</td>
-		<td>157</td>
-		<td>558</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/solomongetnet">
-				<img src="https://avatars.githubusercontent.com/u/166427286?s=72&u=ab20241a39fcfcb284359d638dd8a451545a2277&v=4" width="24" alt="Avatar of solomongetnet"> solomongetnet
-			</a><br/>
-			Solomon getnet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>102</td>
-		<td>555</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/kaleabendrias">
-				<img src="https://avatars.githubusercontent.com/u/48369281?s=72&u=a92fb46e956c71c2fe316e2909af875e70369ef4&v=4" width="24" alt="Avatar of kaleabendrias"> kaleabendrias
-			</a><br/>
-			Kaleab Endrias
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kaleab_endrias">kaleab_endrias</a></td>
-		<td>Ethiopia</td>
-		<td>113</td>
-		<td>552</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/mikiyasET">
-				<img src="https://avatars.githubusercontent.com/u/25723129?s=72&u=5d18c3ea5574469d0aa6c3fbafb18e04b2898936&v=4" width="24" alt="Avatar of mikiyasET"> mikiyasET
-			</a><br/>
-			Mikiyas Lemlemu
-		</td>
-		<td>Codeabay </td>
-		<td><a href="https://twitter.com/mikiyaslemlemu">mikiyaslemlemu</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>21</td>
-		<td>551</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>440</td>
 		<td>
-			<a href="https://github.com/ProfessorAbraham">
-				<img src="https://avatars.githubusercontent.com/u/144530332?s=72&u=f5494b8c5bd5fdd07117921ea6e5123a9f7da116&v=4" width="24" alt="Avatar of ProfessorAbraham"> ProfessorAbraham
+			<a href="https://github.com/Kidtd12">
+				<img src="https://avatars.githubusercontent.com/u/187760549?s=72&u=efd57662fe7cdf2803e672cc4c1b9b2208d65f02&v=4" width="24" alt="Avatar of Kidtd12"> Kidtd12
 			</a><br/>
-			Abraham Dagne
+			kidist tadesse
 		</td>
-		<td>Chereka Technology | Alpha<br/>Software<br/>Engineering<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>65</td>
-		<td>550</td>
+		<td>Addis Ababa </td>
+		<td>520</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>441</td>
 		<td>
-			<a href="https://github.com/Yonatankinfe">
-				<img src="https://avatars.githubusercontent.com/u/158090444?s=72&u=97a4e9870a824c2b69e893a1cb3fa7770a5c9d90&v=4" width="24" alt="Avatar of Yonatankinfe"> Yonatankinfe
+			<a href="https://github.com/Miheret-Girmachew">
+				<img src="https://avatars.githubusercontent.com/u/124549518?s=72&u=e4f48ab44ac5e8f3ca088d9296def613f0d52b2b&v=4" width="24" alt="Avatar of Miheret-Girmachew"> Miheret-Girmachew
 			</a><br/>
-			Yonatan Kinfe
+			Miheret Girmachew 
 		</td>
-		<td>Tekhaf Trading Plc </td>
-		<td><a href="https://twitter.com/Yonatankinfe_B">Yonatankinfe_B</a></td>
-		<td>Ethiopia/Addis Ababa</td>
-		<td>138</td>
-		<td>547</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>200</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>442</td>
-		<td>
-			<a href="https://github.com/MKD-hub">
-				<img src="https://avatars.githubusercontent.com/u/57914774?s=72&u=ccc5d3ced972f5bf5f8a8d05fa8459ce708e34fb&v=4" width="24" alt="Avatar of MKD-hub"> MKD-hub
-			</a><br/>
-			Mohammed Khalid
-		</td>
-		<td>Eaglelion Systems Techonlogy </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>146</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/habtamuworkugselassie">
-				<img src="https://avatars.githubusercontent.com/u/1775307?s=72&u=d72bd0493f13a234df95df978c25b3d50f9d0b10&v=4" width="24" alt="Avatar of habtamuworkugselassie"> habtamuworkugselassie
-			</a><br/>
-			Habtamu Worku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>416</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/abdiu34567">
-				<img src="https://avatars.githubusercontent.com/u/71874927?s=72&u=c7b27a7fc92a300f124037c6d655092242486a16&v=4" width="24" alt="Avatar of abdiu34567"> abdiu34567
-			</a><br/>
-			Abdi Urgessa
-		</td>
-		<td>Selamguide </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>20</td>
-		<td>545</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/bruk19">
-				<img src="https://avatars.githubusercontent.com/u/80829230?s=72&u=1c317a939f61ffec921e76b6ee0e08fb8c39cdb7&v=4" width="24" alt="Avatar of bruk19"> bruk19
-			</a><br/>
-			Bruk Teshome
-		</td>
-		<td>Adanax Digital </td>
-		<td><a href="https://twitter.com/Bruktesh">Bruktesh</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>34</td>
-		<td>544</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/Mistire">
-				<img src="https://avatars.githubusercontent.com/u/96515111?s=72&u=45c1c8a3bc3b19887268b2f89c4cb9cdaab5821c&v=4" width="24" alt="Avatar of Mistire"> Mistire
-			</a><br/>
-			Mistire
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mistire37">Mistire37</a></td>
-		<td>Addsi Ababa, Ethiopia</td>
-		<td>541</td>
-		<td>541</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/adnantabda">
-				<img src="https://avatars.githubusercontent.com/u/124662207?s=72&u=1a1defeefcf3cea293828c72469aa074d136fc07&v=4" width="24" alt="Avatar of adnantabda"> adnantabda
-			</a><br/>
-			Adnan Tahir
-		</td>
-		<td>Hulmi Tech </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>50</td>
-		<td>535</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/bogoreh">
-				<img src="https://avatars.githubusercontent.com/u/76124689?s=72&u=b432645e48a62dfdfa51e06780f30aa19431706b&v=4" width="24" alt="Avatar of bogoreh"> bogoreh
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Abdibogoreh1">Abdibogoreh1</a></td>
-		<td>Ethiopia</td>
-		<td>534</td>
-		<td>534</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/abriham-atinkut">
-				<img src="https://avatars.githubusercontent.com/u/225180618?s=72&u=43e49bbd8fd0c2bbec58c9ad18fa9268e943f2b1&v=4" width="24" alt="Avatar of abriham-atinkut"> abriham-atinkut
-			</a><br/>
-			Abriham Atinkut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia</td>
-		<td>531</td>
-		<td>531</td>
-	</tr>
-	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/Eliphaz21">
-				<img src="https://avatars.githubusercontent.com/u/176462637?s=72&u=bad147061f4ccf0891245a3bd2136de088a0e872&v=4" width="24" alt="Avatar of Eliphaz21"> Eliphaz21
-			</a><br/>
-			Yeabsra Andnet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>528</td>
-		<td>528</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/yusufyusie">
-				<img src="https://avatars.githubusercontent.com/u/90406604?s=72&u=0df059cc33d31119e3e392a9800ce47858c7c1d8&v=4" width="24" alt="Avatar of yusufyusie"> yusufyusie
-			</a><br/>
-			Yesuf Fenta 
-		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/yusufyusiee">yusufyusiee</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>528</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/Rita-Birhanu">
-				<img src="https://avatars.githubusercontent.com/u/200732971?s=72&v=4" width="24" alt="Avatar of Rita-Birhanu"> Rita-Birhanu
-			</a><br/>
-			Rita Birhanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>17</td>
-		<td>526</td>
-	</tr>
-	<tr>
-		<td>453</td>
-		<td>
-			<a href="https://github.com/nand-n">
-				<img src="https://avatars.githubusercontent.com/u/66095209?s=72&u=7ab79a94f5f8fa85351f701808537d34028a751b&v=4" width="24" alt="Avatar of nand-n"> nand-n
-			</a><br/>
-			Nahom
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>28</td>
-		<td>524</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/Gemeking">
-				<img src="https://avatars.githubusercontent.com/u/125695956?s=72&u=c455bb2817d20fc378f3116f3931670e3e668fb1&v=4" width="24" alt="Avatar of Gemeking"> Gemeking
-			</a><br/>
-			Gemechis Zerfu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>309</td>
-		<td>521</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/Melkamukebede">
-				<img src="https://avatars.githubusercontent.com/u/174320158?s=72&u=e6da5fd3ce8e03d13ff1286a859d3033e60aeca0&v=4" width="24" alt="Avatar of Melkamukebede"> Melkamukebede
-			</a><br/>
-			Melkamu Kebede
-		</td>
-		<td>Mensilgroup </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa </td>
-		<td>519</td>
-		<td>519</td>
-	</tr>
-	<tr>
-		<td>456</td>
-		<td>
-			<a href="https://github.com/ephyg">
-				<img src="https://avatars.githubusercontent.com/u/84809084?s=72&v=4" width="24" alt="Avatar of ephyg"> ephyg
-			</a><br/>
-			Ephrem Getachew
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>147</td>
-		<td>516</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
-			<a href="https://github.com/abdulhamidOumer">
-				<img src="https://avatars.githubusercontent.com/u/39024901?s=72&u=9b93faa93f53a7e627f1455d285d91082b6c7e74&v=4" width="24" alt="Avatar of abdulhamidOumer"> abdulhamidOumer
-			</a><br/>
-			Abdulhamid Oumer
-		</td>
-		<td>Bayzat </td>
-		<td><a href="https://twitter.com/aotwits">aotwits</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>0</td>
-		<td>514</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/Degaga-Emiru">
-				<img src="https://avatars.githubusercontent.com/u/186705527?s=72&u=4f54616bb2b9aa9540fb6c7e63f5371dee87a050&v=4" width="24" alt="Avatar of Degaga-Emiru"> Degaga-Emiru
-			</a><br/>
-			Degaga Emiru
-		</td>
-		<td>Hawassa University  </td>
-		<td><a href="https://twitter.com/Degaga_Emiru">Degaga_Emiru</a></td>
-		<td>Addis Ababa,  Ethiopia</td>
-		<td>491</td>
-		<td>514</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
-			<a href="https://github.com/Meku-nint">
-				<img src="https://avatars.githubusercontent.com/u/154579159?s=72&u=898955ce9d23b47d111ec59d991ffbc7af20996a&v=4" width="24" alt="Avatar of Meku-nint"> Meku-nint
-			</a><br/>
-			D_mekunint
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis ababa,Ethiopia</td>
-		<td>512</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/DejazmachMolla">
-				<img src="https://avatars.githubusercontent.com/u/52776671?s=72&u=399dc262dc500f212645765f1746b0918465caad&v=4" width="24" alt="Avatar of DejazmachMolla"> DejazmachMolla
-			</a><br/>
-			Dejazmach Molla
-		</td>
-		<td>Senior Software Engineer @<br/>Break<br/>Games<br/></td>
-		<td><a href="https://twitter.com/DJATSS">DJATSS</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/ab3lT">
-				<img src="https://avatars.githubusercontent.com/u/72024981?s=72&u=ae5c20c88c6caf374a9d95247e53e43ac73a1b62&v=4" width="24" alt="Avatar of ab3lT"> ab3lT
-			</a><br/>
-			ab3lT
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>228</td>
-		<td>511</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/hosanna1616">
-				<img src="https://avatars.githubusercontent.com/u/192518825?s=72&u=ec6e16fc2f12654053178eae860c18aaa1cc7e66&v=4" width="24" alt="Avatar of hosanna1616"> hosanna1616
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis  Ababa</td>
-		<td>510</td>
-		<td>510</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/naolaboma">
-				<img src="https://avatars.githubusercontent.com/u/153062988?s=72&u=3a84ed8db5d704da4838f3ba3f720534406456bc&v=4" width="24" alt="Avatar of naolaboma"> naolaboma
-			</a><br/>
-			Naol Aboma
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AbomaNaol">AbomaNaol</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>462</td>
-		<td>507</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/Dechie">
-				<img src="https://avatars.githubusercontent.com/u/104849949?s=72&u=69701604e8780cd3425f551f7bb0d0eb23cb0c0b&v=4" width="24" alt="Avatar of Dechie"> Dechie
-			</a><br/>
-			Dechasa Teshome
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>384</td>
-		<td>507</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a href="https://github.com/abrahamYonas">
-				<img src="https://avatars.githubusercontent.com/u/26749071?s=72&u=01d75578243494bfa01c4e29efd7e88edbaf7524&v=4" width="24" alt="Avatar of abrahamYonas"> abrahamYonas
-			</a><br/>
-			Abraham Yonas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>507</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/lleull">
-				<img src="https://avatars.githubusercontent.com/u/138756889?s=72&u=14f8f1372ae63b6090c9e5f6c812c29653b158ad&v=4" width="24" alt="Avatar of lleull"> lleull
-			</a><br/>
-			Leul Mekonnen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, ethiopia</td>
-		<td>108</td>
-		<td>505</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/natib21">
-				<img src="https://avatars.githubusercontent.com/u/101838558?s=72&u=5816db270722f1805127e5abae28fa481d95be8f&v=4" width="24" alt="Avatar of natib21"> natib21
-			</a><br/>
-			Nathnael Zelalem Teshome
-		</td>
-		<td>Kispay Finantial Solutions Sc<br/></td>
-		<td>No Twitter Username</td>
-		<td>ethiopia</td>
-		<td>243</td>
-		<td>499</td>
-	</tr>
-	<tr>
-		<td>468</td>
 		<td>
 			<a href="https://github.com/ei-bro">
 				<img src="https://avatars.githubusercontent.com/u/78224716?s=72&u=27115627209fbc942cfeff7fc5d0f5d821d97fad&v=4" width="24" alt="Avatar of ei-bro"> ei-bro
@@ -6654,137 +6290,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Evangadi Tech </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>34</td>
-		<td>499</td>
+		<td>31</td>
+		<td>571</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>443</td>
 		<td>
-			<a href="https://github.com/amanabate">
-				<img src="https://avatars.githubusercontent.com/u/129896984?s=72&u=3f5f2b89be965494c9deca917d6c79533305a5f6&v=4" width="24" alt="Avatar of amanabate"> amanabate
+			<a href="https://github.com/metiinie">
+				<img src="https://avatars.githubusercontent.com/u/196482966?s=72&u=880e44c2285fb5a9829fbab017a55701fb134b57&v=4" width="24" alt="Avatar of metiinie"> metiinie
 			</a><br/>
-			Amanuel Abate
-		</td>
-		<td>Haramaya University </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>411</td>
-		<td>499</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/abdureshidabdulahi">
-				<img src="https://avatars.githubusercontent.com/u/202524972?s=72&u=5fc869e6301ea5024b59269165ff58d077bdae7e&v=4" width="24" alt="Avatar of abdureshidabdulahi"> abdureshidabdulahi
-			</a><br/>
-			Abdureshid Abdulahi
+			Awol Ibrahim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>272</td>
-		<td>498</td>
+		<td>ETHIOPIA</td>
+		<td>570</td>
+		<td>570</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>444</td>
 		<td>
-			<a href="https://github.com/hamouzei">
-				<img src="https://avatars.githubusercontent.com/u/201352341?s=72&u=dcb380112cf39fd15844d07fb24a239b1d25ff00&v=4" width="24" alt="Avatar of hamouzei"> hamouzei
+			<a href="https://github.com/eliassisay">
+				<img src="https://avatars.githubusercontent.com/u/87943132?s=72&u=3b3b60230c8dc7c94e3b2c1cbb773ff2822728f3&v=4" width="24" alt="Avatar of eliassisay"> eliassisay
 			</a><br/>
-			Hamza
+			elias_sisay
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hamouzei">hamouzei</a></td>
-		<td>Addis Ababa</td>
-		<td>327</td>
-		<td>495</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>33</td>
+		<td>569</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>445</td>
 		<td>
-			<a href="https://github.com/AbiyuNigussie">
-				<img src="https://avatars.githubusercontent.com/u/62298369?s=72&u=3d3cf1bf6ad24b461cc1cd3c7c2eb4a1cd4057b1&v=4" width="24" alt="Avatar of AbiyuNigussie"> AbiyuNigussie
+			<a href="https://github.com/ErmiyasG">
+				<img src="https://avatars.githubusercontent.com/u/39332290?s=72&v=4" width="24" alt="Avatar of ErmiyasG"> ErmiyasG
 			</a><br/>
-			Abiyu Nigussie
+			Ermiyas Gezahegn
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>15</td>
-		<td>494</td>
+		<td>64</td>
+		<td>565</td>
 	</tr>
 	<tr>
-		<td>473</td>
-		<td>
-			<a href="https://github.com/getishe">
-				<img src="https://avatars.githubusercontent.com/u/80521478?s=72&u=800a0cef9712b6db8d4c42e23158fdefb64f73b0&v=4" width="24" alt="Avatar of getishe"> getishe
-			</a><br/>
-			Getahune Alemayhu
-		</td>
-		<td>Get_tech </td>
-		<td><a href="https://twitter.com/GETAHUNEALEMAYH">GETAHUNEALEMAYH</a></td>
-		<td>Adiss Ababa, Ethiopia</td>
-		<td>492</td>
-		<td>492</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/Kuma-Leta">
-				<img src="https://avatars.githubusercontent.com/u/118393748?s=72&u=90b145f5d9e9443f2c5a22c665fed9f9d50eb088&v=4" width="24" alt="Avatar of Kuma-Leta"> Kuma-Leta
-			</a><br/>
-			Kuma Leta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>124</td>
-		<td>491</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/fasilminale">
-				<img src="https://avatars.githubusercontent.com/u/30689833?s=72&u=f302eeea7410063f5467fb00c693973b996a1016&v=4" width="24" alt="Avatar of fasilminale"> fasilminale
-			</a><br/>
-			Fasil Minale
-		</td>
-		<td>@etdevs-network  </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>4</td>
-		<td>491</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/beka-tech">
-				<img src="https://avatars.githubusercontent.com/u/63505760?s=72&u=e35603d1531e9f1af4302ba0f1ae5c286d38cd5d&v=4" width="24" alt="Avatar of beka-tech"> beka-tech
-			</a><br/>
-			beka aman
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BEKAAMAN2">BEKAAMAN2</a></td>
-		<td>Addis Ababa </td>
-		<td>491</td>
-		<td>491</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/code-Estif">
-				<img src="https://avatars.githubusercontent.com/u/220752714?s=72&u=f3b86884bb7704087a643b72dab3b94364fd3b43&v=4" width="24" alt="Avatar of code-Estif"> code-Estif
-			</a><br/>
-			Estif Dev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>490</td>
-		<td>490</td>
-	</tr>
-	<tr>
-		<td>478</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/Alpha-Mintamir">
 				<img src="https://avatars.githubusercontent.com/u/133499852?s=72&u=f638b1384e223870adfcc9bd9a5c6ea56d961bb1&v=4" width="24" alt="Avatar of Alpha-Mintamir"> Alpha-Mintamir
@@ -6795,38 +6347,150 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
 		<td>146</td>
-		<td>489</td>
+		<td>557</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>447</td>
 		<td>
-			<a href="https://github.com/mulunehde">
-				<img src="https://avatars.githubusercontent.com/u/46929086?s=72&u=06cb20594fd075147189fe651cd0e529fbe841f4&v=4" width="24" alt="Avatar of mulunehde"> mulunehde
+			<a href="https://github.com/barekegnn">
+				<img src="https://avatars.githubusercontent.com/u/152094105?s=72&u=456c9a2d91a79d1cd5ec7a091f91ea95a6c29931&v=4" width="24" alt="Avatar of barekegnn"> barekegnn
 			</a><br/>
-			Muluneh Derese
+			Barekegn Asefa
 		</td>
-		<td>Takadao </td>
-		<td><a href="https://twitter.com/mulard_">mulard_</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>489</td>
+		<td>Graduated From Haramaya University<br/>||<br/>Software<br/>Engineering<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>26</td>
+		<td>557</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>448</td>
 		<td>
-			<a href="https://github.com/eliassisay">
-				<img src="https://avatars.githubusercontent.com/u/87943132?s=72&u=3b3b60230c8dc7c94e3b2c1cbb773ff2822728f3&v=4" width="24" alt="Avatar of eliassisay"> eliassisay
+			<a href="https://github.com/kaleabSolomon">
+				<img src="https://avatars.githubusercontent.com/u/70288297?s=72&u=755ec18ffb15a3e237cd8b3ba4adb21555b3b440&v=4" width="24" alt="Avatar of kaleabSolomon"> kaleabSolomon
 			</a><br/>
-			elias_sisay
+			kaleab solomon
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>50</td>
-		<td>488</td>
+		<td>Addis Ababa</td>
+		<td>283</td>
+		<td>555</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/ldebele">
+				<img src="https://avatars.githubusercontent.com/u/89338244?s=72&u=43e02c702f8bc917af05ae8ccd1dc25e87cce6da&v=4" width="24" alt="Avatar of ldebele"> ldebele
+			</a><br/>
+			Lemi Debela
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>555</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/bruk19">
+				<img src="https://avatars.githubusercontent.com/u/80829230?s=72&u=1c317a939f61ffec921e76b6ee0e08fb8c39cdb7&v=4" width="24" alt="Avatar of bruk19"> bruk19
+			</a><br/>
+			Bruk Teshome
+		</td>
+		<td>Adanax Digital </td>
+		<td><a href="https://twitter.com/Bruktesh">Bruktesh</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>34</td>
+		<td>553</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/Yonatankinfe">
+				<img src="https://avatars.githubusercontent.com/u/158090444?s=72&u=97a4e9870a824c2b69e893a1cb3fa7770a5c9d90&v=4" width="24" alt="Avatar of Yonatankinfe"> Yonatankinfe
+			</a><br/>
+			Yonatan Kinfe
+		</td>
+		<td>Tekhaf Trading Plc </td>
+		<td><a href="https://twitter.com/Yonatankinfe_B">Yonatankinfe_B</a></td>
+		<td>Ethiopia/Addis Ababa</td>
+		<td>140</td>
+		<td>551</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/solomongetnet">
+				<img src="https://avatars.githubusercontent.com/u/166427286?s=72&u=ab20241a39fcfcb284359d638dd8a451545a2277&v=4" width="24" alt="Avatar of solomongetnet"> solomongetnet
+			</a><br/>
+			Solomon getnet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>98</td>
+		<td>551</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/kidusshoa">
+				<img src="https://avatars.githubusercontent.com/u/123260863?s=72&u=73fd22fa316d32c26e8f9e593f234161a5901c02&v=4" width="24" alt="Avatar of kidusshoa"> kidusshoa
+			</a><br/>
+			Kidus Zekarias
+		</td>
+		<td>Playstream Interactive </td>
+		<td><a href="https://twitter.com/simplygenius2">simplygenius2</a></td>
+		<td>Addis Ababa</td>
+		<td>158</td>
+		<td>549</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/kenean-50">
+				<img src="https://avatars.githubusercontent.com/u/33159311?s=72&u=c729d833b14db580561af515523717d2a506e9d4&v=4" width="24" alt="Avatar of kenean-50"> kenean-50
+			</a><br/>
+			kenean
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kenean50">kenean50</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>547</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/kaleabendrias">
+				<img src="https://avatars.githubusercontent.com/u/48369281?s=72&u=a92fb46e956c71c2fe316e2909af875e70369ef4&v=4" width="24" alt="Avatar of kaleabendrias"> kaleabendrias
+			</a><br/>
+			Kaleab Endrias
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kaleab_endrias">kaleab_endrias</a></td>
+		<td>Ethiopia</td>
+		<td>113</td>
+		<td>544</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/Dagmawi-Y">
+				<img src="https://avatars.githubusercontent.com/u/135310799?s=72&u=d7422e3ccbbe59d985faf4aec752b6d9738a25ca&v=4" width="24" alt="Avatar of Dagmawi-Y"> Dagmawi-Y
+			</a><br/>
+			Dagmawi Hailu
+		</td>
+		<td>Edopia.ai </td>
+		<td><a href="https://twitter.com/daggyohannes">daggyohannes</a></td>
+		<td>Addis Ababa</td>
+		<td>188</td>
+		<td>534</td>
+	</tr>
+	<tr>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/MasteNova">
 				<img src="https://avatars.githubusercontent.com/u/242304611?s=72&u=79bd651b9bf2079fd9b228a7023f8b93f6ea4d8d&v=4" width="24" alt="Avatar of MasteNova"> MasteNova
@@ -6836,92 +6500,428 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Masmol Company </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>4</td>
-		<td>485</td>
+		<td>7</td>
+		<td>530</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/ephyg">
+				<img src="https://avatars.githubusercontent.com/u/84809084?s=72&v=4" width="24" alt="Avatar of ephyg"> ephyg
+			</a><br/>
+			Ephrem Getachew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>117</td>
+		<td>528</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/abriham-atinkut">
+				<img src="https://avatars.githubusercontent.com/u/225180618?s=72&u=43e49bbd8fd0c2bbec58c9ad18fa9268e943f2b1&v=4" width="24" alt="Avatar of abriham-atinkut"> abriham-atinkut
+			</a><br/>
+			Abriham Atinkut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bahir Dar, Ethiopia</td>
+		<td>528</td>
+		<td>528</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/amanabate">
+				<img src="https://avatars.githubusercontent.com/u/129896984?s=72&u=3f5f2b89be965494c9deca917d6c79533305a5f6&v=4" width="24" alt="Avatar of amanabate"> amanabate
+			</a><br/>
+			Amanuel Abate
+		</td>
+		<td>Haramaya University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>423</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/banadawit">
+				<img src="https://avatars.githubusercontent.com/u/129886937?s=72&u=1954161f9bac8e04bd2fc8cb1c8ca39a6a942fd9&v=4" width="24" alt="Avatar of banadawit"> banadawit
+			</a><br/>
+			Bana Dawit
+		</td>
+		<td>Haramaya University </td>
+		<td>No Twitter Username</td>
+		<td>Harar, Ethiopia</td>
+		<td>346</td>
+		<td>525</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/Mistire">
+				<img src="https://avatars.githubusercontent.com/u/96515111?s=72&u=45c1c8a3bc3b19887268b2f89c4cb9cdaab5821c&v=4" width="24" alt="Avatar of Mistire"> Mistire
+			</a><br/>
+			Mistire
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mistire37">Mistire37</a></td>
+		<td>Addsi Ababa, Ethiopia</td>
+		<td>525</td>
+		<td>525</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/chalasimon">
+				<img src="https://avatars.githubusercontent.com/u/26658543?s=72&u=7930ce3d774dd6dd87ca8b5bd46925f178cb857c&v=4" width="24" alt="Avatar of chalasimon"> chalasimon
+			</a><br/>
+			chalasimon
+		</td>
+		<td>Awash Bank S.c. </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>25</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/Melkamukebede">
+				<img src="https://avatars.githubusercontent.com/u/174320158?s=72&u=e6da5fd3ce8e03d13ff1286a859d3033e60aeca0&v=4" width="24" alt="Avatar of Melkamukebede"> Melkamukebede
+			</a><br/>
+			Melkamu Kebede
+		</td>
+		<td>Mensilgroup </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa </td>
+		<td>520</td>
+		<td>520</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/mikiasyonas">
+				<img src="https://avatars.githubusercontent.com/u/39672085?s=72&u=a85cd1874c1b4bbf015787392369d4b21e536354&v=4" width="24" alt="Avatar of mikiasyonas"> mikiasyonas
+			</a><br/>
+			Mikias Yonas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>77</td>
+		<td>514</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/nand-n">
+				<img src="https://avatars.githubusercontent.com/u/66095209?s=72&u=7ab79a94f5f8fa85351f701808537d34028a751b&v=4" width="24" alt="Avatar of nand-n"> nand-n
+			</a><br/>
+			Nahom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>18</td>
+		<td>514</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/Ebo1996">
+				<img src="https://avatars.githubusercontent.com/u/175691356?s=72&u=6858b4a52ae038a305e4990bb1782398cbbaeacc&v=4" width="24" alt="Avatar of Ebo1996"> Ebo1996
+			</a><br/>
+			EBISA BERHANU
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>482</td>
+		<td>514</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/Nathan-Dereje-K">
+				<img src="https://avatars.githubusercontent.com/u/108625982?s=72&v=4" width="24" alt="Avatar of Nathan-Dereje-K"> Nathan-Dereje-K
+			</a><br/>
+			Nathan Dereje
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/waledagne">
+				<img src="https://avatars.githubusercontent.com/u/34514614?s=72&u=14fd12af29248137786864776e480c78eb2321ca&v=4" width="24" alt="Avatar of waledagne"> waledagne
+			</a><br/>
+			Wale
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>1</td>
+		<td>506</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/edmealem-k">
+				<img src="https://avatars.githubusercontent.com/u/121786586?s=72&u=59b3f3bf79f2977e7771ec46be4a6681245d2b06&v=4" width="24" alt="Avatar of edmealem-k"> edmealem-k
+			</a><br/>
+			Edmealem.k
+		</td>
+		<td>Nexudy </td>
+		<td><a href="https://twitter.com/edmealem_k">edmealem_k</a></td>
+		<td>Bahir Dar Ethiopia</td>
+		<td>348</td>
+		<td>502</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/Eliphaz21">
+				<img src="https://avatars.githubusercontent.com/u/176462637?s=72&u=bad147061f4ccf0891245a3bd2136de088a0e872&v=4" width="24" alt="Avatar of Eliphaz21"> Eliphaz21
+			</a><br/>
+			Yeabsra Andnet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>500</td>
+		<td>500</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/Gemeking">
+				<img src="https://avatars.githubusercontent.com/u/125695956?s=72&u=c455bb2817d20fc378f3116f3931670e3e668fb1&v=4" width="24" alt="Avatar of Gemeking"> Gemeking
+			</a><br/>
+			Gemechis Zerfu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>287</td>
+		<td>500</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/yusufyusie">
+				<img src="https://avatars.githubusercontent.com/u/90406604?s=72&u=0df059cc33d31119e3e392a9800ce47858c7c1d8&v=4" width="24" alt="Avatar of yusufyusie"> yusufyusie
+			</a><br/>
+			Yesuf Fenta 
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/yusufyusiee">yusufyusiee</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/hamouzei">
+				<img src="https://avatars.githubusercontent.com/u/201352341?s=72&u=dcb380112cf39fd15844d07fb24a239b1d25ff00&v=4" width="24" alt="Avatar of hamouzei"> hamouzei
+			</a><br/>
+			Hamza
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hamouzei">hamouzei</a></td>
+		<td>Addis Ababa</td>
+		<td>360</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/DejazmachMolla">
+				<img src="https://avatars.githubusercontent.com/u/52776671?s=72&u=399dc262dc500f212645765f1746b0918465caad&v=4" width="24" alt="Avatar of DejazmachMolla"> DejazmachMolla
+			</a><br/>
+			Dejazmach Molla
+		</td>
+		<td>Senior Software Engineer @<br/>Break<br/>Games<br/></td>
+		<td><a href="https://twitter.com/DJATSS">DJATSS</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>496</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/abdiu34567">
+				<img src="https://avatars.githubusercontent.com/u/71874927?s=72&u=c7b27a7fc92a300f124037c6d655092242486a16&v=4" width="24" alt="Avatar of abdiu34567"> abdiu34567
+			</a><br/>
+			Abdi Urgessa
+		</td>
+		<td>Selamguide </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>13</td>
+		<td>494</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/Kuma-Leta">
+				<img src="https://avatars.githubusercontent.com/u/118393748?s=72&u=90b145f5d9e9443f2c5a22c665fed9f9d50eb088&v=4" width="24" alt="Avatar of Kuma-Leta"> Kuma-Leta
+			</a><br/>
+			Kuma Leta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>123</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/natib21">
+				<img src="https://avatars.githubusercontent.com/u/101838558?s=72&u=5816db270722f1805127e5abae28fa481d95be8f&v=4" width="24" alt="Avatar of natib21"> natib21
+			</a><br/>
+			Nathnael Zelalem Teshome
+		</td>
+		<td>Kispay Finantial Solutions Sc<br/></td>
+		<td>No Twitter Username</td>
+		<td>ethiopia</td>
+		<td>238</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/Dechie">
+				<img src="https://avatars.githubusercontent.com/u/104849949?s=72&u=69701604e8780cd3425f551f7bb0d0eb23cb0c0b&v=4" width="24" alt="Avatar of Dechie"> Dechie
+			</a><br/>
+			Dechasa Teshome
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>371</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/nardoshood">
+				<img src="https://avatars.githubusercontent.com/u/47063922?s=72&u=84337fae9706794b76606cd88ff1506feffa4588&v=4" width="24" alt="Avatar of nardoshood"> nardoshood
+			</a><br/>
+			Nardos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nardos_hood">nardos_hood</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/Dagim-Fikru">
+				<img src="https://avatars.githubusercontent.com/u/95189710?s=72&u=eb60c71ce596ec173b4b16ed820cf63a471f5d49&v=4" width="24" alt="Avatar of Dagim-Fikru"> Dagim-Fikru
+			</a><br/>
+			Dagim Fikru
+		</td>
+		<td>Addis Ababa Institute Of<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>2</td>
+		<td>489</td>
 	</tr>
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/Tola-lemma">
-				<img src="https://avatars.githubusercontent.com/u/84643602?s=72&u=c644439efacb94f64cc17e830ed52a04b9d3a4fd&v=4" width="24" alt="Avatar of Tola-lemma"> Tola-lemma
+			<a href="https://github.com/hosanna1616">
+				<img src="https://avatars.githubusercontent.com/u/192518825?s=72&u=ec6e16fc2f12654053178eae860c18aaa1cc7e66&v=4" width="24" alt="Avatar of hosanna1616"> hosanna1616
 			</a><br/>
-			Tola Lemma
+			No Name
 		</td>
-		<td>Addis Ababa University </td>
-		<td><a href="https://twitter.com/TolaLemma">TolaLemma</a></td>
-		<td>Addis Ababa</td>
-		<td>54</td>
-		<td>485</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis  Ababa</td>
+		<td>487</td>
+		<td>487</td>
 	</tr>
 	<tr>
 		<td>483</td>
 		<td>
-			<a href="https://github.com/wacoo">
-				<img src="https://avatars.githubusercontent.com/u/9458141?s=72&u=9db93e834174a3012a41b2a57c1fb6a6208a0e0b&v=4" width="24" alt="Avatar of wacoo"> wacoo
+			<a href="https://github.com/Jeremi-code">
+				<img src="https://avatars.githubusercontent.com/u/106976091?s=72&u=d7524d2960d3afd6ef4c53891bf94e20f81bdfcc&v=4" width="24" alt="Avatar of Jeremi-code"> Jeremi-code
 			</a><br/>
-			Wondmagegn Abriham
+			Ermias S. Deresse
 		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/wabaham9">wabaham9</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>36</td>
-		<td>482</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>441</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/UbdaNam">
-				<img src="https://avatars.githubusercontent.com/u/66268418?s=72&u=b14889c13218a5932373720daa5a83d91d8af766&v=4" width="24" alt="Avatar of UbdaNam"> UbdaNam
+			<a href="https://github.com/naolaboma">
+				<img src="https://avatars.githubusercontent.com/u/153062988?s=72&u=3a84ed8db5d704da4838f3ba3f720534406456bc&v=4" width="24" alt="Avatar of naolaboma"> naolaboma
 			</a><br/>
-			Abdurahim .M
+			Naol Aboma
 		</td>
-		<td>Full Stack Developer </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AbomaNaol">AbomaNaol</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>353</td>
-		<td>478</td>
+		<td>458</td>
+		<td>485</td>
 	</tr>
 	<tr>
 		<td>485</td>
 		<td>
-			<a href="https://github.com/abrhame">
-				<img src="https://avatars.githubusercontent.com/u/99506193?s=72&u=53978c2cec1e8dd2f27d790c30491150bf37ce93&v=4" width="24" alt="Avatar of abrhame"> abrhame
+			<a href="https://github.com/ZenulAbidin">
+				<img src="https://avatars.githubusercontent.com/u/42585895?s=72&u=71c21e86d64c284b18a2c10ed5fb90015fb8a02e&v=4" width="24" alt="Avatar of ZenulAbidin"> ZenulAbidin
 			</a><br/>
-			Abrham Lakew
+			Ali Sherief
 		</td>
-		<td>Africa To Silicon Valley<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>0</td>
-		<td>478</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Zenul_Abidin">Zenul_Abidin</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>264</td>
+		<td>481</td>
 	</tr>
 	<tr>
 		<td>486</td>
 		<td>
-			<a href="https://github.com/dawit-michael">
-				<img src="https://avatars.githubusercontent.com/u/32758991?s=72&u=a219e5ed5ea6ffdafb11ea04d7813a107cfd61a2&v=4" width="24" alt="Avatar of dawit-michael"> dawit-michael
+			<a href="https://github.com/fitse-hub">
+				<img src="https://avatars.githubusercontent.com/u/205843081?s=72&u=f934a5888c7fa85332af8779855ac88954824641&v=4" width="24" alt="Avatar of fitse-hub"> fitse-hub
 			</a><br/>
-			Dawit Michael
+			Fitsum Gashaw
 		</td>
-		<td>Freelance </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>5</td>
-		<td>477</td>
+		<td> ETHIOPIA </td>
+		<td>105</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>487</td>
 		<td>
-			<a href="https://github.com/hababisha">
-				<img src="https://avatars.githubusercontent.com/u/182012569?s=72&u=7c2cc8dd0a2a520db0d3156f2750c2244ca497b6&v=4" width="24" alt="Avatar of hababisha"> hababisha
+			<a href="https://github.com/hailedev5">
+				<img src="https://avatars.githubusercontent.com/u/318901984?s=72&u=22dc30d6a72a75bdee1488e35a03f70008e8eb56&v=4" width="24" alt="Avatar of hailedev5"> hailedev5
 			</a><br/>
-			Haileamlak
+			Hailemariam tesfaye
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Hababisha">Hababisha</a></td>
-		<td>Ethiopia</td>
-		<td>439</td>
-		<td>472</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia,Addis Ababa </td>
+		<td>476</td>
+		<td>476</td>
 	</tr>
 	<tr>
 		<td>488</td>
@@ -6934,11 +6934,25 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Eaglelion System Tech </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>461</td>
-		<td>461</td>
+		<td>470</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>489</td>
+		<td>
+			<a href="https://github.com/Tola-lemma">
+				<img src="https://avatars.githubusercontent.com/u/84643602?s=72&u=c644439efacb94f64cc17e830ed52a04b9d3a4fd&v=4" width="24" alt="Avatar of Tola-lemma"> Tola-lemma
+			</a><br/>
+			Tola Lemma
+		</td>
+		<td>Addis Ababa University </td>
+		<td><a href="https://twitter.com/TolaLemma">TolaLemma</a></td>
+		<td>Addis Ababa</td>
+		<td>54</td>
+		<td>469</td>
+	</tr>
+	<tr>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/wendimust">
 				<img src="https://avatars.githubusercontent.com/u/60774163?s=72&u=fa9dc6c06febd2159f82ce66a49f5ad06f65ac7c&v=4" width="24" alt="Avatar of wendimust"> wendimust
@@ -6948,221 +6962,193 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@anabist-tech </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>18</td>
-		<td>460</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/Andu2023">
-				<img src="https://avatars.githubusercontent.com/u/134935622?s=72&u=a6300f99d70680751a7ccba4f93048fe360dd816&v=4" width="24" alt="Avatar of Andu2023"> Andu2023
-			</a><br/>
-			Andualem Assefa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>26</td>
-		<td>459</td>
+		<td>11</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/Nathan-Dereje-K">
-				<img src="https://avatars.githubusercontent.com/u/108625982?s=72&v=4" width="24" alt="Avatar of Nathan-Dereje-K"> Nathan-Dereje-K
+			<a href="https://github.com/ermiasdesalegn">
+				<img src="https://avatars.githubusercontent.com/u/179163890?s=72&u=40b02cbd41a3c3a829cd6fdf33a24b7b14e18333&v=4" width="24" alt="Avatar of ermiasdesalegn"> ermiasdesalegn
 			</a><br/>
-			Nathan Dereje
+			Ermias Desalegn Altaseb
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>0</td>
-		<td>456</td>
+		<td>203</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>492</td>
 		<td>
-			<a href="https://github.com/teddy-a5">
-				<img src="https://avatars.githubusercontent.com/u/187751206?s=72&u=9c2881868649d6ff2a8c6dfdca0d2fbd38b9ce55&v=4" width="24" alt="Avatar of teddy-a5"> teddy-a5
+			<a href="https://github.com/suyamode">
+				<img src="https://avatars.githubusercontent.com/u/275929385?s=72&u=e7cff3c8e052941f9d78dc3e503d7ae6b84479cd&v=4" width="24" alt="Avatar of suyamode"> suyamode
 			</a><br/>
-			Tewodros Anteneh
+			Hana Birhanu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>452</td>
-		<td>452</td>
+		<td>Addis Ababa</td>
+		<td>253</td>
+		<td>467</td>
 	</tr>
 	<tr>
 		<td>493</td>
 		<td>
-			<a href="https://github.com/waledagne">
-				<img src="https://avatars.githubusercontent.com/u/34514614?s=72&u=14fd12af29248137786864776e480c78eb2321ca&v=4" width="24" alt="Avatar of waledagne"> waledagne
+			<a href="https://github.com/abdureshidabdulahi">
+				<img src="https://avatars.githubusercontent.com/u/202524972?s=72&u=67732e96d60c8b8814a0d62a7eca1f4edb080376&v=4" width="24" alt="Avatar of abdureshidabdulahi"> abdureshidabdulahi
 			</a><br/>
-			Wale
+			Abdureshid Abdulahi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>1</td>
-		<td>451</td>
+		<td>272</td>
+		<td>467</td>
 	</tr>
 	<tr>
 		<td>494</td>
 		<td>
-			<a href="https://github.com/KryptonScript">
-				<img src="https://avatars.githubusercontent.com/u/227115784?s=72&u=3c3552f6f1f843213d2d8899b9f1545807eaca2f&v=4" width="24" alt="Avatar of KryptonScript"> KryptonScript
+			<a href="https://github.com/AbiyuNigussie">
+				<img src="https://avatars.githubusercontent.com/u/62298369?s=72&u=3d3cf1bf6ad24b461cc1cd3c7c2eb4a1cd4057b1&v=4" width="24" alt="Avatar of AbiyuNigussie"> AbiyuNigussie
 			</a><br/>
-			Krypton ♱👨🏾‍💻
+			Abiyu Nigussie
 		</td>
-		<td>Krypton Script 🥷🏾👨🏾‍💻 </td>
-		<td><a href="https://twitter.com/KryptonScript">KryptonScript</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>447</td>
-		<td>447</td>
+		<td>6</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>495</td>
 		<td>
-			<a href="https://github.com/Jeremi-code">
-				<img src="https://avatars.githubusercontent.com/u/106976091?s=72&u=d7524d2960d3afd6ef4c53891bf94e20f81bdfcc&v=4" width="24" alt="Avatar of Jeremi-code"> Jeremi-code
+			<a href="https://github.com/abdulhamidOumer">
+				<img src="https://avatars.githubusercontent.com/u/39024901?s=72&u=9b93faa93f53a7e627f1455d285d91082b6c7e74&v=4" width="24" alt="Avatar of abdulhamidOumer"> abdulhamidOumer
 			</a><br/>
-			Ermias S. Deresse
+			Abdulhamid Oumer
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>392</td>
-		<td>439</td>
+		<td>Bayzat </td>
+		<td><a href="https://twitter.com/aotwits">aotwits</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>0</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>496</td>
 		<td>
-			<a href="https://github.com/Kaleab41">
-				<img src="https://avatars.githubusercontent.com/u/42962516?s=72&u=47c9ab732aff27588159f067a75c203f555fc2d8&v=4" width="24" alt="Avatar of Kaleab41"> Kaleab41
+			<a href="https://github.com/dawit-michael">
+				<img src="https://avatars.githubusercontent.com/u/32758991?s=72&u=a219e5ed5ea6ffdafb11ea04d7813a107cfd61a2&v=4" width="24" alt="Avatar of dawit-michael"> dawit-michael
 			</a><br/>
-			Kaleab Mesfin
+			Dawit Michael
 		</td>
-		<td>Adwa Dynamics Software Technologies<br/></td>
-		<td><a href="https://twitter.com/KaleabMesfin_">KaleabMesfin_</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>5</td>
-		<td>438</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>3</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>497</td>
 		<td>
-			<a href="https://github.com/ldebele">
-				<img src="https://avatars.githubusercontent.com/u/89338244?s=72&u=43e02c702f8bc917af05ae8ccd1dc25e87cce6da&v=4" width="24" alt="Avatar of ldebele"> ldebele
+			<a href="https://github.com/fasilminale">
+				<img src="https://avatars.githubusercontent.com/u/30689833?s=72&u=f302eeea7410063f5467fb00c693973b996a1016&v=4" width="24" alt="Avatar of fasilminale"> fasilminale
 			</a><br/>
-			Lemi Debela
+			Fasil Minale
+		</td>
+		<td>@etdevs-network  </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Abeba</td>
+		<td>4</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/Yehonatal">
+				<img src="https://avatars.githubusercontent.com/u/83646080?s=72&u=1fbbf0054002137fc8be3305c1ba571c26d41671&v=4" width="24" alt="Avatar of Yehonatal"> Yehonatal
+			</a><br/>
+			Yonatan Afewerk Teshome
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>367</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/Abenezer-Fekadu">
+				<img src="https://avatars.githubusercontent.com/u/50666961?s=72&u=cd7116b90da0f61e86e7d0fd55bc978eab7289f7&v=4" width="24" alt="Avatar of Abenezer-Fekadu"> Abenezer-Fekadu
+			</a><br/>
+			Abenezer Fekadu Tefera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>3</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/abrahamYonas">
+				<img src="https://avatars.githubusercontent.com/u/26749071?s=72&u=01d75578243494bfa01c4e29efd7e88edbaf7524&v=4" width="24" alt="Avatar of abrahamYonas"> abrahamYonas
+			</a><br/>
+			Abraham Yonas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>0</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/Robibiruk">
-				<img src="https://avatars.githubusercontent.com/u/222461519?s=72&u=9b73cb0756b5e66d1397a91a34b3ac3fb8e10ab0&v=4" width="24" alt="Avatar of Robibiruk"> Robibiruk
-			</a><br/>
-			Robel Biruk
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>367</td>
-		<td>434</td>
-	</tr>
-	<tr>
-		<td>499</td>
-		<td>
-			<a href="https://github.com/ZenulAbidin">
-				<img src="https://avatars.githubusercontent.com/u/42585895?s=72&u=71c21e86d64c284b18a2c10ed5fb90015fb8a02e&v=4" width="24" alt="Avatar of ZenulAbidin"> ZenulAbidin
-			</a><br/>
-			Ali Sherief
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Zenul_Abidin">Zenul_Abidin</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>226</td>
-		<td>434</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
-			<a href="https://github.com/zekariyasamdu">
-				<img src="https://avatars.githubusercontent.com/u/130123502?s=72&u=edd068c291178d96a0384f68b78f42ac4cc441f6&v=4" width="24" alt="Avatar of zekariyasamdu"> zekariyasamdu
-			</a><br/>
-			Zach
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>302</td>
-		<td>431</td>
+		<td>461</td>
 	</tr>
 	<tr>
 		<td>501</td>
 		<td>
-			<a href="https://github.com/Asucexio">
-				<img src="https://avatars.githubusercontent.com/u/187859531?s=72&u=2e8d2a6236538bcbb9d91c704000da35657e1c3e&v=4" width="24" alt="Avatar of Asucexio"> Asucexio
+			<a href="https://github.com/beka-tech">
+				<img src="https://avatars.githubusercontent.com/u/63505760?s=72&u=e35603d1531e9f1af4302ba0f1ae5c286d38cd5d&v=4" width="24" alt="Avatar of beka-tech"> beka-tech
 			</a><br/>
-			Asmamew Admasu
+			beka aman
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>375</td>
-		<td>430</td>
+		<td><a href="https://twitter.com/BEKAAMAN2">BEKAAMAN2</a></td>
+		<td>Addis Ababa </td>
+		<td>460</td>
+		<td>460</td>
 	</tr>
 	<tr>
 		<td>502</td>
 		<td>
-			<a href="https://github.com/d3mah-24">
-				<img src="https://avatars.githubusercontent.com/u/64283607?s=72&u=a0c0a9267abf30df6b405763f735705a86b19926&v=4" width="24" alt="Avatar of d3mah-24"> d3mah-24
+			<a href="https://github.com/Degaga-Emiru">
+				<img src="https://avatars.githubusercontent.com/u/186705527?s=72&u=4f54616bb2b9aa9540fb6c7e63f5371dee87a050&v=4" width="24" alt="Avatar of Degaga-Emiru"> Degaga-Emiru
 			</a><br/>
-			Ahmed Muhamed
+			Degaga Emiru
 		</td>
-		<td>Haron Software </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>57</td>
-		<td>423</td>
+		<td>Hawassa University  </td>
+		<td><a href="https://twitter.com/Degaga_Emiru">Degaga_Emiru</a></td>
+		<td>Addis Ababa,  Ethiopia</td>
+		<td>434</td>
+		<td>459</td>
 	</tr>
 	<tr>
 		<td>503</td>
 		<td>
-			<a href="https://github.com/DagmMesfin">
-				<img src="https://avatars.githubusercontent.com/u/101246148?s=72&u=594e2ac7acb24371f028892c8e52ca1d7c2f5b8a&v=4" width="24" alt="Avatar of DagmMesfin"> DagmMesfin
+			<a href="https://github.com/lleull">
+				<img src="https://avatars.githubusercontent.com/u/138756889?s=72&u=14f8f1372ae63b6090c9e5f6c812c29653b158ad&v=4" width="24" alt="Avatar of lleull"> lleull
 			</a><br/>
-			Dagim Mesfin
+			Leul Mekonnen
 		</td>
-		<td>Student </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>14</td>
-		<td>423</td>
+		<td>Addis Abeba, ethiopia</td>
+		<td>92</td>
+		<td>453</td>
 	</tr>
 	<tr>
 		<td>504</td>
-		<td>
-			<a href="https://github.com/Ermias1995">
-				<img src="https://avatars.githubusercontent.com/u/158707839?s=72&u=64b0b541c4bc6153e8f9bb157b23d8e79a8ad11a&v=4" width="24" alt="Avatar of Ermias1995"> Ermias1995
-			</a><br/>
-			Ermias Firdawok
-		</td>
-		<td>Addis Ababa University </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>165</td>
-		<td>422</td>
-	</tr>
-	<tr>
-		<td>505</td>
 		<td>
 			<a href="https://github.com/dagmmeko">
 				<img src="https://avatars.githubusercontent.com/u/32908217?s=72&u=e5793d2d84c0795689b270402ad02a86d0c2ed76&v=4" width="24" alt="Avatar of dagmmeko"> dagmmeko
@@ -7173,24 +7159,234 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/dagemmekonnen">dagemmekonnen</a></td>
 		<td>Addis Ababa</td>
 		<td>0</td>
-		<td>421</td>
+		<td>453</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/zekariyasamdu">
+				<img src="https://avatars.githubusercontent.com/u/130123502?s=72&u=edd068c291178d96a0384f68b78f42ac4cc441f6&v=4" width="24" alt="Avatar of zekariyasamdu"> zekariyasamdu
+			</a><br/>
+			Zach
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>311</td>
+		<td>452</td>
 	</tr>
 	<tr>
 		<td>506</td>
 		<td>
-			<a href="https://github.com/Ahlamv">
-				<img src="https://avatars.githubusercontent.com/u/186401048?s=72&v=4" width="24" alt="Avatar of Ahlamv"> Ahlamv
+			<a href="https://github.com/Robibiruk">
+				<img src="https://avatars.githubusercontent.com/u/222461519?s=72&u=9b73cb0756b5e66d1397a91a34b3ac3fb8e10ab0&v=4" width="24" alt="Avatar of Robibiruk"> Robibiruk
 			</a><br/>
-			Ahlam Ahmed
+			Robel Biruk
 		</td>
-		<td>Aastu </td>
-		<td><a href="https://twitter.com/ahlam_ah11">ahlam_ah11</a></td>
+		<td>Self-employed </td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>366</td>
-		<td>414</td>
+		<td>331</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>507</td>
+		<td>
+			<a href="https://github.com/tewa0121">
+				<img src="https://avatars.githubusercontent.com/u/245376859?s=72&u=e3297070ca78f4dbcdb34421f33c700b1e578c3c&v=4" width="24" alt="Avatar of tewa0121"> tewa0121
+			</a><br/>
+			tewachew melaku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>446</td>
+		<td>448</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/UbdaNam">
+				<img src="https://avatars.githubusercontent.com/u/66268418?s=72&u=b14889c13218a5932373720daa5a83d91d8af766&v=4" width="24" alt="Avatar of UbdaNam"> UbdaNam
+			</a><br/>
+			Abdurahim .M
+		</td>
+		<td>Full Stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>353</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/Asucexio">
+				<img src="https://avatars.githubusercontent.com/u/187859531?s=72&u=2e8d2a6236538bcbb9d91c704000da35657e1c3e&v=4" width="24" alt="Avatar of Asucexio"> Asucexio
+			</a><br/>
+			Asmamew Admasu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>381</td>
+		<td>442</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/ProfessorAbraham">
+				<img src="https://avatars.githubusercontent.com/u/144530332?s=72&u=f5494b8c5bd5fdd07117921ea6e5123a9f7da116&v=4" width="24" alt="Avatar of ProfessorAbraham"> ProfessorAbraham
+			</a><br/>
+			Abraham Dagne
+		</td>
+		<td>Chereka Technology | Alpha<br/>Software<br/>Engineering<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>24</td>
+		<td>439</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/mulunehde">
+				<img src="https://avatars.githubusercontent.com/u/46929086?s=72&u=06cb20594fd075147189fe651cd0e529fbe841f4&v=4" width="24" alt="Avatar of mulunehde"> mulunehde
+			</a><br/>
+			Muluneh Derese
+		</td>
+		<td>Takadao </td>
+		<td><a href="https://twitter.com/mulard_">mulard_</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>437</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/d3mah-24">
+				<img src="https://avatars.githubusercontent.com/u/64283607?s=72&u=a0c0a9267abf30df6b405763f735705a86b19926&v=4" width="24" alt="Avatar of d3mah-24"> d3mah-24
+			</a><br/>
+			Ahmed Muhamed
+		</td>
+		<td>Haron Software </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>70</td>
+		<td>433</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/Ermias1995">
+				<img src="https://avatars.githubusercontent.com/u/158707839?s=72&u=64b0b541c4bc6153e8f9bb157b23d8e79a8ad11a&v=4" width="24" alt="Avatar of Ermias1995"> Ermias1995
+			</a><br/>
+			Ermias Firdawok
+		</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>169</td>
+		<td>433</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/Ammen1">
+				<img src="https://avatars.githubusercontent.com/u/101752709?s=72&u=a950fb78b55b1af92ca22bdd231f25b5b65095a7&v=4" width="24" alt="Avatar of Ammen1"> Ammen1
+			</a><br/>
+			Tamirat(Ethan)Guda Ali
+		</td>
+		<td>Https://gitlab.com/t </td>
+		<td><a href="https://twitter.com/AmenGuda29899">AmenGuda29899</a></td>
+		<td>Ethiopia</td>
+		<td>22</td>
+		<td>430</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/bogoreh">
+				<img src="https://avatars.githubusercontent.com/u/76124689?s=72&u=b432645e48a62dfdfa51e06780f30aa19431706b&v=4" width="24" alt="Avatar of bogoreh"> bogoreh
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Abdibogoreh1">Abdibogoreh1</a></td>
+		<td>Ethiopia</td>
+		<td>429</td>
+		<td>429</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/ayenewgirmay21">
+				<img src="https://avatars.githubusercontent.com/u/211217460?s=72&u=624fdcb5c166abd90392dfcdd2d1a8e5a42fb7e6&v=4" width="24" alt="Avatar of ayenewgirmay21"> ayenewgirmay21
+			</a><br/>
+			Ayenew Girmay 
+		</td>
+		<td>Unity Park/ Friendship Square<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa </td>
+		<td>429</td>
+		<td>429</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/Kaleab41">
+				<img src="https://avatars.githubusercontent.com/u/42962516?s=72&u=47c9ab732aff27588159f067a75c203f555fc2d8&v=4" width="24" alt="Avatar of Kaleab41"> Kaleab41
+			</a><br/>
+			Kaleab Mesfin
+		</td>
+		<td>Adwa Dynamics Software Technologies<br/></td>
+		<td><a href="https://twitter.com/KaleabMesfin_">KaleabMesfin_</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>4</td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/devefy">
+				<img src="https://avatars.githubusercontent.com/u/20351909?s=72&u=f66d4e41d691bb79e66b2e1dce40ef4f30b0c713&v=4" width="24" alt="Avatar of devefy"> devefy
+			</a><br/>
+			Abdulkerim Hamid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Adama</td>
+		<td>2</td>
+		<td>424</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/kaluabiyu-wq">
+				<img src="https://avatars.githubusercontent.com/u/274783483?s=72&u=6633dc8e78a8975d278dfdec3719a4a11c884f65&v=4" width="24" alt="Avatar of kaluabiyu-wq"> kaluabiyu-wq
+			</a><br/>
+			Kalu Abiyu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>421</td>
+		<td>422</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/MKD-hub">
+				<img src="https://avatars.githubusercontent.com/u/57914774?s=72&u=ccc5d3ced972f5bf5f8a8d05fa8459ce708e34fb&v=4" width="24" alt="Avatar of MKD-hub"> MKD-hub
+			</a><br/>
+			Mohammed Khalid
+		</td>
+		<td>Eaglelion Systems Techonlogy </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>151</td>
+		<td>420</td>
+	</tr>
+	<tr>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/Dach-JL">
 				<img src="https://avatars.githubusercontent.com/u/192032086?s=72&u=dc1409e78ff3fc8aa35e5bf85e4173a53b32b6b2&v=4" width="24" alt="Avatar of Dach-JL"> Dach-JL
@@ -7200,11 +7396,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dire Dawa , Ethiopia</td>
-		<td>381</td>
-		<td>414</td>
+		<td>387</td>
+		<td>420</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/surraaI">
 				<img src="https://avatars.githubusercontent.com/u/141846629?s=72&u=351ed283e5dd95c034ba65c1046c8a9d1e6eb5eb&v=4" width="24" alt="Avatar of surraaI"> surraaI
@@ -7214,11 +7410,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@a2sv </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>418</td>
+		<td>418</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/hababisha">
+				<img src="https://avatars.githubusercontent.com/u/182012569?s=72&u=7c2cc8dd0a2a520db0d3156f2750c2244ca497b6&v=4" width="24" alt="Avatar of hababisha"> hababisha
+			</a><br/>
+			Haileamlak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Hababisha">Hababisha</a></td>
+		<td>Ethiopia</td>
+		<td>384</td>
+		<td>417</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/Ahlamv">
+				<img src="https://avatars.githubusercontent.com/u/186401048?s=72&v=4" width="24" alt="Avatar of Ahlamv"> Ahlamv
+			</a><br/>
+			Ahlam Ahmed
+		</td>
+		<td>Aastu </td>
+		<td><a href="https://twitter.com/ahlam_ah11">ahlam_ah11</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>367</td>
+		<td>414</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/code-Estif">
+				<img src="https://avatars.githubusercontent.com/u/220752714?s=72&u=f3b86884bb7704087a643b72dab3b94364fd3b43&v=4" width="24" alt="Avatar of code-Estif"> code-Estif
+			</a><br/>
+			Estif Dev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
 		<td>409</td>
 		<td>409</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/amanuelbelete95">
 				<img src="https://avatars.githubusercontent.com/u/99336469?s=72&u=71f1c81917ba9ce2ea789d8103d27032f1c549e9&v=4" width="24" alt="Avatar of amanuelbelete95"> amanuelbelete95
@@ -7232,91 +7470,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>407</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>527</td>
 		<td>
-			<a href="https://github.com/DagmawiIsaiah">
-				<img src="https://avatars.githubusercontent.com/u/161498434?s=72&u=e69a997944ec8253c06361e5e30d61dda3aa0487&v=4" width="24" alt="Avatar of DagmawiIsaiah"> DagmawiIsaiah
+			<a href="https://github.com/DagmMesfin">
+				<img src="https://avatars.githubusercontent.com/u/101246148?s=72&u=1ef528b2870a13a9c4227f7e9b2c613434e07e45&v=4" width="24" alt="Avatar of DagmMesfin"> DagmMesfin
 			</a><br/>
-			Dagmawi Esayas
+			Dagim Mesfin
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>46</td>
-		<td>406</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
-			<a href="https://github.com/etabebe1">
-				<img src="https://avatars.githubusercontent.com/u/112184633?s=72&u=052dc93652ec38c2cd57adacc36e8ad7959a3610&v=4" width="24" alt="Avatar of etabebe1"> etabebe1
-			</a><br/>
-			Jeremiah T.A
-		</td>
-		<td>Cyaxiom </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa / Ethiopia</td>
-		<td>11</td>
-		<td>404</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/Ermi-Tekk21">
-				<img src="https://avatars.githubusercontent.com/u/122928255?s=72&u=2726ae839a4047ed4430cea42aa31b914af493ff&v=4" width="24" alt="Avatar of Ermi-Tekk21"> Ermi-Tekk21
-			</a><br/>
-			Ermias-Tekilemarkos
-		</td>
-		<td>No Company</td>
+		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>127</td>
-		<td>404</td>
+		<td>14</td>
+		<td>402</td>
 	</tr>
 	<tr>
-		<td>513</td>
-		<td>
-			<a href="https://github.com/ErmiyasG">
-				<img src="https://avatars.githubusercontent.com/u/39332290?s=72&v=4" width="24" alt="Avatar of ErmiyasG"> ErmiyasG
-			</a><br/>
-			Ermiyas Gezahegn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>62</td>
-		<td>399</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/AmanuelCh">
-				<img src="https://avatars.githubusercontent.com/u/122665085?s=72&u=603c0c345c4f285facaddaf3aa49a9e0ed1eb024&v=4" width="24" alt="Avatar of AmanuelCh"> AmanuelCh
-			</a><br/>
-			Amanuel Chaka
-		</td>
-		<td>@talixi-ai </td>
-		<td><a href="https://twitter.com/amanuel_c_h">amanuel_c_h</a></td>
-		<td>Addis Ababa</td>
-		<td>78</td>
-		<td>395</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
-			<a href="https://github.com/solomonsitot">
-				<img src="https://avatars.githubusercontent.com/u/99657915?s=72&u=01ed11b11f3ca0235b4122704ca347bfe6fdda6e&v=4" width="24" alt="Avatar of solomonsitot"> solomonsitot
-			</a><br/>
-			Solomon Sitotaw
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>17</td>
-		<td>390</td>
-	</tr>
-	<tr>
-		<td>516</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/Besufikad17">
 				<img src="https://avatars.githubusercontent.com/u/64811433?s=72&u=f2430b0620f9b97c44a1077a0d41f64f1c41ef07&v=4" width="24" alt="Avatar of Besufikad17"> Besufikad17
@@ -7326,67 +7494,53 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/besumicheal">besumicheal</a></td>
 		<td>Addis Ababa,  Ethiopia</td>
-		<td>77</td>
-		<td>387</td>
+		<td>81</td>
+		<td>399</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>529</td>
 		<td>
-			<a href="https://github.com/belmeetmule">
-				<img src="https://avatars.githubusercontent.com/u/97679679?s=72&u=6c566cea08b7f7c8e91d0336410e818f0fc3583f&v=4" width="24" alt="Avatar of belmeetmule"> belmeetmule
+			<a href="https://github.com/getishe">
+				<img src="https://avatars.githubusercontent.com/u/80521478?s=72&u=800a0cef9712b6db8d4c42e23158fdefb64f73b0&v=4" width="24" alt="Avatar of getishe"> getishe
 			</a><br/>
-			Mulugeta M.
+			Getahune Alemayhu
 		</td>
-		<td>@microverseinc </td>
-		<td><a href="https://twitter.com/belmeetmule">belmeetmule</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>387</td>
+		<td>Get_tech </td>
+		<td><a href="https://twitter.com/GETAHUNEALEMAYH">GETAHUNEALEMAYH</a></td>
+		<td>Adiss Ababa, Ethiopia</td>
+		<td>393</td>
+		<td>393</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>530</td>
 		<td>
-			<a href="https://github.com/Abelo73">
-				<img src="https://avatars.githubusercontent.com/u/117712700?s=72&u=762a0b34cb9196a467e6f12845598e72d736c26f&v=4" width="24" alt="Avatar of Abelo73"> Abelo73
+			<a href="https://github.com/Natty-7r">
+				<img src="https://avatars.githubusercontent.com/u/111322007?s=72&u=f747406efa7e071ca3d06fcb4ec8944eb438818d&v=4" width="24" alt="Avatar of Natty-7r"> Natty-7r
 			</a><br/>
-			Abel Adisu
+			Natnael Fekadu
 		</td>
-		<td> @abelo73 </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>228</td>
-		<td>386</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/Yab112">
-				<img src="https://avatars.githubusercontent.com/u/106923105?s=72&u=c191cf7eb88bfc938cffc9c87fe936ed81e3f800&v=4" width="24" alt="Avatar of Yab112"> Yab112
-			</a><br/>
-			Coded-Fossil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ethiopia,addis ababa</td>
-		<td>384</td>
-		<td>384</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
-			<a href="https://github.com/abinet1">
-				<img src="https://avatars.githubusercontent.com/u/39063284?s=72&u=f3e26959968bed7bb90fdf9b7801d01adce204e0&v=4" width="24" alt="Avatar of abinet1"> abinet1
-			</a><br/>
-			Abinet Tassew
-		</td>
-		<td>No Company</td>
+		<td>Safaricom </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>43</td>
-		<td>384</td>
+		<td>45</td>
+		<td>391</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/eliastaye6">
+				<img src="https://avatars.githubusercontent.com/u/91010287?s=72&u=7cd4256f291e2f04d6f9e17e837c839c95d3380f&v=4" width="24" alt="Avatar of eliastaye6"> eliastaye6
+			</a><br/>
+			Elias Taye | ኤልያስ ታዬ
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ELA___T">ELA___T</a></td>
+		<td>Addis Ababa, Ethiopia | ኢዲስ አበባ ፣ ኢትዮጵያ</td>
+		<td>0</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/Issachar01">
 				<img src="https://avatars.githubusercontent.com/u/201383216?s=72&u=f8bf497930a02fa214e64c6f1c1c303a55525279&v=4" width="24" alt="Avatar of Issachar01"> Issachar01
@@ -7400,21 +7554,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>383</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>533</td>
 		<td>
-			<a href="https://github.com/eliastaye6">
-				<img src="https://avatars.githubusercontent.com/u/91010287?s=72&u=7cd4256f291e2f04d6f9e17e837c839c95d3380f&v=4" width="24" alt="Avatar of eliastaye6"> eliastaye6
+			<a href="https://github.com/DagneMan123">
+				<img src="https://avatars.githubusercontent.com/u/205430307?s=72&u=1cdd31754b50e1cee0d7885c4ceaeeb6ecbc7f71&v=4" width="24" alt="Avatar of DagneMan123"> DagneMan123
 			</a><br/>
-			Elias Taye | ኤልያስ ታዬ
+			dagne aydenfu
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ELA___T">ELA___T</a></td>
-		<td>Addis Ababa, Ethiopia | ኢዲስ አበባ ፣ ኢትዮጵያ</td>
-		<td>0</td>
-		<td>379</td>
+		<td>Wollo University /kombolcha </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>355</td>
+		<td>378</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/YohansSamuel">
 				<img src="https://avatars.githubusercontent.com/u/100848516?s=72&u=89730fba380270df5f2b9bd548a9487f9bf05760&v=4" width="24" alt="Avatar of YohansSamuel"> YohansSamuel
@@ -7425,52 +7579,52 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/YohansSamuel14">YohansSamuel14</a></td>
 		<td>Ethiopia </td>
 		<td>3</td>
-		<td>376</td>
+		<td>378</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>535</td>
 		<td>
-			<a href="https://github.com/degisew">
-				<img src="https://avatars.githubusercontent.com/u/86473715?s=72&u=7e3668d80de97c7e9cfb32eefa40ee3a2d23b21d&v=4" width="24" alt="Avatar of degisew"> degisew
+			<a href="https://github.com/Abdulfetahjemal">
+				<img src="https://avatars.githubusercontent.com/u/32792371?s=72&u=2f7e90100eee1064f424b3d1e427b0c33642bcca&v=4" width="24" alt="Avatar of Abdulfetahjemal"> Abdulfetahjemal
 			</a><br/>
-			Degisew Mengist
+			Abdulfetah Jemal
 		</td>
-		<td>No Company</td>
+		<td>Codepoint Creatives </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
+		<td>8</td>
 		<td>375</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>536</td>
 		<td>
-			<a href="https://github.com/heni8668">
-				<img src="https://avatars.githubusercontent.com/u/70965503?s=72&u=55ae3539b7a24bde6b489b5f4450d8540d7a77ac&v=4" width="24" alt="Avatar of heni8668"> heni8668
+			<a href="https://github.com/belmeetmule">
+				<img src="https://avatars.githubusercontent.com/u/97679679?s=72&u=6c566cea08b7f7c8e91d0336410e818f0fc3583f&v=4" width="24" alt="Avatar of belmeetmule"> belmeetmule
 			</a><br/>
-			Henok Tilahun Lakew
+			Mulugeta M.
 		</td>
-		<td>Adiamat Trading Plc </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>11</td>
-		<td>374</td>
-	</tr>
-	<tr>
-		<td>526</td>
-		<td>
-			<a href="https://github.com/Frehiwot-G">
-				<img src="https://avatars.githubusercontent.com/u/83365773?s=72&v=4" width="24" alt="Avatar of Frehiwot-G"> Frehiwot-G
-			</a><br/>
-			Frehiwot Gemechu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>@microverseinc </td>
+		<td><a href="https://twitter.com/belmeetmule">belmeetmule</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>372</td>
+		<td>0</td>
+		<td>375</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/leykun-gizaw">
+				<img src="https://avatars.githubusercontent.com/u/61229555?s=72&u=00aaecf79f4b4abf07cc99c99a95dfc4c59b9bb0&v=4" width="24" alt="Avatar of leykun-gizaw"> leykun-gizaw
+			</a><br/>
+			Leykun
+		</td>
+		<td>Alx Africa </td>
+		<td><a href="https://twitter.com/leyk_g">leyk_g</a></td>
+		<td>Addis Ababa</td>
+		<td>375</td>
+		<td>375</td>
+	</tr>
+	<tr>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/amardelil">
 				<img src="https://avatars.githubusercontent.com/u/233937264?s=72&u=09183175654e1dba24bd00f6357831ee1179eeb4&v=4" width="24" alt="Avatar of amardelil"> amardelil
@@ -7480,53 +7634,151 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>368</td>
-		<td>368</td>
+		<td>374</td>
+		<td>374</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>539</td>
 		<td>
-			<a href="https://github.com/0xfke">
-				<img src="https://avatars.githubusercontent.com/u/132171539?s=72&u=5cc482e500c99988cc918fb27e37ce7862d671ce&v=4" width="24" alt="Avatar of 0xfke"> 0xfke
+			<a href="https://github.com/kaleb2343">
+				<img src="https://avatars.githubusercontent.com/u/132392721?s=72&u=48611614ef606d228d5d4c5ecef7f2a91783c22a&v=4" width="24" alt="Avatar of kaleb2343"> kaleb2343
 			</a><br/>
-			Befikadu Tesfaye
+			KALEB DAWIT
 		</td>
-		<td>Buna Byte </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KalebDawit13">KalebDawit13</a></td>
+		<td>ETHIOPIA , ADDIS ABABA</td>
+		<td>338</td>
+		<td>372</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/heni8668">
+				<img src="https://avatars.githubusercontent.com/u/70965503?s=72&u=55ae3539b7a24bde6b489b5f4450d8540d7a77ac&v=4" width="24" alt="Avatar of heni8668"> heni8668
+			</a><br/>
+			Henok Tilahun Lakew
+		</td>
+		<td>Adiamat Trading Plc </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>10</td>
+		<td>371</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/Arsanyos">
+				<img src="https://avatars.githubusercontent.com/u/49883566?s=72&v=4" width="24" alt="Avatar of Arsanyos"> Arsanyos
+			</a><br/>
+			Arsanyos Asrat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>138</td>
+		<td>371</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/adnantabda">
+				<img src="https://avatars.githubusercontent.com/u/124662207?s=72&u=1a1defeefcf3cea293828c72469aa074d136fc07&v=4" width="24" alt="Avatar of adnantabda"> adnantabda
+			</a><br/>
+			Adnan Tahir
+		</td>
+		<td>Hulmi Tech </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>5</td>
+		<td>49</td>
+		<td>369</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/KryptonScript">
+				<img src="https://avatars.githubusercontent.com/u/227115784?s=72&u=3c3552f6f1f843213d2d8899b9f1545807eaca2f&v=4" width="24" alt="Avatar of KryptonScript"> KryptonScript
+			</a><br/>
+			Krypton ♱👨🏾‍💻
+		</td>
+		<td>Krypton Script 🥷🏾👨🏾‍💻 </td>
+		<td><a href="https://twitter.com/KryptonScript">KryptonScript</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>365</td>
+		<td>365</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/Aklilegetachew">
+				<img src="https://avatars.githubusercontent.com/u/50630547?s=72&u=653406242b4d8ab073aef3fa71b6af83e896d7fa&v=4" width="24" alt="Avatar of Aklilegetachew"> Aklilegetachew
+			</a><br/>
+			Aklile
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa </td>
+		<td>68</td>
 		<td>364</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>545</td>
 		<td>
-			<a href="https://github.com/anaol216">
-				<img src="https://avatars.githubusercontent.com/u/137703580?s=72&u=bce17609dfb8f965b1aae1cf48369e98ce3f75c7&v=4" width="24" alt="Avatar of anaol216"> anaol216
+			<a href="https://github.com/AmanuelCh">
+				<img src="https://avatars.githubusercontent.com/u/122665085?s=72&u=603c0c345c4f285facaddaf3aa49a9e0ed1eb024&v=4" width="24" alt="Avatar of AmanuelCh"> AmanuelCh
 			</a><br/>
-			Anaol Atinafu
+			Amanuel Chaka
+		</td>
+		<td>@talixi-ai </td>
+		<td><a href="https://twitter.com/amanuel_c_h">amanuel_c_h</a></td>
+		<td>Addis Ababa</td>
+		<td>73</td>
+		<td>363</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/yohannesdagnachew">
+				<img src="https://avatars.githubusercontent.com/u/102184682?s=72&u=1a233a29c922c7a2d33116ee29b1ae45948fcd8d&v=4" width="24" alt="Avatar of yohannesdagnachew"> yohannesdagnachew
+			</a><br/>
+			Yohannes(Jo)
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/Jod99712013">Jod99712013</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>270</td>
+		<td>362</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/BirthMark21">
+				<img src="https://avatars.githubusercontent.com/u/165183460?s=72&u=9a7ac2d317e98fa8e12fb7b46f4e2b1dea0d3768&v=4" width="24" alt="Avatar of BirthMark21"> BirthMark21
+			</a><br/>
+			Misganaw Mekashaw 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anaol216">anaol216</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>360</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>20</td>
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>548</td>
 		<td>
-			<a href="https://github.com/bushmusi">
-				<img src="https://avatars.githubusercontent.com/u/35783481?s=72&u=0a8f45748205d7f60c81a138f8fbd20f45a477c8&v=4" width="24" alt="Avatar of bushmusi"> bushmusi
+			<a href="https://github.com/leulabay1">
+				<img src="https://avatars.githubusercontent.com/u/108995687?s=72&v=4" width="24" alt="Avatar of leulabay1"> leulabay1
 			</a><br/>
-			Bushra Mustofa
+			Leul Abay Ejigu
 		</td>
-		<td>@bisratech @microverseinc  </td>
-		<td><a href="https://twitter.com/bushera_mestofa">bushera_mestofa</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>30</td>
-		<td>360</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Leul87391150">Leul87391150</a></td>
+		<td>Ethiopia</td>
+		<td>16</td>
+		<td>358</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/AtomsaDesalegn">
 				<img src="https://avatars.githubusercontent.com/u/147100987?s=72&u=531ea5dc8a25ed2754875ffd6b8ee05e08547dcc&v=4" width="24" alt="Avatar of AtomsaDesalegn"> AtomsaDesalegn
@@ -7540,133 +7792,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>550</td>
 		<td>
-			<a href="https://github.com/Lemidinku">
-				<img src="https://avatars.githubusercontent.com/u/112744867?s=72&u=c1fb8955d57b17c6bbe13203910c7304fd0c0689&v=4" width="24" alt="Avatar of Lemidinku"> Lemidinku
+			<a href="https://github.com/Tewodros-Tilahun-01">
+				<img src="https://avatars.githubusercontent.com/u/113050664?s=72&v=4" width="24" alt="Avatar of Tewodros-Tilahun-01"> Tewodros-Tilahun-01
 			</a><br/>
-			Lemi Dinku
+			tewodros tilahun
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>142</td>
-		<td>357</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
-			<a href="https://github.com/naolchala">
-				<img src="https://avatars.githubusercontent.com/u/38764421?s=72&u=c686bf927213c724862b73dc73ca7d860dd3e1bc&v=4" width="24" alt="Avatar of naolchala"> naolchala
-			</a><br/>
-			Naol Chala
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/naol_chala">naol_chala</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>4</td>
-		<td>354</td>
-	</tr>
-	<tr>
-		<td>534</td>
-		<td>
-			<a href="https://github.com/lijsamuael">
-				<img src="https://avatars.githubusercontent.com/u/101696125?s=72&u=4d7f104cb9e59b86947d4765369ce4d4251614f9&v=4" width="24" alt="Avatar of lijsamuael"> lijsamuael
-			</a><br/>
-			Sami
-		</td>
-		<td>Friends Erp </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>309</td>
-		<td>354</td>
-	</tr>
-	<tr>
-		<td>535</td>
-		<td>
-			<a href="https://github.com/Abdulfetahjemal">
-				<img src="https://avatars.githubusercontent.com/u/32792371?s=72&u=2f7e90100eee1064f424b3d1e427b0c33642bcca&v=4" width="24" alt="Avatar of Abdulfetahjemal"> Abdulfetahjemal
-			</a><br/>
-			Abdulfetah Jemal
-		</td>
-		<td>Openflow </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>8</td>
+		<td>Addis Abeba , Ethiopia </td>
+		<td>282</td>
 		<td>353</td>
 	</tr>
 	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/Pequanta">
-				<img src="https://avatars.githubusercontent.com/u/96361630?s=72&u=c4a8f25a45e5a1a332f004789e15901986c36a0a&v=4" width="24" alt="Avatar of Pequanta"> Pequanta
-			</a><br/>
-			PenielY
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>296</td>
-		<td>349</td>
-	</tr>
-	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/Aklilegetachew">
-				<img src="https://avatars.githubusercontent.com/u/50630547?s=72&u=653406242b4d8ab073aef3fa71b6af83e896d7fa&v=4" width="24" alt="Avatar of Aklilegetachew"> Aklilegetachew
-			</a><br/>
-			Aklile
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa </td>
-		<td>71</td>
-		<td>348</td>
-	</tr>
-	<tr>
-		<td>538</td>
-		<td>
-			<a href="https://github.com/rasyosef">
-				<img src="https://avatars.githubusercontent.com/u/37704356?s=72&u=e1111216b31b5ebce06a961ee10d472e25dfa4e5&v=4" width="24" alt="Avatar of rasyosef"> rasyosef
-			</a><br/>
-			Yosef W. Alemneh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>188</td>
-		<td>341</td>
-	</tr>
-	<tr>
-		<td>539</td>
-		<td>
-			<a href="https://github.com/alaxar">
-				<img src="https://avatars.githubusercontent.com/u/20353178?s=72&u=a9387d5d986460c06da1e6f7f95e87f269ebfbb7&v=4" width="24" alt="Avatar of alaxar"> alaxar
-			</a><br/>
-			Alazar Demessie
-		</td>
-		<td>Senior C/c++ Engineer @<br/>E-lmis<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>13</td>
-		<td>340</td>
-	</tr>
-	<tr>
-		<td>540</td>
-		<td>
-			<a href="https://github.com/Besufekad-HAZ">
-				<img src="https://avatars.githubusercontent.com/u/23375153?s=72&u=5e9fb2b24a273f9c0f0f1ca90643d15f7a5504cb&v=4" width="24" alt="Avatar of Besufekad-HAZ"> Besufekad-HAZ
-			</a><br/>
-			Besufekad Alemu
-		</td>
-		<td>Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>171</td>
-		<td>333</td>
-	</tr>
-	<tr>
-		<td>541</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/MannyNe">
 				<img src="https://avatars.githubusercontent.com/u/50913365?s=72&u=226ebbc4c45d3d3fc4f62085d1d3d64487f6a686&v=4" width="24" alt="Avatar of MannyNe"> MannyNe
@@ -7677,220 +7817,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/_MannyN">_MannyN</a></td>
 		<td>Addis Abeba, Ethiopia</td>
 		<td>43</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>542</td>
-		<td>
-			<a href="https://github.com/yohannesdagnachew">
-				<img src="https://avatars.githubusercontent.com/u/102184682?s=72&u=1a233a29c922c7a2d33116ee29b1ae45948fcd8d&v=4" width="24" alt="Avatar of yohannesdagnachew"> yohannesdagnachew
-			</a><br/>
-			Yohannes(Jo)
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/Jod99712013">Jod99712013</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>236</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
-			<a href="https://github.com/Tesfaye-kel">
-				<img src="https://avatars.githubusercontent.com/u/172826357?s=72&u=31569378d25264b1870f18300005417404ff1f1f&v=4" width="24" alt="Avatar of Tesfaye-kel"> Tesfaye-kel
-			</a><br/>
-			Tesfaye kelbesa 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tesftesfish">tesftesfish</a></td>
-		<td>Ethiopia </td>
-		<td>323</td>
-		<td>327</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/melos-simeneh">
-				<img src="https://avatars.githubusercontent.com/u/85923940?s=72&u=05168907fbd1ef93320508117405035bbc0274e1&v=4" width="24" alt="Avatar of melos-simeneh"> melos-simeneh
-			</a><br/>
-			Melos Simeneh Mulu
-		</td>
-		<td>Abay Bank S.c </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>14</td>
-		<td>323</td>
-	</tr>
-	<tr>
-		<td>545</td>
-		<td>
-			<a href="https://github.com/venopyX">
-				<img src="https://avatars.githubusercontent.com/u/117309484?s=72&u=803b4619c44de9dd942a1a6f6184c4f8f4b8a4a8&v=4" width="24" alt="Avatar of venopyX"> venopyX
-			</a><br/>
-			Gemechis Chala
-		</td>
-		<td>@code-tactic </td>
-		<td><a href="https://twitter.com/venopyX">venopyX</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
-		<td>320</td>
-	</tr>
-	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/kabtamu-degifie">
-				<img src="https://avatars.githubusercontent.com/u/70583153?s=72&u=9f9a8d65cf49c606f74bb0e1f763228cc4ea7452&v=4" width="24" alt="Avatar of kabtamu-degifie"> kabtamu-degifie
-			</a><br/>
-			Kabtamu Degifie
-		</td>
-		<td>Etm Software Plc. </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>320</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/ski-p3r">
-				<img src="https://avatars.githubusercontent.com/u/105807410?s=72&u=ccc13770b911cb4111e057e6acd1e0db42e0b055&v=4" width="24" alt="Avatar of ski-p3r"> ski-p3r
-			</a><br/>
-			Mubarek Shikur
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
-		<td>45</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>548</td>
-		<td>
-			<a href="https://github.com/Ayida-Aman">
-				<img src="https://avatars.githubusercontent.com/u/180939082?s=72&u=3e8d76a33adfc367098946aace84adf842352793&v=4" width="24" alt="Avatar of Ayida-Aman"> Ayida-Aman
-			</a><br/>
-			Ayida Aman Shifa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AmanSiyam">AmanSiyam</a></td>
-		<td>Jimma, Ethiopia</td>
-		<td>277</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>549</td>
-		<td>
-			<a href="https://github.com/squidward404">
-				<img src="https://avatars.githubusercontent.com/u/161409855?s=72&u=d7257ce06d455e77af5cb5d9a3aa1e56a46578e1&v=4" width="24" alt="Avatar of squidward404"> squidward404
-			</a><br/>
-			Befikir Shimelis
-		</td>
-		<td>Hadar Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia.</td>
-		<td>235</td>
-		<td>316</td>
-	</tr>
-	<tr>
-		<td>550</td>
-		<td>
-			<a href="https://github.com/Barnaan2">
-				<img src="https://avatars.githubusercontent.com/u/95656020?s=72&u=19ea9637d718acb3852fc2b435ead2b07b8e5da5&v=4" width="24" alt="Avatar of Barnaan2"> Barnaan2
-			</a><br/>
-			Bernabas Tekkalign Buli
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BuliBerna">BuliBerna</a></td>
-		<td>Jimma, Ethiopia</td>
-		<td>4</td>
-		<td>313</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/suyamode">
-				<img src="https://avatars.githubusercontent.com/u/275929385?s=72&u=e7cff3c8e052941f9d78dc3e503d7ae6b84479cd&v=4" width="24" alt="Avatar of suyamode"> suyamode
-			</a><br/>
-			Hana Birhanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>120</td>
-		<td>313</td>
+		<td>353</td>
 	</tr>
 	<tr>
 		<td>552</td>
 		<td>
-			<a href="https://github.com/hilla10">
-				<img src="https://avatars.githubusercontent.com/u/120259753?s=72&u=8f08a1e9eb19024caa80cebc860836333f5502be&v=4" width="24" alt="Avatar of hilla10"> hilla10
+			<a href="https://github.com/MubarakAd">
+				<img src="https://avatars.githubusercontent.com/u/150241158?s=72&u=5df199c528e889d013d206a8b830e1f3ca3db4b4&v=4" width="24" alt="Avatar of MubarakAd"> MubarakAd
 			</a><br/>
-			hilla
+			Mubarak Adem
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/man_hilla">man_hilla</a></td>
-		<td>Ethiopia</td>
-		<td>312</td>
-		<td>312</td>
+		<td>Remote </td>
+		<td>No Twitter Username</td>
+		<td>adama ethiopia</td>
+		<td>107</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>553</td>
-		<td>
-			<a href="https://github.com/yohacode">
-				<img src="https://avatars.githubusercontent.com/u/72225779?s=72&u=4ae6803ff8a9cface632126204f48b4c1d0cb64f&v=4" width="24" alt="Avatar of yohacode"> yohacode
-			</a><br/>
-			Yohannes Zerihun
-		</td>
-		<td>@yohaqr , @codewithyohan <br/></td>
-		<td><a href="https://twitter.com/yohacodes">yohacodes</a></td>
-		<td>ethiopia</td>
-		<td>70</td>
-		<td>311</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/Haylemicheal">
-				<img src="https://avatars.githubusercontent.com/u/38722653?s=72&u=027338a8fd304175e47912c5fba1aae3443fb96a&v=4" width="24" alt="Avatar of Haylemicheal"> Haylemicheal
-			</a><br/>
-			Haylemicheal Berihun Mekonnen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>86</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/Arsanyos">
-				<img src="https://avatars.githubusercontent.com/u/49883566?s=72&v=4" width="24" alt="Avatar of Arsanyos"> Arsanyos
-			</a><br/>
-			Arsanyos Asrat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>125</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/bikilaalemu">
-				<img src="https://avatars.githubusercontent.com/u/94080566?s=72&v=4" width="24" alt="Avatar of bikilaalemu"> bikilaalemu
-			</a><br/>
-			Bikila Alemu
-		</td>
-		<td>Arba Minch University <br/></td>
-		<td>No Twitter Username</td>
-		<td>Arba Minch,  Ethiopia </td>
-		<td>44</td>
-		<td>306</td>
-	</tr>
-	<tr>
-		<td>557</td>
 		<td>
 			<a href="https://github.com/tsedeysolomons">
 				<img src="https://avatars.githubusercontent.com/u/167250386?s=72&u=5fe105f0c346445faa83147536be51292edf29fe&v=4" width="24" alt="Avatar of tsedeysolomons"> tsedeysolomons
@@ -7900,50 +7844,106 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Adiss Abeba, Ethiopia <br/></td>
 		<td><a href="https://twitter.com/TsedeySolomon">TsedeySolomon</a></td>
 		<td>Adiss Ababa Ethiopia</td>
-		<td>135</td>
-		<td>306</td>
+		<td>133</td>
+		<td>348</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>554</td>
 		<td>
-			<a href="https://github.com/Abelabebe313">
-				<img src="https://avatars.githubusercontent.com/u/88794322?s=72&u=e8861e85bf810e2d245c6f124cf9fc619c5e43d5&v=4" width="24" alt="Avatar of Abelabebe313"> Abelabebe313
+			<a href="https://github.com/samrawit04">
+				<img src="https://avatars.githubusercontent.com/u/120048563?s=72&u=7afeedf044af02eafa33b5c595f880db895cb6d4&v=4" width="24" alt="Avatar of samrawit04"> samrawit04
 			</a><br/>
-			Abel Abebe 
+			Samrawit Amare
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>26</td>
-		<td>301</td>
+		<td>180</td>
+		<td>347</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/rasyosef">
+				<img src="https://avatars.githubusercontent.com/u/37704356?s=72&u=e1111216b31b5ebce06a961ee10d472e25dfa4e5&v=4" width="24" alt="Avatar of rasyosef"> rasyosef
+			</a><br/>
+			Yosef W. Alemneh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>192</td>
+		<td>345</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/hilla10">
+				<img src="https://avatars.githubusercontent.com/u/120259753?s=72&u=8f08a1e9eb19024caa80cebc860836333f5502be&v=4" width="24" alt="Avatar of hilla10"> hilla10
+			</a><br/>
+			hilla
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/man_hilla">man_hilla</a></td>
+		<td>Ethiopia</td>
+		<td>344</td>
+		<td>344</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/Ayida-Aman">
+				<img src="https://avatars.githubusercontent.com/u/180939082?s=72&u=3e8d76a33adfc367098946aace84adf842352793&v=4" width="24" alt="Avatar of Ayida-Aman"> Ayida-Aman
+			</a><br/>
+			Ayida Aman Shifa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AmanSiyam">AmanSiyam</a></td>
+		<td>Jimma, Ethiopia</td>
+		<td>281</td>
+		<td>335</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/Lemidinku">
+				<img src="https://avatars.githubusercontent.com/u/112744867?s=72&u=c1fb8955d57b17c6bbe13203910c7304fd0c0689&v=4" width="24" alt="Avatar of Lemidinku"> Lemidinku
+			</a><br/>
+			Lemi Dinku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>144</td>
+		<td>335</td>
 	</tr>
 	<tr>
 		<td>559</td>
 		<td>
-			<a href="https://github.com/bayillag">
-				<img src="https://avatars.githubusercontent.com/u/98712399?s=72&u=a76a7896d794fc5f7bcde9dd3b8fc6028bc3ac4d&v=4" width="24" alt="Avatar of bayillag"> bayillag
+			<a href="https://github.com/hgusweldeyowhanes">
+				<img src="https://avatars.githubusercontent.com/u/158445585?s=72&u=94cda3d458bd4deac85abf4c43c9fea995a5763c&v=4" width="24" alt="Avatar of hgusweldeyowhanes"> hgusweldeyowhanes
 			</a><br/>
-			Bayilla Geda BAYILLA
+			Hgus Weldeyowhanes Wellu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BayillaGeda">BayillaGeda</a></td>
-		<td>Ethiopia </td>
-		<td>300</td>
-		<td>300</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>82</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>560</td>
 		<td>
-			<a href="https://github.com/tewa0121">
-				<img src="https://avatars.githubusercontent.com/u/245376859?s=72&u=e3297070ca78f4dbcdb34421f33c700b1e578c3c&v=4" width="24" alt="Avatar of tewa0121"> tewa0121
+			<a href="https://github.com/Ermi-Tekk21">
+				<img src="https://avatars.githubusercontent.com/u/122928255?s=72&u=2726ae839a4047ed4430cea42aa31b914af493ff&v=4" width="24" alt="Avatar of Ermi-Tekk21"> Ermi-Tekk21
 			</a><br/>
-			tewachew melaku
+			Ermias-Tekilemarkos
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>297</td>
-		<td>297</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>127</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>561</td>
@@ -7957,80 +7957,122 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/meshu102">meshu102</a></td>
 		<td>Addis Ababa, Ethiopia </td>
 		<td>0</td>
-		<td>297</td>
+		<td>328</td>
 	</tr>
 	<tr>
 		<td>562</td>
 		<td>
-			<a href="https://github.com/fira0l">
-				<img src="https://avatars.githubusercontent.com/u/69264000?s=72&u=10fa60198dfdc47c24d87c2ae0ec203d7d79149f&v=4" width="24" alt="Avatar of fira0l"> fira0l
+			<a href="https://github.com/Tesfaye-kel">
+				<img src="https://avatars.githubusercontent.com/u/172826357?s=72&u=b054eb94bb9a5e92add5f9ba37ee67138b03415c&v=4" width="24" alt="Avatar of Tesfaye-kel"> Tesfaye-kel
 			</a><br/>
-			Firaol Anbessa
+			Tesfaye kelbesa 
 		</td>
-		<td>Jimma University </td>
-		<td><a href="https://twitter.com/FiraValorant">FiraValorant</a></td>
-		<td>Addis Ababa</td>
-		<td>95</td>
-		<td>296</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tesftesfish">tesftesfish</a></td>
+		<td>Ethiopia </td>
+		<td>323</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>563</td>
 		<td>
-			<a href="https://github.com/firomsahika">
-				<img src="https://avatars.githubusercontent.com/u/116643596?s=72&u=5fc2fbac45c7f8794f3907e56e7c9b0d33a0c526&v=4" width="24" alt="Avatar of firomsahika"> firomsahika
+			<a href="https://github.com/Frehiwot-G">
+				<img src="https://avatars.githubusercontent.com/u/83365773?s=72&v=4" width="24" alt="Avatar of Frehiwot-G"> Frehiwot-G
 			</a><br/>
-			Firomsa Hika
+			Frehiwot Gemechu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>296</td>
-		<td>296</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>10</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>564</td>
 		<td>
-			<a href="https://github.com/Robel-Y">
-				<img src="https://avatars.githubusercontent.com/u/192880497?s=72&u=472366c3eeaafdddf01de2fb0a596060f637080a&v=4" width="24" alt="Avatar of Robel-Y"> Robel-Y
+			<a href="https://github.com/squidward404">
+				<img src="https://avatars.githubusercontent.com/u/161409855?s=72&u=d7257ce06d455e77af5cb5d9a3aa1e56a46578e1&v=4" width="24" alt="Avatar of squidward404"> squidward404
 			</a><br/>
-			Robel Yihelu
+			Befikir Shimelis
 		</td>
-		<td>No Company</td>
+		<td>Hadar Solutions </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>138</td>
-		<td>295</td>
+		<td>Addis Ababa,Ethiopia.</td>
+		<td>258</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>565</td>
 		<td>
-			<a href="https://github.com/Blacknahil">
-				<img src="https://avatars.githubusercontent.com/u/119704083?s=72&u=e6123980dab1f94839631f0ce7d12d7f34f654e6&v=4" width="24" alt="Avatar of Blacknahil"> Blacknahil
+			<a href="https://github.com/mesfind">
+				<img src="https://avatars.githubusercontent.com/u/22774778?s=72&u=522c2ee444876ea0af35630173ab12337cd12e1c&v=4" width="24" alt="Avatar of mesfind"> mesfind
 			</a><br/>
-			Nahom Garefo
+			Mesfin Diro (PhD)
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>249</td>
-		<td>293</td>
+		<td>@et-ai </td>
+		<td><a href="https://twitter.com/mesfindiro">mesfindiro</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>289</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>566</td>
 		<td>
-			<a href="https://github.com/fitse-hub">
-				<img src="https://avatars.githubusercontent.com/u/205843081?s=72&u=f934a5888c7fa85332af8779855ac88954824641&v=4" width="24" alt="Avatar of fitse-hub"> fitse-hub
+			<a href="https://github.com/kalkidan999">
+				<img src="https://avatars.githubusercontent.com/u/45605340?s=72&u=65dd2a7f828594075a13606d472ec55d2867e1a6&v=4" width="24" alt="Avatar of kalkidan999"> kalkidan999
 			</a><br/>
-			Fitsum Gashaw
+			Kalkidan Demes
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td> ETHIOPIA </td>
-		<td>84</td>
-		<td>292</td>
+		<td><a href="https://twitter.com/DemesKalkidan">DemesKalkidan</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>28</td>
+		<td>324</td>
 	</tr>
 	<tr>
 		<td>567</td>
+		<td>
+			<a href="https://github.com/melos-simeneh">
+				<img src="https://avatars.githubusercontent.com/u/85923940?s=72&u=05168907fbd1ef93320508117405035bbc0274e1&v=4" width="24" alt="Avatar of melos-simeneh"> melos-simeneh
+			</a><br/>
+			Melos Simeneh Mulu
+		</td>
+		<td>Abay Bank S.c </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>14</td>
+		<td>323</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/solomonsitot">
+				<img src="https://avatars.githubusercontent.com/u/99657915?s=72&u=01ed11b11f3ca0235b4122704ca347bfe6fdda6e&v=4" width="24" alt="Avatar of solomonsitot"> solomonsitot
+			</a><br/>
+			Solomon Sitotaw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>8</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/Yab112">
+				<img src="https://avatars.githubusercontent.com/u/106923105?s=72&u=c191cf7eb88bfc938cffc9c87fe936ed81e3f800&v=4" width="24" alt="Avatar of Yab112"> Yab112
+			</a><br/>
+			Coded-Fossil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ethiopia,addis ababa</td>
+		<td>316</td>
+		<td>316</td>
+	</tr>
+	<tr>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/firaol-tag">
 				<img src="https://avatars.githubusercontent.com/u/133232765?s=72&u=782ef075e86635424de88722f4d36c2568649b78&v=4" width="24" alt="Avatar of firaol-tag"> firaol-tag
@@ -8041,52 +8083,234 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>12</td>
-		<td>288</td>
-	</tr>
-	<tr>
-		<td>568</td>
-		<td>
-			<a href="https://github.com/demisgech">
-				<img src="https://avatars.githubusercontent.com/u/125279269?s=72&u=2b89e3a0cb9ec9869a83d1cf8fff59f1ec438a8a&v=4" width="24" alt="Avatar of demisgech"> demisgech
-			</a><br/>
-			Johannes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>99</td>
-		<td>286</td>
-	</tr>
-	<tr>
-		<td>569</td>
-		<td>
-			<a href="https://github.com/Ammen1">
-				<img src="https://avatars.githubusercontent.com/u/101752709?s=72&u=a950fb78b55b1af92ca22bdd231f25b5b65095a7&v=4" width="24" alt="Avatar of Ammen1"> Ammen1
-			</a><br/>
-			Tamirat(Ethan)Guda Ali
-		</td>
-		<td>Https://gitlab.com/t </td>
-		<td><a href="https://twitter.com/AmenGuda29899">AmenGuda29899</a></td>
-		<td>Ethiopia</td>
-		<td>22</td>
-		<td>284</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/Ephrem-t">
-				<img src="https://avatars.githubusercontent.com/u/125019330?s=72&u=5ed8a607db79ccca884b7a2bdeba58a3153c45da&v=4" width="24" alt="Avatar of Ephrem-t"> Ephrem-t
-			</a><br/>
-			Ephrem Tesema
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>283</td>
-		<td>283</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>571</td>
+		<td>
+			<a href="https://github.com/0xfke">
+				<img src="https://avatars.githubusercontent.com/u/132171539?s=72&u=5cc482e500c99988cc918fb27e37ce7862d671ce&v=4" width="24" alt="Avatar of 0xfke"> 0xfke
+			</a><br/>
+			Befikadu Tesfaye
+		</td>
+		<td>Buna Byte </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>4</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/yosaddis">
+				<img src="https://avatars.githubusercontent.com/u/60548252?s=72&u=e8f5c263e6bee56964bede986afd00a1f2e0e185&v=4" width="24" alt="Avatar of yosaddis"> yosaddis
+			</a><br/>
+			Yoseph Addisu
+		</td>
+		<td>Sefed Systems Computer Technology<br/></td>
+		<td><a href="https://twitter.com/yosaddis">yosaddis</a></td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>161</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/naolchala">
+				<img src="https://avatars.githubusercontent.com/u/38764421?s=72&u=c686bf927213c724862b73dc73ca7d860dd3e1bc&v=4" width="24" alt="Avatar of naolchala"> naolchala
+			</a><br/>
+			Naol Chala
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/naol_chala">naol_chala</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/Abelabebe313">
+				<img src="https://avatars.githubusercontent.com/u/88794322?s=72&u=e8861e85bf810e2d245c6f124cf9fc619c5e43d5&v=4" width="24" alt="Avatar of Abelabebe313"> Abelabebe313
+			</a><br/>
+			Abel Abebe 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>40</td>
+		<td>309</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/bayillag">
+				<img src="https://avatars.githubusercontent.com/u/98712399?s=72&u=a76a7896d794fc5f7bcde9dd3b8fc6028bc3ac4d&v=4" width="24" alt="Avatar of bayillag"> bayillag
+			</a><br/>
+			Bayilla Geda BAYILLA
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BayillaGeda">BayillaGeda</a></td>
+		<td>Ethiopia </td>
+		<td>306</td>
+		<td>306</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
+			<a href="https://github.com/lijsamuael">
+				<img src="https://avatars.githubusercontent.com/u/101696125?s=72&u=4d7f104cb9e59b86947d4765369ce4d4251614f9&v=4" width="24" alt="Avatar of lijsamuael"> lijsamuael
+			</a><br/>
+			Sami
+		</td>
+		<td>Friends Erp </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>258</td>
+		<td>305</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/Gedion-01">
+				<img src="https://avatars.githubusercontent.com/u/117908662?s=72&v=4" width="24" alt="Avatar of Gedion-01"> Gedion-01
+			</a><br/>
+			Gedion
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>30</td>
+		<td>304</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/Pequanta">
+				<img src="https://avatars.githubusercontent.com/u/96361630?s=72&u=c4a8f25a45e5a1a332f004789e15901986c36a0a&v=4" width="24" alt="Avatar of Pequanta"> Pequanta
+			</a><br/>
+			PenielY
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>254</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/alaxar">
+				<img src="https://avatars.githubusercontent.com/u/20353178?s=72&u=a9387d5d986460c06da1e6f7f95e87f269ebfbb7&v=4" width="24" alt="Avatar of alaxar"> alaxar
+			</a><br/>
+			Alazar Demessie
+		</td>
+		<td>Senior C/c++ Engineer @<br/>E-lmis<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>13</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
+			<a href="https://github.com/abinet1">
+				<img src="https://avatars.githubusercontent.com/u/39063284?s=72&u=f3e26959968bed7bb90fdf9b7801d01adce204e0&v=4" width="24" alt="Avatar of abinet1"> abinet1
+			</a><br/>
+			Abinet Tassew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>43</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/NahumDm">
+				<img src="https://avatars.githubusercontent.com/u/125828886?s=72&u=08389b3efd2336946804575ab6e8a1c79ea0e856&v=4" width="24" alt="Avatar of NahumDm"> NahumDm
+			</a><br/>
+			Nahom Desta Mengesha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DmNahum">DmNahum</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>152</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/Haylemicheal">
+				<img src="https://avatars.githubusercontent.com/u/38722653?s=72&u=027338a8fd304175e47912c5fba1aae3443fb96a&v=4" width="24" alt="Avatar of Haylemicheal"> Haylemicheal
+			</a><br/>
+			Haylemicheal Berihun Mekonnen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>86</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/Blacknahil">
+				<img src="https://avatars.githubusercontent.com/u/119704083?s=72&u=e6123980dab1f94839631f0ce7d12d7f34f654e6&v=4" width="24" alt="Avatar of Blacknahil"> Blacknahil
+			</a><br/>
+			Nahom Garefo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>249</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/Besufekad-HAZ">
+				<img src="https://avatars.githubusercontent.com/u/23375153?s=72&u=5e9fb2b24a273f9c0f0f1ca90643d15f7a5504cb&v=4" width="24" alt="Avatar of Besufekad-HAZ"> Besufekad-HAZ
+			</a><br/>
+			Besufekad Alemu
+		</td>
+		<td>Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>122</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>
+			<a href="https://github.com/Paulos-g">
+				<img src="https://avatars.githubusercontent.com/u/235943772?s=72&u=499f48a1e284463231b28d3e50ab2326e60de096&v=4" width="24" alt="Avatar of Paulos-g"> Paulos-g
+			</a><br/>
+			Paulos Girmachew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>284</td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/esru13">
+				<img src="https://avatars.githubusercontent.com/u/111453895?s=72&u=5d64c35dc23d71a77ae33be5bca01c765f9c6133&v=4" width="24" alt="Avatar of esru13"> esru13
+			</a><br/>
+			Esrael Berhanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bishoftu , Ethiopia</td>
+		<td>37</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/purewebstar">
 				<img src="https://avatars.githubusercontent.com/u/71876193?s=72&u=ba498867c9431d3adaff27c9345aa0beb9ddc4a4&v=4" width="24" alt="Avatar of purewebstar"> purewebstar
@@ -8100,105 +8324,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/sidocoder">
-				<img src="https://avatars.githubusercontent.com/u/169819135?s=72&u=118cad8202145a81b6a4937a69cf022b72e3edc3&v=4" width="24" alt="Avatar of sidocoder"> sidocoder
-			</a><br/>
-			Sifhoran Regassa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama,Ethiopia</td>
-		<td>243</td>
-		<td>279</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
-			<a href="https://github.com/tsegaye27">
-				<img src="https://avatars.githubusercontent.com/u/109968379?s=72&u=df71e0c64bc360798fd6287a5d45e459b16ad7fc&v=4" width="24" alt="Avatar of tsegaye27"> tsegaye27
-			</a><br/>
-			Tsegaye Talegngeta
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tsegaye27">tsegaye27</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>116</td>
-		<td>278</td>
-	</tr>
-	<tr>
-		<td>574</td>
-		<td>
-			<a href="https://github.com/anonymousdomain">
-				<img src="https://avatars.githubusercontent.com/u/69416085?s=72&u=c2bf243216270f5284b19c83fbcc5dbb2be3f95d&v=4" width="24" alt="Avatar of anonymousdomain"> anonymousdomain
-			</a><br/>
-			Dawit Mekonnen
-		</td>
-		<td>@son-of-anton-organi </td>
-		<td>No Twitter Username</td>
-		<td>Kasanchis,Addis Abeba Ethiopia</td>
-		<td>0</td>
-		<td>275</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/Million-art">
-				<img src="https://avatars.githubusercontent.com/u/74927604?s=72&u=2bdb0bc4a2d3e7d708f850983ca4adcecdea793b&v=4" width="24" alt="Avatar of Million-art"> Million-art
-			</a><br/>
-			million
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>addis abeba ethiopia</td>
-		<td>272</td>
-		<td>272</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/Annabdiyu">
-				<img src="https://avatars.githubusercontent.com/u/178793811?s=72&u=dd48c4d726904fc89d524c0a5e5f497fe5943b92&v=4" width="24" alt="Avatar of Annabdiyu"> Annabdiyu
-			</a><br/>
-			Anna Abdiyu
-		</td>
-		<td>Aastu </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>270</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>577</td>
-		<td>
-			<a href="https://github.com/yosaddis">
-				<img src="https://avatars.githubusercontent.com/u/60548252?s=72&u=e8f5c263e6bee56964bede986afd00a1f2e0e185&v=4" width="24" alt="Avatar of yosaddis"> yosaddis
-			</a><br/>
-			Yoseph Addisu
-		</td>
-		<td>Sefed Systems Computer Technology<br/></td>
-		<td><a href="https://twitter.com/yosaddis">yosaddis</a></td>
-		<td>Addis Ababa , Ethiopia</td>
-		<td>161</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>578</td>
-		<td>
-			<a href="https://github.com/hailedev5">
-				<img src="https://avatars.githubusercontent.com/u/318901984?s=72&u=33f07c8a8414b74f3822e3838499160e0de3bd42&v=4" width="24" alt="Avatar of hailedev5"> hailedev5
-			</a><br/>
-			Hailemariam tesfaye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia,Addis Ababa </td>
-		<td>263</td>
-		<td>263</td>
-	</tr>
-	<tr>
-		<td>579</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/Kidus-github">
 				<img src="https://avatars.githubusercontent.com/u/101400379?s=72&u=3dc96f08ba75f218d2f1cc3541ee5d5374f7d05f&v=4" width="24" alt="Avatar of Kidus-github"> Kidus-github
@@ -8209,66 +8335,206 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>71</td>
-		<td>261</td>
+		<td>280</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>589</td>
 		<td>
-			<a href="https://github.com/mesfind">
-				<img src="https://avatars.githubusercontent.com/u/22774778?s=72&u=522c2ee444876ea0af35630173ab12337cd12e1c&v=4" width="24" alt="Avatar of mesfind"> mesfind
+			<a href="https://github.com/nasifayc">
+				<img src="https://avatars.githubusercontent.com/u/130219241?s=72&v=4" width="24" alt="Avatar of nasifayc"> nasifayc
 			</a><br/>
-			Mesfin Diro (PhD)
+			Nasifay
 		</td>
-		<td>@et-ai </td>
-		<td><a href="https://twitter.com/mesfindiro">mesfindiro</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>217</td>
+		<td>135</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/Barnaan2">
+				<img src="https://avatars.githubusercontent.com/u/95656020?s=72&u=19ea9637d718acb3852fc2b435ead2b07b8e5da5&v=4" width="24" alt="Avatar of Barnaan2"> Barnaan2
+			</a><br/>
+			Bernabas Tekkalign Buli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BuliBerna">BuliBerna</a></td>
+		<td>Jimma, Ethiopia</td>
+		<td>4</td>
+		<td>274</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/bikilaalemu">
+				<img src="https://avatars.githubusercontent.com/u/94080566?s=72&v=4" width="24" alt="Avatar of bikilaalemu"> bikilaalemu
+			</a><br/>
+			Bikila Alemu
+		</td>
+		<td>Arba Minch University <br/></td>
+		<td>No Twitter Username</td>
+		<td>Arba Minch,  Ethiopia </td>
+		<td>10</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/tsegaye27">
+				<img src="https://avatars.githubusercontent.com/u/109968379?s=72&u=df71e0c64bc360798fd6287a5d45e459b16ad7fc&v=4" width="24" alt="Avatar of tsegaye27"> tsegaye27
+			</a><br/>
+			Tsegaye Talegngeta
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tsegaye27">tsegaye27</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>114</td>
+		<td>270</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/fira0l">
+				<img src="https://avatars.githubusercontent.com/u/69264000?s=72&u=10fa60198dfdc47c24d87c2ae0ec203d7d79149f&v=4" width="24" alt="Avatar of fira0l"> fira0l
+			</a><br/>
+			Firaol Anbessa
+		</td>
+		<td>Jimma University </td>
+		<td><a href="https://twitter.com/FiraValorant">FiraValorant</a></td>
+		<td>Addis Ababa</td>
+		<td>76</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/degisew">
+				<img src="https://avatars.githubusercontent.com/u/86473715?s=72&u=7e3668d80de97c7e9cfb32eefa40ee3a2d23b21d&v=4" width="24" alt="Avatar of degisew"> degisew
+			</a><br/>
+			Degisew Mengist
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/Fraol-D">
+				<img src="https://avatars.githubusercontent.com/u/119789968?s=72&u=cd17947894fe8989c89f322b0149a35ca3957760&v=4" width="24" alt="Avatar of Fraol-D"> Fraol-D
+			</a><br/>
+			Fraol Ashebir
+		</td>
+		<td>Evangadi </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>191</td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/sidocoder">
+				<img src="https://avatars.githubusercontent.com/u/169819135?s=72&u=118cad8202145a81b6a4937a69cf022b72e3edc3&v=4" width="24" alt="Avatar of sidocoder"> sidocoder
+			</a><br/>
+			Sifhoran Regassa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama,Ethiopia</td>
+		<td>213</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/ski-p3r">
+				<img src="https://avatars.githubusercontent.com/u/105807410?s=72&u=ccc13770b911cb4111e057e6acd1e0db42e0b055&v=4" width="24" alt="Avatar of ski-p3r"> ski-p3r
+			</a><br/>
+			Mubarek Shikur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>35</td>
+		<td>256</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/yididiabera">
+				<img src="https://avatars.githubusercontent.com/u/140195943?s=72&u=d08ecb67a9b669b5f05f6343ddc120c9566b39c1&v=4" width="24" alt="Avatar of yididiabera"> yididiabera
+			</a><br/>
+			Yididia Abera
+		</td>
+		<td>Addis Ababa University </td>
+		<td><a href="https://twitter.com/yididia_abera">yididia_abera</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>161</td>
+		<td>256</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
+			<a href="https://github.com/yohacode">
+				<img src="https://avatars.githubusercontent.com/u/72225779?s=72&u=4ae6803ff8a9cface632126204f48b4c1d0cb64f&v=4" width="24" alt="Avatar of yohacode"> yohacode
+			</a><br/>
+			Yohannes Zerihun
+		</td>
+		<td>@yohaqr , @codewithyohan <br/></td>
+		<td><a href="https://twitter.com/yohacodes">yohacodes</a></td>
+		<td>ethiopia</td>
+		<td>60</td>
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>600</td>
 		<td>
-			<a href="https://github.com/The-Normal-One1">
-				<img src="https://avatars.githubusercontent.com/u/112026887?s=72&u=ebdba1deff952e8d7f274c4e27172cab48b5eddc&v=4" width="24" alt="Avatar of The-Normal-One1"> The-Normal-One1
+			<a href="https://github.com/bushmusi">
+				<img src="https://avatars.githubusercontent.com/u/35783481?s=72&u=0a8f45748205d7f60c81a138f8fbd20f45a477c8&v=4" width="24" alt="Avatar of bushmusi"> bushmusi
 			</a><br/>
-			Ermiyas Demsew
+			Bushra Mustofa
 		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/DemsewErmiyas">DemsewErmiyas</a></td>
+		<td>@bisratech @microverseinc  </td>
+		<td><a href="https://twitter.com/bushera_mestofa">bushera_mestofa</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>30</td>
+		<td>254</td>
+	</tr>
+	<tr>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/ezraermy">
+				<img src="https://avatars.githubusercontent.com/u/35451409?s=72&u=d0acaa5fc6678cb15df1a3d40db771b2c3061976&v=4" width="24" alt="Avatar of ezraermy"> ezraermy
+			</a><br/>
+			Ezra Yehuwalashet
+		</td>
+		<td>Front-end Developer At Sefed<br/>System<br/></td>
+		<td><a href="https://twitter.com/ezraermy">ezraermy</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>0</td>
 		<td>254</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>602</td>
 		<td>
-			<a href="https://github.com/flavnat">
-				<img src="https://avatars.githubusercontent.com/u/154729622?s=72&u=1de838edd4edd56eb3af640efd0e1758dc033f21&v=4" width="24" alt="Avatar of flavnat"> flavnat
+			<a href="https://github.com/Hermela-Mezgebu">
+				<img src="https://avatars.githubusercontent.com/u/200119231?s=72&u=d8a245c14982f8e7f62c437e7080bccc1ee79ab7&v=4" width="24" alt="Avatar of Hermela-Mezgebu"> Hermela-Mezgebu
 			</a><br/>
-			Natnael Ayele
+			Hermela Mezgebu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>185</td>
+		<td>Addis Ababa ,Ethiopia</td>
+		<td>252</td>
 		<td>252</td>
 	</tr>
 	<tr>
-		<td>583</td>
-		<td>
-			<a href="https://github.com/helinatefera">
-				<img src="https://avatars.githubusercontent.com/u/80898448?s=72&u=0245e0c22243bf2d204d344925b989fe3acbc8f8&v=4" width="24" alt="Avatar of helinatefera"> helinatefera
-			</a><br/>
-			Helina Tefera
-		</td>
-		<td>@rebunitech </td>
-		<td><a href="https://twitter.com/helina_tefera">helina_tefera</a></td>
-		<td>Ethiopia, Oromia, Adama</td>
-		<td>84</td>
-		<td>252</td>
-	</tr>
-	<tr>
-		<td>584</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/Capechusami">
 				<img src="https://avatars.githubusercontent.com/u/200946510?s=72&u=5ea598b986bfddbd36637254ffb6bfa7c8c70e17&v=4" width="24" alt="Avatar of Capechusami"> Capechusami
@@ -8278,25 +8544,95 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Adama Science And Technology<br/>University<br/><br/></td>
 		<td><a href="https://twitter.com/Capechu_7">Capechu_7</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>251</td>
-		<td>251</td>
+		<td>252</td>
+		<td>252</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>604</td>
 		<td>
-			<a href="https://github.com/Gedion-01">
-				<img src="https://avatars.githubusercontent.com/u/117908662?s=72&v=4" width="24" alt="Avatar of Gedion-01"> Gedion-01
+			<a href="https://github.com/demisgech">
+				<img src="https://avatars.githubusercontent.com/u/125279269?s=72&u=2b89e3a0cb9ec9869a83d1cf8fff59f1ec438a8a&v=4" width="24" alt="Avatar of demisgech"> demisgech
 			</a><br/>
-			Gedion
+			Johannes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>35</td>
+		<td>Ethiopia</td>
+		<td>83</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/NegasaReta">
+				<img src="https://avatars.githubusercontent.com/u/167341232?s=72&u=ab02c37f0aab645d70cc1279a385e7839e83f882&v=4" width="24" alt="Avatar of NegasaReta"> NegasaReta
+			</a><br/>
+			Negasa Reta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Adama, Ethiopia</td>
+		<td>250</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/YohannisBirhane">
+				<img src="https://avatars.githubusercontent.com/u/192821277?s=72&u=cc5197e240e74b4a73a5ccd73e189d6b5bc85f86&v=4" width="24" alt="Avatar of YohannisBirhane"> YohannisBirhane
+			</a><br/>
+			YOHANNIS BIRHANE 
+		</td>
+		<td>J-light Tech </td>
+		<td>No Twitter Username</td>
+		<td>DEBRE BERHAN  ETHIOPIA</td>
+		<td>250</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/rinsarmu">
+				<img src="https://avatars.githubusercontent.com/u/92099288?s=72&u=5bd9002a9e256cfe3e6d4a1dc01c4b73db5d0b56&v=4" width="24" alt="Avatar of rinsarmu"> rinsarmu
+			</a><br/>
+			Robera Insarmu
+		</td>
+		<td>Eagle Lion System Technology<br/><br/></td>
+		<td><a href="https://twitter.com/rinsarmu">rinsarmu</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>20</td>
 		<td>249</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/helinatefera">
+				<img src="https://avatars.githubusercontent.com/u/80898448?s=72&u=0245e0c22243bf2d204d344925b989fe3acbc8f8&v=4" width="24" alt="Avatar of helinatefera"> helinatefera
+			</a><br/>
+			Helina Tefera
+		</td>
+		<td>@rebunitech </td>
+		<td><a href="https://twitter.com/helina_tefera">helina_tefera</a></td>
+		<td>Ethiopia, Oromia, Adama</td>
+		<td>77</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/Miliyonayalew">
+				<img src="https://avatars.githubusercontent.com/u/35680940?s=72&u=6772cd170eba87d8038c28155edfafe11ef22637&v=4" width="24" alt="Avatar of Miliyonayalew"> Miliyonayalew
+			</a><br/>
+			Miliyon Ayalew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>16</td>
+		<td>246</td>
+	</tr>
+	<tr>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/Elshaday97">
 				<img src="https://avatars.githubusercontent.com/u/57792899?s=72&u=242766c8b833dbdb089bcc65c4e55ef20d8e8f08&v=4" width="24" alt="Avatar of Elshaday97"> Elshaday97
@@ -8310,77 +8646,63 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>611</td>
 		<td>
-			<a href="https://github.com/MannyIOI">
-				<img src="https://avatars.githubusercontent.com/u/39325482?s=72&u=1bda5e71193dbda6a668e252a6734fcf1eb1824d&v=4" width="24" alt="Avatar of MannyIOI"> MannyIOI
+			<a href="https://github.com/anonymousdomain">
+				<img src="https://avatars.githubusercontent.com/u/69416085?s=72&u=c2bf243216270f5284b19c83fbcc5dbb2be3f95d&v=4" width="24" alt="Avatar of anonymousdomain"> anonymousdomain
 			</a><br/>
-			Amanuel T.
+			Dawit Mekonnen
 		</td>
-		<td>@shilengae  </td>
-		<td><a href="https://twitter.com/AmanuelTef">AmanuelTef</a></td>
-		<td>Ethiopia</td>
-		<td>19</td>
-		<td>244</td>
-	</tr>
-	<tr>
-		<td>588</td>
-		<td>
-			<a href="https://github.com/Miliyonayalew">
-				<img src="https://avatars.githubusercontent.com/u/35680940?s=72&u=6772cd170eba87d8038c28155edfafe11ef22637&v=4" width="24" alt="Avatar of Miliyonayalew"> Miliyonayalew
-			</a><br/>
-			Miliyon Ayalew
-		</td>
-		<td>No Company</td>
+		<td>@son-of-anton-organi </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>16</td>
-		<td>240</td>
+		<td>Kasanchis,Addis Abeba Ethiopia</td>
+		<td>0</td>
+		<td>243</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>612</td>
 		<td>
-			<a href="https://github.com/YohannisBirhane">
-				<img src="https://avatars.githubusercontent.com/u/192821277?s=72&u=cc5197e240e74b4a73a5ccd73e189d6b5bc85f86&v=4" width="24" alt="Avatar of YohannisBirhane"> YohannisBirhane
+			<a href="https://github.com/YeabTesfaye">
+				<img src="https://avatars.githubusercontent.com/u/117275171?s=72&u=ca4dccee4ad193c8a78b520fbe02f86140b7e3b7&v=4" width="24" alt="Avatar of YeabTesfaye"> YeabTesfaye
 			</a><br/>
-			YOHANNIS BIRHANE 
+			Yeabisera Tesefaye
 		</td>
-		<td>J-light Tech </td>
-		<td>No Twitter Username</td>
-		<td>DEBRE BERHAN  ETHIOPIA</td>
-		<td>237</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>590</td>
-		<td>
-			<a href="https://github.com/habte-selassie27">
-				<img src="https://avatars.githubusercontent.com/u/107303282?s=72&u=01820a4384ff97240af93f7d37bc49f5757ffd6b&v=4" width="24" alt="Avatar of habte-selassie27"> habte-selassie27
-			</a><br/>
-			Habte Selassie Fitsum 
-		</td>
-		<td>App Div </td>
+		<td>Ethiopian Airlines  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>235</td>
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>613</td>
 		<td>
-			<a href="https://github.com/rinsarmu">
-				<img src="https://avatars.githubusercontent.com/u/92099288?s=72&u=5bd9002a9e256cfe3e6d4a1dc01c4b73db5d0b56&v=4" width="24" alt="Avatar of rinsarmu"> rinsarmu
+			<a href="https://github.com/etabebe1">
+				<img src="https://avatars.githubusercontent.com/u/112184633?s=72&u=052dc93652ec38c2cd57adacc36e8ad7959a3610&v=4" width="24" alt="Avatar of etabebe1"> etabebe1
 			</a><br/>
-			Robera Insarmu
+			Jeremiah T.A
 		</td>
-		<td>Eagle Lion System Technology<br/><br/></td>
-		<td><a href="https://twitter.com/rinsarmu">rinsarmu</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>21</td>
+		<td>Cyaxiom </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa / Ethiopia</td>
+		<td>0</td>
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/kumsa-Mergia">
+				<img src="https://avatars.githubusercontent.com/u/65948114?s=72&u=835ca55addd127a29f576f13d8fb628c5282d446&v=4" width="24" alt="Avatar of kumsa-Mergia"> kumsa-Mergia
+			</a><br/>
+			Kumsa Mergia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/K_umsa">K_umsa</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>181</td>
+		<td>234</td>
+	</tr>
+	<tr>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/Lozabelay">
 				<img src="https://avatars.githubusercontent.com/u/225280272?s=72&u=a41c712e03d0d52d74320f466e7963a4c39b621f&v=4" width="24" alt="Avatar of Lozabelay"> Lozabelay
@@ -8394,217 +8716,105 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>616</td>
 		<td>
-			<a href="https://github.com/yididiabera">
-				<img src="https://avatars.githubusercontent.com/u/140195943?s=72&u=d08ecb67a9b669b5f05f6343ddc120c9566b39c1&v=4" width="24" alt="Avatar of yididiabera"> yididiabera
+			<a href="https://github.com/flavnat">
+				<img src="https://avatars.githubusercontent.com/u/154729622?s=72&u=1de838edd4edd56eb3af640efd0e1758dc033f21&v=4" width="24" alt="Avatar of flavnat"> flavnat
 			</a><br/>
-			Yididia Abera
-		</td>
-		<td>Addis Ababa University </td>
-		<td><a href="https://twitter.com/yididia_abera">yididia_abera</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>146</td>
-		<td>233</td>
-	</tr>
-	<tr>
-		<td>594</td>
-		<td>
-			<a href="https://github.com/nafargi">
-				<img src="https://avatars.githubusercontent.com/u/143782082?s=72&u=33545056892db0455dad5f864fde3a80ef787596&v=4" width="24" alt="Avatar of nafargi"> nafargi
-			</a><br/>
-			Nafargi Damena 
-		</td>
-		<td>Hamajis Pixel </td>
-		<td><a href="https://twitter.com/nafargi">nafargi</a></td>
-		<td>Ethiopia,Addis Ababa</td>
-		<td>140</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
-			<a href="https://github.com/esru13">
-				<img src="https://avatars.githubusercontent.com/u/111453895?s=72&u=5d64c35dc23d71a77ae33be5bca01c765f9c6133&v=4" width="24" alt="Avatar of esru13"> esru13
-			</a><br/>
-			Esrael Berhanu
+			Natnael Ayele
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bishoftu , Ethiopia</td>
-		<td>37</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/yohannesdawit21">
-				<img src="https://avatars.githubusercontent.com/u/170865859?s=72&u=f4db1a737237ac62193209f5f12af1ee7af61487&v=4" width="24" alt="Avatar of yohannesdawit21"> yohannesdawit21
-			</a><br/>
-			Yohannes Dawit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia | Web Developer & Cybersecurity Enthusiast</td>
-		<td>229</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
-			<a href="https://github.com/kaluabiyu-wq">
-				<img src="https://avatars.githubusercontent.com/u/274783483?s=72&u=6633dc8e78a8975d278dfdec3719a4a11c884f65&v=4" width="24" alt="Avatar of kaluabiyu-wq"> kaluabiyu-wq
-			</a><br/>
-			Kalu Abiyu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>228</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a href="https://github.com/wendecoder">
-				<img src="https://avatars.githubusercontent.com/u/56078297?s=72&u=cac9fd51a873f5e19deea99eb77d416b05e6cfe0&v=4" width="24" alt="Avatar of wendecoder"> wendecoder
-			</a><br/>
-			Wondwossen Dufera
-		</td>
-		<td>Icog Labs </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>228</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
-			<a href="https://github.com/tofik-93">
-				<img src="https://avatars.githubusercontent.com/u/130132150?s=72&u=1f8e91e124db34515f192726fb6eba80dc07d66f&v=4" width="24" alt="Avatar of tofik-93"> tofik-93
-			</a><br/>
-			Tofik Mifta
-		</td>
-		<td>Smart  Tech </td>
-		<td>No Twitter Username</td>
-		<td>Adama , Ethiopia</td>
-		<td>73</td>
-		<td>227</td>
-	</tr>
-	<tr>
-		<td>600</td>
-		<td>
-			<a href="https://github.com/Bereky">
-				<img src="https://avatars.githubusercontent.com/u/50754357?s=72&u=3602211275f692fb18918843e0b037573eaeb726&v=4" width="24" alt="Avatar of Bereky"> Bereky
-			</a><br/>
-			Bereket Lemma
-		</td>
-		<td>@tolota-co  </td>
-		<td><a href="https://twitter.com/falconababiya">falconababiya</a></td>
 		<td>Ethiopia</td>
-		<td>2</td>
-		<td>227</td>
+		<td>166</td>
+		<td>230</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>617</td>
 		<td>
-			<a href="https://github.com/dagem720">
-				<img src="https://avatars.githubusercontent.com/u/59290341?s=72&v=4" width="24" alt="Avatar of dagem720"> dagem720
+			<a href="https://github.com/sight09">
+				<img src="https://avatars.githubusercontent.com/u/203522914?s=72&u=2bbd905c771b19a4f60db06e0d7fe9a7d2550098&v=4" width="24" alt="Avatar of sight09"> sight09
 			</a><br/>
-			Dagmawi Gebremariam
+			Amanuel Alemu Zewdu
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/Sightzeronine">Sightzeronine</a></td>
+		<td>Addis Ababa ,Ethiopia</td>
+		<td>167</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/anaol216">
+				<img src="https://avatars.githubusercontent.com/u/137703580?s=72&u=bce17609dfb8f965b1aae1cf48369e98ce3f75c7&v=4" width="24" alt="Avatar of anaol216"> anaol216
+			</a><br/>
+			Anaol Atinafu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anaol216">anaol216</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>228</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/cypghost">
+				<img src="https://avatars.githubusercontent.com/u/102286732?s=72&u=f79a249bf8c71a3a7ed698dd3a98e583f0e3a63a&v=4" width="24" alt="Avatar of cypghost"> cypghost
+			</a><br/>
+			Biruk Mesfin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Bi2kmes">Bi2kmes</a></td>
 		<td>Addis Ababa</td>
-		<td>31</td>
-		<td>226</td>
+		<td>8</td>
+		<td>221</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>620</td>
 		<td>
-			<a href="https://github.com/NegasaReta">
-				<img src="https://avatars.githubusercontent.com/u/167341232?s=72&u=ab02c37f0aab645d70cc1279a385e7839e83f882&v=4" width="24" alt="Avatar of NegasaReta"> NegasaReta
+			<a href="https://github.com/roobiwebdev">
+				<img src="https://avatars.githubusercontent.com/u/175540717?s=72&u=772098a86385580d424ab172e927a3a42a6cfe2a&v=4" width="24" alt="Avatar of roobiwebdev"> roobiwebdev
 			</a><br/>
-			Negasa Reta
+			Rhobot Mulatu
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama, Ethiopia</td>
+		<td><a href="https://twitter.com/devnerd0">devnerd0</a></td>
+		<td>Ethiopia</td>
 		<td>221</td>
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>621</td>
 		<td>
-			<a href="https://github.com/HyoketsuSenpai">
-				<img src="https://avatars.githubusercontent.com/u/116489282?s=72&u=ece3b864b550422e6ac2ff3fdf5413aaa47368a6&v=4" width="24" alt="Avatar of HyoketsuSenpai"> HyoketsuSenpai
+			<a href="https://github.com/Manu3lde">
+				<img src="https://avatars.githubusercontent.com/u/192098957?s=72&u=3cfbfb7a2efa0bf71b61253053116785c6927c8b&v=4" width="24" alt="Avatar of Manu3lde"> Manu3lde
 			</a><br/>
-			Yosefe Tilahun
+			Artorian of Astora
 		</td>
-		<td>No Company</td>
+		<td>Aastu </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>176</td>
+		<td>111</td>
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>622</td>
 		<td>
-			<a href="https://github.com/Agetuni">
-				<img src="https://avatars.githubusercontent.com/u/45159038?s=72&u=b8f2ff779e1ca5845826546dcb83de51db6622c6&v=4" width="24" alt="Avatar of Agetuni"> Agetuni
+			<a href="https://github.com/mz-mukhtar">
+				<img src="https://avatars.githubusercontent.com/u/175533084?s=72&v=4" width="24" alt="Avatar of mz-mukhtar"> mz-mukhtar
 			</a><br/>
-			Aleazar yilma
+			Mahi Zeki Mukhtar
 		</td>
-		<td>Ethiopian Airlines Group </td>
-		<td><a href="https://twitter.com/YilmaAleazar">YilmaAleazar</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>31</td>
-		<td>219</td>
-	</tr>
-	<tr>
-		<td>605</td>
-		<td>
-			<a href="https://github.com/yayner2002">
-				<img src="https://avatars.githubusercontent.com/u/96475685?s=72&u=f0bedad893fbe58a3e759555ba880c4ccf29b942&v=4" width="24" alt="Avatar of yayner2002"> yayner2002
-			</a><br/>
-			YaynCheye
-		</td>
-		<td>Full Stack Web Dev<br/>And<br/>Tech.<br/>Enthusiast<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>18</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>606</td>
-		<td>
-			<a href="https://github.com/YeabTesfaye">
-				<img src="https://avatars.githubusercontent.com/u/117275171?s=72&u=ca4dccee4ad193c8a78b520fbe02f86140b7e3b7&v=4" width="24" alt="Avatar of YeabTesfaye"> YeabTesfaye
-			</a><br/>
-			Yeabisera Tesefaye
-		</td>
-		<td>Ethiopian Airlines  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>218</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>607</td>
-		<td>
-			<a href="https://github.com/Beki-D">
-				<img src="https://avatars.githubusercontent.com/u/85803740?s=72&u=2d2759506c27c047429236c6b6e3bfa31808acb4&v=4" width="24" alt="Avatar of Beki-D"> Beki-D
-			</a><br/>
-			Beki-D
-		</td>
-		<td>Microlink It College </td>
+		<td>@cybervanguard-aau  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>17</td>
+		<td>125</td>
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/Ambesawi">
 				<img src="https://avatars.githubusercontent.com/u/117799650?s=72&u=d91338d7ba51aa0888caeeb8d100f8eb083c3341&v=4" width="24" alt="Avatar of Ambesawi"> Ambesawi
@@ -8618,133 +8828,63 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>624</td>
 		<td>
-			<a href="https://github.com/birhanu-dejen">
-				<img src="https://avatars.githubusercontent.com/u/147509170?s=72&u=cc7303f922df169f0be92f0ccbe24ca3d077c613&v=4" width="24" alt="Avatar of birhanu-dejen"> birhanu-dejen
+			<a href="https://github.com/Annabdiyu">
+				<img src="https://avatars.githubusercontent.com/u/178793811?s=72&u=dd48c4d726904fc89d524c0a5e5f497fe5943b92&v=4" width="24" alt="Avatar of Annabdiyu"> Annabdiyu
 			</a><br/>
-			Birhanu Dejen
+			Anna Abdiyu
 		</td>
-		<td>No Company</td>
+		<td>Aastu </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>75</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/ezraermy">
-				<img src="https://avatars.githubusercontent.com/u/35451409?s=72&u=d0acaa5fc6678cb15df1a3d40db771b2c3061976&v=4" width="24" alt="Avatar of ezraermy"> ezraermy
-			</a><br/>
-			Ezra Yehuwalashet
-		</td>
-		<td>Front-end Developer At Sefed<br/>System<br/></td>
-		<td><a href="https://twitter.com/ezraermy">ezraermy</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>5</td>
+		<td>214</td>
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>625</td>
 		<td>
-			<a href="https://github.com/eyuBirhanu">
-				<img src="https://avatars.githubusercontent.com/u/151485420?s=72&u=54e3eed911670ddf564c5b22e6348fe5663fddf6&v=4" width="24" alt="Avatar of eyuBirhanu"> eyuBirhanu
+			<a href="https://github.com/DemisoDaba">
+				<img src="https://avatars.githubusercontent.com/u/125874545?s=72&u=f77f6dbabfedaada4c530a1854affc7c8b7f4aab&v=4" width="24" alt="Avatar of DemisoDaba"> DemisoDaba
 			</a><br/>
-			Eyu Birhanu
+			Demiso Daba
 		</td>
-		<td>Gebeta Link </td>
+		<td>Hiring For Work! </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
+		<td>Nekemt , Ethiopia</td>
 		<td>213</td>
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>626</td>
 		<td>
-			<a href="https://github.com/ezadin2">
-				<img src="https://avatars.githubusercontent.com/u/149968485?s=72&u=6fbd3dba0681c14522c48604bface9fa2eb3b0d4&v=4" width="24" alt="Avatar of ezadin2"> ezadin2
+			<a href="https://github.com/yayner2002">
+				<img src="https://avatars.githubusercontent.com/u/96475685?s=72&u=f0bedad893fbe58a3e759555ba880c4ccf29b942&v=4" width="24" alt="Avatar of yayner2002"> yayner2002
 			</a><br/>
-			Ezadin Badiru
+			YaynCheye
 		</td>
-		<td>Insa </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia,Addis Ababa, walatte</td>
-		<td>54</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
-			<a href="https://github.com/Tolegithub7">
-				<img src="https://avatars.githubusercontent.com/u/132619843?s=72&u=647e2de2f3ce1c5f37d159e7fad5ebebc4878afe&v=4" width="24" alt="Avatar of Tolegithub7"> Tolegithub7
-			</a><br/>
-			Tolosa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ToleDirba">ToleDirba</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>40</td>
-		<td>210</td>
-	</tr>
-	<tr>
-		<td>614</td>
-		<td>
-			<a href="https://github.com/sight09">
-				<img src="https://avatars.githubusercontent.com/u/203522914?s=72&u=2bbd905c771b19a4f60db06e0d7fe9a7d2550098&v=4" width="24" alt="Avatar of sight09"> sight09
-			</a><br/>
-			Amanuel Alemu Zewdu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Sightzeronine">Sightzeronine</a></td>
-		<td>Addis Ababa ,Ethiopia</td>
-		<td>186</td>
-		<td>210</td>
-	</tr>
-	<tr>
-		<td>615</td>
-		<td>
-			<a href="https://github.com/Bruck-3">
-				<img src="https://avatars.githubusercontent.com/u/49018192?s=72&v=4" width="24" alt="Avatar of Bruck-3"> Bruck-3
-			</a><br/>
-			Bruck Demissie
-		</td>
-		<td>No Company</td>
+		<td>Full Stack Web Dev<br/>And<br/>Tech.<br/>Enthusiast<br/></td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>209</td>
+		<td>16</td>
+		<td>213</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>627</td>
 		<td>
-			<a href="https://github.com/kaleabAlemayehu">
-				<img src="https://avatars.githubusercontent.com/u/116624166?s=72&u=1346d761a27371109aa5cb57545e243ef8a2687c&v=4" width="24" alt="Avatar of kaleabAlemayehu"> kaleabAlemayehu
+			<a href="https://github.com/Bereky">
+				<img src="https://avatars.githubusercontent.com/u/50754357?s=72&u=3602211275f692fb18918843e0b037573eaeb726&v=4" width="24" alt="Avatar of Bereky"> Bereky
 			</a><br/>
-			Kaleab Alemayehu
+			Bereket Lemma
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>@tolota-co  </td>
+		<td><a href="https://twitter.com/falconababiya">falconababiya</a></td>
 		<td>Ethiopia</td>
-		<td>164</td>
-		<td>207</td>
+		<td>2</td>
+		<td>213</td>
 	</tr>
 	<tr>
-		<td>617</td>
-		<td>
-			<a href="https://github.com/abnsol">
-				<img src="https://avatars.githubusercontent.com/u/148258001?s=72&u=24eb9c02f296ed1426b06d08ac38b53cad33a3e3&v=4" width="24" alt="Avatar of abnsol"> abnsol
-			</a><br/>
-			Abenezer Solomon
-		</td>
-		<td>Icog Labs </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>159</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>618</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/Orniya">
 				<img src="https://avatars.githubusercontent.com/u/170672424?s=72&u=3c5e9c096b49c5062be37571bc4e211275c63225&v=4" width="24" alt="Avatar of Orniya"> Orniya
@@ -8754,165 +8894,179 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Soza Tech </td>
 		<td><a href="https://twitter.com/orniyazeidan">orniyazeidan</a></td>
 		<td>Ethiopia</td>
-		<td>123</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/kelemnati">
-				<img src="https://avatars.githubusercontent.com/u/124769535?s=72&u=d936abbe80ff3525707cfb33dee4655ddffaf34d&v=4" width="24" alt="Avatar of kelemnati"> kelemnati
-			</a><br/>
-			Nathnael Keleme
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>68</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/kalkidan999">
-				<img src="https://avatars.githubusercontent.com/u/45605340?s=72&u=65dd2a7f828594075a13606d472ec55d2867e1a6&v=4" width="24" alt="Avatar of kalkidan999"> kalkidan999
-			</a><br/>
-			Kalkidan Demes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DemesKalkidan">DemesKalkidan</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>28</td>
-		<td>204</td>
-	</tr>
-	<tr>
-		<td>621</td>
-		<td>
-			<a href="https://github.com/cyrmee">
-				<img src="https://avatars.githubusercontent.com/u/70317125?s=72&u=d065e8164e9283cbf718930e90bc6b5865a958af&v=4" width="24" alt="Avatar of cyrmee"> cyrmee
-			</a><br/>
-			Mehretab Hailegebriel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>142</td>
-		<td>200</td>
-	</tr>
-	<tr>
-		<td>622</td>
-		<td>
-			<a href="https://github.com/Manu3lde">
-				<img src="https://avatars.githubusercontent.com/u/192098957?s=72&u=3cfbfb7a2efa0bf71b61253053116785c6927c8b&v=4" width="24" alt="Avatar of Manu3lde"> Manu3lde
-			</a><br/>
-			Artorian of Astora
-		</td>
-		<td>Aastu </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>121</td>
-		<td>199</td>
-	</tr>
-	<tr>
-		<td>623</td>
-		<td>
-			<a href="https://github.com/kumsa-Mergia">
-				<img src="https://avatars.githubusercontent.com/u/65948114?s=72&u=835ca55addd127a29f576f13d8fb628c5282d446&v=4" width="24" alt="Avatar of kumsa-Mergia"> kumsa-Mergia
-			</a><br/>
-			Kumsa Mergia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/K_umsa">K_umsa</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>181</td>
-		<td>198</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
-			<a href="https://github.com/Fraol-D">
-				<img src="https://avatars.githubusercontent.com/u/119789968?s=72&u=cd17947894fe8989c89f322b0149a35ca3957760&v=4" width="24" alt="Avatar of Fraol-D"> Fraol-D
-			</a><br/>
-			Fraol Ashebir
-		</td>
-		<td>Evangadi </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>124</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>625</td>
-		<td>
-			<a href="https://github.com/Kad-19">
-				<img src="https://avatars.githubusercontent.com/u/100912644?s=72&u=70de4d54abedaaea1a87a082806a8c0ee1866ede&v=4" width="24" alt="Avatar of Kad-19"> Kad-19
-			</a><br/>
-			Kidus Asebe 
-		</td>
-		<td>Aastu </td>
-		<td><a href="https://twitter.com/asebe_kidu33825">asebe_kidu33825</a></td>
-		<td>Addis Ababa </td>
-		<td>66</td>
-		<td>196</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
-			<a href="https://github.com/MubarakAd">
-				<img src="https://avatars.githubusercontent.com/u/150241158?s=72&u=5df199c528e889d013d206a8b830e1f3ca3db4b4&v=4" width="24" alt="Avatar of MubarakAd"> MubarakAd
-			</a><br/>
-			Mubarak Adem
-		</td>
-		<td>Remote </td>
-		<td>No Twitter Username</td>
-		<td>adama ethiopia</td>
-		<td>117</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>627</td>
-		<td>
-			<a href="https://github.com/IsraelAbebe">
-				<img src="https://avatars.githubusercontent.com/u/15804692?s=72&u=2d1ed125c59361b0338ec49c111ce8f0be402b9a&v=4" width="24" alt="Avatar of IsraelAbebe"> IsraelAbebe
-			</a><br/>
-			Israel Abebe
-		</td>
-		<td>Uds   </td>
-		<td><a href="https://twitter.com/Israel_Abebe">Israel_Abebe</a></td>
-		<td>Germany   |   Ethiopia</td>
-		<td>76</td>
-		<td>189</td>
-	</tr>
-	<tr>
-		<td>628</td>
-		<td>
-			<a href="https://github.com/samiyonas">
-				<img src="https://avatars.githubusercontent.com/u/117749453?s=72&u=64083082cfce0942c2c7c5daad85108929fee5cf&v=4" width="24" alt="Avatar of samiyonas"> samiyonas
-			</a><br/>
-			Samuel Yonas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/samiintech">samiintech</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>189</td>
-		<td>189</td>
+		<td>129</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>629</td>
 		<td>
-			<a href="https://github.com/cypghost">
-				<img src="https://avatars.githubusercontent.com/u/102286732?s=72&u=f79a249bf8c71a3a7ed698dd3a98e583f0e3a63a&v=4" width="24" alt="Avatar of cypghost"> cypghost
+			<a href="https://github.com/Agetuni">
+				<img src="https://avatars.githubusercontent.com/u/45159038?s=72&u=b8f2ff779e1ca5845826546dcb83de51db6622c6&v=4" width="24" alt="Avatar of Agetuni"> Agetuni
 			</a><br/>
-			Biruk Mesfin
+			Aleazar yilma
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Bi2kmes">Bi2kmes</a></td>
-		<td>Addis Ababa</td>
-		<td>8</td>
-		<td>188</td>
+		<td>Ethiopian Airlines Group </td>
+		<td><a href="https://twitter.com/YilmaAleazar">YilmaAleazar</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>25</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>630</td>
+		<td>
+			<a href="https://github.com/venopyX">
+				<img src="https://avatars.githubusercontent.com/u/117309484?s=72&u=803b4619c44de9dd942a1a6f6184c4f8f4b8a4a8&v=4" width="24" alt="Avatar of venopyX"> venopyX
+			</a><br/>
+			Gemechis Chala
+		</td>
+		<td>@code-tactic </td>
+		<td><a href="https://twitter.com/venopyX">venopyX</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>19</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
+			<a href="https://github.com/tofik-93">
+				<img src="https://avatars.githubusercontent.com/u/130132150?s=72&u=1f8e91e124db34515f192726fb6eba80dc07d66f&v=4" width="24" alt="Avatar of tofik-93"> tofik-93
+			</a><br/>
+			Tofik Mifta
+		</td>
+		<td>Smart  Tech </td>
+		<td>No Twitter Username</td>
+		<td>Adama , Ethiopia</td>
+		<td>62</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>632</td>
+		<td>
+			<a href="https://github.com/wendecoder">
+				<img src="https://avatars.githubusercontent.com/u/56078297?s=72&u=cac9fd51a873f5e19deea99eb77d416b05e6cfe0&v=4" width="24" alt="Avatar of wendecoder"> wendecoder
+			</a><br/>
+			Wondwossen Dufera
+		</td>
+		<td>Icog Labs </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>206</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>633</td>
+		<td>
+			<a href="https://github.com/tensae-b">
+				<img src="https://avatars.githubusercontent.com/u/89252352?s=72&u=744e8e9010886f4f70d555c5a0dbee9912bbaaa4&v=4" width="24" alt="Avatar of tensae-b"> tensae-b
+			</a><br/>
+			Tensae Berhanu Hailemeskel
+		</td>
+		<td>Icog Lab </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>97</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/nafargi">
+				<img src="https://avatars.githubusercontent.com/u/143782082?s=72&u=33545056892db0455dad5f864fde3a80ef787596&v=4" width="24" alt="Avatar of nafargi"> nafargi
+			</a><br/>
+			Nafargi Damena 
+		</td>
+		<td>Hamajis Pixel </td>
+		<td><a href="https://twitter.com/nafargi">nafargi</a></td>
+		<td>Ethiopia,Addis Ababa</td>
+		<td>113</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/surafelwondimagegn">
+				<img src="https://avatars.githubusercontent.com/u/106597286?s=72&u=1bf2ee2af0229b151ffff582e05180fdf7646541&v=4" width="24" alt="Avatar of surafelwondimagegn"> surafelwondimagegn
+			</a><br/>
+			Surafel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Suraphel2022">Suraphel2022</a></td>
+		<td>Ethiopia</td>
+		<td>2</td>
+		<td>199</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/BekaMan95">
+				<img src="https://avatars.githubusercontent.com/u/115992290?s=72&u=81d2e6d0727f1595b90b06075312ef87d2ebb88a&v=4" width="24" alt="Avatar of BekaMan95"> BekaMan95
+			</a><br/>
+			Bereket Sahle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Eth</td>
+		<td>82</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/kaleabAlemayehu">
+				<img src="https://avatars.githubusercontent.com/u/116624166?s=72&u=1346d761a27371109aa5cb57545e243ef8a2687c&v=4" width="24" alt="Avatar of kaleabAlemayehu"> kaleabAlemayehu
+			</a><br/>
+			Kaleab Alemayehu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>143</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/Estifanos12">
+				<img src="https://avatars.githubusercontent.com/u/88879001?s=72&u=10e2af4321aef6f4e4a29be2cec081090b79323d&v=4" width="24" alt="Avatar of Estifanos12"> Estifanos12
+			</a><br/>
+			Estifanos Gashawtena
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>1</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/hannycodes">
+				<img src="https://avatars.githubusercontent.com/u/194376028?s=72&u=494f2519d29e6874c0f7914f903823ae3ff5d010&v=4" width="24" alt="Avatar of hannycodes"> hannycodes
+			</a><br/>
+			Hanan Seid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bahir Dar, Ethiopia</td>
+		<td>128</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/fasikasisay">
+				<img src="https://avatars.githubusercontent.com/u/208264124?s=72&v=4" width="24" alt="Avatar of fasikasisay"> fasikasisay
+			</a><br/>
+			fasika sisay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ethiopia</td>
+		<td>176</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/Devloperameen">
 				<img src="https://avatars.githubusercontent.com/u/206067988?s=72&u=18cfcbfc44cb2eecbebe623764006f4238bdcd9f&v=4" width="24" alt="Avatar of Devloperameen"> Devloperameen
@@ -8926,105 +9080,77 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>642</td>
 		<td>
-			<a href="https://github.com/Orion777-cmd">
-				<img src="https://avatars.githubusercontent.com/u/89917090?s=72&u=c94d8414d105ff7b1f8f2e903d91d3b60eb9c479&v=4" width="24" alt="Avatar of Orion777-cmd"> Orion777-cmd
+			<a href="https://github.com/ezadin2">
+				<img src="https://avatars.githubusercontent.com/u/149968485?s=72&u=6fbd3dba0681c14522c48604bface9fa2eb3b0d4&v=4" width="24" alt="Avatar of ezadin2"> ezadin2
 			</a><br/>
-			Abiy Biru
+			Ezadin Badiru
 		</td>
-		<td>No Company</td>
+		<td>Insa </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>112</td>
+		<td>Ethiopia,Addis Ababa, walatte</td>
+		<td>45</td>
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>643</td>
 		<td>
-			<a href="https://github.com/fasikasisay">
-				<img src="https://avatars.githubusercontent.com/u/208264124?s=72&v=4" width="24" alt="Avatar of fasikasisay"> fasikasisay
+			<a href="https://github.com/IsraelAbebe">
+				<img src="https://avatars.githubusercontent.com/u/15804692?s=72&u=2d1ed125c59361b0338ec49c111ce8f0be402b9a&v=4" width="24" alt="Avatar of IsraelAbebe"> IsraelAbebe
 			</a><br/>
-			fasika sisay
+			Israel Abebe
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ethiopia</td>
-		<td>170</td>
+		<td>Uds   </td>
+		<td><a href="https://twitter.com/Israel_Abebe">Israel_Abebe</a></td>
+		<td>Germany   |   Ethiopia</td>
+		<td>76</td>
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>644</td>
 		<td>
-			<a href="https://github.com/BekaMan95">
-				<img src="https://avatars.githubusercontent.com/u/115992290?s=72&u=81d2e6d0727f1595b90b06075312ef87d2ebb88a&v=4" width="24" alt="Avatar of BekaMan95"> BekaMan95
+			<a href="https://github.com/birhanu-dejen">
+				<img src="https://avatars.githubusercontent.com/u/147509170?s=72&u=cc7303f922df169f0be92f0ccbe24ca3d077c613&v=4" width="24" alt="Avatar of birhanu-dejen"> birhanu-dejen
 			</a><br/>
-			Bereket Sahle
+			Birhanu Dejen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Eth</td>
-		<td>82</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>40</td>
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>645</td>
 		<td>
-			<a href="https://github.com/hgusweldeyowhanes">
-				<img src="https://avatars.githubusercontent.com/u/158445585?s=72&u=94cda3d458bd4deac85abf4c43c9fea995a5763c&v=4" width="24" alt="Avatar of hgusweldeyowhanes"> hgusweldeyowhanes
+			<a href="https://github.com/dagem720">
+				<img src="https://avatars.githubusercontent.com/u/59290341?s=72&v=4" width="24" alt="Avatar of dagem720"> dagem720
 			</a><br/>
-			Hgus Weldeyowhanes Wellu
+			Dagmawi Gebremariam
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>75</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>635</td>
-		<td>
-			<a href="https://github.com/Alferid69">
-				<img src="https://avatars.githubusercontent.com/u/154613033?s=72&u=0fcf76578fb8d36b94d0c00ed687f7ca6194efd3&v=4" width="24" alt="Avatar of Alferid69"> Alferid69
-			</a><br/>
-			Alferid Hassen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ItsNotorious69">ItsNotorious69</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>130</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
-			<a href="https://github.com/mz-mukhtar">
-				<img src="https://avatars.githubusercontent.com/u/175533084?s=72&v=4" width="24" alt="Avatar of mz-mukhtar"> mz-mukhtar
-			</a><br/>
-			Mahi Zeki Mukhtar
-		</td>
-		<td>@cybervanguard-aau  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>98</td>
-		<td>185</td>
+		<td>31</td>
+		<td>186</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>646</td>
 		<td>
-			<a href="https://github.com/Y0red">
-				<img src="https://avatars.githubusercontent.com/u/92525516?s=72&u=e82c2c65051b759a40f02e5bd8912551023909c2&v=4" width="24" alt="Avatar of Y0red"> Y0red
+			<a href="https://github.com/BranBayou">
+				<img src="https://avatars.githubusercontent.com/u/118562543?s=72&u=2780f303598e2683de780f614c95cba8407d3de3&v=4" width="24" alt="Avatar of BranBayou"> BranBayou
 			</a><br/>
-			Yared Ayele
+			Berhanu Baye
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>45</td>
-		<td>184</td>
+		<td><a href="https://twitter.com/bran_baye">bran_baye</a></td>
+		<td>Addis Ababa</td>
+		<td>183</td>
+		<td>183</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/NathnaelTB">
 				<img src="https://avatars.githubusercontent.com/u/104767053?s=72&u=277ea6e74124a6ffe0590d772e0049f237ea63ed&v=4" width="24" alt="Avatar of NathnaelTB"> NathnaelTB
@@ -9038,7 +9164,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/Kad-19">
+				<img src="https://avatars.githubusercontent.com/u/100912644?s=72&u=70de4d54abedaaea1a87a082806a8c0ee1866ede&v=4" width="24" alt="Avatar of Kad-19"> Kad-19
+			</a><br/>
+			Kidus Asebe 
+		</td>
+		<td>Aastu </td>
+		<td><a href="https://twitter.com/asebe_kidu33825">asebe_kidu33825</a></td>
+		<td>Addis Ababa </td>
+		<td>66</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/ayitegebelon">
 				<img src="https://avatars.githubusercontent.com/u/227335079?s=72&u=44bc3dd798be8f02de4f6c0fe05aa071a9fb8df3&v=4" width="24" alt="Avatar of ayitegebelon"> ayitegebelon
@@ -9052,35 +9192,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>650</td>
 		<td>
-			<a href="https://github.com/samrawit04">
-				<img src="https://avatars.githubusercontent.com/u/120048563?s=72&u=7afeedf044af02eafa33b5c595f880db895cb6d4&v=4" width="24" alt="Avatar of samrawit04"> samrawit04
+			<a href="https://github.com/abnsol">
+				<img src="https://avatars.githubusercontent.com/u/148258001?s=72&u=24eb9c02f296ed1426b06d08ac38b53cad33a3e3&v=4" width="24" alt="Avatar of abnsol"> abnsol
 			</a><br/>
-			Samrawit Amare
+			Abenezer Solomon
+		</td>
+		<td>Icog Labs </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>132</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/Y0red">
+				<img src="https://avatars.githubusercontent.com/u/92525516?s=72&u=e82c2c65051b759a40f02e5bd8912551023909c2&v=4" width="24" alt="Avatar of Y0red"> Y0red
+			</a><br/>
+			Yared Ayele
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>180</td>
-		<td>180</td>
+		<td>39</td>
+		<td>178</td>
 	</tr>
 	<tr>
-		<td>641</td>
-		<td>
-			<a href="https://github.com/sultan3141">
-				<img src="https://avatars.githubusercontent.com/u/194616055?s=72&u=7bec17df44e2ac9f4f5d6e415e9a641120cba39a&v=4" width="24" alt="Avatar of sultan3141"> sultan3141
-			</a><br/>
-			Sultan Adinan
-		</td>
-		<td>Haramaya University </td>
-		<td><a href="https://twitter.com/SultanAdin80638">SultanAdin80638</a></td>
-		<td>Ethiopia</td>
-		<td>179</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>642</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/tsegaze-ab1">
 				<img src="https://avatars.githubusercontent.com/u/211362022?s=72&u=396d3ec80e94cee94610d67d64dcc94ce20b9149&v=4" width="24" alt="Avatar of tsegaze-ab1"> tsegaze-ab1
@@ -9090,137 +9230,137 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>137</td>
-		<td>173</td>
+		<td>138</td>
+		<td>176</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>653</td>
 		<td>
-			<a href="https://github.com/bayisagit">
-				<img src="https://avatars.githubusercontent.com/u/162313260?s=72&u=3cc92b7ff2d6d5ef9e0c62f60b2bea2e23c5e0d5&v=4" width="24" alt="Avatar of bayisagit"> bayisagit
+			<a href="https://github.com/AnanSer">
+				<img src="https://avatars.githubusercontent.com/u/130617805?s=72&u=ceb816ab2c2b6dd7662470cac6218d4066111d88&v=4" width="24" alt="Avatar of AnanSer"> AnanSer
 			</a><br/>
-			Bayisa Daba
+			Anan Serbesa
 		</td>
-		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>171</td>
-		<td>171</td>
-	</tr>
-	<tr>
-		<td>644</td>
-		<td>
-			<a href="https://github.com/DemisoDaba">
-				<img src="https://avatars.githubusercontent.com/u/125874545?s=72&u=f77f6dbabfedaada4c530a1854affc7c8b7f4aab&v=4" width="24" alt="Avatar of DemisoDaba"> DemisoDaba
-			</a><br/>
-			Demiso Daba
-		</td>
-		<td>Hiring For Work! </td>
-		<td>No Twitter Username</td>
-		<td>Nekemt , Ethiopia</td>
-		<td>170</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>645</td>
-		<td>
-			<a href="https://github.com/MilkiasTonji">
-				<img src="https://avatars.githubusercontent.com/u/37698254?s=72&u=526ffb6b0b87a218e9cd241f143c716a13e0b7a8&v=4" width="24" alt="Avatar of MilkiasTonji"> MilkiasTonji
-			</a><br/>
-			Milkias Tonji
-		</td>
-		<td>Mereb Technologies Plc </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anan_ser1177">anan_ser1177</a></td>
 		<td>Addis Ababa</td>
-		<td>6</td>
-		<td>170</td>
+		<td>68</td>
+		<td>175</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>654</td>
 		<td>
-			<a href="https://github.com/nasifayc">
-				<img src="https://avatars.githubusercontent.com/u/130219241?s=72&v=4" width="24" alt="Avatar of nasifayc"> nasifayc
+			<a href="https://github.com/Dibora12">
+				<img src="https://avatars.githubusercontent.com/u/141755795?s=72&u=21336b3d88e1535dade8e2f0150162d53d361126&v=4" width="24" alt="Avatar of Dibora12"> Dibora12
 			</a><br/>
-			Nasifay
+			Dibora Shibeshi
+		</td>
+		<td>Insa </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>48</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/cyrmee">
+				<img src="https://avatars.githubusercontent.com/u/70317125?s=72&u=d065e8164e9283cbf718930e90bc6b5865a958af&v=4" width="24" alt="Avatar of cyrmee"> cyrmee
+			</a><br/>
+			Mehretab Hailegebriel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>169</td>
+		<td>111</td>
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>656</td>
 		<td>
-			<a href="https://github.com/biniyam69">
-				<img src="https://avatars.githubusercontent.com/u/91191700?s=72&u=de73a6f069747fe16cd938ec68d8e2709d170abe&v=4" width="24" alt="Avatar of biniyam69"> biniyam69
+			<a href="https://github.com/GirumSe">
+				<img src="https://avatars.githubusercontent.com/u/109412567?s=72&u=50606fa32fe8f49afdfc238880837705cf38d489&v=4" width="24" alt="Avatar of GirumSe"> GirumSe
 			</a><br/>
-			Biniyam
+			GIrum_Se
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, ET</td>
-		<td>169</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/tensae-b">
-				<img src="https://avatars.githubusercontent.com/u/89252352?s=72&u=744e8e9010886f4f70d555c5a0dbee9912bbaaa4&v=4" width="24" alt="Avatar of tensae-b"> tensae-b
-			</a><br/>
-			Tensae Berhanu Hailemeskel
-		</td>
-		<td>Icog Lab </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa , Ethiopia</td>
-		<td>95</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/miqe">
-				<img src="https://avatars.githubusercontent.com/u/10463154?s=72&u=89ebafe923fdecdd640859bdeb48744a31c86b67&v=4" width="24" alt="Avatar of miqe"> miqe
-			</a><br/>
-			Michael
-		</td>
-		<td>Minab It Solutions </td>
-		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>2</td>
+		<td>0</td>
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>657</td>
 		<td>
-			<a href="https://github.com/TEMESGENABDISSA">
-				<img src="https://avatars.githubusercontent.com/u/109625337?s=72&u=dfa1c41f6bc600bf017256a81dab9dbb0ddf02f6&v=4" width="24" alt="Avatar of TEMESGENABDISSA"> TEMESGENABDISSA
+			<a href="https://github.com/IamYunusAli">
+				<img src="https://avatars.githubusercontent.com/u/32224137?s=72&u=9e706d897477c5964a41b278f884ad899ed607cf&v=4" width="24" alt="Avatar of IamYunusAli"> IamYunusAli
 			</a><br/>
-			EMAMU
-		</td>
-		<td>Emamu-tech-solution </td>
-		<td><a href="https://twitter.com/TemesgenAbdiss1">TemesgenAbdiss1</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>165</td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>651</td>
-		<td>
-			<a href="https://github.com/Fenet-damena">
-				<img src="https://avatars.githubusercontent.com/u/138729138?s=72&u=7a93c1e8b43bb11f426a50b5be3023a61eac488c&v=4" width="24" alt="Avatar of Fenet-damena"> Fenet-damena
-			</a><br/>
-			Fenet Damena
+			Yunus A. Hassen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/FenetDamen23140">FenetDamen23140</a></td>
-		<td>Ethiopia</td>
-		<td>163</td>
-		<td>163</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>9</td>
+		<td>165</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/hksmith">
+				<img src="https://avatars.githubusercontent.com/u/105478362?s=72&u=0a9a6b58f9d8ab922ca3976cd98a1c8248848db3&v=4" width="24" alt="Avatar of hksmith"> hksmith
+			</a><br/>
+			Kalab Solomon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>39</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/Yidnekachew-cmd">
+				<img src="https://avatars.githubusercontent.com/u/104775335?s=72&u=bb2759f4eb2665a1fc33ffbce76c6bbf7a9d57d3&v=4" width="24" alt="Avatar of Yidnekachew-cmd"> Yidnekachew-cmd
+			</a><br/>
+			Yidne Kassahun 
+		</td>
+		<td>Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/codekarmainme">
+				<img src="https://avatars.githubusercontent.com/u/119623992?s=72&u=ccac99765f50fc144c852a735739c10b7f2d3033&v=4" width="24" alt="Avatar of codekarmainme"> codekarmainme
+			</a><br/>
+			Miki Shibabaw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>164</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/eyuBirhanu">
+				<img src="https://avatars.githubusercontent.com/u/151485420?s=72&u=54e3eed911670ddf564c5b22e6348fe5663fddf6&v=4" width="24" alt="Avatar of eyuBirhanu"> eyuBirhanu
+			</a><br/>
+			Eyu Birhanu
+		</td>
+		<td>Gebeta Link </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>164</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/mukesudo">
 				<img src="https://avatars.githubusercontent.com/u/50199153?s=72&u=d6908dd62438d06c8071cf6412070a585595fa92&v=4" width="24" alt="Avatar of mukesudo"> mukesudo
@@ -9234,7 +9374,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/bayisagit">
+				<img src="https://avatars.githubusercontent.com/u/162313260?s=72&u=3cc92b7ff2d6d5ef9e0c62f60b2bea2e23c5e0d5&v=4" width="24" alt="Avatar of bayisagit"> bayisagit
+			</a><br/>
+			Bayisa Daba
+		</td>
+		<td>Addis Ababa Science And<br/>Technology<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>161</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/Natyiu">
+				<img src="https://avatars.githubusercontent.com/u/106206729?s=72&u=f1c968ece49dafe144ff50c9dbc6c0329ffd907f&v=4" width="24" alt="Avatar of Natyiu"> Natyiu
+			</a><br/>
+			Natyiu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/natnael_ashebir">natnael_ashebir</a></td>
+		<td>Ethiopia</td>
+		<td>67</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/surafelasfawosen">
 				<img src="https://avatars.githubusercontent.com/u/178666027?s=72&u=78371425eee0fe25248de2672baa771d805a50a4&v=4" width="24" alt="Avatar of surafelasfawosen"> surafelasfawosen
@@ -9244,95 +9412,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>163</td>
-		<td>163</td>
+		<td>160</td>
+		<td>160</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>666</td>
 		<td>
-			<a href="https://github.com/hannycodes">
-				<img src="https://avatars.githubusercontent.com/u/194376028?s=72&u=494f2519d29e6874c0f7914f903823ae3ff5d010&v=4" width="24" alt="Avatar of hannycodes"> hannycodes
+			<a href="https://github.com/Alferid69">
+				<img src="https://avatars.githubusercontent.com/u/154613033?s=72&u=bf1beaec69b9420a47fb6362326ee24e3921a013&v=4" width="24" alt="Avatar of Alferid69"> Alferid69
 			</a><br/>
-			Hanan Seid
+			Alferid Hassen
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia</td>
-		<td>46</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/LibenHailu">
-				<img src="https://avatars.githubusercontent.com/u/51024415?s=72&u=5fd32c04d67d600bb8e0087f81085fb7d782ffc6&v=4" width="24" alt="Avatar of LibenHailu"> LibenHailu
-			</a><br/>
-			Liben Hailu
-		</td>
-		<td>Eskalate Llc </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>162</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a href="https://github.com/codekarmainme">
-				<img src="https://avatars.githubusercontent.com/u/119623992?s=72&u=ccac99765f50fc144c852a735739c10b7f2d3033&v=4" width="24" alt="Avatar of codekarmainme"> codekarmainme
-			</a><br/>
-			Miki Shibabaw
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>161</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>657</td>
-		<td>
-			<a href="https://github.com/Bereket18">
-				<img src="https://avatars.githubusercontent.com/u/101464558?s=72&u=5457fc61a6b22d8cad146606b8940f94241768dd&v=4" width="24" alt="Avatar of Bereket18"> Bereket18
-			</a><br/>
-			Bereket Asress
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Bereket5286">Bereket5286</a></td>
-		<td>Addis Ababa</td>
-		<td>148</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>658</td>
-		<td>
-			<a href="https://github.com/henask12">
-				<img src="https://avatars.githubusercontent.com/u/37038066?s=72&u=95665f500410a07d7a583c1e428e040ad0d5986d&v=4" width="24" alt="Avatar of henask12"> henask12
-			</a><br/>
-			Henok Mekonnen
-		</td>
-		<td>Ethiopian Airlines </td>
-		<td><a href="https://twitter.com/hmekonnen3">hmekonnen3</a></td>
+		<td><a href="https://twitter.com/ItsNotorious69">ItsNotorious69</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>124</td>
-		<td>154</td>
+		<td>122</td>
+		<td>158</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>667</td>
 		<td>
-			<a href="https://github.com/GirumSe">
-				<img src="https://avatars.githubusercontent.com/u/109412567?s=72&u=50606fa32fe8f49afdfc238880837705cf38d489&v=4" width="24" alt="Avatar of GirumSe"> GirumSe
+			<a href="https://github.com/Melak12">
+				<img src="https://avatars.githubusercontent.com/u/45941116?s=72&u=feddb7060f8bc915b715fee6d74738b4d62a3579&v=4" width="24" alt="Avatar of Melak12"> Melak12
 			</a><br/>
-			GIrum_Se
+			Melak
+		</td>
+		<td>Self-employed </td>
+		<td><a href="https://twitter.com/MelakeWub">MelakeWub</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>68</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/Log-benjamin">
+				<img src="https://avatars.githubusercontent.com/u/97245616?s=72&u=747b88ee35622687c86e405acc21bba1a98241b7&v=4" width="24" alt="Avatar of Log-benjamin"> Log-benjamin
+			</a><br/>
+			Binyam Tegene
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/binyam_tegene">binyam_tegene</a></td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>0</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/HyoketsuSenpai">
+				<img src="https://avatars.githubusercontent.com/u/116489282?s=72&u=ece3b864b550422e6ac2ff3fdf5413aaa47368a6&v=4" width="24" alt="Avatar of HyoketsuSenpai"> HyoketsuSenpai
+			</a><br/>
+			Yosefe Tilahun
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>0</td>
-		<td>152</td>
+		<td>Addis Ababa</td>
+		<td>94</td>
+		<td>153</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/yordi-7-cyber">
 				<img src="https://avatars.githubusercontent.com/u/203630267?s=72&u=210ce36c5e3746e09e8ac4e8d0aab9cbeb24dbaf&v=4" width="24" alt="Avatar of yordi-7-cyber"> yordi-7-cyber
@@ -9346,63 +9486,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>671</td>
 		<td>
-			<a href="https://github.com/hanhabesha">
-				<img src="https://avatars.githubusercontent.com/u/8080962?s=72&u=40e4d58201b10395127cde7fc27d6e09a56e2d89&v=4" width="24" alt="Avatar of hanhabesha"> hanhabesha
+			<a href="https://github.com/henask12">
+				<img src="https://avatars.githubusercontent.com/u/37038066?s=72&u=95665f500410a07d7a583c1e428e040ad0d5986d&v=4" width="24" alt="Avatar of henask12"> henask12
 			</a><br/>
-			Yetesfa Alemayehu
+			Henok Mekonnen
 		</td>
-		<td>Heyflutter </td>
-		<td><a href="https://twitter.com/Yetesfa7">Yetesfa7</a></td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>5</td>
+		<td>Ethiopian Airlines </td>
+		<td><a href="https://twitter.com/hmekonnen3">hmekonnen3</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>124</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/miqe">
+				<img src="https://avatars.githubusercontent.com/u/10463154?s=72&u=89ebafe923fdecdd640859bdeb48744a31c86b67&v=4" width="24" alt="Avatar of miqe"> miqe
+			</a><br/>
+			Michael
+		</td>
+		<td>Minab It Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>2</td>
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>673</td>
 		<td>
-			<a href="https://github.com/barnabasSol">
-				<img src="https://avatars.githubusercontent.com/u/96410633?s=72&u=4e415257293da0493bf8b413ac8346e5f7f2ee96&v=4" width="24" alt="Avatar of barnabasSol"> barnabasSol
+			<a href="https://github.com/Mikiyas6">
+				<img src="https://avatars.githubusercontent.com/u/110767281?s=72&u=5887c27b3fd9b4fae9d61393f6ed8cb87d65ce80&v=4" width="24" alt="Avatar of Mikiyas6"> Mikiyas6
 			</a><br/>
-			Barnabas Solomon
+			Mikiyas Teowodroes
 		</td>
-		<td>Arifpay </td>
-		<td>No Twitter Username</td>
+		<td>A2sv | Africa To<br/>Silicon<br/>Valley<br/></td>
+		<td><a href="https://twitter.com/MTewodroes">MTewodroes</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>99</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/roobiwebdev">
-				<img src="https://avatars.githubusercontent.com/u/175540717?s=72&u=772098a86385580d424ab172e927a3a42a6cfe2a&v=4" width="24" alt="Avatar of roobiwebdev"> roobiwebdev
-			</a><br/>
-			Rhobot Mulatu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/devnerd0">devnerd0</a></td>
-		<td>Ethiopia</td>
-		<td>147</td>
+		<td>80</td>
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>664</td>
-		<td>
-			<a href="https://github.com/gaddisa">
-				<img src="https://avatars.githubusercontent.com/u/10139659?s=72&u=9e8eda7d213c7d9addbf7c9a4da6235922e0c9d8&v=4" width="24" alt="Avatar of gaddisa"> gaddisa
-			</a><br/>
-			Gaddisa Olani Ganfure
-		</td>
-		<td>Https://sites.google </td>
-		<td>No Twitter Username</td>
-		<td>Dire Dawa, Ethiopia</td>
-		<td>143</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>665</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/Dawit-Sh">
 				<img src="https://avatars.githubusercontent.com/u/64279847?s=72&u=22c6354c7d22cdec8ebaae762a3b6d765b14a0f4&v=4" width="24" alt="Avatar of Dawit-Sh"> Dawit-Sh
@@ -9416,21 +9542,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>675</td>
 		<td>
-			<a href="https://github.com/yodit93">
-				<img src="https://avatars.githubusercontent.com/u/53250640?s=72&u=a8c6572061cee5bfb778a7886ff54a9fe85a5cd2&v=4" width="24" alt="Avatar of yodit93"> yodit93
+			<a href="https://github.com/LibenHailu">
+				<img src="https://avatars.githubusercontent.com/u/51024415?s=72&u=5fd32c04d67d600bb8e0087f81085fb7d782ffc6&v=4" width="24" alt="Avatar of LibenHailu"> LibenHailu
 			</a><br/>
-			Yodit Abebe Ayalew
+			Liben Hailu
 		</td>
-		<td>Full Stack Web Developer<br/></td>
-		<td><a href="https://twitter.com/yodtwit">yodtwit</a></td>
+		<td>Eskalate Llc </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>145</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/Fenet-damena">
+				<img src="https://avatars.githubusercontent.com/u/138729138?s=72&u=7a93c1e8b43bb11f426a50b5be3023a61eac488c&v=4" width="24" alt="Avatar of Fenet-damena"> Fenet-damena
+			</a><br/>
+			Fenet Damena
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FenetDamen23140">FenetDamen23140</a></td>
 		<td>Ethiopia</td>
-		<td>31</td>
+		<td>144</td>
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/YonasAlem">
 				<img src="https://avatars.githubusercontent.com/u/105295281?s=72&u=8ca6652be1ddc12bf0686fa64d6e58d320b944f2&v=4" width="24" alt="Avatar of YonasAlem"> YonasAlem
@@ -9441,24 +9581,38 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Ethiopia </td>
 		<td>0</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/yodit93">
+				<img src="https://avatars.githubusercontent.com/u/53250640?s=72&u=a8c6572061cee5bfb778a7886ff54a9fe85a5cd2&v=4" width="24" alt="Avatar of yodit93"> yodit93
+			</a><br/>
+			Yodit Abebe Ayalew
+		</td>
+		<td>Full Stack Web Developer<br/></td>
+		<td><a href="https://twitter.com/yodtwit">yodtwit</a></td>
+		<td>Ethiopia</td>
+		<td>31</td>
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>679</td>
 		<td>
-			<a href="https://github.com/Nahom4258">
-				<img src="https://avatars.githubusercontent.com/u/70732076?s=72&v=4" width="24" alt="Avatar of Nahom4258"> Nahom4258
+			<a href="https://github.com/eyobiabebe">
+				<img src="https://avatars.githubusercontent.com/u/130441555?s=72&u=56bda658c0863282b0afb6225392c74a6149f28a&v=4" width="24" alt="Avatar of eyobiabebe"> eyobiabebe
 			</a><br/>
-			Nahom Habtamu
+			Eyobi Abebe
 		</td>
-		<td>A2sv (africa To Silicon<br/>Valley)<br/></td>
+		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>3</td>
+		<td>15</td>
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/meliance">
 				<img src="https://avatars.githubusercontent.com/u/111016250?s=72&u=713587e47a1c2db579aa9982df35ec2232511858&v=4" width="24" alt="Avatar of meliance"> meliance
@@ -9468,11 +9622,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>140</td>
-		<td>140</td>
+		<td>141</td>
+		<td>141</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/Kidi-mariye">
 				<img src="https://avatars.githubusercontent.com/u/180030545?s=72&u=057de0537b57163561634ab4144410825b1473a5&v=4" width="24" alt="Avatar of Kidi-mariye"> Kidi-mariye
@@ -9486,7 +9640,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/Oliyad-oli">
 				<img src="https://avatars.githubusercontent.com/u/186468796?s=72&u=21c08a7242bffdd5563a666b699cb7583ef05838&v=4" width="24" alt="Avatar of Oliyad-oli"> Oliyad-oli
@@ -9496,25 +9650,39 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>138</td>
-		<td>138</td>
+		<td>139</td>
+		<td>139</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>683</td>
 		<td>
-			<a href="https://github.com/Ermias5869">
-				<img src="https://avatars.githubusercontent.com/u/185641019?s=72&u=11db30d38ae156c90e87ab575e2f00bc917f4623&v=4" width="24" alt="Avatar of Ermias5869"> Ermias5869
+			<a href="https://github.com/nahomik">
+				<img src="https://avatars.githubusercontent.com/u/117065834?s=72&u=f06e10a8dc877766bfd1739480b68f1dc0c8b65f&v=4" width="24" alt="Avatar of nahomik"> nahomik
 			</a><br/>
-			Ermias Amare
+			Nahom
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>bahir dar ethiopia</td>
-		<td>107</td>
-		<td>137</td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>59</td>
+		<td>136</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/Nahom4258">
+				<img src="https://avatars.githubusercontent.com/u/70732076?s=72&v=4" width="24" alt="Avatar of Nahom4258"> Nahom4258
+			</a><br/>
+			Nahom Habtamu
+		</td>
+		<td>A2sv (africa To Silicon<br/>Valley)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>3</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/Filposlove">
 				<img src="https://avatars.githubusercontent.com/u/133113115?s=72&u=535a2a9d07b4d3adf5c1a350d0326f5017165030&v=4" width="24" alt="Avatar of Filposlove"> Filposlove
@@ -9528,35 +9696,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>674</td>
-		<td>
-			<a href="https://github.com/Nati-Developer">
-				<img src="https://avatars.githubusercontent.com/u/123094252?s=72&u=5731e5b39391aa50914e58f389d324ed51cbe783&v=4" width="24" alt="Avatar of Nati-Developer"> Nati-Developer
-			</a><br/>
-			Natnael Wosen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>15</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
-			<a href="https://github.com/FidelAHM">
-				<img src="https://avatars.githubusercontent.com/u/70031033?s=72&u=554c99feeb34ff7ea06df795400ef0267c294e49&v=4" width="24" alt="Avatar of FidelAHM"> FidelAHM
-			</a><br/>
-			Fidel AHM
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>22</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>676</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Abel5173">
 				<img src="https://avatars.githubusercontent.com/u/86670708?s=72&u=68cb74ecc5814bd4863cade4dea8624f2f32f501&v=4" width="24" alt="Avatar of Abel5173"> Abel5173
@@ -9566,207 +9706,137 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Wolkite University </td>
 		<td><a href="https://twitter.com/AbelZeleke16">AbelZeleke16</a></td>
 		<td>Addis Ababa</td>
-		<td>132</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>677</td>
-		<td>
-			<a href="https://github.com/firoliyos">
-				<img src="https://avatars.githubusercontent.com/u/121613862?s=72&v=4" width="24" alt="Avatar of firoliyos"> firoliyos
-			</a><br/>
-			FIRAOL T.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>132</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>678</td>
-		<td>
-			<a href="https://github.com/nahomik">
-				<img src="https://avatars.githubusercontent.com/u/117065834?s=72&u=f06e10a8dc877766bfd1739480b68f1dc0c8b65f&v=4" width="24" alt="Avatar of nahomik"> nahomik
-			</a><br/>
-			Nahom
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>57</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>679</td>
-		<td>
-			<a href="https://github.com/getahunabr">
-				<img src="https://avatars.githubusercontent.com/u/147873183?s=72&u=4aacd7be6607067ef11c52623f183e8f060b8cba&v=4" width="24" alt="Avatar of getahunabr"> getahunabr
-			</a><br/>
-			Getahun Lakachew
-		</td>
-		<td>Ethiopian Kbf  </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>131</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/Mikiyas6">
-				<img src="https://avatars.githubusercontent.com/u/110767281?s=72&u=5887c27b3fd9b4fae9d61393f6ed8cb87d65ce80&v=4" width="24" alt="Avatar of Mikiyas6"> Mikiyas6
-			</a><br/>
-			Mikiyas Teowodroes
-		</td>
-		<td>A2sv | Africa To<br/>Silicon<br/>Valley<br/></td>
-		<td><a href="https://twitter.com/MTewodroes">MTewodroes</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>84</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>681</td>
-		<td>
-			<a href="https://github.com/eyobiabebe">
-				<img src="https://avatars.githubusercontent.com/u/130441555?s=72&u=56bda658c0863282b0afb6225392c74a6149f28a&v=4" width="24" alt="Avatar of eyobiabebe"> eyobiabebe
-			</a><br/>
-			Eyobi Abebe
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>15</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/nabilhassen">
-				<img src="https://avatars.githubusercontent.com/u/58304777?s=72&u=7295cbddf9128fdd3272895a31b6c0475d80a4f5&v=4" width="24" alt="Avatar of nabilhassen"> nabilhassen
-			</a><br/>
-			Nabil Hassen
-		</td>
-		<td>Digisensus </td>
-		<td><a href="https://twitter.com/nabilhassen08">nabilhassen08</a></td>
-		<td>Ethiopia</td>
-		<td>48</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>683</td>
-		<td>
-			<a href="https://github.com/miki-tebe">
-				<img src="https://avatars.githubusercontent.com/u/26773624?s=72&u=da86c56152c239b1ce86f0edfb809e250e872162&v=4" width="24" alt="Avatar of miki-tebe"> miki-tebe
-			</a><br/>
-			Mikiyas Tibebu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Abeba, Ethiopia</td>
-		<td>57</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>684</td>
-		<td>
-			<a href="https://github.com/TemesgenMeles">
-				<img src="https://avatars.githubusercontent.com/u/163395912?s=72&u=f5e6aa4fecf2120708cd7d9a88479eeeebb92a32&v=4" width="24" alt="Avatar of TemesgenMeles"> TemesgenMeles
-			</a><br/>
-			Temesgen Meles
-		</td>
-		<td>App Factory Academy |<br/>Wollo<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dessie, Ethiopia</td>
-		<td>54</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>685</td>
-		<td>
-			<a href="https://github.com/BranBayou">
-				<img src="https://avatars.githubusercontent.com/u/118562543?s=72&u=2780f303598e2683de780f614c95cba8407d3de3&v=4" width="24" alt="Avatar of BranBayou"> BranBayou
-			</a><br/>
-			Berhanu Baye
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bran_baye">bran_baye</a></td>
-		<td>Addis Ababa</td>
-		<td>124</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>686</td>
-		<td>
-			<a href="https://github.com/Heyeman">
-				<img src="https://avatars.githubusercontent.com/u/59885488?s=72&u=3f3118cfa144133e5d45a2fb21cf07ecfb21ca0d&v=4" width="24" alt="Avatar of Heyeman"> Heyeman
-			</a><br/>
-			Heyeman Urgessa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_heyeman_">_heyeman_</a></td>
-		<td>Ethiopia</td>
-		<td>1</td>
-		<td>123</td>
+		<td>134</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>687</td>
 		<td>
-			<a href="https://github.com/saron03">
-				<img src="https://avatars.githubusercontent.com/u/114290476?s=72&u=55f953567eb88ea835d915fa1e9eaaed7aec2b0a&v=4" width="24" alt="Avatar of saron03"> saron03
+			<a href="https://github.com/MilkiasTonji">
+				<img src="https://avatars.githubusercontent.com/u/37698254?s=72&u=526ffb6b0b87a218e9cd241f143c716a13e0b7a8&v=4" width="24" alt="Avatar of MilkiasTonji"> MilkiasTonji
 			</a><br/>
-			Saron Yitbareck
+			Milkias Tonji
 		</td>
-		<td>No Company</td>
+		<td>Mereb Technologies Plc </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>121</td>
-		<td>121</td>
+		<td>0</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>688</td>
 		<td>
-			<a href="https://github.com/AnanSer">
-				<img src="https://avatars.githubusercontent.com/u/130617805?s=72&u=ceb816ab2c2b6dd7662470cac6218d4066111d88&v=4" width="24" alt="Avatar of AnanSer"> AnanSer
+			<a href="https://github.com/KOTOLA1">
+				<img src="https://avatars.githubusercontent.com/u/183088614?s=72&u=c08a21817c58ca03556798d3feac0248effdea24&v=4" width="24" alt="Avatar of KOTOLA1"> KOTOLA1
 			</a><br/>
-			Anan Serbesa
+			Kotola Yacob 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anan_ser1177">anan_ser1177</a></td>
-		<td>Addis Ababa</td>
-		<td>13</td>
-		<td>121</td>
+		<td>No Twitter Username</td>
+		<td>Dire Dawa</td>
+		<td>133</td>
+		<td>133</td>
 	</tr>
 	<tr>
 		<td>689</td>
 		<td>
-			<a href="https://github.com/AbigiyaTY">
-				<img src="https://avatars.githubusercontent.com/u/98043302?s=72&u=5fc349bb1577f25ca822db4af537f09b79599c4c&v=4" width="24" alt="Avatar of AbigiyaTY"> AbigiyaTY
+			<a href="https://github.com/fekadu21-next">
+				<img src="https://avatars.githubusercontent.com/u/203872635?s=72&u=af232f61d321d866a32f45eeb3f7de40a4416981&v=4" width="24" alt="Avatar of fekadu21-next"> fekadu21-next
 			</a><br/>
-			Abigiya Tadesse
+			Fekadu /fullstack developer
 		</td>
-		<td>Full-stack Developer || Front-end<br/>Developer<br/>Back-end<br/>Developer<br/>||<br/>Software<br/>Engineer<br/></td>
-		<td><a href="https://twitter.com/AbigiyaTY">AbigiyaTY</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>27</td>
-		<td>120</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>adiss ababa: Ethiopia</td>
+		<td>133</td>
+		<td>133</td>
 	</tr>
 	<tr>
 		<td>690</td>
 		<td>
-			<a href="https://github.com/dagmawi-lencho">
-				<img src="https://avatars.githubusercontent.com/u/205807716?s=72&u=b7ace08386a267f70751c2e2408649a8a6109e46&v=4" width="24" alt="Avatar of dagmawi-lencho"> dagmawi-lencho
+			<a href="https://github.com/kirukib">
+				<img src="https://avatars.githubusercontent.com/u/39464098?s=72&u=40a55c13d67fb89c1f569071a11080dfdf2385d2&v=4" width="24" alt="Avatar of kirukib"> kirukib
 			</a><br/>
-			Dagmawi Lencho
+			Kirubel Kibru Mesfin
 		</td>
-		<td>Dwd Group </td>
-		<td>No Twitter Username</td>
-		<td>Hawassa</td>
-		<td>120</td>
-		<td>120</td>
+		<td>@yaltopya   </td>
+		<td><a href="https://twitter.com/kibrukirubel">kibrukirubel</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>33</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>691</td>
+		<td>
+			<a href="https://github.com/samiyonas">
+				<img src="https://avatars.githubusercontent.com/u/117749453?s=72&u=64083082cfce0942c2c7c5daad85108929fee5cf&v=4" width="24" alt="Avatar of samiyonas"> samiyonas
+			</a><br/>
+			Samuel Yonas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/samiintech">samiintech</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>129</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/Ermias5869">
+				<img src="https://avatars.githubusercontent.com/u/185641019?s=72&u=11db30d38ae156c90e87ab575e2f00bc917f4623&v=4" width="24" alt="Avatar of Ermias5869"> Ermias5869
+			</a><br/>
+			Ermias Amare
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>bahir dar ethiopia</td>
+		<td>107</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/Bruck-3">
+				<img src="https://avatars.githubusercontent.com/u/49018192?s=72&v=4" width="24" alt="Avatar of Bruck-3"> Bruck-3
+			</a><br/>
+			Bruck Demissie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>694</td>
+		<td>
+			<a href="https://github.com/hanhabesha">
+				<img src="https://avatars.githubusercontent.com/u/8080962?s=72&u=40e4d58201b10395127cde7fc27d6e09a56e2d89&v=4" width="24" alt="Avatar of hanhabesha"> hanhabesha
+			</a><br/>
+			Yetesfa Alemayehu
+		</td>
+		<td>Heyflutter </td>
+		<td><a href="https://twitter.com/Yetesfa7">Yetesfa7</a></td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>6</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
+			<a href="https://github.com/Tolegithub7">
+				<img src="https://avatars.githubusercontent.com/u/132619843?s=72&u=647e2de2f3ce1c5f37d159e7fad5ebebc4878afe&v=4" width="24" alt="Avatar of Tolegithub7"> Tolegithub7
+			</a><br/>
+			Tolosa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ToleDirba">ToleDirba</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>40</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/Melaku05">
 				<img src="https://avatars.githubusercontent.com/u/91287179?s=72&u=4e9e5a5e847699235591f8decaaea5cef728f54a&v=4" width="24" alt="Avatar of Melaku05"> Melaku05
@@ -9777,136 +9847,52 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>32</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>692</td>
-		<td>
-			<a href="https://github.com/josh-x01">
-				<img src="https://avatars.githubusercontent.com/u/87242555?s=72&v=4" width="24" alt="Avatar of josh-x01"> josh-x01
-			</a><br/>
-			Joshua
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>14</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>693</td>
-		<td>
-			<a href="https://github.com/BirthMark21">
-				<img src="https://avatars.githubusercontent.com/u/165183460?s=72&u=9a7ac2d317e98fa8e12fb7b46f4e2b1dea0d3768&v=4" width="24" alt="Avatar of BirthMark21"> BirthMark21
-			</a><br/>
-			Misganaw Mekashaw 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>20</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>694</td>
-		<td>
-			<a href="https://github.com/IamYunusAli">
-				<img src="https://avatars.githubusercontent.com/u/32224137?s=72&u=9e706d897477c5964a41b278f884ad899ed607cf&v=4" width="24" alt="Avatar of IamYunusAli"> IamYunusAli
-			</a><br/>
-			Yunus A. Hassen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>13</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>695</td>
-		<td>
-			<a href="https://github.com/Yidne21">
-				<img src="https://avatars.githubusercontent.com/u/97584399?s=72&v=4" width="24" alt="Avatar of Yidne21"> Yidne21
-			</a><br/>
-			Yidnekachew Bantrga
-		</td>
-		<td>Wolkite University </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>1</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>696</td>
-		<td>
-			<a href="https://github.com/hksmith">
-				<img src="https://avatars.githubusercontent.com/u/105478362?s=72&u=0a9a6b58f9d8ab922ca3976cd98a1c8248848db3&v=4" width="24" alt="Avatar of hksmith"> hksmith
-			</a><br/>
-			Kalab Solomon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>9</td>
-		<td>115</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>697</td>
 		<td>
-			<a href="https://github.com/kirukib">
-				<img src="https://avatars.githubusercontent.com/u/39464098?s=72&u=40a55c13d67fb89c1f569071a11080dfdf2385d2&v=4" width="24" alt="Avatar of kirukib"> kirukib
+			<a href="https://github.com/biniyam69">
+				<img src="https://avatars.githubusercontent.com/u/91191700?s=72&u=de73a6f069747fe16cd938ec68d8e2709d170abe&v=4" width="24" alt="Avatar of biniyam69"> biniyam69
 			</a><br/>
-			Kirubel Kibru Mesfin
+			Biniyam
 		</td>
-		<td>@yaltopya   </td>
-		<td><a href="https://twitter.com/kibrukirubel">kibrukirubel</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>12</td>
-		<td>113</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, ET</td>
+		<td>124</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>698</td>
 		<td>
-			<a href="https://github.com/Lidiya-Bokona">
-				<img src="https://avatars.githubusercontent.com/u/192537993?s=72&u=74e8c3c87b7d14147c01da6ab644ec5156a68f62&v=4" width="24" alt="Avatar of Lidiya-Bokona"> Lidiya-Bokona
+			<a href="https://github.com/abdulmenan-seman">
+				<img src="https://avatars.githubusercontent.com/u/174059783?s=72&v=4" width="24" alt="Avatar of abdulmenan-seman"> abdulmenan-seman
 			</a><br/>
-			Lidiya Bokona
+			Abdulmenan Seman
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>50</td>
-		<td>112</td>
+		<td>Ethiopia</td>
+		<td>121</td>
+		<td>121</td>
 	</tr>
 	<tr>
 		<td>699</td>
 		<td>
-			<a href="https://github.com/surafelwondimagegn">
-				<img src="https://avatars.githubusercontent.com/u/106597286?s=72&u=1bf2ee2af0229b151ffff582e05180fdf7646541&v=4" width="24" alt="Avatar of surafelwondimagegn"> surafelwondimagegn
+			<a href="https://github.com/nabilhassen">
+				<img src="https://avatars.githubusercontent.com/u/58304777?s=72&u=7295cbddf9128fdd3272895a31b6c0475d80a4f5&v=4" width="24" alt="Avatar of nabilhassen"> nabilhassen
 			</a><br/>
-			Surafel
+			Nabil Hassen
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Suraphel2022">Suraphel2022</a></td>
+		<td>Digisensus </td>
+		<td><a href="https://twitter.com/nabilhassen08">nabilhassen08</a></td>
 		<td>Ethiopia</td>
-		<td>2</td>
-		<td>111</td>
+		<td>43</td>
+		<td>121</td>
 	</tr>
 	<tr>
 		<td>700</td>
-		<td>
-			<a href="https://github.com/Log-benjamin">
-				<img src="https://avatars.githubusercontent.com/u/97245616?s=72&u=747b88ee35622687c86e405acc21bba1a98241b7&v=4" width="24" alt="Avatar of Log-benjamin"> Log-benjamin
-			</a><br/>
-			Binyam Tegene
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/binyam_tegene">binyam_tegene</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>0</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>701</td>
 		<td>
 			<a href="https://github.com/birukjeldu">
 				<img src="https://avatars.githubusercontent.com/u/69720589?s=72&u=58ddf8c1a4000bdc0af79eee007a64405caca331&v=4" width="24" alt="Avatar of birukjeldu"> birukjeldu
@@ -9916,39 +9902,109 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/birukjeldu">birukjeldu</a></td>
 		<td>Addis Ababa</td>
-		<td>2</td>
-		<td>110</td>
+		<td>3</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/saron03">
+				<img src="https://avatars.githubusercontent.com/u/114290476?s=72&u=55f953567eb88ea835d915fa1e9eaaed7aec2b0a&v=4" width="24" alt="Avatar of saron03"> saron03
+			</a><br/>
+			Saron Yitbareck
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>119</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>702</td>
 		<td>
-			<a href="https://github.com/Wildude">
-				<img src="https://avatars.githubusercontent.com/u/122345410?s=72&u=d18d7566d8192f3452c4c7365f9cfb3807635f54&v=4" width="24" alt="Avatar of Wildude"> Wildude
+			<a href="https://github.com/dagmawi-lencho">
+				<img src="https://avatars.githubusercontent.com/u/205807716?s=72&u=b7ace08386a267f70751c2e2408649a8a6109e46&v=4" width="24" alt="Avatar of dagmawi-lencho"> dagmawi-lencho
 			</a><br/>
-			Firaol Dereje
+			Dagmawi Lencho
 		</td>
-		<td>No Company</td>
+		<td>Dwd Group </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>109</td>
-		<td>109</td>
+		<td>Hawassa</td>
+		<td>118</td>
+		<td>118</td>
 	</tr>
 	<tr>
 		<td>703</td>
 		<td>
-			<a href="https://github.com/thema-d">
-				<img src="https://avatars.githubusercontent.com/u/19646713?s=72&u=664ad62a3bf41dea593435efc3c3219df13bfa89&v=4" width="24" alt="Avatar of thema-d"> thema-d
+			<a href="https://github.com/barnabasSol">
+				<img src="https://avatars.githubusercontent.com/u/96410633?s=72&u=4e415257293da0493bf8b413ac8346e5f7f2ee96&v=4" width="24" alt="Avatar of barnabasSol"> barnabasSol
 			</a><br/>
-			Bekele Debisa
+			Barnabas Solomon
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thema_d">thema_d</a></td>
+		<td>Arifpay </td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>109</td>
+		<td>73</td>
+		<td>118</td>
 	</tr>
 	<tr>
 		<td>704</td>
+		<td>
+			<a href="https://github.com/getahunabr">
+				<img src="https://avatars.githubusercontent.com/u/147873183?s=72&u=4aacd7be6607067ef11c52623f183e8f060b8cba&v=4" width="24" alt="Avatar of getahunabr"> getahunabr
+			</a><br/>
+			Getahun Lakachew
+		</td>
+		<td>Ethiopian Kbf  </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>116</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/miki-tebe">
+				<img src="https://avatars.githubusercontent.com/u/26773624?s=72&u=da86c56152c239b1ce86f0edfb809e250e872162&v=4" width="24" alt="Avatar of miki-tebe"> miki-tebe
+			</a><br/>
+			Mikiyas Tibebu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>56</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/TemesgenMeles">
+				<img src="https://avatars.githubusercontent.com/u/163395912?s=72&u=f5e6aa4fecf2120708cd7d9a88479eeeebb92a32&v=4" width="24" alt="Avatar of TemesgenMeles"> TemesgenMeles
+			</a><br/>
+			Temesgen Meles
+		</td>
+		<td>App Factory Academy |<br/>Wollo<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dessie, Ethiopia</td>
+		<td>54</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/rexder26">
+				<img src="https://avatars.githubusercontent.com/u/39588556?s=72&u=b3b12aad2e5163629fed4d3c2af5e661d0499d44&v=4" width="24" alt="Avatar of rexder26"> rexder26
+			</a><br/>
+			Nathan Hailu
+		</td>
+		<td>Geez Tech </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>5</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/SamAsEnd">
 				<img src="https://avatars.githubusercontent.com/u/9657132?s=72&u=c343156ff3e414f682b5b71c1004e7b1df5f9d8c&v=4" width="24" alt="Avatar of SamAsEnd"> SamAsEnd
@@ -9958,25 +10014,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>@agelgil @andegna @ethiopian @geezify<br/></td>
 		<td>No Twitter Username</td>
 		<td>Addis Abeba, Ethiopia</td>
-		<td>108</td>
-		<td>108</td>
+		<td>112</td>
+		<td>112</td>
 	</tr>
 	<tr>
-		<td>705</td>
-		<td>
-			<a href="https://github.com/itzlead12">
-				<img src="https://avatars.githubusercontent.com/u/210580007?s=72&u=88a583239850d968161b759a3eedb71d9c2f8ddb&v=4" width="24" alt="Avatar of itzlead12"> itzlead12
-			</a><br/>
-			Paulos Berihun
-		</td>
-		<td>Gashax Security  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, ethiopia</td>
-		<td>108</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>706</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/Mikesew1320">
 				<img src="https://avatars.githubusercontent.com/u/43565227?s=72&u=c3e5ab0fe5b04508c2418a5e9a7d7b6dc0e7c71d&v=4" width="24" alt="Avatar of Mikesew1320"> Mikesew1320
@@ -9986,25 +10028,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Etmikdevs </td>
 		<td>No Twitter Username</td>
 		<td>Jimma, Ethiopia</td>
-		<td>107</td>
-		<td>108</td>
+		<td>109</td>
+		<td>110</td>
 	</tr>
 	<tr>
-		<td>707</td>
-		<td>
-			<a href="https://github.com/veduket">
-				<img src="https://avatars.githubusercontent.com/u/3890744?s=72&u=d19ff59eee2f2aaeac933532eb1508c86119a33d&v=4" width="24" alt="Avatar of veduket"> veduket
-			</a><br/>
-			Yared Getachew
-		</td>
-		<td>Toreans Engineering </td>
-		<td><a href="https://twitter.com/ygetachew">ygetachew</a></td>
-		<td>Addis Ababa</td>
-		<td>107</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>708</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/zewdu444">
 				<img src="https://avatars.githubusercontent.com/u/19651935?s=72&u=7242d9c5635b311a963a2de29fca3b47ac07c790&v=4" width="24" alt="Avatar of zewdu444"> zewdu444
@@ -10015,10 +10043,10 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/zewdu444">zewdu444</a></td>
 		<td>Ethiopia,addis ababa</td>
 		<td>0</td>
-		<td>107</td>
+		<td>109</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/Biyuktul">
 				<img src="https://avatars.githubusercontent.com/u/107502940?s=72&u=ce4739f4878ba969bd0e3e4c053d910ea382d57d&v=4" width="24" alt="Avatar of Biyuktul"> Biyuktul
@@ -10028,11 +10056,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Full Stack Software Engineer<br/>With<br/>Devops<br/>Capability<br/></td>
 		<td><a href="https://twitter.com/YonatanBiyu">YonatanBiyu</a></td>
 		<td>Ethiopia</td>
-		<td>16</td>
+		<td>17</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/itzlead12">
+				<img src="https://avatars.githubusercontent.com/u/210580007?s=72&u=88a583239850d968161b759a3eedb71d9c2f8ddb&v=4" width="24" alt="Avatar of itzlead12"> itzlead12
+			</a><br/>
+			Paulos Berihun
+		</td>
+		<td>Gashax Security  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, ethiopia</td>
+		<td>107</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/Heyeman">
+				<img src="https://avatars.githubusercontent.com/u/59885488?s=72&u=3f3118cfa144133e5d45a2fb21cf07ecfb21ca0d&v=4" width="24" alt="Avatar of Heyeman"> Heyeman
+			</a><br/>
+			Heyeman Urgessa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_heyeman_">_heyeman_</a></td>
+		<td>Ethiopia</td>
+		<td>0</td>
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/merera-ta">
+				<img src="https://avatars.githubusercontent.com/u/310026139?s=72&u=d999b88e172abe6a61e57bbd19a89b5a4211784f&v=4" width="24" alt="Avatar of merera-ta"> merera-ta
+			</a><br/>
+			Merera Taddesa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>West Shewa, Ambo, Jimma, Oromia, Ethiopia</td>
+		<td>72</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>715</td>
+		<td>
+			<a href="https://github.com/Yidne21">
+				<img src="https://avatars.githubusercontent.com/u/97584399?s=72&v=4" width="24" alt="Avatar of Yidne21"> Yidne21
+			</a><br/>
+			Yidnekachew Bantrga
+		</td>
+		<td>Wolkite University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa Ethiopia</td>
+		<td>1</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/mazengia">
 				<img src="https://avatars.githubusercontent.com/u/44846248?s=72&u=7e10ab696d844a641846a31848bfd293853abee4&v=4" width="24" alt="Avatar of mazengia"> mazengia
@@ -10046,49 +10130,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>717</td>
 		<td>
-			<a href="https://github.com/abdulmenan-seman">
-				<img src="https://avatars.githubusercontent.com/u/174059783?s=72&v=4" width="24" alt="Avatar of abdulmenan-seman"> abdulmenan-seman
+			<a href="https://github.com/veduket">
+				<img src="https://avatars.githubusercontent.com/u/3890744?s=72&u=d19ff59eee2f2aaeac933532eb1508c86119a33d&v=4" width="24" alt="Avatar of veduket"> veduket
 			</a><br/>
-			Abdulmenan Seman
+			Yared Getachew
+		</td>
+		<td>Toreans Engineering </td>
+		<td><a href="https://twitter.com/ygetachew">ygetachew</a></td>
+		<td>Addis Ababa</td>
+		<td>102</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/Dru-Go">
+				<img src="https://avatars.githubusercontent.com/u/36500142?s=72&u=5b89ffb4bd88790d4f778d880ed927cba38f3e99&v=4" width="24" alt="Avatar of Dru-Go"> Dru-Go
+			</a><br/>
+			Dre
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>103</td>
-		<td>103</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>5</td>
+		<td>100</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>719</td>
 		<td>
-			<a href="https://github.com/Burkakoo">
-				<img src="https://avatars.githubusercontent.com/u/197832170?s=72&u=e43548175b7c5e043f57147d0b19c3319134f49b&v=4" width="24" alt="Avatar of Burkakoo"> Burkakoo
+			<a href="https://github.com/ERMIASWAKGARI">
+				<img src="https://avatars.githubusercontent.com/u/118937954?s=72&u=e3bdc958efabcdc03b2c1843b2b0986d9ca33029&v=4" width="24" alt="Avatar of ERMIASWAKGARI"> ERMIASWAKGARI
 			</a><br/>
-			Burka Muhammed Hussien
+			Ermias Wakgari Yadeta
 		</td>
-		<td>Haramaya University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>103</td>
-		<td>103</td>
+		<td>Jimma, Ethiopia</td>
+		<td>100</td>
+		<td>100</td>
 	</tr>
 	<tr>
-		<td>713</td>
-		<td>
-			<a href="https://github.com/sitiabdulaziz11">
-				<img src="https://avatars.githubusercontent.com/u/113891119?s=72&v=4" width="24" alt="Avatar of sitiabdulaziz11"> sitiabdulaziz11
-			</a><br/>
-			siti abdulaziz
-		</td>
-		<td>Alx_africa </td>
-		<td><a href="https://twitter.com/sitiabdulaziz1">sitiabdulaziz1</a></td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>102</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>714</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/Mikiyas-Teshome67">
 				<img src="https://avatars.githubusercontent.com/u/205549320?s=72&u=7e470e022ad86455b45404e84bec97c1f530931a&v=4" width="24" alt="Avatar of Mikiyas-Teshome67"> Mikiyas-Teshome67
@@ -10102,35 +10186,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>721</td>
 		<td>
-			<a href="https://github.com/Natyiu">
-				<img src="https://avatars.githubusercontent.com/u/106206729?s=72&u=f1c968ece49dafe144ff50c9dbc6c0329ffd907f&v=4" width="24" alt="Avatar of Natyiu"> Natyiu
+			<a href="https://github.com/suuuuuuura7">
+				<img src="https://avatars.githubusercontent.com/u/228905063?s=72&u=6eed3bdaeda8e131398a42686851a77c5c6d3203&v=4" width="24" alt="Avatar of suuuuuuura7"> suuuuuuura7
 			</a><br/>
-			Natyiu
+			Surafel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/natnael_ashebir">natnael_ashebir</a></td>
+		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>65</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>716</td>
-		<td>
-			<a href="https://github.com/Biruk-Nigusie">
-				<img src="https://avatars.githubusercontent.com/u/194623443?s=72&v=4" width="24" alt="Avatar of Biruk-Nigusie"> Biruk-Nigusie
-			</a><br/>
-			Biruk Nigusie
-		</td>
-		<td>Mint </td>
-		<td><a href="https://twitter.com/11primebee00">11primebee00</a></td>
-		<td>Addis Ababa,Ethiopia</td>
 		<td>98</td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/matheos123">
 				<img src="https://avatars.githubusercontent.com/u/138956928?s=72&u=9883cbd53b0b3cec2b0fb72628bc000ba1ed0e54&v=4" width="24" alt="Avatar of matheos123"> matheos123
@@ -10140,53 +10210,109 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa,Ethiopia</td>
-		<td>95</td>
-		<td>95</td>
+		<td>97</td>
+		<td>97</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>723</td>
 		<td>
-			<a href="https://github.com/binitech">
-				<img src="https://avatars.githubusercontent.com/u/42878173?s=72&u=e98b7d2dd8238c6650cd810e0afff1817c55f509&v=4" width="24" alt="Avatar of binitech"> binitech
+			<a href="https://github.com/NohiTesfaye">
+				<img src="https://avatars.githubusercontent.com/u/129537060?s=72&u=bfaf0a8bfb77dde135306faeacef168be228822b&v=4" width="24" alt="Avatar of NohiTesfaye"> NohiTesfaye
 			</a><br/>
-			вιηι
+			Nohi Tesfaye
 		</td>
-		<td>Maedot Educational Technology Plc.<br/></td>
-		<td><a href="https://twitter.com/TechBini">TechBini</a></td>
-		<td>Addis Ababa</td>
-		<td>0</td>
+		<td>Ethiopian Insurance Corporation </td>
+		<td>No Twitter Username</td>
+		<td>ADDIS ABABA</td>
+		<td>96</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/Biruk-Nigusie">
+				<img src="https://avatars.githubusercontent.com/u/194623443?s=72&v=4" width="24" alt="Avatar of Biruk-Nigusie"> Biruk-Nigusie
+			</a><br/>
+			Biruk Nigusie
+		</td>
+		<td>Mint </td>
+		<td><a href="https://twitter.com/11primebee00">11primebee00</a></td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>94</td>
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>725</td>
 		<td>
-			<a href="https://github.com/rexder26">
-				<img src="https://avatars.githubusercontent.com/u/39588556?s=72&u=b3b12aad2e5163629fed4d3c2af5e661d0499d44&v=4" width="24" alt="Avatar of rexder26"> rexder26
+			<a href="https://github.com/Wildude">
+				<img src="https://avatars.githubusercontent.com/u/122345410?s=72&u=d18d7566d8192f3452c4c7365f9cfb3807635f54&v=4" width="24" alt="Avatar of Wildude"> Wildude
 			</a><br/>
-			Nathan Hailu
+			Firaol Dereje
 		</td>
-		<td>Geez Tech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>13</td>
-		<td>91</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>93</td>
+		<td>93</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>726</td>
 		<td>
-			<a href="https://github.com/Firuol">
-				<img src="https://avatars.githubusercontent.com/u/118420729?s=72&u=28511aba6fbd906d0506fcc9fd712e7383b8bf28&v=4" width="24" alt="Avatar of Firuol"> Firuol
+			<a href="https://github.com/Sultan-Adinan">
+				<img src="https://avatars.githubusercontent.com/u/194616055?s=72&u=7bec17df44e2ac9f4f5d6e415e9a641120cba39a&v=4" width="24" alt="Avatar of Sultan-Adinan"> Sultan-Adinan
 			</a><br/>
-			Firaol Tesfaye
+			Sultan Adinan
 		</td>
-		<td>@jabdut  </td>
+		<td>Hegere Technologies </td>
+		<td><a href="https://twitter.com/SultanAdin80638">SultanAdin80638</a></td>
+		<td>Ethiopia</td>
+		<td>92</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>727</td>
+		<td>
+			<a href="https://github.com/TEMESGENABDISSA">
+				<img src="https://avatars.githubusercontent.com/u/109625337?s=72&u=dfa1c41f6bc600bf017256a81dab9dbb0ddf02f6&v=4" width="24" alt="Avatar of TEMESGENABDISSA"> TEMESGENABDISSA
+			</a><br/>
+			EMAMU
+		</td>
+		<td>Emamu-tech-solution </td>
+		<td><a href="https://twitter.com/TemesgenAbdiss1">TemesgenAbdiss1</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>92</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/sefineh-ai">
+				<img src="https://avatars.githubusercontent.com/u/174966212?s=72&u=283a9cffeaee5dce303c69be7589799fb19cd2d8&v=4" width="24" alt="Avatar of sefineh-ai"> sefineh-ai
+			</a><br/>
+			DeepMind Coder
+		</td>
+		<td>Neaa </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>4</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>92</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/Lidiya-Bokona">
+				<img src="https://avatars.githubusercontent.com/u/192537993?s=72&u=74e8c3c87b7d14147c01da6ab644ec5156a68f62&v=4" width="24" alt="Avatar of Lidiya-Bokona"> Lidiya-Bokona
+			</a><br/>
+			Lidiya Bokona
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LidiyaBokona">LidiyaBokona</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>48</td>
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/BisratYalew">
 				<img src="https://avatars.githubusercontent.com/u/30002154?s=72&u=e6e071e5a091071d1420d782900b431f94b2d0c7&v=4" width="24" alt="Avatar of BisratYalew"> BisratYalew
@@ -10200,35 +10326,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>722</td>
-		<td>
-			<a href="https://github.com/sefineh-ai">
-				<img src="https://avatars.githubusercontent.com/u/174966212?s=72&u=283a9cffeaee5dce303c69be7589799fb19cd2d8&v=4" width="24" alt="Avatar of sefineh-ai"> sefineh-ai
-			</a><br/>
-			DeepMind Coder
-		</td>
-		<td>Neaa </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>90</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>723</td>
-		<td>
-			<a href="https://github.com/NohiTesfaye">
-				<img src="https://avatars.githubusercontent.com/u/129537060?s=72&u=bfaf0a8bfb77dde135306faeacef168be228822b&v=4" width="24" alt="Avatar of NohiTesfaye"> NohiTesfaye
-			</a><br/>
-			Nohi Tesfaye
-		</td>
-		<td>Ethiopian Insurance Corporation </td>
-		<td>No Twitter Username</td>
-		<td>ADDIS ABABA</td>
-		<td>90</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>724</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/Yohannes90">
 				<img src="https://avatars.githubusercontent.com/u/116464283?s=72&u=39631623bb59c20b55e37c3f4ba7869a948720de&v=4" width="24" alt="Avatar of Yohannes90"> Yohannes90
@@ -10242,7 +10340,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>732</td>
+		<td>
+			<a href="https://github.com/betsegawlemma">
+				<img src="https://avatars.githubusercontent.com/u/4020024?s=72&u=14cdfdd3765e09918b1293854eccc5250a7f3f5f&v=4" width="24" alt="Avatar of betsegawlemma"> betsegawlemma
+			</a><br/>
+			Betsegaw Lemma Amersho
+		</td>
+		<td>Addis Ababa Institute Of<br/>Technology<br/>(aait)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>89</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/NebilDev">
 				<img src="https://avatars.githubusercontent.com/u/159676747?s=72&u=780207c41d70c5b6c57ce5745b60b3d71d4388b9&v=4" width="24" alt="Avatar of NebilDev"> NebilDev
@@ -10256,35 +10368,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>734</td>
 		<td>
-			<a href="https://github.com/Dru-Go">
-				<img src="https://avatars.githubusercontent.com/u/36500142?s=72&u=5b89ffb4bd88790d4f778d880ed927cba38f3e99&v=4" width="24" alt="Avatar of Dru-Go"> Dru-Go
+			<a href="https://github.com/abduverse">
+				<img src="https://avatars.githubusercontent.com/u/130459031?s=72&u=498b8543679ed77c4c9ec4d8a52a946c7e5bf9ed&v=4" width="24" alt="Avatar of abduverse"> abduverse
 			</a><br/>
-			Dre
+			Abdulsomed Jibril
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>6</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>727</td>
-		<td>
-			<a href="https://github.com/Ebenezer-Shimeles">
-				<img src="https://avatars.githubusercontent.com/u/40866268?s=72&u=4026e8dd46944649c66c1e8870a3e04520e04ac6&v=4" width="24" alt="Avatar of Ebenezer-Shimeles"> Ebenezer-Shimeles
-			</a><br/>
-			Ebenezer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>5</td>
+		<td>Addis Ababa </td>
+		<td>86</td>
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/Yohannes-Maye-01">
 				<img src="https://avatars.githubusercontent.com/u/166595409?s=72&u=28b096083bd31dc6992a9660ee45071c51ce4e9c&v=4" width="24" alt="Avatar of Yohannes-Maye-01"> Yohannes-Maye-01
@@ -10298,7 +10396,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/AbdiSerbessa">
+				<img src="https://avatars.githubusercontent.com/u/129847632?s=72&u=29d5a7dbf4520facf2f0a6c7a278c9af4176573d&v=4" width="24" alt="Avatar of AbdiSerbessa"> AbdiSerbessa
+			</a><br/>
+			Abdi Serbessa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba, Ethiopia</td>
+		<td>84</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>737</td>
+		<td>
+			<a href="https://github.com/Nati-Developer">
+				<img src="https://avatars.githubusercontent.com/u/123094252?s=72&u=5731e5b39391aa50914e58f389d324ed51cbe783&v=4" width="24" alt="Avatar of Nati-Developer"> Nati-Developer
+			</a><br/>
+			Natnael Wosen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>15</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/BesuDev195">
 				<img src="https://avatars.githubusercontent.com/u/169589017?s=72&u=4f8468abb50b8dc097cb05649e15bdb2c3c751de&v=4" width="24" alt="Avatar of BesuDev195"> BesuDev195
@@ -10308,123 +10434,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia,AdissAbaba</td>
-		<td>85</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>730</td>
-		<td>
-			<a href="https://github.com/Dibora12">
-				<img src="https://avatars.githubusercontent.com/u/141755795?s=72&u=21336b3d88e1535dade8e2f0150162d53d361126&v=4" width="24" alt="Avatar of Dibora12"> Dibora12
-			</a><br/>
-			Dibora Shibeshi
-		</td>
-		<td>Insa </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>76</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>731</td>
-		<td>
-			<a href="https://github.com/Lidiya-MK">
-				<img src="https://avatars.githubusercontent.com/u/133108747?s=72&u=aaf1b34d07689f314dbcb5d90fcc7f96404d093c&v=4" width="24" alt="Avatar of Lidiya-MK"> Lidiya-MK
-			</a><br/>
-			Lidiya Mamo Kibret
-		</td>
-		<td>Addis Ababa University </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>82</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>732</td>
-		<td>
-			<a href="https://github.com/Hen0k">
-				<img src="https://avatars.githubusercontent.com/u/39389971?s=72&u=f12645a30879952ebc0ba50bfb1bbca4498a5e48&v=4" width="24" alt="Avatar of Hen0k"> Hen0k
-			</a><br/>
-			Henok Tilaye
-		</td>
-		<td>Moodlehq </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>21</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>733</td>
-		<td>
-			<a href="https://github.com/ERMIASWAKGARI">
-				<img src="https://avatars.githubusercontent.com/u/118937954?s=72&u=e3bdc958efabcdc03b2c1843b2b0986d9ca33029&v=4" width="24" alt="Avatar of ERMIASWAKGARI"> ERMIASWAKGARI
-			</a><br/>
-			Ermias Wakgari Yadeta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jimma, Ethiopia</td>
 		<td>81</td>
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>734</td>
-		<td>
-			<a href="https://github.com/suuuuuuura7">
-				<img src="https://avatars.githubusercontent.com/u/228905063?s=72&u=6eed3bdaeda8e131398a42686851a77c5c6d3203&v=4" width="24" alt="Avatar of suuuuuuura7"> suuuuuuura7
-			</a><br/>
-			Surafel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>81</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>735</td>
-		<td>
-			<a href="https://github.com/samienda">
-				<img src="https://avatars.githubusercontent.com/u/134318401?s=72&v=4" width="24" alt="Avatar of samienda"> samienda
-			</a><br/>
-			Samuel Endale
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>81</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>736</td>
-		<td>
-			<a href="https://github.com/Abdunesr">
-				<img src="https://avatars.githubusercontent.com/u/162048442?s=72&u=1cbe08562bf834f64a6931dbead420917c1be7b0&v=4" width="24" alt="Avatar of Abdunesr"> Abdunesr
-			</a><br/>
-			Abdelah Nesedin Nasir       
-		</td>
-		<td>Brighthood </td>
-		<td><a href="https://twitter.com/AbdelahNes27064">AbdelahNes27064</a></td>
-		<td>Addis Ababa </td>
-		<td>73</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>737</td>
-		<td>
-			<a href="https://github.com/betsegawlemma">
-				<img src="https://avatars.githubusercontent.com/u/4020024?s=72&u=14cdfdd3765e09918b1293854eccc5250a7f3f5f&v=4" width="24" alt="Avatar of betsegawlemma"> betsegawlemma
-			</a><br/>
-			Betsegaw Lemma Amersho
-		</td>
-		<td>Addis Ababa Institute Of<br/>Technology<br/>(aait)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>80</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/Tekhlay">
 				<img src="https://avatars.githubusercontent.com/u/90598109?s=72&u=97e98afcd782b4cbf88ebe0712d1f941d6827444&v=4" width="24" alt="Avatar of Tekhlay"> Tekhlay
@@ -10438,7 +10452,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
+		<td>
+			<a href="https://github.com/binitech">
+				<img src="https://avatars.githubusercontent.com/u/42878173?s=72&u=e98b7d2dd8238c6650cd810e0afff1817c55f509&v=4" width="24" alt="Avatar of binitech"> binitech
+			</a><br/>
+			вιηι
+		</td>
+		<td>Maedot Educational Technology Plc.<br/></td>
+		<td><a href="https://twitter.com/TechBini">TechBini</a></td>
+		<td>Addis Ababa</td>
+		<td>0</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/Hen0k">
+				<img src="https://avatars.githubusercontent.com/u/39389971?s=72&u=f12645a30879952ebc0ba50bfb1bbca4498a5e48&v=4" width="24" alt="Avatar of Hen0k"> Hen0k
+			</a><br/>
+			Henok Tilaye
+		</td>
+		<td>Moodlehq </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>25</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/sitiabdulaziz11">
+				<img src="https://avatars.githubusercontent.com/u/113891119?s=72&v=4" width="24" alt="Avatar of sitiabdulaziz11"> sitiabdulaziz11
+			</a><br/>
+			siti abdulaziz
+		</td>
+		<td>Alx_africa </td>
+		<td><a href="https://twitter.com/sitiabdulaziz1">sitiabdulaziz1</a></td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>74</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/melkamu372">
 				<img src="https://avatars.githubusercontent.com/u/47281626?s=72&u=ab0c30c04aba1d9f427e307c62cb527262c307d0&v=4" width="24" alt="Avatar of melkamu372"> melkamu372
@@ -10449,24 +10505,10 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa Ethiopia</td>
 		<td>1</td>
-		<td>80</td>
+		<td>74</td>
 	</tr>
 	<tr>
-		<td>740</td>
-		<td>
-			<a href="https://github.com/yonassera">
-				<img src="https://avatars.githubusercontent.com/u/190011936?s=72&u=4e754e115695389a99e2fa3ac230ef1802f84878&v=4" width="24" alt="Avatar of yonassera"> yonassera
-			</a><br/>
-			Yonas Sera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>79</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>741</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/leulyk">
 				<img src="https://avatars.githubusercontent.com/u/24749509?s=72&v=4" width="24" alt="Avatar of leulyk"> leulyk
@@ -10477,80 +10519,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>71</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>742</td>
-		<td>
-			<a href="https://github.com/etsubgezhagne-tech">
-				<img src="https://avatars.githubusercontent.com/u/225225122?s=72&u=f4d62191479a2b45059d5b2f051606c79a71d723&v=4" width="24" alt="Avatar of etsubgezhagne-tech"> etsubgezhagne-tech
-			</a><br/>
-			Etsub 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>77</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>743</td>
-		<td>
-			<a href="https://github.com/Hailekeh22">
-				<img src="https://avatars.githubusercontent.com/u/98894666?s=72&v=4" width="24" alt="Avatar of Hailekeh22"> Hailekeh22
-			</a><br/>
-			Haileleul Kehali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>4</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>744</td>
-		<td>
-			<a href="https://github.com/jenberu">
-				<img src="https://avatars.githubusercontent.com/u/121803439?s=72&u=953b929daa1e467fccceea4df4bd9a7723e00de6&v=4" width="24" alt="Avatar of jenberu"> jenberu
-			</a><br/>
-			jemberu kassie
-		</td>
-		<td>Bahir Dar University </td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia</td>
-		<td>74</td>
 		<td>74</td>
 	</tr>
 	<tr>
 		<td>745</td>
 		<td>
-			<a href="https://github.com/fentawgetasew0712">
-				<img src="https://avatars.githubusercontent.com/u/189003463?s=72&u=45629f6b043dd09202c511a29bcf88bc74766ae1&v=4" width="24" alt="Avatar of fentawgetasew0712"> fentawgetasew0712
+			<a href="https://github.com/Firuol">
+				<img src="https://avatars.githubusercontent.com/u/118420729?s=72&u=28511aba6fbd906d0506fcc9fd712e7383b8bf28&v=4" width="24" alt="Avatar of Firuol"> Firuol
 			</a><br/>
-			Fentaw Getasew
+			Firaol Tesfaye
 		</td>
-		<td>No Company</td>
+		<td>@jabdut  </td>
 		<td>No Twitter Username</td>
-		<td>Debre Birhan , Ethiopia</td>
-		<td>73</td>
-		<td>73</td>
+		<td>Addis Ababa</td>
+		<td>7</td>
+		<td>72</td>
 	</tr>
 	<tr>
 		<td>746</td>
-		<td>
-			<a href="https://github.com/SamrawitDawit">
-				<img src="https://avatars.githubusercontent.com/u/115358870?s=72&u=786c8117dcc339ee3563e6d776cae9c7cdcdceba&v=4" width="24" alt="Avatar of SamrawitDawit"> SamrawitDawit
-			</a><br/>
-			Samrawit Dawit
-		</td>
-		<td>Addis Ababa University, Africa<br/>To<br/>Silicon<br/>Valley<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>64</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>747</td>
 		<td>
 			<a href="https://github.com/EbenGitHub">
 				<img src="https://avatars.githubusercontent.com/u/77492217?s=72&u=dd5d180b94327a164c1b6c8c8fe0641cbaaf85a2&v=4" width="24" alt="Avatar of EbenGitHub"> EbenGitHub
@@ -10562,6 +10548,20 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Addis Ababa</td>
 		<td>66</td>
 		<td>71</td>
+	</tr>
+	<tr>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/etsubgezhagne-tech">
+				<img src="https://avatars.githubusercontent.com/u/225225122?s=72&u=f4d62191479a2b45059d5b2f051606c79a71d723&v=4" width="24" alt="Avatar of etsubgezhagne-tech"> etsubgezhagne-tech
+			</a><br/>
+			Etsub 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>70</td>
+		<td>70</td>
 	</tr>
 	<tr>
 		<td>748</td>
@@ -10580,75 +10580,117 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 	<tr>
 		<td>749</td>
 		<td>
-			<a href="https://github.com/beki21dev">
-				<img src="https://avatars.githubusercontent.com/u/209481622?s=72&u=17d909e5906571e996e64ec2945af13957404d38&v=4" width="24" alt="Avatar of beki21dev"> beki21dev
+			<a href="https://github.com/DaveHR1998">
+				<img src="https://avatars.githubusercontent.com/u/84446197?s=72&u=4ca3e9ff4d4778ec25b724964e7bd7e98b2530e9&v=4" width="24" alt="Avatar of DaveHR1998"> DaveHR1998
 			</a><br/>
-			kaelen
+			D@VE_HR
 		</td>
-		<td>No Company</td>
+		<td>Nova Computech </td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia/Bahir dar</td>
-		<td>68</td>
-		<td>68</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>31</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>750</td>
 		<td>
-			<a href="https://github.com/abrahamshimekt">
-				<img src="https://avatars.githubusercontent.com/u/87600631?s=72&u=eed0d26d1b2d5f7391c1684a13e475bf567fec58&v=4" width="24" alt="Avatar of abrahamshimekt"> abrahamshimekt
+			<a href="https://github.com/fentawgetasew0712">
+				<img src="https://avatars.githubusercontent.com/u/189003463?s=72&u=45629f6b043dd09202c511a29bcf88bc74766ae1&v=4" width="24" alt="Avatar of fentawgetasew0712"> fentawgetasew0712
 			</a><br/>
-			Abraham Shimekt
+			Fentaw Getasew
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>51</td>
-		<td>67</td>
+		<td>Debre Birhan , Ethiopia</td>
+		<td>65</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>751</td>
 		<td>
-			<a href="https://github.com/Dame-Abera">
-				<img src="https://avatars.githubusercontent.com/u/161621839?s=72&u=d08f781181eb2d8267e0b88a231c3dae498c23ac&v=4" width="24" alt="Avatar of Dame-Abera"> Dame-Abera
+			<a href="https://github.com/SamrawitDawit">
+				<img src="https://avatars.githubusercontent.com/u/115358870?s=72&u=786c8117dcc339ee3563e6d776cae9c7cdcdceba&v=4" width="24" alt="Avatar of SamrawitDawit"> SamrawitDawit
 			</a><br/>
-			Dame Abera
+			Samrawit Dawit
 		</td>
-		<td>No Company</td>
+		<td>Addis Ababa University, Africa<br/>To<br/>Silicon<br/>Valley<br/></td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>25</td>
-		<td>66</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>64</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>752</td>
 		<td>
-			<a href="https://github.com/biruk-bereka">
-				<img src="https://avatars.githubusercontent.com/u/56417904?s=72&u=6469c88da4818101051a88dff8df12d84ee4acb3&v=4" width="24" alt="Avatar of biruk-bereka"> biruk-bereka
+			<a href="https://github.com/Eazash">
+				<img src="https://avatars.githubusercontent.com/u/56728970?s=72&v=4" width="24" alt="Avatar of Eazash"> Eazash
 			</a><br/>
-			Biruk Bereka 
+			Ezra Ashenafi
 		</td>
-		<td>No Company</td>
+		<td>Ezra Ashenafi </td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>2</td>
-		<td>66</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>63</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>753</td>
 		<td>
-			<a href="https://github.com/bini-i">
-				<img src="https://avatars.githubusercontent.com/u/61377322?s=72&u=9f1aff10a13c7b834d06b78ca3cc62869441d525&v=4" width="24" alt="Avatar of bini-i"> bini-i
+			<a href="https://github.com/Lidiya-MK">
+				<img src="https://avatars.githubusercontent.com/u/133108747?s=72&u=aaf1b34d07689f314dbcb5d90fcc7f96404d093c&v=4" width="24" alt="Avatar of Lidiya-MK"> Lidiya-MK
 			</a><br/>
-			Binyam Hailemeskel
+			Lidiya Mamo Kibret
 		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/binyamshewa">binyamshewa</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>26</td>
-		<td>61</td>
+		<td>Addis Ababa University </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>63</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>754</td>
+		<td>
+			<a href="https://github.com/mikigode">
+				<img src="https://avatars.githubusercontent.com/u/82653151?s=72&u=566df87d39be1e30ecf71a291dd2c84c3e543757&v=4" width="24" alt="Avatar of mikigode"> mikigode
+			</a><br/>
+			MikiGode
+		</td>
+		<td>Ozone Technology Plc </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa , Ethiopia</td>
+		<td>11</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/beldados">
+				<img src="https://avatars.githubusercontent.com/u/99654542?s=72&u=bac9d552d9fd190b7767eee511efc59220de1282&v=4" width="24" alt="Avatar of beldados"> beldados
+			</a><br/>
+			beldaods
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>61</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/Ebenezer-Shimeles">
+				<img src="https://avatars.githubusercontent.com/u/40866268?s=72&u=4026e8dd46944649c66c1e8870a3e04520e04ac6&v=4" width="24" alt="Avatar of Ebenezer-Shimeles"> Ebenezer-Shimeles
+			</a><br/>
+			Ebenezer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>5</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/abeni505">
 				<img src="https://avatars.githubusercontent.com/u/70083175?s=72&u=c94abc5daad2d77905c1bc893274071eab536db8&v=4" width="24" alt="Avatar of abeni505"> abeni505
@@ -10662,60 +10704,18 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>755</td>
-		<td>
-			<a href="https://github.com/mikigode">
-				<img src="https://avatars.githubusercontent.com/u/82653151?s=72&u=566df87d39be1e30ecf71a291dd2c84c3e543757&v=4" width="24" alt="Avatar of mikigode"> mikigode
-			</a><br/>
-			MikiGode
-		</td>
-		<td>Ozone Technology Plc </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa , Ethiopia</td>
-		<td>11</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>756</td>
-		<td>
-			<a href="https://github.com/teddy004">
-				<img src="https://avatars.githubusercontent.com/u/86345118?s=72&u=22b61d1e11503b69136a6f9c3b276c43f4f9e17e&v=4" width="24" alt="Avatar of teddy004"> teddy004
-			</a><br/>
-			Tewodros Atirsaw Awedew
-		</td>
-		<td>Insa </td>
-		<td><a href="https://twitter.com/TewodrosAtirsaw">TewodrosAtirsaw</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>58</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>757</td>
-		<td>
-			<a href="https://github.com/abduverse">
-				<img src="https://avatars.githubusercontent.com/u/130459031?s=72&u=7f9bb9e06c28ee217c8aff207cc439366793a35e&v=4" width="24" alt="Avatar of abduverse"> abduverse
-			</a><br/>
-			Abdulsomed Jibril
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa </td>
-		<td>58</td>
-		<td>58</td>
-	</tr>
-	<tr>
 		<td>758</td>
 		<td>
-			<a href="https://github.com/beldados">
-				<img src="https://avatars.githubusercontent.com/u/99654542?s=72&u=bac9d552d9fd190b7767eee511efc59220de1282&v=4" width="24" alt="Avatar of beldados"> beldados
+			<a href="https://github.com/abrahamshimekt">
+				<img src="https://avatars.githubusercontent.com/u/87600631?s=72&u=eed0d26d1b2d5f7391c1684a13e475bf567fec58&v=4" width="24" alt="Avatar of abrahamshimekt"> abrahamshimekt
 			</a><br/>
-			beldaods
+			Abraham Shimekt
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>56</td>
-		<td>56</td>
+		<td>Addis Ababa</td>
+		<td>51</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>759</td>
@@ -10728,8 +10728,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BekaluEndrias">BekaluEndrias</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>49</td>
-		<td>54</td>
+		<td>51</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>760</td>
@@ -10742,67 +10742,39 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Dilla University  </td>
 		<td><a href="https://twitter.com/KitesaMerga1">KitesaMerga1</a></td>
 		<td>Ethiopia </td>
-		<td>15</td>
-		<td>54</td>
+		<td>19</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>761</td>
 		<td>
-			<a href="https://github.com/birhan-kassaye">
-				<img src="https://avatars.githubusercontent.com/u/66920283?s=72&u=d3b66addc2be1400644f6742e92d5ccac4a52a35&v=4" width="24" alt="Avatar of birhan-kassaye"> birhan-kassaye
+			<a href="https://github.com/gaddisa">
+				<img src="https://avatars.githubusercontent.com/u/10139659?s=72&u=9e8eda7d213c7d9addbf7c9a4da6235922e0c9d8&v=4" width="24" alt="Avatar of gaddisa"> gaddisa
 			</a><br/>
-			Birhan Y. Kassaye
+			Gaddisa Olani Ganfure
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/birhan_kassaye">birhan_kassaye</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>54</td>
-		<td>54</td>
+		<td>Https://sites.google </td>
+		<td>No Twitter Username</td>
+		<td>Dire Dawa, Ethiopia</td>
+		<td>55</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>762</td>
 		<td>
-			<a href="https://github.com/BereketIng">
-				<img src="https://avatars.githubusercontent.com/u/24592042?s=72&u=106a1dd493918bda38c7dd19be589cfd897569c7&v=4" width="24" alt="Avatar of BereketIng"> BereketIng
+			<a href="https://github.com/bini-i">
+				<img src="https://avatars.githubusercontent.com/u/61377322?s=72&u=9f1aff10a13c7b834d06b78ca3cc62869441d525&v=4" width="24" alt="Avatar of bini-i"> bini-i
 			</a><br/>
-			Bereket Teketel
+			Binyam Hailemeskel
 		</td>
-		<td>Golden Eagles Technology Plc,<br/>Infranet<br/>Technology<br/>Plc,<br/>Erp<br/>Solutions<br/>Plc<br/></td>
-		<td><a href="https://twitter.com/ingenioussight">ingenioussight</a></td>
-		<td>AA, Ethiopia</td>
-		<td>0</td>
-		<td>54</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/binyamshewa">binyamshewa</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>22</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>763</td>
-		<td>
-			<a href="https://github.com/fasil712">
-				<img src="https://avatars.githubusercontent.com/u/51247312?s=72&u=d16874c03c7a7e812aacbc503ec45569dc8b3d68&v=4" width="24" alt="Avatar of fasil712"> fasil712
-			</a><br/>
-			Fasil Getie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fasilg21">fasilg21</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>54</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>764</td>
-		<td>
-			<a href="https://github.com/Reid-T-W">
-				<img src="https://avatars.githubusercontent.com/u/30241503?s=72&u=31b4c22091bbba4bab3d81835bbb940b65d47ca0&v=4" width="24" alt="Avatar of Reid-T-W"> Reid-T-W
-			</a><br/>
-			Rediet Tadesse Woldeyes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>52</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>765</td>
 		<td>
 			<a href="https://github.com/Ley-code">
 				<img src="https://avatars.githubusercontent.com/u/111108779?s=72&u=b085484e31d4ab0430a7ac8d40b39881f2c1a6db&v=4" width="24" alt="Avatar of Ley-code"> Ley-code
@@ -10816,35 +10788,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>764</td>
 		<td>
-			<a href="https://github.com/Yidnekachew-cmd">
-				<img src="https://avatars.githubusercontent.com/u/104775335?s=72&u=bb2759f4eb2665a1fc33ffbce76c6bbf7a9d57d3&v=4" width="24" alt="Avatar of Yidnekachew-cmd"> Yidnekachew-cmd
+			<a href="https://github.com/biruk-bereka">
+				<img src="https://avatars.githubusercontent.com/u/56417904?s=72&u=6469c88da4818101051a88dff8df12d84ee4acb3&v=4" width="24" alt="Avatar of biruk-bereka"> biruk-bereka
 			</a><br/>
-			Yidne Kassahun 
+			Biruk Bereka 
 		</td>
-		<td>Software Developer </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>51</td>
+		<td>Addis Ababa</td>
+		<td>2</td>
+		<td>49</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>765</td>
 		<td>
-			<a href="https://github.com/Abenezer-Fekadu">
-				<img src="https://avatars.githubusercontent.com/u/50666961?s=72&u=cd7116b90da0f61e86e7d0fd55bc978eab7289f7&v=4" width="24" alt="Avatar of Abenezer-Fekadu"> Abenezer-Fekadu
+			<a href="https://github.com/abbumillion">
+				<img src="https://avatars.githubusercontent.com/u/51262961?s=72&u=149c708b543290b5a45fbc929cf97f1156c8fe53&v=4" width="24" alt="Avatar of abbumillion"> abbumillion
 			</a><br/>
-			Abenezer Fekadu Tefera
+			Million Sharbe
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>19</td>
-		<td>51</td>
+		<td>45</td>
+		<td>49</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/BereketIng">
+				<img src="https://avatars.githubusercontent.com/u/24592042?s=72&u=106a1dd493918bda38c7dd19be589cfd897569c7&v=4" width="24" alt="Avatar of BereketIng"> BereketIng
+			</a><br/>
+			Bereket Teketel
+		</td>
+		<td>Golden Eagles Technology Plc,<br/>Infranet<br/>Technology<br/>Plc,<br/>Erp<br/>Solutions<br/>Plc<br/></td>
+		<td><a href="https://twitter.com/ingenioussight">ingenioussight</a></td>
+		<td>AA, Ethiopia</td>
+		<td>0</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/kalbek">
 				<img src="https://avatars.githubusercontent.com/u/44664009?s=72&u=eaedc3a688c150e49a3c21fba727fb0431e67f64&v=4" width="24" alt="Avatar of kalbek"> kalbek
@@ -10858,77 +10844,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/Reid-T-W">
+				<img src="https://avatars.githubusercontent.com/u/30241503?s=72&u=31b4c22091bbba4bab3d81835bbb940b65d47ca0&v=4" width="24" alt="Avatar of Reid-T-W"> Reid-T-W
+			</a><br/>
+			Rediet Tadesse Woldeyes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>44</td>
+		<td>47</td>
+	</tr>
+	<tr>
 		<td>769</td>
-		<td>
-			<a href="https://github.com/Hayle-HB">
-				<img src="https://avatars.githubusercontent.com/u/137502715?s=72&u=ca1b163e23058f23bfd488f0bac0a93bc5ecdc7f&v=4" width="24" alt="Avatar of Hayle-HB"> Hayle-HB
-			</a><br/>
-			Haylemeskel Haylemariam
-		</td>
-		<td>@proghubs  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>30</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>770</td>
-		<td>
-			<a href="https://github.com/Aklile-Yilma">
-				<img src="https://avatars.githubusercontent.com/u/91611223?s=72&u=314b5b29d25b55453f4dbe379d2916fa792bda01&v=4" width="24" alt="Avatar of Aklile-Yilma"> Aklile-Yilma
-			</a><br/>
-			Aklile-Yilma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>48</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>771</td>
-		<td>
-			<a href="https://github.com/frnega">
-				<img src="https://avatars.githubusercontent.com/u/101171478?s=72&u=aa3d52e410c00c66635ae1df9482c66c7b16003d&v=4" width="24" alt="Avatar of frnega"> frnega
-			</a><br/>
-			Frehiywot Nega
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa </td>
-		<td>15</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>772</td>
-		<td>
-			<a href="https://github.com/Nathanage3">
-				<img src="https://avatars.githubusercontent.com/u/118963179?s=72&u=ff614a3656fd0c124499a26de0cd7eec03c4da15&v=4" width="24" alt="Avatar of Nathanage3"> Nathanage3
-			</a><br/>
-			Nathan Hailu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nattthy954">nattthy954</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>37</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>773</td>
-		<td>
-			<a href="https://github.com/Eazash">
-				<img src="https://avatars.githubusercontent.com/u/56728970?s=72&v=4" width="24" alt="Avatar of Eazash"> Eazash
-			</a><br/>
-			Ezra Ashenafi
-		</td>
-		<td>Ezra Ashenafi </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>47</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>774</td>
 		<td>
 			<a href="https://github.com/NatanimA">
 				<img src="https://avatars.githubusercontent.com/u/66979348?s=72&u=0cb337c78369a0e097907d909ae8620109fd2076&v=4" width="24" alt="Avatar of NatanimA"> NatanimA
@@ -10942,21 +10872,119 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>770</td>
 		<td>
-			<a href="https://github.com/Dawit-1621">
-				<img src="https://avatars.githubusercontent.com/u/23136710?s=72&u=b695296cd3744cf9eaff2db56cbec20008fd62d7&v=4" width="24" alt="Avatar of Dawit-1621"> Dawit-1621
+			<a href="https://github.com/birhan-kassaye">
+				<img src="https://avatars.githubusercontent.com/u/66920283?s=72&u=d3b66addc2be1400644f6742e92d5ccac4a52a35&v=4" width="24" alt="Avatar of birhan-kassaye"> birhan-kassaye
 			</a><br/>
-			Dawit Hassen 
+			Birhan Y. Kassaye
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DawitHassen1">DawitHassen1</a></td>
+		<td><a href="https://twitter.com/birhan_kassaye">birhan_kassaye</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>47</td>
 		<td>47</td>
 	</tr>
 	<tr>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/Hayle-HB">
+				<img src="https://avatars.githubusercontent.com/u/137502715?s=72&u=ca1b163e23058f23bfd488f0bac0a93bc5ecdc7f&v=4" width="24" alt="Avatar of Hayle-HB"> Hayle-HB
+			</a><br/>
+			Haylemeskel Haylemariam
+		</td>
+		<td>@proghubs  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>35</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/Aklile-Yilma">
+				<img src="https://avatars.githubusercontent.com/u/91611223?s=72&u=314b5b29d25b55453f4dbe379d2916fa792bda01&v=4" width="24" alt="Avatar of Aklile-Yilma"> Aklile-Yilma
+			</a><br/>
+			Aklile-Yilma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>46</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/keddo">
+				<img src="https://avatars.githubusercontent.com/u/12418320?s=72&u=064cf55e3b5f999a053de5d2f3576663e812b708&v=4" width="24" alt="Avatar of keddo"> keddo
+			</a><br/>
+			Kedir Abdurahman
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>43</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/thema-d">
+				<img src="https://avatars.githubusercontent.com/u/19646713?s=72&u=664ad62a3bf41dea593435efc3c3219df13bfa89&v=4" width="24" alt="Avatar of thema-d"> thema-d
+			</a><br/>
+			Bekele Debisa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thema_d">thema_d</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/Million-art">
+				<img src="https://avatars.githubusercontent.com/u/74927604?s=72&u=2bdb0bc4a2d3e7d708f850983ca4adcecdea793b&v=4" width="24" alt="Avatar of Million-art"> Million-art
+			</a><br/>
+			million
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>addis abeba ethiopia</td>
+		<td>45</td>
+		<td>45</td>
+	</tr>
+	<tr>
 		<td>776</td>
+		<td>
+			<a href="https://github.com/teddy004">
+				<img src="https://avatars.githubusercontent.com/u/86345118?s=72&u=22b61d1e11503b69136a6f9c3b276c43f4f9e17e&v=4" width="24" alt="Avatar of teddy004"> teddy004
+			</a><br/>
+			Tewodros Atirsaw Awedew
+		</td>
+		<td>Insa </td>
+		<td><a href="https://twitter.com/TewodrosAtirsaw">TewodrosAtirsaw</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>44</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/temamawelu">
+				<img src="https://avatars.githubusercontent.com/u/31039162?s=72&u=fec76aefc991434a229b2fad5f680f69d2e4ca06&v=4" width="24" alt="Avatar of temamawelu"> temamawelu
+			</a><br/>
+			Temam Awelu Said
+		</td>
+		<td>Awashbank </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>44</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/ahita1">
 				<img src="https://avatars.githubusercontent.com/u/110423895?s=72&u=9fcea12e7c5cb06e70b9d2cef8bef7ade9567983&v=4" width="24" alt="Avatar of ahita1"> ahita1
@@ -10967,29 +10995,15 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
 		<td>1</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>777</td>
-		<td>
-			<a href="https://github.com/henokkhm">
-				<img src="https://avatars.githubusercontent.com/u/110997325?s=72&v=4" width="24" alt="Avatar of henokkhm"> henokkhm
-			</a><br/>
-			Henok Kirubel
-		</td>
-		<td>Full Stack Developer </td>
-		<td><a href="https://twitter.com/henokkhm">henokkhm</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>30</td>
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
-			<a href="https://github.com/ayana1709">
-				<img src="https://avatars.githubusercontent.com/u/101936307?s=72&u=902fe28103a708706773e596f2586f843770e1e1&v=4" width="24" alt="Avatar of ayana1709"> ayana1709
+			<a href="https://github.com/Ephrem-t">
+				<img src="https://avatars.githubusercontent.com/u/125019330?s=72&u=5ed8a607db79ccca884b7a2bdeba58a3153c45da&v=4" width="24" alt="Avatar of Ephrem-t"> Ephrem-t
 			</a><br/>
-			Ayana 
+			Ephrem Tesema
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10998,7 +11012,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/Hailekeh22">
+				<img src="https://avatars.githubusercontent.com/u/98894666?s=72&v=4" width="24" alt="Avatar of Hailekeh22"> Hailekeh22
+			</a><br/>
+			Haileleul Kehali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>0</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/Abentesfaye">
 				<img src="https://avatars.githubusercontent.com/u/105986912?s=72&u=31cb411226b59b46d4bd0392259d1d1a041fde7d&v=4" width="24" alt="Avatar of Abentesfaye"> Abentesfaye
@@ -11012,24 +11040,10 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
-			<a href="https://github.com/YOHANNES7766">
-				<img src="https://avatars.githubusercontent.com/u/109875590?s=72&u=2abf49edb28e54e61dd81febb79ad49a4009c5f7&v=4" width="24" alt="Avatar of YOHANNES7766"> YOHANNES7766
-			</a><br/>
-			Yohannes Dawit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>43</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>781</td>
-		<td>
-			<a href="https://github.com/matusalab-dev">
-				<img src="https://avatars.githubusercontent.com/u/56913805?s=72&u=fbbf450827ac586666d0b821e9c9b1b7b7c75ee6&v=4" width="24" alt="Avatar of matusalab-dev"> matusalab-dev
+			<a href="https://github.com/matusas-lab">
+				<img src="https://avatars.githubusercontent.com/u/56913805?s=72&u=fbbf450827ac586666d0b821e9c9b1b7b7c75ee6&v=4" width="24" alt="Avatar of matusas-lab"> matusas-lab
 			</a><br/>
 			Matusala Abrha
 		</td>
@@ -11038,20 +11052,6 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Addis Ababa, Ethiopia</td>
 		<td>30</td>
 		<td>42</td>
-	</tr>
-	<tr>
-		<td>782</td>
-		<td>
-			<a href="https://github.com/Rabo27">
-				<img src="https://avatars.githubusercontent.com/u/248130636?s=72&u=d9eea863e1f23d15599439bf1bfae7f47fbd27e0&v=4" width="24" alt="Avatar of Rabo27"> Rabo27
-			</a><br/>
-			REBIRA 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>38</td>
-		<td>38</td>
 	</tr>
 	<tr>
 		<td>783</td>
@@ -11065,52 +11065,94 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/r_darik">r_darik</a></td>
 		<td>Ethiopia</td>
 		<td>0</td>
-		<td>38</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>784</td>
 		<td>
-			<a href="https://github.com/Kakuye">
-				<img src="https://avatars.githubusercontent.com/u/27581714?s=72&u=b9b8c21f150a90e77b0b251e9082ee5ab95afed1&v=4" width="24" alt="Avatar of Kakuye"> Kakuye
+			<a href="https://github.com/ayana1709">
+				<img src="https://avatars.githubusercontent.com/u/101936307?s=72&u=902fe28103a708706773e596f2586f843770e1e1&v=4" width="24" alt="Avatar of ayana1709"> ayana1709
 			</a><br/>
-			Nigatu Nigusie
-		</td>
-		<td>Ethiopian Education And Research<br/>Network(ethernet)<br/></td>
-		<td><a href="https://twitter.com/kakuye2">kakuye2</a></td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>37</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>785</td>
-		<td>
-			<a href="https://github.com/mohammedbedru">
-				<img src="https://avatars.githubusercontent.com/u/138098857?s=72&u=e4547977867696141ace764b41066fb168bd27f8&v=4" width="24" alt="Avatar of mohammedbedru"> mohammedbedru
-			</a><br/>
-			Mohammed Bedru
-		</td>
-		<td>Nib International Bank Sc<br/></td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>37</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>786</td>
-		<td>
-			<a href="https://github.com/abbumillion">
-				<img src="https://avatars.githubusercontent.com/u/51262961?s=72&u=149c708b543290b5a45fbc929cf97f1156c8fe53&v=4" width="24" alt="Avatar of abbumillion"> abbumillion
-			</a><br/>
-			Million Sharbe
+			Ayana 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>33</td>
-		<td>37</td>
+		<td>42</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/henokkhm">
+				<img src="https://avatars.githubusercontent.com/u/110997325?s=72&v=4" width="24" alt="Avatar of henokkhm"> henokkhm
+			</a><br/>
+			Henok Kirubel
+		</td>
+		<td>Full Stack Developer </td>
+		<td><a href="https://twitter.com/henokkhm">henokkhm</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>27</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/Rabo27">
+				<img src="https://avatars.githubusercontent.com/u/248130636?s=72&u=d9eea863e1f23d15599439bf1bfae7f47fbd27e0&v=4" width="24" alt="Avatar of Rabo27"> Rabo27
+			</a><br/>
+			REBIRA 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>40</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>787</td>
+		<td>
+			<a href="https://github.com/juaryimami">
+				<img src="https://avatars.githubusercontent.com/u/49280606?s=72&u=6af52e4b49d75606aae35125a161f2063b8b70e4&v=4" width="24" alt="Avatar of juaryimami"> juaryimami
+			</a><br/>
+			Juhar Yimer
+		</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/juhar63557116">juhar63557116</a></td>
+		<td>Ethiopia</td>
+		<td>18</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/titan36">
+				<img src="https://avatars.githubusercontent.com/u/30485242?s=72&u=f2d371254fb79ded83b0b8e1c59ad4ac180fb177&v=4" width="24" alt="Avatar of titan36"> titan36
+			</a><br/>
+			Tito Hailu
+		</td>
+		<td>Ttechnos Llc </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>11</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>789</td>
+		<td>
+			<a href="https://github.com/Nathanage3">
+				<img src="https://avatars.githubusercontent.com/u/118963179?s=72&u=ff614a3656fd0c124499a26de0cd7eec03c4da15&v=4" width="24" alt="Avatar of Nathanage3"> Nathanage3
+			</a><br/>
+			Nathan Hailu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nattthy954">nattthy954</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>37</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/solomon-spec">
 				<img src="https://avatars.githubusercontent.com/u/70583058?s=72&u=544e323c50ed08830900abbed247058b78bed6ab&v=4" width="24" alt="Avatar of solomon-spec"> solomon-spec
@@ -11122,48 +11164,6 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Addis Ababa, Ethiopia</td>
 		<td>37</td>
 		<td>37</td>
-	</tr>
-	<tr>
-		<td>788</td>
-		<td>
-			<a href="https://github.com/noahabe">
-				<img src="https://avatars.githubusercontent.com/u/44489271?s=72&u=796b5f7f6bdea6485f079ada201b7b15f22b16fe&v=4" width="24" alt="Avatar of noahabe"> noahabe
-			</a><br/>
-			Noah Abe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Data532">Data532</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>36</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>789</td>
-		<td>
-			<a href="https://github.com/juaryimami">
-				<img src="https://avatars.githubusercontent.com/u/49280606?s=72&u=6af52e4b49d75606aae35125a161f2063b8b70e4&v=4" width="24" alt="Avatar of juaryimami"> juaryimami
-			</a><br/>
-			Juhar Yimer
-		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/juhar63557116">juhar63557116</a></td>
-		<td>Ethiopia</td>
-		<td>15</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>790</td>
-		<td>
-			<a href="https://github.com/temamawelu">
-				<img src="https://avatars.githubusercontent.com/u/31039162?s=72&u=fec76aefc991434a229b2fad5f680f69d2e4ca06&v=4" width="24" alt="Avatar of temamawelu"> temamawelu
-			</a><br/>
-			Temam Awelu Said
-		</td>
-		<td>Awashbank </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>36</td>
-		<td>36</td>
 	</tr>
 	<tr>
 		<td>791</td>
@@ -11182,30 +11182,30 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 	<tr>
 		<td>792</td>
 		<td>
-			<a href="https://github.com/titan36">
-				<img src="https://avatars.githubusercontent.com/u/30485242?s=72&u=f2d371254fb79ded83b0b8e1c59ad4ac180fb177&v=4" width="24" alt="Avatar of titan36"> titan36
+			<a href="https://github.com/mengiefen">
+				<img src="https://avatars.githubusercontent.com/u/39188456?s=72&v=4" width="24" alt="Avatar of mengiefen"> mengiefen
 			</a><br/>
-			Tito Hailu
+			Menge
 		</td>
-		<td>Ttechnos Llc </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>11</td>
-		<td>34</td>
+		<td>Ethiopia</td>
+		<td>35</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>793</td>
 		<td>
-			<a href="https://github.com/devefy">
-				<img src="https://avatars.githubusercontent.com/u/20351909?s=72&u=f66d4e41d691bb79e66b2e1dce40ef4f30b0c713&v=4" width="24" alt="Avatar of devefy"> devefy
+			<a href="https://github.com/Kakuye">
+				<img src="https://avatars.githubusercontent.com/u/27581714?s=72&u=b9b8c21f150a90e77b0b251e9082ee5ab95afed1&v=4" width="24" alt="Avatar of Kakuye"> Kakuye
 			</a><br/>
-			Abdulkerim Hamid
+			Nigatu Nigusie
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Adama</td>
-		<td>2</td>
-		<td>32</td>
+		<td>Ethiopian Education And Research<br/>Network(ethernet)<br/></td>
+		<td><a href="https://twitter.com/kakuye2">kakuye2</a></td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>34</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>794</td>
@@ -11218,22 +11218,22 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Adama Ethiopia</td>
-		<td>25</td>
-		<td>32</td>
+		<td>26</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>795</td>
 		<td>
-			<a href="https://github.com/DaveHR1998">
-				<img src="https://avatars.githubusercontent.com/u/84446197?s=72&u=4ca3e9ff4d4778ec25b724964e7bd7e98b2530e9&v=4" width="24" alt="Avatar of DaveHR1998"> DaveHR1998
+			<a href="https://github.com/demesameneshoa">
+				<img src="https://avatars.githubusercontent.com/u/128508830?s=72&u=7996a283be6a1d766625988d752c63a9587d9ed2&v=4" width="24" alt="Avatar of demesameneshoa"> demesameneshoa
 			</a><br/>
-			D@VE_HR
+			Demes Abera Ameneshoa
 		</td>
-		<td>Nova Computech </td>
-		<td>No Twitter Username</td>
+		<td>Ahadubit Technologies Plc </td>
+		<td><a href="https://twitter.com/demesabera">demesabera</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>30</td>
+		<td>29</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>796</td>
@@ -11246,8 +11246,8 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Wolkite University  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
-		<td>30</td>
-		<td>30</td>
+		<td>32</td>
+		<td>32</td>
 	</tr>
 	<tr>
 		<td>797</td>
@@ -11260,22 +11260,22 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Dire Dawa University </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>30</td>
-		<td>30</td>
+		<td>31</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>798</td>
 		<td>
-			<a href="https://github.com/KibretZd">
-				<img src="https://avatars.githubusercontent.com/u/20473197?s=72&u=faea97879224a6fa5d5d693983213a0caafc0b58&v=4" width="24" alt="Avatar of KibretZd"> KibretZd
+			<a href="https://github.com/Dawit-1621">
+				<img src="https://avatars.githubusercontent.com/u/23136710?s=72&u=b695296cd3744cf9eaff2db56cbec20008fd62d7&v=4" width="24" alt="Avatar of Dawit-1621"> Dawit-1621
 			</a><br/>
-			Kibret Zewdu Bayuh
+			Dawit Hassen 
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gondar, Ethiopia</td>
-		<td>30</td>
-		<td>30</td>
+		<td><a href="https://twitter.com/DawitHassen1">DawitHassen1</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>31</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>799</td>
@@ -11294,6 +11294,34 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 	<tr>
 		<td>800</td>
 		<td>
+			<a href="https://github.com/mohammedbedru">
+				<img src="https://avatars.githubusercontent.com/u/138098857?s=72&u=e4547977867696141ace764b41066fb168bd27f8&v=4" width="24" alt="Avatar of mohammedbedru"> mohammedbedru
+			</a><br/>
+			Mohammed Bedru
+		</td>
+		<td>Nib International Bank Sc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>29</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>801</td>
+		<td>
+			<a href="https://github.com/KibretZd">
+				<img src="https://avatars.githubusercontent.com/u/20473197?s=72&u=faea97879224a6fa5d5d693983213a0caafc0b58&v=4" width="24" alt="Avatar of KibretZd"> KibretZd
+			</a><br/>
+			Kibret Zewdu Bayuh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gondar, Ethiopia</td>
+		<td>29</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
 			<a href="https://github.com/snkim0701">
 				<img src="https://avatars.githubusercontent.com/u/23565614?s=72&u=d58c88347eae8f8478565541629c667bbd3d3bf2&v=4" width="24" alt="Avatar of snkim0701"> snkim0701
 			</a><br/>
@@ -11306,21 +11334,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>803</td>
 		<td>
-			<a href="https://github.com/Betelhem-Demsis">
-				<img src="https://avatars.githubusercontent.com/u/144268349?s=72&u=230ed6be41875cd5f2da9123b8f8877e051eedd2&v=4" width="24" alt="Avatar of Betelhem-Demsis"> Betelhem-Demsis
+			<a href="https://github.com/Dame-Abera">
+				<img src="https://avatars.githubusercontent.com/u/161621839?s=72&u=d08f781181eb2d8267e0b88a231c3dae498c23ac&v=4" width="24" alt="Avatar of Dame-Abera"> Dame-Abera
 			</a><br/>
-			Betelhem Demsis
+			Dame Abera
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>8</td>
+		<td>Ethiopia</td>
+		<td>1</td>
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/Ashenafidejene">
 				<img src="https://avatars.githubusercontent.com/u/121222976?s=72&u=781ccdc31a15df5a74e5da2fba48bcdce6593204&v=4" width="24" alt="Avatar of Ashenafidejene"> Ashenafidejene
@@ -11334,21 +11362,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>803</td>
-		<td>
-			<a href="https://github.com/KOTOLA1">
-				<img src="https://avatars.githubusercontent.com/u/183088614?s=72&u=c08a21817c58ca03556798d3feac0248effdea24&v=4" width="24" alt="Avatar of KOTOLA1"> KOTOLA1
-			</a><br/>
-			Kotola Yacob 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dire Dawa</td>
-		<td>28</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>804</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/yilkalargaw">
 				<img src="https://avatars.githubusercontent.com/u/18423484?s=72&u=83bb29c63968671a20d5106dc02cef7e27e14665&v=4" width="24" alt="Avatar of yilkalargaw"> yilkalargaw
@@ -11362,7 +11376,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/b0y-hunt403">
+				<img src="https://avatars.githubusercontent.com/u/155321477?s=72&u=d37ffca39c1b3a39c9eb39708e286e308e722cc2&v=4" width="24" alt="Avatar of b0y-hunt403"> b0y-hunt403
+			</a><br/>
+			b0y403
+		</td>
+		<td>... </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>27</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
+			<a href="https://github.com/DaniDPX">
+				<img src="https://avatars.githubusercontent.com/u/19177019?s=72&u=0ff6586c6206fff9a9ec7472cbfd655687705267&v=4" width="24" alt="Avatar of DaniDPX"> DaniDPX
+			</a><br/>
+			DaniDPX
+		</td>
+		<td>@guzotech  </td>
+		<td><a href="https://twitter.com/danidpx">danidpx</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/eyoab01">
 				<img src="https://avatars.githubusercontent.com/u/108117092?s=72&u=0b5f67d4105efb9678f8b909f3921bf9adc6c3f2&v=4" width="24" alt="Avatar of eyoab01"> eyoab01
@@ -11376,35 +11418,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>806</td>
-		<td>
-			<a href="https://github.com/alelign">
-				<img src="https://avatars.githubusercontent.com/u/8495260?s=72&u=b0ea624a05e9733e9d3a061612225b7a36c604dd&v=4" width="24" alt="Avatar of alelign"> alelign
-			</a><br/>
-			Alelign Tilahun 
-		</td>
-		<td>1techsw </td>
-		<td>No Twitter Username</td>
-		<td>addis ababa</td>
-		<td>27</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>807</td>
-		<td>
-			<a href="https://github.com/b0y-hunt403">
-				<img src="https://avatars.githubusercontent.com/u/155321477?s=72&u=d37ffca39c1b3a39c9eb39708e286e308e722cc2&v=4" width="24" alt="Avatar of b0y-hunt403"> b0y-hunt403
-			</a><br/>
-			b0y403
-		</td>
-		<td>... </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>26</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/fikreanteneh">
 				<img src="https://avatars.githubusercontent.com/u/105011492?s=72&u=cbd420bed03043cbd640c0c05c58aa311efd8ac0&v=4" width="24" alt="Avatar of fikreanteneh"> fikreanteneh
@@ -11418,35 +11432,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
-			<a href="https://github.com/mohammed-abdi">
-				<img src="https://avatars.githubusercontent.com/u/180096862?s=72&u=d38413f09a82dc97eca84ba0af883b34310c2f24&v=4" width="24" alt="Avatar of mohammed-abdi"> mohammed-abdi
+			<a href="https://github.com/addisabrham36-boop">
+				<img src="https://avatars.githubusercontent.com/u/223850340?s=72&u=38e4f7ff59aa841b84c7efa5c42b0fb1d7a3454c&v=4" width="24" alt="Avatar of addisabrham36-boop"> addisabrham36-boop
 			</a><br/>
-			Mohammed
+			PortZer0
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Dire Dawa, Ethiopia </td>
+		<td>Ethiopia</td>
 		<td>26</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>810</td>
-		<td>
-			<a href="https://github.com/zackyjameldev">
-				<img src="https://avatars.githubusercontent.com/u/202970477?s=72&u=e622baf88fbe416a44edf1b5f9e9ef6c79cf2647&v=4" width="24" alt="Avatar of zackyjameldev"> zackyjameldev
-			</a><br/>
-			Zacky Jamel
-		</td>
-		<td>Darajpay </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia.</td>
-		<td>25</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>811</td>
+		<td>
+			<a href="https://github.com/kidmun">
+				<img src="https://avatars.githubusercontent.com/u/99493375?s=72&v=4" width="24" alt="Avatar of kidmun"> kidmun
+			</a><br/>
+			Kidus Guade
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>26</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
+			<a href="https://github.com/Betelhem-Demsis">
+				<img src="https://avatars.githubusercontent.com/u/144268349?s=72&u=230ed6be41875cd5f2da9123b8f8877e051eedd2&v=4" width="24" alt="Avatar of Betelhem-Demsis"> Betelhem-Demsis
+			</a><br/>
+			Betelhem Demsis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia </td>
+		<td>8</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/Yilikal-git">
 				<img src="https://avatars.githubusercontent.com/u/185889480?s=72&u=1e12073b02ec13b76ac8ef4bf8eb689ea9a4236b&v=4" width="24" alt="Avatar of Yilikal-git"> Yilikal-git
@@ -11460,21 +11488,63 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>814</td>
 		<td>
-			<a href="https://github.com/kidmun">
-				<img src="https://avatars.githubusercontent.com/u/99493375?s=72&v=4" width="24" alt="Avatar of kidmun"> kidmun
+			<a href="https://github.com/zackyjameldev">
+				<img src="https://avatars.githubusercontent.com/u/202970477?s=72&u=e622baf88fbe416a44edf1b5f9e9ef6c79cf2647&v=4" width="24" alt="Avatar of zackyjameldev"> zackyjameldev
 			</a><br/>
-			Kidus Guade
+			Zacky Jamel
+		</td>
+		<td>Darajpay </td>
+		<td><a href="https://twitter.com/zackyjamel">zackyjamel</a></td>
+		<td>Ethiopia</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/gtkobex-kalu">
+				<img src="https://avatars.githubusercontent.com/u/298790866?s=72&u=3ce1bb05dc98c28cb547ddb6ab8fc17a2273fa51&v=4" width="24" alt="Avatar of gtkobex-kalu"> gtkobex-kalu
+			</a><br/>
+			Kalab Tsegaluel Abay
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
+		<td>Ethiopia</td>
 		<td>24</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/frnega">
+				<img src="https://avatars.githubusercontent.com/u/101171478?s=72&u=aa3d52e410c00c66635ae1df9482c66c7b16003d&v=4" width="24" alt="Avatar of frnega"> frnega
+			</a><br/>
+			Frehiywot Nega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa </td>
+		<td>0</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/babasaraki">
+				<img src="https://avatars.githubusercontent.com/u/45367984?s=72&u=dfd80702bcd4e798c014fb66b76b8a247a69610d&v=4" width="24" alt="Avatar of babasaraki"> babasaraki
+			</a><br/>
+			Umar Ahmad
+		</td>
+		<td>Institute Of Genomics </td>
+		<td><a href="https://twitter.com/babasaraky">babasaraky</a></td>
+		<td>Ethiopia   </td>
+		<td>19</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/Abinet508">
 				<img src="https://avatars.githubusercontent.com/u/57164101?s=72&u=1508b869caddaf98bc321bf08c75f3cd9f91f891&v=4" width="24" alt="Avatar of Abinet508"> Abinet508
@@ -11488,7 +11558,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/Elianamos29">
 				<img src="https://avatars.githubusercontent.com/u/62511346?s=72&u=3dfa4b6f62ac332012e0fa324a9cd2e24f3fe016&v=4" width="24" alt="Avatar of Elianamos29"> Elianamos29
@@ -11502,21 +11572,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>815</td>
-		<td>
-			<a href="https://github.com/DaniDPX">
-				<img src="https://avatars.githubusercontent.com/u/19177019?s=72&u=0ff6586c6206fff9a9ec7472cbfd655687705267&v=4" width="24" alt="Avatar of DaniDPX"> DaniDPX
-			</a><br/>
-			DaniDPX
-		</td>
-		<td>@guzotech  </td>
-		<td><a href="https://twitter.com/danidpx">danidpx</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>816</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/Beimnet27">
 				<img src="https://avatars.githubusercontent.com/u/93039311?s=72&v=4" width="24" alt="Avatar of Beimnet27"> Beimnet27
@@ -11527,10 +11583,24 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
 		<td>0</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>821</td>
+		<td>
+			<a href="https://github.com/ETjoel">
+				<img src="https://avatars.githubusercontent.com/u/101369119?s=72&u=e2f5f75355b41f9267c44cdf13e22d2934f397e4&v=4" width="24" alt="Avatar of ETjoel"> ETjoel
+			</a><br/>
+			Eyuel Tesfaye
+		</td>
+		<td>Zulu Tech </td>
+		<td><a href="https://twitter.com/EjoelTesfaye">EjoelTesfaye</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>21</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/habasm">
 				<img src="https://avatars.githubusercontent.com/u/111062079?s=72&u=dcfb6b825e4d020d0a506d59249a1f44b2b07f93&v=4" width="24" alt="Avatar of habasm"> habasm
@@ -11544,21 +11614,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>818</td>
-		<td>
-			<a href="https://github.com/hiwina">
-				<img src="https://avatars.githubusercontent.com/u/9920834?s=72&u=7c068fb3df3ed877d364bafcd9cdd6c4b11fac79&v=4" width="24" alt="Avatar of hiwina"> hiwina
-			</a><br/>
-			Hiwot Bayissa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>6</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>819</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/derejehinsermu">
 				<img src="https://avatars.githubusercontent.com/u/45657872?s=72&u=5ec59057b8ba98aefde826fd3d8c3b4128e44fac&v=4" width="24" alt="Avatar of derejehinsermu"> derejehinsermu
@@ -11572,7 +11628,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/Natnael-Yigzaw">
 				<img src="https://avatars.githubusercontent.com/u/127339716?s=72&v=4" width="24" alt="Avatar of Natnael-Yigzaw"> Natnael-Yigzaw
@@ -11586,21 +11642,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>825</td>
 		<td>
-			<a href="https://github.com/ezoltech">
-				<img src="https://avatars.githubusercontent.com/u/97867117?s=72&u=67ddd35e2deaf4b6c3cf337ef1c962cef244bf55&v=4" width="24" alt="Avatar of ezoltech"> ezoltech
+			<a href="https://github.com/kirubel-web">
+				<img src="https://avatars.githubusercontent.com/u/108174149?s=72&u=60d8becff0320baa1317e6dd908983f46d9ecd09&v=4" width="24" alt="Avatar of kirubel-web"> kirubel-web
 			</a><br/>
-			Ezra K
+			Kirubel Alemu
 		</td>
-		<td>Frond Techs  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
+		<td>Addis Ababa,Ethiopia</td>
+		<td>5</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/gashawgedef">
 				<img src="https://avatars.githubusercontent.com/u/34706687?s=72&u=5c0185dd74518cc534586adb846db43019d05a5a&v=4" width="24" alt="Avatar of gashawgedef"> gashawgedef
@@ -11614,21 +11670,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>823</td>
-		<td>
-			<a href="https://github.com/ETjoel">
-				<img src="https://avatars.githubusercontent.com/u/101369119?s=72&u=e2f5f75355b41f9267c44cdf13e22d2934f397e4&v=4" width="24" alt="Avatar of ETjoel"> ETjoel
-			</a><br/>
-			Eyuel Tesfaye
-		</td>
-		<td>Zulu Tech </td>
-		<td><a href="https://twitter.com/EjoelTesfaye">EjoelTesfaye</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>824</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/sosnage12">
 				<img src="https://avatars.githubusercontent.com/u/184752895?s=72&u=b944fba3242aba732d02f5db3eb2102436025ee0&v=4" width="24" alt="Avatar of sosnage12"> sosnage12
@@ -11642,35 +11684,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>825</td>
-		<td>
-			<a href="https://github.com/Salem-yoseph">
-				<img src="https://avatars.githubusercontent.com/u/172948695?s=72&u=eb192947bd87740fa2db780be0f0ca47baa2fa75&v=4" width="24" alt="Avatar of Salem-yoseph"> Salem-yoseph
-			</a><br/>
-			Salem 
-		</td>
-		<td>Jigjiga University </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia </td>
-		<td>18</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>826</td>
-		<td>
-			<a href="https://github.com/kirubel-web">
-				<img src="https://avatars.githubusercontent.com/u/108174149?s=72&u=60d8becff0320baa1317e6dd908983f46d9ecd09&v=4" width="24" alt="Avatar of kirubel-web"> kirubel-web
-			</a><br/>
-			Kirubel Alemu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa,Ethiopia</td>
-		<td>3</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/Tseehay">
 				<img src="https://avatars.githubusercontent.com/u/118212771?s=72&u=9a88602245249380eff9abffd2ddf2531b070bb3&v=4" width="24" alt="Avatar of Tseehay"> Tseehay
@@ -11680,20 +11694,6 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia, Addis Ababa</td>
-		<td>17</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>828</td>
-		<td>
-			<a href="https://github.com/yeshumolla">
-				<img src="https://avatars.githubusercontent.com/u/257142979?s=72&u=d2c89d5d557b45b6ad8824b488635d84da0a64b7&v=4" width="24" alt="Avatar of yeshumolla"> yeshumolla
-			</a><br/>
-			Yeshu Molla
-		</td>
-		<td>Yenetubeworld  </td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -11742,20 +11742,6 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 	<tr>
 		<td>832</td>
 		<td>
-			<a href="https://github.com/Barniva">
-				<img src="https://avatars.githubusercontent.com/u/123116734?s=72&u=a3c887d3d6a1ca0783215bbd73b182dc7b9fb285&v=4" width="24" alt="Avatar of Barniva"> Barniva
-			</a><br/>
-			Barnabas Endashaw
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Barnabasvai19">Barnabasvai19</a></td>
-		<td>Ethiopia</td>
-		<td>0</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>833</td>
-		<td>
 			<a href="https://github.com/ermiyasabate">
 				<img src="https://avatars.githubusercontent.com/u/88839805?s=72&u=8e28a0d4d11261ccdfe141281ed69369e5c682f8&v=4" width="24" alt="Avatar of ermiyasabate"> ermiyasabate
 			</a><br/>
@@ -11768,7 +11754,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/TesheMaximillan">
 				<img src="https://avatars.githubusercontent.com/u/51437483?s=72&u=9c4c825d32527f82b98e9a8ceb8da950c831920f&v=4" width="24" alt="Avatar of TesheMaximillan"> TesheMaximillan
@@ -11782,49 +11768,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>834</td>
 		<td>
-			<a href="https://github.com/Tovas7">
-				<img src="https://avatars.githubusercontent.com/u/158458205?s=72&v=4" width="24" alt="Avatar of Tovas7"> Tovas7
+			<a href="https://github.com/hiwina">
+				<img src="https://avatars.githubusercontent.com/u/9920834?s=72&u=7c068fb3df3ed877d364bafcd9cdd6c4b11fac79&v=4" width="24" alt="Avatar of hiwina"> hiwina
 			</a><br/>
-			Muluken Zewdu
+			Hiwot Bayissa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Addis Abeba,Ethiopia</td>
-		<td>13</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>836</td>
-		<td>
-			<a href="https://github.com/Eshetugirma">
-				<img src="https://avatars.githubusercontent.com/u/115847211?s=72&u=56649eed1625007d434cd547c5cc3ba356f201a9&v=4" width="24" alt="Avatar of Eshetugirma"> Eshetugirma
-			</a><br/>
-			Eshetu Girma
-		</td>
-		<td>@a2sv </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>5</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>837</td>
-		<td>
-			<a href="https://github.com/Fraol123">
-				<img src="https://avatars.githubusercontent.com/u/77830323?s=72&u=b1bb88f0d0a088fcf1f041c79aae362e6b09d9cf&v=4" width="24" alt="Avatar of Fraol123"> Fraol123
-			</a><br/>
-			Fraol T
-		</td>
-		<td>Alx - Holberton School<br/></td>
-		<td><a href="https://twitter.com/franol_">franol_</a></td>
-		<td>Ethiopia </td>
-		<td>0</td>
+		<td>Addis Ababa</td>
+		<td>6</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/lemibk">
 				<img src="https://avatars.githubusercontent.com/u/139050997?s=72&u=6b96bd644493d76f918aefa0459413a8b315702b&v=4" width="24" alt="Avatar of lemibk"> lemibk
@@ -11838,7 +11796,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/kifle23">
 				<img src="https://avatars.githubusercontent.com/u/68891198?s=72&u=b197a99f944becec8adb15fd24e51cf3f5eebd4e&v=4" width="24" alt="Avatar of kifle23"> kifle23
@@ -11848,11 +11806,67 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Excellerent </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>3</td>
+		<td>4</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
+			<a href="https://github.com/nuradinsultan">
+				<img src="https://avatars.githubusercontent.com/u/37750486?s=72&v=4" width="24" alt="Avatar of nuradinsultan"> nuradinsultan
+			</a><br/>
+			Nuradin 
+		</td>
+		<td>Afcsh  </td>
+		<td><a href="https://twitter.com/Nuradinsultan">Nuradinsultan</a></td>
+		<td>Ethiopia</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/mohammed-abdi">
+				<img src="https://avatars.githubusercontent.com/u/180096862?s=72&u=d38413f09a82dc97eca84ba0af883b34310c2f24&v=4" width="24" alt="Avatar of mohammed-abdi"> mohammed-abdi
+			</a><br/>
+			Mohammed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dire Dawa, Ethiopia </td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>839</td>
+		<td>
+			<a href="https://github.com/NardosAbel">
+				<img src="https://avatars.githubusercontent.com/u/223300846?s=72&u=5ed9ed41d6348d05c833ab1a3f047d72d33dda17&v=4" width="24" alt="Avatar of NardosAbel"> NardosAbel
+			</a><br/>
+			Nardos Abel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>12</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>840</td>
+		<td>
+			<a href="https://github.com/ezoltech">
+				<img src="https://avatars.githubusercontent.com/u/97867117?s=72&u=67ddd35e2deaf4b6c3cf337ef1c962cef244bf55&v=4" width="24" alt="Avatar of ezoltech"> ezoltech
+			</a><br/>
+			Ezra K
+		</td>
+		<td>Frond Techs  </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/bernabasy">
 				<img src="https://avatars.githubusercontent.com/u/104406349?s=72&u=5ba0300096a27cdd5c94218ec90f4b042934bf0c&v=4" width="24" alt="Avatar of bernabasy"> bernabasy
@@ -11866,7 +11880,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/bekiyeromm">
 				<img src="https://avatars.githubusercontent.com/u/57282706?s=72&u=51d1d6ad72fd461d3eb24ccc4e2fa9842ac00f95&v=4" width="24" alt="Avatar of bekiyeromm"> bekiyeromm
@@ -11880,7 +11894,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/bereketdereje">
 				<img src="https://avatars.githubusercontent.com/u/203502880?s=72&u=b11f7ad485c0de604f54421bf6d392e0e8a1120f&v=4" width="24" alt="Avatar of bereketdereje"> bereketdereje
@@ -11894,7 +11908,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/proyirga">
 				<img src="https://avatars.githubusercontent.com/u/104643398?s=72&u=53e57feae2cd2d6508dba1e5a65b793ee36ce3ed&v=4" width="24" alt="Avatar of proyirga"> proyirga
@@ -11908,63 +11922,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>844</td>
-		<td>
-			<a href="https://github.com/mukerem">
-				<img src="https://avatars.githubusercontent.com/u/33462789?s=72&u=4631fd4d5a788e858a14ac1eee57b0e39acde41f&v=4" width="24" alt="Avatar of mukerem"> mukerem
-			</a><br/>
-			Mukerem Ali
-		</td>
-		<td>Turing </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>845</td>
 		<td>
-			<a href="https://github.com/babasaraki">
-				<img src="https://avatars.githubusercontent.com/u/45367984?s=72&u=dfd80702bcd4e798c014fb66b76b8a247a69610d&v=4" width="24" alt="Avatar of babasaraki"> babasaraki
+			<a href="https://github.com/Eshetugirma">
+				<img src="https://avatars.githubusercontent.com/u/115847211?s=72&u=56649eed1625007d434cd547c5cc3ba356f201a9&v=4" width="24" alt="Avatar of Eshetugirma"> Eshetugirma
 			</a><br/>
-			Umar Ahmad
+			Eshetu Girma
 		</td>
-		<td>Institute Of Genomics </td>
-		<td><a href="https://twitter.com/babasaraky">babasaraky</a></td>
-		<td>Ethiopia   </td>
-		<td>10</td>
-		<td>10</td>
+		<td>@a2sv </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>5</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>846</td>
-		<td>
-			<a href="https://github.com/AbelG101">
-				<img src="https://avatars.githubusercontent.com/u/104968236?s=72&u=e3967491616ebc0e985b0dd7a7047d732bbfe8a6&v=4" width="24" alt="Avatar of AbelG101"> AbelG101
-			</a><br/>
-			Abel Gebeyehu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AbelGebeyehu101">AbelGebeyehu101</a></td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>2</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>847</td>
-		<td>
-			<a href="https://github.com/Andu-alem">
-				<img src="https://avatars.githubusercontent.com/u/79287341?s=72&u=ffac63e7631789738fa40e34c983635afd6faecc&v=4" width="24" alt="Avatar of Andu-alem"> Andu-alem
-			</a><br/>
-			Andualem Fereja B
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Somewhere in Ethiopia</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>848</td>
 		<td>
 			<a href="https://github.com/Mre55">
 				<img src="https://avatars.githubusercontent.com/u/34578631?s=72&u=36e63d090be5f957c6cb23100a5ab74861d610dc&v=4" width="24" alt="Avatar of Mre55"> Mre55
@@ -11978,21 +11950,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>847</td>
 		<td>
-			<a href="https://github.com/gudeta22">
-				<img src="https://avatars.githubusercontent.com/u/119856804?s=72&u=fca54c3c327a29d1c60b0697b8daa3abf22d38f5&v=4" width="24" alt="Avatar of gudeta22"> gudeta22
+			<a href="https://github.com/kiya3300">
+				<img src="https://avatars.githubusercontent.com/u/99829666?s=72&u=397141632ce443e736dd121fd3ca01a36f9569fc&v=4" width="24" alt="Avatar of kiya3300"> kiya3300
 			</a><br/>
-			Gudeta Buli
+			Abel Yitages Demissie
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/teshitegudeta">teshitegudeta</a></td>
-		<td>Addis Ababa</td>
+		<td><a href="https://twitter.com/Abel_ooo">Abel_ooo</a></td>
+		<td>Addis Ababa P.O.BOX 18445</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/biruk99">
 				<img src="https://avatars.githubusercontent.com/u/139118873?s=72&u=6c961dd5b44f800a8b9070859649483ac46bfb80&v=4" width="24" alt="Avatar of biruk99"> biruk99
@@ -12006,7 +11978,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/Tsegazeab-dev">
 				<img src="https://avatars.githubusercontent.com/u/89086769?s=72&u=52d4eff2ac1176a09b3f0b370fcefbe9b8cff260&v=4" width="24" alt="Avatar of Tsegazeab-dev"> Tsegazeab-dev
@@ -12020,35 +11992,49 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>850</td>
 		<td>
-			<a href="https://github.com/lealemb">
-				<img src="https://avatars.githubusercontent.com/u/101050207?s=72&u=921f9640e3032b0d5fa728a82057f43e6d946f58&v=4" width="24" alt="Avatar of lealemb"> lealemb
+			<a href="https://github.com/AbelG101">
+				<img src="https://avatars.githubusercontent.com/u/104968236?s=72&u=e3967491616ebc0e985b0dd7a7047d732bbfe8a6&v=4" width="24" alt="Avatar of AbelG101"> AbelG101
 			</a><br/>
-			Lealem Birhanu 
+			Abel Gebeyehu
 		</td>
 		<td>No Company</td>
+		<td><a href="https://twitter.com/AbelGebeyehu101">AbelGebeyehu101</a></td>
+		<td>Addis Ababa, Ethiopia </td>
+		<td>2</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
+			<a href="https://github.com/gudeta22">
+				<img src="https://avatars.githubusercontent.com/u/119856804?s=72&u=fca54c3c327a29d1c60b0697b8daa3abf22d38f5&v=4" width="24" alt="Avatar of gudeta22"> gudeta22
+			</a><br/>
+			Gudeta Buli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/teshitegudeta">teshitegudeta</a></td>
+		<td>Addis Ababa</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>852</td>
+		<td>
+			<a href="https://github.com/kabtamu-degifie">
+				<img src="https://avatars.githubusercontent.com/u/70583153?s=72&u=9f9a8d65cf49c606f74bb0e1f763228cc4ea7452&v=4" width="24" alt="Avatar of kabtamu-degifie"> kabtamu-degifie
+			</a><br/>
+			Kabtamu Degifie
+		</td>
+		<td>Etm Software Plc. </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
+		<td>1</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>853</td>
-		<td>
-			<a href="https://github.com/demesameneshoa">
-				<img src="https://avatars.githubusercontent.com/u/128508830?s=72&u=7996a283be6a1d766625988d752c63a9587d9ed2&v=4" width="24" alt="Avatar of demesameneshoa"> demesameneshoa
-			</a><br/>
-			Demes Abera Ameneshoa
-		</td>
-		<td>Ahadubit Technologies Plc </td>
-		<td><a href="https://twitter.com/demesabera">demesabera</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>854</td>
 		<td>
 			<a href="https://github.com/amranraja">
 				<img src="https://avatars.githubusercontent.com/u/301527169?s=72&u=784de3d15ba7fe93298c1543f8d8a34652b119a1&v=4" width="24" alt="Avatar of amranraja"> amranraja
@@ -12062,7 +12048,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/ohran9">
 				<img src="https://avatars.githubusercontent.com/u/46476842?s=72&u=0439d0d3ae55cf35aebe29ce74a8bba283cd3441&v=4" width="24" alt="Avatar of ohran9"> ohran9
@@ -12076,7 +12062,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/abrehamgezahegn">
 				<img src="https://avatars.githubusercontent.com/u/41052674?s=72&u=4f056a6fa3a5e33b436ac517857fad9444eab404&v=4" width="24" alt="Avatar of abrehamgezahegn"> abrehamgezahegn
@@ -12090,7 +12076,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/iskewabe">
 				<img src="https://avatars.githubusercontent.com/u/24851739?s=72&u=1868b090c41f8acfe15d8237f43b38967dc95219&v=4" width="24" alt="Avatar of iskewabe"> iskewabe
@@ -12104,35 +12090,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>857</td>
+		<td>
+			<a href="https://github.com/bwakjira">
+				<img src="https://avatars.githubusercontent.com/u/122601548?s=72&u=ce39b0712dc2f42da9c770191ecb1390e9859737&v=4" width="24" alt="Avatar of bwakjira"> bwakjira
+			</a><br/>
+			Bariii
+		</td>
+		<td>Addis Ababa University <br/></td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>858</td>
-		<td>
-			<a href="https://github.com/kiya3300">
-				<img src="https://avatars.githubusercontent.com/u/99829666?s=72&u=397141632ce443e736dd121fd3ca01a36f9569fc&v=4" width="24" alt="Avatar of kiya3300"> kiya3300
-			</a><br/>
-			Abel Yitages Demissie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Abel_ooo">Abel_ooo</a></td>
-		<td>Addis Ababa P.O.BOX 18445</td>
-		<td>8</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>859</td>
-		<td>
-			<a href="https://github.com/AtoBrightSide">
-				<img src="https://avatars.githubusercontent.com/u/61546304?s=72&u=09b16443a96ecda7768fc94984072d0a71f837cb&v=4" width="24" alt="Avatar of AtoBrightSide"> AtoBrightSide
-			</a><br/>
-			Abel Mesele
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abelmesele1">abelmesele1</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>8</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>860</td>
 		<td>
 			<a href="https://github.com/Mekdelawit-21">
 				<img src="https://avatars.githubusercontent.com/u/193547961?s=72&u=8d66858dfc1e5ec9303391fb30433cbb6b7d64d3&v=4" width="24" alt="Avatar of Mekdelawit-21"> Mekdelawit-21
@@ -12146,35 +12118,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>859</td>
 		<td>
-			<a href="https://github.com/HenokNegatu">
-				<img src="https://avatars.githubusercontent.com/u/104715644?s=72&u=8f6c434aa4fd481b2c40200ef2d6ec2f739a843f&v=4" width="24" alt="Avatar of HenokNegatu"> HenokNegatu
+			<a href="https://github.com/Barniva">
+				<img src="https://avatars.githubusercontent.com/u/123116734?s=72&u=a3c887d3d6a1ca0783215bbd73b182dc7b9fb285&v=4" width="24" alt="Avatar of Barniva"> Barniva
 			</a><br/>
-			Henok Negatu
+			Barnabas Endashaw
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>862</td>
-		<td>
-			<a href="https://github.com/Abenezer-Tilahun">
-				<img src="https://avatars.githubusercontent.com/u/93598189?s=72&u=fe19b3a9b52fb42433da0ac97d1eed06041e768d&v=4" width="24" alt="Avatar of Abenezer-Tilahun"> Abenezer-Tilahun
-			</a><br/>
-			No Name
-		</td>
-		<td>Full-stack Software Developer </td>
-		<td><a href="https://twitter.com/AbenezerTilah11">AbenezerTilah11</a></td>
+		<td><a href="https://twitter.com/Barnabasvai19">Barnabasvai19</a></td>
 		<td>Ethiopia</td>
-		<td>4</td>
+		<td>0</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/Dubnationrediat">
 				<img src="https://avatars.githubusercontent.com/u/85253297?s=72&u=0f56b2a2f7280119f974d8d866da77d9574c3b43&v=4" width="24" alt="Avatar of Dubnationrediat"> Dubnationrediat
@@ -12188,21 +12146,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>864</td>
-		<td>
-			<a href="https://github.com/meleyif">
-				<img src="https://avatars.githubusercontent.com/u/117765443?s=72&u=f07f7e27fff5646285b76492b230cf28e500a832&v=4" width="24" alt="Avatar of meleyif"> meleyif
-			</a><br/>
-			Melaku Yifru
-		</td>
-		<td>Gasicha </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>865</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/aysi143">
 				<img src="https://avatars.githubusercontent.com/u/49403558?s=72&u=0e03f20ea0ecbf8c9f8652a43d53a40125a5e44c&v=4" width="24" alt="Avatar of aysi143"> aysi143
@@ -12216,7 +12160,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>862</td>
+		<td>
+			<a href="https://github.com/Abenezer-Tilahun">
+				<img src="https://avatars.githubusercontent.com/u/93598189?s=72&u=fe19b3a9b52fb42433da0ac97d1eed06041e768d&v=4" width="24" alt="Avatar of Abenezer-Tilahun"> Abenezer-Tilahun
+			</a><br/>
+			No Name
+		</td>
+		<td>Full-stack Software Developer </td>
+		<td><a href="https://twitter.com/AbenezerTilah11">AbenezerTilah11</a></td>
+		<td>Ethiopia</td>
+		<td>4</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/amde-et">
 				<img src="https://avatars.githubusercontent.com/u/99601438?s=72&u=35ee944df86f42dbd2a637f653314e6bae566fc7&v=4" width="24" alt="Avatar of amde-et"> amde-et
@@ -12230,21 +12188,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>864</td>
 		<td>
-			<a href="https://github.com/ibsa21">
-				<img src="https://avatars.githubusercontent.com/u/62568756?s=72&u=8cdc4a751a71bcf0c8ccdfcc7b727fd424dd4a7e&v=4" width="24" alt="Avatar of ibsa21"> ibsa21
+			<a href="https://github.com/Tovas7">
+				<img src="https://avatars.githubusercontent.com/u/158458205?s=72&v=4" width="24" alt="Avatar of Tovas7"> Tovas7
 			</a><br/>
-			Ibsa Abraham
+			Muluken Zewdu
 		</td>
-		<td>Software Engineer | Github<br/>Campus<br/>Expert<br/></td>
-		<td><a href="https://twitter.com/AbrahamIbsa">AbrahamIbsa</a></td>
-		<td>Addis Ababa</td>
-		<td>3</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Abeba,Ethiopia</td>
+		<td>5</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/mukerem">
+				<img src="https://avatars.githubusercontent.com/u/33462789?s=72&u=4631fd4d5a788e858a14ac1eee57b0e39acde41f&v=4" width="24" alt="Avatar of mukerem"> mukerem
+			</a><br/>
+			Mukerem Ali
+		</td>
+		<td>Turing </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/NaolB02">
 				<img src="https://avatars.githubusercontent.com/u/106165221?s=72&v=4" width="24" alt="Avatar of NaolB02"> NaolB02
@@ -12254,25 +12226,11 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Addis Ababa University </td>
 		<td><a href="https://twitter.com/BeleteNaol">BeleteNaol</a></td>
 		<td>Ethiopia</td>
-		<td>2</td>
-		<td>5</td>
+		<td>1</td>
+		<td>4</td>
 	</tr>
 	<tr>
-		<td>869</td>
-		<td>
-			<a href="https://github.com/eusme">
-				<img src="https://avatars.githubusercontent.com/u/27368439?s=72&u=af88baa0455ed161d71f6fa7ec6c6ec5157e2a43&v=4" width="24" alt="Avatar of eusme"> eusme
-			</a><br/>
-			Esmael Mohammed
-		</td>
-		<td>Qualliaware Software Sc </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia </td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>870</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/degnethab">
 				<img src="https://avatars.githubusercontent.com/u/201807557?s=72&u=b59f75463048e51d8675a375246cef8e97919a85&v=4" width="24" alt="Avatar of degnethab"> degnethab
@@ -12286,21 +12244,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>871</td>
-		<td>
-			<a href="https://github.com/Nathaniel81">
-				<img src="https://avatars.githubusercontent.com/u/104891061?s=72&u=b561b56ec9a94bfba0b664af6ace19123301c76b&v=4" width="24" alt="Avatar of Nathaniel81"> Nathaniel81
-			</a><br/>
-			Nathaniel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>872</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/Misikir">
 				<img src="https://avatars.githubusercontent.com/u/6078625?s=72&u=9f7c311bb47e0664f006c85b125d6d19e678aa26&v=4" width="24" alt="Avatar of Misikir"> Misikir
@@ -12314,7 +12258,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>869</td>
+		<td>
+			<a href="https://github.com/Nathaniel81">
+				<img src="https://avatars.githubusercontent.com/u/104891061?s=72&u=b561b56ec9a94bfba0b664af6ace19123301c76b&v=4" width="24" alt="Avatar of Nathaniel81"> Nathaniel81
+			</a><br/>
+			Nathaniel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/HaileyesusB">
 				<img src="https://avatars.githubusercontent.com/u/88820045?s=72&v=4" width="24" alt="Avatar of HaileyesusB"> HaileyesusB
@@ -12328,7 +12286,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>871</td>
+		<td>
+			<a href="https://github.com/HenokNegatu">
+				<img src="https://avatars.githubusercontent.com/u/104715644?s=72&u=8f6c434aa4fd481b2c40200ef2d6ec2f739a843f&v=4" width="24" alt="Avatar of HenokNegatu"> HenokNegatu
+			</a><br/>
+			Henok Negatu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/hme73878">
 				<img src="https://avatars.githubusercontent.com/u/66024271?s=72&u=580e9681d2afee1530a63fcd15a03b19ca107a95&v=4" width="24" alt="Avatar of hme73878"> hme73878
@@ -12342,7 +12314,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/nathnaeltk">
 				<img src="https://avatars.githubusercontent.com/u/87467768?s=72&u=ceae61d5eb2c97c669576785bc5e0d0812fc1a14&v=4" width="24" alt="Avatar of nathnaeltk"> nathnaeltk
@@ -12356,7 +12328,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/Semeriuss">
 				<img src="https://avatars.githubusercontent.com/u/50263682?s=72&u=514a96b42e6d4f41cbd577c1d24ab231b4ca8527&v=4" width="24" alt="Avatar of Semeriuss"> Semeriuss
@@ -12370,21 +12342,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>877</td>
-		<td>
-			<a href="https://github.com/markoschalaalx">
-				<img src="https://avatars.githubusercontent.com/u/119012738?s=72&v=4" width="24" alt="Avatar of markoschalaalx"> markoschalaalx
-			</a><br/>
-			Gullalletimes
-		</td>
-		<td>@gullalletimes </td>
-		<td><a href="https://twitter.com/chala_markos">chala_markos</a></td>
-		<td>ethiopia</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>878</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/tamiratdereje">
 				<img src="https://avatars.githubusercontent.com/u/91497780?s=72&u=83c65ef1f3aac9beafc0fa121872c3ea153b9990&v=4" width="24" alt="Avatar of tamiratdereje"> tamiratdereje
@@ -12398,21 +12356,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>876</td>
 		<td>
-			<a href="https://github.com/Estifanos-cpu">
-				<img src="https://avatars.githubusercontent.com/u/188739673?s=72&u=2ba14a31dee62895ce452f19ad1860f36b914ada&v=4" width="24" alt="Avatar of Estifanos-cpu"> Estifanos-cpu
+			<a href="https://github.com/ibsa21">
+				<img src="https://avatars.githubusercontent.com/u/62568756?s=72&u=8cdc4a751a71bcf0c8ccdfcc7b727fd424dd4a7e&v=4" width="24" alt="Avatar of ibsa21"> ibsa21
 			</a><br/>
-			Kidist Zewdu
+			Ibsa Abraham
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar , Ethiopia </td>
+		<td>Software Engineer | Github<br/>Campus<br/>Expert<br/></td>
+		<td><a href="https://twitter.com/AbrahamIbsa">AbrahamIbsa</a></td>
+		<td>Addis Ababa</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/isume295">
 				<img src="https://avatars.githubusercontent.com/u/118125951?s=72&u=b1d4ca62fdff49adc36f354608525b96f493705e&v=4" width="24" alt="Avatar of isume295"> isume295
@@ -12426,7 +12384,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/feyo46">
 				<img src="https://avatars.githubusercontent.com/u/199454461?s=72&u=9eafd32efbd3417227bf2a54905bfbaf0b52bf81&v=4" width="24" alt="Avatar of feyo46"> feyo46
@@ -12436,6 +12394,48 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>Jimma University </td>
 		<td>No Twitter Username</td>
 		<td>Jimma-Ethiopia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/BatiSileshi">
+				<img src="https://avatars.githubusercontent.com/u/104440794?s=72&u=9bb468b86ab415b98c0db639006795536cf2e57b&v=4" width="24" alt="Avatar of BatiSileshi"> BatiSileshi
+			</a><br/>
+			Bati Sileshi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>0</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>880</td>
+		<td>
+			<a href="https://github.com/markoschalaalx">
+				<img src="https://avatars.githubusercontent.com/u/119012738?s=72&v=4" width="24" alt="Avatar of markoschalaalx"> markoschalaalx
+			</a><br/>
+			Gullalletimes
+		</td>
+		<td>@gullalletimes </td>
+		<td><a href="https://twitter.com/chala_markos">chala_markos</a></td>
+		<td>ethiopia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/getdaniel">
+				<img src="https://avatars.githubusercontent.com/u/74586716?s=72&u=7e31481ae2a6052acda22add13557c13a932f3a3&v=4" width="24" alt="Avatar of getdaniel"> getdaniel
+			</a><br/>
+			Daniel Getaneh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -12456,47 +12456,33 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 	<tr>
 		<td>883</td>
 		<td>
-			<a href="https://github.com/abenezer-addisu">
-				<img src="https://avatars.githubusercontent.com/u/105231513?s=72&u=2f439bb17e4cb2b4c0248aaf03498adfd614950d&v=4" width="24" alt="Avatar of abenezer-addisu"> abenezer-addisu
+			<a href="https://github.com/jafuti">
+				<img src="https://avatars.githubusercontent.com/u/16055348?s=72&u=c2f2597fafd7a3af8b315cbb8223074c07ee2dda&v=4" width="24" alt="Avatar of jafuti"> jafuti
 			</a><br/>
-			Abenezer Addisu
+			Jafar Muzeyin
 		</td>
-		<td>Abiam Technologies Plc </td>
-		<td><a href="https://twitter.com/Abiam">Abiam</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
+		<td>@bunna Bank @hilcoe </td>
+		<td><a href="https://twitter.com/JMuzeyin">JMuzeyin</a></td>
+		<td>Addis Ababa</td>
+		<td>3</td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>884</td>
 		<td>
-			<a href="https://github.com/getdaniel">
-				<img src="https://avatars.githubusercontent.com/u/74586716?s=72&u=7e31481ae2a6052acda22add13557c13a932f3a3&v=4" width="24" alt="Avatar of getdaniel"> getdaniel
+			<a href="https://github.com/lealemb">
+				<img src="https://avatars.githubusercontent.com/u/101050207?s=72&u=921f9640e3032b0d5fa728a82057f43e6d946f58&v=4" width="24" alt="Avatar of lealemb"> lealemb
 			</a><br/>
-			Daniel Getaneh
+			Lealem Birhanu 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>3</td>
-		<td>3</td>
+		<td>0</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>885</td>
-		<td>
-			<a href="https://github.com/ethiopique">
-				<img src="https://avatars.githubusercontent.com/u/115791260?s=72&v=4" width="24" alt="Avatar of ethiopique"> ethiopique
-			</a><br/>
-			techdude
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>886</td>
 		<td>
 			<a href="https://github.com/sofomartechnologies">
 				<img src="https://avatars.githubusercontent.com/u/308666773?s=72&u=61e7acda67b741280ba667ada01ac2aed3067ef7&v=4" width="24" alt="Avatar of sofomartechnologies"> sofomartechnologies
@@ -12510,7 +12496,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/MisganaGetachew">
 				<img src="https://avatars.githubusercontent.com/u/97598321?s=72&u=c1975050fe352b77b95ac60e8b7f906a78276546&v=4" width="24" alt="Avatar of MisganaGetachew"> MisganaGetachew
@@ -12524,7 +12510,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/fithamlak">
 				<img src="https://avatars.githubusercontent.com/u/49729863?s=72&u=5163c2f407e903895dbad48e854aa54f338cc1a6&v=4" width="24" alt="Avatar of fithamlak"> fithamlak
@@ -12538,35 +12524,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>889</td>
-		<td>
-			<a href="https://github.com/Estifanos12">
-				<img src="https://avatars.githubusercontent.com/u/88879001?s=72&u=10e2af4321aef6f4e4a29be2cec081090b79323d&v=4" width="24" alt="Avatar of Estifanos12"> Estifanos12
-			</a><br/>
-			Estifanos Gashawtena
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>1</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>890</td>
-		<td>
-			<a href="https://github.com/natnaelabay">
-				<img src="https://avatars.githubusercontent.com/u/51373949?s=72&u=7a4a6ec7d725539f71f21edd1462a114045a8d8d&v=4" width="24" alt="Avatar of natnaelabay"> natnaelabay
-			</a><br/>
-			Natnael(Natti)
-		</td>
-		<td>Software Engineer </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>1</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>891</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/mulugithub">
 				<img src="https://avatars.githubusercontent.com/u/61753075?s=72&u=9ae7a9cb2f6ce2f9dbe745388169c6b4eea1ae49&v=4" width="24" alt="Avatar of mulugithub"> mulugithub
@@ -12580,21 +12538,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>892</td>
-		<td>
-			<a href="https://github.com/BatiSileshi">
-				<img src="https://avatars.githubusercontent.com/u/104440794?s=72&u=9bb468b86ab415b98c0db639006795536cf2e57b&v=4" width="24" alt="Avatar of BatiSileshi"> BatiSileshi
-			</a><br/>
-			Bati Sileshi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>0</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>893</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/girma336">
 				<img src="https://avatars.githubusercontent.com/u/76439737?s=72&u=fa635132b2346921cc6c21fe375d680f5fbb4ca6&v=4" width="24" alt="Avatar of girma336"> girma336
@@ -12608,7 +12552,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/Khalimuha">
 				<img src="https://avatars.githubusercontent.com/u/140382203?s=72&u=73996be2ac4a647b70ef8c013d65bdf143105522&v=4" width="24" alt="Avatar of Khalimuha"> Khalimuha
@@ -12622,7 +12566,35 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>891</td>
+		<td>
+			<a href="https://github.com/alexwork-hu">
+				<img src="https://avatars.githubusercontent.com/u/53939968?s=72&u=7533dc45b23a36a52d907460fc444867a6e2a8eb&v=4" width="24" alt="Avatar of alexwork-hu"> alexwork-hu
+			</a><br/>
+			Alehegn Abetie
+		</td>
+		<td>Insa </td>
+		<td>No Twitter Username</td>
+		<td>Addis ababa</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/AtoBrightSide">
+				<img src="https://avatars.githubusercontent.com/u/61546304?s=72&u=09b16443a96ecda7768fc94984072d0a71f837cb&v=4" width="24" alt="Avatar of AtoBrightSide"> AtoBrightSide
+			</a><br/>
+			Abel Mesele
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abelmesele1">abelmesele1</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/abduadem">
 				<img src="https://avatars.githubusercontent.com/u/117734414?s=72&u=1cfed8bd969ff39a1977e87d45db1f92d412a28b&v=4" width="24" alt="Avatar of abduadem"> abduadem
@@ -12636,7 +12608,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/Eze-Din">
 				<img src="https://avatars.githubusercontent.com/u/70455313?s=72&u=b57851f038bef4f6d0a4e69291de3e2373075043&v=4" width="24" alt="Avatar of Eze-Din"> Eze-Din
@@ -12650,7 +12622,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/kibrug">
 				<img src="https://avatars.githubusercontent.com/u/87245699?s=72&u=b24838caba92fc730a7d1897fb1b26db4a616946&v=4" width="24" alt="Avatar of kibrug"> kibrug
@@ -12664,7 +12636,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/EtSuraDev">
 				<img src="https://avatars.githubusercontent.com/u/168302248?s=72&u=67c89f337438b167f33c41688f0aec458277f7ca&v=4" width="24" alt="Avatar of EtSuraDev"> EtSuraDev
@@ -12678,7 +12650,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/FevenSeyfu">
 				<img src="https://avatars.githubusercontent.com/u/91325016?s=72&u=fc4a008a401ec25536c59668c3ab197f55e3bddd&v=4" width="24" alt="Avatar of FevenSeyfu"> FevenSeyfu
@@ -12692,7 +12664,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/henatan99">
 				<img src="https://avatars.githubusercontent.com/u/64894927?s=72&u=7e43c80f7827c638d7e6eb45ca8bb83f4091d8cb&v=4" width="24" alt="Avatar of henatan99"> henatan99
@@ -12706,7 +12678,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/Zelalem1222">
 				<img src="https://avatars.githubusercontent.com/u/91027080?s=72&u=669fb5f1e398004699ac22b110e5a1c500a332ef&v=4" width="24" alt="Avatar of Zelalem1222"> Zelalem1222
@@ -12720,7 +12692,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/mohaali482">
 				<img src="https://avatars.githubusercontent.com/u/68723236?s=72&u=7ee6a9d4cd2586230887a0bc3ef9e4396e712bfa&v=4" width="24" alt="Avatar of mohaali482"> mohaali482
@@ -12734,7 +12706,21 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>901</td>
+		<td>
+			<a href="https://github.com/natnaelabay">
+				<img src="https://avatars.githubusercontent.com/u/51373949?s=72&u=7a4a6ec7d725539f71f21edd1462a114045a8d8d&v=4" width="24" alt="Avatar of natnaelabay"> natnaelabay
+			</a><br/>
+			Natnael(Natti)
+		</td>
+		<td>Software Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/ragangithub">
 				<img src="https://avatars.githubusercontent.com/u/109742772?s=72&u=7d6a2abd49c30424939085dcfb9d9539e1469954&v=4" width="24" alt="Avatar of ragangithub"> ragangithub
@@ -12748,7 +12734,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/ProgrammingInsider">
 				<img src="https://avatars.githubusercontent.com/u/93406541?s=72&u=868f6f1a0f67a0bc0b37236d5d9421bf9ccc9ab3&v=4" width="24" alt="Avatar of ProgrammingInsider"> ProgrammingInsider
@@ -12762,7 +12748,7 @@ There are `985 users`  in Ethiopia. You need at least `20 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/Samsungm13">
 				<img src="https://avatars.githubusercontent.com/u/186726632?s=72&v=4" width="24" alt="Avatar of Samsungm13"> Samsungm13
