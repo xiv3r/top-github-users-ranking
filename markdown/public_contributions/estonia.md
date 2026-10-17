@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `public contributions` by users in Estonia on `2026/9/19 1:28 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `public contributions` by users in Estonia on `2026/10/17 7:40 PM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `891 users`  in Estonia. You need at least `15 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Estonia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ersinkoc">
 				<img src="https://avatars.githubusercontent.com/u/408479?s=72&v=4" width="24" alt="Avatar of ersinkoc"> ersinkoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ersinkoc">Copy rank badge</a><br/>
 			Ersin KOÇ
 		</td>
 		<td>Ecostack Technology Oü </td>
@@ -122,7 +124,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/livenson">
 				<img src="https://avatars.githubusercontent.com/u/524168?s=72&v=4" width="24" alt="Avatar of livenson"> livenson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#livenson">Copy rank badge</a><br/>
 			Ilja Livenson
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rorychatt">
 				<img src="https://avatars.githubusercontent.com/u/40919111?s=72&u=261aab3eb8f7c8e881e42f6f580f888a99d87c09&v=4" width="24" alt="Avatar of rorychatt"> rorychatt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rorychatt">Copy rank badge</a><br/>
 			Mikael Rinne
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/v3rm0n">
 				<img src="https://avatars.githubusercontent.com/u/1155022?s=72&v=4" width="24" alt="Avatar of v3rm0n"> v3rm0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#v3rm0n">Copy rank badge</a><br/>
 			Maido Käära
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Wirasm">
 				<img src="https://avatars.githubusercontent.com/u/152263317?s=72&u=028826bd2aef067a4521dd58cd2562e667bf9178&v=4" width="24" alt="Avatar of Wirasm"> Wirasm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Wirasm">Copy rank badge</a><br/>
 			Rasmus Widing
 		</td>
 		<td>Widinglabs </td>
@@ -174,7 +176,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tot-ra">
 				<img src="https://avatars.githubusercontent.com/u/445122?s=72&u=753b38000d9e8ec6208a0ca1eb3796a4a8d40831&v=4" width="24" alt="Avatar of tot-ra"> tot-ra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tot-ra">Copy rank badge</a><br/>
 			Artjom Kurapov
 		</td>
 		<td>@gratheon </td>
@@ -187,7 +189,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AmbientLighter">
 				<img src="https://avatars.githubusercontent.com/u/228225?s=72&u=fc77ea38ae4ca12fb30f76f5541d6d436c60eaee&v=4" width="24" alt="Avatar of AmbientLighter"> AmbientLighter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AmbientLighter">Copy rank badge</a><br/>
 			Viktor Mirieiev
 		</td>
 		<td>Opennode </td>
@@ -200,7 +202,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ddanila">
 				<img src="https://avatars.githubusercontent.com/u/7907252?s=72&u=5c12fd8fe0d1e0cf6d7d97956190ed7566a3fd2e&v=4" width="24" alt="Avatar of ddanila"> ddanila
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ddanila">Copy rank badge</a><br/>
 			Danila Sukharev
 		</td>
 		<td>No Company</td>
@@ -213,7 +215,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ddon">
 				<img src="https://avatars.githubusercontent.com/u/187798?s=72&v=4" width="24" alt="Avatar of ddon"> ddon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ddon">Copy rank badge</a><br/>
 			Dmitri Don
 		</td>
 		<td>Fotki Inc </td>
@@ -226,7 +228,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kpavlov">
 				<img src="https://avatars.githubusercontent.com/u/1517853?s=72&u=83dc2487e50a607f9ce696fd48acb72e2bd7ef1a&v=4" width="24" alt="Avatar of kpavlov"> kpavlov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kpavlov">Copy rank badge</a><br/>
 			Konstantin Pavlov
 		</td>
 		<td>No Company</td>
@@ -239,7 +241,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/egonelbre">
 				<img src="https://avatars.githubusercontent.com/u/192964?s=72&u=c91ce1b8b67fac5928e527d2f0a9555307040e54&v=4" width="24" alt="Avatar of egonelbre"> egonelbre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#egonelbre">Copy rank badge</a><br/>
 			Egon Elbre
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andris9">
 				<img src="https://avatars.githubusercontent.com/u/132242?s=72&u=47268e9092f5517bb4ac985efea75e4953e8d908&v=4" width="24" alt="Avatar of andris9"> andris9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andris9">Copy rank badge</a><br/>
 			Andris Reinman
 		</td>
 		<td>Emailengine.app (@postalsys ) </td>
@@ -265,7 +267,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/asolntsev">
 				<img src="https://avatars.githubusercontent.com/u/279773?s=72&u=c216b2e2075954e01fdd3f5c05ae840f39718e49&v=4" width="24" alt="Avatar of asolntsev"> asolntsev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#asolntsev">Copy rank badge</a><br/>
 			Andrei Solntsev
 		</td>
 		<td>Codeborne </td>
@@ -278,7 +280,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/zbalkan">
 				<img src="https://avatars.githubusercontent.com/u/39981909?s=72&u=f60d5a3e0f1d5a280128a9551c9ba1984256844f&v=4" width="24" alt="Avatar of zbalkan"> zbalkan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#zbalkan">Copy rank badge</a><br/>
 			Zafer Balkan
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MastaP">
 				<img src="https://avatars.githubusercontent.com/u/185344?s=72&u=c5c997f4224a67b0481099d883030bad6fc3ca85&v=4" width="24" alt="Avatar of MastaP"> MastaP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MastaP">Copy rank badge</a><br/>
 			Pavel Grigorenko
 		</td>
 		<td>Institute Of Cybernetics </td>
@@ -304,7 +306,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/meigo">
 				<img src="https://avatars.githubusercontent.com/u/230715?s=72&u=3480cd0e65dbc68e87817c97c866e811ee75b55d&v=4" width="24" alt="Avatar of meigo"> meigo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#meigo">Copy rank badge</a><br/>
 			Meigo Kukk
 		</td>
 		<td>No Company</td>
@@ -317,7 +319,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/onnimonni">
 				<img src="https://avatars.githubusercontent.com/u/5691777?s=72&u=1f7c59efa933c53364dbe601adff366fafce180b&v=4" width="24" alt="Avatar of onnimonni"> onnimonni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#onnimonni">Copy rank badge</a><br/>
 			Onni Hakala
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/azdanov">
 				<img src="https://avatars.githubusercontent.com/u/6123841?s=72&u=7557969326559c5565afa6ff95020bb4b4d0e58e&v=4" width="24" alt="Avatar of azdanov"> azdanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#azdanov">Copy rank badge</a><br/>
 			Anton Ždanov
 		</td>
 		<td>No Company</td>
@@ -343,7 +345,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fobo66">
 				<img src="https://avatars.githubusercontent.com/u/4471821?s=72&u=09b14528030137364b538fb70db37c8231ac2217&v=4" width="24" alt="Avatar of fobo66"> fobo66
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fobo66">Copy rank badge</a><br/>
 			Andrei Mukamolau
 		</td>
 		<td>Bamboo Apps </td>
@@ -356,7 +358,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vruusmann">
 				<img src="https://avatars.githubusercontent.com/u/3462679?s=72&u=a41192a6348ec20d83448aa89cdb372d9f0e444e&v=4" width="24" alt="Avatar of vruusmann"> vruusmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vruusmann">Copy rank badge</a><br/>
 			Villu Ruusmann
 		</td>
 		<td>Openscoring Ltd. </td>
@@ -369,7 +371,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/angryziber">
 				<img src="https://avatars.githubusercontent.com/u/882016?s=72&u=e8186201506a1c091104b1ec8c24b0e269a449ea&v=4" width="24" alt="Avatar of angryziber"> angryziber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#angryziber">Copy rank badge</a><br/>
 			Anton Keks
 		</td>
 		<td>Codeborne </td>
@@ -382,7 +384,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dhamidi">
 				<img src="https://avatars.githubusercontent.com/u/817038?s=72&u=82486f65a2f172a41e27d3f5083b35f87fd2c04e&v=4" width="24" alt="Avatar of dhamidi"> dhamidi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dhamidi">Copy rank badge</a><br/>
 			Dario Hamidi
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sandersaares">
 				<img src="https://avatars.githubusercontent.com/u/9914262?s=72&u=6d397d57ea18944924ce4d9c107b7dad87ff0c0e&v=4" width="24" alt="Avatar of sandersaares"> sandersaares
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sandersaares">Copy rank badge</a><br/>
 			Sander Saares
 		</td>
 		<td>Microsoft </td>
@@ -408,7 +410,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rinat-enikeev">
 				<img src="https://avatars.githubusercontent.com/u/722716?s=72&u=e93fb2797d5312b2812b6f78dc740d2074462a44&v=4" width="24" alt="Avatar of rinat-enikeev"> rinat-enikeev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rinat-enikeev">Copy rank badge</a><br/>
 			Rinat Enikeev
 		</td>
 		<td>No Company</td>
@@ -421,7 +423,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sim642">
 				<img src="https://avatars.githubusercontent.com/u/378740?s=72&u=6b59260cbe8a455b82d116c6964ad079687d5da0&v=4" width="24" alt="Avatar of sim642"> sim642
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sim642">Copy rank badge</a><br/>
 			Simmo Saan
 		</td>
 		<td>University Of Tartu </td>
@@ -434,7 +436,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrii-bodnar">
 				<img src="https://avatars.githubusercontent.com/u/29282228?s=72&u=34149de60c69839c82c2727108572d88aabf761b&v=4" width="24" alt="Avatar of andrii-bodnar"> andrii-bodnar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andrii-bodnar">Copy rank badge</a><br/>
 			Andrii Bodnar
 		</td>
 		<td>@crowdin  </td>
@@ -447,7 +449,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/xavierlyu">
 				<img src="https://avatars.githubusercontent.com/u/9938360?s=72&v=4" width="24" alt="Avatar of xavierlyu"> xavierlyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#xavierlyu">Copy rank badge</a><br/>
 			Xavier Lyu
 		</td>
 		<td>No Company</td>
@@ -460,7 +462,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bxcodec">
 				<img src="https://avatars.githubusercontent.com/u/11002383?s=72&v=4" width="24" alt="Avatar of bxcodec"> bxcodec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bxcodec">Copy rank badge</a><br/>
 			Iman Tumorang
 		</td>
 		<td>@softwarearchitectid </td>
@@ -473,7 +475,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pearu">
 				<img src="https://avatars.githubusercontent.com/u/402156?s=72&u=288a1f206a151f9e2b69f3c0ce11848d3381943e&v=4" width="24" alt="Avatar of pearu"> pearu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pearu">Copy rank badge</a><br/>
 			Pearu Peterson
 		</td>
 		<td>Openteams </td>
@@ -486,7 +488,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vmikk">
 				<img src="https://avatars.githubusercontent.com/u/7162120?s=72&u=2fdf29468e1e907e3c65d7d8965ff4b33df6489b&v=4" width="24" alt="Avatar of vmikk"> vmikk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vmikk">Copy rank badge</a><br/>
 			Vladimir Mikryukov
 		</td>
 		<td>University Of Tartu </td>
@@ -499,7 +501,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/laur89">
 				<img src="https://avatars.githubusercontent.com/u/4551018?s=72&u=103a1ddeffa035cb8c27979e53087497b26bb4f5&v=4" width="24" alt="Avatar of laur89"> laur89
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#laur89">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/julianwiedmann">
 				<img src="https://avatars.githubusercontent.com/u/24281077?s=72&u=62ca62da0511482f7c9cfe40255ded70bd95ecac&v=4" width="24" alt="Avatar of julianwiedmann"> julianwiedmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#julianwiedmann">Copy rank badge</a><br/>
 			Julian Wiedmann
 		</td>
 		<td>@isovalent  </td>
@@ -525,7 +527,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/askonomm">
 				<img src="https://avatars.githubusercontent.com/u/84135165?s=72&u=0cbd63b60d3c9e65a61b79d0bccd63e86adbe2b5&v=4" width="24" alt="Avatar of askonomm"> askonomm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#askonomm">Copy rank badge</a><br/>
 			Asko Nõmm
 		</td>
 		<td>Codescene </td>
@@ -538,7 +540,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mart-mihkel">
 				<img src="https://avatars.githubusercontent.com/u/73405010?s=72&u=5775160771df32f8902fe288fbcf42c80e2757e9&v=4" width="24" alt="Avatar of mart-mihkel"> mart-mihkel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mart-mihkel">Copy rank badge</a><br/>
 			Mart-Mihkel Aun
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomkabel">
 				<img src="https://avatars.githubusercontent.com/u/191489531?s=72&u=33e976580ed6ea82cd06948469d00e037812040e&v=4" width="24" alt="Avatar of tomkabel"> tomkabel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tomkabel">Copy rank badge</a><br/>
 			Tom Kristian Abel
 		</td>
 		<td>Proksiabel Oü </td>
@@ -564,7 +566,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Soupstraw">
 				<img src="https://avatars.githubusercontent.com/u/6863341?s=72&u=a5f966e6adf7bdd862db63de29bf144bcb2b5eda&v=4" width="24" alt="Avatar of Soupstraw"> Soupstraw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Soupstraw">Copy rank badge</a><br/>
 			Joosep Jääger
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Braffolk">
 				<img src="https://avatars.githubusercontent.com/u/7544836?s=72&u=e2bd13b36b1991d89fe56b63a704f0f6a8676c0c&v=4" width="24" alt="Avatar of Braffolk"> Braffolk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Braffolk">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -590,7 +592,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lauriro">
 				<img src="https://avatars.githubusercontent.com/u/142360?s=72&v=4" width="24" alt="Avatar of lauriro"> lauriro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lauriro">Copy rank badge</a><br/>
 			Lauri Rooden
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonis2">
 				<img src="https://avatars.githubusercontent.com/u/9265556?s=72&u=4822ea1383074b2b805d2baca5c2a0962798c578&v=4" width="24" alt="Avatar of tonis2"> tonis2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tonis2">Copy rank badge</a><br/>
 			Tonis
 		</td>
 		<td>Paysure </td>
@@ -616,7 +618,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErkoRisthein">
 				<img src="https://avatars.githubusercontent.com/u/294801?s=72&u=528a1723182a6cc712c6845c33d2f4c4868c4cb7&v=4" width="24" alt="Avatar of ErkoRisthein"> ErkoRisthein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ErkoRisthein">Copy rank badge</a><br/>
 			Erko Risthein
 		</td>
 		<td>@producement.com </td>
@@ -629,7 +631,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/belomaxorka">
 				<img src="https://avatars.githubusercontent.com/u/54049465?s=72&u=17440344278c422233a75a243591eb5b662a0d0b&v=4" width="24" alt="Avatar of belomaxorka"> belomaxorka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#belomaxorka">Copy rank badge</a><br/>
 			Roman Kelesidis
 		</td>
 		<td>No Company</td>
@@ -642,7 +644,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/n0umen0n">
 				<img src="https://avatars.githubusercontent.com/u/46645013?s=72&u=5540dde01fd853cc89104a3a71c19f096ecc8549&v=4" width="24" alt="Avatar of n0umen0n"> n0umen0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#n0umen0n">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/valgur">
 				<img src="https://avatars.githubusercontent.com/u/1778160?s=72&u=09b9504bdc695d5adbe1c0c6ffd2b3ce5cc5bd2e&v=4" width="24" alt="Avatar of valgur"> valgur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#valgur">Copy rank badge</a><br/>
 			Martin Valgur
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/stefanoamorelli">
 				<img src="https://avatars.githubusercontent.com/u/10986064?s=72&u=12e98e0ed87cf2a840cf9aa9983f90617a3295a3&v=4" width="24" alt="Avatar of stefanoamorelli"> stefanoamorelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#stefanoamorelli">Copy rank badge</a><br/>
 			Stefano Amorelli
 		</td>
 		<td>No Company</td>
@@ -681,7 +683,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/laevandus">
 				<img src="https://avatars.githubusercontent.com/u/1469907?s=72&u=35120faf18801d25397a98997323dbf3322153e1&v=4" width="24" alt="Avatar of laevandus"> laevandus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#laevandus">Copy rank badge</a><br/>
 			Toomas Vahter
 		</td>
 		<td>No Company</td>
@@ -694,7 +696,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cyberalien">
 				<img src="https://avatars.githubusercontent.com/u/822287?s=72&u=f007c6172193aec38c5c8c28a0c453873304d669&v=4" width="24" alt="Avatar of cyberalien"> cyberalien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cyberalien">Copy rank badge</a><br/>
 			Vjacheslav Trushkin
 		</td>
 		<td>@iconify  </td>
@@ -707,7 +709,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/henno">
 				<img src="https://avatars.githubusercontent.com/u/92807?s=72&u=71fd81511218134a39c8b34a936323f55d130290&v=4" width="24" alt="Avatar of henno"> henno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#henno">Copy rank badge</a><br/>
 			Henno Täht
 		</td>
 		<td>Viljandi Kutseõppekeskus </td>
@@ -720,7 +722,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lnagel">
 				<img src="https://avatars.githubusercontent.com/u/438434?s=72&u=86bd39fdc064053407ac0bd2c746612203167edd&v=4" width="24" alt="Avatar of lnagel"> lnagel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lnagel">Copy rank badge</a><br/>
 			Lenno Nagel
 		</td>
 		<td>Namespace </td>
@@ -733,7 +735,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pavel-kirienko">
 				<img src="https://avatars.githubusercontent.com/u/3298404?s=72&u=fb476b9c241eee9eef4f85325a444882ada4355e&v=4" width="24" alt="Avatar of pavel-kirienko"> pavel-kirienko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pavel-kirienko">Copy rank badge</a><br/>
 			Pavel Kirienko
 		</td>
 		<td>@zubax  </td>
@@ -746,7 +748,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/moiskillnadne">
 				<img src="https://avatars.githubusercontent.com/u/45964820?s=72&u=312f7e9be773f61a1d0693967f2466833cbd6b9e&v=4" width="24" alt="Avatar of moiskillnadne"> moiskillnadne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#moiskillnadne">Copy rank badge</a><br/>
 			Viktor Riabkov
 		</td>
 		<td>Sciencesoft </td>
@@ -759,7 +761,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/LarsEckart">
 				<img src="https://avatars.githubusercontent.com/u/4414802?s=72&u=aeed7d496d3419c37f22f47a5714107c512b87d4&v=4" width="24" alt="Avatar of LarsEckart"> LarsEckart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#LarsEckart">Copy rank badge</a><br/>
 			Lars Eckart
 		</td>
 		<td>No Company</td>
@@ -772,7 +774,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/raydac">
 				<img src="https://avatars.githubusercontent.com/u/3008810?s=72&u=124cce57f73a7823521cb47ba0cc5c122e194ea8&v=4" width="24" alt="Avatar of raydac"> raydac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#raydac">Copy rank badge</a><br/>
 			Igor Maznitsa
 		</td>
 		<td>Playtech Estonia Oü </td>
@@ -785,7 +787,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/argoroots">
 				<img src="https://avatars.githubusercontent.com/u/783523?s=72&v=4" width="24" alt="Avatar of argoroots"> argoroots
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#argoroots">Copy rank badge</a><br/>
 			Argo Roots
 		</td>
 		<td>No Company</td>
@@ -798,7 +800,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/EXG1O">
 				<img src="https://avatars.githubusercontent.com/u/77574092?s=72&u=83de9c58a2b751fa6b729e0a1538e92cc5174d8d&v=4" width="24" alt="Avatar of EXG1O"> EXG1O
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#EXG1O">Copy rank badge</a><br/>
 			Nikita Borodenko
 		</td>
 		<td>Exg1o </td>
@@ -811,7 +813,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/toomastahves">
 				<img src="https://avatars.githubusercontent.com/u/7262443?s=72&u=443bdac01be9e295b864c80c9e4db7f92bf5ef25&v=4" width="24" alt="Avatar of toomastahves"> toomastahves
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#toomastahves">Copy rank badge</a><br/>
 			Toomas Tahves
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bolkhovsky">
 				<img src="https://avatars.githubusercontent.com/u/163018?s=72&u=072ec9b0331508a2a52126753f85b59d7acc840c&v=4" width="24" alt="Avatar of bolkhovsky"> bolkhovsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bolkhovsky">Copy rank badge</a><br/>
 			Ilya B.
 		</td>
 		<td>No Company</td>
@@ -837,7 +839,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/visualGravitySense">
 				<img src="https://avatars.githubusercontent.com/u/26278690?s=72&u=b94bae52a0d43fa17a08f2e789e9745db3418d58&v=4" width="24" alt="Avatar of visualGravitySense"> visualGravitySense
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#visualGravitySense">Copy rank badge</a><br/>
 			Dmitri Gornakov
 		</td>
 		<td>Designlytics </td>
@@ -850,7 +852,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuupola">
 				<img src="https://avatars.githubusercontent.com/u/21913?s=72&u=568a9764d5e742f5bc67f4233c8d0830bbb3ec8f&v=4" width="24" alt="Avatar of tuupola"> tuupola
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tuupola">Copy rank badge</a><br/>
 			Mika Tuupola
 		</td>
 		<td>Kakotron Oy </td>
@@ -863,7 +865,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ScarletKuro">
 				<img src="https://avatars.githubusercontent.com/u/19953225?s=72&u=0b1139188a0e3e9fa36f76d7371e9290343a1c7e&v=4" width="24" alt="Avatar of ScarletKuro"> ScarletKuro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ScarletKuro">Copy rank badge</a><br/>
 			Artyom M.
 		</td>
 		<td>Tallink </td>
@@ -876,7 +878,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/TonisOrmisson">
 				<img src="https://avatars.githubusercontent.com/u/6357451?s=72&v=4" width="24" alt="Avatar of TonisOrmisson"> TonisOrmisson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#TonisOrmisson">Copy rank badge</a><br/>
 			Tõnis Ormisson
 		</td>
 		<td>Kood Kolm Oü </td>
@@ -889,7 +891,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kasparpalgi">
 				<img src="https://avatars.githubusercontent.com/u/71261121?s=72&u=ef96ae36e7c012c902b34a15937c6f395be65c49&v=4" width="24" alt="Avatar of kasparpalgi"> kasparpalgi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kasparpalgi">Copy rank badge</a><br/>
 			Kaspar L. Palgi
 		</td>
 		<td>No Company</td>
@@ -902,7 +904,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tab">
 				<img src="https://avatars.githubusercontent.com/u/67445?s=72&u=be1cee12393f3fef6181e129c1c350c60e6e4747&v=4" width="24" alt="Avatar of tab"> tab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tab">Copy rank badge</a><br/>
 			Anton Tukhfatullin
 		</td>
 		<td>No Company</td>
@@ -915,7 +917,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cool-japan">
 				<img src="https://avatars.githubusercontent.com/u/75523087?s=72&u=97ff7bf0be383b369c65601653e93315415604c6&v=4" width="24" alt="Avatar of cool-japan"> cool-japan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cool-japan">Copy rank badge</a><br/>
 			KitaSan
 		</td>
 		<td>Cooljapan Ou </td>
@@ -928,7 +930,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mostafasoufi">
 				<img src="https://avatars.githubusercontent.com/u/701520?s=72&u=9d63b990208e3616bc02ade3400d586d52a4f9b1&v=4" width="24" alt="Avatar of mostafasoufi"> mostafasoufi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mostafasoufi">Copy rank badge</a><br/>
 			Mostafa Soufi
 		</td>
 		<td>Veronalabs </td>
@@ -941,7 +943,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/phcurado">
 				<img src="https://avatars.githubusercontent.com/u/21186511?s=72&u=185654b945786277a8bfdd108decde647c919952&v=4" width="24" alt="Avatar of phcurado"> phcurado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#phcurado">Copy rank badge</a><br/>
 			Paulo Curado
 		</td>
 		<td>@incard </td>
@@ -954,7 +956,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/carlrannaberg">
 				<img src="https://avatars.githubusercontent.com/u/2211224?s=72&u=a78aa098bb54d1b3d6cb5431af13ef9a39d84052&v=4" width="24" alt="Avatar of carlrannaberg"> carlrannaberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#carlrannaberg">Copy rank badge</a><br/>
 			Carl Rannaberg
 		</td>
 		<td>No Company</td>
@@ -967,7 +969,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jpata">
 				<img src="https://avatars.githubusercontent.com/u/69717?s=72&u=6d4d4453f3741c778bfa7696cc66feb41ae6b257&v=4" width="24" alt="Avatar of jpata"> jpata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jpata">Copy rank badge</a><br/>
 			Joosep Pata
 		</td>
 		<td>Nicpb / Cern </td>
@@ -980,7 +982,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/BatteredBunny">
 				<img src="https://avatars.githubusercontent.com/u/52951851?s=72&u=17ac8adb1515519670bdbde564c7378c7f8bf527&v=4" width="24" alt="Avatar of BatteredBunny"> BatteredBunny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#BatteredBunny">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/PuuRaidur">
 				<img src="https://avatars.githubusercontent.com/u/101832153?s=72&u=540e099aae3eb1965381f7ef8822e79f976bf723&v=4" width="24" alt="Avatar of PuuRaidur"> PuuRaidur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#PuuRaidur">Copy rank badge</a><br/>
 			Georg Kaasik
 		</td>
 		<td>//kood </td>
@@ -1006,7 +1008,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/oisincoveney">
 				<img src="https://avatars.githubusercontent.com/u/25306947?s=72&u=c044748529fb7525ef84f666daed463babf8c3f8&v=4" width="24" alt="Avatar of oisincoveney"> oisincoveney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#oisincoveney">Copy rank badge</a><br/>
 			Oisin Coveney
 		</td>
 		<td>No Company</td>
@@ -1019,7 +1021,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nene">
 				<img src="https://avatars.githubusercontent.com/u/118201?s=72&u=3e244b9adbedcb5755aa240c65156b9f7f26b6ce&v=4" width="24" alt="Avatar of nene"> nene
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nene">Copy rank badge</a><br/>
 			Rene Saarsoo
 		</td>
 		<td>No Company</td>
@@ -1032,7 +1034,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RankoR">
 				<img src="https://avatars.githubusercontent.com/u/71142?s=72&u=8caf002dc09bc4c7459a2b061216cdacdcde3d2f&v=4" width="24" alt="Avatar of RankoR"> RankoR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RankoR">Copy rank badge</a><br/>
 			Artem Smirnov
 		</td>
 		<td>@actinis, @grapheneos </td>
@@ -1045,7 +1047,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kongaskristjan">
 				<img src="https://avatars.githubusercontent.com/u/22481560?s=72&u=6e9b3954fcfff6f844f97642d29224db7be0c494&v=4" width="24" alt="Avatar of kongaskristjan"> kongaskristjan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kongaskristjan">Copy rank badge</a><br/>
 			Kristjan Kongas
 		</td>
 		<td>No Company</td>
@@ -1058,7 +1060,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/m4tveevm">
 				<img src="https://avatars.githubusercontent.com/u/43579963?s=72&u=f9b746b04253a016b5d10dff02f85602925b8215&v=4" width="24" alt="Avatar of m4tveevm"> m4tveevm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#m4tveevm">Copy rank badge</a><br/>
 			Mihhail Matvejev
 		</td>
 		<td>No Company</td>
@@ -1071,7 +1073,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Rig14">
 				<img src="https://avatars.githubusercontent.com/u/41113390?s=72&u=038bd4e945062d503bb169e2c0a2ff000ac7a7ce&v=4" width="24" alt="Avatar of Rig14"> Rig14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Rig14">Copy rank badge</a><br/>
 			Rihard Rivis
 		</td>
 		<td>Pikker Development </td>
@@ -1084,7 +1086,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ojousima">
 				<img src="https://avatars.githubusercontent.com/u/2360368?s=72&v=4" width="24" alt="Avatar of ojousima"> ojousima
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ojousima">Copy rank badge</a><br/>
 			Otso Jousimaa
 		</td>
 		<td>No Company</td>
@@ -1097,7 +1099,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/harrisiirak">
 				<img src="https://avatars.githubusercontent.com/u/185315?s=72&u=8197cb1f48eefce3360c050ab85b700dbd12ee62&v=4" width="24" alt="Avatar of harrisiirak"> harrisiirak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#harrisiirak">Copy rank badge</a><br/>
 			Harri Siirak
 		</td>
 		<td>Nodeswat </td>
@@ -1110,7 +1112,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MartinEesmaa">
 				<img src="https://avatars.githubusercontent.com/u/88035011?s=72&u=e5025558fa64bc86d88b29e912ff38d887518180&v=4" width="24" alt="Avatar of MartinEesmaa"> MartinEesmaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MartinEesmaa">Copy rank badge</a><br/>
 			Martin Eesmaa
 		</td>
 		<td>Embassy Of Estonia In<br/>Australia<br/></td>
@@ -1123,7 +1125,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kasparkallas">
 				<img src="https://avatars.githubusercontent.com/u/10894666?s=72&u=65f27634921c421a1fb2c88c95fc5c2f7382aca1&v=4" width="24" alt="Avatar of kasparkallas"> kasparkallas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kasparkallas">Copy rank badge</a><br/>
 			Kaspar Kallas
 		</td>
 		<td>@superfluid-finance  </td>
@@ -1136,7 +1138,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/worthant">
 				<img src="https://avatars.githubusercontent.com/u/43885024?s=72&u=3fa480b37b81607380a50d1fb9c047094025c6a6&v=4" width="24" alt="Avatar of worthant"> worthant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#worthant">Copy rank badge</a><br/>
 			Boris Dvorkin 
 		</td>
 		<td>@atomicbot-ai @imtjl </td>
@@ -1149,7 +1151,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/madisp">
 				<img src="https://avatars.githubusercontent.com/u/1147723?s=72&v=4" width="24" alt="Avatar of madisp"> madisp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#madisp">Copy rank badge</a><br/>
 			Madis Pink
 		</td>
 		<td>Emu Herder @emulator-wtf <br/></td>
@@ -1162,7 +1164,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tarmoj">
 				<img src="https://avatars.githubusercontent.com/u/7684691?s=72&u=2fc5e25c47fb36f314dbe043cfe1fb574e9ce97f&v=4" width="24" alt="Avatar of tarmoj"> tarmoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tarmoj">Copy rank badge</a><br/>
 			Tarmo Johannes
 		</td>
 		<td>No Company</td>
@@ -1175,7 +1177,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Param-Harrison">
 				<img src="https://avatars.githubusercontent.com/u/2607519?s=72&u=8b6d2797a1fc85ba39d26da491aa752b50c9a65d&v=4" width="24" alt="Avatar of Param-Harrison"> Param-Harrison
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Param-Harrison">Copy rank badge</a><br/>
 			Paramanantham Harrison
 		</td>
 		<td>@learnwithparam </td>
@@ -1188,7 +1190,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/schipiga">
 				<img src="https://avatars.githubusercontent.com/u/1479651?s=72&u=2e184c3d0314ecd8e6a5752d6d0dd021c3e6d48e&v=4" width="24" alt="Avatar of schipiga"> schipiga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#schipiga">Copy rank badge</a><br/>
 			Sergei Chipiga
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KristerV">
 				<img src="https://avatars.githubusercontent.com/u/2750622?s=72&v=4" width="24" alt="Avatar of KristerV"> KristerV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KristerV">Copy rank badge</a><br/>
 			Krister Viirsaar
 		</td>
 		<td>No Company</td>
@@ -1214,7 +1216,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/reosarevok">
 				<img src="https://avatars.githubusercontent.com/u/1069224?s=72&u=b27818d391092e555bc58e9172b8c9212a00472d&v=4" width="24" alt="Avatar of reosarevok"> reosarevok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#reosarevok">Copy rank badge</a><br/>
 			Nicolás Tamargo
 		</td>
 		<td>@metabrainz  </td>
@@ -1227,7 +1229,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cetagostini">
 				<img src="https://avatars.githubusercontent.com/u/59846724?s=72&u=b83bc2d515f6775edc11c8f8168e955df985db2e&v=4" width="24" alt="Avatar of cetagostini"> cetagostini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cetagostini">Copy rank badge</a><br/>
 			Carlos Trujillo
 		</td>
 		<td>No Company</td>
@@ -1240,7 +1242,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sjaanus">
 				<img src="https://avatars.githubusercontent.com/u/964450?s=72&u=68f3cd2f97206d867c1e4deeb18a208f5be08b96&v=4" width="24" alt="Avatar of sjaanus"> sjaanus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sjaanus">Copy rank badge</a><br/>
 			Jaanus Sellin
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/xStrom">
 				<img src="https://avatars.githubusercontent.com/u/754881?s=72&v=4" width="24" alt="Avatar of xStrom"> xStrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#xStrom">Copy rank badge</a><br/>
 			Kaur Kuut
 		</td>
 		<td>Oü Nevermore </td>
@@ -1266,7 +1268,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/thomasklemm">
 				<img src="https://avatars.githubusercontent.com/u/1100176?s=72&v=4" width="24" alt="Avatar of thomasklemm"> thomasklemm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#thomasklemm">Copy rank badge</a><br/>
 			Thomas Klemm
 		</td>
 		<td>No Company</td>
@@ -1279,7 +1281,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ristik">
 				<img src="https://avatars.githubusercontent.com/u/523116?s=72&v=4" width="24" alt="Avatar of ristik"> ristik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ristik">Copy rank badge</a><br/>
 			Risto Laanoja
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RedFox20">
 				<img src="https://avatars.githubusercontent.com/u/1321685?s=72&u=015a849e2aac7b5d9e6bc22e8e169cf6906cdfc6&v=4" width="24" alt="Avatar of RedFox20"> RedFox20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RedFox20">Copy rank badge</a><br/>
 			Jorma
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ocrampete16">
 				<img src="https://avatars.githubusercontent.com/u/12030896?s=72&v=4" width="24" alt="Avatar of ocrampete16"> ocrampete16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ocrampete16">Copy rank badge</a><br/>
 			Marco Petersen
 		</td>
 		<td>@microsoft </td>
@@ -1318,7 +1320,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ieviev">
 				<img src="https://avatars.githubusercontent.com/u/36763595?s=72&u=afe5b1ce53ccaa247d164669dfb0728d1365d1b4&v=4" width="24" alt="Avatar of ieviev"> ieviev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ieviev">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1331,7 +1333,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MayGo">
 				<img src="https://avatars.githubusercontent.com/u/1929299?s=72&u=f46428e52585b338dfce3b5c668f7e4309fca7ad&v=4" width="24" alt="Avatar of MayGo"> MayGo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MayGo">Copy rank badge</a><br/>
 			Maigo Erit
 		</td>
 		<td>No Company</td>
@@ -1344,7 +1346,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tetrapharmakon">
 				<img src="https://avatars.githubusercontent.com/u/5665933?s=72&u=cbf0bbfb99ab7abc17df813ebccbce1ef4693512&v=4" width="24" alt="Avatar of tetrapharmakon"> tetrapharmakon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tetrapharmakon">Copy rank badge</a><br/>
 			fouche
 		</td>
 		<td>Https://compose.ioc. </td>
@@ -1357,7 +1359,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/JustMaris">
 				<img src="https://avatars.githubusercontent.com/u/24903212?s=72&u=a259b0d1f0b52d9ab890f4506472ea3943d774db&v=4" width="24" alt="Avatar of JustMaris"> JustMaris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#JustMaris">Copy rank badge</a><br/>
 			Māris Popēns
 		</td>
 		<td>No Company</td>
@@ -1370,7 +1372,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Stopa">
 				<img src="https://avatars.githubusercontent.com/u/408256?s=72&u=e17aeea0cc3aeac6aa1ad8fa7a0ae2787696dc5e&v=4" width="24" alt="Avatar of Stopa"> Stopa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Stopa">Copy rank badge</a><br/>
 			Stepan Bolotnikov
 		</td>
 		<td>@splunk </td>
@@ -1383,7 +1385,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Fato07">
 				<img src="https://avatars.githubusercontent.com/u/40800448?s=72&u=f96088cc2eee98149590a8b2b24e6ad7f38ed57e&v=4" width="24" alt="Avatar of Fato07"> Fato07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Fato07">Copy rank badge</a><br/>
 			Fathin Dosunmu
 		</td>
 		<td>Codesdevs </td>
@@ -1396,7 +1398,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rinigus">
 				<img src="https://avatars.githubusercontent.com/u/15706605?s=72&v=4" width="24" alt="Avatar of rinigus"> rinigus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rinigus">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/anroots">
 				<img src="https://avatars.githubusercontent.com/u/469120?s=72&u=1f24c890f2fbd803c1ecdc4bfccc83c70d17ddab&v=4" width="24" alt="Avatar of anroots"> anroots
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#anroots">Copy rank badge</a><br/>
 			Ando David Roots
 		</td>
 		<td>No Company</td>
@@ -1422,7 +1424,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/martinsookael">
 				<img src="https://avatars.githubusercontent.com/u/248973?s=72&v=4" width="24" alt="Avatar of martinsookael"> martinsookael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#martinsookael">Copy rank badge</a><br/>
 			Martin Sookael
 		</td>
 		<td>Jayjs And Wizard.finance </td>
@@ -1435,7 +1437,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/victorpopkov">
 				<img src="https://avatars.githubusercontent.com/u/2471327?s=72&u=4254fc09eea132c0aa70270ac964a3221c91648a&v=4" width="24" alt="Avatar of victorpopkov"> victorpopkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#victorpopkov">Copy rank badge</a><br/>
 			Victor Popkov
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AhmedShaabanElhdad">
 				<img src="https://avatars.githubusercontent.com/u/13251948?s=72&u=4b265158e7bac9828d7027f0c557692b54158201&v=4" width="24" alt="Avatar of AhmedShaabanElhdad"> AhmedShaabanElhdad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AhmedShaabanElhdad">Copy rank badge</a><br/>
 			Ahmed Shaban
 		</td>
 		<td>Bolt </td>
@@ -1461,7 +1463,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jannehietamaki">
 				<img src="https://avatars.githubusercontent.com/u/62515?s=72&v=4" width="24" alt="Avatar of jannehietamaki"> jannehietamaki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jannehietamaki">Copy rank badge</a><br/>
 			Janne Hietamäki
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dennwc">
 				<img src="https://avatars.githubusercontent.com/u/676724?s=72&v=4" width="24" alt="Avatar of dennwc"> dennwc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dennwc">Copy rank badge</a><br/>
 			Denys Smirnov
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mysterI0s">
 				<img src="https://avatars.githubusercontent.com/u/171380947?s=72&u=a13bec2ec72b25e89967e1f7f0f3b92cdb5760e3&v=4" width="24" alt="Avatar of mysterI0s"> mysterI0s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mysterI0s">Copy rank badge</a><br/>
 			Jaafer Mahfoud
 		</td>
 		<td>Right Step </td>
@@ -1500,7 +1502,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/arokettu">
 				<img src="https://avatars.githubusercontent.com/u/963485?s=72&u=bc3a89240ad6cd5607083762cc803f907029f00c&v=4" width="24" alt="Avatar of arokettu"> arokettu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#arokettu">Copy rank badge</a><br/>
 			Anton Smirnov
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alesker">
 				<img src="https://avatars.githubusercontent.com/u/1481982?s=72&u=9e3b511dcd8f99d21a83451fb22403d00d7179eb&v=4" width="24" alt="Avatar of alesker"> alesker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alesker">Copy rank badge</a><br/>
 			Ilya Alesker
 		</td>
 		<td>Bondora </td>
@@ -1526,7 +1528,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aiqualitylab">
 				<img src="https://avatars.githubusercontent.com/u/221746275?s=72&u=eff6202ab7c06d0c7d94588d59900b64ab2bb510&v=4" width="24" alt="Avatar of aiqualitylab"> aiqualitylab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aiqualitylab">Copy rank badge</a><br/>
 			Sreekanth Harigovindan 
 		</td>
 		<td>No Company</td>
@@ -1539,7 +1541,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/1Hyena">
 				<img src="https://avatars.githubusercontent.com/u/3479475?s=72&u=56e5f3f45f556ea7c716562b26a3f982b96aea2a&v=4" width="24" alt="Avatar of 1Hyena"> 1Hyena
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#1Hyena">Copy rank badge</a><br/>
 			Erich Erstu
 		</td>
 		<td>No Company</td>
@@ -1552,7 +1554,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/veranyagaka">
 				<img src="https://avatars.githubusercontent.com/u/106490432?s=72&v=4" width="24" alt="Avatar of veranyagaka"> veranyagaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#veranyagaka">Copy rank badge</a><br/>
 			vera nyagaka
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zverik">
 				<img src="https://avatars.githubusercontent.com/u/766031?s=72&v=4" width="24" alt="Avatar of Zverik"> Zverik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Zverik">Copy rank badge</a><br/>
 			Ilya Zverev
 		</td>
 		<td>Avatudkaart Oü </td>
@@ -1578,7 +1580,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/antonarhipov">
 				<img src="https://avatars.githubusercontent.com/u/177047?s=72&u=e175a63b667438db84eb1fd845d866d85989e2fc&v=4" width="24" alt="Avatar of antonarhipov"> antonarhipov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#antonarhipov">Copy rank badge</a><br/>
 			Anton Arhipov
 		</td>
 		<td>Jetbrains </td>
@@ -1591,7 +1593,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/FLAK-ZOSO">
 				<img src="https://avatars.githubusercontent.com/u/83119697?s=72&u=73527a1025bc135493820b59891a9fd6fbdbb762&v=4" width="24" alt="Avatar of FLAK-ZOSO"> FLAK-ZOSO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#FLAK-ZOSO">Copy rank badge</a><br/>
 			Mattia Marchese
 		</td>
 		<td>Tallinn University Of Technology<br/></td>
@@ -1604,7 +1606,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/topsinoty">
 				<img src="https://avatars.githubusercontent.com/u/51541598?s=72&u=6441a2fc089d0bcf783366832b90e8c254c9bbeb&v=4" width="24" alt="Avatar of topsinoty"> topsinoty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#topsinoty">Copy rank badge</a><br/>
 			Promise Temitope
 		</td>
 		<td>Flave </td>
@@ -1617,7 +1619,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sametozkale">
 				<img src="https://avatars.githubusercontent.com/u/36164154?s=72&u=ad94e0647e5f1dc62acabd023cf6d5e138fdef70&v=4" width="24" alt="Avatar of sametozkale"> sametozkale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sametozkale">Copy rank badge</a><br/>
 			Samet Özkale
 		</td>
 		<td>Mues Ai </td>
@@ -1630,7 +1632,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikroskeem">
 				<img src="https://avatars.githubusercontent.com/u/3490861?s=72&u=7626ceda6d370492f8c955350cac6bda0f905d2f&v=4" width="24" alt="Avatar of mikroskeem"> mikroskeem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mikroskeem">Copy rank badge</a><br/>
 			Mark Vainomaa
 		</td>
 		<td>@zentriamc </td>
@@ -1643,7 +1645,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/parfenovvs">
 				<img src="https://avatars.githubusercontent.com/u/8473227?s=72&u=265ba501e73a2fb563a4c270796adc90c237bd83&v=4" width="24" alt="Avatar of parfenovvs"> parfenovvs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#parfenovvs">Copy rank badge</a><br/>
 			Vladimir Parfenov
 		</td>
 		<td>Malwarebytes </td>
@@ -1656,7 +1658,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/GSemikozov">
 				<img src="https://avatars.githubusercontent.com/u/6191270?s=72&v=4" width="24" alt="Avatar of GSemikozov"> GSemikozov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#GSemikozov">Copy rank badge</a><br/>
 			Herman Semykozov
 		</td>
 		<td>No Company</td>
@@ -1669,7 +1671,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/shelajev">
 				<img src="https://avatars.githubusercontent.com/u/426039?s=72&u=a0e1c654a93c87f5dd9ebc409df6cb9d0a75387f&v=4" width="24" alt="Avatar of shelajev"> shelajev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#shelajev">Copy rank badge</a><br/>
 			Oleg Šelajev
 		</td>
 		<td>Https://www.docker.c </td>
@@ -1682,7 +1684,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/isaac-chung">
 				<img src="https://avatars.githubusercontent.com/u/48971969?s=72&u=29e6a5cb2aefa2596f57581df6902b86530ad505&v=4" width="24" alt="Avatar of isaac-chung"> isaac-chung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#isaac-chung">Copy rank badge</a><br/>
 			Isaac Chung
 		</td>
 		<td>@zendesk  </td>
@@ -1695,7 +1697,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/allixender">
 				<img src="https://avatars.githubusercontent.com/u/4483885?s=72&u=2ab66c92d2d38c7e71807284888b31c9b9696828&v=4" width="24" alt="Avatar of allixender"> allixender
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#allixender">Copy rank badge</a><br/>
 			Alex Kmoch
 		</td>
 		<td>University Of Tartu </td>
@@ -1708,7 +1710,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ps011">
 				<img src="https://avatars.githubusercontent.com/u/13851172?s=72&u=765e1c3bb6e7141e0715e74b747fe5e6b1a93412&v=4" width="24" alt="Avatar of ps011"> ps011
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ps011">Copy rank badge</a><br/>
 			Prasheel Soni
 		</td>
 		<td>@bolteu  </td>
@@ -1721,7 +1723,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/emirotin">
 				<img src="https://avatars.githubusercontent.com/u/525832?s=72&v=4" width="24" alt="Avatar of emirotin"> emirotin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#emirotin">Copy rank badge</a><br/>
 			Eugene Mirotin
 		</td>
 		<td>No Company</td>
@@ -1734,7 +1736,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/meliharik">
 				<img src="https://avatars.githubusercontent.com/u/55915116?s=72&u=0c57d8209c208266df0cc9222fafff1313ffc587&v=4" width="24" alt="Avatar of meliharik"> meliharik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#meliharik">Copy rank badge</a><br/>
 			Melih Arık
 		</td>
 		<td>Omniva </td>
@@ -1747,7 +1749,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonybenoy">
 				<img src="https://avatars.githubusercontent.com/u/8504669?s=72&u=5a3e4102997cdb0f0b6beff8b266c3350c1bdb06&v=4" width="24" alt="Avatar of tonybenoy"> tonybenoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tonybenoy">Copy rank badge</a><br/>
 			Tony Benoy
 		</td>
 		<td>@sunyata-ou  </td>
@@ -1760,7 +1762,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tsudmi">
 				<img src="https://avatars.githubusercontent.com/u/6001614?s=72&u=2e52fe579cfe1aafd7be3a80bc494f2fbc2eb806&v=4" width="24" alt="Avatar of tsudmi"> tsudmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tsudmi">Copy rank badge</a><br/>
 			Dmitri Tsumak
 		</td>
 		<td>Stakewise </td>
@@ -1773,7 +1775,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kpalang">
 				<img src="https://avatars.githubusercontent.com/u/5758525?s=72&u=de1df79820b1f2dd83b775de3a2cc279d5d329ca&v=4" width="24" alt="Avatar of kpalang"> kpalang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kpalang">Copy rank badge</a><br/>
 			Kaur Palang
 		</td>
 		<td>@brightcodecompany  </td>
@@ -1786,7 +1788,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/erikuus">
 				<img src="https://avatars.githubusercontent.com/u/1046623?s=72&u=8bb057be4cd473cf61c181db7e853091a1cea27d&v=4" width="24" alt="Avatar of erikuus"> erikuus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#erikuus">Copy rank badge</a><br/>
 			Erik Uus
 		</td>
 		<td>National Archives Of Estonia<br/></td>
@@ -1799,7 +1801,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dogaanismail">
 				<img src="https://avatars.githubusercontent.com/u/30376425?s=72&u=3f0ecd6501030e0cc6ea637f326a3620bc872079&v=4" width="24" alt="Avatar of dogaanismail"> dogaanismail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dogaanismail">Copy rank badge</a><br/>
 			Ismail Dogan
 		</td>
 		<td>Checkout.com </td>
@@ -1812,7 +1814,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aldas">
 				<img src="https://avatars.githubusercontent.com/u/2320301?s=72&v=4" width="24" alt="Avatar of aldas"> aldas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aldas">Copy rank badge</a><br/>
 			Martti T.
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/itsbalamurali">
 				<img src="https://avatars.githubusercontent.com/u/1926303?s=72&v=4" width="24" alt="Avatar of itsbalamurali"> itsbalamurali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#itsbalamurali">Copy rank badge</a><br/>
 			Balamurali Pandranki
 		</td>
 		<td>@wearekesk  </td>
@@ -1838,7 +1840,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/IngvarDe">
 				<img src="https://avatars.githubusercontent.com/u/32929800?s=72&v=4" width="24" alt="Avatar of IngvarDe"> IngvarDe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#IngvarDe">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1851,7 +1853,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaanjah">
 				<img src="https://avatars.githubusercontent.com/u/33261930?s=72&u=0c71023367271b7e82c3a87cf5aedc954c919e33&v=4" width="24" alt="Avatar of jaanjah"> jaanjah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jaanjah">Copy rank badge</a><br/>
 			Jaan Jahilo
 		</td>
 		<td>No Company</td>
@@ -1864,7 +1866,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RasmusKoit">
 				<img src="https://avatars.githubusercontent.com/u/29210664?s=72&u=0a1701b7394bad0fddb137fd98db07714f83f6c5&v=4" width="24" alt="Avatar of RasmusKoit"> RasmusKoit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RasmusKoit">Copy rank badge</a><br/>
 			Rasmus Koit
 		</td>
 		<td>@wayrentech  </td>
@@ -1877,7 +1879,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/paulbgtr">
 				<img src="https://avatars.githubusercontent.com/u/102642008?s=72&u=151427f59b6736d3cedf8e70d5c9991e686d9930&v=4" width="24" alt="Avatar of paulbgtr"> paulbgtr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#paulbgtr">Copy rank badge</a><br/>
 			Pavel Bg
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/CyberDex">
 				<img src="https://avatars.githubusercontent.com/u/11766115?s=72&u=1ab888b082d72560dfcd75af5b5bf7909c25afd7&v=4" width="24" alt="Avatar of CyberDex"> CyberDex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#CyberDex">Copy rank badge</a><br/>
 			Dmytro Soldatov
 		</td>
 		<td>@cyberdex </td>
@@ -1903,7 +1905,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/weishest">
 				<img src="https://avatars.githubusercontent.com/u/5291640?s=72&u=5f12495519008e2fdc4c4b467b21c6c6cf689892&v=4" width="24" alt="Avatar of weishest"> weishest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#weishest">Copy rank badge</a><br/>
 			Wei S.
 		</td>
 		<td>No Company</td>
@@ -1916,7 +1918,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaakla">
 				<img src="https://avatars.githubusercontent.com/u/5609650?s=72&u=f019eacc0896cb45bf143534bd696d736f8f182e&v=4" width="24" alt="Avatar of jaakla"> jaakla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jaakla">Copy rank badge</a><br/>
 			Jaak Laineste
 		</td>
 		<td>No Company</td>
@@ -1929,7 +1931,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alvarlaigna">
 				<img src="https://avatars.githubusercontent.com/u/216535?s=72&v=4" width="24" alt="Avatar of alvarlaigna"> alvarlaigna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alvarlaigna">Copy rank badge</a><br/>
 			Alvar Laigna
 		</td>
 		<td>@altos-engineering  </td>
@@ -1942,7 +1944,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/martinpaljak">
 				<img src="https://avatars.githubusercontent.com/u/46006?s=72&u=984499a027c282356bb9478d7deee19050003add&v=4" width="24" alt="Avatar of martinpaljak"> martinpaljak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#martinpaljak">Copy rank badge</a><br/>
 			Martin Paljak
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ashfaqshuvo007">
 				<img src="https://avatars.githubusercontent.com/u/29220270?s=72&u=01367ad9f5b36e63ad693fb13e848033512fe8e9&v=4" width="24" alt="Avatar of ashfaqshuvo007"> ashfaqshuvo007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ashfaqshuvo007">Copy rank badge</a><br/>
 			Ashfaq Hussain Ahmed
 		</td>
 		<td>No Company</td>
@@ -1968,7 +1970,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lauriliivamagi">
 				<img src="https://avatars.githubusercontent.com/u/636704?s=72&v=4" width="24" alt="Avatar of lauriliivamagi"> lauriliivamagi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lauriliivamagi">Copy rank badge</a><br/>
 			Lauri Liivamägi
 		</td>
 		<td>No Company</td>
@@ -1981,7 +1983,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/revolist">
 				<img src="https://avatars.githubusercontent.com/u/64810943?s=72&u=9b941e3b80bf9bca841e258d4bd9f53816479df3&v=4" width="24" alt="Avatar of revolist"> revolist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#revolist">Copy rank badge</a><br/>
 			Revolist OU
 		</td>
 		<td>Revolist </td>
@@ -1994,7 +1996,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/coolswood">
 				<img src="https://avatars.githubusercontent.com/u/25247802?s=72&u=29b7f2bdc724b0bd2c9653c2930a03d1eaf8c667&v=4" width="24" alt="Avatar of coolswood"> coolswood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#coolswood">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/intgr">
 				<img src="https://avatars.githubusercontent.com/u/137616?s=72&v=4" width="24" alt="Avatar of intgr"> intgr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#intgr">Copy rank badge</a><br/>
 			Marti Raudsepp
 		</td>
 		<td>Dynatrace </td>
@@ -2020,7 +2022,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/olgatenison">
 				<img src="https://avatars.githubusercontent.com/u/88651744?s=72&u=ec9683d6c44fe2fa9ba6ec7063420d83bfbb8092&v=4" width="24" alt="Avatar of olgatenison"> olgatenison
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#olgatenison">Copy rank badge</a><br/>
 			Olga Tenison
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/maltsev">
 				<img src="https://avatars.githubusercontent.com/u/923973?s=72&u=147a152ad503f13fe587f72f94b17f09def24e51&v=4" width="24" alt="Avatar of maltsev"> maltsev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#maltsev">Copy rank badge</a><br/>
 			Kirill Maltsev
 		</td>
 		<td>No Company</td>
@@ -2046,7 +2048,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/iNViTiON">
 				<img src="https://avatars.githubusercontent.com/u/13241662?s=72&u=0590649d3f1ae41599cc1ba45cb420576984a660&v=4" width="24" alt="Avatar of iNViTiON"> iNViTiON
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#iNViTiON">Copy rank badge</a><br/>
 			MiX
 		</td>
 		<td>H Lab @cortexcloud </td>
@@ -2059,7 +2061,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonuonu">
 				<img src="https://avatars.githubusercontent.com/u/776233?s=72&u=e010e6c4138bce399ad064bbba27b76ab6d3abae&v=4" width="24" alt="Avatar of tonuonu"> tonuonu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tonuonu">Copy rank badge</a><br/>
 			Tõnu Samuel
 		</td>
 		<td>Bitgrit Inc </td>
@@ -2072,7 +2074,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/valentim">
 				<img src="https://avatars.githubusercontent.com/u/709484?s=72&u=c87504d0d43cf5b12487e26f0b83b6fca4cbdeba&v=4" width="24" alt="Avatar of valentim"> valentim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#valentim">Copy rank badge</a><br/>
 			Thiago Valentim
 		</td>
 		<td>No Company</td>
@@ -2085,7 +2087,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dknight">
 				<img src="https://avatars.githubusercontent.com/u/74401?s=72&u=fa232a9170c6281ef1a42e5a8075d4737062ba3c&v=4" width="24" alt="Avatar of dknight"> dknight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dknight">Copy rank badge</a><br/>
 			Dmitri Smirnov
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rymiel">
 				<img src="https://avatars.githubusercontent.com/u/53803019?s=72&u=da22703433379e6d99b184e066fd2b483f5b792c&v=4" width="24" alt="Avatar of rymiel"> rymiel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rymiel">Copy rank badge</a><br/>
 			Emilia Kond
 		</td>
 		<td>No Company</td>
@@ -2111,7 +2113,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andybega">
 				<img src="https://avatars.githubusercontent.com/u/1353756?s=72&u=b3e40e33e66ee6ee9464116c54821c84c2c457e7&v=4" width="24" alt="Avatar of andybega"> andybega
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andybega">Copy rank badge</a><br/>
 			Andreas Beger
 		</td>
 		<td>Sae </td>
@@ -2124,7 +2126,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/carlrobertoh">
 				<img src="https://avatars.githubusercontent.com/u/15891408?s=72&u=c88c11a429b5665289d229672bbe44810f950c85&v=4" width="24" alt="Avatar of carlrobertoh"> carlrobertoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#carlrobertoh">Copy rank badge</a><br/>
 			Carl-Robert Linnupuu
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/niamh-d">
 				<img src="https://avatars.githubusercontent.com/u/85398097?s=72&u=0dfa01c10b42710d640aff74654b08ec2fbc1a6d&v=4" width="24" alt="Avatar of niamh-d"> niamh-d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#niamh-d">Copy rank badge</a><br/>
 			Niamh
 		</td>
 		<td>No Company</td>
@@ -2150,7 +2152,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/silentgameplays">
 				<img src="https://avatars.githubusercontent.com/u/49782741?s=72&u=52799164003408e7292d06ec25731a9e3084278c&v=4" width="24" alt="Avatar of silentgameplays"> silentgameplays
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#silentgameplays">Copy rank badge</a><br/>
 			silentgameplays
 		</td>
 		<td>Itbest </td>
@@ -2163,7 +2165,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bharath-Kumar-S">
 				<img src="https://avatars.githubusercontent.com/u/26269665?s=72&u=3ad8603f1eb1d8c4e6411d32ab2be153bdfdfcd5&v=4" width="24" alt="Avatar of Bharath-Kumar-S"> Bharath-Kumar-S
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Bharath-Kumar-S">Copy rank badge</a><br/>
 			Bharath Kumar
 		</td>
 		<td>Defrost </td>
@@ -2176,7 +2178,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tedsteen">
 				<img src="https://avatars.githubusercontent.com/u/805034?s=72&u=08b4e899247f0182fb67c8efb37826a1771f2f0c&v=4" width="24" alt="Avatar of tedsteen"> tedsteen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tedsteen">Copy rank badge</a><br/>
 			Ted Steen
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yangmr04">
 				<img src="https://avatars.githubusercontent.com/u/29764070?s=72&u=b33e78dab4960c2863e0c05f19d8507ea89c8bee&v=4" width="24" alt="Avatar of yangmr04"> yangmr04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yangmr04">Copy rank badge</a><br/>
 			Ray Yang
 		</td>
 		<td>Ainest Oü </td>
@@ -2202,7 +2204,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/taunoe">
 				<img src="https://avatars.githubusercontent.com/u/1520326?s=72&u=7db77485d0736068eab9df561d27770ae8a12b66&v=4" width="24" alt="Avatar of taunoe"> taunoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#taunoe">Copy rank badge</a><br/>
 			Tauno Erik
 		</td>
 		<td>Tsenter </td>
@@ -2215,7 +2217,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/levitation">
 				<img src="https://avatars.githubusercontent.com/u/3122755?s=72&v=4" width="24" alt="Avatar of levitation"> levitation
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#levitation">Copy rank badge</a><br/>
 			Roland Pihlakas
 		</td>
 		<td>Three Laws / Simplify<br/>/<br/>Macrotec<br/>Llc<br/></td>
@@ -2228,7 +2230,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/joshuaalpuerto">
 				<img src="https://avatars.githubusercontent.com/u/7126484?s=72&u=2ecde30fb8f93f134b9cb7e6cc67fe7764a4dd4f&v=4" width="24" alt="Avatar of joshuaalpuerto"> joshuaalpuerto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#joshuaalpuerto">Copy rank badge</a><br/>
 			Joshua Alpuerto
 		</td>
 		<td>@toknapp  </td>
@@ -2241,7 +2243,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/afds">
 				<img src="https://avatars.githubusercontent.com/u/364813?s=72&u=3a728b79ad06608784635b025237098387ba215a&v=4" width="24" alt="Avatar of afds"> afds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#afds">Copy rank badge</a><br/>
 			Deniss Afonin
 		</td>
 		<td>No Company</td>
@@ -2254,7 +2256,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RRisto">
 				<img src="https://avatars.githubusercontent.com/u/8947407?s=72&u=e7f9673e474e61eb1a34787efd9d1b3931a61c77&v=4" width="24" alt="Avatar of RRisto"> RRisto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RRisto">Copy rank badge</a><br/>
 			Risto Hinno
 		</td>
 		<td>Lhv </td>
@@ -2267,7 +2269,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/seemk">
 				<img src="https://avatars.githubusercontent.com/u/5329631?s=72&v=4" width="24" alt="Avatar of seemk"> seemk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#seemk">Copy rank badge</a><br/>
 			Siim Kallas
 		</td>
 		<td>Splunk </td>
@@ -2280,7 +2282,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vikatgen">
 				<img src="https://avatars.githubusercontent.com/u/47703789?s=72&u=a199cf18974de11cefef71c11c3a708972b87c55&v=4" width="24" alt="Avatar of vikatgen"> vikatgen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vikatgen">Copy rank badge</a><br/>
 			Gen Vikat
 		</td>
 		<td>Well Done Oü, Kuressaare<br/>Ametikool<br/></td>
@@ -2293,7 +2295,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yozik04">
 				<img src="https://avatars.githubusercontent.com/u/2420038?s=72&v=4" width="24" alt="Avatar of yozik04"> yozik04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yozik04">Copy rank badge</a><br/>
 			Jevgeni Kiski
 		</td>
 		<td>Skype, @microsoft </td>
@@ -2306,7 +2308,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/janno-p">
 				<img src="https://avatars.githubusercontent.com/u/339526?s=72&v=4" width="24" alt="Avatar of janno-p"> janno-p
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#janno-p">Copy rank badge</a><br/>
 			Janno Põldma
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/erengy">
 				<img src="https://avatars.githubusercontent.com/u/1078430?s=72&v=4" width="24" alt="Avatar of erengy"> erengy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#erengy">Copy rank badge</a><br/>
 			Eren Okka
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/furknyavuz">
 				<img src="https://avatars.githubusercontent.com/u/2248168?s=72&u=5b64557ac9aa61031a548cd9314447636a6183fa&v=4" width="24" alt="Avatar of furknyavuz"> furknyavuz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#furknyavuz">Copy rank badge</a><br/>
 			Furkan
 		</td>
 		<td>Self Employed </td>
@@ -2345,7 +2347,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/velochy">
 				<img src="https://avatars.githubusercontent.com/u/5527789?s=72&u=73b4f3007eb0961ad73b368e58bb31577959b73c&v=4" width="24" alt="Avatar of velochy"> velochy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#velochy">Copy rank badge</a><br/>
 			Margus Niitsoo
 		</td>
 		<td>Salk </td>
@@ -2358,7 +2360,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vvscode">
 				<img src="https://avatars.githubusercontent.com/u/6904368?s=72&u=56f6bb015bc4705082de7440b59f00d6a7f826ff&v=4" width="24" alt="Avatar of vvscode"> vvscode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vvscode">Copy rank badge</a><br/>
 			Vasiliy Vanchuk
 		</td>
 		<td>Bolt </td>
@@ -2371,7 +2373,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ahmed-aleryani">
 				<img src="https://avatars.githubusercontent.com/u/14792877?s=72&u=50f36e6a050b8c1259acf2abd49d76481058c2c4&v=4" width="24" alt="Avatar of Ahmed-aleryani"> Ahmed-aleryani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ahmed-aleryani">Copy rank badge</a><br/>
 			Ahmed Aleryani
 		</td>
 		<td>@transferwise </td>
@@ -2384,7 +2386,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/plaes">
 				<img src="https://avatars.githubusercontent.com/u/91895?s=72&v=4" width="24" alt="Avatar of plaes"> plaes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#plaes">Copy rank badge</a><br/>
 			Priit Laes
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/danglingptr0x0">
 				<img src="https://avatars.githubusercontent.com/u/51794014?s=72&u=6afc20c1154c30b732b26b657eb7bbd9d9c46881&v=4" width="24" alt="Avatar of danglingptr0x0"> danglingptr0x0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#danglingptr0x0">Copy rank badge</a><br/>
 			Simon Slamka
 		</td>
 		<td>@ongakken  </td>
@@ -2410,7 +2412,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/PeterSaan">
 				<img src="https://avatars.githubusercontent.com/u/113171626?s=72&u=9ba0ae54d8de9e070aa61af5870ea034b300c186&v=4" width="24" alt="Avatar of PeterSaan"> PeterSaan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#PeterSaan">Copy rank badge</a><br/>
 			Peter Saan
 		</td>
 		<td>Opus Online </td>
@@ -2423,7 +2425,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/danelahman">
 				<img src="https://avatars.githubusercontent.com/u/901175?s=72&u=4a6d21d0d7591afcd595d60e2d9dc0bfae7fd6a8&v=4" width="24" alt="Avatar of danelahman"> danelahman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#danelahman">Copy rank badge</a><br/>
 			Danel Ahman
 		</td>
 		<td>University Of Tartu </td>
@@ -2436,7 +2438,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mharisirfan">
 				<img src="https://avatars.githubusercontent.com/u/68890008?s=72&u=81ecfd83fb2a91d784b21786fbaff34a71faceec&v=4" width="24" alt="Avatar of mharisirfan"> mharisirfan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mharisirfan">Copy rank badge</a><br/>
 			Haris Irfan
 		</td>
 		<td>No Company</td>
@@ -2449,7 +2451,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/antlio">
 				<img src="https://avatars.githubusercontent.com/u/14966155?s=72&u=a6b76830b5111ef1b66981cf257e5875f8db6992&v=4" width="24" alt="Avatar of antlio"> antlio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#antlio">Copy rank badge</a><br/>
 			Anthony Lio
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/v4ltages">
 				<img src="https://avatars.githubusercontent.com/u/37416491?s=72&u=f0f1700b3897603c304d64e3f653308ae1c1a048&v=4" width="24" alt="Avatar of v4ltages"> v4ltages
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#v4ltages">Copy rank badge</a><br/>
 			Voltages
 		</td>
 		<td>@lapikud  </td>
@@ -2475,7 +2477,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/SiiMeR">
 				<img src="https://avatars.githubusercontent.com/u/16091040?s=72&u=5d39d8133adaa800dd2db1bf1e55cbd5c75525d2&v=4" width="24" alt="Avatar of SiiMeR"> SiiMeR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#SiiMeR">Copy rank badge</a><br/>
 			Siim Raudsepp
 		</td>
 		<td>@6fold </td>
@@ -2488,7 +2490,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ukupat">
 				<img src="https://avatars.githubusercontent.com/u/4997766?s=72&u=99b8d87bf5e8900feff85c1ea10819465c94f40e&v=4" width="24" alt="Avatar of ukupat"> ukupat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ukupat">Copy rank badge</a><br/>
 			Uku Pattak
 		</td>
 		<td>@rematocorp  </td>
@@ -2501,7 +2503,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tsoome">
 				<img src="https://avatars.githubusercontent.com/u/7724176?s=72&u=02850d93c77cdd9574028339133c837ba8aa4d7f&v=4" width="24" alt="Avatar of tsoome"> tsoome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tsoome">Copy rank badge</a><br/>
 			Toomas Soome
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/danarocha-br">
 				<img src="https://avatars.githubusercontent.com/u/45463740?s=72&u=d8efda72960ec53de4facc8d06ac075f01e897c5&v=4" width="24" alt="Avatar of danarocha-br"> danarocha-br
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#danarocha-br">Copy rank badge</a><br/>
 			Dana Rocha
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ktaf">
 				<img src="https://avatars.githubusercontent.com/u/16401735?s=72&u=3453583ff94bb4f68d0884aca9defd96a9818dca&v=4" width="24" alt="Avatar of ktaf"> ktaf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ktaf">Copy rank badge</a><br/>
 			Kourosh Tafreshi
 		</td>
 		<td>@bolteu </td>
@@ -2540,7 +2542,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/exsilium">
 				<img src="https://avatars.githubusercontent.com/u/2134238?s=72&v=4" width="24" alt="Avatar of exsilium"> exsilium
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#exsilium">Copy rank badge</a><br/>
 			Sten Feldman
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/2ndalpha">
 				<img src="https://avatars.githubusercontent.com/u/2319203?s=72&v=4" width="24" alt="Avatar of 2ndalpha"> 2ndalpha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#2ndalpha">Copy rank badge</a><br/>
 			Siim Raud
 		</td>
 		<td>Qminder </td>
@@ -2566,7 +2568,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dmbaranov">
 				<img src="https://avatars.githubusercontent.com/u/10092277?s=72&u=0d2c45f295a30c09866879915a6be5bd5a0c741a&v=4" width="24" alt="Avatar of dmbaranov"> dmbaranov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dmbaranov">Copy rank badge</a><br/>
 			Dmitrii Baranov
 		</td>
 		<td>No Company</td>
@@ -2579,7 +2581,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrts">
 				<img src="https://avatars.githubusercontent.com/u/44880?s=72&u=97e92444d8fced033b89a6783621c37b5ad0d323&v=4" width="24" alt="Avatar of mrts"> mrts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mrts">Copy rank badge</a><br/>
 			Mart Sõmermaa
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rebane2001">
 				<img src="https://avatars.githubusercontent.com/u/6316541?s=72&u=cf281778c50611e18fbd64b4092c8f5efb0f3efa&v=4" width="24" alt="Avatar of rebane2001"> rebane2001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rebane2001">Copy rank badge</a><br/>
 			Lyra Rebane
 		</td>
 		<td>No Company</td>
@@ -2605,7 +2607,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/n1md7">
 				<img src="https://avatars.githubusercontent.com/u/6734058?s=72&u=3a12a5fc439869595ca644d73fd2a3ac55b9c08b&v=4" width="24" alt="Avatar of n1md7"> n1md7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#n1md7">Copy rank badge</a><br/>
 			Harry Kodua
 		</td>
 		<td>Rangeforce </td>
@@ -2618,7 +2620,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dbillion">
 				<img src="https://avatars.githubusercontent.com/u/49393855?s=72&u=1476ca52b36358d6fb1e6640065e5e613c8d0663&v=4" width="24" alt="Avatar of dbillion"> dbillion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dbillion">Copy rank badge</a><br/>
 			Oludayo Adeoye
 		</td>
 		<td>Dbillion </td>
@@ -2631,7 +2633,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kmoppel">
 				<img src="https://avatars.githubusercontent.com/u/346788?s=72&u=76092e14284fc98cdbfe241f215550bb5cece62a&v=4" width="24" alt="Avatar of kmoppel"> kmoppel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kmoppel">Copy rank badge</a><br/>
 			Kaarel Moppel
 		</td>
 		<td>Freelance Postgresql Engineer /<br/>Consultant<br/></td>
@@ -2644,7 +2646,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cernodile">
 				<img src="https://avatars.githubusercontent.com/u/17257449?s=72&u=4baa5654a8110774914d09110ab458ec79c01239&v=4" width="24" alt="Avatar of cernodile"> cernodile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cernodile">Copy rank badge</a><br/>
 			Joann Mõndresku
 		</td>
 		<td>No Company</td>
@@ -2657,7 +2659,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZonD80">
 				<img src="https://avatars.githubusercontent.com/u/273057?s=72&v=4" width="24" alt="Avatar of ZonD80"> ZonD80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ZonD80">Copy rank badge</a><br/>
 			ZonD Eighty
 		</td>
 		<td>Aysa Ou </td>
@@ -2670,7 +2672,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/krzkz94">
 				<img src="https://avatars.githubusercontent.com/u/7871213?s=72&u=41595416c8070b32546703a4b621e538cb7a6740&v=4" width="24" alt="Avatar of krzkz94"> krzkz94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#krzkz94">Copy rank badge</a><br/>
 			Krzysztof K
 		</td>
 		<td>Quickbits Oü </td>
@@ -2683,7 +2685,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mroman42">
 				<img src="https://avatars.githubusercontent.com/u/5337877?s=72&u=525c5f6e67d792eb927ec2c4b8a240efe9b72a17&v=4" width="24" alt="Avatar of mroman42"> mroman42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mroman42">Copy rank badge</a><br/>
 			Mario Román
 		</td>
 		<td>Tallinn University Of Technology<br/></td>
@@ -2696,7 +2698,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bepitulaz">
 				<img src="https://avatars.githubusercontent.com/u/313962?s=72&u=eeb4f868079e30ac329697bd3ffa69ba024a2e8b&v=4" width="24" alt="Avatar of bepitulaz"> bepitulaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bepitulaz">Copy rank badge</a><br/>
 			Asep Bagja Priandana
 		</td>
 		<td>@nanassound  </td>
@@ -2709,7 +2711,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomimarkus991">
 				<img src="https://avatars.githubusercontent.com/u/48998818?s=72&u=d6e2837fc91cac528d855418c8bc8e4bb2dcf0ac&v=4" width="24" alt="Avatar of tomimarkus991"> tomimarkus991
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tomimarkus991">Copy rank badge</a><br/>
 			Tomi Markus Alber
 		</td>
 		<td>Delfi </td>
@@ -2722,7 +2724,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mortenpi">
 				<img src="https://avatars.githubusercontent.com/u/147757?s=72&v=4" width="24" alt="Avatar of mortenpi"> mortenpi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mortenpi">Copy rank badge</a><br/>
 			Morten Piibeleht
 		</td>
 		<td>@juliacomputing  </td>
@@ -2735,7 +2737,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/filippos47">
 				<img src="https://avatars.githubusercontent.com/u/35352222?s=72&u=fb2124c11a94ee0e0a5a689828ed9c833b368f2d&v=4" width="24" alt="Avatar of filippos47"> filippos47
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#filippos47">Copy rank badge</a><br/>
 			Filippos Malandrakis
 		</td>
 		<td>Head Of Infra @babylonlabs-io<br/></td>
@@ -2748,7 +2750,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/roboter">
 				<img src="https://avatars.githubusercontent.com/u/386485?s=72&v=4" width="24" alt="Avatar of roboter"> roboter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#roboter">Copy rank badge</a><br/>
 			Aleksei Prokopov
 		</td>
 		<td>No Company</td>
@@ -2761,7 +2763,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ubden">
 				<img src="https://avatars.githubusercontent.com/u/44896964?s=72&u=45a07b259d53eabc7f715a9adb875c4e3d2bc6e5&v=4" width="24" alt="Avatar of ubden"> ubden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ubden">Copy rank badge</a><br/>
 			Ubden®🛡️
 		</td>
 		<td>Ubden Llc & Ubden<br/>A.ş.<br/>&<br/>Ubden<br/>Ou<br/></td>
@@ -2774,7 +2776,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/snemvalts">
 				<img src="https://avatars.githubusercontent.com/u/3755903?s=72&u=e1ab7712f3078e01bc2f35befed919790e35cc56&v=4" width="24" alt="Avatar of snemvalts"> snemvalts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#snemvalts">Copy rank badge</a><br/>
 			Sander Nemvalts
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaakristioja">
 				<img src="https://avatars.githubusercontent.com/u/2684083?s=72&u=5f6cc346c9902cb196c4c9aee25e3beb2c73ea1d&v=4" width="24" alt="Avatar of jaakristioja"> jaakristioja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jaakristioja">Copy rank badge</a><br/>
 			Jaak Ristioja
 		</td>
 		<td>No Company</td>
@@ -2800,7 +2802,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/maemresen">
 				<img src="https://avatars.githubusercontent.com/u/17517090?s=72&u=a4de8516519b22f3e63ded27eb0f6c6f75357b23&v=4" width="24" alt="Avatar of maemresen"> maemresen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#maemresen">Copy rank badge</a><br/>
 			Mehmet Arif Emre Şen
 		</td>
 		<td>Kuehne + Nagel </td>
@@ -2813,7 +2815,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/samueleiche">
 				<img src="https://avatars.githubusercontent.com/u/20043312?s=72&u=79fa164a43f20890dc574faf72d336768cfe4a3b&v=4" width="24" alt="Avatar of samueleiche"> samueleiche
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#samueleiche">Copy rank badge</a><br/>
 			Samuel Eiche
 		</td>
 		<td>@rematocorp </td>
@@ -2826,7 +2828,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ly0va">
 				<img src="https://avatars.githubusercontent.com/u/44246068?s=72&u=49d523ae9f9af7965b81b38f00b3d740dc813427&v=4" width="24" alt="Avatar of ly0va"> ly0va
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ly0va">Copy rank badge</a><br/>
 			Lyova Potyomkin
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ArsalanDotMe">
 				<img src="https://avatars.githubusercontent.com/u/1993303?s=72&u=8a5cb8c3df95b4c8f0035cfc4daf1684d4334ebd&v=4" width="24" alt="Avatar of ArsalanDotMe"> ArsalanDotMe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ArsalanDotMe">Copy rank badge</a><br/>
 			Arsalan Ahmad
 		</td>
 		<td>Modash </td>
@@ -2852,7 +2854,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/001shahab">
 				<img src="https://avatars.githubusercontent.com/u/8946403?s=72&u=35cd9a29d1008408db0e28e7103b35c1560bb55a&v=4" width="24" alt="Avatar of 001shahab"> 001shahab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#001shahab">Copy rank badge</a><br/>
 			Shahab
 		</td>
 		<td>3s Holding Oü </td>
@@ -2865,7 +2867,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/madkoo">
 				<img src="https://avatars.githubusercontent.com/u/1208114?s=72&u=176ae7d8df492b48574c111c721ca070b0b491ff&v=4" width="24" alt="Avatar of madkoo"> madkoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#madkoo">Copy rank badge</a><br/>
 			Madis Kõosaar
 		</td>
 		<td>Eficode </td>
@@ -2878,7 +2880,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/elvintaghizade14">
 				<img src="https://avatars.githubusercontent.com/u/38504175?s=72&u=23a8bf7808a54bb184219b0f326e878d7005a90b&v=4" width="24" alt="Avatar of elvintaghizade14"> elvintaghizade14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#elvintaghizade14">Copy rank badge</a><br/>
 			Elvin Taghizade
 		</td>
 		<td>@bolteu </td>
@@ -2891,7 +2893,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/JoosepAlviste">
 				<img src="https://avatars.githubusercontent.com/u/9450943?s=72&u=fe52d065569c202b6f967b42bca11b150e00c332&v=4" width="24" alt="Avatar of JoosepAlviste"> JoosepAlviste
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#JoosepAlviste">Copy rank badge</a><br/>
 			Joosep Alviste
 		</td>
 		<td>Modash </td>
@@ -2904,7 +2906,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hellwolf">
 				<img src="https://avatars.githubusercontent.com/u/186660?s=72&u=34e31ca87339d628b581acdca452a42700f86e1b&v=4" width="24" alt="Avatar of hellwolf"> hellwolf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hellwolf">Copy rank badge</a><br/>
 			Miao ZhiCheng
 		</td>
 		<td>@decentral-ee, @superfluid-finance  </td>
@@ -2917,7 +2919,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pandasauce">
 				<img src="https://avatars.githubusercontent.com/u/7682940?s=72&u=b630d58a9957cace81a3d9d74d5399caa720f1a1&v=4" width="24" alt="Avatar of pandasauce"> pandasauce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pandasauce">Copy rank badge</a><br/>
 			Georgi Boiko
 		</td>
 		<td>@nowsecure </td>
@@ -2930,7 +2932,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/freQniK">
 				<img src="https://avatars.githubusercontent.com/u/93114223?s=72&u=66fcd96609811cc358a00a27883048afb503750e&v=4" width="24" alt="Avatar of freQniK"> freQniK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#freQniK">Copy rank badge</a><br/>
 			freQniK
 		</td>
 		<td>Mathnodes </td>
@@ -2943,7 +2945,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jonasalessi">
 				<img src="https://avatars.githubusercontent.com/u/1569811?s=72&u=05423cb195e8e3e7eec9e9c857b742b86221f07e&v=4" width="24" alt="Avatar of jonasalessi"> jonasalessi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jonasalessi">Copy rank badge</a><br/>
 			Jonas alessi
 		</td>
 		<td>Enefit </td>
@@ -2956,7 +2958,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/WMRamadan">
 				<img src="https://avatars.githubusercontent.com/u/1612303?s=72&u=f1cb5b4ce25a430394576fe25830a5ada1b9f26b&v=4" width="24" alt="Avatar of WMRamadan"> WMRamadan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#WMRamadan">Copy rank badge</a><br/>
 			Wael Ramadan
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/eddieoz">
 				<img src="https://avatars.githubusercontent.com/u/3277320?s=72&u=64e5ea4a619fdfe26c0704656eb776d8f48fe586&v=4" width="24" alt="Avatar of eddieoz"> eddieoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#eddieoz">Copy rank badge</a><br/>
 			Edilson Osorio Jr
 		</td>
 		<td>Originalmy.com </td>
@@ -2982,7 +2984,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tauntz">
 				<img src="https://avatars.githubusercontent.com/u/55713?s=72&u=b7cc709a6bd14b5a6db2410ce77348ccc984c350&v=4" width="24" alt="Avatar of tauntz"> tauntz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tauntz">Copy rank badge</a><br/>
 			Tauno Talimaa
 		</td>
 		<td>@emulator-wtf  </td>
@@ -2995,7 +2997,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jskz">
 				<img src="https://avatars.githubusercontent.com/u/5122630?s=72&u=1a12e44ded5b1cdef9e3dd0f522f58a6c0167966&v=4" width="24" alt="Avatar of jskz"> jskz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jskz">Copy rank badge</a><br/>
 			James Skarzinskas
 		</td>
 		<td>No Company</td>
@@ -3008,7 +3010,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RPCdotcom">
 				<img src="https://avatars.githubusercontent.com/u/141464235?s=72&u=9332abc49157cb11c9d17d03a2e32caa3d155358&v=4" width="24" alt="Avatar of RPCdotcom"> RPCdotcom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RPCdotcom">Copy rank badge</a><br/>
 			RPCdot.com
 		</td>
 		<td>No Company</td>
@@ -3021,7 +3023,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrArtful">
 				<img src="https://avatars.githubusercontent.com/u/8095232?s=72&u=41b94f118fbc4a52fdd7f808f4e25e28d185fdef&v=4" width="24" alt="Avatar of mrArtful"> mrArtful
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mrArtful">Copy rank badge</a><br/>
 			Roman Kutselepa
 		</td>
 		<td>No Company</td>
@@ -3034,7 +3036,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ehmedosmanov">
 				<img src="https://avatars.githubusercontent.com/u/96765249?s=72&u=94ecc02f2dab0cacaa1d34dd6b6f7f84eac42700&v=4" width="24" alt="Avatar of ehmedosmanov"> ehmedosmanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ehmedosmanov">Copy rank badge</a><br/>
 			Ahmad Osmanov
 		</td>
 		<td>No Company</td>
@@ -3047,7 +3049,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/iwilare">
 				<img src="https://avatars.githubusercontent.com/u/8472165?s=72&u=47cda7ec3fdd2c23abf4f9e86f73c00db89895c6&v=4" width="24" alt="Avatar of iwilare"> iwilare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#iwilare">Copy rank badge</a><br/>
 			Andrea Laretto
 		</td>
 		<td>Tallinn University Of Technology<br/></td>
@@ -3060,7 +3062,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilajosmanov">
 				<img src="https://avatars.githubusercontent.com/u/18512404?s=72&u=3373dbd308305549a226558d06ec20124025bff4&v=4" width="24" alt="Avatar of ilajosmanov"> ilajosmanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ilajosmanov">Copy rank badge</a><br/>
 			Illia Osmanov
 		</td>
 		<td>Caesar.org </td>
@@ -3073,7 +3075,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/iamironz">
 				<img src="https://avatars.githubusercontent.com/u/8560008?s=72&u=55b8d9d1654dd6c8a96b16c45d0c087e38a87ce9&v=4" width="24" alt="Avatar of iamironz"> iamironz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#iamironz">Copy rank badge</a><br/>
 			Aleksandr Efremenkov
 		</td>
 		<td>@bolteu </td>
@@ -3086,7 +3088,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonoff">
 				<img src="https://avatars.githubusercontent.com/u/14304?s=72&u=683b273db5882ddd0e93d499c0492b95773c6089&v=4" width="24" alt="Avatar of simonoff"> simonoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#simonoff">Copy rank badge</a><br/>
 			Oleksandr Simonov
 		</td>
 		<td>@amoniacou  </td>
@@ -3099,7 +3101,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/madisvain">
 				<img src="https://avatars.githubusercontent.com/u/727994?s=72&u=63fd3821936de83b564c1c0b861144746e09113b&v=4" width="24" alt="Avatar of madisvain"> madisvain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#madisvain">Copy rank badge</a><br/>
 			Madis Väin
 		</td>
 		<td>Namespace Oü @namespace-ee <br/></td>
@@ -3112,7 +3114,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jorguzman100">
 				<img src="https://avatars.githubusercontent.com/u/61070430?s=72&u=10a26d78be3793b68716eac9f1fb559f9ad6cc6b&v=4" width="24" alt="Avatar of jorguzman100"> jorguzman100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jorguzman100">Copy rank badge</a><br/>
 			Jorge Guzman
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/trevorlasn">
 				<img src="https://avatars.githubusercontent.com/u/11220736?s=72&u=c86dd8b65a66641a37dc2b31a9737038522c7faa&v=4" width="24" alt="Avatar of trevorlasn"> trevorlasn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#trevorlasn">Copy rank badge</a><br/>
 			Trevor I. Lasn
 		</td>
 		<td>@0xinsider  </td>
@@ -3138,7 +3140,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/joe-bell">
 				<img src="https://avatars.githubusercontent.com/u/7349341?s=72&u=39b89f03544a60616f7426972b1519b235e4d629&v=4" width="24" alt="Avatar of joe-bell"> joe-bell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#joe-bell">Copy rank badge</a><br/>
 			Joe Bell
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/NicklausBrain">
 				<img src="https://avatars.githubusercontent.com/u/2499077?s=72&u=5087376c61de6e2fa2e5ccf279d3e00822dd7bb6&v=4" width="24" alt="Avatar of NicklausBrain"> NicklausBrain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#NicklausBrain">Copy rank badge</a><br/>
 			Mykola Mozghovyi
 		</td>
 		<td>Https://github.com/b </td>
@@ -3164,7 +3166,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kauralasoo">
 				<img src="https://avatars.githubusercontent.com/u/508224?s=72&v=4" width="24" alt="Avatar of kauralasoo"> kauralasoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kauralasoo">Copy rank badge</a><br/>
 			Kaur Alasoo
 		</td>
 		<td>University Of Tartu </td>
@@ -3177,7 +3179,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ndeta100">
 				<img src="https://avatars.githubusercontent.com/u/70950464?s=72&u=1690e753352ac32229dc9812813211b696186495&v=4" width="24" alt="Avatar of Ndeta100"> Ndeta100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ndeta100">Copy rank badge</a><br/>
 			Ndeta Innocent
 		</td>
 		<td>Eyevi Technologies </td>
@@ -3190,7 +3192,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/luolong">
 				<img src="https://avatars.githubusercontent.com/u/133101?s=72&u=7ed55fe20915504a756a674177e421d4cd1d770e&v=4" width="24" alt="Avatar of luolong"> luolong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#luolong">Copy rank badge</a><br/>
 			Roland Tepp
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/msbatal">
 				<img src="https://avatars.githubusercontent.com/u/60161384?s=72&u=2bf156c02c60b207aeb6fc2c991783c33fa2ffd1&v=4" width="24" alt="Avatar of msbatal"> msbatal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#msbatal">Copy rank badge</a><br/>
 			Mehmet Selcuk Batal
 		</td>
 		<td>Sunhill Int'l University </td>
@@ -3216,7 +3218,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vintagedave">
 				<img src="https://avatars.githubusercontent.com/u/8351450?s=72&u=acad59785eacb5b464235397151c2bad4aa8a7b4&v=4" width="24" alt="Avatar of vintagedave"> vintagedave
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vintagedave">Copy rank badge</a><br/>
 			David Millington
 		</td>
 		<td>Parnassus Oü </td>
@@ -3229,7 +3231,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Lifemotion">
 				<img src="https://avatars.githubusercontent.com/u/4630187?s=72&u=78a0dbe2d36b053d4edbd84463713b6a0593eea3&v=4" width="24" alt="Avatar of Lifemotion"> Lifemotion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Lifemotion">Copy rank badge</a><br/>
 			Sasha Sovenko
 		</td>
 		<td>No Company</td>
@@ -3242,7 +3244,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/monoidic">
 				<img src="https://avatars.githubusercontent.com/u/36573837?s=72&u=a6dd0ff490e0466c9d5d78b90152442b12a5e98a&v=4" width="24" alt="Avatar of monoidic"> monoidic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#monoidic">Copy rank badge</a><br/>
 			Mikk Margus Möll
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fogside">
 				<img src="https://avatars.githubusercontent.com/u/6944359?s=72&u=cd0b7f184a4bd08437c8a0b738e73115de3045a8&v=4" width="24" alt="Avatar of fogside"> fogside
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fogside">Copy rank badge</a><br/>
 			Genia Cheskidova
 		</td>
 		<td>Myarchitectai.com </td>
@@ -3268,7 +3270,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/priithaamer">
 				<img src="https://avatars.githubusercontent.com/u/194640?s=72&v=4" width="24" alt="Avatar of priithaamer"> priithaamer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#priithaamer">Copy rank badge</a><br/>
 			Priit Haamer
 		</td>
 		<td>No Company</td>
@@ -3281,7 +3283,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/4nd3r">
 				<img src="https://avatars.githubusercontent.com/u/7166727?s=72&u=3c5335ae1b9dc87f4d4320efd85d2113a401fc94&v=4" width="24" alt="Avatar of 4nd3r"> 4nd3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#4nd3r">Copy rank badge</a><br/>
 			Ander Punnar
 		</td>
 		<td>No Company</td>
@@ -3294,7 +3296,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/4matic">
 				<img src="https://avatars.githubusercontent.com/u/5605854?s=72&v=4" width="24" alt="Avatar of 4matic"> 4matic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#4matic">Copy rank badge</a><br/>
 			Maksim Maksimov
 		</td>
 		<td>No Company</td>
@@ -3307,7 +3309,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lackovic">
 				<img src="https://avatars.githubusercontent.com/u/1663053?s=72&u=79d32d7155a43b089fe3888f8a853dc37bb72e78&v=4" width="24" alt="Avatar of lackovic"> lackovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lackovic">Copy rank badge</a><br/>
 			Marco Lackovic
 		</td>
 		<td>Concise </td>
@@ -3320,7 +3322,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aivarannamaa">
 				<img src="https://avatars.githubusercontent.com/u/1802?s=72&v=4" width="24" alt="Avatar of aivarannamaa"> aivarannamaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aivarannamaa">Copy rank badge</a><br/>
 			Aivar Annamaa
 		</td>
 		<td>Cybernetica </td>
@@ -3333,7 +3335,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ristotoldsep">
 				<img src="https://avatars.githubusercontent.com/u/57298993?s=72&u=9a14e71314360884b1de4d327c7ee02e00e2d492&v=4" width="24" alt="Avatar of ristotoldsep"> ristotoldsep
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ristotoldsep">Copy rank badge</a><br/>
 			Risto Tõldsep
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ermolushka">
 				<img src="https://avatars.githubusercontent.com/u/2204660?s=72&u=34de281c4c7b35ff536c3f4c2330734ad538f907&v=4" width="24" alt="Avatar of ermolushka"> ermolushka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ermolushka">Copy rank badge</a><br/>
 			Alex Ermolaev
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/t1mofe1">
 				<img src="https://avatars.githubusercontent.com/u/61961709?s=72&u=0a3c2c6bfdfe90e5f8541ef6756712c2dddd5edf&v=4" width="24" alt="Avatar of t1mofe1"> t1mofe1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#t1mofe1">Copy rank badge</a><br/>
 			Timothy Myagi
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dkorobtsov">
 				<img src="https://avatars.githubusercontent.com/u/13999072?s=72&v=4" width="24" alt="Avatar of dkorobtsov"> dkorobtsov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dkorobtsov">Copy rank badge</a><br/>
 			Dmitri Korobtsov
 		</td>
 		<td>No Company</td>
@@ -3385,7 +3387,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/priiduneemre">
 				<img src="https://avatars.githubusercontent.com/u/4036940?s=72&v=4" width="24" alt="Avatar of priiduneemre"> priiduneemre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#priiduneemre">Copy rank badge</a><br/>
 			Priidu Neemre
 		</td>
 		<td>Helmes As </td>
@@ -3398,7 +3400,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/battlesnake">
 				<img src="https://avatars.githubusercontent.com/u/4949354?s=72&u=50cbb2d571715b36ed860b03107e492f1b35ceb0&v=4" width="24" alt="Avatar of battlesnake"> battlesnake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#battlesnake">Copy rank badge</a><br/>
 			Mark Cowan
 		</td>
 		<td>Potamus </td>
@@ -3411,7 +3413,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/amPerl">
 				<img src="https://avatars.githubusercontent.com/u/461652?s=72&u=f47ca833276b5e70f6babc77786c7753aa32c128&v=4" width="24" alt="Avatar of amPerl"> amPerl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#amPerl">Copy rank badge</a><br/>
 			Romet Tagobert
 		</td>
 		<td>No Company</td>
@@ -3424,7 +3426,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/shuyueW1991">
 				<img src="https://avatars.githubusercontent.com/u/28128426?s=72&u=a039377dba9586f6a9e7c34411933ce51907bed2&v=4" width="24" alt="Avatar of shuyueW1991"> shuyueW1991
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#shuyueW1991">Copy rank badge</a><br/>
 			PrgM2 (/pRˈɡem/2)
 		</td>
 		<td>Talent Medicore Holdings Group<br/></td>
@@ -3437,7 +3439,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/evindor">
 				<img src="https://avatars.githubusercontent.com/u/822951?s=72&u=8fe6a9ee0feeab27b8181dd5edef8fd93608f42e&v=4" width="24" alt="Avatar of evindor"> evindor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#evindor">Copy rank badge</a><br/>
 			Arseny Zarechnev
 		</td>
 		<td>No Company</td>
@@ -3450,7 +3452,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilkin0">
 				<img src="https://avatars.githubusercontent.com/u/46813219?s=72&u=a1c542f67552b30b3281c28dd1ae7238997400a1&v=4" width="24" alt="Avatar of ilkin0"> ilkin0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ilkin0">Copy rank badge</a><br/>
 			Ilkin Mehdiyev
 		</td>
 		<td>Wise </td>
@@ -3463,7 +3465,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/firemanxbr">
 				<img src="https://avatars.githubusercontent.com/u/2116404?s=72&u=bc57a2da5dad003252c3ad2eccb9b71011bfb892&v=4" width="24" alt="Avatar of firemanxbr"> firemanxbr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#firemanxbr">Copy rank badge</a><br/>
 			Marcelo Barbosa
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/maksimdrachov">
 				<img src="https://avatars.githubusercontent.com/u/39975120?s=72&u=293ad468c0161d9ef39d43ed8eb54cb4e6e56efa&v=4" width="24" alt="Avatar of maksimdrachov"> maksimdrachov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#maksimdrachov">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Zubax Robotics </td>
@@ -3489,7 +3491,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/subhamg">
 				<img src="https://avatars.githubusercontent.com/u/16704675?s=72&u=fba778d5c2ea4fa6efb7ac00398908f523510d8b&v=4" width="24" alt="Avatar of subhamg"> subhamg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#subhamg">Copy rank badge</a><br/>
 			Subham Goyal
 		</td>
 		<td>No Company</td>
@@ -3502,7 +3504,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jeltsch">
 				<img src="https://avatars.githubusercontent.com/u/5949153?s=72&u=c7c8a83617213618db782be78ee3c9125da0b513&v=4" width="24" alt="Avatar of jeltsch"> jeltsch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jeltsch">Copy rank badge</a><br/>
 			Wolfgang Jeltsch
 		</td>
 		<td>@well-typed </td>
@@ -3515,7 +3517,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/teanijarv">
 				<img src="https://avatars.githubusercontent.com/u/24492129?s=72&u=3b464179c2c1dbb63f14168ea974012d2b5a7a2a&v=4" width="24" alt="Avatar of teanijarv"> teanijarv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#teanijarv">Copy rank badge</a><br/>
 			Toomas Erik Anijärv
 		</td>
 		<td>Lund University </td>
@@ -3528,7 +3530,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Rahul-sinha84">
 				<img src="https://avatars.githubusercontent.com/u/60269478?s=72&u=8575fe92b816c9977759e648ed22b632108fbbd0&v=4" width="24" alt="Avatar of Rahul-sinha84"> Rahul-sinha84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Rahul-sinha84">Copy rank badge</a><br/>
 			Rahul Sinha
 		</td>
 		<td>No Company</td>
@@ -3541,7 +3543,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ledjajev">
 				<img src="https://avatars.githubusercontent.com/u/44301044?s=72&u=5da7f094ee9cabbabd4d0d5200ed4c4055776c32&v=4" width="24" alt="Avatar of ledjajev"> ledjajev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ledjajev">Copy rank badge</a><br/>
 			Roman Ledjajev
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aptyp4uk1337">
 				<img src="https://avatars.githubusercontent.com/u/44950042?s=72&u=cad6189535b0ef27afbb4c4eca26000b0a337b2b&v=4" width="24" alt="Avatar of aptyp4uk1337"> aptyp4uk1337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aptyp4uk1337">Copy rank badge</a><br/>
 			aptyp4uk1337
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/indrekj">
 				<img src="https://avatars.githubusercontent.com/u/3438?s=72&u=ea22daacd624d1a0debcd30c302a15c5517570dc&v=4" width="24" alt="Avatar of indrekj"> indrekj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#indrekj">Copy rank badge</a><br/>
 			Indrek Juhkam
 		</td>
 		<td>Glia </td>
@@ -3580,7 +3582,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/srcnalt">
 				<img src="https://avatars.githubusercontent.com/u/3163281?s=72&u=aa08aaa27edb86ec06f45fe81b4ad7a3656569bb&v=4" width="24" alt="Avatar of srcnalt"> srcnalt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#srcnalt">Copy rank badge</a><br/>
 			Sercan (Sarge) Altundas
 		</td>
 		<td>@neocortex-link </td>
@@ -3593,7 +3595,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mak7ilenin">
 				<img src="https://avatars.githubusercontent.com/u/90320393?s=72&u=b3f0497cf5017d45f313734b13d9ed51a5c3f747&v=4" width="24" alt="Avatar of mak7ilenin"> mak7ilenin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mak7ilenin">Copy rank badge</a><br/>
 			Maksim Dzjubenko
 		</td>
 		<td>No Company</td>
@@ -3606,7 +3608,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/TahaTesser">
 				<img src="https://avatars.githubusercontent.com/u/48603081?s=72&u=16712c64b5a5edc5311cebb0714645659eca4af8&v=4" width="24" alt="Avatar of TahaTesser"> TahaTesser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#TahaTesser">Copy rank badge</a><br/>
 			Taha Tesser
 		</td>
 		<td>@woltapp </td>
@@ -3619,7 +3621,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Citrullin">
 				<img src="https://avatars.githubusercontent.com/u/4502018?s=72&u=87036fb6177d277077b0db9fd3c9db94396227a7&v=4" width="24" alt="Avatar of Citrullin"> Citrullin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Citrullin">Copy rank badge</a><br/>
 			Philipp Blum
 		</td>
 		<td>Desertmonitor Oü </td>
@@ -3632,7 +3634,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tambry">
 				<img src="https://avatars.githubusercontent.com/u/1827708?s=72&u=5238ef804d29caa74775b396f92ef89b73cfc7b1&v=4" width="24" alt="Avatar of tambry"> tambry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tambry">Copy rank badge</a><br/>
 			Raul Tambre
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tormi">
 				<img src="https://avatars.githubusercontent.com/u/146800?s=72&u=3684d5668ea455225e6f6a2f31ba64665564be3c&v=4" width="24" alt="Avatar of tormi"> tormi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tormi">Copy rank badge</a><br/>
 			Tormi Tabor
 		</td>
 		<td>@wunderio </td>
@@ -3658,7 +3660,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yangdongstation">
 				<img src="https://avatars.githubusercontent.com/u/97087955?s=72&u=999aeae7f0358aa92ef48dac67b0397adaa73057&v=4" width="24" alt="Avatar of yangdongstation"> yangdongstation
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yangdongstation">Copy rank badge</a><br/>
 			Donz
 		</td>
 		<td>Dorf Pharmaceutical Gmbh </td>
@@ -3671,7 +3673,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/qtchaos">
 				<img src="https://avatars.githubusercontent.com/u/72168435?s=72&u=39a82edb3fccaf26dce442dd31586643df52d1d3&v=4" width="24" alt="Avatar of qtchaos"> qtchaos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#qtchaos">Copy rank badge</a><br/>
 			chaos
 		</td>
 		<td>No Company</td>
@@ -3684,7 +3686,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aabmets">
 				<img src="https://avatars.githubusercontent.com/u/6948036?s=72&u=55075b2191789fa9053d922f1fc45f3ad2bd771f&v=4" width="24" alt="Avatar of aabmets"> aabmets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aabmets">Copy rank badge</a><br/>
 			Mattias Aabmets
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/OLAMIDE100">
 				<img src="https://avatars.githubusercontent.com/u/40443167?s=72&u=6fe31a9c6779d35a1e2050517c077ba03c688fa3&v=4" width="24" alt="Avatar of OLAMIDE100"> OLAMIDE100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#OLAMIDE100">Copy rank badge</a><br/>
 			Adewale OLAMIDE Adesoba
 		</td>
 		<td>@nabuminds </td>
@@ -3710,7 +3712,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bntre">
 				<img src="https://avatars.githubusercontent.com/u/35361814?s=72&u=b133c642e17582ae73e92b325fd07baed9719081&v=4" width="24" alt="Avatar of bntre"> bntre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bntre">Copy rank badge</a><br/>
 			Viktor Massalogin
 		</td>
 		<td>No Company</td>
@@ -3723,7 +3725,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Arcane-01">
 				<img src="https://avatars.githubusercontent.com/u/92448515?s=72&u=861f1712ddb6a7c73913199e4983b82a48ca62aa&v=4" width="24" alt="Avatar of Arcane-01"> Arcane-01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Arcane-01">Copy rank badge</a><br/>
 			Prajyot Jadhav
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/350d">
 				<img src="https://avatars.githubusercontent.com/u/429208?s=72&u=4482588f5810f617fb74814f1ed3ec4acc033d26&v=4" width="24" alt="Avatar of 350d"> 350d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#350d">Copy rank badge</a><br/>
 			Vladimir Sobolev
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bachgarash">
 				<img src="https://avatars.githubusercontent.com/u/48382094?s=72&v=4" width="24" alt="Avatar of bachgarash"> bachgarash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bachgarash">Copy rank badge</a><br/>
 			 Bəxtiyar
 		</td>
 		<td>Zendesk </td>
@@ -3762,7 +3764,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/gpeipman">
 				<img src="https://avatars.githubusercontent.com/u/147714?s=72&v=4" width="24" alt="Avatar of gpeipman"> gpeipman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#gpeipman">Copy rank badge</a><br/>
 			Gunnar Peipman
 		</td>
 		<td>No Company</td>
@@ -3775,7 +3777,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Viktorious-x">
 				<img src="https://avatars.githubusercontent.com/u/209388864?s=72&u=d0fba9ab7d107b7dc48e6def40515067b0c7837d&v=4" width="24" alt="Avatar of Viktorious-x"> Viktorious-x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Viktorious-x">Copy rank badge</a><br/>
 			Viktor
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilyachch">
 				<img src="https://avatars.githubusercontent.com/u/1570221?s=72&u=cd7fb891c5c7ecf0c67125fdb8f76d8425535d1c&v=4" width="24" alt="Avatar of ilyachch"> ilyachch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ilyachch">Copy rank badge</a><br/>
 			Ilya Chichak
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vykhovanets">
 				<img src="https://avatars.githubusercontent.com/u/21062175?s=72&u=844208783b2a38053d685c910703b061ceeea3af&v=4" width="24" alt="Avatar of vykhovanets"> vykhovanets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vykhovanets">Copy rank badge</a><br/>
 			Anton Vykhovanets
 		</td>
 		<td>University Of Tartu </td>
@@ -3814,7 +3816,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/taivop">
 				<img src="https://avatars.githubusercontent.com/u/5147210?s=72&u=74071a7af0a53890c562dff974752e7fb688e912&v=4" width="24" alt="Avatar of taivop"> taivop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#taivop">Copy rank badge</a><br/>
 			Taivo Pungas
 		</td>
 		<td>Pactum Ai </td>
@@ -3827,7 +3829,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/speedupmate">
 				<img src="https://avatars.githubusercontent.com/u/623004?s=72&v=4" width="24" alt="Avatar of speedupmate"> speedupmate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#speedupmate">Copy rank badge</a><br/>
 			Anton Siniorg
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alcnsahin">
 				<img src="https://avatars.githubusercontent.com/u/7150214?s=72&u=fcc9d422748f43fea4981f6ee4f854953dc9e94c&v=4" width="24" alt="Avatar of alcnsahin"> alcnsahin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alcnsahin">Copy rank badge</a><br/>
 			Alican Sahin
 		</td>
 		<td>Stelikon </td>
@@ -3853,7 +3855,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ffcabbar">
 				<img src="https://avatars.githubusercontent.com/u/34713212?s=72&u=36728355349a9bac76dd98fba3a0247e07f377af&v=4" width="24" alt="Avatar of ffcabbar"> ffcabbar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ffcabbar">Copy rank badge</a><br/>
 			Furkan Cabbar
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mdsumanhalder">
 				<img src="https://avatars.githubusercontent.com/u/49319652?s=72&u=d0d2b772ad57ca0bac5b5415e473b48972994964&v=4" width="24" alt="Avatar of mdsumanhalder"> mdsumanhalder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mdsumanhalder">Copy rank badge</a><br/>
 			Suman Halder
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/martinvahi">
 				<img src="https://avatars.githubusercontent.com/u/861080?s=72&u=7d2baf1e2688fb8c217c82b5749ebdccbbb9fa4e&v=4" width="24" alt="Avatar of martinvahi"> martinvahi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#martinvahi">Copy rank badge</a><br/>
 			Martin Vahi
 		</td>
 		<td>I'm A Freelancer. </td>
@@ -3892,7 +3894,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kgilden">
 				<img src="https://avatars.githubusercontent.com/u/918599?s=72&v=4" width="24" alt="Avatar of kgilden"> kgilden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kgilden">Copy rank badge</a><br/>
 			Kristen Gilden
 		</td>
 		<td>Cto At Lydian </td>
@@ -3905,7 +3907,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/urmasa-tar">
 				<img src="https://avatars.githubusercontent.com/u/68222851?s=72&u=9f34065e3912bb729ca63705089d702ff9c6dc1f&v=4" width="24" alt="Avatar of urmasa-tar"> urmasa-tar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#urmasa-tar">Copy rank badge</a><br/>
 			Nikita Goltsev
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/eyeinsky">
 				<img src="https://avatars.githubusercontent.com/u/9335924?s=72&u=9a705923e08632a127474160db37647a7f0a245e&v=4" width="24" alt="Avatar of eyeinsky"> eyeinsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#eyeinsky">Copy rank badge</a><br/>
 			Markus Läll
 		</td>
 		<td>No Company</td>
@@ -3931,7 +3933,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/krishaamer">
 				<img src="https://avatars.githubusercontent.com/u/54409?s=72&u=963f23a338cc874a1a5a96ecf46098cf80e15430&v=4" width="24" alt="Avatar of krishaamer"> krishaamer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#krishaamer">Copy rank badge</a><br/>
 			Kris Haamer
 		</td>
 		<td>Haamer Ventures Oü </td>
@@ -3944,7 +3946,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Lauriy">
 				<img src="https://avatars.githubusercontent.com/u/592465?s=72&u=705d23f20cd2eadb29ecb7a6d4c8c6ff20164df5&v=4" width="24" alt="Avatar of Lauriy"> Lauriy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Lauriy">Copy rank badge</a><br/>
 			Lauri Elias
 		</td>
 		<td>Registrite Ja Infosüsteemide Keskus<br/></td>
@@ -3957,7 +3959,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tarpsvo">
 				<img src="https://avatars.githubusercontent.com/u/2018660?s=72&u=d46592c830bc210ea9b4baa11844ca74197158f6&v=4" width="24" alt="Avatar of Tarpsvo"> Tarpsvo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Tarpsvo">Copy rank badge</a><br/>
 			Tarvo R.
 		</td>
 		<td>@versioon  </td>
@@ -3970,7 +3972,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/takuyajodai">
 				<img src="https://avatars.githubusercontent.com/u/34891064?s=72&u=38e1f617b82ba634e0847ce0d5e6fe4532c0de44&v=4" width="24" alt="Avatar of takuyajodai"> takuyajodai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#takuyajodai">Copy rank badge</a><br/>
 			Takuya Jodai
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/h0ssein2011">
 				<img src="https://avatars.githubusercontent.com/u/11961586?s=72&u=91cec4438542192f92606d62dde2e9171bed7ee7&v=4" width="24" alt="Avatar of h0ssein2011"> h0ssein2011
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#h0ssein2011">Copy rank badge</a><br/>
 			Hossein Mortazavi
 		</td>
 		<td>@hautaiou  </td>
@@ -3996,7 +3998,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/SarperMUTLUBAY">
 				<img src="https://avatars.githubusercontent.com/u/10811371?s=72&u=367662e97e8dd0cf634fba88ac76ca68ceadb8a9&v=4" width="24" alt="Avatar of SarperMUTLUBAY"> SarperMUTLUBAY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#SarperMUTLUBAY">Copy rank badge</a><br/>
 			Sarper MUTLUBAY
 		</td>
 		<td>Senior Software Developer At<br/>Yolo<br/>Group<br/></td>
@@ -4009,7 +4011,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/wacumov">
 				<img src="https://avatars.githubusercontent.com/u/2861871?s=72&u=9cacc1abd1f6be273ec6dd5ba6b36c414be3625d&v=4" width="24" alt="Avatar of wacumov"> wacumov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#wacumov">Copy rank badge</a><br/>
 			Mikhail Akopov
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yasinaydinnet">
 				<img src="https://avatars.githubusercontent.com/u/1379677?s=72&u=b5cc1c816b39d866036a09e7378fb935610d0507&v=4" width="24" alt="Avatar of yasinaydinnet"> yasinaydinnet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yasinaydinnet">Copy rank badge</a><br/>
 			Ozgur Yasin Aydin
 		</td>
 		<td>@stratasys @grabcad </td>
@@ -4035,7 +4037,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dayvheed">
 				<img src="https://avatars.githubusercontent.com/u/64303406?s=72&u=2ac6db482509b065977ea0147fa773655472bd66&v=4" width="24" alt="Avatar of dayvheed"> dayvheed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dayvheed">Copy rank badge</a><br/>
 			David Obembe
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreasvirkus">
 				<img src="https://avatars.githubusercontent.com/u/9140811?s=72&u=6fa2d7a5869b90fed0b36e8c626907a91b0a22b4&v=4" width="24" alt="Avatar of andreasvirkus"> andreasvirkus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andreasvirkus">Copy rank badge</a><br/>
 			andreas
 		</td>
 		<td>@bufferapp </td>
@@ -4061,7 +4063,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Timo654">
 				<img src="https://avatars.githubusercontent.com/u/41972888?s=72&u=48ddccd6fb46aee1992aeb6a23e664a36b283af7&v=4" width="24" alt="Avatar of Timo654"> Timo654
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Timo654">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/int02h">
 				<img src="https://avatars.githubusercontent.com/u/2471447?s=72&u=d62e3837c90dc066fe114cfc6514ea75510d72e6&v=4" width="24" alt="Avatar of int02h"> int02h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#int02h">Copy rank badge</a><br/>
 			Daniil Popov
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/gCoreByte">
 				<img src="https://avatars.githubusercontent.com/u/21132799?s=72&u=242377fb56971d7209faff1b3f3c6eb1880b2d53&v=4" width="24" alt="Avatar of gCoreByte"> gCoreByte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#gCoreByte">Copy rank badge</a><br/>
 			Martin Hans Keskküla
 		</td>
 		<td>No Company</td>
@@ -4100,7 +4102,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ProstoSanja">
 				<img src="https://avatars.githubusercontent.com/u/26527928?s=72&u=ee9153417892c3ccfdec65ea7cacf319fa7c051d&v=4" width="24" alt="Avatar of ProstoSanja"> ProstoSanja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ProstoSanja">Copy rank badge</a><br/>
 			Alex Tsernoh
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/erkkimon">
 				<img src="https://avatars.githubusercontent.com/u/2260825?s=72&u=df0a69963b005dd243ddd0aceb1b9ac02f94627c&v=4" width="24" alt="Avatar of erkkimon"> erkkimon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#erkkimon">Copy rank badge</a><br/>
 			Tom Himanen
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andresv">
 				<img src="https://avatars.githubusercontent.com/u/809232?s=72&u=1501f31e613ad139430ab9f5a49e9378a39a952f&v=4" width="24" alt="Avatar of andresv"> andresv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andresv">Copy rank badge</a><br/>
 			Andres Vahter
 		</td>
 		<td>No Company</td>
@@ -4139,7 +4141,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kallaspriit">
 				<img src="https://avatars.githubusercontent.com/u/277993?s=72&u=d56c9f9553c01010900c7503f705aa3849fb90be&v=4" width="24" alt="Avatar of kallaspriit"> kallaspriit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kallaspriit">Copy rank badge</a><br/>
 			Priit Kallas
 		</td>
 		<td>Stagnation Lab </td>
@@ -4152,7 +4154,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/trillllian">
 				<img src="https://avatars.githubusercontent.com/u/10598847?s=72&u=495d4fcccfb27bdd996fc943bd62d5fe65d604ea&v=4" width="24" alt="Avatar of trillllian"> trillllian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#trillllian">Copy rank badge</a><br/>
 			trillian
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/marklit">
 				<img src="https://avatars.githubusercontent.com/u/359316?s=72&u=92c62a2421244bdf7a548264f8269fa95bf69423&v=4" width="24" alt="Avatar of marklit"> marklit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#marklit">Copy rank badge</a><br/>
 			Mark Litwintschik
 		</td>
 		<td>No Company</td>
@@ -4178,7 +4180,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/take-five">
 				<img src="https://avatars.githubusercontent.com/u/1209413?s=72&v=4" width="24" alt="Avatar of take-five"> take-five
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#take-five">Copy rank badge</a><br/>
 			Alexey Mikhaylov
 		</td>
 		<td>@salemove  </td>
@@ -4191,7 +4193,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nanobash">
 				<img src="https://avatars.githubusercontent.com/u/6716383?s=72&u=b61a0c4dd68206e31ac4ff0af12eef37e99f63e3&v=4" width="24" alt="Avatar of nanobash"> nanobash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nanobash">Copy rank badge</a><br/>
 			Tornike Nanobashvili
 		</td>
 		<td>No Company</td>
@@ -4204,7 +4206,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/karelnagel">
 				<img src="https://avatars.githubusercontent.com/u/65607486?s=72&v=4" width="24" alt="Avatar of karelnagel"> karelnagel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#karelnagel">Copy rank badge</a><br/>
 			Karel
 		</td>
 		<td>Asius </td>
@@ -4217,7 +4219,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/teddymwai">
 				<img src="https://avatars.githubusercontent.com/u/44863177?s=72&u=ece6bf6eb13666eb5d1906929839b2d3b64c2f45&v=4" width="24" alt="Avatar of teddymwai"> teddymwai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#teddymwai">Copy rank badge</a><br/>
 			Ted Mwai
 		</td>
 		<td>The Tta Limited </td>
@@ -4230,7 +4232,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MohamedRagabAnas">
 				<img src="https://avatars.githubusercontent.com/u/39013653?s=72&u=72dce557bcfba83aeced7ba202b1e6875d146134&v=4" width="24" alt="Avatar of MohamedRagabAnas"> MohamedRagabAnas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MohamedRagabAnas">Copy rank badge</a><br/>
 			Mohamed Ragab
 		</td>
 		<td>Datasystems Lab, University Of<br/>Tartu<br/></td>
@@ -4243,7 +4245,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jyrno42">
 				<img src="https://avatars.githubusercontent.com/u/235804?s=72&v=4" width="24" alt="Avatar of Jyrno42"> Jyrno42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Jyrno42">Copy rank badge</a><br/>
 			Jürno Ader
 		</td>
 		<td>Thorgate </td>
@@ -4256,7 +4258,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cancit">
 				<img src="https://avatars.githubusercontent.com/u/9624502?s=72&u=d5bb2c897896e7f60b20b5a2b395f62dc44ea0c5&v=4" width="24" alt="Avatar of cancit"> cancit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cancit">Copy rank badge</a><br/>
 			Can Çitoğlu
 		</td>
 		<td>@twilio </td>
@@ -4269,7 +4271,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tanelj">
 				<img src="https://avatars.githubusercontent.com/u/378755?s=72&v=4" width="24" alt="Avatar of tanelj"> tanelj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tanelj">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Voog </td>
@@ -4282,7 +4284,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihkeleidast">
 				<img src="https://avatars.githubusercontent.com/u/1892091?s=72&u=2ae68c3ca3fd608e98898ef81e2783f6a24dd252&v=4" width="24" alt="Avatar of mihkeleidast"> mihkeleidast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mihkeleidast">Copy rank badge</a><br/>
 			Mihkel Eidast
 		</td>
 		<td>Telia </td>
@@ -4295,7 +4297,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/teeotsa">
 				<img src="https://avatars.githubusercontent.com/u/78772453?s=72&u=eca2fad19287bd06424f869e8c65e95470c5e30b&v=4" width="24" alt="Avatar of teeotsa"> teeotsa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#teeotsa">Copy rank badge</a><br/>
 			Teeotsa
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ali-gol">
 				<img src="https://avatars.githubusercontent.com/u/10787126?s=72&u=639b32b22d2feb4fb7ae26e710da3a9f7de1c108&v=4" width="24" alt="Avatar of ali-gol"> ali-gol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ali-gol">Copy rank badge</a><br/>
 			Ali Göl
 		</td>
 		<td>@microsoft </td>
@@ -4321,7 +4323,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/berkerdemirer">
 				<img src="https://avatars.githubusercontent.com/u/6699409?s=72&u=e2e0eb413348084830316b8ca7a2162253fbb4a5&v=4" width="24" alt="Avatar of berkerdemirer"> berkerdemirer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#berkerdemirer">Copy rank badge</a><br/>
 			Berker Demirer
 		</td>
 		<td>Turnit Ou </td>
@@ -4334,7 +4336,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ali-zahedi">
 				<img src="https://avatars.githubusercontent.com/u/5299864?s=72&u=3dde99c29a6d80f10436faa99dbba089452027de&v=4" width="24" alt="Avatar of ali-zahedi"> ali-zahedi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ali-zahedi">Copy rank badge</a><br/>
 			Ali Zahedigol
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/segaz2002">
 				<img src="https://avatars.githubusercontent.com/u/3873358?s=72&u=2633cc11e5c3a9a1e6fc91bd86adcf2f5283657a&v=4" width="24" alt="Avatar of segaz2002"> segaz2002
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#segaz2002">Copy rank badge</a><br/>
 			Gabriel
 		</td>
 		<td>@heathmont  </td>
@@ -4360,7 +4362,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/macobo">
 				<img src="https://avatars.githubusercontent.com/u/148820?s=72&v=4" width="24" alt="Avatar of macobo"> macobo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#macobo">Copy rank badge</a><br/>
 			Karl-Aksel Puulmann
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/karoliineh">
 				<img src="https://avatars.githubusercontent.com/u/44437975?s=72&u=f28626bf3c566e4d4de4294a3cabb98291f956e1&v=4" width="24" alt="Avatar of karoliineh"> karoliineh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#karoliineh">Copy rank badge</a><br/>
 			Karoliine Holter
 		</td>
 		<td>University Of Tartu </td>
@@ -4386,7 +4388,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/timotr">
 				<img src="https://avatars.githubusercontent.com/u/2481455?s=72&v=4" width="24" alt="Avatar of timotr"> timotr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#timotr">Copy rank badge</a><br/>
 			Timo Triisa
 		</td>
 		<td>@tallinna-polutehnik @zetabit-ou  </td>
@@ -4399,7 +4401,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/codersclub">
 				<img src="https://avatars.githubusercontent.com/u/3078296?s=72&u=c212ea18778ddcdb3c7b8c0401bbe7ba464867b0&v=4" width="24" alt="Avatar of codersclub"> codersclub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#codersclub">Copy rank badge</a><br/>
 			Valery Votintsev
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Siim">
 				<img src="https://avatars.githubusercontent.com/u/44247?s=72&u=f90b3c6bb9ad6f8798af024c0bed21c41a61f959&v=4" width="24" alt="Avatar of Siim"> Siim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Siim">Copy rank badge</a><br/>
 			Siim Haugas
 		</td>
 		<td>@haugasdev  </td>
@@ -4425,7 +4427,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KartulUdus">
 				<img src="https://avatars.githubusercontent.com/u/23346150?s=72&u=ef44ca90b62b4e91bf81dc644066c349fe38bfa6&v=4" width="24" alt="Avatar of KartulUdus"> KartulUdus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KartulUdus">Copy rank badge</a><br/>
 			Derek Mäekask
 		</td>
 		<td>@poraclejs  </td>
@@ -4438,7 +4440,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cravler">
 				<img src="https://avatars.githubusercontent.com/u/157440?s=72&v=4" width="24" alt="Avatar of cravler"> cravler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cravler">Copy rank badge</a><br/>
 			Sergei Vizel
 		</td>
 		<td>Modera </td>
@@ -4451,7 +4453,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lafin">
 				<img src="https://avatars.githubusercontent.com/u/1105640?s=72&u=113599e78ec4167f2225fcfa1c5517df5bc8ed51&v=4" width="24" alt="Avatar of lafin"> lafin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lafin">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4464,7 +4466,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Pomis">
 				<img src="https://avatars.githubusercontent.com/u/7953442?s=72&u=cfe96becfb9d080bce190cdd04e2ffc5fdfc89ab&v=4" width="24" alt="Avatar of Pomis"> Pomis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Pomis">Copy rank badge</a><br/>
 			Roman Ismagilov
 		</td>
 		<td>No Company</td>
@@ -4477,7 +4479,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KadriGbemi">
 				<img src="https://avatars.githubusercontent.com/u/36003131?s=72&u=eb37f9a6e138a8b7eb7ba780202b2cf890212310&v=4" width="24" alt="Avatar of KadriGbemi"> KadriGbemi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KadriGbemi">Copy rank badge</a><br/>
 			Gbemi Kadri
 		</td>
 		<td>No Company</td>
@@ -4490,7 +4492,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/brurucy">
 				<img src="https://avatars.githubusercontent.com/u/26032762?s=72&u=b86dd7f6b6a57e50d39db08cf5a7d356df490a88&v=4" width="24" alt="Avatar of brurucy"> brurucy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#brurucy">Copy rank badge</a><br/>
 			Rucy
 		</td>
 		<td>No Company</td>
@@ -4503,7 +4505,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MrTolerant">
 				<img src="https://avatars.githubusercontent.com/u/11419648?s=72&u=d37a7bb060bdb864494771c8dbb38e0a8ee4cefe&v=4" width="24" alt="Avatar of MrTolerant"> MrTolerant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MrTolerant">Copy rank badge</a><br/>
 			Petr Lebedev
 		</td>
 		<td>Bolt.eu </td>
@@ -4516,7 +4518,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kiote">
 				<img src="https://avatars.githubusercontent.com/u/123637?s=72&u=af21dc6c2dedb608cdce5a409e88e612c8f0951a&v=4" width="24" alt="Avatar of kiote"> kiote
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kiote">Copy rank badge</a><br/>
 			Ёkaterina Krivich 
 		</td>
 		<td>No Company</td>
@@ -4529,7 +4531,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrusrinde">
 				<img src="https://avatars.githubusercontent.com/u/29426077?s=72&u=483f418a18a7634d0bf84ae9c79eff5448c3060a&v=4" width="24" alt="Avatar of andrusrinde"> andrusrinde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#andrusrinde">Copy rank badge</a><br/>
 			Andrus Rinde
 		</td>
 		<td>Tlu </td>
@@ -4542,7 +4544,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hamedtorky">
 				<img src="https://avatars.githubusercontent.com/u/4295831?s=72&u=bcae07c30aa7e6e6fcc6579d072e54570e42d148&v=4" width="24" alt="Avatar of hamedtorky"> hamedtorky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hamedtorky">Copy rank badge</a><br/>
 			Hamed Torki
 		</td>
 		<td>Karl Stors </td>
@@ -4555,7 +4557,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/christiansafka">
 				<img src="https://avatars.githubusercontent.com/u/11287167?s=72&u=7b0ca25beffc726b35a716f543489d1f80b0a82f&v=4" width="24" alt="Avatar of christiansafka"> christiansafka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#christiansafka">Copy rank badge</a><br/>
 			Christian Safka
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bquinn">
 				<img src="https://avatars.githubusercontent.com/u/309976?s=72&u=87602d68220b875ad84b6cc96db16781e5cef1b9&v=4" width="24" alt="Avatar of bquinn"> bquinn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bquinn">Copy rank badge</a><br/>
 			Brendan Quinn
 		</td>
 		<td>International Press Telecommunications Council<br/>(@iptc)<br/></td>
@@ -4581,7 +4583,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ezeji">
 				<img src="https://avatars.githubusercontent.com/u/21057184?s=72&u=003eee3922f0c7e49ebf14d183c9fbfb94b40fc1&v=4" width="24" alt="Avatar of Ezeji"> Ezeji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ezeji">Copy rank badge</a><br/>
 			Franklin Ezeji
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/DaveChambers">
 				<img src="https://avatars.githubusercontent.com/u/419144?s=72&u=606e53d0fb54300540e57c883faa4803e1db8af5&v=4" width="24" alt="Avatar of DaveChambers"> DaveChambers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#DaveChambers">Copy rank badge</a><br/>
 			Dave Chambers
 		</td>
 		<td>Make Electronic Sound Oü<br/></td>
@@ -4607,7 +4609,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vusallyv">
 				<img src="https://avatars.githubusercontent.com/u/85983771?s=72&u=620ce103dcdc47953c952bb8d402a9cf8199014d&v=4" width="24" alt="Avatar of vusallyv"> vusallyv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vusallyv">Copy rank badge</a><br/>
 			Vusal Abdullayev
 		</td>
 		<td>No Company</td>
@@ -4620,7 +4622,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/B1v000r">
 				<img src="https://avatars.githubusercontent.com/u/111271258?s=72&u=549dc5adee4244c7664f04d8d61e25ab052e6641&v=4" width="24" alt="Avatar of B1v000r"> B1v000r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#B1v000r">Copy rank badge</a><br/>
 			Jon3 RuizZ
 		</td>
 		<td>Nebulacode Labs </td>
@@ -4633,7 +4635,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/biomousavi">
 				<img src="https://avatars.githubusercontent.com/u/52695644?s=72&u=f0715720445e883145b4b585d60a68e4df86829e&v=4" width="24" alt="Avatar of biomousavi"> biomousavi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#biomousavi">Copy rank badge</a><br/>
 			Nick Mousavi
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hendrikmolder">
 				<img src="https://avatars.githubusercontent.com/u/8231447?s=72&u=e944f782e812968eb1bb9ac6e721e32a0dd1e850&v=4" width="24" alt="Avatar of hendrikmolder"> hendrikmolder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hendrikmolder">Copy rank badge</a><br/>
 			Hendrik Mölder
 		</td>
 		<td>@transferwise </td>
@@ -4659,7 +4661,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/gglukmann">
 				<img src="https://avatars.githubusercontent.com/u/1226090?s=72&u=8d6b5a0cbc4f16adf1ce40ec3653c4eb000848db&v=4" width="24" alt="Avatar of gglukmann"> gglukmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#gglukmann">Copy rank badge</a><br/>
 			Gert Glükmann
 		</td>
 		<td>@ringit  </td>
@@ -4672,7 +4674,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/otttooming">
 				<img src="https://avatars.githubusercontent.com/u/1558429?s=72&u=a36412166091e774c87a2f1db7e91d3944bbe1d4&v=4" width="24" alt="Avatar of otttooming"> otttooming
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#otttooming">Copy rank badge</a><br/>
 			Ott Tooming
 		</td>
 		<td>@pipedrive  </td>
@@ -4685,7 +4687,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/geegog">
 				<img src="https://avatars.githubusercontent.com/u/11021390?s=72&u=327fe606f37a0b852ad9c98f84ecd5a1fc22d41d&v=4" width="24" alt="Avatar of geegog"> geegog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#geegog">Copy rank badge</a><br/>
 			Onuche Idoko
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hatemets">
 				<img src="https://avatars.githubusercontent.com/u/17316944?s=72&u=51e4d71cca6b8c32ccd1ec7ea4bee5cbd3aa351c&v=4" width="24" alt="Avatar of hatemets"> hatemets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hatemets">Copy rank badge</a><br/>
 			Mark
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pongstr">
 				<img src="https://avatars.githubusercontent.com/u/962502?s=72&u=321d755d9d3bc55f75de8c076a87e2359affdb4c&v=4" width="24" alt="Avatar of pongstr"> pongstr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pongstr">Copy rank badge</a><br/>
 			pongstr
 		</td>
 		<td>No Company</td>
@@ -4724,7 +4726,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/leio">
 				<img src="https://avatars.githubusercontent.com/u/133723?s=72&v=4" width="24" alt="Avatar of leio"> leio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#leio">Copy rank badge</a><br/>
 			Mart Raudsepp
 		</td>
 		<td>No Company</td>
@@ -4737,7 +4739,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nathanjohnson320">
 				<img src="https://avatars.githubusercontent.com/u/1680341?s=72&u=42e40527dc45f359cd18508cc9cf0a7889348c87&v=4" width="24" alt="Avatar of nathanjohnson320"> nathanjohnson320
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nathanjohnson320">Copy rank badge</a><br/>
 			Nathaniel Johnson
 		</td>
 		<td>Stord </td>
@@ -4750,7 +4752,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/l3m4rk">
 				<img src="https://avatars.githubusercontent.com/u/1269054?s=72&u=f126a0bf1acd5ecce69c2fd51ec2a1ad2388e08e&v=4" width="24" alt="Avatar of l3m4rk"> l3m4rk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#l3m4rk">Copy rank badge</a><br/>
 			Dmitri Baranov
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikhilmufc7">
 				<img src="https://avatars.githubusercontent.com/u/20841184?s=72&u=0b9751a4772875fb46aa7dc5d90e4d3c526cc79c&v=4" width="24" alt="Avatar of nikhilmufc7"> nikhilmufc7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nikhilmufc7">Copy rank badge</a><br/>
 			Nikhil Singh
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/SlyEcho">
 				<img src="https://avatars.githubusercontent.com/u/795193?s=72&v=4" width="24" alt="Avatar of SlyEcho"> SlyEcho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#SlyEcho">Copy rank badge</a><br/>
 			Henri Vasserman
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/supercede">
 				<img src="https://avatars.githubusercontent.com/u/40580668?s=72&u=9def6f439332d990b35607438ae515273c10583c&v=4" width="24" alt="Avatar of supercede"> supercede
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#supercede">Copy rank badge</a><br/>
 			Ade
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Avamander">
 				<img src="https://avatars.githubusercontent.com/u/5392141?s=72&v=4" width="24" alt="Avatar of Avamander"> Avamander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Avamander">Copy rank badge</a><br/>
 			Avamander
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndresKasekamp">
 				<img src="https://avatars.githubusercontent.com/u/60301371?s=72&u=4d234c4e0e7d40364f914bc108f316721fd59119&v=4" width="24" alt="Avatar of AndresKasekamp"> AndresKasekamp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AndresKasekamp">Copy rank badge</a><br/>
 			Andres Kasekamp
 		</td>
 		<td>Industry62 </td>
@@ -4828,7 +4830,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ayush000">
 				<img src="https://avatars.githubusercontent.com/u/1942688?s=72&u=86ad64cf996a0ad706e7c3ce5f5cc9421434b9c5&v=4" width="24" alt="Avatar of ayush000"> ayush000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ayush000">Copy rank badge</a><br/>
 			Ayush Sachdeva
 		</td>
 		<td>Pipedrive </td>
@@ -4841,7 +4843,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErnstVis">
 				<img src="https://avatars.githubusercontent.com/u/186874059?s=72&u=840e9f21d782a153a984042a582cae1211327cd2&v=4" width="24" alt="Avatar of ErnstVis"> ErnstVis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ErnstVis">Copy rank badge</a><br/>
 			Ernst Visnapuu
 		</td>
 		<td>Saksa Automaatika Oü </td>
@@ -4854,7 +4856,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ex-ce-pt">
 				<img src="https://avatars.githubusercontent.com/u/95159805?s=72&u=b9588ba4a6739c30fd43aa88565209c5948469df&v=4" width="24" alt="Avatar of Ex-ce-pt"> Ex-ce-pt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ex-ce-pt">Copy rank badge</a><br/>
 			Exedice
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/artizirk">
 				<img src="https://avatars.githubusercontent.com/u/1923870?s=72&u=187121a6d6c5d8eb951d1469479332c1ef0da658&v=4" width="24" alt="Avatar of artizirk"> artizirk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#artizirk">Copy rank badge</a><br/>
 			Arti Zirk
 		</td>
 		<td>@messente </td>
@@ -4880,7 +4882,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/angelorange">
 				<img src="https://avatars.githubusercontent.com/u/40286179?s=72&u=b2a6bb0fc9e1a87ad5c823b15593e08cf126233e&v=4" width="24" alt="Avatar of angelorange"> angelorange
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#angelorange">Copy rank badge</a><br/>
 			Angel Larangeira
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/gusmagnago">
 				<img src="https://avatars.githubusercontent.com/u/52537013?s=72&u=9d83340f1f5a95fc68341e6ef72ce35d7f23d276&v=4" width="24" alt="Avatar of gusmagnago"> gusmagnago
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#gusmagnago">Copy rank badge</a><br/>
 			Gustavo Magnago
 		</td>
 		<td>Looking For The Next<br/>Challenge<br/></td>
@@ -4906,7 +4908,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/HarrisonHough">
 				<img src="https://avatars.githubusercontent.com/u/7085672?s=72&u=98c923d7da48c70a1206f0d1e307d666ce9732e4&v=4" width="24" alt="Avatar of HarrisonHough"> HarrisonHough
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#HarrisonHough">Copy rank badge</a><br/>
 			Harrison Hough
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/priitlatt">
 				<img src="https://avatars.githubusercontent.com/u/2756611?s=72&v=4" width="24" alt="Avatar of priitlatt"> priitlatt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#priitlatt">Copy rank badge</a><br/>
 			Priit Lätt
 		</td>
 		<td>Nevercode </td>
@@ -4932,7 +4934,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dssysolyatin">
 				<img src="https://avatars.githubusercontent.com/u/1016070?s=72&u=eb63055b34669dcf15f21b4568dcdde50b83ab83&v=4" width="24" alt="Avatar of dssysolyatin"> dssysolyatin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dssysolyatin">Copy rank badge</a><br/>
 			Dmitry Sysolyatin
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/magna413">
 				<img src="https://avatars.githubusercontent.com/u/35832741?s=72&v=4" width="24" alt="Avatar of magna413"> magna413
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#magna413">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/deiwin">
 				<img src="https://avatars.githubusercontent.com/u/2261897?s=72&v=4" width="24" alt="Avatar of deiwin"> deiwin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#deiwin">Copy rank badge</a><br/>
 			Deiwin Sarjas
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/oladetoungee">
 				<img src="https://avatars.githubusercontent.com/u/78593693?s=72&u=78fac23d9464ed0ccaca23e1c74e636ddac567eb&v=4" width="24" alt="Avatar of oladetoungee"> oladetoungee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#oladetoungee">Copy rank badge</a><br/>
 			Gbemisola
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nklya">
 				<img src="https://avatars.githubusercontent.com/u/26086394?s=72&u=437558ff3d5da98679241304d54f2c223ce9169e&v=4" width="24" alt="Avatar of Nklya"> Nklya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Nklya">Copy rank badge</a><br/>
 			Nicolai Antiferov
 		</td>
 		<td>No Company</td>
@@ -4997,7 +4999,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pahans">
 				<img src="https://avatars.githubusercontent.com/u/1552869?s=72&u=c643fdb2c3fddd68fbea5522effb807af427d828&v=4" width="24" alt="Avatar of pahans"> pahans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pahans">Copy rank badge</a><br/>
 			Pahan Sarathchandra
 		</td>
 		<td>No Company</td>
@@ -5010,7 +5012,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/LunaSquee">
 				<img src="https://avatars.githubusercontent.com/u/6363179?s=72&u=8612ba4faea8d07f345056454ca4e2ea3a3b9661&v=4" width="24" alt="Avatar of LunaSquee"> LunaSquee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#LunaSquee">Copy rank badge</a><br/>
 			Evert Prants
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/stamkivi">
 				<img src="https://avatars.githubusercontent.com/u/5263291?s=72&v=4" width="24" alt="Avatar of stamkivi"> stamkivi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#stamkivi">Copy rank badge</a><br/>
 			Sten
 		</td>
 		<td>Plural </td>
@@ -5036,7 +5038,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Gapur">
 				<img src="https://avatars.githubusercontent.com/u/10502684?s=72&u=3354ee79891c28069f9002e42167d358312a91fd&v=4" width="24" alt="Avatar of Gapur"> Gapur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Gapur">Copy rank badge</a><br/>
 			Gapur Kassym
 		</td>
 		<td>Twilio </td>
@@ -5049,7 +5051,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vvsevolodovich">
 				<img src="https://avatars.githubusercontent.com/u/1196106?s=72&u=95102fe473eb81b5f40cdaa412ce1aca931cdf1d&v=4" width="24" alt="Avatar of vvsevolodovich"> vvsevolodovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vvsevolodovich">Copy rank badge</a><br/>
 			Vladimir Ivanov
 		</td>
 		<td>Supplied Ai </td>
@@ -5062,7 +5064,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aozisik">
 				<img src="https://avatars.githubusercontent.com/u/735011?s=72&u=9b7144249ded24b3dd26100ba0dd37b3f2ea0f72&v=4" width="24" alt="Avatar of aozisik"> aozisik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aozisik">Copy rank badge</a><br/>
 			Ahmet Özışık
 		</td>
 		<td>Swiftmade </td>
@@ -5075,7 +5077,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/markuskont">
 				<img src="https://avatars.githubusercontent.com/u/7421406?s=72&u=c28f2f860b8e35ac38baf392eb698349f21c6859&v=4" width="24" alt="Avatar of markuskont"> markuskont
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#markuskont">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Stamus Networks </td>
@@ -5088,7 +5090,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ArCiGo">
 				<img src="https://avatars.githubusercontent.com/u/32103862?s=72&u=5c6f15e7a07f73f010d813111bc30a2ecf255fc5&v=4" width="24" alt="Avatar of ArCiGo"> ArCiGo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ArCiGo">Copy rank badge</a><br/>
 			Armando Cifuentes
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/viktor-ku">
 				<img src="https://avatars.githubusercontent.com/u/12882743?s=72&u=d361e6eb3014c06a1e21e83502fa99a3408c0fc1&v=4" width="24" alt="Avatar of viktor-ku"> viktor-ku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#viktor-ku">Copy rank badge</a><br/>
 			Viktor Ku
 		</td>
 		<td>No Company</td>
@@ -5114,7 +5116,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nooitaf">
 				<img src="https://avatars.githubusercontent.com/u/1898194?s=72&u=48dcfcfe107b96e353660b4db3c2ed080d5af16c&v=4" width="24" alt="Avatar of nooitaf"> nooitaf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nooitaf">Copy rank badge</a><br/>
 			Ralf Brandenstein
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KasparRosin">
 				<img src="https://avatars.githubusercontent.com/u/33309407?s=72&u=d8ccd345cf3f4a3223a64270a8e0daf2ba4b33eb&v=4" width="24" alt="Avatar of KasparRosin"> KasparRosin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KasparRosin">Copy rank badge</a><br/>
 			Kaspar Rosin
 		</td>
 		<td>@outl1ne  </td>
@@ -5140,7 +5142,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zi9">
 				<img src="https://avatars.githubusercontent.com/u/17174057?s=72&u=9de45f0a8cf898d555f21b5807513a6cbe505922&v=4" width="24" alt="Avatar of Zi9"> Zi9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Zi9">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/herkyl">
 				<img src="https://avatars.githubusercontent.com/u/714950?s=72&u=a764bad21dace4698f6186fd779d8ed55d495103&v=4" width="24" alt="Avatar of herkyl"> herkyl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#herkyl">Copy rank badge</a><br/>
 			Serge
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tashik">
 				<img src="https://avatars.githubusercontent.com/u/3192254?s=72&u=aa90b46e4519ff3cb35f4d3c03748948d8adbb03&v=4" width="24" alt="Avatar of tashik"> tashik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tashik">Copy rank badge</a><br/>
 			Nataly Andries
 		</td>
 		<td>My-self </td>
@@ -5179,7 +5181,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cebthedev">
 				<img src="https://avatars.githubusercontent.com/u/8844096?s=72&u=c8de082c621e93ad677e8e073b72373e3ae2e632&v=4" width="24" alt="Avatar of cebthedev"> cebthedev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cebthedev">Copy rank badge</a><br/>
 			Lorem Ipsum
 		</td>
 		<td>Thoughtworks </td>
@@ -5192,7 +5194,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hudolejev">
 				<img src="https://avatars.githubusercontent.com/u/233645?s=72&v=4" width="24" alt="Avatar of hudolejev"> hudolejev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hudolejev">Copy rank badge</a><br/>
 			Juri Hudolejev
 		</td>
 		<td>No Company</td>
@@ -5205,7 +5207,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/artkegor">
 				<img src="https://avatars.githubusercontent.com/u/94122694?s=72&v=4" width="24" alt="Avatar of artkegor"> artkegor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#artkegor">Copy rank badge</a><br/>
 			Egor Artamonov
 		</td>
 		<td>No Company</td>
@@ -5218,7 +5220,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mustafadalga">
 				<img src="https://avatars.githubusercontent.com/u/25087769?s=72&u=e09ace96e8fec8778ce7161a1fc45a63316524e6&v=4" width="24" alt="Avatar of mustafadalga"> mustafadalga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mustafadalga">Copy rank badge</a><br/>
 			Mustafa Dalga
 		</td>
 		<td>No Company</td>
@@ -5231,7 +5233,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jtagcat">
 				<img src="https://avatars.githubusercontent.com/u/38327267?s=72&u=966b048d4cfc095ac413d0369b4cb93978ff9b34&v=4" width="24" alt="Avatar of jtagcat"> jtagcat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jtagcat">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5244,7 +5246,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/VitalySvyatyuk">
 				<img src="https://avatars.githubusercontent.com/u/10582918?s=72&u=a2e3b49fc4beb376faf6461a89824042848afe85&v=4" width="24" alt="Avatar of VitalySvyatyuk"> VitalySvyatyuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#VitalySvyatyuk">Copy rank badge</a><br/>
 			Vitaly Svyatyuk
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dies">
 				<img src="https://avatars.githubusercontent.com/u/80762?s=72&u=7e93103d8dff62d4ca8af736ffd06670ab4003d9&v=4" width="24" alt="Avatar of dies"> dies
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dies">Copy rank badge</a><br/>
 			Serhiy Dmytryshyn
 		</td>
 		<td>@crowdin </td>
@@ -5270,7 +5272,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/celalergun">
 				<img src="https://avatars.githubusercontent.com/u/28855324?s=72&v=4" width="24" alt="Avatar of celalergun"> celalergun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#celalergun">Copy rank badge</a><br/>
 			Celal Ergun
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sleekyom">
 				<img src="https://avatars.githubusercontent.com/u/43440929?s=72&u=b74bef8057c36171285e7e1da8f7728cc1b98ef0&v=4" width="24" alt="Avatar of sleekyom"> sleekyom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sleekyom">Copy rank badge</a><br/>
 			Emmanuel Kolawole
 		</td>
 		<td>No Company</td>
@@ -5296,7 +5298,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomialagbe">
 				<img src="https://avatars.githubusercontent.com/u/5705923?s=72&u=abdffe6be35b7573eb0aa21d44d3d139dd472d69&v=4" width="24" alt="Avatar of tomialagbe"> tomialagbe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tomialagbe">Copy rank badge</a><br/>
 			Tomi Alagbe
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/graup">
 				<img src="https://avatars.githubusercontent.com/u/898549?s=72&u=62a4bb9636ebad6b7730d197fb886d62489c73d3&v=4" width="24" alt="Avatar of graup"> graup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#graup">Copy rank badge</a><br/>
 			Paul Grau
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/zhaoyiming0803">
 				<img src="https://avatars.githubusercontent.com/u/25874685?s=72&u=c849844dfec45d14c2c86fffa68667e25dbf2261&v=4" width="24" alt="Avatar of zhaoyiming0803"> zhaoyiming0803
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#zhaoyiming0803">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/henrinormak">
 				<img src="https://avatars.githubusercontent.com/u/1248491?s=72&u=bd0c87dbdd640c8f2845c8bdaa450c3b9a2a5d03&v=4" width="24" alt="Avatar of henrinormak"> henrinormak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#henrinormak">Copy rank badge</a><br/>
 			Henri Normak
 		</td>
 		<td>@6fold </td>
@@ -5348,7 +5350,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AlexDaniel">
 				<img src="https://avatars.githubusercontent.com/u/5507503?s=72&u=254a82fbc06baf44793fc0615e6bad72c99b30a4&v=4" width="24" alt="Avatar of AlexDaniel"> AlexDaniel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AlexDaniel">Copy rank badge</a><br/>
 			Aleks-Daniel Jakimenko-Aleksejev
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/riston">
 				<img src="https://avatars.githubusercontent.com/u/782237?s=72&v=4" width="24" alt="Avatar of riston"> riston
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#riston">Copy rank badge</a><br/>
 			Risto Novik
 		</td>
 		<td>No Company</td>
@@ -5374,7 +5376,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/twirl">
 				<img src="https://avatars.githubusercontent.com/u/221392?s=72&v=4" width="24" alt="Avatar of twirl"> twirl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#twirl">Copy rank badge</a><br/>
 			Sergey Konstantinov
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Matrix278">
 				<img src="https://avatars.githubusercontent.com/u/35573364?s=72&u=0e8c406a71a5ff26182ccabe24d5ce9aa6bf8c61&v=4" width="24" alt="Avatar of Matrix278"> Matrix278
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Matrix278">Copy rank badge</a><br/>
 			Martin Sidorov
 		</td>
 		<td>Wallester As @wallester </td>
@@ -5400,7 +5402,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/oniso20">
 				<img src="https://avatars.githubusercontent.com/u/74050092?s=72&u=50a46875b48b69bf20345f3ae83214dbc25beefd&v=4" width="24" alt="Avatar of oniso20"> oniso20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#oniso20">Copy rank badge</a><br/>
 			Onis Emem
 		</td>
 		<td>Yolo Group </td>
@@ -5413,7 +5415,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pentp">
 				<img src="https://avatars.githubusercontent.com/u/264426?s=72&u=1a3efadb73b1d49cc59e07ca6d73105db71fb513&v=4" width="24" alt="Avatar of pentp"> pentp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pentp">Copy rank badge</a><br/>
 			Pent Ploompuu
 		</td>
 		<td>Microsoft </td>
@@ -5426,7 +5428,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/randohinn">
 				<img src="https://avatars.githubusercontent.com/u/14096473?s=72&u=da8925ee73cb42ea8cfc0f126c5d519bb44d19ab&v=4" width="24" alt="Avatar of randohinn"> randohinn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#randohinn">Copy rank badge</a><br/>
 			Rando Hinn
 		</td>
 		<td>@teaduskeskus-ahhaa  </td>
@@ -5439,7 +5441,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonusoo">
 				<img src="https://avatars.githubusercontent.com/u/3949726?s=72&u=dae0ba93b561a4a2d0d416880a7c35feac99e6ab&v=4" width="24" alt="Avatar of tonusoo"> tonusoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tonusoo">Copy rank badge</a><br/>
 			Martin Tonusoo
 		</td>
 		<td>No Company</td>
@@ -5452,7 +5454,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Martinvlba">
 				<img src="https://avatars.githubusercontent.com/u/20658933?s=72&u=61bb2e810cb201ccd862828e77c543dc46f00280&v=4" width="24" alt="Avatar of Martinvlba"> Martinvlba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Martinvlba">Copy rank badge</a><br/>
 			Martin Valba
 		</td>
 		<td>Home </td>
@@ -5465,7 +5467,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/RaZeSloth">
 				<img src="https://avatars.githubusercontent.com/u/75721601?s=72&u=73efaccf26797d241ab5b1c1d12315882e0bce8a&v=4" width="24" alt="Avatar of RaZeSloth"> RaZeSloth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#RaZeSloth">Copy rank badge</a><br/>
 			RaZe
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ahmedwael19">
 				<img src="https://avatars.githubusercontent.com/u/27695042?s=72&u=6d75b011a30406ae9253e4b3602983addf120ac4&v=4" width="24" alt="Avatar of ahmedwael19"> ahmedwael19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ahmedwael19">Copy rank badge</a><br/>
 			Ahmed Wael
 		</td>
 		<td>University Of Tartu </td>
@@ -5491,7 +5493,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/harkce">
 				<img src="https://avatars.githubusercontent.com/u/10458132?s=72&u=9404a3fdbecd3278bde03a1007e914e6818bfd71&v=4" width="24" alt="Avatar of harkce"> harkce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#harkce">Copy rank badge</a><br/>
 			Fikri Sundayana
 		</td>
 		<td>No Company</td>
@@ -5504,7 +5506,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vitalii-komenda">
 				<img src="https://avatars.githubusercontent.com/u/763723?s=72&u=45ad511e091c45a25f65b44517a185eb8ba93c2a&v=4" width="24" alt="Avatar of vitalii-komenda"> vitalii-komenda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vitalii-komenda">Copy rank badge</a><br/>
 			Vitalii Komenda
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/DemonessMari">
 				<img src="https://avatars.githubusercontent.com/u/89041375?s=72&u=cb239774feaa1560e620434a7459b9423422a943&v=4" width="24" alt="Avatar of DemonessMari"> DemonessMari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#DemonessMari">Copy rank badge</a><br/>
 			DemonessMari
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vkrv">
 				<img src="https://avatars.githubusercontent.com/u/642757?s=72&u=b698aa4db2e5fd7e4a55e61b2c3b89aa9cb5b832&v=4" width="24" alt="Avatar of vkrv"> vkrv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vkrv">Copy rank badge</a><br/>
 			Vadim Kravchenko
 		</td>
 		<td>Bolt </td>
@@ -5543,7 +5545,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/LancemDev">
 				<img src="https://avatars.githubusercontent.com/u/74910038?s=72&u=82a87ad9fe3734c642f1ea4daa12b0a67d957391&v=4" width="24" alt="Avatar of LancemDev"> LancemDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#LancemDev">Copy rank badge</a><br/>
 			Lance M.
 		</td>
 		<td>Tallinn University </td>
@@ -5556,7 +5558,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/renekorss">
 				<img src="https://avatars.githubusercontent.com/u/1494080?s=72&u=c505cc766a1437f31cfc5bcfa3d14af5f8ae5f81&v=4" width="24" alt="Avatar of renekorss"> renekorss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#renekorss">Copy rank badge</a><br/>
 			Rene Korss
 		</td>
 		<td>Mobile Engineer @cdkglobal, Cto<br/>@koren-software<br/></td>
@@ -5569,7 +5571,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/TanelTeemusk">
 				<img src="https://avatars.githubusercontent.com/u/214694?s=72&u=881ad6662d7e2ab43f38f8156edb0e0d16ef35c4&v=4" width="24" alt="Avatar of TanelTeemusk"> TanelTeemusk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#TanelTeemusk">Copy rank badge</a><br/>
 			Tanel Teemusk
 		</td>
 		<td>Teemusk.com </td>
@@ -5582,7 +5584,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/akulikovsky">
 				<img src="https://avatars.githubusercontent.com/u/15015031?s=72&u=146a358e201682e31b4c41bae03f034570146b54&v=4" width="24" alt="Avatar of akulikovsky"> akulikovsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#akulikovsky">Copy rank badge</a><br/>
 			Andrei Kulikovsky
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mattiasarro">
 				<img src="https://avatars.githubusercontent.com/u/53719?s=72&u=6913e9f48916c1de8e2692dd78e413bd2e1fb2ca&v=4" width="24" alt="Avatar of mattiasarro"> mattiasarro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mattiasarro">Copy rank badge</a><br/>
 			Mattias Arro
 		</td>
 		<td>Subspace Oü </td>
@@ -5608,7 +5610,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jonksar">
 				<img src="https://avatars.githubusercontent.com/u/9849712?s=72&u=d9381f46f458c5c4e8d5416edb8ce78a69e7425f&v=4" width="24" alt="Avatar of Jonksar"> Jonksar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Jonksar">Copy rank badge</a><br/>
 			Joonatan Samuel
 		</td>
 		<td>Iter8 </td>
@@ -5621,7 +5623,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Chartiza">
 				<img src="https://avatars.githubusercontent.com/u/15068419?s=72&u=7c38b44629f4c34f4a27dbe297aa11da0478eb3d&v=4" width="24" alt="Avatar of Chartiza"> Chartiza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Chartiza">Copy rank badge</a><br/>
 			Kateryna Pantiukh
 		</td>
 		<td>Scibear </td>
@@ -5634,7 +5636,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kmch">
 				<img src="https://avatars.githubusercontent.com/u/19067370?s=72&u=69b0b9dda8c8d9967236256cb4be65b83b84798b&v=4" width="24" alt="Avatar of kmch"> kmch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kmch">Copy rank badge</a><br/>
 			Kajetan Chrapkiewicz
 		</td>
 		<td>University Of Tartu </td>
@@ -5647,7 +5649,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sh-sabbir">
 				<img src="https://avatars.githubusercontent.com/u/9151027?s=72&u=0a73c8540aeaeb95aea0cc6fe933a9d6349217d1&v=4" width="24" alt="Avatar of sh-sabbir"> sh-sabbir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sh-sabbir">Copy rank badge</a><br/>
 			Sabbir Hasan
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/adelaparras">
 				<img src="https://avatars.githubusercontent.com/u/61360980?s=72&u=7d8bcfede978a4c67496a7b8a0fe706e7690ea2e&v=4" width="24" alt="Avatar of adelaparras"> adelaparras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#adelaparras">Copy rank badge</a><br/>
 			Alejandro De La Parra Solomon
 		</td>
 		<td>Emirati Digital Transformation Centre<br/>(edtc)<br/></td>
@@ -5673,7 +5675,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MuhammedOzdogan">
 				<img src="https://avatars.githubusercontent.com/u/26257939?s=72&u=36ab3ba30fba633812eca0c7d93f5a6e89776867&v=4" width="24" alt="Avatar of MuhammedOzdogan"> MuhammedOzdogan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MuhammedOzdogan">Copy rank badge</a><br/>
 			Muhammed ÖZDOĞAN
 		</td>
 		<td>Omniva </td>
@@ -5686,7 +5688,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lkraav">
 				<img src="https://avatars.githubusercontent.com/u/147228?s=72&v=4" width="24" alt="Avatar of lkraav"> lkraav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lkraav">Copy rank badge</a><br/>
 			Leho Kraav
 		</td>
 		<td>Conversion Ready </td>
@@ -5699,7 +5701,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaksymDel">
 				<img src="https://avatars.githubusercontent.com/u/8141935?s=72&u=299addb450ffa2432a1a08775dad74d862fd1c59&v=4" width="24" alt="Avatar of MaksymDel"> MaksymDel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MaksymDel">Copy rank badge</a><br/>
 			Maksym Del
 		</td>
 		<td>Tartunlp (http://tartunlp.ai) </td>
@@ -5712,7 +5714,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/raivokolde">
 				<img src="https://avatars.githubusercontent.com/u/181403?s=72&u=fba769ddfd54371f156c00987acbad529a9312d9&v=4" width="24" alt="Avatar of raivokolde"> raivokolde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#raivokolde">Copy rank badge</a><br/>
 			Raivo Kolde
 		</td>
 		<td>University Of Tartu </td>
@@ -5725,7 +5727,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikkmartin">
 				<img src="https://avatars.githubusercontent.com/u/3119975?s=72&u=4977ff9a73fcabc8fee5779920d795dae35ce9c0&v=4" width="24" alt="Avatar of mikkmartin"> mikkmartin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mikkmartin">Copy rank badge</a><br/>
 			Mikk Martin
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cRYP70n-13">
 				<img src="https://avatars.githubusercontent.com/u/38794649?s=72&u=59eb96c3aac4de92c6d4442b3224fddfb63b2513&v=4" width="24" alt="Avatar of cRYP70n-13"> cRYP70n-13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cRYP70n-13">Copy rank badge</a><br/>
 			cRYP70N
 		</td>
 		<td>@sensusq </td>
@@ -5751,7 +5753,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/LordzShadow">
 				<img src="https://avatars.githubusercontent.com/u/44734448?s=72&v=4" width="24" alt="Avatar of LordzShadow"> LordzShadow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#LordzShadow">Copy rank badge</a><br/>
 			Kustav Prants
 		</td>
 		<td>@snowhound  </td>
@@ -5764,7 +5766,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/GertenP">
 				<img src="https://avatars.githubusercontent.com/u/145342311?s=72&u=caf6e5a7a8370cae80c177307e0614e4ff36ee3b&v=4" width="24" alt="Avatar of GertenP"> GertenP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#GertenP">Copy rank badge</a><br/>
 			Gerten Pilv
 		</td>
 		<td>Tallinn Collage Of Technology<br/></td>
@@ -5777,7 +5779,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ioBanker">
 				<img src="https://avatars.githubusercontent.com/u/37595908?s=72&u=f11b6fecb934edc7589112e4850f1c543b9f70ee&v=4" width="24" alt="Avatar of ioBanker"> ioBanker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ioBanker">Copy rank badge</a><br/>
 			ioBanker
 		</td>
 		<td>Iobanker </td>
@@ -5790,7 +5792,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilyagrishkov">
 				<img src="https://avatars.githubusercontent.com/u/45048351?s=72&u=3c1bd0355075af56df3d06574cae9433bef42b98&v=4" width="24" alt="Avatar of ilyagrishkov"> ilyagrishkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ilyagrishkov">Copy rank badge</a><br/>
 			Ilya Grishkov
 		</td>
 		<td>Microsoft </td>
@@ -5803,7 +5805,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Geeknux">
 				<img src="https://avatars.githubusercontent.com/u/1153824?s=72&u=620119c6b8fe88cc83b6bad4ab825371b7f15739&v=4" width="24" alt="Avatar of Geeknux"> Geeknux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Geeknux">Copy rank badge</a><br/>
 			Amir M. Mahmoudi
 		</td>
 		<td>No Company</td>
@@ -5816,7 +5818,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/deemoowoor">
 				<img src="https://avatars.githubusercontent.com/u/406092?s=72&u=06eb2ce947665f3108f5286cbe4d9c49ad155138&v=4" width="24" alt="Avatar of deemoowoor"> deemoowoor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#deemoowoor">Copy rank badge</a><br/>
 			Andrei Sosnin
 		</td>
 		<td>@finceptiv  </td>
@@ -5829,7 +5831,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/schizophrenic144">
 				<img src="https://avatars.githubusercontent.com/u/120251527?s=72&u=835944ff0b6f044d91e957ad6be27b35723c44de&v=4" width="24" alt="Avatar of schizophrenic144"> schizophrenic144
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#schizophrenic144">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/samaraoliveiram">
 				<img src="https://avatars.githubusercontent.com/u/38509288?s=72&u=91dece46b2810bdadd47d4536313154c2bb30d63&v=4" width="24" alt="Avatar of samaraoliveiram"> samaraoliveiram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#samaraoliveiram">Copy rank badge</a><br/>
 			Samara Motta
 		</td>
 		<td>Yolo Group </td>
@@ -5855,7 +5857,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/elarlang">
 				<img src="https://avatars.githubusercontent.com/u/47597707?s=72&u=bc754e1ced5b8e55c2069656aada3812e60010d4&v=4" width="24" alt="Avatar of elarlang"> elarlang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#elarlang">Copy rank badge</a><br/>
 			Elar Lang
 		</td>
 		<td>No Company</td>
@@ -5868,7 +5870,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/luminarious">
 				<img src="https://avatars.githubusercontent.com/u/61330?s=72&u=9a50ddf23f560535502a81998aa711073b6061f8&v=4" width="24" alt="Avatar of luminarious"> luminarious
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#luminarious">Copy rank badge</a><br/>
 			Hardi Kõvamees
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/skandium">
 				<img src="https://avatars.githubusercontent.com/u/19281143?s=72&u=60866e37df003abd3b144b55da7071b9418b2cf8&v=4" width="24" alt="Avatar of skandium"> skandium
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#skandium">Copy rank badge</a><br/>
 			Martin Lumiste
 		</td>
 		<td>Microsoft </td>
@@ -5894,7 +5896,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/likerobotics">
 				<img src="https://avatars.githubusercontent.com/u/16293785?s=72&u=a0a92f6b4f060071734590a5869446d91ae61694&v=4" width="24" alt="Avatar of likerobotics"> likerobotics
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#likerobotics">Copy rank badge</a><br/>
 			Islam Bzhikhatlov
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Dew25">
 				<img src="https://avatars.githubusercontent.com/u/14212728?s=72&u=c436fcccfcdd9eba833422e8d7d8c5be597b9b6a&v=4" width="24" alt="Avatar of Dew25"> Dew25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Dew25">Copy rank badge</a><br/>
 			Dew25
 		</td>
 		<td>J.v.m. Optimum </td>
@@ -5920,7 +5922,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dmitry">
 				<img src="https://avatars.githubusercontent.com/u/5091?s=72&u=bf48f6601cb32d2ca9d1ce4d9d544f1fd2757981&v=4" width="24" alt="Avatar of dmitry"> dmitry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dmitry">Copy rank badge</a><br/>
 			Dmitry Polushkin
 		</td>
 		<td>@reedsy @opus-hero @bukaha <br/></td>
@@ -5933,7 +5935,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/namishelex01">
 				<img src="https://avatars.githubusercontent.com/u/2236433?s=72&u=ed762181079ffda5cc4d72d8334f4c7a4f39b380&v=4" width="24" alt="Avatar of namishelex01"> namishelex01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#namishelex01">Copy rank badge</a><br/>
 			Namish
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/erkiesken">
 				<img src="https://avatars.githubusercontent.com/u/1394282?s=72&v=4" width="24" alt="Avatar of erkiesken"> erkiesken
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#erkiesken">Copy rank badge</a><br/>
 			Erki Esken
 		</td>
 		<td>@starshiprobots </td>
@@ -5959,7 +5961,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/poolik">
 				<img src="https://avatars.githubusercontent.com/u/1182850?s=72&u=0f9b353dd125fbfd089fe9dd871485cf0a60936d&v=4" width="24" alt="Avatar of poolik"> poolik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#poolik">Copy rank badge</a><br/>
 			Tõnis Pool
 		</td>
 		<td>Trimble </td>
@@ -5972,7 +5974,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jarmo">
 				<img src="https://avatars.githubusercontent.com/u/174160?s=72&v=4" width="24" alt="Avatar of jarmo"> jarmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jarmo">Copy rank badge</a><br/>
 			Jarmo Pertman
 		</td>
 		<td>No Company</td>
@@ -5985,7 +5987,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mamunreza">
 				<img src="https://avatars.githubusercontent.com/u/9191916?s=72&u=82f91b5ca0e124177f4e8adbb3f17cab44299e50&v=4" width="24" alt="Avatar of mamunreza"> mamunreza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mamunreza">Copy rank badge</a><br/>
 			Mamun Reza
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ikakus">
 				<img src="https://avatars.githubusercontent.com/u/841716?s=72&u=2f829c5d07e624cd6086a01f8e34186cd090b5fc&v=4" width="24" alt="Avatar of ikakus"> ikakus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ikakus">Copy rank badge</a><br/>
 			Irakli Dadiani
 		</td>
 		<td>Change Invest </td>
@@ -6011,7 +6013,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/allanlaal">
 				<img src="https://avatars.githubusercontent.com/u/740826?s=72&u=0bf5b4ec2ff23fa666669aedd4b78621dc048fad&v=4" width="24" alt="Avatar of allanlaal"> allanlaal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#allanlaal">Copy rank badge</a><br/>
 			Allan Laal
 		</td>
 		<td>Permanent.ee </td>
@@ -6024,7 +6026,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/taunoha">
 				<img src="https://avatars.githubusercontent.com/u/7137679?s=72&u=aaed9fd5ac2782899c3842d04d945a50ac477d2b&v=4" width="24" alt="Avatar of taunoha"> taunoha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#taunoha">Copy rank badge</a><br/>
 			Tauno Hanni
 		</td>
 		<td>No Company</td>
@@ -6037,7 +6039,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mcanet">
 				<img src="https://avatars.githubusercontent.com/u/308759?s=72&v=4" width="24" alt="Avatar of mcanet"> mcanet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mcanet">Copy rank badge</a><br/>
 			Mar Canet Sola
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/keevitaja">
 				<img src="https://avatars.githubusercontent.com/u/158787?s=72&u=3f2bd13089e725791b33baacc0a0056a9114b78f&v=4" width="24" alt="Avatar of keevitaja"> keevitaja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#keevitaja">Copy rank badge</a><br/>
 			Tanel Tammik
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/whysthatso">
 				<img src="https://avatars.githubusercontent.com/u/1685114?s=72&v=4" width="24" alt="Avatar of whysthatso"> whysthatso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#whysthatso">Copy rank badge</a><br/>
 			Andreas Wagner
 		</td>
 		<td>Whyservices Oü </td>
@@ -6076,7 +6078,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yllar">
 				<img src="https://avatars.githubusercontent.com/u/1578973?s=72&v=4" width="24" alt="Avatar of yllar"> yllar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yllar">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pepzwee">
 				<img src="https://avatars.githubusercontent.com/u/3263204?s=72&u=6c5629b46dadb15120798bf19497b6c3541c7fda&v=4" width="24" alt="Avatar of pepzwee"> pepzwee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pepzwee">Copy rank badge</a><br/>
 			Kristjan
 		</td>
 		<td>@datagrab-ee  </td>
@@ -6102,7 +6104,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/OladetounJed">
 				<img src="https://avatars.githubusercontent.com/u/51359125?s=72&u=1980d2b720f2a7e1b4fb76e43490bb1473d6615d&v=4" width="24" alt="Avatar of OladetounJed"> OladetounJed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#OladetounJed">Copy rank badge</a><br/>
 			oladetoun temitayo
 		</td>
 		<td>@vericraft  </td>
@@ -6115,7 +6117,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/muzir">
 				<img src="https://avatars.githubusercontent.com/u/1410256?s=72&u=8bb93f1753fd8262d1fce551f75c655e148d7371&v=4" width="24" alt="Avatar of muzir"> muzir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#muzir">Copy rank badge</a><br/>
 			Erhun Baycelik
 		</td>
 		<td>@wise </td>
@@ -6128,7 +6130,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Hamnava">
 				<img src="https://avatars.githubusercontent.com/u/71535744?s=72&u=49e16bb2023124a5b7231faf18a91e647e81edca&v=4" width="24" alt="Avatar of Hamnava"> Hamnava
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Hamnava">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Hamnava </td>
@@ -6141,7 +6143,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/karanja03">
 				<img src="https://avatars.githubusercontent.com/u/134950124?s=72&u=74abed0ff33763e05f63e392ea6bd8fbd92fe400&v=4" width="24" alt="Avatar of karanja03"> karanja03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#karanja03">Copy rank badge</a><br/>
 			Wambui Karanja
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Damiloju">
 				<img src="https://avatars.githubusercontent.com/u/23188730?s=72&u=1829766e3c8c5be7070ecbac82d9d09eae7fade8&v=4" width="24" alt="Avatar of Damiloju"> Damiloju
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Damiloju">Copy rank badge</a><br/>
 			Dami
 		</td>
 		<td>@veriff </td>
@@ -6167,7 +6169,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mmadraimov92">
 				<img src="https://avatars.githubusercontent.com/u/28419987?s=72&u=11af04536514d640d76a2303cd1745fa4d5108f0&v=4" width="24" alt="Avatar of mmadraimov92"> mmadraimov92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mmadraimov92">Copy rank badge</a><br/>
 			Muhammet Madraimov
 		</td>
 		<td>@zendesk </td>
@@ -6180,7 +6182,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rtammekivi">
 				<img src="https://avatars.githubusercontent.com/u/1191779?s=72&u=63a6f9a0f05774bb79c85720d859de1e175141cd&v=4" width="24" alt="Avatar of rtammekivi"> rtammekivi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rtammekivi">Copy rank badge</a><br/>
 			Rudolf Tammekivi
 		</td>
 		<td>No Company</td>
@@ -6193,7 +6195,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fegaeze">
 				<img src="https://avatars.githubusercontent.com/u/23112599?s=72&u=5a0497430896b629ddb0b6da564d8278c9679029&v=4" width="24" alt="Avatar of fegaeze"> fegaeze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fegaeze">Copy rank badge</a><br/>
 			Chioma Nkem-Eze
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/godilite">
 				<img src="https://avatars.githubusercontent.com/u/41484542?s=72&u=76e2ef2808cbd0c571d0c4dfdbf46f38289b2f2e&v=4" width="24" alt="Avatar of godilite"> godilite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#godilite">Copy rank badge</a><br/>
 			Godwin Asuquo
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tanel">
 				<img src="https://avatars.githubusercontent.com/u/8346?s=72&u=4dce5f39a4dced6954d91044d22d0fb12cb3314a&v=4" width="24" alt="Avatar of tanel"> tanel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tanel">Copy rank badge</a><br/>
 			Tanel Lebedev
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sunaurus">
 				<img src="https://avatars.githubusercontent.com/u/5356547?s=72&v=4" width="24" alt="Avatar of sunaurus"> sunaurus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sunaurus">Copy rank badge</a><br/>
 			Sander Saarend
 		</td>
 		<td>@bolteu </td>
@@ -6245,7 +6247,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alxdrlitreev">
 				<img src="https://avatars.githubusercontent.com/u/1785319?s=72&u=ba1deb717f43b7bebdd583ae6a39ee38b858e8ec&v=4" width="24" alt="Avatar of alxdrlitreev"> alxdrlitreev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alxdrlitreev">Copy rank badge</a><br/>
 			Aleksandr Litreev
 		</td>
 		<td>@norselabs </td>
@@ -6258,7 +6260,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/athira-sabu">
 				<img src="https://avatars.githubusercontent.com/u/37097789?s=72&v=4" width="24" alt="Avatar of athira-sabu"> athira-sabu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#athira-sabu">Copy rank badge</a><br/>
 			Athira Sabu
 		</td>
 		<td>Wise </td>
@@ -6271,7 +6273,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jevgeni17">
 				<img src="https://avatars.githubusercontent.com/u/49486974?s=72&u=8aee5b1e070ce3c7a2ebf97b176e04c24b759e71&v=4" width="24" alt="Avatar of jevgeni17"> jevgeni17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jevgeni17">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@wallester  </td>
@@ -6284,7 +6286,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bautrey37">
 				<img src="https://avatars.githubusercontent.com/u/3743560?s=72&u=37e9c9c5b91e108ec81e768c7adee6b21f5ff5db&v=4" width="24" alt="Avatar of bautrey37"> bautrey37
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bautrey37">Copy rank badge</a><br/>
 			Brandon Autrey
 		</td>
 		<td>@salemove  </td>
@@ -6297,7 +6299,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dnlfm">
 				<img src="https://avatars.githubusercontent.com/u/36580837?s=72&u=9ccfe83b7932b984de3617aab76def3a754d937e&v=4" width="24" alt="Avatar of dnlfm"> dnlfm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dnlfm">Copy rank badge</a><br/>
 			Daniel Freitas Martins
 		</td>
 		<td>No Company</td>
@@ -6310,7 +6312,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/naru">
 				<img src="https://avatars.githubusercontent.com/u/123636?s=72&u=b142a2ea1a46030b07684a56278bb426d78a8b29&v=4" width="24" alt="Avatar of naru"> naru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#naru">Copy rank badge</a><br/>
 			Anton Narusberg
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/priitpaasukene">
 				<img src="https://avatars.githubusercontent.com/u/8225195?s=72&u=2d5442f98a6ca32561edff2a1ce63c14c459c483&v=4" width="24" alt="Avatar of priitpaasukene"> priitpaasukene
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#priitpaasukene">Copy rank badge</a><br/>
 			Priit Pääsukene
 		</td>
 		<td>Smthngly-smthngfy </td>
@@ -6336,7 +6338,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/s4kibs4mi">
 				<img src="https://avatars.githubusercontent.com/u/5650785?s=72&u=4968d36e099f4e2fdcde75481e87dedbb37ed9b1&v=4" width="24" alt="Avatar of s4kibs4mi"> s4kibs4mi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#s4kibs4mi">Copy rank badge</a><br/>
 			Sakib Sami
 		</td>
 		<td>No Company</td>
@@ -6349,7 +6351,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MomoTaheri">
 				<img src="https://avatars.githubusercontent.com/u/84532767?s=72&u=6bcd869b6aeadddc949cfce689e649c8d9d2f9bb&v=4" width="24" alt="Avatar of MomoTaheri"> MomoTaheri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MomoTaheri">Copy rank badge</a><br/>
 			Momo Taheri
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/girishramnani">
 				<img src="https://avatars.githubusercontent.com/u/6551988?s=72&u=aea19d134639f5767302cb7f69b3e739f17b8fc5&v=4" width="24" alt="Avatar of girishramnani"> girishramnani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#girishramnani">Copy rank badge</a><br/>
 			Girish Ramnani
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/xprnio">
 				<img src="https://avatars.githubusercontent.com/u/3042904?s=72&u=f94d78af63a3c97b97fb416ea401c3290f819c33&v=4" width="24" alt="Avatar of xprnio"> xprnio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#xprnio">Copy rank badge</a><br/>
 			Ragnar Laud
 		</td>
 		<td>No Company</td>
@@ -6388,7 +6390,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fdrissi">
 				<img src="https://avatars.githubusercontent.com/u/43388336?s=72&v=4" width="24" alt="Avatar of fdrissi"> fdrissi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fdrissi">Copy rank badge</a><br/>
 			DRISSI TOUBBALI Fadel
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/JoonasVali">
 				<img src="https://avatars.githubusercontent.com/u/1080919?s=72&u=42dab6f61cd3962b5b2204299d9d8f66859c238e&v=4" width="24" alt="Avatar of JoonasVali"> JoonasVali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#JoonasVali">Copy rank badge</a><br/>
 			Joonas Vali
 		</td>
 		<td>@6fold  </td>
@@ -6414,7 +6416,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/haiyangmin">
 				<img src="https://avatars.githubusercontent.com/u/30657536?s=72&u=597d7424979dbd6f70f50963f0ade7f587f3f2bb&v=4" width="24" alt="Avatar of haiyangmin"> haiyangmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#haiyangmin">Copy rank badge</a><br/>
 			Wangjun Yang
 		</td>
 		<td>No Company</td>
@@ -6427,7 +6429,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/M0rdhau">
 				<img src="https://avatars.githubusercontent.com/u/17853044?s=72&u=df664b508a5be7dce1eb37ff51c541e4a89452ad&v=4" width="24" alt="Avatar of M0rdhau"> M0rdhau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#M0rdhau">Copy rank badge</a><br/>
 			Dachi Mshvidobadze
 		</td>
 		<td>Pipedrive </td>
@@ -6440,7 +6442,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/adrian-schnell">
 				<img src="https://avatars.githubusercontent.com/u/322735?s=72&u=a48d31bdc752a1c03ec04cac675e3bb15b56e847&v=4" width="24" alt="Avatar of adrian-schnell"> adrian-schnell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#adrian-schnell">Copy rank badge</a><br/>
 			Adrian
 		</td>
 		<td>@creative-media-desi  </td>
@@ -6453,7 +6455,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonwu53">
 				<img src="https://avatars.githubusercontent.com/u/27355570?s=72&u=ad26666be9121997404fc98b4005d9006e23ea1a&v=4" width="24" alt="Avatar of simonwu53"> simonwu53
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#simonwu53">Copy rank badge</a><br/>
 			吴杉(Shan Wu)
 		</td>
 		<td>No Company</td>
@@ -6466,7 +6468,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rauno56">
 				<img src="https://avatars.githubusercontent.com/u/1334536?s=72&u=edd8fae59d8f155feb80d67e1446227d0cd0ae1b&v=4" width="24" alt="Avatar of rauno56"> rauno56
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rauno56">Copy rank badge</a><br/>
 			Rauno Viskus
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tanelpuhu">
 				<img src="https://avatars.githubusercontent.com/u/19875?s=72&u=8f23522b8502a156be354282bd42321b5e080341&v=4" width="24" alt="Avatar of tanelpuhu"> tanelpuhu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tanelpuhu">Copy rank badge</a><br/>
 			Tanel
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ucanfil">
 				<img src="https://avatars.githubusercontent.com/u/24561072?s=72&u=810d8246613b106dc1e9508ca63987d549abbe82&v=4" width="24" alt="Avatar of ucanfil"> ucanfil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ucanfil">Copy rank badge</a><br/>
 			Burak Tilek
 		</td>
 		<td>Onoff </td>
@@ -6505,7 +6507,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fayderflorez">
 				<img src="https://avatars.githubusercontent.com/u/693342?s=72&u=40e7af0b30033df5d40e4df1c575b9a6a14ecaf9&v=4" width="24" alt="Avatar of fayderflorez"> fayderflorez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fayderflorez">Copy rank badge</a><br/>
 			Fayder Florez
 		</td>
 		<td>No Company</td>
@@ -6518,7 +6520,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/olena-stoliarova">
 				<img src="https://avatars.githubusercontent.com/u/28828146?s=72&u=c0157871b06ecb700ca4dfb150e63daa49dd3a78&v=4" width="24" alt="Avatar of olena-stoliarova"> olena-stoliarova
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#olena-stoliarova">Copy rank badge</a><br/>
 			Olena Stoliarova
 		</td>
 		<td>Microsoft </td>
@@ -6531,7 +6533,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/genert">
 				<img src="https://avatars.githubusercontent.com/u/1218788?s=72&u=1b56e6d25787b87a186474de034ff75db622bca4&v=4" width="24" alt="Avatar of genert"> genert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#genert">Copy rank badge</a><br/>
 			G
 		</td>
 		<td>No Company</td>
@@ -6544,7 +6546,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/giresse19">
 				<img src="https://avatars.githubusercontent.com/u/18584182?s=72&u=193632617c0a85808a3f7564642818ca2efc8fa0&v=4" width="24" alt="Avatar of giresse19"> giresse19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#giresse19">Copy rank badge</a><br/>
 			Giresse
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mcmatrix">
 				<img src="https://avatars.githubusercontent.com/u/1433580?s=72&u=ff5228bbae0b3e687c78e2a49da6be4b73e5e2fa&v=4" width="24" alt="Avatar of mcmatrix"> mcmatrix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mcmatrix">Copy rank badge</a><br/>
 			Janar Sööt
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/certainlyakey">
 				<img src="https://avatars.githubusercontent.com/u/1833029?s=72&v=4" width="24" alt="Avatar of certainlyakey"> certainlyakey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#certainlyakey">Copy rank badge</a><br/>
 			Aleksandr Beliaev
 		</td>
 		<td>Nortal As </td>
@@ -6583,7 +6585,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/raoz">
 				<img src="https://avatars.githubusercontent.com/u/2214466?s=72&v=4" width="24" alt="Avatar of raoz"> raoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#raoz">Copy rank badge</a><br/>
 			Rao «Démon» Zvorovski
 		</td>
 		<td>Fractory </td>
@@ -6596,7 +6598,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/azymohliad">
 				<img src="https://avatars.githubusercontent.com/u/4020369?s=72&u=a6995b0ca5f3f48ed065dd363b5170296fb3329d&v=4" width="24" alt="Avatar of azymohliad"> azymohliad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#azymohliad">Copy rank badge</a><br/>
 			Andrii Zymohliad
 		</td>
 		<td>@lightcodephotonics </td>
@@ -6609,7 +6611,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/illucc">
 				<img src="https://avatars.githubusercontent.com/u/70791404?s=72&u=b7ba6b87fb82a6f4abf8937cc91efdb3cb5bb30a&v=4" width="24" alt="Avatar of illucc"> illucc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#illucc">Copy rank badge</a><br/>
 			illuc
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/prussiairl">
 				<img src="https://avatars.githubusercontent.com/u/251508611?s=72&u=62f8626618b2abe3ef75126b9d0ad7fd88209e0b&v=4" width="24" alt="Avatar of prussiairl"> prussiairl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#prussiairl">Copy rank badge</a><br/>
 			 ݁ ˖Ი𐑼⋆  yao ⠀.ᐟ
 		</td>
 		<td>Usually In A Hetalia<br/>Area<br/>Orr<br/>With<br/>Friends;<br/>I<br/>Love<br/>My<br/>Friends<br/>@c0ldwar<br/>@flyingdragoncorn<br/><br/></td>
@@ -6635,7 +6637,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrazizi">
 				<img src="https://avatars.githubusercontent.com/u/10348086?s=72&u=ceb92910cd465ec279ce0aa486bceab0536e3487&v=4" width="24" alt="Avatar of mrazizi"> mrazizi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mrazizi">Copy rank badge</a><br/>
 			Mohammad-Reza Azizi
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MartinSahlen">
 				<img src="https://avatars.githubusercontent.com/u/4218596?s=72&u=bc2a4ca73dfe97b7bd6bfb3f2284f238d230e72b&v=4" width="24" alt="Avatar of MartinSahlen"> MartinSahlen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MartinSahlen">Copy rank badge</a><br/>
 			Martin Abelson Sahlen
 		</td>
 		<td>No Company</td>
@@ -6661,7 +6663,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ingramz">
 				<img src="https://avatars.githubusercontent.com/u/1017132?s=72&v=4" width="24" alt="Avatar of Ingramz"> Ingramz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ingramz">Copy rank badge</a><br/>
 			Indrek Ardel
 		</td>
 		<td>No Company</td>
@@ -6674,7 +6676,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/msokk">
 				<img src="https://avatars.githubusercontent.com/u/231978?s=72&u=6b79f888c565d760ba7c3bd090b1fa0516776a13&v=4" width="24" alt="Avatar of msokk"> msokk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#msokk">Copy rank badge</a><br/>
 			Mihkel Sokk
 		</td>
 		<td>@zendesk   </td>
@@ -6687,7 +6689,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/riussi">
 				<img src="https://avatars.githubusercontent.com/u/1029539?s=72&u=16d1329271a2a5831979df6944f0d0c25f95339e&v=4" width="24" alt="Avatar of riussi"> riussi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#riussi">Copy rank badge</a><br/>
 			Juha Ristolainen
 		</td>
 		<td>Alpaca </td>
@@ -6700,7 +6702,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/novinsh">
 				<img src="https://avatars.githubusercontent.com/u/2837237?s=72&u=b7b855fae1dbd274aaadd2ba975c495eb2c4ce33&v=4" width="24" alt="Avatar of novinsh"> novinsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#novinsh">Copy rank badge</a><br/>
 			Novin Shahroudi
 		</td>
 		<td>University Of Tartu </td>
@@ -6713,7 +6715,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bytexcglobal">
 				<img src="https://avatars.githubusercontent.com/u/82597383?s=72&u=83d7ba6c97f1fced750490364a706ce6bff3f381&v=4" width="24" alt="Avatar of bytexcglobal"> bytexcglobal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bytexcglobal">Copy rank badge</a><br/>
 			Byte Exchange Global
 		</td>
 		<td>Bytedex Technologies Oü </td>
@@ -6726,7 +6728,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/intermetric">
 				<img src="https://avatars.githubusercontent.com/u/32828239?s=72&u=7b93196676a6a41952c04605ae5a152369bde22d&v=4" width="24" alt="Avatar of intermetric"> intermetric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#intermetric">Copy rank badge</a><br/>
 			Rando Leppik
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/PureIso">
 				<img src="https://avatars.githubusercontent.com/u/3818856?s=72&v=4" width="24" alt="Avatar of PureIso"> PureIso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#PureIso">Copy rank badge</a><br/>
 			Ola
 		</td>
 		<td>No Company</td>
@@ -6752,7 +6754,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/brunoparga">
 				<img src="https://avatars.githubusercontent.com/u/16457173?s=72&v=4" width="24" alt="Avatar of brunoparga"> brunoparga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#brunoparga">Copy rank badge</a><br/>
 			Bruno Parga
 		</td>
 		<td>Autobahn Tech </td>
@@ -6765,7 +6767,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/5teffen">
 				<img src="https://avatars.githubusercontent.com/u/15904693?s=72&u=f14e3a65c6c4f13dfa8e9514cea82ab97edc051f&v=4" width="24" alt="Avatar of 5teffen"> 5teffen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#5teffen">Copy rank badge</a><br/>
 			Steffen Holter
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/amadeann">
 				<img src="https://avatars.githubusercontent.com/u/14104292?s=72&u=bd523093223b9824965067d5e89d5584ab202a68&v=4" width="24" alt="Avatar of amadeann"> amadeann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#amadeann">Copy rank badge</a><br/>
 			Amadeusz Annissimo
 		</td>
 		<td>Spicandspan.net </td>
@@ -6791,7 +6793,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jbrainz">
 				<img src="https://avatars.githubusercontent.com/u/24702087?s=72&u=16e07e0757c1a693483ed24be2813148bf46d617&v=4" width="24" alt="Avatar of jbrainz"> jbrainz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jbrainz">Copy rank badge</a><br/>
 			Pius John
 		</td>
 		<td>@coingaming @mentorshub-hq  </td>
@@ -6804,7 +6806,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/janesmae">
 				<img src="https://avatars.githubusercontent.com/u/2997606?s=72&u=ac8773fc4e287d5d585168e0b6255c904ffffa6e&v=4" width="24" alt="Avatar of janesmae"> janesmae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#janesmae">Copy rank badge</a><br/>
 			Jaan Jänesmäe
 		</td>
 		<td>@kwad-ee </td>
@@ -6817,7 +6819,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Elkoumy">
 				<img src="https://avatars.githubusercontent.com/u/7217325?s=72&u=55926db776a18e9c0216811309ebc0503ca1f5b1&v=4" width="24" alt="Avatar of Elkoumy"> Elkoumy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Elkoumy">Copy rank badge</a><br/>
 			Gamal Elkoumy
 		</td>
 		<td>Apromore | University Of<br/>Tartu<br/></td>
@@ -6830,7 +6832,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/temisu">
 				<img src="https://avatars.githubusercontent.com/u/20931314?s=72&v=4" width="24" alt="Avatar of temisu"> temisu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#temisu">Copy rank badge</a><br/>
 			Teemu Suutari
 		</td>
 		<td>No Company</td>
@@ -6843,7 +6845,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bioinfo-ut">
 				<img src="https://avatars.githubusercontent.com/u/12512365?s=72&u=e34b6cbdcc810331157ec6c1042be5fbbc24ea04&v=4" width="24" alt="Avatar of bioinfo-ut"> bioinfo-ut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bioinfo-ut">Copy rank badge</a><br/>
 			Bioinfo, IMCB, UT
 		</td>
 		<td>University Of Tartu </td>
@@ -6856,7 +6858,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cgokceli">
 				<img src="https://avatars.githubusercontent.com/u/10463037?s=72&u=0a3ba744b2f7b123bf4ec051588857434a8200bb&v=4" width="24" alt="Avatar of cgokceli"> cgokceli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cgokceli">Copy rank badge</a><br/>
 			Cengizhan Gökçeli
 		</td>
 		<td> @coingaming  <br/></td>
@@ -6869,7 +6871,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kaarelr">
 				<img src="https://avatars.githubusercontent.com/u/14364284?s=72&u=9fce340d2d11930a69b1fd2742f01b448f7052ee&v=4" width="24" alt="Avatar of kaarelr"> kaarelr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kaarelr">Copy rank badge</a><br/>
 			Kaarel Reinvars
 		</td>
 		<td>No Company</td>
@@ -6882,7 +6884,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/valeriakononenko">
 				<img src="https://avatars.githubusercontent.com/u/3019034?s=72&u=fa904cef586db2e4dcdde6ba2bbc6dbdc7af3b59&v=4" width="24" alt="Avatar of valeriakononenko"> valeriakononenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#valeriakononenko">Copy rank badge</a><br/>
 			Valeria Kononenko
 		</td>
 		<td>Mapit Iot </td>
@@ -6895,7 +6897,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/moll">
 				<img src="https://avatars.githubusercontent.com/u/156837?s=72&v=4" width="24" alt="Avatar of moll"> moll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#moll">Copy rank badge</a><br/>
 			Andri Möll
 		</td>
 		<td>Billberry </td>
@@ -6908,7 +6910,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Wolg">
 				<img src="https://avatars.githubusercontent.com/u/538630?s=72&v=4" width="24" alt="Avatar of Wolg"> Wolg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Wolg">Copy rank badge</a><br/>
 			Stanislav Chistenko
 		</td>
 		<td>Pipedrive </td>
@@ -6921,7 +6923,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/toomasr">
 				<img src="https://avatars.githubusercontent.com/u/196499?s=72&u=554db7d94c4b6712bfe2409481d0a5422fff90e2&v=4" width="24" alt="Avatar of toomasr"> toomasr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#toomasr">Copy rank badge</a><br/>
 			Toomas Romer
 		</td>
 		<td>Bolt </td>
@@ -6934,7 +6936,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/allanpaiste">
 				<img src="https://avatars.githubusercontent.com/u/3738135?s=72&u=3f1faa9dad4e6e9714614010bc0dd0b45fd07f40&v=4" width="24" alt="Avatar of allanpaiste"> allanpaiste
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#allanpaiste">Copy rank badge</a><br/>
 			Allan Paiste
 		</td>
 		<td>No Company</td>
@@ -6947,7 +6949,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/iamswain25">
 				<img src="https://avatars.githubusercontent.com/u/15191725?s=72&u=df9d788a5fb73667bd59065d59a4e3a8faf6bdbb&v=4" width="24" alt="Avatar of iamswain25"> iamswain25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#iamswain25">Copy rank badge</a><br/>
 			Swain
 		</td>
 		<td>@avomd  </td>
@@ -6960,7 +6962,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vmayushan">
 				<img src="https://avatars.githubusercontent.com/u/9516149?s=72&u=c565d1d236b4fa95cff3f4ed5bfdd67da9dc74fd&v=4" width="24" alt="Avatar of vmayushan"> vmayushan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vmayushan">Copy rank badge</a><br/>
 			Vlad Ma-iu-shan
 		</td>
 		<td>No Company</td>
@@ -6973,7 +6975,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fendermany">
 				<img src="https://avatars.githubusercontent.com/u/71121334?s=72&u=b0d4c6ac8a34003ac8eaafeb4a9be2fa38ce0c46&v=4" width="24" alt="Avatar of fendermany"> fendermany
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fendermany">Copy rank badge</a><br/>
 			Dmitry Timofeev
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/s22su">
 				<img src="https://avatars.githubusercontent.com/u/470206?s=72&u=441e3e8b0163a11bb3805ebd7597089251dc206f&v=4" width="24" alt="Avatar of s22su"> s22su
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#s22su">Copy rank badge</a><br/>
 			Sergei Beregov
 		</td>
 		<td>@salemove  </td>
@@ -6999,7 +7001,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mainframe">
 				<img src="https://avatars.githubusercontent.com/u/354279?s=72&u=27dde289a2ba2e47881f470d0857df552e5cacf8&v=4" width="24" alt="Avatar of mainframe"> mainframe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mainframe">Copy rank badge</a><br/>
 			Andres Toomsalu
 		</td>
 		<td>Opennode Llc </td>
@@ -7012,7 +7014,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tifox">
 				<img src="https://avatars.githubusercontent.com/u/3710600?s=72&v=4" width="24" alt="Avatar of Tifox"> Tifox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Tifox">Copy rank badge</a><br/>
 			Joris "Tifox" BOQUET
 		</td>
 		<td>@metactivity  </td>
@@ -7025,7 +7027,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/syko">
 				<img src="https://avatars.githubusercontent.com/u/317674?s=72&v=4" width="24" alt="Avatar of syko"> syko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#syko">Copy rank badge</a><br/>
 			Andrin Riiet
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/flaki">
 				<img src="https://avatars.githubusercontent.com/u/2089432?s=72&u=bc3128b1fcb15884e08a4131577e3ccb606b0940&v=4" width="24" alt="Avatar of flaki"> flaki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#flaki">Copy rank badge</a><br/>
 			István Szmozsánszky
 		</td>
 		<td>@suborbital </td>
@@ -7051,7 +7053,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nan0desu">
 				<img src="https://avatars.githubusercontent.com/u/1218842?s=72&v=4" width="24" alt="Avatar of nan0desu"> nan0desu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nan0desu">Copy rank badge</a><br/>
 			Veronika Kossmann
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sanan-fataliyev">
 				<img src="https://avatars.githubusercontent.com/u/30157273?s=72&u=97c252f346ce14a98114915499483a9292cb64dd&v=4" width="24" alt="Avatar of sanan-fataliyev"> sanan-fataliyev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sanan-fataliyev">Copy rank badge</a><br/>
 			Sanan R. Fataliyev
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Syedateeq160">
 				<img src="https://avatars.githubusercontent.com/u/32579549?s=72&u=7962a42d7872b9008b70e72f8a7ffa5ea2a5ba73&v=4" width="24" alt="Avatar of Syedateeq160"> Syedateeq160
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Syedateeq160">Copy rank badge</a><br/>
 			Ateeq Syed
 		</td>
 		<td>No Company</td>
@@ -7090,7 +7092,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hsdizdar">
 				<img src="https://avatars.githubusercontent.com/u/18634040?s=72&u=649e4da3aee6a4b7245d20cdd44875575c1e7f9a&v=4" width="24" alt="Avatar of hsdizdar"> hsdizdar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hsdizdar">Copy rank badge</a><br/>
 			Hasret Suna Özdemir
 		</td>
 		<td>@innovanceconsultanc </td>
@@ -7103,7 +7105,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/akaver">
 				<img src="https://avatars.githubusercontent.com/u/2605266?s=72&u=b690a4be1425a5c6627bc9e70d3e0aed40c0ffe7&v=4" width="24" alt="Avatar of akaver"> akaver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#akaver">Copy rank badge</a><br/>
 			Andres Käver
 		</td>
 		<td>Taltech Nlp </td>
@@ -7116,7 +7118,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilikerobots">
 				<img src="https://avatars.githubusercontent.com/u/6736189?s=72&u=ca0b721009de75cff6156c0dce6d27b490b69580&v=4" width="24" alt="Avatar of ilikerobots"> ilikerobots
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ilikerobots">Copy rank badge</a><br/>
 			Mike Hoolehan
 		</td>
 		<td>No Company</td>
@@ -7129,7 +7131,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tarmo888">
 				<img src="https://avatars.githubusercontent.com/u/732356?s=72&u=3286ec7c76425932bd1efcf1e24d10f9893e694f&v=4" width="24" alt="Avatar of tarmo888"> tarmo888
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tarmo888">Copy rank badge</a><br/>
 			Tarmo
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/busyxin">
 				<img src="https://avatars.githubusercontent.com/u/956329?s=72&u=03209a6451b9c812af9da80d906e82250f89ada3&v=4" width="24" alt="Avatar of busyxin"> busyxin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#busyxin">Copy rank badge</a><br/>
 			Xin
 		</td>
 		<td>Zealsio & Psychedelics Integration<br/></td>
@@ -7155,7 +7157,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mchingiz">
 				<img src="https://avatars.githubusercontent.com/u/20167474?s=72&u=6d971519202cb9b74bc74442e729726cb8e53685&v=4" width="24" alt="Avatar of mchingiz"> mchingiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mchingiz">Copy rank badge</a><br/>
 			Chingiz Mammadli
 		</td>
 		<td>Sisu Tech </td>
@@ -7168,7 +7170,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AnselmoPfeifer">
 				<img src="https://avatars.githubusercontent.com/u/657698?s=72&u=fdea5c0db46b806817c142ba50adfb170f0240c2&v=4" width="24" alt="Avatar of AnselmoPfeifer"> AnselmoPfeifer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AnselmoPfeifer">Copy rank badge</a><br/>
 			Anselmo Pfeifer
 		</td>
 		<td>No Company</td>
@@ -7181,7 +7183,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/david-chapela">
 				<img src="https://avatars.githubusercontent.com/u/6911316?s=72&u=42408c274c5145d5af3dc965b40e2d2e813c47ba&v=4" width="24" alt="Avatar of david-chapela"> david-chapela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#david-chapela">Copy rank badge</a><br/>
 			David Chapela de la Campa
 		</td>
 		<td>University Of Tartu </td>
@@ -7194,7 +7196,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/modulus100">
 				<img src="https://avatars.githubusercontent.com/u/21066393?s=72&u=2c9eaeb628d02a3ea04098fb12f2302b454ed78a&v=4" width="24" alt="Avatar of modulus100"> modulus100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#modulus100">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lika-vorobeva">
 				<img src="https://avatars.githubusercontent.com/u/85628683?s=72&u=0dc846ffa1433500d679569aefb9eee930a152fa&v=4" width="24" alt="Avatar of lika-vorobeva"> lika-vorobeva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lika-vorobeva">Copy rank badge</a><br/>
 			Lika
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Delbert-Kipyegon">
 				<img src="https://avatars.githubusercontent.com/u/96553583?s=72&u=eed5552ae911aab18374f51601a88707a73ac445&v=4" width="24" alt="Avatar of Delbert-Kipyegon"> Delbert-Kipyegon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Delbert-Kipyegon">Copy rank badge</a><br/>
 			Delbert Kipyegon
 		</td>
 		<td>Team X </td>
@@ -7233,7 +7235,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tristankrass">
 				<img src="https://avatars.githubusercontent.com/u/30598459?s=72&u=52deceac3d14ae70630190e0bf293371906400cf&v=4" width="24" alt="Avatar of tristankrass"> tristankrass
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tristankrass">Copy rank badge</a><br/>
 			Tristan
 		</td>
 		<td>No Company</td>
@@ -7246,7 +7248,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/GammaIntelligenceTraining">
 				<img src="https://avatars.githubusercontent.com/u/71971362?s=72&u=091042dbd24fe484eb200e1093d6f6221a0cc92c&v=4" width="24" alt="Avatar of GammaIntelligenceTraining"> GammaIntelligenceTraining
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#GammaIntelligenceTraining">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Gamma Intelligence Training </td>
@@ -7259,7 +7261,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/extall">
 				<img src="https://avatars.githubusercontent.com/u/18900943?s=72&u=1de316247517b437fc8663a21d3d8c00ab608339&v=4" width="24" alt="Avatar of extall"> extall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#extall">Copy rank badge</a><br/>
 			Aleksei Tepljakov
 		</td>
 		<td>Tallinn University Of Technology<br/></td>
@@ -7272,7 +7274,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ch-ms">
 				<img src="https://avatars.githubusercontent.com/u/1389471?s=72&u=e4147f16e840ca1c3561c117888faed8d5caee69&v=4" width="24" alt="Avatar of ch-ms"> ch-ms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ch-ms">Copy rank badge</a><br/>
 			Evgeniy Kuznetsov
 		</td>
 		<td>Bolt </td>
@@ -7285,7 +7287,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/karltan0314">
 				<img src="https://avatars.githubusercontent.com/u/248250460?s=72&v=4" width="24" alt="Avatar of karltan0314"> karltan0314
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#karltan0314">Copy rank badge</a><br/>
 			Karl Clause
 		</td>
 		<td>No Company</td>
@@ -7298,7 +7300,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Pizzaold">
 				<img src="https://avatars.githubusercontent.com/u/109032167?s=72&u=05f258eb5586140d86c53eb0e5242977feb409bd&v=4" width="24" alt="Avatar of Pizzaold"> Pizzaold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Pizzaold">Copy rank badge</a><br/>
 			Pizzaold
 		</td>
 		<td>No Company</td>
@@ -7311,7 +7313,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/pepela">
 				<img src="https://avatars.githubusercontent.com/u/4414460?s=72&u=b34f6b2e743a2601b7c9b77ded15695bd2f1a049&v=4" width="24" alt="Avatar of pepela"> pepela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#pepela">Copy rank badge</a><br/>
 			Giorgi Peranidze
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sala91">
 				<img src="https://avatars.githubusercontent.com/u/143785?s=72&v=4" width="24" alt="Avatar of sala91"> sala91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sala91">Copy rank badge</a><br/>
 			Sander Soots
 		</td>
 		<td>Battleit Group </td>
@@ -7337,7 +7339,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/miamibc">
 				<img src="https://avatars.githubusercontent.com/u/197494?s=72&u=6e396f5e676ca56a1cab75092ddac25a84a3ea46&v=4" width="24" alt="Avatar of miamibc"> miamibc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#miamibc">Copy rank badge</a><br/>
 			Sergei Miami
 		</td>
 		<td>Blackcrystal </td>
@@ -7350,7 +7352,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cisimon7">
 				<img src="https://avatars.githubusercontent.com/u/52794824?s=72&v=4" width="24" alt="Avatar of cisimon7"> cisimon7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cisimon7">Copy rank badge</a><br/>
 			Simon Idoko
 		</td>
 		<td>Phd </td>
@@ -7363,7 +7365,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kev4kk">
 				<img src="https://avatars.githubusercontent.com/u/45798464?s=72&u=baabb6f15301a0fdc27cab68573cdb8310a5ef2b&v=4" width="24" alt="Avatar of Kev4kk"> Kev4kk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Kev4kk">Copy rank badge</a><br/>
 			Kevin Akkermann
 		</td>
 		<td>Bilt </td>
@@ -7376,7 +7378,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/LeivoSepp">
 				<img src="https://avatars.githubusercontent.com/u/13704023?s=72&u=7da89cb58c21291abfa4a54ebbcfcc032fd5d448&v=4" width="24" alt="Avatar of LeivoSepp"> LeivoSepp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#LeivoSepp">Copy rank badge</a><br/>
 			Leivo Sepp
 		</td>
 		<td>Microsoft / Robootika.com <br/></td>
@@ -7389,7 +7391,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/manuganji">
 				<img src="https://avatars.githubusercontent.com/u/1709986?s=72&v=4" width="24" alt="Avatar of manuganji"> manuganji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#manuganji">Copy rank badge</a><br/>
 			Manu Ganji
 		</td>
 		<td>Spreadsheetconverter </td>
@@ -7402,7 +7404,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bakmyradov">
 				<img src="https://avatars.githubusercontent.com/u/25063613?s=72&u=c13ccf5094a35881833c9045630e3729668f3810&v=4" width="24" alt="Avatar of bakmyradov"> bakmyradov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bakmyradov">Copy rank badge</a><br/>
 			Batyr Akmyradov
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/therealsmat">
 				<img src="https://avatars.githubusercontent.com/u/12660524?s=72&u=4314de206d3528ed46674ec29b9635506e2e747d&v=4" width="24" alt="Avatar of therealsmat"> therealsmat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#therealsmat">Copy rank badge</a><br/>
 			Tosin
 		</td>
 		<td>The Coingaming Group </td>
@@ -7428,7 +7430,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hurby24">
 				<img src="https://avatars.githubusercontent.com/u/69755274?s=72&u=5c9b11ae150254818b47671c13ed29cfe5821110&v=4" width="24" alt="Avatar of hurby24"> hurby24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hurby24">Copy rank badge</a><br/>
 			Hurby
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/birfincankafein">
 				<img src="https://avatars.githubusercontent.com/u/5882310?s=72&v=4" width="24" alt="Avatar of birfincankafein"> birfincankafein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#birfincankafein">Copy rank badge</a><br/>
 			Metehan Toksoy
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ufukcam">
 				<img src="https://avatars.githubusercontent.com/u/27288643?s=72&u=f51d9e77d316acbbbef360f6585e908513ce1d94&v=4" width="24" alt="Avatar of ufukcam"> ufukcam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ufukcam">Copy rank badge</a><br/>
 			Ufuk Cam
 		</td>
 		<td>Bilpp </td>
@@ -7467,7 +7469,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/chief-wizard">
 				<img src="https://avatars.githubusercontent.com/u/40777040?s=72&u=78dbb09715af60ed95912528defde4cced701b0d&v=4" width="24" alt="Avatar of chief-wizard"> chief-wizard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#chief-wizard">Copy rank badge</a><br/>
 			Oleksii Klochai
 		</td>
 		<td>Wizard On Demand </td>
@@ -7480,7 +7482,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/zac-heisey">
 				<img src="https://avatars.githubusercontent.com/u/15710530?s=72&v=4" width="24" alt="Avatar of zac-heisey"> zac-heisey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#zac-heisey">Copy rank badge</a><br/>
 			Zac Heisey
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/77ccreed">
 				<img src="https://avatars.githubusercontent.com/u/32397184?s=72&u=78ead5e5bd93b0eeb2802eb81996f9caa3064629&v=4" width="24" alt="Avatar of 77ccreed"> 77ccreed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#77ccreed">Copy rank badge</a><br/>
 			Kiur Jullis
 		</td>
 		<td>Oü Kodulehe Tellimine </td>
@@ -7506,7 +7508,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/dahmadjid">
 				<img src="https://avatars.githubusercontent.com/u/38624834?s=72&u=90766f28530bdf00a4cd7fa5563602efdcbeadae&v=4" width="24" alt="Avatar of dahmadjid"> dahmadjid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#dahmadjid">Copy rank badge</a><br/>
 			Dahmani Abdelmadjid
 		</td>
 		<td>Taltech </td>
@@ -7519,7 +7521,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nocubicles">
 				<img src="https://avatars.githubusercontent.com/u/7818438?s=72&u=6acb069ba3e09e2cff22f024fd88f591ef225de3&v=4" width="24" alt="Avatar of nocubicles"> nocubicles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nocubicles">Copy rank badge</a><br/>
 			Villem Heinsalu
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/gfrancischelli">
 				<img src="https://avatars.githubusercontent.com/u/19494863?s=72&u=86b6ead3debcd1d4b5f792f72633a86b921ff752&v=4" width="24" alt="Avatar of gfrancischelli"> gfrancischelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#gfrancischelli">Copy rank badge</a><br/>
 			Giovanni Francischelli
 		</td>
 		<td>No Company</td>
@@ -7545,7 +7547,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KarimGeiger">
 				<img src="https://avatars.githubusercontent.com/u/2329930?s=72&u=9480c97a4fe1fdbae0989b0ce05bfb6407dc10b2&v=4" width="24" alt="Avatar of KarimGeiger"> KarimGeiger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KarimGeiger">Copy rank badge</a><br/>
 			Karim Geiger
 		</td>
 		<td>Oakhost Oü </td>
@@ -7558,7 +7560,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/petskratt">
 				<img src="https://avatars.githubusercontent.com/u/712310?s=72&v=4" width="24" alt="Avatar of petskratt"> petskratt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#petskratt">Copy rank badge</a><br/>
 			Peeter Marvet
 		</td>
 		<td>Tehnokratt </td>
@@ -7571,7 +7573,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/blinchk">
 				<img src="https://avatars.githubusercontent.com/u/49353043?s=72&u=7eac8df1693af6edac1a17e70a6b99b161ff6fe2&v=4" width="24" alt="Avatar of blinchk"> blinchk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#blinchk">Copy rank badge</a><br/>
 			Nikolas Laus
 		</td>
 		<td>Heisi.ee </td>
@@ -7584,7 +7586,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/spikhoff">
 				<img src="https://avatars.githubusercontent.com/u/1052477?s=72&v=4" width="24" alt="Avatar of spikhoff"> spikhoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#spikhoff">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@spontecgames </td>
@@ -7597,7 +7599,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aefimov">
 				<img src="https://avatars.githubusercontent.com/u/717562?s=72&v=4" width="24" alt="Avatar of aefimov"> aefimov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aefimov">Copy rank badge</a><br/>
 			Alexey Efimov
 		</td>
 		<td>Bolt </td>
@@ -7610,7 +7612,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/StepanNaryshkov">
 				<img src="https://avatars.githubusercontent.com/u/12746043?s=72&u=3732535b24c9641616e93ba0a76b102963f909d4&v=4" width="24" alt="Avatar of StepanNaryshkov"> StepanNaryshkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#StepanNaryshkov">Copy rank badge</a><br/>
 			Stepan
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Vitia10">
 				<img src="https://avatars.githubusercontent.com/u/198433249?s=72&u=0189a4993712b129b4d27e72a10fab6a4ccba5db&v=4" width="24" alt="Avatar of Vitia10"> Vitia10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Vitia10">Copy rank badge</a><br/>
 			awesom-o
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/vlasn">
 				<img src="https://avatars.githubusercontent.com/u/22070687?s=72&u=962a7924199db8219c2658a302dc1795636452cc&v=4" width="24" alt="Avatar of vlasn"> vlasn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#vlasn">Copy rank badge</a><br/>
 			Veljo Lasn
 		</td>
 		<td>@bettermedicine </td>
@@ -7649,7 +7651,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/agoluberg">
 				<img src="https://avatars.githubusercontent.com/u/45663?s=72&v=4" width="24" alt="Avatar of agoluberg"> agoluberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#agoluberg">Copy rank badge</a><br/>
 			Ago Luberg
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/saadismail">
 				<img src="https://avatars.githubusercontent.com/u/11972404?s=72&u=ac7272ce7861cc594dddf4964ca90079ecb55a69&v=4" width="24" alt="Avatar of saadismail"> saadismail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#saadismail">Copy rank badge</a><br/>
 			Saad Ismail
 		</td>
 		<td>Modash </td>
@@ -7675,7 +7677,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kaidja">
 				<img src="https://avatars.githubusercontent.com/u/7693531?s=72&v=4" width="24" alt="Avatar of Kaidja"> Kaidja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Kaidja">Copy rank badge</a><br/>
 			Kaido Järvemets
 		</td>
 		<td>Lakeforest Consulting </td>
@@ -7688,7 +7690,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/boxmein">
 				<img src="https://avatars.githubusercontent.com/u/358714?s=72&u=11cbbfe64cfb52af6de3a4dfb6c749abddf6f9b5&v=4" width="24" alt="Avatar of boxmein"> boxmein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#boxmein">Copy rank badge</a><br/>
 			Johannes Kadak
 		</td>
 		<td>@bolteu  </td>
@@ -7701,7 +7703,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Leymooo">
 				<img src="https://avatars.githubusercontent.com/u/8667294?s=72&u=17be226eba778d8d0958a8f08e94cd0495cf5341&v=4" width="24" alt="Avatar of Leymooo"> Leymooo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Leymooo">Copy rank badge</a><br/>
 			Vjatšeslav Maspanov
 		</td>
 		<td>No Company</td>
@@ -7714,7 +7716,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/abdurrahman">
 				<img src="https://avatars.githubusercontent.com/u/8971704?s=72&u=40ad56bb80529adfe407b93f420f7bc002464680&v=4" width="24" alt="Avatar of abdurrahman"> abdurrahman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#abdurrahman">Copy rank badge</a><br/>
 			Abdurrahman Işık
 		</td>
 		<td>Riverty </td>
@@ -7727,7 +7729,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mdunaev">
 				<img src="https://avatars.githubusercontent.com/u/1336236?s=72&u=cd536aa18b685c6e3f2c4d5106da6e456be5ac0e&v=4" width="24" alt="Avatar of mdunaev"> mdunaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mdunaev">Copy rank badge</a><br/>
 			Miša Dunaev
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/eniskurtayyilmaz">
 				<img src="https://avatars.githubusercontent.com/u/13424566?s=72&u=2be5f854bb89b16ece6763aa58e688ef8cf32ab8&v=4" width="24" alt="Avatar of eniskurtayyilmaz"> eniskurtayyilmaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#eniskurtayyilmaz">Copy rank badge</a><br/>
 			Enis Kurtay YILMAZ
 		</td>
 		<td>İdeanet Bilişim </td>
@@ -7753,7 +7755,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nmgalo">
 				<img src="https://avatars.githubusercontent.com/u/33604954?s=72&u=6aa945ed3bb69c1c8a56469a4c65e53b4e4828d3&v=4" width="24" alt="Avatar of nmgalo"> nmgalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nmgalo">Copy rank badge</a><br/>
 			Nika Mgaloblishvili
 		</td>
 		<td>Onoff Telecom </td>
@@ -7766,7 +7768,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hexjelly">
 				<img src="https://avatars.githubusercontent.com/u/435283?s=72&u=1abdb8c1479847ba4c7bb54f1d773d8c336b5e8b&v=4" width="24" alt="Avatar of hexjelly"> hexjelly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hexjelly">Copy rank badge</a><br/>
 			Roger Andersen
 		</td>
 		<td>@zendesk </td>
@@ -7779,7 +7781,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/apjoex">
 				<img src="https://avatars.githubusercontent.com/u/13235745?s=72&u=8d1d12ef77905524718093043e50ee43709b4675&v=4" width="24" alt="Avatar of apjoex"> apjoex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#apjoex">Copy rank badge</a><br/>
 			Akinde-Peters Joseph
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/JinnCirce">
 				<img src="https://avatars.githubusercontent.com/u/16615545?s=72&u=765249932840df748e5db087c939961c6e7d7188&v=4" width="24" alt="Avatar of JinnCirce"> JinnCirce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#JinnCirce">Copy rank badge</a><br/>
 			jinn6
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Korving-F">
 				<img src="https://avatars.githubusercontent.com/u/17042203?s=72&u=9ca37132bb389a3c85cd2d4357c39b6b09d3f5da&v=4" width="24" alt="Avatar of Korving-F"> Korving-F
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Korving-F">Copy rank badge</a><br/>
 			Frank Korving
 		</td>
 		<td>No Company</td>
@@ -7818,7 +7820,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ahtoj">
 				<img src="https://avatars.githubusercontent.com/u/2003780?s=72&u=8a277cb69943b4990db98ec414379a4ea28b4c7c&v=4" width="24" alt="Avatar of ahtoj"> ahtoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ahtoj">Copy rank badge</a><br/>
 			Ahto Jalak
 		</td>
 		<td>Shopleech.com </td>
@@ -7831,7 +7833,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tmtmtmtm">
 				<img src="https://avatars.githubusercontent.com/u/57483?s=72&v=4" width="24" alt="Avatar of tmtmtmtm"> tmtmtmtm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tmtmtmtm">Copy rank badge</a><br/>
 			Tony Bowden
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ky6uk">
 				<img src="https://avatars.githubusercontent.com/u/46930?s=72&v=4" width="24" alt="Avatar of Ky6uk"> Ky6uk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Ky6uk">Copy rank badge</a><br/>
 			Roman Nuritdinov
 		</td>
 		<td>Green Pie </td>
@@ -7857,7 +7859,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/designviacode">
 				<img src="https://avatars.githubusercontent.com/u/7282467?s=72&u=292992ddf70db609cb98fbea0048281839361322&v=4" width="24" alt="Avatar of designviacode"> designviacode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#designviacode">Copy rank badge</a><br/>
 			Manpreet Singh
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ietienam">
 				<img src="https://avatars.githubusercontent.com/u/48521191?s=72&u=4545c88417716fc641794d1392cfd25d4b07ae32&v=4" width="24" alt="Avatar of ietienam"> ietienam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ietienam">Copy rank badge</a><br/>
 			Ini Etienam
 		</td>
 		<td>No Company</td>
@@ -7883,7 +7885,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aa-ahmed-aa">
 				<img src="https://avatars.githubusercontent.com/u/9592546?s=72&u=44ee44ebae01741504e8dc338d3dc4aa1309b9bc&v=4" width="24" alt="Avatar of aa-ahmed-aa"> aa-ahmed-aa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aa-ahmed-aa">Copy rank badge</a><br/>
 			Ahmed Khaled MOhamed
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/VladyslavBondarenko">
 				<img src="https://avatars.githubusercontent.com/u/17024977?s=72&u=17b56ac751d51aa84ad78925338fcfc8346273d3&v=4" width="24" alt="Avatar of VladyslavBondarenko"> VladyslavBondarenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#VladyslavBondarenko">Copy rank badge</a><br/>
 			Vlad Bondarenko
 		</td>
 		<td>Glia </td>
@@ -7909,7 +7911,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/SajjadAsefi">
 				<img src="https://avatars.githubusercontent.com/u/60980220?s=72&v=4" width="24" alt="Avatar of SajjadAsefi"> SajjadAsefi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#SajjadAsefi">Copy rank badge</a><br/>
 			Sajjad Asefi
 		</td>
 		<td>Tallinn University Of Technology<br/></td>
@@ -7922,7 +7924,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Omerkdr">
 				<img src="https://avatars.githubusercontent.com/u/73428550?s=72&u=215c8fb1bbdbb42dd8da460528cbb2ba3bd5c4c1&v=4" width="24" alt="Avatar of Omerkdr"> Omerkdr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Omerkdr">Copy rank badge</a><br/>
 			Ömer Kadir 
 		</td>
 		<td>Appthos Studio Oü </td>
@@ -7935,7 +7937,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tabukmail">
 				<img src="https://avatars.githubusercontent.com/u/12737570?s=72&u=d65050071aef4aa7ff4b263088728acc8e67cf38&v=4" width="24" alt="Avatar of tabukmail"> tabukmail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tabukmail">Copy rank badge</a><br/>
 			G.Tabukashvili
 		</td>
 		<td>Euas / Eek </td>
@@ -7948,7 +7950,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lehaSVV2009">
 				<img src="https://avatars.githubusercontent.com/u/4526420?s=72&u=728e8f62bcf906f795fa6bf40e7aac114364e2a1&v=4" width="24" alt="Avatar of lehaSVV2009"> lehaSVV2009
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lehaSVV2009">Copy rank badge</a><br/>
 			Aliaksei Saroka
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/muratyigen">
 				<img src="https://avatars.githubusercontent.com/u/16759018?s=72&u=f275d5a437073dc50738341e74afdc8524d89887&v=4" width="24" alt="Avatar of muratyigen"> muratyigen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#muratyigen">Copy rank badge</a><br/>
 			Murat
 		</td>
 		<td>No Company</td>
@@ -7974,7 +7976,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/De-Bola">
 				<img src="https://avatars.githubusercontent.com/u/54313389?s=72&v=4" width="24" alt="Avatar of De-Bola"> De-Bola
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#De-Bola">Copy rank badge</a><br/>
 			Adebola Gbiri
 		</td>
 		<td>No Company</td>
@@ -7987,7 +7989,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tambet">
 				<img src="https://avatars.githubusercontent.com/u/1631?s=72&u=06544e6d92cef02c47f35ba998663152cd61c8b1&v=4" width="24" alt="Avatar of tambet"> tambet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tambet">Copy rank badge</a><br/>
 			Tambet Masik
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/schunlee">
 				<img src="https://avatars.githubusercontent.com/u/12848213?s=72&u=94e58845cbab254779316d5a8ddda2b16ec799e9&v=4" width="24" alt="Avatar of schunlee"> schunlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#schunlee">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Anton </td>
@@ -8013,7 +8015,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mmaher22">
 				<img src="https://avatars.githubusercontent.com/u/17103767?s=72&u=dfafe6b3c9274a5d534a1e36ef4cbc8ce62ed049&v=4" width="24" alt="Avatar of mmaher22"> mmaher22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mmaher22">Copy rank badge</a><br/>
 			Mohamed Maher
 		</td>
 		<td>University Of Tartu </td>
@@ -8026,7 +8028,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/matkovd">
 				<img src="https://avatars.githubusercontent.com/u/19489510?s=72&u=4395ddb7dcd9516a584e3b27b43ea01b9db00bd9&v=4" width="24" alt="Avatar of matkovd"> matkovd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#matkovd">Copy rank badge</a><br/>
 			Daniil Matkov
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/NeverwinterMoon">
 				<img src="https://avatars.githubusercontent.com/u/1917308?s=72&u=5dd005bf9832e6c4abaa8b6363618ea4fe8fd4fe&v=4" width="24" alt="Avatar of NeverwinterMoon"> NeverwinterMoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#NeverwinterMoon">Copy rank badge</a><br/>
 			Pavel Sorokin
 		</td>
 		<td>Ampler Bikes </td>
@@ -8052,7 +8054,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/emanuelepicas">
 				<img src="https://avatars.githubusercontent.com/u/50769518?s=72&u=bdc107362b0af74a07f6c46c015fb48d5fd143c5&v=4" width="24" alt="Avatar of emanuelepicas"> emanuelepicas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#emanuelepicas">Copy rank badge</a><br/>
 			Emanuele Picariello
 		</td>
 		<td>No Company</td>
@@ -8065,7 +8067,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/cainrus">
 				<img src="https://avatars.githubusercontent.com/u/416847?s=72&u=b52eef3ba93cc673b8999a86da737b9d04ab78b0&v=4" width="24" alt="Avatar of cainrus"> cainrus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#cainrus">Copy rank badge</a><br/>
 			Sergei Tarassov.
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/memishood">
 				<img src="https://avatars.githubusercontent.com/u/39571861?s=72&u=46d297c5c576cdd9be47f38e934b72bd2492cb45&v=4" width="24" alt="Avatar of memishood"> memishood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#memishood">Copy rank badge</a><br/>
 			Emre
 		</td>
 		<td>No Company</td>
@@ -8091,7 +8093,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ahmedengu">
 				<img src="https://avatars.githubusercontent.com/u/2976004?s=72&u=b5f6e1c37042233ba2763690e48ca9dd0724c06d&v=4" width="24" alt="Avatar of ahmedengu"> ahmedengu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ahmedengu">Copy rank badge</a><br/>
 			Ahmed Aboumalwa
 		</td>
 		<td>Pipedrive </td>
@@ -8104,7 +8106,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/isabek">
 				<img src="https://avatars.githubusercontent.com/u/2938840?s=72&u=1fdc8894f9bf6541b3f203ff6a37f91d7b2767ca&v=4" width="24" alt="Avatar of isabek"> isabek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#isabek">Copy rank badge</a><br/>
 			Isabek Tashiev
 		</td>
 		<td>Aliengain </td>
@@ -8117,7 +8119,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hbokmann">
 				<img src="https://avatars.githubusercontent.com/u/939678?s=72&u=447688afb066d6147e80677bac989042a4f34d39&v=4" width="24" alt="Avatar of hbokmann"> hbokmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hbokmann">Copy rank badge</a><br/>
 			Hans Bokmann
 		</td>
 		<td>Blockchain Project Management </td>
@@ -8130,7 +8132,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alijevaslan">
 				<img src="https://avatars.githubusercontent.com/u/37018653?s=72&u=06b1e86b5cd664d199c72f34da862b145e2222b9&v=4" width="24" alt="Avatar of alijevaslan"> alijevaslan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alijevaslan">Copy rank badge</a><br/>
 			Aslan Alijev
 		</td>
 		<td>No Company</td>
@@ -8143,7 +8145,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Daniellunsc">
 				<img src="https://avatars.githubusercontent.com/u/16923217?s=72&u=05775a5e32b55d455741f4f576b53280ab9b13d8&v=4" width="24" alt="Avatar of Daniellunsc"> Daniellunsc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Daniellunsc">Copy rank badge</a><br/>
 			Daniel Luna
 		</td>
 		<td>@transferwise  </td>
@@ -8156,7 +8158,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/abhishiv">
 				<img src="https://avatars.githubusercontent.com/u/37350?s=72&u=685383b89478b8ceb5c9b7e6399441499ddbcc06&v=4" width="24" alt="Avatar of abhishiv"> abhishiv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#abhishiv">Copy rank badge</a><br/>
 			Abhishiv Saxena
 		</td>
 		<td>@gratico  </td>
@@ -8169,7 +8171,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/KaurHendrikson">
 				<img src="https://avatars.githubusercontent.com/u/25254036?s=72&u=b3342dfaceea1aa130d1f22916deaff1ad722787&v=4" width="24" alt="Avatar of KaurHendrikson"> KaurHendrikson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#KaurHendrikson">Copy rank badge</a><br/>
 			Kaur Hendrikson
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/bashmach">
 				<img src="https://avatars.githubusercontent.com/u/333910?s=72&u=75b660832614175bd2a741bcf43646c360b29ed7&v=4" width="24" alt="Avatar of bashmach"> bashmach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#bashmach">Copy rank badge</a><br/>
 			Pavlo Machekhin
 		</td>
 		<td>@pipedrive  </td>
@@ -8195,7 +8197,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/xenos1984">
 				<img src="https://avatars.githubusercontent.com/u/7131167?s=72&u=1fa340545aa85e6e61bc395b0f93309c52338e61&v=4" width="24" alt="Avatar of xenos1984"> xenos1984
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#xenos1984">Copy rank badge</a><br/>
 			Manuel Hohmann
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/MamdouhRElNakeeb">
 				<img src="https://avatars.githubusercontent.com/u/16556982?s=72&u=1f91ccc82c4e03925fd8282970bdcf2ec7a60c17&v=4" width="24" alt="Avatar of MamdouhRElNakeeb"> MamdouhRElNakeeb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#MamdouhRElNakeeb">Copy rank badge</a><br/>
 			Mamdouh El-Nakeeb
 		</td>
 		<td>@creteagency </td>
@@ -8221,7 +8223,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jseminck">
 				<img src="https://avatars.githubusercontent.com/u/9586897?s=72&u=b4a724bb4afe6f10734de080bdaa380b28474e06&v=4" width="24" alt="Avatar of jseminck"> jseminck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jseminck">Copy rank badge</a><br/>
 			Joachim Seminck
 		</td>
 		<td>Lightyear </td>
@@ -8234,7 +8236,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aalekseev">
 				<img src="https://avatars.githubusercontent.com/u/7049500?s=72&u=b39f988f3db62260c6a0583b1badb82301bb55fd&v=4" width="24" alt="Avatar of aalekseev"> aalekseev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aalekseev">Copy rank badge</a><br/>
 			Anton Alekseev
 		</td>
 		<td>@thorgate </td>
@@ -8247,7 +8249,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alexgtn">
 				<img src="https://avatars.githubusercontent.com/u/20150774?s=72&u=4f1afb17b2c4253620b1da6a8b52f344b5a12199&v=4" width="24" alt="Avatar of alexgtn"> alexgtn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alexgtn">Copy rank badge</a><br/>
 			Alex Gutan
 		</td>
 		<td>Upvest, Ex Odin, Open<br/>Cosmos<br/></td>
@@ -8260,7 +8262,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sturmer">
 				<img src="https://avatars.githubusercontent.com/u/454735?s=72&u=d37f8dbcf220ab842fbdbaa5e5627585447b273a&v=4" width="24" alt="Avatar of sturmer"> sturmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sturmer">Copy rank badge</a><br/>
 			Gianluca Ciccarelli
 		</td>
 		<td>No Company</td>
@@ -8273,7 +8275,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/jeserkin">
 				<img src="https://avatars.githubusercontent.com/u/183512?s=72&u=ba95411e2995a747f25811b2affa4088dbcfd40a&v=4" width="24" alt="Avatar of jeserkin"> jeserkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#jeserkin">Copy rank badge</a><br/>
 			Eugene Serkin
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/puik">
 				<img src="https://avatars.githubusercontent.com/u/2512379?s=72&u=499fde56ca7d0cbe42636ed6047cdf374af0c724&v=4" width="24" alt="Avatar of puik"> puik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#puik">Copy rank badge</a><br/>
 			Vahur Puik
 		</td>
 		<td>Ajapaik.ee, Sift.pics (estonian Photographic<br/>Heritage<br/>Society)<br/></td>
@@ -8299,7 +8301,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ydanneg">
 				<img src="https://avatars.githubusercontent.com/u/459303?s=72&u=db8529f00ed091f35de7f53d77c3644e17122c09&v=4" width="24" alt="Avatar of ydanneg"> ydanneg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ydanneg">Copy rank badge</a><br/>
 			Gennadi Kudrjavtsev
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/artem-galas">
 				<img src="https://avatars.githubusercontent.com/u/6387897?s=72&u=ad3bb9d65c0c57035641b15a889d77cd39a7f593&v=4" width="24" alt="Avatar of artem-galas"> artem-galas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#artem-galas">Copy rank badge</a><br/>
 			Artem Halas
 		</td>
 		<td>No Company</td>
@@ -8325,7 +8327,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ma1ef1que">
 				<img src="https://avatars.githubusercontent.com/u/171608323?s=72&u=cca5deaf28d876d3c89b1607946aa209c2d0e2d8&v=4" width="24" alt="Avatar of ma1ef1que"> ma1ef1que
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ma1ef1que">Copy rank badge</a><br/>
 			Kirill Pelevin
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mostafa-zaghloul">
 				<img src="https://avatars.githubusercontent.com/u/10168113?s=72&u=ece1a4ee506a7eed8ead42d8a6a1daae531c3de7&v=4" width="24" alt="Avatar of mostafa-zaghloul"> mostafa-zaghloul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mostafa-zaghloul">Copy rank badge</a><br/>
 			Mostafa Zaghloul
 		</td>
 		<td>Offertivo </td>
@@ -8351,7 +8353,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/TerjeRusska">
 				<img src="https://avatars.githubusercontent.com/u/14142635?s=72&u=dcb56b2f06da9eb1f2af56c30b9b25a74eb1454f&v=4" width="24" alt="Avatar of TerjeRusska"> TerjeRusska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#TerjeRusska">Copy rank badge</a><br/>
 			Terje Russka
 		</td>
 		<td>No Company</td>
@@ -8364,7 +8366,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kypsis">
 				<img src="https://avatars.githubusercontent.com/u/46851868?s=72&u=35b338f071405c0304959273e66a03450afa0958&v=4" width="24" alt="Avatar of Kypsis"> Kypsis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Kypsis">Copy rank badge</a><br/>
 			Harry Sild
 		</td>
 		<td>No Company</td>
@@ -8377,7 +8379,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ukaracivio">
 				<img src="https://avatars.githubusercontent.com/u/22940909?s=72&u=641f8aa5aed88444db039ec6ed5eb845985ec968&v=4" width="24" alt="Avatar of ukaracivio"> ukaracivio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ukaracivio">Copy rank badge</a><br/>
 			Ümit KARAÇİVİ
 		</td>
 		<td>Novas Worx Consulting </td>
@@ -8390,7 +8392,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rebing">
 				<img src="https://avatars.githubusercontent.com/u/8533161?s=72&u=aafff7d7e8d250b7ce632ad4a87c98ea018edfab&v=4" width="24" alt="Avatar of rebing"> rebing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rebing">Copy rank badge</a><br/>
 			Mikk Mihkel Nurges
 		</td>
 		<td>@esto-as  </td>
@@ -8403,7 +8405,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lumie31">
 				<img src="https://avatars.githubusercontent.com/u/20124969?s=72&u=c9ee57b94af3fd54d640c345980c09175890385f&v=4" width="24" alt="Avatar of lumie31"> lumie31
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lumie31">Copy rank badge</a><br/>
 			Olumide
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rocketapi-io">
 				<img src="https://avatars.githubusercontent.com/u/115935691?s=72&u=eeac29c9d72dacd710f006f47c1a3f07e77b53a1&v=4" width="24" alt="Avatar of rocketapi-io"> rocketapi-io
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rocketapi-io">Copy rank badge</a><br/>
 			RocketAPI
 		</td>
 		<td>Rocketapi </td>
@@ -8429,7 +8431,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hendrysadrak">
 				<img src="https://avatars.githubusercontent.com/u/4000963?s=72&v=4" width="24" alt="Avatar of hendrysadrak"> hendrysadrak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hendrysadrak">Copy rank badge</a><br/>
 			Hendry Sadrak
 		</td>
 		<td>@modashio </td>
@@ -8442,7 +8444,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/thalessr">
 				<img src="https://avatars.githubusercontent.com/u/6223918?s=72&u=e071c708cfbe00bff2a8ebcaa47c77f5c2f19ef3&v=4" width="24" alt="Avatar of thalessr"> thalessr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#thalessr">Copy rank badge</a><br/>
 			Thales Ribeiro
 		</td>
 		<td>@perfectline </td>
@@ -8455,7 +8457,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ionoy">
 				<img src="https://avatars.githubusercontent.com/u/592624?s=72&u=a4fabf04137b017357c47bce6dd36f95eb71c553&v=4" width="24" alt="Avatar of ionoy"> ionoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ionoy">Copy rank badge</a><br/>
 			Mihhail Maslakov
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/YoshiokaHaruki">
 				<img src="https://avatars.githubusercontent.com/u/45369792?s=72&u=5e252f9e5ce39e0c03dbb0f17f321d710fc8b2e1&v=4" width="24" alt="Avatar of YoshiokaHaruki"> YoshiokaHaruki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#YoshiokaHaruki">Copy rank badge</a><br/>
 			Oleg Deynega
 		</td>
 		<td>No Company</td>
@@ -8481,7 +8483,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/kmteras">
 				<img src="https://avatars.githubusercontent.com/u/8247600?s=72&u=52e6afc2dd0ce0ad2b0988ec9ea18cb3936b1d1e&v=4" width="24" alt="Avatar of kmteras"> kmteras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#kmteras">Copy rank badge</a><br/>
 			Karl Martin Teras
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/EspaEternals">
 				<img src="https://avatars.githubusercontent.com/u/268440450?s=72&u=12fc3ff651f16f654038824e9a660d9e842dbdbe&v=4" width="24" alt="Avatar of EspaEternals"> EspaEternals
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#EspaEternals">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8507,7 +8509,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mklopets">
 				<img src="https://avatars.githubusercontent.com/u/3150328?s=72&u=15ad9327f2c8f4995918c79deb8691e34356aafc&v=4" width="24" alt="Avatar of mklopets"> mklopets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mklopets">Copy rank badge</a><br/>
 			Marko Klopets
 		</td>
 		<td>No Company</td>
@@ -8520,7 +8522,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikkpr">
 				<img src="https://avatars.githubusercontent.com/u/1052363?s=72&u=e0a64f00d3f8d773f02f874ecfb87f0aa9424cb5&v=4" width="24" alt="Avatar of mikkpr"> mikkpr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mikkpr">Copy rank badge</a><br/>
 			Mikk Pristavka
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/crazyjooe">
 				<img src="https://avatars.githubusercontent.com/u/5329255?s=72&u=64f9287efb0eedddba959baae071326fcf76a70b&v=4" width="24" alt="Avatar of crazyjooe"> crazyjooe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#crazyjooe">Copy rank badge</a><br/>
 			Artjoms Haleckis
 		</td>
 		<td>Vool </td>
@@ -8546,7 +8548,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/OFFLlNE">
 				<img src="https://avatars.githubusercontent.com/u/8721312?s=72&u=86337e57632b896756d4b1f628684c5fca129ae0&v=4" width="24" alt="Avatar of OFFLlNE"> OFFLlNE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#OFFLlNE">Copy rank badge</a><br/>
 			Lauri Välja
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mirkamalg">
 				<img src="https://avatars.githubusercontent.com/u/37473943?s=72&u=653791c5ac5e4351f32891ccc73e0351f45ce5b6&v=4" width="24" alt="Avatar of mirkamalg"> mirkamalg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mirkamalg">Copy rank badge</a><br/>
 			Mirkamal Gasimov
 		</td>
 		<td>Bolt </td>
@@ -8572,7 +8574,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Abdurrazakli">
 				<img src="https://avatars.githubusercontent.com/u/43648094?s=72&u=2ffe526369f55f8271938b5e7169b167990c1ed0&v=4" width="24" alt="Avatar of Abdurrazakli"> Abdurrazakli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Abdurrazakli">Copy rank badge</a><br/>
 			Adil Abdurrazakli
 		</td>
 		<td>No Company</td>
@@ -8585,7 +8587,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/aleksandr-m">
 				<img src="https://avatars.githubusercontent.com/u/5055566?s=72&u=25ac94cb1f3a57903a2e5ffdf800d791722efd91&v=4" width="24" alt="Avatar of aleksandr-m"> aleksandr-m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#aleksandr-m">Copy rank badge</a><br/>
 			Aleksandr Mashchenko
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/peeter-tomberg">
 				<img src="https://avatars.githubusercontent.com/u/598361?s=72&u=e3909f5249ae941364b944f8c6cacf6416725ac3&v=4" width="24" alt="Avatar of peeter-tomberg"> peeter-tomberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#peeter-tomberg">Copy rank badge</a><br/>
 			Peeter Tomberg
 		</td>
 		<td>@fvst-dev </td>
@@ -8611,7 +8613,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/plavreshin">
 				<img src="https://avatars.githubusercontent.com/u/5095635?s=72&u=1c18059ca7bada2d57cf1c29cf34047b76d9b73a&v=4" width="24" alt="Avatar of plavreshin"> plavreshin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#plavreshin">Copy rank badge</a><br/>
 			Pavel Lavreshin
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/fixmk">
 				<img src="https://avatars.githubusercontent.com/u/28147398?s=72&u=11450e17d7c37462ff1059b97e6343c9691c818a&v=4" width="24" alt="Avatar of fixmk"> fixmk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#fixmk">Copy rank badge</a><br/>
 			Maksim Kichigin
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Adnan9011">
 				<img src="https://avatars.githubusercontent.com/u/7091803?s=72&u=ee4f9df252c1833808f28245b2b3a88c884c27f8&v=4" width="24" alt="Avatar of Adnan9011"> Adnan9011
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Adnan9011">Copy rank badge</a><br/>
 			Adnan Abdollah Zaki
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hotNipi">
 				<img src="https://avatars.githubusercontent.com/u/35291460?s=72&u=0c658967a60ecf056ab89d26965886f1c0a77e68&v=4" width="24" alt="Avatar of hotNipi"> hotNipi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hotNipi">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Playtech Estonia Oü </td>
@@ -8663,7 +8665,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mkolomeychenko">
 				<img src="https://avatars.githubusercontent.com/u/12828725?s=72&u=974607d289ce22686cb5701bf16a6ab56a74b973&v=4" width="24" alt="Avatar of mkolomeychenko"> mkolomeychenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mkolomeychenko">Copy rank badge</a><br/>
 			Max Kolomeychenko
 		</td>
 		<td>Https://supervise.ly </td>
@@ -8676,7 +8678,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mudcrab">
 				<img src="https://avatars.githubusercontent.com/u/427586?s=72&u=54a587321fbecb7104cff3b34802064fa0629539&v=4" width="24" alt="Avatar of mudcrab"> mudcrab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mudcrab">Copy rank badge</a><br/>
 			Jevgeni Sillar
 		</td>
 		<td>No Company</td>
@@ -8689,7 +8691,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/axynos">
 				<img src="https://avatars.githubusercontent.com/u/10325616?s=72&u=966efa1475cd5170c4a9f6360554e57961ed7df6&v=4" width="24" alt="Avatar of axynos"> axynos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#axynos">Copy rank badge</a><br/>
 			Silver Sten Kruus
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/oluwandabira">
 				<img src="https://avatars.githubusercontent.com/u/24304808?s=72&v=4" width="24" alt="Avatar of oluwandabira"> oluwandabira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#oluwandabira">Copy rank badge</a><br/>
 			Alawode Oluwandabira
 		</td>
 		<td>No Company</td>
@@ -8715,7 +8717,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/undeadcat">
 				<img src="https://avatars.githubusercontent.com/u/7509842?s=72&u=228a844b6ae1e9b34c81afcc295d625a94598c4f&v=4" width="24" alt="Avatar of undeadcat"> undeadcat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#undeadcat">Copy rank badge</a><br/>
 			Maxim Kropotov
 		</td>
 		<td>No Company</td>
@@ -8728,7 +8730,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ArtemD">
 				<img src="https://avatars.githubusercontent.com/u/47930?s=72&u=39d6ffa43a42633511195a3ec8aea72f19b6d456&v=4" width="24" alt="Avatar of ArtemD"> ArtemD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ArtemD">Copy rank badge</a><br/>
 			Artem Daniliants
 		</td>
 		<td>@daniliants-ventures </td>
@@ -8741,7 +8743,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/axnvas">
 				<img src="https://avatars.githubusercontent.com/u/23152049?s=72&u=a21a5e3c4605898547c4269d4d3d9b83f88b1680&v=4" width="24" alt="Avatar of axnvas"> axnvas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#axnvas">Copy rank badge</a><br/>
 			Alexander Vasilev
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/madhenry">
 				<img src="https://avatars.githubusercontent.com/u/434217?s=72&u=65a588061960be094e7a5300d41b087510d92e8e&v=4" width="24" alt="Avatar of madhenry"> madhenry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#madhenry">Copy rank badge</a><br/>
 			Henry Kehlmann
 		</td>
 		<td>@blooob  </td>
@@ -8767,7 +8769,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/skubi">
 				<img src="https://avatars.githubusercontent.com/u/2069155?s=72&u=1494f8cccd224b555954ece7681c64e2b72e6c55&v=4" width="24" alt="Avatar of skubi"> skubi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#skubi">Copy rank badge</a><br/>
 			Aleksandr
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yashika51">
 				<img src="https://avatars.githubusercontent.com/u/34909206?s=72&u=6f0efbdf5e4df90a99611c99603efa120251090c&v=4" width="24" alt="Avatar of yashika51"> yashika51
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yashika51">Copy rank badge</a><br/>
 			Yashika Sharma 
 		</td>
 		<td>@bolteu </td>
@@ -8793,7 +8795,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/maciejczyzewski">
 				<img src="https://avatars.githubusercontent.com/u/1976088?s=72&u=da3fc3c0dd84953663aaade7d1451d0aba3214da&v=4" width="24" alt="Avatar of maciejczyzewski"> maciejczyzewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#maciejczyzewski">Copy rank badge</a><br/>
 			Maciej A. Czyzewski
 		</td>
 		<td>@okafufu  </td>
@@ -8806,7 +8808,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/yigitsadic">
 				<img src="https://avatars.githubusercontent.com/u/727840?s=72&u=961a2ff6a269e7eb21b95269369e7705842e5a17&v=4" width="24" alt="Avatar of yigitsadic"> yigitsadic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#yigitsadic">Copy rank badge</a><br/>
 			Yiğit Sadıç
 		</td>
 		<td>No Company</td>
@@ -8819,7 +8821,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/atas76">
 				<img src="https://avatars.githubusercontent.com/u/3316830?s=72&v=4" width="24" alt="Avatar of atas76"> atas76
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#atas76">Copy rank badge</a><br/>
 			Andreas Tasoulas
 		</td>
 		<td>No Company</td>
@@ -8832,7 +8834,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Katrin-AI-br">
 				<img src="https://avatars.githubusercontent.com/u/232964427?s=72&u=381bc71046bc9284b361b3d7afafacd8d59705cb&v=4" width="24" alt="Avatar of Katrin-AI-br"> Katrin-AI-br
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Katrin-AI-br">Copy rank badge</a><br/>
 			Katrin 
 		</td>
 		<td>No Company</td>
@@ -8845,7 +8847,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ardovic">
 				<img src="https://avatars.githubusercontent.com/u/30338343?s=72&u=0184668e4679400a4ab24f2cb83746baeacfbd40&v=4" width="24" alt="Avatar of ardovic"> ardovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ardovic">Copy rank badge</a><br/>
 			Serj Ardovic
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rrebase">
 				<img src="https://avatars.githubusercontent.com/u/23059874?s=72&u=a220f87af715d6b9a4fcc5c2aa936cc68392bef3&v=4" width="24" alt="Avatar of rrebase"> rrebase
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rrebase">Copy rank badge</a><br/>
 			Ragnar Rebase
 		</td>
 		<td>@bolteu  </td>
@@ -8871,7 +8873,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/DeadAlready">
 				<img src="https://avatars.githubusercontent.com/u/1038164?s=72&u=fd2c667ce08867e3af5e81633e4642c30fa3000d&v=4" width="24" alt="Avatar of DeadAlready"> DeadAlready
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#DeadAlready">Copy rank badge</a><br/>
 			Karl Düüna
 		</td>
 		<td>Https://nodeswat.com </td>
@@ -8884,7 +8886,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/capisce">
 				<img src="https://avatars.githubusercontent.com/u/1556?s=72&u=a822ffab251c9a02ca5fd4f45d635ffb286b2d20&v=4" width="24" alt="Avatar of capisce"> capisce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#capisce">Copy rank badge</a><br/>
 			Samuel Rødal
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/estevanjantsk">
 				<img src="https://avatars.githubusercontent.com/u/461342?s=72&u=d7aec36a01d12b1b0e6e4107a721c426de8bcd43&v=4" width="24" alt="Avatar of estevanjantsk"> estevanjantsk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#estevanjantsk">Copy rank badge</a><br/>
 			Estevan Jantsk
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/What-the-Flutter">
 				<img src="https://avatars.githubusercontent.com/u/73128985?s=72&u=01174b75c248afb134ac93df906d72e073652ebf&v=4" width="24" alt="Avatar of What-the-Flutter"> What-the-Flutter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#What-the-Flutter">Copy rank badge</a><br/>
 			flutter.wtf
 		</td>
 		<td>Flutter.wtf </td>
@@ -8923,7 +8925,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sadighasanzade">
 				<img src="https://avatars.githubusercontent.com/u/59266227?s=72&u=686edf6a2c90ec9c1ef5ea91d6bff3f12b17711c&v=4" width="24" alt="Avatar of sadighasanzade"> sadighasanzade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sadighasanzade">Copy rank badge</a><br/>
 			S4D1G
 		</td>
 		<td>Cybernetica </td>
@@ -8936,7 +8938,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hamityanik">
 				<img src="https://avatars.githubusercontent.com/u/16164957?s=72&u=8261354a1b85d38fab6e4a8fec2540b177697ea7&v=4" width="24" alt="Avatar of hamityanik"> hamityanik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hamityanik">Copy rank badge</a><br/>
 			M. Hamit YANIK
 		</td>
 		<td>Rhm Interactive Oü </td>
@@ -8949,7 +8951,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mariosmaselli">
 				<img src="https://avatars.githubusercontent.com/u/1336977?s=72&u=16b9b7f6b95b2a91569cfc0f0e8a162b85e7fdef&v=4" width="24" alt="Avatar of mariosmaselli"> mariosmaselli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mariosmaselli">Copy rank badge</a><br/>
 			Mario Sanchez Maselli
 		</td>
 		<td>@nonlinearstudio </td>
@@ -8962,7 +8964,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lieroz">
 				<img src="https://avatars.githubusercontent.com/u/15988291?s=72&u=4ea94cee45938c08f8bc78522cf8994e82f29be8&v=4" width="24" alt="Avatar of lieroz"> lieroz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lieroz">Copy rank badge</a><br/>
 			Andrey Kamakin
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/iNikem">
 				<img src="https://avatars.githubusercontent.com/u/3010154?s=72&v=4" width="24" alt="Avatar of iNikem"> iNikem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#iNikem">Copy rank badge</a><br/>
 			Nikita Salnikov-Tarnovski
 		</td>
 		<td>Splunk </td>
@@ -8988,7 +8990,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/w20k">
 				<img src="https://avatars.githubusercontent.com/u/1053320?s=72&u=fa476a2fe60c1696598d010ca209de2206da5955&v=4" width="24" alt="Avatar of w20k"> w20k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#w20k">Copy rank badge</a><br/>
 			Denis Denisov
 		</td>
 		<td>Wilddirt </td>
@@ -9001,7 +9003,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/ibotirama">
 				<img src="https://avatars.githubusercontent.com/u/565336?s=72&u=2f7b7182dce514f9bf7eafbd04665db87f1aaabb&v=4" width="24" alt="Avatar of ibotirama"> ibotirama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#ibotirama">Copy rank badge</a><br/>
 			Pedro Henrique
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/evenfrost">
 				<img src="https://avatars.githubusercontent.com/u/3055750?s=72&u=58e8d88665926592d19956d7f086b3babdc29b6e&v=4" width="24" alt="Avatar of evenfrost"> evenfrost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#evenfrost">Copy rank badge</a><br/>
 			Aliaksei Kislou
 		</td>
 		<td>Pythia Ai </td>
@@ -9027,7 +9029,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Gtopuria">
 				<img src="https://avatars.githubusercontent.com/u/3939561?s=72&v=4" width="24" alt="Avatar of Gtopuria"> Gtopuria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Gtopuria">Copy rank badge</a><br/>
 			Giorgi Topuria
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rudotriton">
 				<img src="https://avatars.githubusercontent.com/u/14181026?s=72&u=a44da00dbd931266adaf5f866ee548b1bef6ea2f&v=4" width="24" alt="Avatar of rudotriton"> rudotriton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rudotriton">Copy rank badge</a><br/>
 			Raigo Jerva
 		</td>
 		<td>Tyrell Corporation </td>
@@ -9053,7 +9055,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/BondarenkoStas">
 				<img src="https://avatars.githubusercontent.com/u/18336802?s=72&u=6f78a0427d726b3e4ed8b5c152e3fdaf93408945&v=4" width="24" alt="Avatar of BondarenkoStas"> BondarenkoStas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#BondarenkoStas">Copy rank badge</a><br/>
 			Stanislav Bondarenko
 		</td>
 		<td>Glia </td>
@@ -9066,7 +9068,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuncdan">
 				<img src="https://avatars.githubusercontent.com/u/38155879?s=72&u=9e0f419a4ec6126859b76cca1c4fc1d36238f4c2&v=4" width="24" alt="Avatar of tuncdan"> tuncdan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#tuncdan">Copy rank badge</a><br/>
 			Büşra Tunçdan
 		</td>
 		<td>Riverty </td>
@@ -9079,7 +9081,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/akshlu">
 				<img src="https://avatars.githubusercontent.com/u/460919?s=72&u=949cf4bf395d8ba1de0e93b34f1c053517464862&v=4" width="24" alt="Avatar of akshlu"> akshlu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#akshlu">Copy rank badge</a><br/>
 			Aleksei Ustinov
 		</td>
 		<td>No Company</td>
@@ -9092,7 +9094,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/Mrezagolbaba">
 				<img src="https://avatars.githubusercontent.com/u/9501814?s=72&u=b6aee8998765d07518406ff46f8761f186090747&v=4" width="24" alt="Avatar of Mrezagolbaba"> Mrezagolbaba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#Mrezagolbaba">Copy rank badge</a><br/>
 			Renzo
 		</td>
 		<td>Pwc </td>
@@ -9105,7 +9107,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/sh0">
 				<img src="https://avatars.githubusercontent.com/u/129077?s=72&u=759251e63aa75bee1fce119f1972e85e0fefc45b&v=4" width="24" alt="Avatar of sh0"> sh0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#sh0">Copy rank badge</a><br/>
 			Siim Meerits
 		</td>
 		<td>No Company</td>
@@ -9118,7 +9120,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/lfbarragan">
 				<img src="https://avatars.githubusercontent.com/u/354342?s=72&v=4" width="24" alt="Avatar of lfbarragan"> lfbarragan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#lfbarragan">Copy rank badge</a><br/>
 			Luis Barragan
 		</td>
 		<td>Veriff </td>
@@ -9131,7 +9133,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hypno2000">
 				<img src="https://avatars.githubusercontent.com/u/417241?s=72&u=c2794ccbe033197dbf357b20477e6c85115c9b70&v=4" width="24" alt="Avatar of hypno2000"> hypno2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hypno2000">Copy rank badge</a><br/>
 			Reio Piller
 		</td>
 		<td>Yolo Group </td>
@@ -9144,7 +9146,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AlexRevin">
 				<img src="https://avatars.githubusercontent.com/u/29443?s=72&u=387361a7f23d34a08026b76086b6b10905456bc4&v=4" width="24" alt="Avatar of AlexRevin"> AlexRevin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AlexRevin">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>Nuclear </td>
@@ -9157,7 +9159,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/rajeshkalakoti">
 				<img src="https://avatars.githubusercontent.com/u/26181811?s=72&v=4" width="24" alt="Avatar of rajeshkalakoti"> rajeshkalakoti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#rajeshkalakoti">Copy rank badge</a><br/>
 			Rajesh Kalakoti
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/karpelcevs">
 				<img src="https://avatars.githubusercontent.com/u/481966?s=72&u=1f951e33b5fc81bcf19b4613da07a31afdba5482&v=4" width="24" alt="Avatar of karpelcevs"> karpelcevs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#karpelcevs">Copy rank badge</a><br/>
 			Romans Karpelcevs
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/damir-abdulin">
 				<img src="https://avatars.githubusercontent.com/u/60148348?s=72&u=df554c493ca2c610312b9ddc20f6282cc790bc74&v=4" width="24" alt="Avatar of damir-abdulin"> damir-abdulin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#damir-abdulin">Copy rank badge</a><br/>
 			Damir Abdulin
 		</td>
 		<td>No Company</td>
@@ -9196,7 +9198,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/nilayasiktoprak">
 				<img src="https://avatars.githubusercontent.com/u/44297161?s=72&u=c020fa213ab12e47e92ee3a9b05fe77970863823&v=4" width="24" alt="Avatar of nilayasiktoprak"> nilayasiktoprak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#nilayasiktoprak">Copy rank badge</a><br/>
 			Nilay Aşıktoprak
 		</td>
 		<td>Malwarebytes </td>
@@ -9209,7 +9211,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/hassanRsiddiqi">
 				<img src="https://avatars.githubusercontent.com/u/23057904?s=72&u=f0c645b9aa7fbd6bb702d25519266f39a59fffed&v=4" width="24" alt="Avatar of hassanRsiddiqi"> hassanRsiddiqi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#hassanRsiddiqi">Copy rank badge</a><br/>
 			Hassan Raza
 		</td>
 		<td>@carmaproject </td>
@@ -9222,7 +9224,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/firatakandere">
 				<img src="https://avatars.githubusercontent.com/u/2188474?s=72&u=928f889db619747cff39f805056dc30e3d3bffb5&v=4" width="24" alt="Avatar of firatakandere"> firatakandere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#firatakandere">Copy rank badge</a><br/>
 			Firat Akandere
 		</td>
 		<td>Microsoft </td>
@@ -9235,7 +9237,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/magavdraakon">
 				<img src="https://avatars.githubusercontent.com/u/327361?s=72&u=564797f975c620b84c9d92b3d7275e7eecbc6c91&v=4" width="24" alt="Avatar of magavdraakon"> magavdraakon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#magavdraakon">Copy rank badge</a><br/>
 			Margus Ernits
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/romansharin">
 				<img src="https://avatars.githubusercontent.com/u/1907008?s=72&u=81f856a1c2b197bcc46ec821573c3b1fa4522aef&v=4" width="24" alt="Avatar of romansharin"> romansharin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#romansharin">Copy rank badge</a><br/>
 			Roman Sharin
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/AbronStudio">
 				<img src="https://avatars.githubusercontent.com/u/110968521?s=72&u=559e903bc3978a6c746dc57b966d81cc2666b065&v=4" width="24" alt="Avatar of AbronStudio"> AbronStudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#AbronStudio">Copy rank badge</a><br/>
 			Abron Studio
 		</td>
 		<td>Abron Studio </td>
@@ -9274,7 +9276,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/alvarl">
 				<img src="https://avatars.githubusercontent.com/u/425123?s=72&u=e8086c75a2fad941617e4d879af06c0cfa974d28&v=4" width="24" alt="Avatar of alvarl"> alvarl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#alvarl">Copy rank badge</a><br/>
 			Alvar Lumberg
 		</td>
 		<td>Grünfin </td>
@@ -9287,7 +9289,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/mariabenitocst">
 				<img src="https://avatars.githubusercontent.com/u/15113600?s=72&u=f457f25bb7a693ca51ac63135e57098b76f1b74d&v=4" width="24" alt="Avatar of mariabenitocst"> mariabenitocst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#mariabenitocst">Copy rank badge</a><br/>
 			María Benito
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `891 users`  in Estonia. You need at least `15 followers` to be on thi
 		<td>
 			<a href="https://github.com/urmastalimaa">
 				<img src="https://avatars.githubusercontent.com/u/5654666?s=72&u=37f806316f87caac27db0865084a85533e73ab11&v=4" width="24" alt="Avatar of urmastalimaa"> urmastalimaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/estonia.md#urmastalimaa">Copy rank badge</a><br/>
 			Urmas Talimaa
 		</td>
 		<td>Glia Inc </td>
