@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` by users in Israel on `2026/9/21 11:51 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` by users in Israel on `2026/10/20 7:34 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `928 users`  in Israel. You need at least `33 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Israel GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oferchen">
 				<img src="https://avatars.githubusercontent.com/u/2673257?s=72&v=4" width="24" alt="Avatar of oferchen"> oferchen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oferchen">Copy rank badge</a><br/>
 			Ofer Chen
 		</td>
 		<td>No Company</td>
@@ -122,7 +124,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/chernistry">
 				<img src="https://avatars.githubusercontent.com/u/73943355?s=72&u=1f9db84a39ee1d57f320bd02a6c704d61118e078&v=4" width="24" alt="Avatar of chernistry"> chernistry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#chernistry">Copy rank badge</a><br/>
 			Alex Chernysh
 		</td>
 		<td>Sip Your Drink </td>
@@ -135,7 +137,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arthurzam">
 				<img src="https://avatars.githubusercontent.com/u/1664927?s=72&u=d1aa203d29f60f6a0d3ad720bd7df14434a82efc&v=4" width="24" alt="Avatar of arthurzam"> arthurzam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arthurzam">Copy rank badge</a><br/>
 			Arthur Zamarin
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kdroidFilter">
 				<img src="https://avatars.githubusercontent.com/u/144903939?s=72&u=d1a35491407af72ce8f9b4f32827c9bca14f8b39&v=4" width="24" alt="Avatar of kdroidFilter"> kdroidFilter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kdroidFilter">Copy rank badge</a><br/>
 			Elie Gambache
 		</td>
 		<td>Kdroidfilter </td>
@@ -161,7 +163,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ariannamethod">
 				<img src="https://avatars.githubusercontent.com/u/211269477?s=72&u=19946a01c3a70f1878321568e51562a9ba494a7a&v=4" width="24" alt="Avatar of ariannamethod"> ariannamethod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ariannamethod">Copy rank badge</a><br/>
 			Arianna Method
 		</td>
 		<td>@arianna-method  </td>
@@ -174,7 +176,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elie222">
 				<img src="https://avatars.githubusercontent.com/u/3090527?s=72&u=6cf70a882423f683b5fa93cf02b43a50b05c482e&v=4" width="24" alt="Avatar of elie222"> elie222
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elie222">Copy rank badge</a><br/>
 			Elie Steinbock
 		</td>
 		<td>@inbox-zero  </td>
@@ -187,7 +189,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/veltzer">
 				<img src="https://avatars.githubusercontent.com/u/528278?s=72&u=1944384af4d544a7858018ec3950a73be4b46170&v=4" width="24" alt="Avatar of veltzer"> veltzer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#veltzer">Copy rank badge</a><br/>
 			Mark Veltzer
 		</td>
 		<td>Gnu </td>
@@ -200,7 +202,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alonf">
 				<img src="https://avatars.githubusercontent.com/u/554150?s=72&u=2bff783348da1b7193c72b9e9deee1eba77cb50a&v=4" width="24" alt="Avatar of alonf"> alonf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alonf">Copy rank badge</a><br/>
 			Alon Fliess
 		</td>
 		<td>Zionet </td>
@@ -213,7 +215,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/lirantal">
 				<img src="https://avatars.githubusercontent.com/u/316371?s=72&u=fbeb86cd9656b5dccd7d84b8851b93ae0932fb67&v=4" width="24" alt="Avatar of lirantal"> lirantal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#lirantal">Copy rank badge</a><br/>
 			Liran Tal
 		</td>
 		<td>@snyk </td>
@@ -226,7 +228,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/szabgab">
 				<img src="https://avatars.githubusercontent.com/u/48833?s=72&v=4" width="24" alt="Avatar of szabgab"> szabgab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#szabgab">Copy rank badge</a><br/>
 			Gábor Szabó
 		</td>
 		<td>Consultant, Trainer And Open<br/>Source<br/>Developer<br/></td>
@@ -239,7 +241,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gkorland">
 				<img src="https://avatars.githubusercontent.com/u/753206?s=72&u=911ac7819a0dcf86bd5fd8ad8e4f986e22b8579b&v=4" width="24" alt="Avatar of gkorland"> gkorland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gkorland">Copy rank badge</a><br/>
 			Guy Korland
 		</td>
 		<td>@falkordb </td>
@@ -252,7 +254,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/danielrosehill">
 				<img src="https://avatars.githubusercontent.com/u/40233203?s=72&u=87f61020150f3025cb63f21937436314deb879b1&v=4" width="24" alt="Avatar of danielrosehill"> danielrosehill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#danielrosehill">Copy rank badge</a><br/>
 			Daniel Rosehill
 		</td>
 		<td>Dsr Holdings </td>
@@ -265,7 +267,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kerbelp">
 				<img src="https://avatars.githubusercontent.com/u/3934990?s=72&u=ca0fc758837be9fae52d6e834cce366d113abbf1&v=4" width="24" alt="Avatar of kerbelp"> kerbelp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kerbelp">Copy rank badge</a><br/>
 			Pavel Kerbel
 		</td>
 		<td>No Company</td>
@@ -278,7 +280,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dleshem">
 				<img src="https://avatars.githubusercontent.com/u/1689757?s=72&v=4" width="24" alt="Avatar of dleshem"> dleshem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dleshem">Copy rank badge</a><br/>
 			Danny Leshem
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yonatangross">
 				<img src="https://avatars.githubusercontent.com/u/19869074?s=72&u=e72f2ffbbac18498714cf1b02f74743837bdc509&v=4" width="24" alt="Avatar of yonatangross"> yonatangross
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yonatangross">Copy rank badge</a><br/>
 			Yonatan
 		</td>
 		<td>No Company</td>
@@ -304,7 +306,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tamirdresher">
 				<img src="https://avatars.githubusercontent.com/u/342800?s=72&v=4" width="24" alt="Avatar of tamirdresher"> tamirdresher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tamirdresher">Copy rank badge</a><br/>
 			Tamir Dresher
 		</td>
 		<td>Payoneer </td>
@@ -317,7 +319,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/moshloop">
 				<img src="https://avatars.githubusercontent.com/u/1489660?s=72&u=40db18b932862f8077956d82f95297529ff5eab7&v=4" width="24" alt="Avatar of moshloop"> moshloop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#moshloop">Copy rank badge</a><br/>
 			Moshe Immerman
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omercnet">
 				<img src="https://avatars.githubusercontent.com/u/639682?s=72&u=492c1b506af45e342ff33b2a77c4ec087ff2e3be&v=4" width="24" alt="Avatar of omercnet"> omercnet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omercnet">Copy rank badge</a><br/>
 			Omer Cohen
 		</td>
 		<td>@descope  </td>
@@ -343,7 +345,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexander-akait">
 				<img src="https://avatars.githubusercontent.com/u/4567934?s=72&u=63a5cc2b57b2e0e61b97d8459300e7e0ae493e22&v=4" width="24" alt="Avatar of alexander-akait"> alexander-akait
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexander-akait">Copy rank badge</a><br/>
 			Alexander Akait
 		</td>
 		<td>:( </td>
@@ -356,7 +358,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bennypowers">
 				<img src="https://avatars.githubusercontent.com/u/1466420?s=72&u=5e88cd360432ebab03f5500ef910459666375bdc&v=4" width="24" alt="Avatar of bennypowers"> bennypowers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bennypowers">Copy rank badge</a><br/>
 			Benny Powers
 		</td>
 		<td>Red Hat </td>
@@ -369,7 +371,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/avi12">
 				<img src="https://avatars.githubusercontent.com/u/6422804?s=72&u=d870b065b4d9e52d8aad4313917e9aa7399cd0fd&v=4" width="24" alt="Avatar of avi12"> avi12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#avi12">Copy rank badge</a><br/>
 			Avi
 		</td>
 		<td>No Company</td>
@@ -382,7 +384,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jossef">
 				<img src="https://avatars.githubusercontent.com/u/1287098?s=72&u=cd401bfb6010e440539c490d5e6412a1f3f55927&v=4" width="24" alt="Avatar of jossef"> jossef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jossef">Copy rank badge</a><br/>
 			Jossef Kadouri
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/iliapolo">
 				<img src="https://avatars.githubusercontent.com/u/1428812?s=72&v=4" width="24" alt="Avatar of iliapolo"> iliapolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#iliapolo">Copy rank badge</a><br/>
 			Eli Polonsky
 		</td>
 		<td>No Company</td>
@@ -408,7 +410,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ChayimFriedman2">
 				<img src="https://avatars.githubusercontent.com/u/24700207?s=72&v=4" width="24" alt="Avatar of ChayimFriedman2"> ChayimFriedman2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ChayimFriedman2">Copy rank badge</a><br/>
 			Chayim Refael Friedman
 		</td>
 		<td>No Company</td>
@@ -421,7 +423,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vporton">
 				<img src="https://avatars.githubusercontent.com/u/2900574?s=72&v=4" width="24" alt="Avatar of vporton"> vporton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vporton">Copy rank badge</a><br/>
 			mathematician Victor Porton
 		</td>
 		<td>No Company</td>
@@ -434,7 +436,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shaypal5">
 				<img src="https://avatars.githubusercontent.com/u/917954?s=72&u=caa8cde71addd78cf738715f2bea7eb0cad8fdb1&v=4" width="24" alt="Avatar of shaypal5"> shaypal5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shaypal5">Copy rank badge</a><br/>
 			Shay Palachy-Affek
 		</td>
 		<td>@datahackil  </td>
@@ -447,7 +449,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/moshehbenavraham">
 				<img src="https://avatars.githubusercontent.com/u/17122072?s=72&u=88f5d77677e24040c4299fe1ede12e338279209c&v=4" width="24" alt="Avatar of moshehbenavraham"> moshehbenavraham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#moshehbenavraham">Copy rank badge</a><br/>
 			Max aka Mosheh
 		</td>
 		<td>@ai-with-apex-premiu @luminarimud @rescuethepersecuted @zusuk<br/>@ai-with-apex-vip<br/></td>
@@ -460,7 +462,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/egv">
 				<img src="https://avatars.githubusercontent.com/u/12984?s=72&u=ec0fc50511902b96b216ff1d4613437c0030857e&v=4" width="24" alt="Avatar of egv"> egv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#egv">Copy rank badge</a><br/>
 			Gena
 		</td>
 		<td>Cambrian </td>
@@ -473,7 +475,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/chenasraf">
 				<img src="https://avatars.githubusercontent.com/u/167217?s=72&u=d2ca371f485cc3d661bd96a2c96fdbe4e9783cbd&v=4" width="24" alt="Avatar of chenasraf"> chenasraf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#chenasraf">Copy rank badge</a><br/>
 			Chen Asraf
 		</td>
 		<td>Freelancer </td>
@@ -486,7 +488,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tontinton">
 				<img src="https://avatars.githubusercontent.com/u/19514176?s=72&u=39b56c2be2f295956f021cc809d418294d82cf96&v=4" width="24" alt="Avatar of tontinton"> tontinton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tontinton">Copy rank badge</a><br/>
 			Tony Solomonik
 		</td>
 		<td>No Company</td>
@@ -499,7 +501,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/doronbehar">
 				<img src="https://avatars.githubusercontent.com/u/10998835?s=72&u=e8a1743c4630ec4686f6d2dfaf82d80cf4a04e2c&v=4" width="24" alt="Avatar of doronbehar"> doronbehar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#doronbehar">Copy rank badge</a><br/>
 			Doron Behar
 		</td>
 		<td>@nixos  </td>
@@ -512,7 +514,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/t0mer">
 				<img src="https://avatars.githubusercontent.com/u/4478920?s=72&u=0d3274732e868ae5177281dd9c2430782a85933f&v=4" width="24" alt="Avatar of t0mer"> t0mer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#t0mer">Copy rank badge</a><br/>
 			Tomer Klein
 		</td>
 		<td>Msd Animal Health Technology<br/>Labs<br/></td>
@@ -525,7 +527,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/urish">
 				<img src="https://avatars.githubusercontent.com/u/892318?s=72&u=b56b3da378fdba14decb8b719f782b25ab1b4e7b&v=4" width="24" alt="Avatar of urish"> urish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#urish">Copy rank badge</a><br/>
 			Uri Shaked
 		</td>
 		<td>Uri Shaked </td>
@@ -538,7 +540,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexei-led">
 				<img src="https://avatars.githubusercontent.com/u/1898375?s=72&u=8294cfb7f545acd3819180d6aa41e2e038d24056&v=4" width="24" alt="Avatar of alexei-led"> alexei-led
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexei-led">Copy rank badge</a><br/>
 			Alexei Ledenev
 		</td>
 		<td>Doit International </td>
@@ -551,7 +553,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/palmoni5">
 				<img src="https://avatars.githubusercontent.com/u/216508796?s=72&v=4" width="24" alt="Avatar of palmoni5"> palmoni5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#palmoni5">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/SaharBarak">
 				<img src="https://avatars.githubusercontent.com/u/75496310?s=72&u=b053fa41d2af0e57ee42be0ba875d730d87ae19b&v=4" width="24" alt="Avatar of SaharBarak"> SaharBarak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#SaharBarak">Copy rank badge</a><br/>
 			Sahar Barak
 		</td>
 		<td>Taruu </td>
@@ -577,7 +579,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/brianoflondon">
 				<img src="https://avatars.githubusercontent.com/u/28054569?s=72&v=4" width="24" alt="Avatar of brianoflondon"> brianoflondon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#brianoflondon">Copy rank badge</a><br/>
 			Brian of London
 		</td>
 		<td>Podping And V4v.app </td>
@@ -590,7 +592,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shai-almog">
 				<img src="https://avatars.githubusercontent.com/u/67850168?s=72&u=c0a293777faf24733504468f578075cc08bc708e&v=4" width="24" alt="Avatar of shai-almog"> shai-almog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shai-almog">Copy rank badge</a><br/>
 			Shai Almog
 		</td>
 		<td>@codenameone </td>
@@ -603,7 +605,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Nucs">
 				<img src="https://avatars.githubusercontent.com/u/649919?s=72&u=7f0d78ee00ce8af22029849d8ee20cff4cdd9413&v=4" width="24" alt="Avatar of Nucs"> Nucs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Nucs">Copy rank badge</a><br/>
 			Eli Belash
 		</td>
 		<td>No Company</td>
@@ -616,7 +618,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Michaelliv">
 				<img src="https://avatars.githubusercontent.com/u/13676242?s=72&u=736ee2dbda32180246eb6d985e4f46979580f104&v=4" width="24" alt="Avatar of Michaelliv"> Michaelliv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Michaelliv">Copy rank badge</a><br/>
 			Michael
 		</td>
 		<td>No Company</td>
@@ -629,7 +631,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shumkov">
 				<img src="https://avatars.githubusercontent.com/u/24296?s=72&u=63897af0adb078ed7f42cb9084cfce2c131aa20c&v=4" width="24" alt="Avatar of shumkov"> shumkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shumkov">Copy rank badge</a><br/>
 			Ivan Shumkov
 		</td>
 		<td>Dash Cryptocurrency </td>
@@ -642,7 +644,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shayc">
 				<img src="https://avatars.githubusercontent.com/u/6969966?s=72&u=d1b3f364ad9c32a1958a9e1aee78169f9372941b&v=4" width="24" alt="Avatar of shayc"> shayc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shayc">Copy rank badge</a><br/>
 			Shay Cojocaru
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ZviBaratz">
 				<img src="https://avatars.githubusercontent.com/u/22370149?s=72&u=ab2c99a286e8bb575c514f767c38ce929f3b2d44&v=4" width="24" alt="Avatar of ZviBaratz"> ZviBaratz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ZviBaratz">Copy rank badge</a><br/>
 			Zvi Baratz
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Avid29">
 				<img src="https://avatars.githubusercontent.com/u/9384045?s=72&u=7ae3ef00278f511c90dbbccdad28476e1400a85d&v=4" width="24" alt="Avatar of Avid29"> Avid29
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Avid29">Copy rank badge</a><br/>
 			Avishai Dernis
 		</td>
 		<td>No Company</td>
@@ -681,7 +683,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rdavid">
 				<img src="https://avatars.githubusercontent.com/u/164628?s=72&u=425d67509540a082e4340450e403c21ae36e3a3a&v=4" width="24" alt="Avatar of rdavid"> rdavid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rdavid">Copy rank badge</a><br/>
 			David Rabkin
 		</td>
 		<td>Red Hat, Inc. </td>
@@ -694,7 +696,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AviAvni">
 				<img src="https://avatars.githubusercontent.com/u/1097246?s=72&u=ee68564b36bc65512a5e32e6cb726a1bc0907e37&v=4" width="24" alt="Avatar of AviAvni"> AviAvni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AviAvni">Copy rank badge</a><br/>
 			Avi Avni
 		</td>
 		<td>Falkordb </td>
@@ -707,7 +709,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bennyz">
 				<img src="https://avatars.githubusercontent.com/u/2139890?s=72&u=56482c976fe89aabb4d4a66aeba32f9871a77d7f&v=4" width="24" alt="Avatar of bennyz"> bennyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bennyz">Copy rank badge</a><br/>
 			Benny Zlotnik
 		</td>
 		<td>Red Hat </td>
@@ -720,7 +722,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/stsp">
 				<img src="https://avatars.githubusercontent.com/u/3295627?s=72&v=4" width="24" alt="Avatar of stsp"> stsp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#stsp">Copy rank badge</a><br/>
 			Stas
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/romange">
 				<img src="https://avatars.githubusercontent.com/u/3674760?s=72&v=4" width="24" alt="Avatar of romange"> romange
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#romange">Copy rank badge</a><br/>
 			Roman Gershman
 		</td>
 		<td>@dragonflydb  </td>
@@ -746,7 +748,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omridevk">
 				<img src="https://avatars.githubusercontent.com/u/9701896?s=72&u=5696890d5b2a10b1fbbcb736303d02560f28bedf&v=4" width="24" alt="Avatar of omridevk"> omridevk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omridevk">Copy rank badge</a><br/>
 			Omri
 		</td>
 		<td>Payzen </td>
@@ -759,7 +761,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LiorAgnin">
 				<img src="https://avatars.githubusercontent.com/u/30021476?s=72&u=7c8345322e92da7355ac9ef4191d75bd669cab15&v=4" width="24" alt="Avatar of LiorAgnin"> LiorAgnin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LiorAgnin">Copy rank badge</a><br/>
 			Lior Ageniho
 		</td>
 		<td>No Company</td>
@@ -772,7 +774,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gilgardosh">
 				<img src="https://avatars.githubusercontent.com/u/56203151?s=72&u=1432337fb514ab00644b4e4b7a6a06eba7a69eba&v=4" width="24" alt="Avatar of gilgardosh"> gilgardosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gilgardosh">Copy rank badge</a><br/>
 			Gil Gardosh
 		</td>
 		<td>@the-guilld-org </td>
@@ -785,7 +787,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/emmanuel-ferdman">
 				<img src="https://avatars.githubusercontent.com/u/35470921?s=72&u=7e774a480af1bd89e9b90c4f0866c97fb2210ec4&v=4" width="24" alt="Avatar of emmanuel-ferdman"> emmanuel-ferdman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#emmanuel-ferdman">Copy rank badge</a><br/>
 			Emmanuel Ferdman
 		</td>
 		<td>No Company</td>
@@ -798,7 +800,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idoshamun">
 				<img src="https://avatars.githubusercontent.com/u/1993245?s=72&u=1bc71b4136e91dce35df4db2bde1e47b11c168f8&v=4" width="24" alt="Avatar of idoshamun"> idoshamun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idoshamun">Copy rank badge</a><br/>
 			Ido Shamun
 		</td>
 		<td>@dailydotdev  </td>
@@ -811,7 +813,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eranif">
 				<img src="https://avatars.githubusercontent.com/u/3677711?s=72&v=4" width="24" alt="Avatar of eranif"> eranif
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eranif">Copy rank badge</a><br/>
 			Eran Ifrah
 		</td>
 		<td>Codelite </td>
@@ -824,7 +826,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AmitMY">
 				<img src="https://avatars.githubusercontent.com/u/5757359?s=72&u=63bf312daa5f6a34cf53bf9ebd947f2b90903cc5&v=4" width="24" alt="Avatar of AmitMY"> AmitMY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AmitMY">Copy rank badge</a><br/>
 			Amit Moryossef
 		</td>
 		<td>Bar-ilan University </td>
@@ -837,7 +839,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ElishaKay">
 				<img src="https://avatars.githubusercontent.com/u/16700452?s=72&u=22f925c28247e436d4eb5f53d8b8eb2ad19b0c33&v=4" width="24" alt="Avatar of ElishaKay"> ElishaKay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ElishaKay">Copy rank badge</a><br/>
 			Elisha Kramer
 		</td>
 		<td>Ask Jarvis </td>
@@ -850,7 +852,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/thecode">
 				<img src="https://avatars.githubusercontent.com/u/1858925?s=72&u=5f3b0b1e97322d1dc389f9fbf7eac714e4c7b048&v=4" width="24" alt="Avatar of thecode"> thecode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#thecode">Copy rank badge</a><br/>
 			Shay Levy
 		</td>
 		<td>No Company</td>
@@ -863,7 +865,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hmemcpy">
 				<img src="https://avatars.githubusercontent.com/u/601206?s=72&u=87f60c0e096c1d61f7a94d8692d134bb7fbeeba1&v=4" width="24" alt="Avatar of hmemcpy"> hmemcpy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hmemcpy">Copy rank badge</a><br/>
 			Igal Tabachnik
 		</td>
 		<td>No Company</td>
@@ -876,7 +878,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eshaham">
 				<img src="https://avatars.githubusercontent.com/u/7040645?s=72&u=dbff029fcd4a8fac98ae3bf9beabcbb80477533f&v=4" width="24" alt="Avatar of eshaham"> eshaham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eshaham">Copy rank badge</a><br/>
 			Elad Shaham
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/davidmeirlevy">
 				<img src="https://avatars.githubusercontent.com/u/6875922?s=72&u=15cbb97f0421e6d2c5037a4778e911745bde4d93&v=4" width="24" alt="Avatar of davidmeirlevy"> davidmeirlevy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#davidmeirlevy">Copy rank badge</a><br/>
 			David Meir-Levy
 		</td>
 		<td>@prici-io  @qelos-io </td>
@@ -902,7 +904,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mallowigi">
 				<img src="https://avatars.githubusercontent.com/u/5015756?s=72&u=da7e6aa48f8f711111fb2c408f83e4aa9ee59c9b&v=4" width="24" alt="Avatar of mallowigi"> mallowigi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mallowigi">Copy rank badge</a><br/>
 			Elior Boukhobza
 		</td>
 		<td>Dynamic Yield </td>
@@ -915,7 +917,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yairm210">
 				<img src="https://avatars.githubusercontent.com/u/8366208?s=72&v=4" width="24" alt="Avatar of yairm210"> yairm210
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yairm210">Copy rank badge</a><br/>
 			Yair Morgenstern
 		</td>
 		<td>No Company</td>
@@ -928,7 +930,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shakedaskayo">
 				<img src="https://avatars.githubusercontent.com/u/35655764?s=72&u=616b596e9fd242ded1fd17f5acca05569cf0e503&v=4" width="24" alt="Avatar of shakedaskayo"> shakedaskayo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shakedaskayo">Copy rank badge</a><br/>
 			Shaked Askayo
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/reuvenharrison">
 				<img src="https://avatars.githubusercontent.com/u/2879767?s=72&u=1b256686a906667834e4e9e09024634c54c8e0ab&v=4" width="24" alt="Avatar of reuvenharrison"> reuvenharrison
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#reuvenharrison">Copy rank badge</a><br/>
 			Reuven Harrison
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexlib">
 				<img src="https://avatars.githubusercontent.com/u/747110?s=72&u=4f2da5ee783fe399e9cd04fa3d396c7922efbbbd&v=4" width="24" alt="Avatar of alexlib"> alexlib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexlib">Copy rank badge</a><br/>
 			Alex Liberzon
 		</td>
 		<td>Tel Aviv University </td>
@@ -967,7 +969,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ziv">
 				<img src="https://avatars.githubusercontent.com/u/195479?s=72&u=893111eb1c1ffed17a03b3b3dbdd893cc92ebe11&v=4" width="24" alt="Avatar of ziv"> ziv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ziv">Copy rank badge</a><br/>
 			Ziv
 		</td>
 		<td>Zoominfo </td>
@@ -980,7 +982,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Meir017">
 				<img src="https://avatars.githubusercontent.com/u/9786571?s=72&u=0aa1683e68b7631331e5947441bcf731cfea4632&v=4" width="24" alt="Avatar of Meir017"> Meir017
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Meir017">Copy rank badge</a><br/>
 			Meir Blachman
 		</td>
 		<td>@microsoft </td>
@@ -993,7 +995,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/StyleShit">
 				<img src="https://avatars.githubusercontent.com/u/32631382?s=72&u=19848c7c1e53041e52de21a3078f994876f9ad53&v=4" width="24" alt="Avatar of StyleShit"> StyleShit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#StyleShit">Copy rank badge</a><br/>
 			Evyatar Daud
 		</td>
 		<td>@elementor </td>
@@ -1006,7 +1008,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/justlevine">
 				<img src="https://avatars.githubusercontent.com/u/29322304?s=72&u=e41abf9150741bb63fea3b72a5c61579aca597fd&v=4" width="24" alt="Avatar of justlevine"> justlevine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#justlevine">Copy rank badge</a><br/>
 			Dovid Levine
 		</td>
 		<td>@axewp | @rtcamp </td>
@@ -1019,7 +1021,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/aviramha">
 				<img src="https://avatars.githubusercontent.com/u/41201924?s=72&u=ce5d3ea7037c2e6b3f82eff87e2217d4fb63214b&v=4" width="24" alt="Avatar of aviramha"> aviramha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#aviramha">Copy rank badge</a><br/>
 			Aviram Hassan
 		</td>
 		<td>Metalbear, Inc. </td>
@@ -1032,7 +1034,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/blumamir">
 				<img src="https://avatars.githubusercontent.com/u/22870745?s=72&v=4" width="24" alt="Avatar of blumamir"> blumamir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#blumamir">Copy rank badge</a><br/>
 			Amir Blum
 		</td>
 		<td>Odigos </td>
@@ -1045,7 +1047,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/puzrin">
 				<img src="https://avatars.githubusercontent.com/u/319465?s=72&u=93ef5f0078fa0e3f066fedbd73e9ec3fa360537a&v=4" width="24" alt="Avatar of puzrin"> puzrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#puzrin">Copy rank badge</a><br/>
 			Vitaly Puzrin
 		</td>
 		<td>No Company</td>
@@ -1058,7 +1060,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladkal">
 				<img src="https://avatars.githubusercontent.com/u/45845474?s=72&u=c4049156fea2df31eebe693f545edadb7acc84e0&v=4" width="24" alt="Avatar of eladkal"> eladkal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladkal">Copy rank badge</a><br/>
 			Elad Kalif
 		</td>
 		<td>Amazon </td>
@@ -1071,7 +1073,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jweisman">
 				<img src="https://avatars.githubusercontent.com/u/80420?s=72&u=da84ffc09007f03433b6e77a347fdff1a968bee6&v=4" width="24" alt="Avatar of jweisman"> jweisman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jweisman">Copy rank badge</a><br/>
 			Josh Weisman
 		</td>
 		<td>No Company</td>
@@ -1084,7 +1086,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/akariv">
 				<img src="https://avatars.githubusercontent.com/u/265333?s=72&u=3475b21f3e4a77971fd0af0af6687947bf9c0fab&v=4" width="24" alt="Avatar of akariv"> akariv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#akariv">Copy rank badge</a><br/>
 			Adam Kariv
 		</td>
 		<td>@hasadna, @openbudget, @whiletrue-industrie </td>
@@ -1097,7 +1099,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Noamm9">
 				<img src="https://avatars.githubusercontent.com/u/116365534?s=72&u=0a237e20e733d8621d17a7272e94dda50c55c7ea&v=4" width="24" alt="Avatar of Noamm9"> Noamm9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Noamm9">Copy rank badge</a><br/>
 			Noamm
 		</td>
 		<td>@noamm-dev  </td>
@@ -1110,7 +1112,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dannyshmueli">
 				<img src="https://avatars.githubusercontent.com/u/4062328?s=72&u=8a7408c0fc8ddd9389fc5b59fd9071ebded87ec6&v=4" width="24" alt="Avatar of dannyshmueli"> dannyshmueli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dannyshmueli">Copy rank badge</a><br/>
 			Danny Shmueli
 		</td>
 		<td>No Company</td>
@@ -1123,7 +1125,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/BenKalsky">
 				<img src="https://avatars.githubusercontent.com/u/1568840?s=72&u=a0bd4894438b1da84367fba075db23d1f5e21b1a&v=4" width="24" alt="Avatar of BenKalsky"> BenKalsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#BenKalsky">Copy rank badge</a><br/>
 			Ben Kalsky
 		</td>
 		<td>Digitizer </td>
@@ -1136,7 +1138,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AvrahamRaviv">
 				<img src="https://avatars.githubusercontent.com/u/56107590?s=72&v=4" width="24" alt="Avatar of AvrahamRaviv"> AvrahamRaviv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AvrahamRaviv">Copy rank badge</a><br/>
 			Avraham Raviv
 		</td>
 		<td>No Company</td>
@@ -1149,7 +1151,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kourgeorge">
 				<img src="https://avatars.githubusercontent.com/u/12570182?s=72&u=814ddf45eb96e7696e0384aa2d2c500c7e0fb090&v=4" width="24" alt="Avatar of kourgeorge"> kourgeorge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kourgeorge">Copy rank badge</a><br/>
 			George Kour
 		</td>
 		<td>Ibm Research </td>
@@ -1162,7 +1164,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/OriHoch">
 				<img src="https://avatars.githubusercontent.com/u/1198854?s=72&u=873a2cc7dd3286f44e69ce86711f609883f855f9&v=4" width="24" alt="Avatar of OriHoch"> OriHoch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#OriHoch">Copy rank badge</a><br/>
 			Ori Hoch
 		</td>
 		<td>No Company</td>
@@ -1175,7 +1177,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Minitour">
 				<img src="https://avatars.githubusercontent.com/u/17438617?s=72&u=d69f98127dd69bb53dc0ed0a1119833aa2483ff9&v=4" width="24" alt="Avatar of Minitour"> Minitour
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Minitour">Copy rank badge</a><br/>
 			Antonio Zaitoun
 		</td>
 		<td>No Company</td>
@@ -1188,7 +1190,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adirh3">
 				<img src="https://avatars.githubusercontent.com/u/27368554?s=72&u=42bf4c9f86ac1ec79888a5f28d4c615aadb3f10f&v=4" width="24" alt="Avatar of adirh3"> adirh3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adirh3">Copy rank badge</a><br/>
 			Lighto
 		</td>
 		<td>Microsoft </td>
@@ -1201,7 +1203,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/liranbg">
 				<img src="https://avatars.githubusercontent.com/u/6547459?s=72&v=4" width="24" alt="Avatar of liranbg"> liranbg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#liranbg">Copy rank badge</a><br/>
 			Liran BG
 		</td>
 		<td>@iguazio  </td>
@@ -1214,7 +1216,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Luffyyy">
 				<img src="https://avatars.githubusercontent.com/u/11510099?s=72&u=70495cc23ccec6696ebdf907ad1c0ef2304e4165&v=4" width="24" alt="Avatar of Luffyyy"> Luffyyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Luffyyy">Copy rank badge</a><br/>
 			Daniel
 		</td>
 		<td>No Company</td>
@@ -1227,7 +1229,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vrabbi">
 				<img src="https://avatars.githubusercontent.com/u/48493016?s=72&u=e210abd76c69dab47916f7beb5c65cce7911c30e&v=4" width="24" alt="Avatar of vrabbi"> vrabbi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vrabbi">Copy rank badge</a><br/>
 			Scott Rosenberg
 		</td>
 		<td>Terasky </td>
@@ -1240,7 +1242,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/chiptus">
 				<img src="https://avatars.githubusercontent.com/u/1381655?s=72&u=58fb007e62c263f944f6e2997c35505df8b5382d&v=4" width="24" alt="Avatar of chiptus"> chiptus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#chiptus">Copy rank badge</a><br/>
 			Chaim Lev-Ari
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/igalklebanov">
 				<img src="https://avatars.githubusercontent.com/u/14938291?s=72&u=704cf0a447d678ce1ca31bad521c6310815c585c&v=4" width="24" alt="Avatar of igalklebanov"> igalklebanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#igalklebanov">Copy rank badge</a><br/>
 			Igal Klebanov
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nyh">
 				<img src="https://avatars.githubusercontent.com/u/584227?s=72&v=4" width="24" alt="Avatar of nyh"> nyh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nyh">Copy rank badge</a><br/>
 			Nadav Har'El
 		</td>
 		<td>Scylladb </td>
@@ -1279,7 +1281,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IdanAdar">
 				<img src="https://avatars.githubusercontent.com/u/7255583?s=72&u=0ba332d2113abc72e617043981dbba94dd9aee04&v=4" width="24" alt="Avatar of IdanAdar"> IdanAdar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IdanAdar">Copy rank badge</a><br/>
 			Idan Adar
 		</td>
 		<td>@ibm  </td>
@@ -1292,7 +1294,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mykaul">
 				<img src="https://avatars.githubusercontent.com/u/4655593?s=72&u=4dddfbf798e52ae4a5d9ee628e6fab1fb22461cb&v=4" width="24" alt="Avatar of mykaul"> mykaul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mykaul">Copy rank badge</a><br/>
 			Yaniv Kaul
 		</td>
 		<td>Scylladb </td>
@@ -1305,7 +1307,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zot">
 				<img src="https://avatars.githubusercontent.com/u/26665?s=72&v=4" width="24" alt="Avatar of zot"> zot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zot">Copy rank badge</a><br/>
 			Bill Burdick
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/daonb">
 				<img src="https://avatars.githubusercontent.com/u/36852?s=72&u=e0d51d3bf4258744eed0ff80a6c3e81ac145ab6b&v=4" width="24" alt="Avatar of daonb"> daonb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#daonb">Copy rank badge</a><br/>
 			benny daon
 		</td>
 		<td>Tuzig </td>
@@ -1331,7 +1333,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jreuben11">
 				<img src="https://avatars.githubusercontent.com/u/8552593?s=72&u=6832abea2a5e9225f7597f9c4b15e1af5cbea3ba&v=4" width="24" alt="Avatar of jreuben11"> jreuben11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jreuben11">Copy rank badge</a><br/>
 			Josh Reuben
 		</td>
 		<td>@jreuben11 </td>
@@ -1344,7 +1346,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/aantn">
 				<img src="https://avatars.githubusercontent.com/u/494087?s=72&u=71d1030b5e2c06ce74adfaf127913e5baceb2da0&v=4" width="24" alt="Avatar of aantn"> aantn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#aantn">Copy rank badge</a><br/>
 			Natan Yellin
 		</td>
 		<td>Robusta </td>
@@ -1357,7 +1359,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/davesheffer">
 				<img src="https://avatars.githubusercontent.com/u/26892525?s=72&u=0efbb416234884a8b1385431f55691f030458a18&v=4" width="24" alt="Avatar of davesheffer"> davesheffer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#davesheffer">Copy rank badge</a><br/>
 			David Sheffer
 		</td>
 		<td>Ylm Solutions Ltd </td>
@@ -1370,7 +1372,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/naorpeled">
 				<img src="https://avatars.githubusercontent.com/u/6171622?s=72&u=e8b8f0946f9737e75337b624123beeea5f3d3349&v=4" width="24" alt="Avatar of naorpeled"> naorpeled
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#naorpeled">Copy rank badge</a><br/>
 			Naor Peled
 		</td>
 		<td>Groundcover-com </td>
@@ -1383,7 +1385,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/maorfr">
 				<img src="https://avatars.githubusercontent.com/u/28562329?s=72&u=12ed19d9abe2f1495addeba434f0846cdeffd009&v=4" width="24" alt="Avatar of maorfr"> maorfr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#maorfr">Copy rank badge</a><br/>
 			Maor Friedman
 		</td>
 		<td>Red Hat </td>
@@ -1396,7 +1398,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kesor">
 				<img src="https://avatars.githubusercontent.com/u/7056?s=72&u=f32362dd0d3875cfc7ec45b3a26fd856639f00aa&v=4" width="24" alt="Avatar of kesor"> kesor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kesor">Copy rank badge</a><br/>
 			Evgeny Zislis
 		</td>
 		<td>@doitintl </td>
@@ -1409,7 +1411,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bgauryy">
 				<img src="https://avatars.githubusercontent.com/u/4633839?s=72&u=efd013b13ab46d121ce4f1bb95901b751636178e&v=4" width="24" alt="Avatar of bgauryy"> bgauryy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bgauryy">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1422,7 +1424,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/fullkomnun">
 				<img src="https://avatars.githubusercontent.com/u/17881579?s=72&v=4" width="24" alt="Avatar of fullkomnun"> fullkomnun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#fullkomnun">Copy rank badge</a><br/>
 			Or Noyman
 		</td>
 		<td>No Company</td>
@@ -1435,7 +1437,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tombigel">
 				<img src="https://avatars.githubusercontent.com/u/227922?s=72&u=2ef6c46c7edae4e3b7e86252047b63e3ad8da757&v=4" width="24" alt="Avatar of tombigel"> tombigel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tombigel">Copy rank badge</a><br/>
 			Tom Bigelajzen
 		</td>
 		<td>Wix.com </td>
@@ -1448,7 +1450,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vltansky">
 				<img src="https://avatars.githubusercontent.com/u/5851280?s=72&u=551f9596107bad056298655673c7f80d204ca357&v=4" width="24" alt="Avatar of vltansky"> vltansky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vltansky">Copy rank badge</a><br/>
 			Vlad Tansky
 		</td>
 		<td>@wix  </td>
@@ -1461,7 +1463,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/leonprou">
 				<img src="https://avatars.githubusercontent.com/u/7228844?s=72&u=922e1f653c4d845e31d41a0abb94b4617a90a0ff&v=4" width="24" alt="Avatar of leonprou"> leonprou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#leonprou">Copy rank badge</a><br/>
 			Leon Prouger
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MordechaiHadad">
 				<img src="https://avatars.githubusercontent.com/u/33547558?s=72&u=1e1b00136aba033cc9dcbcd8747efc012658bc83&v=4" width="24" alt="Avatar of MordechaiHadad"> MordechaiHadad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MordechaiHadad">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/BenElferink">
 				<img src="https://avatars.githubusercontent.com/u/69640911?s=72&u=b7427808865cf224a1efb7997a019208f6f8b517&v=4" width="24" alt="Avatar of BenElferink"> BenElferink
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#BenElferink">Copy rank badge</a><br/>
 			Ben
 		</td>
 		<td>@odigos-io </td>
@@ -1500,7 +1502,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shlomif">
 				<img src="https://avatars.githubusercontent.com/u/3150?s=72&v=4" width="24" alt="Avatar of shlomif"> shlomif
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shlomif">Copy rank badge</a><br/>
 			Shlomi Fish
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ayende">
 				<img src="https://avatars.githubusercontent.com/u/116915?s=72&u=9c6c29cc62c1da2b33c01d4478ee2dd81294d2f5&v=4" width="24" alt="Avatar of ayende"> ayende
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ayende">Copy rank badge</a><br/>
 			Ayende Rahien
 		</td>
 		<td>Hibernating Rhinos </td>
@@ -1526,7 +1528,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yonidavidson">
 				<img src="https://avatars.githubusercontent.com/u/5472778?s=72&u=4c4fcaaa4a89661594f2044da50e8d2eef4ce10a&v=4" width="24" alt="Avatar of yonidavidson"> yonidavidson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yonidavidson">Copy rank badge</a><br/>
 			Yoni Davidson
 		</td>
 		<td>Https://www.tabnine. </td>
@@ -1539,7 +1541,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kvendingoldo">
 				<img src="https://avatars.githubusercontent.com/u/11614750?s=72&u=5d1b148690c8b09d64d87c1988e357ea09c4d5ba&v=4" width="24" alt="Avatar of kvendingoldo"> kvendingoldo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kvendingoldo">Copy rank badge</a><br/>
 			kvendingoldo
 		</td>
 		<td>No Company</td>
@@ -1552,7 +1554,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/deg">
 				<img src="https://avatars.githubusercontent.com/u/90383?s=72&u=eaa4bae7c555db0dc99fd2f9fb0e3141ac2de34d&v=4" width="24" alt="Avatar of deg"> deg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#deg">Copy rank badge</a><br/>
 			David Goldfarb
 		</td>
 		<td>Degel Software </td>
@@ -1565,7 +1567,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GeReV">
 				<img src="https://avatars.githubusercontent.com/u/1150358?s=72&v=4" width="24" alt="Avatar of GeReV"> GeReV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GeReV">Copy rank badge</a><br/>
 			Amir Grozki
 		</td>
 		<td>No Company</td>
@@ -1578,7 +1580,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/romanbsd">
 				<img src="https://avatars.githubusercontent.com/u/49660?s=72&u=b5cec2351cc5d0f50385fd4f4e0c4a4dc7825c57&v=4" width="24" alt="Avatar of romanbsd"> romanbsd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#romanbsd">Copy rank badge</a><br/>
 			Roman Shterenzon
 		</td>
 		<td>No Company</td>
@@ -1591,7 +1593,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yoavf">
 				<img src="https://avatars.githubusercontent.com/u/844866?s=72&v=4" width="24" alt="Avatar of yoavf"> yoavf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yoavf">Copy rank badge</a><br/>
 			Yoav Farhi
 		</td>
 		<td>No Company</td>
@@ -1604,7 +1606,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/i3dm">
 				<img src="https://avatars.githubusercontent.com/u/8968780?s=72&u=516fb4879f00992582dd7a9b99d9fb9a279ed0f3&v=4" width="24" alt="Avatar of i3dm"> i3dm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#i3dm">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nopcoder">
 				<img src="https://avatars.githubusercontent.com/u/8110?s=72&v=4" width="24" alt="Avatar of nopcoder"> nopcoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nopcoder">Copy rank badge</a><br/>
 			Barak Amar
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gfrmin">
 				<img src="https://avatars.githubusercontent.com/u/416374?s=72&u=bdce431121ceb22ab1b4a87ad3329844bb1a0d92&v=4" width="24" alt="Avatar of gfrmin"> gfrmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gfrmin">Copy rank badge</a><br/>
 			Guy Freeman
 		</td>
 		<td>No Company</td>
@@ -1643,7 +1645,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MoLow">
 				<img src="https://avatars.githubusercontent.com/u/8221854?s=72&u=726fa18704c0cbbf4fe85069f60bdefe16bae655&v=4" width="24" alt="Avatar of MoLow"> MoLow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MoLow">Copy rank badge</a><br/>
 			Moshe Atlow
 		</td>
 		<td>Eon.io </td>
@@ -1656,7 +1658,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GiladShoham">
 				<img src="https://avatars.githubusercontent.com/u/3840769?s=72&u=21e801303adeee4269d74aa6b693311ddf9ccb98&v=4" width="24" alt="Avatar of GiladShoham"> GiladShoham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GiladShoham">Copy rank badge</a><br/>
 			Gilad Shoham
 		</td>
 		<td>@teambit </td>
@@ -1669,7 +1671,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omerap12">
 				<img src="https://avatars.githubusercontent.com/u/61663422?s=72&u=96a4b7bffc214a3e25a7d8357772b6910cfeb25f&v=4" width="24" alt="Avatar of omerap12"> omerap12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omerap12">Copy rank badge</a><br/>
 			Omer Aplatony
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/c4dynamics">
 				<img src="https://avatars.githubusercontent.com/u/65109940?s=72&u=f6c7970ee124ec41396e7eca91564111db7b3e3c&v=4" width="24" alt="Avatar of c4dynamics"> c4dynamics
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#c4dynamics">Copy rank badge</a><br/>
 			c4dynamics
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idanarye">
 				<img src="https://avatars.githubusercontent.com/u/1149255?s=72&u=81724493cda29999eba0f433a17f99896eae58d6&v=4" width="24" alt="Avatar of idanarye"> idanarye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idanarye">Copy rank badge</a><br/>
 			Idan Arye
 		</td>
 		<td>Weka.io </td>
@@ -1708,7 +1710,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NathanKr">
 				<img src="https://avatars.githubusercontent.com/u/12426564?s=72&u=3ee17a8e2986a993b63050ff1116ffd7ac2765e4&v=4" width="24" alt="Avatar of NathanKr"> NathanKr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NathanKr">Copy rank badge</a><br/>
 			Nathan Krasney
 		</td>
 		<td>Nathan Krasney </td>
@@ -1721,7 +1723,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ripper234">
 				<img src="https://avatars.githubusercontent.com/u/172282?s=72&u=00e076d10bcc627680e34e93a615d100ccea6f07&v=4" width="24" alt="Avatar of ripper234"> ripper234
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ripper234">Copy rank badge</a><br/>
 			Ron Gross
 		</td>
 		<td>@kugelblitz-one  </td>
@@ -1734,7 +1736,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eslazarev">
 				<img src="https://avatars.githubusercontent.com/u/24864265?s=72&u=2e00a580454e062c2edd0d6eddda5a6e85c86019&v=4" width="24" alt="Avatar of eslazarev"> eslazarev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eslazarev">Copy rank badge</a><br/>
 			Evgenii Lazarev
 		</td>
 		<td>Zesty </td>
@@ -1747,7 +1749,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idank">
 				<img src="https://avatars.githubusercontent.com/u/1277636?s=72&u=8e6558cfc59e22ffd23d93cfd4837b6d805448b1&v=4" width="24" alt="Avatar of idank"> idank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idank">Copy rank badge</a><br/>
 			Idan Kamara
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/makelinux">
 				<img src="https://avatars.githubusercontent.com/u/2335185?s=72&u=7ecee8473cab943059fd016329b284b1150d9e0c&v=4" width="24" alt="Avatar of makelinux"> makelinux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#makelinux">Copy rank badge</a><br/>
 			Costa Shulyupin
 		</td>
 		<td>Red Hat </td>
@@ -1773,7 +1775,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/avihaymenahem">
 				<img src="https://avatars.githubusercontent.com/u/1249445?s=72&u=cd59be5efd89a37cb3d53b905e4cb16580fa9aa7&v=4" width="24" alt="Avatar of avihaymenahem"> avihaymenahem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#avihaymenahem">Copy rank badge</a><br/>
 			Avihay Menahem
 		</td>
 		<td>Atraci </td>
@@ -1786,7 +1788,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ealush">
 				<img src="https://avatars.githubusercontent.com/u/11255103?s=72&u=abebaf4615b1b7aff2ab4bdb0654815d77af686c&v=4" width="24" alt="Avatar of ealush"> ealush
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ealush">Copy rank badge</a><br/>
 			Evyatar Alush
 		</td>
 		<td>@facebook  </td>
@@ -1799,7 +1801,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/saarors">
 				<img src="https://avatars.githubusercontent.com/u/171342946?s=72&u=c2c27567dc8965ff792dc7e9743adc9776909a4b&v=4" width="24" alt="Avatar of saarors"> saarors
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#saarors">Copy rank badge</a><br/>
 			saar-IL
 		</td>
 		<td>No Company</td>
@@ -1812,7 +1814,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/erasta">
 				<img src="https://avatars.githubusercontent.com/u/7118772?s=72&u=1d1846c40e27d07df628b575db4c087096b7db17&v=4" width="24" alt="Avatar of erasta"> erasta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#erasta">Copy rank badge</a><br/>
 			Eran Geva
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rluvaton">
 				<img src="https://avatars.githubusercontent.com/u/16746759?s=72&u=60fb76d4d645e86d42b147f009f2be0836a7317c&v=4" width="24" alt="Avatar of rluvaton"> rluvaton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rluvaton">Copy rank badge</a><br/>
 			Raz Luvaton
 		</td>
 		<td>No Company</td>
@@ -1838,7 +1840,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hoodini">
 				<img src="https://avatars.githubusercontent.com/u/48050809?s=72&u=9363d60fc9b89280c0b2c0b075d48aa6b730e303&v=4" width="24" alt="Avatar of hoodini"> hoodini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hoodini">Copy rank badge</a><br/>
 			Yuval Avidani
 		</td>
 		<td>@yuv-ai  </td>
@@ -1851,7 +1853,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/djabarovgeorge">
 				<img src="https://avatars.githubusercontent.com/u/39195835?s=72&u=474cc40f0835cde5981f8ee14822bef8e0dc2eca&v=4" width="24" alt="Avatar of djabarovgeorge"> djabarovgeorge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#djabarovgeorge">Copy rank badge</a><br/>
 			George Djabarov
 		</td>
 		<td>Novu </td>
@@ -1864,7 +1866,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ynonp">
 				<img src="https://avatars.githubusercontent.com/u/128594?s=72&u=80b77927dd8c290d3019a34e0e3703f28a85aea2&v=4" width="24" alt="Avatar of ynonp"> ynonp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ynonp">Copy rank badge</a><br/>
 			Ynon Perek
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/netfri25">
 				<img src="https://avatars.githubusercontent.com/u/40868480?s=72&u=c300a2f1ed3f7b140b65f2ac621c007ff4a1b23e&v=4" width="24" alt="Avatar of netfri25"> netfri25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#netfri25">Copy rank badge</a><br/>
 			Netanel Friedman
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dorlugasigal">
 				<img src="https://avatars.githubusercontent.com/u/23448479?s=72&u=5ba03178fcc22c0cc7bd27d514a05cc72ee89ff3&v=4" width="24" alt="Avatar of dorlugasigal"> dorlugasigal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dorlugasigal">Copy rank badge</a><br/>
 			Dor Lugasi-Gal
 		</td>
 		<td>@microsoft </td>
@@ -1903,7 +1905,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shahata">
 				<img src="https://avatars.githubusercontent.com/u/1764161?s=72&u=3e0454dd310bfcdbd7942130f6589d272079e48c&v=4" width="24" alt="Avatar of shahata"> shahata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shahata">Copy rank badge</a><br/>
 			Shahar Talmi
 		</td>
 		<td>Wix </td>
@@ -1916,7 +1918,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/slashben">
 				<img src="https://avatars.githubusercontent.com/u/59160382?s=72&u=2927b68729c37ff919ea3cec090bc2c1143e733a&v=4" width="24" alt="Avatar of slashben"> slashben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#slashben">Copy rank badge</a><br/>
 			Ben Hirschberg
 		</td>
 		<td>Armo </td>
@@ -1929,7 +1931,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NoamGaash">
 				<img src="https://avatars.githubusercontent.com/u/11145132?s=72&u=da18ddf0acb107c9780ef054a7c4d9b73da97b62&v=4" width="24" alt="Avatar of NoamGaash"> NoamGaash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NoamGaash">Copy rank badge</a><br/>
 			Noam Gaash
 		</td>
 		<td>Applitools </td>
@@ -1942,7 +1944,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DimaMinka">
 				<img src="https://avatars.githubusercontent.com/u/12497991?s=72&v=4" width="24" alt="Avatar of DimaMinka"> DimaMinka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DimaMinka">Copy rank badge</a><br/>
 			Dima Minka
 		</td>
 		<td>@cdk-comp  </td>
@@ -1955,7 +1957,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amitbet">
 				<img src="https://avatars.githubusercontent.com/u/3069696?s=72&u=3d391c01da08b2e5a22cc00b17c2851fba2f1f73&v=4" width="24" alt="Avatar of amitbet"> amitbet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amitbet">Copy rank badge</a><br/>
 			Amit Bezalel
 		</td>
 		<td>@hpe </td>
@@ -1968,7 +1970,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LiriothTeltanion">
 				<img src="https://avatars.githubusercontent.com/u/119695116?s=72&u=de53a8a2015afde49b1343441667223d9c82f83b&v=4" width="24" alt="Avatar of LiriothTeltanion"> LiriothTeltanion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LiriothTeltanion">Copy rank badge</a><br/>
 			Kevin Cusnir (Lirioth Teltanion)
 		</td>
 		<td>No Company</td>
@@ -1981,7 +1983,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/assapir">
 				<img src="https://avatars.githubusercontent.com/u/4030466?s=72&u=ddc47a08fcd31db76ec07c55af36a8fd8310395f&v=4" width="24" alt="Avatar of assapir"> assapir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#assapir">Copy rank badge</a><br/>
 			Assaf Sapir
 		</td>
 		<td>No Company</td>
@@ -1994,7 +1996,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ElyasafCohen100">
 				<img src="https://avatars.githubusercontent.com/u/92228398?s=72&u=432b178676fb536c58618f4848da69ab986a704e&v=4" width="24" alt="Avatar of ElyasafCohen100"> ElyasafCohen100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ElyasafCohen100">Copy rank badge</a><br/>
 			✨ 𝑬𝒍𝒚𝒂𝒔𝒂𝒇 𝑪𝒐𝒉𝒆𝒏 ✨
 		</td>
 		<td>Iai Elta 🛩️ </td>
@@ -2007,7 +2009,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/FlamesW">
 				<img src="https://avatars.githubusercontent.com/u/184697136?s=72&u=0ff29521d04c9ac66c15394d1e603f1680dd922a&v=4" width="24" alt="Avatar of FlamesW"> FlamesW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#FlamesW">Copy rank badge</a><br/>
 			Flameh
 		</td>
 		<td>No Company</td>
@@ -2020,7 +2022,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/aviadhahami">
 				<img src="https://avatars.githubusercontent.com/u/7353632?s=72&u=f76494da0416862b2da1c78ffa79cbbea063c234&v=4" width="24" alt="Avatar of aviadhahami"> aviadhahami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#aviadhahami">Copy rank badge</a><br/>
 			Aviad Hahami
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/barakplasma">
 				<img src="https://avatars.githubusercontent.com/u/62937?s=72&u=39ac2848b047a29439d905b077c4a50df6b277ee&v=4" width="24" alt="Avatar of barakplasma"> barakplasma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#barakplasma">Copy rank badge</a><br/>
 			Michael Salaverry
 		</td>
 		<td>Qurisai </td>
@@ -2046,7 +2048,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yoavram">
 				<img src="https://avatars.githubusercontent.com/u/1288133?s=72&u=b82e7701a0feefde115752418794e160a0c84fac&v=4" width="24" alt="Avatar of yoavram"> yoavram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yoavram">Copy rank badge</a><br/>
 			Yoav Ram
 		</td>
 		<td>Tel Aviv University </td>
@@ -2059,7 +2061,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AlmogBaku">
 				<img src="https://avatars.githubusercontent.com/u/98982?s=72&u=9ce665dd7ac530aec56efc9b47525952b0140ad0&v=4" width="24" alt="Avatar of AlmogBaku"> AlmogBaku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AlmogBaku">Copy rank badge</a><br/>
 			Almog Baku
 		</td>
 		<td>No Company</td>
@@ -2072,7 +2074,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bararchy">
 				<img src="https://avatars.githubusercontent.com/u/1631073?s=72&u=65683de05652ac5ba06a2ede4acd11a9194da45b&v=4" width="24" alt="Avatar of bararchy"> bararchy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bararchy">Copy rank badge</a><br/>
 			Bar Hofesh
 		</td>
 		<td>@neuralegion </td>
@@ -2085,7 +2087,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/giltayar">
 				<img src="https://avatars.githubusercontent.com/u/403268?s=72&u=ee621ccb994518b40e8bbf43ae2cf49ff09bcace&v=4" width="24" alt="Avatar of giltayar"> giltayar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#giltayar">Copy rank badge</a><br/>
 			Gil Tayar
 		</td>
 		<td>Microsoft </td>
@@ -2098,7 +2100,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dorsha">
 				<img src="https://avatars.githubusercontent.com/u/5429033?s=72&u=f4e286dead2c1616f9dc5081a31109b34439162d&v=4" width="24" alt="Avatar of dorsha"> dorsha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dorsha">Copy rank badge</a><br/>
 			Doron Sharon
 		</td>
 		<td>Descope </td>
@@ -2111,7 +2113,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/thatkookooguy">
 				<img src="https://avatars.githubusercontent.com/u/10427304?s=72&v=4" width="24" alt="Avatar of thatkookooguy"> thatkookooguy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#thatkookooguy">Copy rank badge</a><br/>
 			Neil Kalman
 		</td>
 		<td>@kibibit  </td>
@@ -2124,7 +2126,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ronreiter">
 				<img src="https://avatars.githubusercontent.com/u/705936?s=72&u=6551ac12b12830a3b4012094ee184a5655dbcc61&v=4" width="24" alt="Avatar of ronreiter"> ronreiter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ronreiter">Copy rank badge</a><br/>
 			Ron Reiter
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Hiro420">
 				<img src="https://avatars.githubusercontent.com/u/84511935?s=72&u=5d7fd4f929265567ecff2ff19cbc50459b56690b&v=4" width="24" alt="Avatar of Hiro420"> Hiro420
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Hiro420">Copy rank badge</a><br/>
 			Hiro
 		</td>
 		<td>No Company</td>
@@ -2150,7 +2152,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zippoxer">
 				<img src="https://avatars.githubusercontent.com/u/859015?s=72&v=4" width="24" alt="Avatar of zippoxer"> zippoxer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zippoxer">Copy rank badge</a><br/>
 			Zippo
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orgads">
 				<img src="https://avatars.githubusercontent.com/u/1246544?s=72&v=4" width="24" alt="Avatar of orgads"> orgads
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orgads">Copy rank badge</a><br/>
 			Orgad Shaneh
 		</td>
 		<td>Audiocodes </td>
@@ -2176,7 +2178,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/OzTamir">
 				<img src="https://avatars.githubusercontent.com/u/5982436?s=72&u=42b88e6cd22f1c7cf17078a8282588422dc7553a&v=4" width="24" alt="Avatar of OzTamir"> OzTamir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#OzTamir">Copy rank badge</a><br/>
 			Oz Tamir
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/VehpuS">
 				<img src="https://avatars.githubusercontent.com/u/3040818?s=72&v=4" width="24" alt="Avatar of VehpuS"> VehpuS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#VehpuS">Copy rank badge</a><br/>
 			Moshe Jonathan Gordon Radian
 		</td>
 		<td>@nucleai-ai </td>
@@ -2202,7 +2204,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yuval-hazaz">
 				<img src="https://avatars.githubusercontent.com/u/43705455?s=72&u=783d51d971ccb58f075fd808d9e0e6f36ea28758&v=4" width="24" alt="Avatar of yuval-hazaz"> yuval-hazaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yuval-hazaz">Copy rank badge</a><br/>
 			Yuval Hazaz
 		</td>
 		<td>@overcut-ai </td>
@@ -2215,7 +2217,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ngutman">
 				<img src="https://avatars.githubusercontent.com/u/1540134?s=72&u=99dac224be3d26684cbe4cab5e411e4cd1865246&v=4" width="24" alt="Avatar of ngutman"> ngutman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ngutman">Copy rank badge</a><br/>
 			Nimrod Gutman
 		</td>
 		<td>Singular </td>
@@ -2228,7 +2230,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/iNewLegend">
 				<img src="https://avatars.githubusercontent.com/u/10234691?s=72&u=36a8387b493b9679b1e8f0b329dde9fe9d1da852&v=4" width="24" alt="Avatar of iNewLegend"> iNewLegend
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#iNewLegend">Copy rank badge</a><br/>
 			Leonid Vinikov
 		</td>
 		<td>No Company</td>
@@ -2241,7 +2243,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/talgalili">
 				<img src="https://avatars.githubusercontent.com/u/976006?s=72&u=0a57bf2cca67bf6b8d8769b3a0e7c05b84da75c2&v=4" width="24" alt="Avatar of talgalili"> talgalili
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#talgalili">Copy rank badge</a><br/>
 			Tal Galili
 		</td>
 		<td>Tel Aviv University </td>
@@ -2254,7 +2256,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idoybh">
 				<img src="https://avatars.githubusercontent.com/u/38702884?s=72&u=dad1c9e3fe651c22472b6b0ebc4acd5962112982&v=4" width="24" alt="Avatar of idoybh"> idoybh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idoybh">Copy rank badge</a><br/>
 			Ido Ben-Hur
 		</td>
 		<td>No Company</td>
@@ -2267,7 +2269,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rgolangh">
 				<img src="https://avatars.githubusercontent.com/u/4987932?s=72&u=3c260729811cf3f2a312b46d3a930f966ecb034d&v=4" width="24" alt="Avatar of rgolangh"> rgolangh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rgolangh">Copy rank badge</a><br/>
 			Roy Golan
 		</td>
 		<td>Red Hat </td>
@@ -2280,7 +2282,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nirgeier">
 				<img src="https://avatars.githubusercontent.com/u/555154?s=72&v=4" width="24" alt="Avatar of nirgeier"> nirgeier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nirgeier">Copy rank badge</a><br/>
 			Nir Geier
 		</td>
 		<td>Codewizard </td>
@@ -2293,7 +2295,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yosefe">
 				<img src="https://avatars.githubusercontent.com/u/2255631?s=72&u=f606dec0b328fa7bd3fbc849afcc72a61b32bdc9&v=4" width="24" alt="Avatar of yosefe"> yosefe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yosefe">Copy rank badge</a><br/>
 			Yossi Itigin
 		</td>
 		<td>@nvidia </td>
@@ -2306,7 +2308,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NHLOCAL">
 				<img src="https://avatars.githubusercontent.com/u/95597943?s=72&u=7afeac42a80a3a4290e161e70b41a14880a6d43e&v=4" width="24" alt="Avatar of NHLOCAL"> NHLOCAL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NHLOCAL">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/talboren">
 				<img src="https://avatars.githubusercontent.com/u/68807791?s=72&u=04a942faa9651e535ed4e7ab1377ec378987c4ce&v=4" width="24" alt="Avatar of talboren"> talboren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#talboren">Copy rank badge</a><br/>
 			Tal
 		</td>
 		<td>Keephq </td>
@@ -2332,7 +2334,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/imp">
 				<img src="https://avatars.githubusercontent.com/u/92535?s=72&v=4" width="24" alt="Avatar of imp"> imp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#imp">Copy rank badge</a><br/>
 			Cyril Plisko
 		</td>
 		<td>No Company</td>
@@ -2345,7 +2347,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/atlowChemi">
 				<img src="https://avatars.githubusercontent.com/u/67366097?s=72&u=61689a08b94862d67a9ebb69b8f9b94ae07e9ca9&v=4" width="24" alt="Avatar of atlowChemi"> atlowChemi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#atlowChemi">Copy rank badge</a><br/>
 			Chemi Atlow
 		</td>
 		<td>@eon-io </td>
@@ -2358,7 +2360,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/michaelsutton">
 				<img src="https://avatars.githubusercontent.com/u/6299204?s=72&u=bc321c7594f947392ae2aacc3681c2df17594dbc&v=4" width="24" alt="Avatar of michaelsutton"> michaelsutton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#michaelsutton">Copy rank badge</a><br/>
 			Michael Sutton
 		</td>
 		<td>No Company</td>
@@ -2371,7 +2373,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LeoNatan">
 				<img src="https://avatars.githubusercontent.com/u/2270433?s=72&u=5572c60bc25d5d7b245f78a93a6fb2ab854c3248&v=4" width="24" alt="Avatar of LeoNatan"> LeoNatan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LeoNatan">Copy rank badge</a><br/>
 			Léo Natan
 		</td>
 		<td>@crowdstrike </td>
@@ -2384,7 +2386,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shahargl">
 				<img src="https://avatars.githubusercontent.com/u/12069200?s=72&u=6e6b6d4eb665e25c06fb1743217b70a47d85cb01&v=4" width="24" alt="Avatar of shahargl"> shahargl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shahargl">Copy rank badge</a><br/>
 			Shahar Glazner
 		</td>
 		<td>Keephq </td>
@@ -2397,7 +2399,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YogliB">
 				<img src="https://avatars.githubusercontent.com/u/10498929?s=72&u=0f24baf30280164cfcb78f6254750e6dd700283f&v=4" width="24" alt="Avatar of YogliB"> YogliB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YogliB">Copy rank badge</a><br/>
 			Yogev B. 
 		</td>
 		<td>Panw </td>
@@ -2410,7 +2412,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Miskamyasa">
 				<img src="https://avatars.githubusercontent.com/u/16611383?s=72&u=38fbe74f4c4bf1a6138d054b2bde7654f30c814e&v=4" width="24" alt="Avatar of Miskamyasa"> Miskamyasa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Miskamyasa">Copy rank badge</a><br/>
 			Denis Zaitsev
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/edenvidal">
 				<img src="https://avatars.githubusercontent.com/u/13418616?s=72&u=e5c0df3d3480aaa885742e8bd333f76ef6c5fbdc&v=4" width="24" alt="Avatar of edenvidal"> edenvidal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#edenvidal">Copy rank badge</a><br/>
 			Eden Vidal
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GuyKh">
 				<img src="https://avatars.githubusercontent.com/u/3136012?s=72&u=fb24c26806822a9bce860575970f4b434946fcab&v=4" width="24" alt="Avatar of GuyKh"> GuyKh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GuyKh">Copy rank badge</a><br/>
 			Guy Khmelnitsky
 		</td>
 		<td>Bigpanda </td>
@@ -2449,7 +2451,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gavischneider">
 				<img src="https://avatars.githubusercontent.com/u/23695850?s=72&u=4b69f4bdfd548fe434c4f306342880e116d29f9d&v=4" width="24" alt="Avatar of gavischneider"> gavischneider
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gavischneider">Copy rank badge</a><br/>
 			Gavi Schneider
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/david-lev">
 				<img src="https://avatars.githubusercontent.com/u/42866208?s=72&u=72b452e14d9d9004c3bfcfb06d92c196310f3d18&v=4" width="24" alt="Avatar of david-lev"> david-lev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#david-lev">Copy rank badge</a><br/>
 			David Lev
 		</td>
 		<td>@lomdaat </td>
@@ -2475,7 +2477,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AdamGold">
 				<img src="https://avatars.githubusercontent.com/u/747847?s=72&u=f186533ffaac20b28b6230eea537f05d823f5fd2&v=4" width="24" alt="Avatar of AdamGold"> AdamGold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AdamGold">Copy rank badge</a><br/>
 			Adam Goldschmidt
 		</td>
 		<td>No Company</td>
@@ -2488,7 +2490,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ydaniv">
 				<img src="https://avatars.githubusercontent.com/u/116658?s=72&u=e8480efcf11f4b527687463954b181f2e8e34b2e&v=4" width="24" alt="Avatar of ydaniv"> ydaniv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ydaniv">Copy rank badge</a><br/>
 			Yehonatan Daniv
 		</td>
 		<td>@wix  </td>
@@ -2501,7 +2503,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mattansb">
 				<img src="https://avatars.githubusercontent.com/u/35330040?s=72&u=3c63a9fd275114127598a8bcd653fb71e38743f0&v=4" width="24" alt="Avatar of mattansb"> mattansb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mattansb">Copy rank badge</a><br/>
 			Mattan S. Ben-Shachar
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/D4isDAVID">
 				<img src="https://avatars.githubusercontent.com/u/43699941?s=72&u=6e23af07aa1ad17f5958d5a0f63acfba75ab44ea&v=4" width="24" alt="Avatar of D4isDAVID"> D4isDAVID
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#D4isDAVID">Copy rank badge</a><br/>
 			David Malchin
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/the1Riddle">
 				<img src="https://avatars.githubusercontent.com/u/125451537?s=72&u=68edc445966f9e8d0e64a7e0267c455b467046ae&v=4" width="24" alt="Avatar of the1Riddle"> the1Riddle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#the1Riddle">Copy rank badge</a><br/>
 			Elvis M.
 		</td>
 		<td>No Company</td>
@@ -2540,7 +2542,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tmr232">
 				<img src="https://avatars.githubusercontent.com/u/1386239?s=72&u=5b550eab33bd48a404d52ddf8996aad283e64e1e&v=4" width="24" alt="Avatar of tmr232"> tmr232
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tmr232">Copy rank badge</a><br/>
 			Tamir Bahar
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/noaYarin">
 				<img src="https://avatars.githubusercontent.com/u/89860312?s=72&u=c6da8f715304e30064ae21f6a93f40c03da196b2&v=4" width="24" alt="Avatar of noaYarin"> noaYarin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#noaYarin">Copy rank badge</a><br/>
 			Noa Yarin Levi
 		</td>
 		<td>No Company</td>
@@ -2566,7 +2568,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/baruchiro">
 				<img src="https://avatars.githubusercontent.com/u/17686879?s=72&v=4" width="24" alt="Avatar of baruchiro"> baruchiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#baruchiro">Copy rank badge</a><br/>
 			Baruch Odem (Rothkoff)
 		</td>
 		<td>@with-org </td>
@@ -2579,7 +2581,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LandRover">
 				<img src="https://avatars.githubusercontent.com/u/496584?s=72&u=537e0cfaf788f19c46479cb366a7b56cae2d9107&v=4" width="24" alt="Avatar of LandRover"> LandRover
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LandRover">Copy rank badge</a><br/>
 			OG
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ahadas">
 				<img src="https://avatars.githubusercontent.com/u/6020068?s=72&v=4" width="24" alt="Avatar of ahadas"> ahadas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ahadas">Copy rank badge</a><br/>
 			Arik Hadas
 		</td>
 		<td>Red Hat </td>
@@ -2605,7 +2607,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/BarPupko">
 				<img src="https://avatars.githubusercontent.com/u/59252845?s=72&u=6d158e284b33f6a3167f9a33257394ade71c33c9&v=4" width="24" alt="Avatar of BarPupko"> BarPupko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#BarPupko">Copy rank badge</a><br/>
 			BarPopko
 		</td>
 		<td>@acsmotioncontrol </td>
@@ -2618,7 +2620,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zvizvi">
 				<img src="https://avatars.githubusercontent.com/u/4354421?s=72&u=672ee6fa693885209af762b24122b0f56c86a578&v=4" width="24" alt="Avatar of zvizvi"> zvizvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zvizvi">Copy rank badge</a><br/>
 			zvizvi
 		</td>
 		<td>No Company</td>
@@ -2631,7 +2633,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yoavniran">
 				<img src="https://avatars.githubusercontent.com/u/1102278?s=72&u=0c397006a6f8f11e37d724f500e804d4d904ae6d&v=4" width="24" alt="Avatar of yoavniran"> yoavniran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yoavniran">Copy rank badge</a><br/>
 			Yoav Niran
 		</td>
 		<td>@cloudinary </td>
@@ -2644,7 +2646,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DanielScharfsteinGit">
 				<img src="https://avatars.githubusercontent.com/u/107919151?s=72&u=7321a40e56fa2a9f2ae55bde28513a6cc46df7d5&v=4" width="24" alt="Avatar of DanielScharfsteinGit"> DanielScharfsteinGit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DanielScharfsteinGit">Copy rank badge</a><br/>
 			Daniel Scharfstein
 		</td>
 		<td>Stealth </td>
@@ -2657,7 +2659,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tebeka">
 				<img src="https://avatars.githubusercontent.com/u/87697?s=72&v=4" width="24" alt="Avatar of tebeka"> tebeka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tebeka">Copy rank badge</a><br/>
 			Miki Tebeka
 		</td>
 		<td>353solutions </td>
@@ -2670,7 +2672,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alonmuroch">
 				<img src="https://avatars.githubusercontent.com/u/3773981?s=72&u=3d97b991ae3b45196736da8004d9ce2460098fa2&v=4" width="24" alt="Avatar of alonmuroch"> alonmuroch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alonmuroch">Copy rank badge</a><br/>
 			Alon Muroch
 		</td>
 		<td>Ssv.network </td>
@@ -2683,7 +2685,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Itay2805">
 				<img src="https://avatars.githubusercontent.com/u/10487821?s=72&u=0a47ce8253df63e35ef1a3b0fa9a76d3281ad71a&v=4" width="24" alt="Avatar of Itay2805"> Itay2805
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Itay2805">Copy rank badge</a><br/>
 			Itay Almog
 		</td>
 		<td>@tomatorg </td>
@@ -2696,7 +2698,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/donno2048">
 				<img src="https://avatars.githubusercontent.com/u/61805754?s=72&v=4" width="24" alt="Avatar of donno2048"> donno2048
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#donno2048">Copy rank badge</a><br/>
 			Elisha Hollander
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/danielgindi">
 				<img src="https://avatars.githubusercontent.com/u/366926?s=72&u=bc6534472ef1fa397fdbc138ad50d2c68a5b1af8&v=4" width="24" alt="Avatar of danielgindi"> danielgindi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#danielgindi">Copy rank badge</a><br/>
 			Daniel Cohen Gindi
 		</td>
 		<td>Self Employed, Cto At<br/>Eyedo<br/>Fielding<br/>Technologies<br/>Ltd.<br/></td>
@@ -2722,7 +2724,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dmitryweiner">
 				<img src="https://avatars.githubusercontent.com/u/6175334?s=72&v=4" width="24" alt="Avatar of dmitryweiner"> dmitryweiner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dmitryweiner">Copy rank badge</a><br/>
 			Dmitry Weiner
 		</td>
 		<td>Wix </td>
@@ -2735,7 +2737,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/masterwishx">
 				<img src="https://avatars.githubusercontent.com/u/28630321?s=72&u=212c980ab836d6cb5e6ac6597fd310113d56408f&v=4" width="24" alt="Avatar of masterwishx"> masterwishx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#masterwishx">Copy rank badge</a><br/>
 			DaRK AnGeL
 		</td>
 		<td>No Company</td>
@@ -2748,7 +2750,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Xallt">
 				<img src="https://avatars.githubusercontent.com/u/24624181?s=72&u=2d8815faa6ba123c22b046c0393ddb8705803896&v=4" width="24" alt="Avatar of Xallt"> Xallt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Xallt">Copy rank badge</a><br/>
 			Mitya Shabat
 		</td>
 		<td>No Company</td>
@@ -2761,7 +2763,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shimondoodkin">
 				<img src="https://avatars.githubusercontent.com/u/314464?s=72&u=640c27c192a15f0a6588e0ee7826e8c0b2a0ffbf&v=4" width="24" alt="Avatar of shimondoodkin"> shimondoodkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shimondoodkin">Copy rank badge</a><br/>
 			Shimon Doodkin
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/erikzaadi">
 				<img src="https://avatars.githubusercontent.com/u/77775?s=72&v=4" width="24" alt="Avatar of erikzaadi"> erikzaadi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#erikzaadi">Copy rank badge</a><br/>
 			Erik Zaadi
 		</td>
 		<td>Port </td>
@@ -2787,7 +2789,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jonzarecki">
 				<img src="https://avatars.githubusercontent.com/u/4355368?s=72&u=4dc639241f099a88826cd257d13594d6f0bae0b9&v=4" width="24" alt="Avatar of jonzarecki"> jonzarecki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jonzarecki">Copy rank badge</a><br/>
 			Jonathan Zarecki
 		</td>
 		<td>Red Hat </td>
@@ -2800,7 +2802,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amire80">
 				<img src="https://avatars.githubusercontent.com/u/346271?s=72&v=4" width="24" alt="Avatar of amire80"> amire80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amire80">Copy rank badge</a><br/>
 			Amir E. Aharoni
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sanusart">
 				<img src="https://avatars.githubusercontent.com/u/267718?s=72&v=4" width="24" alt="Avatar of sanusart"> sanusart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sanusart">Copy rank badge</a><br/>
 			Sasha Khamkov
 		</td>
 		<td>No Company</td>
@@ -2826,7 +2828,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ohadlevy">
 				<img src="https://avatars.githubusercontent.com/u/20167?s=72&v=4" width="24" alt="Avatar of ohadlevy"> ohadlevy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ohadlevy">Copy rank badge</a><br/>
 			Ohad Levy
 		</td>
 		<td>Red Hat </td>
@@ -2839,7 +2841,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/assafdori">
 				<img src="https://avatars.githubusercontent.com/u/83507910?s=72&u=56a11366f77e16ed2d136c9c689781eac6117aa9&v=4" width="24" alt="Avatar of assafdori"> assafdori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#assafdori">Copy rank badge</a><br/>
 			Assaf Dori
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/popen2">
 				<img src="https://avatars.githubusercontent.com/u/28088?s=72&v=4" width="24" alt="Avatar of popen2"> popen2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#popen2">Copy rank badge</a><br/>
 			Zohar Zilberman
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/talolard">
 				<img src="https://avatars.githubusercontent.com/u/5352830?s=72&u=28a92f4033563ce99b9d640cd79d3a510ac84aef&v=4" width="24" alt="Avatar of talolard"> talolard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#talolard">Copy rank badge</a><br/>
 			Tal Perry
 		</td>
 		<td>Lighttag </td>
@@ -2878,7 +2880,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/snoyberg">
 				<img src="https://avatars.githubusercontent.com/u/49415?s=72&u=c776807556250a4f8ce111bfe873806f30aca6f4&v=4" width="24" alt="Avatar of snoyberg"> snoyberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#snoyberg">Copy rank badge</a><br/>
 			Michael Snoyman
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sshnaidm">
 				<img src="https://avatars.githubusercontent.com/u/6213510?s=72&u=70a70a40dc393d5dc281d4a22026e7506f8d8d76&v=4" width="24" alt="Avatar of sshnaidm"> sshnaidm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sshnaidm">Copy rank badge</a><br/>
 			Sergey
 		</td>
 		<td>Red Hat </td>
@@ -2904,7 +2906,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bgbg">
 				<img src="https://avatars.githubusercontent.com/u/506547?s=72&v=4" width="24" alt="Avatar of bgbg"> bgbg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bgbg">Copy rank badge</a><br/>
 			Boris Gorelik
 		</td>
 		<td>No Company</td>
@@ -2917,7 +2919,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dimkr">
 				<img src="https://avatars.githubusercontent.com/u/1471149?s=72&u=6f2994aebe2921bb23fd611cf314708a3de4712a&v=4" width="24" alt="Avatar of dimkr"> dimkr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dimkr">Copy rank badge</a><br/>
 			Dima Krasner
 		</td>
 		<td>@gytpol  </td>
@@ -2930,7 +2932,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adamcohenhillel">
 				<img src="https://avatars.githubusercontent.com/u/633840?s=72&u=ea14dbe4a7f43af0e461feaa3215dca36a8a5f64&v=4" width="24" alt="Avatar of adamcohenhillel"> adamcohenhillel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adamcohenhillel">Copy rank badge</a><br/>
 			Adam Cohen Hillel
 		</td>
 		<td>No Company</td>
@@ -2943,7 +2945,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omerbenamram">
 				<img src="https://avatars.githubusercontent.com/u/2467993?s=72&u=a0291737454eaa9232fb0962f35d994ceca78d53&v=4" width="24" alt="Avatar of omerbenamram"> omerbenamram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omerbenamram">Copy rank badge</a><br/>
 			Omer BenAmram
 		</td>
 		<td>Nexus Ai </td>
@@ -2956,7 +2958,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amitgilad3">
 				<img src="https://avatars.githubusercontent.com/u/7702311?s=72&u=9fba9f3f1681452527a3799336c6ebf06aa110c9&v=4" width="24" alt="Avatar of amitgilad3"> amitgilad3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amitgilad3">Copy rank badge</a><br/>
 			amit
 		</td>
 		<td>Lakeops </td>
@@ -2969,7 +2971,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/piiq">
 				<img src="https://avatars.githubusercontent.com/u/11668535?s=72&u=8fc5a268bdd66d7c260dcc06d98e537bb0e56c26&v=4" width="24" alt="Avatar of piiq"> piiq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#piiq">Copy rank badge</a><br/>
 			Theodore Aptekarev
 		</td>
 		<td>No Company</td>
@@ -2982,7 +2984,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/EddFish">
 				<img src="https://avatars.githubusercontent.com/u/15019930?s=72&v=4" width="24" alt="Avatar of EddFish"> EddFish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#EddFish">Copy rank badge</a><br/>
 			Edward Fish
 		</td>
 		<td>No Company</td>
@@ -2995,7 +2997,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elichai">
 				<img src="https://avatars.githubusercontent.com/u/2167860?s=72&v=4" width="24" alt="Avatar of elichai"> elichai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elichai">Copy rank badge</a><br/>
 			Elichai Turkel
 		</td>
 		<td>@sodot-rs </td>
@@ -3008,7 +3010,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/giko">
 				<img src="https://avatars.githubusercontent.com/u/408908?s=72&u=95b0b5ee5c816c1c36a35497b87c013bee7884f2&v=4" width="24" alt="Avatar of giko"> giko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#giko">Copy rank badge</a><br/>
 			Nikita Chudakov
 		</td>
 		<td>@klugde-inc </td>
@@ -3021,7 +3023,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/pab1it0">
 				<img src="https://avatars.githubusercontent.com/u/11724759?s=72&u=2aa83533fc2b02cb5301a8de1b2037624bc42114&v=4" width="24" alt="Avatar of pab1it0"> pab1it0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#pab1it0">Copy rank badge</a><br/>
 			Pavel Shklovsky
 		</td>
 		<td>No Company</td>
@@ -3034,7 +3036,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amitaibu">
 				<img src="https://avatars.githubusercontent.com/u/125707?s=72&u=7b4d72cb2aa328c8d38f30af7fac9c15073d0890&v=4" width="24" alt="Avatar of amitaibu"> amitaibu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amitaibu">Copy rank badge</a><br/>
 			Amitai Burstein
 		</td>
 		<td>Gizra </td>
@@ -3047,7 +3049,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tsahimatsliah">
 				<img src="https://avatars.githubusercontent.com/u/41912669?s=72&u=4ab3ff7d5114a5492596b23fe351fffcba1ab82f&v=4" width="24" alt="Avatar of tsahimatsliah"> tsahimatsliah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tsahimatsliah">Copy rank badge</a><br/>
 			Tsahi Matsliah
 		</td>
 		<td>@elegantmonkeys </td>
@@ -3060,7 +3062,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eyalroz">
 				<img src="https://avatars.githubusercontent.com/u/8672255?s=72&v=4" width="24" alt="Avatar of eyalroz"> eyalroz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eyalroz">Copy rank badge</a><br/>
 			Eyal Rozenberg
 		</td>
 		<td>Ge Healthcare & Independent<br/></td>
@@ -3073,7 +3075,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kotbegemot">
 				<img src="https://avatars.githubusercontent.com/u/958279?s=72&u=1a5fed63797d827aa84f935745a3ebf483b13926&v=4" width="24" alt="Avatar of kotbegemot"> kotbegemot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kotbegemot">Copy rank badge</a><br/>
 			Alexandr
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yaroslavyaroslav">
 				<img src="https://avatars.githubusercontent.com/u/16612247?s=72&u=141f8037eced217b017791c0f739a3133a33bb05&v=4" width="24" alt="Avatar of yaroslavyaroslav"> yaroslavyaroslav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yaroslavyaroslav">Copy rank badge</a><br/>
 			Yaroslav
 		</td>
 		<td>No Company</td>
@@ -3099,7 +3101,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/galkahana">
 				<img src="https://avatars.githubusercontent.com/u/271847?s=72&u=af756b178ffe0541255aed913b79594fb3c5f36d&v=4" width="24" alt="Avatar of galkahana"> galkahana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#galkahana">Copy rank badge</a><br/>
 			gal kahana
 		</td>
 		<td>No Company</td>
@@ -3112,7 +3114,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omermorad">
 				<img src="https://avatars.githubusercontent.com/u/6696717?s=72&u=7d641de869b5fb0c2c58cd33b991c623f799e849&v=4" width="24" alt="Avatar of omermorad"> omermorad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omermorad">Copy rank badge</a><br/>
 			Omer Morad
 		</td>
 		<td>@suites-dev @codotech </td>
@@ -3125,7 +3127,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladmallel">
 				<img src="https://avatars.githubusercontent.com/u/1137044?s=72&u=8f3f73705bfcdb0254af17c5c4e7cf74ccae64e4&v=4" width="24" alt="Avatar of eladmallel"> eladmallel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladmallel">Copy rank badge</a><br/>
 			Elad Mallel
 		</td>
 		<td>@verbsteam  </td>
@@ -3138,7 +3140,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladcandroid">
 				<img src="https://avatars.githubusercontent.com/u/13297000?s=72&u=4198a6e1a6e363d6f27571c8878b2c82c2b9ef01&v=4" width="24" alt="Avatar of eladcandroid"> eladcandroid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladcandroid">Copy rank badge</a><br/>
 			Elad Cohen
 		</td>
 		<td>Llm + Mcp =<br/>❤️<br/>|<br/>Gocode<br/>Founder<br/></td>
@@ -3151,7 +3153,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amcaplan">
 				<img src="https://avatars.githubusercontent.com/u/6288426?s=72&v=4" width="24" alt="Avatar of amcaplan"> amcaplan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amcaplan">Copy rank badge</a><br/>
 			Ariel Caplan
 		</td>
 		<td>@shopify  </td>
@@ -3164,7 +3166,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/cool-RR">
 				<img src="https://avatars.githubusercontent.com/u/56778?s=72&u=3ec6c1c47cb6b10fc1c9371f8ff65ebf69d13672&v=4" width="24" alt="Avatar of cool-RR"> cool-RR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#cool-RR">Copy rank badge</a><br/>
 			Ram Rachum
 		</td>
 		<td>University Of California, Berkeley<br/></td>
@@ -3177,7 +3179,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/supercomputer7">
 				<img src="https://avatars.githubusercontent.com/u/51659396?s=72&v=4" width="24" alt="Avatar of supercomputer7"> supercomputer7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#supercomputer7">Copy rank badge</a><br/>
 			Liav A.
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yprez">
 				<img src="https://avatars.githubusercontent.com/u/667418?s=72&u=db8e332aebb2180dc2110df1f427595dc924d5b3&v=4" width="24" alt="Avatar of yprez"> yprez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yprez">Copy rank badge</a><br/>
 			Yuri Prezument
 		</td>
 		<td>Yprez </td>
@@ -3203,7 +3205,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/galkleinman">
 				<img src="https://avatars.githubusercontent.com/u/33281963?s=72&u=e0dcce469677e8d679e6a096b8454e0012d62cca&v=4" width="24" alt="Avatar of galkleinman"> galkleinman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#galkleinman">Copy rank badge</a><br/>
 			Gal Kleinman
 		</td>
 		<td>Traceloop </td>
@@ -3216,7 +3218,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/David-L-R">
 				<img src="https://avatars.githubusercontent.com/u/31222514?s=72&u=e74ab6bbce357c3c2c7b7de4bddf4ca111a1ce83&v=4" width="24" alt="Avatar of David-L-R"> David-L-R
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#David-L-R">Copy rank badge</a><br/>
 			David L. Rajcher
 		</td>
 		<td>Engineering & Product Leadership<br/></td>
@@ -3229,7 +3231,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/synhershko">
 				<img src="https://avatars.githubusercontent.com/u/212252?s=72&u=e87614a45564bb421819e344eb467b7c45cc149e&v=4" width="24" alt="Avatar of synhershko"> synhershko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#synhershko">Copy rank badge</a><br/>
 			Itamar Syn-Hershko
 		</td>
 		<td>Bigdata Boutique  </td>
@@ -3242,7 +3244,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alonronin">
 				<img src="https://avatars.githubusercontent.com/u/846044?s=72&u=c0ddbef2a12113ed45c8365df4cfcdefb388140b&v=4" width="24" alt="Avatar of alonronin"> alonronin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alonronin">Copy rank badge</a><br/>
 			Alon Valadji
 		</td>
 		<td>Tikal </td>
@@ -3255,7 +3257,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yarons">
 				<img src="https://avatars.githubusercontent.com/u/406826?s=72&v=4" width="24" alt="Avatar of yarons"> yarons
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yarons">Copy rank badge</a><br/>
 			Yaron Shahrabani
 		</td>
 		<td>Open Source </td>
@@ -3268,7 +3270,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ShaMan123">
 				<img src="https://avatars.githubusercontent.com/u/34343793?s=72&v=4" width="24" alt="Avatar of ShaMan123"> ShaMan123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ShaMan123">Copy rank badge</a><br/>
 			Shachar
 		</td>
 		<td>Autodidact </td>
@@ -3281,7 +3283,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/iddan">
 				<img src="https://avatars.githubusercontent.com/u/12671072?s=72&u=a404505d087bb82b4c815b8e28770083f14222a6&v=4" width="24" alt="Avatar of iddan"> iddan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#iddan">Copy rank badge</a><br/>
 			Iddan Aaronsohn
 		</td>
 		<td>No Company</td>
@@ -3294,7 +3296,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/purplenoodlesoop">
 				<img src="https://avatars.githubusercontent.com/u/68401994?s=72&u=a49fbbe9512acec475d89fb515a4819a50c7e8ad&v=4" width="24" alt="Avatar of purplenoodlesoop"> purplenoodlesoop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#purplenoodlesoop">Copy rank badge</a><br/>
 			Yakov K.
 		</td>
 		<td>No Company</td>
@@ -3307,7 +3309,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ddofer">
 				<img src="https://avatars.githubusercontent.com/u/5120387?s=72&v=4" width="24" alt="Avatar of ddofer"> ddofer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ddofer">Copy rank badge</a><br/>
 			Dan Ofer
 		</td>
 		<td>@liniallab </td>
@@ -3320,7 +3322,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/segevfiner">
 				<img src="https://avatars.githubusercontent.com/u/24731903?s=72&u=37a38d702646889c2632bb6ad33a1dcc5e5d0507&v=4" width="24" alt="Avatar of segevfiner"> segevfiner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#segevfiner">Copy rank badge</a><br/>
 			Segev Finer
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rootux">
 				<img src="https://avatars.githubusercontent.com/u/1032526?s=72&u=4cea2ce4f0dc76acf26ccd722de6d738ef74bef8&v=4" width="24" alt="Avatar of rootux"> rootux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rootux">Copy rank badge</a><br/>
 			Gal Bracha
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shilgapira">
 				<img src="https://avatars.githubusercontent.com/u/694968?s=72&v=4" width="24" alt="Avatar of shilgapira"> shilgapira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shilgapira">Copy rank badge</a><br/>
 			Gil Shapira
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/giladtamam">
 				<img src="https://avatars.githubusercontent.com/u/4085945?s=72&u=d517955e08c0aa37c9fb1175774f9810b0a16a92&v=4" width="24" alt="Avatar of giladtamam"> giladtamam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#giladtamam">Copy rank badge</a><br/>
 			Gilad Tamam
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yardenshoham">
 				<img src="https://avatars.githubusercontent.com/u/20454870?s=72&u=4a947da7dd4570f32007aa9e0e106f2b445080ba&v=4" width="24" alt="Avatar of yardenshoham"> yardenshoham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yardenshoham">Copy rank badge</a><br/>
 			Yarden Shoham
 		</td>
 		<td>@cognyte </td>
@@ -3385,7 +3387,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/galElmalah">
 				<img src="https://avatars.githubusercontent.com/u/40733145?s=72&u=333a1fbc90a4c4817b2c9c7e6ce54a33975134bd&v=4" width="24" alt="Avatar of galElmalah"> galElmalah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#galElmalah">Copy rank badge</a><br/>
 			Gal Elmalah
 		</td>
 		<td>No Company</td>
@@ -3398,7 +3400,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nirga">
 				<img src="https://avatars.githubusercontent.com/u/4224692?s=72&u=5f345346d8cd5a6394d3bc7cff57c6d4a73611c9&v=4" width="24" alt="Avatar of nirga"> nirga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nirga">Copy rank badge</a><br/>
 			Nir Gazit
 		</td>
 		<td>Traceloop </td>
@@ -3411,7 +3413,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TheQmaks">
 				<img src="https://avatars.githubusercontent.com/u/11361354?s=72&u=e80dde82be74221b0a1d32afafd16f983fe04f89&v=4" width="24" alt="Avatar of TheQmaks"> TheQmaks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TheQmaks">Copy rank badge</a><br/>
 			Anatoliy
 		</td>
 		<td>H2eng </td>
@@ -3424,7 +3426,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ShlomoCode">
 				<img src="https://avatars.githubusercontent.com/u/78599753?s=72&u=1f5b3cb4c81c23a93ea588f77592179c5cdf5d49&v=4" width="24" alt="Avatar of ShlomoCode"> ShlomoCode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ShlomoCode">Copy rank badge</a><br/>
 			Shlomo
 		</td>
 		<td>No Company</td>
@@ -3437,7 +3439,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alkavan">
 				<img src="https://avatars.githubusercontent.com/u/188295?s=72&u=70c0f14ab1c23339e08789ef91a9f31895a5c2f5&v=4" width="24" alt="Avatar of alkavan"> alkavan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alkavan">Copy rank badge</a><br/>
 			Igal Alkon
 		</td>
 		<td>No Company</td>
@@ -3450,7 +3452,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ramiy">
 				<img src="https://avatars.githubusercontent.com/u/576623?s=72&u=88392c52422628facfd7cf108241d2864680915d&v=4" width="24" alt="Avatar of ramiy"> ramiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ramiy">Copy rank badge</a><br/>
 			Rami Yushuvaev
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexbol99">
 				<img src="https://avatars.githubusercontent.com/u/6965440?s=72&u=dd7d2270e26f44381771bf9f03fe67eb12c30e85&v=4" width="24" alt="Avatar of alexbol99"> alexbol99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexbol99">Copy rank badge</a><br/>
 			Alex Bol
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rantav">
 				<img src="https://avatars.githubusercontent.com/u/87037?s=72&v=4" width="24" alt="Avatar of rantav"> rantav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rantav">Copy rank badge</a><br/>
 			Ran Tavory
 		</td>
 		<td>Tii </td>
@@ -3489,7 +3491,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/drorgl">
 				<img src="https://avatars.githubusercontent.com/u/1523520?s=72&u=2a51b4058e14d2ca30b3b40bb9e06dd457ed525e&v=4" width="24" alt="Avatar of drorgl"> drorgl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#drorgl">Copy rank badge</a><br/>
 			Dror Gluska
 		</td>
 		<td>No Company</td>
@@ -3502,7 +3504,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idoco">
 				<img src="https://avatars.githubusercontent.com/u/5776439?s=72&v=4" width="24" alt="Avatar of idoco"> idoco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idoco">Copy rank badge</a><br/>
 			Ido Cohen
 		</td>
 		<td>@loadmill  </td>
@@ -3515,7 +3517,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shaharkazaz">
 				<img src="https://avatars.githubusercontent.com/u/17194830?s=72&u=2ece3066a651a88708ed37f69e2cc1170155fed1&v=4" width="24" alt="Avatar of shaharkazaz"> shaharkazaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shaharkazaz">Copy rank badge</a><br/>
 			Shahar Kazaz
 		</td>
 		<td>No Company</td>
@@ -3528,7 +3530,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mayashavin">
 				<img src="https://avatars.githubusercontent.com/u/6650139?s=72&u=e23ded7ef787f5d834eca81e64a6200bc00d424a&v=4" width="24" alt="Avatar of mayashavin"> mayashavin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mayashavin">Copy rank badge</a><br/>
 			Maya Shavin
 		</td>
 		<td>Salesforce </td>
@@ -3541,7 +3543,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shakedzy">
 				<img src="https://avatars.githubusercontent.com/u/15704705?s=72&u=42a0d295848a7b89014dce5bfbff813017428143&v=4" width="24" alt="Avatar of shakedzy"> shakedzy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shakedzy">Copy rank badge</a><br/>
 			Shaked Zychlinski
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/undera">
 				<img src="https://avatars.githubusercontent.com/u/2026469?s=72&u=faf55d93446b1bb028b4ede887b5a9cb140738b8&v=4" width="24" alt="Avatar of undera"> undera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#undera">Copy rank badge</a><br/>
 			Andrey Pokhilko
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ran-isenberg">
 				<img src="https://avatars.githubusercontent.com/u/60175085?s=72&u=de8b2b4415f7030eff2bc18e4173d60c75e7a4fe&v=4" width="24" alt="Avatar of ran-isenberg"> ran-isenberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ran-isenberg">Copy rank badge</a><br/>
 			Ran Isenberg
 		</td>
 		<td>Palo Alto Networks </td>
@@ -3580,7 +3582,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/haggaie">
 				<img src="https://avatars.githubusercontent.com/u/35070?s=72&u=718bb6170f796eb590440f4f8adce9c13355b112&v=4" width="24" alt="Avatar of haggaie"> haggaie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#haggaie">Copy rank badge</a><br/>
 			Haggai Eran
 		</td>
 		<td>Nvidia </td>
@@ -3593,7 +3595,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/matfish2">
 				<img src="https://avatars.githubusercontent.com/u/1510460?s=72&u=c0efc3378cf31dc02c36f2db3770d1593aae878f&v=4" width="24" alt="Avatar of matfish2"> matfish2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#matfish2">Copy rank badge</a><br/>
 			Matanya
 		</td>
 		<td>No Company</td>
@@ -3606,7 +3608,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/natanrolnik">
 				<img src="https://avatars.githubusercontent.com/u/1164565?s=72&u=4612aca9b3274e05711552a2d34b32ba515fbd4b&v=4" width="24" alt="Avatar of natanrolnik"> natanrolnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#natanrolnik">Copy rank badge</a><br/>
 			Natan Rolnik
 		</td>
 		<td>Monday.com </td>
@@ -3619,7 +3621,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/davidbrai">
 				<img src="https://avatars.githubusercontent.com/u/351026?s=72&u=24f452ed6d0258e45f9e749dc966c66bf8994be1&v=4" width="24" alt="Avatar of davidbrai"> davidbrai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#davidbrai">Copy rank badge</a><br/>
 			David Brailovsky
 		</td>
 		<td>No Company</td>
@@ -3632,7 +3634,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Virviil">
 				<img src="https://avatars.githubusercontent.com/u/3989623?s=72&u=b797b62322a4ed91d9208a693df2c26f282a096c&v=4" width="24" alt="Avatar of Virviil"> Virviil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Virviil">Copy rank badge</a><br/>
 			Źmićer Rubinštejn
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jondot">
 				<img src="https://avatars.githubusercontent.com/u/83390?s=72&v=4" width="24" alt="Avatar of jondot"> jondot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jondot">Copy rank badge</a><br/>
 			Dotan J. Nahum
 		</td>
 		<td>Spectralops </td>
@@ -3658,7 +3660,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guysmoilov">
 				<img src="https://avatars.githubusercontent.com/u/611655?s=72&u=966f9868bb057d2d4deba8e9934b95b9ee6662df&v=4" width="24" alt="Avatar of guysmoilov"> guysmoilov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guysmoilov">Copy rank badge</a><br/>
 			Guy Smoilovsky
 		</td>
 		<td>@dagshub </td>
@@ -3671,7 +3673,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Sivan22">
 				<img src="https://avatars.githubusercontent.com/u/89018301?s=72&v=4" width="24" alt="Avatar of Sivan22"> Sivan22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Sivan22">Copy rank badge</a><br/>
 			Sivan Ratson
 		</td>
 		<td>No Company</td>
@@ -3684,7 +3686,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/20lives">
 				<img src="https://avatars.githubusercontent.com/u/8869390?s=72&u=4d0eb1f0d90a03d1e8d7db8d82c9ccd9800f692e&v=4" width="24" alt="Avatar of 20lives"> 20lives
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#20lives">Copy rank badge</a><br/>
 			Twentylives
 		</td>
 		<td>Dotcore </td>
@@ -3697,7 +3699,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eyalz800">
 				<img src="https://avatars.githubusercontent.com/u/29372486?s=72&u=d60b2eb7e87efd6ed5208e405aa4f49e2a0b1919&v=4" width="24" alt="Avatar of eyalz800"> eyalz800
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eyalz800">Copy rank badge</a><br/>
 			Eyal Z
 		</td>
 		<td>No Company</td>
@@ -3710,7 +3712,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/grnd">
 				<img src="https://avatars.githubusercontent.com/u/231295?s=72&u=68b0ea9ecf238263d3055ca9433bb72de7dc50c7&v=4" width="24" alt="Avatar of grnd"> grnd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#grnd">Copy rank badge</a><br/>
 			Danny Grander
 		</td>
 		<td>Snyk.io </td>
@@ -3723,7 +3725,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/UrielOfir">
 				<img src="https://avatars.githubusercontent.com/u/30144878?s=72&u=4aaceee81155c1e2f5f35e486c0a6b699f48638d&v=4" width="24" alt="Avatar of UrielOfir"> UrielOfir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#UrielOfir">Copy rank badge</a><br/>
 			Uriel Ofir
 		</td>
 		<td>Mizrahi-tefahot </td>
@@ -3736,7 +3738,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eranchetz">
 				<img src="https://avatars.githubusercontent.com/u/357094?s=72&v=4" width="24" alt="Avatar of eranchetz"> eranchetz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eranchetz">Copy rank badge</a><br/>
 			Eran Chetz
 		</td>
 		<td>@doitintl </td>
@@ -3749,7 +3751,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/doron2402">
 				<img src="https://avatars.githubusercontent.com/u/2269831?s=72&v=4" width="24" alt="Avatar of doron2402"> doron2402
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#doron2402">Copy rank badge</a><br/>
 			Doron Segal
 		</td>
 		<td>Per Diem Inc </td>
@@ -3762,7 +3764,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tomerlichtash">
 				<img src="https://avatars.githubusercontent.com/u/75531?s=72&u=b48489981805d12e4bb198c3f4e5a97bec229b22&v=4" width="24" alt="Avatar of tomerlichtash"> tomerlichtash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tomerlichtash">Copy rank badge</a><br/>
 			Tomer Lichtash
 		</td>
 		<td>Descope </td>
@@ -3775,7 +3777,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kessler">
 				<img src="https://avatars.githubusercontent.com/u/147367?s=72&u=77d732d1493f96a3b287c248bc5319cc758582b9&v=4" width="24" alt="Avatar of kessler"> kessler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kessler">Copy rank badge</a><br/>
 			Yaniv Kessler
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/liady">
 				<img src="https://avatars.githubusercontent.com/u/7003853?s=72&u=04d1cd1a8fb480408cfb7931c93dcf17815ac549&v=4" width="24" alt="Avatar of liady"> liady
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#liady">Copy rank badge</a><br/>
 			Liad Yosef
 		</td>
 		<td>Shopify </td>
@@ -3801,7 +3803,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eranelbaz">
 				<img src="https://avatars.githubusercontent.com/u/29000470?s=72&u=4d9672c6afd2f522e16deaee50f2e872fe2a1cb9&v=4" width="24" alt="Avatar of eranelbaz"> eranelbaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eranelbaz">Copy rank badge</a><br/>
 			Elbaz
 		</td>
 		<td>Limy </td>
@@ -3814,7 +3816,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rafaeldtinoco">
 				<img src="https://avatars.githubusercontent.com/u/7395852?s=72&u=ef45757430f0a951aecd70f7da453c0b010b5817&v=4" width="24" alt="Avatar of rafaeldtinoco"> rafaeldtinoco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rafaeldtinoco">Copy rank badge</a><br/>
 			Rafael David Tinoco
 		</td>
 		<td>Miggo Security </td>
@@ -3827,7 +3829,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/lizozom">
 				<img src="https://avatars.githubusercontent.com/u/3016806?s=72&u=8c0a71ba9d0cba0d62588f210faf38470bebed75&v=4" width="24" alt="Avatar of lizozom"> lizozom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#lizozom">Copy rank badge</a><br/>
 			Liza Katz
 		</td>
 		<td>@lizozom  </td>
@@ -3840,7 +3842,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tinyopsec">
 				<img src="https://avatars.githubusercontent.com/u/230452255?s=72&u=84ece36689448db207c5e77eb3d2ed5561738456&v=4" width="24" alt="Avatar of tinyopsec"> tinyopsec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tinyopsec">Copy rank badge</a><br/>
 			Tiny
 		</td>
 		<td>Nso Group </td>
@@ -3853,7 +3855,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guyca">
 				<img src="https://avatars.githubusercontent.com/u/12352397?s=72&u=5677d7a49889a8854e585fb7da107f69136410ff&v=4" width="24" alt="Avatar of guyca"> guyca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guyca">Copy rank badge</a><br/>
 			Guy Carmeli
 		</td>
 		<td>@wix </td>
@@ -3866,7 +3868,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Giladx">
 				<img src="https://avatars.githubusercontent.com/u/2099419?s=72&u=22e1d9633c7c97b77d67db8d50b16df018cd4caf&v=4" width="24" alt="Avatar of Giladx"> Giladx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Giladx">Copy rank badge</a><br/>
 			Gilad Levi
 		</td>
 		<td>@bytii_cloud </td>
@@ -3879,7 +3881,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LIJI32">
 				<img src="https://avatars.githubusercontent.com/u/2345928?s=72&u=76a7722067a07dafc53b7011615f28cdca0693e2&v=4" width="24" alt="Avatar of LIJI32"> LIJI32
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LIJI32">Copy rank badge</a><br/>
 			Lior Halphon
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itayB">
 				<img src="https://avatars.githubusercontent.com/u/457191?s=72&v=4" width="24" alt="Avatar of itayB"> itayB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itayB">Copy rank badge</a><br/>
 			Itay
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/pgilad">
 				<img src="https://avatars.githubusercontent.com/u/4533329?s=72&u=95cbf2aecb4d4aff087ade5fcec2bf100c56aeb8&v=4" width="24" alt="Avatar of pgilad"> pgilad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#pgilad">Copy rank badge</a><br/>
 			Gilad Peleg
 		</td>
 		<td>Walmart </td>
@@ -3918,7 +3920,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/efij">
 				<img src="https://avatars.githubusercontent.com/u/175655?s=72&v=4" width="24" alt="Avatar of efij"> efij
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#efij">Copy rank badge</a><br/>
 			Efi Jeremiah
 		</td>
 		<td>@nextsecurity @layer8  </td>
@@ -3931,7 +3933,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YarivGilad">
 				<img src="https://avatars.githubusercontent.com/u/2492303?s=72&u=7edf60fce59e48ca02c3284b0f60bd548bc9ff2f&v=4" width="24" alt="Avatar of YarivGilad"> YarivGilad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YarivGilad">Copy rank badge</a><br/>
 			Yariv Gilad
 		</td>
 		<td>No Company</td>
@@ -3944,7 +3946,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yotamofek">
 				<img src="https://avatars.githubusercontent.com/u/1835307?s=72&u=172b4e621288eec089626a5197ad104559ba6ccc&v=4" width="24" alt="Avatar of yotamofek"> yotamofek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yotamofek">Copy rank badge</a><br/>
 			Yotam Ofek
 		</td>
 		<td>No Company</td>
@@ -3957,7 +3959,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nofaralfasi">
 				<img src="https://avatars.githubusercontent.com/u/38184193?s=72&u=1c83298524c0559f331a912e2487d839504405e9&v=4" width="24" alt="Avatar of nofaralfasi"> nofaralfasi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nofaralfasi">Copy rank badge</a><br/>
 			Nofar
 		</td>
 		<td>Red Hat </td>
@@ -3970,7 +3972,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/antweiss">
 				<img src="https://avatars.githubusercontent.com/u/3274734?s=72&v=4" width="24" alt="Avatar of antweiss"> antweiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#antweiss">Copy rank badge</a><br/>
 			Ant Weiss
 		</td>
 		<td>Stagecentral </td>
@@ -3983,7 +3985,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/moshfeu">
 				<img src="https://avatars.githubusercontent.com/u/3723951?s=72&u=829bb097eab44c4d9df58d909d67a7be5584bf7f&v=4" width="24" alt="Avatar of moshfeu"> moshfeu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#moshfeu">Copy rank badge</a><br/>
 			Mosh Feu
 		</td>
 		<td>@wix </td>
@@ -3996,7 +3998,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vd2org">
 				<img src="https://avatars.githubusercontent.com/u/33198864?s=72&u=36afbfa97391566223327c4adf8cd95a49637910&v=4" width="24" alt="Avatar of vd2org"> vd2org
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vd2org">Copy rank badge</a><br/>
 			Ivan
 		</td>
 		<td>No Company</td>
@@ -4009,7 +4011,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GalPerelman">
 				<img src="https://avatars.githubusercontent.com/u/53649764?s=72&u=9bfb473379c1b1c1b373b78260f2303e84f92af2&v=4" width="24" alt="Avatar of GalPerelman"> GalPerelman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GalPerelman">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mikaww1">
 				<img src="https://avatars.githubusercontent.com/u/128849559?s=72&u=966e9201cbae4eea6cdcdfca630bc2fde8c5df08&v=4" width="24" alt="Avatar of mikaww1"> mikaww1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mikaww1">Copy rank badge</a><br/>
 			Mika Brill
 		</td>
 		<td>No Company</td>
@@ -4035,7 +4037,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shem8">
 				<img src="https://avatars.githubusercontent.com/u/1804881?s=72&u=785c1215d7cc7130338af0becd841822f04878d3&v=4" width="24" alt="Avatar of shem8"> shem8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shem8">Copy rank badge</a><br/>
 			Shem
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MatanBobi">
 				<img src="https://avatars.githubusercontent.com/u/12711091?s=72&u=e14c54bc02e624d3abfe6af967f2530c1e946dd2&v=4" width="24" alt="Avatar of MatanBobi"> MatanBobi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MatanBobi">Copy rank badge</a><br/>
 			Matan Borenkraout
 		</td>
 		<td>Microsoft </td>
@@ -4061,7 +4063,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/naomifridman">
 				<img src="https://avatars.githubusercontent.com/u/16698973?s=72&v=4" width="24" alt="Avatar of naomifridman"> naomifridman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#naomifridman">Copy rank badge</a><br/>
 			naomi fridman
 		</td>
 		<td>Senior Ai Algorithm Developer<br/>With<br/>Expertise<br/>In<br/>Deep<br/>Learning<br/>And<br/>Machine<br/>Learning<br/>Education:<br/>Msc<br/>Applied<br/>Mathematics<br/>(technion),<br/>Bsc<br/>Math/philosophy/cs<br/>(tel<br/>Aviv<br/>University)<br/></td>
@@ -4074,7 +4076,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladb">
 				<img src="https://avatars.githubusercontent.com/u/598796?s=72&u=ad1d233848d802014d929128b9629a36f5a22299&v=4" width="24" alt="Avatar of eladb"> eladb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladb">Copy rank badge</a><br/>
 			Elad Ben-Israel
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/algonell">
 				<img src="https://avatars.githubusercontent.com/u/4669001?s=72&v=4" width="24" alt="Avatar of algonell"> algonell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#algonell">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Algonell </td>
@@ -4100,7 +4102,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nitayneeman">
 				<img src="https://avatars.githubusercontent.com/u/7141972?s=72&u=cbaf16b87c523154745b8b5d3bfc06ec5783f43a&v=4" width="24" alt="Avatar of nitayneeman"> nitayneeman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nitayneeman">Copy rank badge</a><br/>
 			Nitay Neeman
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arielb1">
 				<img src="https://avatars.githubusercontent.com/u/1830974?s=72&v=4" width="24" alt="Avatar of arielb1"> arielb1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arielb1">Copy rank badge</a><br/>
 			Ariel Ben-Yehuda
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kaminskypavel">
 				<img src="https://avatars.githubusercontent.com/u/4253088?s=72&u=1578331c2dcd227580df79d7d641a5a13f716af5&v=4" width="24" alt="Avatar of kaminskypavel"> kaminskypavel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kaminskypavel">Copy rank badge</a><br/>
 			Pavel 'PK' Kaminsky
 		</td>
 		<td>No Company</td>
@@ -4139,7 +4141,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ormizj">
 				<img src="https://avatars.githubusercontent.com/u/81110074?s=72&u=3e130628a357a405ff7af7165173b627ca41d832&v=4" width="24" alt="Avatar of ormizj"> ormizj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ormizj">Copy rank badge</a><br/>
 			Or Mizrahi
 		</td>
 		<td>Coperato </td>
@@ -4152,7 +4154,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Nurdok">
 				<img src="https://avatars.githubusercontent.com/u/80665?s=72&u=1172e1e699c6ce7daa2a003fdadbe5e2362453c8&v=4" width="24" alt="Avatar of Nurdok"> Nurdok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Nurdok">Copy rank badge</a><br/>
 			Amir Rachum
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/freak4pc">
 				<img src="https://avatars.githubusercontent.com/u/605076?s=72&u=9c935d2bd62cb0260739e62bb36716ecbed5d3aa&v=4" width="24" alt="Avatar of freak4pc"> freak4pc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#freak4pc">Copy rank badge</a><br/>
 			Shai Mishali
 		</td>
 		<td>Riverside </td>
@@ -4178,7 +4180,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/lmilbaum">
 				<img src="https://avatars.githubusercontent.com/u/7271026?s=72&u=fa2cec48883370da0d133909865483c9b65f8c53&v=4" width="24" alt="Avatar of lmilbaum"> lmilbaum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#lmilbaum">Copy rank badge</a><br/>
 			Liora Milbaum
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/avishayil">
 				<img src="https://avatars.githubusercontent.com/u/827024?s=72&u=4d7b276b4025cf118332aba8e21f9e4c0f84af4e&v=4" width="24" alt="Avatar of avishayil"> avishayil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#avishayil">Copy rank badge</a><br/>
 			Avishay Bar
 		</td>
 		<td>@cyberark   </td>
@@ -4204,7 +4206,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Polymath-Kaila">
 				<img src="https://avatars.githubusercontent.com/u/213285939?s=72&v=4" width="24" alt="Avatar of Polymath-Kaila"> Polymath-Kaila
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Polymath-Kaila">Copy rank badge</a><br/>
 			grafite
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/EladBezalel">
 				<img src="https://avatars.githubusercontent.com/u/6004537?s=72&u=dc938d7adcb090df1141dee42e87e26bcd40e1a5&v=4" width="24" alt="Avatar of EladBezalel"> EladBezalel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#EladBezalel">Copy rank badge</a><br/>
 			Elad Bezalel
 		</td>
 		<td>@lemonade-hq </td>
@@ -4230,7 +4232,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guy-4444">
 				<img src="https://avatars.githubusercontent.com/u/35038142?s=72&u=4553eaa7c1bd58a3310817e9397d3394a3aaca5c&v=4" width="24" alt="Avatar of guy-4444"> guy-4444
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guy-4444">Copy rank badge</a><br/>
 			Guy
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Isan-Rivkin">
 				<img src="https://avatars.githubusercontent.com/u/22504565?s=72&u=533b4db7671e6043e55827aec942b9bd1fcb67f3&v=4" width="24" alt="Avatar of Isan-Rivkin"> Isan-Rivkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Isan-Rivkin">Copy rank badge</a><br/>
 			isan_rivkin
 		</td>
 		<td>@nvidia </td>
@@ -4256,7 +4258,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/somdoron">
 				<img src="https://avatars.githubusercontent.com/u/2715638?s=72&u=a4728a87529f49dcf6f8364231373707c7c17975&v=4" width="24" alt="Avatar of somdoron"> somdoron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#somdoron">Copy rank badge</a><br/>
 			Doron Somech
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rotemtam">
 				<img src="https://avatars.githubusercontent.com/u/1522681?s=72&u=c4563709ad9cd94e291ff3ad097d1478dfb0b8fb&v=4" width="24" alt="Avatar of rotemtam"> rotemtam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rotemtam">Copy rank badge</a><br/>
 			Rotem Tamir
 		</td>
 		<td>Honeybadge.co </td>
@@ -4282,7 +4284,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alex-ilgayev">
 				<img src="https://avatars.githubusercontent.com/u/23579644?s=72&u=c251b6af347149868df1827f4bff23e216b610ee&v=4" width="24" alt="Avatar of alex-ilgayev"> alex-ilgayev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alex-ilgayev">Copy rank badge</a><br/>
 			Alex Ilgayev
 		</td>
 		<td>Cycode </td>
@@ -4295,7 +4297,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/liorbenhorin">
 				<img src="https://avatars.githubusercontent.com/u/18227469?s=72&u=d6a2609ec51a4fecb10fc481e62da816793e5ae3&v=4" width="24" alt="Avatar of liorbenhorin"> liorbenhorin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#liorbenhorin">Copy rank badge</a><br/>
 			Lior Ben Horin
 		</td>
 		<td>Nvidia </td>
@@ -4308,7 +4310,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yosit">
 				<img src="https://avatars.githubusercontent.com/u/123805?s=72&u=c0990a7789b062adf98c883d61b724ee24b1521b&v=4" width="24" alt="Avatar of yosit"> yosit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yosit">Copy rank badge</a><br/>
 			Yosi Taguri
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Yinon-bar">
 				<img src="https://avatars.githubusercontent.com/u/63056754?s=72&u=e096c73f5163ad7df70e6b9483c92871fe942da4&v=4" width="24" alt="Avatar of Yinon-bar"> Yinon-bar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Yinon-bar">Copy rank badge</a><br/>
 			Yinon Bar
 		</td>
 		<td>No Company</td>
@@ -4334,7 +4336,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elongl">
 				<img src="https://avatars.githubusercontent.com/u/30181361?s=72&u=d36a4b78b207347a1f941fb4f75760f6aaf2b732&v=4" width="24" alt="Avatar of elongl"> elongl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elongl">Copy rank badge</a><br/>
 			Elon Gliksberg
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itaysk">
 				<img src="https://avatars.githubusercontent.com/u/1161307?s=72&u=40e4ed311e730b05436920e7875c25b6cd06d8b0&v=4" width="24" alt="Avatar of itaysk"> itaysk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itaysk">Copy rank badge</a><br/>
 			Itay Shakury
 		</td>
 		<td>No Company</td>
@@ -4360,7 +4362,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/stavalfi">
 				<img src="https://avatars.githubusercontent.com/u/12954665?s=72&u=1ae991b6dd986787412e1a6700b8bb0649c81f55&v=4" width="24" alt="Avatar of stavalfi"> stavalfi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#stavalfi">Copy rank badge</a><br/>
 			Stav Alfi
 		</td>
 		<td>Developer Experience Engineer @papayagaming<br/></td>
@@ -4373,7 +4375,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gabime">
 				<img src="https://avatars.githubusercontent.com/u/6052198?s=72&u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4" width="24" alt="Avatar of gabime"> gabime
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gabime">Copy rank badge</a><br/>
 			Gabi Melman
 		</td>
 		<td>No Company</td>
@@ -4386,7 +4388,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ahopkins">
 				<img src="https://avatars.githubusercontent.com/u/166269?s=72&u=b4ac884690889814453089ccd46ec20c00a91e7c&v=4" width="24" alt="Avatar of ahopkins"> ahopkins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ahopkins">Copy rank badge</a><br/>
 			Adam Hopkins
 		</td>
 		<td>@centurylink  </td>
@@ -4399,7 +4401,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eitansela">
 				<img src="https://avatars.githubusercontent.com/u/17834630?s=72&u=e774db59ff2c9e62218106b58a84f1bd2d3eda99&v=4" width="24" alt="Avatar of eitansela"> eitansela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eitansela">Copy rank badge</a><br/>
 			Eitan Sela
 		</td>
 		<td>Aws </td>
@@ -4412,7 +4414,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rosenpin">
 				<img src="https://avatars.githubusercontent.com/u/5289630?s=72&u=706d84079a838742427d3c4adfa849684fed9d3b&v=4" width="24" alt="Avatar of rosenpin"> rosenpin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rosenpin">Copy rank badge</a><br/>
 			Tomer Rosenfeld
 		</td>
 		<td>No Company</td>
@@ -4425,7 +4427,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/electricmonk">
 				<img src="https://avatars.githubusercontent.com/u/912517?s=72&v=4" width="24" alt="Avatar of electricmonk"> electricmonk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#electricmonk">Copy rank badge</a><br/>
 			Shai Yallin
 		</td>
 		<td>@orbs-network </td>
@@ -4438,7 +4440,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/EwertonDaniel">
 				<img src="https://avatars.githubusercontent.com/u/42904786?s=72&v=4" width="24" alt="Avatar of EwertonDaniel"> EwertonDaniel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#EwertonDaniel">Copy rank badge</a><br/>
 			Ewerton Daniel
 		</td>
 		<td>Lda </td>
@@ -4451,7 +4453,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yoavbls">
 				<img src="https://avatars.githubusercontent.com/u/5693018?s=72&u=42c3ca96628569ce03478b0c1bf8c525fda9086f&v=4" width="24" alt="Avatar of yoavbls"> yoavbls
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yoavbls">Copy rank badge</a><br/>
 			Yoav Balasiano
 		</td>
 		<td>@wiz-sec  </td>
@@ -4464,7 +4466,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/KesemSharabi">
 				<img src="https://avatars.githubusercontent.com/u/54834915?s=72&u=4a8dbc15ccb81a727777c8e5092e61c776b4a83c&v=4" width="24" alt="Avatar of KesemSharabi"> KesemSharabi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#KesemSharabi">Copy rank badge</a><br/>
 			Kesem Sharabi
 		</td>
 		<td>Microsoft </td>
@@ -4477,7 +4479,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/maticrivo">
 				<img src="https://avatars.githubusercontent.com/u/21134?s=72&u=66981974d84b38d094a6bee3e04441c7a9d9c80a&v=4" width="24" alt="Avatar of maticrivo"> maticrivo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#maticrivo">Copy rank badge</a><br/>
 			Matias Crivolotti
 		</td>
 		<td>@paypal </td>
@@ -4490,7 +4492,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/matipojo">
 				<img src="https://avatars.githubusercontent.com/u/21468434?s=72&u=9eca6ecc5c03ff156a51f556dcd96f38178049f0&v=4" width="24" alt="Avatar of matipojo"> matipojo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#matipojo">Copy rank badge</a><br/>
 			Mati Horowitz
 		</td>
 		<td>@elementor  </td>
@@ -4503,7 +4505,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/offer-shmuely">
 				<img src="https://avatars.githubusercontent.com/u/7026911?s=72&u=dfc6dbd1c6fc6dfc2630974047c581abf4b57243&v=4" width="24" alt="Avatar of offer-shmuely"> offer-shmuely
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#offer-shmuely">Copy rank badge</a><br/>
 			Offer Shmuely
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/borisf">
 				<img src="https://avatars.githubusercontent.com/u/747680?s=72&u=5baa0b1d6986981b56312c3b3ff7f0d2066b4487&v=4" width="24" alt="Avatar of borisf"> borisf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#borisf">Copy rank badge</a><br/>
 			Boris Farber
 		</td>
 		<td>@google  </td>
@@ -4529,7 +4531,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TheSnowGuru">
 				<img src="https://avatars.githubusercontent.com/u/5313475?s=72&u=2755050fca6989917680faf51408eb19602f7a0b&v=4" width="24" alt="Avatar of TheSnowGuru"> TheSnowGuru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TheSnowGuru">Copy rank badge</a><br/>
 			Shay Ronen
 		</td>
 		<td>Offpista Ltd </td>
@@ -4542,7 +4544,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Roipo">
 				<img src="https://avatars.githubusercontent.com/u/14091463?s=72&v=4" width="24" alt="Avatar of Roipo"> Roipo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Roipo">Copy rank badge</a><br/>
 			Roi Poranne
 		</td>
 		<td>University Of Haifa </td>
@@ -4555,7 +4557,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/System64fumo">
 				<img src="https://avatars.githubusercontent.com/u/72354122?s=72&u=083f025695ad12a9861244910b097b5af97da9d5&v=4" width="24" alt="Avatar of System64fumo"> System64fumo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#System64fumo">Copy rank badge</a><br/>
 			System64
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/joshuarubin">
 				<img src="https://avatars.githubusercontent.com/u/194275?s=72&u=ceb70dec37d83f57aeefe9c49e7f62a118cb09c9&v=4" width="24" alt="Avatar of joshuarubin"> joshuarubin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#joshuarubin">Copy rank badge</a><br/>
 			Joshua Rubin
 		</td>
 		<td>@poolsideai  </td>
@@ -4581,7 +4583,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orius123">
 				<img src="https://avatars.githubusercontent.com/u/4418018?s=72&u=698f87c4851f86a6a11047e7e82a13aeecd3f35c&v=4" width="24" alt="Avatar of orius123"> orius123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orius123">Copy rank badge</a><br/>
 			Eliya Sadan
 		</td>
 		<td>@descope </td>
@@ -4594,7 +4596,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/danoszz">
 				<img src="https://avatars.githubusercontent.com/u/14123926?s=72&u=f4d9ba066c6023c0afaa4ec2fcca7ab2a4126065&v=4" width="24" alt="Avatar of danoszz"> danoszz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#danoszz">Copy rank badge</a><br/>
 			Daan
 		</td>
 		<td>No Company</td>
@@ -4607,7 +4609,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tsvi">
 				<img src="https://avatars.githubusercontent.com/u/1366384?s=72&v=4" width="24" alt="Avatar of tsvi"> tsvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tsvi">Copy rank badge</a><br/>
 			Tsvi Mostovicz
 		</td>
 		<td>No Company</td>
@@ -4620,7 +4622,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mureinik">
 				<img src="https://avatars.githubusercontent.com/u/4173849?s=72&u=781bcbbaae87e7bae4553cbd69a9076e00ebcd2e&v=4" width="24" alt="Avatar of mureinik"> mureinik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mureinik">Copy rank badge</a><br/>
 			Allon Mureinik
 		</td>
 		<td>Black Duck </td>
@@ -4633,7 +4635,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/roman-smirnov">
 				<img src="https://avatars.githubusercontent.com/u/11167081?s=72&u=dc67837d6f7714ac236cb30039462c982dd9e703&v=4" width="24" alt="Avatar of roman-smirnov"> roman-smirnov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#roman-smirnov">Copy rank badge</a><br/>
 			Roman Smirnov
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/cben">
 				<img src="https://avatars.githubusercontent.com/u/273688?s=72&v=4" width="24" alt="Avatar of cben"> cben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#cben">Copy rank badge</a><br/>
 			Beni Cherniavsky-Paskin
 		</td>
 		<td>No Company</td>
@@ -4659,7 +4661,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rotemreiss">
 				<img src="https://avatars.githubusercontent.com/u/9288082?s=72&u=f4e402c11e57ff011dd7f2ae1aeb7c0df2f86c7c&v=4" width="24" alt="Avatar of rotemreiss"> rotemreiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rotemreiss">Copy rank badge</a><br/>
 			Rotem Reiss
 		</td>
 		<td>No Company</td>
@@ -4672,7 +4674,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AnywhereSoftware">
 				<img src="https://avatars.githubusercontent.com/u/25172535?s=72&u=f1f7f170d63c454c4479a59f74674705eea95168&v=4" width="24" alt="Avatar of AnywhereSoftware"> AnywhereSoftware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AnywhereSoftware">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Anywhere Software </td>
@@ -4685,7 +4687,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/regevbr">
 				<img src="https://avatars.githubusercontent.com/u/5775519?s=72&u=0f2560766259407448072a333192987206919d36&v=4" width="24" alt="Avatar of regevbr"> regevbr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#regevbr">Copy rank badge</a><br/>
 			Regev Brody
 		</td>
 		<td>Pruvo </td>
@@ -4698,7 +4700,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ozelentok">
 				<img src="https://avatars.githubusercontent.com/u/1478966?s=72&u=c997d9ef9489ea688d5a13f41d0793a04338016c&v=4" width="24" alt="Avatar of ozelentok"> ozelentok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ozelentok">Copy rank badge</a><br/>
 			Oz Elentok
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alonisser">
 				<img src="https://avatars.githubusercontent.com/u/1434992?s=72&v=4" width="24" alt="Avatar of alonisser"> alonisser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alonisser">Copy rank badge</a><br/>
 			Alonisser
 		</td>
 		<td>No Company</td>
@@ -4724,7 +4726,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oryband">
 				<img src="https://avatars.githubusercontent.com/u/115387?s=72&u=df4838e296ff237cb25bb7710b57fe3d0df1a361&v=4" width="24" alt="Avatar of oryband"> oryband
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oryband">Copy rank badge</a><br/>
 			Ory Band
 		</td>
 		<td>Monday.com </td>
@@ -4737,7 +4739,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/artemdemo">
 				<img src="https://avatars.githubusercontent.com/u/5621750?s=72&u=c319ef86bd3dff439cc65c0db4fd180bcb558e18&v=4" width="24" alt="Avatar of artemdemo"> artemdemo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#artemdemo">Copy rank badge</a><br/>
 			Artem Demo
 		</td>
 		<td>@wix </td>
@@ -4750,7 +4752,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YonLiud">
 				<img src="https://avatars.githubusercontent.com/u/45634836?s=72&u=3bfbe30d6a571ac547dfb410cad80ac20422fd8c&v=4" width="24" alt="Avatar of YonLiud"> YonLiud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YonLiud">Copy rank badge</a><br/>
 			Mark
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orarbel">
 				<img src="https://avatars.githubusercontent.com/u/708153?s=72&v=4" width="24" alt="Avatar of orarbel"> orarbel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orarbel">Copy rank badge</a><br/>
 			Or Arbel
 		</td>
 		<td>Toffu Ai </td>
@@ -4776,7 +4778,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/KingYes">
 				<img src="https://avatars.githubusercontent.com/u/902548?s=72&u=e1b90225957132e47e3157dfe31e21763252e818&v=4" width="24" alt="Avatar of KingYes"> KingYes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#KingYes">Copy rank badge</a><br/>
 			Yakir Sitbon
 		</td>
 		<td>Elementor.com By @elementor <br/></td>
@@ -4789,7 +4791,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Aminadav">
 				<img src="https://avatars.githubusercontent.com/u/3584317?s=72&u=1fa10a9f8a8ddc0f3c857200b0760c022cc91774&v=4" width="24" alt="Avatar of Aminadav"> Aminadav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Aminadav">Copy rank badge</a><br/>
 			Aminadav Glickshtein
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gregra81">
 				<img src="https://avatars.githubusercontent.com/u/3256420?s=72&u=c06d43d5ab7b70fa1210dbdf60ba7a5346023013&v=4" width="24" alt="Avatar of gregra81"> gregra81
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gregra81">Copy rank badge</a><br/>
 			Greg Rashkevitch
 		</td>
 		<td>Monday.com </td>
@@ -4815,7 +4817,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ofekashery">
 				<img src="https://avatars.githubusercontent.com/u/16443111?s=72&u=f55243004aac8092ef4e0c43adee369ce5049708&v=4" width="24" alt="Avatar of ofekashery"> ofekashery
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ofekashery">Copy rank badge</a><br/>
 			Ofek Ashery
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adrukh">
 				<img src="https://avatars.githubusercontent.com/u/1489979?s=72&u=e57436cb4a405d2bbbf9768e03206ade2f3da6f4&v=4" width="24" alt="Avatar of adrukh"> adrukh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adrukh">Copy rank badge</a><br/>
 			Anton Drukh
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vmalloc">
 				<img src="https://avatars.githubusercontent.com/u/28710?s=72&u=e0f0f4ff76fe12b6cdf909b6ec9a85b4a4f7ee9b&v=4" width="24" alt="Avatar of vmalloc"> vmalloc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vmalloc">Copy rank badge</a><br/>
 			Rotem Yaari
 		</td>
 		<td>No Company</td>
@@ -4854,7 +4856,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Schwartzblat">
 				<img src="https://avatars.githubusercontent.com/u/63599777?s=72&u=241d647ddbe2fdd5167d23b0fc76a9bd6f56e5f5&v=4" width="24" alt="Avatar of Schwartzblat"> Schwartzblat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Schwartzblat">Copy rank badge</a><br/>
 			Alon Schwartzblat
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NadavTasher">
 				<img src="https://avatars.githubusercontent.com/u/22955993?s=72&u=f2d21f33dfb8c1cb227b5c73d195bb9b231c2730&v=4" width="24" alt="Avatar of NadavTasher"> NadavTasher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NadavTasher">Copy rank badge</a><br/>
 			Nadav Tasher
 		</td>
 		<td>No Company</td>
@@ -4880,7 +4882,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oranagra">
 				<img src="https://avatars.githubusercontent.com/u/7045099?s=72&u=3a5c7a1aaee3f2bc536273a10e9caf3c78070e40&v=4" width="24" alt="Avatar of oranagra"> oranagra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oranagra">Copy rank badge</a><br/>
 			Oran Agra
 		</td>
 		<td>Redis Ltd. </td>
@@ -4893,7 +4895,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yanivefraim">
 				<img src="https://avatars.githubusercontent.com/u/1336186?s=72&u=bccb5aacd084e1d1203650e6643adb1be42a0cb4&v=4" width="24" alt="Avatar of yanivefraim"> yanivefraim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yanivefraim">Copy rank badge</a><br/>
 			Yaniv Efraim
 		</td>
 		<td>Wix </td>
@@ -4906,7 +4908,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hdk5">
 				<img src="https://avatars.githubusercontent.com/u/2550010?s=72&u=421fe7d0694bef192a397c0ee98b8ba9909a59de&v=4" width="24" alt="Avatar of hdk5"> hdk5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hdk5">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ReddCrow12">
 				<img src="https://avatars.githubusercontent.com/u/173953884?s=72&u=c407d220e462ad6c3e82a21e4718cd42afabd0aa&v=4" width="24" alt="Avatar of ReddCrow12"> ReddCrow12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ReddCrow12">Copy rank badge</a><br/>
 			Ziv Cohen | ReddCrow
 		</td>
 		<td>Rc Security </td>
@@ -4932,7 +4934,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gnudles">
 				<img src="https://avatars.githubusercontent.com/u/12647462?s=72&u=722db3359930c719745ab7bbc80d1c26093054ca&v=4" width="24" alt="Avatar of gnudles"> gnudles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gnudles">Copy rank badge</a><br/>
 			Kapandaria
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/5shekel">
 				<img src="https://avatars.githubusercontent.com/u/222526?s=72&u=4814388c3ea0722a014b433e0a7a1e2e303f5cd1&v=4" width="24" alt="Avatar of 5shekel"> 5shekel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#5shekel">Copy rank badge</a><br/>
 			yair
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/reuvenpo">
 				<img src="https://avatars.githubusercontent.com/u/35386347?s=72&u=1bece1a5e3097b7bccd840effa22e565bd0f9767&v=4" width="24" alt="Avatar of reuvenpo"> reuvenpo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#reuvenpo">Copy rank badge</a><br/>
 			Reuven Podmazo
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/whadar">
 				<img src="https://avatars.githubusercontent.com/u/922633?s=72&u=a0716551cee6e5e2c1d061696892389a9251fca1&v=4" width="24" alt="Avatar of whadar"> whadar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#whadar">Copy rank badge</a><br/>
 			Hadar Weiss
 		</td>
 		<td>Peer5 </td>
@@ -4984,7 +4986,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ykadosh">
 				<img src="https://avatars.githubusercontent.com/u/7763083?s=72&u=f007add03f54771a339e73f114da30baad198816&v=4" width="24" alt="Avatar of ykadosh"> ykadosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ykadosh">Copy rank badge</a><br/>
 			Yoav Kadosh
 		</td>
 		<td>Microsoft </td>
@@ -4997,7 +4999,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/goldbergyoni">
 				<img src="https://avatars.githubusercontent.com/u/8571500?s=72&u=03817cbb5afcffb9d822eb7a7c33b0254a1666b8&v=4" width="24" alt="Avatar of goldbergyoni"> goldbergyoni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#goldbergyoni">Copy rank badge</a><br/>
 			Yoni Goldberg
 		</td>
 		<td>Yoni Goldberg </td>
@@ -5010,7 +5012,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DeanLa">
 				<img src="https://avatars.githubusercontent.com/u/7852981?s=72&u=475dfb98b3f98d99302d529ec43de6df29705068&v=4" width="24" alt="Avatar of DeanLa"> DeanLa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DeanLa">Copy rank badge</a><br/>
 			Dean Langsam
 		</td>
 		<td>@sentinel-one </td>
@@ -5023,7 +5025,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GalRogozinski">
 				<img src="https://avatars.githubusercontent.com/u/7954839?s=72&u=6a6416ca9769e7ef6e642a9d8fc6844370c73e87&v=4" width="24" alt="Avatar of GalRogozinski"> GalRogozinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GalRogozinski">Copy rank badge</a><br/>
 			Gal Rogozinski
 		</td>
 		<td>Ssv.labs </td>
@@ -5036,7 +5038,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/radiantspace">
 				<img src="https://avatars.githubusercontent.com/u/8243681?s=72&u=64cc9414f4ce713abfed3bf8516ed8a0027a545b&v=4" width="24" alt="Avatar of radiantspace"> radiantspace
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#radiantspace">Copy rank badge</a><br/>
 			Yury Nevalenny
 		</td>
 		<td>Github </td>
@@ -5049,7 +5051,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jacobra19">
 				<img src="https://avatars.githubusercontent.com/u/24259837?s=72&u=5255393c3bb4ba6f67e3f2abcafe25c4712d9aeb&v=4" width="24" alt="Avatar of jacobra19"> jacobra19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jacobra19">Copy rank badge</a><br/>
 			Yakov Rakhamimov
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/johananl">
 				<img src="https://avatars.githubusercontent.com/u/14969425?s=72&u=40c13a3fe4886c0c8a9a4a53531de8c0753f1e2f&v=4" width="24" alt="Avatar of johananl"> johananl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#johananl">Copy rank badge</a><br/>
 			Johanan Liebermann
 		</td>
 		<td>@microsoft </td>
@@ -5075,7 +5077,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/abutbul">
 				<img src="https://avatars.githubusercontent.com/u/537154?s=72&v=4" width="24" alt="Avatar of abutbul"> abutbul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#abutbul">Copy rank badge</a><br/>
 			David Abutbul
 		</td>
 		<td>No Company</td>
@@ -5088,7 +5090,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/pauljacobson">
 				<img src="https://avatars.githubusercontent.com/u/2912202?s=72&v=4" width="24" alt="Avatar of pauljacobson"> pauljacobson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#pauljacobson">Copy rank badge</a><br/>
 			Paul Jacobson
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dov">
 				<img src="https://avatars.githubusercontent.com/u/338235?s=72&v=4" width="24" alt="Avatar of dov"> dov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dov">Copy rank badge</a><br/>
 			Dov Grobgeld
 		</td>
 		<td>No Company</td>
@@ -5114,7 +5116,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Tudmotu">
 				<img src="https://avatars.githubusercontent.com/u/506487?s=72&u=0db18b07951c62a11ba60f0c9db34c43c7940857&v=4" width="24" alt="Avatar of Tudmotu"> Tudmotu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Tudmotu">Copy rank badge</a><br/>
 			Yotam Bar-On
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LeonGurin">
 				<img src="https://avatars.githubusercontent.com/u/77920085?s=72&u=80113301a59a230e728ef13ae66bf08154a886ca&v=4" width="24" alt="Avatar of LeonGurin"> LeonGurin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LeonGurin">Copy rank badge</a><br/>
 			Leon Gurin
 		</td>
 		<td>Network Security Engineer </td>
@@ -5140,7 +5142,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adamkleingit">
 				<img src="https://avatars.githubusercontent.com/u/889418?s=72&v=4" width="24" alt="Avatar of adamkleingit"> adamkleingit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adamkleingit">Copy rank badge</a><br/>
 			Adam Klein
 		</td>
 		<td>Snappy </td>
@@ -5153,7 +5155,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yamtimor">
 				<img src="https://avatars.githubusercontent.com/u/49497298?s=72&u=d99efddd3f08cbc54f6095b92a56c26dc00d0bee&v=4" width="24" alt="Avatar of yamtimor"> yamtimor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yamtimor">Copy rank badge</a><br/>
 			Yam Timor
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/benjamingr">
 				<img src="https://avatars.githubusercontent.com/u/1315533?s=72&v=4" width="24" alt="Avatar of benjamingr"> benjamingr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#benjamingr">Copy rank badge</a><br/>
 			Benjamin Gruenbaum
 		</td>
 		<td>@eon-io  </td>
@@ -5179,7 +5181,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YaakovHatam">
 				<img src="https://avatars.githubusercontent.com/u/6986221?s=72&u=32ebd075e60a2ce730aea280ca23e2fb732130dc&v=4" width="24" alt="Avatar of YaakovHatam"> YaakovHatam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YaakovHatam">Copy rank badge</a><br/>
 			Yaakov Hatam
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hagzag">
 				<img src="https://avatars.githubusercontent.com/u/194057?s=72&u=a67b84eb5ef5ac7c028ef0c6c289c00166560f6d&v=4" width="24" alt="Avatar of hagzag"> hagzag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hagzag">Copy rank badge</a><br/>
 			Haggai Philip Zagury
 		</td>
 		<td>Tikal Knowledge </td>
@@ -5205,7 +5207,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/almoggutin">
 				<img src="https://avatars.githubusercontent.com/u/94521475?s=72&u=49a6ef180b135c11a846046b1b38209b55a95a82&v=4" width="24" alt="Avatar of almoggutin"> almoggutin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#almoggutin">Copy rank badge</a><br/>
 			Almog Gutin
 		</td>
 		<td>@inpact </td>
@@ -5218,7 +5220,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IgorEisberg">
 				<img src="https://avatars.githubusercontent.com/u/8811086?s=72&u=00b734d16a6eb5bcacc95e5dc1f57cd56616dcf0&v=4" width="24" alt="Avatar of IgorEisberg"> IgorEisberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IgorEisberg">Copy rank badge</a><br/>
 			Igor Eisberg
 		</td>
 		<td>No Company</td>
@@ -5231,7 +5233,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Alonski">
 				<img src="https://avatars.githubusercontent.com/u/452199?s=72&u=aaa11b4b44f15a08a95c11b1ad027118589b19c1&v=4" width="24" alt="Avatar of Alonski"> Alonski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Alonski">Copy rank badge</a><br/>
 			Alon Bukai
 		</td>
 		<td>No Company</td>
@@ -5244,7 +5246,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MichalFog">
 				<img src="https://avatars.githubusercontent.com/u/194147579?s=72&u=2e22a99e4f8ac83f1b7dcd95b2efec03326e4a20&v=4" width="24" alt="Avatar of MichalFog"> MichalFog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MichalFog">Copy rank badge</a><br/>
 			Michal Fogel
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amantinband">
 				<img src="https://avatars.githubusercontent.com/u/39407673?s=72&u=de59556bddc49d624fa462318cbb57f289b5cbad&v=4" width="24" alt="Avatar of amantinband"> amantinband
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amantinband">Copy rank badge</a><br/>
 			Amichai Mantinband
 		</td>
 		<td>Brilliant </td>
@@ -5270,7 +5272,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ohadschn">
 				<img src="https://avatars.githubusercontent.com/u/8555641?s=72&v=4" width="24" alt="Avatar of ohadschn"> ohadschn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ohadschn">Copy rank badge</a><br/>
 			Ohad Schneider
 		</td>
 		<td>Microsoft </td>
@@ -5283,7 +5285,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yoavst">
 				<img src="https://avatars.githubusercontent.com/u/3912269?s=72&u=876f49639aac2661d1ee686d3d9eb287e84f3a5f&v=4" width="24" alt="Avatar of yoavst"> yoavst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yoavst">Copy rank badge</a><br/>
 			Yoav Sternberg
 		</td>
 		<td>No Company</td>
@@ -5296,7 +5298,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/coypoop">
 				<img src="https://avatars.githubusercontent.com/u/14857674?s=72&u=cfc2f8a27adb0ae2b877bb15b318856ce53ea869&v=4" width="24" alt="Avatar of coypoop"> coypoop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#coypoop">Copy rank badge</a><br/>
 			Maya Campbell
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YonghuiDong">
 				<img src="https://avatars.githubusercontent.com/u/22663189?s=72&u=850a6ba1a5a29f38b920b0da7cd6c97603093447&v=4" width="24" alt="Avatar of YonghuiDong"> YonghuiDong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YonghuiDong">Copy rank badge</a><br/>
 			Dong
 		</td>
 		<td>Fafu </td>
@@ -5322,7 +5324,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Efrat19">
 				<img src="https://avatars.githubusercontent.com/u/41479945?s=72&u=40bc312708cb21d8e1913e121919918c31058784&v=4" width="24" alt="Avatar of Efrat19"> Efrat19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Efrat19">Copy rank badge</a><br/>
 			Efrat Levitan
 		</td>
 		<td>@confluentinc </td>
@@ -5335,7 +5337,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ntedgi">
 				<img src="https://avatars.githubusercontent.com/u/31243793?s=72&u=a395c76f91ecda0a32c31e06526b66284844e86c&v=4" width="24" alt="Avatar of ntedgi"> ntedgi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ntedgi">Copy rank badge</a><br/>
 			Naor Tedgi (Abu Emma)
 		</td>
 		<td>Palo Alto Networks </td>
@@ -5348,7 +5350,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/linoytsaban">
 				<img src="https://avatars.githubusercontent.com/u/57615435?s=72&u=d0ece2bfb54b90df4d7a5965a354db201f6911e8&v=4" width="24" alt="Avatar of linoytsaban"> linoytsaban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#linoytsaban">Copy rank badge</a><br/>
 			Linoy Tsaban
 		</td>
 		<td>@huggingface  </td>
@@ -5361,7 +5363,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/david-gang">
 				<img src="https://avatars.githubusercontent.com/u/1292882?s=72&u=8de409f3a37c8e33325de97c7bb0a1123f8a99ec&v=4" width="24" alt="Avatar of david-gang"> david-gang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#david-gang">Copy rank badge</a><br/>
 			David Gang
 		</td>
 		<td>Lightricks </td>
@@ -5374,7 +5376,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/v1t3ls0n">
 				<img src="https://avatars.githubusercontent.com/u/57068205?s=72&u=625a9df18a11d26788797265d812c7f0698e0d31&v=4" width="24" alt="Avatar of v1t3ls0n"> v1t3ls0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#v1t3ls0n">Copy rank badge</a><br/>
 			Guy Vitelson
 		</td>
 		<td>Guy Vitelson </td>
@@ -5387,7 +5389,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rommguy">
 				<img src="https://avatars.githubusercontent.com/u/3725593?s=72&u=8509c15ca8b5978a0fecf59df6aa502417b956bc&v=4" width="24" alt="Avatar of rommguy"> rommguy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rommguy">Copy rank badge</a><br/>
 			Guy Romm
 		</td>
 		<td>@melio </td>
@@ -5400,7 +5402,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dviraran">
 				<img src="https://avatars.githubusercontent.com/u/25491981?s=72&v=4" width="24" alt="Avatar of dviraran"> dviraran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dviraran">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Technion </td>
@@ -5413,7 +5415,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kuchin">
 				<img src="https://avatars.githubusercontent.com/u/87963?s=72&u=2a33b6d8a9cd6ebf4fc8e5de1a2b8b675e3222b3&v=4" width="24" alt="Avatar of kuchin"> kuchin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kuchin">Copy rank badge</a><br/>
 			Dima Kuchin
 		</td>
 		<td>No Company</td>
@@ -5426,7 +5428,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/danieldanilov">
 				<img src="https://avatars.githubusercontent.com/u/9830017?s=72&u=19f2f6a4ef8d04b1df1f8bd632f879e9ef5d60eb&v=4" width="24" alt="Avatar of danieldanilov"> danieldanilov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#danieldanilov">Copy rank badge</a><br/>
 			Daniel Danilov
 		</td>
 		<td>Posthog </td>
@@ -5439,7 +5441,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/greenblat">
 				<img src="https://avatars.githubusercontent.com/u/30899998?s=72&v=4" width="24" alt="Avatar of greenblat"> greenblat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#greenblat">Copy rank badge</a><br/>
 			Ilia
 		</td>
 		<td>Myself. </td>
@@ -5452,7 +5454,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arnoldrobbins">
 				<img src="https://avatars.githubusercontent.com/u/5863181?s=72&u=1098d989308bb80c8be0445e268b53c7b35bbe38&v=4" width="24" alt="Avatar of arnoldrobbins"> arnoldrobbins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arnoldrobbins">Copy rank badge</a><br/>
 			Arnold Robbins
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/thecodester">
 				<img src="https://avatars.githubusercontent.com/u/11659786?s=72&u=00a6935b8a6117f20abd06ec8139eedb193e8237&v=4" width="24" alt="Avatar of thecodester"> thecodester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#thecodester">Copy rank badge</a><br/>
 			Daniel Wroblewski
 		</td>
 		<td>Sap </td>
@@ -5478,7 +5480,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/PeterShershov">
 				<img src="https://avatars.githubusercontent.com/u/16524839?s=72&u=80eabafe28f2bb526bf065bf76bf9490ca223f4e&v=4" width="24" alt="Avatar of PeterShershov"> PeterShershov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#PeterShershov">Copy rank badge</a><br/>
 			Peter Shershov
 		</td>
 		<td>Dazl </td>
@@ -5491,7 +5493,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ymirsky">
 				<img src="https://avatars.githubusercontent.com/u/11553515?s=72&u=21ac3d46382733e7d1b84c12cb6815f1fd81c374&v=4" width="24" alt="Avatar of ymirsky"> ymirsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ymirsky">Copy rank badge</a><br/>
 			Yisroel Mirsky
 		</td>
 		<td>Ben-gurion University </td>
@@ -5504,7 +5506,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ssaroussi">
 				<img src="https://avatars.githubusercontent.com/u/19860280?s=72&u=68cfa5f9d617e234b5d8a99b0915825b70c039d7&v=4" width="24" alt="Avatar of ssaroussi"> ssaroussi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ssaroussi">Copy rank badge</a><br/>
 			Amit Saroussi
 		</td>
 		<td>Crowdr </td>
@@ -5517,7 +5519,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orenyomtov">
 				<img src="https://avatars.githubusercontent.com/u/168856?s=72&u=f4560aab097bd7b53e983b7caff65f7995d595c7&v=4" width="24" alt="Avatar of orenyomtov"> orenyomtov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orenyomtov">Copy rank badge</a><br/>
 			Oren
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vrumger">
 				<img src="https://avatars.githubusercontent.com/u/32808683?s=72&u=c770ae4816ce2e084965e01f25eab16541e77342&v=4" width="24" alt="Avatar of vrumger"> vrumger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vrumger">Copy rank badge</a><br/>
 			Avrumy
 		</td>
 		<td>@zetz-io </td>
@@ -5543,7 +5545,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yosiat">
 				<img src="https://avatars.githubusercontent.com/u/306253?s=72&u=30c49b7e79403a3ad1d27b8c7aeddcba0556c6dc&v=4" width="24" alt="Avatar of yosiat"> yosiat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yosiat">Copy rank badge</a><br/>
 			Yosi Attias
 		</td>
 		<td>@bringg  </td>
@@ -5556,7 +5558,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Scimonster">
 				<img src="https://avatars.githubusercontent.com/u/2826514?s=72&v=4" width="24" alt="Avatar of Scimonster"> Scimonster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Scimonster">Copy rank badge</a><br/>
 			Scimonster
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/edeng23">
 				<img src="https://avatars.githubusercontent.com/u/14821747?s=72&u=817ea585f2d470ce269a93091e75236e55fb3e31&v=4" width="24" alt="Avatar of edeng23"> edeng23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#edeng23">Copy rank badge</a><br/>
 			Eden Gaon
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LiorZ">
 				<img src="https://avatars.githubusercontent.com/u/1312830?s=72&u=fa1a790bb5e903fdb9c397aad22f5a021b54fe50&v=4" width="24" alt="Avatar of LiorZ"> LiorZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LiorZ">Copy rank badge</a><br/>
 			LiorZ
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/benmoshe">
 				<img src="https://avatars.githubusercontent.com/u/1771658?s=72&u=d83924f1830192550e0fa8400d3ceb01fe72cf2c&v=4" width="24" alt="Avatar of benmoshe"> benmoshe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#benmoshe">Copy rank badge</a><br/>
 			Boaz Benmoshe
 		</td>
 		<td>Ariel University </td>
@@ -5608,7 +5610,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/marikb">
 				<img src="https://avatars.githubusercontent.com/u/32127651?s=72&u=1e942e950a7d0f9ae3573c626b570256b194410f&v=4" width="24" alt="Avatar of marikb"> marikb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#marikb">Copy rank badge</a><br/>
 			Mariel (Marik) Borodkin
 		</td>
 		<td>Elbit Systems Ltd. </td>
@@ -5621,7 +5623,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amitayh">
 				<img src="https://avatars.githubusercontent.com/u/79721?s=72&v=4" width="24" alt="Avatar of amitayh"> amitayh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amitayh">Copy rank badge</a><br/>
 			Amitay Horwitz
 		</td>
 		<td>Google </td>
@@ -5634,7 +5636,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/abrahammurciano">
 				<img src="https://avatars.githubusercontent.com/u/25041135?s=72&v=4" width="24" alt="Avatar of abrahammurciano"> abrahammurciano
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#abrahammurciano">Copy rank badge</a><br/>
 			Abraham Murciano
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gilamran">
 				<img src="https://avatars.githubusercontent.com/u/1621965?s=72&u=03b51298b2817017aecf99e90a4cd72734646eee&v=4" width="24" alt="Avatar of gilamran"> gilamran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gilamran">Copy rank badge</a><br/>
 			Gil Amran
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ziniman">
 				<img src="https://avatars.githubusercontent.com/u/8765799?s=72&u=757a1f371053e85fd4b82f36cff016e19528f8eb&v=4" width="24" alt="Avatar of ziniman"> ziniman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ziniman">Copy rank badge</a><br/>
 			Boaz Ziniman
 		</td>
 		<td>No Company</td>
@@ -5673,7 +5675,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/svarogg">
 				<img src="https://avatars.githubusercontent.com/u/2129610?s=72&u=65131fff0ff3046eda0de8f908c305ce70431ec0&v=4" width="24" alt="Avatar of svarogg"> svarogg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#svarogg">Copy rank badge</a><br/>
 			Svarog
 		</td>
 		<td>Ayyeka </td>
@@ -5686,7 +5688,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MishaVyb">
 				<img src="https://avatars.githubusercontent.com/u/103563736?s=72&u=11cd8b1be37faf306c999b6dd6074e773e48aad4&v=4" width="24" alt="Avatar of MishaVyb"> MishaVyb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MishaVyb">Copy rank badge</a><br/>
 			Misha Vybornyi
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sagiegurari">
 				<img src="https://avatars.githubusercontent.com/u/8112599?s=72&u=cd04ea66f80e2c2f0ad1388e50ceb7c9745ada11&v=4" width="24" alt="Avatar of sagiegurari"> sagiegurari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sagiegurari">Copy rank badge</a><br/>
 			Sagie Gur-Ari
 		</td>
 		<td>Meta </td>
@@ -5712,7 +5714,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/skad0">
 				<img src="https://avatars.githubusercontent.com/u/974119?s=72&u=b3cdf48ee3acb4baab52aadb8ae6460138be155b&v=4" width="24" alt="Avatar of skad0"> skad0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#skad0">Copy rank badge</a><br/>
 			Anton Krichevskii
 		</td>
 		<td>@wix  </td>
@@ -5725,7 +5727,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/roman-shneer">
 				<img src="https://avatars.githubusercontent.com/u/313599?s=72&u=ef6d8d73001fca20a2855d891b9ee7b3f7fa10bf&v=4" width="24" alt="Avatar of roman-shneer"> roman-shneer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#roman-shneer">Copy rank badge</a><br/>
 			Roman Shneer
 		</td>
 		<td>Shneer Innovations </td>
@@ -5738,7 +5740,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NoamB">
 				<img src="https://avatars.githubusercontent.com/u/9786?s=72&u=1d185dba14555d3290f092328738976b9e6a799e&v=4" width="24" alt="Avatar of NoamB"> NoamB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NoamB">Copy rank badge</a><br/>
 			Noam Ben Ari
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/PavelRavvich">
 				<img src="https://avatars.githubusercontent.com/u/21992899?s=72&u=5d6b21516ce8b5f849b358f6ab4847a684b62416&v=4" width="24" alt="Avatar of PavelRavvich"> PavelRavvich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#PavelRavvich">Copy rank badge</a><br/>
 			Pavel Ravvich
 		</td>
 		<td>Aiomed </td>
@@ -5764,7 +5766,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RealA10N">
 				<img src="https://avatars.githubusercontent.com/u/23400213?s=72&u=da0a678d3bd73318503139fc918c97683d71bd62&v=4" width="24" alt="Avatar of RealA10N"> RealA10N
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RealA10N">Copy rank badge</a><br/>
 			Alon Krymgand
 		</td>
 		<td>~/ </td>
@@ -5777,7 +5779,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TomCo2210">
 				<img src="https://avatars.githubusercontent.com/u/17678722?s=72&u=7950444e0d42d014aa56f4bcff9b15a07d198f8c&v=4" width="24" alt="Avatar of TomCo2210"> TomCo2210
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TomCo2210">Copy rank badge</a><br/>
 			Tom Cohen
 		</td>
 		<td>Pi-crypto, Afeka - The<br/>Academic<br/>College<br/>Of<br/>Engineering<br/>In<br/>Tel<br/>Aviv<br/></td>
@@ -5790,7 +5792,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shootermv">
 				<img src="https://avatars.githubusercontent.com/u/1336862?s=72&u=8b0df08b876981fb46a6b210f6f88215c4377317&v=4" width="24" alt="Avatar of shootermv"> shootermv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shootermv">Copy rank badge</a><br/>
 			Moshe
 		</td>
 		<td>Home </td>
@@ -5803,7 +5805,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/cjmustard">
 				<img src="https://avatars.githubusercontent.com/u/80650734?s=72&u=0b24a11ef1f8b6d60662847149757c7b35350428&v=4" width="24" alt="Avatar of cjmustard"> cjmustard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#cjmustard">Copy rank badge</a><br/>
 			CJ
 		</td>
 		<td>Lumine Software Llc </td>
@@ -5816,7 +5818,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/EitanBlumin">
 				<img src="https://avatars.githubusercontent.com/u/30114607?s=72&u=a9587d0c015f51920d173ac4c64d0311185173fa&v=4" width="24" alt="Avatar of EitanBlumin"> EitanBlumin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#EitanBlumin">Copy rank badge</a><br/>
 			Eitan Blumin
 		</td>
 		<td>Madeira Data Solutions </td>
@@ -5829,7 +5831,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eliezergensburger">
 				<img src="https://avatars.githubusercontent.com/u/22365623?s=72&u=976bd8b41d1dd75195a49b96da01c34d2f2e3ef2&v=4" width="24" alt="Avatar of eliezergensburger"> eliezergensburger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eliezergensburger">Copy rank badge</a><br/>
 			Eliezer Gensburger
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/geymed">
 				<img src="https://avatars.githubusercontent.com/u/2660715?s=72&u=1c1dc960a8cb521829d8bc4d226402c198a7f091&v=4" width="24" alt="Avatar of geymed"> geymed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#geymed">Copy rank badge</a><br/>
 			Gilad Foyer
 		</td>
 		<td>Port.io </td>
@@ -5855,7 +5857,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/OrianHindi">
 				<img src="https://avatars.githubusercontent.com/u/58143750?s=72&v=4" width="24" alt="Avatar of OrianHindi"> OrianHindi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#OrianHindi">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5868,7 +5870,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idoros">
 				<img src="https://avatars.githubusercontent.com/u/574751?s=72&u=3280f2e1397380010c1e147cfee503bc5a8838c2&v=4" width="24" alt="Avatar of idoros"> idoros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idoros">Copy rank badge</a><br/>
 			Ido Rosenthal
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/namel">
 				<img src="https://avatars.githubusercontent.com/u/3702763?s=72&v=4" width="24" alt="Avatar of namel"> namel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#namel">Copy rank badge</a><br/>
 			Gary Weiss
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omerlh">
 				<img src="https://avatars.githubusercontent.com/u/6730584?s=72&u=73e093badcb3add810399941696da2732d60baae&v=4" width="24" alt="Avatar of omerlh"> omerlh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omerlh">Copy rank badge</a><br/>
 			Omer Levi Hevroni
 		</td>
 		<td>@goledge </td>
@@ -5907,7 +5909,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zeev-mindali">
 				<img src="https://avatars.githubusercontent.com/u/23069323?s=72&u=74c112fa885f1472b9b7c6b88e816591aa00b2a0&v=4" width="24" alt="Avatar of zeev-mindali"> zeev-mindali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zeev-mindali">Copy rank badge</a><br/>
 			zeev mindali
 		</td>
 		<td>Zeev Mindali </td>
@@ -5920,7 +5922,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TupleType">
 				<img src="https://avatars.githubusercontent.com/u/88270351?s=72&u=8a26c1b9e7ffae29c24ac8ecf1b59f02eba82fda&v=4" width="24" alt="Avatar of TupleType"> TupleType
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TupleType">Copy rank badge</a><br/>
 			Asi Greenholts
 		</td>
 		<td>@paloaltonetworks </td>
@@ -5933,7 +5935,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zadokdaniel">
 				<img src="https://avatars.githubusercontent.com/u/1358030?s=72&u=b5204dfed0e05cc0a020e0dfc1ff23493f609612&v=4" width="24" alt="Avatar of zadokdaniel"> zadokdaniel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zadokdaniel">Copy rank badge</a><br/>
 			Daniel Zadok
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tomerfiliba">
 				<img src="https://avatars.githubusercontent.com/u/53122?s=72&v=4" width="24" alt="Avatar of tomerfiliba"> tomerfiliba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tomerfiliba">Copy rank badge</a><br/>
 			Tomer Filiba
 		</td>
 		<td>Sweet Security </td>
@@ -5959,7 +5961,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Randl">
 				<img src="https://avatars.githubusercontent.com/u/3028543?s=72&u=5096311a70425e82c9b1a143d29ccd502c155a7f&v=4" width="24" alt="Avatar of Randl"> Randl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Randl">Copy rank badge</a><br/>
 			Evgenii Zheltonozhskii
 		</td>
 		<td>Technion </td>
@@ -5972,7 +5974,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/krakhit">
 				<img src="https://avatars.githubusercontent.com/u/61501745?s=72&u=9c148a890a0ebec3963aebc99bedf555ddbced16&v=4" width="24" alt="Avatar of krakhit"> krakhit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#krakhit">Copy rank badge</a><br/>
 			Karthik Inbasekar
 		</td>
 		<td>@ingonyama-zk @moonmath-ai  </td>
@@ -5985,7 +5987,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/borisd">
 				<img src="https://avatars.githubusercontent.com/u/168858?s=72&v=4" width="24" alt="Avatar of borisd"> borisd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#borisd">Copy rank badge</a><br/>
 			Boris Dinkevich
 		</td>
 		<td>500tech </td>
@@ -5998,7 +6000,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/michelhe">
 				<img src="https://avatars.githubusercontent.com/u/2903914?s=72&u=bb1e122e9efbf626aa978aac7e974039fb852644&v=4" width="24" alt="Avatar of michelhe"> michelhe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#michelhe">Copy rank badge</a><br/>
 			MichelOS
 		</td>
 		<td>No Company</td>
@@ -6011,7 +6013,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/qballer">
 				<img src="https://avatars.githubusercontent.com/u/1002622?s=72&u=0251074c458b3ec0aa281fc7707d2fef00c1de2a&v=4" width="24" alt="Avatar of qballer"> qballer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#qballer">Copy rank badge</a><br/>
 			Doron Tsur
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/OmriBarZik">
 				<img src="https://avatars.githubusercontent.com/u/16163470?s=72&v=4" width="24" alt="Avatar of OmriBarZik"> OmriBarZik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#OmriBarZik">Copy rank badge</a><br/>
 			Omri Bar-Zik
 		</td>
 		<td>Outbrain </td>
@@ -6037,7 +6039,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ilyagelman">
 				<img src="https://avatars.githubusercontent.com/u/139322?s=72&u=c07f428e3392dacc4809e46fe273fea8977a3c0b&v=4" width="24" alt="Avatar of ilyagelman"> ilyagelman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ilyagelman">Copy rank badge</a><br/>
 			Ilya Gelman
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexpulver">
 				<img src="https://avatars.githubusercontent.com/u/4362270?s=72&v=4" width="24" alt="Avatar of alexpulver"> alexpulver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexpulver">Copy rank badge</a><br/>
 			Alex Pulver
 		</td>
 		<td>Aws </td>
@@ -6063,7 +6065,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/darijavan">
 				<img src="https://avatars.githubusercontent.com/u/31767252?s=72&u=f8bff8ae4c4f7c189fbe9f595193e2badebe205b&v=4" width="24" alt="Avatar of darijavan"> darijavan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#darijavan">Copy rank badge</a><br/>
 			Hajanirina Ridjvan RANDRIANANDRAINA
 		</td>
 		<td>Baha'i World Centre </td>
@@ -6076,7 +6078,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hhaim">
 				<img src="https://avatars.githubusercontent.com/u/13034429?s=72&u=45d286e819a8fe5ce046f6002e5b69ed60ffab25&v=4" width="24" alt="Avatar of hhaim"> hhaim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hhaim">Copy rank badge</a><br/>
 			Hanoh Haim
 		</td>
 		<td>Cisco Systems Inc </td>
@@ -6089,7 +6091,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ShlomiRex">
 				<img src="https://avatars.githubusercontent.com/u/17744127?s=72&u=05d9fe9463b8042ea029bfd970b0aa20884d1af5&v=4" width="24" alt="Avatar of ShlomiRex"> ShlomiRex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ShlomiRex">Copy rank badge</a><br/>
 			Shlomi
 		</td>
 		<td>Meta </td>
@@ -6102,7 +6104,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MorDavid">
 				<img src="https://avatars.githubusercontent.com/u/24622066?s=72&u=8558361b80dd82989c73029ae061e73f78777fbd&v=4" width="24" alt="Avatar of MorDavid"> MorDavid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MorDavid">Copy rank badge</a><br/>
 			Mor David
 		</td>
 		<td>Cye </td>
@@ -6115,7 +6117,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MoriyaBitton">
 				<img src="https://avatars.githubusercontent.com/u/73881872?s=72&u=329d5f4d29089f0e44d6b47552f2380145520459&v=4" width="24" alt="Avatar of MoriyaBitton"> MoriyaBitton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MoriyaBitton">Copy rank badge</a><br/>
 			Moriya Bitton
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/obiwankenoobi">
 				<img src="https://avatars.githubusercontent.com/u/24577941?s=72&u=ac2db552caf1be8e81d428ce9d7a030c34057238&v=4" width="24" alt="Avatar of obiwankenoobi"> obiwankenoobi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#obiwankenoobi">Copy rank badge</a><br/>
 			Arty Shanko
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guyzyl">
 				<img src="https://avatars.githubusercontent.com/u/3015856?s=72&u=88155e6175ad1408ecab8742c1875fcaa3ca62cd&v=4" width="24" alt="Avatar of guyzyl"> guyzyl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guyzyl">Copy rank badge</a><br/>
 			Guy Zylberberg
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bissembert1618">
 				<img src="https://avatars.githubusercontent.com/u/34056189?s=72&u=4784e4d6cf0b3ab1d84793de18cd7f4c6a063866&v=4" width="24" alt="Avatar of bissembert1618"> bissembert1618
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bissembert1618">Copy rank badge</a><br/>
 			Beni Beeri Issembert
 		</td>
 		<td>@brahma.ai </td>
@@ -6167,7 +6169,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jacobgil">
 				<img src="https://avatars.githubusercontent.com/u/5342073?s=72&u=0eb94b8f5eab0f84cb741bc751c40c2bbf358473&v=4" width="24" alt="Avatar of jacobgil"> jacobgil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jacobgil">Copy rank badge</a><br/>
 			Jacob Gildenblat
 		</td>
 		<td>No Company</td>
@@ -6180,7 +6182,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kobizz">
 				<img src="https://avatars.githubusercontent.com/u/5265263?s=72&u=2a6b49c72ddb4e294d51683e4d7c89dd12c40e68&v=4" width="24" alt="Avatar of kobizz"> kobizz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kobizz">Copy rank badge</a><br/>
 			Kobi Zaltzberg
 		</td>
 		<td>@elementor </td>
@@ -6193,7 +6195,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guyluz11">
 				<img src="https://avatars.githubusercontent.com/u/9304740?s=72&u=79fb17a1013514322c778c444058291360c90c45&v=4" width="24" alt="Avatar of guyluz11"> guyluz11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guyluz11">Copy rank badge</a><br/>
 			Guy Luz
 		</td>
 		<td>@simple-hub-organiza </td>
@@ -6206,7 +6208,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/haron">
 				<img src="https://avatars.githubusercontent.com/u/73594?s=72&u=cc531b4c767c8a407562967852830889649e9b1d&v=4" width="24" alt="Avatar of haron"> haron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#haron">Copy rank badge</a><br/>
 			Alexander Ryabov
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Wazzaps">
 				<img src="https://avatars.githubusercontent.com/u/6624767?s=72&u=c69e104949080d7c7faee069db80b41a4dff10bf&v=4" width="24" alt="Avatar of Wazzaps"> Wazzaps
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Wazzaps">Copy rank badge</a><br/>
 			David Shlemayev
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Tallyb">
 				<img src="https://avatars.githubusercontent.com/u/7386255?s=72&u=5039bd648910add642737b2284cc5a18ea3bd32e&v=4" width="24" alt="Avatar of Tallyb"> Tallyb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Tallyb">Copy rank badge</a><br/>
 			Tally Barak
 		</td>
 		<td>Morffy </td>
@@ -6245,7 +6247,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mrT23">
 				<img src="https://avatars.githubusercontent.com/u/21198860?s=72&u=3abae1d25498fbc504a010918913d22896ed238a&v=4" width="24" alt="Avatar of mrT23"> mrT23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mrT23">Copy rank badge</a><br/>
 			Tal
 		</td>
 		<td>No Company</td>
@@ -6258,7 +6260,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sk3pp3r">
 				<img src="https://avatars.githubusercontent.com/u/15815967?s=72&u=a09d3b5a900542bd954839a1f5e4700d7c6db113&v=4" width="24" alt="Avatar of sk3pp3r"> sk3pp3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sk3pp3r">Copy rank badge</a><br/>
 			Haim Cohen
 		</td>
 		<td>No Company</td>
@@ -6271,7 +6273,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nonZero">
 				<img src="https://avatars.githubusercontent.com/u/66484?s=72&v=4" width="24" alt="Avatar of nonZero"> nonZero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nonZero">Copy rank badge</a><br/>
 			Udi Oron
 		</td>
 		<td>10x.org.il </td>
@@ -6284,7 +6286,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NehemiahK">
 				<img src="https://avatars.githubusercontent.com/u/26737534?s=72&u=3a1058fd8bfeef9feb11e5ffb8909e50829289e4&v=4" width="24" alt="Avatar of NehemiahK"> NehemiahK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NehemiahK">Copy rank badge</a><br/>
 			Nehemiah Kivelevitz
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/krypto5863">
 				<img src="https://avatars.githubusercontent.com/u/29824718?s=72&u=47ac87eefea53c983ebc87128bdec0dd9a9f4fce&v=4" width="24" alt="Avatar of krypto5863"> krypto5863
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#krypto5863">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Templar Order </td>
@@ -6310,7 +6312,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/may215">
 				<img src="https://avatars.githubusercontent.com/u/1849258?s=72&u=63f2c78c0e446fb1f53a163ac7e72c3a467ce2b4&v=4" width="24" alt="Avatar of may215"> may215
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#may215">Copy rank badge</a><br/>
 			Meir Shamay
 		</td>
 		<td>Moonactive </td>
@@ -6323,7 +6325,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shaib">
 				<img src="https://avatars.githubusercontent.com/u/129187?s=72&v=4" width="24" alt="Avatar of shaib"> shaib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shaib">Copy rank badge</a><br/>
 			Shai Berger
 		</td>
 		<td>Hamakor & Kaplan Open<br/>Source<br/>Consulting<br/></td>
@@ -6336,7 +6338,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/baruch">
 				<img src="https://avatars.githubusercontent.com/u/132938?s=72&v=4" width="24" alt="Avatar of baruch"> baruch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#baruch">Copy rank badge</a><br/>
 			Baruch Even
 		</td>
 		<td>No Company</td>
@@ -6349,7 +6351,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Jongy">
 				<img src="https://avatars.githubusercontent.com/u/8831572?s=72&v=4" width="24" alt="Avatar of Jongy"> Jongy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Jongy">Copy rank badge</a><br/>
 			Yonatan Goldschmidt
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/noamelf">
 				<img src="https://avatars.githubusercontent.com/u/4347848?s=72&u=937006e1d6197b29b7a7486aa1fca80438ecf111&v=4" width="24" alt="Avatar of noamelf"> noamelf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#noamelf">Copy rank badge</a><br/>
 			Noam Elfanbaum
 		</td>
 		<td>@bluevine-dev  </td>
@@ -6375,7 +6377,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kate-feingold">
 				<img src="https://avatars.githubusercontent.com/u/18491807?s=72&u=844fadc1f2a1df5343aacc87999b9eadab97e77e&v=4" width="24" alt="Avatar of kate-feingold"> kate-feingold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kate-feingold">Copy rank badge</a><br/>
 			Kate Feingold
 		</td>
 		<td>Weizmann Institute Of Science<br/></td>
@@ -6388,7 +6390,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/avilum">
 				<img src="https://avatars.githubusercontent.com/u/19243302?s=72&u=29518dc05595d6dcf2030d451d7cb235923e08bb&v=4" width="24" alt="Avatar of avilum"> avilum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#avilum">Copy rank badge</a><br/>
 			Avi Lumelsky
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/d0rb">
 				<img src="https://avatars.githubusercontent.com/u/10403781?s=72&u=1b2baa825e80ceed5658f255cc3bfd763e37a115&v=4" width="24" alt="Avatar of d0rb"> d0rb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#d0rb">Copy rank badge</a><br/>
 			Dor 
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yonbergman">
 				<img src="https://avatars.githubusercontent.com/u/461578?s=72&u=c837703f2a88214ad458e4fe85a2e0cc2aa0d571&v=4" width="24" alt="Avatar of yonbergman"> yonbergman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yonbergman">Copy rank badge</a><br/>
 			Yonatan Bergman
 		</td>
 		<td>@empathycom  </td>
@@ -6427,7 +6429,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sitzikbs">
 				<img src="https://avatars.githubusercontent.com/u/13794171?s=72&u=00ccf9dcf7edbb3b71134c2141be10cd1e08dcc2&v=4" width="24" alt="Avatar of sitzikbs"> sitzikbs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sitzikbs">Copy rank badge</a><br/>
 			Yizhak Ben-Shabat (Itzik)
 		</td>
 		<td>Technion & Australian National<br/>University<br/></td>
@@ -6440,7 +6442,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dhtdht020">
 				<img src="https://avatars.githubusercontent.com/u/18469146?s=72&u=a06d5d5dcddbd8c9c9e98afb420eca9a12f60431&v=4" width="24" alt="Avatar of dhtdht020"> dhtdht020
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dhtdht020">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/xionams">
 				<img src="https://avatars.githubusercontent.com/u/29185608?s=72&u=2940da02ecb0025be08dd771e62811024ff62573&v=4" width="24" alt="Avatar of xionams"> xionams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#xionams">Copy rank badge</a><br/>
 			Zion Amsalem
 		</td>
 		<td>No Company</td>
@@ -6466,7 +6468,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yogevbd">
 				<img src="https://avatars.githubusercontent.com/u/10794586?s=72&u=6d1bd0dc7000e8be8e8e5c4d438a77566c80440f&v=4" width="24" alt="Avatar of yogevbd"> yogevbd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yogevbd">Copy rank badge</a><br/>
 			Yogev Ben David
 		</td>
 		<td>@wix  </td>
@@ -6479,7 +6481,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Golbstein">
 				<img src="https://avatars.githubusercontent.com/u/31940058?s=72&u=e927ce7388a97f60623c3dc2b5a52b82c1b5df2a&v=4" width="24" alt="Avatar of Golbstein"> Golbstein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Golbstein">Copy rank badge</a><br/>
 			Jenia Golbstein
 		</td>
 		<td>Buildots </td>
@@ -6492,7 +6494,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gkpln3">
 				<img src="https://avatars.githubusercontent.com/u/8081679?s=72&u=9ab03fe27b54cc5dc6f4953c258506bf1375f0a4&v=4" width="24" alt="Avatar of gkpln3"> gkpln3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gkpln3">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6505,7 +6507,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Alaev">
 				<img src="https://avatars.githubusercontent.com/u/3925474?s=72&u=cbc57ab68e2f750841cd43ea86744e878aa1cff1&v=4" width="24" alt="Avatar of Alaev"> Alaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Alaev">Copy rank badge</a><br/>
 			Michael Alaev
 		</td>
 		<td>No Company</td>
@@ -6518,7 +6520,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arikfr">
 				<img src="https://avatars.githubusercontent.com/u/71468?s=72&v=4" width="24" alt="Avatar of arikfr"> arikfr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arikfr">Copy rank badge</a><br/>
 			Arik Fraimovich
 		</td>
 		<td>Redash </td>
@@ -6531,7 +6533,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AliAsadi">
 				<img src="https://avatars.githubusercontent.com/u/20803775?s=72&u=67084b6a59267cb4c6d48316c543163bde88bad1&v=4" width="24" alt="Avatar of AliAsadi"> AliAsadi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AliAsadi">Copy rank badge</a><br/>
 			Ali Asadi
 		</td>
 		<td>Bluevine </td>
@@ -6544,7 +6546,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nirizr">
 				<img src="https://avatars.githubusercontent.com/u/3631703?s=72&v=4" width="24" alt="Avatar of nirizr"> nirizr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nirizr">Copy rank badge</a><br/>
 			Nir
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yehonatan604">
 				<img src="https://avatars.githubusercontent.com/u/97249220?s=72&v=4" width="24" alt="Avatar of yehonatan604"> yehonatan604
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yehonatan604">Copy rank badge</a><br/>
 			Yehonatan Moravia
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Plutoberth">
 				<img src="https://avatars.githubusercontent.com/u/26381287?s=72&u=db00077a4973b9813a5e6e234982a562878d4ae6&v=4" width="24" alt="Avatar of Plutoberth"> Plutoberth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Plutoberth">Copy rank badge</a><br/>
 			Nir
 		</td>
 		<td>@kipodafterfree </td>
@@ -6583,7 +6585,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shmuelhizmi">
 				<img src="https://avatars.githubusercontent.com/u/48323313?s=72&u=f0ea6e1344e2e8a2c8569f53e619284365bb257d&v=4" width="24" alt="Avatar of shmuelhizmi"> shmuelhizmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shmuelhizmi">Copy rank badge</a><br/>
 			Shmuel Hizmi
 		</td>
 		<td>Play </td>
@@ -6596,7 +6598,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/origranot">
 				<img src="https://avatars.githubusercontent.com/u/48911144?s=72&u=3ae1d2e6f058c147ad14d84d42fddfd1436d8db8&v=4" width="24" alt="Avatar of origranot"> origranot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#origranot">Copy rank badge</a><br/>
 			orig
 		</td>
 		<td>Oriorigranot@gmail.c </td>
@@ -6609,7 +6611,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ManuelNemirovsky">
 				<img src="https://avatars.githubusercontent.com/u/20153678?s=72&u=7b99a8294c02ea01a7c90b726ec290244d2158e1&v=4" width="24" alt="Avatar of ManuelNemirovsky"> ManuelNemirovsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ManuelNemirovsky">Copy rank badge</a><br/>
 			Manuel Nemirovsky
 		</td>
 		<td>Software Engineer @ A<br/></td>
@@ -6622,7 +6624,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dtkdt100">
 				<img src="https://avatars.githubusercontent.com/u/63166757?s=72&u=82179948e9122650a9f1c087b30423fec678df50&v=4" width="24" alt="Avatar of dtkdt100"> dtkdt100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dtkdt100">Copy rank badge</a><br/>
 			Dolev Franco
 		</td>
 		<td>Hakfar Hyarok, Xm Cyber<br/></td>
@@ -6635,7 +6637,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/FlafyDev">
 				<img src="https://avatars.githubusercontent.com/u/44374434?s=72&u=0075aa6134f7190039f062d0fcc7c3e2a22ebfcc&v=4" width="24" alt="Avatar of FlafyDev"> FlafyDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#FlafyDev">Copy rank badge</a><br/>
 			Flafy
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Pulimet">
 				<img src="https://avatars.githubusercontent.com/u/6112126?s=72&u=637620ae725eaef5f7728fe92ff84e270b972e2e&v=4" width="24" alt="Avatar of Pulimet"> Pulimet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Pulimet">Copy rank badge</a><br/>
 			Alexey Korolev
 		</td>
 		<td>At&t </td>
@@ -6661,7 +6663,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/wizardnet972">
 				<img src="https://avatars.githubusercontent.com/u/4997825?s=72&u=2e82d90e16f82bf92ea008f4941ada70a1cc65fd&v=4" width="24" alt="Avatar of wizardnet972"> wizardnet972
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#wizardnet972">Copy rank badge</a><br/>
 			Shlomi Levi
 		</td>
 		<td>@wizardnet972 </td>
@@ -6674,7 +6676,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elico">
 				<img src="https://avatars.githubusercontent.com/u/1786800?s=72&u=e9c2390784138e668b36a72219a4964f7b24e65a&v=4" width="24" alt="Avatar of elico"> elico
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elico">Copy rank badge</a><br/>
 			Eliezer Croitoru
 		</td>
 		<td>Ngtech Ltd </td>
@@ -6687,7 +6689,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/galex">
 				<img src="https://avatars.githubusercontent.com/u/105982?s=72&u=c6778ce658e1d1c3cc2e52b96cc5b86a85a2e584&v=4" width="24" alt="Avatar of galex"> galex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#galex">Copy rank badge</a><br/>
 			Alexander Gherschon
 		</td>
 		<td>No Company</td>
@@ -6700,7 +6702,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nirsky">
 				<img src="https://avatars.githubusercontent.com/u/16322616?s=72&u=40bb5d9b739dc796c1eb18ebaf661376c572d3b5&v=4" width="24" alt="Avatar of nirsky"> nirsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nirsky">Copy rank badge</a><br/>
 			Nir Hadassi
 		</td>
 		<td>Island </td>
@@ -6713,7 +6715,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladnoor">
 				<img src="https://avatars.githubusercontent.com/u/3911053?s=72&u=584933fabc8457e89e77f7bc73096011c70fc5bc&v=4" width="24" alt="Avatar of eladnoor"> eladnoor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladnoor">Copy rank badge</a><br/>
 			Elad Noor
 		</td>
 		<td>Weizmann Institute Of Science<br/></td>
@@ -6726,7 +6728,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hassonor">
 				<img src="https://avatars.githubusercontent.com/u/70104184?s=72&u=42f512215863e5ce9b3ee1ef9cb2809729517a08&v=4" width="24" alt="Avatar of hassonor"> hassonor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hassonor">Copy rank badge</a><br/>
 			Or Hasson
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MadaraUchiha">
 				<img src="https://avatars.githubusercontent.com/u/1188951?s=72&v=4" width="24" alt="Avatar of MadaraUchiha"> MadaraUchiha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MadaraUchiha">Copy rank badge</a><br/>
 			Madara Uchiha
 		</td>
 		<td>No Company</td>
@@ -6752,7 +6754,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladroz">
 				<img src="https://avatars.githubusercontent.com/u/2673881?s=72&u=92ab39aefc796f9d42bf779f80c38b88a49aed8c&v=4" width="24" alt="Avatar of eladroz"> eladroz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladroz">Copy rank badge</a><br/>
 			Elad Rosenheim
 		</td>
 		<td>Netlify </td>
@@ -6765,7 +6767,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oriash93">
 				<img src="https://avatars.githubusercontent.com/u/14019835?s=72&v=4" width="24" alt="Avatar of oriash93"> oriash93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oriash93">Copy rank badge</a><br/>
 			Ori A
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bolshchikov">
 				<img src="https://avatars.githubusercontent.com/u/1206121?s=72&u=4bb2b4cee26139f7f1933ae7efce955175fb000f&v=4" width="24" alt="Avatar of bolshchikov"> bolshchikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bolshchikov">Copy rank badge</a><br/>
 			Sergey Bolshchikov
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/HendrixString">
 				<img src="https://avatars.githubusercontent.com/u/10164134?s=72&u=1c145b5f7ff6c50a213368237ddb1b6344613a00&v=4" width="24" alt="Avatar of HendrixString"> HendrixString
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#HendrixString">Copy rank badge</a><br/>
 			Tomer Shalev
 		</td>
 		<td>@store-craft  </td>
@@ -6804,7 +6806,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/noa1020">
 				<img src="https://avatars.githubusercontent.com/u/146897162?s=72&v=4" width="24" alt="Avatar of noa1020"> noa1020
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#noa1020">Copy rank badge</a><br/>
 			Noa Katsoer
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TareqK">
 				<img src="https://avatars.githubusercontent.com/u/18736962?s=72&u=bdccde670bc00511d6e6c0f60d17cd498902e756&v=4" width="24" alt="Avatar of TareqK"> TareqK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TareqK">Copy rank badge</a><br/>
 			Tareq Kirresh طارق قرش
 		</td>
 		<td>Kisoft </td>
@@ -6830,7 +6832,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yuval-harpaz">
 				<img src="https://avatars.githubusercontent.com/u/445416?s=72&u=4bc54f146ba113dab56172fda1fb20680e2d810f&v=4" width="24" alt="Avatar of yuval-harpaz"> yuval-harpaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yuval-harpaz">Copy rank badge</a><br/>
 			yuval-harpaz
 		</td>
 		<td>Innereye Ltd </td>
@@ -6843,7 +6845,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YehudaEi">
 				<img src="https://avatars.githubusercontent.com/u/32451776?s=72&u=6a72f4e49e43d523fa2cf303c415e193aed92ba9&v=4" width="24" alt="Avatar of YehudaEi"> YehudaEi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YehudaEi">Copy rank badge</a><br/>
 			Yehuda
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/morsh">
 				<img src="https://avatars.githubusercontent.com/u/5322722?s=72&u=daadae7c80df524e4eab594657a03f489ddd88a0&v=4" width="24" alt="Avatar of morsh"> morsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#morsh">Copy rank badge</a><br/>
 			Mor Shemesh
 		</td>
 		<td>Microsoft </td>
@@ -6869,7 +6871,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nloyfer">
 				<img src="https://avatars.githubusercontent.com/u/11374665?s=72&u=9e32c5c8efdbd9998b3c3d2eed941bef68204069&v=4" width="24" alt="Avatar of nloyfer"> nloyfer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nloyfer">Copy rank badge</a><br/>
 			Netanel Loyfer
 		</td>
 		<td>The Hebrew University </td>
@@ -6882,7 +6884,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nadavkav">
 				<img src="https://avatars.githubusercontent.com/u/231168?s=72&v=4" width="24" alt="Avatar of nadavkav"> nadavkav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nadavkav">Copy rank badge</a><br/>
 			Nadav Kavalerchik
 		</td>
 		<td>No Company</td>
@@ -6895,7 +6897,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alaasaleem">
 				<img src="https://avatars.githubusercontent.com/u/127680801?s=72&u=93ee359d409cfbb8b5d81236038e6804c5165539&v=4" width="24" alt="Avatar of alaasaleem"> alaasaleem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alaasaleem">Copy rank badge</a><br/>
 			Alaa Saleem
 		</td>
 		<td>Birzeit University </td>
@@ -6908,7 +6910,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/matveisch">
 				<img src="https://avatars.githubusercontent.com/u/46415685?s=72&u=d95def099a415a51d3bfe0078a8ddb0fc468035b&v=4" width="24" alt="Avatar of matveisch"> matveisch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#matveisch">Copy rank badge</a><br/>
 			Matvei
 		</td>
 		<td>No Company</td>
@@ -6921,7 +6923,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/20shaked20">
 				<img src="https://avatars.githubusercontent.com/u/73894107?s=72&u=6cee25d67089657eb54429455abbde92e198d065&v=4" width="24" alt="Avatar of 20shaked20"> 20shaked20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#20shaked20">Copy rank badge</a><br/>
 			Shaked Levi
 		</td>
 		<td>Gong </td>
@@ -6934,7 +6936,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/meirwah">
 				<img src="https://avatars.githubusercontent.com/u/6059211?s=72&u=7d1bfa64f53ae0f1952761e9730fb50bf5a5415c&v=4" width="24" alt="Avatar of meirwah"> meirwah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#meirwah">Copy rank badge</a><br/>
 			Meir Wahnon
 		</td>
 		<td>Descope </td>
@@ -6947,7 +6949,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GabiGrin">
 				<img src="https://avatars.githubusercontent.com/u/3727015?s=72&u=aa73f4eb5031b075586c71817a1a914d2159acff&v=4" width="24" alt="Avatar of GabiGrin"> GabiGrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GabiGrin">Copy rank badge</a><br/>
 			Gabriel Grinberg
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yonilevy">
 				<img src="https://avatars.githubusercontent.com/u/31284?s=72&u=1c01697bfda99cd197662e46e6326a1434549174&v=4" width="24" alt="Avatar of yonilevy"> yonilevy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yonilevy">Copy rank badge</a><br/>
 			Yoni Levy
 		</td>
 		<td>No Company</td>
@@ -6973,7 +6975,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DanusMinimus">
 				<img src="https://avatars.githubusercontent.com/u/60087084?s=72&u=17489759b89fea7600c68f39acbc020fa55790a0&v=4" width="24" alt="Avatar of DanusMinimus"> DanusMinimus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DanusMinimus">Copy rank badge</a><br/>
 			Dan
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/masasron">
 				<img src="https://avatars.githubusercontent.com/u/7352073?s=72&u=2439cad937fd29775c32e51936da544986e66685&v=4" width="24" alt="Avatar of masasron"> masasron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#masasron">Copy rank badge</a><br/>
 			Ron Masas
 		</td>
 		<td>@breakpointhq  </td>
@@ -6999,7 +7001,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/beneyal">
 				<img src="https://avatars.githubusercontent.com/u/3891274?s=72&u=19a78f304c6e96fb20bd4492d01e03cb904ae5c9&v=4" width="24" alt="Avatar of beneyal"> beneyal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#beneyal">Copy rank badge</a><br/>
 			Ben Eyal
 		</td>
 		<td>No Company</td>
@@ -7012,7 +7014,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eDeveloperOZ">
 				<img src="https://avatars.githubusercontent.com/u/29679732?s=72&u=bf44f104cb8614dd4b9ad039fc430640ac68d7e9&v=4" width="24" alt="Avatar of eDeveloperOZ"> eDeveloperOZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eDeveloperOZ">Copy rank badge</a><br/>
 			Ofir Ozeri
 		</td>
 		<td>No Company</td>
@@ -7025,7 +7027,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AngelCampos">
 				<img src="https://avatars.githubusercontent.com/u/9357097?s=72&u=708e3b65c90dd82372a8423b8ea3b995e2e98980&v=4" width="24" alt="Avatar of AngelCampos"> AngelCampos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AngelCampos">Copy rank badge</a><br/>
 			Miguel A. García-Campos
 		</td>
 		<td>Weizmann Institute Of Science<br/></td>
@@ -7038,7 +7040,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kohenm63">
 				<img src="https://avatars.githubusercontent.com/u/48856476?s=72&u=cc9db82f7379db4cef6d19c6eee0ddd75bb24fb9&v=4" width="24" alt="Avatar of kohenm63"> kohenm63
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kohenm63">Copy rank badge</a><br/>
 			Mila
 		</td>
 		<td>No Company</td>
@@ -7051,7 +7053,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YairHalberstadt">
 				<img src="https://avatars.githubusercontent.com/u/29174528?s=72&u=688b72a25bb2af9a2f9dbe950fc0f56c60191b82&v=4" width="24" alt="Avatar of YairHalberstadt"> YairHalberstadt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YairHalberstadt">Copy rank badge</a><br/>
 			Yair Halberstadt
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yrnkrn">
 				<img src="https://avatars.githubusercontent.com/u/8429717?s=72&u=0c8e88743f1b02c5e74481fd6386949c5df7799f&v=4" width="24" alt="Avatar of yrnkrn"> yrnkrn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yrnkrn">Copy rank badge</a><br/>
 			Yaron Keren
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ido50">
 				<img src="https://avatars.githubusercontent.com/u/80107?s=72&v=4" width="24" alt="Avatar of ido50"> ido50
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ido50">Copy rank badge</a><br/>
 			Ido Perlmuter
 		</td>
 		<td>Shift-delete Llc </td>
@@ -7090,7 +7092,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eavichay">
 				<img src="https://avatars.githubusercontent.com/u/1084459?s=72&v=4" width="24" alt="Avatar of eavichay"> eavichay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eavichay">Copy rank badge</a><br/>
 			Avichay Eyal
 		</td>
 		<td>No Company</td>
@@ -7103,7 +7105,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/M-Zuber">
 				<img src="https://avatars.githubusercontent.com/u/4746537?s=72&u=2687e96bf9a024c112284a392fe297706d0ee778&v=4" width="24" alt="Avatar of M-Zuber"> M-Zuber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#M-Zuber">Copy rank badge</a><br/>
 			Mordechai Zuber
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shooshx">
 				<img src="https://avatars.githubusercontent.com/u/1285088?s=72&v=4" width="24" alt="Avatar of shooshx"> shooshx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shooshx">Copy rank badge</a><br/>
 			Shy Shalom
 		</td>
 		<td>No Company</td>
@@ -7129,7 +7131,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ronami">
 				<img src="https://avatars.githubusercontent.com/u/5484230?s=72&u=909969e8a7796a26275ecc07a1540b3d3f3d805f&v=4" width="24" alt="Avatar of ronami"> ronami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ronami">Copy rank badge</a><br/>
 			Ronen Amiel
 		</td>
 		<td>@wix  </td>
@@ -7142,7 +7144,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shlomiassaf">
 				<img src="https://avatars.githubusercontent.com/u/5377501?s=72&u=799dd489dd25f1e0308bc87c03b0ddae79b90903&v=4" width="24" alt="Avatar of shlomiassaf"> shlomiassaf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shlomiassaf">Copy rank badge</a><br/>
 			Shlomi Assaf
 		</td>
 		<td>Sharegain </td>
@@ -7155,7 +7157,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dsternlicht">
 				<img src="https://avatars.githubusercontent.com/u/1046545?s=72&u=c92e8f6952280b2e2fc34693233604538949357e&v=4" width="24" alt="Avatar of dsternlicht"> dsternlicht
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dsternlicht">Copy rank badge</a><br/>
 			Daniel Sternlicht
 		</td>
 		<td>@commonninja </td>
@@ -7168,7 +7170,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Cozmonat">
 				<img src="https://avatars.githubusercontent.com/u/1447935?s=72&u=ebcd7161f5790074a5c20f049f43ecbbe3da48b6&v=4" width="24" alt="Avatar of Cozmonat"> Cozmonat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Cozmonat">Copy rank badge</a><br/>
 			Natan Zalkin
 		</td>
 		<td>No Company</td>
@@ -7181,7 +7183,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rozovr">
 				<img src="https://avatars.githubusercontent.com/u/6791673?s=72&u=6f9a5c31995cc0ac8a0145c6604a30a992d032ec&v=4" width="24" alt="Avatar of rozovr"> rozovr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rozovr">Copy rank badge</a><br/>
 			Roye Rozov
 		</td>
 		<td>Cytoreason </td>
@@ -7194,7 +7196,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kfiroo">
 				<img src="https://avatars.githubusercontent.com/u/284636?s=72&u=cfedee172d6f87034dfa4458a2409f87db12bc9e&v=4" width="24" alt="Avatar of kfiroo"> kfiroo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kfiroo">Copy rank badge</a><br/>
 			Kfir Golan
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arthur-flam">
 				<img src="https://avatars.githubusercontent.com/u/2649055?s=72&u=1ba0601e077256997c09afa007a18a3c32f04068&v=4" width="24" alt="Avatar of arthur-flam"> arthur-flam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arthur-flam">Copy rank badge</a><br/>
 			Arthur Flam
 		</td>
 		<td>@samsung </td>
@@ -7220,7 +7222,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexpusch">
 				<img src="https://avatars.githubusercontent.com/u/1129358?s=72&u=2188722050c2d1fa1649dee21f879d5b4d08092a&v=4" width="24" alt="Avatar of alexpusch"> alexpusch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexpusch">Copy rank badge</a><br/>
 			Alex Puschinsky
 		</td>
 		<td>No Company</td>
@@ -7233,7 +7235,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/barbareshet">
 				<img src="https://avatars.githubusercontent.com/u/12647463?s=72&u=95bfa4d5947e79f4c5fa91ed0cd379cc5c68e9c5&v=4" width="24" alt="Avatar of barbareshet"> barbareshet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#barbareshet">Copy rank badge</a><br/>
 			ido barnea
 		</td>
 		<td>Barbareshet - Wordpress Expert<br/></td>
@@ -7246,7 +7248,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IdanBanani">
 				<img src="https://avatars.githubusercontent.com/u/26879273?s=72&u=530a4d5e221ba2765e556889114f7b96f64a2965&v=4" width="24" alt="Avatar of IdanBanani"> IdanBanani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IdanBanani">Copy rank badge</a><br/>
 			Idan BananI
 		</td>
 		<td>Idan Banani </td>
@@ -7259,7 +7261,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/talhof8">
 				<img src="https://avatars.githubusercontent.com/u/2453032?s=72&u=64e1cf407e42ae05c97a9160a49b5ee41bfc1266&v=4" width="24" alt="Avatar of talhof8"> talhof8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#talhof8">Copy rank badge</a><br/>
 			Tal Hoffman
 		</td>
 		<td>@clara-health  </td>
@@ -7272,7 +7274,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/laukstein">
 				<img src="https://avatars.githubusercontent.com/u/183966?s=72&v=4" width="24" alt="Avatar of laukstein"> laukstein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#laukstein">Copy rank badge</a><br/>
 			Binyamin Laukstein
 		</td>
 		<td>@stampli </td>
@@ -7285,7 +7287,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/skariel">
 				<img src="https://avatars.githubusercontent.com/u/2347816?s=72&u=8952f318e56853a216eed63834207722d8c88745&v=4" width="24" alt="Avatar of skariel"> skariel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#skariel">Copy rank badge</a><br/>
 			Ariel Keselman
 		</td>
 		<td>Huawei / Senior Software<br/>Architect<br/></td>
@@ -7298,7 +7300,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/hamatoyogi">
 				<img src="https://avatars.githubusercontent.com/u/6682981?s=72&u=f2be9ecfcd13da86512966024c8cfb6448666487&v=4" width="24" alt="Avatar of hamatoyogi"> hamatoyogi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#hamatoyogi">Copy rank badge</a><br/>
 			Yoav Ganbar
 		</td>
 		<td>Claroty </td>
@@ -7311,7 +7313,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexcohn">
 				<img src="https://avatars.githubusercontent.com/u/736435?s=72&v=4" width="24" alt="Avatar of alexcohn"> alexcohn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexcohn">Copy rank badge</a><br/>
 			Alex Cohn
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Hadar933">
 				<img src="https://avatars.githubusercontent.com/u/45313790?s=72&u=da622a6daa8af16d6d05c4882372a2c110ab73b3&v=4" width="24" alt="Avatar of Hadar933"> Hadar933
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Hadar933">Copy rank badge</a><br/>
 			Hadar Sharvit
 		</td>
 		<td>Fetcherr </td>
@@ -7337,7 +7339,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Electric1447">
 				<img src="https://avatars.githubusercontent.com/u/36371414?s=72&u=30716b5f0f2f1c31065040acb5dada13c178331a&v=4" width="24" alt="Avatar of Electric1447"> Electric1447
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Electric1447">Copy rank badge</a><br/>
 			Itai Levin
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RanyAlbegWein">
 				<img src="https://avatars.githubusercontent.com/u/6614357?s=72&u=9857a8a9d529cbe2feabdfa12cb170ca0f732bce&v=4" width="24" alt="Avatar of RanyAlbegWein"> RanyAlbegWein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RanyAlbegWein">Copy rank badge</a><br/>
 			Rany Albeg Wein
 		</td>
 		<td>John Bryce </td>
@@ -7363,7 +7365,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nocachy">
 				<img src="https://avatars.githubusercontent.com/u/25153080?s=72&u=25f88d33e647d0da662f05189820aa4583f8f216&v=4" width="24" alt="Avatar of nocachy"> nocachy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nocachy">Copy rank badge</a><br/>
 			Po
 		</td>
 		<td>No Company</td>
@@ -7376,7 +7378,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guyisra">
 				<img src="https://avatars.githubusercontent.com/u/1073521?s=72&v=4" width="24" alt="Avatar of guyisra"> guyisra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guyisra">Copy rank badge</a><br/>
 			Guy
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/meirsadan">
 				<img src="https://avatars.githubusercontent.com/u/6769023?s=72&u=fd38851c50838fc80414b4c1b3da6cce38241823&v=4" width="24" alt="Avatar of meirsadan"> meirsadan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#meirsadan">Copy rank badge</a><br/>
 			Meir Sadan
 		</td>
 		<td>No Company</td>
@@ -7402,7 +7404,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shaked6540">
 				<img src="https://avatars.githubusercontent.com/u/13851815?s=72&u=e42ae8fcdeac8fc3a841e53e841b524c9924185b&v=4" width="24" alt="Avatar of shaked6540"> shaked6540
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shaked6540">Copy rank badge</a><br/>
 			Shaked
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adi-works">
 				<img src="https://avatars.githubusercontent.com/u/12032248?s=72&v=4" width="24" alt="Avatar of adi-works"> adi-works
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adi-works">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7428,7 +7430,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/liiight">
 				<img src="https://avatars.githubusercontent.com/u/4374581?s=72&u=04676cbd58612bc0cc231d0b2f526634c7ae1693&v=4" width="24" alt="Avatar of liiight"> liiight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#liiight">Copy rank badge</a><br/>
 			Or Carmi 
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jonuts">
 				<img src="https://avatars.githubusercontent.com/u/948?s=72&u=84c06a5a2b1c8e4bdd76dab01cd1121753295d5e&v=4" width="24" alt="Avatar of jonuts"> jonuts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jonuts">Copy rank badge</a><br/>
 			jonah honeyman
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Nitzperetz">
 				<img src="https://avatars.githubusercontent.com/u/15967181?s=72&u=bbc928f9ee0e6b7c540eefaa1a4d366643670871&v=4" width="24" alt="Avatar of Nitzperetz"> Nitzperetz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Nitzperetz">Copy rank badge</a><br/>
 			Nitzan Peretz
 		</td>
 		<td>No Company</td>
@@ -7467,7 +7469,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/langera">
 				<img src="https://avatars.githubusercontent.com/u/1250662?s=72&u=5386702256379ecada8e9fa95ffb018667cf0abf&v=4" width="24" alt="Avatar of langera"> langera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#langera">Copy rank badge</a><br/>
 			Amir Langer
 		</td>
 		<td>Adaptive Financial Consulting (work)<br/>+<br/>Personal<br/>Projects<br/></td>
@@ -7480,7 +7482,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/OmriBaso">
 				<img src="https://avatars.githubusercontent.com/u/50461376?s=72&u=108a1c53ac91c21f97d85d4bf215fb9b9dbfdf0f&v=4" width="24" alt="Avatar of OmriBaso"> OmriBaso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#OmriBaso">Copy rank badge</a><br/>
 			Omri Baso
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/TorahBibleCodes">
 				<img src="https://avatars.githubusercontent.com/u/33508112?s=72&u=ab4749389ddf3870076944c7d8143ea7c742ef15&v=4" width="24" alt="Avatar of TorahBibleCodes"> TorahBibleCodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#TorahBibleCodes">Copy rank badge</a><br/>
 			TorahBibleCodes.com
 		</td>
 		<td>@torahbiblecodescom @torahbiblecodes </td>
@@ -7506,7 +7508,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/SelfishGene">
 				<img src="https://avatars.githubusercontent.com/u/11506338?s=72&u=c836aad840396cdb94c869b544effd77aef684fa&v=4" width="24" alt="Avatar of SelfishGene"> SelfishGene
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#SelfishGene">Copy rank badge</a><br/>
 			David Beniaguev
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/cmpxchg16">
 				<img src="https://avatars.githubusercontent.com/u/4198994?s=72&v=4" width="24" alt="Avatar of cmpxchg16"> cmpxchg16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#cmpxchg16">Copy rank badge</a><br/>
 			Uri Shamay
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vic3lord">
 				<img src="https://avatars.githubusercontent.com/u/2883824?s=72&u=b3c2608caa8d90c2e759e504b384f744e07c27c2&v=4" width="24" alt="Avatar of vic3lord"> vic3lord
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vic3lord">Copy rank badge</a><br/>
 			Or Elimelech
 		</td>
 		<td>No Company</td>
@@ -7545,7 +7547,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/cartmandos">
 				<img src="https://avatars.githubusercontent.com/u/42044559?s=72&u=2b4b8cd8ff370b4f64bfd1a0ecb7e061238f4086&v=4" width="24" alt="Avatar of cartmandos"> cartmandos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#cartmandos">Copy rank badge</a><br/>
 			Oren Damien Shomrai
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dbickson">
 				<img src="https://avatars.githubusercontent.com/u/4495523?s=72&v=4" width="24" alt="Avatar of dbickson"> dbickson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dbickson">Copy rank badge</a><br/>
 			Danny Bickson
 		</td>
 		<td>Visual Layer </td>
@@ -7571,7 +7573,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rwmpelstilzchen">
 				<img src="https://avatars.githubusercontent.com/u/3979978?s=72&u=60921bb13aad06047e7a01b270521645cd835175&v=4" width="24" alt="Avatar of rwmpelstilzchen"> rwmpelstilzchen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rwmpelstilzchen">Copy rank badge</a><br/>
 			Eîar Abramski-Kronenberg
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/garyb9">
 				<img src="https://avatars.githubusercontent.com/u/21087316?s=72&u=8f4ecc6c1913ef7974099f75fafbf0f6a70173af&v=4" width="24" alt="Avatar of garyb9"> garyb9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#garyb9">Copy rank badge</a><br/>
 			GaryB
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/d3dave">
 				<img src="https://avatars.githubusercontent.com/u/1116272?s=72&u=4d03d43a9d59ec18ad351ec9b2842e443f771a1f&v=4" width="24" alt="Avatar of d3dave"> d3dave
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#d3dave">Copy rank badge</a><br/>
 			David Dorfman
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/barzik">
 				<img src="https://avatars.githubusercontent.com/u/3284313?s=72&u=71a1b57184fbc2211b442b1a74678a776c9c276d&v=4" width="24" alt="Avatar of barzik"> barzik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#barzik">Copy rank badge</a><br/>
 			Ran Bar-Zik
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/guyltech">
 				<img src="https://avatars.githubusercontent.com/u/175968924?s=72&u=547380e7572d997d9462011ff0c9af06f7429370&v=4" width="24" alt="Avatar of guyltech"> guyltech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#guyltech">Copy rank badge</a><br/>
 			Guy Levy
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/JoshK2">
 				<img src="https://avatars.githubusercontent.com/u/35892475?s=72&u=fbddc73a68a4ded57cb84efba874d2fee62626de&v=4" width="24" alt="Avatar of JoshK2"> JoshK2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#JoshK2">Copy rank badge</a><br/>
 			Josh Kuttler
 		</td>
 		<td>@teambit </td>
@@ -7649,7 +7651,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MeitarR">
 				<img src="https://avatars.githubusercontent.com/u/14138694?s=72&u=e94a5d5cab39b298b1b1b480bb136cc18bb8dacf&v=4" width="24" alt="Avatar of MeitarR"> MeitarR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MeitarR">Copy rank badge</a><br/>
 			Meitar Reihan
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itailang">
 				<img src="https://avatars.githubusercontent.com/u/36666820?s=72&u=169010f741a4679760846ad5d59ebdaf4ff75dab&v=4" width="24" alt="Avatar of itailang"> itailang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itailang">Copy rank badge</a><br/>
 			Itai Lang
 		</td>
 		<td>University Of Chicago </td>
@@ -7675,7 +7677,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AmeenAli">
 				<img src="https://avatars.githubusercontent.com/u/6931771?s=72&u=c7878359e510edee6a931f8ba420e7425b735bff&v=4" width="24" alt="Avatar of AmeenAli"> AmeenAli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AmeenAli">Copy rank badge</a><br/>
 			Ameen Ali
 		</td>
 		<td>No Company</td>
@@ -7688,7 +7690,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dewbjorn">
 				<img src="https://avatars.githubusercontent.com/u/4380333?s=72&u=388ff9252c1c89e9b4486c297e67da26132ae37f&v=4" width="24" alt="Avatar of dewbjorn"> dewbjorn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dewbjorn">Copy rank badge</a><br/>
 			Tal Koren
 		</td>
 		<td>Knostic </td>
@@ -7701,7 +7703,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Eladkay">
 				<img src="https://avatars.githubusercontent.com/u/11412452?s=72&v=4" width="24" alt="Avatar of Eladkay"> Eladkay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Eladkay">Copy rank badge</a><br/>
 			Elad Kinsbruner
 		</td>
 		<td>Technion </td>
@@ -7714,7 +7716,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/faxinadu">
 				<img src="https://avatars.githubusercontent.com/u/34368899?s=72&u=c163cbe32b345ed7ee07427d3c628040e5cb453f&v=4" width="24" alt="Avatar of faxinadu"> faxinadu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#faxinadu">Copy rank badge</a><br/>
 			Yaron Eshkar
 		</td>
 		<td>Native Instruments </td>
@@ -7727,7 +7729,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/weizman">
 				<img src="https://avatars.githubusercontent.com/u/13243797?s=72&u=84290853b45306ff1263187ee91a8272c9f49592&v=4" width="24" alt="Avatar of weizman"> weizman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#weizman">Copy rank badge</a><br/>
 			weizman
 		</td>
 		<td>@metamask </td>
@@ -7740,7 +7742,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omriher">
 				<img src="https://avatars.githubusercontent.com/u/5301644?s=72&v=4" width="24" alt="Avatar of omriher"> omriher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omriher">Copy rank badge</a><br/>
 			Omri Herscovici
 		</td>
 		<td>@omriher </td>
@@ -7753,7 +7755,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ranrib">
 				<img src="https://avatars.githubusercontent.com/u/24767098?s=72&u=3d24635dd89a730d3f1bdb5f130b5e3932b7f84a&v=4" width="24" alt="Avatar of ranrib"> ranrib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ranrib">Copy rank badge</a><br/>
 			Ran Ribenzaft
 		</td>
 		<td>@harmony  </td>
@@ -7766,7 +7768,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dorlaor">
 				<img src="https://avatars.githubusercontent.com/u/1735237?s=72&u=9bbb072a415ca6cac116709c1ead9018d351d31d&v=4" width="24" alt="Avatar of dorlaor"> dorlaor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dorlaor">Copy rank badge</a><br/>
 			Dor Laor
 		</td>
 		<td>Scylladb </td>
@@ -7779,7 +7781,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexilyaev">
 				<img src="https://avatars.githubusercontent.com/u/480469?s=72&v=4" width="24" alt="Avatar of alexilyaev"> alexilyaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexilyaev">Copy rank badge</a><br/>
 			Alex Ilyaev
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sergeylukin">
 				<img src="https://avatars.githubusercontent.com/u/720339?s=72&u=6f75f2144d9233c4b687fa28bb2b838b9e787568&v=4" width="24" alt="Avatar of sergeylukin"> sergeylukin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sergeylukin">Copy rank badge</a><br/>
 			Sergey Lukin
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ceoaliongroo">
 				<img src="https://avatars.githubusercontent.com/u/2622152?s=72&v=4" width="24" alt="Avatar of ceoaliongroo"> ceoaliongroo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ceoaliongroo">Copy rank badge</a><br/>
 			Carlos Mantilla
 		</td>
 		<td>Migdal </td>
@@ -7818,7 +7820,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rotem154154">
 				<img src="https://avatars.githubusercontent.com/u/5027057?s=72&u=8db48999d55e4d297b49038fca346be46bace898&v=4" width="24" alt="Avatar of rotem154154"> rotem154154
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rotem154154">Copy rank badge</a><br/>
 			rotem israeli
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mavarazy">
 				<img src="https://avatars.githubusercontent.com/u/822488?s=72&u=8017cc2d1e721b2766b800f17d9c932d525a6ec3&v=4" width="24" alt="Avatar of mavarazy"> mavarazy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mavarazy">Copy rank badge</a><br/>
 			Anton O.
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itaigat">
 				<img src="https://avatars.githubusercontent.com/u/11094765?s=72&v=4" width="24" alt="Avatar of itaigat"> itaigat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itaigat">Copy rank badge</a><br/>
 			Itai Gat
 		</td>
 		<td>Meta Ai (fair) </td>
@@ -7857,7 +7859,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/maximveksler">
 				<img src="https://avatars.githubusercontent.com/u/550550?s=72&u=b26e55dc77fdbbb0bf88ed04dd12be01d4a8282b&v=4" width="24" alt="Avatar of maximveksler"> maximveksler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#maximveksler">Copy rank badge</a><br/>
 			Maxim Veksler
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RickCastle2018">
 				<img src="https://avatars.githubusercontent.com/u/48931166?s=72&u=f9fa0b7164f7e0e9b138528c6bc9ef034068a725&v=4" width="24" alt="Avatar of RickCastle2018"> RickCastle2018
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RickCastle2018">Copy rank badge</a><br/>
 			Nikita Nikonov
 		</td>
 		<td>No Company</td>
@@ -7883,7 +7885,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/asafkorem">
 				<img src="https://avatars.githubusercontent.com/u/55082339?s=72&u=3ef7baafc44795ea407214ec8a997f97e6cd09f6&v=4" width="24" alt="Avatar of asafkorem"> asafkorem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#asafkorem">Copy rank badge</a><br/>
 			Asaf Korem
 		</td>
 		<td>Stealth </td>
@@ -7896,7 +7898,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/4x1md">
 				<img src="https://avatars.githubusercontent.com/u/16628682?s=72&u=47e0dd4ff69efa536d50bb30a4a0cbf151f09b3f&v=4" width="24" alt="Avatar of 4x1md"> 4x1md
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#4x1md">Copy rank badge</a><br/>
 			Dmitry Melnichansky
 		</td>
 		<td>No Company</td>
@@ -7909,7 +7911,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/binyamindavid">
 				<img src="https://avatars.githubusercontent.com/u/972227?s=72&u=588a6f2b90f1e5203580876813494ebfe57b9e44&v=4" width="24" alt="Avatar of binyamindavid"> binyamindavid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#binyamindavid">Copy rank badge</a><br/>
 			Oster
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omershlo">
 				<img src="https://avatars.githubusercontent.com/u/2446179?s=72&u=56801fbae185bb7f58d339d0a4fc4288f0ab697f&v=4" width="24" alt="Avatar of omershlo"> omershlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omershlo">Copy rank badge</a><br/>
 			Shlomtz
 		</td>
 		<td>Moonmath.ai </td>
@@ -7935,7 +7937,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Bnaya">
 				<img src="https://avatars.githubusercontent.com/u/1304862?s=72&u=fcc4af6b400a0e45a695671859096289783ecbe4&v=4" width="24" alt="Avatar of Bnaya"> Bnaya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Bnaya">Copy rank badge</a><br/>
 			Bnaya Peretz
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Luckykarter">
 				<img src="https://avatars.githubusercontent.com/u/19882452?s=72&u=70840d6357a6256282fa200a1e41b8c27fb7733d&v=4" width="24" alt="Avatar of Luckykarter"> Luckykarter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Luckykarter">Copy rank badge</a><br/>
 			Egor Wexler
 		</td>
 		<td>Dell Emc </td>
@@ -7961,7 +7963,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Yiddishe-Kop">
 				<img src="https://avatars.githubusercontent.com/u/36875437?s=72&u=3d24d956e70758a2e46566f4b69fcf3b61990455&v=4" width="24" alt="Avatar of Yiddishe-Kop"> Yiddishe-Kop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Yiddishe-Kop">Copy rank badge</a><br/>
 			Yehuda Neufeld
 		</td>
 		<td>Yiddishe Kop </td>
@@ -7974,7 +7976,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arbel03">
 				<img src="https://avatars.githubusercontent.com/u/13643035?s=72&v=4" width="24" alt="Avatar of arbel03"> arbel03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arbel03">Copy rank badge</a><br/>
 			Arbel I.
 		</td>
 		<td>No Company</td>
@@ -7987,7 +7989,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eranshmil">
 				<img src="https://avatars.githubusercontent.com/u/9721664?s=72&u=1217842f7c0cc2a5505310c558c054c822fd344a&v=4" width="24" alt="Avatar of eranshmil"> eranshmil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eranshmil">Copy rank badge</a><br/>
 			Eran Shmil
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/zspitz">
 				<img src="https://avatars.githubusercontent.com/u/312166?s=72&v=4" width="24" alt="Avatar of zspitz"> zspitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#zspitz">Copy rank badge</a><br/>
 			Zev Spitz
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/anvoynov">
 				<img src="https://avatars.githubusercontent.com/u/34134350?s=72&u=1a4cffee70f73cef81232f371b525d0aa904e90c&v=4" width="24" alt="Avatar of anvoynov"> anvoynov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#anvoynov">Copy rank badge</a><br/>
 			Andrey Voynov
 		</td>
 		<td>Google </td>
@@ -8026,7 +8028,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shanielh">
 				<img src="https://avatars.githubusercontent.com/u/746471?s=72&u=ce6c3ad27ef9125c8d747bf035f212acc0cbd9b3&v=4" width="24" alt="Avatar of shanielh"> shanielh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shanielh">Copy rank badge</a><br/>
 			Shani Elharrar
 		</td>
 		<td>Upsolver </td>
@@ -8039,7 +8041,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yuriskinfo">
 				<img src="https://avatars.githubusercontent.com/u/11923877?s=72&u=85823138e426d6a92e08eb953a9e38c3eb20a118&v=4" width="24" alt="Avatar of yuriskinfo"> yuriskinfo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yuriskinfo">Copy rank badge</a><br/>
 			Yuri Slobodyanyuk
 		</td>
 		<td>No Company</td>
@@ -8052,7 +8054,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/matandobr">
 				<img src="https://avatars.githubusercontent.com/u/6709304?s=72&u=7c55b987abc3804cf5f2b169b03362d997fbd749&v=4" width="24" alt="Avatar of matandobr"> matandobr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#matandobr">Copy rank badge</a><br/>
 			Matan Dobrushin
 		</td>
 		<td>No Company</td>
@@ -8065,7 +8067,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bbenzikry">
 				<img src="https://avatars.githubusercontent.com/u/1993348?s=72&u=1f87dc00918aa9c7e5c46c92cf478d2dfea49c31&v=4" width="24" alt="Avatar of bbenzikry"> bbenzikry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bbenzikry">Copy rank badge</a><br/>
 			Beni Ben zikry
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/rayahazi">
 				<img src="https://avatars.githubusercontent.com/u/44358915?s=72&v=4" width="24" alt="Avatar of rayahazi"> rayahazi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#rayahazi">Copy rank badge</a><br/>
 			Raya Klein
 		</td>
 		<td>No Company</td>
@@ -8091,7 +8093,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/asafdav">
 				<img src="https://avatars.githubusercontent.com/u/1223211?s=72&v=4" width="24" alt="Avatar of asafdav"> asafdav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#asafdav">Copy rank badge</a><br/>
 			Asaf David
 		</td>
 		<td>@bookmd  </td>
@@ -8104,7 +8106,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yossibaruch7">
 				<img src="https://avatars.githubusercontent.com/u/220745284?s=72&v=4" width="24" alt="Avatar of yossibaruch7"> yossibaruch7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yossibaruch7">Copy rank badge</a><br/>
 			Yosef Baruch 
 		</td>
 		<td> Haderech El Haosher<br/>Ltd<br/></td>
@@ -8117,7 +8119,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nertigel">
 				<img src="https://avatars.githubusercontent.com/u/26508383?s=72&u=a74b1b1cf113f08f5bcbdd88bd7cbc515eb2bb59&v=4" width="24" alt="Avatar of nertigel"> nertigel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nertigel">Copy rank badge</a><br/>
 			Nertigel
 		</td>
 		<td>Makaralo Solutions Ltd </td>
@@ -8130,7 +8132,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yotamN">
 				<img src="https://avatars.githubusercontent.com/u/5249239?s=72&u=b5663fb865b3bb7601f7f26a9d9515ebd243683b&v=4" width="24" alt="Avatar of yotamN"> yotamN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yotamN">Copy rank badge</a><br/>
 			Yotam
 		</td>
 		<td>Spring Ai </td>
@@ -8143,7 +8145,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Ohadbasan">
 				<img src="https://avatars.githubusercontent.com/u/2110558?s=72&u=9e5e30e1a4f3dd63b02530bbb4efea34594eb196&v=4" width="24" alt="Avatar of Ohadbasan"> Ohadbasan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Ohadbasan">Copy rank badge</a><br/>
 			Ohad Basan
 		</td>
 		<td>No Company</td>
@@ -8156,7 +8158,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AnalyzePlatypus">
 				<img src="https://avatars.githubusercontent.com/u/18376110?s=72&u=a3d64c20e7815f1ddbe753308a0a6a213f87b979&v=4" width="24" alt="Avatar of AnalyzePlatypus"> AnalyzePlatypus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AnalyzePlatypus">Copy rank badge</a><br/>
 			Michoel Samuels
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/realgam3">
 				<img src="https://avatars.githubusercontent.com/u/5564696?s=72&v=4" width="24" alt="Avatar of realgam3"> realgam3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#realgam3">Copy rank badge</a><br/>
 			Tomer Zait
 		</td>
 		<td>Stealth </td>
@@ -8182,7 +8184,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/naim94a">
 				<img src="https://avatars.githubusercontent.com/u/227396?s=72&u=d39913a8b1a168d2b16b7269c6c93bbe00026b24&v=4" width="24" alt="Avatar of naim94a"> naim94a
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#naim94a">Copy rank badge</a><br/>
 			Naim A.
 		</td>
 		<td>No Company</td>
@@ -8195,7 +8197,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shimont">
 				<img src="https://avatars.githubusercontent.com/u/2613168?s=72&u=b67c49edf3efdec35feb689423d263f23f04f8b2&v=4" width="24" alt="Avatar of shimont"> shimont
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shimont">Copy rank badge</a><br/>
 			Shimon Tolts
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LielAmar">
 				<img src="https://avatars.githubusercontent.com/u/31471679?s=72&u=933c57ebdc44fcb8841c57e9b650443ff4bec7f7&v=4" width="24" alt="Avatar of LielAmar"> LielAmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LielAmar">Copy rank badge</a><br/>
 			Liel Amar
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jgross">
 				<img src="https://avatars.githubusercontent.com/u/9670?s=72&u=e47e2d5d1c8d11e98f4391590ead7d6a25fc1027&v=4" width="24" alt="Avatar of jgross"> jgross
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jgross">Copy rank badge</a><br/>
 			Jonathan Gross
 		</td>
 		<td>Biodata Inc. </td>
@@ -8234,7 +8236,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/artemn0va">
 				<img src="https://avatars.githubusercontent.com/u/78075439?s=72&u=4581cfa2e090e8071f7b1cc794490f0cdce9f17d&v=4" width="24" alt="Avatar of artemn0va"> artemn0va
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#artemn0va">Copy rank badge</a><br/>
 			Artem Nova
 		</td>
 		<td>No Company</td>
@@ -8247,7 +8249,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orikad">
 				<img src="https://avatars.githubusercontent.com/u/1646245?s=72&v=4" width="24" alt="Avatar of orikad"> orikad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orikad">Copy rank badge</a><br/>
 			Ori
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Maayan-s">
 				<img src="https://avatars.githubusercontent.com/u/22072028?s=72&u=44218e1aeeb6725a1f21da3f10a4832d41b334bc&v=4" width="24" alt="Avatar of Maayan-s"> Maayan-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Maayan-s">Copy rank badge</a><br/>
 			Maayan Salom
 		</td>
 		<td>Elementary-data </td>
@@ -8273,7 +8275,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/unfor19">
 				<img src="https://avatars.githubusercontent.com/u/15122452?s=72&u=03c98fb5a8de5f02686c6a72a6ae20ab0e46061a&v=4" width="24" alt="Avatar of unfor19"> unfor19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#unfor19">Copy rank badge</a><br/>
 			Meir Gabay
 		</td>
 		<td>Meirg </td>
@@ -8286,7 +8288,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yuvalpinter">
 				<img src="https://avatars.githubusercontent.com/u/6660928?s=72&u=e8e960ee96097a21db8d8ebab55243b3b7a6c8b0&v=4" width="24" alt="Avatar of yuvalpinter"> yuvalpinter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yuvalpinter">Copy rank badge</a><br/>
 			Yuval Pinter
 		</td>
 		<td>@ben-gurion-universi </td>
@@ -8299,7 +8301,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amitdahan">
 				<img src="https://avatars.githubusercontent.com/u/9748762?s=72&u=b7751b98343d73156a35897a531e108323d39300&v=4" width="24" alt="Avatar of amitdahan"> amitdahan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amitdahan">Copy rank badge</a><br/>
 			Amit Dahan
 		</td>
 		<td>@neondatabase </td>
@@ -8312,7 +8314,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/chayim">
 				<img src="https://avatars.githubusercontent.com/u/1333958?s=72&v=4" width="24" alt="Avatar of chayim"> chayim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#chayim">Copy rank badge</a><br/>
 			Chayim
 		</td>
 		<td>New Thing </td>
@@ -8325,7 +8327,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/osleg">
 				<img src="https://avatars.githubusercontent.com/u/207721?s=72&v=4" width="24" alt="Avatar of osleg"> osleg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#osleg">Copy rank badge</a><br/>
 			Alex Zaslavsky
 		</td>
 		<td>@walldev </td>
@@ -8338,7 +8340,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/edoecohen">
 				<img src="https://avatars.githubusercontent.com/u/952779?s=72&v=4" width="24" alt="Avatar of edoecohen"> edoecohen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#edoecohen">Copy rank badge</a><br/>
 			Edoe Cohen
 		</td>
 		<td>@plntpwr, @streams-so </td>
@@ -8351,7 +8353,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/asafm">
 				<img src="https://avatars.githubusercontent.com/u/989425?s=72&u=df2ab6a6d9d3ac312d8472de48e06ea2e631bd09&v=4" width="24" alt="Avatar of asafm"> asafm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#asafm">Copy rank badge</a><br/>
 			Asaf Mesika
 		</td>
 		<td>Finout </td>
@@ -8364,7 +8366,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/krulik">
 				<img src="https://avatars.githubusercontent.com/u/1469785?s=72&v=4" width="24" alt="Avatar of krulik"> krulik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#krulik">Copy rank badge</a><br/>
 			Serge Krul
 		</td>
 		<td>@augurysys  </td>
@@ -8377,7 +8379,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/arielbh">
 				<img src="https://avatars.githubusercontent.com/u/320476?s=72&v=4" width="24" alt="Avatar of arielbh"> arielbh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#arielbh">Copy rank badge</a><br/>
 			Ariel Ben Horesh
 		</td>
 		<td>Lumen </td>
@@ -8390,7 +8392,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/garrylachman">
 				<img src="https://avatars.githubusercontent.com/u/11525012?s=72&u=dd53f42a6a67ded5c10ae39404e5460ef49da19c&v=4" width="24" alt="Avatar of garrylachman"> garrylachman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#garrylachman">Copy rank badge</a><br/>
 			Garry Lachman
 		</td>
 		<td>Garry Lachman </td>
@@ -8403,7 +8405,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/thaiat">
 				<img src="https://avatars.githubusercontent.com/u/4806944?s=72&v=4" width="24" alt="Avatar of thaiat"> thaiat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#thaiat">Copy rank badge</a><br/>
 			Avi Haiat
 		</td>
 		<td>Yoobic </td>
@@ -8416,7 +8418,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yammesicka">
 				<img src="https://avatars.githubusercontent.com/u/1492939?s=72&u=81a357461d55f59803a2852148a09932247775d8&v=4" width="24" alt="Avatar of yammesicka"> yammesicka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yammesicka">Copy rank badge</a><br/>
 			Yam Mesicka
 		</td>
 		<td>@onesteprnd </td>
@@ -8429,7 +8431,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AmitLevinson">
 				<img src="https://avatars.githubusercontent.com/u/55328033?s=72&u=415b7ada8521d1f6d273f3d507eb7414bf7cb989&v=4" width="24" alt="Avatar of AmitLevinson"> AmitLevinson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AmitLevinson">Copy rank badge</a><br/>
 			Amit Grinson
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eyalcohen4">
 				<img src="https://avatars.githubusercontent.com/u/16276358?s=72&u=385e10c679a99247d319de102a95ffd0606ec0d3&v=4" width="24" alt="Avatar of eyalcohen4"> eyalcohen4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eyalcohen4">Copy rank badge</a><br/>
 			Eyal Cohen
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/look4regev">
 				<img src="https://avatars.githubusercontent.com/u/4006829?s=72&u=c0a03cbab85ecfae44fd63d9e9e564da9eedc6cd&v=4" width="24" alt="Avatar of look4regev"> look4regev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#look4regev">Copy rank badge</a><br/>
 			Regev Golan
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ShockwaveNN">
 				<img src="https://avatars.githubusercontent.com/u/668524?s=72&u=8a45d81ecbe70b65cc603b5139ae03b530e0ca8b&v=4" width="24" alt="Avatar of ShockwaveNN"> ShockwaveNN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ShockwaveNN">Copy rank badge</a><br/>
 			Pavel Lobashov
 		</td>
 		<td>No Company</td>
@@ -8481,7 +8483,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vorandrew">
 				<img src="https://avatars.githubusercontent.com/u/290555?s=72&u=aabc6e0afc3c6602439a34ce5479cab92c0db967&v=4" width="24" alt="Avatar of vorandrew"> vorandrew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vorandrew">Copy rank badge</a><br/>
 			Andrew Vorobyov
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yuval-alaluf">
 				<img src="https://avatars.githubusercontent.com/u/37438467?s=72&u=578b4ad4a102db5efa628569628642d1a6a0e433&v=4" width="24" alt="Avatar of yuval-alaluf"> yuval-alaluf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yuval-alaluf">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8507,7 +8509,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Vl4d1s">
 				<img src="https://avatars.githubusercontent.com/u/42187212?s=72&u=87e2c6ced6e7d35c5d9f617b2d5b29f0d7df55b0&v=4" width="24" alt="Avatar of Vl4d1s"> Vl4d1s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Vl4d1s">Copy rank badge</a><br/>
 			Vladis Markin
 		</td>
 		<td>Earnix </td>
@@ -8520,7 +8522,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oleiba">
 				<img src="https://avatars.githubusercontent.com/u/16321515?s=72&u=07d4b1d55e71dc04c881e678ab11be6eacf8ce9c&v=4" width="24" alt="Avatar of oleiba"> oleiba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oleiba">Copy rank badge</a><br/>
 			Oded Leiba
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jenyayel">
 				<img src="https://avatars.githubusercontent.com/u/1775602?s=72&u=4760308f53fff79b61327ce19223071c88b85daf&v=4" width="24" alt="Avatar of jenyayel"> jenyayel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jenyayel">Copy rank badge</a><br/>
 			Jenya Y.
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/liorboord">
 				<img src="https://avatars.githubusercontent.com/u/1384330?s=72&u=b094d36cc2cd70eefd79f54c973f95da881c3db1&v=4" width="24" alt="Avatar of liorboord"> liorboord
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#liorboord">Copy rank badge</a><br/>
 			Lior Boord
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sag1v">
 				<img src="https://avatars.githubusercontent.com/u/9153149?s=72&u=7a7ec9bab43f8b15d890b37526709f2c1b96903e&v=4" width="24" alt="Avatar of sag1v"> sag1v
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sag1v">Copy rank badge</a><br/>
 			Sagiv ben giat
 		</td>
 		<td>Appsflyer </td>
@@ -8572,7 +8574,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itaisteinherz">
 				<img src="https://avatars.githubusercontent.com/u/22768990?s=72&u=6cc92b21aa05f82b81554d0dca98a8567baeffe5&v=4" width="24" alt="Avatar of itaisteinherz"> itaisteinherz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itaisteinherz">Copy rank badge</a><br/>
 			Itai Steinherz
 		</td>
 		<td>No Company</td>
@@ -8585,7 +8587,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elis">
 				<img src="https://avatars.githubusercontent.com/u/101744?s=72&v=4" width="24" alt="Avatar of elis"> elis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elis">Copy rank badge</a><br/>
 			Eli Sklar
 		</td>
 		<td>Javascript ❤ </td>
@@ -8598,7 +8600,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/danielkatz">
 				<img src="https://avatars.githubusercontent.com/u/862652?s=72&u=e8d389c2096df2e53a1dd4664f8864421602ea80&v=4" width="24" alt="Avatar of danielkatz"> danielkatz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#danielkatz">Copy rank badge</a><br/>
 			Daniel Katz
 		</td>
 		<td>@elementor </td>
@@ -8611,7 +8613,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gilshahar7">
 				<img src="https://avatars.githubusercontent.com/u/13700120?s=72&u=baa244c4c0577ecd9f3aa1a06bb4c307297ea7f7&v=4" width="24" alt="Avatar of gilshahar7"> gilshahar7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gilshahar7">Copy rank badge</a><br/>
 			Gil Shahar
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ranm8">
 				<img src="https://avatars.githubusercontent.com/u/1818427?s=72&u=f234a138448e8f876f6436fe8aeca334dec16d96&v=4" width="24" alt="Avatar of ranm8"> ranm8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ranm8">Copy rank badge</a><br/>
 			Ran Mizrahi
 		</td>
 		<td>Bit.dev </td>
@@ -8637,7 +8639,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alumag">
 				<img src="https://avatars.githubusercontent.com/u/10659903?s=72&u=e9d66ef135a64fd2c703609eb07813b740bb661f&v=4" width="24" alt="Avatar of alumag"> alumag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alumag">Copy rank badge</a><br/>
 			Aluma Gelbard
 		</td>
 		<td>@foundational-io </td>
@@ -8650,7 +8652,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/orlangure">
 				<img src="https://avatars.githubusercontent.com/u/10244414?s=72&u=6f9503e9e2b6b622a17f77b8d1617a70fdb1addc&v=4" width="24" alt="Avatar of orlangure"> orlangure
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#orlangure">Copy rank badge</a><br/>
 			Yury Fedorov
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elisim">
 				<img src="https://avatars.githubusercontent.com/u/17675462?s=72&u=e0ade0518283cc5b63cae334c95d54d1aec8cec1&v=4" width="24" alt="Avatar of elisim"> elisim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elisim">Copy rank badge</a><br/>
 			Eli Simhayev
 		</td>
 		<td>Hemispheric </td>
@@ -8676,7 +8678,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Sn1r">
 				<img src="https://avatars.githubusercontent.com/u/71400526?s=72&u=bae63aa1686cff228bf9ac10b33ff8617120e09e&v=4" width="24" alt="Avatar of Sn1r"> Sn1r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Sn1r">Copy rank badge</a><br/>
 			Snir Aviv
 		</td>
 		<td>No Company</td>
@@ -8689,7 +8691,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/michaelparkadze">
 				<img src="https://avatars.githubusercontent.com/u/52443367?s=72&u=0409954bcbbef5fc6d6c93d6d6d0d05eb501bfae&v=4" width="24" alt="Avatar of michaelparkadze"> michaelparkadze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#michaelparkadze">Copy rank badge</a><br/>
 			Michael Parkadze
 		</td>
 		<td>Gridline Studio </td>
@@ -8702,7 +8704,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MobiusM">
 				<img src="https://avatars.githubusercontent.com/u/5289325?s=72&u=7c272d5647eb8e874441035af7c440d43820fa01&v=4" width="24" alt="Avatar of MobiusM"> MobiusM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MobiusM">Copy rank badge</a><br/>
 			Dan Levinson
 		</td>
 		<td>No Company</td>
@@ -8715,7 +8717,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gioragutt">
 				<img src="https://avatars.githubusercontent.com/u/13711224?s=72&u=1958251239669a10862e59f662709fda1112d1cc&v=4" width="24" alt="Avatar of gioragutt"> gioragutt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gioragutt">Copy rank badge</a><br/>
 			Giora Guttsait
 		</td>
 		<td>Monday.com </td>
@@ -8728,7 +8730,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IyarLin">
 				<img src="https://avatars.githubusercontent.com/u/8618923?s=72&u=e33e5db3cce67f0a669ce78dd3d268b163af8414&v=4" width="24" alt="Avatar of IyarLin"> IyarLin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IyarLin">Copy rank badge</a><br/>
 			Iyar Lin
 		</td>
 		<td>Https://getloops.ai/ </td>
@@ -8741,7 +8743,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/friedmanrivka">
 				<img src="https://avatars.githubusercontent.com/u/151746698?s=72&u=883238f30263cc1523698fa14f8b1a70727b474b&v=4" width="24" alt="Avatar of friedmanrivka"> friedmanrivka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#friedmanrivka">Copy rank badge</a><br/>
 			Friedman Rivka|Full Stack Developer
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DovAmir">
 				<img src="https://avatars.githubusercontent.com/u/2938156?s=72&u=a0714640a16cfd8be72853a9fbe93583d7056755&v=4" width="24" alt="Avatar of DovAmir"> DovAmir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DovAmir">Copy rank badge</a><br/>
 			Dov Amir
 		</td>
 		<td>Linkedin.com/in/dova </td>
@@ -8767,7 +8769,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/parahall">
 				<img src="https://avatars.githubusercontent.com/u/5300254?s=72&u=751537a10a3ee6ce7f517048b2fc10ffdcf41bb3&v=4" width="24" alt="Avatar of parahall"> parahall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#parahall">Copy rank badge</a><br/>
 			Yonatan Levin
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ladymeyy">
 				<img src="https://avatars.githubusercontent.com/u/19207742?s=72&u=2737f5b8083d1e414daf892101863696e42d1d24&v=4" width="24" alt="Avatar of ladymeyy"> ladymeyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ladymeyy">Copy rank badge</a><br/>
 			ladymey
 		</td>
 		<td>Nvidia </td>
@@ -8793,7 +8795,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YosfanEilay">
 				<img src="https://avatars.githubusercontent.com/u/132997318?s=72&u=f50dd2eb9d206c499d6b00814e1143d37c7de985&v=4" width="24" alt="Avatar of YosfanEilay"> YosfanEilay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YosfanEilay">Copy rank badge</a><br/>
 			Eilay Yosfan (DFIR)
 		</td>
 		<td>Security Joes </td>
@@ -8806,7 +8808,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/joeysim">
 				<img src="https://avatars.githubusercontent.com/u/515996?s=72&v=4" width="24" alt="Avatar of joeysim"> joeysim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#joeysim">Copy rank badge</a><br/>
 			Joey Simhon
 		</td>
 		<td>No Company</td>
@@ -8819,7 +8821,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alonho">
 				<img src="https://avatars.githubusercontent.com/u/365086?s=72&v=4" width="24" alt="Avatar of alonho"> alonho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alonho">Copy rank badge</a><br/>
 			Alon Horev
 		</td>
 		<td>No Company</td>
@@ -8832,7 +8834,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ShayGali">
 				<img src="https://avatars.githubusercontent.com/u/86621168?s=72&u=7f0514fc2594b5775b61945452286a33331a5fd4&v=4" width="24" alt="Avatar of ShayGali"> ShayGali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ShayGali">Copy rank badge</a><br/>
 			ShayG
 		</td>
 		<td>No Company</td>
@@ -8845,7 +8847,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oasido">
 				<img src="https://avatars.githubusercontent.com/u/8614095?s=72&u=c4fde1dfe44832a4690606b4a27b2ad0a0206918&v=4" width="24" alt="Avatar of oasido"> oasido
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oasido">Copy rank badge</a><br/>
 			Ofek Asido
 		</td>
 		<td>@evpower-ai </td>
@@ -8858,7 +8860,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/naturalog">
 				<img src="https://avatars.githubusercontent.com/u/6278845?s=72&v=4" width="24" alt="Avatar of naturalog"> naturalog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#naturalog">Copy rank badge</a><br/>
 			Ohad Asor
 		</td>
 		<td>Http://idni.org </td>
@@ -8871,7 +8873,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/LiorRabinovich">
 				<img src="https://avatars.githubusercontent.com/u/25436075?s=72&u=8bcd62dc5f17dcc51f0e91023f2be7b23187e97d&v=4" width="24" alt="Avatar of LiorRabinovich"> LiorRabinovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#LiorRabinovich">Copy rank badge</a><br/>
 			Lior Rabinovich
 		</td>
 		<td>No Company</td>
@@ -8884,7 +8886,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AlmogJakov">
 				<img src="https://avatars.githubusercontent.com/u/68508896?s=72&u=4d68d006f831204939decc26c5b4c9e0e965cf29&v=4" width="24" alt="Avatar of AlmogJakov"> AlmogJakov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AlmogJakov">Copy rank badge</a><br/>
 			Almog Yakov
 		</td>
 		<td>Check Point Software Technologies<br/>Ltd<br/></td>
@@ -8897,7 +8899,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YuviGold">
 				<img src="https://avatars.githubusercontent.com/u/29873449?s=72&u=66225054085f2d4dbd7bec71eb05643228fd0daa&v=4" width="24" alt="Avatar of YuviGold"> YuviGold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YuviGold">Copy rank badge</a><br/>
 			Yuval Goldberg
 		</td>
 		<td>@torqio  </td>
@@ -8910,7 +8912,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tsarpaul">
 				<img src="https://avatars.githubusercontent.com/u/21146452?s=72&u=6ddffb330d629898cc34dbf365055556efbdbe42&v=4" width="24" alt="Avatar of tsarpaul"> tsarpaul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tsarpaul">Copy rank badge</a><br/>
 			Paul
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eliraneliassy">
 				<img src="https://avatars.githubusercontent.com/u/18899577?s=72&u=ce9282a7c47a55aac6f88407107745028cb195eb&v=4" width="24" alt="Avatar of eliraneliassy"> eliraneliassy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eliraneliassy">Copy rank badge</a><br/>
 			Eliran Eliassy
 		</td>
 		<td>E-square.io </td>
@@ -8936,7 +8938,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/KobiShashs">
 				<img src="https://avatars.githubusercontent.com/u/8275602?s=72&u=c8f4404bdb1bf0903b798698f6a74f40cd83f5dc&v=4" width="24" alt="Avatar of KobiShashs"> KobiShashs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#KobiShashs">Copy rank badge</a><br/>
 			Kobi Shasha
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/asafravid">
 				<img src="https://avatars.githubusercontent.com/u/46109899?s=72&u=33d328991390bf0f541bd8481a51bdc471ace2ef&v=4" width="24" alt="Avatar of asafravid"> asafravid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#asafravid">Copy rank badge</a><br/>
 			Asaf Ravid
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shevron">
 				<img src="https://avatars.githubusercontent.com/u/65563?s=72&v=4" width="24" alt="Avatar of shevron"> shevron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shevron">Copy rank badge</a><br/>
 			Shahar Evron
 		</td>
 		<td>Shoppimon </td>
@@ -8975,7 +8977,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/itays123">
 				<img src="https://avatars.githubusercontent.com/u/65223479?s=72&u=234fa45c779eb1359aa3f664d5ff30125e1b266b&v=4" width="24" alt="Avatar of itays123"> itays123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#itays123">Copy rank badge</a><br/>
 			Itay Schechner
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/heltonWernik">
 				<img src="https://avatars.githubusercontent.com/u/16448152?s=72&u=442363b74141a9f8edac26756e2f7a6894555394&v=4" width="24" alt="Avatar of heltonWernik"> heltonWernik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#heltonWernik">Copy rank badge</a><br/>
 			Helton Wernik
 		</td>
 		<td>Microsoft </td>
@@ -9001,7 +9003,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/assafnativ">
 				<img src="https://avatars.githubusercontent.com/u/302043?s=72&u=0f7c030dc015e4e2509c4cf791969bb54ba7792e&v=4" width="24" alt="Avatar of assafnativ"> assafnativ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#assafnativ">Copy rank badge</a><br/>
 			Assaf Nativ
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/configurator">
 				<img src="https://avatars.githubusercontent.com/u/671365?s=72&u=2ac3d948169755f17dde500372c4674363232c4f&v=4" width="24" alt="Avatar of configurator"> configurator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#configurator">Copy rank badge</a><br/>
 			Dor Kleiman
 		</td>
 		<td>Startup Booster • @startup-booster<br/></td>
@@ -9027,7 +9029,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gilmaimon">
 				<img src="https://avatars.githubusercontent.com/u/19908473?s=72&u=03d2a185149f20ab0433476cb353a2eaea181180&v=4" width="24" alt="Avatar of gilmaimon"> gilmaimon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gilmaimon">Copy rank badge</a><br/>
 			Gil Maimon
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mariiio">
 				<img src="https://avatars.githubusercontent.com/u/14424870?s=72&u=df5850d17ee7de00ac044378c8766ced9d24c626&v=4" width="24" alt="Avatar of mariiio"> mariiio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mariiio">Copy rank badge</a><br/>
 			Mario
 		</td>
 		<td>No Company</td>
@@ -9053,7 +9055,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/maayanpolitzer">
 				<img src="https://avatars.githubusercontent.com/u/8804863?s=72&u=a4934947a16a9890a53ad0d07909ce34caaea02f&v=4" width="24" alt="Avatar of maayanpolitzer"> maayanpolitzer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#maayanpolitzer">Copy rank badge</a><br/>
 			Maayan Politzer
 		</td>
 		<td>Self Employed </td>
@@ -9066,7 +9068,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Moshe-Malka">
 				<img src="https://avatars.githubusercontent.com/u/15654011?s=72&u=fc5a9e7fbcce1514a425f9974de69153a5994bcc&v=4" width="24" alt="Avatar of Moshe-Malka"> Moshe-Malka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Moshe-Malka">Copy rank badge</a><br/>
 			moshe malka
 		</td>
 		<td>No Company</td>
@@ -9079,7 +9081,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/barhoring">
 				<img src="https://avatars.githubusercontent.com/u/16229686?s=72&u=cd0b3ee82fb0a2afcad69b5c407b9741d8f1505b&v=4" width="24" alt="Avatar of barhoring"> barhoring
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#barhoring">Copy rank badge</a><br/>
 			Bar Horing
 		</td>
 		<td>Looking For New Opportunities<br/></td>
@@ -9092,7 +9094,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Seanitzel">
 				<img src="https://avatars.githubusercontent.com/u/16267397?s=72&u=c084f27bea0d291721d0bc2a91918058d3b905d1&v=4" width="24" alt="Avatar of Seanitzel"> Seanitzel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Seanitzel">Copy rank badge</a><br/>
 			Seanitzel(Sean Ray Dvir)
 		</td>
 		<td>Melodic Mind </td>
@@ -9105,7 +9107,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tuxiqae">
 				<img src="https://avatars.githubusercontent.com/u/39622904?s=72&v=4" width="24" alt="Avatar of tuxiqae"> tuxiqae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tuxiqae">Copy rank badge</a><br/>
 			Sagi Sarussi
 		</td>
 		<td>No Company</td>
@@ -9118,7 +9120,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omribahumi">
 				<img src="https://avatars.githubusercontent.com/u/2558457?s=72&v=4" width="24" alt="Avatar of omribahumi"> omribahumi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omribahumi">Copy rank badge</a><br/>
 			Omri Bahumi
 		</td>
 		<td>@facebook  </td>
@@ -9131,7 +9133,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ZviMints">
 				<img src="https://avatars.githubusercontent.com/u/43406781?s=72&u=6d5a9865ccde9ac0485e02f406946a96be0277bd&v=4" width="24" alt="Avatar of ZviMints"> ZviMints
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ZviMints">Copy rank badge</a><br/>
 			Zvi Mints
 		</td>
 		<td>@doubleverify </td>
@@ -9144,7 +9146,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shaialon">
 				<img src="https://avatars.githubusercontent.com/u/3126207?s=72&u=bdb4a3d6f00d71fab6fd07e3edf6d5b2173c3008&v=4" width="24" alt="Avatar of shaialon"> shaialon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shaialon">Copy rank badge</a><br/>
 			Shai Alon
 		</td>
 		<td>Google Cloud </td>
@@ -9157,7 +9159,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amit-davidson">
 				<img src="https://avatars.githubusercontent.com/u/34520943?s=72&u=6f84e87bf43450063959ba4483d8c055aa9cd838&v=4" width="24" alt="Avatar of amit-davidson"> amit-davidson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amit-davidson">Copy rank badge</a><br/>
 			Amit Davidson
 		</td>
 		<td>@arnac-io </td>
@@ -9170,7 +9172,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DanielShemesh">
 				<img src="https://avatars.githubusercontent.com/u/20585236?s=72&u=1d575d161e4415f0645252cb1415be8187db36be&v=4" width="24" alt="Avatar of DanielShemesh"> DanielShemesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DanielShemesh">Copy rank badge</a><br/>
 			Daniel Shemesh
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nopernik">
 				<img src="https://avatars.githubusercontent.com/u/11662758?s=72&u=8e5d2c69fef71fab3eaa0f137f5599b1516a82b6&v=4" width="24" alt="Avatar of nopernik"> nopernik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nopernik">Copy rank badge</a><br/>
 			Korznikov Alexander
 		</td>
 		<td>No Company</td>
@@ -9196,7 +9198,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/oranav">
 				<img src="https://avatars.githubusercontent.com/u/252748?s=72&u=2cfbdcd369841e41a537a2ca219dd48849b7e495&v=4" width="24" alt="Avatar of oranav"> oranav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#oranav">Copy rank badge</a><br/>
 			Oran Avraham
 		</td>
 		<td>@rubrikinc  </td>
@@ -9209,7 +9211,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eladmeidar">
 				<img src="https://avatars.githubusercontent.com/u/29753?s=72&v=4" width="24" alt="Avatar of eladmeidar"> eladmeidar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eladmeidar">Copy rank badge</a><br/>
 			Elad Meidar
 		</td>
 		<td>No Company</td>
@@ -9222,7 +9224,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/michaelscodingspot">
 				<img src="https://avatars.githubusercontent.com/u/24865417?s=72&u=166b91649d6d7fe391544b5035f86e704b32ff78&v=4" width="24" alt="Avatar of michaelscodingspot"> michaelscodingspot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#michaelscodingspot">Copy rank badge</a><br/>
 			Michael Shpilt
 		</td>
 		<td>Codevalue </td>
@@ -9235,7 +9237,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mgershovitz">
 				<img src="https://avatars.githubusercontent.com/u/11146631?s=72&u=63fbecd398e749730c6e5e8f62ed879f8437c4ad&v=4" width="24" alt="Avatar of mgershovitz"> mgershovitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mgershovitz">Copy rank badge</a><br/>
 			Maya Gershovitz
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/smnh">
 				<img src="https://avatars.githubusercontent.com/u/97896?s=72&u=2ba8020e5e728cb7d8404f595747494f7faef50e&v=4" width="24" alt="Avatar of smnh"> smnh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#smnh">Copy rank badge</a><br/>
 			Simon Hanukaev
 		</td>
 		<td>@netlify  </td>
@@ -9261,7 +9263,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/amavlyanov">
 				<img src="https://avatars.githubusercontent.com/u/5631832?s=72&u=3c50fd0363b7a4873c2ffab62164f67dba14585b&v=4" width="24" alt="Avatar of amavlyanov"> amavlyanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#amavlyanov">Copy rank badge</a><br/>
 			Andrey Mavlyanov
 		</td>
 		<td>Digital Activity </td>
@@ -9274,7 +9276,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Extamov">
 				<img src="https://avatars.githubusercontent.com/u/26222159?s=72&u=21607f50dba869b0ae04b47a5f6c976c2e59c02d&v=4" width="24" alt="Avatar of Extamov"> Extamov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Extamov">Copy rank badge</a><br/>
 			Osher H
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/avivt">
 				<img src="https://avatars.githubusercontent.com/u/15175733?s=72&u=050a424acbf0a25d7425d240e2263175405d4b41&v=4" width="24" alt="Avatar of avivt"> avivt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#avivt">Copy rank badge</a><br/>
 			Aviv Tamar
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/tsanhan">
 				<img src="https://avatars.githubusercontent.com/u/9368217?s=72&u=3164e75efb125338937a1c12e65911cda998a727&v=4" width="24" alt="Avatar of tsanhan"> tsanhan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#tsanhan">Copy rank badge</a><br/>
 			Victor Yampolsky
 		</td>
 		<td>No Company</td>
@@ -9313,7 +9315,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ScorpionesLabs">
 				<img src="https://avatars.githubusercontent.com/u/59449574?s=72&u=6805e779f2d9183b18e8466f926b42d39c6dfee4&v=4" width="24" alt="Avatar of ScorpionesLabs"> ScorpionesLabs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ScorpionesLabs">Copy rank badge</a><br/>
 			Scorpiones Labs
 		</td>
 		<td>Scorpiones Ltd </td>
@@ -9326,7 +9328,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AregevDev">
 				<img src="https://avatars.githubusercontent.com/u/40574704?s=72&u=74bf9f8303e5c263abc35be5bab309916599388a&v=4" width="24" alt="Avatar of AregevDev"> AregevDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AregevDev">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bitterbit">
 				<img src="https://avatars.githubusercontent.com/u/4591339?s=72&v=4" width="24" alt="Avatar of bitterbit"> bitterbit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bitterbit">Copy rank badge</a><br/>
 			Gal Tashma
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/kggold4">
 				<img src="https://avatars.githubusercontent.com/u/68167734?s=72&u=d913644d052b4f863489a7c6276921fb3df69f3b&v=4" width="24" alt="Avatar of kggold4"> kggold4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#kggold4">Copy rank badge</a><br/>
 			Kfir Goldfarb
 		</td>
 		<td>Mprest Systems </td>
@@ -9365,7 +9367,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/jewdev">
 				<img src="https://avatars.githubusercontent.com/u/28711824?s=72&u=5e1bbc9cafe1ac3988cd77c46993000dc09c42dd&v=4" width="24" alt="Avatar of jewdev"> jewdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#jewdev">Copy rank badge</a><br/>
 			jd
 		</td>
 		<td>@adirelad </td>
@@ -9378,7 +9380,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/GuyKahlon">
 				<img src="https://avatars.githubusercontent.com/u/3619880?s=72&u=f8396c4d689b7ee27740d3cfac8376d8e448c91a&v=4" width="24" alt="Avatar of GuyKahlon"> GuyKahlon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#GuyKahlon">Copy rank badge</a><br/>
 			Guy Kahlon
 		</td>
 		<td>@apple </td>
@@ -9391,7 +9393,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/adiredri">
 				<img src="https://avatars.githubusercontent.com/u/142739269?s=72&u=0ed5f7b8352522a1d09125e290fcd2a6e925e7f6&v=4" width="24" alt="Avatar of adiredri"> adiredri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#adiredri">Copy rank badge</a><br/>
 			Adir Edri
 		</td>
 		<td>Phoenix </td>
@@ -9404,7 +9406,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/flowtsohg">
 				<img src="https://avatars.githubusercontent.com/u/5874825?s=72&v=4" width="24" alt="Avatar of flowtsohg"> flowtsohg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#flowtsohg">Copy rank badge</a><br/>
 			Chananya Freiman
 		</td>
 		<td>No Company</td>
@@ -9417,7 +9419,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YuvalNirkin">
 				<img src="https://avatars.githubusercontent.com/u/3984115?s=72&u=f141624f1e9567f32c88736dfb170d88779bd25a&v=4" width="24" alt="Avatar of YuvalNirkin"> YuvalNirkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YuvalNirkin">Copy rank badge</a><br/>
 			Yuval Nirkin
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/viler-int10h">
 				<img src="https://avatars.githubusercontent.com/u/70486476?s=72&u=d5980943d9756c801c3b6c612e28a8d9d382ab77&v=4" width="24" alt="Avatar of viler-int10h"> viler-int10h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#viler-int10h">Copy rank badge</a><br/>
 			VileR
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/Inbal-Tish">
 				<img src="https://avatars.githubusercontent.com/u/33805983?s=72&u=15799ab0cff4472be59bf6117885da093c558540&v=4" width="24" alt="Avatar of Inbal-Tish"> Inbal-Tish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#Inbal-Tish">Copy rank badge</a><br/>
 			Inbal Tish
 		</td>
 		<td>Wix.com </td>
@@ -9456,7 +9458,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/bengrunfeld">
 				<img src="https://avatars.githubusercontent.com/u/2786310?s=72&u=e853ffb3d3e419815c84c4f8c41fc7e2dcd03f87&v=4" width="24" alt="Avatar of bengrunfeld"> bengrunfeld
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#bengrunfeld">Copy rank badge</a><br/>
 			Ben Grunfeld
 		</td>
 		<td>Jetpug </td>
@@ -9469,7 +9471,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idanwe">
 				<img src="https://avatars.githubusercontent.com/u/3066423?s=72&u=47d1b50e3322dfa16ee2c55c587186665ae5cb0e&v=4" width="24" alt="Avatar of idanwe"> idanwe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idanwe">Copy rank badge</a><br/>
 			Idan Wender
 		</td>
 		<td>Visitt.io </td>
@@ -9482,7 +9484,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shlomiatar">
 				<img src="https://avatars.githubusercontent.com/u/4199?s=72&u=2cc9b8060e0e0f7f57d0b57f2a5dc9c7ea993f18&v=4" width="24" alt="Avatar of shlomiatar"> shlomiatar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shlomiatar">Copy rank badge</a><br/>
 			Shlomi Atar
 		</td>
 		<td>No Company</td>
@@ -9495,7 +9497,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RonMelkhior">
 				<img src="https://avatars.githubusercontent.com/u/1017721?s=72&u=dd780ca3bf5eb9979a7835051067470ea34b4376&v=4" width="24" alt="Avatar of RonMelkhior"> RonMelkhior
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RonMelkhior">Copy rank badge</a><br/>
 			Ron Melkhior
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/AlaaShaheen2">
 				<img src="https://avatars.githubusercontent.com/u/103044822?s=72&u=483e4c4eba8b730ed225e2af90d8965ad812f1c0&v=4" width="24" alt="Avatar of AlaaShaheen2"> AlaaShaheen2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#AlaaShaheen2">Copy rank badge</a><br/>
 			Alaa Shaheen
 		</td>
 		<td>Full-stack Developer </td>
@@ -9521,7 +9523,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/stavshamir">
 				<img src="https://avatars.githubusercontent.com/u/22257261?s=72&u=4741eca494838e71bb6d9d1a8a4596856d883cbe&v=4" width="24" alt="Avatar of stavshamir"> stavshamir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#stavshamir">Copy rank badge</a><br/>
 			Stav Shamir
 		</td>
 		<td>No Company</td>
@@ -9534,7 +9536,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/datner">
 				<img src="https://avatars.githubusercontent.com/u/22598347?s=72&u=ea4bf17b45012ac4fe123092160f529dea217ed0&v=4" width="24" alt="Avatar of datner"> datner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#datner">Copy rank badge</a><br/>
 			Datner
 		</td>
 		<td>Island </td>
@@ -9547,7 +9549,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gilmatok">
 				<img src="https://avatars.githubusercontent.com/u/1190747?s=72&u=75689b972a33d97f4ba7ea035a7d0f4ccf3fb253&v=4" width="24" alt="Avatar of gilmatok"> gilmatok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gilmatok">Copy rank badge</a><br/>
 			Gil Matok
 		</td>
 		<td>Palo Alto Networks </td>
@@ -9560,7 +9562,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/shauleiz">
 				<img src="https://avatars.githubusercontent.com/u/13401124?s=72&u=49432a99b6c7c4c249145a23da483a69cf7827e3&v=4" width="24" alt="Avatar of shauleiz"> shauleiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#shauleiz">Copy rank badge</a><br/>
 			Shaul
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alexanderlz">
 				<img src="https://avatars.githubusercontent.com/u/1499009?s=72&u=12d27fede7026d38f8501242a8243239684377fd&v=4" width="24" alt="Avatar of alexanderlz"> alexanderlz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alexanderlz">Copy rank badge</a><br/>
 			Alexander Leibzon
 		</td>
 		<td>@/\ </td>
@@ -9586,7 +9588,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/nicolezimerman">
 				<img src="https://avatars.githubusercontent.com/u/68829594?s=72&u=94c2eb84d9eb61fa385b5e900f8fec827f3cd61f&v=4" width="24" alt="Avatar of nicolezimerman"> nicolezimerman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#nicolezimerman">Copy rank badge</a><br/>
 			Nicole Zimerman
 		</td>
 		<td>No Company</td>
@@ -9599,7 +9601,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dimgold">
 				<img src="https://avatars.githubusercontent.com/u/9902117?s=72&u=f9fa159868a5c0ebe988cafc6d87231a358f1252&v=4" width="24" alt="Avatar of dimgold"> dimgold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dimgold">Copy rank badge</a><br/>
 			Dima Goldenberg
 		</td>
 		<td>Bigdatalab </td>
@@ -9612,7 +9614,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/dkomanov">
 				<img src="https://avatars.githubusercontent.com/u/1158662?s=72&v=4" width="24" alt="Avatar of dkomanov"> dkomanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#dkomanov">Copy rank badge</a><br/>
 			Dmitry Komanov
 		</td>
 		<td>Wix </td>
@@ -9625,7 +9627,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/yellis">
 				<img src="https://avatars.githubusercontent.com/u/1366941?s=72&v=4" width="24" alt="Avatar of yellis"> yellis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#yellis">Copy rank badge</a><br/>
 			Yaakov Ellis
 		</td>
 		<td>Intuit </td>
@@ -9638,7 +9640,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/lightpriest">
 				<img src="https://avatars.githubusercontent.com/u/351445?s=72&u=07ab319ee8f00285e05a81055a5dcb5120865905&v=4" width="24" alt="Avatar of lightpriest"> lightpriest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#lightpriest">Copy rank badge</a><br/>
 			Or Cohen
 		</td>
 		<td>Melio Payments </td>
@@ -9651,7 +9653,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/omrihar">
 				<img src="https://avatars.githubusercontent.com/u/306672?s=72&u=019d243c51174c455f27011d87c3fef85e97394b&v=4" width="24" alt="Avatar of omrihar"> omrihar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#omrihar">Copy rank badge</a><br/>
 			Omri Har-Shemesh
 		</td>
 		<td>Swiss Re </td>
@@ -9664,7 +9666,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/YonatanBenezra">
 				<img src="https://avatars.githubusercontent.com/u/69403365?s=72&u=deef6327ed758e49ee6b4cbc997cfd126c40eabb&v=4" width="24" alt="Avatar of YonatanBenezra"> YonatanBenezra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#YonatanBenezra">Copy rank badge</a><br/>
 			Yonatan Benezra
 		</td>
 		<td>No Company</td>
@@ -9677,7 +9679,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/StatusReport">
 				<img src="https://avatars.githubusercontent.com/u/1927614?s=72&u=a46dd82dc136abd27d299dbe6a8a2a4896664394&v=4" width="24" alt="Avatar of StatusReport"> StatusReport
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#StatusReport">Copy rank badge</a><br/>
 			Yaron Inger
 		</td>
 		<td>Lightricks </td>
@@ -9690,7 +9692,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/mmgordon82">
 				<img src="https://avatars.githubusercontent.com/u/10855074?s=72&u=4879f79204f31787573c2e081955b39dc36d04af&v=4" width="24" alt="Avatar of mmgordon82"> mmgordon82
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#mmgordon82">Copy rank badge</a><br/>
 			Maor Gordon
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/gdabah">
 				<img src="https://avatars.githubusercontent.com/u/442970?s=72&u=3f07d12722d818a4543c8e03f2e3b5f7a4ed0655&v=4" width="24" alt="Avatar of gdabah"> gdabah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#gdabah">Copy rank badge</a><br/>
 			Gil Dabah
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/MohammadAG">
 				<img src="https://avatars.githubusercontent.com/u/1752369?s=72&v=4" width="24" alt="Avatar of MohammadAG"> MohammadAG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#MohammadAG">Copy rank badge</a><br/>
 			Mohammad Abu-Garbeyyeh
 		</td>
 		<td>At&t </td>
@@ -9729,7 +9731,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/filsv">
 				<img src="https://avatars.githubusercontent.com/u/13712013?s=72&u=7dba29e68eb159149a9e3af8573d787aeeab82c7&v=4" width="24" alt="Avatar of filsv"> filsv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#filsv">Copy rank badge</a><br/>
 			Fil Sviatoslav 🇺🇦🇮🇱
 		</td>
 		<td>Stops.com </td>
@@ -9742,7 +9744,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eliortabeka">
 				<img src="https://avatars.githubusercontent.com/u/9306380?s=72&u=d75274dac361146d1fa26cb8105c220436e385d9&v=4" width="24" alt="Avatar of eliortabeka"> eliortabeka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eliortabeka">Copy rank badge</a><br/>
 			Elior Tabeka
 		</td>
 		<td>Pophy.co </td>
@@ -9755,7 +9757,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/EstyKauftiel">
 				<img src="https://avatars.githubusercontent.com/u/151885141?s=72&u=c0fe5b5c7d1c9f27a018a62764a5929d75ebdad1&v=4" width="24" alt="Avatar of EstyKauftiel"> EstyKauftiel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#EstyKauftiel">Copy rank badge</a><br/>
 			Esty Kauftiel
 		</td>
 		<td>No Company</td>
@@ -9768,7 +9770,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/18z">
 				<img src="https://avatars.githubusercontent.com/u/593954?s=72&u=296b6e96cdb6a8a1a04d3a46810c07bfc0d79858&v=4" width="24" alt="Avatar of 18z"> 18z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#18z">Copy rank badge</a><br/>
 			KunYuChen
 		</td>
 		<td>@quark-engine </td>
@@ -9781,7 +9783,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/sdima1357">
 				<img src="https://avatars.githubusercontent.com/u/31247803?s=72&u=efd8ec7b2cf6c6d4aa084ca02185a194517055a1&v=4" width="24" alt="Avatar of sdima1357"> sdima1357
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#sdima1357">Copy rank badge</a><br/>
 			Samsonov Dima
 		</td>
 		<td> Available For Hire<br/><br/></td>
@@ -9794,7 +9796,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DanielAvinoam">
 				<img src="https://avatars.githubusercontent.com/u/71561723?s=72&u=093bd12bc723800cd2bd99cb3fbb01bf12bb26b2&v=4" width="24" alt="Avatar of DanielAvinoam"> DanielAvinoam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DanielAvinoam">Copy rank badge</a><br/>
 			Daniel Avinoam
 		</td>
 		<td>No Company</td>
@@ -9807,7 +9809,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/schorrm">
 				<img src="https://avatars.githubusercontent.com/u/16987694?s=72&u=8633c56eb4ec9579da28c4aaea96a6d1373469ab&v=4" width="24" alt="Avatar of schorrm"> schorrm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#schorrm">Copy rank badge</a><br/>
 			Moshe Schorr
 		</td>
 		<td>Google </td>
@@ -9820,7 +9822,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/elad661">
 				<img src="https://avatars.githubusercontent.com/u/498903?s=72&u=871e1e6189cb517a923f8239bd4a4356406c12c5&v=4" width="24" alt="Avatar of elad661"> elad661
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#elad661">Copy rank badge</a><br/>
 			Elad Alfassa
 		</td>
 		<td>No Company</td>
@@ -9833,7 +9835,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/meexmachina">
 				<img src="https://avatars.githubusercontent.com/u/616259?s=72&u=ff9734f868ad17136b29c2299827fd20123dcd56&v=4" width="24" alt="Avatar of meexmachina"> meexmachina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#meexmachina">Copy rank badge</a><br/>
 			David Michaeli
 		</td>
 		<td>No Company</td>
@@ -9846,7 +9848,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/idanya">
 				<img src="https://avatars.githubusercontent.com/u/10362893?s=72&u=89bc3aa29ec3c46662031c14d7168c47318852ea&v=4" width="24" alt="Avatar of idanya"> idanya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#idanya">Copy rank badge</a><br/>
 			Idan Yael
 		</td>
 		<td>Fireblocks </td>
@@ -9859,7 +9861,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/lironmiz">
 				<img src="https://avatars.githubusercontent.com/u/91504420?s=72&u=cb93dfec613911ac8d4e84fbb560711546711ad5&v=4" width="24" alt="Avatar of lironmiz"> lironmiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#lironmiz">Copy rank badge</a><br/>
 			Liron-Mizrahi
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/DieHertz">
 				<img src="https://avatars.githubusercontent.com/u/1427681?s=72&u=9f16c9e2194565cb8a90cbc88c6313862aac9c22&v=4" width="24" alt="Avatar of DieHertz"> DieHertz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#DieHertz">Copy rank badge</a><br/>
 			Andrey Mironov
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ronfybish">
 				<img src="https://avatars.githubusercontent.com/u/41908747?s=72&u=a5e0b2fefbe5ebd5703f928f58d5a21dd0945672&v=4" width="24" alt="Avatar of ronfybish"> ronfybish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ronfybish">Copy rank badge</a><br/>
 			Ron Fybish
 		</td>
 		<td>Frontegg </td>
@@ -9898,7 +9900,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/holograph">
 				<img src="https://avatars.githubusercontent.com/u/1114848?s=72&u=028c6ab6a69a652fb6e89571a38e8f3219697e5b&v=4" width="24" alt="Avatar of holograph"> holograph
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#holograph">Copy rank badge</a><br/>
 			Tomer Gabel
 		</td>
 		<td>Substrate Software Services </td>
@@ -9911,7 +9913,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ibraheemalayan">
 				<img src="https://avatars.githubusercontent.com/u/35265448?s=72&u=3cc10e0a73ae1add9de9fe208ddbabb36c2b03aa&v=4" width="24" alt="Avatar of ibraheemalayan"> ibraheemalayan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ibraheemalayan">Copy rank badge</a><br/>
 			Ibraheem Alyan
 		</td>
 		<td>Silal </td>
@@ -9924,7 +9926,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IdoZehori">
 				<img src="https://avatars.githubusercontent.com/u/15030476?s=72&u=013bebf71de60234db90cf76c7c12eff3b178cc3&v=4" width="24" alt="Avatar of IdoZehori"> IdoZehori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IdoZehori">Copy rank badge</a><br/>
 			Ido Zehori
 		</td>
 		<td>Bigabid </td>
@@ -9937,7 +9939,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/it-is-wednesday">
 				<img src="https://avatars.githubusercontent.com/u/4103412?s=72&u=24e830a65d58fc1ef3d8ea171f22c59fb606911c&v=4" width="24" alt="Avatar of it-is-wednesday"> it-is-wednesday
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#it-is-wednesday">Copy rank badge</a><br/>
 			Maor Kadosh
 		</td>
 		<td>No Company</td>
@@ -9950,7 +9952,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/vovafeldman">
 				<img src="https://avatars.githubusercontent.com/u/6830121?s=72&u=11384f57381dfe6f1d13fb942a91b641c0ea575f&v=4" width="24" alt="Avatar of vovafeldman"> vovafeldman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#vovafeldman">Copy rank badge</a><br/>
 			Vova Feldman
 		</td>
 		<td>@freemius </td>
@@ -9963,7 +9965,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RonnyO">
 				<img src="https://avatars.githubusercontent.com/u/225315?s=72&u=003065c579df6c90db8ef5edf1b74ece292edf4b&v=4" width="24" alt="Avatar of RonnyO"> RonnyO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RonnyO">Copy rank badge</a><br/>
 			Ronny Orbach
 		</td>
 		<td>Really Good </td>
@@ -9976,7 +9978,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ofri">
 				<img src="https://avatars.githubusercontent.com/u/105233?s=72&v=4" width="24" alt="Avatar of ofri"> ofri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ofri">Copy rank badge</a><br/>
 			Ofri Raviv
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/IlanFrumer">
 				<img src="https://avatars.githubusercontent.com/u/3116399?s=72&u=31f94de39e6d04b73b30354098eb699530cc3769&v=4" width="24" alt="Avatar of IlanFrumer"> IlanFrumer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#IlanFrumer">Copy rank badge</a><br/>
 			Ilan Frumer
 		</td>
 		<td>No Company</td>
@@ -10002,7 +10004,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/alextkachman">
 				<img src="https://avatars.githubusercontent.com/u/181448?s=72&u=210c9a8a3e5367627cb1073c5c9ad8bc61ddbfc0&v=4" width="24" alt="Avatar of alextkachman"> alextkachman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#alextkachman">Copy rank badge</a><br/>
 			Alex Tkachman
 		</td>
 		<td>Mbte Sweden Ab </td>
@@ -10015,7 +10017,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/aviemzur">
 				<img src="https://avatars.githubusercontent.com/u/5708714?s=72&u=a78e858801d86ad8e5902edb45d563c6cbea2c15&v=4" width="24" alt="Avatar of aviemzur"> aviemzur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#aviemzur">Copy rank badge</a><br/>
 			Zur
 		</td>
 		<td>@natural-intelligenc </td>
@@ -10028,7 +10030,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/eyalbe4">
 				<img src="https://avatars.githubusercontent.com/u/7830056?s=72&u=12ab7d2bf42805579d213a6f22e0796cbccda17d&v=4" width="24" alt="Avatar of eyalbe4"> eyalbe4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#eyalbe4">Copy rank badge</a><br/>
 			Eyal Ben Moshe
 		</td>
 		<td>Jfrog </td>
@@ -10041,7 +10043,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/ofirdagan">
 				<img src="https://avatars.githubusercontent.com/u/6453061?s=72&u=26613ee8408c2d22991880b707e2f09731605d00&v=4" width="24" alt="Avatar of ofirdagan"> ofirdagan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#ofirdagan">Copy rank badge</a><br/>
 			Ofir Dagan
 		</td>
 		<td>@wiz </td>
@@ -10054,7 +10056,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/RoySenpai">
 				<img src="https://avatars.githubusercontent.com/u/8429686?s=72&u=ea0486908446bc670cd4755655c9a037c9395d12&v=4" width="24" alt="Avatar of RoySenpai"> RoySenpai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#RoySenpai">Copy rank badge</a><br/>
 			Roy Simanovich
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `928 users`  in Israel. You need at least `33 followers` to be on this
 		<td>
 			<a href="https://github.com/NetanelAlbert">
 				<img src="https://avatars.githubusercontent.com/u/38787040?s=72&u=784f09f194fd128cf6b7b13276881dc5e12d7738&v=4" width="24" alt="Avatar of NetanelAlbert"> NetanelAlbert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/israel.md#NetanelAlbert">Copy rank badge</a><br/>
 			Netanel Albert
 		</td>
 		<td>No Company</td>
