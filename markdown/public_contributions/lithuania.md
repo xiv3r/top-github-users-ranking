@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania">
 </a>
 
-The `public contributions` by users in Lithuania on `2026/9/23 10:21 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
+The `public contributions` by users in Lithuania on `2026/10/22 6:53 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `945 users`  in Lithuania. You need at least `11 followers` to be on this list.
+There are `944 users`  in Lithuania. You need at least `11 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Lithuania GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -107,9 +109,22 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>1</td>
 		<td>
+			<a href="https://github.com/kibertoad">
+				<img src="https://avatars.githubusercontent.com/u/1847934?s=72&u=c2b2f6633e0a92681474680c64cda1bf7d0500de&v=4" width="24" alt="Avatar of kibertoad"> kibertoad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kibertoad">Copy rank badge</a><br/>
+			Igor Savin
+		</td>
+		<td>Lokalise </td>
+		<td><a href="https://twitter.com/kibertoad">kibertoad</a></td>
+		<td>Vilnius</td>
+		<td>15873</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
 			<a href="https://github.com/Dambre">
 				<img src="https://avatars.githubusercontent.com/u/9976600?s=72&u=85f56cddbf15a822fdf7695c7520553b1ebc4667&v=4" width="24" alt="Avatar of Dambre"> Dambre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Dambre">Copy rank badge</a><br/>
 			Lukas
 		</td>
 		<td>Spirales.tech </td>
@@ -118,453 +133,531 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>12257</td>
 	</tr>
 	<tr>
-		<td>2</td>
-		<td>
-			<a href="https://github.com/kibertoad">
-				<img src="https://avatars.githubusercontent.com/u/1847934?s=72&u=c2b2f6633e0a92681474680c64cda1bf7d0500de&v=4" width="24" alt="Avatar of kibertoad"> kibertoad
-			</a><br/>
-			Igor Savin
-		</td>
-		<td>Lokalise </td>
-		<td><a href="https://twitter.com/kibertoad">kibertoad</a></td>
-		<td>Vilnius</td>
-		<td>7833</td>
-	</tr>
-	<tr>
 		<td>3</td>
 		<td>
 			<a href="https://github.com/shenxianpeng">
 				<img src="https://avatars.githubusercontent.com/u/3353385?s=72&u=2ae27e396879f4b43730416370997ad7208c9745&v=4" width="24" alt="Avatar of shenxianpeng"> shenxianpeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#shenxianpeng">Copy rank badge</a><br/>
 			Xianpeng Shen
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xianpengshen">xianpengshen</a></td>
 		<td>Lithuania</td>
-		<td>5967</td>
+		<td>7173</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/mjudeikis">
-				<img src="https://avatars.githubusercontent.com/u/3225744?s=72&u=598180aa97f51aff16b49feb1726c2a86ffc2aa4&v=4" width="24" alt="Avatar of mjudeikis"> mjudeikis
-			</a><br/>
-			Mangirdas Judeikis
-		</td>
-		<td>@synpse-hq @kcp-dev @kube-bind @faroshq<br/></td>
-		<td><a href="https://twitter.com/mangirdas">mangirdas</a></td>
-		<td>Lithuania</td>
-		<td>3603</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/blinkinglight">
-				<img src="https://avatars.githubusercontent.com/u/39296?s=72&u=09565e4b2694fe4cb206c6f0d54ec2f9be91b006&v=4" width="24" alt="Avatar of blinkinglight"> blinkinglight
-			</a><br/>
-			M
-		</td>
-		<td>@ituoga  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>3584</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/qweered">
-				<img src="https://avatars.githubusercontent.com/u/41731334?s=72&v=4" width="24" alt="Avatar of qweered"> qweered
-			</a><br/>
-			Aliaksandr Samatyia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>3179</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/NathaliaLietuvaite">
-				<img src="https://avatars.githubusercontent.com/u/151073229?s=72&u=6159a59a1cbd77ce4eeb3aed74c4c955c8ce4ef3&v=4" width="24" alt="Avatar of NathaliaLietuvaite"> NathaliaLietuvaite
-			</a><br/>
-			Nathalia Lietuvaite
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NLituanie">NLituanie</a></td>
-		<td>Vilnius</td>
-		<td>3119</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/simison">
-				<img src="https://avatars.githubusercontent.com/u/87168?s=72&v=4" width="24" alt="Avatar of simison"> simison
-			</a><br/>
-			Mikael Korpela
-		</td>
-		<td>@automattic </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>2560</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/YOzaz">
-				<img src="https://avatars.githubusercontent.com/u/5859318?s=72&u=cfec6eab035ca750313fea75b6237d9f262d7804&v=4" width="24" alt="Avatar of YOzaz"> YOzaz
-			</a><br/>
-			Marijus Plančiūnas
-		</td>
-		<td>Paysera </td>
-		<td><a href="https://twitter.com/YOzaz">YOzaz</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>2338</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/MekDrop">
-				<img src="https://avatars.githubusercontent.com/u/342641?s=72&v=4" width="24" alt="Avatar of MekDrop"> MekDrop
-			</a><br/>
-			Raimondas Rimkevičius
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MekDrop">MekDrop</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>2299</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/staskus">
-				<img src="https://avatars.githubusercontent.com/u/4062343?s=72&u=16f33e4525e7770074adfabfcf37bb464eeb7de3&v=4" width="24" alt="Avatar of staskus"> staskus
-			</a><br/>
-			Povilas Staskus
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PovilasStaskus">PovilasStaskus</a></td>
-		<td>Lithuania, Vilnius</td>
-		<td>2228</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/savonarola">
-				<img src="https://avatars.githubusercontent.com/u/4236?s=72&u=d450e1803ef9a8a7bb13ed208cd8a7548f0775ce&v=4" width="24" alt="Avatar of savonarola"> savonarola
-			</a><br/>
-			Ilia Averianov
-		</td>
-		<td>@emqx  </td>
-		<td><a href="https://twitter.com/motonarola">motonarola</a></td>
-		<td>Vilnius</td>
-		<td>2201</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/Ryouku">
 				<img src="https://avatars.githubusercontent.com/u/1282813?s=72&u=cf5e31c5f87c4fb24d674c5883789eba168ab939&v=4" width="24" alt="Avatar of Ryouku"> Ryouku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Ryouku">Copy rank badge</a><br/>
 			Zy
 		</td>
 		<td>D3 </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>2016</td>
+		<td>6303</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/mjudeikis">
+				<img src="https://avatars.githubusercontent.com/u/3225744?s=72&u=598180aa97f51aff16b49feb1726c2a86ffc2aa4&v=4" width="24" alt="Avatar of mjudeikis"> mjudeikis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mjudeikis">Copy rank badge</a><br/>
+			Mangirdas Judeikis
+		</td>
+		<td>@synpse-hq @kcp-dev @kube-bind @faroshq<br/></td>
+		<td><a href="https://twitter.com/mangirdas">mangirdas</a></td>
+		<td>Lithuania</td>
+		<td>3773</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/blinkinglight">
+				<img src="https://avatars.githubusercontent.com/u/39296?s=72&u=09565e4b2694fe4cb206c6f0d54ec2f9be91b006&v=4" width="24" alt="Avatar of blinkinglight"> blinkinglight
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#blinkinglight">Copy rank badge</a><br/>
+			M
+		</td>
+		<td>@ituoga  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>3535</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/qweered">
+				<img src="https://avatars.githubusercontent.com/u/41731334?s=72&v=4" width="24" alt="Avatar of qweered"> qweered
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#qweered">Copy rank badge</a><br/>
+			Aliaksandr Samatyia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>2941</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/NathaliaLietuvaite">
+				<img src="https://avatars.githubusercontent.com/u/151073229?s=72&u=6159a59a1cbd77ce4eeb3aed74c4c955c8ce4ef3&v=4" width="24" alt="Avatar of NathaliaLietuvaite"> NathaliaLietuvaite
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#NathaliaLietuvaite">Copy rank badge</a><br/>
+			Nathalia Lietuvaite
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NLituanie">NLituanie</a></td>
+		<td>Vilnius</td>
+		<td>2804</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/simison">
+				<img src="https://avatars.githubusercontent.com/u/87168?s=72&v=4" width="24" alt="Avatar of simison"> simison
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#simison">Copy rank badge</a><br/>
+			Mikael Korpela
+		</td>
+		<td>@automattic </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>2684</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/staskus">
+				<img src="https://avatars.githubusercontent.com/u/4062343?s=72&u=16f33e4525e7770074adfabfcf37bb464eeb7de3&v=4" width="24" alt="Avatar of staskus"> staskus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#staskus">Copy rank badge</a><br/>
+			Povilas Staskus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/PovilasStaskus">PovilasStaskus</a></td>
+		<td>Lithuania, Vilnius</td>
+		<td>2488</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/YOzaz">
+				<img src="https://avatars.githubusercontent.com/u/5859318?s=72&u=cfec6eab035ca750313fea75b6237d9f262d7804&v=4" width="24" alt="Avatar of YOzaz"> YOzaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#YOzaz">Copy rank badge</a><br/>
+			Marijus Plančiūnas
+		</td>
+		<td>Paysera </td>
+		<td><a href="https://twitter.com/YOzaz">YOzaz</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>2369</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/MekDrop">
+				<img src="https://avatars.githubusercontent.com/u/342641?s=72&v=4" width="24" alt="Avatar of MekDrop"> MekDrop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MekDrop">Copy rank badge</a><br/>
+			Raimondas Rimkevičius
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MekDrop">MekDrop</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>2332</td>
+	</tr>
+	<tr>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/navidshad">
 				<img src="https://avatars.githubusercontent.com/u/16162858?s=72&u=390fd89fab16be2c9a1e747e8141ad4ee95745a6&v=4" width="24" alt="Avatar of navidshad"> navidshad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#navidshad">Copy rank badge</a><br/>
 			Navid
 		</td>
 		<td>@codebridger  </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1896</td>
+		<td>2327</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/savonarola">
+				<img src="https://avatars.githubusercontent.com/u/4236?s=72&u=d450e1803ef9a8a7bb13ed208cd8a7548f0775ce&v=4" width="24" alt="Avatar of savonarola"> savonarola
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#savonarola">Copy rank badge</a><br/>
+			Ilia Averianov
+		</td>
+		<td>@emqx  </td>
+		<td><a href="https://twitter.com/motonarola">motonarola</a></td>
+		<td>Vilnius</td>
+		<td>2206</td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/Elijas">
-				<img src="https://avatars.githubusercontent.com/u/4084885?s=72&u=4df7f08a15450afa1db059d6fdf9cc36c0efa7bb&v=4" width="24" alt="Avatar of Elijas"> Elijas
-			</a><br/>
-			Elijas Dapšauskas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/elijas_ai">elijas_ai</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>1625</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/ton31337">
-				<img src="https://avatars.githubusercontent.com/u/3352707?s=72&u=a65e5062b071d9a6a3e2d31d4b96dcc1fb9bd874&v=4" width="24" alt="Avatar of ton31337"> ton31337
-			</a><br/>
-			Donatas Abraitis
-		</td>
-		<td>@hostinger  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1625</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/laurynas-biveinis">
-				<img src="https://avatars.githubusercontent.com/u/58894?s=72&u=13a27f669cff031c69584fb9aa2aa14adea1f657&v=4" width="24" alt="Avatar of laurynas-biveinis"> laurynas-biveinis
-			</a><br/>
-			Laurynas Biveinis
-		</td>
-		<td>Vilniusdb </td>
-		<td><a href="https://twitter.com/kastauyra">kastauyra</a></td>
-		<td>Vilnius</td>
-		<td>1624</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/keith-hall">
-				<img src="https://avatars.githubusercontent.com/u/11882719?s=72&u=f101e9c34e7fd9a31f865b1b9552340f6cd4d7e3&v=4" width="24" alt="Avatar of keith-hall"> keith-hall
-			</a><br/>
-			Keith Hall
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1596</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/liesislukas">
-				<img src="https://avatars.githubusercontent.com/u/2733862?s=72&u=0ffb5bc0492918cd6ee908d27d856888d2e3a63d&v=4" width="24" alt="Avatar of liesislukas"> liesislukas
-			</a><br/>
-			Lukas Liesis
-		</td>
-		<td>Littlesaas </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1577</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/usta">
-				<img src="https://avatars.githubusercontent.com/u/112882?s=72&u=3f9bb0c53fbe5f73bff3822a7a10db996b28d754&v=4" width="24" alt="Avatar of usta"> usta
-			</a><br/>
-			Ömer Fadıl USTA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1515</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/p12tic">
-				<img src="https://avatars.githubusercontent.com/u/1056711?s=72&u=cc9106cb4622f22c43e0fc493a9b6259c8e2d24e&v=4" width="24" alt="Avatar of p12tic"> p12tic
-			</a><br/>
-			Povilas Kanapickas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1486</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/lebe-dev">
-				<img src="https://avatars.githubusercontent.com/u/9587482?s=72&u=2172fa601c99fb0759f3c2244f31435071d57f83&v=4" width="24" alt="Avatar of lebe-dev"> lebe-dev
-			</a><br/>
-			Eugene Lebedev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnus, Lithuania</td>
-		<td>1436</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/JustasMonkev">
 				<img src="https://avatars.githubusercontent.com/u/59362982?s=72&u=acc3e2bf604f72b4595f951e2f252dd9c69f5f7d&v=4" width="24" alt="Avatar of JustasMonkev"> JustasMonkev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#JustasMonkev">Copy rank badge</a><br/>
 			JustasM
 		</td>
 		<td>Hostinger Horizons  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>1349</td>
+		<td>1659</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>16</td>
 		<td>
-			<a href="https://github.com/if-not-nil">
-				<img src="https://avatars.githubusercontent.com/u/62560250?s=72&u=29137bbb29e438233997292864a0cd8904655cad&v=4" width="24" alt="Avatar of if-not-nil"> if-not-nil
-			</a><br/>
-			lung
+			<a href="https://github.com/Elijas">
+				<img src="https://avatars.githubusercontent.com/u/4084885?s=72&u=4df7f08a15450afa1db059d6fdf9cc36c0efa7bb&v=4" width="24" alt="Avatar of Elijas"> Elijas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Elijas">Copy rank badge</a><br/>
+			Elijas Dapšauskas
 		</td>
-		<td>Unemployed </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/elijas_ai">elijas_ai</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>1259</td>
+		<td>1629</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>17</td>
 		<td>
-			<a href="https://github.com/eyyMinda">
-				<img src="https://avatars.githubusercontent.com/u/100799754?s=72&u=007727a17130e744e54cc88002421584e002d204&v=4" width="24" alt="Avatar of eyyMinda"> eyyMinda
-			</a><br/>
-			Mindaugas Straksys
+			<a href="https://github.com/bring-shrubbery">
+				<img src="https://avatars.githubusercontent.com/u/29360707?s=72&u=97c962ee9008496504fe94d1660f0df21e91ba24&v=4" width="24" alt="Avatar of bring-shrubbery"> bring-shrubbery
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#bring-shrubbery">Copy rank badge</a><br/>
+			Antoni Silvestrovič
+		</td>
+		<td>@quassum  </td>
+		<td><a href="https://twitter.com/bringshrubberyy">bringshrubberyy</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>1629</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/lebe-dev">
+				<img src="https://avatars.githubusercontent.com/u/9587482?s=72&u=2172fa601c99fb0759f3c2244f31435071d57f83&v=4" width="24" alt="Avatar of lebe-dev"> lebe-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lebe-dev">Copy rank badge</a><br/>
+			Eugene Lebedev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnus, Lithuania</td>
+		<td>1622</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/ton31337">
+				<img src="https://avatars.githubusercontent.com/u/3352707?s=72&u=a65e5062b071d9a6a3e2d31d4b96dcc1fb9bd874&v=4" width="24" alt="Avatar of ton31337"> ton31337
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ton31337">Copy rank badge</a><br/>
+			Donatas Abraitis
+		</td>
+		<td>@hostinger  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1619</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/keith-hall">
+				<img src="https://avatars.githubusercontent.com/u/11882719?s=72&u=f101e9c34e7fd9a31f865b1b9552340f6cd4d7e3&v=4" width="24" alt="Avatar of keith-hall"> keith-hall
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#keith-hall">Copy rank badge</a><br/>
+			Keith Hall
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1249</td>
+		<td>1594</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>21</td>
 		<td>
-			<a href="https://github.com/ArnasDon">
-				<img src="https://avatars.githubusercontent.com/u/61235555?s=72&u=819f942c9adb88c61c61391d6f3d75b37e0f9475&v=4" width="24" alt="Avatar of ArnasDon"> ArnasDon
-			</a><br/>
-			Arnas Donauskas
-		</td>
-		<td>Hostinger </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>1222</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/VladasZ">
-				<img src="https://avatars.githubusercontent.com/u/10122409?s=72&u=c8a815d09b31fcf7862014e71037d4825bfdb9b0&v=4" width="24" alt="Avatar of VladasZ"> VladasZ
-			</a><br/>
-			Vladas Zakrevskis
+			<a href="https://github.com/usta">
+				<img src="https://avatars.githubusercontent.com/u/112882?s=72&u=3f9bb0c53fbe5f73bff3822a7a10db996b28d754&v=4" width="24" alt="Avatar of usta"> usta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#usta">Copy rank badge</a><br/>
+			Ömer Fadıl USTA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Klaipėda</td>
-		<td>1222</td>
+		<td>Lithuania</td>
+		<td>1544</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/p12tic">
+				<img src="https://avatars.githubusercontent.com/u/1056711?s=72&u=cc9106cb4622f22c43e0fc493a9b6259c8e2d24e&v=4" width="24" alt="Avatar of p12tic"> p12tic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#p12tic">Copy rank badge</a><br/>
+			Povilas Kanapickas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1529</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/laurynas-biveinis">
+				<img src="https://avatars.githubusercontent.com/u/58894?s=72&u=13a27f669cff031c69584fb9aa2aa14adea1f657&v=4" width="24" alt="Avatar of laurynas-biveinis"> laurynas-biveinis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laurynas-biveinis">Copy rank badge</a><br/>
+			Laurynas Biveinis
+		</td>
+		<td>Vilniusdb </td>
+		<td><a href="https://twitter.com/kastauyra">kastauyra</a></td>
+		<td>Vilnius</td>
+		<td>1474</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/Algiras">
 				<img src="https://avatars.githubusercontent.com/u/1938552?s=72&v=4" width="24" alt="Avatar of Algiras"> Algiras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Algiras">Copy rank badge</a><br/>
 			Algimantas K.
 		</td>
 		<td>@wix  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>1212</td>
+		<td>1388</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>25</td>
 		<td>
-			<a href="https://github.com/gytis-ivaskevicius">
-				<img src="https://avatars.githubusercontent.com/u/23264966?s=72&u=5a5ff3d73e6d1d23822cacacd33edd9ed24f6461&v=4" width="24" alt="Avatar of gytis-ivaskevicius"> gytis-ivaskevicius
-			</a><br/>
-			Gytis Ivaskevicius
+			<a href="https://github.com/if-not-nil">
+				<img src="https://avatars.githubusercontent.com/u/62560250?s=72&u=29137bbb29e438233997292864a0cd8904655cad&v=4" width="24" alt="Avatar of if-not-nil"> if-not-nil
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#if-not-nil">Copy rank badge</a><br/>
+			lung
+		</td>
+		<td>Unemployed </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1387</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/eyyMinda">
+				<img src="https://avatars.githubusercontent.com/u/100799754?s=72&u=007727a17130e744e54cc88002421584e002d204&v=4" width="24" alt="Avatar of eyyMinda"> eyyMinda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eyyMinda">Copy rank badge</a><br/>
+			Mindaugas Straksys
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>1173</td>
+		<td>Lithuania</td>
+		<td>1305</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/LukasTy">
 				<img src="https://avatars.githubusercontent.com/u/4941090?s=72&u=d66719cb370ac2517a6b90ad7e1b76571cb73831&v=4" width="24" alt="Avatar of LukasTy"> LukasTy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#LukasTy">Copy rank badge</a><br/>
 			Lukas Tyla
 		</td>
 		<td>@mui  </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1164</td>
+		<td>1281</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>28</td>
 		<td>
-			<a href="https://github.com/Nikamura">
-				<img src="https://avatars.githubusercontent.com/u/3459367?s=72&u=98472ab69a2739b773cb98ba54d5905f7eade615&v=4" width="24" alt="Avatar of Nikamura"> Nikamura
-			</a><br/>
-			Karolis Mažukna
+			<a href="https://github.com/VladasZ">
+				<img src="https://avatars.githubusercontent.com/u/10122409?s=72&u=c8a815d09b31fcf7862014e71037d4825bfdb9b0&v=4" width="24" alt="Avatar of VladasZ"> VladasZ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#VladasZ">Copy rank badge</a><br/>
+			Vladas Zakrevskis
 		</td>
-		<td>Lead Integrations Engineer, @deepcrawl<br/><br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1159</td>
+		<td>Lithuania, Klaipėda</td>
+		<td>1278</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/ArnasDon">
+				<img src="https://avatars.githubusercontent.com/u/61235555?s=72&u=819f942c9adb88c61c61391d6f3d75b37e0f9475&v=4" width="24" alt="Avatar of ArnasDon"> ArnasDon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ArnasDon">Copy rank badge</a><br/>
+			Arnas Donauskas
+		</td>
+		<td>Hostinger </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>1276</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/deniz-blue">
 				<img src="https://avatars.githubusercontent.com/u/43997085?s=72&u=a0f54cc7037c7a2a94934d3b85255a7a87aa7435&v=4" width="24" alt="Avatar of deniz-blue"> deniz-blue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#deniz-blue">Copy rank badge</a><br/>
 			deniz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1087</td>
+		<td>1231</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/bytasv">
+				<img src="https://avatars.githubusercontent.com/u/437214?s=72&u=9ceed76ff06aa9391b196a86cfba848b55b519b7&v=4" width="24" alt="Avatar of bytasv"> bytasv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#bytasv">Copy rank badge</a><br/>
+			Vytautas Butkus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1201</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/gytis-ivaskevicius">
+				<img src="https://avatars.githubusercontent.com/u/23264966?s=72&u=5a5ff3d73e6d1d23822cacacd33edd9ed24f6461&v=4" width="24" alt="Avatar of gytis-ivaskevicius"> gytis-ivaskevicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gytis-ivaskevicius">Copy rank badge</a><br/>
+			Gytis Ivaskevicius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>1172</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/Insality">
-				<img src="https://avatars.githubusercontent.com/u/3294627?s=72&u=04f2fad6b429d82b7e331324d84ebf559730bd35&v=4" width="24" alt="Avatar of Insality"> Insality
-			</a><br/>
-			Maksim Tuprikov
+			<a href="https://github.com/Nikamura">
+				<img src="https://avatars.githubusercontent.com/u/3459367?s=72&u=98472ab69a2739b773cb98ba54d5905f7eade615&v=4" width="24" alt="Avatar of Nikamura"> Nikamura
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Nikamura">Copy rank badge</a><br/>
+			Karolis Mažukna
 		</td>
-		<td>Insality Games </td>
-		<td><a href="https://twitter.com/insality">insality</a></td>
+		<td>Lead Integrations Engineer, @deepcrawl<br/><br/></td>
+		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1084</td>
+		<td>1127</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
+			<a href="https://github.com/liesislukas">
+				<img src="https://avatars.githubusercontent.com/u/2733862?s=72&u=0ffb5bc0492918cd6ee908d27d856888d2e3a63d&v=4" width="24" alt="Avatar of liesislukas"> liesislukas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#liesislukas">Copy rank badge</a><br/>
+			Lukas Liesis
+		</td>
+		<td>Littlesaas </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1110</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/Almantask">
 				<img src="https://avatars.githubusercontent.com/u/40486932?s=72&u=a1b9f2a2260056f8f6aa2fd9e785ad5cdfd85939&v=4" width="24" alt="Avatar of Almantask"> Almantask
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Almantask">Copy rank badge</a><br/>
 			Kaisinel
 		</td>
 		<td>C# Inn </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1001</td>
+		<td>1082</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/razzmatazz">
+				<img src="https://avatars.githubusercontent.com/u/563556?s=72&v=4" width="24" alt="Avatar of razzmatazz"> razzmatazz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#razzmatazz">Copy rank badge</a><br/>
+			Saulius Menkevičius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1081</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/2bitsin">
+				<img src="https://avatars.githubusercontent.com/u/1659255?s=72&u=a854f60def21363072361a2dd3d02c38e26ad11e&v=4" width="24" alt="Avatar of 2bitsin"> 2bitsin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#2bitsin">Copy rank badge</a><br/>
+			Aleksandr Ševčenko
+		</td>
+		<td>Mom And Pop's Code<br/>And<br/>Electronics<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1081</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/ArnoldasMk">
+				<img src="https://avatars.githubusercontent.com/u/68555524?s=72&u=6fc8509a58f4c6e9061692b6b06796f037ade3fa&v=4" width="24" alt="Avatar of ArnoldasMk"> ArnoldasMk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ArnoldasMk">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1063</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/justinaskav">
+				<img src="https://avatars.githubusercontent.com/u/23059846?s=72&u=fb600534929ea3682facf178f3d22aaf471536b1&v=4" width="24" alt="Avatar of justinaskav"> justinaskav
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justinaskav">Copy rank badge</a><br/>
+			Justinas Kavoliūnas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1055</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/lekevicius">
+				<img src="https://avatars.githubusercontent.com/u/218656?s=72&u=445c316498bdf71b0b0445efa81da83152c0c97f&v=4" width="24" alt="Avatar of lekevicius"> lekevicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lekevicius">Copy rank badge</a><br/>
+			Jonas Lekevicius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1051</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/Insality">
+				<img src="https://avatars.githubusercontent.com/u/3294627?s=72&u=04f2fad6b429d82b7e331324d84ebf559730bd35&v=4" width="24" alt="Avatar of Insality"> Insality
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Insality">Copy rank badge</a><br/>
+			Maksim Tuprikov
+		</td>
+		<td>Insality Games </td>
+		<td><a href="https://twitter.com/insality">insality</a></td>
+		<td>Lithuania</td>
+		<td>1047</td>
+	</tr>
+	<tr>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/remdex">
 				<img src="https://avatars.githubusercontent.com/u/1146085?s=72&u=db1a4819ebc9d2ce3abe1fdb33f970dbf49d30ac&v=4" width="24" alt="Avatar of remdex"> remdex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#remdex">Copy rank badge</a><br/>
 			Remigijus Kiminas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>980</td>
+		<td>970</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/mgedmin">
 				<img src="https://avatars.githubusercontent.com/u/159967?s=72&v=4" width="24" alt="Avatar of mgedmin"> mgedmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mgedmin">Copy rank badge</a><br/>
 			Marius Gedminas
 		</td>
 		<td>No Company</td>
@@ -573,323 +666,323 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>968</td>
 	</tr>
 	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/tomasvanagas">
-				<img src="https://avatars.githubusercontent.com/u/15963041?s=72&u=12d3ce6c631a8476d97202f674fe7910c5956080&v=4" width="24" alt="Avatar of tomasvanagas"> tomasvanagas
-			</a><br/>
-			Tomas Vanagas
-		</td>
-		<td>Vilnius University </td>
-		<td><a href="https://twitter.com/VanagasTomas">VanagasTomas</a></td>
-		<td>Lithuania, Kaunas</td>
-		<td>932</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/GegznaV">
-				<img src="https://avatars.githubusercontent.com/u/12725868?s=72&u=ec022509debf1747dd8b84f1097548aa8581645c&v=4" width="24" alt="Avatar of GegznaV"> GegznaV
-			</a><br/>
-			Vilmantas Gegzna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>915</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/karina-klinkeviciute">
-				<img src="https://avatars.githubusercontent.com/u/8834031?s=72&v=4" width="24" alt="Avatar of karina-klinkeviciute"> karina-klinkeviciute
-			</a><br/>
-			Karina
-		</td>
-		<td>Vssa </td>
-		<td><a href="https://twitter.com/karina__in">karina__in</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>850</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/bring-shrubbery">
-				<img src="https://avatars.githubusercontent.com/u/29360707?s=72&u=97c962ee9008496504fe94d1660f0df21e91ba24&v=4" width="24" alt="Avatar of bring-shrubbery"> bring-shrubbery
-			</a><br/>
-			Antoni Silvestrovič
-		</td>
-		<td>@quassum  </td>
-		<td><a href="https://twitter.com/bringshrubberyy">bringshrubberyy</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>843</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/motiejus">
-				<img src="https://avatars.githubusercontent.com/u/107720?s=72&u=c7773d09e0c2113d6b9dec0a74ac89a9725a63f6&v=4" width="24" alt="Avatar of motiejus"> motiejus
-			</a><br/>
-			Motiejus Jakštys
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>842</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/therenowhale">
-				<img src="https://avatars.githubusercontent.com/u/87891550?s=72&u=a374b53376d2b71b741ad407df46f87227f5e5c4&v=4" width="24" alt="Avatar of therenowhale"> therenowhale
-			</a><br/>
-			Mihkihtah Tishkin
-		</td>
-		<td>Coherent Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>828</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/Swanchick">
-				<img src="https://avatars.githubusercontent.com/u/61909965?s=72&u=ae7aa4768a386c3e1b45531a860130fe5e1eeb1e&v=4" width="24" alt="Avatar of Swanchick"> Swanchick
-			</a><br/>
-			Kyryl Lebedenko
-		</td>
-		<td>Wix </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>812</td>
-	</tr>
-	<tr>
 		<td>44</td>
-		<td>
-			<a href="https://github.com/razzmatazz">
-				<img src="https://avatars.githubusercontent.com/u/563556?s=72&v=4" width="24" alt="Avatar of razzmatazz"> razzmatazz
-			</a><br/>
-			Saulius Menkevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>808</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/glebremniov">
-				<img src="https://avatars.githubusercontent.com/u/33552673?s=72&u=83f3c679aeef876fae293b458b5ab377894bb973&v=4" width="24" alt="Avatar of glebremniov"> glebremniov
-			</a><br/>
-			Hleb Ramniou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>786</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/ZetGoHack">
-				<img src="https://avatars.githubusercontent.com/u/73279716?s=72&u=58d903037fc8d56319a589d0e7cbb1db1853139d&v=4" width="24" alt="Avatar of ZetGoHack"> ZetGoHack
-			</a><br/>
-			ZetGo | Aleksej K.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>772</td>
-	</tr>
-	<tr>
-		<td>47</td>
 		<td>
 			<a href="https://github.com/fitbeard">
 				<img src="https://avatars.githubusercontent.com/u/18698204?s=72&u=d20ca914ebff5d7171c75fe1c2c94e247406f648&v=4" width="24" alt="Avatar of fitbeard"> fitbeard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#fitbeard">Copy rank badge</a><br/>
 			Tadas Sutkaitis
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/T42X">T42X</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>730</td>
+		<td>968</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/tomasvanagas">
+				<img src="https://avatars.githubusercontent.com/u/15963041?s=72&u=12d3ce6c631a8476d97202f674fe7910c5956080&v=4" width="24" alt="Avatar of tomasvanagas"> tomasvanagas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasvanagas">Copy rank badge</a><br/>
+			Tomas Vanagas
+		</td>
+		<td>Vilnius University </td>
+		<td><a href="https://twitter.com/VanagasTomas">VanagasTomas</a></td>
+		<td>Lithuania, Kaunas</td>
+		<td>949</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/karina-klinkeviciute">
+				<img src="https://avatars.githubusercontent.com/u/8834031?s=72&v=4" width="24" alt="Avatar of karina-klinkeviciute"> karina-klinkeviciute
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#karina-klinkeviciute">Copy rank badge</a><br/>
+			Karina
+		</td>
+		<td>Vssa </td>
+		<td><a href="https://twitter.com/karina__in">karina__in</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>947</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/minvs1">
+				<img src="https://avatars.githubusercontent.com/u/2649067?s=72&u=02683e1b5418b95007803c619cc385b8e2aa1012&v=4" width="24" alt="Avatar of minvs1"> minvs1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#minvs1">Copy rank badge</a><br/>
+			Tomas Achmedovas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>938</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/justinaskav">
-				<img src="https://avatars.githubusercontent.com/u/23059846?s=72&u=fb600534929ea3682facf178f3d22aaf471536b1&v=4" width="24" alt="Avatar of justinaskav"> justinaskav
-			</a><br/>
-			Justinas Kavoliūnas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>730</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/piratuks">
-				<img src="https://avatars.githubusercontent.com/u/8760197?s=72&u=241e210233c08385473c92205c8a16028f35e27f&v=4" width="24" alt="Avatar of piratuks"> piratuks
-			</a><br/>
-			Evaldas L.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Klaipėda</td>
-		<td>716</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/avitkauskas">
-				<img src="https://avatars.githubusercontent.com/u/656586?s=72&u=0c425a7f24840f56af1f6a0a2c1840bff6217639&v=4" width="24" alt="Avatar of avitkauskas"> avitkauskas
-			</a><br/>
-			Alvydas Vitkauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>715</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/RDZDX">
-				<img src="https://avatars.githubusercontent.com/u/17046844?s=72&v=4" width="24" alt="Avatar of RDZDX"> RDZDX
-			</a><br/>
-			Audrius Puplinskas
+			<a href="https://github.com/GegznaV">
+				<img src="https://avatars.githubusercontent.com/u/12725868?s=72&u=ec022509debf1747dd8b84f1097548aa8581645c&v=4" width="24" alt="Avatar of GegznaV"> GegznaV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GegznaV">Copy rank badge</a><br/>
+			Vilmantas Gegzna
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>714</td>
+		<td>880</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/dexif">
 				<img src="https://avatars.githubusercontent.com/u/387234?s=72&v=4" width="24" alt="Avatar of dexif"> dexif
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dexif">Copy rank badge</a><br/>
 			Dexif
 		</td>
 		<td>@flespi-software </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>704</td>
+		<td>873</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/motiejus">
+				<img src="https://avatars.githubusercontent.com/u/107720?s=72&u=c7773d09e0c2113d6b9dec0a74ac89a9725a63f6&v=4" width="24" alt="Avatar of motiejus"> motiejus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#motiejus">Copy rank badge</a><br/>
+			Motiejus Jakštys
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>851</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/piratuks">
+				<img src="https://avatars.githubusercontent.com/u/8760197?s=72&u=241e210233c08385473c92205c8a16028f35e27f&v=4" width="24" alt="Avatar of piratuks"> piratuks
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#piratuks">Copy rank badge</a><br/>
+			Evaldas L.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Klaipėda</td>
+		<td>820</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/RDZDX">
+				<img src="https://avatars.githubusercontent.com/u/17046844?s=72&v=4" width="24" alt="Avatar of RDZDX"> RDZDX
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#RDZDX">Copy rank badge</a><br/>
+			Audrius Puplinskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>804</td>
 	</tr>
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/tronikelis">
-				<img src="https://avatars.githubusercontent.com/u/56039679?s=72&u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4" width="24" alt="Avatar of tronikelis"> tronikelis
-			</a><br/>
-			Tronikel
+			<a href="https://github.com/Swanchick">
+				<img src="https://avatars.githubusercontent.com/u/61909965?s=72&u=ae7aa4768a386c3e1b45531a860130fe5e1eeb1e&v=4" width="24" alt="Avatar of Swanchick"> Swanchick
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Swanchick">Copy rank badge</a><br/>
+			Kyryl Lebedenko
 		</td>
-		<td>192.168.1.179 </td>
+		<td>Wix </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>694</td>
+		<td>Vilnius, Lithuania</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/Nostromo-618">
-				<img src="https://avatars.githubusercontent.com/u/13884524?s=72&u=f735087170ae39e2fe3c00f8e35151fa6a6f41e0&v=4" width="24" alt="Avatar of Nostromo-618"> Nostromo-618
-			</a><br/>
-			Povilas
+			<a href="https://github.com/glebremniov">
+				<img src="https://avatars.githubusercontent.com/u/33552673?s=72&u=e65db95a653bb3a8e3d21cd0307776538bf88d70&v=4" width="24" alt="Avatar of glebremniov"> glebremniov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#glebremniov">Copy rank badge</a><br/>
+			Hleb Ramniou
 		</td>
-		<td>@vanduo-oss </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>684</td>
+		<td>Vilnius, Lithuania</td>
+		<td>789</td>
 	</tr>
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/TheNeovimmer">
-				<img src="https://avatars.githubusercontent.com/u/163532480?s=72&u=cc2e05c571d961c5cb0eb07d8a6254637b0f00d2&v=4" width="24" alt="Avatar of TheNeovimmer"> TheNeovimmer
-			</a><br/>
-			TheNeovimmer
+			<a href="https://github.com/Nostromo-618">
+				<img src="https://avatars.githubusercontent.com/u/13884524?s=72&u=ca1d283befcc75e11163e7d4155ea6822971ab0f&v=4" width="24" alt="Avatar of Nostromo-618"> Nostromo-618
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Nostromo-618">Copy rank badge</a><br/>
+			Povilas
 		</td>
-		<td>Ceo Of @99syntax </td>
-		<td><a href="https://twitter.com/TheNeovimmer">TheNeovimmer</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>681</td>
+		<td>754</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/Toxicom">
-				<img src="https://avatars.githubusercontent.com/u/69549795?s=72&u=67a18213386168ad9ed836cdf4b914ff9936c735&v=4" width="24" alt="Avatar of Toxicom"> Toxicom
-			</a><br/>
-			Tomas Leonavičius
-		</td>
-		<td>@adaptdk  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>670</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
 			<a href="https://github.com/iberflow">
 				<img src="https://avatars.githubusercontent.com/u/402965?s=72&u=ac09984fa295fb52b1bc97ef18fdea80902619c8&v=4" width="24" alt="Avatar of iberflow"> iberflow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#iberflow">Copy rank badge</a><br/>
 			Ignas Bernotas
 		</td>
 		<td>@toaweme </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>653</td>
+		<td>724</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/tomasliachovskis">
+				<img src="https://avatars.githubusercontent.com/u/8478615?s=72&u=ebe2386d788cb9fecaf8c27012dbf372087a2667&v=4" width="24" alt="Avatar of tomasliachovskis"> tomasliachovskis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasliachovskis">Copy rank badge</a><br/>
+			Tech Guy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>58</td>
 		<td>
-			<a href="https://github.com/2m">
-				<img src="https://avatars.githubusercontent.com/u/422086?s=72&u=62b495d8d4039c50a738205eb3df2f3615aa2dd4&v=4" width="24" alt="Avatar of 2m"> 2m
-			</a><br/>
-			Martynas Mickevičius
+			<a href="https://github.com/ZetGoHack">
+				<img src="https://avatars.githubusercontent.com/u/73279716?s=72&u=58d903037fc8d56319a589d0e7cbb1db1853139d&v=4" width="24" alt="Avatar of ZetGoHack"> ZetGoHack
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ZetGoHack">Copy rank badge</a><br/>
+			ZetGo | Aleksej K.
 		</td>
-		<td>@argyle-systems </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>652</td>
+		<td>Lithuania</td>
+		<td>718</td>
 	</tr>
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/Onixaz">
+				<img src="https://avatars.githubusercontent.com/u/29450503?s=72&u=08a60fdabcd2c65350fdbd8380db8b432d0a1dcc&v=4" width="24" alt="Avatar of Onixaz"> Onixaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Onixaz">Copy rank badge</a><br/>
+			Juozas Polikevičius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>717</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/avitkauskas">
+				<img src="https://avatars.githubusercontent.com/u/656586?s=72&u=0c425a7f24840f56af1f6a0a2c1840bff6217639&v=4" width="24" alt="Avatar of avitkauskas"> avitkauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#avitkauskas">Copy rank badge</a><br/>
+			Alvydas Vitkauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>713</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
 			<a href="https://github.com/GiedriusS">
 				<img src="https://avatars.githubusercontent.com/u/2377233?s=72&u=aec2f382d3cee589543ecec434d7e62422beba78&v=4" width="24" alt="Avatar of GiedriusS"> GiedriusS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GiedriusS">Copy rank badge</a><br/>
 			Giedrius Statkevičius
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/stag1e">stag1e</a></td>
 		<td>Lithuania</td>
-		<td>638</td>
+		<td>677</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>62</td>
 		<td>
-			<a href="https://github.com/cfnptr">
-				<img src="https://avatars.githubusercontent.com/u/20398717?s=72&u=439a31ceab115880c4c3a2cb0d1e907957eccb5b&v=4" width="24" alt="Avatar of cfnptr"> cfnptr
-			</a><br/>
-			Nikita Fediuchin
+			<a href="https://github.com/TheNeovimmer">
+				<img src="https://avatars.githubusercontent.com/u/163532480?s=72&u=258eaa2750bddb4b28a5754884669d976cff7cbb&v=4" width="24" alt="Avatar of TheNeovimmer"> TheNeovimmer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TheNeovimmer">Copy rank badge</a><br/>
+			TheNeovimmer
+		</td>
+		<td>Ceo Of @99syntax </td>
+		<td><a href="https://twitter.com/TheNeovimmer">TheNeovimmer</a></td>
+		<td>Lithuania</td>
+		<td>673</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/ArturasDruteika">
+				<img src="https://avatars.githubusercontent.com/u/34749700?s=72&u=8c5608bff7366be37d7b09c4434a173043066268&v=4" width="24" alt="Avatar of ArturasDruteika"> ArturasDruteika
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ArturasDruteika">Copy rank badge</a><br/>
+			Artūras Drūteika
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>665</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/Toxicom">
+				<img src="https://avatars.githubusercontent.com/u/69549795?s=72&u=67a18213386168ad9ed836cdf4b914ff9936c735&v=4" width="24" alt="Avatar of Toxicom"> Toxicom
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Toxicom">Copy rank badge</a><br/>
+			Tomas Leonavičius
+		</td>
+		<td>@adaptdk  </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>662</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/2m">
+				<img src="https://avatars.githubusercontent.com/u/422086?s=72&u=62b495d8d4039c50a738205eb3df2f3615aa2dd4&v=4" width="24" alt="Avatar of 2m"> 2m
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#2m">Copy rank badge</a><br/>
+			Martynas Mickevičius
+		</td>
+		<td>@argyle-systems </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>650</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/user1990">
+				<img src="https://avatars.githubusercontent.com/u/13827656?s=72&u=ee358d24e72b77eb992f9869252d5fc36491f758&v=4" width="24" alt="Avatar of user1990"> user1990
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#user1990">Copy rank badge</a><br/>
+			Paulius Rimgaila
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>629</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/stashymane">
+				<img src="https://avatars.githubusercontent.com/u/4071883?s=72&u=57066d94a36d1dbef8b7901b5e07515c22658226&v=4" width="24" alt="Avatar of stashymane"> stashymane
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#stashymane">Copy rank badge</a><br/>
+			Albertas Š.
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>616</td>
+		<td>627</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/Edvinas01">
 				<img src="https://avatars.githubusercontent.com/u/8227320?s=72&u=c4bb26611b20372ea823bd0eee6a07d412daf1a6&v=4" width="24" alt="Avatar of Edvinas01"> Edvinas01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Edvinas01">Copy rank badge</a><br/>
 			Edvinas Danevičius
 		</td>
 		<td>@chark </td>
@@ -898,232 +991,349 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>602</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/tronikelis">
+				<img src="https://avatars.githubusercontent.com/u/56039679?s=72&u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4" width="24" alt="Avatar of tronikelis"> tronikelis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tronikelis">Copy rank badge</a><br/>
+			Tronikel
+		</td>
+		<td>192.168.1.179 </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>590</td>
+	</tr>
+	<tr>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/ypldan">
 				<img src="https://avatars.githubusercontent.com/u/29819063?s=72&u=eca75b081a6f5424a8506394da98032dcf71ddc2&v=4" width="24" alt="Avatar of ypldan"> ypldan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ypldan">Copy rank badge</a><br/>
 			Daniil Yarmalkevich
 		</td>
 		<td>Distilx </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>585</td>
+		<td>577</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/00riddle00">
-				<img src="https://avatars.githubusercontent.com/u/13035973?s=72&u=281e08392bab711ad1181163e235eb9a63cef679&v=4" width="24" alt="Avatar of 00riddle00"> 00riddle00
-			</a><br/>
-			Tomas Giedraitis
-		</td>
-		<td>Codeacademy | Freelance </td>
-		<td><a href="https://twitter.com/tomasgiedraitis">tomasgiedraitis</a></td>
-		<td>Lithuania</td>
-		<td>563</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/karoliskoncevicius">
-				<img src="https://avatars.githubusercontent.com/u/7273684?s=72&u=3217a16b6a5784dfe9e745aa1228de6c30b826d8&v=4" width="24" alt="Avatar of karoliskoncevicius"> karoliskoncevicius
-			</a><br/>
-			Karolis Koncevičius
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kkoncevicius">kkoncevicius</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>65</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/kazlauskis">
 				<img src="https://avatars.githubusercontent.com/u/7383162?s=72&u=00e8b736f37a98828c424cce2ffa7c718b66e42d&v=4" width="24" alt="Avatar of kazlauskis"> kazlauskis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kazlauskis">Copy rank badge</a><br/>
 			Karolis Kazlauskis
 		</td>
 		<td>Flumens </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>559</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/KostasEreksonas">
-				<img src="https://avatars.githubusercontent.com/u/70328937?s=72&u=d3e96821e9f7bac7431015c4ce79e284a6756183&v=4" width="24" alt="Avatar of KostasEreksonas"> KostasEreksonas
-			</a><br/>
-			Kostas Ereksonas
-		</td>
-		<td>Neptyai </td>
-		<td><a href="https://twitter.com/ereksonas">ereksonas</a></td>
-		<td>Lithuania</td>
-		<td>530</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/stashymane">
-				<img src="https://avatars.githubusercontent.com/u/4071883?s=72&u=57066d94a36d1dbef8b7901b5e07515c22658226&v=4" width="24" alt="Avatar of stashymane"> stashymane
-			</a><br/>
-			Albertas Š.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>519</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/kliment-olechnovic">
-				<img src="https://avatars.githubusercontent.com/u/54395582?s=72&u=e357c06b8c7af2e68b8d0753948fb9f23b209d63&v=4" width="24" alt="Avatar of kliment-olechnovic"> kliment-olechnovic
-			</a><br/>
-			Kliment Olechnovič
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>511</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/ValerasNarbutas">
-				<img src="https://avatars.githubusercontent.com/u/16476453?s=72&u=17da12808cac0d4cf81c6d5a10c3743fa9365135&v=4" width="24" alt="Avatar of ValerasNarbutas"> ValerasNarbutas
-			</a><br/>
-			Valeras Narbutas
-		</td>
-		<td>Macaw </td>
-		<td><a href="https://twitter.com/ValerasNarbutas">ValerasNarbutas</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>509</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
-			<a href="https://github.com/FDiskas">
-				<img src="https://avatars.githubusercontent.com/u/468006?s=72&v=4" width="24" alt="Avatar of FDiskas"> FDiskas
-			</a><br/>
-			Vytenis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>499</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/snatvb">
-				<img src="https://avatars.githubusercontent.com/u/1572963?s=72&u=c1b864f4710be3fe30ab298cea280039e7297ac1&v=4" width="24" alt="Avatar of snatvb"> snatvb
-			</a><br/>
-			Andrew Avsenin
-		</td>
-		<td>Wargaming </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>489</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/user1990">
-				<img src="https://avatars.githubusercontent.com/u/13827656?s=72&u=ee358d24e72b77eb992f9869252d5fc36491f758&v=4" width="24" alt="Avatar of user1990"> user1990
-			</a><br/>
-			Paulius Rimgaila
+			<a href="https://github.com/OzymandiasTheGreat">
+				<img src="https://avatars.githubusercontent.com/u/17731419?s=72&u=7c69ed71541880525e699e533469b1a18b5d9d85&v=4" width="24" alt="Avatar of OzymandiasTheGreat"> OzymandiasTheGreat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#OzymandiasTheGreat">Copy rank badge</a><br/>
+			Tomas Ravinskas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>489</td>
+		<td>Lithuania</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/elvinasv">
-				<img src="https://avatars.githubusercontent.com/u/10553848?s=72&u=4f0d691004a1b8711e2350b5007343de49c94284&v=4" width="24" alt="Avatar of elvinasv"> elvinasv
-			</a><br/>
-			Elvinas Valenas
+			<a href="https://github.com/cfnptr">
+				<img src="https://avatars.githubusercontent.com/u/20398717?s=72&u=439a31ceab115880c4c3a2cb0d1e907957eccb5b&v=4" width="24" alt="Avatar of cfnptr"> cfnptr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#cfnptr">Copy rank badge</a><br/>
+			Nikita Fediuchin
 		</td>
-		<td>Backloglab </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>485</td>
+		<td>569</td>
 	</tr>
 	<tr>
 		<td>74</td>
 		<td>
+			<a href="https://github.com/00riddle00">
+				<img src="https://avatars.githubusercontent.com/u/13035973?s=72&u=281e08392bab711ad1181163e235eb9a63cef679&v=4" width="24" alt="Avatar of 00riddle00"> 00riddle00
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#00riddle00">Copy rank badge</a><br/>
+			Tomas Giedraitis
+		</td>
+		<td>Codeacademy | Freelance </td>
+		<td><a href="https://twitter.com/tomasgiedraitis">tomasgiedraitis</a></td>
+		<td>Lithuania</td>
+		<td>566</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/kriakiku">
+				<img src="https://avatars.githubusercontent.com/u/10038023?s=72&u=368d47e7ee1327fd0cd64b3d41c409d3e51b8a8b&v=4" width="24" alt="Avatar of kriakiku"> kriakiku
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kriakiku">Copy rank badge</a><br/>
+			Jonas Danila
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>553</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
 			<a href="https://github.com/kareiva">
 				<img src="https://avatars.githubusercontent.com/u/3890253?s=72&v=4" width="24" alt="Avatar of kareiva"> kareiva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kareiva">Copy rank badge</a><br/>
 			Simonas
 		</td>
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>481</td>
+		<td>546</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>77</td>
 		<td>
-			<a href="https://github.com/yfyf">
-				<img src="https://avatars.githubusercontent.com/u/759438?s=72&u=157b1ab9e29f5dad89f1a31b8059e6189920fcf4&v=4" width="24" alt="Avatar of yfyf"> yfyf
-			</a><br/>
-			Ignas Vyšniauskas
+			<a href="https://github.com/ekharkunov">
+				<img src="https://avatars.githubusercontent.com/u/770105?s=72&v=4" width="24" alt="Avatar of ekharkunov"> ekharkunov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ekharkunov">Copy rank badge</a><br/>
+			Kharkunov Eugene
 		</td>
-		<td>@dividat  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>480</td>
+		<td>541</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/ValerasNarbutas">
+				<img src="https://avatars.githubusercontent.com/u/16476453?s=72&u=17da12808cac0d4cf81c6d5a10c3743fa9365135&v=4" width="24" alt="Avatar of ValerasNarbutas"> ValerasNarbutas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ValerasNarbutas">Copy rank badge</a><br/>
+			Valeras Narbutas
+		</td>
+		<td>Macaw </td>
+		<td><a href="https://twitter.com/ValerasNarbutas">ValerasNarbutas</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>530</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/AliAmini93">
+				<img src="https://avatars.githubusercontent.com/u/96921261?s=72&u=6426f89187d8096b80d006a14878297233138ad9&v=4" width="24" alt="Avatar of AliAmini93"> AliAmini93
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AliAmini93">Copy rank badge</a><br/>
+			Ali Amini
+		</td>
+		<td>Researcher | Kaunas University<br/>Of<br/>Technology<br/>(ktu)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>522</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/KostasEreksonas">
+				<img src="https://avatars.githubusercontent.com/u/70328937?s=72&u=d3e96821e9f7bac7431015c4ce79e284a6756183&v=4" width="24" alt="Avatar of KostasEreksonas"> KostasEreksonas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#KostasEreksonas">Copy rank badge</a><br/>
+			Kostas Ereksonas
+		</td>
+		<td>Neptyai </td>
+		<td><a href="https://twitter.com/ereksonas">ereksonas</a></td>
+		<td>Lithuania</td>
+		<td>522</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/elvinasv">
+				<img src="https://avatars.githubusercontent.com/u/10553848?s=72&u=4f0d691004a1b8711e2350b5007343de49c94284&v=4" width="24" alt="Avatar of elvinasv"> elvinasv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#elvinasv">Copy rank badge</a><br/>
+			Elvinas Valenas
+		</td>
+		<td>Backloglab </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>510</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/karoliskoncevicius">
+				<img src="https://avatars.githubusercontent.com/u/7273684?s=72&u=3217a16b6a5784dfe9e745aa1228de6c30b826d8&v=4" width="24" alt="Avatar of karoliskoncevicius"> karoliskoncevicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#karoliskoncevicius">Copy rank badge</a><br/>
+			Karolis Koncevičius
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kkoncevicius">kkoncevicius</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>508</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/davseby">
+				<img src="https://avatars.githubusercontent.com/u/58231312?s=72&u=9989a787bd7d388891877b9f4cc0dba8fbae390b&v=4" width="24" alt="Avatar of davseby"> davseby
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#davseby">Copy rank badge</a><br/>
+			David
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>504</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/FDiskas">
+				<img src="https://avatars.githubusercontent.com/u/468006?s=72&v=4" width="24" alt="Avatar of FDiskas"> FDiskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#FDiskas">Copy rank badge</a><br/>
+			Vytenis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/snatvb">
+				<img src="https://avatars.githubusercontent.com/u/1572963?s=72&u=c1b864f4710be3fe30ab298cea280039e7297ac1&v=4" width="24" alt="Avatar of snatvb"> snatvb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#snatvb">Copy rank badge</a><br/>
+			Andrew Avsenin
+		</td>
+		<td>Wargaming </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/kliment-olechnovic">
+				<img src="https://avatars.githubusercontent.com/u/54395582?s=72&u=e357c06b8c7af2e68b8d0753948fb9f23b209d63&v=4" width="24" alt="Avatar of kliment-olechnovic"> kliment-olechnovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kliment-olechnovic">Copy rank badge</a><br/>
+			Kliment Olechnovič
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>490</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/kronihias">
+				<img src="https://avatars.githubusercontent.com/u/1053120?s=72&u=3afbd29a81a27bbcd2ce745b52678c0572b4bc62&v=4" width="24" alt="Avatar of kronihias"> kronihias
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kronihias">Copy rank badge</a><br/>
+			Matthias Kronlachner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>487</td>
+	</tr>
+	<tr>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/zilton7">
 				<img src="https://avatars.githubusercontent.com/u/38778743?s=72&u=1171e4773cede9a1fccd23f94e9b60534898e530&v=4" width="24" alt="Avatar of zilton7"> zilton7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zilton7">Copy rank badge</a><br/>
 			Zil Norvilis
 		</td>
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/zilasino">zilasino</a></td>
 		<td>Lithuania</td>
-		<td>477</td>
+		<td>482</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>89</td>
 		<td>
-			<a href="https://github.com/zhemepatis">
-				<img src="https://avatars.githubusercontent.com/u/80202058?s=72&u=451ae679152466474f2110d633615f42cc6dca6e&v=4" width="24" alt="Avatar of zhemepatis"> zhemepatis
-			</a><br/>
-			Gabrielė Rinkevičiūtė
+			<a href="https://github.com/dimchansky">
+				<img src="https://avatars.githubusercontent.com/u/91551?s=72&u=b05ddd9aadbe79b16491fde671870d0677019f40&v=4" width="24" alt="Avatar of dimchansky"> dimchansky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dimchansky">Copy rank badge</a><br/>
+			Dmitrij Koniajev
+		</td>
+		<td>Monetha </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>475</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/domasx2">
+				<img src="https://avatars.githubusercontent.com/u/847684?s=72&u=0b0fb854047ba77a0eb85bf571f881838be01698&v=4" width="24" alt="Avatar of domasx2"> domasx2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#domasx2">Copy rank badge</a><br/>
+			Domas
+		</td>
+		<td>Grafana Labs </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>463</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/erkexzcx">
+				<img src="https://avatars.githubusercontent.com/u/5955795?s=72&u=0db444b36488a8eec9c0b3deb59fcc6d9614ca8e&v=4" width="24" alt="Avatar of erkexzcx"> erkexzcx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#erkexzcx">Copy rank badge</a><br/>
+			Erikas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>460</td>
+		<td>Lithuania, Vilnius</td>
+		<td>462</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>92</td>
 		<td>
-			<a href="https://github.com/ReekenX">
-				<img src="https://avatars.githubusercontent.com/u/242010?s=72&u=fa3afdd4ad78c02acb83969a3e6975766d939312&v=4" width="24" alt="Avatar of ReekenX"> ReekenX
-			</a><br/>
-			Remis Jarmalavicius
+			<a href="https://github.com/PovilasKorop">
+				<img src="https://avatars.githubusercontent.com/u/1510147?s=72&u=214b7e78daa2cf4a51ad4d64fc8813aeb20fa3d3&v=4" width="24" alt="Avatar of PovilasKorop"> PovilasKorop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#PovilasKorop">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>Lumenalta (formerly Clevertech) </td>
-		<td><a href="https://twitter.com/ReekenX">ReekenX</a></td>
-		<td>Lithuania</td>
-		<td>452</td>
+		<td>Laravel Course Creator </td>
+		<td><a href="https://twitter.com/PovilasKorop">PovilasKorop</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>456</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/yfyf">
+				<img src="https://avatars.githubusercontent.com/u/759438?s=72&u=157b1ab9e29f5dad89f1a31b8059e6189920fcf4&v=4" width="24" alt="Avatar of yfyf"> yfyf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#yfyf">Copy rank badge</a><br/>
+			Ignas Vyšniauskas
+		</td>
+		<td>@dividat  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>449</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/algirdasc">
+				<img src="https://avatars.githubusercontent.com/u/18305296?s=72&u=f03509768c3e080fc19dffc793b55efb5453f076&v=4" width="24" alt="Avatar of algirdasc"> algirdasc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#algirdasc">Copy rank badge</a><br/>
+			Algirdas Č.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>449</td>
+	</tr>
+	<tr>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/akononovicius">
 				<img src="https://avatars.githubusercontent.com/u/8401247?s=72&u=67fa06787e7e266216f03d6239c5c54e8f360ef3&v=4" width="24" alt="Avatar of akononovicius"> akononovicius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#akononovicius">Copy rank badge</a><br/>
 			Aleksejus Kononovicius
 		</td>
 		<td>Vilnius University </td>
@@ -1132,518 +1342,479 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>448</td>
 	</tr>
 	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/inner">
-				<img src="https://avatars.githubusercontent.com/u/653921?s=72&u=79e0b6b8040ab4bee8d2fdaced3e4bc6d4fed16c&v=4" width="24" alt="Avatar of inner"> inner
-			</a><br/>
-			Simonas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>439</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/algirdasc">
-				<img src="https://avatars.githubusercontent.com/u/18305296?s=72&u=f03509768c3e080fc19dffc793b55efb5453f076&v=4" width="24" alt="Avatar of algirdasc"> algirdasc
-			</a><br/>
-			Algirdas Č.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>432</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/Rhevin">
-				<img src="https://avatars.githubusercontent.com/u/9104961?s=72&u=d7cd7be6b59659963f9c059153a89423d70c106f&v=4" width="24" alt="Avatar of Rhevin"> Rhevin
-			</a><br/>
-			Rhevin F
-		</td>
-		<td>@hostinger  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>431</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/saltenasl">
-				<img src="https://avatars.githubusercontent.com/u/8775140?s=72&u=f45d4338bb57c9254e124cf2514e8a4e0c8c0c48&v=4" width="24" alt="Avatar of saltenasl"> saltenasl
-			</a><br/>
-			Lukas Šaltėnas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>421</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/erkexzcx">
-				<img src="https://avatars.githubusercontent.com/u/5955795?s=72&u=0db444b36488a8eec9c0b3deb59fcc6d9614ca8e&v=4" width="24" alt="Avatar of erkexzcx"> erkexzcx
-			</a><br/>
-			Erikas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>420</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/davseby">
-				<img src="https://avatars.githubusercontent.com/u/58231312?s=72&u=9989a787bd7d388891877b9f4cc0dba8fbae390b&v=4" width="24" alt="Avatar of davseby"> davseby
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>418</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/rmisev">
-				<img src="https://avatars.githubusercontent.com/u/19497908?s=72&v=4" width="24" alt="Avatar of rmisev"> rmisev
-			</a><br/>
-			Rimas Misevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>413</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/kronihias">
-				<img src="https://avatars.githubusercontent.com/u/1053120?s=72&u=3afbd29a81a27bbcd2ce745b52678c0572b4bc62&v=4" width="24" alt="Avatar of kronihias"> kronihias
-			</a><br/>
-			Matthias Kronlachner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>412</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/PovilasKorop">
-				<img src="https://avatars.githubusercontent.com/u/1510147?s=72&u=214b7e78daa2cf4a51ad4d64fc8813aeb20fa3d3&v=4" width="24" alt="Avatar of PovilasKorop"> PovilasKorop
-			</a><br/>
-			No Name
-		</td>
-		<td>Laravel Course Creator </td>
-		<td><a href="https://twitter.com/PovilasKorop">PovilasKorop</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/pscanf">
-				<img src="https://avatars.githubusercontent.com/u/3725458?s=72&u=512b67c6833f17b8977260af56278c19c0de3290&v=4" width="24" alt="Avatar of pscanf"> pscanf
-			</a><br/>
-			Paolo Scanferla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/domasx2">
-				<img src="https://avatars.githubusercontent.com/u/847684?s=72&u=0b0fb854047ba77a0eb85bf571f881838be01698&v=4" width="24" alt="Avatar of domasx2"> domasx2
-			</a><br/>
-			Domas
-		</td>
-		<td>Grafana Labs </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>409</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/ArtiomTr">
-				<img src="https://avatars.githubusercontent.com/u/44021713?s=72&v=4" width="24" alt="Avatar of ArtiomTr"> ArtiomTr
-			</a><br/>
-			Artiom Tretjakovas
-		</td>
-		<td>@grandinetech </td>
-		<td><a href="https://twitter.com/sirsedev">sirsedev</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>403</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/Linux123123">
-				<img src="https://avatars.githubusercontent.com/u/26341983?s=72&u=86b1e6a9f17270f9ad70c4829ac17c978a5a4ea4&v=4" width="24" alt="Avatar of Linux123123"> Linux123123
-			</a><br/>
-			Linas A.
-		</td>
-		<td>@sparkedhost  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>400</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/TitasGailius">
-				<img src="https://avatars.githubusercontent.com/u/12625773?s=72&u=e6a6072188752b3ed9a2e12b4f110a5e28272c7e&v=4" width="24" alt="Avatar of TitasGailius"> TitasGailius
-			</a><br/>
-			Titas Gailius
-		</td>
-		<td>Laravel </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>399</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/aras-p">
-				<img src="https://avatars.githubusercontent.com/u/348087?s=72&u=41311731f3f004fab8817c14c0440e09a29caa48&v=4" width="24" alt="Avatar of aras-p"> aras-p
-			</a><br/>
-			Aras Pranckevičius
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aras_p">aras_p</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>392</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/Andreichenko">
-				<img src="https://avatars.githubusercontent.com/u/20015341?s=72&u=586df5d39fe78c30308abe60801e598bbf47b456&v=4" width="24" alt="Avatar of Andreichenko"> Andreichenko
-			</a><br/>
-			Aleksandr Andreichenko
-		</td>
-		<td>Epam Systems, Inc </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>390</td>
-	</tr>
-	<tr>
 		<td>96</td>
-		<td>
-			<a href="https://github.com/kstulgys">
-				<img src="https://avatars.githubusercontent.com/u/25918214?s=72&u=0128bbf2d0fd8ffaf38070ab4002a31d0bef5da7&v=4" width="24" alt="Avatar of kstulgys"> kstulgys
-			</a><br/>
-			Karolis Stulgys
-		</td>
-		<td>Kastproductions </td>
-		<td><a href="https://twitter.com/imkarolis">imkarolis</a></td>
-		<td>Vilnius</td>
-		<td>382</td>
-	</tr>
-	<tr>
-		<td>97</td>
 		<td>
 			<a href="https://github.com/MarchenkoRuslan">
 				<img src="https://avatars.githubusercontent.com/u/55085111?s=72&u=9ab4c31e7f5077480e1c34922fe3c6d08132d363&v=4" width="24" alt="Avatar of MarchenkoRuslan"> MarchenkoRuslan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MarchenkoRuslan">Copy rank badge</a><br/>
 			RuslanM
 		</td>
 		<td>Turing College </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>376</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/ubis">
+				<img src="https://avatars.githubusercontent.com/u/3310376?s=72&u=5ea81881b392fa64daf0ea9327dfa51e9b3149a2&v=4" width="24" alt="Avatar of ubis"> ubis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ubis">Copy rank badge</a><br/>
+			Jokūbas M.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>441</td>
 	</tr>
 	<tr>
 		<td>98</td>
 		<td>
-			<a href="https://github.com/grawity">
-				<img src="https://avatars.githubusercontent.com/u/31021?s=72&v=4" width="24" alt="Avatar of grawity"> grawity
-			</a><br/>
-			Mantas Mikulėnas
+			<a href="https://github.com/Linux123123">
+				<img src="https://avatars.githubusercontent.com/u/26341983?s=72&u=86b1e6a9f17270f9ad70c4829ac17c978a5a4ea4&v=4" width="24" alt="Avatar of Linux123123"> Linux123123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Linux123123">Copy rank badge</a><br/>
+			Linas A.
 		</td>
-		<td>No Company</td>
+		<td>@sparkedhost  </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>374</td>
+		<td>Kaunas, Lithuania</td>
+		<td>438</td>
 	</tr>
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/walmis">
-				<img src="https://avatars.githubusercontent.com/u/3736730?s=72&v=4" width="24" alt="Avatar of walmis"> walmis
-			</a><br/>
-			Valmantas Palikša
+			<a href="https://github.com/Rhevin">
+				<img src="https://avatars.githubusercontent.com/u/9104961?s=72&u=d7cd7be6b59659963f9c059153a89423d70c106f&v=4" width="24" alt="Avatar of Rhevin"> Rhevin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Rhevin">Copy rank badge</a><br/>
+			Rhevin F
 		</td>
-		<td>No Company</td>
+		<td>@hostinger  </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>374</td>
+		<td>437</td>
 	</tr>
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/jasonbaciulis">
-				<img src="https://avatars.githubusercontent.com/u/18900226?s=72&u=b38d0303f5aacb548053c1371d2b1ce2cb2823e8&v=4" width="24" alt="Avatar of jasonbaciulis"> jasonbaciulis
-			</a><br/>
-			Jason Baciulis
+			<a href="https://github.com/ReekenX">
+				<img src="https://avatars.githubusercontent.com/u/242010?s=72&u=fa3afdd4ad78c02acb83969a3e6975766d939312&v=4" width="24" alt="Avatar of ReekenX"> ReekenX
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ReekenX">Copy rank badge</a><br/>
+			Remis Jarmalavicius
 		</td>
-		<td>Remarkable.dev </td>
-		<td><a href="https://twitter.com/jasonbaciulis">jasonbaciulis</a></td>
+		<td>Lumenalta (formerly Clevertech) </td>
+		<td><a href="https://twitter.com/ReekenX">ReekenX</a></td>
 		<td>Lithuania</td>
-		<td>371</td>
+		<td>436</td>
 	</tr>
 	<tr>
 		<td>101</td>
 		<td>
-			<a href="https://github.com/rytisss">
-				<img src="https://avatars.githubusercontent.com/u/22094617?s=72&u=4771efcec603ca106223157b8bb3935b9581b17e&v=4" width="24" alt="Avatar of rytisss"> rytisss
-			</a><br/>
-			Rytis Augustauskas
+			<a href="https://github.com/inner">
+				<img src="https://avatars.githubusercontent.com/u/653921?s=72&u=79e0b6b8040ab4bee8d2fdaced3e4bc6d4fed16c&v=4" width="24" alt="Avatar of inner"> inner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#inner">Copy rank badge</a><br/>
+			Simonas
 		</td>
-		<td>Easyodm, Agmis & Other<br/>(this<br/>Is<br/>My<br/>Private<br/>Account)<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>371</td>
+		<td>Kaunas</td>
+		<td>429</td>
 	</tr>
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/ramuneri">
-				<img src="https://avatars.githubusercontent.com/u/153389006?s=72&u=37dc3eb14ca0b65cfad5a3544d7450fdd4bd840c&v=4" width="24" alt="Avatar of ramuneri"> ramuneri
-			</a><br/>
-			Ramunė Riaubaitė
+			<a href="https://github.com/ArtiomTr">
+				<img src="https://avatars.githubusercontent.com/u/44021713?s=72&v=4" width="24" alt="Avatar of ArtiomTr"> ArtiomTr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ArtiomTr">Copy rank badge</a><br/>
+			Artiom Tretjakovas
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, LT</td>
-		<td>370</td>
+		<td>@grandinetech </td>
+		<td><a href="https://twitter.com/sirsedev">sirsedev</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>425</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/domnantas">
-				<img src="https://avatars.githubusercontent.com/u/51953549?s=72&u=003fe02cd7af413cd4fd846477bc86445bf7b792&v=4" width="24" alt="Avatar of domnantas"> domnantas
-			</a><br/>
-			Domantas Vasiliauskas
+			<a href="https://github.com/rmisev">
+				<img src="https://avatars.githubusercontent.com/u/19497908?s=72&v=4" width="24" alt="Avatar of rmisev"> rmisev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rmisev">Copy rank badge</a><br/>
+			Rimas Misevičius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>366</td>
+		<td>Lithuania</td>
+		<td>417</td>
 	</tr>
 	<tr>
 		<td>104</td>
 		<td>
-			<a href="https://github.com/FjgarciaMac">
-				<img src="https://avatars.githubusercontent.com/u/11404933?s=72&u=0a6aca6a78dda4d9ee5f9f93c8be0e0428d490f8&v=4" width="24" alt="Avatar of FjgarciaMac"> FjgarciaMac
-			</a><br/>
-			Fenwick 
-		</td>
-		<td>Fenwick Systems </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>363</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
 			<a href="https://github.com/exxecute">
 				<img src="https://avatars.githubusercontent.com/u/80586211?s=72&u=a9c648f380ad77263d0d0b79b0859375fcbb65de&v=4" width="24" alt="Avatar of exxecute"> exxecute
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#exxecute">Copy rank badge</a><br/>
 			Uladzislau Mikhayevich
 		</td>
 		<td>Systems Engineer | Embedded<br/>Linux<br/>•<br/>Architecture<br/>•<br/>Leadership<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>360</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/aras-p">
+				<img src="https://avatars.githubusercontent.com/u/348087?s=72&u=41311731f3f004fab8817c14c0440e09a29caa48&v=4" width="24" alt="Avatar of aras-p"> aras-p
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aras-p">Copy rank badge</a><br/>
+			Aras Pranckevičius
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aras_p">aras_p</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>408</td>
 	</tr>
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/AliAmini93">
-				<img src="https://avatars.githubusercontent.com/u/96921261?s=72&u=6426f89187d8096b80d006a14878297233138ad9&v=4" width="24" alt="Avatar of AliAmini93"> AliAmini93
-			</a><br/>
-			Ali Amini
+			<a href="https://github.com/jvitkauskas">
+				<img src="https://avatars.githubusercontent.com/u/9928675?s=72&u=5aea0853a610e0c73864cfb055796e2280e06242&v=4" width="24" alt="Avatar of jvitkauskas"> jvitkauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jvitkauskas">Copy rank badge</a><br/>
+			Julius Vitkauskas
 		</td>
-		<td>Researcher | Kaunas University<br/>Of<br/>Technology<br/>(ktu)<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>352</td>
+		<td>Lithuania</td>
+		<td>408</td>
 	</tr>
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/pscanf">
+				<img src="https://avatars.githubusercontent.com/u/3725458?s=72&u=512b67c6833f17b8977260af56278c19c0de3290&v=4" width="24" alt="Avatar of pscanf"> pscanf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pscanf">Copy rank badge</a><br/>
+			Paolo Scanferla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>406</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/mikallojjus">
+				<img src="https://avatars.githubusercontent.com/u/74614819?s=72&u=e256595badecf03e37f2d37bd17caf1de54ca447&v=4" width="24" alt="Avatar of mikallojjus"> mikallojjus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mikallojjus">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>404</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/TitasGailius">
+				<img src="https://avatars.githubusercontent.com/u/12625773?s=72&u=e6a6072188752b3ed9a2e12b4f110a5e28272c7e&v=4" width="24" alt="Avatar of TitasGailius"> TitasGailius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TitasGailius">Copy rank badge</a><br/>
+			Titas Gailius
+		</td>
+		<td>Laravel </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/kstulgys">
+				<img src="https://avatars.githubusercontent.com/u/25918214?s=72&u=0128bbf2d0fd8ffaf38070ab4002a31d0bef5da7&v=4" width="24" alt="Avatar of kstulgys"> kstulgys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kstulgys">Copy rank badge</a><br/>
+			Karolis Stulgys
+		</td>
+		<td>Kastproductions </td>
+		<td><a href="https://twitter.com/imkarolis">imkarolis</a></td>
+		<td>Vilnius</td>
+		<td>396</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/armandokun">
+				<img src="https://avatars.githubusercontent.com/u/37222499?s=72&u=28f6e1f9c131f4485a95067732bc425a26f655c5&v=4" width="24" alt="Avatar of armandokun"> armandokun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#armandokun">Copy rank badge</a><br/>
+			Armandas Vaičikauskas
+		</td>
+		<td>Openmail </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/saltenasl">
+				<img src="https://avatars.githubusercontent.com/u/8775140?s=72&u=f45d4338bb57c9254e124cf2514e8a4e0c8c0c48&v=4" width="24" alt="Avatar of saltenasl"> saltenasl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#saltenasl">Copy rank badge</a><br/>
+			Lukas Šaltėnas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>388</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/zhemepatis">
+				<img src="https://avatars.githubusercontent.com/u/80202058?s=72&u=451ae679152466474f2110d633615f42cc6dca6e&v=4" width="24" alt="Avatar of zhemepatis"> zhemepatis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zhemepatis">Copy rank badge</a><br/>
+			Gabrielė Rinkevičiūtė
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>385</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/rytisss">
+				<img src="https://avatars.githubusercontent.com/u/22094617?s=72&u=4771efcec603ca106223157b8bb3935b9581b17e&v=4" width="24" alt="Avatar of rytisss"> rytisss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rytisss">Copy rank badge</a><br/>
+			Rytis Augustauskas
+		</td>
+		<td>Easyodm, Agmis & Other<br/>(this<br/>Is<br/>My<br/>Private<br/>Account)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>379</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/domnantas">
+				<img src="https://avatars.githubusercontent.com/u/51953549?s=72&u=003fe02cd7af413cd4fd846477bc86445bf7b792&v=4" width="24" alt="Avatar of domnantas"> domnantas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#domnantas">Copy rank badge</a><br/>
+			Domantas Vasiliauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>377</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/Andreichenko">
+				<img src="https://avatars.githubusercontent.com/u/20015341?s=72&u=586df5d39fe78c30308abe60801e598bbf47b456&v=4" width="24" alt="Avatar of Andreichenko"> Andreichenko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Andreichenko">Copy rank badge</a><br/>
+			Aleksandr Andreichenko
+		</td>
+		<td>Epam Systems, Inc </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/aurimasniekis">
+				<img src="https://avatars.githubusercontent.com/u/15481?s=72&v=4" width="24" alt="Avatar of aurimasniekis"> aurimasniekis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aurimasniekis">Copy rank badge</a><br/>
+			Aurimas Niekis
+		</td>
+		<td>Thruster Industries & Baller<br/></td>
+		<td><a href="https://twitter.com/aurimasniekis">aurimasniekis</a></td>
+		<td>Lithuania / Japan</td>
+		<td>370</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/jasonbaciulis">
+				<img src="https://avatars.githubusercontent.com/u/18900226?s=72&u=b38d0303f5aacb548053c1371d2b1ce2cb2823e8&v=4" width="24" alt="Avatar of jasonbaciulis"> jasonbaciulis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jasonbaciulis">Copy rank badge</a><br/>
+			Jason Baciulis
+		</td>
+		<td>Remarkable.dev </td>
+		<td><a href="https://twitter.com/jasonbaciulis">jasonbaciulis</a></td>
+		<td>Lithuania</td>
+		<td>366</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/AaronG5">
+				<img src="https://avatars.githubusercontent.com/u/142338706?s=72&u=62bbd0c0c5c612121fecacd8da0fc52c774392aa&v=4" width="24" alt="Avatar of AaronG5"> AaronG5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AaronG5">Copy rank badge</a><br/>
+			Aaron Gandz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>357</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/podo">
 				<img src="https://avatars.githubusercontent.com/u/136778?s=72&u=4a9ae6d334e79dd42c127d42079e5549b836c4fb&v=4" width="24" alt="Avatar of podo"> podo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#podo">Copy rank badge</a><br/>
 			Giedrius Jaloveckas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>349</td>
+		<td>356</td>
 	</tr>
 	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/LiudasJan">
-				<img src="https://avatars.githubusercontent.com/u/33857939?s=72&u=0594e1c4028294a75d7067d33fe4cd4a9737013c&v=4" width="24" alt="Avatar of LiudasJan"> LiudasJan
-			</a><br/>
-			Liudas Jankauskas
-		</td>
-		<td>Qaontime.com </td>
-		<td>No Twitter Username</td>
-		<td>UAE - Lithuania</td>
-		<td>349</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/Tulon">
-				<img src="https://avatars.githubusercontent.com/u/4699344?s=72&v=4" width="24" alt="Avatar of Tulon"> Tulon
-			</a><br/>
-			Joseph Artsimovich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>346</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/vzemlys">
-				<img src="https://avatars.githubusercontent.com/u/320871?s=72&u=728d065baca57df275835a32496a6e058783ad87&v=4" width="24" alt="Avatar of vzemlys"> vzemlys
-			</a><br/>
-			Vaidotas Zemlys-Balevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>343</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/OzymandiasTheGreat">
-				<img src="https://avatars.githubusercontent.com/u/17731419?s=72&u=7c69ed71541880525e699e533469b1a18b5d9d85&v=4" width="24" alt="Avatar of OzymandiasTheGreat"> OzymandiasTheGreat
-			</a><br/>
-			Tomas Ravinskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>339</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/krekas">
-				<img src="https://avatars.githubusercontent.com/u/11015977?s=72&v=4" width="24" alt="Avatar of krekas"> krekas
-			</a><br/>
-			Nerijus
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nerijusdev">nerijusdev</a></td>
-		<td>Lithuania, Kaunas</td>
-		<td>327</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Tumas">
-				<img src="https://avatars.githubusercontent.com/u/88451?s=72&v=4" width="24" alt="Avatar of Tumas"> Tumas
-			</a><br/>
-			Tumas
-		</td>
-		<td>@grandinetech  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>324</td>
-	</tr>
-	<tr>
-		<td>114</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/daliusd">
 				<img src="https://avatars.githubusercontent.com/u/1944737?s=72&u=332bc622caf244ab850c2c4d0a4d570277f81b4e&v=4" width="24" alt="Avatar of daliusd"> daliusd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#daliusd">Copy rank badge</a><br/>
 			Dalius Dobravolskas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>324</td>
+		<td>356</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>122</td>
 		<td>
-			<a href="https://github.com/ArnoldasMk">
-				<img src="https://avatars.githubusercontent.com/u/68555524?s=72&u=6fc8509a58f4c6e9061692b6b06796f037ade3fa&v=4" width="24" alt="Avatar of ArnoldasMk"> ArnoldasMk
-			</a><br/>
-			No Name
+			<a href="https://github.com/Tulon">
+				<img src="https://avatars.githubusercontent.com/u/4699344?s=72&v=4" width="24" alt="Avatar of Tulon"> Tulon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Tulon">Copy rank badge</a><br/>
+			Joseph Artsimovich
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>321</td>
+		<td>354</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>123</td>
 		<td>
-			<a href="https://github.com/simonas-notcat">
-				<img src="https://avatars.githubusercontent.com/u/16773277?s=72&u=02fae72f9f0fb4bb0f91f780dd87ab4625775f7f&v=4" width="24" alt="Avatar of simonas-notcat"> simonas-notcat
-			</a><br/>
-			Simonas Karuzas
+			<a href="https://github.com/ramuneri">
+				<img src="https://avatars.githubusercontent.com/u/153389006?s=72&u=37dc3eb14ca0b65cfad5a3544d7450fdd4bd840c&v=4" width="24" alt="Avatar of ramuneri"> ramuneri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ramuneri">Copy rank badge</a><br/>
+			Ramunė Riaubaitė
 		</td>
-		<td>Intuition </td>
-		<td><a href="https://twitter.com/simonas">simonas</a></td>
-		<td>Vilnius</td>
-		<td>316</td>
+		<td>Seb Lt </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, LT</td>
+		<td>351</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/FjgarciaMac">
+				<img src="https://avatars.githubusercontent.com/u/11404933?s=72&u=0a6aca6a78dda4d9ee5f9f93c8be0e0428d490f8&v=4" width="24" alt="Avatar of FjgarciaMac"> FjgarciaMac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#FjgarciaMac">Copy rank badge</a><br/>
+			Fenwick 
+		</td>
+		<td>Fenwick Systems </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/Tumas">
+				<img src="https://avatars.githubusercontent.com/u/88451?s=72&v=4" width="24" alt="Avatar of Tumas"> Tumas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Tumas">Copy rank badge</a><br/>
+			Tumas
+		</td>
+		<td>@grandinetech  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>339</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/atpugneSnahsE">
+				<img src="https://avatars.githubusercontent.com/u/80143440?s=72&u=4d2601bf2745655ce95106e5e79cec7e9ab2f999&v=4" width="24" alt="Avatar of atpugneSnahsE"> atpugneSnahsE
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#atpugneSnahsE">Copy rank badge</a><br/>
+			EshanSengupta
+		</td>
+		<td>Vilnius Tech </td>
+		<td><a href="https://twitter.com/_eshansengupta">_eshansengupta</a></td>
+		<td>Lithuania</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/Sieg">
 				<img src="https://avatars.githubusercontent.com/u/98882?s=72&u=2ed3b6b2aafafd20e240ac5ddaf9dfad54a36a9b&v=4" width="24" alt="Avatar of Sieg"> Sieg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Sieg">Copy rank badge</a><br/>
 			Anton Fedurtsya
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
-		<td>313</td>
+		<td>324</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>128</td>
 		<td>
-			<a href="https://github.com/Glareone">
-				<img src="https://avatars.githubusercontent.com/u/4239376?s=72&u=035ec40390f83c4aef9134fff6003f90a953e8a5&v=4" width="24" alt="Avatar of Glareone"> Glareone
-			</a><br/>
-			Aleksei Kolesnikov
+			<a href="https://github.com/baruckis">
+				<img src="https://avatars.githubusercontent.com/u/2387056?s=72&u=9ef0803d20affb3eed5cfe40cad9e77a82d048e5&v=4" width="24" alt="Avatar of baruckis"> baruckis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#baruckis">Copy rank badge</a><br/>
+			Andrius Baruckis
+		</td>
+		<td>@devsengine </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/grawity">
+				<img src="https://avatars.githubusercontent.com/u/31021?s=72&v=4" width="24" alt="Avatar of grawity"> grawity
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#grawity">Copy rank badge</a><br/>
+			Mantas Mikulėnas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Krakow \  Amsterdam \ Vilnius</td>
-		<td>308</td>
+		<td>Lithuania</td>
+		<td>311</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/krekas">
+				<img src="https://avatars.githubusercontent.com/u/11015977?s=72&v=4" width="24" alt="Avatar of krekas"> krekas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#krekas">Copy rank badge</a><br/>
+			Nerijus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nerijusdev">nerijusdev</a></td>
+		<td>Lithuania, Kaunas</td>
+		<td>302</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/walmis">
+				<img src="https://avatars.githubusercontent.com/u/3736730?s=72&v=4" width="24" alt="Avatar of walmis"> walmis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#walmis">Copy rank badge</a><br/>
+			Valmantas Palikša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/shizzard">
 				<img src="https://avatars.githubusercontent.com/u/399886?s=72&u=a5f6bd724908539939d8504582c9de24e73241c8&v=4" width="24" alt="Avatar of shizzard"> shizzard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#shizzard">Copy rank badge</a><br/>
 			Denis Farr
 		</td>
 		<td>No Company</td>
@@ -1652,128 +1823,180 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/atpugneSnahsE">
-				<img src="https://avatars.githubusercontent.com/u/80143440?s=72&u=4d2601bf2745655ce95106e5e79cec7e9ab2f999&v=4" width="24" alt="Avatar of atpugneSnahsE"> atpugneSnahsE
-			</a><br/>
-			EshanSengupta
-		</td>
-		<td>Vilnius Tech </td>
-		<td><a href="https://twitter.com/_eshansengupta">_eshansengupta</a></td>
-		<td>Lithuania</td>
-		<td>299</td>
-	</tr>
-	<tr>
-		<td>121</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/chipp">
 				<img src="https://avatars.githubusercontent.com/u/115227?s=72&u=7f42d5e1efeb6ed3b05896357b20a19d4db900b8&v=4" width="24" alt="Avatar of chipp"> chipp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#chipp">Copy rank badge</a><br/>
 			Vladimir Burdukov
 		</td>
 		<td>@epam  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>296</td>
+		<td>299</td>
 	</tr>
 	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/tomas862">
-				<img src="https://avatars.githubusercontent.com/u/17051250?s=72&u=9a9ad1c9e22fb60d7fc87c2a5f471628fbdb2bf9&v=4" width="24" alt="Avatar of tomas862"> tomas862
-			</a><br/>
-			Tomas
-		</td>
-		<td>@invertus </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>290</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/binjip978">
-				<img src="https://avatars.githubusercontent.com/u/752342?s=72&u=d282557c259098b8dc3b63f93cf0f499d01059ff&v=4" width="24" alt="Avatar of binjip978"> binjip978
-			</a><br/>
-			Sergei Sementhouk
-		</td>
-		<td>Epam Sistemos </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>285</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/mkobuolys">
-				<img src="https://avatars.githubusercontent.com/u/17415795?s=72&u=17d4ac3b8ad4bb9d21695177411b2b04fb6e1824&v=4" width="24" alt="Avatar of mkobuolys"> mkobuolys
-			</a><br/>
-			Mangirdas Kazlauskas
-		</td>
-		<td>Billo </td>
-		<td><a href="https://twitter.com/mkobuolys">mkobuolys</a></td>
-		<td>Kaunas</td>
-		<td>280</td>
-	</tr>
-	<tr>
-		<td>125</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/mantas">
 				<img src="https://avatars.githubusercontent.com/u/36944?s=72&v=4" width="24" alt="Avatar of mantas"> mantas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mantas">Copy rank badge</a><br/>
 			Mantas Masalskis
 		</td>
 		<td>Idev </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
+		<td>297</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/binjip978">
+				<img src="https://avatars.githubusercontent.com/u/752342?s=72&u=d282557c259098b8dc3b63f93cf0f499d01059ff&v=4" width="24" alt="Avatar of binjip978"> binjip978
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#binjip978">Copy rank badge</a><br/>
+			Sergei Sementhouk
+		</td>
+		<td>Epam Sistemos </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/remisb">
+				<img src="https://avatars.githubusercontent.com/u/981625?s=72&v=4" width="24" alt="Avatar of remisb"> remisb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#remisb">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/vzemlys">
+				<img src="https://avatars.githubusercontent.com/u/320871?s=72&u=728d065baca57df275835a32496a6e058783ad87&v=4" width="24" alt="Avatar of vzemlys"> vzemlys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vzemlys">Copy rank badge</a><br/>
+			Vaidotas Zemlys-Balevičius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/Glareone">
+				<img src="https://avatars.githubusercontent.com/u/4239376?s=72&u=035ec40390f83c4aef9134fff6003f90a953e8a5&v=4" width="24" alt="Avatar of Glareone"> Glareone
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Glareone">Copy rank badge</a><br/>
+			Aleksei Kolesnikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Krakow \  Amsterdam \ Vilnius</td>
+		<td>286</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/mkobuolys">
+				<img src="https://avatars.githubusercontent.com/u/17415795?s=72&u=17d4ac3b8ad4bb9d21695177411b2b04fb6e1824&v=4" width="24" alt="Avatar of mkobuolys"> mkobuolys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mkobuolys">Copy rank badge</a><br/>
+			Mangirdas Kazlauskas
+		</td>
+		<td>Billo </td>
+		<td><a href="https://twitter.com/mkobuolys">mkobuolys</a></td>
+		<td>Kaunas</td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/Tasty-Kiwi">
+				<img src="https://avatars.githubusercontent.com/u/26067386?s=72&u=f2e1a5600d4eea08f96889edf069f649e28d46c5&v=4" width="24" alt="Avatar of Tasty-Kiwi"> Tasty-Kiwi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Tasty-Kiwi">Copy rank badge</a><br/>
+			Dominykas M.
+		</td>
+		<td>@axiomorix </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>283</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/todi1856">
+				<img src="https://avatars.githubusercontent.com/u/568752?s=72&u=48eb5d2591d9d211b09d51a772b848b5a4fc0e8f&v=4" width="24" alt="Avatar of todi1856"> todi1856
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#todi1856">Copy rank badge</a><br/>
+			Tomas Dirvanauskas
+		</td>
+		<td>@unity-technologies  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/matasmazeikaa">
 				<img src="https://avatars.githubusercontent.com/u/66615496?s=72&u=f72161977ced189909a02b4cef9c1979550cfe11&v=4" width="24" alt="Avatar of matasmazeikaa"> matasmazeikaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#matasmazeikaa">Copy rank badge</a><br/>
 			Matas Mažeika
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/tomas862">
+				<img src="https://avatars.githubusercontent.com/u/17051250?s=72&u=9a9ad1c9e22fb60d7fc87c2a5f471628fbdb2bf9&v=4" width="24" alt="Avatar of tomas862"> tomas862
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomas862">Copy rank badge</a><br/>
+			Tomas
+		</td>
+		<td>@invertus </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>144</td>
 		<td>
-			<a href="https://github.com/armandokun">
-				<img src="https://avatars.githubusercontent.com/u/37222499?s=72&u=28f6e1f9c131f4485a95067732bc425a26f655c5&v=4" width="24" alt="Avatar of armandokun"> armandokun
-			</a><br/>
-			Armandas Vaičikauskas
-		</td>
-		<td>Openmail </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>278</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/AaronG5">
-				<img src="https://avatars.githubusercontent.com/u/142338706?s=72&u=62bbd0c0c5c612121fecacd8da0fc52c774392aa&v=4" width="24" alt="Avatar of AaronG5"> AaronG5
-			</a><br/>
-			Aaron Gandz
+			<a href="https://github.com/jpalumickas">
+				<img src="https://avatars.githubusercontent.com/u/2738630?s=72&v=4" width="24" alt="Avatar of jpalumickas"> jpalumickas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jpalumickas">Copy rank badge</a><br/>
+			Justas Palumickas
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/jpalumickas">jpalumickas</a></td>
 		<td>Lithuania</td>
-		<td>278</td>
+		<td>276</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/LiudasJan">
+				<img src="https://avatars.githubusercontent.com/u/33857939?s=72&u=0594e1c4028294a75d7067d33fe4cd4a9737013c&v=4" width="24" alt="Avatar of LiudasJan"> LiudasJan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#LiudasJan">Copy rank badge</a><br/>
+			Liudas Jankauskas
+		</td>
+		<td>Qaontime.com </td>
+		<td>No Twitter Username</td>
+		<td>UAE - Lithuania</td>
+		<td>276</td>
+	</tr>
+	<tr>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/recallfx">
 				<img src="https://avatars.githubusercontent.com/u/3793207?s=72&u=09e2519a31188119bab59a5f72c14921e5586a11&v=4" width="24" alt="Avatar of recallfx"> recallfx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#recallfx">Copy rank badge</a><br/>
 			Marius
 		</td>
 		<td>No Company</td>
@@ -1782,24 +2005,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>147</td>
 		<td>
-			<a href="https://github.com/kriakiku">
-				<img src="https://avatars.githubusercontent.com/u/10038023?s=72&u=368d47e7ee1327fd0cd64b3d41c409d3e51b8a8b&v=4" width="24" alt="Avatar of kriakiku"> kriakiku
-			</a><br/>
-			Jonas
+			<a href="https://github.com/jutaz">
+				<img src="https://avatars.githubusercontent.com/u/1277553?s=72&v=4" width="24" alt="Avatar of jutaz"> jutaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jutaz">Copy rank badge</a><br/>
+			Justas Brazauskas
 		</td>
-		<td>No Company</td>
+		<td>@robinpowered </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>271</td>
+		<td>Kaunas, Lithuania</td>
+		<td>268</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/nikaspran">
 				<img src="https://avatars.githubusercontent.com/u/1153146?s=72&u=04334bad8f88a181242325fb446ae0f46f220196&v=4" width="24" alt="Avatar of nikaspran"> nikaspran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nikaspran">Copy rank badge</a><br/>
 			Nikas Praninskas
 		</td>
 		<td>No Company</td>
@@ -1808,297 +2031,297 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/rutaio">
-				<img src="https://avatars.githubusercontent.com/u/11134982?s=72&u=2700debc6378c878e120ec8eed0a54632952d5b5&v=4" width="24" alt="Avatar of rutaio"> rutaio
-			</a><br/>
-			Ruta Jakute
-		</td>
-		<td>Ogiziu </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>265</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/Tasty-Kiwi">
-				<img src="https://avatars.githubusercontent.com/u/26067386?s=72&u=f2e1a5600d4eea08f96889edf069f649e28d46c5&v=4" width="24" alt="Avatar of Tasty-Kiwi"> Tasty-Kiwi
-			</a><br/>
-			Dominykas M.
-		</td>
-		<td>@axiomorix </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/dimchansky">
-				<img src="https://avatars.githubusercontent.com/u/91551?s=72&u=b05ddd9aadbe79b16491fde671870d0677019f40&v=4" width="24" alt="Avatar of dimchansky"> dimchansky
-			</a><br/>
-			Dmitrij Koniajev
-		</td>
-		<td>Monetha </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/talaikis">
-				<img src="https://avatars.githubusercontent.com/u/7689499?s=72&u=84a15c6f0c4d8bbbc46383d732b8e30b6aa2467c&v=4" width="24" alt="Avatar of talaikis"> talaikis
-			</a><br/>
-			Tadas Talaikis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>257</td>
-	</tr>
-	<tr>
-		<td>136</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/kedder">
 				<img src="https://avatars.githubusercontent.com/u/59499?s=72&v=4" width="24" alt="Avatar of kedder"> kedder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kedder">Copy rank badge</a><br/>
 			Andrey Lebedev
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/avnik">
-				<img src="https://avatars.githubusercontent.com/u/153538?s=72&v=4" width="24" alt="Avatar of avnik"> avnik
-			</a><br/>
-			Alexander V. Nikolaev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/eif-courses">
-				<img src="https://avatars.githubusercontent.com/u/8007447?s=72&u=f7b7fafb2831bd0ed830949b9a9be5f5c06843aa&v=4" width="24" alt="Avatar of eif-courses"> eif-courses
-			</a><br/>
-			Marius Gžegoževskis
-		</td>
-		<td>Vilniaus Kolegija Elektronikos Ir<br/>Informatikos<br/>Fakultetas<br/></td>
-		<td><a href="https://twitter.com/programuoki">programuoki</a></td>
-		<td>Vilnius</td>
-		<td>253</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/jpalumickas">
-				<img src="https://avatars.githubusercontent.com/u/2738630?s=72&v=4" width="24" alt="Avatar of jpalumickas"> jpalumickas
-			</a><br/>
-			Justas Palumickas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jpalumickas">jpalumickas</a></td>
-		<td>Lithuania</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/adomasven">
-				<img src="https://avatars.githubusercontent.com/u/5899315?s=72&u=ba17340fde9f653bd832c7652cd675e923f1be58&v=4" width="24" alt="Avatar of adomasven"> adomasven
-			</a><br/>
-			Adomas Venčkauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/aurimasniekis">
-				<img src="https://avatars.githubusercontent.com/u/15481?s=72&v=4" width="24" alt="Avatar of aurimasniekis"> aurimasniekis
-			</a><br/>
-			Aurimas Niekis
-		</td>
-		<td>Thruster Industries & Baller<br/></td>
-		<td><a href="https://twitter.com/aurimasniekis">aurimasniekis</a></td>
-		<td>Lithuania / Japan</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/tdabasinskas">
-				<img src="https://avatars.githubusercontent.com/u/7723360?s=72&u=1acafe50a794b143a116e123d0d5ee4293d22102&v=4" width="24" alt="Avatar of tdabasinskas"> tdabasinskas
-			</a><br/>
-			Tomas Dabašinskas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Dabasinskas">Dabasinskas</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>242</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/lukasnee">
-				<img src="https://avatars.githubusercontent.com/u/52100531?s=72&u=a0bae006a52b2b620cebce96f717590aee19eccb&v=4" width="24" alt="Avatar of lukasnee"> lukasnee
-			</a><br/>
-			Lukas Neverauskis
-		</td>
-		<td>Nanoavionics </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>242</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/jutaz">
-				<img src="https://avatars.githubusercontent.com/u/1277553?s=72&v=4" width="24" alt="Avatar of jutaz"> jutaz
-			</a><br/>
-			Justas Brazauskas
-		</td>
-		<td>@robinpowered </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/BosonicJustin">
-				<img src="https://avatars.githubusercontent.com/u/131443751?s=72&u=239124e5d0b7331bed137b4a22707dcb6074bd09&v=4" width="24" alt="Avatar of BosonicJustin"> BosonicJustin
-			</a><br/>
-			Justinas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JZaliaduonis">JZaliaduonis</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>235</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/norkunas">
-				<img src="https://avatars.githubusercontent.com/u/2722872?s=72&u=ef6c7f9d938fd09e30b8431571207c63915c81a2&v=4" width="24" alt="Avatar of norkunas"> norkunas
-			</a><br/>
-			Tomas Norkūnas
-		</td>
-		<td>@aciety </td>
-		<td><a href="https://twitter.com/tomas_norkunas">tomas_norkunas</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/samietex">
-				<img src="https://avatars.githubusercontent.com/u/57644935?s=72&u=243c00e7d6f0d3e0948c8c4a9c020e46b334a19c&v=4" width="24" alt="Avatar of samietex"> samietex
-			</a><br/>
-			Samuel Shaibu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/itz_samietex">itz_samietex</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/rjonaitis">
-				<img src="https://avatars.githubusercontent.com/u/9800196?s=72&u=b420f1c6b1264564a02daa1c89f6486687ff52fd&v=4" width="24" alt="Avatar of rjonaitis"> rjonaitis
-			</a><br/>
-			Ricardas Jonaitis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/eimkasp">
-				<img src="https://avatars.githubusercontent.com/u/1290547?s=72&u=76364a7874d178f5d8eaa262aba8f7c67383596d&v=4" width="24" alt="Avatar of eimkasp"> eimkasp
-			</a><br/>
-			Eimantas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eimkasp">eimkasp</a></td>
-		<td>Lithuania, Kaunas</td>
-		<td>219</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>150</td>
 		<td>
-			<a href="https://github.com/Neophen">
-				<img src="https://avatars.githubusercontent.com/u/6092928?s=72&u=e93fb57e877bf1c1cba76c37b9950e3c4ad66bf3&v=4" width="24" alt="Avatar of Neophen"> Neophen
-			</a><br/>
-			Mykolas Mankevicius
+			<a href="https://github.com/PonasKovas">
+				<img src="https://avatars.githubusercontent.com/u/25486263?s=72&u=a28bf0f0149b1c80b7bac2ca5b97749255c023af&v=4" width="24" alt="Avatar of PonasKovas"> PonasKovas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#PonasKovas">Copy rank badge</a><br/>
+			Mykolas Peteraitis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>218</td>
+		<td>Kaunas</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/psimk">
-				<img src="https://avatars.githubusercontent.com/u/21334130?s=72&u=e217c86f28fa260567ef2c8c16fe456c004cffb8&v=4" width="24" alt="Avatar of psimk"> psimk
-			</a><br/>
-			Paul
+			<a href="https://github.com/rutaio">
+				<img src="https://avatars.githubusercontent.com/u/11134982?s=72&u=2700debc6378c878e120ec8eed0a54632952d5b5&v=4" width="24" alt="Avatar of rutaio"> rutaio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rutaio">Copy rank badge</a><br/>
+			Ruta Jakute
 		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/__psimk">__psimk</a></td>
-		<td>Vilnius</td>
-		<td>218</td>
+		<td>Ogiziu </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>253</td>
 	</tr>
 	<tr>
 		<td>152</td>
 		<td>
-			<a href="https://github.com/Millon15">
-				<img src="https://avatars.githubusercontent.com/u/32433787?s=72&u=60b95d8fe22bf89e352aa767e6f4a9f26d6c1c03&v=4" width="24" alt="Avatar of Millon15"> Millon15
-			</a><br/>
-			Vitautas Brazas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Luthuania</td>
-		<td>217</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
 			<a href="https://github.com/Companion">
 				<img src="https://avatars.githubusercontent.com/u/3773910?s=72&u=76dbbd22bcdccbb41a020555f9796445dc134a1e&v=4" width="24" alt="Avatar of Companion"> Companion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Companion">Copy rank badge</a><br/>
 			owenn
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
-		<td>215</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/avnik">
+				<img src="https://avatars.githubusercontent.com/u/153538?s=72&v=4" width="24" alt="Avatar of avnik"> avnik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#avnik">Copy rank badge</a><br/>
+			Alexander V. Nikolaev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>154</td>
 		<td>
+			<a href="https://github.com/simonas-notcat">
+				<img src="https://avatars.githubusercontent.com/u/16773277?s=72&u=8ee74ddcdc003eb41148d29206930042ff39433e&v=4" width="24" alt="Avatar of simonas-notcat"> simonas-notcat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#simonas-notcat">Copy rank badge</a><br/>
+			Simonas Karuzas
+		</td>
+		<td>Intuition </td>
+		<td><a href="https://twitter.com/simonas">simonas</a></td>
+		<td>Vilnius</td>
+		<td>249</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/adomasven">
+				<img src="https://avatars.githubusercontent.com/u/5899315?s=72&u=ba17340fde9f653bd832c7652cd675e923f1be58&v=4" width="24" alt="Avatar of adomasven"> adomasven
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#adomasven">Copy rank badge</a><br/>
+			Adomas Venčkauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/tdabasinskas">
+				<img src="https://avatars.githubusercontent.com/u/7723360?s=72&u=1acafe50a794b143a116e123d0d5ee4293d22102&v=4" width="24" alt="Avatar of tdabasinskas"> tdabasinskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tdabasinskas">Copy rank badge</a><br/>
+			Tomas Dabašinskas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Dabasinskas">Dabasinskas</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/eimkasp">
+				<img src="https://avatars.githubusercontent.com/u/1290547?s=72&u=76364a7874d178f5d8eaa262aba8f7c67383596d&v=4" width="24" alt="Avatar of eimkasp"> eimkasp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eimkasp">Copy rank badge</a><br/>
+			Eimantas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eimkasp">eimkasp</a></td>
+		<td>Lithuania, Kaunas</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/lukasnee">
+				<img src="https://avatars.githubusercontent.com/u/52100531?s=72&u=a0bae006a52b2b620cebce96f717590aee19eccb&v=4" width="24" alt="Avatar of lukasnee"> lukasnee
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukasnee">Copy rank badge</a><br/>
+			Lukas Neverauskis
+		</td>
+		<td>Nanoavionics </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>244</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/norkunas">
+				<img src="https://avatars.githubusercontent.com/u/2722872?s=72&u=ef6c7f9d938fd09e30b8431571207c63915c81a2&v=4" width="24" alt="Avatar of norkunas"> norkunas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#norkunas">Copy rank badge</a><br/>
+			Tomas Norkūnas
+		</td>
+		<td>@aciety </td>
+		<td><a href="https://twitter.com/tomas_norkunas">tomas_norkunas</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/Millon15">
+				<img src="https://avatars.githubusercontent.com/u/32433787?s=72&u=60b95d8fe22bf89e352aa767e6f4a9f26d6c1c03&v=4" width="24" alt="Avatar of Millon15"> Millon15
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Millon15">Copy rank badge</a><br/>
+			Vitautas Brazas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Luthuania</td>
+		<td>236</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/samietex">
+				<img src="https://avatars.githubusercontent.com/u/57644935?s=72&u=243c00e7d6f0d3e0948c8c4a9c020e46b334a19c&v=4" width="24" alt="Avatar of samietex"> samietex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#samietex">Copy rank badge</a><br/>
+			Samuel Shaibu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/itz_samietex">itz_samietex</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/Plytas">
+				<img src="https://avatars.githubusercontent.com/u/17316322?s=72&u=aae48b63ee534999f630550891692752a4076eda&v=4" width="24" alt="Avatar of Plytas"> Plytas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Plytas">Copy rank badge</a><br/>
+			Vytautas Smilingis
+		</td>
+		<td>@whatagraph  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>229</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/doniz">
+				<img src="https://avatars.githubusercontent.com/u/4441455?s=72&u=431b3e7e84b4671aced2c35218d9f24478071707&v=4" width="24" alt="Avatar of doniz"> doniz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#doniz">Copy rank badge</a><br/>
+			Donatas Navidonskis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/BosonicJustin">
+				<img src="https://avatars.githubusercontent.com/u/131443751?s=72&u=239124e5d0b7331bed137b4a22707dcb6074bd09&v=4" width="24" alt="Avatar of BosonicJustin"> BosonicJustin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#BosonicJustin">Copy rank badge</a><br/>
+			Justinas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JZaliaduonis">JZaliaduonis</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/BioMikeUkr">
+				<img src="https://avatars.githubusercontent.com/u/77461417?s=72&u=8b173848891c234a7632e09e7ab139c0f6bfe778&v=4" width="24" alt="Avatar of BioMikeUkr"> BioMikeUkr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#BioMikeUkr">Copy rank badge</a><br/>
+			BioMike
+		</td>
+		<td>@knowledgator </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/eif-courses">
+				<img src="https://avatars.githubusercontent.com/u/8007447?s=72&u=f7b7fafb2831bd0ed830949b9a9be5f5c06843aa&v=4" width="24" alt="Avatar of eif-courses"> eif-courses
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eif-courses">Copy rank badge</a><br/>
+			Marius Gžegoževskis
+		</td>
+		<td>Vilniaus Kolegija Elektronikos Ir<br/>Informatikos<br/>Fakultetas<br/></td>
+		<td><a href="https://twitter.com/programuoki">programuoki</a></td>
+		<td>Vilnius</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/kiprasmel">
+				<img src="https://avatars.githubusercontent.com/u/29430509?s=72&u=7cd7a79a4dd7a59c0f1682d6d7358384eff56d8e&v=4" width="24" alt="Avatar of kiprasmel"> kiprasmel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kiprasmel">Copy rank badge</a><br/>
+			Kipras Melnikovas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kiprasmel">kiprasmel</a></td>
+		<td>Lithuania</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/born-to-be-mad">
+				<img src="https://avatars.githubusercontent.com/u/11265397?s=72&u=4134b13862b5815dbf9c0cff0d8c8d0814a45312&v=4" width="24" alt="Avatar of born-to-be-mad"> born-to-be-mad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#born-to-be-mad">Copy rank badge</a><br/>
+			Dzmitry Marudau
+		</td>
+		<td>Epam Systems </td>
+		<td><a href="https://twitter.com/DzmitryMarudau">DzmitryMarudau</a></td>
+		<td>Vilnius, Lithiuania</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/vytskalt">
+				<img src="https://avatars.githubusercontent.com/u/35194709?s=72&u=6e73c53d2c7d1969bdc484a99484b72bf2c9ab27&v=4" width="24" alt="Avatar of vytskalt"> vytskalt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vytskalt">Copy rank badge</a><br/>
+			vytskalt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/unrealsolver">
+				<img src="https://avatars.githubusercontent.com/u/1101771?s=72&v=4" width="24" alt="Avatar of unrealsolver"> unrealsolver
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#unrealsolver">Copy rank badge</a><br/>
+			Ruslan
+		</td>
+		<td>Vention </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
 			<a href="https://github.com/Pawka">
 				<img src="https://avatars.githubusercontent.com/u/2011?s=72&u=047975678f5f218d9a4ba2939a2093a7107b81fd&v=4" width="24" alt="Avatar of Pawka"> Pawka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Pawka">Copy rank badge</a><br/>
 			Povilas Balzaravičius
 		</td>
 		<td>@chronosphereio </td>
@@ -2107,63 +2330,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>172</td>
 		<td>
-			<a href="https://github.com/unrealsolver">
-				<img src="https://avatars.githubusercontent.com/u/1101771?s=72&v=4" width="24" alt="Avatar of unrealsolver"> unrealsolver
-			</a><br/>
-			Ruslan
+			<a href="https://github.com/MRX8024">
+				<img src="https://avatars.githubusercontent.com/u/57844100?s=72&u=315e9ea0d973c66af3c2eb3461c7d2cd258153df&v=4" width="24" alt="Avatar of MRX8024"> MRX8024
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MRX8024">Copy rank badge</a><br/>
+			Maksim Bolgov
 		</td>
-		<td>Vention </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>207</td>
+		<td>Lithuania</td>
+		<td>209</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>173</td>
 		<td>
-			<a href="https://github.com/BioMikeUkr">
-				<img src="https://avatars.githubusercontent.com/u/77461417?s=72&u=8b173848891c234a7632e09e7ab139c0f6bfe778&v=4" width="24" alt="Avatar of BioMikeUkr"> BioMikeUkr
-			</a><br/>
-			BioMike
+			<a href="https://github.com/gitautas">
+				<img src="https://avatars.githubusercontent.com/u/53479485?s=72&u=a2040dbe8fdfc70e9705feaf5a79a2e2c61751fb&v=4" width="24" alt="Avatar of gitautas"> gitautas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gitautas">Copy rank badge</a><br/>
+			Gintautas Kazlauskas
 		</td>
-		<td>@knowledgator </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Lithuania</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/vmizg">
+				<img src="https://avatars.githubusercontent.com/u/9007308?s=72&u=62b1839198e5bcfc1f25611204f97d9837fa6aca&v=4" width="24" alt="Avatar of vmizg"> vmizg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vmizg">Copy rank badge</a><br/>
+			Vytautas
+		</td>
+		<td>Kimchi.dev </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/varnastadeus">
+				<img src="https://avatars.githubusercontent.com/u/17824796?s=72&u=1472d2733fa5fab540e419ae4c955307a25a9566&v=4" width="24" alt="Avatar of varnastadeus"> varnastadeus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#varnastadeus">Copy rank badge</a><br/>
+			Tadeuš Varnas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>176</td>
 		<td>
-			<a href="https://github.com/kiprasmel">
-				<img src="https://avatars.githubusercontent.com/u/29430509?s=72&u=7cd7a79a4dd7a59c0f1682d6d7358384eff56d8e&v=4" width="24" alt="Avatar of kiprasmel"> kiprasmel
-			</a><br/>
-			Kipras Melnikovas
+			<a href="https://github.com/leodeim">
+				<img src="https://avatars.githubusercontent.com/u/45066606?s=72&u=b965bed70806915e9c5e3360d305461cf2d03ab9&v=4" width="24" alt="Avatar of leodeim"> leodeim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#leodeim">Copy rank badge</a><br/>
+			Leonidas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kiprasmel">kiprasmel</a></td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/ashirviskas">
+				<img src="https://avatars.githubusercontent.com/u/11985242?s=72&u=f8d9cb08c0d8fb1c31acabe5dc6255270d48ff34&v=4" width="24" alt="Avatar of ashirviskas"> ashirviskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ashirviskas">Copy rank badge</a><br/>
+			Matas Minelga
+		</td>
+		<td>Collony </td>
+		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>178</td>
 		<td>
-			<a href="https://github.com/vytskalt">
-				<img src="https://avatars.githubusercontent.com/u/35194709?s=72&u=6e73c53d2c7d1969bdc484a99484b72bf2c9ab27&v=4" width="24" alt="Avatar of vytskalt"> vytskalt
-			</a><br/>
-			vytskalt
+			<a href="https://github.com/rjonaitis">
+				<img src="https://avatars.githubusercontent.com/u/9800196?s=72&u=b420f1c6b1264564a02daa1c89f6486687ff52fd&v=4" width="24" alt="Avatar of rjonaitis"> rjonaitis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rjonaitis">Copy rank badge</a><br/>
+			Ricardas Jonaitis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>201</td>
+		<td>200</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/hal9000cc">
 				<img src="https://avatars.githubusercontent.com/u/46416329?s=72&v=4" width="24" alt="Avatar of hal9000cc"> hal9000cc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#hal9000cc">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2172,154 +2434,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>180</td>
 		<td>
-			<a href="https://github.com/doniz">
-				<img src="https://avatars.githubusercontent.com/u/4441455?s=72&u=431b3e7e84b4671aced2c35218d9f24478071707&v=4" width="24" alt="Avatar of doniz"> doniz
-			</a><br/>
-			Donatas Navidonskis
+			<a href="https://github.com/arturaz">
+				<img src="https://avatars.githubusercontent.com/u/12931?s=72&u=17f408d122a692cc369f68d8c175b7bdae6c12d2&v=4" width="24" alt="Avatar of arturaz"> arturaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arturaz">Copy rank badge</a><br/>
+			Artūras Šlajus
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/Plytas">
-				<img src="https://avatars.githubusercontent.com/u/17316322?s=72&u=aae48b63ee534999f630550891692752a4076eda&v=4" width="24" alt="Avatar of Plytas"> Plytas
-			</a><br/>
-			Vytautas Smilingis
-		</td>
-		<td>@whatagraph  </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>196</td>
+		<td>199</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>181</td>
 		<td>
-			<a href="https://github.com/varnastadeus">
-				<img src="https://avatars.githubusercontent.com/u/17824796?s=72&u=1472d2733fa5fab540e419ae4c955307a25a9566&v=4" width="24" alt="Avatar of varnastadeus"> varnastadeus
-			</a><br/>
-			Tadeuš Varnas
+			<a href="https://github.com/beebeeep">
+				<img src="https://avatars.githubusercontent.com/u/375543?s=72&u=01a9d5e23a88052ee126bb7bea730bf4a589c9fb&v=4" width="24" alt="Avatar of beebeeep"> beebeeep
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#beebeeep">Copy rank badge</a><br/>
+			Danila Migalin
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/mikallojjus">
-				<img src="https://avatars.githubusercontent.com/u/74614819?s=72&u=e256595badecf03e37f2d37bd17caf1de54ca447&v=4" width="24" alt="Avatar of mikallojjus"> mikallojjus
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/robertasRobotas">
-				<img src="https://avatars.githubusercontent.com/u/25686824?s=72&u=c8b31b6ebf91ff5c897e8607b2b498c01b25f74a&v=4" width="24" alt="Avatar of robertasRobotas"> robertasRobotas
-			</a><br/>
-			Robertas Ankudovicius
-		</td>
-		<td>No Company</td>
+		<td>Tigris Data </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>188</td>
+		<td>198</td>
 	</tr>
 	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/icerahi">
-				<img src="https://avatars.githubusercontent.com/u/32910469?s=72&u=a3b9ff7a26d36f569e8255c89fe6cdae5bf7ef6d&v=4" width="24" alt="Avatar of icerahi"> icerahi
-			</a><br/>
-			Imran Hasan
-		</td>
-		<td>Team Icecream </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/lukaskornis">
-				<img src="https://avatars.githubusercontent.com/u/39262485?s=72&u=f98059970bb68115d46cda447809b4323d27873d&v=4" width="24" alt="Avatar of lukaskornis"> lukaskornis
-			</a><br/>
-			Lukas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>184</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/todi1856">
-				<img src="https://avatars.githubusercontent.com/u/568752?s=72&u=48eb5d2591d9d211b09d51a772b848b5a4fc0e8f&v=4" width="24" alt="Avatar of todi1856"> todi1856
-			</a><br/>
-			Tomas Dirvanauskas
-		</td>
-		<td>@unity-technologies  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>183</td>
-	</tr>
-	<tr>
-		<td>168</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/tomasmik">
 				<img src="https://avatars.githubusercontent.com/u/40318863?s=72&u=d83a237531de85999271030f5d5907d5fcea0848&v=4" width="24" alt="Avatar of tomasmik"> tomasmik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasmik">Copy rank badge</a><br/>
 			Tomas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
+		<td>198</td>
+	</tr>
+	<tr>
 		<td>183</td>
+		<td>
+			<a href="https://github.com/stebunovd">
+				<img src="https://avatars.githubusercontent.com/u/1415093?s=72&v=4" width="24" alt="Avatar of stebunovd"> stebunovd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#stebunovd">Copy rank badge</a><br/>
+			Denis Stebunov
+		</td>
+		<td>@ivelum  </td>
+		<td><a href="https://twitter.com/dstebunov">dstebunov</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>191</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>184</td>
 		<td>
-			<a href="https://github.com/anjmao">
-				<img src="https://avatars.githubusercontent.com/u/3028012?s=72&u=f8c8b8e31e9d4a43a0954a945de30d2acdb8c43f&v=4" width="24" alt="Avatar of anjmao"> anjmao
-			</a><br/>
-			Andžej Maciusovič
+			<a href="https://github.com/ekvedaras">
+				<img src="https://avatars.githubusercontent.com/u/3586184?s=72&u=d3402a04d14f89acb7e1ecd585fb472c9bdfdfbe&v=4" width="24" alt="Avatar of ekvedaras"> ekvedaras
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ekvedaras">Copy rank badge</a><br/>
+			Ernestas Kvedaras
 		</td>
-		<td>Cast Ai </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>177</td>
+		<td>Ernestas.app </td>
+		<td><a href="https://twitter.com/ekvedaras">ekvedaras</a></td>
+		<td>Lithuania</td>
+		<td>187</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>185</td>
 		<td>
-			<a href="https://github.com/ashirviskas">
-				<img src="https://avatars.githubusercontent.com/u/11985242?s=72&u=91157b809cf709ff94516d90e5fa354af241d5de&v=4" width="24" alt="Avatar of ashirviskas"> ashirviskas
-			</a><br/>
-			Matas Minelga
+			<a href="https://github.com/arminask">
+				<img src="https://avatars.githubusercontent.com/u/72100724?s=72&u=033f5fde8d58d96748a3195e67d26da80f0eace2&v=4" width="24" alt="Avatar of arminask"> arminask
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arminask">Copy rank badge</a><br/>
+			Arminas Keršys
 		</td>
-		<td>Collony </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/tautminas">
+				<img src="https://avatars.githubusercontent.com/u/37105774?s=72&u=c8f5ec78386ef1459f0370257ac7af66503d143b&v=4" width="24" alt="Avatar of tautminas"> tautminas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tautminas">Copy rank badge</a><br/>
+			Tautminas Cibulskis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/pranciskus">
 				<img src="https://avatars.githubusercontent.com/u/15796823?s=72&u=300ebfda40bf5b2a371ba4fb73cd848ed10ef486&v=4" width="24" alt="Avatar of pranciskus"> pranciskus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pranciskus">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2328,24 +2538,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>188</td>
 		<td>
-			<a href="https://github.com/baruckis">
-				<img src="https://avatars.githubusercontent.com/u/2387056?s=72&u=9ef0803d20affb3eed5cfe40cad9e77a82d048e5&v=4" width="24" alt="Avatar of baruckis"> baruckis
-			</a><br/>
-			Andrius Baruckis
+			<a href="https://github.com/evogytis">
+				<img src="https://avatars.githubusercontent.com/u/1536822?s=72&u=9e332c26af268d0ee0ae672675f62298d2fb4030&v=4" width="24" alt="Avatar of evogytis"> evogytis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#evogytis">Copy rank badge</a><br/>
+			Gytis Dudas
 		</td>
-		<td>@devsengine </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/ianeiko">
+				<img src="https://avatars.githubusercontent.com/u/226705?s=72&u=356731e273a4d96275b6fce51ec715336f33202b&v=4" width="24" alt="Avatar of ianeiko"> ianeiko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ianeiko">Copy rank badge</a><br/>
+			Oleg Janeiko
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/islavikfx">
+				<img src="https://avatars.githubusercontent.com/u/265895212?s=72&u=bfe701fb1a7ee7992f6aa3451ce0fc9cf7694e5b&v=4" width="24" alt="Avatar of islavikfx"> islavikfx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#islavikfx">Copy rank badge</a><br/>
+			iSlavik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/eli-tamosauskas">
 				<img src="https://avatars.githubusercontent.com/u/13220630?s=72&u=74201c0c87ac10bacf125988309379b6b6a61b66&v=4" width="24" alt="Avatar of eli-tamosauskas"> eli-tamosauskas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eli-tamosauskas">Copy rank badge</a><br/>
 			Eli Tamosauskas
 		</td>
 		<td>No Company</td>
@@ -2354,50 +2590,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>192</td>
 		<td>
-			<a href="https://github.com/dainiusjocas">
-				<img src="https://avatars.githubusercontent.com/u/230044?s=72&u=81b57a164ad36496b60d8ededee004fa64a282f7&v=4" width="24" alt="Avatar of dainiusjocas"> dainiusjocas
-			</a><br/>
-			Dainius Jocas
+			<a href="https://github.com/Bogenbai">
+				<img src="https://avatars.githubusercontent.com/u/26659946?s=72&u=3bcc3a2c71488211606339bc0ec37907c0ce3528&v=4" width="24" alt="Avatar of Bogenbai"> Bogenbai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Bogenbai">Copy rank badge</a><br/>
+			Bogdan Kurilo
 		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/dainius_jocas">dainius_jocas</a></td>
-		<td>Vilnius</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/ekvedaras">
-				<img src="https://avatars.githubusercontent.com/u/3586184?s=72&u=d3402a04d14f89acb7e1ecd585fb472c9bdfdfbe&v=4" width="24" alt="Avatar of ekvedaras"> ekvedaras
-			</a><br/>
-			Ernestas Kvedaras
-		</td>
-		<td>Ernestas.app </td>
-		<td><a href="https://twitter.com/ekvedaras">ekvedaras</a></td>
-		<td>Lithuania</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/vmizg">
-				<img src="https://avatars.githubusercontent.com/u/9007308?s=72&u=62b1839198e5bcfc1f25611204f97d9837fa6aca&v=4" width="24" alt="Avatar of vmizg"> vmizg
-			</a><br/>
-			Vytautas
-		</td>
-		<td>Kimchi.dev </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Currently: Lithuania, Vilnius</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/anjmao">
+				<img src="https://avatars.githubusercontent.com/u/3028012?s=72&u=f8c8b8e31e9d4a43a0954a945de30d2acdb8c43f&v=4" width="24" alt="Avatar of anjmao"> anjmao
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#anjmao">Copy rank badge</a><br/>
+			Andžej Maciusovič
+		</td>
+		<td>Cast Ai </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/Kasheftin">
 				<img src="https://avatars.githubusercontent.com/u/379267?s=72&u=2da0dac4fdd49aa6711e53a94f24d1d722b1f8ea&v=4" width="24" alt="Avatar of Kasheftin"> Kasheftin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Kasheftin">Copy rank badge</a><br/>
 			Alexey Kuznetsov
 		</td>
 		<td>Teamhood </td>
@@ -2406,24 +2629,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/arturaz">
-				<img src="https://avatars.githubusercontent.com/u/12931?s=72&u=17f408d122a692cc369f68d8c175b7bdae6c12d2&v=4" width="24" alt="Avatar of arturaz"> arturaz
-			</a><br/>
-			Artūras Šlajus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>179</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/dominykas">
 				<img src="https://avatars.githubusercontent.com/u/505619?s=72&u=2982a6cb8181f8804d7776652df91d3392addd4e&v=4" width="24" alt="Avatar of dominykas"> dominykas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dominykas">Copy rank badge</a><br/>
 			Dominykas Blyžė
 		</td>
 		<td>No Company</td>
@@ -2432,388 +2642,245 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/beebeeep">
-				<img src="https://avatars.githubusercontent.com/u/375543?s=72&u=01a9d5e23a88052ee126bb7bea730bf4a589c9fb&v=4" width="24" alt="Avatar of beebeeep"> beebeeep
-			</a><br/>
-			Danila Migalin
-		</td>
-		<td>Tigris Data </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/born-to-be-mad">
-				<img src="https://avatars.githubusercontent.com/u/11265397?s=72&u=4134b13862b5815dbf9c0cff0d8c8d0814a45312&v=4" width="24" alt="Avatar of born-to-be-mad"> born-to-be-mad
-			</a><br/>
-			Dzmitry Marudau
-		</td>
-		<td>Epam Systems </td>
-		<td><a href="https://twitter.com/DzmitryMarudau">DzmitryMarudau</a></td>
-		<td>Vilnius, Lithiuania</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/stebunovd">
-				<img src="https://avatars.githubusercontent.com/u/1415093?s=72&v=4" width="24" alt="Avatar of stebunovd"> stebunovd
-			</a><br/>
-			Denis Stebunov
-		</td>
-		<td>@ivelum  </td>
-		<td><a href="https://twitter.com/dstebunov">dstebunov</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/SKPG-Tech">
-				<img src="https://avatars.githubusercontent.com/u/42890752?s=72&u=a653e407c67500c43bebbbdcd78ebad4b986330a&v=4" width="24" alt="Avatar of SKPG-Tech"> SKPG-Tech
-			</a><br/>
-			Salvijus K.
-		</td>
-		<td>@pewpewlive </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/Jauler">
-				<img src="https://avatars.githubusercontent.com/u/532330?s=72&u=d23ac84204ccf859d775832252468881a4e267e4&v=4" width="24" alt="Avatar of Jauler"> Jauler
-			</a><br/>
-			Rytis Karpuška
-		</td>
-		<td>Nordsecurity </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/MRX8024">
-				<img src="https://avatars.githubusercontent.com/u/57844100?s=72&u=315e9ea0d973c66af3c2eb3461c7d2cd258153df&v=4" width="24" alt="Avatar of MRX8024"> MRX8024
-			</a><br/>
-			Maksim Bolgov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/ianeiko">
-				<img src="https://avatars.githubusercontent.com/u/226705?s=72&u=356731e273a4d96275b6fce51ec715336f33202b&v=4" width="24" alt="Avatar of ianeiko"> ianeiko
-			</a><br/>
-			Oleg Janeiko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/augustetum">
-				<img src="https://avatars.githubusercontent.com/u/120650538?s=72&u=207cc0659da2d449ec1bb6b21b6a65063ad9d868&v=4" width="24" alt="Avatar of augustetum"> augustetum
-			</a><br/>
-			Augustė Tumaitė
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/evogytis">
-				<img src="https://avatars.githubusercontent.com/u/1536822?s=72&u=9e332c26af268d0ee0ae672675f62298d2fb4030&v=4" width="24" alt="Avatar of evogytis"> evogytis
-			</a><br/>
-			Gytis Dudas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>189</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/vrepsys">
 				<img src="https://avatars.githubusercontent.com/u/1429012?s=72&u=ae7f4651cedd15f97b1997f82ccd503734f33a8a&v=4" width="24" alt="Avatar of vrepsys"> vrepsys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vrepsys">Copy rank badge</a><br/>
 			Valdemaras Repšys
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>155</td>
+		<td>163</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>197</td>
 		<td>
-			<a href="https://github.com/gitautas">
-				<img src="https://avatars.githubusercontent.com/u/53479485?s=72&u=a2040dbe8fdfc70e9705feaf5a79a2e2c61751fb&v=4" width="24" alt="Avatar of gitautas"> gitautas
-			</a><br/>
-			Gintautas Kazlauskas
+			<a href="https://github.com/tomas-sereikis">
+				<img src="https://avatars.githubusercontent.com/u/3651088?s=72&u=aeb4b636dbdcb15e7a8ac42513d6d612b46f846c&v=4" width="24" alt="Avatar of tomas-sereikis"> tomas-sereikis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomas-sereikis">Copy rank badge</a><br/>
+			Tomas Šereikis
 		</td>
-		<td>No Company</td>
+		<td>Podimo </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>153</td>
+		<td>Vilnius, Lithuania</td>
+		<td>163</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>198</td>
 		<td>
-			<a href="https://github.com/arminask">
-				<img src="https://avatars.githubusercontent.com/u/72100724?s=72&u=033f5fde8d58d96748a3195e67d26da80f0eace2&v=4" width="24" alt="Avatar of arminask"> arminask
-			</a><br/>
-			Arminas Keršys
+			<a href="https://github.com/SKPG-Tech">
+				<img src="https://avatars.githubusercontent.com/u/42890752?s=72&u=a653e407c67500c43bebbbdcd78ebad4b986330a&v=4" width="24" alt="Avatar of SKPG-Tech"> SKPG-Tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#SKPG-Tech">Copy rank badge</a><br/>
+			Salvijus K.
 		</td>
-		<td>No Company</td>
+		<td>@pewpewlive </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>153</td>
+		<td>Vilnius, Lithuania</td>
+		<td>161</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>199</td>
 		<td>
-			<a href="https://github.com/PonasKovas">
-				<img src="https://avatars.githubusercontent.com/u/25486263?s=72&u=a28bf0f0149b1c80b7bac2ca5b97749255c023af&v=4" width="24" alt="Avatar of PonasKovas"> PonasKovas
-			</a><br/>
-			Mykolas Peteraitis
+			<a href="https://github.com/dainiusjocas">
+				<img src="https://avatars.githubusercontent.com/u/230044?s=72&u=81b57a164ad36496b60d8ededee004fa64a282f7&v=4" width="24" alt="Avatar of dainiusjocas"> dainiusjocas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dainiusjocas">Copy rank badge</a><br/>
+			Dainius Jocas
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>153</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/dainius_jocas">dainius_jocas</a></td>
+		<td>Vilnius</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/vidas">
-				<img src="https://avatars.githubusercontent.com/u/217730?s=72&u=064c1c2f71260c863ae7b1f138fa7093bd87aba1&v=4" width="24" alt="Avatar of vidas"> vidas
-			</a><br/>
-			Vidas Pažusis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>194</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/370rokas">
 				<img src="https://avatars.githubusercontent.com/u/58791226?s=72&u=ba80ca6069fb5a7e860f067b982b0cbdcdfaadfc&v=4" width="24" alt="Avatar of 370rokas"> 370rokas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#370rokas">Copy rank badge</a><br/>
 			Rokas
 		</td>
 		<td>Vilnius University </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/Zifah">
-				<img src="https://avatars.githubusercontent.com/u/7278086?s=72&u=40aa296e891fc86566b275832607898914f75596&v=4" width="24" alt="Avatar of Zifah"> Zifah
-			</a><br/>
-			Hafiz Adewuyi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/matas3535">
-				<img src="https://avatars.githubusercontent.com/u/102203325?s=72&u=2c86d69c533edcc7e95ae11320009287fd00741e&v=4" width="24" alt="Avatar of matas3535"> matas3535
-			</a><br/>
-			matas
-		</td>
-		<td>Atlanta.gg </td>
-		<td>No Twitter Username</td>
-		<td>Lietuva, Vilnius</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/lus105">
-				<img src="https://avatars.githubusercontent.com/u/95565068?s=72&u=bc4ff4ddf4b6469f692960d8994e8141472e7a7d&v=4" width="24" alt="Avatar of lus105"> lus105
-			</a><br/>
-			Lukas Zabulis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/TheJustas228">
-				<img src="https://avatars.githubusercontent.com/u/59165658?s=72&u=e3bdbf3b4bea91cb5f6be5914ccd6b98b5540880&v=4" width="24" alt="Avatar of TheJustas228"> TheJustas228
-			</a><br/>
-			Justas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/buuugne">
-				<img src="https://avatars.githubusercontent.com/u/185936134?s=72&u=0c93a6a977ac6c151a8b19994689d4fe78f63769&v=4" width="24" alt="Avatar of buuugne"> buuugne
-			</a><br/>
-			Ugnė Pacevičiūtė
-		</td>
-		<td>Vilnius </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/JustPause">
-				<img src="https://avatars.githubusercontent.com/u/58081173?s=72&u=1faf2aa1729a94ecad458b5979442d2ce8fed9c8&v=4" width="24" alt="Avatar of JustPause"> JustPause
-			</a><br/>
-			Justinas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>142</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>201</td>
 		<td>
-			<a href="https://github.com/Bogenbai">
-				<img src="https://avatars.githubusercontent.com/u/26659946?s=72&u=3bcc3a2c71488211606339bc0ec37907c0ce3528&v=4" width="24" alt="Avatar of Bogenbai"> Bogenbai
-			</a><br/>
-			Bogdan Kurilo
+			<a href="https://github.com/Jauler">
+				<img src="https://avatars.githubusercontent.com/u/532330?s=72&u=d23ac84204ccf859d775832252468881a4e267e4&v=4" width="24" alt="Avatar of Jauler"> Jauler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Jauler">Copy rank badge</a><br/>
+			Rytis Karpuška
 		</td>
-		<td>No Company</td>
+		<td>Nordsecurity </td>
 		<td>No Twitter Username</td>
-		<td>Currently: Lithuania, Vilnius</td>
-		<td>141</td>
+		<td>Vilnius, Lithuania</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>202</td>
 		<td>
+			<a href="https://github.com/vidas">
+				<img src="https://avatars.githubusercontent.com/u/217730?s=72&u=064c1c2f71260c863ae7b1f138fa7093bd87aba1&v=4" width="24" alt="Avatar of vidas"> vidas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vidas">Copy rank badge</a><br/>
+			Vidas Pažusis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a href="https://github.com/jurgisjaska">
 				<img src="https://avatars.githubusercontent.com/u/897925?s=72&u=357f81298b5243f12a3f4b7f9c2c88fe9a0a6728&v=4" width="24" alt="Avatar of jurgisjaska"> jurgisjaska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jurgisjaska">Copy rank badge</a><br/>
 			Jurgis Jaška
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jurgisjaska">jurgisjaska</a></td>
 		<td>Jonava, Lithuania</td>
-		<td>140</td>
+		<td>152</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/ZomkaDEV">
+				<img src="https://avatars.githubusercontent.com/u/25344028?s=72&u=eed6828985d62ea41963a4e651c935bbe3aca3a2&v=4" width="24" alt="Avatar of ZomkaDEV"> ZomkaDEV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ZomkaDEV">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/icerahi">
+				<img src="https://avatars.githubusercontent.com/u/32910469?s=72&u=a3b9ff7a26d36f569e8255c89fe6cdae5bf7ef6d&v=4" width="24" alt="Avatar of icerahi"> icerahi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#icerahi">Copy rank badge</a><br/>
+			Imran Hasan
+		</td>
+		<td>Team Icecream </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/qgindi">
+				<img src="https://avatars.githubusercontent.com/u/15153357?s=72&v=4" width="24" alt="Avatar of qgindi"> qgindi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#qgindi">Copy rank badge</a><br/>
+			Gintaras Didžgalvis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/MindaugasJucius">
+				<img src="https://avatars.githubusercontent.com/u/17001066?s=72&u=66d8fd3f5853f4da337593e956cc3f57732d928c&v=4" width="24" alt="Avatar of MindaugasJucius"> MindaugasJucius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MindaugasJucius">Copy rank badge</a><br/>
+			MindaugasJucius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/DonatasD">
 				<img src="https://avatars.githubusercontent.com/u/6634240?s=72&u=c8f3b151fc05f294d0a4f12b33c742b6c9cf09ee&v=4" width="24" alt="Avatar of DonatasD"> DonatasD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#DonatasD">Copy rank badge</a><br/>
 			Donatas Daubaras
 		</td>
 		<td>Turing College </td>
 		<td><a href="https://twitter.com/DonatasDaubar">DonatasDaubar</a></td>
 		<td>Vilnius</td>
-		<td>138</td>
+		<td>145</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/stants12">
 				<img src="https://avatars.githubusercontent.com/u/12599845?s=72&u=d7616dd7ddba45ad03f9aef78b1d2509bafbafe0&v=4" width="24" alt="Avatar of stants12"> stants12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#stants12">Copy rank badge</a><br/>
 			tiki
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>138</td>
+		<td>143</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>210</td>
 		<td>
-			<a href="https://github.com/vb100">
-				<img src="https://avatars.githubusercontent.com/u/29836346?s=72&u=15f2b5000188cb24fd130797f64e024686413d97&v=4" width="24" alt="Avatar of vb100"> vb100
-			</a><br/>
-			Vytautas Bielinskas
-		</td>
-		<td>Ibm </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/stnby">
-				<img src="https://avatars.githubusercontent.com/u/29861022?s=72&u=f802e3dd1fce965420195a01848430999a341ba4&v=4" width="24" alt="Avatar of stnby"> stnby
-			</a><br/>
-			Laurynas Četyrkinas
-		</td>
-		<td>Digilol </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/jrs0ul">
-				<img src="https://avatars.githubusercontent.com/u/25615154?s=72&u=84d2f36db987af48290126963d2e7d1991239204&v=4" width="24" alt="Avatar of jrs0ul"> jrs0ul
-			</a><br/>
-			Kęstutis Lotužis
+			<a href="https://github.com/JustPause">
+				<img src="https://avatars.githubusercontent.com/u/58081173?s=72&u=1faf2aa1729a94ecad458b5979442d2ce8fed9c8&v=4" width="24" alt="Avatar of JustPause"> JustPause
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#JustPause">Copy rank badge</a><br/>
+			Justinas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>134</td>
+		<td>141</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>211</td>
 		<td>
-			<a href="https://github.com/haslie22">
-				<img src="https://avatars.githubusercontent.com/u/79032502?s=72&u=180a169eecb52d84cbe4a1e3b5c23061b0e0c5d2&v=4" width="24" alt="Avatar of haslie22"> haslie22
-			</a><br/>
-			Lizaveta D.
+			<a href="https://github.com/mc0de">
+				<img src="https://avatars.githubusercontent.com/u/8727992?s=72&v=4" width="24" alt="Avatar of mc0de"> mc0de
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mc0de">Copy rank badge</a><br/>
+			David Lun
+		</td>
+		<td>Laraveldaily </td>
+		<td><a href="https://twitter.com/mc0de">mc0de</a></td>
+		<td>Vilnius</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/bridzius">
+				<img src="https://avatars.githubusercontent.com/u/2333334?s=72&u=a20bcdc32dd79e639c4916d9b27eba01e7fcf285&v=4" width="24" alt="Avatar of bridzius"> bridzius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#bridzius">Copy rank badge</a><br/>
+			Jurgis Bridžius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>134</td>
+		<td>135</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/spajus">
+				<img src="https://avatars.githubusercontent.com/u/70706?s=72&u=e37501db75d2a245471cac94279fc29b5feb17e0&v=4" width="24" alt="Avatar of spajus"> spajus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#spajus">Copy rank badge</a><br/>
+			spajus
+		</td>
+		<td>@kodolinija  </td>
+		<td><a href="https://twitter.com/dev_spajus">dev_spajus</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/fufic123">
 				<img src="https://avatars.githubusercontent.com/u/98762887?s=72&u=8218a0aec60cd16be25557d038a771a3cd6b4c23&v=4" width="24" alt="Avatar of fufic123"> fufic123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#fufic123">Copy rank badge</a><br/>
 			Mark Semenov
 		</td>
 		<td>No Company</td>
@@ -2822,76 +2889,128 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>215</td>
 		<td>
-			<a href="https://github.com/arukompas">
-				<img src="https://avatars.githubusercontent.com/u/8697942?s=72&u=eee4fc5b365ea2f3b6b2e721b9c0ed4b42df1954&v=4" width="24" alt="Avatar of arukompas"> arukompas
-			</a><br/>
-			Arunas Skirius
-		</td>
-		<td>@opcodesio </td>
-		<td><a href="https://twitter.com/arukomp">arukomp</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/Bread-Ch4n">
-				<img src="https://avatars.githubusercontent.com/u/94946192?s=72&u=4607e6739b1cbf7be978a37e2d272aafff4ed684&v=4" width="24" alt="Avatar of Bread-Ch4n"> Bread-Ch4n
-			</a><br/>
-			Bread-Chan
+			<a href="https://github.com/lus105">
+				<img src="https://avatars.githubusercontent.com/u/95565068?s=72&u=bc4ff4ddf4b6469f692960d8994e8141472e7a7d&v=4" width="24" alt="Avatar of lus105"> lus105
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lus105">Copy rank badge</a><br/>
+			Lukas Zabulis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
+		<td>Kaunas</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/TheJustas228">
+				<img src="https://avatars.githubusercontent.com/u/59165658?s=72&u=e3bdbf3b4bea91cb5f6be5914ccd6b98b5540880&v=4" width="24" alt="Avatar of TheJustas228"> TheJustas228
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TheJustas228">Copy rank badge</a><br/>
+			Justas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/zorca">
+				<img src="https://avatars.githubusercontent.com/u/5238179?s=72&u=b3647081c23dfceefd71f2c37f7911667254579a&v=4" width="24" alt="Avatar of zorca"> zorca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zorca">Copy rank badge</a><br/>
+			Zorca Orcinus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/psimk">
+				<img src="https://avatars.githubusercontent.com/u/21334130?s=72&u=e217c86f28fa260567ef2c8c16fe456c004cffb8&v=4" width="24" alt="Avatar of psimk"> psimk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#psimk">Copy rank badge</a><br/>
+			Paul
+		</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/__psimk">__psimk</a></td>
+		<td>Vilnius</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/ArnCarveris">
+				<img src="https://avatars.githubusercontent.com/u/783361?s=72&v=4" width="24" alt="Avatar of ArnCarveris"> ArnCarveris
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ArnCarveris">Copy rank badge</a><br/>
+			Arn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/lukaskornis">
+				<img src="https://avatars.githubusercontent.com/u/39262485?s=72&u=f98059970bb68115d46cda447809b4323d27873d&v=4" width="24" alt="Avatar of lukaskornis"> lukaskornis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukaskornis">Copy rank badge</a><br/>
+			Lukas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/Grigaliunas">
+				<img src="https://avatars.githubusercontent.com/u/2254601?s=72&u=59bfed7af9ed7a054ee3513f471cccff2a1c6666&v=4" width="24" alt="Avatar of Grigaliunas"> Grigaliunas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Grigaliunas">Copy rank badge</a><br/>
+			Sarunas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/grigaliunas">grigaliunas</a></td>
+		<td>Lithuania</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/vb100">
+				<img src="https://avatars.githubusercontent.com/u/29836346?s=72&u=15f2b5000188cb24fd130797f64e024686413d97&v=4" width="24" alt="Avatar of vb100"> vb100
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vb100">Copy rank badge</a><br/>
+			Vytautas Bielinskas
+		</td>
+		<td>Ibm </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/pdemeulenaer">
 				<img src="https://avatars.githubusercontent.com/u/31767740?s=72&u=add624fa924e96279511a6e5579297b3058f8273&v=4" width="24" alt="Avatar of pdemeulenaer"> pdemeulenaer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pdemeulenaer">Copy rank badge</a><br/>
 			Philippe de Meulenaer
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pdemeulenaer">pdemeulenaer</a></td>
 		<td>Vilnius</td>
-		<td>131</td>
+		<td>126</td>
 	</tr>
 	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/simonas-dev">
-				<img src="https://avatars.githubusercontent.com/u/3253131?s=72&v=4" width="24" alt="Avatar of simonas-dev"> simonas-dev
-			</a><br/>
-			Simonas Sankauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/prospektai">
-				<img src="https://avatars.githubusercontent.com/u/25756342?s=72&u=e7469d391ad8bdb068c1614ad31f2142c0a6a751&v=4" width="24" alt="Avatar of prospektai"> prospektai
-			</a><br/>
-			Lukas Baranovas
-		</td>
-		<td>Voras Digital </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>215</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/sergej-kurakin">
 				<img src="https://avatars.githubusercontent.com/u/196096?s=72&u=ca3deb9b61e7ae2e9b7d14675686217b677dad70&v=4" width="24" alt="Avatar of sergej-kurakin"> sergej-kurakin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sergej-kurakin">Copy rank badge</a><br/>
 			Sergej Kurakin
 		</td>
 		<td>Ovoko </td>
@@ -2900,115 +3019,115 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>225</td>
 		<td>
-			<a href="https://github.com/vycius">
-				<img src="https://avatars.githubusercontent.com/u/3719141?s=72&v=4" width="24" alt="Avatar of vycius"> vycius
-			</a><br/>
-			Karolis Vyčius
+			<a href="https://github.com/prospektai">
+				<img src="https://avatars.githubusercontent.com/u/25756342?s=72&u=e7469d391ad8bdb068c1614ad31f2142c0a6a751&v=4" width="24" alt="Avatar of prospektai"> prospektai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#prospektai">Copy rank badge</a><br/>
+			Lukas Baranovas
 		</td>
-		<td>@govlt  </td>
+		<td>Voras Digital </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>125</td>
+		<td>126</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/Zifah">
+				<img src="https://avatars.githubusercontent.com/u/7278086?s=72&u=40aa296e891fc86566b275832607898914f75596&v=4" width="24" alt="Avatar of Zifah"> Zifah
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Zifah">Copy rank badge</a><br/>
+			Hafiz Adewuyi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/biopsichas">
 				<img src="https://avatars.githubusercontent.com/u/49399808?s=72&u=305c7b3cada34096810dbc1f5e57b5a876bfb034&v=4" width="24" alt="Avatar of biopsichas"> biopsichas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#biopsichas">Copy rank badge</a><br/>
 			Svajunas
 		</td>
 		<td>Warsaw University Of Life<br/>Sciences<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>125</td>
+		<td>124</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>228</td>
 		<td>
-			<a href="https://github.com/mc0de">
-				<img src="https://avatars.githubusercontent.com/u/8727992?s=72&v=4" width="24" alt="Avatar of mc0de"> mc0de
-			</a><br/>
-			David Lun
+			<a href="https://github.com/robertasRobotas">
+				<img src="https://avatars.githubusercontent.com/u/25686824?s=72&u=c8b31b6ebf91ff5c897e8607b2b498c01b25f74a&v=4" width="24" alt="Avatar of robertasRobotas"> robertasRobotas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#robertasRobotas">Copy rank badge</a><br/>
+			Robertas Ankudovicius
 		</td>
-		<td>Laraveldaily </td>
-		<td><a href="https://twitter.com/mc0de">mc0de</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>124</td>
+		<td>123</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>229</td>
 		<td>
-			<a href="https://github.com/RGafiyatullin">
-				<img src="https://avatars.githubusercontent.com/u/281247?s=72&u=7a8cf79df1601082494b4929a38f3668f537d887&v=4" width="24" alt="Avatar of RGafiyatullin"> RGafiyatullin
-			</a><br/>
-			Raman Hafiyatulin
+			<a href="https://github.com/mistermantas">
+				<img src="https://avatars.githubusercontent.com/u/11616378?s=72&u=0403c230e090dabb5ee85a56908f8ff9277f0462&v=4" width="24" alt="Avatar of mistermantas"> mistermantas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mistermantas">Copy rank badge</a><br/>
+			Mantas Vilčinskas
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, LT</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/Grigaliunas">
-				<img src="https://avatars.githubusercontent.com/u/2254601?s=72&u=59bfed7af9ed7a054ee3513f471cccff2a1c6666&v=4" width="24" alt="Avatar of Grigaliunas"> Grigaliunas
-			</a><br/>
-			Sarunas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/grigaliunas">grigaliunas</a></td>
-		<td>Lithuania</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/ignuxas">
-				<img src="https://avatars.githubusercontent.com/u/80627100?s=72&u=34bed21eadcf5fa6db5276997e013d1fbe4299c9&v=4" width="24" alt="Avatar of ignuxas"> ignuxas
-			</a><br/>
-			Ignas Mikolaitis
-		</td>
-		<td>Meritstory </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/islavikfx">
-				<img src="https://avatars.githubusercontent.com/u/265895212?s=72&u=bfe701fb1a7ee7992f6aa3451ce0fc9cf7694e5b&v=4" width="24" alt="Avatar of islavikfx"> islavikfx
-			</a><br/>
-			iSlavik
-		</td>
-		<td>No Company</td>
+		<td>Ceo @uncascade </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>124</td>
+		<td>122</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>230</td>
 		<td>
-			<a href="https://github.com/lekevicius">
-				<img src="https://avatars.githubusercontent.com/u/218656?s=72&u=445c316498bdf71b0b0445efa81da83152c0c97f&v=4" width="24" alt="Avatar of lekevicius"> lekevicius
-			</a><br/>
-			Jonas Lekevicius
+			<a href="https://github.com/stnby">
+				<img src="https://avatars.githubusercontent.com/u/29861022?s=72&u=f802e3dd1fce965420195a01848430999a341ba4&v=4" width="24" alt="Avatar of stnby"> stnby
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#stnby">Copy rank badge</a><br/>
+			Laurynas Četyrkinas
 		</td>
-		<td>No Company</td>
+		<td>Digilol </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/kasteckis">
+				<img src="https://avatars.githubusercontent.com/u/41127259?s=72&v=4" width="24" alt="Avatar of kasteckis"> kasteckis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kasteckis">Copy rank badge</a><br/>
+			Valentinas Kasteckis
+		</td>
+		<td>@nordsecurity  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Kaunas</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/vycius">
+				<img src="https://avatars.githubusercontent.com/u/3719141?s=72&v=4" width="24" alt="Avatar of vycius"> vycius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vycius">Copy rank badge</a><br/>
+			Karolis Vyčius
+		</td>
+		<td>@govlt  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/zaibacu">
 				<img src="https://avatars.githubusercontent.com/u/606346?s=72&u=883970cc255462c77b063f4bc9caca1bbf0bda50&v=4" width="24" alt="Avatar of zaibacu"> zaibacu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zaibacu">Copy rank badge</a><br/>
 			Šarūnas Navickas
 		</td>
 		<td>No Company</td>
@@ -3017,115 +3136,115 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>234</td>
 		<td>
-			<a href="https://github.com/spajus">
-				<img src="https://avatars.githubusercontent.com/u/70706?s=72&u=e37501db75d2a245471cac94279fc29b5feb17e0&v=4" width="24" alt="Avatar of spajus"> spajus
-			</a><br/>
-			spajus
+			<a href="https://github.com/qbilius">
+				<img src="https://avatars.githubusercontent.com/u/1251889?s=72&v=4" width="24" alt="Avatar of qbilius"> qbilius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#qbilius">Copy rank badge</a><br/>
+			Jonas Kubilius
 		</td>
-		<td>@kodolinija  </td>
-		<td><a href="https://twitter.com/dev_spajus">dev_spajus</a></td>
+		<td>Jones!lab @ Lsc-embl </td>
+		<td><a href="https://twitter.com/qbilius">qbilius</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>117</td>
+		<td>119</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>235</td>
 		<td>
-			<a href="https://github.com/minvs1">
-				<img src="https://avatars.githubusercontent.com/u/2649067?s=72&u=02683e1b5418b95007803c619cc385b8e2aa1012&v=4" width="24" alt="Avatar of minvs1"> minvs1
-			</a><br/>
-			Tomas Achmedovas
+			<a href="https://github.com/buuugne">
+				<img src="https://avatars.githubusercontent.com/u/185936134?s=72&u=0c93a6a977ac6c151a8b19994689d4fe78f63769&v=4" width="24" alt="Avatar of buuugne"> buuugne
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#buuugne">Copy rank badge</a><br/>
+			Ugnė Pacevičiūtė
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/mistermantas">
-				<img src="https://avatars.githubusercontent.com/u/11616378?s=72&u=0403c230e090dabb5ee85a56908f8ff9277f0462&v=4" width="24" alt="Avatar of mistermantas"> mistermantas
-			</a><br/>
-			Mantas Vilčinskas
-		</td>
-		<td>Ceo @uncascade </td>
+		<td>Vilnius </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/Neophen">
+				<img src="https://avatars.githubusercontent.com/u/6092928?s=72&u=e93fb57e877bf1c1cba76c37b9950e3c4ad66bf3&v=4" width="24" alt="Avatar of Neophen"> Neophen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Neophen">Copy rank badge</a><br/>
+			Mykolas Mankevicius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/Lukas-Les">
 				<img src="https://avatars.githubusercontent.com/u/71329803?s=72&u=5db9052847960da7568a80ec9b12b89a56c33ebe&v=4" width="24" alt="Avatar of Lukas-Les"> Lukas-Les
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Lukas-Les">Copy rank badge</a><br/>
 			Lukas Leščinskas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>116</td>
+		<td>113</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>238</td>
 		<td>
-			<a href="https://github.com/execut4ble">
-				<img src="https://avatars.githubusercontent.com/u/3606385?s=72&u=9b87a3c4bcfd805fd05bd54ec23811b486764d18&v=4" width="24" alt="Avatar of execut4ble"> execut4ble
-			</a><br/>
-			Jokūbas Banaitis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>112</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/MindaugasJucius">
-				<img src="https://avatars.githubusercontent.com/u/17001066?s=72&u=66d8fd3f5853f4da337593e956cc3f57732d928c&v=4" width="24" alt="Avatar of MindaugasJucius"> MindaugasJucius
-			</a><br/>
-			MindaugasJucius
+			<a href="https://github.com/marijus-ravickas">
+				<img src="https://avatars.githubusercontent.com/u/989645?s=72&u=fe64a12e31ca6f7a82df490e74ef265a565dec5d&v=4" width="24" alt="Avatar of marijus-ravickas"> marijus-ravickas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#marijus-ravickas">Copy rank badge</a><br/>
+			Marijus Ravickas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>111</td>
+		<td>112</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>239</td>
 		<td>
-			<a href="https://github.com/DilkiSandunika">
-				<img src="https://avatars.githubusercontent.com/u/31792128?s=72&v=4" width="24" alt="Avatar of DilkiSandunika"> DilkiSandunika
-			</a><br/>
-			Dilki Sandunika Rathnayaka
+			<a href="https://github.com/Bread-Ch4n">
+				<img src="https://avatars.githubusercontent.com/u/94946192?s=72&u=4607e6739b1cbf7be978a37e2d272aafff4ed684&v=4" width="24" alt="Avatar of Bread-Ch4n"> Bread-Ch4n
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Bread-Ch4n">Copy rank badge</a><br/>
+			Bread-Chan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/Matas-ops">
+				<img src="https://avatars.githubusercontent.com/u/87492782?s=72&v=4" width="24" alt="Avatar of Matas-ops"> Matas-ops
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Matas-ops">Copy rank badge</a><br/>
+			Matas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/kasteckis">
-				<img src="https://avatars.githubusercontent.com/u/41127259?s=72&v=4" width="24" alt="Avatar of kasteckis"> kasteckis
-			</a><br/>
-			Valentinas Kasteckis
-		</td>
-		<td>@nordsecurity  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Kaunas</td>
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/jrs0ul">
+				<img src="https://avatars.githubusercontent.com/u/25615154?s=72&u=84d2f36db987af48290126963d2e7d1991239204&v=4" width="24" alt="Avatar of jrs0ul"> jrs0ul
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jrs0ul">Copy rank badge</a><br/>
+			Kęstutis Lotužis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/karolis-sh">
 				<img src="https://avatars.githubusercontent.com/u/3521740?s=72&v=4" width="24" alt="Avatar of karolis-sh"> karolis-sh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#karolis-sh">Copy rank badge</a><br/>
 			Karolis Šarapnickis
 		</td>
 		<td>No Company</td>
@@ -3134,11 +3253,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/fosron">
+				<img src="https://avatars.githubusercontent.com/u/3708631?s=72&u=061704b071dcfa6de1a5fa4656b8e09cd725e034&v=4" width="24" alt="Avatar of fosron"> fosron
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#fosron">Copy rank badge</a><br/>
+			Tautvydas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fosron">fosron</a></td>
+		<td>Klaipeda, Lithuania</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/simonas-dev">
+				<img src="https://avatars.githubusercontent.com/u/3253131?s=72&v=4" width="24" alt="Avatar of simonas-dev"> simonas-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#simonas-dev">Copy rank badge</a><br/>
+			Simonas Sankauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/svetikas">
+				<img src="https://avatars.githubusercontent.com/u/32238647?s=72&u=76942041bc1db341d81d5cb8f3de7180071db98c&v=4" width="24" alt="Avatar of svetikas"> svetikas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#svetikas">Copy rank badge</a><br/>
+			Dominykas Svetikas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/oerp-odoo">
 				<img src="https://avatars.githubusercontent.com/u/7812986?s=72&u=92ddb8a9d251d3bc48279741d2421539b456b270&v=4" width="24" alt="Avatar of oerp-odoo"> oerp-odoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#oerp-odoo">Copy rank badge</a><br/>
 			Andrius Laukavičius
 		</td>
 		<td>No Company</td>
@@ -3147,51 +3305,51 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/tygas">
 				<img src="https://avatars.githubusercontent.com/u/280071?s=72&v=4" width="24" alt="Avatar of tygas"> tygas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tygas">Copy rank badge</a><br/>
 			Crypto Tygas
 		</td>
 		<td>Blockchain </td>
 		<td><a href="https://twitter.com/tygas">tygas</a></td>
 		<td>Lithuania, Kaunas</td>
-		<td>105</td>
+		<td>104</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>248</td>
 		<td>
-			<a href="https://github.com/Matas-ops">
-				<img src="https://avatars.githubusercontent.com/u/87492782?s=72&v=4" width="24" alt="Avatar of Matas-ops"> Matas-ops
-			</a><br/>
-			Matas
+			<a href="https://github.com/mkazlauskas">
+				<img src="https://avatars.githubusercontent.com/u/2457868?s=72&v=4" width="24" alt="Avatar of mkazlauskas"> mkazlauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mkazlauskas">Copy rank badge</a><br/>
+			Martynas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>104</td>
+		<td>103</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/grinry">
 				<img src="https://avatars.githubusercontent.com/u/5575688?s=72&u=bbdeced9815c767eb0d1b98bfdb051d1d2007530&v=4" width="24" alt="Avatar of grinry"> grinry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#grinry">Copy rank badge</a><br/>
 			Rytis Grincevičius
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/grinryt">grinryt</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>102</td>
+		<td>103</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>250</td>
 		<td>
-			<a href="https://github.com/Hoffs">
-				<img src="https://avatars.githubusercontent.com/u/5737899?s=72&u=bc855aa90a33f2febdef1b6923552e4817df99a8&v=4" width="24" alt="Avatar of Hoffs"> Hoffs
-			</a><br/>
-			Ignas
+			<a href="https://github.com/KiraLT">
+				<img src="https://avatars.githubusercontent.com/u/10944908?s=72&u=ff2e4e80d5155356e4ecbb356c20604c93fa34ca&v=4" width="24" alt="Avatar of KiraLT"> KiraLT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#KiraLT">Copy rank badge</a><br/>
+			Luke 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3199,11 +3357,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/konradasb">
+				<img src="https://avatars.githubusercontent.com/u/55544305?s=72&u=7f28b3d8a7741271d54277a0730b5e128234126a&v=4" width="24" alt="Avatar of konradasb"> konradasb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#konradasb">Copy rank badge</a><br/>
+			Konradas Bunikis
+		</td>
+		<td>Hostinger </td>
+		<td><a href="https://twitter.com/konradasb">konradasb</a></td>
+		<td>Lithuania, Kaunas</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/xHasKx">
 				<img src="https://avatars.githubusercontent.com/u/1585990?s=72&v=4" width="24" alt="Avatar of xHasKx"> xHasKx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#xHasKx">Copy rank badge</a><br/>
 			Alexander
 		</td>
 		<td>Gurtam </td>
@@ -3212,11 +3383,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/rkanapka">
 				<img src="https://avatars.githubusercontent.com/u/40775067?s=72&u=ad5fc66c979f1f37c7af2bf99bb4be4bc86fed53&v=4" width="24" alt="Avatar of rkanapka"> rkanapka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rkanapka">Copy rank badge</a><br/>
 			Rimvydas Kanapka
 		</td>
 		<td>Robolabs </td>
@@ -3225,37 +3396,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>254</td>
 		<td>
-			<a href="https://github.com/qbilius">
-				<img src="https://avatars.githubusercontent.com/u/1251889?s=72&v=4" width="24" alt="Avatar of qbilius"> qbilius
-			</a><br/>
-			Jonas Kubilius
-		</td>
-		<td>Jones!lab @ Lsc-embl </td>
-		<td><a href="https://twitter.com/qbilius">qbilius</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/marijus-ravickas">
-				<img src="https://avatars.githubusercontent.com/u/989645?s=72&u=fe64a12e31ca6f7a82df490e74ef265a565dec5d&v=4" width="24" alt="Avatar of marijus-ravickas"> marijus-ravickas
-			</a><br/>
-			Marijus Ravickas
+			<a href="https://github.com/Hoffs">
+				<img src="https://avatars.githubusercontent.com/u/5737899?s=72&u=bc855aa90a33f2febdef1b6923552e4817df99a8&v=4" width="24" alt="Avatar of Hoffs"> Hoffs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Hoffs">Copy rank badge</a><br/>
+			Ignas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/augustetum">
+				<img src="https://avatars.githubusercontent.com/u/120650538?s=72&u=207cc0659da2d449ec1bb6b21b6a65063ad9d868&v=4" width="24" alt="Avatar of augustetum"> augustetum
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#augustetum">Copy rank badge</a><br/>
+			Augustė Tumaitė
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/Tichij">
+				<img src="https://avatars.githubusercontent.com/u/14314531?s=72&u=aa745e025ead89a3e05707a60144b48c4ee75ea4&v=4" width="24" alt="Avatar of Tichij"> Tichij
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Tichij">Copy rank badge</a><br/>
+			Tichij
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/laur1s">
 				<img src="https://avatars.githubusercontent.com/u/7099082?s=72&u=07103bfb2a5519ded70c5f6884ff1afabbd912fa&v=4" width="24" alt="Avatar of laur1s"> laur1s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laur1s">Copy rank badge</a><br/>
 			Laurynas Tumosa
 		</td>
 		<td>No Company</td>
@@ -3264,63 +3448,63 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>258</td>
 		<td>
-			<a href="https://github.com/MigleSur">
-				<img src="https://avatars.githubusercontent.com/u/26600952?s=72&u=9323af42772f1ddf80349a092c63a5dbfda9c233&v=4" width="24" alt="Avatar of MigleSur"> MigleSur
-			</a><br/>
-			Migle Gabrielaite
+			<a href="https://github.com/schors">
+				<img src="https://avatars.githubusercontent.com/u/3613666?s=72&u=25fc48c6cd1c59587b870c1187261208dc9bd1a9&v=4" width="24" alt="Avatar of schors"> schors
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#schors">Copy rank badge</a><br/>
+			Filipp Kulin
 		</td>
-		<td>Vilnius University </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Usher Ii </td>
+		<td><a href="https://twitter.com/schors">schors</a></td>
+		<td>Vilnius, Lithuania</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>259</td>
 		<td>
-			<a href="https://github.com/MartynasZilinskas">
-				<img src="https://avatars.githubusercontent.com/u/562658?s=72&u=8b4ac4d5d833063de7458eafdf44166bf3df580f&v=4" width="24" alt="Avatar of MartynasZilinskas"> MartynasZilinskas
-			</a><br/>
-			Martynas Žilinskas
-		</td>
-		<td>@reactway </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/Tichij">
-				<img src="https://avatars.githubusercontent.com/u/14314531?s=72&u=aa745e025ead89a3e05707a60144b48c4ee75ea4&v=4" width="24" alt="Avatar of Tichij"> Tichij
-			</a><br/>
-			Tichij
+			<a href="https://github.com/sakalauskas">
+				<img src="https://avatars.githubusercontent.com/u/1455148?s=72&u=de71223e9ed4f6bdeca6bb535625bb16e9c1cce7&v=4" width="24" alt="Avatar of sakalauskas"> sakalauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sakalauskas">Copy rank badge</a><br/>
+			Laurynas Sakalauskas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>95</td>
+		<td>Vilnius, Lithuania</td>
+		<td>96</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>260</td>
 		<td>
-			<a href="https://github.com/konradasb">
-				<img src="https://avatars.githubusercontent.com/u/55544305?s=72&u=7f28b3d8a7741271d54277a0730b5e128234126a&v=4" width="24" alt="Avatar of konradasb"> konradasb
-			</a><br/>
-			Konradas Bunikis
+			<a href="https://github.com/tasdomas">
+				<img src="https://avatars.githubusercontent.com/u/119220?s=72&u=2b2dd141744784931d5c33f83fe9f36eec78790d&v=4" width="24" alt="Avatar of tasdomas"> tasdomas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tasdomas">Copy rank badge</a><br/>
+			Domas Monkus
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Kaunas</td>
+		<td>Vilnius, Lithuania</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/rokbar">
+				<img src="https://avatars.githubusercontent.com/u/17413792?s=72&u=a1a110c3891e1e3a67ae15e75b234433bcf5c3b0&v=4" width="24" alt="Avatar of rokbar"> rokbar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rokbar">Copy rank badge</a><br/>
+			Rokas Baršauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/jakutis">
 				<img src="https://avatars.githubusercontent.com/u/4760120?s=72&u=7fd0d8da210a0eacad9a898f00b7251987caee55&v=4" width="24" alt="Avatar of jakutis"> jakutis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jakutis">Copy rank badge</a><br/>
 			Vytautas Jakutis
 		</td>
 		<td>No Company</td>
@@ -3329,11 +3513,76 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/MartynasZilinskas">
+				<img src="https://avatars.githubusercontent.com/u/562658?s=72&u=8b4ac4d5d833063de7458eafdf44166bf3df580f&v=4" width="24" alt="Avatar of MartynasZilinskas"> MartynasZilinskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MartynasZilinskas">Copy rank badge</a><br/>
+			Martynas Žilinskas
+		</td>
+		<td>@reactway </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/MigleSur">
+				<img src="https://avatars.githubusercontent.com/u/26600952?s=72&u=9323af42772f1ddf80349a092c63a5dbfda9c233&v=4" width="24" alt="Avatar of MigleSur"> MigleSur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MigleSur">Copy rank badge</a><br/>
+			Migle Gabrielaite
+		</td>
+		<td>Vilnius University </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/TomasBankauskas">
+				<img src="https://avatars.githubusercontent.com/u/6723392?s=72&u=2ed48b5a26e2e5a620ba4d9fa67041ab838229f8&v=4" width="24" alt="Avatar of TomasBankauskas"> TomasBankauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TomasBankauskas">Copy rank badge</a><br/>
+			Tomas Bankauskas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TomasBankauskas">TomasBankauskas</a></td>
+		<td>Lithuania</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/RGafiyatullin">
+				<img src="https://avatars.githubusercontent.com/u/281247?s=72&u=7a8cf79df1601082494b4929a38f3668f537d887&v=4" width="24" alt="Avatar of RGafiyatullin"> RGafiyatullin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#RGafiyatullin">Copy rank badge</a><br/>
+			Raman Hafiyatulin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, LT</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/rimas-kudelis">
+				<img src="https://avatars.githubusercontent.com/u/2812673?s=72&v=4" width="24" alt="Avatar of rimas-kudelis"> rimas-kudelis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rimas-kudelis">Copy rank badge</a><br/>
+			Rimas Kudelis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/viliusl">
 				<img src="https://avatars.githubusercontent.com/u/871778?s=72&u=041005fe001f03043f3228a6643d30571a5cc0d1&v=4" width="24" alt="Avatar of viliusl"> viliusl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#viliusl">Copy rank badge</a><br/>
 			Vilius Lukošius
 		</td>
 		<td>Wix </td>
@@ -3342,128 +3591,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>269</td>
 		<td>
-			<a href="https://github.com/tasdomas">
-				<img src="https://avatars.githubusercontent.com/u/119220?s=72&u=2b2dd141744784931d5c33f83fe9f36eec78790d&v=4" width="24" alt="Avatar of tasdomas"> tasdomas
-			</a><br/>
-			Domas Monkus
+			<a href="https://github.com/paudan">
+				<img src="https://avatars.githubusercontent.com/u/12464974?s=72&v=4" width="24" alt="Avatar of paudan"> paudan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#paudan">Copy rank badge</a><br/>
+			Paulius Danėnas
 		</td>
-		<td>No Company</td>
+		<td>@intellerts And @ktu </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>90</td>
+		<td>Kaunas</td>
+		<td>91</td>
 	</tr>
 	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/MohamedAhmed122">
-				<img src="https://avatars.githubusercontent.com/u/58720977?s=72&u=87715b628ac61a5ccee455a7af66c777e2026bd4&v=4" width="24" alt="Avatar of MohamedAhmed122"> MohamedAhmed122
-			</a><br/>
-			Mohamed Youssef
-		</td>
-		<td>Clickclickdrive </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania </td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/svetikas">
-				<img src="https://avatars.githubusercontent.com/u/32238647?s=72&u=76942041bc1db341d81d5cb8f3de7180071db98c&v=4" width="24" alt="Avatar of svetikas"> svetikas
-			</a><br/>
-			Dominykas Svetikas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/savenas">
-				<img src="https://avatars.githubusercontent.com/u/6633651?s=72&u=6ed87eb76d6529370e44d14f98afcfa24a84d344&v=4" width="24" alt="Avatar of savenas"> savenas
-			</a><br/>
-			Tomas Savėnas
-		</td>
-		<td>Atakos Vektorius </td>
-		<td><a href="https://twitter.com/tomas_savenas">tomas_savenas</a></td>
-		<td>Lithuania</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/aarnoldaas">
-				<img src="https://avatars.githubusercontent.com/u/9351975?s=72&u=1f43e5b32715c6d3c937ca25f9b8e9e3b3b99e7e&v=4" width="24" alt="Avatar of aarnoldaas"> aarnoldaas
-			</a><br/>
-			Arnoldas Šeščila
-		</td>
-		<td>Wix </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/TomasBankauskas">
-				<img src="https://avatars.githubusercontent.com/u/6723392?s=72&u=2ed48b5a26e2e5a620ba4d9fa67041ab838229f8&v=4" width="24" alt="Avatar of TomasBankauskas"> TomasBankauskas
-			</a><br/>
-			Tomas Bankauskas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TomasBankauskas">TomasBankauskas</a></td>
-		<td>Lithuania</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/schors">
-				<img src="https://avatars.githubusercontent.com/u/3613666?s=72&u=25fc48c6cd1c59587b870c1187261208dc9bd1a9&v=4" width="24" alt="Avatar of schors"> schors
-			</a><br/>
-			Filipp Kulin
-		</td>
-		<td>Usher Ii </td>
-		<td><a href="https://twitter.com/schors">schors</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/linasm">
-				<img src="https://avatars.githubusercontent.com/u/5231884?s=72&u=d3148d82f23689fb4a9d956a81f666a037206081&v=4" width="24" alt="Avatar of linasm"> linasm
-			</a><br/>
-			Linas Medžiūnas
-		</td>
-		<td>@paloaltonetworks.co </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>258</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/n3ziniuka5">
 				<img src="https://avatars.githubusercontent.com/u/584566?s=72&u=5f1970f8f36ff5b7e1944b62f61c358dbcebf6b4&v=4" width="24" alt="Avatar of n3ziniuka5"> n3ziniuka5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#n3ziniuka5">Copy rank badge</a><br/>
 			Laurynas Tretjakovas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/dev66613">
+				<img src="https://avatars.githubusercontent.com/u/78775151?s=72&u=b357a5ac685c935c3ea032768951a322d3c60375&v=4" width="24" alt="Avatar of dev66613"> dev66613
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dev66613">Copy rank badge</a><br/>
+			dev666
+		</td>
+		<td>Dev666 </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/ignuxas">
+				<img src="https://avatars.githubusercontent.com/u/80627100?s=72&u=34bed21eadcf5fa6db5276997e013d1fbe4299c9&v=4" width="24" alt="Avatar of ignuxas"> ignuxas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ignuxas">Copy rank badge</a><br/>
+			Ignas Mikolaitis
+		</td>
+		<td>Meritstory </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/ponasObuolys">
+				<img src="https://avatars.githubusercontent.com/u/67857119?s=72&u=8fc426b77325a18b2c422912e676fa5704aea0fb&v=4" width="24" alt="Avatar of ponasObuolys"> ponasObuolys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ponasObuolys">Copy rank badge</a><br/>
+			Aurimas Butvilauskas
+		</td>
+		<td>Mb "ponas Obuolys" </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/aarnoldaas">
+				<img src="https://avatars.githubusercontent.com/u/9351975?s=72&u=1f43e5b32715c6d3c937ca25f9b8e9e3b3b99e7e&v=4" width="24" alt="Avatar of aarnoldaas"> aarnoldaas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aarnoldaas">Copy rank badge</a><br/>
+			Arnoldas Šeščila
+		</td>
+		<td>Wix </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/DilkiSandunika">
+				<img src="https://avatars.githubusercontent.com/u/31792128?s=72&v=4" width="24" alt="Avatar of DilkiSandunika"> DilkiSandunika
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#DilkiSandunika">Copy rank badge</a><br/>
+			Dilki Sandunika Rathnayaka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/lawrence-laz">
 				<img src="https://avatars.githubusercontent.com/u/8823448?s=72&u=c43514c86f8b4de329fb0bb8bd6046a2d7d1ee7e&v=4" width="24" alt="Avatar of lawrence-laz"> lawrence-laz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lawrence-laz">Copy rank badge</a><br/>
 			Laurynas Lazauskas
 		</td>
 		<td>No Company</td>
@@ -3472,76 +3695,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/paudan">
-				<img src="https://avatars.githubusercontent.com/u/12464974?s=72&v=4" width="24" alt="Avatar of paudan"> paudan
-			</a><br/>
-			Paulius Danėnas
-		</td>
-		<td>@intellerts And @ktu </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/tomas-sereikis">
-				<img src="https://avatars.githubusercontent.com/u/3651088?s=72&u=aeb4b636dbdcb15e7a8ac42513d6d612b46f846c&v=4" width="24" alt="Avatar of tomas-sereikis"> tomas-sereikis
-			</a><br/>
-			Tomas Šereikis
-		</td>
-		<td>Podimo </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/ponasObuolys">
-				<img src="https://avatars.githubusercontent.com/u/67857119?s=72&u=8fc426b77325a18b2c422912e676fa5704aea0fb&v=4" width="24" alt="Avatar of ponasObuolys"> ponasObuolys
-			</a><br/>
-			Aurimas Butvilauskas
-		</td>
-		<td>Mb "ponas Obuolys" </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/remisb">
-				<img src="https://avatars.githubusercontent.com/u/981625?s=72&v=4" width="24" alt="Avatar of remisb"> remisb
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/zamblauskas">
-				<img src="https://avatars.githubusercontent.com/u/4989266?s=72&u=7243b8db5d318198cee8e9d4a83509101645ef28&v=4" width="24" alt="Avatar of zamblauskas"> zamblauskas
-			</a><br/>
-			Robertas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>265</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/Riksev">
 				<img src="https://avatars.githubusercontent.com/u/102880184?s=72&u=53247219f2692909b75a39346e53f19f8796b397&v=4" width="24" alt="Avatar of Riksev"> Riksev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Riksev">Copy rank badge</a><br/>
 			Yevhenii Holubovych
 		</td>
 		<td>No Company</td>
@@ -3550,11 +3708,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/RomanasV">
 				<img src="https://avatars.githubusercontent.com/u/31746728?s=72&u=f22bc7c395bb6eff34459411c59465a9de8f63fc&v=4" width="24" alt="Avatar of RomanasV"> RomanasV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#RomanasV">Copy rank badge</a><br/>
 			Romanas
 		</td>
 		<td>No Company</td>
@@ -3563,50 +3721,63 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/mkazlauskas">
-				<img src="https://avatars.githubusercontent.com/u/2457868?s=72&v=4" width="24" alt="Avatar of mkazlauskas"> mkazlauskas
-			</a><br/>
-			Martynas
+			<a href="https://github.com/redmundas">
+				<img src="https://avatars.githubusercontent.com/u/4420081?s=72&u=86beb0cb50f4ea1274b3dd1326d367589dcc5777&v=4" width="24" alt="Avatar of redmundas"> redmundas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#redmundas">Copy rank badge</a><br/>
+			Edmundas Ramanauskas
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Mysterium Network </td>
+		<td><a href="https://twitter.com/redmundas">redmundas</a></td>
+		<td>Klaipėda, Lithuania</td>
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>280</td>
 		<td>
-			<a href="https://github.com/rtfb">
-				<img src="https://avatars.githubusercontent.com/u/426340?s=72&v=4" width="24" alt="Avatar of rtfb"> rtfb
-			</a><br/>
-			Vytautas Šaltenis
+			<a href="https://github.com/arukompas">
+				<img src="https://avatars.githubusercontent.com/u/8697942?s=72&u=eee4fc5b365ea2f3b6b2e721b9c0ed4b42df1954&v=4" width="24" alt="Avatar of arukompas"> arukompas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arukompas">Copy rank badge</a><br/>
+			Arunas Skirius
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>81</td>
+		<td>@opcodesio </td>
+		<td><a href="https://twitter.com/arukomp">arukomp</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>82</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/ItsTauTvyDas">
 				<img src="https://avatars.githubusercontent.com/u/31439275?s=72&u=758a9fa10b2cf7f9b5facb4aca674f32678bec2b&v=4" width="24" alt="Avatar of ItsTauTvyDas"> ItsTauTvyDas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ItsTauTvyDas">Copy rank badge</a><br/>
 			Tautvydas
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ItsTauTvyDas">ItsTauTvyDas</a></td>
 		<td>Lithuania</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/dimashirokov">
+				<img src="https://avatars.githubusercontent.com/u/10505753?s=72&v=4" width="24" alt="Avatar of dimashirokov"> dimashirokov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dimashirokov">Copy rank badge</a><br/>
+			Dmytro Shyrokov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/powah">
 				<img src="https://avatars.githubusercontent.com/u/122491?s=72&u=3a83009fed358e7a359a3af15dc7e624769efcc5&v=4" width="24" alt="Avatar of powah"> powah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#powah">Copy rank badge</a><br/>
 			Aurimas
 		</td>
 		<td>No Company</td>
@@ -3615,63 +3786,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>284</td>
 		<td>
-			<a href="https://github.com/sergeykhbr">
-				<img src="https://avatars.githubusercontent.com/u/14061675?s=72&u=279a18e77b80a7c8efb09ef18ddac402a6cff15c&v=4" width="24" alt="Avatar of sergeykhbr"> sergeykhbr
-			</a><br/>
-			Sergey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/dimashirokov">
-				<img src="https://avatars.githubusercontent.com/u/10505753?s=72&v=4" width="24" alt="Avatar of dimashirokov"> dimashirokov
-			</a><br/>
-			Dmytro Shyrokov
+			<a href="https://github.com/ramzis">
+				<img src="https://avatars.githubusercontent.com/u/18498995?s=72&u=712f0fb78fd1f3989e6b9003b2fc01d904689026&v=4" width="24" alt="Avatar of ramzis"> ramzis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ramzis">Copy rank badge</a><br/>
+			Tadas Audinis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/linasm">
+				<img src="https://avatars.githubusercontent.com/u/5231884?s=72&u=d3148d82f23689fb4a9d956a81f666a037206081&v=4" width="24" alt="Avatar of linasm"> linasm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#linasm">Copy rank badge</a><br/>
+			Linas Medžiūnas
+		</td>
+		<td>@paloaltonetworks.co </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/xHeptc">
+				<img src="https://avatars.githubusercontent.com/u/67541675?s=72&u=a71dcfc8d95e76c98bb09fa0c8ef844402c1ed6b&v=4" width="24" alt="Avatar of xHeptc"> xHeptc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#xHeptc">Copy rank badge</a><br/>
+			Mantas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>287</td>
 		<td>
-			<a href="https://github.com/kape1395">
-				<img src="https://avatars.githubusercontent.com/u/442726?s=72&v=4" width="24" alt="Avatar of kape1395"> kape1395
-			</a><br/>
-			Karolis Petrauskas
+			<a href="https://github.com/alevinru">
+				<img src="https://avatars.githubusercontent.com/u/834503?s=72&v=4" width="24" alt="Avatar of alevinru"> alevinru
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#alevinru">Copy rank badge</a><br/>
+			Alexander Levin
 		</td>
-		<td>@erisata </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/ksaveras">
+				<img src="https://avatars.githubusercontent.com/u/485111?s=72&u=4709db907d38dd1f4b5b65f169c49a20669f6d8b&v=4" width="24" alt="Avatar of ksaveras"> ksaveras
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ksaveras">Copy rank badge</a><br/>
+			Ksaveras Sakys
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ksaveras">ksaveras</a></td>
 		<td>Lithuania</td>
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>289</td>
 		<td>
-			<a href="https://github.com/redmundas">
-				<img src="https://avatars.githubusercontent.com/u/4420081?s=72&u=86beb0cb50f4ea1274b3dd1326d367589dcc5777&v=4" width="24" alt="Avatar of redmundas"> redmundas
-			</a><br/>
-			Edmundas Ramanauskas
+			<a href="https://github.com/Gongreg">
+				<img src="https://avatars.githubusercontent.com/u/3867635?s=72&u=be901385843f8df98a2a6052b708e40a3a32b15f&v=4" width="24" alt="Avatar of Gongreg"> Gongreg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Gongreg">Copy rank badge</a><br/>
+			Gytis Vinclovas
 		</td>
-		<td>Mysterium Network </td>
-		<td><a href="https://twitter.com/redmundas">redmundas</a></td>
-		<td>Klaipėda, Lithuania</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/rtfb">
+				<img src="https://avatars.githubusercontent.com/u/426340?s=72&v=4" width="24" alt="Avatar of rtfb"> rtfb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rtfb">Copy rank badge</a><br/>
+			Vytautas Šaltenis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/pbrilius">
 				<img src="https://avatars.githubusercontent.com/u/8288767?s=72&u=5af000153bde007386a546fb024c0029f445cf19&v=4" width="24" alt="Avatar of pbrilius"> pbrilius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pbrilius">Copy rank badge</a><br/>
 			Povilas Brilius
 		</td>
 		<td>Prototype.in </td>
@@ -3680,25 +3890,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>292</td>
 		<td>
-			<a href="https://github.com/rkkr">
-				<img src="https://avatars.githubusercontent.com/u/3480123?s=72&v=4" width="24" alt="Avatar of rkkr"> rkkr
-			</a><br/>
-			Raimondas Rimkus
+			<a href="https://github.com/sergeykhbr">
+				<img src="https://avatars.githubusercontent.com/u/14061675?s=72&u=279a18e77b80a7c8efb09ef18ddac402a6cff15c&v=4" width="24" alt="Avatar of sergeykhbr"> sergeykhbr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sergeykhbr">Copy rank badge</a><br/>
+			Sergey
 		</td>
-		<td>Bentley Systems </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
+		<td>Lithuania</td>
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>293</td>
 		<td>
-			<a href="https://github.com/sakalauskas">
-				<img src="https://avatars.githubusercontent.com/u/1455148?s=72&u=de71223e9ed4f6bdeca6bb535625bb16e9c1cce7&v=4" width="24" alt="Avatar of sakalauskas"> sakalauskas
-			</a><br/>
-			Laurynas Sakalauskas
+			<a href="https://github.com/edgar-zigis">
+				<img src="https://avatars.githubusercontent.com/u/2557008?s=72&u=85594b826c8fa1607591dabfda67ac6249305d5a&v=4" width="24" alt="Avatar of edgar-zigis"> edgar-zigis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#edgar-zigis">Copy rank badge</a><br/>
+			Edgar Žigis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3706,24 +3916,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/ksaveras">
-				<img src="https://avatars.githubusercontent.com/u/485111?s=72&u=4709db907d38dd1f4b5b65f169c49a20669f6d8b&v=4" width="24" alt="Avatar of ksaveras"> ksaveras
-			</a><br/>
-			Ksaveras Sakys
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ksaveras">ksaveras</a></td>
-		<td>Lithuania</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>279</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/ugened47">
 				<img src="https://avatars.githubusercontent.com/u/9214135?s=72&u=10e17efa0a777a8eccd4c0a9b592a6cfc988c096&v=4" width="24" alt="Avatar of ugened47"> ugened47
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ugened47">Copy rank badge</a><br/>
 			Yevhenii
 		</td>
 		<td>@activebridge @triac-hq  </td>
@@ -3732,11 +3929,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/Adstefnum">
+				<img src="https://avatars.githubusercontent.com/u/50265223?s=72&u=2af5f7cc340ac2191eecac4b50e133e6f97de48f&v=4" width="24" alt="Avatar of Adstefnum"> Adstefnum
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Adstefnum">Copy rank badge</a><br/>
+			Stephen Adesina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/kasinskas">
+				<img src="https://avatars.githubusercontent.com/u/22332217?s=72&u=4f913431f66810ac33fe0f268613ac06b880784a&v=4" width="24" alt="Avatar of kasinskas"> kasinskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kasinskas">Copy rank badge</a><br/>
+			Rokas Kašinskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/andrii-0203">
 				<img src="https://avatars.githubusercontent.com/u/38364416?s=72&u=1e55c3185cb46eb820ac4344c56ccbac86b3d22c&v=4" width="24" alt="Avatar of andrii-0203"> andrii-0203
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#andrii-0203">Copy rank badge</a><br/>
 			Andrii Z
 		</td>
 		<td>No Company</td>
@@ -3745,38 +3968,64 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>298</td>
 		<td>
-			<a href="https://github.com/Obydux">
-				<img src="https://avatars.githubusercontent.com/u/68059159?s=72&u=a225d937bf8614b600a6f48d66dbebca982ad917&v=4" width="24" alt="Avatar of Obydux"> Obydux
-			</a><br/>
-			Obydux
+			<a href="https://github.com/andriusm">
+				<img src="https://avatars.githubusercontent.com/u/594679?s=72&u=2230a477726b80e09fb0436dbc46e10f0f102bed&v=4" width="24" alt="Avatar of andriusm"> andriusm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#andriusm">Copy rank badge</a><br/>
+			Andrius Miasnikovas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Obydux">Obydux</a></td>
+		<td><a href="https://twitter.com/andriusm">andriusm</a></td>
 		<td>Lithuania</td>
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>299</td>
 		<td>
-			<a href="https://github.com/edgar-zigis">
-				<img src="https://avatars.githubusercontent.com/u/2557008?s=72&u=85594b826c8fa1607591dabfda67ac6249305d5a&v=4" width="24" alt="Avatar of edgar-zigis"> edgar-zigis
-			</a><br/>
-			Edgar Žigis
+			<a href="https://github.com/rkkr">
+				<img src="https://avatars.githubusercontent.com/u/3480123?s=72&v=4" width="24" alt="Avatar of rkkr"> rkkr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rkkr">Copy rank badge</a><br/>
+			Raimondas Rimkus
 		</td>
-		<td>No Company</td>
+		<td>Bentley Systems </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Kaunas, Lithuania</td>
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>300</td>
 		<td>
-			<a href="https://github.com/trubnikov">
-				<img src="https://avatars.githubusercontent.com/u/3284553?s=72&u=f41e7e78cc0b9e61588ddb404e6a37e49d74ed57&v=4" width="24" alt="Avatar of trubnikov"> trubnikov
-			</a><br/>
-			Dmitry Trubnikov
+			<a href="https://github.com/vilisimo">
+				<img src="https://avatars.githubusercontent.com/u/10910078?s=72&u=e32522384cd75fd8c517353c5d2d0db5d8be9e47&v=4" width="24" alt="Avatar of vilisimo"> vilisimo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vilisimo">Copy rank badge</a><br/>
+			Simonas Viliūnas
+		</td>
+		<td>Wix </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/mikhalenia">
+				<img src="https://avatars.githubusercontent.com/u/5015319?s=72&u=5aac1e8b9bc40ca7a3128c5358cfd97c7f964b9e&v=4" width="24" alt="Avatar of mikhalenia"> mikhalenia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mikhalenia">Copy rank badge</a><br/>
+			Andrei Mikhalenia
+		</td>
+		<td>@primegraph  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/yasns">
+				<img src="https://avatars.githubusercontent.com/u/65157131?s=72&u=5760a1715c0bcde16fd6b7d72cbc5f1ea1832a77&v=4" width="24" alt="Avatar of yasns"> yasns
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#yasns">Copy rank badge</a><br/>
+			Matas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3784,37 +4033,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/domanteli0">
-				<img src="https://avatars.githubusercontent.com/u/49041398?s=72&u=3d34b3f727334ee54c5de6de7772d8c2b51d970c&v=4" width="24" alt="Avatar of domanteli0"> domanteli0
-			</a><br/>
-			Domantas Keturakis
-		</td>
-		<td>@vinted </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/laimonas2g">
-				<img src="https://avatars.githubusercontent.com/u/210674735?s=72&u=08c91d4e33076def18f717459bcc73463d60a932&v=4" width="24" alt="Avatar of laimonas2g"> laimonas2g
-			</a><br/>
-			Laimonas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>286</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/sauliusgrigaitis">
 				<img src="https://avatars.githubusercontent.com/u/6917?s=72&u=b4a9d73e70d47f415d7231a67b4e10de79dd1095&v=4" width="24" alt="Avatar of sauliusgrigaitis"> sauliusgrigaitis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sauliusgrigaitis">Copy rank badge</a><br/>
 			Saulius Grigaitis
 		</td>
 		<td>No Company</td>
@@ -3823,12 +4046,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>304</td>
 		<td>
-			<a href="https://github.com/zorca">
-				<img src="https://avatars.githubusercontent.com/u/5238179?s=72&u=b3647081c23dfceefd71f2c37f7911667254579a&v=4" width="24" alt="Avatar of zorca"> zorca
-			</a><br/>
-			Zorca Orcinus
+			<a href="https://github.com/execut4ble">
+				<img src="https://avatars.githubusercontent.com/u/3606385?s=72&u=9b87a3c4bcfd805fd05bd54ec23811b486764d18&v=4" width="24" alt="Avatar of execut4ble"> execut4ble
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#execut4ble">Copy rank badge</a><br/>
+			Jokūbas Banaitis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3836,12 +4059,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>305</td>
 		<td>
-			<a href="https://github.com/ramzis">
-				<img src="https://avatars.githubusercontent.com/u/18498995?s=72&u=712f0fb78fd1f3989e6b9003b2fc01d904689026&v=4" width="24" alt="Avatar of ramzis"> ramzis
-			</a><br/>
-			Tadas Audinis
+			<a href="https://github.com/worktravel-saulius">
+				<img src="https://avatars.githubusercontent.com/u/112760821?s=72&u=05cdc41f42ed1469630d3a0f68ab2ab02ad3fd3f&v=4" width="24" alt="Avatar of worktravel-saulius"> worktravel-saulius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#worktravel-saulius">Copy rank badge</a><br/>
+			Saulius Systems
+		</td>
+		<td>Saulius Systems · Worktravel<br/>Partners<br/>Ai<br/>Academy<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lithuania · UK & Eastern Europe</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/zamblauskas">
+				<img src="https://avatars.githubusercontent.com/u/4989266?s=72&u=7243b8db5d318198cee8e9d4a83509101645ef28&v=4" width="24" alt="Avatar of zamblauskas"> zamblauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zamblauskas">Copy rank badge</a><br/>
+			Robertas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3849,37 +4085,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/tautminas">
-				<img src="https://avatars.githubusercontent.com/u/37105774?s=72&u=c8f5ec78386ef1459f0370257ac7af66503d143b&v=4" width="24" alt="Avatar of tautminas"> tautminas
-			</a><br/>
-			Tautminas Cibulskis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/Adstefnum">
-				<img src="https://avatars.githubusercontent.com/u/50265223?s=72&u=2af5f7cc340ac2191eecac4b50e133e6f97de48f&v=4" width="24" alt="Avatar of Adstefnum"> Adstefnum
-			</a><br/>
-			Stephen Adesina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>291</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/Waldz">
 				<img src="https://avatars.githubusercontent.com/u/2713911?s=72&v=4" width="24" alt="Avatar of Waldz"> Waldz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Waldz">Copy rank badge</a><br/>
 			Valdas Petrulis
 		</td>
 		<td>Mysterium Network </td>
@@ -3888,25 +4098,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>308</td>
 		<td>
-			<a href="https://github.com/vilisimo">
-				<img src="https://avatars.githubusercontent.com/u/10910078?s=72&u=e32522384cd75fd8c517353c5d2d0db5d8be9e47&v=4" width="24" alt="Avatar of vilisimo"> vilisimo
-			</a><br/>
-			Simonas Viliūnas
-		</td>
-		<td>Wix </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/Gongreg">
-				<img src="https://avatars.githubusercontent.com/u/3867635?s=72&u=be901385843f8df98a2a6052b708e40a3a32b15f&v=4" width="24" alt="Avatar of Gongreg"> Gongreg
-			</a><br/>
-			Gytis Vinclovas
+			<a href="https://github.com/buytenh">
+				<img src="https://avatars.githubusercontent.com/u/701714?s=72&u=ee7d9b0c6dbb84cc1980aed16c848897cb04d718&v=4" width="24" alt="Avatar of buytenh"> buytenh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#buytenh">Copy rank badge</a><br/>
+			Lennert Buytenhek
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3914,50 +4111,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>309</td>
 		<td>
-			<a href="https://github.com/chemicstry">
-				<img src="https://avatars.githubusercontent.com/u/326232?s=72&v=4" width="24" alt="Avatar of chemicstry"> chemicstry
-			</a><br/>
-			Jurgis
+			<a href="https://github.com/domanteli0">
+				<img src="https://avatars.githubusercontent.com/u/49041398?s=72&u=3d34b3f727334ee54c5de6de7772d8c2b51d970c&v=4" width="24" alt="Avatar of domanteli0"> domanteli0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#domanteli0">Copy rank badge</a><br/>
+			Domantas Keturakis
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/rimas-kudelis">
-				<img src="https://avatars.githubusercontent.com/u/2812673?s=72&v=4" width="24" alt="Avatar of rimas-kudelis"> rimas-kudelis
-			</a><br/>
-			Rimas Kudelis
-		</td>
-		<td>No Company</td>
+		<td>@vinted </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/neworld">
-				<img src="https://avatars.githubusercontent.com/u/38703?s=72&u=59f3709fa5990c27b4b8819cdd9c72bd3d904516&v=4" width="24" alt="Avatar of neworld"> neworld
-			</a><br/>
-			Andrius Semionovas
-		</td>
-		<td>Vinted </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>297</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/MindScriptAct">
 				<img src="https://avatars.githubusercontent.com/u/1368173?s=72&v=4" width="24" alt="Avatar of MindScriptAct"> MindScriptAct
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MindScriptAct">Copy rank badge</a><br/>
 			Raimundas Banevicius
 		</td>
 		<td>No Company</td>
@@ -3966,11 +4137,76 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/tomasliubinas">
+				<img src="https://avatars.githubusercontent.com/u/1522729?s=72&v=4" width="24" alt="Avatar of tomasliubinas"> tomasliubinas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasliubinas">Copy rank badge</a><br/>
+			Tomas Liubinas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/neworld">
+				<img src="https://avatars.githubusercontent.com/u/38703?s=72&u=59f3709fa5990c27b4b8819cdd9c72bd3d904516&v=4" width="24" alt="Avatar of neworld"> neworld
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#neworld">Copy rank badge</a><br/>
+			Andrius Semionovas
+		</td>
+		<td>Vinted </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/vitustockholm">
+				<img src="https://avatars.githubusercontent.com/u/83448449?s=72&u=d5904d9076753d756b6ecd6b9c539f5f88df9add&v=4" width="24" alt="Avatar of vitustockholm"> vitustockholm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vitustockholm">Copy rank badge</a><br/>
+			Vitus
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/BryanLTU">
+				<img src="https://avatars.githubusercontent.com/u/60313619?s=72&u=610cd581e24423f646f5f184e892a51a201dff87&v=4" width="24" alt="Avatar of BryanLTU"> BryanLTU
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#BryanLTU">Copy rank badge</a><br/>
+			BryaN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/Aduomas">
+				<img src="https://avatars.githubusercontent.com/u/23258597?s=72&u=d0e72968a30c1bc28ec2824fb96117eee99812c1&v=4" width="24" alt="Avatar of Aduomas"> Aduomas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Aduomas">Copy rank badge</a><br/>
+			Adomas
+		</td>
+		<td>@fieldyai  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/cheloveq">
 				<img src="https://avatars.githubusercontent.com/u/9267891?s=72&u=f62d5e91ede6d76173842977cc3298485e71bddd&v=4" width="24" alt="Avatar of cheloveq"> cheloveq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#cheloveq">Copy rank badge</a><br/>
 			Nikita Patrikejev
 		</td>
 		<td>@tiings </td>
@@ -3979,115 +4215,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>317</td>
 		<td>
-			<a href="https://github.com/lapkritinis">
-				<img src="https://avatars.githubusercontent.com/u/15435393?s=72&v=4" width="24" alt="Avatar of lapkritinis"> lapkritinis
-			</a><br/>
-			Putinas Piliponis
+			<a href="https://github.com/trubnikov">
+				<img src="https://avatars.githubusercontent.com/u/3284553?s=72&u=f41e7e78cc0b9e61588ddb404e6a37e49d74ed57&v=4" width="24" alt="Avatar of trubnikov"> trubnikov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#trubnikov">Copy rank badge</a><br/>
+			Dmitry Trubnikov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/buytenh">
-				<img src="https://avatars.githubusercontent.com/u/701714?s=72&u=ee7d9b0c6dbb84cc1980aed16c848897cb04d718&v=4" width="24" alt="Avatar of buytenh"> buytenh
-			</a><br/>
-			Lennert Buytenhek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Vilnius</td>
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>318</td>
 		<td>
-			<a href="https://github.com/martiis">
-				<img src="https://avatars.githubusercontent.com/u/4210866?s=72&u=1f8529c5cb59e15bfc3d92ecdd26b23560b215fd&v=4" width="24" alt="Avatar of martiis"> martiis
-			</a><br/>
-			Martynas Sudintas
+			<a href="https://github.com/chemicstry">
+				<img src="https://avatars.githubusercontent.com/u/326232?s=72&v=4" width="24" alt="Avatar of chemicstry"> chemicstry
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#chemicstry">Copy rank badge</a><br/>
+			Jurgis
 		</td>
-		<td>Eneba </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>62</td>
+		<td>61</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/PovilasV1">
 				<img src="https://avatars.githubusercontent.com/u/48908420?s=72&u=d61a54e3d5f1bbe8df1b95f19052aca36a9f8d37&v=4" width="24" alt="Avatar of PovilasV1"> PovilasV1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#PovilasV1">Copy rank badge</a><br/>
 			Povilas Vaitkus
 		</td>
 		<td>Hostinger </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>62</td>
+		<td>60</td>
 	</tr>
 	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/andriusm">
-				<img src="https://avatars.githubusercontent.com/u/594679?s=72&u=2230a477726b80e09fb0436dbc46e10f0f102bed&v=4" width="24" alt="Avatar of andriusm"> andriusm
-			</a><br/>
-			Andrius Miasnikovas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/andriusm">andriusm</a></td>
-		<td>Lithuania</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a href="https://github.com/D0vydas">
-				<img src="https://avatars.githubusercontent.com/u/6649425?s=72&u=74a74db3f852aa11781feabe47deb23919cde869&v=4" width="24" alt="Avatar of D0vydas"> D0vydas
-			</a><br/>
-			Dovydas Mikalauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/rmind">
-				<img src="https://avatars.githubusercontent.com/u/3674407?s=72&v=4" width="24" alt="Avatar of rmind"> rmind
-			</a><br/>
-			Mindaugas Rasiukevicius
-		</td>
-		<td>Nox Technologies Ltd </td>
-		<td>No Twitter Username</td>
-		<td>London (UK) / Vilnius (Lithuania)</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/vitustockholm">
-				<img src="https://avatars.githubusercontent.com/u/83448449?s=72&u=d5904d9076753d756b6ecd6b9c539f5f88df9add&v=4" width="24" alt="Avatar of vitustockholm"> vitustockholm
-			</a><br/>
-			Vitus
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>307</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/sausagenoods">
 				<img src="https://avatars.githubusercontent.com/u/84454107?s=72&u=a832d8fb5618a476cbad5c20650b3cc1fd79ecd3&v=4" width="24" alt="Avatar of sausagenoods"> sausagenoods
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sausagenoods">Copy rank badge</a><br/>
 			Irem Kuyucu
 		</td>
 		<td>No Company</td>
@@ -4096,24 +4267,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/argshook">
-				<img src="https://avatars.githubusercontent.com/u/4284659?s=72&u=08413dd2cf218c8610b526f9f295f933e712af40&v=4" width="24" alt="Avatar of argshook"> argshook
-			</a><br/>
-			Arijus Šukys
-		</td>
-		<td>Septima.app </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>309</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/driule">
 				<img src="https://avatars.githubusercontent.com/u/11044916?s=72&u=796e44803945011fafa084bfb242736994731e81&v=4" width="24" alt="Avatar of driule"> driule
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#driule">Copy rank badge</a><br/>
 			Andrius Jaškauskas
 		</td>
 		<td>No Company</td>
@@ -4122,24 +4280,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>322</td>
 		<td>
-			<a href="https://github.com/TheComputerGuy96">
-				<img src="https://avatars.githubusercontent.com/u/19169000?s=72&u=a87e428edec239461cfe695a04f0eb68a0607acf&v=4" width="24" alt="Avatar of TheComputerGuy96"> TheComputerGuy96
-			</a><br/>
-			Echo J.
+			<a href="https://github.com/argshook">
+				<img src="https://avatars.githubusercontent.com/u/4284659?s=72&u=08413dd2cf218c8610b526f9f295f933e712af40&v=4" width="24" alt="Avatar of argshook"> argshook
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#argshook">Copy rank badge</a><br/>
+			Arijus Šukys
 		</td>
-		<td>@xda </td>
-		<td><a href="https://twitter.com/DodoGTAPie">DodoGTAPie</a></td>
-		<td>Lithuania</td>
+		<td>Septima.app </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/edgarasben">
 				<img src="https://avatars.githubusercontent.com/u/725324?s=72&u=0a05ae5984f11a25ac74a59879f133525809b2ca&v=4" width="24" alt="Avatar of edgarasben"> edgarasben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#edgarasben">Copy rank badge</a><br/>
 			Edgaras Benediktavicius
 		</td>
 		<td>No Company</td>
@@ -4148,24 +4306,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>324</td>
 		<td>
-			<a href="https://github.com/qgindi">
-				<img src="https://avatars.githubusercontent.com/u/15153357?s=72&v=4" width="24" alt="Avatar of qgindi"> qgindi
-			</a><br/>
-			qgindi
+			<a href="https://github.com/buinauskas">
+				<img src="https://avatars.githubusercontent.com/u/7301441?s=72&u=6a1b2908ab5cdd793474d1c63ef0cb6012839cc0&v=4" width="24" alt="Avatar of buinauskas"> buinauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#buinauskas">Copy rank badge</a><br/>
+			Evaldas Buinauskas
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>56</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/buinauskas">buinauskas</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>57</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/Midunas">
 				<img src="https://avatars.githubusercontent.com/u/104984594?s=72&u=f9ed0c73edae3e577124ce13edbee6e4c9d33eb4&v=4" width="24" alt="Avatar of Midunas"> Midunas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Midunas">Copy rank badge</a><br/>
 			Mykolas Vidunas
 		</td>
 		<td>No Company</td>
@@ -4174,24 +4332,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>326</td>
 		<td>
-			<a href="https://github.com/RokasMarcinkevicius">
-				<img src="https://avatars.githubusercontent.com/u/35724303?s=72&u=3ed6da7e2b3ee095a998ca55489b898eea286231&v=4" width="24" alt="Avatar of RokasMarcinkevicius"> RokasMarcinkevicius
-			</a><br/>
-			Rokas Marcinkevicius
+			<a href="https://github.com/TheComputerGuy96">
+				<img src="https://avatars.githubusercontent.com/u/19169000?s=72&u=a87e428edec239461cfe695a04f0eb68a0607acf&v=4" width="24" alt="Avatar of TheComputerGuy96"> TheComputerGuy96
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TheComputerGuy96">Copy rank badge</a><br/>
+			Echo J.
 		</td>
-		<td>Tickmill </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>56</td>
+		<td>@xda </td>
+		<td><a href="https://twitter.com/DodoGTAPie">DodoGTAPie</a></td>
+		<td>Lithuania</td>
+		<td>55</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/aidiss">
 				<img src="https://avatars.githubusercontent.com/u/5175311?s=72&v=4" width="24" alt="Avatar of aidiss"> aidiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aidiss">Copy rank badge</a><br/>
 			Aidis Stukas
 		</td>
 		<td>Sixads </td>
@@ -4200,63 +4358,89 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>328</td>
 		<td>
-			<a href="https://github.com/saimaz">
-				<img src="https://avatars.githubusercontent.com/u/115824?s=72&u=9c019333cee3cc65c93908a407cfb300925c22b8&v=4" width="24" alt="Avatar of saimaz"> saimaz
-			</a><br/>
-			Simonas Šerlinskas
+			<a href="https://github.com/sergeykolosov">
+				<img src="https://avatars.githubusercontent.com/u/195126?s=72&u=971a076b4be43201a3a5e54134ed2224b41d26d7&v=4" width="24" alt="Avatar of sergeykolosov"> sergeykolosov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sergeykolosov">Copy rank badge</a><br/>
+			Sergey Kolosov
+		</td>
+		<td>Wargaming.net </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/Varnius">
+				<img src="https://avatars.githubusercontent.com/u/1571003?s=72&u=87c76a708024d6b9cc6116defaf5d737df49c4fd&v=4" width="24" alt="Avatar of Varnius"> Varnius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Varnius">Copy rank badge</a><br/>
+			Simonas Pauliukevičius
+		</td>
+		<td>Argyle </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/MariusDevelops">
+				<img src="https://avatars.githubusercontent.com/u/89148793?s=72&u=9e8c13c533e70c1fb16c7a5f68e829a9bb6da861&v=4" width="24" alt="Avatar of MariusDevelops"> MariusDevelops
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MariusDevelops">Copy rank badge</a><br/>
+			Marius Bražas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>53</td>
+		<td>Lithuania</td>
+		<td>54</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/mantaskaveckas">
 				<img src="https://avatars.githubusercontent.com/u/4650765?s=72&u=be025242f65651f4f3a062d92a8026fc904b36f2&v=4" width="24" alt="Avatar of mantaskaveckas"> mantaskaveckas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mantaskaveckas">Copy rank badge</a><br/>
 			Mantas Kaveckas
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kaveckas">kaveckas</a></td>
 		<td>Kaunas, Lithuania</td>
-		<td>53</td>
+		<td>54</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>332</td>
 		<td>
-			<a href="https://github.com/vzurauskas">
-				<img src="https://avatars.githubusercontent.com/u/18754033?s=72&u=df8108758a5180f6022edf3382079bb13146d323&v=4" width="24" alt="Avatar of vzurauskas"> vzurauskas
-			</a><br/>
-			No Name
+			<a href="https://github.com/m-khvoinitsky">
+				<img src="https://avatars.githubusercontent.com/u/16675892?s=72&u=7f513b9de3305adcacd464b3aef50e5e9e7a3bdf&v=4" width="24" alt="Avatar of m-khvoinitsky"> m-khvoinitsky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#m-khvoinitsky">Copy rank badge</a><br/>
+			Mikhail Khvoinitsky
+		</td>
+		<td>Wargaming.net </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/eugenn">
+				<img src="https://avatars.githubusercontent.com/u/170566?s=72&v=4" width="24" alt="Avatar of eugenn"> eugenn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eugenn">Copy rank badge</a><br/>
+			eugenn
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>53</td>
+		<td>Vilnius</td>
+		<td>52</td>
 	</tr>
 	<tr>
-		<td>319</td>
-		<td>
-			<a href="https://github.com/valentk777">
-				<img src="https://avatars.githubusercontent.com/u/31697821?s=72&u=ff2b6257c4afb64edabb1f5145ce57e1002eff1f&v=4" width="24" alt="Avatar of valentk777"> valentk777
-			</a><br/>
-			Valentinas Kaminskas
-		</td>
-		<td>Baitu Pasaulis, Mb </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>320</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/lugovsky">
 				<img src="https://avatars.githubusercontent.com/u/2788046?s=72&u=b54887ba653ae840ff22d65350bf5fb2bb6e7049&v=4" width="24" alt="Avatar of lugovsky"> lugovsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lugovsky">Copy rank badge</a><br/>
 			Vladimir Lugovsky
 		</td>
 		<td>Ui Bakery </td>
@@ -4265,25 +4449,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>335</td>
 		<td>
-			<a href="https://github.com/buinauskas">
-				<img src="https://avatars.githubusercontent.com/u/7301441?s=72&u=6a1b2908ab5cdd793474d1c63ef0cb6012839cc0&v=4" width="24" alt="Avatar of buinauskas"> buinauskas
-			</a><br/>
-			Evaldas Buinauskas
-		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/buinauskas">buinauskas</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/MaRokas2005">
-				<img src="https://avatars.githubusercontent.com/u/76654333?s=72&v=4" width="24" alt="Avatar of MaRokas2005"> MaRokas2005
-			</a><br/>
-			Rokas Braidokas
+			<a href="https://github.com/justinnas">
+				<img src="https://avatars.githubusercontent.com/u/156369263?s=72&u=eb790cb880b31f318696d8b417c303db39797fee&v=4" width="24" alt="Avatar of justinnas"> justinnas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justinnas">Copy rank badge</a><br/>
+			Justinas Teselis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4291,24 +4462,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/Aduomas">
-				<img src="https://avatars.githubusercontent.com/u/23258597?s=72&u=d0e72968a30c1bc28ec2824fb96117eee99812c1&v=4" width="24" alt="Avatar of Aduomas"> Aduomas
-			</a><br/>
-			Adomas
-		</td>
-		<td>@fieldyai  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>324</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/gn1e">
 				<img src="https://avatars.githubusercontent.com/u/88284830?s=72&u=bf5a04b6e97cb8f7a115cc433b04e413793f53c5&v=4" width="24" alt="Avatar of gn1e"> gn1e
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gn1e">Copy rank badge</a><br/>
 			nade
 		</td>
 		<td>No Company</td>
@@ -4317,24 +4475,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/justinnas">
-				<img src="https://avatars.githubusercontent.com/u/156369263?s=72&u=eb790cb880b31f318696d8b417c303db39797fee&v=4" width="24" alt="Avatar of justinnas"> justinnas
-			</a><br/>
-			Justinas Teselis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>326</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Arnasne">
 				<img src="https://avatars.githubusercontent.com/u/72889626?s=72&u=2a9cf2dc33afa79aa8d6c256066ef28c0595d20c&v=4" width="24" alt="Avatar of Arnasne"> Arnasne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Arnasne">Copy rank badge</a><br/>
 			Arnas
 		</td>
 		<td>No Company</td>
@@ -4343,154 +4488,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>338</td>
 		<td>
-			<a href="https://github.com/rutaitp">
-				<img src="https://avatars.githubusercontent.com/u/14117379?s=72&u=7c674bfca49e7007bd93ffca652a0b4f71ace52a&v=4" width="24" alt="Avatar of rutaitp"> rutaitp
-			</a><br/>
-			Ruta Kruliauskaite
-		</td>
-		<td>Https://itp.nyu.edu/ </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius | NYC</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/ravenwits">
-				<img src="https://avatars.githubusercontent.com/u/63670898?s=72&u=ead24a0137d7e9bd35be1bf671e0ba5e8a746ba3&v=4" width="24" alt="Avatar of ravenwits"> ravenwits
-			</a><br/>
-			Alp Sarıyer
-		</td>
-		<td>@dannie-cc  </td>
-		<td><a href="https://twitter.com/alpsariyer">alpsariyer</a></td>
-		<td>Vilnius</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/muzaffartaghiyev">
-				<img src="https://avatars.githubusercontent.com/u/75939608?s=72&u=f1a94dc2e33c3aa5cd5293faebe808caf229e797&v=4" width="24" alt="Avatar of muzaffartaghiyev"> muzaffartaghiyev
-			</a><br/>
-			Muzaffar
+			<a href="https://github.com/tautiz">
+				<img src="https://avatars.githubusercontent.com/u/807294?s=72&v=4" width="24" alt="Avatar of tautiz"> tautiz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tautiz">Copy rank badge</a><br/>
+			Tautvydas Dulskis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius,Lithuania</td>
+		<td>Kaunas</td>
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>339</td>
 		<td>
-			<a href="https://github.com/IvanSanczewski">
-				<img src="https://avatars.githubusercontent.com/u/84993263?s=72&u=547e7da95415e1981e9d4968be4892b8e3164a5c&v=4" width="24" alt="Avatar of IvanSanczewski"> IvanSanczewski
-			</a><br/>
-			No Name
+			<a href="https://github.com/HeeeyNathan">
+				<img src="https://avatars.githubusercontent.com/u/73291427?s=72&u=5cb4dc7987507a31c42392722dc9ed5e6c410ba9&v=4" width="24" alt="Avatar of HeeeyNathan"> HeeeyNathan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#HeeeyNathan">Copy rank badge</a><br/>
+			Nathan Jay Baker
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/fosron">
-				<img src="https://avatars.githubusercontent.com/u/3708631?s=72&u=061704b071dcfa6de1a5fa4656b8e09cd725e034&v=4" width="24" alt="Avatar of fosron"> fosron
-			</a><br/>
-			Tautvydas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fosron">fosron</a></td>
-		<td>Klaipeda, Lithuania</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/sergeykolosov">
-				<img src="https://avatars.githubusercontent.com/u/195126?s=72&u=971a076b4be43201a3a5e54134ed2224b41d26d7&v=4" width="24" alt="Avatar of sergeykolosov"> sergeykolosov
-			</a><br/>
-			Sergey Kolosov
-		</td>
-		<td>Wargaming.net </td>
+		<td>State Scientific Research Institute<br/>Nature<br/>Research<br/>Centre<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>48</td>
+		<td>49</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>340</td>
 		<td>
-			<a href="https://github.com/xHeptc">
-				<img src="https://avatars.githubusercontent.com/u/67541675?s=72&u=a71dcfc8d95e76c98bb09fa0c8ef844402c1ed6b&v=4" width="24" alt="Avatar of xHeptc"> xHeptc
-			</a><br/>
-			Mantas
+			<a href="https://github.com/MantasTech">
+				<img src="https://avatars.githubusercontent.com/u/140325092?s=72&u=2297ca447d010baee363b4f80ae5ce804c2c4163&v=4" width="24" alt="Avatar of MantasTech"> MantasTech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MantasTech">Copy rank badge</a><br/>
+			Mantas Siukstas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>48</td>
+		<td>Vilnius, Lithuania</td>
+		<td>49</td>
 	</tr>
 	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/Lukse">
-				<img src="https://avatars.githubusercontent.com/u/1157271?s=72&u=5436270ac9f5fbb5bc56dd8f8fef8eebe1bb3521&v=4" width="24" alt="Avatar of Lukse"> Lukse
-			</a><br/>
-			Saulius Lukse
-		</td>
-		<td>Kurokesu </td>
-		<td><a href="https://twitter.com/kurokesu">kurokesu</a></td>
-		<td>Vilnius</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/jvitkauskas">
-				<img src="https://avatars.githubusercontent.com/u/9928675?s=72&u=5aea0853a610e0c73864cfb055796e2280e06242&v=4" width="24" alt="Avatar of jvitkauskas"> jvitkauskas
-			</a><br/>
-			Julius Vitkauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/BryanLTU">
-				<img src="https://avatars.githubusercontent.com/u/60313619?s=72&u=610cd581e24423f646f5f184e892a51a201dff87&v=4" width="24" alt="Avatar of BryanLTU"> BryanLTU
-			</a><br/>
-			BryaN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>337</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/LaravelDaily">
 				<img src="https://avatars.githubusercontent.com/u/15341846?s=72&u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4" width="24" alt="Avatar of LaravelDaily"> LaravelDaily
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#LaravelDaily">Copy rank badge</a><br/>
 			Laravel Daily
 		</td>
 		<td>Laravel Daily </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania / London, UK</td>
-		<td>46</td>
+		<td>48</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/ravenwits">
+				<img src="https://avatars.githubusercontent.com/u/63670898?s=72&u=ead24a0137d7e9bd35be1bf671e0ba5e8a746ba3&v=4" width="24" alt="Avatar of ravenwits"> ravenwits
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ravenwits">Copy rank badge</a><br/>
+			Alp Sarıyer
+		</td>
+		<td>@dannie-cc  </td>
+		<td><a href="https://twitter.com/alpsariyer">alpsariyer</a></td>
+		<td>Vilnius</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/martiis">
+				<img src="https://avatars.githubusercontent.com/u/4210866?s=72&u=1f8529c5cb59e15bfc3d92ecdd26b23560b215fd&v=4" width="24" alt="Avatar of martiis"> martiis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#martiis">Copy rank badge</a><br/>
+			Martynas Sudintas
+		</td>
+		<td>Eneba </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/martynaskadisa">
+				<img src="https://avatars.githubusercontent.com/u/8273932?s=72&u=5a35c8e2ed172bf5a3735400f675c927543190f8&v=4" width="24" alt="Avatar of martynaskadisa"> martynaskadisa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#martynaskadisa">Copy rank badge</a><br/>
+			Martynas Kadiša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/alexantr">
 				<img src="https://avatars.githubusercontent.com/u/4941848?s=72&u=fdd2ff2f789daf0812db899d5541cf56a2527dc6&v=4" width="24" alt="Avatar of alexantr"> alexantr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#alexantr">Copy rank badge</a><br/>
 			Alex Yashkin
 		</td>
 		<td>No Company</td>
@@ -4499,12 +4592,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>346</td>
 		<td>
-			<a href="https://github.com/MariusDevelops">
-				<img src="https://avatars.githubusercontent.com/u/89148793?s=72&u=9e8c13c533e70c1fb16c7a5f68e829a9bb6da861&v=4" width="24" alt="Avatar of MariusDevelops"> MariusDevelops
-			</a><br/>
-			Marius Bražas
+			<a href="https://github.com/arturaspiksrys">
+				<img src="https://avatars.githubusercontent.com/u/6106121?s=72&v=4" width="24" alt="Avatar of arturaspiksrys"> arturaspiksrys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arturaspiksrys">Copy rank badge</a><br/>
+			Artūras Pikšrys
+		</td>
+		<td>Wise Monks </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/maxqwerty">
+				<img src="https://avatars.githubusercontent.com/u/4933297?s=72&u=3d4d4e0798877f723dedffa97aa0954ad01a11c9&v=4" width="24" alt="Avatar of maxqwerty"> maxqwerty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#maxqwerty">Copy rank badge</a><br/>
+			Maxim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4512,37 +4618,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/lukassup">
-				<img src="https://avatars.githubusercontent.com/u/7907507?s=72&u=cc05ecc9b16eebb40d74ce5e37147a83a48de91e&v=4" width="24" alt="Avatar of lukassup"> lukassup
-			</a><br/>
-			Lukas Šupienis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/Rencikas">
-				<img src="https://avatars.githubusercontent.com/u/85559163?s=72&u=cdf300a880af3cdf2344dae66b70832b89ba5159&v=4" width="24" alt="Avatar of Rencikas"> Rencikas
-			</a><br/>
-			Kristijonas Bukavickas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Klaipėda, Lithuania</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>342</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/tomasbaublys">
 				<img src="https://avatars.githubusercontent.com/u/26656528?s=72&u=342cec75cebcf5620f6450a045aa544ee2fafce9&v=4" width="24" alt="Avatar of tomasbaublys"> tomasbaublys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasbaublys">Copy rank badge</a><br/>
 			Tomas Baublys
 		</td>
 		<td>No Company</td>
@@ -4551,63 +4631,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>349</td>
 		<td>
-			<a href="https://github.com/Varnius">
-				<img src="https://avatars.githubusercontent.com/u/1571003?s=72&u=87c76a708024d6b9cc6116defaf5d737df49c4fd&v=4" width="24" alt="Avatar of Varnius"> Varnius
-			</a><br/>
-			Simonas Pauliukevičius
+			<a href="https://github.com/Zaharenko">
+				<img src="https://avatars.githubusercontent.com/u/18302642?s=72&u=47288adc5234e5210339f3b0845c339f238e2844&v=4" width="24" alt="Avatar of Zaharenko"> Zaharenko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Zaharenko">Copy rank badge</a><br/>
+			Anton Zakharenka
 		</td>
-		<td>Argyle </td>
+		<td>Hyand </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>350</td>
 		<td>
-			<a href="https://github.com/kursatkomurcu">
-				<img src="https://avatars.githubusercontent.com/u/58462845?s=72&v=4" width="24" alt="Avatar of kursatkomurcu"> kursatkomurcu
-			</a><br/>
-			Kürşat Kömürcü
+			<a href="https://github.com/oxyo">
+				<img src="https://avatars.githubusercontent.com/u/304258?s=72&v=4" width="24" alt="Avatar of oxyo"> oxyo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#oxyo">Copy rank badge</a><br/>
+			oxyo
 		</td>
-		<td>No Company</td>
+		<td>Sharing Space </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/ralekna">
-				<img src="https://avatars.githubusercontent.com/u/142561?s=72&u=a11940b37d5fac79e1ad9b97ae0d4046e5e7ed73&v=4" width="24" alt="Avatar of ralekna"> ralekna
-			</a><br/>
-			Rytis Alekna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/mikhalenia">
-				<img src="https://avatars.githubusercontent.com/u/5015319?s=72&u=5aac1e8b9bc40ca7a3128c5358cfd97c7f964b9e&v=4" width="24" alt="Avatar of mikhalenia"> mikhalenia
-			</a><br/>
-			Andrei Mikhalenia
-		</td>
-		<td>@primegraph  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>347</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/justrau">
 				<img src="https://avatars.githubusercontent.com/u/10882793?s=72&v=4" width="24" alt="Avatar of justrau"> justrau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justrau">Copy rank badge</a><br/>
 			Justas Raudonius
 		</td>
 		<td>No Company</td>
@@ -4616,77 +4670,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/alevinru">
-				<img src="https://avatars.githubusercontent.com/u/834503?s=72&v=4" width="24" alt="Avatar of alevinru"> alevinru
-			</a><br/>
-			Alexander Levin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/zmedelis">
-				<img src="https://avatars.githubusercontent.com/u/171114?s=72&u=44f04c2c7df85558211f1d27ef4d6b44056e8f48&v=4" width="24" alt="Avatar of zmedelis"> zmedelis
-			</a><br/>
-			Žygimantas Medelis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zzgmm">zzgmm</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>350</td>
-		<td>
-			<a href="https://github.com/KarolisL">
-				<img src="https://avatars.githubusercontent.com/u/571022?s=72&u=4c688190feaa6a6731190485ea0e956a7e195973&v=4" width="24" alt="Avatar of KarolisL"> KarolisL
-			</a><br/>
-			Karolis Labrencis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/bloodwiing">
-				<img src="https://avatars.githubusercontent.com/u/13348029?s=72&u=bc906d91f5afa11be6bbf66724a4da0ecb828c6e&v=4" width="24" alt="Avatar of bloodwiing"> bloodwiing
-			</a><br/>
-			Donatas Kirda
-		</td>
-		<td>Alchemix </td>
-		<td><a href="https://twitter.com/BloodWiing">BloodWiing</a></td>
-		<td>Lithuania</td>
-		<td>44</td>
-	</tr>
-	<tr>
 		<td>352</td>
 		<td>
-			<a href="https://github.com/yasns">
-				<img src="https://avatars.githubusercontent.com/u/65157131?s=72&u=5760a1715c0bcde16fd6b7d72cbc5f1ea1832a77&v=4" width="24" alt="Avatar of yasns"> yasns
-			</a><br/>
-			Matas
+			<a href="https://github.com/DarkaOnLine">
+				<img src="https://avatars.githubusercontent.com/u/1171698?s=72&u=5c204690e8063e73db1c9e6a80a681cf902932a8&v=4" width="24" alt="Avatar of DarkaOnLine"> DarkaOnLine
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#DarkaOnLine">Copy rank badge</a><br/>
+			Darius Matulionis
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Supermetrics </td>
+		<td><a href="https://twitter.com/DarkaOnLine">DarkaOnLine</a></td>
+		<td>Lithuania</td>
 		<td>44</td>
 	</tr>
 	<tr>
 		<td>353</td>
 		<td>
-			<a href="https://github.com/verrchu">
-				<img src="https://avatars.githubusercontent.com/u/24650632?s=72&u=7e9809d9c7fe1902abf55b1c15cec8f3ee34b8b7&v=4" width="24" alt="Avatar of verrchu"> verrchu
-			</a><br/>
-			Evgeniy Terekhin
+			<a href="https://github.com/ybouyzem">
+				<img src="https://avatars.githubusercontent.com/u/116689152?s=72&u=a05e359b14c4a9fed4aa8c254102af8ff6505038&v=4" width="24" alt="Avatar of ybouyzem"> ybouyzem
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ybouyzem">Copy rank badge</a><br/>
+			younes bouyzem
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4696,9 +4698,74 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>354</td>
 		<td>
+			<a href="https://github.com/benetis">
+				<img src="https://avatars.githubusercontent.com/u/4209937?s=72&u=5f52da8c27b24ee02cad9d75ab1f3710e792c976&v=4" width="24" alt="Avatar of benetis"> benetis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#benetis">Copy rank badge</a><br/>
+			benetis
+		</td>
+		<td>@vinted </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/kape1395">
+				<img src="https://avatars.githubusercontent.com/u/442726?s=72&v=4" width="24" alt="Avatar of kape1395"> kape1395
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kape1395">Copy rank badge</a><br/>
+			Karolis Petrauskas
+		</td>
+		<td>@erisata </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/lukassup">
+				<img src="https://avatars.githubusercontent.com/u/7907507?s=72&u=cc05ecc9b16eebb40d74ce5e37147a83a48de91e&v=4" width="24" alt="Avatar of lukassup"> lukassup
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukassup">Copy rank badge</a><br/>
+			Lukas Šupienis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/verrchu">
+				<img src="https://avatars.githubusercontent.com/u/24650632?s=72&u=7e9809d9c7fe1902abf55b1c15cec8f3ee34b8b7&v=4" width="24" alt="Avatar of verrchu"> verrchu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#verrchu">Copy rank badge</a><br/>
+			Evgeniy Terekhin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/Lukse">
+				<img src="https://avatars.githubusercontent.com/u/1157271?s=72&u=5436270ac9f5fbb5bc56dd8f8fef8eebe1bb3521&v=4" width="24" alt="Avatar of Lukse"> Lukse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Lukse">Copy rank badge</a><br/>
+			Saulius Lukse
+		</td>
+		<td>Kurokesu </td>
+		<td><a href="https://twitter.com/kurokesu">kurokesu</a></td>
+		<td>Vilnius</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
 			<a href="https://github.com/simonasr">
 				<img src="https://avatars.githubusercontent.com/u/7496885?s=72&u=c452afde1be50bcb392a7da0b8ee7b6e47b2e84a&v=4" width="24" alt="Avatar of simonasr"> simonasr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#simonasr">Copy rank badge</a><br/>
 			Simonas Rupšys
 		</td>
 		<td>@vinted  </td>
@@ -4707,89 +4774,102 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>360</td>
 		<td>
-			<a href="https://github.com/arturaspiksrys">
-				<img src="https://avatars.githubusercontent.com/u/6106121?s=72&v=4" width="24" alt="Avatar of arturaspiksrys"> arturaspiksrys
-			</a><br/>
-			Artūras Pikšrys
+			<a href="https://github.com/huseinliali">
+				<img src="https://avatars.githubusercontent.com/u/99591534?s=72&v=4" width="24" alt="Avatar of huseinliali"> huseinliali
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#huseinliali">Copy rank badge</a><br/>
+			Ali Huseynli
 		</td>
-		<td>Wise Monks </td>
+		<td>Vilnius Gediminas Technical University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>43</td>
+		<td>42</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>361</td>
 		<td>
-			<a href="https://github.com/DarkaOnLine">
-				<img src="https://avatars.githubusercontent.com/u/1171698?s=72&u=5c204690e8063e73db1c9e6a80a681cf902932a8&v=4" width="24" alt="Avatar of DarkaOnLine"> DarkaOnLine
-			</a><br/>
-			Darius Matulionis
+			<a href="https://github.com/muzaffartaghiyev">
+				<img src="https://avatars.githubusercontent.com/u/75939608?s=72&u=f1a94dc2e33c3aa5cd5293faebe808caf229e797&v=4" width="24" alt="Avatar of muzaffartaghiyev"> muzaffartaghiyev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#muzaffartaghiyev">Copy rank badge</a><br/>
+			Muzaffar
 		</td>
-		<td>Supermetrics </td>
-		<td><a href="https://twitter.com/DarkaOnLine">DarkaOnLine</a></td>
-		<td>Lithuania</td>
-		<td>41</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius,Lithuania</td>
+		<td>42</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>362</td>
 		<td>
-			<a href="https://github.com/ailon">
-				<img src="https://avatars.githubusercontent.com/u/179076?s=72&u=b1415b951600daeef9efda9c55cabf4310a7785e&v=4" width="24" alt="Avatar of ailon"> ailon
-			</a><br/>
-			Alan Mendelevich
+			<a href="https://github.com/vzurauskas">
+				<img src="https://avatars.githubusercontent.com/u/18754033?s=72&u=df8108758a5180f6022edf3382079bb13146d323&v=4" width="24" alt="Avatar of vzurauskas"> vzurauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vzurauskas">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>41</td>
+		<td>42</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>363</td>
 		<td>
-			<a href="https://github.com/oxyo">
-				<img src="https://avatars.githubusercontent.com/u/304258?s=72&v=4" width="24" alt="Avatar of oxyo"> oxyo
-			</a><br/>
-			oxyo
+			<a href="https://github.com/IvanSanczewski">
+				<img src="https://avatars.githubusercontent.com/u/84993263?s=72&u=547e7da95415e1981e9d4968be4892b8e3164a5c&v=4" width="24" alt="Avatar of IvanSanczewski"> IvanSanczewski
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#IvanSanczewski">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>Sharing Space </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/KarolisL">
+				<img src="https://avatars.githubusercontent.com/u/571022?s=72&u=4c688190feaa6a6731190485ea0e956a7e195973&v=4" width="24" alt="Avatar of KarolisL"> KarolisL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#KarolisL">Copy rank badge</a><br/>
+			Karolis Labrencis
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>365</td>
 		<td>
-			<a href="https://github.com/Andrukas8">
-				<img src="https://avatars.githubusercontent.com/u/21954163?s=72&u=c0d2592ab5eaa773c106ac1270311d0fc48b5a14&v=4" width="24" alt="Avatar of Andrukas8"> Andrukas8
-			</a><br/>
-			Andriy Rukas
+			<a href="https://github.com/martynasIN">
+				<img src="https://avatars.githubusercontent.com/u/55193875?s=72&u=346190dae5fb97f2d08ea3d37b0862b39b20bc52&v=4" width="24" alt="Avatar of martynasIN"> martynasIN
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#martynasIN">Copy rank badge</a><br/>
+			Martynas Kaselionis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Kaunas</td>
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>366</td>
 		<td>
-			<a href="https://github.com/benetis">
-				<img src="https://avatars.githubusercontent.com/u/4209937?s=72&u=5f52da8c27b24ee02cad9d75ab1f3710e792c976&v=4" width="24" alt="Avatar of benetis"> benetis
-			</a><br/>
-			benetis
+			<a href="https://github.com/saimaz">
+				<img src="https://avatars.githubusercontent.com/u/115824?s=72&u=9c019333cee3cc65c93908a407cfb300925c22b8&v=4" width="24" alt="Avatar of saimaz"> saimaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#saimaz">Copy rank badge</a><br/>
+			Simonas Šerlinskas
 		</td>
-		<td>@vinted </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Kaunas, Lithuania</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/erstec">
 				<img src="https://avatars.githubusercontent.com/u/4658853?s=72&u=b6038330f97dc0b9422df36e2ffc904ce278a3bf&v=4" width="24" alt="Avatar of erstec"> erstec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#erstec">Copy rank badge</a><br/>
 			Ernest
 		</td>
 		<td>No Company</td>
@@ -4798,11 +4878,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/kursatkomurcu">
+				<img src="https://avatars.githubusercontent.com/u/58462845?s=72&v=4" width="24" alt="Avatar of kursatkomurcu"> kursatkomurcu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kursatkomurcu">Copy rank badge</a><br/>
+			Kürşat Kömürcü
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/mftorres">
 				<img src="https://avatars.githubusercontent.com/u/9265523?s=72&u=fb0ccbd1389c49327e991fc965fab98083e531cd&v=4" width="24" alt="Avatar of mftorres"> mftorres
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mftorres">Copy rank badge</a><br/>
 			MFTorresJ
 		</td>
 		<td>No Company</td>
@@ -4811,37 +4904,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>370</td>
 		<td>
-			<a href="https://github.com/martynasIN">
-				<img src="https://avatars.githubusercontent.com/u/55193875?s=72&u=346190dae5fb97f2d08ea3d37b0862b39b20bc52&v=4" width="24" alt="Avatar of martynasIN"> martynasIN
-			</a><br/>
-			Martynas Kaselionis
+			<a href="https://github.com/astridaaa">
+				<img src="https://avatars.githubusercontent.com/u/162911132?s=72&v=4" width="24" alt="Avatar of astridaaa"> astridaaa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#astridaaa">Copy rank badge</a><br/>
+			Astrida Jablonskytė
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas</td>
+		<td>Vilnius, Lithuania</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>371</td>
 		<td>
-			<a href="https://github.com/maxqwerty">
-				<img src="https://avatars.githubusercontent.com/u/4933297?s=72&u=3d4d4e0798877f723dedffa97aa0954ad01a11c9&v=4" width="24" alt="Avatar of maxqwerty"> maxqwerty
-			</a><br/>
-			Maxim
+			<a href="https://github.com/Rencikas">
+				<img src="https://avatars.githubusercontent.com/u/85559163?s=72&u=cdf300a880af3cdf2344dae66b70832b89ba5159&v=4" width="24" alt="Avatar of Rencikas"> Rencikas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Rencikas">Copy rank badge</a><br/>
+			Kristijonas Bukavickas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>40</td>
+		<td>Klaipėda, Lithuania</td>
+		<td>39</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/ellisv">
+				<img src="https://avatars.githubusercontent.com/u/3896844?s=72&v=4" width="24" alt="Avatar of ellisv"> ellisv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ellisv">Copy rank badge</a><br/>
+			Eligijus Vitkauskas
+		</td>
+		<td>@carvertical </td>
+		<td><a href="https://twitter.com/eligijusv">eligijusv</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/klepto">
 				<img src="https://avatars.githubusercontent.com/u/8020282?s=72&u=7392eb8a1ee7dc2d930eb15e4df9230e72d0745c&v=4" width="24" alt="Avatar of klepto"> klepto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#klepto">Copy rank badge</a><br/>
 			Augustinas R.
 		</td>
 		<td>Hlwgroup </td>
@@ -4850,50 +4956,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>374</td>
 		<td>
-			<a href="https://github.com/IdkGoodName">
-				<img src="https://avatars.githubusercontent.com/u/31628630?s=72&u=cb5b5e90d89e2a854922704a5eabe057164e8d09&v=4" width="24" alt="Avatar of IdkGoodName"> IdkGoodName
-			</a><br/>
-			PrettyGoodName
+			<a href="https://github.com/Scarab911">
+				<img src="https://avatars.githubusercontent.com/u/82829469?s=72&u=003d95e27013f211c880d86be30afa15485800d6&v=4" width="24" alt="Avatar of Scarab911"> Scarab911
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Scarab911">Copy rank badge</a><br/>
+			Paulius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Europe</td>
-		<td>38</td>
+		<td>Vilnius</td>
+		<td>39</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>375</td>
 		<td>
-			<a href="https://github.com/vibenas">
-				<img src="https://avatars.githubusercontent.com/u/85502124?s=72&u=a804467e30e589b004ff51a71fd30e5434851922&v=4" width="24" alt="Avatar of vibenas"> vibenas
-			</a><br/>
-			Vilius Benetis
+			<a href="https://github.com/denisix">
+				<img src="https://avatars.githubusercontent.com/u/28725839?s=72&u=891692acb82a69473a37e1e8d3bd59c410f9ea56&v=4" width="24" alt="Avatar of denisix"> denisix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#denisix">Copy rank badge</a><br/>
+			Den
 		</td>
-		<td>Nrd Cyber Security </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/laurynas">
-				<img src="https://avatars.githubusercontent.com/u/130315?s=72&v=4" width="24" alt="Avatar of laurynas"> laurynas
-			</a><br/>
-			Laurynas Butkus
-		</td>
-		<td>No Company</td>
+		<td>Dcxv </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
-		<td>37</td>
+		<td>39</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/M0diis">
+				<img src="https://avatars.githubusercontent.com/u/53468997?s=72&u=4554258b3fb2c00662fc08519d27031b2c26677f&v=4" width="24" alt="Avatar of M0diis"> M0diis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#M0diis">Copy rank badge</a><br/>
+			M0dii
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/tadaskay">
 				<img src="https://avatars.githubusercontent.com/u/4745368?s=72&u=14f8c0b38d0a307f34d4e37454245dbf4f589dd7&v=4" width="24" alt="Avatar of tadaskay"> tadaskay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tadaskay">Copy rank badge</a><br/>
 			Tadas Krivickas
 		</td>
 		<td>No Company</td>
@@ -4902,24 +5008,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>378</td>
 		<td>
-			<a href="https://github.com/ellisv">
-				<img src="https://avatars.githubusercontent.com/u/3896844?s=72&v=4" width="24" alt="Avatar of ellisv"> ellisv
-			</a><br/>
-			Eligijus Vitkauskas
+			<a href="https://github.com/GedasGa">
+				<img src="https://avatars.githubusercontent.com/u/18717889?s=72&u=406e11e22b0f3c058ef596c5f5d784e5c839fc92&v=4" width="24" alt="Avatar of GedasGa"> GedasGa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GedasGa">Copy rank badge</a><br/>
+			Gedas Gardauskas
 		</td>
-		<td>@carvertical </td>
-		<td><a href="https://twitter.com/eligijusv">eligijusv</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/solidassassin">
 				<img src="https://avatars.githubusercontent.com/u/47082246?s=72&u=560e97b3456c2a38bbeafb901861fc0b91ccfc89&v=4" width="24" alt="Avatar of solidassassin"> solidassassin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#solidassassin">Copy rank badge</a><br/>
 			Rokas Krivaitis
 		</td>
 		<td>Mediatech </td>
@@ -4928,63 +5034,63 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/ybouyzem">
-				<img src="https://avatars.githubusercontent.com/u/116689152?s=72&u=a05e359b14c4a9fed4aa8c254102af8ff6505038&v=4" width="24" alt="Avatar of ybouyzem"> ybouyzem
-			</a><br/>
-			younes bouyzem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/denisix">
-				<img src="https://avatars.githubusercontent.com/u/28725839?s=72&u=891692acb82a69473a37e1e8d3bd59c410f9ea56&v=4" width="24" alt="Avatar of denisix"> denisix
-			</a><br/>
-			Den
-		</td>
-		<td>Dcxv </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>374</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/jarutis">
 				<img src="https://avatars.githubusercontent.com/u/3201415?s=72&v=4" width="24" alt="Avatar of jarutis"> jarutis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jarutis">Copy rank badge</a><br/>
 			Jonas Jarutis
 		</td>
 		<td>Carvertical </td>
 		<td><a href="https://twitter.com/jjarutis">jjarutis</a></td>
 		<td>Vilnius</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/vibenas">
+				<img src="https://avatars.githubusercontent.com/u/85502124?s=72&u=a804467e30e589b004ff51a71fd30e5434851922&v=4" width="24" alt="Avatar of vibenas"> vibenas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vibenas">Copy rank badge</a><br/>
+			Vilius Benetis
+		</td>
+		<td>Nrd Cyber Security </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>382</td>
 		<td>
-			<a href="https://github.com/HeeeyNathan">
-				<img src="https://avatars.githubusercontent.com/u/73291427?s=72&u=5cb4dc7987507a31c42392722dc9ed5e6c410ba9&v=4" width="24" alt="Avatar of HeeeyNathan"> HeeeyNathan
-			</a><br/>
-			Nathan Jay Baker
+			<a href="https://github.com/zmedelis">
+				<img src="https://avatars.githubusercontent.com/u/171114?s=72&u=44f04c2c7df85558211f1d27ef4d6b44056e8f48&v=4" width="24" alt="Avatar of zmedelis"> zmedelis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zmedelis">Copy rank badge</a><br/>
+			Žygimantas Medelis
 		</td>
-		<td>State Scientific Research Institute<br/>Nature<br/>Research<br/>Centre<br/></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zzgmm">zzgmm</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/ailon">
+				<img src="https://avatars.githubusercontent.com/u/179076?s=72&u=b1415b951600daeef9efda9c55cabf4310a7785e&v=4" width="24" alt="Avatar of ailon"> ailon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ailon">Copy rank badge</a><br/>
+			Alan Mendelevich
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>36</td>
+		<td>35</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/collmalpa">
 				<img src="https://avatars.githubusercontent.com/u/32157291?s=72&u=9bf011b55b006da198c620b7e744e5dd9a7ee644&v=4" width="24" alt="Avatar of collmalpa"> collmalpa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#collmalpa">Copy rank badge</a><br/>
 			Nikita Kotovich
 		</td>
 		<td>Wargaming </td>
@@ -4993,50 +5099,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>385</td>
 		<td>
-			<a href="https://github.com/xytis">
-				<img src="https://avatars.githubusercontent.com/u/78025?s=72&v=4" width="24" alt="Avatar of xytis"> xytis
-			</a><br/>
-			Vytis Valentinavičius
-		</td>
-		<td>N4l </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/tosiara">
-				<img src="https://avatars.githubusercontent.com/u/3600973?s=72&v=4" width="24" alt="Avatar of tosiara"> tosiara
-			</a><br/>
-			No Name
-		</td>
-		<td>Virology, Phd, Programmer As<br/>Hobby<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/darauble">
-				<img src="https://avatars.githubusercontent.com/u/34572968?s=72&v=4" width="24" alt="Avatar of darauble"> darauble
-			</a><br/>
-			Darau, Blė
+			<a href="https://github.com/MaRokas2005">
+				<img src="https://avatars.githubusercontent.com/u/76654333?s=72&v=4" width="24" alt="Avatar of MaRokas2005"> MaRokas2005
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MaRokas2005">Copy rank badge</a><br/>
+			Rokas Braidokas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>34</td>
+		<td>35</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/bloodwiing">
+				<img src="https://avatars.githubusercontent.com/u/13348029?s=72&u=bc906d91f5afa11be6bbf66724a4da0ecb828c6e&v=4" width="24" alt="Avatar of bloodwiing"> bloodwiing
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#bloodwiing">Copy rank badge</a><br/>
+			Donatas Kirda
+		</td>
+		<td>Alchemix </td>
+		<td><a href="https://twitter.com/BloodWiing">BloodWiing</a></td>
+		<td>Lithuania</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/valentk777">
+				<img src="https://avatars.githubusercontent.com/u/31697821?s=72&u=ff2b6257c4afb64edabb1f5145ce57e1002eff1f&v=4" width="24" alt="Avatar of valentk777"> valentk777
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#valentk777">Copy rank badge</a><br/>
+			Valentinas Kaminskas
+		</td>
+		<td>Baitu Pasaulis, Mb </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Shurgu">
 				<img src="https://avatars.githubusercontent.com/u/1098493?s=72&u=157c92a6a009b094bea2a72937214efbb8dc5181&v=4" width="24" alt="Avatar of Shurgu"> Shurgu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Shurgu">Copy rank badge</a><br/>
 			Mykolas Šaučiūnas
 		</td>
 		<td>Vinted </td>
@@ -5045,63 +5151,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>389</td>
 		<td>
-			<a href="https://github.com/aleksas">
-				<img src="https://avatars.githubusercontent.com/u/594470?s=72&u=508635fd2022cb93381d4969c2fc7c93de1a9b23&v=4" width="24" alt="Avatar of aleksas"> aleksas
-			</a><br/>
-			Aleksas Pielikis
-		</td>
-		<td>@oxylabs </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/huseinliali">
-				<img src="https://avatars.githubusercontent.com/u/99591534?s=72&v=4" width="24" alt="Avatar of huseinliali"> huseinliali
-			</a><br/>
-			Ali Huseynli
-		</td>
-		<td>Vilnius Gediminas Technical University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/Zaharenko">
-				<img src="https://avatars.githubusercontent.com/u/18302642?s=72&u=47288adc5234e5210339f3b0845c339f238e2844&v=4" width="24" alt="Avatar of Zaharenko"> Zaharenko
-			</a><br/>
-			Anton Zakharenka
-		</td>
-		<td>Hyand </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>384</td>
-		<td>
-			<a href="https://github.com/Scarab911">
-				<img src="https://avatars.githubusercontent.com/u/82829469?s=72&u=003d95e27013f211c880d86be30afa15485800d6&v=4" width="24" alt="Avatar of Scarab911"> Scarab911
-			</a><br/>
-			Paulius
+			<a href="https://github.com/darauble">
+				<img src="https://avatars.githubusercontent.com/u/34572968?s=72&v=4" width="24" alt="Avatar of darauble"> darauble
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#darauble">Copy rank badge</a><br/>
+			Darau, Blė
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Lithuania</td>
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/Nercury">
 				<img src="https://avatars.githubusercontent.com/u/106180?s=72&u=0b3915351b4170e188c2723ff4cd851a3cc05cc3&v=4" width="24" alt="Avatar of Nercury"> Nercury
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Nercury">Copy rank badge</a><br/>
 			Nerijus Arlauskas
 		</td>
 		<td>Algori </td>
@@ -5110,50 +5177,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>391</td>
 		<td>
-			<a href="https://github.com/simaworx">
-				<img src="https://avatars.githubusercontent.com/u/230860320?s=72&u=9dbee78ff4317781d7201c7abeede00b718744b4&v=4" width="24" alt="Avatar of simaworx"> simaworx
-			</a><br/>
-			Simona Sukyte
+			<a href="https://github.com/xytis">
+				<img src="https://avatars.githubusercontent.com/u/78025?s=72&v=4" width="24" alt="Avatar of xytis"> xytis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#xytis">Copy rank badge</a><br/>
+			Vytis Valentinavičius
 		</td>
-		<td>No Company</td>
+		<td>N4l </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Vilnius, Lithuania</td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/karnauskas">
-				<img src="https://avatars.githubusercontent.com/u/1094012?s=72&v=4" width="24" alt="Avatar of karnauskas"> karnauskas
-			</a><br/>
-			Marius Karnauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/raveren">
-				<img src="https://avatars.githubusercontent.com/u/364220?s=72&v=4" width="24" alt="Avatar of raveren"> raveren
-			</a><br/>
-			Rokas Šleinius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>389</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/tomasrasymas">
 				<img src="https://avatars.githubusercontent.com/u/20923703?s=72&u=7ce96fc7909c3be6487679f8d57d2defd6ab7350&v=4" width="24" alt="Avatar of tomasrasymas"> tomasrasymas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasrasymas">Copy rank badge</a><br/>
 			Tomas Rasymas
 		</td>
 		<td>No Company</td>
@@ -5162,11 +5203,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/Kornelijus">
 				<img src="https://avatars.githubusercontent.com/u/16837066?s=72&u=b66db18a7e5454f97532d91e5962c44e60308449&v=4" width="24" alt="Avatar of Kornelijus"> Kornelijus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Kornelijus">Copy rank badge</a><br/>
 			Kornelijus
 		</td>
 		<td>No Company</td>
@@ -5175,11 +5216,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/podolskis">
 				<img src="https://avatars.githubusercontent.com/u/1670724?s=72&u=bcfe8c2cfdb04172d774cbbce7aa4aa3d24310fc&v=4" width="24" alt="Avatar of podolskis"> podolskis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#podolskis">Copy rank badge</a><br/>
 			Paulius
 		</td>
 		<td>No Company</td>
@@ -5188,50 +5229,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>395</td>
 		<td>
-			<a href="https://github.com/M1ndas">
-				<img src="https://avatars.githubusercontent.com/u/7895269?s=72&u=6c5f0fa98b7516611ff64c1dfc49488dc97bb76e&v=4" width="24" alt="Avatar of M1ndas"> M1ndas
-			</a><br/>
-			M1ndas
-		</td>
-		<td>Oxipit </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/HannaPleshko">
-				<img src="https://avatars.githubusercontent.com/u/74094635?s=72&u=3452cbb82bba3820288bccd3e07ef6b79220980b&v=4" width="24" alt="Avatar of HannaPleshko"> HannaPleshko
-			</a><br/>
-			Hanna Pazdzeyeva
-		</td>
-		<td>Hsc, Ag Software </td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Lithuania</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/rolka">
-				<img src="https://avatars.githubusercontent.com/u/1561437?s=72&v=4" width="24" alt="Avatar of rolka"> rolka
-			</a><br/>
-			Rolandas
+			<a href="https://github.com/nicoflojo">
+				<img src="https://avatars.githubusercontent.com/u/4722927?s=72&u=c1a5e359861e83d8477d5ab4d5e08b9ad3bc8cc4&v=4" width="24" alt="Avatar of nicoflojo"> nicoflojo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nicoflojo">Copy rank badge</a><br/>
+			neekzuu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Klaipeda, Lithuania</td>
+		<td>Vilnius</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/raveren">
+				<img src="https://avatars.githubusercontent.com/u/364220?s=72&v=4" width="24" alt="Avatar of raveren"> raveren
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#raveren">Copy rank badge</a><br/>
+			Rokas Šleinius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/airidosas252">
+				<img src="https://avatars.githubusercontent.com/u/4144830?s=72&u=65fe6e87a4f310d47271b31367a2ace2c7214f6b&v=4" width="24" alt="Avatar of airidosas252"> airidosas252
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#airidosas252">Copy rank badge</a><br/>
+			airidosas252
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Siauliai, Lithuania</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/pukomuko">
 				<img src="https://avatars.githubusercontent.com/u/216812?s=72&u=8ed7b6cee5f59e4f6e4d010923b2d1c384b3987d&v=4" width="24" alt="Avatar of pukomuko"> pukomuko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pukomuko">Copy rank badge</a><br/>
 			Juozas Šalna
 		</td>
 		<td>No Company</td>
@@ -5240,11 +5281,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/samgiz">
 				<img src="https://avatars.githubusercontent.com/u/11260848?s=72&u=6bca41d63b3de3356c880d2cd90adf72abc2f3b8&v=4" width="24" alt="Avatar of samgiz"> samgiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#samgiz">Copy rank badge</a><br/>
 			Zigmas Bitinas
 		</td>
 		<td>No Company</td>
@@ -5253,24 +5294,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/Rokiis1">
-				<img src="https://avatars.githubusercontent.com/u/94966788?s=72&u=15011fca963e697bcfabe87dd4cda454df0f5c2e&v=4" width="24" alt="Avatar of Rokiis1"> Rokiis1
-			</a><br/>
-			Rokas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania/Vilnius</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>398</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/ErikasRamaneckas">
 				<img src="https://avatars.githubusercontent.com/u/88393745?s=72&u=6d0ead002a68317694b6e1951c982e1b3206d1b2&v=4" width="24" alt="Avatar of ErikasRamaneckas"> ErikasRamaneckas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ErikasRamaneckas">Copy rank badge</a><br/>
 			Erikas Ramaneckas
 		</td>
 		<td>No Company</td>
@@ -5279,50 +5307,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/lukaschod">
-				<img src="https://avatars.githubusercontent.com/u/24258017?s=72&u=dbde14c7ad613f0475a91cb2ba3256f2a167f355&v=4" width="24" alt="Avatar of lukaschod"> lukaschod
-			</a><br/>
-			Lukas Chodosevičius
-		</td>
-		<td>Project Dawn </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/va1da5">
-				<img src="https://avatars.githubusercontent.com/u/9718368?s=72&u=d3b97f84f858f5605252fef5168d38c0cab061d1&v=4" width="24" alt="Avatar of va1da5"> va1da5
-			</a><br/>
-			Vaidas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>29</td>
-	</tr>
-	<tr>
 		<td>401</td>
 		<td>
-			<a href="https://github.com/eugenn">
-				<img src="https://avatars.githubusercontent.com/u/170566?s=72&v=4" width="24" alt="Avatar of eugenn"> eugenn
-			</a><br/>
-			eugenn
+			<a href="https://github.com/Sti3bas">
+				<img src="https://avatars.githubusercontent.com/u/17280721?s=72&u=3ae31221f3439df91e3195f485d0f8fc90a448c5&v=4" width="24" alt="Avatar of Sti3bas"> Sti3bas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Sti3bas">Copy rank badge</a><br/>
+			Laurynas
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td><a href="https://twitter.com/sti3bas">sti3bas</a></td>
+		<td>Lithuania</td>
 		<td>29</td>
 	</tr>
 	<tr>
 		<td>402</td>
 		<td>
+			<a href="https://github.com/laurynasgadl">
+				<img src="https://avatars.githubusercontent.com/u/30233941?s=72&u=8f491286551098a4fec7a95e77ee0c6a1af27fab&v=4" width="24" alt="Avatar of laurynasgadl"> laurynasgadl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laurynasgadl">Copy rank badge</a><br/>
+			Laurynas Gadliauskas
+		</td>
+		<td>@hostinger  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a href="https://github.com/FedorovAlexander">
 				<img src="https://avatars.githubusercontent.com/u/21294642?s=72&u=74cd634f9825a803375bd0e0c1815679b2016cad&v=4" width="24" alt="Avatar of FedorovAlexander"> FedorovAlexander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#FedorovAlexander">Copy rank badge</a><br/>
 			Aleks Fedorov
 		</td>
 		<td>No Company</td>
@@ -5331,37 +5346,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/jusurb">
-				<img src="https://avatars.githubusercontent.com/u/171747?s=72&u=d3fc0db295846d5ba0e880d91efbbc38a1c45627&v=4" width="24" alt="Avatar of jusurb"> jusurb
-			</a><br/>
-			Justinas Urbanavicius
-		</td>
-		<td>Nfq </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>28</td>
-	</tr>
-	<tr>
 		<td>404</td>
 		<td>
-			<a href="https://github.com/MantasTech">
-				<img src="https://avatars.githubusercontent.com/u/140325092?s=72&u=2297ca447d010baee363b4f80ae5ce804c2c4163&v=4" width="24" alt="Avatar of MantasTech"> MantasTech
-			</a><br/>
-			Mantas Siukstas
+			<a href="https://github.com/lukaschod">
+				<img src="https://avatars.githubusercontent.com/u/24258017?s=72&u=dbde14c7ad613f0475a91cb2ba3256f2a167f355&v=4" width="24" alt="Avatar of lukaschod"> lukaschod
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukaschod">Copy rank badge</a><br/>
+			Lukas Chodosevičius
 		</td>
-		<td>No Company</td>
+		<td>Project Dawn </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania, Vilnius</td>
 		<td>28</td>
 	</tr>
 	<tr>
 		<td>405</td>
 		<td>
+			<a href="https://github.com/arzatskis">
+				<img src="https://avatars.githubusercontent.com/u/687133?s=72&v=4" width="24" alt="Avatar of arzatskis"> arzatskis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arzatskis">Copy rank badge</a><br/>
+			Edvinas Aržatskis
+		</td>
+		<td>Ycode </td>
+		<td><a href="https://twitter.com/arzatskis">arzatskis</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/yousuf-ali-rafi">
+				<img src="https://avatars.githubusercontent.com/u/72573954?s=72&v=4" width="24" alt="Avatar of yousuf-ali-rafi"> yousuf-ali-rafi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#yousuf-ali-rafi">Copy rank badge</a><br/>
+			Md Yousuf Ali Rafi
+		</td>
+		<td>Independent </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
 			<a href="https://github.com/tautvilas">
 				<img src="https://avatars.githubusercontent.com/u/1044090?s=72&u=84404a7467dee29b664e33a3d6c3613e70e281f2&v=4" width="24" alt="Avatar of tautvilas"> tautvilas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tautvilas">Copy rank badge</a><br/>
 			Tautvilas Mečinskas
 		</td>
 		<td>No Company</td>
@@ -5370,24 +5398,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>408</td>
 		<td>
-			<a href="https://github.com/vonagam">
-				<img src="https://avatars.githubusercontent.com/u/5790814?s=72&u=f215b6cf4a66b0576da419c49bafaa08b8b8960a&v=4" width="24" alt="Avatar of vonagam"> vonagam
-			</a><br/>
-			Dmitry Maganov
+			<a href="https://github.com/M1ndas">
+				<img src="https://avatars.githubusercontent.com/u/7895269?s=72&u=6c5f0fa98b7516611ff64c1dfc49488dc97bb76e&v=4" width="24" alt="Avatar of M1ndas"> M1ndas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#M1ndas">Copy rank badge</a><br/>
+			M1ndas
 		</td>
-		<td>No Company</td>
+		<td>Oxipit </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Kaunas, Lithuania</td>
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/2weeksnotice">
 				<img src="https://avatars.githubusercontent.com/u/88958188?s=72&u=185173fec80fb3c3a1534b515f7d74b3aef03da1&v=4" width="24" alt="Avatar of 2weeksnotice"> 2weeksnotice
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#2weeksnotice">Copy rank badge</a><br/>
 			Dom
 		</td>
 		<td>@norixion </td>
@@ -5396,11 +5424,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/Andrukas8">
+				<img src="https://avatars.githubusercontent.com/u/21954163?s=72&u=c0d2592ab5eaa773c106ac1270311d0fc48b5a14&v=4" width="24" alt="Avatar of Andrukas8"> Andrukas8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Andrukas8">Copy rank badge</a><br/>
+			Andriy Rukas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/pozniakas">
 				<img src="https://avatars.githubusercontent.com/u/50362698?s=72&u=df4e7e915205946331d3ee194c31402b41ffa001&v=4" width="24" alt="Avatar of pozniakas"> pozniakas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pozniakas">Copy rank badge</a><br/>
 			Domas Pozniakas
 		</td>
 		<td>Mokausi Lietuvoje </td>
@@ -5409,11 +5450,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/edvisdev98">
 				<img src="https://avatars.githubusercontent.com/u/168957245?s=72&u=c0f9eabe7fcab4537eed15748568fd389f83539b&v=4" width="24" alt="Avatar of edvisdev98"> edvisdev98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#edvisdev98">Copy rank badge</a><br/>
 			Edvinas Dev
 		</td>
 		<td>No Company</td>
@@ -5422,76 +5463,76 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/arturas-raizys">
+				<img src="https://avatars.githubusercontent.com/u/51229178?s=72&u=f6ef2d5cfeeb5e24810c6e8ee0331557ab416b15&v=4" width="24" alt="Avatar of arturas-raizys"> arturas-raizys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arturas-raizys">Copy rank badge</a><br/>
+			Arturas Raizys
+		</td>
+		<td>Argyle.com </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/RokasMarcinkevicius">
+				<img src="https://avatars.githubusercontent.com/u/35724303?s=72&u=3ed6da7e2b3ee095a998ca55489b898eea286231&v=4" width="24" alt="Avatar of RokasMarcinkevicius"> RokasMarcinkevicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#RokasMarcinkevicius">Copy rank badge</a><br/>
+			Rokas Marcinkevicius
+		</td>
+		<td>Tickmill </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/LukoJy3D">
+				<img src="https://avatars.githubusercontent.com/u/74900682?s=72&u=fe80a2fbc242ad34ffc87b9092c9b263a27a5856&v=4" width="24" alt="Avatar of LukoJy3D"> LukoJy3D
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#LukoJy3D">Copy rank badge</a><br/>
+			Lukas Juozas Janusaitis
+		</td>
+		<td>Hostinger </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Kaunas</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/mantas-sidlauskas">
+				<img src="https://avatars.githubusercontent.com/u/4414269?s=72&u=7e8776c2f5233d2b97560fda843b7428780eb5f1&v=4" width="24" alt="Avatar of mantas-sidlauskas"> mantas-sidlauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mantas-sidlauskas">Copy rank badge</a><br/>
+			Mantas Šidlauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/Foxicution">
 				<img src="https://avatars.githubusercontent.com/u/62815446?s=72&u=413721f3050533c1364b85abc0f87c9314c264d1&v=4" width="24" alt="Avatar of Foxicution"> Foxicution
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Foxicution">Copy rank badge</a><br/>
 			Paulius Lapienis
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Foxicution">Foxicution</a></td>
 		<td>Kaunas, Lithuania</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/laurynasgadl">
-				<img src="https://avatars.githubusercontent.com/u/30233941?s=72&u=8f491286551098a4fec7a95e77ee0c6a1af27fab&v=4" width="24" alt="Avatar of laurynasgadl"> laurynasgadl
-			</a><br/>
-			Laurynas Gadliauskas
-		</td>
-		<td>@hostinger  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/vidmantas">
-				<img src="https://avatars.githubusercontent.com/u/48187?s=72&u=5f116e6b76b6b08821138cf9733ac2477b76fcbf&v=4" width="24" alt="Avatar of vidmantas"> vidmantas
-			</a><br/>
-			Vidmantas Kabošis
-		</td>
-		<td>@toptal  </td>
-		<td><a href="https://twitter.com/vidmantas">vidmantas</a></td>
-		<td>Vilnius, Lithuania</td>
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/yousuf-ali-rafi">
-				<img src="https://avatars.githubusercontent.com/u/72573954?s=72&v=4" width="24" alt="Avatar of yousuf-ali-rafi"> yousuf-ali-rafi
-			</a><br/>
-			Md Yousuf Ali Rafi
-		</td>
-		<td>Independent </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/justinas">
-				<img src="https://avatars.githubusercontent.com/u/662666?s=72&u=e8fe927ead3c8e9fcf30b6884190de182335495c&v=4" width="24" alt="Avatar of justinas"> justinas
-			</a><br/>
-			Justinas Stankevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>415</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/registrucentras">
 				<img src="https://avatars.githubusercontent.com/u/84323247?s=72&u=35387b0804e917360ecc149c240e59d408dcd0b7&v=4" width="24" alt="Avatar of registrucentras"> registrucentras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#registrucentras">Copy rank badge</a><br/>
 			Registrų centras
 		</td>
 		<td>Registrų Centras </td>
@@ -5500,63 +5541,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/LukoJy3D">
-				<img src="https://avatars.githubusercontent.com/u/74900682?s=72&u=fe80a2fbc242ad34ffc87b9092c9b263a27a5856&v=4" width="24" alt="Avatar of LukoJy3D"> LukoJy3D
-			</a><br/>
-			Lukas Juozas Janusaitis
-		</td>
-		<td>Hostinger </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Kaunas</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/aegis-dev">
-				<img src="https://avatars.githubusercontent.com/u/9258804?s=72&u=fc7c024228030dfc0df33a114f0ab5abc7f1d2e7&v=4" width="24" alt="Avatar of aegis-dev"> aegis-dev
-			</a><br/>
-			Egidijus Lileika
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/astridaaa">
-				<img src="https://avatars.githubusercontent.com/u/162911132?s=72&v=4" width="24" alt="Avatar of astridaaa"> astridaaa
-			</a><br/>
-			Astrida Jablonskytė
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>24</td>
-	</tr>
-	<tr>
 		<td>419</td>
-		<td>
-			<a href="https://github.com/arturas-raizys">
-				<img src="https://avatars.githubusercontent.com/u/51229178?s=72&u=f6ef2d5cfeeb5e24810c6e8ee0331557ab416b15&v=4" width="24" alt="Avatar of arturas-raizys"> arturas-raizys
-			</a><br/>
-			Arturas Raizys
-		</td>
-		<td>Argyle.com </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>420</td>
 		<td>
 			<a href="https://github.com/Ignas">
 				<img src="https://avatars.githubusercontent.com/u/95468?s=72&v=4" width="24" alt="Avatar of Ignas"> Ignas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Ignas">Copy rank badge</a><br/>
 			Ignas Mikalajūnas
 		</td>
 		<td>No Company</td>
@@ -5565,37 +5554,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/belte42">
+				<img src="https://avatars.githubusercontent.com/u/60384626?s=72&u=b54877934d6965729a6f1d5ea625a7752e39966c&v=4" width="24" alt="Avatar of belte42"> belte42
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#belte42">Copy rank badge</a><br/>
+			Emilis Belte
+		</td>
+		<td>@obdeleven </td>
+		<td><a href="https://twitter.com/belte42">belte42</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>23</td>
+	</tr>
+	<tr>
 		<td>421</td>
-		<td>
-			<a href="https://github.com/airidosas252">
-				<img src="https://avatars.githubusercontent.com/u/4144830?s=72&u=65fe6e87a4f310d47271b31367a2ace2c7214f6b&v=4" width="24" alt="Avatar of airidosas252"> airidosas252
-			</a><br/>
-			airidosas252
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Siauliai, Lithuania</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/SIL0RAK">
-				<img src="https://avatars.githubusercontent.com/u/21088858?s=72&u=689f7da801e088bd7bc249b7ad1fd27f7b4a0b87&v=4" width="24" alt="Avatar of SIL0RAK"> SIL0RAK
-			</a><br/>
-			Karolis Krušinskas
-		</td>
-		<td>@valantic </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>423</td>
 		<td>
 			<a href="https://github.com/Rifat-Ahammed">
 				<img src="https://avatars.githubusercontent.com/u/96107279?s=72&u=fb9dff59ad99fdf4c818847d5a7c3b4f548691e4&v=4" width="24" alt="Avatar of Rifat-Ahammed"> Rifat-Ahammed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Rifat-Ahammed">Copy rank badge</a><br/>
 			Rifat
 		</td>
 		<td>Klaipeda University </td>
@@ -5604,24 +5580,63 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>422</td>
 		<td>
-			<a href="https://github.com/ideag">
-				<img src="https://avatars.githubusercontent.com/u/3252474?s=72&v=4" width="24" alt="Avatar of ideag"> ideag
-			</a><br/>
-			Arūnas Liuiza
+			<a href="https://github.com/balu-lt">
+				<img src="https://avatars.githubusercontent.com/u/7798162?s=72&v=4" width="24" alt="Avatar of balu-lt"> balu-lt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#balu-lt">Copy rank badge</a><br/>
+			Vytautas M.
+		</td>
+		<td>Mb Balu.lt </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/karnauskas">
+				<img src="https://avatars.githubusercontent.com/u/1094012?s=72&v=4" width="24" alt="Avatar of karnauskas"> karnauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#karnauskas">Copy rank badge</a><br/>
+			Marius Karnauskas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arunaswp">arunaswp</a></td>
-		<td>Kaunas, Lithuania</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/vidmantas">
+				<img src="https://avatars.githubusercontent.com/u/48187?s=72&u=5f116e6b76b6b08821138cf9733ac2477b76fcbf&v=4" width="24" alt="Avatar of vidmantas"> vidmantas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vidmantas">Copy rank badge</a><br/>
+			Vidmantas Kabošis
+		</td>
+		<td>@toptal  </td>
+		<td><a href="https://twitter.com/vidmantas">vidmantas</a></td>
+		<td>Vilnius, Lithuania</td>
 		<td>22</td>
 	</tr>
 	<tr>
 		<td>425</td>
 		<td>
+			<a href="https://github.com/ideag">
+				<img src="https://avatars.githubusercontent.com/u/3252474?s=72&v=4" width="24" alt="Avatar of ideag"> ideag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ideag">Copy rank badge</a><br/>
+			Arūnas Liuiza
+		</td>
+		<td>Tiny Plugin Labs </td>
+		<td><a href="https://twitter.com/arunaswp">arunaswp</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
 			<a href="https://github.com/kuusas">
 				<img src="https://avatars.githubusercontent.com/u/1662530?s=72&v=4" width="24" alt="Avatar of kuusas"> kuusas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kuusas">Copy rank badge</a><br/>
 			Žilvinas
 		</td>
 		<td>Dokobit </td>
@@ -5630,50 +5645,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/wait-what">
-				<img src="https://avatars.githubusercontent.com/u/25844213?s=72&u=c8bac34bbd6880e724b486f68bb1263710ef4333&v=4" width="24" alt="Avatar of wait-what"> wait-what
-			</a><br/>
-			Wait What
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Wait_What_t">Wait_What_t</a></td>
-		<td>Lithuania</td>
-		<td>22</td>
-	</tr>
-	<tr>
 		<td>427</td>
 		<td>
-			<a href="https://github.com/m-khvoinitsky">
-				<img src="https://avatars.githubusercontent.com/u/16675892?s=72&u=7f513b9de3305adcacd464b3aef50e5e9e7a3bdf&v=4" width="24" alt="Avatar of m-khvoinitsky"> m-khvoinitsky
-			</a><br/>
-			Mikhail Khvoinitsky
+			<a href="https://github.com/jusurb">
+				<img src="https://avatars.githubusercontent.com/u/171747?s=72&u=d3fc0db295846d5ba0e880d91efbbc38a1c45627&v=4" width="24" alt="Avatar of jusurb"> jusurb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jusurb">Copy rank badge</a><br/>
+			Justinas Urbanavicius
 		</td>
-		<td>Wargaming.net </td>
+		<td>Nfq </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania</td>
 		<td>22</td>
 	</tr>
 	<tr>
 		<td>428</td>
 		<td>
-			<a href="https://github.com/p3rc1va1">
-				<img src="https://avatars.githubusercontent.com/u/89869237?s=72&u=9eca43f1e319bbd0b40de8547bc5a5f523918d07&v=4" width="24" alt="Avatar of p3rc1va1"> p3rc1va1
-			</a><br/>
-			Baha Celik
+			<a href="https://github.com/SIL0RAK">
+				<img src="https://avatars.githubusercontent.com/u/21088858?s=72&u=689f7da801e088bd7bc249b7ad1fd27f7b4a0b87&v=4" width="24" alt="Avatar of SIL0RAK"> SIL0RAK
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#SIL0RAK">Copy rank badge</a><br/>
+			Karolis Krušinskas
 		</td>
-		<td>No Company</td>
+		<td>@valantic </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania</td>
 		<td>22</td>
 	</tr>
 	<tr>
 		<td>429</td>
 		<td>
+			<a href="https://github.com/va1da5">
+				<img src="https://avatars.githubusercontent.com/u/9718368?s=72&u=d3b97f84f858f5605252fef5168d38c0cab061d1&v=4" width="24" alt="Avatar of va1da5"> va1da5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#va1da5">Copy rank badge</a><br/>
+			Vaidas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
 			<a href="https://github.com/kcizaite">
 				<img src="https://avatars.githubusercontent.com/u/61018680?s=72&u=cb5b5dd9b870cc589914449c83f4b368e1135f7b&v=4" width="24" alt="Avatar of kcizaite"> kcizaite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kcizaite">Copy rank badge</a><br/>
 			Karolina Čižaitė
 		</td>
 		<td>No Company</td>
@@ -5682,25 +5697,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>430</td>
-		<td>
-			<a href="https://github.com/cx-lukas-salkauskas-x">
-				<img src="https://avatars.githubusercontent.com/u/524216?s=72&u=10abf9a7451250bf011ea30acbd85f4ce055a809&v=4" width="24" alt="Avatar of cx-lukas-salkauskas-x"> cx-lukas-salkauskas-x
-			</a><br/>
-			Lukas Salkauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>21</td>
-	</tr>
-	<tr>
 		<td>431</td>
 		<td>
-			<a href="https://github.com/emilis">
-				<img src="https://avatars.githubusercontent.com/u/41564?s=72&v=4" width="24" alt="Avatar of emilis"> emilis
-			</a><br/>
-			Emilis Dambauskas
+			<a href="https://github.com/justinas">
+				<img src="https://avatars.githubusercontent.com/u/662666?s=72&u=e8fe927ead3c8e9fcf30b6884190de182335495c&v=4" width="24" alt="Avatar of justinas"> justinas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justinas">Copy rank badge</a><br/>
+			Justinas Stankevičius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5710,22 +5712,113 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>432</td>
 		<td>
-			<a href="https://github.com/NorthOC">
-				<img src="https://avatars.githubusercontent.com/u/74723630?s=72&u=02a2ccf4966a7dd673bca0ce4187beb06b2b4d4d&v=4" width="24" alt="Avatar of NorthOC"> NorthOC
-			</a><br/>
-			Denis Lisunov
+			<a href="https://github.com/Miceuz">
+				<img src="https://avatars.githubusercontent.com/u/533263?s=72&v=4" width="24" alt="Avatar of Miceuz"> Miceuz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Miceuz">Copy rank badge</a><br/>
+			Albertas Mickėnas
 		</td>
-		<td>Thefriendlyskies.net </td>
-		<td>No Twitter Username</td>
-		<td>Utena, Lithuania</td>
+		<td>Technarium </td>
+		<td><a href="https://twitter.com/miceuz">miceuz</a></td>
+		<td>Vilnius, Lithuania</td>
 		<td>21</td>
 	</tr>
 	<tr>
 		<td>433</td>
 		<td>
+			<a href="https://github.com/emilis">
+				<img src="https://avatars.githubusercontent.com/u/41564?s=72&v=4" width="24" alt="Avatar of emilis"> emilis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#emilis">Copy rank badge</a><br/>
+			Emilis Dambauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/vonagam">
+				<img src="https://avatars.githubusercontent.com/u/5790814?s=72&u=f215b6cf4a66b0576da419c49bafaa08b8b8960a&v=4" width="24" alt="Avatar of vonagam"> vonagam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vonagam">Copy rank badge</a><br/>
+			Dmitry Maganov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/wait-what">
+				<img src="https://avatars.githubusercontent.com/u/25844213?s=72&u=c8bac34bbd6880e724b486f68bb1263710ef4333&v=4" width="24" alt="Avatar of wait-what"> wait-what
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#wait-what">Copy rank badge</a><br/>
+			Wait What
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Wait_What_t">Wait_What_t</a></td>
+		<td>Lithuania</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/lukebars">
+				<img src="https://avatars.githubusercontent.com/u/46403446?s=72&u=ba89cc21554b0a696653dfe2774ec9917492a36f&v=4" width="24" alt="Avatar of lukebars"> lukebars
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukebars">Copy rank badge</a><br/>
+			Lukas Baranauskas
+		</td>
+		<td>Mobile Development @truffle </td>
+		<td><a href="https://twitter.com/lukebars">lukebars</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/MonikaVen">
+				<img src="https://avatars.githubusercontent.com/u/18329988?s=72&u=18c5c42e8196a44aac9955694a3e367683d2a1ce&v=4" width="24" alt="Avatar of MonikaVen"> MonikaVen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MonikaVen">Copy rank badge</a><br/>
+			Monika Venčkauskaitė
+		</td>
+		<td>Monika.ai </td>
+		<td><a href="https://twitter.com/MonikaVenck">MonikaVenck</a></td>
+		<td>Vilnius</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/p3rc1va1">
+				<img src="https://avatars.githubusercontent.com/u/89869237?s=72&u=9eca43f1e319bbd0b40de8547bc5a5f523918d07&v=4" width="24" alt="Avatar of p3rc1va1"> p3rc1va1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#p3rc1va1">Copy rank badge</a><br/>
+			Baha Celik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/cx-lukas-salkauskas-x">
+				<img src="https://avatars.githubusercontent.com/u/524216?s=72&u=10abf9a7451250bf011ea30acbd85f4ce055a809&v=4" width="24" alt="Avatar of cx-lukas-salkauskas-x"> cx-lukas-salkauskas-x
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#cx-lukas-salkauskas-x">Copy rank badge</a><br/>
+			Lukas Salkauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/osvaldasvalutis">
 				<img src="https://avatars.githubusercontent.com/u/900490?s=72&u=b018abbbc11f05732d57467bae655bfd1bf292ab&v=4" width="24" alt="Avatar of osvaldasvalutis"> osvaldasvalutis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#osvaldasvalutis">Copy rank badge</a><br/>
 			Osvaldas Valutis
 		</td>
 		<td>@outdoormap  </td>
@@ -5734,11 +5827,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/xTheEc0">
+				<img src="https://avatars.githubusercontent.com/u/24303281?s=72&u=7a02f6410e56ee7445cdd0eac09ea8b77bef2608&v=4" width="24" alt="Avatar of xTheEc0"> xTheEc0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#xTheEc0">Copy rank badge</a><br/>
+			Evaldas Lavrinovičius
+		</td>
+		<td>@unity-technologies  </td>
+		<td><a href="https://twitter.com/xTheEc0">xTheEc0</a></td>
+		<td>Lithuania</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/voidpumpkin">
+				<img src="https://avatars.githubusercontent.com/u/32368314?s=72&u=5b464e7482cefeb1b1733b7d933bf6a4abc80091&v=4" width="24" alt="Avatar of voidpumpkin"> voidpumpkin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#voidpumpkin">Copy rank badge</a><br/>
+			Julius Lungys
+		</td>
+		<td>Nikulipe </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/rutaitp">
+				<img src="https://avatars.githubusercontent.com/u/14117379?s=72&u=7c674bfca49e7007bd93ffca652a0b4f71ace52a&v=4" width="24" alt="Avatar of rutaitp"> rutaitp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rutaitp">Copy rank badge</a><br/>
+			Ruta Kruliauskaite
+		</td>
+		<td>Https://itp.nyu.edu/ </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius | NYC</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/GedRap">
 				<img src="https://avatars.githubusercontent.com/u/1471473?s=72&v=4" width="24" alt="Avatar of GedRap"> GedRap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GedRap">Copy rank badge</a><br/>
 			Gediminas Rapolavicius
 		</td>
 		<td>No Company</td>
@@ -5747,128 +5879,89 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>445</td>
 		<td>
-			<a href="https://github.com/arzatskis">
-				<img src="https://avatars.githubusercontent.com/u/687133?s=72&v=4" width="24" alt="Avatar of arzatskis"> arzatskis
-			</a><br/>
-			Edvinas Aržatskis
+			<a href="https://github.com/ralekna">
+				<img src="https://avatars.githubusercontent.com/u/142561?s=72&u=a11940b37d5fac79e1ad9b97ae0d4046e5e7ed73&v=4" width="24" alt="Avatar of ralekna"> ralekna
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ralekna">Copy rank badge</a><br/>
+			Rytis Alekna
 		</td>
-		<td>Ycode </td>
-		<td><a href="https://twitter.com/arzatskis">arzatskis</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/Eimisas">
-				<img src="https://avatars.githubusercontent.com/u/18229329?s=72&u=3a315dee2d634a5fd1cf562449f31a82126a9de4&v=4" width="24" alt="Avatar of Eimisas"> Eimisas
-			</a><br/>
-			Eimantas Jazonis
-		</td>
-		<td>@argyle-systems </td>
-		<td><a href="https://twitter.com/eimisja">eimisja</a></td>
-		<td>Lithuania</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/xTheEc0">
-				<img src="https://avatars.githubusercontent.com/u/24303281?s=72&u=7a02f6410e56ee7445cdd0eac09ea8b77bef2608&v=4" width="24" alt="Avatar of xTheEc0"> xTheEc0
-			</a><br/>
-			Evaldas Lavrinovičius
-		</td>
-		<td>@unity-technologies  </td>
-		<td><a href="https://twitter.com/xTheEc0">xTheEc0</a></td>
-		<td>Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/voidpumpkin">
-				<img src="https://avatars.githubusercontent.com/u/32368314?s=72&u=5b464e7482cefeb1b1733b7d933bf6a4abc80091&v=4" width="24" alt="Avatar of voidpumpkin"> voidpumpkin
-			</a><br/>
-			Julius Lungys
-		</td>
-		<td>Nikulipe </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/Sti3bas">
-				<img src="https://avatars.githubusercontent.com/u/17280721?s=72&u=3ae31221f3439df91e3195f485d0f8fc90a448c5&v=4" width="24" alt="Avatar of Sti3bas"> Sti3bas
-			</a><br/>
-			Laurynas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sti3bas">sti3bas</a></td>
-		<td>Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>440</td>
-		<td>
-			<a href="https://github.com/ko5tik">
-				<img src="https://avatars.githubusercontent.com/u/207374?s=72&v=4" width="24" alt="Avatar of ko5tik"> ko5tik
-			</a><br/>
-			Konstantin Pribluda
-		</td>
-		<td>Uab It Servisas Benamukas<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/KiraLT">
-				<img src="https://avatars.githubusercontent.com/u/10944908?s=72&u=ff2e4e80d5155356e4ecbb356c20604c93fa34ca&v=4" width="24" alt="Avatar of KiraLT"> KiraLT
-			</a><br/>
-			Luke 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/Dailius">
-				<img src="https://avatars.githubusercontent.com/u/67201756?s=72&u=0035a9df77ebc5863e77571e69a1fb6149ec3ffa&v=4" width="24" alt="Avatar of Dailius"> Dailius
-			</a><br/>
-			Dailius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>443</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/dariuskasperavicius">
 				<img src="https://avatars.githubusercontent.com/u/102051?s=72&u=6bdd7ced3960573d5f15927dcd5020e495e4d098&v=4" width="24" alt="Avatar of dariuskasperavicius"> dariuskasperavicius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dariuskasperavicius">Copy rank badge</a><br/>
 			Darius Kasperavicius
 		</td>
 		<td>Selfspark </td>
 		<td>No Twitter Username</td>
 		<td>Kaunas</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/Ghost-Rider-gu">
+				<img src="https://avatars.githubusercontent.com/u/1051058?s=72&u=73c41dda7ec1d634cefd47a206c984619df72be3&v=4" width="24" alt="Avatar of Ghost-Rider-gu"> Ghost-Rider-gu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Ghost-Rider-gu">Copy rank badge</a><br/>
+			Golubnichenko Iurii
+		</td>
+		<td>Epam Systemos </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/Seitanas">
+				<img src="https://avatars.githubusercontent.com/u/6713389?s=72&u=91f703e26e31e962fb89af22e5a57131473793a5&v=4" width="24" alt="Avatar of Seitanas"> Seitanas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Seitanas">Copy rank badge</a><br/>
+			Tadas Ustinavičius
+		</td>
+		<td>@vinted </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/paulius-sladkevicius">
+				<img src="https://avatars.githubusercontent.com/u/213811?s=72&v=4" width="24" alt="Avatar of paulius-sladkevicius"> paulius-sladkevicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#paulius-sladkevicius">Copy rank badge</a><br/>
+			Paulius Sladkevičius
+		</td>
+		<td>Versada </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Kaunas</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/elvincabbarli">
+				<img src="https://avatars.githubusercontent.com/u/87928006?s=72&u=024cfff9ec262568a2a90017630e6983d80544b8&v=4" width="24" alt="Avatar of elvincabbarli"> elvincabbarli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#elvincabbarli">Copy rank badge</a><br/>
+			Elvin Cabbarli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania / Vilnius</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/rmykolas">
 				<img src="https://avatars.githubusercontent.com/u/22819644?s=72&u=d0d06dbd05c7662f5d5bf3762be7a91c576718cf&v=4" width="24" alt="Avatar of rmykolas"> rmykolas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rmykolas">Copy rank badge</a><br/>
 			Mykolas Raižys
 		</td>
 		<td>No Company</td>
@@ -5877,37 +5970,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/Miceuz">
-				<img src="https://avatars.githubusercontent.com/u/533263?s=72&v=4" width="24" alt="Avatar of Miceuz"> Miceuz
-			</a><br/>
-			Albertas Mickėnas
-		</td>
-		<td>Technarium </td>
-		<td><a href="https://twitter.com/miceuz">miceuz</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/Ghost-Rider-gu">
-				<img src="https://avatars.githubusercontent.com/u/1051058?s=72&u=73c41dda7ec1d634cefd47a206c984619df72be3&v=4" width="24" alt="Avatar of Ghost-Rider-gu"> Ghost-Rider-gu
-			</a><br/>
-			Golubnichenko Iurii
-		</td>
-		<td>Epam Systemos </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>447</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/dariuszz123">
 				<img src="https://avatars.githubusercontent.com/u/2358146?s=72&v=4" width="24" alt="Avatar of dariuszz123"> dariuszz123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dariuszz123">Copy rank badge</a><br/>
 			Darius
 		</td>
 		<td>Darneta, Sp </td>
@@ -5916,11 +5983,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/kasovskis">
 				<img src="https://avatars.githubusercontent.com/u/43371771?s=72&u=2016f601a9ad79aed1c5d684a0e486154a61a3ce&v=4" width="24" alt="Avatar of kasovskis"> kasovskis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kasovskis">Copy rank badge</a><br/>
 			Andrius
 		</td>
 		<td>No Company</td>
@@ -5929,24 +5996,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/2bitsin">
-				<img src="https://avatars.githubusercontent.com/u/1659255?s=72&u=a854f60def21363072361a2dd3d02c38e26ad11e&v=4" width="24" alt="Avatar of 2bitsin"> 2bitsin
-			</a><br/>
-			Aleksandr Ševčenko
-		</td>
-		<td>Mom And Pop's Code<br/>And<br/>Electronics<br/></td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>450</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/vytautassugintas">
 				<img src="https://avatars.githubusercontent.com/u/11268113?s=72&u=ffa11e6197830ef87a9f1330102c03e4ce61348e&v=4" width="24" alt="Avatar of vytautassugintas"> vytautassugintas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vytautassugintas">Copy rank badge</a><br/>
 			Vytautas Sugintas
 		</td>
 		<td>@1stdibs  </td>
@@ -5955,50 +6009,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/wrooot">
-				<img src="https://avatars.githubusercontent.com/u/7195609?s=72&u=546a1defe178e06b966ee5f2370b98b4683ff173&v=4" width="24" alt="Avatar of wrooot"> wrooot
-			</a><br/>
-			wroot
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/leq382121">
-				<img src="https://avatars.githubusercontent.com/u/15140250?s=72&u=8a1a9d2328ef4885142f06a3bac9253b9eed5ea8&v=4" width="24" alt="Avatar of leq382121"> leq382121
-			</a><br/>
-			Liutauras Razma
-		</td>
-		<td>Expvcase | Freelance |<br/>Null<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>453</td>
-		<td>
-			<a href="https://github.com/tomasliubinas">
-				<img src="https://avatars.githubusercontent.com/u/1522729?s=72&v=4" width="24" alt="Avatar of tomasliubinas"> tomasliubinas
-			</a><br/>
-			Tomas Liubinas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/aurelijusb">
 				<img src="https://avatars.githubusercontent.com/u/1453957?s=72&u=ca4b3815b6165d9b7a6c6d1edb090be773754865&v=4" width="24" alt="Avatar of aurelijusb"> aurelijusb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aurelijusb">Copy rank badge</a><br/>
 			Aurelijus Banelis
 		</td>
 		<td>No Company</td>
@@ -6007,27 +6022,14 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/dvisockas">
-				<img src="https://avatars.githubusercontent.com/u/5416478?s=72&u=bc8098a34de5efe2f23b8e09bdb193f02e0e5006&v=4" width="24" alt="Avatar of dvisockas"> dvisockas
-			</a><br/>
-			Danielius Visockas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>456</td>
 		<td>
-			<a href="https://github.com/Seitanas">
-				<img src="https://avatars.githubusercontent.com/u/6713389?s=72&u=91f703e26e31e962fb89af22e5a57131473793a5&v=4" width="24" alt="Avatar of Seitanas"> Seitanas
-			</a><br/>
-			Tadas Ustinavičius
+			<a href="https://github.com/aleksas">
+				<img src="https://avatars.githubusercontent.com/u/594470?s=72&u=508635fd2022cb93381d4969c2fc7c93de1a9b23&v=4" width="24" alt="Avatar of aleksas"> aleksas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aleksas">Copy rank badge</a><br/>
+			Aleksas Pielikis
 		</td>
-		<td>@vinted </td>
+		<td>@oxylabs </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>17</td>
@@ -6035,35 +6037,22 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/elvincabbarli">
-				<img src="https://avatars.githubusercontent.com/u/87928006?s=72&u=024cfff9ec262568a2a90017630e6983d80544b8&v=4" width="24" alt="Avatar of elvincabbarli"> elvincabbarli
-			</a><br/>
-			Elvin Cabbarli
+			<a href="https://github.com/laimis-dev">
+				<img src="https://avatars.githubusercontent.com/u/41838906?s=72&u=3bb8678a7711a7a1f95a9b95fba481bd40dbe641&v=4" width="24" alt="Avatar of laimis-dev"> laimis-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laimis-dev">Copy rank badge</a><br/>
+			Laimonas Janutėnas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania / Vilnius</td>
+		<td>Lithuania, Klaipėda</td>
 		<td>17</td>
 	</tr>
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/6ar8nas">
-				<img src="https://avatars.githubusercontent.com/u/86420873?s=72&u=8fea79bd692e65944976d06302a823c3418ad9b8&v=4" width="24" alt="Avatar of 6ar8nas"> 6ar8nas
-			</a><br/>
-			Šarūnas Griškus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
 			<a href="https://github.com/imikailoby">
 				<img src="https://avatars.githubusercontent.com/u/7937548?s=72&u=76b74541f0f25a7271e1417f391235d20d939c1b&v=4" width="24" alt="Avatar of imikailoby"> imikailoby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#imikailoby">Copy rank badge</a><br/>
 			Mikhail Prosmitskiy
 		</td>
 		<td>Kayak </td>
@@ -6072,37 +6061,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
-			<a href="https://github.com/dovydasvenckus">
-				<img src="https://avatars.githubusercontent.com/u/6039918?s=72&u=7078675118e210c3d4dfb2d9acd9fad1a77190a3&v=4" width="24" alt="Avatar of dovydasvenckus"> dovydasvenckus
-			</a><br/>
-			Dovydas Venckus
+			<a href="https://github.com/ignaspangonis">
+				<img src="https://avatars.githubusercontent.com/u/60753755?s=72&u=843d5118c3198586bae45c890a08266f0d834e22&v=4" width="24" alt="Avatar of ignaspangonis"> ignaspangonis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ignaspangonis">Copy rank badge</a><br/>
+			Ignas Pangonis
 		</td>
-		<td>Devbridge </td>
+		<td>@vinted  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/lukebars">
-				<img src="https://avatars.githubusercontent.com/u/46403446?s=72&u=ba89cc21554b0a696653dfe2774ec9917492a36f&v=4" width="24" alt="Avatar of lukebars"> lukebars
-			</a><br/>
-			Lukas Baranauskas
-		</td>
-		<td>Head Of Mobile @kilohealth<br/></td>
-		<td><a href="https://twitter.com/lukebars">lukebars</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>462</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/Alexandre887">
 				<img src="https://avatars.githubusercontent.com/u/74434545?s=72&u=1a9c203dc1e0a253d0fcc92f235391d7e4cacddf&v=4" width="24" alt="Avatar of Alexandre887"> Alexandre887
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Alexandre887">Copy rank badge</a><br/>
 			Aleksandras
 		</td>
 		<td>@javascript-tutorial </td>
@@ -6111,11 +6087,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/MariusAlch">
 				<img src="https://avatars.githubusercontent.com/u/11492675?s=72&u=a504b88e1df29fb1b62f83ee210fc07defef6d64&v=4" width="24" alt="Avatar of MariusAlch"> MariusAlch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MariusAlch">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6124,11 +6100,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/StasyaOmak">
 				<img src="https://avatars.githubusercontent.com/u/127408467?s=72&u=9b4bc6030484c95743d37c98c96c7197d147a64d&v=4" width="24" alt="Avatar of StasyaOmak"> StasyaOmak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#StasyaOmak">Copy rank badge</a><br/>
 			Anastasiya Omak
 		</td>
 		<td>No Company</td>
@@ -6137,11 +6113,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/VytasMule">
 				<img src="https://avatars.githubusercontent.com/u/39763791?s=72&u=e62aa6277e0d985e729cb29bd4cf3620793e2e93&v=4" width="24" alt="Avatar of VytasMule"> VytasMule
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#VytasMule">Copy rank badge</a><br/>
 			VytasM
 		</td>
 		<td>Neurotechnology </td>
@@ -6150,24 +6126,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/ArnCarveris">
-				<img src="https://avatars.githubusercontent.com/u/783361?s=72&v=4" width="24" alt="Avatar of ArnCarveris"> ArnCarveris
-			</a><br/>
-			Arn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>467</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/pypt">
 				<img src="https://avatars.githubusercontent.com/u/181949?s=72&u=a2190f8cfaf54e7fb6d476e3cc2dd8d0ea55863d&v=4" width="24" alt="Avatar of pypt"> pypt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pypt">Copy rank badge</a><br/>
 			Linas Valiukas
 		</td>
 		<td>@nesisuksi-negyvensi </td>
@@ -6176,11 +6139,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/Naktibalda">
+				<img src="https://avatars.githubusercontent.com/u/395992?s=72&u=6d10ae72d1e9e1172d9703e3d7dd0a572ca9e26d&v=4" width="24" alt="Avatar of Naktibalda"> Naktibalda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Naktibalda">Copy rank badge</a><br/>
+			Gintautas Miselis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/blockchain-group">
 				<img src="https://avatars.githubusercontent.com/u/53193678?s=72&u=1f36191c4c986130cf81d0e67a734c881daefb45&v=4" width="24" alt="Avatar of blockchain-group"> blockchain-group
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#blockchain-group">Copy rank badge</a><br/>
 			Blockchain and Quantum Technologies Group
 		</td>
 		<td>Vilnius University - Institute<br/>Of<br/>Data<br/>Science<br/>And<br/>Digital<br/>Technologies<br/></td>
@@ -6189,24 +6165,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>469</td>
-		<td>
-			<a href="https://github.com/nedaszilinskas">
-				<img src="https://avatars.githubusercontent.com/u/7509962?s=72&u=5f1402c27f17f111ec946c0b6f02d6eaed0dbfbb&v=4" width="24" alt="Avatar of nedaszilinskas"> nedaszilinskas
-			</a><br/>
-			Nedas Zilinskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>470</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/floatas">
 				<img src="https://avatars.githubusercontent.com/u/7883111?s=72&v=4" width="24" alt="Avatar of floatas"> floatas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#floatas">Copy rank badge</a><br/>
 			Šarūnas
 		</td>
 		<td>No Company</td>
@@ -6215,15 +6178,54 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/astab">
+				<img src="https://avatars.githubusercontent.com/u/6841933?s=72&u=d1231415713e00192cf235c76e452cf0e309333b&v=4" width="24" alt="Avatar of astab"> astab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#astab">Copy rank badge</a><br/>
+			Asta Bankauske
+		</td>
+		<td>@justgoodthemes </td>
+		<td><a href="https://twitter.com/astabankauske">astabankauske</a></td>
+		<td>Lithuania</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/zankevich">
+				<img src="https://avatars.githubusercontent.com/u/5199298?s=72&u=c970e03826cc67e72613592190b8294f8e36b346&v=4" width="24" alt="Avatar of zankevich"> zankevich
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zankevich">Copy rank badge</a><br/>
+			Artyom Zankevich
+		</td>
+		<td>@akveo </td>
+		<td><a href="https://twitter.com/ArtyomZankevich">ArtyomZankevich</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/savenas">
+				<img src="https://avatars.githubusercontent.com/u/6633651?s=72&u=6ed87eb76d6529370e44d14f98afcfa24a84d344&v=4" width="24" alt="Avatar of savenas"> savenas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#savenas">Copy rank badge</a><br/>
+			Tomas Savėnas
+		</td>
+		<td>Atakos Vektorius </td>
+		<td><a href="https://twitter.com/tomas_savenas">tomas_savenas</a></td>
+		<td>Lithuania</td>
+		<td>16</td>
+	</tr>
+	<tr>
 		<td>471</td>
 		<td>
-			<a href="https://github.com/MonikaVen">
-				<img src="https://avatars.githubusercontent.com/u/18329988?s=72&u=18c5c42e8196a44aac9955694a3e367683d2a1ce&v=4" width="24" alt="Avatar of MonikaVen"> MonikaVen
-			</a><br/>
-			Monika Venčkauskaitė
+			<a href="https://github.com/leq382121">
+				<img src="https://avatars.githubusercontent.com/u/15140250?s=72&u=8a1a9d2328ef4885142f06a3bac9253b9eed5ea8&v=4" width="24" alt="Avatar of leq382121"> leq382121
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#leq382121">Copy rank badge</a><br/>
+			Liutauras Razma
 		</td>
-		<td>Monika.ai </td>
-		<td><a href="https://twitter.com/MonikaVenck">MonikaVenck</a></td>
+		<td>Expvcase | Freelance |<br/>Null<br/></td>
+		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>16</td>
 	</tr>
@@ -6232,7 +6234,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/Loruz">
 				<img src="https://avatars.githubusercontent.com/u/14039654?s=72&u=25be135eeb8c21bbbd5b07495d15442691f9b3c6&v=4" width="24" alt="Avatar of Loruz"> Loruz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Loruz">Copy rank badge</a><br/>
 			Vytautas Preiksaitis
 		</td>
 		<td>Satalia.com </td>
@@ -6245,7 +6247,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/tuturis">
 				<img src="https://avatars.githubusercontent.com/u/3598673?s=72&u=22b9148cc00c3270c5a6248162ba0815d07d1d86&v=4" width="24" alt="Avatar of tuturis"> tuturis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tuturis">Copy rank badge</a><br/>
 			Artūras Sotničenko
 		</td>
 		<td>No Company</td>
@@ -6256,12 +6258,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>474</td>
 		<td>
-			<a href="https://github.com/bridzius">
-				<img src="https://avatars.githubusercontent.com/u/2333334?s=72&u=a20bcdc32dd79e639c4916d9b27eba01e7fcf285&v=4" width="24" alt="Avatar of bridzius"> bridzius
-			</a><br/>
-			Jurgis Bridžius
+			<a href="https://github.com/dovydasvenckus">
+				<img src="https://avatars.githubusercontent.com/u/6039918?s=72&u=7078675118e210c3d4dfb2d9acd9fad1a77190a3&v=4" width="24" alt="Avatar of dovydasvenckus"> dovydasvenckus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dovydasvenckus">Copy rank badge</a><br/>
+			Dovydas Venckus
 		</td>
-		<td>No Company</td>
+		<td>Devbridge </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>16</td>
@@ -6269,26 +6271,26 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>475</td>
 		<td>
-			<a href="https://github.com/balu-lt">
-				<img src="https://avatars.githubusercontent.com/u/7798162?s=72&v=4" width="24" alt="Avatar of balu-lt"> balu-lt
-			</a><br/>
-			Vytautas M.
+			<a href="https://github.com/andriusch">
+				<img src="https://avatars.githubusercontent.com/u/25230?s=72&v=4" width="24" alt="Avatar of andriusch"> andriusch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#andriusch">Copy rank badge</a><br/>
+			Andrius Chamentauskas
 		</td>
-		<td>Mb Balu.lt </td>
+		<td>@dcflw  </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>16</td>
+		<td>Vilnius, Lithuania</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>476</td>
 		<td>
-			<a href="https://github.com/ModestasV">
-				<img src="https://avatars.githubusercontent.com/u/3809773?s=72&v=4" width="24" alt="Avatar of ModestasV"> ModestasV
-			</a><br/>
-			Modestas Vaitkevičius
+			<a href="https://github.com/nedaszilinskas">
+				<img src="https://avatars.githubusercontent.com/u/7509962?s=72&u=5f1402c27f17f111ec946c0b6f02d6eaed0dbfbb&v=4" width="24" alt="Avatar of nedaszilinskas"> nedaszilinskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nedaszilinskas">Copy rank badge</a><br/>
+			Nedas Zilinskas
 		</td>
-		<td>Laraveldaily </td>
-		<td><a href="https://twitter.com/ModestasMV">ModestasMV</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>15</td>
 	</tr>
@@ -6297,7 +6299,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/wooslow">
 				<img src="https://avatars.githubusercontent.com/u/84588908?s=72&u=87f8d8236042735f643f8d13049dc3bb4d3cb3b1&v=4" width="24" alt="Avatar of wooslow"> wooslow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#wooslow">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Gurtam (wialon) </td>
@@ -6310,7 +6312,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/putnik">
 				<img src="https://avatars.githubusercontent.com/u/149677?s=72&v=4" width="24" alt="Avatar of putnik"> putnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#putnik">Copy rank badge</a><br/>
 			Sergei Leshchina
 		</td>
 		<td>No Company</td>
@@ -6321,74 +6323,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>479</td>
 		<td>
-			<a href="https://github.com/zankevich">
-				<img src="https://avatars.githubusercontent.com/u/5199298?s=72&u=c970e03826cc67e72613592190b8294f8e36b346&v=4" width="24" alt="Avatar of zankevich"> zankevich
-			</a><br/>
-			Artyom Zankevich
+			<a href="https://github.com/sauliusvl">
+				<img src="https://avatars.githubusercontent.com/u/130936?s=72&u=9f550847eab230afb9ab0648089bccaf66cd9688&v=4" width="24" alt="Avatar of sauliusvl"> sauliusvl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sauliusvl">Copy rank badge</a><br/>
+			Saulius Valatka
 		</td>
-		<td>@akveo </td>
-		<td><a href="https://twitter.com/ArtyomZankevich">ArtyomZankevich</a></td>
+		<td>Vinted </td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>15</td>
 	</tr>
 	<tr>
 		<td>480</td>
 		<td>
-			<a href="https://github.com/tautiz">
-				<img src="https://avatars.githubusercontent.com/u/807294?s=72&v=4" width="24" alt="Avatar of tautiz"> tautiz
-			</a><br/>
-			Tautvydas Dulskis
+			<a href="https://github.com/rbviz">
+				<img src="https://avatars.githubusercontent.com/u/3879004?s=72&u=c11ee186042370e96f10c7fdc1e784b8f7093d09&v=4" width="24" alt="Avatar of rbviz"> rbviz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rbviz">Copy rank badge</a><br/>
+			Aurimas Šeputis
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/ignaspangonis">
-				<img src="https://avatars.githubusercontent.com/u/60753755?s=72&u=843d5118c3198586bae45c890a08266f0d834e22&v=4" width="24" alt="Avatar of ignaspangonis"> ignaspangonis
-			</a><br/>
-			Ignas Pangonis
-		</td>
-		<td>@vinted  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/m1zukash1">
-				<img src="https://avatars.githubusercontent.com/u/75336116?s=72&u=4e971308017268dd2256a3d461412e6e75e4a168&v=4" width="24" alt="Avatar of m1zukash1"> m1zukash1
-			</a><br/>
-			Elvinas Žukauskas
-		</td>
-		<td>Digital.ai </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/l3pp4rd">
-				<img src="https://avatars.githubusercontent.com/u/132389?s=72&u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4" width="24" alt="Avatar of l3pp4rd"> l3pp4rd
-			</a><br/>
-			Gediminas Morkevicius
-		</td>
-		<td>@satalia  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>484</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/stylemistake">
 				<img src="https://avatars.githubusercontent.com/u/1516236?s=72&u=8db71b1f92652082f3b00810b90685e51670af93&v=4" width="24" alt="Avatar of stylemistake"> stylemistake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#stylemistake">Copy rank badge</a><br/>
 			Aleksej Komarov
 		</td>
 		<td>No Company</td>
@@ -6397,50 +6360,76 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>482</td>
 		<td>
-			<a href="https://github.com/SashaSkywalker">
-				<img src="https://avatars.githubusercontent.com/u/6690616?s=72&u=66fa28310aa5fa02bcf482f708f60415ec0c6b12&v=4" width="24" alt="Avatar of SashaSkywalker"> SashaSkywalker
-			</a><br/>
-			Alexander Demeshko
+			<a href="https://github.com/DovydasNavickas">
+				<img src="https://avatars.githubusercontent.com/u/7989797?s=72&u=e7c84ddcd339334282e3f8e320f1949164643785&v=4" width="24" alt="Avatar of DovydasNavickas"> DovydasNavickas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#DovydasNavickas">Copy rank badge</a><br/>
+			Dovydas Navickas
+		</td>
+		<td>@digitalbastion  </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/edmundask">
+				<img src="https://avatars.githubusercontent.com/u/106574?s=72&u=167a619f52e68a0a34b2bbd0a094680df52df690&v=4" width="24" alt="Avatar of edmundask"> edmundask
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#edmundask">Copy rank badge</a><br/>
+			Edmundas Kondrašovas
+		</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/edmundask">edmundask</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/valdas">
+				<img src="https://avatars.githubusercontent.com/u/20543?s=72&u=738920ff368c3a3a40402cb10aa97caa13fb6f40&v=4" width="24" alt="Avatar of valdas"> valdas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#valdas">Copy rank badge</a><br/>
+			Valdas
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/aykut-aktas-covergo">
-				<img src="https://avatars.githubusercontent.com/u/5278565?s=72&u=a141c36a0412c92303fe8df03353631d7194ce18&v=4" width="24" alt="Avatar of aykut-aktas-covergo"> aykut-aktas-covergo
-			</a><br/>
-			Aykut AKTAŞ
-		</td>
-		<td>Covergo </td>
-		<td><a href="https://twitter.com/Aykut__Aktas">Aykut__Aktas</a></td>
-		<td>Vilnius, Lithuania & Mersin, Turkey</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/sauliusvl">
-				<img src="https://avatars.githubusercontent.com/u/130936?s=72&u=9f550847eab230afb9ab0648089bccaf66cd9688&v=4" width="24" alt="Avatar of sauliusvl"> sauliusvl
-			</a><br/>
-			Saulius Valatka
-		</td>
-		<td>Vinted </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/ramunasd">
+				<img src="https://avatars.githubusercontent.com/u/150403?s=72&u=0ef98b78c210ceedb44883673b79c5bb51ceb026&v=4" width="24" alt="Avatar of ramunasd"> ramunasd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ramunasd">Copy rank badge</a><br/>
+			Ramūnas Dronga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/tosiara">
+				<img src="https://avatars.githubusercontent.com/u/3600973?s=72&v=4" width="24" alt="Avatar of tosiara"> tosiara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tosiara">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Virology, Phd, Programmer As<br/>Hobby<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/hitunes">
 				<img src="https://avatars.githubusercontent.com/u/37335772?s=72&v=4" width="24" alt="Avatar of hitunes"> hitunes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#hitunes">Copy rank badge</a><br/>
 			Itunu
 		</td>
 		<td>No Company</td>
@@ -6449,51 +6438,64 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/raimapo">
+				<img src="https://avatars.githubusercontent.com/u/8753567?s=72&v=4" width="24" alt="Avatar of raimapo"> raimapo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#raimapo">Copy rank badge</a><br/>
+			Raimondas Pomarnacki
+		</td>
+		<td>Vilnius Gediminas Technical University<br/></td>
+		<td>No Twitter Username</td>
+		<td>VIlnius, Lithuania</td>
+		<td>14</td>
+	</tr>
+	<tr>
 		<td>489</td>
 		<td>
-			<a href="https://github.com/alxtrkhv">
-				<img src="https://avatars.githubusercontent.com/u/45842462?s=72&v=4" width="24" alt="Avatar of alxtrkhv"> alxtrkhv
-			</a><br/>
-			Aleksandras Terechovas
+			<a href="https://github.com/l3pp4rd">
+				<img src="https://avatars.githubusercontent.com/u/132389?s=72&u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4" width="24" alt="Avatar of l3pp4rd"> l3pp4rd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#l3pp4rd">Copy rank badge</a><br/>
+			Gediminas Morkevicius
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alxtrkhv">alxtrkhv</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>14</td>
+		<td>@satalia  </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>490</td>
 		<td>
-			<a href="https://github.com/merkys7">
-				<img src="https://avatars.githubusercontent.com/u/16621855?s=72&u=08ef4cbbcab18b4bafad79b842633f99394f48f8&v=4" width="24" alt="Avatar of merkys7"> merkys7
-			</a><br/>
-			Merkys Maliukevičius
+			<a href="https://github.com/YaroST12">
+				<img src="https://avatars.githubusercontent.com/u/26440429?s=72&u=f026405da83237cc329767009845dd6dee68a126&v=4" width="24" alt="Avatar of YaroST12"> YaroST12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#YaroST12">Copy rank badge</a><br/>
+			Yaroslav Furman
 		</td>
-		<td>No Company</td>
+		<td>Softeq Development </td>
 		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>14</td>
+		<td>Vilnius, Lithuania</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/astab">
-				<img src="https://avatars.githubusercontent.com/u/6841933?s=72&u=d1231415713e00192cf235c76e452cf0e309333b&v=4" width="24" alt="Avatar of astab"> astab
-			</a><br/>
-			Asta Bankauske
+			<a href="https://github.com/HannaPleshko">
+				<img src="https://avatars.githubusercontent.com/u/74094635?s=72&u=3452cbb82bba3820288bccd3e07ef6b79220980b&v=4" width="24" alt="Avatar of HannaPleshko"> HannaPleshko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#HannaPleshko">Copy rank badge</a><br/>
+			Hanna Pazdzeyeva
 		</td>
-		<td>@justgoodthemes </td>
-		<td><a href="https://twitter.com/astabankauske">astabankauske</a></td>
-		<td>Lithuania</td>
+		<td>Hsc, Ag Software </td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Lithuania</td>
 		<td>13</td>
 	</tr>
 	<tr>
 		<td>492</td>
 		<td>
-			<a href="https://github.com/neone35">
-				<img src="https://avatars.githubusercontent.com/u/9092712?s=72&u=18d4b363a2ace621d817add469c97807b11f3f7f&v=4" width="24" alt="Avatar of neone35"> neone35
-			</a><br/>
-			Artur Maslov
+			<a href="https://github.com/dvisockas">
+				<img src="https://avatars.githubusercontent.com/u/5416478?s=72&u=bc8098a34de5efe2f23b8e09bdb193f02e0e5006&v=4" width="24" alt="Avatar of dvisockas"> dvisockas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dvisockas">Copy rank badge</a><br/>
+			Danielius Visockas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6503,9 +6505,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>493</td>
 		<td>
+			<a href="https://github.com/MarPur">
+				<img src="https://avatars.githubusercontent.com/u/2590908?s=72&u=872406e9fda8435b850ca8f41572344262b7ff5a&v=4" width="24" alt="Avatar of MarPur"> MarPur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MarPur">Copy rank badge</a><br/>
+			Martynas Puronas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/neone35">
+				<img src="https://avatars.githubusercontent.com/u/9092712?s=72&u=18d4b363a2ace621d817add469c97807b11f3f7f&v=4" width="24" alt="Avatar of neone35"> neone35
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#neone35">Copy rank badge</a><br/>
+			Artur Maslov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
 			<a href="https://github.com/aliukevicius">
 				<img src="https://avatars.githubusercontent.com/u/1206295?s=72&u=ed09307b2f5a4d43f26e2b9c1c6cb472923dbfd8&v=4" width="24" alt="Avatar of aliukevicius"> aliukevicius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aliukevicius">Copy rank badge</a><br/>
 			Martynas Aliukevicius
 		</td>
 		<td>No Company</td>
@@ -6514,37 +6542,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>494</td>
-		<td>
-			<a href="https://github.com/BenasB">
-				<img src="https://avatars.githubusercontent.com/u/29711974?s=72&u=c52bfa70076a3447c27512ef6925538db982439c&v=4" width="24" alt="Avatar of BenasB"> BenasB
-			</a><br/>
-			Benas Budrys
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
-			<a href="https://github.com/superboxes">
-				<img src="https://avatars.githubusercontent.com/u/75070927?s=72&u=39d09bdd1a83c4a94ae7e0e6951d9b83f9af5901&v=4" width="24" alt="Avatar of superboxes"> superboxes
-			</a><br/>
-			kestas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>13</td>
-	</tr>
-	<tr>
 		<td>496</td>
+		<td>
+			<a href="https://github.com/jokubauskas">
+				<img src="https://avatars.githubusercontent.com/u/41833654?s=72&u=5ee73509c1f78d84746e82f39d95dd57a35343c1&v=4" width="24" alt="Avatar of jokubauskas"> jokubauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jokubauskas">Copy rank badge</a><br/>
+			Julius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/SashaSkywalker">
+				<img src="https://avatars.githubusercontent.com/u/6690616?s=72&u=66fa28310aa5fa02bcf482f708f60415ec0c6b12&v=4" width="24" alt="Avatar of SashaSkywalker"> SashaSkywalker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#SashaSkywalker">Copy rank badge</a><br/>
+			Alexander Demeshko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/edvinasbartkus">
+				<img src="https://avatars.githubusercontent.com/u/202988?s=72&u=c76d307380aa723ee8c21d74218e6dcb205bb16f&v=4" width="24" alt="Avatar of edvinasbartkus"> edvinasbartkus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#edvinasbartkus">Copy rank badge</a><br/>
+			Edvinas Bartkus
+		</td>
+		<td>Comfortof.com </td>
+		<td><a href="https://twitter.com/edvinasbartkus">edvinasbartkus</a></td>
+		<td>Vilnius</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/AgniusBartninkas">
 				<img src="https://avatars.githubusercontent.com/u/73162933?s=72&u=2c47807748cdf8e3d530ebf1fc4185ef7a70fa5f&v=4" width="24" alt="Avatar of AgniusBartninkas"> AgniusBartninkas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AgniusBartninkas">Copy rank badge</a><br/>
 			Agnius
 		</td>
 		<td>Herexis </td>
@@ -6553,37 +6594,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>500</td>
 		<td>
-			<a href="https://github.com/rkononov">
-				<img src="https://avatars.githubusercontent.com/u/187434?s=72&u=0fe8e7d858ce2634974a8e830741f3029d38ca96&v=4" width="24" alt="Avatar of rkononov"> rkononov
-			</a><br/>
-			Roman
+			<a href="https://github.com/haslie22">
+				<img src="https://avatars.githubusercontent.com/u/79032502?s=72&u=180a169eecb52d84cbe4a1e3b5c23061b0e0c5d2&v=4" width="24" alt="Avatar of haslie22"> haslie22
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#haslie22">Copy rank badge</a><br/>
+			Lizaveta D.
 		</td>
-		<td>Uber </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius LT</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/andriusch">
-				<img src="https://avatars.githubusercontent.com/u/25230?s=72&v=4" width="24" alt="Avatar of andriusch"> andriusch
-			</a><br/>
-			Andrius Chamentauskas
-		</td>
-		<td>@dcflw  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/sandrejev">
+				<img src="https://avatars.githubusercontent.com/u/2428?s=72&u=ba2b981f2486966ac82626ec971c2a7a113a3e58&v=4" width="24" alt="Avatar of sandrejev"> sandrejev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#sandrejev">Copy rank badge</a><br/>
+			Sergej Andrejev
+		</td>
+		<td>Embl </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/wCatly">
 				<img src="https://avatars.githubusercontent.com/u/36376486?s=72&v=4" width="24" alt="Avatar of wCatly"> wCatly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#wCatly">Copy rank badge</a><br/>
 			Florian
 		</td>
 		<td>No Company</td>
@@ -6592,37 +6633,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>503</td>
 		<td>
-			<a href="https://github.com/raimapo">
-				<img src="https://avatars.githubusercontent.com/u/8753567?s=72&v=4" width="24" alt="Avatar of raimapo"> raimapo
-			</a><br/>
-			Raimondas Pomarnacki
+			<a href="https://github.com/matas3535">
+				<img src="https://avatars.githubusercontent.com/u/102203325?s=72&u=2c86d69c533edcc7e95ae11320009287fd00741e&v=4" width="24" alt="Avatar of matas3535"> matas3535
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#matas3535">Copy rank badge</a><br/>
+			matas
 		</td>
-		<td>Vilnius Gediminas Technical University<br/></td>
+		<td>Atlanta.gg </td>
 		<td>No Twitter Username</td>
-		<td>VIlnius, Lithuania</td>
+		<td>Lietuva, Vilnius</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>504</td>
 		<td>
-			<a href="https://github.com/Onixaz">
-				<img src="https://avatars.githubusercontent.com/u/29450503?s=72&u=08a60fdabcd2c65350fdbd8380db8b432d0a1dcc&v=4" width="24" alt="Avatar of Onixaz"> Onixaz
-			</a><br/>
-			Juozas Polikevičius
+			<a href="https://github.com/merkys7">
+				<img src="https://avatars.githubusercontent.com/u/16621855?s=72&u=08ef4cbbcab18b4bafad79b842633f99394f48f8&v=4" width="24" alt="Avatar of merkys7"> merkys7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#merkys7">Copy rank badge</a><br/>
+			Merkys Maliukevičius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Kaunas</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/Alefas">
 				<img src="https://avatars.githubusercontent.com/u/94064?s=72&v=4" width="24" alt="Avatar of Alefas"> Alefas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Alefas">Copy rank badge</a><br/>
 			Alexander Podkhalyuzin
 		</td>
 		<td>Jetbrains </td>
@@ -6631,50 +6672,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>503</td>
-		<td>
-			<a href="https://github.com/Naktibalda">
-				<img src="https://avatars.githubusercontent.com/u/395992?s=72&u=6d10ae72d1e9e1172d9703e3d7dd0a572ca9e26d&v=4" width="24" alt="Avatar of Naktibalda"> Naktibalda
-			</a><br/>
-			Gintautas Miselis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/rengetsu">
-				<img src="https://avatars.githubusercontent.com/u/33583122?s=72&u=f8417c31d435bd3cc0b324a15fa0b9ab39898940&v=4" width="24" alt="Avatar of rengetsu"> rengetsu
-			</a><br/>
-			Pavel Trostianko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/DovydasNavickas">
-				<img src="https://avatars.githubusercontent.com/u/7989797?s=72&u=e7c84ddcd339334282e3f8e320f1949164643785&v=4" width="24" alt="Avatar of DovydasNavickas"> DovydasNavickas
-			</a><br/>
-			Dovydas Navickas
-		</td>
-		<td>@digitalbastion  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>506</td>
+		<td>
+			<a href="https://github.com/redross">
+				<img src="https://avatars.githubusercontent.com/u/1102710?s=72&v=4" width="24" alt="Avatar of redross"> redross
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#redross">Copy rank badge</a><br/>
+			Gintaras Sakalauskas
+		</td>
+		<td>@toptal </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/antpts">
 				<img src="https://avatars.githubusercontent.com/u/4619967?s=72&u=24181b441891dd7485b988994cc2cd00cdc4560f&v=4" width="24" alt="Avatar of antpts"> antpts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#antpts">Copy rank badge</a><br/>
 			Antanas
 		</td>
 		<td>@hostinger  </td>
@@ -6683,42 +6698,29 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/mmozuras">
-				<img src="https://avatars.githubusercontent.com/u/54526?s=72&u=a16276e9122346beb60d9fb4d5f6be61cbb0455b&v=4" width="24" alt="Avatar of mmozuras"> mmozuras
-			</a><br/>
-			Mindaugas Mozūras
-		</td>
-		<td>@vinted </td>
-		<td><a href="https://twitter.com/mmozuras">mmozuras</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>508</td>
 		<td>
-			<a href="https://github.com/YaroST12">
-				<img src="https://avatars.githubusercontent.com/u/26440429?s=72&u=f026405da83237cc329767009845dd6dee68a126&v=4" width="24" alt="Avatar of YaroST12"> YaroST12
-			</a><br/>
-			Yaroslav Furman
+			<a href="https://github.com/dagirard">
+				<img src="https://avatars.githubusercontent.com/u/15107354?s=72&u=976c46b4e5aecb4f9a78f11c7c762aaabd007a8e&v=4" width="24" alt="Avatar of dagirard"> dagirard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dagirard">Copy rank badge</a><br/>
+			Damien
 		</td>
-		<td>Softeq Development </td>
+		<td>@microsoft  </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>10</td>
+		<td>Lithuania</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>509</td>
 		<td>
-			<a href="https://github.com/AlgirdasPundzius">
-				<img src="https://avatars.githubusercontent.com/u/16317866?s=72&u=180254279a545d10ff4de7a76bc77b424f509e1b&v=4" width="24" alt="Avatar of AlgirdasPundzius"> AlgirdasPundzius
-			</a><br/>
-			Algirdas
+			<a href="https://github.com/laurynas">
+				<img src="https://avatars.githubusercontent.com/u/130315?s=72&v=4" width="24" alt="Avatar of laurynas"> laurynas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laurynas">Copy rank badge</a><br/>
+			Laurynas Butkus
 		</td>
-		<td>Protonmail </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Lithuania, Vilnius</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6726,7 +6728,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/justasm">
 				<img src="https://avatars.githubusercontent.com/u/1081815?s=72&v=4" width="24" alt="Avatar of justasm"> justasm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justasm">Copy rank badge</a><br/>
 			Justas Medeišis
 		</td>
 		<td>@trafi  </td>
@@ -6737,9 +6739,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>511</td>
 		<td>
+			<a href="https://github.com/aykut-aktas-covergo">
+				<img src="https://avatars.githubusercontent.com/u/5278565?s=72&u=a141c36a0412c92303fe8df03353631d7194ce18&v=4" width="24" alt="Avatar of aykut-aktas-covergo"> aykut-aktas-covergo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aykut-aktas-covergo">Copy rank badge</a><br/>
+			Aykut AKTAŞ
+		</td>
+		<td>Covergo </td>
+		<td><a href="https://twitter.com/Aykut__Aktas">Aykut__Aktas</a></td>
+		<td>Vilnius, Lithuania & Mersin, Turkey</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/delivey">
+				<img src="https://avatars.githubusercontent.com/u/35540227?s=72&u=56959124d0fccd4ff6d003137a10e7fbc5cf111c&v=4" width="24" alt="Avatar of delivey"> delivey
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#delivey">Copy rank badge</a><br/>
+			delivey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
 			<a href="https://github.com/MrR0807">
 				<img src="https://avatars.githubusercontent.com/u/24605837?s=72&v=4" width="24" alt="Avatar of MrR0807"> MrR0807
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MrR0807">Copy rank badge</a><br/>
 			Laurynas
 		</td>
 		<td>No Company</td>
@@ -6748,24 +6776,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>514</td>
 		<td>
-			<a href="https://github.com/valdas">
-				<img src="https://avatars.githubusercontent.com/u/20543?s=72&u=738920ff368c3a3a40402cb10aa97caa13fb6f40&v=4" width="24" alt="Avatar of valdas"> valdas
-			</a><br/>
-			Valdas
+			<a href="https://github.com/khadorkin">
+				<img src="https://avatars.githubusercontent.com/u/895769?s=72&v=4" width="24" alt="Avatar of khadorkin"> khadorkin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#khadorkin">Copy rank badge</a><br/>
+			Dima Khadorkin
 		</td>
-		<td>No Company</td>
+		<td>Mobile Roadie </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/twinpixxx">
 				<img src="https://avatars.githubusercontent.com/u/10453907?s=72&u=09948e5b72d2fbfd32c5383aacfc7fbe82811d1a&v=4" width="24" alt="Avatar of twinpixxx"> twinpixxx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#twinpixxx">Copy rank badge</a><br/>
 			Anthony Borushko
 		</td>
 		<td>Gurtam </td>
@@ -6774,37 +6802,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/macgena">
-				<img src="https://avatars.githubusercontent.com/u/12571809?s=72&u=eb585275016d4c82a15f6c7a94cc65d73ecd3865&v=4" width="24" alt="Avatar of macgena"> macgena
-			</a><br/>
-			Gennady Minenkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
-			<a href="https://github.com/ramunasd">
-				<img src="https://avatars.githubusercontent.com/u/150403?s=72&u=0ef98b78c210ceedb44883673b79c5bb51ceb026&v=4" width="24" alt="Avatar of ramunasd"> ramunasd
-			</a><br/>
-			Ramūnas Dronga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>516</td>
 		<td>
 			<a href="https://github.com/0x337">
 				<img src="https://avatars.githubusercontent.com/u/6741828?s=72&u=09a22805078a54fa7e9ef2dfaa31c80cd99d4f8a&v=4" width="24" alt="Avatar of 0x337"> 0x337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#0x337">Copy rank badge</a><br/>
 			HouSseMx337
 		</td>
 		<td>No Company</td>
@@ -6815,14 +6817,14 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/dagirard">
-				<img src="https://avatars.githubusercontent.com/u/15107354?s=72&u=976c46b4e5aecb4f9a78f11c7c762aaabd007a8e&v=4" width="24" alt="Avatar of dagirard"> dagirard
-			</a><br/>
-			Damien
+			<a href="https://github.com/m1zukash1">
+				<img src="https://avatars.githubusercontent.com/u/75336116?s=72&u=4e971308017268dd2256a3d461412e6e75e4a168&v=4" width="24" alt="Avatar of m1zukash1"> m1zukash1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#m1zukash1">Copy rank badge</a><br/>
+			Elvinas Žukauskas
 		</td>
-		<td>@microsoft  </td>
+		<td>Digital.ai </td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Lithuania, Vilnius</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6830,7 +6832,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/shivas">
 				<img src="https://avatars.githubusercontent.com/u/577493?s=72&v=4" width="24" alt="Avatar of shivas"> shivas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#shivas">Copy rank badge</a><br/>
 			Audrius Karabanovas
 		</td>
 		<td>@omnisend Sre </td>
@@ -6841,25 +6843,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>519</td>
 		<td>
-			<a href="https://github.com/Pavelas">
-				<img src="https://avatars.githubusercontent.com/u/9263565?s=72&u=6ca8e4f01e10207483bf6f813ae582e372d621f0&v=4" width="24" alt="Avatar of Pavelas"> Pavelas
-			</a><br/>
-			Pavelas
+			<a href="https://github.com/AlgirdasPundzius">
+				<img src="https://avatars.githubusercontent.com/u/16317866?s=72&u=180254279a545d10ff4de7a76bc77b424f509e1b&v=4" width="24" alt="Avatar of AlgirdasPundzius"> AlgirdasPundzius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AlgirdasPundzius">Copy rank badge</a><br/>
+			Algirdas
 		</td>
-		<td>@vinted </td>
-		<td><a href="https://twitter.com/epavelas">epavelas</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>10</td>
+		<td>Protonmail </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>520</td>
 		<td>
-			<a href="https://github.com/khadorkin">
-				<img src="https://avatars.githubusercontent.com/u/895769?s=72&v=4" width="24" alt="Avatar of khadorkin"> khadorkin
-			</a><br/>
-			Dima Khadorkin
+			<a href="https://github.com/rengetsu">
+				<img src="https://avatars.githubusercontent.com/u/33583122?s=72&u=f8417c31d435bd3cc0b324a15fa0b9ab39898940&v=4" width="24" alt="Avatar of rengetsu"> rengetsu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rengetsu">Copy rank badge</a><br/>
+			Pavel Trostianko
 		</td>
-		<td>Mobile Roadie </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>9</td>
@@ -6867,75 +6869,75 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>521</td>
 		<td>
-			<a href="https://github.com/jpotapova">
-				<img src="https://avatars.githubusercontent.com/u/6025429?s=72&u=914bb66ad3f87c5d5f53a1f132ebe7e90094e249&v=4" width="24" alt="Avatar of jpotapova"> jpotapova
-			</a><br/>
-			Jelizaveta Potapova
+			<a href="https://github.com/dostu">
+				<img src="https://avatars.githubusercontent.com/u/542213?s=72&u=f5d27886733937d5c8b1ca3941cdff751a2856a0&v=4" width="24" alt="Avatar of dostu"> dostu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dostu">Copy rank badge</a><br/>
+			Donatas Stundys
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Kaching Appz </td>
+		<td><a href="https://twitter.com/DonatasStundys">DonatasStundys</a></td>
 		<td>Vilnius</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>522</td>
 		<td>
-			<a href="https://github.com/aarrtturas">
-				<img src="https://avatars.githubusercontent.com/u/41419745?s=72&u=d971f41080a8b7a09847d76a1e7b210d750f63b2&v=4" width="24" alt="Avatar of aarrtturas"> aarrtturas
-			</a><br/>
-			Arturas
+			<a href="https://github.com/full-disclosure">
+				<img src="https://avatars.githubusercontent.com/u/62108425?s=72&u=0ab3d834241eab9e807d9f4ca2fe8a9727ee9554&v=4" width="24" alt="Avatar of full-disclosure"> full-disclosure
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#full-disclosure">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Full Disclosure </td>
+		<td><a href="https://twitter.com/FDEUsec">FDEUsec</a></td>
 		<td>Lithuania</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>523</td>
 		<td>
-			<a href="https://github.com/rbviz">
-				<img src="https://avatars.githubusercontent.com/u/3879004?s=72&u=c11ee186042370e96f10c7fdc1e784b8f7093d09&v=4" width="24" alt="Avatar of rbviz"> rbviz
-			</a><br/>
-			Aurimas Šeputis
+			<a href="https://github.com/rolka">
+				<img src="https://avatars.githubusercontent.com/u/1561437?s=72&v=4" width="24" alt="Avatar of rolka"> rolka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rolka">Copy rank badge</a><br/>
+			Rolandas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Klaipeda, Lithuania</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>524</td>
 		<td>
-			<a href="https://github.com/emilisb">
-				<img src="https://avatars.githubusercontent.com/u/13116854?s=72&v=4" width="24" alt="Avatar of emilisb"> emilisb
-			</a><br/>
-			Emilis Baliukonis
+			<a href="https://github.com/ko5tik">
+				<img src="https://avatars.githubusercontent.com/u/207374?s=72&v=4" width="24" alt="Avatar of ko5tik"> ko5tik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ko5tik">Copy rank badge</a><br/>
+			Konstantin Pribluda
 		</td>
-		<td>Wix.com </td>
+		<td>Uab It Servisas Benamukas<br/></td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Vilnius, Lithuania</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>525</td>
 		<td>
-			<a href="https://github.com/psychonout">
-				<img src="https://avatars.githubusercontent.com/u/32778999?s=72&v=4" width="24" alt="Avatar of psychonout"> psychonout
-			</a><br/>
-			Donatas Gostautas
+			<a href="https://github.com/aegis-dev">
+				<img src="https://avatars.githubusercontent.com/u/9258804?s=72&u=fc7c024228030dfc0df33a114f0ab5abc7f1d2e7&v=4" width="24" alt="Avatar of aegis-dev"> aegis-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aegis-dev">Copy rank badge</a><br/>
+			Egidijus Lileika
 		</td>
-		<td>Scandic Fusion, Subkultura.lt, Fm99.lt,<br/>Dearhome.lt<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Lithuania</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>526</td>
 		<td>
-			<a href="https://github.com/deees">
-				<img src="https://avatars.githubusercontent.com/u/282701?s=72&v=4" width="24" alt="Avatar of deees"> deees
-			</a><br/>
-			Tomas Brazys
+			<a href="https://github.com/aarrtturas">
+				<img src="https://avatars.githubusercontent.com/u/41419745?s=72&u=d971f41080a8b7a09847d76a1e7b210d750f63b2&v=4" width="24" alt="Avatar of aarrtturas"> aarrtturas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aarrtturas">Copy rank badge</a><br/>
+			Arturas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6945,9 +6947,22 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>527</td>
 		<td>
+			<a href="https://github.com/deees">
+				<img src="https://avatars.githubusercontent.com/u/282701?s=72&v=4" width="24" alt="Avatar of deees"> deees
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#deees">Copy rank badge</a><br/>
+			Tomas Brazys
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
 			<a href="https://github.com/vmag">
 				<img src="https://avatars.githubusercontent.com/u/545111?s=72&u=007e0ee8063fd70e9028c91d025181e125042b99&v=4" width="24" alt="Avatar of vmag"> vmag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vmag">Copy rank badge</a><br/>
 			Virginijus Magelinskas
 		</td>
 		<td>Sigaba </td>
@@ -6956,11 +6971,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/viliusle">
 				<img src="https://avatars.githubusercontent.com/u/3708786?s=72&u=b2a9a98562e264013269fc94919dade1e7fc6fc0&v=4" width="24" alt="Avatar of viliusle"> viliusle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#viliusle">Copy rank badge</a><br/>
 			Vilius
 		</td>
 		<td>No Company</td>
@@ -6969,11 +6984,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/rendertom">
 				<img src="https://avatars.githubusercontent.com/u/5024248?s=72&u=39204446d33483bb8431b8ee1906f8cf74757ebb&v=4" width="24" alt="Avatar of rendertom"> rendertom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rendertom">Copy rank badge</a><br/>
 			Tomas Šinkūnas
 		</td>
 		<td>No Company</td>
@@ -6982,29 +6997,16 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>530</td>
-		<td>
-			<a href="https://github.com/edvinasbartkus">
-				<img src="https://avatars.githubusercontent.com/u/202988?s=72&u=c76d307380aa723ee8c21d74218e6dcb205bb16f&v=4" width="24" alt="Avatar of edvinasbartkus"> edvinasbartkus
-			</a><br/>
-			Edvinas Bartkus
-		</td>
-		<td>Comfortof.com </td>
-		<td><a href="https://twitter.com/edvinasbartkus">edvinasbartkus</a></td>
-		<td>Vilnius</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>531</td>
 		<td>
-			<a href="https://github.com/ViliusLuneckas">
-				<img src="https://avatars.githubusercontent.com/u/217922?s=72&u=6011256edd8713769097822adb2799e9136705cb&v=4" width="24" alt="Avatar of ViliusLuneckas"> ViliusLuneckas
-			</a><br/>
-			Vilius Luneckas
+			<a href="https://github.com/donatasm">
+				<img src="https://avatars.githubusercontent.com/u/1093394?s=72&u=c3c1fbaad7eb2d0b57c3e6384246a0c2735a8862&v=4" width="24" alt="Avatar of donatasm"> donatasm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#donatasm">Copy rank badge</a><br/>
+			Donatas Mažionis
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/viliusluneckas">viliusluneckas</a></td>
-		<td>Vilnius, Lithuania</td>
+		<td><a href="https://twitter.com/donatasm">donatasm</a></td>
+		<td>Vilnius</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7012,7 +7014,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/alga">
 				<img src="https://avatars.githubusercontent.com/u/992017?s=72&v=4" width="24" alt="Avatar of alga"> alga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#alga">Copy rank badge</a><br/>
 			Albertas Agejevas
 		</td>
 		<td>No Company</td>
@@ -7025,7 +7027,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/mjurkus">
 				<img src="https://avatars.githubusercontent.com/u/427661?s=72&v=4" width="24" alt="Avatar of mjurkus"> mjurkus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mjurkus">Copy rank badge</a><br/>
 			Martynas Jurkus
 		</td>
 		<td>@vinted </td>
@@ -7036,9 +7038,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>534</td>
 		<td>
+			<a href="https://github.com/vasnake">
+				<img src="https://avatars.githubusercontent.com/u/4005953?s=72&u=5d492882132266d988be57b62a9e9c767a93ad0d&v=4" width="24" alt="Avatar of vasnake"> vasnake
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vasnake">Copy rank badge</a><br/>
+			Valentin
+		</td>
+		<td>Gameram Https://www.gameram. </td>
+		<td>No Twitter Username</td>
+		<td>Klaipėda, Lithuania</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/dziulius">
+				<img src="https://avatars.githubusercontent.com/u/63702?s=72&u=cc7a65f9b9c65ff9016c59c2340206cd7552c047&v=4" width="24" alt="Avatar of dziulius"> dziulius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dziulius">Copy rank badge</a><br/>
+			Julius Markūnas
+		</td>
+		<td>@toptal  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
 			<a href="https://github.com/nmklotas">
 				<img src="https://avatars.githubusercontent.com/u/4801422?s=72&v=4" width="24" alt="Avatar of nmklotas"> nmklotas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nmklotas">Copy rank badge</a><br/>
 			Julius
 		</td>
 		<td>No Company</td>
@@ -7047,24 +7075,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>535</td>
-		<td>
-			<a href="https://github.com/GeorgeNagib">
-				<img src="https://avatars.githubusercontent.com/u/77877978?s=72&u=7b9cbe38596409c59138497239c65807ef0731ec&v=4" width="24" alt="Avatar of GeorgeNagib"> GeorgeNagib
-			</a><br/>
-			George Nagib
-		</td>
-		<td>Royalty.software </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/dasaco">
 				<img src="https://avatars.githubusercontent.com/u/15250477?s=72&u=202535a7549b4c08c556e8e7a517de199a4503f2&v=4" width="24" alt="Avatar of dasaco"> dasaco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dasaco">Copy rank badge</a><br/>
 			Daniel Grek Sanchez Castellanos
 		</td>
 		<td>Salesforge </td>
@@ -7073,11 +7088,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/codegrapple">
 				<img src="https://avatars.githubusercontent.com/u/3277149?s=72&u=faef7b540609883efe94b8dad248c880e07fb934&v=4" width="24" alt="Avatar of codegrapple"> codegrapple
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#codegrapple">Copy rank badge</a><br/>
 			Arian Behvandnejad
 		</td>
 		<td>No Company</td>
@@ -7086,38 +7101,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>538</td>
-		<td>
-			<a href="https://github.com/MartynasKupsys">
-				<img src="https://avatars.githubusercontent.com/u/93048456?s=72&u=325f2ad69f4745927fe343f137cda24c804a1996&v=4" width="24" alt="Avatar of MartynasKupsys"> MartynasKupsys
-			</a><br/>
-			Martynas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>539</td>
 		<td>
-			<a href="https://github.com/hitman99">
-				<img src="https://avatars.githubusercontent.com/u/907201?s=72&v=4" width="24" alt="Avatar of hitman99"> hitman99
-			</a><br/>
-			Tomas
+			<a href="https://github.com/psychonout">
+				<img src="https://avatars.githubusercontent.com/u/32778999?s=72&v=4" width="24" alt="Avatar of psychonout"> psychonout
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#psychonout">Copy rank badge</a><br/>
+			Donatas Gostautas
 		</td>
-		<td>No Company</td>
+		<td>Scandic Fusion, Subkultura.lt, Fm99.lt,<br/>Dearhome.lt<br/></td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Kaunas</td>
+		<td>Vilnius</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>540</td>
 		<td>
-			<a href="https://github.com/YuryHouse">
-				<img src="https://avatars.githubusercontent.com/u/100120299?s=72&u=da237b2c2f96e0dde679d7a83bf5fe92daf3d063&v=4" width="24" alt="Avatar of YuryHouse"> YuryHouse
-			</a><br/>
-			Yury Zhykharka
+			<a href="https://github.com/retrry">
+				<img src="https://avatars.githubusercontent.com/u/500703?s=72&v=4" width="24" alt="Avatar of retrry"> retrry
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#retrry">Copy rank badge</a><br/>
+			Tadas Barzdžius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7127,22 +7129,9 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>541</td>
 		<td>
-			<a href="https://github.com/retrry">
-				<img src="https://avatars.githubusercontent.com/u/500703?s=72&v=4" width="24" alt="Avatar of retrry"> retrry
-			</a><br/>
-			Tadas Barzdžius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>542</td>
-		<td>
 			<a href="https://github.com/MantasTumenas">
 				<img src="https://avatars.githubusercontent.com/u/47737420?s=72&v=4" width="24" alt="Avatar of MantasTumenas"> MantasTumenas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MantasTumenas">Copy rank badge</a><br/>
 			Mantas Tumenas
 		</td>
 		<td>No Company</td>
@@ -7151,11 +7140,63 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/Pavelas">
+				<img src="https://avatars.githubusercontent.com/u/9263565?s=72&u=6ca8e4f01e10207483bf6f813ae582e372d621f0&v=4" width="24" alt="Avatar of Pavelas"> Pavelas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Pavelas">Copy rank badge</a><br/>
+			Pavelas
+		</td>
+		<td>@vinted </td>
+		<td><a href="https://twitter.com/epavelas">epavelas</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>543</td>
+		<td>
+			<a href="https://github.com/viliusddd">
+				<img src="https://avatars.githubusercontent.com/u/30282958?s=72&u=29bc57643e21dda4166114f2251ffebcc5f9a932&v=4" width="24" alt="Avatar of viliusddd"> viliusddd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#viliusddd">Copy rank badge</a><br/>
+			Vilius Juodžiukynas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/mmozuras">
+				<img src="https://avatars.githubusercontent.com/u/54526?s=72&u=a16276e9122346beb60d9fb4d5f6be61cbb0455b&v=4" width="24" alt="Avatar of mmozuras"> mmozuras
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mmozuras">Copy rank badge</a><br/>
+			Mindaugas Mozūras
+		</td>
+		<td>@vinted </td>
+		<td><a href="https://twitter.com/mmozuras">mmozuras</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/maksim-volkmann">
+				<img src="https://avatars.githubusercontent.com/u/15999593?s=72&u=21ba6281d7c08ec243793f441113d844686c2d88&v=4" width="24" alt="Avatar of maksim-volkmann"> maksim-volkmann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#maksim-volkmann">Copy rank badge</a><br/>
+			Maksim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/CADBIMDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/14212214?s=72&u=472d5a9f2782a91a3d9e50815859a414b1bb7575&v=4" width="24" alt="Avatar of CADBIMDeveloper"> CADBIMDeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#CADBIMDeveloper">Copy rank badge</a><br/>
 			Alexander Ignatovich
 		</td>
 		<td>No Company</td>
@@ -7164,11 +7205,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/pranas">
 				<img src="https://avatars.githubusercontent.com/u/91422?s=72&u=e1fd6a70a6e45ee63720e6897d666fa0b4f217e7&v=4" width="24" alt="Avatar of pranas"> pranas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#pranas">Copy rank badge</a><br/>
 			Pranas Kiziela
 		</td>
 		<td>Tripadd </td>
@@ -7177,11 +7218,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/ViliusLuneckas">
+				<img src="https://avatars.githubusercontent.com/u/217922?s=72&u=6011256edd8713769097822adb2799e9136705cb&v=4" width="24" alt="Avatar of ViliusLuneckas"> ViliusLuneckas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ViliusLuneckas">Copy rank badge</a><br/>
+			Vilius Luneckas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/viliusluneckas">viliusluneckas</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/Hamza-Nasir">
 				<img src="https://avatars.githubusercontent.com/u/58875099?s=72&u=3e25c91d986484a96ea544b8bc863e01fa3e2ae6&v=4" width="24" alt="Avatar of Hamza-Nasir"> Hamza-Nasir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Hamza-Nasir">Copy rank badge</a><br/>
 			Hamza Nasir
 		</td>
 		<td>No Company</td>
@@ -7190,37 +7244,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/Makentoshe">
-				<img src="https://avatars.githubusercontent.com/u/20960889?s=72&u=ecae8538ba646f3ee0365e406832595bbf702779&v=4" width="24" alt="Avatar of Makentoshe"> Makentoshe
-			</a><br/>
-			Khvostov Maksim
-		</td>
-		<td>Devexperts </td>
-		<td>No Twitter Username</td>
-		<td>SolarSystem/Earth/Vilnius</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/StuCodeGreen">
-				<img src="https://avatars.githubusercontent.com/u/23572717?s=72&u=7644a15e7739933521638afa5a61b1bb556b03cd&v=4" width="24" alt="Avatar of StuCodeGreen"> StuCodeGreen
-			</a><br/>
-			Martynas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>548</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Combinacijus">
 				<img src="https://avatars.githubusercontent.com/u/16375702?s=72&u=ab770a2985fc388bfa1e175ef0d36f4c1dad14a3&v=4" width="24" alt="Avatar of Combinacijus"> Combinacijus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Combinacijus">Copy rank badge</a><br/>
 			Gintaras
 		</td>
 		<td>No Company</td>
@@ -7229,11 +7257,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/StuCodeGreen">
+				<img src="https://avatars.githubusercontent.com/u/23572717?s=72&u=7644a15e7739933521638afa5a61b1bb556b03cd&v=4" width="24" alt="Avatar of StuCodeGreen"> StuCodeGreen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#StuCodeGreen">Copy rank badge</a><br/>
+			Martynas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/alxtrkhv">
+				<img src="https://avatars.githubusercontent.com/u/45842462?s=72&v=4" width="24" alt="Avatar of alxtrkhv"> alxtrkhv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#alxtrkhv">Copy rank badge</a><br/>
+			Aleksandras Terechovas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alxtrkhv">alxtrkhv</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/YuryHouse">
+				<img src="https://avatars.githubusercontent.com/u/100120299?s=72&u=da237b2c2f96e0dde679d7a83bf5fe92daf3d063&v=4" width="24" alt="Avatar of YuryHouse"> YuryHouse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#YuryHouse">Copy rank badge</a><br/>
+			Yury Zhykharka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/grozail">
 				<img src="https://avatars.githubusercontent.com/u/24612499?s=72&u=c91805af7d267bb9aad4113edb69e48284c6e3af&v=4" width="24" alt="Avatar of grozail"> grozail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#grozail">Copy rank badge</a><br/>
 			Ilja Hrozau
 		</td>
 		<td>No Company</td>
@@ -7242,50 +7309,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>550</td>
-		<td>
-			<a href="https://github.com/grimsa">
-				<img src="https://avatars.githubusercontent.com/u/8446128?s=72&u=a62c5ea9a71d6ff0bba1b3d7cefa910a757c4b62&v=4" width="24" alt="Avatar of grimsa"> grimsa
-			</a><br/>
-			Gediminas Rimša
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/viliusddd">
-				<img src="https://avatars.githubusercontent.com/u/30282958?s=72&u=29bc57643e21dda4166114f2251ffebcc5f9a932&v=4" width="24" alt="Avatar of viliusddd"> viliusddd
-			</a><br/>
-			Vilius Juodžiukynas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/mantasaudickas">
-				<img src="https://avatars.githubusercontent.com/u/1263609?s=72&u=468c823fa743fada763cf90273f3aa4249629ce8&v=4" width="24" alt="Avatar of mantasaudickas"> mantasaudickas
-			</a><br/>
-			Mantas Audickas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>553</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/chompomonim">
 				<img src="https://avatars.githubusercontent.com/u/153896?s=72&u=601e51850cf0cc591537d07e4f8f589fc851f5ed&v=4" width="24" alt="Avatar of chompomonim"> chompomonim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#chompomonim">Copy rank badge</a><br/>
 			Jaro
 		</td>
 		<td>No Company</td>
@@ -7294,37 +7322,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/vkuznecovas">
-				<img src="https://avatars.githubusercontent.com/u/18392269?s=72&u=c5be6ce64db8319b19fccedf6f7eee1612a6fb09&v=4" width="24" alt="Avatar of vkuznecovas"> vkuznecovas
-			</a><br/>
-			Viktoras
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/delivey">
-				<img src="https://avatars.githubusercontent.com/u/35540227?s=72&u=56959124d0fccd4ff6d003137a10e7fbc5cf111c&v=4" width="24" alt="Avatar of delivey"> delivey
-			</a><br/>
-			delivey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>6</td>
-	</tr>
-	<tr>
 		<td>556</td>
 		<td>
 			<a href="https://github.com/EdPutans">
 				<img src="https://avatars.githubusercontent.com/u/40257315?s=72&u=b0433c54edc73d7f51cb376c78bc235bda9662cf&v=4" width="24" alt="Avatar of EdPutans"> EdPutans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#EdPutans">Copy rank badge</a><br/>
 			Ed Putans
 		</td>
 		<td>No Company</td>
@@ -7335,22 +7337,9 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>557</td>
 		<td>
-			<a href="https://github.com/paulius-sladkevicius">
-				<img src="https://avatars.githubusercontent.com/u/213811?s=72&v=4" width="24" alt="Avatar of paulius-sladkevicius"> paulius-sladkevicius
-			</a><br/>
-			Paulius Sladkevičius
-		</td>
-		<td>Versada </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Kaunas</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>558</td>
-		<td>
 			<a href="https://github.com/voidexp">
 				<img src="https://avatars.githubusercontent.com/u/595098?s=72&u=5859b6cf87f0b59453b72faf8d9da97820376ee3&v=4" width="24" alt="Avatar of voidexp"> voidexp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#voidexp">Copy rank badge</a><br/>
 			Ivan Nikolaev
 		</td>
 		<td>No Company</td>
@@ -7359,11 +7348,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/egils">
 				<img src="https://avatars.githubusercontent.com/u/399994?s=72&u=7f356c1d136224eef8771a69fef4fdf58fa56af6&v=4" width="24" alt="Avatar of egils"> egils
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#egils">Copy rank badge</a><br/>
 			Egidijus Lukauskas
 		</td>
 		<td>Eany.io </td>
@@ -7372,12 +7361,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/svycka">
+				<img src="https://avatars.githubusercontent.com/u/1270782?s=72&u=120db74aaea13a20e7fed594ee7d3206a8923649&v=4" width="24" alt="Avatar of svycka"> svycka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#svycka">Copy rank badge</a><br/>
+			Vytautas Stankus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>6</td>
+	</tr>
+	<tr>
 		<td>560</td>
 		<td>
-			<a href="https://github.com/tadaskarpavicius">
-				<img src="https://avatars.githubusercontent.com/u/2151969?s=72&v=4" width="24" alt="Avatar of tadaskarpavicius"> tadaskarpavicius
-			</a><br/>
-			Tadas Karpavičius
+			<a href="https://github.com/jpotapova">
+				<img src="https://avatars.githubusercontent.com/u/6025429?s=72&u=914bb66ad3f87c5d5f53a1f132ebe7e90094e249&v=4" width="24" alt="Avatar of jpotapova"> jpotapova
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jpotapova">Copy rank badge</a><br/>
+			Jelizaveta Potapova
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7387,14 +7389,14 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>561</td>
 		<td>
-			<a href="https://github.com/Doomann">
-				<img src="https://avatars.githubusercontent.com/u/80388518?s=72&u=0af466c55b12de5d62a11be4f7c98c1593e1ae7e&v=4" width="24" alt="Avatar of Doomann"> Doomann
-			</a><br/>
-			Domantas
+			<a href="https://github.com/tadaskarpavicius">
+				<img src="https://avatars.githubusercontent.com/u/2151969?s=72&v=4" width="24" alt="Avatar of tadaskarpavicius"> tadaskarpavicius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tadaskarpavicius">Copy rank badge</a><br/>
+			Tadas Karpavičius
 		</td>
-		<td>@meedio </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
+		<td>Vilnius</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -7402,7 +7404,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/simonaslaurinavicius">
 				<img src="https://avatars.githubusercontent.com/u/34306708?s=72&u=6a1bb013d73fdbceb554003eedde2931c3f38c75&v=4" width="24" alt="Avatar of simonaslaurinavicius"> simonaslaurinavicius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#simonaslaurinavicius">Copy rank badge</a><br/>
 			Simonas Laurinavicius
 		</td>
 		<td>@vinted  </td>
@@ -7413,10 +7415,10 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>563</td>
 		<td>
-			<a href="https://github.com/JokubasTolocka">
-				<img src="https://avatars.githubusercontent.com/u/57157035?s=72&u=63d5191a1449445520c99f3433a6b5f69ccc2c12&v=4" width="24" alt="Avatar of JokubasTolocka"> JokubasTolocka
-			</a><br/>
-			Jokūbas Toločka
+			<a href="https://github.com/gamblingcrow">
+				<img src="https://avatars.githubusercontent.com/u/24881440?s=72&u=209139f7625bac97a60f58276270ff4295848d4f&v=4" width="24" alt="Avatar of gamblingcrow"> gamblingcrow
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gamblingcrow">Copy rank badge</a><br/>
+			Titas Tupinis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7426,14 +7428,14 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>564</td>
 		<td>
-			<a href="https://github.com/liutaurasjanuskas">
-				<img src="https://avatars.githubusercontent.com/u/82936197?s=72&v=4" width="24" alt="Avatar of liutaurasjanuskas"> liutaurasjanuskas
-			</a><br/>
-			Liutauras Januškas
+			<a href="https://github.com/jekyll2014">
+				<img src="https://avatars.githubusercontent.com/u/7167089?s=72&u=7ecadfaaeaa0e72616fb42c0643155e78e59b4c3&v=4" width="24" alt="Avatar of jekyll2014"> jekyll2014
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jekyll2014">Copy rank badge</a><br/>
+			Andrey
 		</td>
-		<td>Dappradar </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Lithuania, Vilnius</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -7441,7 +7443,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/ViliusKraujutis">
 				<img src="https://avatars.githubusercontent.com/u/1859636?s=72&u=2bfaace4e45a859bb6693d750fdcec5a6ffdaf05&v=4" width="24" alt="Avatar of ViliusKraujutis"> ViliusKraujutis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ViliusKraujutis">Copy rank badge</a><br/>
 			Vilius Kraujutis
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/Artis-Dev">
 				<img src="https://avatars.githubusercontent.com/u/20213395?s=72&u=0a03b74fc00db2bae1750a859692b4f7c87fe62a&v=4" width="24" alt="Avatar of Artis-Dev"> Artis-Dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Artis-Dev">Copy rank badge</a><br/>
 			Artūr Guk
 		</td>
 		<td>No Company</td>
@@ -7465,9 +7467,48 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>567</td>
 		<td>
+			<a href="https://github.com/vytkuklys">
+				<img src="https://avatars.githubusercontent.com/u/70965403?s=72&u=84eb32d6e274315b7de4cc5c1d4f631da1b880da&v=4" width="24" alt="Avatar of vytkuklys"> vytkuklys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vytkuklys">Copy rank badge</a><br/>
+			Vytautas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/saulius">
+				<img src="https://avatars.githubusercontent.com/u/13653?s=72&u=cfc239ea58e0e25a75f93f01a19f372dec0cf4cd&v=4" width="24" alt="Avatar of saulius"> saulius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#saulius">Copy rank badge</a><br/>
+			Saulius Grigaliunas
+		</td>
+		<td>@automattic </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/frgtn">
+				<img src="https://avatars.githubusercontent.com/u/143999?s=72&u=ad51505d1307d97489b8c2212c037ffd355024af&v=4" width="24" alt="Avatar of frgtn"> frgtn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#frgtn">Copy rank badge</a><br/>
+			Saulius Žemaitaitis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
 			<a href="https://github.com/psukys">
 				<img src="https://avatars.githubusercontent.com/u/1302529?s=72&u=b3a1a19fad6b6a0365734a0906b43f8b173b7bb0&v=4" width="24" alt="Avatar of psukys"> psukys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#psukys">Copy rank badge</a><br/>
 			Paulius Šukys
 		</td>
 		<td>@zenitechsoftware </td>
@@ -7476,11 +7517,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/rkononov">
+				<img src="https://avatars.githubusercontent.com/u/187434?s=72&u=0fe8e7d858ce2634974a8e830741f3029d38ca96&v=4" width="24" alt="Avatar of rkononov"> rkononov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rkononov">Copy rank badge</a><br/>
+			Roman
+		</td>
+		<td>Uber </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius LT</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/Cinamonas">
 				<img src="https://avatars.githubusercontent.com/u/136233?s=72&u=e78c0afcc8336b764f3d5259896beb4f8bf104a5&v=4" width="24" alt="Avatar of Cinamonas"> Cinamonas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Cinamonas">Copy rank badge</a><br/>
 			Aleksandras Nelkinas
 		</td>
 		<td>No Company</td>
@@ -7489,77 +7543,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>569</td>
-		<td>
-			<a href="https://github.com/ximet">
-				<img src="https://avatars.githubusercontent.com/u/3358977?s=72&u=3534ee6d8dd8d367f0e3ab5ee1e43b308111980a&v=4" width="24" alt="Avatar of ximet"> ximet
-			</a><br/>
-			Dmitry Bardt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/norbert-gaulia">
-				<img src="https://avatars.githubusercontent.com/u/1586492?s=72&u=3d73628eb0e87bfbe5777b056e5fe1fd435b7e5e&v=4" width="24" alt="Avatar of norbert-gaulia"> norbert-gaulia
-			</a><br/>
-			Norbertas Gaulia
-		</td>
-		<td>Uab Reaktyvines Idejos </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>571</td>
-		<td>
-			<a href="https://github.com/AugustasV">
-				<img src="https://avatars.githubusercontent.com/u/7377334?s=72&u=5db0ae2faf972a4fa58791a3e917959dec04d27f&v=4" width="24" alt="Avatar of AugustasV"> AugustasV
-			</a><br/>
-			Augustas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Augustris">Augustris</a></td>
-		<td>Lithuania</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/belte42">
-				<img src="https://avatars.githubusercontent.com/u/60384626?s=72&u=b54877934d6965729a6f1d5ea625a7752e39966c&v=4" width="24" alt="Avatar of belte42"> belte42
-			</a><br/>
-			Emilis Belte
-		</td>
-		<td>@obdeleven </td>
-		<td><a href="https://twitter.com/belte42">belte42</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>5</td>
-	</tr>
-	<tr>
 		<td>573</td>
 		<td>
-			<a href="https://github.com/aurelijus">
-				<img src="https://avatars.githubusercontent.com/u/1993?s=72&u=52a28d5ce9b7d68df90ab9af106dc01ac3cc474b&v=4" width="24" alt="Avatar of aurelijus"> aurelijus
-			</a><br/>
-			Aurelijus Valeiša
+			<a href="https://github.com/ModestasV">
+				<img src="https://avatars.githubusercontent.com/u/3809773?s=72&v=4" width="24" alt="Avatar of ModestasV"> ModestasV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ModestasV">Copy rank badge</a><br/>
+			Modestas Vaitkevičius
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Laraveldaily </td>
+		<td><a href="https://twitter.com/ModestasMV">ModestasMV</a></td>
 		<td>Lithuania</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>574</td>
 		<td>
-			<a href="https://github.com/AgneKal">
-				<img src="https://avatars.githubusercontent.com/u/157694253?s=72&u=28492d4e977c819ed53b3743b725a2bcbed2340a&v=4" width="24" alt="Avatar of AgneKal"> AgneKal
-			</a><br/>
-			No Name
+			<a href="https://github.com/ximet">
+				<img src="https://avatars.githubusercontent.com/u/3358977?s=72&u=3534ee6d8dd8d367f0e3ab5ee1e43b308111980a&v=4" width="24" alt="Avatar of ximet"> ximet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ximet">Copy rank badge</a><br/>
+			Dmitry Bardt
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7569,9 +7571,48 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>575</td>
 		<td>
+			<a href="https://github.com/norbert-gaulia">
+				<img src="https://avatars.githubusercontent.com/u/1586492?s=72&u=3d73628eb0e87bfbe5777b056e5fe1fd435b7e5e&v=4" width="24" alt="Avatar of norbert-gaulia"> norbert-gaulia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#norbert-gaulia">Copy rank badge</a><br/>
+			Norbertas Gaulia
+		</td>
+		<td>Uab Reaktyvines Idejos </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
+			<a href="https://github.com/AugustasV">
+				<img src="https://avatars.githubusercontent.com/u/7377334?s=72&u=5db0ae2faf972a4fa58791a3e917959dec04d27f&v=4" width="24" alt="Avatar of AugustasV"> AugustasV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AugustasV">Copy rank badge</a><br/>
+			Augustas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Augustris">Augustris</a></td>
+		<td>Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/aurelijus">
+				<img src="https://avatars.githubusercontent.com/u/1993?s=72&u=52a28d5ce9b7d68df90ab9af106dc01ac3cc474b&v=4" width="24" alt="Avatar of aurelijus"> aurelijus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aurelijus">Copy rank badge</a><br/>
+			Aurelijus Valeiša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
 			<a href="https://github.com/remigijusj">
 				<img src="https://avatars.githubusercontent.com/u/374527?s=72&v=4" width="24" alt="Avatar of remigijusj"> remigijusj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#remigijusj">Copy rank badge</a><br/>
 			Remigijus Jodelis
 		</td>
 		<td>Toptal </td>
@@ -7580,11 +7621,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/Erlandys">
 				<img src="https://avatars.githubusercontent.com/u/6483175?s=72&v=4" width="24" alt="Avatar of Erlandys"> Erlandys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Erlandys">Copy rank badge</a><br/>
 			Erlandas Barauskas
 		</td>
 		<td>Voxel Plugin Sas </td>
@@ -7593,11 +7634,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/milasevicius">
 				<img src="https://avatars.githubusercontent.com/u/1790265?s=72&u=053310904d3b89250c5cf4bd6aee555a0fb5c689&v=4" width="24" alt="Avatar of milasevicius"> milasevicius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#milasevicius">Copy rank badge</a><br/>
 			Rokas Milasevicius
 		</td>
 		<td>No Company</td>
@@ -7606,24 +7647,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>581</td>
 		<td>
-			<a href="https://github.com/arnasp13">
-				<img src="https://avatars.githubusercontent.com/u/17219190?s=72&u=b4166ab83fb37cc4562d4020dbd54c405617c62d&v=4" width="24" alt="Avatar of arnasp13"> arnasp13
-			</a><br/>
-			Arnas
+			<a href="https://github.com/GeorgeNagib">
+				<img src="https://avatars.githubusercontent.com/u/77877978?s=72&u=7b9cbe38596409c59138497239c65807ef0731ec&v=4" width="24" alt="Avatar of GeorgeNagib"> GeorgeNagib
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GeorgeNagib">Copy rank badge</a><br/>
+			George Nagib
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/arnaspdk">arnaspdk</a></td>
+		<td>Royalty.software </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/apsega">
+				<img src="https://avatars.githubusercontent.com/u/15917655?s=72&u=9b5836106f3ebc742d479403a683d86707c3aca1&v=4" width="24" alt="Avatar of apsega"> apsega
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#apsega">Copy rank badge</a><br/>
+			Edgaras
+		</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/Apsega">Apsega</a></td>
 		<td>Vilnius</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/zolia">
 				<img src="https://avatars.githubusercontent.com/u/13434315?s=72&u=f2736133c41dd95604ecd3b80a7957816f1d3110&v=4" width="24" alt="Avatar of zolia"> zolia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zolia">Copy rank badge</a><br/>
 			Antanas Masevičius
 		</td>
 		<td>Monimoto </td>
@@ -7632,102 +7686,141 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>584</td>
 		<td>
-			<a href="https://github.com/justasmundeikis">
-				<img src="https://avatars.githubusercontent.com/u/10517924?s=72&u=7017bd4132e02e89496d93848f764ba3fbf90c43&v=4" width="24" alt="Avatar of justasmundeikis"> justasmundeikis
-			</a><br/>
-			Justas Mundeikis
+			<a href="https://github.com/arnasp13">
+				<img src="https://avatars.githubusercontent.com/u/17219190?s=72&u=b4166ab83fb37cc4562d4020dbd54c405617c62d&v=4" width="24" alt="Avatar of arnasp13"> arnasp13
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arnasp13">Copy rank badge</a><br/>
+			Arnas
 		</td>
-		<td>Ignitis Renewables </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/arnaspdk">arnaspdk</a></td>
+		<td>Vilnius</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>581</td>
-		<td>
-			<a href="https://github.com/benmandr">
-				<img src="https://avatars.githubusercontent.com/u/37113532?s=72&u=bf04192cda1350accb821489562d19af79671843&v=4" width="24" alt="Avatar of benmandr"> benmandr
-			</a><br/>
-			Benas Mandravickas
-		</td>
-		<td>@hostinger  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>582</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/MarkasCherry">
 				<img src="https://avatars.githubusercontent.com/u/44946932?s=72&u=b6f621993fbb6fe8a429a2f9be8bd0393f4c2918&v=4" width="24" alt="Avatar of MarkasCherry"> MarkasCherry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MarkasCherry">Copy rank badge</a><br/>
 			Markas Cherry
 		</td>
-		<td>Orbio World </td>
+		<td>Surfshark </td>
 		<td><a href="https://twitter.com/MarkasCherry">MarkasCherry</a></td>
 		<td>Lithuania</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>583</td>
-		<td>
-			<a href="https://github.com/kassim206">
-				<img src="https://avatars.githubusercontent.com/u/144417272?s=72&u=b3252f9ac7b0fc217dcccb9462aa09f397660642&v=4" width="24" alt="Avatar of kassim206"> kassim206
-			</a><br/>
-			Mohammed Kassim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td> Lithuania</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>584</td>
-		<td>
-			<a href="https://github.com/dostu">
-				<img src="https://avatars.githubusercontent.com/u/542213?s=72&u=f5d27886733937d5c8b1ca3941cdff751a2856a0&v=4" width="24" alt="Avatar of dostu"> dostu
-			</a><br/>
-			Donatas Stundys
-		</td>
-		<td>Kaching Appz </td>
-		<td><a href="https://twitter.com/DonatasStundys">DonatasStundys</a></td>
-		<td>Vilnius</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/full-disclosure">
-				<img src="https://avatars.githubusercontent.com/u/62108425?s=72&u=0ab3d834241eab9e807d9f4ca2fe8a9727ee9554&v=4" width="24" alt="Avatar of full-disclosure"> full-disclosure
-			</a><br/>
-			No Name
-		</td>
-		<td>Full Disclosure </td>
-		<td><a href="https://twitter.com/FDEUsec">FDEUsec</a></td>
-		<td>Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>586</td>
 		<td>
-			<a href="https://github.com/donatasm">
-				<img src="https://avatars.githubusercontent.com/u/1093394?s=72&u=c3c1fbaad7eb2d0b57c3e6384246a0c2735a8862&v=4" width="24" alt="Avatar of donatasm"> donatasm
-			</a><br/>
-			Donatas Mažionis
+			<a href="https://github.com/VeryFastSnail">
+				<img src="https://avatars.githubusercontent.com/u/32437815?s=72&u=d4f66148b9cfca768a798be0cfe217dbe39dac81&v=4" width="24" alt="Avatar of VeryFastSnail"> VeryFastSnail
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#VeryFastSnail">Copy rank badge</a><br/>
+			Rokas Sondaras
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/donatasm">donatasm</a></td>
-		<td>Vilnius</td>
-		<td>4</td>
+		<td>Sondarlabs </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>587</td>
 		<td>
+			<a href="https://github.com/hitman99">
+				<img src="https://avatars.githubusercontent.com/u/907201?s=72&v=4" width="24" alt="Avatar of hitman99"> hitman99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#hitman99">Copy rank badge</a><br/>
+			Tomas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Kaunas</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/gaikaz">
+				<img src="https://avatars.githubusercontent.com/u/17097810?s=72&u=e4c8136b9b8602b823f7304d72b1a4156ec326e6&v=4" width="24" alt="Avatar of gaikaz"> gaikaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gaikaz">Copy rank badge</a><br/>
+			Gailius Kazlauskas
+		</td>
+		<td>@vialaurea </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/212850a">
+				<img src="https://avatars.githubusercontent.com/u/49335204?s=72&u=efb0f24dd08e91c36dc5dcac9482f25b860261e5&v=4" width="24" alt="Avatar of 212850a"> 212850a
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#212850a">Copy rank badge</a><br/>
+			Roman
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/212850a">212850a</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/liutaurasjanuskas">
+				<img src="https://avatars.githubusercontent.com/u/82936197?s=72&v=4" width="24" alt="Avatar of liutaurasjanuskas"> liutaurasjanuskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#liutaurasjanuskas">Copy rank badge</a><br/>
+			Liutauras Januškas
+		</td>
+		<td>Dappradar </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/davidgustys">
+				<img src="https://avatars.githubusercontent.com/u/627037?s=72&u=7b7f4e6548eca57215ce5963e1ab7bb0567dc597&v=4" width="24" alt="Avatar of davidgustys"> davidgustys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#davidgustys">Copy rank badge</a><br/>
+			David Gustys
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DavidGustys">DavidGustys</a></td>
+		<td>Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/txdv">
+				<img src="https://avatars.githubusercontent.com/u/116642?s=72&u=ba5c961decd8583ecbc954d12e368b7271e6edee&v=4" width="24" alt="Avatar of txdv"> txdv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#txdv">Copy rank badge</a><br/>
+			Andrius Bentkus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/vkuznecovas">
+				<img src="https://avatars.githubusercontent.com/u/18392269?s=72&u=c5be6ce64db8319b19fccedf6f7eee1612a6fb09&v=4" width="24" alt="Avatar of vkuznecovas"> vkuznecovas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vkuznecovas">Copy rank badge</a><br/>
+			Viktoras
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
 			<a href="https://github.com/rokasandreikenas">
 				<img src="https://avatars.githubusercontent.com/u/35290383?s=72&u=453477b932d95712b33261e1de68a77d71d72491&v=4" width="24" alt="Avatar of rokasandreikenas"> rokasandreikenas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rokasandreikenas">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7736,11 +7829,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/lukis101">
 				<img src="https://avatars.githubusercontent.com/u/3519830?s=72&u=4afdd1b225042c0aef2bbf6216606f9fd349b0d2&v=4" width="24" alt="Avatar of lukis101"> lukis101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukis101">Copy rank badge</a><br/>
 			Dj Lukis.LT
 		</td>
 		<td>No Company</td>
@@ -7749,63 +7842,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>596</td>
 		<td>
-			<a href="https://github.com/redross">
-				<img src="https://avatars.githubusercontent.com/u/1102710?s=72&v=4" width="24" alt="Avatar of redross"> redross
-			</a><br/>
-			Gintaras Sakalauskas
-		</td>
-		<td>@toptal </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>590</td>
-		<td>
-			<a href="https://github.com/arnaskro">
-				<img src="https://avatars.githubusercontent.com/u/8274735?s=72&u=43c441b3414cc5e50be5e45c0fd5e41c233c2470&v=4" width="24" alt="Avatar of arnaskro"> arnaskro
-			</a><br/>
-			Arnas Kromelis
-		</td>
-		<td>Co-owner / Lead Engineer<br/>@<br/>Exinsight<br/></td>
-		<td>No Twitter Username</td>
-		<td>Klaipeda, Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/viktorasl">
-				<img src="https://avatars.githubusercontent.com/u/3721061?s=72&u=6f2e1a4a85e4ad69813a7c4f5289d940c22acc67&v=4" width="24" alt="Avatar of viktorasl"> viktorasl
-			</a><br/>
-			Viktoras Laukevičius
+			<a href="https://github.com/macgena">
+				<img src="https://avatars.githubusercontent.com/u/12571809?s=72&u=eb585275016d4c82a15f6c7a94cc65d73ecd3865&v=4" width="24" alt="Avatar of macgena"> macgena
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#macgena">Copy rank badge</a><br/>
+			Gennady Minenkov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Vilnius</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>597</td>
 		<td>
-			<a href="https://github.com/laimis-dev">
-				<img src="https://avatars.githubusercontent.com/u/41838906?s=72&u=3bb8678a7711a7a1f95a9b95fba481bd40dbe641&v=4" width="24" alt="Avatar of laimis-dev"> laimis-dev
-			</a><br/>
-			Laimonas Janutėnas
+			<a href="https://github.com/fubarpatsharp">
+				<img src="https://avatars.githubusercontent.com/u/7067794?s=72&u=de00633a29bc98ed0728fdc2b5c1d8d9671ec23f&v=4" width="24" alt="Avatar of fubarpatsharp"> fubarpatsharp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#fubarpatsharp">Copy rank badge</a><br/>
+			Ruslan Parkhomenko
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Klaipėda</td>
+		<td>Kaunas, Lithuania</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/MantasVaitkunas">
 				<img src="https://avatars.githubusercontent.com/u/623436?s=72&u=110147a5f1dd88a319041af5663f67596c33c7c9&v=4" width="24" alt="Avatar of MantasVaitkunas"> MantasVaitkunas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MantasVaitkunas">Copy rank badge</a><br/>
 			Mantas Vaitkūnas
 		</td>
 		<td>Self Employed </td>
@@ -7814,24 +7881,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>594</td>
-		<td>
-			<a href="https://github.com/apsega">
-				<img src="https://avatars.githubusercontent.com/u/15917655?s=72&u=9b5836106f3ebc742d479403a683d86707c3aca1&v=4" width="24" alt="Avatar of apsega"> apsega
-			</a><br/>
-			Edgaras
-		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/Apsega">Apsega</a></td>
-		<td>Vilnius</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>595</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/Sidicer">
 				<img src="https://avatars.githubusercontent.com/u/9251667?s=72&u=574588b7fdc93fd8923ab73e0a9082e80958accc&v=4" width="24" alt="Avatar of Sidicer"> Sidicer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Sidicer">Copy rank badge</a><br/>
 			Deividas Gedgaudas
 		</td>
 		<td>No Company</td>
@@ -7840,24 +7894,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/svycka">
-				<img src="https://avatars.githubusercontent.com/u/1270782?s=72&u=120db74aaea13a20e7fed594ee7d3206a8923649&v=4" width="24" alt="Avatar of svycka"> svycka
-			</a><br/>
-			Vytautas Stankus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>597</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/martynaskre">
 				<img src="https://avatars.githubusercontent.com/u/10911957?s=72&u=a6ce3cea79fbfbf62d214e3e61442f76a172bcb0&v=4" width="24" alt="Avatar of martynaskre"> martynaskre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#martynaskre">Copy rank badge</a><br/>
 			Martynas Skrebė
 		</td>
 		<td>No Company</td>
@@ -7866,11 +7907,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/Nilsas">
+				<img src="https://avatars.githubusercontent.com/u/1212639?s=72&u=597670b51218ce575da30b4ae7e3cc816295d437&v=4" width="24" alt="Avatar of Nilsas"> Nilsas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Nilsas">Copy rank badge</a><br/>
+			Nilsas Firantas
+		</td>
+		<td>@oag-aviation </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
+			<a href="https://github.com/justasmundeikis">
+				<img src="https://avatars.githubusercontent.com/u/10517924?s=72&u=7017bd4132e02e89496d93848f764ba3fbf90c43&v=4" width="24" alt="Avatar of justasmundeikis"> justasmundeikis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#justasmundeikis">Copy rank badge</a><br/>
+			Justas Mundeikis
+		</td>
+		<td>Ignitis Renewables </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/VytenisSidabras">
 				<img src="https://avatars.githubusercontent.com/u/69628507?s=72&u=3c27ed8fe17b68cf1c7f2eb9c5ffebef986811b6&v=4" width="24" alt="Avatar of VytenisSidabras"> VytenisSidabras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#VytenisSidabras">Copy rank badge</a><br/>
 			Vytenis Sidabras
 		</td>
 		<td>@vinted @vinted-pay @gyvastech <br/></td>
@@ -7879,11 +7946,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/arnasledev">
 				<img src="https://avatars.githubusercontent.com/u/39725714?s=72&u=68e8c24a6af7369787588f5861ff790ce51f2269&v=4" width="24" alt="Avatar of arnasledev"> arnasledev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arnasledev">Copy rank badge</a><br/>
 			Arnas Pecelis
 		</td>
 		<td>@meedio   </td>
@@ -7892,50 +7959,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>600</td>
-		<td>
-			<a href="https://github.com/212850a">
-				<img src="https://avatars.githubusercontent.com/u/49335204?s=72&u=efb0f24dd08e91c36dc5dcac9482f25b860261e5&v=4" width="24" alt="Avatar of 212850a"> 212850a
-			</a><br/>
-			Roman
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/212850a">212850a</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>601</td>
-		<td>
-			<a href="https://github.com/giedrius-N">
-				<img src="https://avatars.githubusercontent.com/u/72335292?s=72&u=dd11adb3f0d6d5ff668040711466fa1feee118b5&v=4" width="24" alt="Avatar of giedrius-N"> giedrius-N
-			</a><br/>
-			Giedrius Navickas
-		</td>
-		<td>Quadigi A Dräger Company<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
-			<a href="https://github.com/mariusgrigaitis">
-				<img src="https://avatars.githubusercontent.com/u/11269671?s=72&u=a5fa61d38c5a81a81cc999590ea6fac466c56c33&v=4" width="24" alt="Avatar of mariusgrigaitis"> mariusgrigaitis
-			</a><br/>
-			Marius Grigaitis
-		</td>
-		<td>Nfq | Home24 </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>603</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/TankiaiTaskuota">
 				<img src="https://avatars.githubusercontent.com/u/62517?s=72&u=d029def9b0b2e85e201cc7ccf6018788c5b23cc3&v=4" width="24" alt="Avatar of TankiaiTaskuota"> TankiaiTaskuota
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TankiaiTaskuota">Copy rank badge</a><br/>
 			TankiaiTaskuota
 		</td>
 		<td>Eleving Group </td>
@@ -7944,11 +7972,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/grimsa">
+				<img src="https://avatars.githubusercontent.com/u/8446128?s=72&u=a62c5ea9a71d6ff0bba1b3d7cefa910a757c4b62&v=4" width="24" alt="Avatar of grimsa"> grimsa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#grimsa">Copy rank badge</a><br/>
+			Gediminas Rimša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/laurynasra">
 				<img src="https://avatars.githubusercontent.com/u/683866?s=72&u=e08e5a84bca3cf64a6027f282052ae60f89080c8&v=4" width="24" alt="Avatar of laurynasra"> laurynasra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#laurynasra">Copy rank badge</a><br/>
 			Laurynas Ragauskas
 		</td>
 		<td>No Company</td>
@@ -7957,11 +7998,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/JokubasTolocka">
+				<img src="https://avatars.githubusercontent.com/u/57157035?s=72&u=63d5191a1449445520c99f3433a6b5f69ccc2c12&v=4" width="24" alt="Avatar of JokubasTolocka"> JokubasTolocka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#JokubasTolocka">Copy rank badge</a><br/>
+			Jokūbas Toločka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/OvidijusStankaitis">
 				<img src="https://avatars.githubusercontent.com/u/82393494?s=72&u=0058f4f8faaa6ba0c8bf07dfb507855d9d8147da&v=4" width="24" alt="Avatar of OvidijusStankaitis"> OvidijusStankaitis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#OvidijusStankaitis">Copy rank badge</a><br/>
 			Ovidijus Stankaitis
 		</td>
 		<td>No Company</td>
@@ -7970,24 +8024,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>606</td>
-		<td>
-			<a href="https://github.com/jekyll2014">
-				<img src="https://avatars.githubusercontent.com/u/7167089?s=72&u=7ecadfaaeaa0e72616fb42c0643155e78e59b4c3&v=4" width="24" alt="Avatar of jekyll2014"> jekyll2014
-			</a><br/>
-			Andrey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>607</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/irenemmassy">
 				<img src="https://avatars.githubusercontent.com/u/40125398?s=72&u=1fd7019ab0d5f46dcf6138cb9c4809065df07070&v=4" width="24" alt="Avatar of irenemmassy"> irenemmassy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#irenemmassy">Copy rank badge</a><br/>
 			Irene Arvydas Ranonis
 		</td>
 		<td>Codemarketi </td>
@@ -7996,50 +8037,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>608</td>
-		<td>
-			<a href="https://github.com/maksim-volkmann">
-				<img src="https://avatars.githubusercontent.com/u/15999593?s=72&u=21ba6281d7c08ec243793f441113d844686c2d88&v=4" width="24" alt="Avatar of maksim-volkmann"> maksim-volkmann
-			</a><br/>
-			Maksim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>609</td>
-		<td>
-			<a href="https://github.com/davidgustys">
-				<img src="https://avatars.githubusercontent.com/u/627037?s=72&u=7b7f4e6548eca57215ce5963e1ab7bb0567dc597&v=4" width="24" alt="Avatar of davidgustys"> davidgustys
-			</a><br/>
-			David Gustys
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DavidGustys">DavidGustys</a></td>
-		<td>Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/vincaslt">
-				<img src="https://avatars.githubusercontent.com/u/944727?s=72&u=c02efa4026ebbb019cefa3c4679c90e496aa8cc4&v=4" width="24" alt="Avatar of vincaslt"> vincaslt
-			</a><br/>
-			Vincas Stonys
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VincasStonys">VincasStonys</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>611</td>
 		<td>
 			<a href="https://github.com/mofesolapaul">
 				<img src="https://avatars.githubusercontent.com/u/8944192?s=72&u=1c169e61b0e04576d5e5c355be3121cb6a6ad95f&v=4" width="24" alt="Avatar of mofesolapaul"> mofesolapaul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mofesolapaul">Copy rank badge</a><br/>
 			Mofesola Banjo
 		</td>
 		<td>No Company</td>
@@ -8050,22 +8052,9 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>612</td>
 		<td>
-			<a href="https://github.com/saulius">
-				<img src="https://avatars.githubusercontent.com/u/13653?s=72&u=cfc239ea58e0e25a75f93f01a19f372dec0cf4cd&v=4" width="24" alt="Avatar of saulius"> saulius
-			</a><br/>
-			Saulius Grigaliunas
-		</td>
-		<td>@automattic </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
 			<a href="https://github.com/mariakravchenko">
 				<img src="https://avatars.githubusercontent.com/u/22430988?s=72&u=f633ee0278e7f7480b628359ce2f4668284f3eaa&v=4" width="24" alt="Avatar of mariakravchenko"> mariakravchenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mariakravchenko">Copy rank badge</a><br/>
 			Maryia Krauchanka
 		</td>
 		<td>No Company</td>
@@ -8074,11 +8063,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/ifdattic">
 				<img src="https://avatars.githubusercontent.com/u/966877?s=72&v=4" width="24" alt="Avatar of ifdattic"> ifdattic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ifdattic">Copy rank badge</a><br/>
 			Andrew Marcinkevičius
 		</td>
 		<td>Ifdattic </td>
@@ -8087,11 +8076,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/tomasv">
+				<img src="https://avatars.githubusercontent.com/u/206971?s=72&u=7ebd3596f926ed24399642a10c6f9514ec884135&v=4" width="24" alt="Avatar of tomasv"> tomasv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomasv">Copy rank badge</a><br/>
+			Tomas Varneckas
+		</td>
+		<td>@vinted  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>3</td>
+	</tr>
+	<tr>
 		<td>615</td>
 		<td>
 			<a href="https://github.com/Dailius-VCS">
 				<img src="https://avatars.githubusercontent.com/u/96541023?s=72&u=131e211d79c96fe402405a1fe2b9834f116c5b7f&v=4" width="24" alt="Avatar of Dailius-VCS"> Dailius-VCS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Dailius-VCS">Copy rank badge</a><br/>
 			Dailius Raščius
 		</td>
 		<td>Vilnius Coding School </td>
@@ -8104,7 +8106,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/kulverstukas1">
 				<img src="https://avatars.githubusercontent.com/u/10012320?s=72&u=3c33ea421e6cec0958582a788daf081f8e447988&v=4" width="24" alt="Avatar of kulverstukas1"> kulverstukas1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kulverstukas1">Copy rank badge</a><br/>
 			Kulverstukas
 		</td>
 		<td>No Company</td>
@@ -8115,22 +8117,9 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>617</td>
 		<td>
-			<a href="https://github.com/4Giedrius">
-				<img src="https://avatars.githubusercontent.com/u/3658151?s=72&v=4" width="24" alt="Avatar of 4Giedrius"> 4Giedrius
-			</a><br/>
-			Giedrius
-		</td>
-		<td>@zyro-inc @hostinger </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
 			<a href="https://github.com/svipas">
 				<img src="https://avatars.githubusercontent.com/u/10441177?s=72&u=2c20a779bcfad6ecad43aa1a751b7839b982cf7e&v=4" width="24" alt="Avatar of svipas"> svipas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#svipas">Copy rank badge</a><br/>
 			Benas Svipas
 		</td>
 		<td>No Company</td>
@@ -8139,24 +8128,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/tomuxmon">
-				<img src="https://avatars.githubusercontent.com/u/2006864?s=72&u=10bf43225ed02f136bc99c517ba1059fb6c7922c&v=4" width="24" alt="Avatar of tomuxmon"> tomuxmon
-			</a><br/>
-			Tomas Dambrauskas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tomuxmon">tomuxmon</a></td>
-		<td>Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>620</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/zuenko">
 				<img src="https://avatars.githubusercontent.com/u/17703283?s=72&u=d2e592ff98fd6fd70afc0cc59331406e8398a490&v=4" width="24" alt="Avatar of zuenko"> zuenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zuenko">Copy rank badge</a><br/>
 			Denis Zuenko
 		</td>
 		<td>To And Fro <br/></td>
@@ -8165,11 +8141,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/HiroyukiTamura">
 				<img src="https://avatars.githubusercontent.com/u/26954245?s=72&v=4" width="24" alt="Avatar of HiroyukiTamura"> HiroyukiTamura
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#HiroyukiTamura">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8178,11 +8154,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/Dohxis">
 				<img src="https://avatars.githubusercontent.com/u/8768909?s=72&u=9b64e795b671580c3630f79f2e7e64368a73b233&v=4" width="24" alt="Avatar of Dohxis"> Dohxis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Dohxis">Copy rank badge</a><br/>
 			Domantas Mauruča
 		</td>
 		<td>@simbuka </td>
@@ -8191,11 +8167,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>621</td>
+		<td>
+			<a href="https://github.com/arnaskro">
+				<img src="https://avatars.githubusercontent.com/u/8274735?s=72&u=43c441b3414cc5e50be5e45c0fd5e41c233c2470&v=4" width="24" alt="Avatar of arnaskro"> arnaskro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#arnaskro">Copy rank badge</a><br/>
+			Arnas Kromelis
+		</td>
+		<td>Co-owner / Lead Engineer<br/>@<br/>Exinsight<br/></td>
+		<td>No Twitter Username</td>
+		<td>Klaipeda, Lithuania</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/karoliskerpys">
 				<img src="https://avatars.githubusercontent.com/u/25827236?s=72&u=51992dcb85302354634cf4dff01d380ef60a06cc&v=4" width="24" alt="Avatar of karoliskerpys"> karoliskerpys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#karoliskerpys">Copy rank badge</a><br/>
 			Karolis Kerpys
 		</td>
 		<td>No Company</td>
@@ -8204,25 +8193,38 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/Makentoshe">
+				<img src="https://avatars.githubusercontent.com/u/20960889?s=72&u=ecae8538ba646f3ee0365e406832595bbf702779&v=4" width="24" alt="Avatar of Makentoshe"> Makentoshe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Makentoshe">Copy rank badge</a><br/>
+			Khvostov Maksim
+		</td>
+		<td>Devexperts </td>
+		<td>No Twitter Username</td>
+		<td>SolarSystem/Earth/Vilnius</td>
+		<td>3</td>
+	</tr>
+	<tr>
 		<td>624</td>
 		<td>
-			<a href="https://github.com/BenasVolkovas">
-				<img src="https://avatars.githubusercontent.com/u/49361502?s=72&u=ac82fc9fba2f70b1b1526a3b1b947040f203a6d1&v=4" width="24" alt="Avatar of BenasVolkovas"> BenasVolkovas
-			</a><br/>
-			Benas Volkovas
+			<a href="https://github.com/nolequen">
+				<img src="https://avatars.githubusercontent.com/u/8845686?s=72&u=eab9c6c9d8d2aaa8ccb7a39e581b5b5dc1e4d79f&v=4" width="24" alt="Avatar of nolequen"> nolequen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nolequen">Copy rank badge</a><br/>
+			Anton Pocius
 		</td>
-		<td>@superhow </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Klaipeda, Lithuania</td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>625</td>
 		<td>
-			<a href="https://github.com/zaicevas">
-				<img src="https://avatars.githubusercontent.com/u/34719980?s=72&u=3c04c79233860ee543fd46b7bbbba6911547b45f&v=4" width="24" alt="Avatar of zaicevas"> zaicevas
-			</a><br/>
-			Tomas Zaicevas
+			<a href="https://github.com/cachedHuman">
+				<img src="https://avatars.githubusercontent.com/u/34168302?s=72&u=c2381cff7ccc9c082d791d4b395450999ca5a372&v=4" width="24" alt="Avatar of cachedHuman"> cachedHuman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#cachedHuman">Copy rank badge</a><br/>
+			Darius Kumža
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8232,22 +8234,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>626</td>
 		<td>
-			<a href="https://github.com/levandovsky">
-				<img src="https://avatars.githubusercontent.com/u/44808257?s=72&u=8be9e55d6bde4871de46e0a59377389ee58ef340&v=4" width="24" alt="Avatar of levandovsky"> levandovsky
-			</a><br/>
-			Yegor Levandovskyi
+			<a href="https://github.com/wrooot">
+				<img src="https://avatars.githubusercontent.com/u/7195609?s=72&u=546a1defe178e06b966ee5f2370b98b4683ff173&v=4" width="24" alt="Avatar of wrooot"> wrooot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#wrooot">Copy rank badge</a><br/>
+			wroot
 		</td>
-		<td>Podimo </td>
-		<td><a href="https://twitter.com/yeglev">yeglev</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>627</td>
 		<td>
+			<a href="https://github.com/zaicevas">
+				<img src="https://avatars.githubusercontent.com/u/34719980?s=72&u=3c04c79233860ee543fd46b7bbbba6911547b45f&v=4" width="24" alt="Avatar of zaicevas"> zaicevas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#zaicevas">Copy rank badge</a><br/>
+			Tomas Zaicevas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
 			<a href="https://github.com/romax94">
 				<img src="https://avatars.githubusercontent.com/u/19433290?s=72&u=39d0597408618e7794f56b82ccbdec42c076a8b8&v=4" width="24" alt="Avatar of romax94"> romax94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#romax94">Copy rank badge</a><br/>
 			Raman Maksimovich
 		</td>
 		<td>Affise </td>
@@ -8256,11 +8271,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/akuryan">
 				<img src="https://avatars.githubusercontent.com/u/1794306?s=72&v=4" width="24" alt="Avatar of akuryan"> akuryan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#akuryan">Copy rank badge</a><br/>
 			Anton Kuryan
 		</td>
 		<td>Epam </td>
@@ -8269,27 +8284,14 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>629</td>
-		<td>
-			<a href="https://github.com/Nilsas">
-				<img src="https://avatars.githubusercontent.com/u/1212639?s=72&u=597670b51218ce575da30b4ae7e3cc816295d437&v=4" width="24" alt="Avatar of Nilsas"> Nilsas
-			</a><br/>
-			Nilsas Firantas
-		</td>
-		<td>@oag-aviation </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>630</td>
 		<td>
-			<a href="https://github.com/gaikaz">
-				<img src="https://avatars.githubusercontent.com/u/17097810?s=72&u=e4c8136b9b8602b823f7304d72b1a4156ec326e6&v=4" width="24" alt="Avatar of gaikaz"> gaikaz
-			</a><br/>
-			Gailius Kazlauskas
+			<a href="https://github.com/emilisb">
+				<img src="https://avatars.githubusercontent.com/u/13116854?s=72&v=4" width="24" alt="Avatar of emilisb"> emilisb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#emilisb">Copy rank badge</a><br/>
+			Emilis Baliukonis
 		</td>
-		<td>@vialaurea </td>
+		<td>Wix.com </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>3</td>
@@ -8299,7 +8301,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/StaffNowa">
 				<img src="https://avatars.githubusercontent.com/u/2715254?s=72&u=f9b246c324d63522425de087f25432482967c52e&v=4" width="24" alt="Avatar of StaffNowa"> StaffNowa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#StaffNowa">Copy rank badge</a><br/>
 			Vasilij Duško
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/jsrjenkins">
 				<img src="https://avatars.githubusercontent.com/u/17085833?s=72&u=86ea80f81974d17357311e605c47acf0e69e0d5a&v=4" width="24" alt="Avatar of jsrjenkins"> jsrjenkins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jsrjenkins">Copy rank badge</a><br/>
 			Fr. John Jenkins
 		</td>
 		<td>Fsspx </td>
@@ -8323,27 +8325,27 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>633</td>
 		<td>
-			<a href="https://github.com/augustaspocius">
-				<img src="https://avatars.githubusercontent.com/u/12863089?s=72&u=ff6263f115934b906d2bb0712f0eaad134866a18&v=4" width="24" alt="Avatar of augustaspocius"> augustaspocius
-			</a><br/>
-			Augustas
+			<a href="https://github.com/Kristonitas">
+				<img src="https://avatars.githubusercontent.com/u/9002285?s=72&u=80d7617528b8c5be8fade775a056c7a3f18ff27f&v=4" width="24" alt="Avatar of Kristonitas"> Kristonitas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Kristonitas">Copy rank badge</a><br/>
+			Kristupas Stumbrys
 		</td>
-		<td>Frontend Engineer @ Mediatech<br/></td>
+		<td>Fatmap </td>
 		<td>No Twitter Username</td>
-		<td>Kaunas/Lithuania</td>
+		<td>Vilnius, Lithuania</td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>634</td>
 		<td>
-			<a href="https://github.com/VeryFastSnail">
-				<img src="https://avatars.githubusercontent.com/u/32437815?s=72&u=d4f66148b9cfca768a798be0cfe217dbe39dac81&v=4" width="24" alt="Avatar of VeryFastSnail"> VeryFastSnail
-			</a><br/>
-			Rokas Sondaras
+			<a href="https://github.com/D0vydas">
+				<img src="https://avatars.githubusercontent.com/u/6649425?s=72&u=74a74db3f852aa11781feabe47deb23919cde869&v=4" width="24" alt="Avatar of D0vydas"> D0vydas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#D0vydas">Copy rank badge</a><br/>
+			Dovydas Mikalauskas
 		</td>
-		<td>Sondarlabs </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Vilnius, Lithuania</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8351,7 +8353,7 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>
 			<a href="https://github.com/palaima">
 				<img src="https://avatars.githubusercontent.com/u/5595382?s=72&u=870053a91769dfe855f7d5e887eea84cc8dab2ea&v=4" width="24" alt="Avatar of palaima"> palaima
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#palaima">Copy rank badge</a><br/>
 			Mantas
 		</td>
 		<td>No Company</td>
@@ -8362,22 +8364,9 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>636</td>
 		<td>
-			<a href="https://github.com/frgtn">
-				<img src="https://avatars.githubusercontent.com/u/143999?s=72&u=ad51505d1307d97489b8c2212c037ffd355024af&v=4" width="24" alt="Avatar of frgtn"> frgtn
-			</a><br/>
-			Saulius Žemaitaitis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>637</td>
-		<td>
 			<a href="https://github.com/giedriusr">
 				<img src="https://avatars.githubusercontent.com/u/210713?s=72&v=4" width="24" alt="Avatar of giedriusr"> giedriusr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#giedriusr">Copy rank badge</a><br/>
 			Giedrius Rimkus
 		</td>
 		<td>@wiseappslab @y-o-d-o  </td>
@@ -8386,50 +8375,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>638</td>
-		<td>
-			<a href="https://github.com/txdv">
-				<img src="https://avatars.githubusercontent.com/u/116642?s=72&u=ba5c961decd8583ecbc954d12e368b7271e6edee&v=4" width="24" alt="Avatar of txdv"> txdv
-			</a><br/>
-			Andrius Bentkus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>639</td>
-		<td>
-			<a href="https://github.com/edmundask">
-				<img src="https://avatars.githubusercontent.com/u/106574?s=72&u=167a619f52e68a0a34b2bbd0a094680df52df690&v=4" width="24" alt="Avatar of edmundask"> edmundask
-			</a><br/>
-			Edmundas Kondrašovas
-		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/edmundask">edmundask</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>640</td>
-		<td>
-			<a href="https://github.com/randrianov">
-				<img src="https://avatars.githubusercontent.com/u/1220390?s=72&u=9105b0a299b6d2f260e07ce8dcd37129a6c5a778&v=4" width="24" alt="Avatar of randrianov"> randrianov
-			</a><br/>
-			raman
-		</td>
-		<td>Creativeit </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>641</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/x-t">
 				<img src="https://avatars.githubusercontent.com/u/33009283?s=72&u=aa6b864c0610535c26dd778693055b66194d790d&v=4" width="24" alt="Avatar of x-t"> x-t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#x-t">Copy rank badge</a><br/>
 			zxyz
 		</td>
 		<td>No Company</td>
@@ -8438,24 +8388,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>642</td>
-		<td>
-			<a href="https://github.com/ignl">
-				<img src="https://avatars.githubusercontent.com/u/2720602?s=72&u=b08eae522841a7a0e543a6f0504c9ac9ad13d0ce&v=4" width="24" alt="Avatar of ignl"> ignl
-			</a><br/>
-			Ignas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>643</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/aevaldas">
 				<img src="https://avatars.githubusercontent.com/u/38099310?s=72&u=02226673b751d9e7234694d2965365b7b550da58&v=4" width="24" alt="Avatar of aevaldas"> aevaldas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aevaldas">Copy rank badge</a><br/>
 			Evaldas A.
 		</td>
 		<td>@konkurenta </td>
@@ -8464,11 +8401,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/Juzva8">
+				<img src="https://avatars.githubusercontent.com/u/72834046?s=72&u=d67b4d28d307d74769ce7ee1d75884fafef7bce4&v=4" width="24" alt="Avatar of Juzva8"> Juzva8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Juzva8">Copy rank badge</a><br/>
+			Laurynas J
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Juzva8">Juzva8</a></td>
+		<td>Vilnius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/eugenijusr">
+				<img src="https://avatars.githubusercontent.com/u/188573?s=72&u=1f297b4070f39ba718e4587141d751047b02c1d5&v=4" width="24" alt="Avatar of eugenijusr"> eugenijusr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eugenijusr">Copy rank badge</a><br/>
+			Eugenijus Radlinskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/MCorange99">
 				<img src="https://avatars.githubusercontent.com/u/79301995?s=72&u=16452582dddcaddbb07259f48237122f5f7ed487&v=4" width="24" alt="Avatar of MCorange99"> MCorange99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MCorange99">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Mcorange Co. </td>
@@ -8477,11 +8440,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/mkilincaslan">
 				<img src="https://avatars.githubusercontent.com/u/34383104?s=72&u=cb373db388a213ad14243a17ec75e52a43fbf687&v=4" width="24" alt="Avatar of mkilincaslan"> mkilincaslan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mkilincaslan">Copy rank badge</a><br/>
 			Mesut KILINCASLAN
 		</td>
 		<td>No Company</td>
@@ -8490,11 +8453,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/mantasjasikenas">
+				<img src="https://avatars.githubusercontent.com/u/23138747?s=72&u=d9ef825ccac604d03ecf32bfdb860b7cef71bf26&v=4" width="24" alt="Avatar of mantasjasikenas"> mantasjasikenas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mantasjasikenas">Copy rank badge</a><br/>
+			Mantelis
+		</td>
+		<td>Kaunas University Of Technology<br/></td>
+		<td><a href="https://twitter.com/MantelisJ">MantelisJ</a></td>
+		<td>Kaunas</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/AndriusBartulis">
+				<img src="https://avatars.githubusercontent.com/u/6200977?s=72&u=868619be72b8f6bb17bee5347a530f9990a14e10&v=4" width="24" alt="Avatar of AndriusBartulis"> AndriusBartulis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#AndriusBartulis">Copy rank badge</a><br/>
+			Andrius Bartulis
+		</td>
+		<td>Formwork </td>
+		<td><a href="https://twitter.com/andriusbartulis">andriusbartulis</a></td>
+		<td>Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/aisbaa">
+				<img src="https://avatars.githubusercontent.com/u/82692?s=72&v=4" width="24" alt="Avatar of aisbaa"> aisbaa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#aisbaa">Copy rank badge</a><br/>
+			Aistis Jokubauskas
+		</td>
+		<td>@uber </td>
+		<td>No Twitter Username</td>
+		<td>Europe/Lithuania/Vilnius</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>646</td>
 		<td>
 			<a href="https://github.com/serackis">
 				<img src="https://avatars.githubusercontent.com/u/47835379?s=72&u=6cf9af4bdaf0dcea727b931e401b031a3f06d2ad&v=4" width="24" alt="Avatar of serackis"> serackis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#serackis">Copy rank badge</a><br/>
 			Artūras Serackis
 		</td>
 		<td>Vilnius Gediminas Technical University<br/>(vilniustech)<br/></td>
@@ -8505,9 +8507,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>647</td>
 		<td>
+			<a href="https://github.com/6ar8nas">
+				<img src="https://avatars.githubusercontent.com/u/86420873?s=72&u=8fea79bd692e65944976d06302a823c3418ad9b8&v=4" width="24" alt="Avatar of 6ar8nas"> 6ar8nas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#6ar8nas">Copy rank badge</a><br/>
+			Šarūnas Griškus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/markkkkas">
+				<img src="https://avatars.githubusercontent.com/u/48568793?s=72&u=42c11168f56a24dd9becc317d4dfe8926e2c182c&v=4" width="24" alt="Avatar of markkkkas"> markkkkas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#markkkkas">Copy rank badge</a><br/>
+			Markas Klapovščiuk
+		</td>
+		<td>@kachingappz </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
 			<a href="https://github.com/dynbit">
 				<img src="https://avatars.githubusercontent.com/u/213547?s=72&u=ad2d6f95c2b1d0feb562115da0efd043b379a403&v=4" width="24" alt="Avatar of dynbit"> dynbit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dynbit">Copy rank badge</a><br/>
 			Vytautas Galaunia
 		</td>
 		<td>@humbility </td>
@@ -8516,24 +8544,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>650</td>
 		<td>
-			<a href="https://github.com/aisbaa">
-				<img src="https://avatars.githubusercontent.com/u/82692?s=72&v=4" width="24" alt="Avatar of aisbaa"> aisbaa
-			</a><br/>
-			Aistis Jokubauskas
+			<a href="https://github.com/ashmigelski">
+				<img src="https://avatars.githubusercontent.com/u/4904519?s=72&v=4" width="24" alt="Avatar of ashmigelski"> ashmigelski
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ashmigelski">Copy rank badge</a><br/>
+			Aleksey Shmigelski
 		</td>
-		<td>@uber </td>
+		<td>Gurtam </td>
 		<td>No Twitter Username</td>
-		<td>Europe/Lithuania/Vilnius</td>
+		<td>Vilnius, Lithuania, EU</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/nimmen">
 				<img src="https://avatars.githubusercontent.com/u/465671?s=72&v=4" width="24" alt="Avatar of nimmen"> nimmen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#nimmen">Copy rank badge</a><br/>
 			nimmen
 		</td>
 		<td>No Company</td>
@@ -8542,11 +8570,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/BenasVolkovas">
+				<img src="https://avatars.githubusercontent.com/u/49361502?s=72&u=ac82fc9fba2f70b1b1526a3b1b947040f203a6d1&v=4" width="24" alt="Avatar of BenasVolkovas"> BenasVolkovas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#BenasVolkovas">Copy rank badge</a><br/>
+			Benas Volkovas
+		</td>
+		<td>@superhow </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/Euphorbium">
+				<img src="https://avatars.githubusercontent.com/u/976661?s=72&u=bedbe9cab55aececd7c7a41bf763c9740b858e09&v=4" width="24" alt="Avatar of Euphorbium"> Euphorbium
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Euphorbium">Copy rank badge</a><br/>
+			Mėnuo Masiulis
+		</td>
+		<td>Delves </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/impexeris">
 				<img src="https://avatars.githubusercontent.com/u/24243985?s=72&v=4" width="24" alt="Avatar of impexeris"> impexeris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#impexeris">Copy rank badge</a><br/>
 			IMPEXERIS
 		</td>
 		<td>Impexeris </td>
@@ -8555,63 +8609,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>651</td>
-		<td>
-			<a href="https://github.com/djsawicko">
-				<img src="https://avatars.githubusercontent.com/u/75716744?s=72&u=a3579805da9fce4c3b03e95db8e1a0ec30b7cbc3&v=4" width="24" alt="Avatar of djsawicko"> djsawicko
-			</a><br/>
-			Gustas Savickas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>652</td>
-		<td>
-			<a href="https://github.com/faustuzas">
-				<img src="https://avatars.githubusercontent.com/u/33425982?s=72&u=c085a62458f3ea01be1496bc00648a534982f497&v=4" width="24" alt="Avatar of faustuzas"> faustuzas
-			</a><br/>
-			Faustas Butkus
-		</td>
-		<td>@chronosphere </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/grambas">
-				<img src="https://avatars.githubusercontent.com/u/5207343?s=72&u=96f57d9588554451dc65c743a76beef6b3909aa0&v=4" width="24" alt="Avatar of grambas"> grambas
-			</a><br/>
-			Mindaugas Milius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Alytus</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/nicoflojo">
-				<img src="https://avatars.githubusercontent.com/u/4722927?s=72&u=c1a5e359861e83d8477d5ab4d5e08b9ad3bc8cc4&v=4" width="24" alt="Avatar of nicoflojo"> nicoflojo
-			</a><br/>
-			neekzuu
-		</td>
-		<td>Sowly.co,skubos </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>2</td>
-	</tr>
-	<tr>
 		<td>655</td>
 		<td>
 			<a href="https://github.com/mn7z">
 				<img src="https://avatars.githubusercontent.com/u/665947?s=72&u=006440db51570aff2df4209f353208d7c1d6b4c7&v=4" width="24" alt="Avatar of mn7z"> mn7z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mn7z">Copy rank badge</a><br/>
 			Mantas Radzevičius
 		</td>
 		<td>No Company</td>
@@ -8622,10 +8624,10 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>656</td>
 		<td>
-			<a href="https://github.com/theLucy">
-				<img src="https://avatars.githubusercontent.com/u/11135283?s=72&u=ecb0dc503b1e4a66046f4e9c7e11cc05555dd639&v=4" width="24" alt="Avatar of theLucy"> theLucy
-			</a><br/>
-			Lucy
+			<a href="https://github.com/djsawicko">
+				<img src="https://avatars.githubusercontent.com/u/75716744?s=72&u=a3579805da9fce4c3b03e95db8e1a0ec30b7cbc3&v=4" width="24" alt="Avatar of djsawicko"> djsawicko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#djsawicko">Copy rank badge</a><br/>
+			Gustas Savickas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8635,22 +8637,48 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>657</td>
 		<td>
-			<a href="https://github.com/valdasraps">
-				<img src="https://avatars.githubusercontent.com/u/1263338?s=72&v=4" width="24" alt="Avatar of valdasraps"> valdasraps
-			</a><br/>
-			Valdas Rapsevicius
+			<a href="https://github.com/faustuzas">
+				<img src="https://avatars.githubusercontent.com/u/33425982?s=72&u=c085a62458f3ea01be1496bc00648a534982f497&v=4" width="24" alt="Avatar of faustuzas"> faustuzas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#faustuzas">Copy rank badge</a><br/>
+			Faustas Butkus
 		</td>
-		<td>Vu </td>
+		<td>@chronosphere </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>658</td>
 		<td>
+			<a href="https://github.com/grambas">
+				<img src="https://avatars.githubusercontent.com/u/5207343?s=72&u=96f57d9588554451dc65c743a76beef6b3909aa0&v=4" width="24" alt="Avatar of grambas"> grambas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#grambas">Copy rank badge</a><br/>
+			Mindaugas Milius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Alytus</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/trimailov">
+				<img src="https://avatars.githubusercontent.com/u/5767952?s=72&u=fffcea7cc50811d3b0be51e82c61c882531c731c&v=4" width="24" alt="Avatar of trimailov"> trimailov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#trimailov">Copy rank badge</a><br/>
+			Justas Trimailovas
+		</td>
+		<td>@programmersofvilniu  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
 			<a href="https://github.com/ott3rly">
 				<img src="https://avatars.githubusercontent.com/u/135124280?s=72&u=abe0e1d813dc24b5654237927808fabadd26259b&v=4" width="24" alt="Avatar of ott3rly"> ott3rly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ott3rly">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Otterly </td>
@@ -8659,24 +8687,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>661</td>
 		<td>
-			<a href="https://github.com/Kristonitas">
-				<img src="https://avatars.githubusercontent.com/u/9002285?s=72&u=80d7617528b8c5be8fade775a056c7a3f18ff27f&v=4" width="24" alt="Avatar of Kristonitas"> Kristonitas
-			</a><br/>
-			Kristupas Stumbrys
+			<a href="https://github.com/Doomann">
+				<img src="https://avatars.githubusercontent.com/u/80388518?s=72&u=0af466c55b12de5d62a11be4f7c98c1593e1ae7e&v=4" width="24" alt="Avatar of Doomann"> Doomann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Doomann">Copy rank badge</a><br/>
+			Domantas
 		</td>
-		<td>Fatmap </td>
+		<td>@meedio </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/theLucy">
+				<img src="https://avatars.githubusercontent.com/u/11135283?s=72&u=ecb0dc503b1e4a66046f4e9c7e11cc05555dd639&v=4" width="24" alt="Avatar of theLucy"> theLucy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#theLucy">Copy rank badge</a><br/>
+			Lucy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/valdasraps">
+				<img src="https://avatars.githubusercontent.com/u/1263338?s=72&v=4" width="24" alt="Avatar of valdasraps"> valdasraps
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#valdasraps">Copy rank badge</a><br/>
+			Valdas Rapsevicius
+		</td>
+		<td>Vu </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/deividasstr">
 				<img src="https://avatars.githubusercontent.com/u/17353565?s=72&u=931e1b01bf2b04522017cf5d8caee127fa5402d8&v=4" width="24" alt="Avatar of deividasstr"> deividasstr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#deividasstr">Copy rank badge</a><br/>
 			Deividas Strioga
 		</td>
 		<td>@vinted  </td>
@@ -8685,11 +8739,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/mvarnagiris">
 				<img src="https://avatars.githubusercontent.com/u/1196127?s=72&v=4" width="24" alt="Avatar of mvarnagiris"> mvarnagiris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mvarnagiris">Copy rank badge</a><br/>
 			Mantas Varnagiris
 		</td>
 		<td>No Company</td>
@@ -8698,11 +8752,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/atvirasvilnius">
 				<img src="https://avatars.githubusercontent.com/u/12123428?s=72&u=53468d4f14a8b273bc2477bea98b917a0a59e37f&v=4" width="24" alt="Avatar of atvirasvilnius"> atvirasvilnius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#atvirasvilnius">Copy rank badge</a><br/>
 			Atviras Vilnius
 		</td>
 		<td>Vilniaus Miesto Savivaldybės Administracija<br/></td>
@@ -8711,77 +8765,25 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/gytisrepecka">
-				<img src="https://avatars.githubusercontent.com/u/5565469?s=72&u=8e75bcea631aed11c83039fab1207169ff4696dc&v=4" width="24" alt="Avatar of gytisrepecka"> gytisrepecka
-			</a><br/>
-			Gytis Repečka
-		</td>
-		<td>@inretio </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>664</td>
-		<td>
-			<a href="https://github.com/SlowLogicBoy">
-				<img src="https://avatars.githubusercontent.com/u/3121637?s=72&u=6b1dfc59af258402d8e86009355c0a70d78a6cb9&v=4" width="24" alt="Avatar of SlowLogicBoy"> SlowLogicBoy
-			</a><br/>
-			Simonas G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>665</td>
-		<td>
-			<a href="https://github.com/kkMatt">
-				<img src="https://avatars.githubusercontent.com/u/4975202?s=72&u=58511b592b2c1ae2f8050cb93737fb6e319a0f41&v=4" width="24" alt="Avatar of kkMatt"> kkMatt
-			</a><br/>
-			KK Matt
-		</td>
-		<td>Xrental.com </td>
-		<td><a href="https://twitter.com/kkMattME">kkMattME</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/gskema">
-				<img src="https://avatars.githubusercontent.com/u/5542423?s=72&u=c4d6b04acfa9e753eca91f0a113f69b344eddb2c&v=4" width="24" alt="Avatar of gskema"> gskema
-			</a><br/>
-			Gytis Šk.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>667</td>
 		<td>
-			<a href="https://github.com/ugnelis">
-				<img src="https://avatars.githubusercontent.com/u/8350893?s=72&u=7d43b3834512aee5f6b7415ad07a1f11398f6c4c&v=4" width="24" alt="Avatar of ugnelis"> ugnelis
-			</a><br/>
-			Ugnius Malūkas
+			<a href="https://github.com/vincaslt">
+				<img src="https://avatars.githubusercontent.com/u/944727?s=72&u=c02efa4026ebbb019cefa3c4679c90e496aa8cc4&v=4" width="24" alt="Avatar of vincaslt"> vincaslt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#vincaslt">Copy rank badge</a><br/>
+			Vincas Stonys
 		</td>
-		<td>Chark Studio </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VincasStonys">VincasStonys</a></td>
+		<td>Vilnius, Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>668</td>
 		<td>
-			<a href="https://github.com/agneta1991">
-				<img src="https://avatars.githubusercontent.com/u/120168752?s=72&u=f9fbed2395655cad0bd6635b50351477d69600c5&v=4" width="24" alt="Avatar of agneta1991"> agneta1991
-			</a><br/>
-			Agneta Pupienyte
+			<a href="https://github.com/SlowLogicBoy">
+				<img src="https://avatars.githubusercontent.com/u/3121637?s=72&u=6b1dfc59af258402d8e86009355c0a70d78a6cb9&v=4" width="24" alt="Avatar of SlowLogicBoy"> SlowLogicBoy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#SlowLogicBoy">Copy rank badge</a><br/>
+			Simonas G
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8791,22 +8793,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>669</td>
 		<td>
-			<a href="https://github.com/lukauskas">
-				<img src="https://avatars.githubusercontent.com/u/108413?s=72&u=6373dd3a2dc29752cc5ce45bd7a85c8b78d9c817&v=4" width="24" alt="Avatar of lukauskas"> lukauskas
-			</a><br/>
-			Saulius Lukauskas
+			<a href="https://github.com/gytisrepecka">
+				<img src="https://avatars.githubusercontent.com/u/5565469?s=72&u=8e75bcea631aed11c83039fab1207169ff4696dc&v=4" width="24" alt="Avatar of gytisrepecka"> gytisrepecka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gytisrepecka">Copy rank badge</a><br/>
+			Gytis Repečka
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lukauskas_">lukauskas_</a></td>
+		<td>@inretio </td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>670</td>
 		<td>
+			<a href="https://github.com/agneta1991">
+				<img src="https://avatars.githubusercontent.com/u/120168752?s=72&u=f9fbed2395655cad0bd6635b50351477d69600c5&v=4" width="24" alt="Avatar of agneta1991"> agneta1991
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#agneta1991">Copy rank badge</a><br/>
+			Agneta Pupienyte
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
 			<a href="https://github.com/huglester">
 				<img src="https://avatars.githubusercontent.com/u/150731?s=72&v=4" width="24" alt="Avatar of huglester"> huglester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#huglester">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8815,11 +8830,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/lukauskas">
+				<img src="https://avatars.githubusercontent.com/u/108413?s=72&u=6373dd3a2dc29752cc5ce45bd7a85c8b78d9c817&v=4" width="24" alt="Avatar of lukauskas"> lukauskas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#lukauskas">Copy rank badge</a><br/>
+			Saulius Lukauskas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lukauskas_">lukauskas_</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/epranka">
 				<img src="https://avatars.githubusercontent.com/u/21198957?s=72&u=9ba14a0e92a7dc3d317b336b6a681ffcf8e4281c&v=4" width="24" alt="Avatar of epranka"> epranka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#epranka">Copy rank badge</a><br/>
 			epranka
 		</td>
 		<td>Opkodas </td>
@@ -8828,11 +8856,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/TMoska">
 				<img src="https://avatars.githubusercontent.com/u/8490362?s=72&u=90970e892920f104bc222dcea95bee4fbdc4ddff&v=4" width="24" alt="Avatar of TMoska"> TMoska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#TMoska">Copy rank badge</a><br/>
 			Tomas Moška
 		</td>
 		<td>Turing College </td>
@@ -8841,38 +8869,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>673</td>
-		<td>
-			<a href="https://github.com/eugenijusr">
-				<img src="https://avatars.githubusercontent.com/u/188573?s=72&u=1f297b4070f39ba718e4587141d751047b02c1d5&v=4" width="24" alt="Avatar of eugenijusr"> eugenijusr
-			</a><br/>
-			Eugenijus Radlinskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>674</td>
-		<td>
-			<a href="https://github.com/jul1u5">
-				<img src="https://avatars.githubusercontent.com/u/8469822?s=72&u=74b98f2d2f9dfe6cc9fc2a248593f0a9ebfea74f&v=4" width="24" alt="Avatar of jul1u5"> jul1u5
-			</a><br/>
-			Julius Marozas
-		</td>
-		<td>Chalmers University Of Technology<br/></td>
-		<td><a href="https://twitter.com/JuliusMarozas">JuliusMarozas</a></td>
-		<td>Sweden/Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>675</td>
 		<td>
-			<a href="https://github.com/kranux">
-				<img src="https://avatars.githubusercontent.com/u/1897702?s=72&u=9a39da0073c212ad418fa3debf0d113b14b817e8&v=4" width="24" alt="Avatar of kranux"> kranux
-			</a><br/>
-			Andrius Kripaitis
+			<a href="https://github.com/ignl">
+				<img src="https://avatars.githubusercontent.com/u/2720602?s=72&u=b08eae522841a7a0e543a6f0504c9ac9ad13d0ce&v=4" width="24" alt="Avatar of ignl"> ignl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#ignl">Copy rank badge</a><br/>
+			Ignas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8882,9 +8884,48 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>676</td>
 		<td>
+			<a href="https://github.com/4Giedrius">
+				<img src="https://avatars.githubusercontent.com/u/3658151?s=72&v=4" width="24" alt="Avatar of 4Giedrius"> 4Giedrius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#4Giedrius">Copy rank badge</a><br/>
+			Giedrius
+		</td>
+		<td>@zyro-inc @hostinger </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/flakas">
+				<img src="https://avatars.githubusercontent.com/u/562769?s=72&u=f681a050a520eb3e2d5a812a962b07ed6d842897&v=4" width="24" alt="Avatar of flakas"> flakas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#flakas">Copy rank badge</a><br/>
+			Tautvidas Sipavičius
+		</td>
+		<td>@mailpoet  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/kranux">
+				<img src="https://avatars.githubusercontent.com/u/1897702?s=72&u=9a39da0073c212ad418fa3debf0d113b14b817e8&v=4" width="24" alt="Avatar of kranux"> kranux
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kranux">Copy rank badge</a><br/>
+			Andrius Kripaitis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
 			<a href="https://github.com/eimantas">
 				<img src="https://avatars.githubusercontent.com/u/551543?s=72&v=4" width="24" alt="Avatar of eimantas"> eimantas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eimantas">Copy rank badge</a><br/>
 			Eimantas
 		</td>
 		<td>@ovoko </td>
@@ -8893,24 +8934,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>680</td>
 		<td>
-			<a href="https://github.com/gnatok">
-				<img src="https://avatars.githubusercontent.com/u/1182933?s=72&u=3081f8aa618db7284b2d7a1e2ad220a5e5045515&v=4" width="24" alt="Avatar of gnatok"> gnatok
-			</a><br/>
-			Oleksandr Gnatyshyn
+			<a href="https://github.com/jul1u5">
+				<img src="https://avatars.githubusercontent.com/u/8469822?s=72&u=74b98f2d2f9dfe6cc9fc2a248593f0a9ebfea74f&v=4" width="24" alt="Avatar of jul1u5"> jul1u5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jul1u5">Copy rank badge</a><br/>
+			Julius Marozas
 		</td>
-		<td>Nord Security </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Chalmers University Of Technology<br/></td>
+		<td><a href="https://twitter.com/JuliusMarozas">JuliusMarozas</a></td>
+		<td>Sweden/Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>681</td>
+		<td>
+			<a href="https://github.com/tomuxmon">
+				<img src="https://avatars.githubusercontent.com/u/2006864?s=72&u=10bf43225ed02f136bc99c517ba1059fb6c7922c&v=4" width="24" alt="Avatar of tomuxmon"> tomuxmon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#tomuxmon">Copy rank badge</a><br/>
+			Tomas Dambrauskas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tomuxmon">tomuxmon</a></td>
+		<td>Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/MartynasM">
 				<img src="https://avatars.githubusercontent.com/u/32266?s=72&u=98a9d4a5bc902d74338a50f009fb518ad66664ae&v=4" width="24" alt="Avatar of MartynasM"> MartynasM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#MartynasM">Copy rank badge</a><br/>
 			Martynas Margis
 		</td>
 		<td>Toptal </td>
@@ -8919,11 +8973,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/gnatok">
+				<img src="https://avatars.githubusercontent.com/u/1182933?s=72&u=3081f8aa618db7284b2d7a1e2ad220a5e5045515&v=4" width="24" alt="Avatar of gnatok"> gnatok
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#gnatok">Copy rank badge</a><br/>
+			Oleksandr Gnatyshyn
+		</td>
+		<td>Nord Security </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/GvidasGVD">
 				<img src="https://avatars.githubusercontent.com/u/15180705?s=72&u=51c29c491879315f1e8f5b6f8b4b56f031ac9f12&v=4" width="24" alt="Avatar of GvidasGVD"> GvidasGVD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#GvidasGVD">Copy rank badge</a><br/>
 			Gvidas
 		</td>
 		<td>No Company</td>
@@ -8932,63 +8999,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/markkkkas">
-				<img src="https://avatars.githubusercontent.com/u/48568793?s=72&u=42c11168f56a24dd9becc317d4dfe8926e2c182c&v=4" width="24" alt="Avatar of markkkkas"> markkkkas
-			</a><br/>
-			Markas Klapovščiuk
-		</td>
-		<td>@kachingappz </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>681</td>
-		<td>
-			<a href="https://github.com/AndriusBartulis">
-				<img src="https://avatars.githubusercontent.com/u/6200977?s=72&u=868619be72b8f6bb17bee5347a530f9990a14e10&v=4" width="24" alt="Avatar of AndriusBartulis"> AndriusBartulis
-			</a><br/>
-			Andrius Bartulis
-		</td>
-		<td>Formwork </td>
-		<td><a href="https://twitter.com/andriusbartulis">andriusbartulis</a></td>
-		<td>Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/2rla">
-				<img src="https://avatars.githubusercontent.com/u/2262994?s=72&u=294b4b13ff3d0a190372aee7e5d78514f4b6a4de&v=4" width="24" alt="Avatar of 2rla"> 2rla
-			</a><br/>
-			Viktor Turla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>683</td>
-		<td>
-			<a href="https://github.com/bytasv">
-				<img src="https://avatars.githubusercontent.com/u/437214?s=72&u=9ceed76ff06aa9391b196a86cfba848b55b519b7&v=4" width="24" alt="Avatar of bytasv"> bytasv
-			</a><br/>
-			Vytautas Butkus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/skarware">
 				<img src="https://avatars.githubusercontent.com/u/11786741?s=72&u=5bf5e943f6a8ea871a60da13b868a858225cdc9b&v=4" width="24" alt="Avatar of skarware"> skarware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#skarware">Copy rank badge</a><br/>
 			Martynas Skaringa
 		</td>
 		<td>No Company</td>
@@ -8997,24 +9012,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
-			<a href="https://github.com/moriko">
-				<img src="https://avatars.githubusercontent.com/u/1715818?s=72&u=5b58a96a3852eafd2050acaa4aa9dc991ca2d8e1&v=4" width="24" alt="Avatar of moriko"> moriko
-			</a><br/>
-			Irma Rasikaite
+			<a href="https://github.com/2rla">
+				<img src="https://avatars.githubusercontent.com/u/2262994?s=72&u=294b4b13ff3d0a190372aee7e5d78514f4b6a4de&v=4" width="24" alt="Avatar of 2rla"> 2rla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#2rla">Copy rank badge</a><br/>
+			Viktor Turla
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
+		<td>Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/Alexa-dis">
 				<img src="https://avatars.githubusercontent.com/u/79746970?s=72&u=d3ded6190159750f310cb6f013412532787e24e0&v=4" width="24" alt="Avatar of Alexa-dis"> Alexa-dis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Alexa-dis">Copy rank badge</a><br/>
 			Alexandra Safonova
 		</td>
 		<td>No Company</td>
@@ -9023,12 +9038,12 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
-			<a href="https://github.com/Julius-Syvis">
-				<img src="https://avatars.githubusercontent.com/u/55212122?s=72&u=a71d5c2488b33688503b7da7df57af8e8218dbdd&v=4" width="24" alt="Avatar of Julius-Syvis"> Julius-Syvis
-			</a><br/>
-			Julius Šyvis
+			<a href="https://github.com/moriko">
+				<img src="https://avatars.githubusercontent.com/u/1715818?s=72&u=5b58a96a3852eafd2050acaa4aa9dc991ca2d8e1&v=4" width="24" alt="Avatar of moriko"> moriko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#moriko">Copy rank badge</a><br/>
+			Irma Rasikaite
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9036,11 +9051,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/Albertik">
+				<img src="https://avatars.githubusercontent.com/u/3228179?s=72&u=c91c26b5f0354545f980dac7f1406ce360916a3e&v=4" width="24" alt="Avatar of Albertik"> Albertik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Albertik">Copy rank badge</a><br/>
+			Albert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/DilrukR">
 				<img src="https://avatars.githubusercontent.com/u/68820399?s=72&v=4" width="24" alt="Avatar of DilrukR"> DilrukR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#DilrukR">Copy rank badge</a><br/>
 			Rishan Dilruk
 		</td>
 		<td>No Company</td>
@@ -9049,37 +9077,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/trimailov">
-				<img src="https://avatars.githubusercontent.com/u/5767952?s=72&u=fffcea7cc50811d3b0be51e82c61c882531c731c&v=4" width="24" alt="Avatar of trimailov"> trimailov
-			</a><br/>
-			Justas Trimailovas
-		</td>
-		<td>@programmersofvilniu  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>690</td>
-		<td>
-			<a href="https://github.com/rytisder">
-				<img src="https://avatars.githubusercontent.com/u/17141616?s=72&u=15018f26dcf4d33ba4e85510ab521fc598fd5a6d&v=4" width="24" alt="Avatar of rytisder"> rytisder
-			</a><br/>
-			Rytis Dereškevičius
-		</td>
-		<td>Senior Software Engineer @hostinger<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>691</td>
 		<td>
 			<a href="https://github.com/RimaSem">
 				<img src="https://avatars.githubusercontent.com/u/98835134?s=72&u=29ffad9d74c3bd3be3048f5f4a69face66146dbe&v=4" width="24" alt="Avatar of RimaSem"> RimaSem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#RimaSem">Copy rank badge</a><br/>
 			Rima
 		</td>
 		<td>Yard Venture </td>
@@ -9090,48 +9092,35 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 	<tr>
 		<td>692</td>
 		<td>
-			<a href="https://github.com/Albertik">
-				<img src="https://avatars.githubusercontent.com/u/3228179?s=72&u=c91c26b5f0354545f980dac7f1406ce360916a3e&v=4" width="24" alt="Avatar of Albertik"> Albertik
-			</a><br/>
-			Albert
+			<a href="https://github.com/benmandr">
+				<img src="https://avatars.githubusercontent.com/u/37113532?s=72&u=bf04192cda1350accb821489562d19af79671843&v=4" width="24" alt="Avatar of benmandr"> benmandr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#benmandr">Copy rank badge</a><br/>
+			Benas Mandravickas
 		</td>
-		<td>No Company</td>
+		<td>@hostinger  </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Kaunas, Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>693</td>
 		<td>
-			<a href="https://github.com/dainiuxt">
-				<img src="https://avatars.githubusercontent.com/u/2814477?s=72&v=4" width="24" alt="Avatar of dainiuxt"> dainiuxt
-			</a><br/>
-			Dainius
+			<a href="https://github.com/Rokiis1">
+				<img src="https://avatars.githubusercontent.com/u/94966788?s=72&u=15011fca963e697bcfabe87dd4cda454df0f5c2e&v=4" width="24" alt="Avatar of Rokiis1"> Rokiis1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Rokiis1">Copy rank badge</a><br/>
+			Rokas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, KLP</td>
+		<td>Lithuania/Vilnius</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>694</td>
 		<td>
-			<a href="https://github.com/egleged">
-				<img src="https://avatars.githubusercontent.com/u/63230239?s=72&u=d0dfb62347ccca7b421ae1207401e81288fad1df&v=4" width="24" alt="Avatar of egleged"> egleged
-			</a><br/>
-			Eglė Gedgaudaitė
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>695</td>
-		<td>
 			<a href="https://github.com/paulks-software">
-				<img src="https://avatars.githubusercontent.com/u/13711276?s=72&u=e61ff41f9628941e3939d966eed5cd0fb40fce66&v=4" width="24" alt="Avatar of paulks-software"> paulks-software
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/13711276?s=72&u=98c2b7633d9a1463b113851c2064a22b49ed023d&v=4" width="24" alt="Avatar of paulks-software"> paulks-software
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#paulks-software">Copy rank badge</a><br/>
 			Paul Ks
 		</td>
 		<td>No Company</td>
@@ -9140,24 +9129,50 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>695</td>
 		<td>
-			<a href="https://github.com/martynaskadisa">
-				<img src="https://avatars.githubusercontent.com/u/8273932?s=72&u=5a35c8e2ed172bf5a3735400f675c927543190f8&v=4" width="24" alt="Avatar of martynaskadisa"> martynaskadisa
-			</a><br/>
-			Martynas Kadiša
+			<a href="https://github.com/dainiuxt">
+				<img src="https://avatars.githubusercontent.com/u/2814477?s=72&v=4" width="24" alt="Avatar of dainiuxt"> dainiuxt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#dainiuxt">Copy rank badge</a><br/>
+			Dainius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
+		<td>Lithuania, KLP</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/rytisder">
+				<img src="https://avatars.githubusercontent.com/u/17141616?s=72&u=15018f26dcf4d33ba4e85510ab521fc598fd5a6d&v=4" width="24" alt="Avatar of rytisder"> rytisder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#rytisder">Copy rank badge</a><br/>
+			Rytis Dereškevičius
+		</td>
+		<td>Cto @outcraftai </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>697</td>
 		<td>
+			<a href="https://github.com/Logo252">
+				<img src="https://avatars.githubusercontent.com/u/19774535?s=72&u=dac977dd5745c29e6e2b842903fff3df0c0abb88&v=4" width="24" alt="Avatar of Logo252"> Logo252
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Logo252">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
 			<a href="https://github.com/kostasmanionis">
 				<img src="https://avatars.githubusercontent.com/u/5301424?s=72&u=5d133cd355d60be7fc4f0f3da11a670b6ce78712&v=4" width="24" alt="Avatar of kostasmanionis"> kostasmanionis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#kostasmanionis">Copy rank badge</a><br/>
 			Kostas Manionis
 		</td>
 		<td>1stdibs </td>
@@ -9166,11 +9181,24 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/mariusgrigaitis">
+				<img src="https://avatars.githubusercontent.com/u/11269671?s=72&u=a5fa61d38c5a81a81cc999590ea6fac466c56c33&v=4" width="24" alt="Avatar of mariusgrigaitis"> mariusgrigaitis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#mariusgrigaitis">Copy rank badge</a><br/>
+			Marius Grigaitis
+		</td>
+		<td>Nfq | Home24 </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/eimantaaas">
 				<img src="https://avatars.githubusercontent.com/u/3778741?s=72&u=71cadbc9d5331770758c290f957f63e9a0926eee&v=4" width="24" alt="Avatar of eimantaaas"> eimantaaas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#eimantaaas">Copy rank badge</a><br/>
 			Eimantas Likas
 		</td>
 		<td>@kinfirm  </td>
@@ -9179,11 +9207,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/Dainius14">
 				<img src="https://avatars.githubusercontent.com/u/15253126?s=72&u=d33603b457ca326ebe5c800f24c4bee611b63b3d&v=4" width="24" alt="Avatar of Dainius14"> Dainius14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Dainius14">Copy rank badge</a><br/>
 			Dainius Daukševičius
 		</td>
 		<td>No Company</td>
@@ -9192,11 +9220,11 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/SimasJan">
 				<img src="https://avatars.githubusercontent.com/u/27866167?s=72&u=5ed2809f8772ff66be1251f8a14012d50371926c&v=4" width="24" alt="Avatar of SimasJan"> SimasJan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#SimasJan">Copy rank badge</a><br/>
 			Simas Janusas
 		</td>
 		<td>@omnisend </td>
@@ -9205,24 +9233,37 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>703</td>
 		<td>
-			<a href="https://github.com/lneicelis">
-				<img src="https://avatars.githubusercontent.com/u/5556003?s=72&u=3dc5ea0867bc2dadc9129a88c2e6489813f6a05f&v=4" width="24" alt="Avatar of lneicelis"> lneicelis
-			</a><br/>
-			Lukas Neicelis
+			<a href="https://github.com/viliuspovilaika">
+				<img src="https://avatars.githubusercontent.com/u/10381655?s=72&u=9bc4bb05c1576d8a8273fd5ab3913c789118dfe3&v=4" width="24" alt="Avatar of viliuspovilaika"> viliuspovilaika
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#viliuspovilaika">Copy rank badge</a><br/>
+			Vilius
 		</td>
-		<td>Shopify </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
+		<td>Lithuania</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/Deminalla">
+				<img src="https://avatars.githubusercontent.com/u/65849358?s=72&u=33255a64188c4ab7660b3e63f572730db7aecefa&v=4" width="24" alt="Avatar of Deminalla"> Deminalla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Deminalla">Copy rank badge</a><br/>
+			Deniza
+		</td>
+		<td>Devbridge, A Cognizant Company<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/daliuspamedytis1393">
 				<img src="https://avatars.githubusercontent.com/u/40301954?s=72&u=fa85a0ad0991d23cc1c234b460ca7ca00bd7e6cd&v=4" width="24" alt="Avatar of daliuspamedytis1393"> daliuspamedytis1393
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#daliuspamedytis1393">Copy rank badge</a><br/>
 			Dalius Pamedytis
 		</td>
 		<td>Zyro Inc </td>
@@ -9231,16 +9272,29 @@ There are `945 users`  in Lithuania. You need at least `11 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>706</td>
 		<td>
-			<a href="https://github.com/biskvitas">
-				<img src="https://avatars.githubusercontent.com/u/3501651?s=72&u=68a7dc1a4369b7ddf0edcce9c4f4f630fbc348cb&v=4" width="24" alt="Avatar of biskvitas"> biskvitas
-			</a><br/>
-			Vitalij
+			<a href="https://github.com/Johna-123">
+				<img src="https://avatars.githubusercontent.com/u/100569377?s=72&u=7a4a44c5b6dcb263f876cdc0fc84a0f54f682d85&v=4" width="24" alt="Avatar of Johna-123"> Johna-123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#Johna-123">Copy rank badge</a><br/>
+			Johnathan Verstraaten
 		</td>
-		<td>No Company</td>
+		<td>Freelancer </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, LT</td>
+		<td>Kaunas</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/jonas-jasas">
+				<img src="https://avatars.githubusercontent.com/u/420607?s=72&u=fc189aa6783f3d53051efccd5d3f4de5715d1e50&v=4" width="24" alt="Avatar of jonas-jasas"> jonas-jasas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/lithuania.md#jonas-jasas">Copy rank badge</a><br/>
+			Jonas Jasas
+		</td>
+		<td>Self Employed </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
 		<td>1</td>
 	</tr>
 </table>
