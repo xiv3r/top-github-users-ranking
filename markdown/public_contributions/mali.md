@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `public contributions` by users in Mali on `2026/9/24 10:53 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `public contributions` by users in Mali on `2026/10/23 10:34 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `748 users`  in Mali. You need at least `0 followers` to be on this list.
+There are `770 users`  in Mali. You need at least `0 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Mali GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,189 +111,202 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>
 			<a href="https://github.com/koneke55">
 				<img src="https://avatars.githubusercontent.com/u/139575233?s=72&u=2e9226b84d47b0607440af932208379dd817842b&v=4" width="24" alt="Avatar of koneke55"> koneke55
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#koneke55">Copy rank badge</a><br/>
 			कोनेके
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/koneke55">koneke55</a></td>
 		<td>Bamako, Mali</td>
-		<td>6399</td>
+		<td>6389</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a href="https://github.com/wajahat-ali-mir-dev">
 				<img src="https://avatars.githubusercontent.com/u/156110102?s=72&u=c407c0684339b08ac2d9c5bc14cd4bc8658c1ec6&v=4" width="24" alt="Avatar of wajahat-ali-mir-dev"> wajahat-ali-mir-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#wajahat-ali-mir-dev">Copy rank badge</a><br/>
 			Wajahat Ali Mir
 		</td>
 		<td>Wajahat Ali Mir Solutions<br/><br/></td>
 		<td><a href="https://twitter.com/mrwajahatalimir">mrwajahatalimir</a></td>
 		<td>uk mx ksa drc cog togo cuba peru  pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland</td>
-		<td>5583</td>
+		<td>5581</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
 			<a href="https://github.com/MFOF7310">
 				<img src="https://avatars.githubusercontent.com/u/177466279?s=72&u=f11c9d49a7e5165d3c183870484cc16babb83fa0&v=4" width="24" alt="Avatar of MFOF7310"> MFOF7310
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MFOF7310">Copy rank badge</a><br/>
 			MFOFANA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako,Mali</td>
-		<td>4224</td>
+		<td>4411</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
 			<a href="https://github.com/Dioman-Keita">
-				<img src="https://avatars.githubusercontent.com/u/179656446?s=72&u=b0af29d51f38d8af8504e763693772b047e83c9b&v=4" width="24" alt="Avatar of Dioman-Keita"> Dioman-Keita
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/179656446?s=72&u=c6017784c174c3deca2942d7e267ae34fe1bfda9&v=4" width="24" alt="Avatar of Dioman-Keita"> Dioman-Keita
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Dioman-Keita">Copy rank badge</a><br/>
 			Dioman Keïta
 		</td>
 		<td>@axiora-dev </td>
 		<td><a href="https://twitter.com/DiomanKeita">DiomanKeita</a></td>
 		<td>Bamako/Mali</td>
-		<td>1424</td>
+		<td>1423</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
 			<a href="https://github.com/rgaudin">
 				<img src="https://avatars.githubusercontent.com/u/57929?s=72&u=6e6f776ebb4758528084e9828d4c1fcbb26db030&v=4" width="24" alt="Avatar of rgaudin"> rgaudin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#rgaudin">Copy rank badge</a><br/>
 			rgaudin
 		</td>
 		<td>Yɛlɛman </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
-		<td>1180</td>
+		<td>1129</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
 			<a href="https://github.com/sudoping01">
 				<img src="https://avatars.githubusercontent.com/u/84201601?s=72&u=4e9bb7ecf0f7ed8d724efd8a0cea1094af675bc4&v=4" width="24" alt="Avatar of sudoping01"> sudoping01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sudoping01">Copy rank badge</a><br/>
 			sed
 		</td>
 		<td>.... </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
-		<td>1165</td>
+		<td>1117</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
 			<a href="https://github.com/Alwil17">
 				<img src="https://avatars.githubusercontent.com/u/61506484?s=72&u=dca00e18506e17a60829e52333b12275df95f9ac&v=4" width="24" alt="Avatar of Alwil17"> Alwil17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Alwil17">Copy rank badge</a><br/>
 			Jean-Gaël
 		</td>
 		<td>@grey-workers-togo  </td>
 		<td><a href="https://twitter.com/fireskull_tg">fireskull_tg</a></td>
 		<td>uk mx ksa drc cog togo cuba peru pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland</td>
-		<td>654</td>
+		<td>687</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
 			<a href="https://github.com/Abbv75">
 				<img src="https://avatars.githubusercontent.com/u/69138625?s=72&u=d2039c8336b3221462c2ab93a3a45974ca730a56&v=4" width="24" alt="Avatar of Abbv75"> Abbv75
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Abbv75">Copy rank badge</a><br/>
 			Younouss Boré 
 		</td>
 		<td>Horizonfuture </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, telecel GBS</td>
-		<td>563</td>
+		<td>566</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/THIOYE97">
-				<img src="https://avatars.githubusercontent.com/u/140411803?s=72&u=b3f7d7d4c3b1d733de45faa37553d2a346bd3ca2&v=4" width="24" alt="Avatar of THIOYE97"> THIOYE97
-			</a><br/>
-			THIOYE MARIKO
+			<a href="https://github.com/skypper109">
+				<img src="https://avatars.githubusercontent.com/u/119601338?s=72&u=b0c792c2133669ee1417434dd9d44caa89f68a46&v=4" width="24" alt="Avatar of skypper109"> skypper109
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#skypper109">Copy rank badge</a><br/>
+			SKYPPER
 		</td>
-		<td>Danapay </td>
+		<td>Amd Tech </td>
 		<td>No Twitter Username</td>
-		<td>Bamako , Mali 🇲🇱 </td>
-		<td>534</td>
+		<td>Mali</td>
+		<td>430</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/tijjanismk">
+				<img src="https://avatars.githubusercontent.com/u/297739744?s=72&u=5138a0a9f013c8f413fea782d865765969b4abd4&v=4" width="24" alt="Avatar of tijjanismk"> tijjanismk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#tijjanismk">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>414</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/LeoAz">
 				<img src="https://avatars.githubusercontent.com/u/18053804?s=72&u=54ad701fb8291595fff4d76b51a75c38e2c26b89&v=4" width="24" alt="Avatar of LeoAz"> LeoAz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#LeoAz">Copy rank badge</a><br/>
 			Lionel AZ
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
-		<td>376</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/malladev">
-				<img src="https://avatars.githubusercontent.com/u/61908906?s=72&v=4" width="24" alt="Avatar of malladev"> malladev
-			</a><br/>
-			Mohamed Lamine KONE
-		</td>
-		<td>@simplonsolutionssen </td>
-		<td><a href="https://twitter.com/malladev223">malladev223</a></td>
-		<td>Bamako - MALI</td>
-		<td>370</td>
+		<td>386</td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>
 			<a href="https://github.com/Abdoul03">
 				<img src="https://avatars.githubusercontent.com/u/101934271?s=72&u=8f850e758ef14ce12b7e116fb0a3bf2817b53e91&v=4" width="24" alt="Avatar of Abdoul03"> Abdoul03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Abdoul03">Copy rank badge</a><br/>
 			Abdoul Ibrahima Samaké
 		</td>
 		<td>Tuwindi Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
-		<td>362</td>
+		<td>345</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/jimlecracken13">
-				<img src="https://avatars.githubusercontent.com/u/203409641?s=72&u=0a10595f24f83186dda51a9cb159e3661c7eda68&v=4" width="24" alt="Avatar of jimlecracken13"> jimlecracken13
-			</a><br/>
-			Amadou Diallo
+			<a href="https://github.com/THIOYE97">
+				<img src="https://avatars.githubusercontent.com/u/140411803?s=72&u=b3f7d7d4c3b1d733de45faa37553d2a346bd3ca2&v=4" width="24" alt="Avatar of THIOYE97"> THIOYE97
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#THIOYE97">Copy rank badge</a><br/>
+			THIOYE MARIKO
 		</td>
-		<td>Gesta+ </td>
+		<td>Danapay </td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>359</td>
+		<td>Bamako , Mali 🇲🇱 </td>
+		<td>324</td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/skypper109">
-				<img src="https://avatars.githubusercontent.com/u/119601338?s=72&u=b0c792c2133669ee1417434dd9d44caa89f68a46&v=4" width="24" alt="Avatar of skypper109"> skypper109
-			</a><br/>
-			SKYPPER
+			<a href="https://github.com/Dayifour">
+				<img src="https://avatars.githubusercontent.com/u/123929396?s=72&u=8570dc44aebb3280f95e8b6d499874d30c9a59ed&v=4" width="24" alt="Avatar of Dayifour"> Dayifour
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Dayifour">Copy rank badge</a><br/>
+			Sékou Dayifourou KEITA
 		</td>
-		<td>Amd Tech </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>310</td>
+		<td>Orange Ml </td>
+		<td><a href="https://twitter.com/Dayifour">Dayifour</a></td>
+		<td>Bamako, Mali</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td>
+			<a href="https://github.com/malladev">
+				<img src="https://avatars.githubusercontent.com/u/61908906?s=72&v=4" width="24" alt="Avatar of malladev"> malladev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#malladev">Copy rank badge</a><br/>
+			Mohamed Lamine KONE
+		</td>
+		<td>@simplonsolutionssen </td>
+		<td><a href="https://twitter.com/malladev223">malladev223</a></td>
+		<td>Bamako - MALI</td>
+		<td>274</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
 			<a href="https://github.com/SekouSallah">
 				<img src="https://avatars.githubusercontent.com/u/125995875?s=72&u=c0e50c025fcc56b972dbff21d478e1ca587640e2&v=4" width="24" alt="Avatar of SekouSallah"> SekouSallah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#SekouSallah">Copy rank badge</a><br/>
 			Sékou Sow
 		</td>
 		<td>@loga-engineering </td>
@@ -300,128 +315,128 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/Dayifour">
-				<img src="https://avatars.githubusercontent.com/u/123929396?s=72&u=8570dc44aebb3280f95e8b6d499874d30c9a59ed&v=4" width="24" alt="Avatar of Dayifour"> Dayifour
-			</a><br/>
-			Sékou Dayifourou KEITA
-		</td>
-		<td>Msnet </td>
-		<td><a href="https://twitter.com/Dayifour">Dayifour</a></td>
-		<td>Bamako, Mali</td>
-		<td>244</td>
-	</tr>
-	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/tijjanismk">
-				<img src="https://avatars.githubusercontent.com/u/297739744?s=72&u=5138a0a9f013c8f413fea782d865765969b4abd4&v=4" width="24" alt="Avatar of tijjanismk"> tijjanismk
-			</a><br/>
-			No Name
+			<a href="https://github.com/jimlecracken13">
+				<img src="https://avatars.githubusercontent.com/u/203409641?s=72&u=0a10595f24f83186dda51a9cb159e3661c7eda68&v=4" width="24" alt="Avatar of jimlecracken13"> jimlecracken13
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#jimlecracken13">Copy rank badge</a><br/>
+			Amadou Diallo
 		</td>
-		<td>No Company</td>
+		<td>Gesta+ </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>237</td>
+		<td>Bamako</td>
+		<td>249</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/McOriginal">
-				<img src="https://avatars.githubusercontent.com/u/116883418?s=72&u=f052ed446236ead17caa0fa26b4b24dfad9efd26&v=4" width="24" alt="Avatar of McOriginal"> McOriginal
-			</a><br/>
-			Mohamed Cisse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali(Bamako)</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/mohdiop">
-				<img src="https://avatars.githubusercontent.com/u/122661826?s=72&u=6744ba6f27283e6e93bf99cee21d93ae9fc1adc7&v=4" width="24" alt="Avatar of mohdiop"> mohdiop
-			</a><br/>
-			Mohamed Diop
-		</td>
-		<td>Irrex Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/mandjou-dama">
-				<img src="https://avatars.githubusercontent.com/u/79732869?s=72&u=685b745a76a9ed198be6b7bf15227dfe3f896dd4&v=4" width="24" alt="Avatar of mandjou-dama"> mandjou-dama
-			</a><br/>
-			Mandjou Dama
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mandjou_JS">Mandjou_JS</a></td>
-		<td>Bamako, Mali</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/lilpacy">
 				<img src="https://avatars.githubusercontent.com/u/26163436?s=72&u=03d5f8660e75a49ad56b997d76b9a7d949a58a0d&v=4" width="24" alt="Avatar of lilpacy"> lilpacy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#lilpacy">Copy rank badge</a><br/>
 			pacy
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0xpacy">0xpacy</a></td>
 		<td>timbuktu</td>
-		<td>191</td>
+		<td>243</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>19</td>
 		<td>
-			<a href="https://github.com/Cheickne-Kanoute">
-				<img src="https://avatars.githubusercontent.com/u/192629817?s=72&v=4" width="24" alt="Avatar of Cheickne-Kanoute"> Cheickne-Kanoute
-			</a><br/>
-			Cheickne Kanoute
+			<a href="https://github.com/kontere-tienou">
+				<img src="https://avatars.githubusercontent.com/u/52404761?s=72&u=1eae82c9abf97b91ed1e10477ddbf686d7b759d0&v=4" width="24" alt="Avatar of kontere-tienou"> kontere-tienou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kontere-tienou">Copy rank badge</a><br/>
+			Kontere TIENOU
 		</td>
-		<td>Ckan </td>
+		<td>Falcon Digital Hub </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
-		<td>161</td>
+		<td>229</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/akad97">
 				<img src="https://avatars.githubusercontent.com/u/44268706?s=72&u=6f0fb087f3afbc1c1c243ff911fbfda6f9700363&v=4" width="24" alt="Avatar of akad97"> akad97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#akad97">Copy rank badge</a><br/>
 			Alou Koniba DEMBELE 
 		</td>
 		<td>Robotsmali </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
-		<td>160</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/mandjou-dama">
+				<img src="https://avatars.githubusercontent.com/u/79732869?s=72&u=685b745a76a9ed198be6b7bf15227dfe3f896dd4&v=4" width="24" alt="Avatar of mandjou-dama"> mandjou-dama
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mandjou-dama">Copy rank badge</a><br/>
+			Mandjou Dama
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mandjou_JS">Mandjou_JS</a></td>
+		<td>Bamako, Mali</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/Ibraci">
+				<img src="https://avatars.githubusercontent.com/u/24506500?s=72&u=dcd25488d1eb2f4048bda235d086cc3d6a4dcb3c&v=4" width="24" alt="Avatar of Ibraci"> Ibraci
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ibraci">Copy rank badge</a><br/>
+			Ibrahim CISSE
+		</td>
+		<td>@ibracilinks </td>
+		<td><a href="https://twitter.com/ibraci2">ibraci2</a></td>
+		<td>Bamako</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/dione24">
+				<img src="https://avatars.githubusercontent.com/u/10039997?s=72&v=4" width="24" alt="Avatar of dione24"> dione24
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#dione24">Copy rank badge</a><br/>
+			Niangaly Abdoulaye
+		</td>
+		<td>Sahelpay </td>
+		<td><a href="https://twitter.com/diblo_n">diblo_n</a></td>
+		<td>BAMAKO MALI</td>
+		<td>171</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/Jbriguel">
-				<img src="https://avatars.githubusercontent.com/u/70860884?s=72&u=563d0a2f1e4cc7c5eb984cd52df7f65a917db92c&v=4" width="24" alt="Avatar of Jbriguel"> Jbriguel
-			</a><br/>
-			No Name
+			<a href="https://github.com/mohdiop">
+				<img src="https://avatars.githubusercontent.com/u/122661826?s=72&u=6744ba6f27283e6e93bf99cee21d93ae9fc1adc7&v=4" width="24" alt="Avatar of mohdiop"> mohdiop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mohdiop">Copy rank badge</a><br/>
+			Mohamed Diop
 		</td>
-		<td>No Company</td>
+		<td>Irrex Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
-		<td>159</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/crabmites-dev">
+				<img src="https://avatars.githubusercontent.com/u/199932664?s=72&u=2b41abba52b2ccd75086773e8a3b3750da679484&v=4" width="24" alt="Avatar of crabmites-dev"> crabmites-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#crabmites-dev">Copy rank badge</a><br/>
+			Crabmites
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mmor_mbow">Mmor_mbow</a></td>
+		<td>Bamako</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/diarray-hub">
 				<img src="https://avatars.githubusercontent.com/u/114512099?s=72&u=6d1b0e323f03c4ab0af91db30da45b91b30450ad&v=4" width="24" alt="Avatar of diarray-hub"> diarray-hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#diarray-hub">Copy rank badge</a><br/>
 			Diarra Yacouba
 		</td>
 		<td>No Company</td>
@@ -430,24 +445,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/mymunah-07lmtc">
 				<img src="https://avatars.githubusercontent.com/u/284047354?s=72&u=7e027d93499ee81e45679195903d8a8e3bccc45d&v=4" width="24" alt="Avatar of mymunah-07lmtc"> mymunah-07lmtc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mymunah-07lmtc">Copy rank badge</a><br/>
 			Maimouna T. Coulibaly
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
-		<td>153</td>
+		<td>154</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/maigus223">
+				<img src="https://avatars.githubusercontent.com/u/158322662?s=72&u=d62bb9e6daed3768243682b1aedac767955dda30&v=4" width="24" alt="Avatar of maigus223"> maigus223
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#maigus223">Copy rank badge</a><br/>
+			Mahamadou Issiaka MAIGA (MAIGUS)
+		</td>
+		<td>Chercheur Indépendant </td>
+		<td><a href="https://twitter.com/twitmaigus">twitmaigus</a></td>
+		<td>Gao, Mali</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/ozoboy-tech">
+				<img src="https://avatars.githubusercontent.com/u/129167022?s=72&u=46b64e8723c8561907a493bc00673e3ac22289bd&v=4" width="24" alt="Avatar of ozoboy-tech"> ozoboy-tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ozoboy-tech">Copy rank badge</a><br/>
+			ozo_code
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali,Bamako</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/Jbriguel">
+				<img src="https://avatars.githubusercontent.com/u/70860884?s=72&u=563d0a2f1e4cc7c5eb984cd52df7f65a917db92c&v=4" width="24" alt="Avatar of Jbriguel"> Jbriguel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Jbriguel">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/fere-molambo">
 				<img src="https://avatars.githubusercontent.com/u/243131015?s=72&u=e6cc52b99c9169569861cc6d614d4fde52cd58e1&v=4" width="24" alt="Avatar of fere-molambo"> fere-molambo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fere-molambo">Copy rank badge</a><br/>
 			Fere App
 		</td>
 		<td>No Company</td>
@@ -456,37 +510,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>32</td>
 		<td>
-			<a href="https://github.com/dione24">
-				<img src="https://avatars.githubusercontent.com/u/10039997?s=72&v=4" width="24" alt="Avatar of dione24"> dione24
-			</a><br/>
-			Niangaly Abdoulaye
-		</td>
-		<td>Sahelpay </td>
-		<td><a href="https://twitter.com/diblo_n">diblo_n</a></td>
-		<td>BAMAKO MALI</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/crabmites-dev">
-				<img src="https://avatars.githubusercontent.com/u/199932664?s=72&u=2b41abba52b2ccd75086773e8a3b3750da679484&v=4" width="24" alt="Avatar of crabmites-dev"> crabmites-dev
-			</a><br/>
-			Crabmites
+			<a href="https://github.com/BinaryMaoGenius">
+				<img src="https://avatars.githubusercontent.com/u/173261758?s=72&v=4" width="24" alt="Avatar of BinaryMaoGenius"> BinaryMaoGenius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BinaryMaoGenius">Copy rank badge</a><br/>
+			Emmanuel Elisé Koné
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Mmor_mbow">Mmor_mbow</a></td>
-		<td>Bamako</td>
-		<td>132</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>124</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/ibrahim10sy">
 				<img src="https://avatars.githubusercontent.com/u/98362531?s=72&u=c90c47c429dd73e8da636f425d3dd9b707b95850&v=4" width="24" alt="Avatar of ibrahim10sy"> ibrahim10sy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ibrahim10sy">Copy rank badge</a><br/>
 			Ibrahim sy
 		</td>
 		<td>Mali </td>
@@ -495,63 +536,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/geek-Konate">
 				<img src="https://avatars.githubusercontent.com/u/213442547?s=72&v=4" width="24" alt="Avatar of geek-Konate"> geek-Konate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#geek-Konate">Copy rank badge</a><br/>
 			Mamadou KONATE
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
-		<td>115</td>
+		<td>119</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>35</td>
 		<td>
-			<a href="https://github.com/Babasky">
-				<img src="https://avatars.githubusercontent.com/u/100451303?s=72&v=4" width="24" alt="Avatar of Babasky"> Babasky
-			</a><br/>
-			Boureima MAIGA
+			<a href="https://github.com/Cheickne-Kanoute">
+				<img src="https://avatars.githubusercontent.com/u/192629817?s=72&v=4" width="24" alt="Avatar of Cheickne-Kanoute"> Cheickne-Kanoute
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Cheickne-Kanoute">Copy rank badge</a><br/>
+			Cheickne Kanoute
 		</td>
-		<td>No Company</td>
+		<td>Ckan </td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>113</td>
+		<td>Mali</td>
+		<td>118</td>
 	</tr>
 	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/HamzaSANMO">
-				<img src="https://avatars.githubusercontent.com/u/169490619?s=72&v=4" width="24" alt="Avatar of HamzaSANMO"> HamzaSANMO
-			</a><br/>
-			Hamza Sanmo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako-Mali</td>
-		<td>109</td>
-	</tr>
-	<tr>
-		<td>34</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/mkantem">
 				<img src="https://avatars.githubusercontent.com/u/17012616?s=72&u=f456130af197c75b8fc69dda7b14a893ff26c184&v=4" width="24" alt="Avatar of mkantem"> mkantem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mkantem">Copy rank badge</a><br/>
 			Kante Mahamadou
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mkantem">mkantem</a></td>
 		<td>Mali</td>
-		<td>106</td>
+		<td>105</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/crafto-dnk">
 				<img src="https://avatars.githubusercontent.com/u/99532146?s=72&v=4" width="24" alt="Avatar of crafto-dnk"> crafto-dnk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#crafto-dnk">Copy rank badge</a><br/>
 			Hamady Danioko
 		</td>
 		<td>No Company</td>
@@ -560,24 +588,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/abs-223">
-				<img src="https://avatars.githubusercontent.com/u/177324232?s=72&u=5e4d278ad7b6724156d233c2c642eb5565ef8114&v=4" width="24" alt="Avatar of abs-223"> abs-223
-			</a><br/>
-			Amadou Batié Sidibé
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/Kalifasenou">
 				<img src="https://avatars.githubusercontent.com/u/39519916?s=72&u=be1d7983d6dc5bfe99af89b37f077fe6facb3b95&v=4" width="24" alt="Avatar of Kalifasenou"> Kalifasenou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Kalifasenou">Copy rank badge</a><br/>
 			Kalifa Senou
 		</td>
 		<td>No Company</td>
@@ -586,11 +601,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/Amadoubamia">
 				<img src="https://avatars.githubusercontent.com/u/187881652?s=72&u=9cf0e0eed60bfd01fc99b9013c5ca17f6b0f2bde&v=4" width="24" alt="Avatar of Amadoubamia"> Amadoubamia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Amadoubamia">Copy rank badge</a><br/>
 			Amadou Bamia
 		</td>
 		<td>No Company</td>
@@ -599,24 +614,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/Noum684">
 				<img src="https://avatars.githubusercontent.com/u/146142662?s=72&u=99247e54317a6111d2b6c9b8ff790dbd96512ef9&v=4" width="24" alt="Avatar of Noum684"> Noum684
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Noum684">Copy rank badge</a><br/>
 			Noumouténè Traoré
 		</td>
 		<td>Freelance  </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/abs-223">
+				<img src="https://avatars.githubusercontent.com/u/177324232?s=72&u=5e4d278ad7b6724156d233c2c642eb5565ef8114&v=4" width="24" alt="Avatar of abs-223"> abs-223
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abs-223">Copy rank badge</a><br/>
+			Amadou Batié Sidibé
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/devBakary">
 				<img src="https://avatars.githubusercontent.com/u/107038338?s=72&v=4" width="24" alt="Avatar of devBakary"> devBakary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#devBakary">Copy rank badge</a><br/>
 			devBakary
 		</td>
 		<td>No Company</td>
@@ -625,11 +653,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/ibrahimaSidibe07">
 				<img src="https://avatars.githubusercontent.com/u/178138135?s=72&u=58194b52c1f08b600f67120c426d953f9fe989be&v=4" width="24" alt="Avatar of ibrahimaSidibe07"> ibrahimaSidibe07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ibrahimaSidibe07">Copy rank badge</a><br/>
 			ibrahima_Sidibe
 		</td>
 		<td>No Company</td>
@@ -638,11 +666,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/koneboi">
+				<img src="https://avatars.githubusercontent.com/u/59954260?s=72&u=37770e6da749b44db56dba0912841da92a816b5f&v=4" width="24" alt="Avatar of koneboi"> koneboi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#koneboi">Copy rank badge</a><br/>
+			Boï Kone
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/boi_kone">boi_kone</a></td>
+		<td>Mali</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/kdiawara96">
 				<img src="https://avatars.githubusercontent.com/u/101529749?s=72&u=becd814ddfbb354f5d65300a712067a0af32712f&v=4" width="24" alt="Avatar of kdiawara96"> kdiawara96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kdiawara96">Copy rank badge</a><br/>
 			Karim Diawara
 		</td>
 		<td>No Company</td>
@@ -651,50 +692,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>46</td>
 		<td>
-			<a href="https://github.com/koneboi">
-				<img src="https://avatars.githubusercontent.com/u/59954260?s=72&u=37770e6da749b44db56dba0912841da92a816b5f&v=4" width="24" alt="Avatar of koneboi"> koneboi
-			</a><br/>
-			Boï Kone
+			<a href="https://github.com/devle-coder">
+				<img src="https://avatars.githubusercontent.com/u/238921746?s=72&u=e0873e7d13a511ab36c0bffcc18ef21d6bd19b0a&v=4" width="24" alt="Avatar of devle-coder"> devle-coder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#devle-coder">Copy rank badge</a><br/>
+			Devle 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/boi_kone">boi_kone</a></td>
-		<td>Mali</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/SuperSheykh">
-				<img src="https://avatars.githubusercontent.com/u/107432644?s=72&u=6e2db3ad98a30fc8e1797be99f9ab80d0feabc13&v=4" width="24" alt="Avatar of SuperSheykh"> SuperSheykh
-			</a><br/>
-			Sekou SIDIBE
-		</td>
-		<td>Minim </td>
-		<td><a href="https://twitter.com/SuperSheykh">SuperSheykh</a></td>
-		<td>Mali</td>
+		<td>No Twitter Username</td>
+		<td>Mali </td>
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>47</td>
 		<td>
-			<a href="https://github.com/kontere-tienou">
-				<img src="https://avatars.githubusercontent.com/u/52404761?s=72&u=1eae82c9abf97b91ed1e10477ddbf686d7b759d0&v=4" width="24" alt="Avatar of kontere-tienou"> kontere-tienou
-			</a><br/>
-			Kontere TIENOU
+			<a href="https://github.com/HamzaSANMO">
+				<img src="https://avatars.githubusercontent.com/u/169490619?s=72&v=4" width="24" alt="Avatar of HamzaSANMO"> HamzaSANMO
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#HamzaSANMO">Copy rank badge</a><br/>
+			Hamza Sanmo
 		</td>
-		<td>Falcon Digital Hub </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako-Mali</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/maigasoumaguel1-tech">
+				<img src="https://avatars.githubusercontent.com/u/261013479?s=72&v=4" width="24" alt="Avatar of maigasoumaguel1-tech"> maigasoumaguel1-tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#maigasoumaguel1-tech">Copy rank badge</a><br/>
+			Leader Maiga 
+		</td>
+		<td>Malicut  </td>
+		<td>No Twitter Username</td>
+		<td>Bamako Mali (FSEG)</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/Yatt-us">
+				<img src="https://avatars.githubusercontent.com/u/154268130?s=72&u=8b7028dfc1df02f5c0de269d74b11d5acd88027f&v=4" width="24" alt="Avatar of Yatt-us"> Yatt-us
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Yatt-us">Copy rank badge</a><br/>
+			Yattus
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/asmay-diallo">
 				<img src="https://avatars.githubusercontent.com/u/248156695?s=72&u=1b1582c6abcba78a0acb3a660ddcd1a3876adfa0&v=4" width="24" alt="Avatar of asmay-diallo"> asmay-diallo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#asmay-diallo">Copy rank badge</a><br/>
 			Asmay Diallo
 		</td>
 		<td>@asmay </td>
@@ -703,89 +757,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/BinaryMaoGenius">
-				<img src="https://avatars.githubusercontent.com/u/173261758?s=72&v=4" width="24" alt="Avatar of BinaryMaoGenius"> BinaryMaoGenius
-			</a><br/>
-			Emmanuel Elisé Koné
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/Aissatou007">
-				<img src="https://avatars.githubusercontent.com/u/175635175?s=72&u=1d3240c131d33506f8a258069a4f1d61e1d9330e&v=4" width="24" alt="Avatar of Aissatou007"> Aissatou007
-			</a><br/>
-			Aïssatou Coulibaly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali </td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/flyBoy667">
-				<img src="https://avatars.githubusercontent.com/u/172265230?s=72&u=4f858fe76ed658e40e92cb712690abb92f91eef4&v=4" width="24" alt="Avatar of flyBoy667"> flyBoy667
-			</a><br/>
-			Salifou Dembélé
-		</td>
-		<td>Logic Fly </td>
-		<td>No Twitter Username</td>
-		<td>Bamako-Mali</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/aboubacarbane">
-				<img src="https://avatars.githubusercontent.com/u/137860295?s=72&u=5883bfdd5445c871e699dbaae29c2aa200ab0d39&v=4" width="24" alt="Avatar of aboubacarbane"> aboubacarbane
-			</a><br/>
-			Aboubacar BANE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali Bamako</td>
-		<td>76</td>
-	</tr>
-	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/Yatt-us">
-				<img src="https://avatars.githubusercontent.com/u/154268130?s=72&u=8b7028dfc1df02f5c0de269d74b11d5acd88027f&v=4" width="24" alt="Avatar of Yatt-us"> Yatt-us
-			</a><br/>
-			Yattus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/Yt027">
-				<img src="https://avatars.githubusercontent.com/u/133719378?s=72&u=8151ff44652930603e20364aa25133317a7b0fdb&v=4" width="24" alt="Avatar of Yt027"> Yt027
-			</a><br/>
-			YayaDev
+			<a href="https://github.com/phatwo">
+				<img src="https://avatars.githubusercontent.com/u/44925624?s=72&u=28e1a9451e45aaa1b01031903a1ccce0a489bd65&v=4" width="24" alt="Avatar of phatwo"> phatwo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#phatwo">Copy rank badge</a><br/>
+			Fatou Touré
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
-		<td>73</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/Babasky">
+				<img src="https://avatars.githubusercontent.com/u/100451303?s=72&v=4" width="24" alt="Avatar of Babasky"> Babasky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Babasky">Copy rank badge</a><br/>
+			Boureima MAIGA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>53</td>
 		<td>
+			<a href="https://github.com/Aboubacar-tech">
+				<img src="https://avatars.githubusercontent.com/u/210151086?s=72&u=4308e6458ccfa35396cc6a929b63aff0defbf80a&v=4" width="24" alt="Avatar of Aboubacar-tech"> Aboubacar-tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Aboubacar-tech">Copy rank badge</a><br/>
+			Bakary Camara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
 			<a href="https://github.com/Alhoussen">
 				<img src="https://avatars.githubusercontent.com/u/95430554?s=72&u=56a1ab7bfeb0665303bb57142d38fd5dd930d4aa&v=4" width="24" alt="Avatar of Alhoussen"> Alhoussen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Alhoussen">Copy rank badge</a><br/>
 			Alhoussen
 		</td>
 		<td>No Company</td>
@@ -794,63 +809,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/SoumailaKanfana">
-				<img src="https://avatars.githubusercontent.com/u/220211197?s=72&u=b75b802b245414de78847a566cbeb076d4f955c1&v=4" width="24" alt="Avatar of SoumailaKanfana"> SoumailaKanfana
-			</a><br/>
-			Soumaila Kanfana
-		</td>
-		<td>Cagesi </td>
-		<td><a href="https://twitter.com/jaimeleomessi">jaimeleomessi</a></td>
-		<td>Bamako</td>
-		<td>72</td>
-	</tr>
-	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Aboubacar-tech">
-				<img src="https://avatars.githubusercontent.com/u/210151086?s=72&u=4308e6458ccfa35396cc6a929b63aff0defbf80a&v=4" width="24" alt="Avatar of Aboubacar-tech"> Aboubacar-tech
-			</a><br/>
-			Bakary Camara
+			<a href="https://github.com/devsambou">
+				<img src="https://avatars.githubusercontent.com/u/127883427?s=72&v=4" width="24" alt="Avatar of devsambou"> devsambou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#devsambou">Copy rank badge</a><br/>
+			Sambou Tounkara
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>72</td>
+		<td>Bamako,Mali </td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/ddevle9761-creator">
-				<img src="https://avatars.githubusercontent.com/u/238921746?s=72&u=e0873e7d13a511ab36c0bffcc18ef21d6bd19b0a&v=4" width="24" alt="Avatar of ddevle9761-creator"> ddevle9761-creator
-			</a><br/>
-			Devle 
+			<a href="https://github.com/sidibemallet8-sudo">
+				<img src="https://avatars.githubusercontent.com/u/227627135?s=72&u=dd8867e57431bff444a2e1838a5a6e75f5750717&v=4" width="24" alt="Avatar of sidibemallet8-sudo"> sidibemallet8-sudo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sidibemallet8-sudo">Copy rank badge</a><br/>
+			Malet Sidibe
 		</td>
-		<td>No Company</td>
+		<td>Sira Data </td>
 		<td>No Twitter Username</td>
-		<td>Mali </td>
-		<td>71</td>
+		<td>MALI</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/phatwo">
-				<img src="https://avatars.githubusercontent.com/u/44925624?s=72&u=28e1a9451e45aaa1b01031903a1ccce0a489bd65&v=4" width="24" alt="Avatar of phatwo"> phatwo
-			</a><br/>
-			Fatou Touré
+			<a href="https://github.com/kv5t">
+				<img src="https://avatars.githubusercontent.com/u/123513219?s=72&u=11f7a2df38da274db26f9995a52ae1f9831f85ff&v=4" width="24" alt="Avatar of kv5t"> kv5t
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kv5t">Copy rank badge</a><br/>
+			Kassim Sinaly THERA
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>67</td>
+		<td><a href="https://twitter.com/kastsofresh">kastsofresh</a></td>
+		<td>Mopti</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/Dah17">
+				<img src="https://avatars.githubusercontent.com/u/92203864?s=72&u=c9f8c19af7575f5e13fbe037dc896a6e78a0cc99&v=4" width="24" alt="Avatar of Dah17"> Dah17
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Dah17">Copy rank badge</a><br/>
+			Dah Diarra
+		</td>
+		<td>@faaya-holding  </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
 			<a href="https://github.com/Ifiboys">
 				<img src="https://avatars.githubusercontent.com/u/148552025?s=72&u=d0ddeb7a5644974c476565e867abf84c577427d0&v=4" width="24" alt="Avatar of Ifiboys"> Ifiboys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ifiboys">Copy rank badge</a><br/>
 			Ephraim D Oladokun
 		</td>
 		<td>No Company</td>
@@ -859,37 +874,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/Dah17">
-				<img src="https://avatars.githubusercontent.com/u/92203864?s=72&u=c9f8c19af7575f5e13fbe037dc896a6e78a0cc99&v=4" width="24" alt="Avatar of Dah17"> Dah17
-			</a><br/>
-			Dah Diarra
-		</td>
-		<td>@faaya-holding  </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>64</td>
-	</tr>
-	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/devsambou">
-				<img src="https://avatars.githubusercontent.com/u/127883427?s=72&v=4" width="24" alt="Avatar of devsambou"> devsambou
-			</a><br/>
-			Sambou Tounkara
+			<a href="https://github.com/aboubacarbane">
+				<img src="https://avatars.githubusercontent.com/u/137860295?s=72&u=5883bfdd5445c871e699dbaae29c2aa200ab0d39&v=4" width="24" alt="Avatar of aboubacarbane"> aboubacarbane
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#aboubacarbane">Copy rank badge</a><br/>
+			Aboubacar BANE
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako,Mali </td>
+		<td>Mali Bamako</td>
 		<td>63</td>
 	</tr>
 	<tr>
 		<td>61</td>
 		<td>
+			<a href="https://github.com/dinegamer">
+				<img src="https://avatars.githubusercontent.com/u/77587917?s=72&u=5e2d1761394b653e0f0fd755569b4329d85890a2&v=4" width="24" alt="Avatar of dinegamer"> dinegamer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#dinegamer">Copy rank badge</a><br/>
+			Chamsoudine THIENTA (Shams) SH☀MSI 
+		</td>
+		<td>Sh☀msi Digital </td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/SuperSheykh">
+				<img src="https://avatars.githubusercontent.com/u/107432644?s=72&u=6e2db3ad98a30fc8e1797be99f9ab80d0feabc13&v=4" width="24" alt="Avatar of SuperSheykh"> SuperSheykh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#SuperSheykh">Copy rank badge</a><br/>
+			Sekou SIDIBE
+		</td>
+		<td>Minim </td>
+		<td><a href="https://twitter.com/SuperSheykh">SuperSheykh</a></td>
+		<td>Mali</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
 			<a href="https://github.com/AlphaLansar">
 				<img src="https://avatars.githubusercontent.com/u/130701917?s=72&u=c86f789e06acb0665d4409886b217e424ba40554&v=4" width="24" alt="Avatar of AlphaLansar"> AlphaLansar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AlphaLansar">Copy rank badge</a><br/>
 			A.A.Lansar
 		</td>
 		<td>No Company</td>
@@ -898,11 +926,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/SoumailaKanfana">
+				<img src="https://avatars.githubusercontent.com/u/220211197?s=72&u=b75b802b245414de78847a566cbeb076d4f955c1&v=4" width="24" alt="Avatar of SoumailaKanfana"> SoumailaKanfana
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#SoumailaKanfana">Copy rank badge</a><br/>
+			Soumaila Kanfana
+		</td>
+		<td>Cagesi </td>
+		<td><a href="https://twitter.com/jaimeleomessi">jaimeleomessi</a></td>
+		<td>Bamako</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/jumeau97">
+				<img src="https://avatars.githubusercontent.com/u/58072574?s=72&u=da83b9dfc864c421d5cdd552d1637e2de00b39d9&v=4" width="24" alt="Avatar of jumeau97"> jumeau97
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#jumeau97">Copy rank badge</a><br/>
+			Alassane SANOGO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/Aicha-Dembele">
+				<img src="https://avatars.githubusercontent.com/u/223644105?s=72&v=4" width="24" alt="Avatar of Aicha-Dembele"> Aicha-Dembele
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Aicha-Dembele">Copy rank badge</a><br/>
+			Aicha Dembele
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako </td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/hamoudi223">
 				<img src="https://avatars.githubusercontent.com/u/166921709?s=72&u=0a41c694ea3e878c7805a0d579c6b1fa663a2ca0&v=4" width="24" alt="Avatar of hamoudi223"> hamoudi223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#hamoudi223">Copy rank badge</a><br/>
 			Dream
 		</td>
 		<td>No Company</td>
@@ -911,102 +978,89 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>68</td>
 		<td>
-			<a href="https://github.com/dinegamer">
-				<img src="https://avatars.githubusercontent.com/u/77587917?s=72&u=5e2d1761394b653e0f0fd755569b4329d85890a2&v=4" width="24" alt="Avatar of dinegamer"> dinegamer
-			</a><br/>
-			Chamsoudine THIENTA (Shams) SH☀MSI 
+			<a href="https://github.com/AboubacrineBah">
+				<img src="https://avatars.githubusercontent.com/u/99566563?s=72&u=f5857740b11d47a0f4ac094189f75259e46669bd&v=4" width="24" alt="Avatar of AboubacrineBah"> AboubacrineBah
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AboubacrineBah">Copy rank badge</a><br/>
+			BAH Aboubacrine 
 		</td>
-		<td>Sh☀msi Digital </td>
+		<td>Nexaweb Mali @nexawebmali </td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>59</td>
+		<td>MALI, Bamako, Faladiè</td>
+		<td>58</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>69</td>
 		<td>
-			<a href="https://github.com/jumeau97">
-				<img src="https://avatars.githubusercontent.com/u/58072574?s=72&u=da83b9dfc864c421d5cdd552d1637e2de00b39d9&v=4" width="24" alt="Avatar of jumeau97"> jumeau97
-			</a><br/>
-			Alassane SANOGO
+			<a href="https://github.com/Aissatou007">
+				<img src="https://avatars.githubusercontent.com/u/175635175?s=72&u=1d3240c131d33506f8a258069a4f1d61e1d9330e&v=4" width="24" alt="Avatar of Aissatou007"> Aissatou007
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Aissatou007">Copy rank badge</a><br/>
+			Aïssatou Coulibaly
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>59</td>
+		<td>Mali </td>
+		<td>57</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/cgl223">
 				<img src="https://avatars.githubusercontent.com/u/174749058?s=72&u=577bcb708e00be31f4c5180497a23d7b4883cf00&v=4" width="24" alt="Avatar of cgl223"> cgl223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#cgl223">Copy rank badge</a><br/>
 			CodeANGEL
 		</td>
 		<td>Codeangel </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
-		<td>56</td>
+		<td>57</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>71</td>
 		<td>
-			<a href="https://github.com/maigasoumaguel1-tech">
-				<img src="https://avatars.githubusercontent.com/u/261013479?s=72&v=4" width="24" alt="Avatar of maigasoumaguel1-tech"> maigasoumaguel1-tech
-			</a><br/>
-			Leader Maiga 
+			<a href="https://github.com/Modibo">
+				<img src="https://avatars.githubusercontent.com/u/13900678?s=72&u=0e8b786ccd0d025d822a879e0ea4cd7a2f57d11c&v=4" width="24" alt="Avatar of Modibo"> Modibo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Modibo">Copy rank badge</a><br/>
+			Dr. Modibo Mouctar COULIBALY
 		</td>
-		<td>Malicut  </td>
+		<td>Pharmacist/biologist At Hôpital Sominé<br/>Dolo<br/>De<br/>Mopti<br/></td>
 		<td>No Twitter Username</td>
-		<td>Bamako Mali (FSEG)</td>
-		<td>56</td>
+		<td>Mali West Africa</td>
+		<td>54</td>
 	</tr>
 	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/kv5t">
-				<img src="https://avatars.githubusercontent.com/u/123513219?s=72&u=11f7a2df38da274db26f9995a52ae1f9831f85ff&v=4" width="24" alt="Avatar of kv5t"> kv5t
-			</a><br/>
-			Kassim Sinaly THERA
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kastsofresh">kastsofresh</a></td>
-		<td>Mopti</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/Green-fad">
-				<img src="https://avatars.githubusercontent.com/u/194453259?s=72&u=3f8b6ba33f13497c849e6acac03e8384448ca186&v=4" width="24" alt="Avatar of Green-fad"> Green-fad
-			</a><br/>
-			Greenfad
-		</td>
-		<td>12 </td>
-		<td>No Twitter Username</td>
-		<td>Bamako,Mali </td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>69</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/Lex-corp-crypto">
 				<img src="https://avatars.githubusercontent.com/u/201295366?s=72&u=e69da872b0b623158e4ced05f6cd53c85af339f1&v=4" width="24" alt="Avatar of Lex-corp-crypto"> Lex-corp-crypto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Lex-corp-crypto">Copy rank badge</a><br/>
 			Amadou H TRAORE
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mali/Bamako</td>
-		<td>54</td>
+		<td>52</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/diakitemoussa-dot">
+				<img src="https://avatars.githubusercontent.com/u/292450414?s=72&v=4" width="24" alt="Avatar of diakitemoussa-dot"> diakitemoussa-dot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#diakitemoussa-dot">Copy rank badge</a><br/>
+			Moussa Diakité 
+		</td>
+		<td>Kabakoo Academies  </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/touredri">
 				<img src="https://avatars.githubusercontent.com/u/112565844?s=72&u=5d771868f0c0c3360b30485de3ac7f34fe3a8b82&v=4" width="24" alt="Avatar of touredri"> touredri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#touredri">Copy rank badge</a><br/>
 			Drissa
 		</td>
 		<td>@microverseinc Microverse </td>
@@ -1015,11 +1069,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/grundiss">
 				<img src="https://avatars.githubusercontent.com/u/2481018?s=72&u=bd235b1ddfdf20541ec50447a9220beb9a37a852&v=4" width="24" alt="Avatar of grundiss"> grundiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#grundiss">Copy rank badge</a><br/>
 			Grigoriy Karelin
 		</td>
 		<td>No Company</td>
@@ -1028,11 +1082,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/ayneha-songhay">
+				<img src="https://avatars.githubusercontent.com/u/321747383?s=72&u=3915ace5eae3cd70770822357d3c0289c44f4b86&v=4" width="24" alt="Avatar of ayneha-songhay"> ayneha-songhay
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ayneha-songhay">Copy rank badge</a><br/>
+			AYNEHA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gao, Mali</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/buttadiba">
 				<img src="https://avatars.githubusercontent.com/u/177359351?s=72&u=1a629048cd990c4309c2eb87f2a74daa1356359c&v=4" width="24" alt="Avatar of buttadiba"> buttadiba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#buttadiba">Copy rank badge</a><br/>
 			adibanoor
 		</td>
 		<td>No Company</td>
@@ -1041,11 +1108,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/Green-fad">
+				<img src="https://avatars.githubusercontent.com/u/194453259?s=72&u=3f8b6ba33f13497c849e6acac03e8384448ca186&v=4" width="24" alt="Avatar of Green-fad"> Green-fad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Green-fad">Copy rank badge</a><br/>
+			Greenfad
+		</td>
+		<td>12 </td>
+		<td>No Twitter Username</td>
+		<td>Bamako,Mali </td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/Yacouba-ia">
 				<img src="https://avatars.githubusercontent.com/u/290807058?s=72&u=a98d02e106373cede299a15b80bb21f26a56aff8&v=4" width="24" alt="Avatar of Yacouba-ia"> Yacouba-ia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Yacouba-ia">Copy rank badge</a><br/>
 			Berthe Yacouba
 		</td>
 		<td>Freelance Ai / Genai<br/>Backend<br/>Developer<br/></td>
@@ -1054,24 +1134,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/Isvvc777">
-				<img src="https://avatars.githubusercontent.com/u/127045164?s=72&v=4" width="24" alt="Avatar of Isvvc777"> Isvvc777
-			</a><br/>
-			İsvvc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>75</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/fadiga">
 				<img src="https://avatars.githubusercontent.com/u/354071?s=72&v=4" width="24" alt="Avatar of fadiga"> fadiga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fadiga">Copy rank badge</a><br/>
 			Ibrahima Fadiga
 		</td>
 		<td>Fad Global Services </td>
@@ -1080,24 +1147,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>81</td>
 		<td>
-			<a href="https://github.com/tyayatech-oss">
-				<img src="https://avatars.githubusercontent.com/u/234302934?s=72&u=06d6d54ba2e129e7e16b33edd030e0a1fc7123f6&v=4" width="24" alt="Avatar of tyayatech-oss"> tyayatech-oss
-			</a><br/>
-			Yaya Traoré 
+			<a href="https://github.com/striderking9">
+				<img src="https://avatars.githubusercontent.com/u/63275356?s=72&u=c524832070e916e525153ae227b9c78348f63d92&v=4" width="24" alt="Avatar of striderking9"> striderking9
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#striderking9">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/strider__king">strider__king</a></td>
 		<td>Bamako, Mali</td>
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/BrainInSilico">
 				<img src="https://avatars.githubusercontent.com/u/26740904?s=72&u=229c946bb2810c604f1996c825e51ef82917c38d&v=4" width="24" alt="Avatar of BrainInSilico"> BrainInSilico
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BrainInSilico">Copy rank badge</a><br/>
 			Nicolas Beaume
 		</td>
 		<td>Braininsilico </td>
@@ -1106,24 +1173,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>83</td>
 		<td>
-			<a href="https://github.com/striderking9">
-				<img src="https://avatars.githubusercontent.com/u/63275356?s=72&u=c524832070e916e525153ae227b9c78348f63d92&v=4" width="24" alt="Avatar of striderking9"> striderking9
-			</a><br/>
-			No Name
+			<a href="https://github.com/tyayatech-oss">
+				<img src="https://avatars.githubusercontent.com/u/234302934?s=72&u=06d6d54ba2e129e7e16b33edd030e0a1fc7123f6&v=4" width="24" alt="Avatar of tyayatech-oss"> tyayatech-oss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#tyayatech-oss">Copy rank badge</a><br/>
+			Yaya Traoré 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/strider__king">strider__king</a></td>
+		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/lassana99">
 				<img src="https://avatars.githubusercontent.com/u/120748789?s=72&u=41ef3d5fbc02c54789d1b4c479521768d641f118&v=4" width="24" alt="Avatar of lassana99"> lassana99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#lassana99">Copy rank badge</a><br/>
 			Lassana DEMBE
 		</td>
 		<td>Approlog </td>
@@ -1132,50 +1199,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>85</td>
 		<td>
-			<a href="https://github.com/diakitemoussa-dot">
-				<img src="https://avatars.githubusercontent.com/u/292450414?s=72&v=4" width="24" alt="Avatar of diakitemoussa-dot"> diakitemoussa-dot
-			</a><br/>
-			Moussa Diakité 
+			<a href="https://github.com/flyBoy667">
+				<img src="https://avatars.githubusercontent.com/u/172265230?s=72&u=4f858fe76ed658e40e92cb712690abb92f91eef4&v=4" width="24" alt="Avatar of flyBoy667"> flyBoy667
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#flyBoy667">Copy rank badge</a><br/>
+			Salifou Dembélé
 		</td>
-		<td>Kabakoo Academies  </td>
+		<td>Logic Fly </td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/DOUKING-95">
-				<img src="https://avatars.githubusercontent.com/u/149763201?s=72&u=431e2f9369b89b4703589455e3da471e30881ab9&v=4" width="24" alt="Avatar of DOUKING-95"> DOUKING-95
-			</a><br/>
-			DOUKING-95
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako,Mali</td>
+		<td>Bamako-Mali</td>
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>86</td>
 		<td>
-			<a href="https://github.com/hashtag91">
-				<img src="https://avatars.githubusercontent.com/u/29471909?s=72&u=ff398e8d5dd3667e2cd9ede6f96a56a23f37d893&v=4" width="24" alt="Avatar of hashtag91"> hashtag91
-			</a><br/>
-			Yacouba Camara
+			<a href="https://github.com/Professor-minta">
+				<img src="https://avatars.githubusercontent.com/u/318115288?s=72&u=c0fa3682f2b4960389227f46922477c45dcae851&v=4" width="24" alt="Avatar of Professor-minta"> Professor-minta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Professor-minta">Copy rank badge</a><br/>
+			Professor Minta
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
+		<td>Mintaservices </td>
+		<td><a href="https://twitter.com/mintaservice_s">mintaservice_s</a></td>
+		<td>Segou/Bamako</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/alkaou">
+				<img src="https://avatars.githubusercontent.com/u/50831171?s=72&u=bf28d1cf18907da500e8c82229f6a08fee533602&v=4" width="24" alt="Avatar of alkaou"> alkaou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alkaou">Copy rank badge</a><br/>
+			Alkaou Dit Baba Dembele
+		</td>
+		<td>Malidevpro </td>
+		<td><a href="https://twitter.com/AlkaouDembele">AlkaouDembele</a></td>
+		<td>Mali (san)</td>
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Yacouba-konate450">
 				<img src="https://avatars.githubusercontent.com/u/296283092?s=72&v=4" width="24" alt="Avatar of Yacouba-konate450"> Yacouba-konate450
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Yacouba-konate450">Copy rank badge</a><br/>
 			Yacouba Konaté
 		</td>
 		<td>No Company</td>
@@ -1184,11 +1251,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/s7d11">
+				<img src="https://avatars.githubusercontent.com/u/26676922?s=72&v=4" width="24" alt="Avatar of s7d11"> s7d11
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#s7d11">Copy rank badge</a><br/>
+			Sebastien.
+		</td>
+		<td>@mlsftwrs </td>
+		<td>No Twitter Username</td>
+		<td>Bamako, ML</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/wdbsw">
 				<img src="https://avatars.githubusercontent.com/u/215571063?s=72&u=9e9187efa88fd572ca57d3b92d1e1d077ef77833&v=4" width="24" alt="Avatar of wdbsw"> wdbsw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#wdbsw">Copy rank badge</a><br/>
 			wdbs
 		</td>
 		<td>No Company</td>
@@ -1197,11 +1277,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/yacouba01">
+				<img src="https://avatars.githubusercontent.com/u/77977689?s=72&u=c258b48ffcc5458d1309eb8fc4cd504f9acfba19&v=4" width="24" alt="Avatar of yacouba01"> yacouba01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#yacouba01">Copy rank badge</a><br/>
+			Yacouba Doumbia
+		</td>
+		<td>Thl Technologies </td>
+		<td><a href="https://twitter.com/riyuk_1">riyuk_1</a></td>
+		<td>Mali</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/gitmpd">
 				<img src="https://avatars.githubusercontent.com/u/78663094?s=72&u=c9106f1b0410ba2abc585ec6ed5c45649b5e547d&v=4" width="24" alt="Avatar of gitmpd"> gitmpd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#gitmpd">Copy rank badge</a><br/>
 			Mohamed Papa Diarra
 		</td>
 		<td>@cauridor </td>
@@ -1210,24 +1303,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/BLACKHACK00223">
+				<img src="https://avatars.githubusercontent.com/u/73129735?s=72&v=4" width="24" alt="Avatar of BLACKHACK00223"> BLACKHACK00223
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BLACKHACK00223">Copy rank badge</a><br/>
+			BLVCK
+		</td>
+		<td>Black Technology </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/jakeis0dd">
 				<img src="https://avatars.githubusercontent.com/u/28952720?s=72&u=f77637db8d79d804e81ce6dfa307a697560927a1&v=4" width="24" alt="Avatar of jakeis0dd"> jakeis0dd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#jakeis0dd">Copy rank badge</a><br/>
 			Jake
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Timbuktu</td>
-		<td>40</td>
+		<td>41</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/MagdiCompute">
 				<img src="https://avatars.githubusercontent.com/u/172385652?s=72&u=55ee272cd7028a3d7534b208028159636f87559f&v=4" width="24" alt="Avatar of MagdiCompute"> MagdiCompute
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MagdiCompute">Copy rank badge</a><br/>
 			Gando
 		</td>
 		<td>Magdi Compute </td>
@@ -1236,11 +1342,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/kone51184a-pixel">
 				<img src="https://avatars.githubusercontent.com/u/276395093?s=72&u=63f1eb12e3ce990d2887ab4066cb641db43ba698&v=4" width="24" alt="Avatar of kone51184a-pixel"> kone51184a-pixel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kone51184a-pixel">Copy rank badge</a><br/>
 			el-jeff
 		</td>
 		<td>No Company</td>
@@ -1249,24 +1355,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>97</td>
 		<td>
-			<a href="https://github.com/BLACKHACK00223">
-				<img src="https://avatars.githubusercontent.com/u/73129735?s=72&v=4" width="24" alt="Avatar of BLACKHACK00223"> BLACKHACK00223
-			</a><br/>
-			BLVCK
+			<a href="https://github.com/bamatic">
+				<img src="https://avatars.githubusercontent.com/u/58629011?s=72&u=d6236f7207bb9556251e64c439c7836fdb218a5e&v=4" width="24" alt="Avatar of bamatic"> bamatic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#bamatic">Copy rank badge</a><br/>
+			Victor ZUGADI
 		</td>
-		<td>Black Technology </td>
+		<td>Muso Health </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako</td>
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/At04240">
 				<img src="https://avatars.githubusercontent.com/u/202971809?s=72&u=ef7cf66c998cbb65860238ba8df974357a4aa085&v=4" width="24" alt="Avatar of At04240"> At04240
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#At04240">Copy rank badge</a><br/>
 			GHOST
 		</td>
 		<td>No Company</td>
@@ -1275,24 +1381,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/fousscience">
-				<img src="https://avatars.githubusercontent.com/u/63497708?s=72&u=5e489ed3f3aaf1d3c7f08a64fed79dd2f81871f6&v=4" width="24" alt="Avatar of fousscience"> fousscience
-			</a><br/>
-			foussztogola
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>92</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/abbgoesghost">
 				<img src="https://avatars.githubusercontent.com/u/169849347?s=72&u=6d070ec19c6bc61f3f927ba27e0d61a4b30d72d3&v=4" width="24" alt="Avatar of abbgoesghost"> abbgoesghost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abbgoesghost">Copy rank badge</a><br/>
 			Aboubacar
 		</td>
 		<td>No Company</td>
@@ -1301,11 +1394,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/moussascamara10">
 				<img src="https://avatars.githubusercontent.com/u/123244304?s=72&v=4" width="24" alt="Avatar of moussascamara10"> moussascamara10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#moussascamara10">Copy rank badge</a><br/>
 			Moussa S
 		</td>
 		<td>No Company</td>
@@ -1314,11 +1407,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/Moh0401">
 				<img src="https://avatars.githubusercontent.com/u/161856130?s=72&u=9dc8fa770e4618a88cef51a28112214db4352f4a&v=4" width="24" alt="Avatar of Moh0401"> Moh0401
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Moh0401">Copy rank badge</a><br/>
 			Mohamed Traore
 		</td>
 		<td>Momo Digital Solution </td>
@@ -1327,50 +1420,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>102</td>
 		<td>
-			<a href="https://github.com/djibrilmaiga">
-				<img src="https://avatars.githubusercontent.com/u/107858143?s=72&u=2c8c30064a3e0dfaba4726cb4d8908463d60c58d&v=4" width="24" alt="Avatar of djibrilmaiga"> djibrilmaiga
-			</a><br/>
-			dmaiga
+			<a href="https://github.com/hashtag91">
+				<img src="https://avatars.githubusercontent.com/u/29471909?s=72&u=ff398e8d5dd3667e2cd9ede6f96a56a23f37d893&v=4" width="24" alt="Avatar of hashtag91"> hashtag91
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#hashtag91">Copy rank badge</a><br/>
+			Yacouba Camara
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
+		<td>Bamako, Mali</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>103</td>
 		<td>
-			<a href="https://github.com/sidibemallet8-sudo">
-				<img src="https://avatars.githubusercontent.com/u/227627135?s=72&u=dd8867e57431bff444a2e1838a5a6e75f5750717&v=4" width="24" alt="Avatar of sidibemallet8-sudo"> sidibemallet8-sudo
-			</a><br/>
-			Malet Sidibe
+			<a href="https://github.com/ikaruz050309">
+				<img src="https://avatars.githubusercontent.com/u/258293848?s=72&u=3d4690b8cfcd1f4d58bcfd416b731467df71d301&v=4" width="24" alt="Avatar of ikaruz050309"> ikaruz050309
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ikaruz050309">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>Sira Data </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>MALI</td>
+		<td>Bamako, Mali</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>104</td>
 		<td>
-			<a href="https://github.com/yacouba01">
-				<img src="https://avatars.githubusercontent.com/u/77977689?s=72&u=c258b48ffcc5458d1309eb8fc4cd504f9acfba19&v=4" width="24" alt="Avatar of yacouba01"> yacouba01
-			</a><br/>
-			Yacouba Doumbia
+			<a href="https://github.com/MoutouBoys">
+				<img src="https://avatars.githubusercontent.com/u/116392052?s=72&u=16b15dc83d8d2fd7bd2af5fc6245bcc71cecd144&v=4" width="24" alt="Avatar of MoutouBoys"> MoutouBoys
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MoutouBoys">Copy rank badge</a><br/>
+			Mamoutou Yalcouyé
 		</td>
-		<td>Thl Technologies </td>
-		<td><a href="https://twitter.com/riyuk_1">riyuk_1</a></td>
-		<td>Mali</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali, Bamako, kalaban coura ACI</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Yaishaa">
 				<img src="https://avatars.githubusercontent.com/u/184234710?s=72&v=4" width="24" alt="Avatar of Yaishaa"> Yaishaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Yaishaa">Copy rank badge</a><br/>
 			Aïssata TRAORE 
 		</td>
 		<td>No Company</td>
@@ -1379,50 +1472,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>106</td>
 		<td>
-			<a href="https://github.com/IvinoDev">
-				<img src="https://avatars.githubusercontent.com/u/56479227?s=72&u=5f3e6b3e69a101243d29955b26c0a6ac892b1ab0&v=4" width="24" alt="Avatar of IvinoDev"> IvinoDev
-			</a><br/>
-			Mariam Kayantao
+			<a href="https://github.com/fousscience">
+				<img src="https://avatars.githubusercontent.com/u/63497708?s=72&u=5e489ed3f3aaf1d3c7f08a64fed79dd2f81871f6&v=4" width="24" alt="Avatar of fousscience"> fousscience
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fousscience">Copy rank badge</a><br/>
+			foussztogola
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Mali, Bamako</td>
+		<td>Mali</td>
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>107</td>
 		<td>
-			<a href="https://github.com/alkaou">
-				<img src="https://avatars.githubusercontent.com/u/50831171?s=72&u=bf28d1cf18907da500e8c82229f6a08fee533602&v=4" width="24" alt="Avatar of alkaou"> alkaou
-			</a><br/>
-			Alkaou Dit Baba Dembele
+			<a href="https://github.com/pachaboul">
+				<img src="https://avatars.githubusercontent.com/u/1564860?s=72&u=1b769c722545e8144d4f3b0e43f3e989c068bede&v=4" width="24" alt="Avatar of pachaboul"> pachaboul
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#pachaboul">Copy rank badge</a><br/>
+			Pacha Aboul
 		</td>
-		<td>Malidevpro </td>
-		<td><a href="https://twitter.com/AlkaouDembele">AlkaouDembele</a></td>
-		<td>Mali (san)</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/Abdoulaye-T">
-				<img src="https://avatars.githubusercontent.com/u/123329136?s=72&u=3484fc2fdd6544d6d1305cfc92816f85469e3a14&v=4" width="24" alt="Avatar of Abdoulaye-T"> Abdoulaye-T
-			</a><br/>
-			Abdoulaye
-		</td>
-		<td>@miths-digital  </td>
+		<td>Smart Yiriba </td>
 		<td>No Twitter Username</td>
-		<td>Mali, Bamako</td>
-		<td>34</td>
+		<td>Osaka & Bamako</td>
+		<td>33</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/mory13148">
+				<img src="https://avatars.githubusercontent.com/u/206717568?s=72&u=8efecdb6c278d55513dc9895a6f25cbbd3289200&v=4" width="24" alt="Avatar of mory13148"> mory13148
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mory13148">Copy rank badge</a><br/>
+			mory13148
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/adouflaws">
+				<img src="https://avatars.githubusercontent.com/u/273898283?s=72&v=4" width="24" alt="Avatar of adouflaws"> adouflaws
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#adouflaws">Copy rank badge</a><br/>
+			Stonedev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/ABLO1234">
 				<img src="https://avatars.githubusercontent.com/u/188126003?s=72&u=f3d526e1b5b5c85b3a1523aee1897bce02f92752&v=4" width="24" alt="Avatar of ABLO1234"> ABLO1234
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ABLO1234">Copy rank badge</a><br/>
 			Abdoulaye Tangara
 		</td>
 		<td>Faculty Of Economic Science<br/>And<br/>Management<br/>Of<br/>Bamako<br/></td>
@@ -1431,11 +1537,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/DOUKING-95">
+				<img src="https://avatars.githubusercontent.com/u/149763201?s=72&u=431e2f9369b89b4703589455e3da471e30881ab9&v=4" width="24" alt="Avatar of DOUKING-95"> DOUKING-95
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#DOUKING-95">Copy rank badge</a><br/>
+			DOUKING-95
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako,Mali</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/sorysissoko">
+				<img src="https://avatars.githubusercontent.com/u/106704899?s=72&v=4" width="24" alt="Avatar of sorysissoko"> sorysissoko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sorysissoko">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako Mali</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/familyalasko7-lang">
 				<img src="https://avatars.githubusercontent.com/u/243125700?s=72&v=4" width="24" alt="Avatar of familyalasko7-lang"> familyalasko7-lang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#familyalasko7-lang">Copy rank badge</a><br/>
 			Lassana DIARRA
 		</td>
 		<td>No Company</td>
@@ -1444,50 +1576,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>114</td>
 		<td>
-			<a href="https://github.com/MoutouBoys">
-				<img src="https://avatars.githubusercontent.com/u/116392052?s=72&u=16b15dc83d8d2fd7bd2af5fc6245bcc71cecd144&v=4" width="24" alt="Avatar of MoutouBoys"> MoutouBoys
-			</a><br/>
-			Mamoutou Yalcouyé
+			<a href="https://github.com/Abdoulaye-T">
+				<img src="https://avatars.githubusercontent.com/u/123329136?s=72&u=3484fc2fdd6544d6d1305cfc92816f85469e3a14&v=4" width="24" alt="Avatar of Abdoulaye-T"> Abdoulaye-T
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Abdoulaye-T">Copy rank badge</a><br/>
+			Abdoulaye
 		</td>
-		<td>No Company</td>
+		<td>@miths-digital  </td>
 		<td>No Twitter Username</td>
-		<td>Mali, Bamako, kalaban coura ACI</td>
+		<td>Mali, Bamako</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/pachaboul">
-				<img src="https://avatars.githubusercontent.com/u/1564860?s=72&u=1b769c722545e8144d4f3b0e43f3e989c068bede&v=4" width="24" alt="Avatar of pachaboul"> pachaboul
-			</a><br/>
-			Pacha Aboul
-		</td>
-		<td>Smart Yiriba </td>
-		<td>No Twitter Username</td>
-		<td>Osaka & Bamako</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/souleymanemaguiraga-sudo">
-				<img src="https://avatars.githubusercontent.com/u/237260974?s=72&u=791ae5fae2d96a6c984f931348d840c622847258&v=4" width="24" alt="Avatar of souleymanemaguiraga-sudo"> souleymanemaguiraga-sudo
-			</a><br/>
-			Souleymane MAGUIRAGA
-		</td>
-		<td>Magui Digital Service </td>
-		<td>No Twitter Username</td>
-		<td>Bamako Mali</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>107</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/KhalilSnaake">
 				<img src="https://avatars.githubusercontent.com/u/7149341?s=72&u=86007c71d002fded232cb804a1ac24e7495c51c4&v=4" width="24" alt="Avatar of KhalilSnaake"> KhalilSnaake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#KhalilSnaake">Copy rank badge</a><br/>
 			Khalil Snaake
 		</td>
 		<td>Interlines Training Center </td>
@@ -1496,11 +1602,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/souleymanemaguiraga-sudo">
+				<img src="https://avatars.githubusercontent.com/u/237260974?s=72&u=791ae5fae2d96a6c984f931348d840c622847258&v=4" width="24" alt="Avatar of souleymanemaguiraga-sudo"> souleymanemaguiraga-sudo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#souleymanemaguiraga-sudo">Copy rank badge</a><br/>
+			Souleymane MAGUIRAGA
+		</td>
+		<td>Magui Digital Service </td>
+		<td>No Twitter Username</td>
+		<td>Bamako Mali</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/Aboubakrh">
+				<img src="https://avatars.githubusercontent.com/u/175218643?s=72&u=c51b5c43d133cd74cfa50b04314cb6d446a02cbd&v=4" width="24" alt="Avatar of Aboubakrh"> Aboubakrh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Aboubakrh">Copy rank badge</a><br/>
+			Aboubacar Togola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako Mali</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/Sekououolo">
 				<img src="https://avatars.githubusercontent.com/u/202141426?s=72&v=4" width="24" alt="Avatar of Sekououolo"> Sekououolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Sekououolo">Copy rank badge</a><br/>
 			Sekou Ouologuem
 		</td>
 		<td>No Company</td>
@@ -1509,11 +1641,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/Nidawa1789">
 				<img src="https://avatars.githubusercontent.com/u/105324725?s=72&u=3586c3380f8f1563c1ac9ead46edcd80feb4cbfe&v=4" width="24" alt="Avatar of Nidawa1789"> Nidawa1789
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Nidawa1789">Copy rank badge</a><br/>
 			Madani Wagué
 		</td>
 		<td>Doninya </td>
@@ -1522,11 +1654,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/Hadji-gid">
 				<img src="https://avatars.githubusercontent.com/u/191227507?s=72&u=7edb36fb309f30a576f4dae927f4b63f0d055867&v=4" width="24" alt="Avatar of Hadji-gid"> Hadji-gid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Hadji-gid">Copy rank badge</a><br/>
 			Alhadji Alassane Dicko
 		</td>
 		<td>Institut National De Sante<br/>Publique<br/>(insp)<br/></td>
@@ -1535,37 +1667,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>121</td>
 		<td>
-			<a href="https://github.com/droxo-d">
-				<img src="https://avatars.githubusercontent.com/u/193097294?s=72&u=0078ef0d93fdf0dfd369a792012c4d44714d2889&v=4" width="24" alt="Avatar of droxo-d"> droxo-d
-			</a><br/>
-			LexS
+			<a href="https://github.com/yaspi00005">
+				<img src="https://avatars.githubusercontent.com/u/75936837?s=72&v=4" width="24" alt="Avatar of yaspi00005"> yaspi00005
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#yaspi00005">Copy rank badge</a><br/>
+			Yaya DIALLO
 		</td>
-		<td>Lirbsec </td>
+		<td>Drépa Technologie </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/mory13148">
-				<img src="https://avatars.githubusercontent.com/u/206717568?s=72&u=8efecdb6c278d55513dc9895a6f25cbbd3289200&v=4" width="24" alt="Avatar of mory13148"> mory13148
-			</a><br/>
-			mory13148
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>113</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/fantome2025">
 				<img src="https://avatars.githubusercontent.com/u/217880331?s=72&v=4" width="24" alt="Avatar of fantome2025"> fantome2025
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fantome2025">Copy rank badge</a><br/>
 			fantome
 		</td>
 		<td>Kabakoo Academies </td>
@@ -1574,24 +1693,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>123</td>
 		<td>
-			<a href="https://github.com/foussdjenika">
-				<img src="https://avatars.githubusercontent.com/u/55757746?s=72&u=95b75b35afd2fd7c953eadb1b4d9251251735be3&v=4" width="24" alt="Avatar of foussdjenika"> foussdjenika
-			</a><br/>
-			Fousseyni Djenika
+			<a href="https://github.com/MAHAMANE24">
+				<img src="https://avatars.githubusercontent.com/u/154536307?s=72&v=4" width="24" alt="Avatar of MAHAMANE24"> MAHAMANE24
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MAHAMANE24">Copy rank badge</a><br/>
+			Mahamane
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
+		<td>Bamako, Mali</td>
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/droxo-d">
+				<img src="https://avatars.githubusercontent.com/u/193097294?s=72&u=0078ef0d93fdf0dfd369a792012c4d44714d2889&v=4" width="24" alt="Avatar of droxo-d"> droxo-d
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#droxo-d">Copy rank badge</a><br/>
+			LexS
+		</td>
+		<td>Lirbsec </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/aziz7321">
 				<img src="https://avatars.githubusercontent.com/u/150396036?s=72&v=4" width="24" alt="Avatar of aziz7321"> aziz7321
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#aziz7321">Copy rank badge</a><br/>
 			abdoulaziz-data
 		</td>
 		<td>No Company</td>
@@ -1600,11 +1732,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/KONECONSULTANCE">
 				<img src="https://avatars.githubusercontent.com/u/55203898?s=72&u=621f08ef1eb5b78d3c6158a36e45ff39d3035927&v=4" width="24" alt="Avatar of KONECONSULTANCE"> KONECONSULTANCE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#KONECONSULTANCE">Copy rank badge</a><br/>
 			Sidi_Consulting
 		</td>
 		<td>Fao </td>
@@ -1613,24 +1745,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>127</td>
 		<td>
-			<a href="https://github.com/Mohva-kira">
-				<img src="https://avatars.githubusercontent.com/u/41686904?s=72&u=f71dead25331cb28334ea8928ac119d617d3507c&v=4" width="24" alt="Avatar of Mohva-kira"> Mohva-kira
-			</a><br/>
-			Tandjigora Mohamed
+			<a href="https://github.com/IvinoDev">
+				<img src="https://avatars.githubusercontent.com/u/56479227?s=72&u=5f3e6b3e69a101243d29955b26c0a6ac892b1ab0&v=4" width="24" alt="Avatar of IvinoDev"> IvinoDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#IvinoDev">Copy rank badge</a><br/>
+			Mariam Kayantao
 		</td>
-		<td>Fly </td>
-		<td><a href="https://twitter.com/mohvat">mohvat</a></td>
-		<td>Bamako, Mali</td>
-		<td>23</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali, Bamako</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/diakoboulon">
+				<img src="https://avatars.githubusercontent.com/u/236439580?s=72&v=4" width="24" alt="Avatar of diakoboulon"> diakoboulon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#diakoboulon">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Diakoboulon </td>
+		<td>No Twitter Username</td>
+		<td>Mali/Bamako</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/SaoraTech">
+				<img src="https://avatars.githubusercontent.com/u/312508310?s=72&u=c66cb6e6d16e49b295483bcf10daf21fd657861e&v=4" width="24" alt="Avatar of SaoraTech"> SaoraTech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#SaoraTech">Copy rank badge</a><br/>
+			Fousseyni DIALLO 
+		</td>
+		<td>Saora </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/minato223">
 				<img src="https://avatars.githubusercontent.com/u/71100950?s=72&u=f0e77b87914b671086ac94fa793ae93a89895e59&v=4" width="24" alt="Avatar of minato223"> minato223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#minato223">Copy rank badge</a><br/>
 			Lamine Diarra
 		</td>
 		<td>Lamine Diarra </td>
@@ -1639,24 +1797,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/alitimbo">
-				<img src="https://avatars.githubusercontent.com/u/61569237?s=72&u=9300bcbbaac84779bc4a2bd226198984d73f2a08&v=4" width="24" alt="Avatar of alitimbo"> alitimbo
-			</a><br/>
-			Ali Timbo
-		</td>
-		<td>Akicorp Solutions Technology </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>120</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/ZaharaD">
 				<img src="https://avatars.githubusercontent.com/u/182957250?s=72&v=4" width="24" alt="Avatar of ZaharaD"> ZaharaD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ZaharaD">Copy rank badge</a><br/>
 			Zahara
 		</td>
 		<td>No Company</td>
@@ -1665,24 +1810,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>132</td>
 		<td>
-			<a href="https://github.com/Aicha-Dembele">
-				<img src="https://avatars.githubusercontent.com/u/223644105?s=72&v=4" width="24" alt="Avatar of Aicha-Dembele"> Aicha-Dembele
-			</a><br/>
-			Aicha Dembele
+			<a href="https://github.com/alitimbo">
+				<img src="https://avatars.githubusercontent.com/u/61569237?s=72&u=9300bcbbaac84779bc4a2bd226198984d73f2a08&v=4" width="24" alt="Avatar of alitimbo"> alitimbo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alitimbo">Copy rank badge</a><br/>
+			Ali Timbo
 		</td>
-		<td>No Company</td>
+		<td>Akicorp Solutions Technology </td>
 		<td>No Twitter Username</td>
-		<td>Bamako </td>
+		<td>Bamako</td>
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/KalansoFac">
 				<img src="https://avatars.githubusercontent.com/u/223646157?s=72&u=b162bcd54c24126b57e93994613a1cff5e87cf29&v=4" width="24" alt="Avatar of KalansoFac"> KalansoFac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#KalansoFac">Copy rank badge</a><br/>
 			KalansoFac
 		</td>
 		<td>Technolab-ista Bamako/mail </td>
@@ -1691,24 +1836,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>134</td>
 		<td>
-			<a href="https://github.com/adouflaws">
-				<img src="https://avatars.githubusercontent.com/u/273898283?s=72&v=4" width="24" alt="Avatar of adouflaws"> adouflaws
-			</a><br/>
-			Stonedev
+			<a href="https://github.com/MohamedNimaga123">
+				<img src="https://avatars.githubusercontent.com/u/268205976?s=72&u=fe2d4fae48d9bf668273c7ddfd42878d0dcd21be&v=4" width="24" alt="Avatar of MohamedNimaga123"> MohamedNimaga123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MohamedNimaga123">Copy rank badge</a><br/>
+			Mohamed Nimaga
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
+		<td>Bamako-Mali </td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/fatimahaidara">
+				<img src="https://avatars.githubusercontent.com/u/98924271?s=72&u=69cca5815fe1711459fd54db31758929e8f9855f&v=4" width="24" alt="Avatar of fatimahaidara"> fatimahaidara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fatimahaidara">Copy rank badge</a><br/>
+			Fatoumata HAIDARA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako,Mali</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/gm506307-ui">
+				<img src="https://avatars.githubusercontent.com/u/271180917?s=72&u=bd4bfec90f0ed96af87e9223d0b9bd2bd7439710&v=4" width="24" alt="Avatar of gm506307-ui"> gm506307-ui
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#gm506307-ui">Copy rank badge</a><br/>
+			Aneek Mondal
+		</td>
+		<td>B.p.poddar Institute Of Management<br/>And<br/>Technology<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>137, VIP Rd, Mali Bagan, Poodar Vihar, Rajarhat, Kolkata, West Bengal 700052</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/Abderhamane">
 				<img src="https://avatars.githubusercontent.com/u/98473664?s=72&u=15c127d126a53ea5d1b77ec9f9754da4c3f9fd29&v=4" width="24" alt="Avatar of Abderhamane"> Abderhamane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Abderhamane">Copy rank badge</a><br/>
 			Abderhamane Traore
 		</td>
 		<td>No Company</td>
@@ -1717,11 +1888,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/MIM223otaku">
 				<img src="https://avatars.githubusercontent.com/u/249164668?s=72&u=b3b66998123ac4eda7b02d55a8c7d805bfc3e122&v=4" width="24" alt="Avatar of MIM223otaku"> MIM223otaku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MIM223otaku">Copy rank badge</a><br/>
 			bobmaiga
 		</td>
 		<td>No Company</td>
@@ -1730,11 +1901,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/MrSakine">
+				<img src="https://avatars.githubusercontent.com/u/115190839?s=72&u=fdc402288cf544e0d5a9f02cfe0c7d826bc5ce43&v=4" width="24" alt="Avatar of MrSakine"> MrSakine
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MrSakine">Copy rank badge</a><br/>
+			MrSakine
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mr_sakine">mr_sakine</a></td>
+		<td>Mali</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/AbduRahmanS">
+				<img src="https://avatars.githubusercontent.com/u/45968972?s=72&u=f237a1cb8bf02cf64c5cc9f374ccf8b7000396b5&v=4" width="24" alt="Avatar of AbduRahmanS"> AbduRahmanS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AbduRahmanS">Copy rank badge</a><br/>
+			Abdrahamane Sarambounou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AbduRahmanSb">AbduRahmanSb</a></td>
+		<td>Bamako</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/fatou82">
 				<img src="https://avatars.githubusercontent.com/u/207699740?s=72&v=4" width="24" alt="Avatar of fatou82"> fatou82
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fatou82">Copy rank badge</a><br/>
 			Fatoumata FOLE
 		</td>
 		<td>L'uie (université Internationale Privé<br/>D'excellence)<br/></td>
@@ -1743,63 +1940,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>142</td>
 		<td>
-			<a href="https://github.com/MohamedNimaga123">
-				<img src="https://avatars.githubusercontent.com/u/268205976?s=72&u=fe2d4fae48d9bf668273c7ddfd42878d0dcd21be&v=4" width="24" alt="Avatar of MohamedNimaga123"> MohamedNimaga123
-			</a><br/>
-			Mohamed Nimaga
+			<a href="https://github.com/BouramaSang">
+				<img src="https://avatars.githubusercontent.com/u/190879053?s=72&u=41a6b16990109a70679ba1e213ffa974b3b772aa&v=4" width="24" alt="Avatar of BouramaSang"> BouramaSang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BouramaSang">Copy rank badge</a><br/>
+			Bourama Sangaré
 		</td>
-		<td>No Company</td>
+		<td>Protech  </td>
 		<td>No Twitter Username</td>
-		<td>Bamako-Mali </td>
+		<td>Mali</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>143</td>
 		<td>
-			<a href="https://github.com/MrSakine">
-				<img src="https://avatars.githubusercontent.com/u/115190839?s=72&u=fdc402288cf544e0d5a9f02cfe0c7d826bc5ce43&v=4" width="24" alt="Avatar of MrSakine"> MrSakine
-			</a><br/>
-			MrSakine
+			<a href="https://github.com/Alassane-Diallo">
+				<img src="https://avatars.githubusercontent.com/u/201423802?s=72&u=e9cefc11cf6e2857f9dd77f4612ec42b759fd759&v=4" width="24" alt="Avatar of Alassane-Diallo"> Alassane-Diallo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Alassane-Diallo">Copy rank badge</a><br/>
+			Alassane Diallo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mr_sakine">mr_sakine</a></td>
-		<td>Mali</td>
-		<td>19</td>
+		<td>No Twitter Username</td>
+		<td>Mali, Bamako</td>
+		<td>20</td>
 	</tr>
 	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/Ibraci">
-				<img src="https://avatars.githubusercontent.com/u/24506500?s=72&u=dcd25488d1eb2f4048bda235d086cc3d6a4dcb3c&v=4" width="24" alt="Avatar of Ibraci"> Ibraci
-			</a><br/>
-			Ibrahim CISSE
-		</td>
-		<td>@ibracilinks </td>
-		<td><a href="https://twitter.com/ibraci2">ibraci2</a></td>
-		<td>Bamako</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/AbduRahmanS">
-				<img src="https://avatars.githubusercontent.com/u/45968972?s=72&u=f237a1cb8bf02cf64c5cc9f374ccf8b7000396b5&v=4" width="24" alt="Avatar of AbduRahmanS"> AbduRahmanS
-			</a><br/>
-			Abdrahamane Sarambounou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AbduRahmanSb">AbduRahmanSb</a></td>
-		<td>Bamako</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>131</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/tounkaradiagui">
 				<img src="https://avatars.githubusercontent.com/u/101643951?s=72&u=e0e0412110afa87a2c585f0e2f6f1c86050bcb07&v=4" width="24" alt="Avatar of tounkaradiagui"> tounkaradiagui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#tounkaradiagui">Copy rank badge</a><br/>
 			TOUNKARA Diagui
 		</td>
 		<td>Diagui Services </td>
@@ -1808,11 +1979,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/Overhaul2">
 				<img src="https://avatars.githubusercontent.com/u/89298408?s=72&u=c25b624a5191cdf96fa38d30502d4deabd45d04a&v=4" width="24" alt="Avatar of Overhaul2"> Overhaul2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Overhaul2">Copy rank badge</a><br/>
 			Souleymane FOMBA
 		</td>
 		<td>@sene-deme </td>
@@ -1821,37 +1992,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>146</td>
 		<td>
-			<a href="https://github.com/Moussa0082">
-				<img src="https://avatars.githubusercontent.com/u/106883972?s=72&v=4" width="24" alt="Avatar of Moussa0082"> Moussa0082
-			</a><br/>
-			No Name
-		</td>
-		<td>Ide Sarl </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/fatimahaidara">
-				<img src="https://avatars.githubusercontent.com/u/98924271?s=72&u=69cca5815fe1711459fd54db31758929e8f9855f&v=4" width="24" alt="Avatar of fatimahaidara"> fatimahaidara
-			</a><br/>
-			Fatoumata HAIDARA
+			<a href="https://github.com/foussdjenika">
+				<img src="https://avatars.githubusercontent.com/u/55757746?s=72&u=95b75b35afd2fd7c953eadb1b4d9251251735be3&v=4" width="24" alt="Avatar of foussdjenika"> foussdjenika
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#foussdjenika">Copy rank badge</a><br/>
+			Fousseyni Djenika
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako,Mali</td>
-		<td>18</td>
+		<td>Bamako</td>
+		<td>19</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/tilio3x">
 				<img src="https://avatars.githubusercontent.com/u/16158866?s=72&v=4" width="24" alt="Avatar of tilio3x"> tilio3x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#tilio3x">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Tidisoft </td>
@@ -1860,24 +2018,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>148</td>
 		<td>
-			<a href="https://github.com/gm506307-ui">
-				<img src="https://avatars.githubusercontent.com/u/271180917?s=72&u=bd4bfec90f0ed96af87e9223d0b9bd2bd7439710&v=4" width="24" alt="Avatar of gm506307-ui"> gm506307-ui
-			</a><br/>
-			Aneek Mondal
+			<a href="https://github.com/Yt027">
+				<img src="https://avatars.githubusercontent.com/u/133719378?s=72&u=8151ff44652930603e20364aa25133317a7b0fdb&v=4" width="24" alt="Avatar of Yt027"> Yt027
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Yt027">Copy rank badge</a><br/>
+			YayaDev
 		</td>
-		<td>B.p.poddar Institute Of Management<br/>And<br/>Technology<br/><br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>137, VIP Rd, Mali Bagan, Poodar Vihar, Rajarhat, Kolkata, West Bengal 700052</td>
+		<td>Bamako, Mali</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/isbydem9">
 				<img src="https://avatars.githubusercontent.com/u/287765023?s=72&u=7c99c003fac192f310bfe053211f4d21e534760e&v=4" width="24" alt="Avatar of isbydem9"> isbydem9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#isbydem9">Copy rank badge</a><br/>
 			Isby
 		</td>
 		<td>Complexe Scolaire Daga Keita<br/></td>
@@ -1886,50 +2044,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>150</td>
 		<td>
-			<a href="https://github.com/Aboubakrh">
-				<img src="https://avatars.githubusercontent.com/u/175218643?s=72&u=c51b5c43d133cd74cfa50b04314cb6d446a02cbd&v=4" width="24" alt="Avatar of Aboubakrh"> Aboubakrh
-			</a><br/>
-			Aboubacar Togola
+			<a href="https://github.com/Sadou-Sidibe">
+				<img src="https://avatars.githubusercontent.com/u/204590814?s=72&v=4" width="24" alt="Avatar of Sadou-Sidibe"> Sadou-Sidibe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Sadou-Sidibe">Copy rank badge</a><br/>
+			Sadou Sidibe
 		</td>
-		<td>No Company</td>
+		<td>Sadoudev </td>
 		<td>No Twitter Username</td>
-		<td>Bamako Mali</td>
+		<td>Bamako, Mali</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>151</td>
 		<td>
-			<a href="https://github.com/MAHAMANE24">
-				<img src="https://avatars.githubusercontent.com/u/154536307?s=72&v=4" width="24" alt="Avatar of MAHAMANE24"> MAHAMANE24
-			</a><br/>
-			Mahamane
+			<a href="https://github.com/Mohva-kira">
+				<img src="https://avatars.githubusercontent.com/u/41686904?s=72&u=f71dead25331cb28334ea8928ac119d617d3507c&v=4" width="24" alt="Avatar of Mohva-kira"> Mohva-kira
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mohva-kira">Copy rank badge</a><br/>
+			Tandjigora Mohamed
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Fly </td>
+		<td><a href="https://twitter.com/mohvat">mohvat</a></td>
 		<td>Bamako, Mali</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>152</td>
 		<td>
-			<a href="https://github.com/BouramaSang">
-				<img src="https://avatars.githubusercontent.com/u/190879053?s=72&u=41a6b16990109a70679ba1e213ffa974b3b772aa&v=4" width="24" alt="Avatar of BouramaSang"> BouramaSang
-			</a><br/>
-			Bourama Sangaré
+			<a href="https://github.com/OliverQueen18">
+				<img src="https://avatars.githubusercontent.com/u/33458263?s=72&u=66dc62ca6a9fe40e8b84a5d1bb26556e7e644312&v=4" width="24" alt="Avatar of OliverQueen18"> OliverQueen18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#OliverQueen18">Copy rank badge</a><br/>
+			Oliver Queen
 		</td>
-		<td>Protech  </td>
+		<td>Olive Services </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/Dazzog">
+				<img src="https://avatars.githubusercontent.com/u/224314083?s=72&u=1ae870d7b20ddffb2af88dd3e36d49188ce65422&v=4" width="24" alt="Avatar of Dazzog"> Dazzog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Dazzog">Copy rank badge</a><br/>
+			Klaus-Rüdiger von und zu Dosendrück
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Timbuktu</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/ibrahimdibate7070-create">
 				<img src="https://avatars.githubusercontent.com/u/250359625?s=72&v=4" width="24" alt="Avatar of ibrahimdibate7070-create"> ibrahimdibate7070-create
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ibrahimdibate7070-create">Copy rank badge</a><br/>
 			Ibrahim Diabate
 		</td>
 		<td>Université Itma </td>
@@ -1938,11 +2109,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/togo75">
+				<img src="https://avatars.githubusercontent.com/u/173575490?s=72&v=4" width="24" alt="Avatar of togo75"> togo75
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#togo75">Copy rank badge</a><br/>
+			John Togo75
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/Moussa0082">
+				<img src="https://avatars.githubusercontent.com/u/106883972?s=72&v=4" width="24" alt="Avatar of Moussa0082"> Moussa0082
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Moussa0082">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Ide Sarl </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/djounnoureyni">
 				<img src="https://avatars.githubusercontent.com/u/83135258?s=72&u=c4c0e564f5662e3ddab0650fe13358cccbc0a476&v=4" width="24" alt="Avatar of djounnoureyni"> djounnoureyni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#djounnoureyni">Copy rank badge</a><br/>
 			Ousmane Mahamane Maïga
 		</td>
 		<td>@kabakoo-app  </td>
@@ -1951,24 +2148,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/pierresodio">
-				<img src="https://avatars.githubusercontent.com/u/80537501?s=72&u=c0eb374661e0323461c12f79168f71b56252a302&v=4" width="24" alt="Avatar of pierresodio"> pierresodio
-			</a><br/>
-			Pierre SODIO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako - Mali</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>144</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/alasstech">
 				<img src="https://avatars.githubusercontent.com/u/208082198?s=72&v=4" width="24" alt="Avatar of alasstech"> alasstech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alasstech">Copy rank badge</a><br/>
 			Alassane Samaké
 		</td>
 		<td>No Company</td>
@@ -1977,11 +2161,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/molobala">
 				<img src="https://avatars.githubusercontent.com/u/29891783?s=72&u=2d43e6ef2b52b63611e4b87c836685feae6affab&v=4" width="24" alt="Avatar of molobala"> molobala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#molobala">Copy rank badge</a><br/>
 			Doumbia Mahamadou
 		</td>
 		<td>No Company</td>
@@ -1990,37 +2174,63 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>160</td>
 		<td>
-			<a href="https://github.com/OliverQueen18">
-				<img src="https://avatars.githubusercontent.com/u/33458263?s=72&u=66dc62ca6a9fe40e8b84a5d1bb26556e7e644312&v=4" width="24" alt="Avatar of OliverQueen18"> OliverQueen18
-			</a><br/>
-			Oliver Queen
+			<a href="https://github.com/abdelkane-dev">
+				<img src="https://avatars.githubusercontent.com/u/231492417?s=72&u=f727005829a7ab9d93869fad52bc5281f636254a&v=4" width="24" alt="Avatar of abdelkane-dev"> abdelkane-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abdelkane-dev">Copy rank badge</a><br/>
+			Aken
 		</td>
-		<td>Olive Services </td>
+		<td>Aken </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako, Mali</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>161</td>
 		<td>
-			<a href="https://github.com/SaoraTech">
-				<img src="https://avatars.githubusercontent.com/u/312508310?s=72&u=c66cb6e6d16e49b295483bcf10daf21fd657861e&v=4" width="24" alt="Avatar of SaoraTech"> SaoraTech
-			</a><br/>
-			Fousseyni DIALLO 
+			<a href="https://github.com/Cheikh-T">
+				<img src="https://avatars.githubusercontent.com/u/152331625?s=72&u=7a11e92f6ea9ec6bab471816addbce8001318ec4&v=4" width="24" alt="Avatar of Cheikh-T"> Cheikh-T
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Cheikh-T">Copy rank badge</a><br/>
+			Cheickna Omar DIAKITE
 		</td>
-		<td>Saora </td>
+		<td>Thl Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako, bco djicoroni ACI</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/ibrahimkelly">
+				<img src="https://avatars.githubusercontent.com/u/94073143?s=72&u=1bc763e8b552b04f66639b25ed19548704452583&v=4" width="24" alt="Avatar of ibrahimkelly"> ibrahimkelly
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ibrahimkelly">Copy rank badge</a><br/>
+			I-K(***)Y
+		</td>
+		<td>Thl Technologies </td>
+		<td><a href="https://twitter.com/ibrahimkelly99">ibrahimkelly99</a></td>
+		<td>Mali</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/bahamasangare">
+				<img src="https://avatars.githubusercontent.com/u/126417285?s=72&u=9ee3889deb7919479b1f66b595fcefddc3c25c35&v=4" width="24" alt="Avatar of bahamasangare"> bahamasangare
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#bahamasangare">Copy rank badge</a><br/>
+			Bahama Sangaré
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>MALI </td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/niambelealy57-hub">
 				<img src="https://avatars.githubusercontent.com/u/260904848?s=72&u=64132b82a09f7ef2621f1cbb954403e2eba441d7&v=4" width="24" alt="Avatar of niambelealy57-hub"> niambelealy57-hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#niambelealy57-hub">Copy rank badge</a><br/>
 			Aly Niambele
 		</td>
 		<td>No Company</td>
@@ -2029,11 +2239,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/adamstrvor">
 				<img src="https://avatars.githubusercontent.com/u/81414298?s=72&u=c7450b9472c791d4f1e9149fa2b0710071286189&v=4" width="24" alt="Avatar of adamstrvor"> adamstrvor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#adamstrvor">Copy rank badge</a><br/>
 			TRAORE ADAMA SEYDOU
 		</td>
 		<td>Srm University </td>
@@ -2042,37 +2252,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>166</td>
 		<td>
-			<a href="https://github.com/ismeilamohamed1995-rgb">
-				<img src="https://avatars.githubusercontent.com/u/226184790?s=72&u=f1207f3a130a6fd963dee4a8badd54661925750f&v=4" width="24" alt="Avatar of ismeilamohamed1995-rgb"> ismeilamohamed1995-rgb
-			</a><br/>
-			ISS-DataScientist
+			<a href="https://github.com/Hamady794">
+				<img src="https://avatars.githubusercontent.com/u/179740990?s=72&u=04cc655840957e858b90492976b80f4e7fd85dbe&v=4" width="24" alt="Avatar of Hamady794"> Hamady794
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Hamady794">Copy rank badge</a><br/>
+			Hamady SISSOKO
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/Sadou-Sidibe">
-				<img src="https://avatars.githubusercontent.com/u/204590814?s=72&v=4" width="24" alt="Avatar of Sadou-Sidibe"> Sadou-Sidibe
-			</a><br/>
-			Sadou Sidibe
-		</td>
-		<td>Sadoudev </td>
+		<td>Infectious Diseases And Medical<br/>Entomology<br/>Research<br/>And<br/>Training<br/>Center<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/BILL896">
+				<img src="https://avatars.githubusercontent.com/u/203517404?s=72&u=ca2d9a8ca2adb5b10f409e1e13854a13eaa8d62f&v=4" width="24" alt="Avatar of BILL896"> BILL896
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BILL896">Copy rank badge</a><br/>
+			Bill Tech
+		</td>
+		<td>Bytes Labs Technologie <br/></td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/hellodiamalassana">
+				<img src="https://avatars.githubusercontent.com/u/69864269?s=72&u=401f554e7e0e4d50e41d4cab46fb1efd2dc0551c&v=4" width="24" alt="Avatar of hellodiamalassana"> hellodiamalassana
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#hellodiamalassana">Copy rank badge</a><br/>
+			hellodiama
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Hellodiama">Hellodiama</a></td>
+		<td>Bamako</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/Bourama250">
 				<img src="https://avatars.githubusercontent.com/u/209183275?s=72&u=7bb3535d1776055636d03a62c10cf103f44986a6&v=4" width="24" alt="Avatar of Bourama250"> Bourama250
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Bourama250">Copy rank badge</a><br/>
 			Bourama DEMBELE
 		</td>
 		<td>No Company</td>
@@ -2081,11 +2304,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/modibokniare">
+				<img src="https://avatars.githubusercontent.com/u/91670528?s=72&u=d7d1430da73987b598b0c3a98d5a5d541eaa393a&v=4" width="24" alt="Avatar of modibokniare"> modibokniare
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#modibokniare">Copy rank badge</a><br/>
+			Modibo Kane NIARE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/camara-eng">
+				<img src="https://avatars.githubusercontent.com/u/231088444?s=72&v=4" width="24" alt="Avatar of camara-eng"> camara-eng
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#camara-eng">Copy rank badge</a><br/>
+			Mr Robot
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>MALI</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/Seydou0603">
 				<img src="https://avatars.githubusercontent.com/u/161321072?s=72&u=0615a1f55aebd1f0c0ac145b536fb183773b2950&v=4" width="24" alt="Avatar of Seydou0603"> Seydou0603
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Seydou0603">Copy rank badge</a><br/>
 			seydou_dev
 		</td>
 		<td>No Company</td>
@@ -2094,37 +2343,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/bahamasangare">
-				<img src="https://avatars.githubusercontent.com/u/126417285?s=72&u=9ee3889deb7919479b1f66b595fcefddc3c25c35&v=4" width="24" alt="Avatar of bahamasangare"> bahamasangare
-			</a><br/>
-			Bahama Sangaré
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>MALI </td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/abdelkane-dev">
-				<img src="https://avatars.githubusercontent.com/u/231492417?s=72&u=f727005829a7ab9d93869fad52bc5281f636254a&v=4" width="24" alt="Avatar of abdelkane-dev"> abdelkane-dev
-			</a><br/>
-			Aken
-		</td>
-		<td>Aken </td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>156</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/mgolomanta">
 				<img src="https://avatars.githubusercontent.com/u/79088161?s=72&u=c0c689e6d4b0c398fb07e5429a00878571e326ef&v=4" width="24" alt="Avatar of mgolomanta"> mgolomanta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mgolomanta">Copy rank badge</a><br/>
 			M_G
 		</td>
 		<td>No Company</td>
@@ -2133,11 +2356,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/Deraillor">
 				<img src="https://avatars.githubusercontent.com/u/2199615?s=72&u=b00999970c31734c12bc9a280cf72191f6a2632c&v=4" width="24" alt="Avatar of Deraillor"> Deraillor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Deraillor">Copy rank badge</a><br/>
 			Deraillor
 		</td>
 		<td>No Company</td>
@@ -2146,11 +2369,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/FatouDev02">
 				<img src="https://avatars.githubusercontent.com/u/104140386?s=72&u=37d4210ffcef8f702165c47ca1f33b794de536c5&v=4" width="24" alt="Avatar of FatouDev02"> FatouDev02
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#FatouDev02">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Thltechnologies </td>
@@ -2159,11 +2382,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/Amadou21">
 				<img src="https://avatars.githubusercontent.com/u/109483145?s=72&u=1194e54efcae1b7b7fdee898946d5d51b619f2b6&v=4" width="24" alt="Avatar of Amadou21"> Amadou21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Amadou21">Copy rank badge</a><br/>
 			Amadou Maiga
 		</td>
 		<td>Horizon Future </td>
@@ -2172,11 +2395,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/oliviertina29">
+				<img src="https://avatars.githubusercontent.com/u/89428263?s=72&u=699b7fd80a716112dc9e117885681845f86c02d7&v=4" width="24" alt="Avatar of oliviertina29"> oliviertina29
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#oliviertina29">Copy rank badge</a><br/>
+			Oliver
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DjaraTina">DjaraTina</a></td>
+		<td>Bamako</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/DevSo-code">
 				<img src="https://avatars.githubusercontent.com/u/284742239?s=72&v=4" width="24" alt="Avatar of DevSo-code"> DevSo-code
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#DevSo-code">Copy rank badge</a><br/>
 			Dev Sô
 		</td>
 		<td>Tech Sô </td>
@@ -2185,11 +2421,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Adama-ai">
 				<img src="https://avatars.githubusercontent.com/u/219586523?s=72&u=88b20c611a3c8d42a04e89bc4e06fae04de84a47&v=4" width="24" alt="Avatar of Adama-ai"> Adama-ai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Adama-ai">Copy rank badge</a><br/>
 			IA adama
 		</td>
 		<td>Hubba Services  </td>
@@ -2198,12 +2434,12 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>180</td>
 		<td>
-			<a href="https://github.com/DTECHT223">
-				<img src="https://avatars.githubusercontent.com/u/217672944?s=72&u=820a8e6f040256f67829130b7009ea4be7569c63&v=4" width="24" alt="Avatar of DTECHT223"> DTECHT223
-			</a><br/>
-			Sory Ibrahim Diarra
+			<a href="https://github.com/user0000111222sey">
+				<img src="https://avatars.githubusercontent.com/u/221637187?s=72&v=4" width="24" alt="Avatar of user0000111222sey"> user0000111222sey
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#user0000111222sey">Copy rank badge</a><br/>
+			Blendgenious
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2211,11 +2447,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/Aissatha">
 				<img src="https://avatars.githubusercontent.com/u/151942027?s=72&v=4" width="24" alt="Avatar of Aissatha"> Aissatha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Aissatha">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2224,11 +2460,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/Moustapha1957">
 				<img src="https://avatars.githubusercontent.com/u/112630469?s=72&u=68c062723039131a81f0026c2a3f255b374cb7b9&v=4" width="24" alt="Avatar of Moustapha1957"> Moustapha1957
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Moustapha1957">Copy rank badge</a><br/>
 			YaMoustapha
 		</td>
 		<td>Imperis Sarl </td>
@@ -2237,11 +2473,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/AmpinrinSagara">
+				<img src="https://avatars.githubusercontent.com/u/179742805?s=72&u=e235fcf23b49289ce61127f68d4ddfaeb9c38588&v=4" width="24" alt="Avatar of AmpinrinSagara"> AmpinrinSagara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AmpinrinSagara">Copy rank badge</a><br/>
+			Ampinrin Sagara 
+		</td>
+		<td>Université Des Sciences, Des<br/>Techniques<br/>Et<br/>Des<br/>Technologies<br/>De<br/>Bamako<br/>(usttb)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali </td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/Plasm05280">
 				<img src="https://avatars.githubusercontent.com/u/34347342?s=72&u=258f95c6b7564f6d3437cd1fb4aaed63692e4e79&v=4" width="24" alt="Avatar of Plasm05280"> Plasm05280
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Plasm05280">Copy rank badge</a><br/>
 			Mamady KONATE
 		</td>
 		<td>No Company</td>
@@ -2250,11 +2499,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Fatimah-Dembele">
 				<img src="https://avatars.githubusercontent.com/u/217480711?s=72&v=4" width="24" alt="Avatar of Fatimah-Dembele"> Fatimah-Dembele
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Fatimah-Dembele">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2263,24 +2512,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>186</td>
 		<td>
-			<a href="https://github.com/togo75">
-				<img src="https://avatars.githubusercontent.com/u/173575490?s=72&v=4" width="24" alt="Avatar of togo75"> togo75
-			</a><br/>
-			John Togo75
+			<a href="https://github.com/Ibrahimakeita517">
+				<img src="https://avatars.githubusercontent.com/u/209402609?s=72&u=cf34cf4d9284cf42fdd3c482cf609ab5ddd793d9&v=4" width="24" alt="Avatar of Ibrahimakeita517"> Ibrahimakeita517
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ibrahimakeita517">Copy rank badge</a><br/>
+			ASIKA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/ot093552-glitch">
 				<img src="https://avatars.githubusercontent.com/u/244755440?s=72&v=4" width="24" alt="Avatar of ot093552-glitch"> ot093552-glitch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ot093552-glitch">Copy rank badge</a><br/>
 			Ousmane
 		</td>
 		<td>No Company</td>
@@ -2289,24 +2538,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/ibrahimkelly">
-				<img src="https://avatars.githubusercontent.com/u/94073143?s=72&u=1bc763e8b552b04f66639b25ed19548704452583&v=4" width="24" alt="Avatar of ibrahimkelly"> ibrahimkelly
-			</a><br/>
-			I-K(***)Y
-		</td>
-		<td>Thl Technologies </td>
-		<td><a href="https://twitter.com/ibrahimkelly99">ibrahimkelly99</a></td>
-		<td>Mali</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>170</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/ADIAWIAKOYE">
 				<img src="https://avatars.githubusercontent.com/u/104629696?s=72&u=27f9e8e341811bcac7137c438e5d246bae40ce4b&v=4" width="24" alt="Avatar of ADIAWIAKOYE"> ADIAWIAKOYE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ADIAWIAKOYE">Copy rank badge</a><br/>
 			ADIAWIAKOYE
 		</td>
 		<td>No Company</td>
@@ -2315,11 +2551,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/macktb">
 				<img src="https://avatars.githubusercontent.com/u/42482243?s=72&u=9782311dd059a8bf833db4975e37fcc3b3f60863&v=4" width="24" alt="Avatar of macktb"> macktb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#macktb">Copy rank badge</a><br/>
 			Mamadou Makadji DIARRA
 		</td>
 		<td>@caisff </td>
@@ -2328,50 +2564,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/Seinkou">
-				<img src="https://avatars.githubusercontent.com/u/95884086?s=72&u=3e29358a8f61f71437641012837f8545ad14c334&v=4" width="24" alt="Avatar of Seinkou"> Seinkou
-			</a><br/>
-			Seinkou
-		</td>
-		<td>Cloud Developer </td>
-		<td>No Twitter Username</td>
-		<td>Bamako(Mali)</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/oliviertina29">
-				<img src="https://avatars.githubusercontent.com/u/89428263?s=72&u=699b7fd80a716112dc9e117885681845f86c02d7&v=4" width="24" alt="Avatar of oliviertina29"> oliviertina29
-			</a><br/>
-			Oliver
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DjaraTina">DjaraTina</a></td>
-		<td>Bamako</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/Nianghacker">
-				<img src="https://avatars.githubusercontent.com/u/101745870?s=72&u=46f0fbc2a6cd1f2d48627c0e5f036e1798d682f1&v=4" width="24" alt="Avatar of Nianghacker"> Nianghacker
-			</a><br/>
-			NIANG Modi-DEV
-		</td>
-		<td>Niang Modi-dev </td>
-		<td>No Twitter Username</td>
-		<td>BAMAKO-DAKAR</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>175</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/traoremdt">
-				<img src="https://avatars.githubusercontent.com/u/252244859?s=72&u=36665bb95d6adb18a944561de9c99c8db31d7225&v=4" width="24" alt="Avatar of traoremdt"> traoremdt
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/252244859?s=72&u=2bf8aaa96700926ff16817c7b4c97f89d1d12986&v=4" width="24" alt="Avatar of traoremdt"> traoremdt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#traoremdt">Copy rank badge</a><br/>
 			traoremdt
 		</td>
 		<td>No Company</td>
@@ -2380,11 +2577,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/CoulibalySourouga">
 				<img src="https://avatars.githubusercontent.com/u/92475565?s=72&u=0d5b27577770dcc3938385487bfee797b9e4618d&v=4" width="24" alt="Avatar of CoulibalySourouga"> CoulibalySourouga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#CoulibalySourouga">Copy rank badge</a><br/>
 			Sourouga Coulibaly
 		</td>
 		<td>No Company</td>
@@ -2393,24 +2590,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/Ibrahimakeita517">
-				<img src="https://avatars.githubusercontent.com/u/209402609?s=72&u=cf34cf4d9284cf42fdd3c482cf609ab5ddd793d9&v=4" width="24" alt="Avatar of Ibrahimakeita517"> Ibrahimakeita517
-			</a><br/>
-			ASIKA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>178</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/codecraft-haidara">
 				<img src="https://avatars.githubusercontent.com/u/255674560?s=72&u=8aae4128723c3c56be471e6df37d4d7e6f82f7f1&v=4" width="24" alt="Avatar of codecraft-haidara"> codecraft-haidara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#codecraft-haidara">Copy rank badge</a><br/>
 			Almamy Aly Haïdara
 		</td>
 		<td>Caisff </td>
@@ -2419,11 +2603,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/OptimisticImpulse">
 				<img src="https://avatars.githubusercontent.com/u/111015172?s=72&u=496b3b98b24e225343ebe7d767baf9b46a55e2ed&v=4" width="24" alt="Avatar of OptimisticImpulse"> OptimisticImpulse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#OptimisticImpulse">Copy rank badge</a><br/>
 			You Know Me!
 		</td>
 		<td>The Newest Factor </td>
@@ -2432,24 +2616,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/PrinceHarouna">
-				<img src="https://avatars.githubusercontent.com/u/226424998?s=72&u=d69ddc7aeee6d9d096f20ab6dec772fc534fb9e6&v=4" width="24" alt="Avatar of PrinceHarouna"> PrinceHarouna
-			</a><br/>
-			Prince Harouna Traore
-		</td>
-		<td>Eyelinctech </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>181</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/IB-Design-stact">
 				<img src="https://avatars.githubusercontent.com/u/251931323?s=72&v=4" width="24" alt="Avatar of IB-Design-stact"> IB-Design-stact
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#IB-Design-stact">Copy rank badge</a><br/>
 			Ibrahima KEITA
 		</td>
 		<td>Ib_design </td>
@@ -2458,11 +2629,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/Kumiko-ware">
 				<img src="https://avatars.githubusercontent.com/u/112118449?s=72&v=4" width="24" alt="Avatar of Kumiko-ware"> Kumiko-ware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Kumiko-ware">Copy rank badge</a><br/>
 			Software without nails and glue
 		</td>
 		<td>Tanganica & Assoc. </td>
@@ -2471,24 +2642,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/Cheickfox">
-				<img src="https://avatars.githubusercontent.com/u/309529638?s=72&u=8054a0d26a26f5ed5c867481dd50a315d8a4bd8a&v=4" width="24" alt="Avatar of Cheickfox"> Cheickfox
-			</a><br/>
-			Cheick Ahmed K Keita
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>📍Bamako, Mali</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>184</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/togolatogolaadama87-cpu">
 				<img src="https://avatars.githubusercontent.com/u/331414583?s=72&v=4" width="24" alt="Avatar of togolatogolaadama87-cpu"> togolatogolaadama87-cpu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#togolatogolaadama87-cpu">Copy rank badge</a><br/>
 			bizchat-pro
 		</td>
 		<td>No Company</td>
@@ -2497,24 +2655,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>197</td>
 		<td>
-			<a href="https://github.com/geekdjenika">
-				<img src="https://avatars.githubusercontent.com/u/75429330?s=72&u=da1eba0021562889a24ba095bd91aaa38d7b44d5&v=4" width="24" alt="Avatar of geekdjenika"> geekdjenika
-			</a><br/>
-			Aboubacar DJENIKA
+			<a href="https://github.com/Cheickfox">
+				<img src="https://avatars.githubusercontent.com/u/309529638?s=72&u=8054a0d26a26f5ed5c867481dd50a315d8a4bd8a&v=4" width="24" alt="Avatar of Cheickfox"> Cheickfox
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Cheickfox">Copy rank badge</a><br/>
+			Cheick Ahmed K Keita
 		</td>
-		<td>@thltechnologies  </td>
-		<td><a href="https://twitter.com/geekdjenika">geekdjenika</a></td>
-		<td>Bamako</td>
-		<td>8</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>📍Bamako, Mali</td>
+		<td>9</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/fseynikane">
 				<img src="https://avatars.githubusercontent.com/u/42732730?s=72&v=4" width="24" alt="Avatar of fseynikane"> fseynikane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fseynikane">Copy rank badge</a><br/>
 			Dr Fousseyni KANE
 		</td>
 		<td> Ucrc – University<br/>Clinical<br/>Research<br/>Center<br/></td>
@@ -2523,24 +2681,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>199</td>
 		<td>
-			<a href="https://github.com/elhdiagne3">
-				<img src="https://avatars.githubusercontent.com/u/117784772?s=72&u=6585b6f8315390e69a0f708b88920941eaa242b2&v=4" width="24" alt="Avatar of elhdiagne3"> elhdiagne3
-			</a><br/>
-			Elhadji
+			<a href="https://github.com/BAGA07">
+				<img src="https://avatars.githubusercontent.com/u/89977886?s=72&v=4" width="24" alt="Avatar of BAGA07"> BAGA07
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BAGA07">Copy rank badge</a><br/>
+			Aboubacar Arouna BAGAYOKO
 		</td>
-		<td>Orange </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako/Mali</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/neuromali597-max">
 				<img src="https://avatars.githubusercontent.com/u/256807154?s=72&u=c4bf3e19ebdac3f32397010401da387dcf5145f1&v=4" width="24" alt="Avatar of neuromali597-max"> neuromali597-max
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#neuromali597-max">Copy rank badge</a><br/>
 			NEURO MALI AI
 		</td>
 		<td>Neuro Mali </td>
@@ -2549,24 +2707,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/M2AML">
-				<img src="https://avatars.githubusercontent.com/u/63719819?s=72&u=e28c22a32340318aa0304336a0b83bc907c31729&v=4" width="24" alt="Avatar of M2AML"> M2AML
-			</a><br/>
-			Mamadou A Maiga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali, Bamako</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>190</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/ZanCoulibaly">
 				<img src="https://avatars.githubusercontent.com/u/58905348?s=72&u=9bef8a59fec9b54b803c8a31e63e69f365b38fa2&v=4" width="24" alt="Avatar of ZanCoulibaly"> ZanCoulibaly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ZanCoulibaly">Copy rank badge</a><br/>
 			Zan
 		</td>
 		<td>Dfacom And Maliko News<br/></td>
@@ -2575,24 +2720,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>202</td>
 		<td>
-			<a href="https://github.com/Dazzog">
-				<img src="https://avatars.githubusercontent.com/u/224314083?s=72&u=1ae870d7b20ddffb2af88dd3e36d49188ce65422&v=4" width="24" alt="Avatar of Dazzog"> Dazzog
-			</a><br/>
-			Klaus-Rüdiger von und zu Dosendrück
+			<a href="https://github.com/Nianghacker">
+				<img src="https://avatars.githubusercontent.com/u/101745870?s=72&u=46f0fbc2a6cd1f2d48627c0e5f036e1798d682f1&v=4" width="24" alt="Avatar of Nianghacker"> Nianghacker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Nianghacker">Copy rank badge</a><br/>
+			NIANG Modi-DEV
 		</td>
-		<td>No Company</td>
+		<td>Niang Modi-dev </td>
 		<td>No Twitter Username</td>
-		<td>Timbuktu</td>
+		<td>BAMAKO-DAKAR</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/Younoussagassama-rgb">
+				<img src="https://avatars.githubusercontent.com/u/338726189?s=72&u=b074ea1a9486a33d2283de787b9ab4321e6ed620&v=4" width="24" alt="Avatar of Younoussagassama-rgb"> Younoussagassama-rgb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Younoussagassama-rgb">Copy rank badge</a><br/>
+			Younoussa Gassama
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako </td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/konare-dougoukolo">
 				<img src="https://avatars.githubusercontent.com/u/309745430?s=72&v=4" width="24" alt="Avatar of konare-dougoukolo"> konare-dougoukolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#konare-dougoukolo">Copy rank badge</a><br/>
 			konare-dougoukolo
 		</td>
 		<td>No Company</td>
@@ -2601,11 +2759,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/chikaone718-tech">
+				<img src="https://avatars.githubusercontent.com/u/345591186?s=72&v=4" width="24" alt="Avatar of chikaone718-tech"> chikaone718-tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#chikaone718-tech">Copy rank badge</a><br/>
+			CHIKA ONE AI
+		</td>
+		<td>One Ia </td>
+		<td>No Twitter Username</td>
+		<td>MALI</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Giggleshitter940">
 				<img src="https://avatars.githubusercontent.com/u/254851637?s=72&u=b593936ecd49fcd05a6374796048f088f143452a&v=4" width="24" alt="Avatar of Giggleshitter940"> Giggleshitter940
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Giggleshitter940">Copy rank badge</a><br/>
 			NameName
 		</td>
 		<td>No Company</td>
@@ -2614,11 +2785,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/princeharounatr">
 				<img src="https://avatars.githubusercontent.com/u/250015977?s=72&v=4" width="24" alt="Avatar of princeharounatr"> princeharounatr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#princeharounatr">Copy rank badge</a><br/>
 			PrinceHarounatr
 		</td>
 		<td>Eyelinctech </td>
@@ -2627,37 +2798,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>208</td>
 		<td>
-			<a href="https://github.com/Hamady794">
-				<img src="https://avatars.githubusercontent.com/u/179740990?s=72&u=04cc655840957e858b90492976b80f4e7fd85dbe&v=4" width="24" alt="Avatar of Hamady794"> Hamady794
-			</a><br/>
-			Hamady SISSOKO
+			<a href="https://github.com/seydoudoum">
+				<img src="https://avatars.githubusercontent.com/u/319998986?s=72&u=e3556224b173b1c1dee5909e57069b20bd812045&v=4" width="24" alt="Avatar of seydoudoum"> seydoudoum
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#seydoudoum">Copy rank badge</a><br/>
+			seydou
 		</td>
-		<td>Infectious Diseases And Medical<br/>Entomology<br/>Research<br/>And<br/>Training<br/>Center<br/></td>
+		<td>Entreprise Ds Design </td>
+		<td>No Twitter Username</td>
+		<td>bko mali</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/Draken-dg">
+				<img src="https://avatars.githubusercontent.com/u/343913186?s=72&v=4" width="24" alt="Avatar of Draken-dg"> Draken-dg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Draken-dg">Copy rank badge</a><br/>
+			Daga Mamadou DEMBELE
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>210</td>
 		<td>
-			<a href="https://github.com/s7d11">
-				<img src="https://avatars.githubusercontent.com/u/26676922?s=72&v=4" width="24" alt="Avatar of s7d11"> s7d11
-			</a><br/>
-			Sebastien.
+			<a href="https://github.com/Mamdy017">
+				<img src="https://avatars.githubusercontent.com/u/107038833?s=72&u=1701da42a516805da128d3447e59f97381ffefd0&v=4" width="24" alt="Avatar of Mamdy017"> Mamdy017
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mamdy017">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>@mlsftwrs </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako, ML</td>
+		<td>Bamako</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Amagarai">
 				<img src="https://avatars.githubusercontent.com/u/88549538?s=72&u=db45bf6bf63e116c870422371903b3118faf9b9c&v=4" width="24" alt="Avatar of Amagarai"> Amagarai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Amagarai">Copy rank badge</a><br/>
 			Amagaraï Guindo
 		</td>
 		<td>No Company</td>
@@ -2666,24 +2850,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>212</td>
 		<td>
-			<a href="https://github.com/diackbuaer">
-				<img src="https://avatars.githubusercontent.com/u/66320391?s=72&u=18644ef3674422ce0c9ebf3b859654df13b94aec&v=4" width="24" alt="Avatar of diackbuaer"> diackbuaer
-			</a><br/>
-			DIAKARIDIA KANTE
+			<a href="https://github.com/Seinkou">
+				<img src="https://avatars.githubusercontent.com/u/95884086?s=72&u=3e29358a8f61f71437641012837f8545ad14c334&v=4" width="24" alt="Avatar of Seinkou"> Seinkou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Seinkou">Copy rank badge</a><br/>
+			Seinkou
 		</td>
-		<td>1simple1 </td>
+		<td>Cloud Developer </td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
+		<td>Bamako(Mali)</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/fdiallo7468-hub">
+				<img src="https://avatars.githubusercontent.com/u/251083176?s=72&v=4" width="24" alt="Avatar of fdiallo7468-hub"> fdiallo7468-hub
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fdiallo7468-hub">Copy rank badge</a><br/>
+			Fousseyni DIALLO 
+		</td>
+		<td>Nanosoft Tech </td>
+		<td>No Twitter Username</td>
+		<td>Bamako - Mali</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/alloocenter">
 				<img src="https://avatars.githubusercontent.com/u/202276946?s=72&v=4" width="24" alt="Avatar of alloocenter"> alloocenter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alloocenter">Copy rank badge</a><br/>
 			Tiemoko Sissoko
 		</td>
 		<td>Independant </td>
@@ -2692,24 +2889,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/AmaraKonneh">
-				<img src="https://avatars.githubusercontent.com/u/116845755?s=72&v=4" width="24" alt="Avatar of AmaraKonneh"> AmaraKonneh
-			</a><br/>
-			Oumar Kone
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali </td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>201</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/samakeamadou548-ctrl">
 				<img src="https://avatars.githubusercontent.com/u/322319146?s=72&v=4" width="24" alt="Avatar of samakeamadou548-ctrl"> samakeamadou548-ctrl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#samakeamadou548-ctrl">Copy rank badge</a><br/>
 			Amadou Samake
 		</td>
 		<td>No Company</td>
@@ -2718,50 +2902,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/Alassane-Diallo">
-				<img src="https://avatars.githubusercontent.com/u/201423802?s=72&u=e9cefc11cf6e2857f9dd77f4612ec42b759fd759&v=4" width="24" alt="Avatar of Alassane-Diallo"> Alassane-Diallo
-			</a><br/>
-			Alassane Diallo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali, Bamako</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/keich-samoura">
-				<img src="https://avatars.githubusercontent.com/u/208613776?s=72&u=f2519a2681160cbaa0fe3192555944bd575f5756&v=4" width="24" alt="Avatar of keich-samoura"> keich-samoura
-			</a><br/>
-			cheick hamallah Samoura
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/hellodiamalassana">
-				<img src="https://avatars.githubusercontent.com/u/69864269?s=72&u=401f554e7e0e4d50e41d4cab46fb1efd2dc0551c&v=4" width="24" alt="Avatar of hellodiamalassana"> hellodiamalassana
-			</a><br/>
-			hellodiama
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Hellodiama">Hellodiama</a></td>
-		<td>Bamako</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>205</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/adama-coulibaly">
 				<img src="https://avatars.githubusercontent.com/u/81464680?s=72&u=b0a1e19383271369464fb65eced62c1079b46177&v=4" width="24" alt="Avatar of adama-coulibaly"> adama-coulibaly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#adama-coulibaly">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2770,11 +2915,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/Pelpav">
 				<img src="https://avatars.githubusercontent.com/u/112887005?s=72&u=d6b67b376ac87d4d3ecc4e8a2b0b70a484533bbc&v=4" width="24" alt="Avatar of Pelpav"> Pelpav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Pelpav">Copy rank badge</a><br/>
 			Christian Pavlov Elom Nouboukpo
 		</td>
 		<td>No Company</td>
@@ -2783,24 +2928,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>218</td>
 		<td>
-			<a href="https://github.com/Malamine-Diabira">
-				<img src="https://avatars.githubusercontent.com/u/112198746?s=72&v=4" width="24" alt="Avatar of Malamine-Diabira"> Malamine-Diabira
-			</a><br/>
-			Malamine Diabira
+			<a href="https://github.com/diackbuaer">
+				<img src="https://avatars.githubusercontent.com/u/66320391?s=72&u=18644ef3674422ce0c9ebf3b859654df13b94aec&v=4" width="24" alt="Avatar of diackbuaer"> diackbuaer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#diackbuaer">Copy rank badge</a><br/>
+			DIAKARIDIA KANTE
 		</td>
-		<td>Sabunyuman Medical Office </td>
+		<td>1simple1 </td>
 		<td>No Twitter Username</td>
-		<td>Bamako (Mali)</td>
+		<td>Bamako</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/Bakeita">
 				<img src="https://avatars.githubusercontent.com/u/67412365?s=72&u=4e3197376ea273783a9ffccc4f669da171aad1d0&v=4" width="24" alt="Avatar of Bakeita"> Bakeita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Bakeita">Copy rank badge</a><br/>
 			Bah Keita
 		</td>
 		<td>No Company</td>
@@ -2809,11 +2954,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/sawane8">
 				<img src="https://avatars.githubusercontent.com/u/23085174?s=72&u=435717790ca4b3663c01affb037d2b941dfebda5&v=4" width="24" alt="Avatar of sawane8"> sawane8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sawane8">Copy rank badge</a><br/>
 			Abdourhamane
 		</td>
 		<td>Sawane8 </td>
@@ -2822,11 +2967,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/Ayaaaaa21">
 				<img src="https://avatars.githubusercontent.com/u/96576886?s=72&v=4" width="24" alt="Avatar of Ayaaaaa21"> Ayaaaaa21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ayaaaaa21">Copy rank badge</a><br/>
 			Aïssata Aya Diallo
 		</td>
 		<td>No Company</td>
@@ -2835,11 +2980,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/gansane94">
 				<img src="https://avatars.githubusercontent.com/u/116471077?s=72&v=4" width="24" alt="Avatar of gansane94"> gansane94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#gansane94">Copy rank badge</a><br/>
 			Gansane Sayoba
 		</td>
 		<td>Orange </td>
@@ -2848,11 +2993,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/pierresodio">
+				<img src="https://avatars.githubusercontent.com/u/80537501?s=72&u=c0eb374661e0323461c12f79168f71b56252a302&v=4" width="24" alt="Avatar of pierresodio"> pierresodio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#pierresodio">Copy rank badge</a><br/>
+			Pierre SODIO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako - Mali</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/mousskante2016-jpg">
+				<img src="https://avatars.githubusercontent.com/u/264371975?s=72&u=60c27c37a4e9ef48988d6b22110b145aa639854f&v=4" width="24" alt="Avatar of mousskante2016-jpg"> mousskante2016-jpg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mousskante2016-jpg">Copy rank badge</a><br/>
+			Moussa kante
+		</td>
+		<td>District Design Group </td>
+		<td>No Twitter Username</td>
+		<td>Bamako Mali</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Forex-Afrique">
 				<img src="https://avatars.githubusercontent.com/u/282218792?s=72&u=edc3c5216aeb0d78859aea3c584fce540473f7d5&v=4" width="24" alt="Avatar of Forex-Afrique"> Forex-Afrique
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Forex-Afrique">Copy rank badge</a><br/>
 			Forex-Afrique
 		</td>
 		<td>Forex Afrique </td>
@@ -2861,12 +3032,25 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>226</td>
 		<td>
-			<a href="https://github.com/modibokniare">
-				<img src="https://avatars.githubusercontent.com/u/91670528?s=72&u=d7d1430da73987b598b0c3a98d5a5d541eaa393a&v=4" width="24" alt="Avatar of modibokniare"> modibokniare
-			</a><br/>
-			Modibo Kane NIARE
+			<a href="https://github.com/diakitekabine38-pixel">
+				<img src="https://avatars.githubusercontent.com/u/230422099?s=72&v=4" width="24" alt="Avatar of diakitekabine38-pixel"> diakitekabine38-pixel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#diakitekabine38-pixel">Copy rank badge</a><br/>
+			Cheick B Diakité
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/c-seydouba">
+				<img src="https://avatars.githubusercontent.com/u/345344605?s=72&u=1199f48df5484a76d8477f54d89dc6b415c37135&v=4" width="24" alt="Avatar of c-seydouba"> c-seydouba
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#c-seydouba">Copy rank badge</a><br/>
+			Seydou BA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2874,24 +3058,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/Professor-minta">
-				<img src="https://avatars.githubusercontent.com/u/318115288?s=72&u=c0fa3682f2b4960389227f46922477c45dcae851&v=4" width="24" alt="Avatar of Professor-minta"> Professor-minta
-			</a><br/>
-			Professor Minta
-		</td>
-		<td>Mintaservices </td>
-		<td><a href="https://twitter.com/mintaservice_s">mintaservice_s</a></td>
-		<td>Segou/Bamako</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>215</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/Amadou-lab">
 				<img src="https://avatars.githubusercontent.com/u/57440112?s=72&u=9275e914522b34a1a40579f1ad277e9a0db689f5&v=4" width="24" alt="Avatar of Amadou-lab"> Amadou-lab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Amadou-lab">Copy rank badge</a><br/>
 			Amadou Diabate
 		</td>
 		<td>Bet223 </td>
@@ -2900,11 +3071,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Bah-traore">
 				<img src="https://avatars.githubusercontent.com/u/125222026?s=72&u=b36fc3ae764b3229d06e19c0ac97ba7afbb839fe&v=4" width="24" alt="Avatar of Bah-traore"> Bah-traore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Bah-traore">Copy rank badge</a><br/>
 			Mr.tanjiro_bah
 		</td>
 		<td>Gestscolaire </td>
@@ -2913,11 +3084,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/ddicko">
 				<img src="https://avatars.githubusercontent.com/u/27320352?s=72&u=6360103e066df9e66a65d69ca8a362c9e7ed4772&v=4" width="24" alt="Avatar of ddicko"> ddicko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ddicko">Copy rank badge</a><br/>
 			Ibrahim Bilaly Dicko
 		</td>
 		<td>Sualasoft </td>
@@ -2926,11 +3097,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/MahamadouIssaghaDiop">
 				<img src="https://avatars.githubusercontent.com/u/74509317?s=72&u=90be12043c92df446450b1f3d3ec839cdf956b2c&v=4" width="24" alt="Avatar of MahamadouIssaghaDiop"> MahamadouIssaghaDiop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MahamadouIssaghaDiop">Copy rank badge</a><br/>
 			ISSAGHA DIOP
 		</td>
 		<td>No Company</td>
@@ -2939,11 +3110,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/fombasouleymane">
 				<img src="https://avatars.githubusercontent.com/u/158289500?s=72&u=bebc9c25baa51b3f7196aec7508f4264ecbff99a&v=4" width="24" alt="Avatar of fombasouleymane"> fombasouleymane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fombasouleymane">Copy rank badge</a><br/>
 			Souleymane Fomba
 		</td>
 		<td>No Company</td>
@@ -2952,11 +3123,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/M2AML">
+				<img src="https://avatars.githubusercontent.com/u/63719819?s=72&u=e28c22a32340318aa0304336a0b83bc907c31729&v=4" width="24" alt="Avatar of M2AML"> M2AML
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#M2AML">Copy rank badge</a><br/>
+			Mamadou A Maiga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali, Bamako</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/Mohamedtoure-moh">
+				<img src="https://avatars.githubusercontent.com/u/139398788?s=72&v=4" width="24" alt="Avatar of Mohamedtoure-moh"> Mohamedtoure-moh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mohamedtoure-moh">Copy rank badge</a><br/>
+			Med
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/ndjibril240-hue">
 				<img src="https://avatars.githubusercontent.com/u/228374136?s=72&v=4" width="24" alt="Avatar of ndjibril240-hue"> ndjibril240-hue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ndjibril240-hue">Copy rank badge</a><br/>
 			Djibril Niang
 		</td>
 		<td>No Company</td>
@@ -2965,11 +3162,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/ykamissoko948-byte">
+				<img src="https://avatars.githubusercontent.com/u/344101054?s=72&v=4" width="24" alt="Avatar of ykamissoko948-byte"> ykamissoko948-byte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ykamissoko948-byte">Copy rank badge</a><br/>
+			Kamissoko service 
+		</td>
+		<td>Kamissoko Services  </td>
+		<td>No Twitter Username</td>
+		<td>Kita,Mali </td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/AmaraKonneh">
+				<img src="https://avatars.githubusercontent.com/u/116845755?s=72&v=4" width="24" alt="Avatar of AmaraKonneh"> AmaraKonneh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AmaraKonneh">Copy rank badge</a><br/>
+			Oumar Kone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali </td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/Alou25">
+				<img src="https://avatars.githubusercontent.com/u/202126770?s=72&u=a2a325689bc724432fe9bf065bc2201427ea2ee0&v=4" width="24" alt="Avatar of Alou25"> Alou25
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Alou25">Copy rank badge</a><br/>
+			ALOU  DEMBELE
+		</td>
+		<td>Idéal Horizon </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/MoriceDev93">
 				<img src="https://avatars.githubusercontent.com/u/306553497?s=72&v=4" width="24" alt="Avatar of MoriceDev93"> MoriceDev93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MoriceDev93">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2978,11 +3214,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/kanealimata">
 				<img src="https://avatars.githubusercontent.com/u/281148551?s=72&u=67148958ed80b7b9da100086b0e406f39643cc1b&v=4" width="24" alt="Avatar of kanealimata"> kanealimata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kanealimata">Copy rank badge</a><br/>
 			Alimata Kane
 		</td>
 		<td>No Company</td>
@@ -2991,12 +3227,12 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>241</td>
 		<td>
-			<a href="https://github.com/user0000111222sey">
-				<img src="https://avatars.githubusercontent.com/u/221637187?s=72&v=4" width="24" alt="Avatar of user0000111222sey"> user0000111222sey
-			</a><br/>
-			Blendgenious
+			<a href="https://github.com/MKgis">
+				<img src="https://avatars.githubusercontent.com/u/77096987?s=72&v=4" width="24" alt="Avatar of MKgis"> MKgis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MKgis">Copy rank badge</a><br/>
+			M_KONE
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3004,11 +3240,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/togobadjoula-droid">
 				<img src="https://avatars.githubusercontent.com/u/265891065?s=72&v=4" width="24" alt="Avatar of togobadjoula-droid"> togobadjoula-droid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#togobadjoula-droid">Copy rank badge</a><br/>
 			Badjoula TOGO
 		</td>
 		<td>No Company</td>
@@ -3017,11 +3253,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/electroniquesogobasolution-design">
+				<img src="https://avatars.githubusercontent.com/u/334590652?s=72&v=4" width="24" alt="Avatar of electroniquesogobasolution-design"> electroniquesogobasolution-design
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#electroniquesogobasolution-design">Copy rank badge</a><br/>
+			Electronique S S
+		</td>
+		<td>Électronique Sogoba Solution <br/></td>
+		<td>No Twitter Username</td>
+		<td>Magnambougou, Bamako, Mali</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/traoremamadoufousseni-design">
 				<img src="https://avatars.githubusercontent.com/u/252673558?s=72&v=4" width="24" alt="Avatar of traoremamadoufousseni-design"> traoremamadoufousseni-design
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#traoremamadoufousseni-design">Copy rank badge</a><br/>
 			Mamadou Traoré Github
 		</td>
 		<td>No Company</td>
@@ -3030,50 +3279,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>245</td>
 		<td>
-			<a href="https://github.com/iamdanajr">
-				<img src="https://avatars.githubusercontent.com/u/46923804?s=72&u=41ba0662b2f246b8fbbc23a3fe4a46577e03c32f&v=4" width="24" alt="Avatar of iamdanajr"> iamdanajr
-			</a><br/>
-			Dana JR✨
+			<a href="https://github.com/Sidaty">
+				<img src="https://avatars.githubusercontent.com/u/16735622?s=72&u=94332639c726e691b5bcdc5437510e115ca404e5&v=4" width="24" alt="Avatar of Sidaty"> Sidaty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Sidaty">Copy rank badge</a><br/>
+			Sidaty Moulaye KOUREICHY
 		</td>
-		<td>No Company</td>
+		<td>Log@ Engineering </td>
+		<td><a href="https://twitter.com/ksidatym">ksidatym</a></td>
+		<td>Bamako, Mali</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/OusmaneFane">
+				<img src="https://avatars.githubusercontent.com/u/111470774?s=72&u=dd1c12c0360ffceceeca031e00b5c961a2d6b59e&v=4" width="24" alt="Avatar of OusmaneFane"> OusmaneFane
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#OusmaneFane">Copy rank badge</a><br/>
+			Ousmane Fané
+		</td>
+		<td>Donitech </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/Mamdy017">
-				<img src="https://avatars.githubusercontent.com/u/107038833?s=72&u=1701da42a516805da128d3447e59f97381ffefd0&v=4" width="24" alt="Avatar of Mamdy017"> Mamdy017
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/Cheikh-T">
-				<img src="https://avatars.githubusercontent.com/u/152331625?s=72&u=7a11e92f6ea9ec6bab471816addbce8001318ec4&v=4" width="24" alt="Avatar of Cheikh-T"> Cheikh-T
-			</a><br/>
-			Cheickna Omar DIAKITE
-		</td>
-		<td>Thl Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Bamako, bco djicoroni ACI</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>229</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/soulsidibe">
 				<img src="https://avatars.githubusercontent.com/u/58305088?s=72&u=75cf7f8b050a8981fa5f457e270621746002a755&v=4" width="24" alt="Avatar of soulsidibe"> soulsidibe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#soulsidibe">Copy rank badge</a><br/>
 			Soulsidibe
 		</td>
 		<td>Batex-ci Bamako/mali </td>
@@ -3082,11 +3318,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/isacdiakit3">
 				<img src="https://avatars.githubusercontent.com/u/140919620?s=72&u=57cd0f8e400b2dc5ba31d401f4496c1a061c197d&v=4" width="24" alt="Avatar of isacdiakit3"> isacdiakit3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#isacdiakit3">Copy rank badge</a><br/>
 			Isac Diakité
 		</td>
 		<td>No Company</td>
@@ -3095,11 +3331,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/MissTraore24">
 				<img src="https://avatars.githubusercontent.com/u/153950303?s=72&u=63b9bd99bae099fbcb18b641ec1df45585c18ce1&v=4" width="24" alt="Avatar of MissTraore24"> MissTraore24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#MissTraore24">Copy rank badge</a><br/>
 			Traore24
 		</td>
 		<td>No Company</td>
@@ -3108,11 +3344,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/cisseauthentic">
 				<img src="https://avatars.githubusercontent.com/u/140886037?s=72&u=4028c2cfd70c1f314fa38bf519945a24104d30bc&v=4" width="24" alt="Avatar of cisseauthentic"> cisseauthentic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#cisseauthentic">Copy rank badge</a><br/>
 			Ibrahim Cisse
 		</td>
 		<td>No Company</td>
@@ -3121,11 +3357,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/mahamadoubmaiga2025-hub">
 				<img src="https://avatars.githubusercontent.com/u/274713532?s=72&v=4" width="24" alt="Avatar of mahamadoubmaiga2025-hub"> mahamadoubmaiga2025-hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mahamadoubmaiga2025-hub">Copy rank badge</a><br/>
 			Mahamadou Boubacar Maiga
 		</td>
 		<td>No Company</td>
@@ -3134,11 +3370,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/SEPTA-DEV">
+				<img src="https://avatars.githubusercontent.com/u/309792300?s=72&u=1b60fc382092e8a0c9db10ab23d102d08c135cf8&v=4" width="24" alt="Avatar of SEPTA-DEV"> SEPTA-DEV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#SEPTA-DEV">Copy rank badge</a><br/>
+			SEPTA
+		</td>
+		<td>Septa </td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/baldemaiga99-jpg">
+				<img src="https://avatars.githubusercontent.com/u/337558863?s=72&v=4" width="24" alt="Avatar of baldemaiga99-jpg"> baldemaiga99-jpg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#baldemaiga99-jpg">Copy rank badge</a><br/>
+			Balde Maïga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/kamatesh">
+				<img src="https://avatars.githubusercontent.com/u/339829394?s=72&v=4" width="24" alt="Avatar of kamatesh"> kamatesh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kamatesh">Copy rank badge</a><br/>
+			⁸Dessery kamate 
+		</td>
+		<td>Kamate Shop  </td>
+		<td>No Twitter Username</td>
+		<td>Bamako </td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/AminataTAMBADOU">
 				<img src="https://avatars.githubusercontent.com/u/72511312?s=72&u=72d2a5bc632fe585c293ea2dfc845bec80d40c75&v=4" width="24" alt="Avatar of AminataTAMBADOU"> AminataTAMBADOU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AminataTAMBADOU">Copy rank badge</a><br/>
 			Aminata TAMBADOU
 		</td>
 		<td>No Company</td>
@@ -3147,11 +3422,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/ismoh10">
 				<img src="https://avatars.githubusercontent.com/u/317719279?s=72&u=041bb16deb23377fdf708be9f0741702b3e73bc4&v=4" width="24" alt="Avatar of ismoh10"> ismoh10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ismoh10">Copy rank badge</a><br/>
 			SPORTLINK
 		</td>
 		<td>Sportlink </td>
@@ -3160,24 +3435,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>257</td>
 		<td>
-			<a href="https://github.com/diakitekabine38-pixel">
-				<img src="https://avatars.githubusercontent.com/u/230422099?s=72&v=4" width="24" alt="Avatar of diakitekabine38-pixel"> diakitekabine38-pixel
-			</a><br/>
-			Cheick B Diakité
+			<a href="https://github.com/DTECHT223">
+				<img src="https://avatars.githubusercontent.com/u/217672944?s=72&u=820a8e6f040256f67829130b7009ea4be7569c63&v=4" width="24" alt="Avatar of DTECHT223"> DTECHT223
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#DTECHT223">Copy rank badge</a><br/>
+			Sory Ibrahim Diarra
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bamako</td>
+		<td>Mali</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Ismail2850">
 				<img src="https://avatars.githubusercontent.com/u/169469212?s=72&v=4" width="24" alt="Avatar of Ismail2850"> Ismail2850
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ismail2850">Copy rank badge</a><br/>
 			Ismaila TRAORE
 		</td>
 		<td>No Company</td>
@@ -3186,11 +3461,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/geekdjenika">
+				<img src="https://avatars.githubusercontent.com/u/75429330?s=72&u=da1eba0021562889a24ba095bd91aaa38d7b44d5&v=4" width="24" alt="Avatar of geekdjenika"> geekdjenika
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#geekdjenika">Copy rank badge</a><br/>
+			Aboubacar DJENIKA
+		</td>
+		<td>@thltechnologies  </td>
+		<td><a href="https://twitter.com/geekdjenika">geekdjenika</a></td>
+		<td>Bamako</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/RootAba">
 				<img src="https://avatars.githubusercontent.com/u/94965868?s=72&v=4" width="24" alt="Avatar of RootAba"> RootAba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#RootAba">Copy rank badge</a><br/>
 			Abasse Maiga
 		</td>
 		<td>Younglabs </td>
@@ -3199,24 +3487,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>261</td>
 		<td>
-			<a href="https://github.com/OusmaneFane">
-				<img src="https://avatars.githubusercontent.com/u/111470774?s=72&u=dd1c12c0360ffceceeca031e00b5c961a2d6b59e&v=4" width="24" alt="Avatar of OusmaneFane"> OusmaneFane
-			</a><br/>
-			Ousmane Fané
+			<a href="https://github.com/hedycarter">
+				<img src="https://avatars.githubusercontent.com/u/80369146?s=72&u=c9e37a6115a512af6929c52020cf4c3a696a8a7d&v=4" width="24" alt="Avatar of hedycarter"> hedycarter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#hedycarter">Copy rank badge</a><br/>
+			Hady Fofana
 		</td>
-		<td>Donitech </td>
+		<td>Goodcoding </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/Mohamedelbechir">
 				<img src="https://avatars.githubusercontent.com/u/52451499?s=72&u=a31a795d5fea8aeb2b01f456c600fd60e4c17289&v=4" width="24" alt="Avatar of Mohamedelbechir"> Mohamedelbechir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mohamedelbechir">Copy rank badge</a><br/>
 			Mohamed El Béchir
 		</td>
 		<td>No Company</td>
@@ -3225,37 +3513,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>263</td>
 		<td>
-			<a href="https://github.com/SEPTA-DEV">
-				<img src="https://avatars.githubusercontent.com/u/309792300?s=72&u=1b60fc382092e8a0c9db10ab23d102d08c135cf8&v=4" width="24" alt="Avatar of SEPTA-DEV"> SEPTA-DEV
-			</a><br/>
-			SEPTA
+			<a href="https://github.com/elhdiagne3">
+				<img src="https://avatars.githubusercontent.com/u/117784772?s=72&u=6585b6f8315390e69a0f708b88920941eaa242b2&v=4" width="24" alt="Avatar of elhdiagne3"> elhdiagne3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#elhdiagne3">Copy rank badge</a><br/>
+			Elhadji
 		</td>
-		<td>Septa </td>
+		<td>Orange </td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
+		<td>Bamako/Mali</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/Mohamedtoure-moh">
-				<img src="https://avatars.githubusercontent.com/u/139398788?s=72&v=4" width="24" alt="Avatar of Mohamedtoure-moh"> Mohamedtoure-moh
-			</a><br/>
-			Med
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>243</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/AlyibnAlpha">
 				<img src="https://avatars.githubusercontent.com/u/159886563?s=72&u=9ef8223bd289e1b9b00e6a005456be59b9237005&v=4" width="24" alt="Avatar of AlyibnAlpha"> AlyibnAlpha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AlyibnAlpha">Copy rank badge</a><br/>
 			Aly Yahiya Diallo
 		</td>
 		<td>Saer-emploi </td>
@@ -3264,11 +3539,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/ITC14">
+				<img src="https://avatars.githubusercontent.com/u/99439583?s=72&u=7319ff41b0e577f531b67547917fe6220220186b&v=4" width="24" alt="Avatar of ITC14"> ITC14
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ITC14">Copy rank badge</a><br/>
+			CAMARA I T
+		</td>
+		<td>Utc Mali </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/Ikone75">
 				<img src="https://avatars.githubusercontent.com/u/175738939?s=72&u=b331f6385c38ce792103a5853e2bd2d9f1382b3c&v=4" width="24" alt="Avatar of Ikone75"> Ikone75
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ikone75">Copy rank badge</a><br/>
 			KONE ISSOUMAILA
 		</td>
 		<td>Gha Technologie Sarl </td>
@@ -3277,11 +3565,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/izidiamond7717-ops">
 				<img src="https://avatars.githubusercontent.com/u/225492225?s=72&v=4" width="24" alt="Avatar of izidiamond7717-ops"> izidiamond7717-ops
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#izidiamond7717-ops">Copy rank badge</a><br/>
 			Bms Électronique 
 		</td>
 		<td>Bourama Cire Fah Makadji<br/>Dit<br/>Mory<br/></td>
@@ -3290,11 +3578,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/siskoai">
 				<img src="https://avatars.githubusercontent.com/u/293156549?s=72&u=185a9187427908d3e54fc4009320629739baa994&v=4" width="24" alt="Avatar of siskoai"> siskoai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#siskoai">Copy rank badge</a><br/>
 			SISKO
 		</td>
 		<td>Sisko </td>
@@ -3303,11 +3591,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/samuelmodebusinessman-droid">
 				<img src="https://avatars.githubusercontent.com/u/227568200?s=72&u=9f2827e66353dfd91a8729a2654845494349a60d&v=4" width="24" alt="Avatar of samuelmodebusinessman-droid"> samuelmodebusinessman-droid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#samuelmodebusinessman-droid">Copy rank badge</a><br/>
 			Samuel InBusiness
 		</td>
 		<td>No Company</td>
@@ -3316,11 +3604,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/lassineismaila-afk">
 				<img src="https://avatars.githubusercontent.com/u/281360252?s=72&v=4" width="24" alt="Avatar of lassineismaila-afk"> lassineismaila-afk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#lassineismaila-afk">Copy rank badge</a><br/>
 			Lassine Ismaila Ltd Traore
 		</td>
 		<td>Mt4 Mt5 Ltd Traore<br/>Lassine<br/>Ismaila<br/><br/></td>
@@ -3329,11 +3617,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/Zezelamar">
 				<img src="https://avatars.githubusercontent.com/u/88811068?s=72&v=4" width="24" alt="Avatar of Zezelamar"> Zezelamar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Zezelamar">Copy rank badge</a><br/>
 			Zeze Lamar
 		</td>
 		<td>No Company</td>
@@ -3342,11 +3630,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/berthesory">
 				<img src="https://avatars.githubusercontent.com/u/188729124?s=72&v=4" width="24" alt="Avatar of berthesory"> berthesory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#berthesory">Copy rank badge</a><br/>
 			Sory
 		</td>
 		<td>No Company</td>
@@ -3355,11 +3643,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/Black-Ezek">
-				<img src="https://avatars.githubusercontent.com/u/197465661?s=72&v=4" width="24" alt="Avatar of Black-Ezek"> Black-Ezek
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/197465661?s=72&u=7abc8ccc965b2e3d769a933277591a74743fe05d&v=4" width="24" alt="Avatar of Black-Ezek"> Black-Ezek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Black-Ezek">Copy rank badge</a><br/>
 			Ezekiel Abenama Yamba SAIDU
 		</td>
 		<td>No Company</td>
@@ -3368,11 +3656,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/samakedramane176-code">
 				<img src="https://avatars.githubusercontent.com/u/317528799?s=72&u=374bcd6825829c9b3fa96b161482aafeab320323&v=4" width="24" alt="Avatar of samakedramane176-code"> samakedramane176-code
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#samakedramane176-code">Copy rank badge</a><br/>
 			Dramane Samaké
 		</td>
 		<td>App Ai </td>
@@ -3381,24 +3669,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>275</td>
 		<td>
-			<a href="https://github.com/AmpinrinSagara">
-				<img src="https://avatars.githubusercontent.com/u/179742805?s=72&u=e235fcf23b49289ce61127f68d4ddfaeb9c38588&v=4" width="24" alt="Avatar of AmpinrinSagara"> AmpinrinSagara
-			</a><br/>
-			Ampinrin Sagara 
+			<a href="https://github.com/oumaroug00-jpg">
+				<img src="https://avatars.githubusercontent.com/u/269220149?s=72&v=4" width="24" alt="Avatar of oumaroug00-jpg"> oumaroug00-jpg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#oumaroug00-jpg">Copy rank badge</a><br/>
+			GUINDO
 		</td>
-		<td>Université Des Sciences, Des<br/>Techniques<br/>Et<br/>Des<br/>Technologies<br/>De<br/>Bamako<br/>(usttb)<br/></td>
+		<td>Ende Tech Solution </td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali </td>
+		<td>BAMAKO</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/ccheicktidiane70-tech">
 				<img src="https://avatars.githubusercontent.com/u/271497277?s=72&v=4" width="24" alt="Avatar of ccheicktidiane70-tech"> ccheicktidiane70-tech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ccheicktidiane70-tech">Copy rank badge</a><br/>
 			Cheick Tidiane
 		</td>
 		<td>No Company</td>
@@ -3407,11 +3695,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/Lookingfor00">
 				<img src="https://avatars.githubusercontent.com/u/74411135?s=72&u=ab8a7e4c6500ab7f1e058755215e500e82f0821a&v=4" width="24" alt="Avatar of Lookingfor00"> Lookingfor00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Lookingfor00">Copy rank badge</a><br/>
 			Allassane Dicko
 		</td>
 		<td>Microverse </td>
@@ -3420,24 +3708,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/sbore669">
-				<img src="https://avatars.githubusercontent.com/u/107039494?s=72&u=c192da825a641cd709c722c1df225378af1efa21&v=4" width="24" alt="Avatar of sbore669"> sbore669
-			</a><br/>
-			Souleymane Bore
-		</td>
-		<td>4hours </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>257</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/munjata">
 				<img src="https://avatars.githubusercontent.com/u/39881583?s=72&v=4" width="24" alt="Avatar of munjata"> munjata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#munjata">Copy rank badge</a><br/>
 			Munjata KEITA
 		</td>
 		<td>Sualasoft </td>
@@ -3446,24 +3721,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/aSEMEGA">
-				<img src="https://avatars.githubusercontent.com/u/105459490?s=72&v=4" width="24" alt="Avatar of aSEMEGA"> aSEMEGA
-			</a><br/>
-			Aliou Semega
+			<a href="https://github.com/amaduasko">
+				<img src="https://avatars.githubusercontent.com/u/29061622?s=72&u=afbff0d87e0af3e5abcbc37cb755b51456913625&v=4" width="24" alt="Avatar of amaduasko"> amaduasko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#amaduasko">Copy rank badge</a><br/>
+			Amadu Askofare
 		</td>
-		<td>No Company</td>
+		<td>Askodev </td>
+		<td><a href="https://twitter.com/AmaduAskofare">AmaduAskofare</a></td>
+		<td>Mali, Bamako</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/sbore669">
+				<img src="https://avatars.githubusercontent.com/u/107039494?s=72&u=c192da825a641cd709c722c1df225378af1efa21&v=4" width="24" alt="Avatar of sbore669"> sbore669
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sbore669">Copy rank badge</a><br/>
+			Souleymane Bore
+		</td>
+		<td>4hours </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/Mooussa">
 				<img src="https://avatars.githubusercontent.com/u/90362868?s=72&u=215c093ba3b556b78354b008dc07af22b677b8f0&v=4" width="24" alt="Avatar of Mooussa"> Mooussa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mooussa">Copy rank badge</a><br/>
 			Moussa Coulibaly
 		</td>
 		<td>No Company</td>
@@ -3472,11 +3760,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/aSEMEGA">
+				<img src="https://avatars.githubusercontent.com/u/105459490?s=72&v=4" width="24" alt="Avatar of aSEMEGA"> aSEMEGA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#aSEMEGA">Copy rank badge</a><br/>
+			Aliou Semega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/Malamine-Diabira">
+				<img src="https://avatars.githubusercontent.com/u/112198746?s=72&v=4" width="24" alt="Avatar of Malamine-Diabira"> Malamine-Diabira
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Malamine-Diabira">Copy rank badge</a><br/>
+			Malamine Diabira
+		</td>
+		<td>Sabunyuman Medical Office </td>
+		<td>No Twitter Username</td>
+		<td>Bamako (Mali)</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/sic-sic">
 				<img src="https://avatars.githubusercontent.com/u/14206274?s=72&u=f53bf35d1bab934f08e54f090f6e67dda7f9b535&v=4" width="24" alt="Avatar of sic-sic"> sic-sic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sic-sic">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3485,11 +3799,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/aboucodeur">
 				<img src="https://avatars.githubusercontent.com/u/119354410?s=72&u=3be41dd76563fc0b5438cd38b2779edc425488cd&v=4" width="24" alt="Avatar of aboucodeur"> aboucodeur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#aboucodeur">Copy rank badge</a><br/>
 			Aboubacar Barry
 		</td>
 		<td>No Company</td>
@@ -3498,11 +3812,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/moussasamina">
 				<img src="https://avatars.githubusercontent.com/u/144951537?s=72&u=34177a5a0cfc99ec516ac499dd8b5a46d1aa4c89&v=4" width="24" alt="Avatar of moussasamina"> moussasamina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#moussasamina">Copy rank badge</a><br/>
 			Moussa Samina
 		</td>
 		<td>@samina </td>
@@ -3511,50 +3825,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/Modibo">
-				<img src="https://avatars.githubusercontent.com/u/13900678?s=72&u=0e8b786ccd0d025d822a879e0ea4cd7a2f57d11c&v=4" width="24" alt="Avatar of Modibo"> Modibo
-			</a><br/>
-			Modibo Coulibaly
-		</td>
-		<td>Pharmacist/biologist At Hôpital Sominé<br/>Dolo<br/>De<br/>Mopti<br/></td>
-		<td>No Twitter Username</td>
-		<td>Mali West Africa</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/BoubacarBrehimaCoulibaly">
-				<img src="https://avatars.githubusercontent.com/u/226677458?s=72&v=4" width="24" alt="Avatar of BoubacarBrehimaCoulibaly"> BoubacarBrehimaCoulibaly
-			</a><br/>
-			Boubacar Brehima Coulibaly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/journalechosmedias-a11y">
-				<img src="https://avatars.githubusercontent.com/u/232718736?s=72&v=4" width="24" alt="Avatar of journalechosmedias-a11y"> journalechosmedias-a11y
-			</a><br/>
-			Groupe ÉchosMédias SARL 
-		</td>
-		<td>Groupe Échosmédias Sarl <br/></td>
-		<td>No Twitter Username</td>
-		<td>Magnambougou projet Rue:411, Porte:598 Bamako </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>266</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/cameleonRuoi">
 				<img src="https://avatars.githubusercontent.com/u/37268998?s=72&u=f4d1aa1e11967f6aade0d83acdea9ef09a45a5b7&v=4" width="24" alt="Avatar of cameleonRuoi"> cameleonRuoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#cameleonRuoi">Copy rank badge</a><br/>
 			Moussa
 		</td>
 		<td>Aos Solutions </td>
@@ -3563,24 +3838,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/ITC14">
-				<img src="https://avatars.githubusercontent.com/u/99439583?s=72&u=7319ff41b0e577f531b67547917fe6220220186b&v=4" width="24" alt="Avatar of ITC14"> ITC14
-			</a><br/>
-			CAMARA I T
-		</td>
-		<td>Utc Mali </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>268</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/senifall">
 				<img src="https://avatars.githubusercontent.com/u/60049938?s=72&u=591f7415f30e9f6ffe960d35767cc9ce5f9466f8&v=4" width="24" alt="Avatar of senifall"> senifall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#senifall">Copy rank badge</a><br/>
 			Seni
 		</td>
 		<td>Seni </td>
@@ -3589,11 +3851,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/Panga-az">
 				<img src="https://avatars.githubusercontent.com/u/70529525?s=72&v=4" width="24" alt="Avatar of Panga-az"> Panga-az
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Panga-az">Copy rank badge</a><br/>
 			Panga azazia 
 		</td>
 		<td>Kim@yazo </td>
@@ -3602,11 +3864,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/Ibrahimacisse">
 				<img src="https://avatars.githubusercontent.com/u/95360517?s=72&u=4a6c99df0c0b502d1f46f5691709db7868b59d38&v=4" width="24" alt="Avatar of Ibrahimacisse"> Ibrahimacisse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ibrahimacisse">Copy rank badge</a><br/>
 			CISSE Ibrahima
 		</td>
 		<td>Cisse Innovation </td>
@@ -3615,11 +3877,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/ismeilamohamed1995-rgb">
+				<img src="https://avatars.githubusercontent.com/u/226184790?s=72&u=f1207f3a130a6fd963dee4a8badd54661925750f&v=4" width="24" alt="Avatar of ismeilamohamed1995-rgb"> ismeilamohamed1995-rgb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ismeilamohamed1995-rgb">Copy rank badge</a><br/>
+			ISS-DataScientist
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/yorke34mv4">
 				<img src="https://avatars.githubusercontent.com/u/328874722?s=72&v=4" width="24" alt="Avatar of yorke34mv4"> yorke34mv4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#yorke34mv4">Copy rank badge</a><br/>
 			Ethan Boubacar
 		</td>
 		<td>No Company</td>
@@ -3628,11 +3903,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/coulibalyruth453-ai">
 				<img src="https://avatars.githubusercontent.com/u/248752648?s=72&v=4" width="24" alt="Avatar of coulibalyruth453-ai"> coulibalyruth453-ai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#coulibalyruth453-ai">Copy rank badge</a><br/>
 			Ruth Korotoumou coulibaly
 		</td>
 		<td>No Company</td>
@@ -3641,11 +3916,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/bigmarketgroup">
 				<img src="https://avatars.githubusercontent.com/u/203855001?s=72&u=149e9e6148cc120b86b9ffb26292b85a3dbe9774&v=4" width="24" alt="Avatar of bigmarketgroup"> bigmarketgroup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#bigmarketgroup">Copy rank badge</a><br/>
 			Big Market
 		</td>
 		<td>Big Market Group </td>
@@ -3654,11 +3929,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/hollis87gtp">
 				<img src="https://avatars.githubusercontent.com/u/328874556?s=72&v=4" width="24" alt="Avatar of hollis87gtp"> hollis87gtp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#hollis87gtp">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3667,11 +3942,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/Oury-03">
 				<img src="https://avatars.githubusercontent.com/u/273081093?s=72&v=4" width="24" alt="Avatar of Oury-03"> Oury-03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Oury-03">Copy rank badge</a><br/>
 			Oury
 		</td>
 		<td>No Company</td>
@@ -3680,11 +3955,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/ibrahimfkeita-bit">
 				<img src="https://avatars.githubusercontent.com/u/333077923?s=72&u=cf6ef3427b74f4a6bd2c21e14aa1dff68129878e&v=4" width="24" alt="Avatar of ibrahimfkeita-bit"> ibrahimfkeita-bit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ibrahimfkeita-bit">Copy rank badge</a><br/>
 			ibiKeita
 		</td>
 		<td>Bdm </td>
@@ -3693,24 +3968,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/diakoboulon">
-				<img src="https://avatars.githubusercontent.com/u/236439580?s=72&v=4" width="24" alt="Avatar of diakoboulon"> diakoboulon
-			</a><br/>
-			No Name
-		</td>
-		<td>Diakoboulon </td>
-		<td>No Twitter Username</td>
-		<td>Mali/Bamako</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>278</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/AWD-Mali">
 				<img src="https://avatars.githubusercontent.com/u/243571478?s=72&u=b6ec0f7b5b2700229ae7d3f68a0c04c6d3e99dd6&v=4" width="24" alt="Avatar of AWD-Mali"> AWD-Mali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AWD-Mali">Copy rank badge</a><br/>
 			African Wealths Development
 		</td>
 		<td>African Wealths Development </td>
@@ -3719,37 +3981,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>299</td>
 		<td>
-			<a href="https://github.com/silas-gable7h587">
-				<img src="https://avatars.githubusercontent.com/u/328833288?s=72&v=4" width="24" alt="Avatar of silas-gable7h587"> silas-gable7h587
-			</a><br/>
-			Boubakar Diallo
+			<a href="https://github.com/journalechosmedias-a11y">
+				<img src="https://avatars.githubusercontent.com/u/232718736?s=72&v=4" width="24" alt="Avatar of journalechosmedias-a11y"> journalechosmedias-a11y
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#journalechosmedias-a11y">Copy rank badge</a><br/>
+			Groupe ÉchosMédias SARL 
 		</td>
-		<td>No Company</td>
+		<td>Groupe Échosmédias Sarl <br/></td>
 		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
+		<td>Magnambougou projet Rue:411, Porte:598 Bamako </td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>300</td>
 		<td>
-			<a href="https://github.com/moh610">
-				<img src="https://avatars.githubusercontent.com/u/152412637?s=72&v=4" width="24" alt="Avatar of moh610"> moh610
-			</a><br/>
+			<a href="https://github.com/lsamate">
+				<img src="https://avatars.githubusercontent.com/u/277793607?s=72&u=81ffcf1f56f627bdb740f7ac3b52ae4cf44e5088&v=4" width="24" alt="Avatar of lsamate"> lsamate
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#lsamate">Copy rank badge</a><br/>
 			No Name
 		</td>
-		<td>No Company</td>
+		<td>Independent </td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
+		<td>Bamako</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/KingBahba">
 				<img src="https://avatars.githubusercontent.com/u/222395056?s=72&u=17c2d1fc5f58163b1d56aaa0d35fca975cda7079&v=4" width="24" alt="Avatar of KingBahba"> KingBahba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#KingBahba">Copy rank badge</a><br/>
 			Tiger
 		</td>
 		<td>Fsut </td>
@@ -3758,11 +4020,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/ThePrimeSam">
 				<img src="https://avatars.githubusercontent.com/u/180986440?s=72&u=ac4a9e66ad984cc6a7bc4105d2f0056750e8e5e9&v=4" width="24" alt="Avatar of ThePrimeSam"> ThePrimeSam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ThePrimeSam">Copy rank badge</a><br/>
 			SAM
 		</td>
 		<td>No Company</td>
@@ -3771,11 +4033,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/nashzm5zvmn">
 				<img src="https://avatars.githubusercontent.com/u/332567364?s=72&v=4" width="24" alt="Avatar of nashzm5zvmn"> nashzm5zvmn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#nashzm5zvmn">Copy rank badge</a><br/>
 			Boubakar Diallo
 		</td>
 		<td>No Company</td>
@@ -3784,11 +4046,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Isaasanogo">
 				<img src="https://avatars.githubusercontent.com/u/108606698?s=72&v=4" width="24" alt="Avatar of Isaasanogo"> Isaasanogo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Isaasanogo">Copy rank badge</a><br/>
 			Sanogo Issa
 		</td>
 		<td>No Company</td>
@@ -3797,24 +4059,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>305</td>
 		<td>
-			<a href="https://github.com/Sidaty">
-				<img src="https://avatars.githubusercontent.com/u/16735622?s=72&u=94332639c726e691b5bcdc5437510e115ca404e5&v=4" width="24" alt="Avatar of Sidaty"> Sidaty
-			</a><br/>
-			Sidaty Moulaye KOUREICHY
+			<a href="https://github.com/BalloIbrahima">
+				<img src="https://avatars.githubusercontent.com/u/57444150?s=72&u=bcaa506f17eeb247cda98e731ef73dfc62370dd6&v=4" width="24" alt="Avatar of BalloIbrahima"> BalloIbrahima
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BalloIbrahima">Copy rank badge</a><br/>
+			Ballo Ibrahima
 		</td>
-		<td>Log@ Engineering </td>
-		<td><a href="https://twitter.com/ksidatym">ksidatym</a></td>
-		<td>Bamako, Mali</td>
+		<td>4hours </td>
+		<td><a href="https://twitter.com/BalloIbrahima01">BalloIbrahima01</a></td>
+		<td>Mali, Bamako</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/madymadesc">
+				<img src="https://avatars.githubusercontent.com/u/69767147?s=72&u=fc113ef161704ca4c6aa2d6efdabebb49f2d20f0&v=4" width="24" alt="Avatar of madymadesc"> madymadesc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#madymadesc">Copy rank badge</a><br/>
+			Mady CAMARA
+		</td>
+		<td>Surface Web Bouctou </td>
+		<td><a href="https://twitter.com/MadyMades">MadyMades</a></td>
+		<td>Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/daouSam">
 				<img src="https://avatars.githubusercontent.com/u/88547071?s=72&u=8ffdf8df910884733208f4f11281d438d5dcdade&v=4" width="24" alt="Avatar of daouSam"> daouSam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#daouSam">Copy rank badge</a><br/>
 			Samba Daou
 		</td>
 		<td>No Company</td>
@@ -3823,11 +4098,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/AmadouDiadie95">
 				<img src="https://avatars.githubusercontent.com/u/96771479?s=72&u=5f76a799813d465cffcb988d4005ba340c2f204e&v=4" width="24" alt="Avatar of AmadouDiadie95"> AmadouDiadie95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AmadouDiadie95">Copy rank badge</a><br/>
 			Amadou Diadie Coulibaly
 		</td>
 		<td>Doninya Inc. </td>
@@ -3836,24 +4111,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/AboubacrineBah">
-				<img src="https://avatars.githubusercontent.com/u/99566563?s=72&u=f5857740b11d47a0f4ac094189f75259e46669bd&v=4" width="24" alt="Avatar of AboubacrineBah"> AboubacrineBah
-			</a><br/>
-			BAH Aboubacrine 
-		</td>
-		<td>Conception Web Mali @nexawebmali<br/></td>
-		<td>No Twitter Username</td>
-		<td>MALI, Bamako, Faladiè</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>289</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/Barou93">
 				<img src="https://avatars.githubusercontent.com/u/57489133?s=72&u=b67cf55ecd32dd06a484448f52e990a952152388&v=4" width="24" alt="Avatar of Barou93"> Barou93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Barou93">Copy rank badge</a><br/>
 			Oumar MAURET
 		</td>
 		<td>@maubile </td>
@@ -3862,11 +4124,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/kredjocodeur">
 				<img src="https://avatars.githubusercontent.com/u/87990726?s=72&u=2d996733b8c2e30c17459ee21d25270eb4c9c00e&v=4" width="24" alt="Avatar of kredjocodeur"> kredjocodeur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kredjocodeur">Copy rank badge</a><br/>
 			Mahamadou Kredjo Ouattara
 		</td>
 		<td>No Company</td>
@@ -3875,11 +4137,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/zoualmamy">
 				<img src="https://avatars.githubusercontent.com/u/46712111?s=72&u=e5da728de36e3d6fdf8187c9efff8a3c3b7bc5e3&v=4" width="24" alt="Avatar of zoualmamy"> zoualmamy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#zoualmamy">Copy rank badge</a><br/>
 			Zoumana Almamy Coulibaly
 		</td>
 		<td>@loga-engineering  </td>
@@ -3888,24 +4150,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/arounas3">
-				<img src="https://avatars.githubusercontent.com/u/95429373?s=72&v=4" width="24" alt="Avatar of arounas3"> arounas3
-			</a><br/>
-			Arouna Sangaré
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>293</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/yalcouyemamoutou-hub">
 				<img src="https://avatars.githubusercontent.com/u/293155034?s=72&u=433137ae862d00315f01310f746109743df19445&v=4" width="24" alt="Avatar of yalcouyemamoutou-hub"> yalcouyemamoutou-hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#yalcouyemamoutou-hub">Copy rank badge</a><br/>
 			Yalcouyé Mamoutou
 		</td>
 		<td>Pic-technology </td>
@@ -3914,11 +4163,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/arounas3">
+				<img src="https://avatars.githubusercontent.com/u/95429373?s=72&v=4" width="24" alt="Avatar of arounas3"> arounas3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#arounas3">Copy rank badge</a><br/>
+			Arouna Sangaré
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/bahaly">
 				<img src="https://avatars.githubusercontent.com/u/50265605?s=72&u=d14b68d63601d49196af41a9ee26ad1d616c55df&v=4" width="24" alt="Avatar of bahaly"> bahaly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#bahaly">Copy rank badge</a><br/>
 			Bah Aly
 		</td>
 		<td>01studio </td>
@@ -3927,24 +4189,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/kondjiri">
-				<img src="https://avatars.githubusercontent.com/u/53798371?s=72&u=1cdcdc542cd1d4e4aae08ec49d3d7e2b59395984&v=4" width="24" alt="Avatar of kondjiri"> kondjiri
-			</a><br/>
-			Kondjiri Fané
-		</td>
-		<td>@caisff </td>
-		<td><a href="https://twitter.com/FKondjiri">FKondjiri</a></td>
-		<td>Mali-Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>296</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/lukekone">
 				<img src="https://avatars.githubusercontent.com/u/15522642?s=72&u=f828b65c0fdc577e28b8cd480ffd5dab09d2f00b&v=4" width="24" alt="Avatar of lukekone"> lukekone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#lukekone">Copy rank badge</a><br/>
 			Luke Tamou Koné
 		</td>
 		<td>We're Solution </td>
@@ -3953,11 +4202,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/Mamadou-Coulibaly">
+				<img src="https://avatars.githubusercontent.com/u/147711140?s=72&v=4" width="24" alt="Avatar of Mamadou-Coulibaly"> Mamadou-Coulibaly
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Mamadou-Coulibaly">Copy rank badge</a><br/>
+			Mamadou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/BoubacarBrehimaCoulibaly">
+				<img src="https://avatars.githubusercontent.com/u/226677458?s=72&v=4" width="24" alt="Avatar of BoubacarBrehimaCoulibaly"> BoubacarBrehimaCoulibaly
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#BoubacarBrehimaCoulibaly">Copy rank badge</a><br/>
+			Boubacar Brehima Coulibaly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/Abdoulayekonate">
 				<img src="https://avatars.githubusercontent.com/u/99149755?s=72&v=4" width="24" alt="Avatar of Abdoulayekonate"> Abdoulayekonate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Abdoulayekonate">Copy rank badge</a><br/>
 			Abdoulaye konate
 		</td>
 		<td>Konatech </td>
@@ -3966,50 +4241,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>298</td>
-		<td>
-			<a href="https://github.com/techzenithoff">
-				<img src="https://avatars.githubusercontent.com/u/166505925?s=72&v=4" width="24" alt="Avatar of techzenithoff"> techzenithoff
-			</a><br/>
-			TechZenith Technologies SARL
-		</td>
-		<td>Techzenith </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
-			<a href="https://github.com/boubacardoumbia">
-				<img src="https://avatars.githubusercontent.com/u/122408867?s=72&v=4" width="24" alt="Avatar of boubacardoumbia"> boubacardoumbia
-			</a><br/>
-			Boubacar Doumbia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/fdiallo7468-hub">
-				<img src="https://avatars.githubusercontent.com/u/251083176?s=72&v=4" width="24" alt="Avatar of fdiallo7468-hub"> fdiallo7468-hub
-			</a><br/>
-			Fousseyni DIALLO 
-		</td>
-		<td>Nanosoft Tech </td>
-		<td>No Twitter Username</td>
-		<td>Bamako - Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>301</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/mamanmintmohamed999-bot">
 				<img src="https://avatars.githubusercontent.com/u/245746027?s=72&v=4" width="24" alt="Avatar of mamanmintmohamed999-bot"> mamanmintmohamed999-bot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#mamanmintmohamed999-bot">Copy rank badge</a><br/>
 			Adiza 
 		</td>
 		<td>Miint  </td>
@@ -4018,11 +4254,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/WINNER-2025">
 				<img src="https://avatars.githubusercontent.com/u/275974475?s=72&v=4" width="24" alt="Avatar of WINNER-2025"> WINNER-2025
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#WINNER-2025">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4031,11 +4267,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/DrCOT711">
 				<img src="https://avatars.githubusercontent.com/u/284485399?s=72&u=dc22c6ab3e838dbd14b38cb237960268e6afd28d&v=4" width="24" alt="Avatar of DrCOT711"> DrCOT711
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#DrCOT711">Copy rank badge</a><br/>
 			Cherif Ousmane TRAORE
 		</td>
 		<td>Drcot I&ca | Donihub<br/></td>
@@ -4044,11 +4280,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/abrahampoudiougo79-collab">
 				<img src="https://avatars.githubusercontent.com/u/328354133?s=72&u=460e7a0d5dcf1ff669b2e707c6e55682fad25c81&v=4" width="24" alt="Avatar of abrahampoudiougo79-collab"> abrahampoudiougo79-collab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abrahampoudiougo79-collab">Copy rank badge</a><br/>
 			Abraham POUDIOUGO
 		</td>
 		<td>University Of Sciences Techniques<br/>And<br/>Technoogy<br/>Of<br/>Bamako/<br/>Hospital<br/>Gabriel<br/>Toure<br/><br/></td>
@@ -4057,11 +4293,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/syncoreprojet-ship-it">
 				<img src="https://avatars.githubusercontent.com/u/252722349?s=72&u=49be9392e384b38afc0f364d112aa7f97ad7697c&v=4" width="24" alt="Avatar of syncoreprojet-ship-it"> syncoreprojet-ship-it
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#syncoreprojet-ship-it">Copy rank badge</a><br/>
 			SYNCORE
 		</td>
 		<td>Syncore </td>
@@ -4070,11 +4306,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/agnesokonate-commits">
+				<img src="https://avatars.githubusercontent.com/u/344507156?s=72&v=4" width="24" alt="Avatar of agnesokonate-commits"> agnesokonate-commits
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#agnesokonate-commits">Copy rank badge</a><br/>
+			Agnes Olivier KONATE
+		</td>
+		<td>Institut Freedom </td>
+		<td>No Twitter Username</td>
+		<td>Hamdallaye ACI2000 , Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/Ichaka21">
 				<img src="https://avatars.githubusercontent.com/u/296673460?s=72&u=92f949648756dd8a0efd722647f89b186fa225aa&v=4" width="24" alt="Avatar of Ichaka21"> Ichaka21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#Ichaka21">Copy rank badge</a><br/>
 			Ichaka DIARRA
 		</td>
 		<td>Itsm </td>
@@ -4083,11 +4332,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/PopyJr">
 				<img src="https://avatars.githubusercontent.com/u/330922606?s=72&u=0a03c55cf1beae0c3640950b660c2e36c9ee4b20&v=4" width="24" alt="Avatar of PopyJr"> PopyJr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#PopyJr">Copy rank badge</a><br/>
 			Drym X
 		</td>
 		<td>No Company</td>
@@ -4096,11 +4345,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/dev-dds-teh">
 				<img src="https://avatars.githubusercontent.com/u/263982843?s=72&v=4" width="24" alt="Avatar of dev-dds-teh"> dev-dds-teh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#dev-dds-teh">Copy rank badge</a><br/>
 			dev-dds-tech
 		</td>
 		<td>Diarra Digital Solutions </td>
@@ -4109,11 +4358,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/karimkonate037-cloud">
 				<img src="https://avatars.githubusercontent.com/u/272384215?s=72&v=4" width="24" alt="Avatar of karimkonate037-cloud"> karimkonate037-cloud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#karimkonate037-cloud">Copy rank badge</a><br/>
 			Konate Karim
 		</td>
 		<td>Cmkb </td>
@@ -4122,11 +4371,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/liltiekt-droid">
 				<img src="https://avatars.githubusercontent.com/u/289054900?s=72&v=4" width="24" alt="Avatar of liltiekt-droid"> liltiekt-droid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#liltiekt-droid">Copy rank badge</a><br/>
 			Ismaël fofana
 		</td>
 		<td>Musique-time </td>
@@ -4135,24 +4384,37 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>330</td>
 		<td>
-			<a href="https://github.com/niodiallo76-jpg">
-				<img src="https://avatars.githubusercontent.com/u/237459158?s=72&v=4" width="24" alt="Avatar of niodiallo76-jpg"> niodiallo76-jpg
-			</a><br/>
-			Nio 
+			<a href="https://github.com/zed-zodd">
+				<img src="https://avatars.githubusercontent.com/u/281051928?s=72&u=df02b21e08b3c6ef7ddfcd87c5b9ed7990234da6&v=4" width="24" alt="Avatar of zed-zodd"> zed-zodd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#zed-zodd">Copy rank badge</a><br/>
+			Famakan
 		</td>
-		<td>Mali  </td>
+		<td>Infycom </td>
 		<td>No Twitter Username</td>
-		<td>Bamako </td>
+		<td>Mali</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/byteslabstechnologie-hue">
+				<img src="https://avatars.githubusercontent.com/u/341704371?s=72&u=891fd1f99536ea9191215fdc578916ed87437bf7&v=4" width="24" alt="Avatar of byteslabstechnologie-hue"> byteslabstechnologie-hue
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#byteslabstechnologie-hue">Copy rank badge</a><br/>
+			Bytes Labs Technologie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali-Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/o-otakusenpai">
 				<img src="https://avatars.githubusercontent.com/u/321908509?s=72&v=4" width="24" alt="Avatar of o-otakusenpai"> o-otakusenpai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#o-otakusenpai">Copy rank badge</a><br/>
 			o.otakusenpai
 		</td>
 		<td>No Company</td>
@@ -4161,11 +4423,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/seydoumey991-design">
 				<img src="https://avatars.githubusercontent.com/u/254555502?s=72&v=4" width="24" alt="Avatar of seydoumey991-design"> seydoumey991-design
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#seydoumey991-design">Copy rank badge</a><br/>
 			Chez bébé divers 👚👟👠🩰🧥
 		</td>
 		<td>Bébé Duvers </td>
@@ -4174,11 +4436,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/fetiguisanogo-lang">
 				<img src="https://avatars.githubusercontent.com/u/293244912?s=72&v=4" width="24" alt="Avatar of fetiguisanogo-lang"> fetiguisanogo-lang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#fetiguisanogo-lang">Copy rank badge</a><br/>
 			etoil6
 		</td>
 		<td>No Company</td>
@@ -4187,37 +4449,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/sowadama768-glitch">
-				<img src="https://avatars.githubusercontent.com/u/234222266?s=72&v=4" width="24" alt="Avatar of sowadama768-glitch"> sowadama768-glitch
-			</a><br/>
-			Ada Sow
-		</td>
-		<td>Eni/abt </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/lsamate">
-				<img src="https://avatars.githubusercontent.com/u/277793607?s=72&u=81ffcf1f56f627bdb740f7ac3b52ae4cf44e5088&v=4" width="24" alt="Avatar of lsamate"> lsamate
-			</a><br/>
-			No Name
-		</td>
-		<td>Independent </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>317</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/kalifadabo1-sys">
 				<img src="https://avatars.githubusercontent.com/u/248974752?s=72&v=4" width="24" alt="Avatar of kalifadabo1-sys"> kalifadabo1-sys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#kalifadabo1-sys">Copy rank badge</a><br/>
 			Kalifa Dabo
 		</td>
 		<td>No Company</td>
@@ -4226,11 +4462,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/alioucoulibaly275-ui">
 				<img src="https://avatars.githubusercontent.com/u/300956997?s=72&v=4" width="24" alt="Avatar of alioucoulibaly275-ui"> alioucoulibaly275-ui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alioucoulibaly275-ui">Copy rank badge</a><br/>
 			Aliou Coulibaly
 		</td>
 		<td>No Company</td>
@@ -4239,11 +4475,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/abdramanetiticoulibaly-hash">
 				<img src="https://avatars.githubusercontent.com/u/244584596?s=72&v=4" width="24" alt="Avatar of abdramanetiticoulibaly-hash"> abdramanetiticoulibaly-hash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abdramanetiticoulibaly-hash">Copy rank badge</a><br/>
 			Abdrahamane Coulibaly
 		</td>
 		<td>No Company</td>
@@ -4252,11 +4488,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/samakefousseyni069-art">
 				<img src="https://avatars.githubusercontent.com/u/293716201?s=72&v=4" width="24" alt="Avatar of samakefousseyni069-art"> samakefousseyni069-art
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#samakefousseyni069-art">Copy rank badge</a><br/>
 			Alassane Samaké
 		</td>
 		<td>No Company</td>
@@ -4265,11 +4501,24 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/DItItma">
+				<img src="https://avatars.githubusercontent.com/u/337388369?s=72&u=bd588ce87aad0d85d5e1465c43c588cbd0b2c77d&v=4" width="24" alt="Avatar of DItItma"> DItItma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#DItItma">Copy rank badge</a><br/>
+			DI-ITMA
+		</td>
+		<td>Itma </td>
+		<td>No Twitter Username</td>
+		<td>Baco Djicoroni ACI, Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/superlongkang">
 				<img src="https://avatars.githubusercontent.com/u/271312612?s=72&u=b1ea7e39345dfab7b51d7186afa8fe6c125e6ed8&v=4" width="24" alt="Avatar of superlongkang"> superlongkang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#superlongkang">Copy rank badge</a><br/>
 			Jan Karp
 		</td>
 		<td>No Company</td>
@@ -4278,11 +4527,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/abou-konate13">
 				<img src="https://avatars.githubusercontent.com/u/123598333?s=72&u=0a4bebc72c265437d3cb4213c4b181239a5deb25&v=4" width="24" alt="Avatar of abou-konate13"> abou-konate13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#abou-konate13">Copy rank badge</a><br/>
 			Aboubacar  Sidick™️
 		</td>
 		<td>No Company</td>
@@ -4291,11 +4540,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/jckeita">
 				<img src="https://avatars.githubusercontent.com/u/304987935?s=72&v=4" width="24" alt="Avatar of jckeita"> jckeita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#jckeita">Copy rank badge</a><br/>
 			Jean Claude Keita
 		</td>
 		<td>No Company</td>
@@ -4304,37 +4553,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/roadmusicprod">
-				<img src="https://avatars.githubusercontent.com/u/269539008?s=72&u=7b22eedfe9b2f8b7ff1ce96b0e6e0b5f969b53b1&v=4" width="24" alt="Avatar of roadmusicprod"> roadmusicprod
-			</a><br/>
-			Marco Romano
-		</td>
-		<td>Roadmusic Prod. </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/nohoo7505-ms">
-				<img src="https://avatars.githubusercontent.com/u/317527362?s=72&v=4" width="24" alt="Avatar of nohoo7505-ms"> nohoo7505-ms
-			</a><br/>
-			No Name
-		</td>
-		<td>Koumbi Group </td>
-		<td>No Twitter Username</td>
-		<td>MALI</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>326</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/2026-10E3csapat">
 				<img src="https://avatars.githubusercontent.com/u/265269471?s=72&u=a01ad5ff28f5ea3ec72dd80d6823469f2b18e50d&v=4" width="24" alt="Avatar of 2026-10E3csapat"> 2026-10E3csapat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#2026-10E3csapat">Copy rank badge</a><br/>
 			2026-10E3csapat
 		</td>
 		<td>No Company</td>
@@ -4343,11 +4566,50 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/nohoo7505-ms">
+				<img src="https://avatars.githubusercontent.com/u/317527362?s=72&v=4" width="24" alt="Avatar of nohoo7505-ms"> nohoo7505-ms
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#nohoo7505-ms">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Koumbi Group </td>
+		<td>No Twitter Username</td>
+		<td>MALI</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/roadmusicprod">
+				<img src="https://avatars.githubusercontent.com/u/269539008?s=72&u=7b22eedfe9b2f8b7ff1ce96b0e6e0b5f969b53b1&v=4" width="24" alt="Avatar of roadmusicprod"> roadmusicprod
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#roadmusicprod">Copy rank badge</a><br/>
+			Marco Romano
+		</td>
+		<td>Roadmusic Prod. </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/PrinceHarouna">
+				<img src="https://avatars.githubusercontent.com/u/226424998?s=72&u=d69ddc7aeee6d9d096f20ab6dec772fc534fb9e6&v=4" width="24" alt="Avatar of PrinceHarouna"> PrinceHarouna
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#PrinceHarouna">Copy rank badge</a><br/>
+			Prince Harouna Traore
+		</td>
+		<td>Eyelinctech </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/AminataSidibe">
 				<img src="https://avatars.githubusercontent.com/u/259330545?s=72&v=4" width="24" alt="Avatar of AminataSidibe"> AminataSidibe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#AminataSidibe">Copy rank badge</a><br/>
 			Aminata Sidibé
 		</td>
 		<td>No Company</td>
@@ -4356,24 +4618,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/oumaroug00-jpg">
-				<img src="https://avatars.githubusercontent.com/u/269220149?s=72&v=4" width="24" alt="Avatar of oumaroug00-jpg"> oumaroug00-jpg
-			</a><br/>
-			GUINDO
-		</td>
-		<td>Ende Tech Solution </td>
-		<td>No Twitter Username</td>
-		<td>BAMAKO</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>329</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/soungalongoita2014-tech">
 				<img src="https://avatars.githubusercontent.com/u/227859050?s=72&u=1c1282cfc6965193714d1ddd6477b94179ea7967&v=4" width="24" alt="Avatar of soungalongoita2014-tech"> soungalongoita2014-tech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#soungalongoita2014-tech">Copy rank badge</a><br/>
 			Soungalo GOITA
 		</td>
 		<td>No Company</td>
@@ -4382,11 +4631,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/traoreniagna17-lang">
 				<img src="https://avatars.githubusercontent.com/u/275389654?s=72&v=4" width="24" alt="Avatar of traoreniagna17-lang"> traoreniagna17-lang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#traoreniagna17-lang">Copy rank badge</a><br/>
 			Amour à outrance
 		</td>
 		<td>Entrepreneurs Individuel </td>
@@ -4395,11 +4644,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/sngzou00-arch">
 				<img src="https://avatars.githubusercontent.com/u/245846554?s=72&u=5c9021543750c5d230aa92bfede02df6931f4e96&v=4" width="24" alt="Avatar of sngzou00-arch"> sngzou00-arch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sngzou00-arch">Copy rank badge</a><br/>
 			Zoumana Bouko Sanogo
 		</td>
 		<td>École Normale D’enseignement Technique<br/>Et<br/>Professionnel<br/></td>
@@ -4408,11 +4657,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/alkaoudembele1-ops">
 				<img src="https://avatars.githubusercontent.com/u/316761942?s=72&v=4" width="24" alt="Avatar of alkaoudembele1-ops"> alkaoudembele1-ops
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#alkaoudembele1-ops">Copy rank badge</a><br/>
 			alkaoudev
 		</td>
 		<td>Malidevpro </td>
@@ -4421,11 +4670,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/ia-mali">
 				<img src="https://avatars.githubusercontent.com/u/322528989?s=72&u=bfdea91ec8cd787fd00c77979b44d533e519c05a&v=4" width="24" alt="Avatar of ia-mali"> ia-mali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#ia-mali">Copy rank badge</a><br/>
 			IA Mali
 		</td>
 		<td>@ia-mali-collective  </td>
@@ -4434,11 +4683,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/sangareautoservices-rgb">
 				<img src="https://avatars.githubusercontent.com/u/275958321?s=72&v=4" width="24" alt="Avatar of sangareautoservices-rgb"> sangareautoservices-rgb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sangareautoservices-rgb">Copy rank badge</a><br/>
 			Ousmane 
 		</td>
 		<td>Sangare Services  </td>
@@ -4447,11 +4696,11 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/sobragui">
 				<img src="https://avatars.githubusercontent.com/u/78219795?s=72&v=4" width="24" alt="Avatar of sobragui"> sobragui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#sobragui">Copy rank badge</a><br/>
 			SATLX
 		</td>
 		<td>Satlx It Services </td>
@@ -4460,16 +4709,29 @@ There are `748 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/digital-e-corp">
 				<img src="https://avatars.githubusercontent.com/u/319416549?s=72&v=4" width="24" alt="Avatar of digital-e-corp"> digital-e-corp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#digital-e-corp">Copy rank badge</a><br/>
 			DigitalE
 		</td>
 		<td>Digitale </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/songhoylabs-hue">
+				<img src="https://avatars.githubusercontent.com/u/327047301?s=72&v=4" width="24" alt="Avatar of songhoylabs-hue"> songhoylabs-hue
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/mali.md#songhoylabs-hue">Copy rank badge</a><br/>
+			Abdoulaye Maiga
+		</td>
+		<td>Songhoylabs </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
 		<td>1</td>
 	</tr>
 </table>
