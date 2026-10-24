@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` by users in Malta on `2026/9/25 4:21 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` by users in Malta on `2026/10/24 1:08 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `874 users`  in Malta. You need at least `2 followers` to be on this list.
+There are `872 users`  in Malta. You need at least `2 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Malta GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -107,152 +109,165 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/rinrab">
-				<img src="https://avatars.githubusercontent.com/u/64201197?s=72&u=37db2215ea0cc3178f0fa17ae10d6f04edf5d819&v=4" width="24" alt="Avatar of rinrab"> rinrab
-			</a><br/>
-			Timofei Zhakov
+			<a href="https://github.com/jonathan-vella">
+				<img src="https://avatars.githubusercontent.com/u/25802147?s=72&u=7941fa30cf5d40f1ef8c5e3a804a03c630e72bec&v=4" width="24" alt="Avatar of jonathan-vella"> jonathan-vella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jonathan-vella">Copy rank badge</a><br/>
+			Jonathan Vella
 		</td>
-		<td>No Company</td>
+		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>4219</td>
+		<td>4163</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a href="https://github.com/ripienaar">
 				<img src="https://avatars.githubusercontent.com/u/82342?s=72&v=4" width="24" alt="Avatar of ripienaar"> ripienaar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ripienaar">Copy rank badge</a><br/>
 			R.I.Pienaar
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ripienaar">ripienaar</a></td>
 		<td>Malta</td>
-		<td>3805</td>
+		<td>3912</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
 			<a href="https://github.com/OmegaGbenga">
 				<img src="https://avatars.githubusercontent.com/u/157497365?s=72&u=c022383fb5bc714f0df7ab79a5ae934899db4d69&v=4" width="24" alt="Avatar of OmegaGbenga"> OmegaGbenga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#OmegaGbenga">Copy rank badge</a><br/>
 			Olugbenga Olatunde Dareowolabi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>3571</td>
+		<td>3548</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/camilamacedo86">
-				<img src="https://avatars.githubusercontent.com/u/7708031?s=72&u=627456e7c65baf02b20e3b455bd08a7ce6530e09&v=4" width="24" alt="Avatar of camilamacedo86"> camilamacedo86
-			</a><br/>
-			Camila Macedo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3240</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/jonathan-vella">
-				<img src="https://avatars.githubusercontent.com/u/25802147?s=72&u=7941fa30cf5d40f1ef8c5e3a804a03c630e72bec&v=4" width="24" alt="Avatar of jonathan-vella"> jonathan-vella
-			</a><br/>
-			Jonathan Vella
-		</td>
-		<td>@microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3143</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/silvandiepen">
 				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#silvandiepen">Copy rank badge</a><br/>
 			Sil van Diepen
 		</td>
 		<td>Sil Van Diepen </td>
 		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
 		<td>Malta</td>
-		<td>3109</td>
+		<td>3174</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/KevinBusuttil">
 				<img src="https://avatars.githubusercontent.com/u/28646879?s=72&u=6d13bc417c4ae46ea56b9a0f40c01bf6f545090d&v=4" width="24" alt="Avatar of KevinBusuttil"> KevinBusuttil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KevinBusuttil">Copy rank badge</a><br/>
 			Kevin Busuttil
 		</td>
 		<td>Busuttil Technologies Limited </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>3079</td>
+		<td>3150</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/camilamacedo86">
+				<img src="https://avatars.githubusercontent.com/u/7708031?s=72&u=627456e7c65baf02b20e3b455bd08a7ce6530e09&v=4" width="24" alt="Avatar of camilamacedo86"> camilamacedo86
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#camilamacedo86">Copy rank badge</a><br/>
+			Camila Macedo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3110</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/rinrab">
+				<img src="https://avatars.githubusercontent.com/u/64201197?s=72&u=37db2215ea0cc3178f0fa17ae10d6f04edf5d819&v=4" width="24" alt="Avatar of rinrab"> rinrab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rinrab">Copy rank badge</a><br/>
+			Timofei Zhakov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3092</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/novatechflow">
+				<img src="https://avatars.githubusercontent.com/u/1323575?s=72&u=85600cffa76fe0200deddb4c9e30fca01fc29daa&v=4" width="24" alt="Avatar of novatechflow"> novatechflow
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#novatechflow">Copy rank badge</a><br/>
+			Alexander Alten
+		</td>
+		<td>@scalytics </td>
+		<td><a href="https://twitter.com/mapredit">mapredit</a></td>
+		<td>Malta</td>
+		<td>2913</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/zcourts">
 				<img src="https://avatars.githubusercontent.com/u/692396?s=72&u=b166572813ff4c07e58e101a6cb52ca1ff3afd13&v=4" width="24" alt="Avatar of zcourts"> zcourts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zcourts">Copy rank badge</a><br/>
 			Courtney Robinson
 		</td>
 		<td>Hypi </td>
 		<td><a href="https://twitter.com/zcourts">zcourts</a></td>
 		<td>London (UK), Łodz (Poland), Valletta (Malta)</td>
-		<td>2534</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/ntulenev">
-				<img src="https://avatars.githubusercontent.com/u/9788909?s=72&u=e691bfe965877bdd50f81e45f1ea1d837c65e292&v=4" width="24" alt="Avatar of ntulenev"> ntulenev
-			</a><br/>
-			Nikita Tulenev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>2499</td>
+		<td>2789</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/stefanbuttigieg">
-				<img src="https://avatars.githubusercontent.com/u/3967540?s=72&u=ed6d6fef7ad0600be343bd3b6e2b6086fa051496&v=4" width="24" alt="Avatar of stefanbuttigieg"> stefanbuttigieg
-			</a><br/>
-			Stefan Buttigieg
-		</td>
-		<td>Stefan Buttigieg </td>
-		<td><a href="https://twitter.com/stefanbuttigieg">stefanbuttigieg</a></td>
-		<td>Malta</td>
-		<td>2455</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
 			<a href="https://github.com/arogan178">
 				<img src="https://avatars.githubusercontent.com/u/25248102?s=72&u=9a9f303a3b25677dd13ab5fbb453a19d29906bfb&v=4" width="24" alt="Avatar of arogan178"> arogan178
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#arogan178">Copy rank badge</a><br/>
 			Andrea Bugeja
 		</td>
 		<td>Gig </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>2422</td>
+		<td>2644</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/stefanbuttigieg">
+				<img src="https://avatars.githubusercontent.com/u/3967540?s=72&u=ed6d6fef7ad0600be343bd3b6e2b6086fa051496&v=4" width="24" alt="Avatar of stefanbuttigieg"> stefanbuttigieg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stefanbuttigieg">Copy rank badge</a><br/>
+			Stefan Buttigieg
+		</td>
+		<td>Stefan Buttigieg </td>
+		<td><a href="https://twitter.com/stefanbuttigieg">stefanbuttigieg</a></td>
+		<td>Malta</td>
+		<td>2643</td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/ntulenev">
+				<img src="https://avatars.githubusercontent.com/u/9788909?s=72&u=e691bfe965877bdd50f81e45f1ea1d837c65e292&v=4" width="24" alt="Avatar of ntulenev"> ntulenev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ntulenev">Copy rank badge</a><br/>
+			Nikita Tulenev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>2604</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/marian2js">
 				<img src="https://avatars.githubusercontent.com/u/4909681?s=72&u=9398d96101202017991ecb9530e1d942018092c0&v=4" width="24" alt="Avatar of marian2js"> marian2js
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#marian2js">Copy rank badge</a><br/>
 			Mariano Pardo
 		</td>
 		<td>Bullaware </td>
@@ -261,180 +276,193 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2336</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
-			<a href="https://github.com/novatechflow">
-				<img src="https://avatars.githubusercontent.com/u/1323575?s=72&u=85600cffa76fe0200deddb4c9e30fca01fc29daa&v=4" width="24" alt="Avatar of novatechflow"> novatechflow
-			</a><br/>
-			Alexander Alten
+			<a href="https://github.com/dfroberg">
+				<img src="https://avatars.githubusercontent.com/u/285403?s=72&u=bc5335401c2c01a47a81bbd64f54d2b02f2ce1e5&v=4" width="24" alt="Avatar of dfroberg"> dfroberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dfroberg">Copy rank badge</a><br/>
+			Danny Froberg
 		</td>
-		<td>@scalytics </td>
-		<td><a href="https://twitter.com/mapredit">mapredit</a></td>
-		<td>Malta</td>
-		<td>2073</td>
+		<td>@infura </td>
+		<td><a href="https://twitter.com/dfroberg">dfroberg</a></td>
+		<td>Gozo, Malta</td>
+		<td>2123</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/mbj">
 				<img src="https://avatars.githubusercontent.com/u/117966?s=72&u=4f362766f68e589ac0c3c8f799d23e90169668b8&v=4" width="24" alt="Avatar of mbj"> mbj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mbj">Copy rank badge</a><br/>
 			Markus Schirp
 		</td>
 		<td>Schirp Dso Ltd </td>
 		<td><a href="https://twitter.com/mbjschirp">mbjschirp</a></td>
 		<td>Malta</td>
-		<td>2016</td>
+		<td>1993</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/SerZhyAle">
 				<img src="https://avatars.githubusercontent.com/u/20929056?s=72&u=2690840345a486644ddf00ba20f22879795b7c0c&v=4" width="24" alt="Avatar of SerZhyAle"> SerZhyAle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SerZhyAle">Copy rank badge</a><br/>
 			Serhii Zhyhunenko
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>1663</td>
+		<td>1973</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/terranc">
 				<img src="https://avatars.githubusercontent.com/u/224353?s=72&u=226899d6a4c847f9e56457fdab232ec374d9346b&v=4" width="24" alt="Avatar of terranc"> terranc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#terranc">Copy rank badge</a><br/>
 			Terran
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/terranc">terranc</a></td>
 		<td>Malta</td>
-		<td>1433</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/GefMar">
-				<img src="https://avatars.githubusercontent.com/u/30639918?s=72&v=4" width="24" alt="Avatar of GefMar"> GefMar
-			</a><br/>
-			Sergei Romanchuk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1282</td>
+		<td>1930</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
 			<a href="https://github.com/TimidRobot">
 				<img src="https://avatars.githubusercontent.com/u/691322?s=72&u=41a857295412353e3aff1913451c768b343ab662&v=4" width="24" alt="Avatar of TimidRobot"> TimidRobot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#TimidRobot">Copy rank badge</a><br/>
 			Timid Robot Zehta
 		</td>
 		<td>@creativecommons </td>
 		<td>No Twitter Username</td>
 		<td>San Ġwann, Malta 🇲🇹</td>
-		<td>1168</td>
+		<td>1329</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
+			<a href="https://github.com/GefMar">
+				<img src="https://avatars.githubusercontent.com/u/30639918?s=72&v=4" width="24" alt="Avatar of GefMar"> GefMar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#GefMar">Copy rank badge</a><br/>
+			Sergei Romanchuk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1301</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
 			<a href="https://github.com/w1ck3ds0d4">
 				<img src="https://avatars.githubusercontent.com/u/57948187?s=72&u=06c1609282dc217b1e734dfcb068fc272868dbae&v=4" width="24" alt="Avatar of w1ck3ds0d4"> w1ck3ds0d4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#w1ck3ds0d4">Copy rank badge</a><br/>
 			W1ck3dS0d4
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>1122</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/max-lt">
-				<img src="https://avatars.githubusercontent.com/u/9805205?s=72&u=54f28b08ecec310500c04dceb6424b8debf1e883&v=4" width="24" alt="Avatar of max-lt"> max-lt
-			</a><br/>
-			No Name
-		</td>
-		<td>@openworkers </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1001</td>
+		<td>1230</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/ivanmolto">
-				<img src="https://avatars.githubusercontent.com/u/7421479?s=72&u=98b3290fe0dca85b8d02ddb9319162dbbf8d24a9&v=4" width="24" alt="Avatar of ivanmolto"> ivanmolto
-			</a><br/>
-			Ivan Molto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ivanmolto">ivanmolto</a></td>
-		<td>Malta</td>
-		<td>986</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/dreasgrech">
 				<img src="https://avatars.githubusercontent.com/u/501697?s=72&v=4" width="24" alt="Avatar of dreasgrech"> dreasgrech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dreasgrech">Copy rank badge</a><br/>
 			Andreas Grech
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>934</td>
+		<td>1116</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/elisir80">
 				<img src="https://avatars.githubusercontent.com/u/49347991?s=72&v=4" width="24" alt="Avatar of elisir80"> elisir80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#elisir80">Copy rank badge</a><br/>
 			Salvatore Raccampo 9H1SR
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>843</td>
+		<td>1109</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/Expo39">
+				<img src="https://avatars.githubusercontent.com/u/83772836?s=72&u=c41f74aa25902c8760bada2d61141f656230e81c&v=4" width="24" alt="Avatar of Expo39"> Expo39
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Expo39">Copy rank badge</a><br/>
+			Antonio Galdes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1107</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/ivanmolto">
+				<img src="https://avatars.githubusercontent.com/u/7421479?s=72&u=98b3290fe0dca85b8d02ddb9319162dbbf8d24a9&v=4" width="24" alt="Avatar of ivanmolto"> ivanmolto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ivanmolto">Copy rank badge</a><br/>
+			Ivan Molto
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivanmolto">ivanmolto</a></td>
+		<td>Malta</td>
+		<td>1039</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/DarthTigerson">
+				<img src="https://avatars.githubusercontent.com/u/109550180?s=72&u=c3b2932cab723c0946efc2b4816fb744d3588e45&v=4" width="24" alt="Avatar of DarthTigerson"> DarthTigerson
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DarthTigerson">Copy rank badge</a><br/>
+			Thomas Bonnici
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1035</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/dalerank">
 				<img src="https://avatars.githubusercontent.com/u/918081?s=72&u=cde72b6d5d3f143e76ca8d620241e58ce7e984fe&v=4" width="24" alt="Avatar of dalerank"> dalerank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dalerank">Copy rank badge</a><br/>
 			dalerank
 		</td>
 		<td>4a Games </td>
 		<td><a href="https://twitter.com/dalerank1">dalerank1</a></td>
 		<td>Sliema, Malta</td>
-		<td>831</td>
+		<td>851</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>27</td>
 		<td>
-			<a href="https://github.com/STOMACOstudio">
-				<img src="https://avatars.githubusercontent.com/u/69104463?s=72&u=1000e2917b18680ff79e025a6884ec033cd2ef8d&v=4" width="24" alt="Avatar of STOMACOstudio"> STOMACOstudio
-			</a><br/>
-			STOMACO Studio
+			<a href="https://github.com/leandergrech">
+				<img src="https://avatars.githubusercontent.com/u/46715410?s=72&u=6d62d94474d71d06846241e083b75cf9268c5889&v=4" width="24" alt="Avatar of leandergrech"> leandergrech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#leandergrech">Copy rank badge</a><br/>
+			Leander Grech
 		</td>
-		<td>Stomaco Studio </td>
-		<td><a href="https://twitter.com/STOMACOstudio">STOMACOstudio</a></td>
-		<td>Malta</td>
-		<td>811</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Msida, Malta</td>
+		<td>804</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/dylangrech92">
 				<img src="https://avatars.githubusercontent.com/u/5817606?s=72&u=4f9cc1cbac4568e24be684df42b931d9ef5abc7c&v=4" width="24" alt="Avatar of dylangrech92"> dylangrech92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dylangrech92">Copy rank badge</a><br/>
 			Dylan Grech
 		</td>
 		<td>No Company</td>
@@ -443,11 +471,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>798</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/STOMACOstudio">
+				<img src="https://avatars.githubusercontent.com/u/69104463?s=72&u=1000e2917b18680ff79e025a6884ec033cd2ef8d&v=4" width="24" alt="Avatar of STOMACOstudio"> STOMACOstudio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#STOMACOstudio">Copy rank badge</a><br/>
+			STOMACO Studio
+		</td>
+		<td>Stomaco Studio </td>
+		<td><a href="https://twitter.com/STOMACOstudio">STOMACOstudio</a></td>
+		<td>Malta</td>
+		<td>767</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/chrisbartolo">
 				<img src="https://avatars.githubusercontent.com/u/1541616?s=72&u=81846dcc767d1675ace95e5135a5c469f867ed02&v=4" width="24" alt="Avatar of chrisbartolo"> chrisbartolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#chrisbartolo">Copy rank badge</a><br/>
 			Christopher Bartolo
 		</td>
 		<td>Dazzle Panel </td>
@@ -456,245 +497,258 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>725</td>
 	</tr>
 	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/DarthTigerson">
-				<img src="https://avatars.githubusercontent.com/u/109550180?s=72&u=c3b2932cab723c0946efc2b4816fb744d3588e45&v=4" width="24" alt="Avatar of DarthTigerson"> DarthTigerson
-			</a><br/>
-			Thomas Bonnici
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>708</td>
-	</tr>
-	<tr>
-		<td>29</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/DennesTorres">
 				<img src="https://avatars.githubusercontent.com/u/19700918?s=72&u=8660cff1969fd14b368444734f338f38a6f99996&v=4" width="24" alt="Avatar of DennesTorres"> DennesTorres
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DennesTorres">Copy rank badge</a><br/>
 			Dennes Torres
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Dennes">Dennes</a></td>
 		<td>Malta</td>
-		<td>686</td>
+		<td>684</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/banozz0">
-				<img src="https://avatars.githubusercontent.com/u/263121691?s=72&u=befff91249fcda4da83880009ccf7174c69e80b2&v=4" width="24" alt="Avatar of banozz0"> banozz0
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/263121691?s=72&u=c97b173742e153b5d94e1730b6dffca98f44ddf9&v=4" width="24" alt="Avatar of banozz0"> banozz0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#banozz0">Copy rank badge</a><br/>
 			banozz
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Banozz_">Banozz_</a></td>
 		<td>  Malta   </td>
-		<td>680</td>
+		<td>684</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/Magnetika">
 				<img src="https://avatars.githubusercontent.com/u/36668713?s=72&u=eccf13925e2b432588885044790d44cdb2484a29&v=4" width="24" alt="Avatar of Magnetika"> Magnetika
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Magnetika">Copy rank badge</a><br/>
 			Agnes Lilla
 		</td>
 		<td>Software Developer/qa Engineer </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>675</td>
+		<td>651</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>34</td>
 		<td>
-			<a href="https://github.com/jirevwe">
-				<img src="https://avatars.githubusercontent.com/u/5263355?s=72&u=ea3ce00bd31bc2a444f8c597932b499fd818e6d5&v=4" width="24" alt="Avatar of jirevwe"> jirevwe
-			</a><br/>
-			Raymond Tukpe
+			<a href="https://github.com/jbrackens">
+				<img src="https://avatars.githubusercontent.com/u/9408930?s=72&u=77929792807ab971e857dbff3dff5abd03f83d24&v=4" width="24" alt="Avatar of jbrackens"> jbrackens
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jbrackens">Copy rank badge</a><br/>
+			John Brackens
 		</td>
-		<td>@frain-dev  </td>
-		<td><a href="https://twitter.com/rtukpe">rtukpe</a></td>
-		<td>Luqa, Malta</td>
-		<td>656</td>
+		<td>Everymatrix </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>642</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/gaucidaniel">
+				<img src="https://avatars.githubusercontent.com/u/4262867?s=72&u=717298203f4a89248c85f53ca5923400d07257a5&v=4" width="24" alt="Avatar of gaucidaniel"> gaucidaniel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gaucidaniel">Copy rank badge</a><br/>
+			Daniel Gauci
+		</td>
+		<td>Co-founder @roarkhq </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>629</td>
+	</tr>
+	<tr>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/seanellul">
 				<img src="https://avatars.githubusercontent.com/u/102472328?s=72&u=fe901dfcb511dab161eab74ec7b69944d65d0f41&v=4" width="24" alt="Avatar of seanellul"> seanellul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#seanellul">Copy rank badge</a><br/>
 			Sean Ellul
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>649</td>
+		<td>627</td>
 	</tr>
 	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/MarkCiliaVincenti">
-				<img src="https://avatars.githubusercontent.com/u/25120736?s=72&u=846346035d352247d0aee0f926c05cdc60d9277a&v=4" width="24" alt="Avatar of MarkCiliaVincenti"> MarkCiliaVincenti
-			</a><br/>
-			Mark Cilia Vincenti
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mqabba, Malta</td>
-		<td>607</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/olljanat">
-				<img src="https://avatars.githubusercontent.com/u/6213926?s=72&u=9e646f9a71093810ca3f5e14fc58a6cd46ed003f&v=4" width="24" alt="Avatar of olljanat"> olljanat
-			</a><br/>
-			Olli Janatuinen
-		</td>
-		<td>Fuddata </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>597</td>
-	</tr>
-	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/schembriaiden">
 				<img src="https://avatars.githubusercontent.com/u/81376423?s=72&u=85d26cd7a15008f3e016742a67fd58dbf5941abd&v=4" width="24" alt="Avatar of schembriaiden"> schembriaiden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#schembriaiden">Copy rank badge</a><br/>
 			Aiden Schembri
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>597</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/NazgulCoder">
-				<img src="https://avatars.githubusercontent.com/u/85739956?s=72&u=81d6c012ddadbe6fe84f95a58834f2911bafc08c&v=4" width="24" alt="Avatar of NazgulCoder"> NazgulCoder
-			</a><br/>
-			Nazgul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>498</td>
+		<td>620</td>
 	</tr>
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/stephenlautier">
-				<img src="https://avatars.githubusercontent.com/u/3908723?s=72&u=32e0e3688a694b3331af86297863e94210262515&v=4" width="24" alt="Avatar of stephenlautier"> stephenlautier
-			</a><br/>
-			Stephen Lautier
+			<a href="https://github.com/olljanat">
+				<img src="https://avatars.githubusercontent.com/u/6213926?s=72&u=9e646f9a71093810ca3f5e14fc58a6cd46ed003f&v=4" width="24" alt="Avatar of olljanat"> olljanat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#olljanat">Copy rank badge</a><br/>
+			Olli Janatuinen
 		</td>
-		<td>@betssongroup </td>
-		<td><a href="https://twitter.com/stephenlautier">stephenlautier</a></td>
+		<td>Fuddata </td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>478</td>
+		<td>616</td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/mandyfarrugia">
-				<img src="https://avatars.githubusercontent.com/u/107984232?s=72&u=79e0a551eb1d5dd6ce37681e878c69f314ff135e&v=4" width="24" alt="Avatar of mandyfarrugia"> mandyfarrugia
-			</a><br/>
-			Mandy Farrugia
+			<a href="https://github.com/MarkCiliaVincenti">
+				<img src="https://avatars.githubusercontent.com/u/25120736?s=72&u=846346035d352247d0aee0f926c05cdc60d9277a&v=4" width="24" alt="Avatar of MarkCiliaVincenti"> MarkCiliaVincenti
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MarkCiliaVincenti">Copy rank badge</a><br/>
+			Mark Cilia Vincenti
 		</td>
-		<td>Mcast Iict, Paola </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>458</td>
+		<td>Mqabba, Malta</td>
+		<td>604</td>
 	</tr>
 	<tr>
 		<td>40</td>
 		<td>
-			<a href="https://github.com/mecha">
-				<img src="https://avatars.githubusercontent.com/u/5425482?s=72&u=95fda72e3ab58d40f47ac0e99667c6dcf191e80f&v=4" width="24" alt="Avatar of mecha"> mecha
-			</a><br/>
-			Miguel Muscat
+			<a href="https://github.com/red-game-dev">
+				<img src="https://avatars.githubusercontent.com/u/75917402?s=72&u=92b4a15ba49529423c0c1c2d28bb6ddab9a142be&v=4" width="24" alt="Avatar of red-game-dev"> red-game-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#red-game-dev">Copy rank badge</a><br/>
+			Redeemer Pace | Goku | Game Dev
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mechadev">mechadev</a></td>
+		<td>Gods Of Zushin |<br/>Amw<br/>-<br/>Game<br/>&<br/>Entertainment<br/></td>
+		<td><a href="https://twitter.com/gozushin">gozushin</a></td>
 		<td>Malta</td>
-		<td>449</td>
+		<td>551</td>
 	</tr>
 	<tr>
 		<td>41</td>
 		<td>
 			<a href="https://github.com/SijanC147">
 				<img src="https://avatars.githubusercontent.com/u/13831460?s=72&u=2781c18ed38fba4808385982dadb3b121efed11b&v=4" width="24" alt="Avatar of SijanC147"> SijanC147
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SijanC147">Copy rank badge</a><br/>
 			Sean
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>447</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/dfroberg">
-				<img src="https://avatars.githubusercontent.com/u/285403?s=72&u=bc5335401c2c01a47a81bbd64f54d2b02f2ce1e5&v=4" width="24" alt="Avatar of dfroberg"> dfroberg
-			</a><br/>
-			Danny Froberg
+			<a href="https://github.com/norbertbonnici">
+				<img src="https://avatars.githubusercontent.com/u/1004378?s=72&u=9f03b980c6fcfde72a2c26f01a92de1240593e93&v=4" width="24" alt="Avatar of norbertbonnici"> norbertbonnici
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#norbertbonnici">Copy rank badge</a><br/>
+			Norbert Bonnici
 		</td>
-		<td>@infura </td>
-		<td><a href="https://twitter.com/dfroberg">dfroberg</a></td>
-		<td>Gozo, Malta</td>
-		<td>442</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/norbertbonnici">norbertbonnici</a></td>
+		<td>Malta</td>
+		<td>547</td>
 	</tr>
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/lauroguedes">
-				<img src="https://avatars.githubusercontent.com/u/3677780?s=72&u=28e713b318e8f185de4d5d0af1a12bd1e290b77a&v=4" width="24" alt="Avatar of lauroguedes"> lauroguedes
-			</a><br/>
-			Lauro Guedes (Léo WG)
+			<a href="https://github.com/Jingyuan-Zheng">
+				<img src="https://avatars.githubusercontent.com/u/94727401?s=72&u=672cfbb5a76aff06cebe485ce84098af66e4a480&v=4" width="24" alt="Avatar of Jingyuan-Zheng"> Jingyuan-Zheng
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Jingyuan-Zheng">Copy rank badge</a><br/>
+			Jingyuan
 		</td>
-		<td>@lauroguedes  </td>
-		<td><a href="https://twitter.com/leowg">leowg</a></td>
-		<td>🇧🇷 🇲🇹 Malta</td>
-		<td>436</td>
+		<td>@hku </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/lauroguedes">
+				<img src="https://avatars.githubusercontent.com/u/3677780?s=72&u=cdb6f716562f4cb9415ea92a752809f30b715d19&v=4" width="24" alt="Avatar of lauroguedes"> lauroguedes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#lauroguedes">Copy rank badge</a><br/>
+			Lauro Guedes
+		</td>
+		<td>@lauroguedes  </td>
+		<td><a href="https://twitter.com/leowg">leowg</a></td>
+		<td>🇧🇷 🇲🇹 Malta</td>
+		<td>511</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/jirevwe">
+				<img src="https://avatars.githubusercontent.com/u/5263355?s=72&u=ea3ce00bd31bc2a444f8c597932b499fd818e6d5&v=4" width="24" alt="Avatar of jirevwe"> jirevwe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jirevwe">Copy rank badge</a><br/>
+			Raymond Tukpe
+		</td>
+		<td>@frain-dev  </td>
+		<td><a href="https://twitter.com/rtukpe">rtukpe</a></td>
+		<td>Luqa, Malta</td>
+		<td>501</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/costa911">
+				<img src="https://avatars.githubusercontent.com/u/102555905?s=72&u=cce0f02a45afe9613947120e628a6ff1f800cbbb&v=4" width="24" alt="Avatar of costa911"> costa911
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#costa911">Copy rank badge</a><br/>
+			Costa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>485</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/stephenlautier">
+				<img src="https://avatars.githubusercontent.com/u/3908723?s=72&u=32e0e3688a694b3331af86297863e94210262515&v=4" width="24" alt="Avatar of stephenlautier"> stephenlautier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stephenlautier">Copy rank badge</a><br/>
+			Stephen Lautier
+		</td>
+		<td>@betssongroup </td>
+		<td><a href="https://twitter.com/stephenlautier">stephenlautier</a></td>
+		<td>Malta</td>
+		<td>484</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/mandyfarrugia">
+				<img src="https://avatars.githubusercontent.com/u/107984232?s=72&u=79e0a551eb1d5dd6ce37681e878c69f314ff135e&v=4" width="24" alt="Avatar of mandyfarrugia"> mandyfarrugia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mandyfarrugia">Copy rank badge</a><br/>
+			Mandy Farrugia
+		</td>
+		<td>Mcast Iict, Paola </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>456</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a href="https://github.com/davidbalzan">
 				<img src="https://avatars.githubusercontent.com/u/8627789?s=72&u=cd02adfaff3e6a81179bcbedfd155a048d03d333&v=4" width="24" alt="Avatar of davidbalzan"> davidbalzan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#davidbalzan">Copy rank badge</a><br/>
 			David Balzan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>420</td>
+		<td>421</td>
 	</tr>
 	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/davgal27">
-				<img src="https://avatars.githubusercontent.com/u/119041022?s=72&u=8bee1a355c1f1f6f9711e877f2819cc92c1f9b38&v=4" width="24" alt="Avatar of davgal27"> davgal27
-			</a><br/>
-			Dave Galea 
-		</td>
-		<td>University Of Malta </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>418</td>
-	</tr>
-	<tr>
-		<td>46</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/alexnoise79">
 				<img src="https://avatars.githubusercontent.com/u/9463363?s=72&u=af072e5753349b4a3ae0018a1f55ee7896052a8f&v=4" width="24" alt="Avatar of alexnoise79"> alexnoise79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#alexnoise79">Copy rank badge</a><br/>
 			Alex Vitari
 		</td>
 		<td>No Company</td>
@@ -703,76 +757,76 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>418</td>
 	</tr>
 	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/costa911">
-				<img src="https://avatars.githubusercontent.com/u/102555905?s=72&u=cce0f02a45afe9613947120e628a6ff1f800cbbb&v=4" width="24" alt="Avatar of costa911"> costa911
-			</a><br/>
-			Costa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/gaucidaniel">
-				<img src="https://avatars.githubusercontent.com/u/4262867?s=72&u=717298203f4a89248c85f53ca5923400d07257a5&v=4" width="24" alt="Avatar of gaucidaniel"> gaucidaniel
-			</a><br/>
-			Daniel Gauci
-		</td>
-		<td>Co-founder @roarkhq </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/Jingyuan-Zheng">
-				<img src="https://avatars.githubusercontent.com/u/94727401?s=72&u=672cfbb5a76aff06cebe485ce84098af66e4a480&v=4" width="24" alt="Avatar of Jingyuan-Zheng"> Jingyuan-Zheng
-			</a><br/>
-			Jingyuan
-		</td>
-		<td>@hku </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>405</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/GODrums">
-				<img src="https://avatars.githubusercontent.com/u/21990230?s=72&u=13753bc1fd99350e15ffb6a4f0dadf41685ae586&v=4" width="24" alt="Avatar of GODrums"> GODrums
-			</a><br/>
-			GODrums
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rumscsgo">rumscsgo</a></td>
-		<td>Malta</td>
-		<td>366</td>
-	</tr>
-	<tr>
 		<td>51</td>
+		<td>
+			<a href="https://github.com/NazgulCoder">
+				<img src="https://avatars.githubusercontent.com/u/85739956?s=72&u=81d6c012ddadbe6fe84f95a58834f2911bafc08c&v=4" width="24" alt="Avatar of NazgulCoder"> NazgulCoder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#NazgulCoder">Copy rank badge</a><br/>
+			Nazgul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>415</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/davgal27">
+				<img src="https://avatars.githubusercontent.com/u/119041022?s=72&u=8bee1a355c1f1f6f9711e877f2819cc92c1f9b38&v=4" width="24" alt="Avatar of davgal27"> davgal27
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#davgal27">Copy rank badge</a><br/>
+			Dave Galea 
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>407</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/mecha">
+				<img src="https://avatars.githubusercontent.com/u/5425482?s=72&u=95fda72e3ab58d40f47ac0e99667c6dcf191e80f&v=4" width="24" alt="Avatar of mecha"> mecha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mecha">Copy rank badge</a><br/>
+			Miguel Muscat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mechadev">mechadev</a></td>
+		<td>Malta</td>
+		<td>395</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/AFLucas-UOM">
+				<img src="https://avatars.githubusercontent.com/u/129380963?s=72&u=95851fc7bdaa03110d0893f5dd5883946bc5a8de&v=4" width="24" alt="Avatar of AFLucas-UOM"> AFLucas-UOM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#AFLucas-UOM">Copy rank badge</a><br/>
+			Andrea Filiberto Lucas
+		</td>
+		<td>Dawl Lab · Dept.<br/>Of<br/>Ai<br/>·<br/>University<br/>Of<br/>Malta<br/></td>
+		<td><a href="https://twitter.com/AFLucas26">AFLucas26</a></td>
+		<td>Malta</td>
+		<td>377</td>
+	</tr>
+	<tr>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/nerjs">
 				<img src="https://avatars.githubusercontent.com/u/37116054?s=72&u=dfddcc6106f38092b885d592d03fd7abb6460662&v=4" width="24" alt="Avatar of nerjs"> nerjs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nerjs">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>362</td>
+		<td>373</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/ifeanyianyanwu">
 				<img src="https://avatars.githubusercontent.com/u/75376053?s=72&u=7ad8895f21ee855f78e01794ceb733cc80383148&v=4" width="24" alt="Avatar of ifeanyianyanwu"> ifeanyianyanwu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ifeanyianyanwu">Copy rank badge</a><br/>
 			Ifeanyi Anyanwu 
 		</td>
 		<td>No Company</td>
@@ -781,128 +835,154 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>354</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>57</td>
 		<td>
-			<a href="https://github.com/norbertbonnici">
-				<img src="https://avatars.githubusercontent.com/u/1004378?s=72&u=9f03b980c6fcfde72a2c26f01a92de1240593e93&v=4" width="24" alt="Avatar of norbertbonnici"> norbertbonnici
-			</a><br/>
-			Norbert Bonnici
+			<a href="https://github.com/GODrums">
+				<img src="https://avatars.githubusercontent.com/u/21990230?s=72&u=13753bc1fd99350e15ffb6a4f0dadf41685ae586&v=4" width="24" alt="Avatar of GODrums"> GODrums
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#GODrums">Copy rank badge</a><br/>
+			GODrums
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/norbertbonnici">norbertbonnici</a></td>
+		<td><a href="https://twitter.com/rumscsgo">rumscsgo</a></td>
 		<td>Malta</td>
-		<td>336</td>
+		<td>351</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/tonyputi">
 				<img src="https://avatars.githubusercontent.com/u/8282385?s=72&v=4" width="24" alt="Avatar of tonyputi"> tonyputi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#tonyputi">Copy rank badge</a><br/>
 			Filippo Sallemi
 		</td>
 		<td>Filippo Sallemi </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>321</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/SakuraIsayeki">
-				<img src="https://avatars.githubusercontent.com/u/4705518?s=72&u=0674b733155d60aaedf88c268c28b9e6513eaf4b&v=4" width="24" alt="Avatar of SakuraIsayeki"> SakuraIsayeki
-			</a><br/>
-			Sakura Isayeki
-		</td>
-		<td>@nodsoft / @betssongroup </td>
-		<td>No Twitter Username</td>
-		<td>Saint Paul's Bay, Malta</td>
-		<td>306</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/matthewnessworthy">
-				<img src="https://avatars.githubusercontent.com/u/5653887?s=72&u=146764b1b32ab35eb1895828e7d09fd3201d8673&v=4" width="24" alt="Avatar of matthewnessworthy"> matthewnessworthy
-			</a><br/>
-			Matthew Nessworthy
-		</td>
-		<td>@ringierimu </td>
-		<td>No Twitter Username</td>
-		<td>Gozo, Malta</td>
-		<td>303</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/jerrywang33">
-				<img src="https://avatars.githubusercontent.com/u/252975420?s=72&u=9dd3d674f7572f919f52f5d751f1c70082fd8b94&v=4" width="24" alt="Avatar of jerrywang33"> jerrywang33
-			</a><br/>
-			JerryWang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>285</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/andimon">
-				<img src="https://avatars.githubusercontent.com/u/36232533?s=72&u=a121c48dad86c685beadf144e364402ff79695e6&v=4" width="24" alt="Avatar of andimon"> andimon
-			</a><br/>
-			Andre Vella
-		</td>
-		<td>Sphinx Pastizzeria </td>
-		<td>No Twitter Username</td>
-		<td>Zejtun, Malta</td>
-		<td>285</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/sai-kumar-peddireddy">
-				<img src="https://avatars.githubusercontent.com/u/35918740?s=72&u=bbd3c736f61ed0d9d3bae21409ef69fb2fd4b105&v=4" width="24" alt="Avatar of sai-kumar-peddireddy"> sai-kumar-peddireddy
-			</a><br/>
-			Sai Kumar Peddireddy
-		</td>
-		<td>@parallels  </td>
-		<td><a href="https://twitter.com/PeddireddySai">PeddireddySai</a></td>
-		<td>Valletta, Malta</td>
-		<td>283</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/nathan-abela">
 				<img src="https://avatars.githubusercontent.com/u/50643013?s=72&v=4" width="24" alt="Avatar of nathan-abela"> nathan-abela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nathan-abela">Copy rank badge</a><br/>
 			Nathan Abela
 		</td>
 		<td>Betsson Group </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>273</td>
+		<td>340</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/alexportelli12">
+				<img src="https://avatars.githubusercontent.com/u/27212202?s=72&u=27ad9413fb8a69f75c54a080114e50b90e9fdde3&v=4" width="24" alt="Avatar of alexportelli12"> alexportelli12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#alexportelli12">Copy rank badge</a><br/>
+			Alex Portelli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/imohweb">
-				<img src="https://avatars.githubusercontent.com/u/39197873?s=72&u=9c2f78218410ff0a53d6030cd1597245930e0f77&v=4" width="24" alt="Avatar of imohweb"> imohweb
-			</a><br/>
-			Imoh Etuk
+			<a href="https://github.com/ClementGuerin">
+				<img src="https://avatars.githubusercontent.com/u/1357503?s=72&v=4" width="24" alt="Avatar of ClementGuerin"> ClementGuerin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ClementGuerin">Copy rank badge</a><br/>
+			Clément Guerin
 		</td>
-		<td>Kpmg Mbs </td>
-		<td><a href="https://twitter.com/iamrealimoh">iamrealimoh</a></td>
-		<td>Marsa, Malta</td>
-		<td>269</td>
+		<td>Hitbox Agency </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
+			<a href="https://github.com/matthewnessworthy">
+				<img src="https://avatars.githubusercontent.com/u/5653887?s=72&u=146764b1b32ab35eb1895828e7d09fd3201d8673&v=4" width="24" alt="Avatar of matthewnessworthy"> matthewnessworthy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matthewnessworthy">Copy rank badge</a><br/>
+			Matthew Nessworthy
+		</td>
+		<td>@ringierimu </td>
+		<td>No Twitter Username</td>
+		<td>Gozo, Malta</td>
+		<td>317</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/pablocabrera85">
+				<img src="https://avatars.githubusercontent.com/u/3269977?s=72&v=4" width="24" alt="Avatar of pablocabrera85"> pablocabrera85
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#pablocabrera85">Copy rank badge</a><br/>
+			Pablo Agustin Cabrera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>304</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/gs-salitronic">
+				<img src="https://avatars.githubusercontent.com/u/219636826?s=72&u=1ae647382d097d957e1807b6af89099cdcd37f70&v=4" width="24" alt="Avatar of gs-salitronic"> gs-salitronic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gs-salitronic">Copy rank badge</a><br/>
+			George Saliba
+		</td>
+		<td>Salitronic </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/sai-kumar-peddireddy">
+				<img src="https://avatars.githubusercontent.com/u/35918740?s=72&u=bbd3c736f61ed0d9d3bae21409ef69fb2fd4b105&v=4" width="24" alt="Avatar of sai-kumar-peddireddy"> sai-kumar-peddireddy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#sai-kumar-peddireddy">Copy rank badge</a><br/>
+			Sai Kumar Peddireddy
+		</td>
+		<td>@parallels  </td>
+		<td><a href="https://twitter.com/PeddireddySai">PeddireddySai</a></td>
+		<td>Valletta, Malta</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/andimon">
+				<img src="https://avatars.githubusercontent.com/u/36232533?s=72&u=cc2119327aee82a40e3d2da43c191f054bab9676&v=4" width="24" alt="Avatar of andimon"> andimon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#andimon">Copy rank badge</a><br/>
+			Andre Vella
+		</td>
+		<td>Sphinx Pastizzeria </td>
+		<td>No Twitter Username</td>
+		<td>Zejtun, Malta</td>
+		<td>275</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/LuanDc">
+				<img src="https://avatars.githubusercontent.com/u/42556949?s=72&u=5d7563b36e8596f2b430e79842b8fe108c0ea836&v=4" width="24" alt="Avatar of LuanDc"> LuanDc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LuanDc">Copy rank badge</a><br/>
+			Luan Fellipe
+		</td>
+		<td>Yolo Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>269</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/ArjunRAj77">
 				<img src="https://avatars.githubusercontent.com/u/23217592?s=72&u=9bd2abafe6f4a99601e47e898f7bc7027d4a0690&v=4" width="24" alt="Avatar of ArjunRAj77"> ArjunRAj77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ArjunRAj77">Copy rank badge</a><br/>
 			Arjun Raj
 		</td>
 		<td>Kpmg </td>
@@ -911,115 +991,141 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/LuanDc">
-				<img src="https://avatars.githubusercontent.com/u/42556949?s=72&u=5d7563b36e8596f2b430e79842b8fe108c0ea836&v=4" width="24" alt="Avatar of LuanDc"> LuanDc
-			</a><br/>
-			Luan Fellipe
-		</td>
-		<td>Yolo Group </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>252</td>
-	</tr>
-	<tr>
-		<td>64</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/hofstede-matheus">
 				<img src="https://avatars.githubusercontent.com/u/12226197?s=72&u=c48424f4483bd8e4cb53c2013f4235cddfb854ad&v=4" width="24" alt="Avatar of hofstede-matheus"> hofstede-matheus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#hofstede-matheus">Copy rank badge</a><br/>
 			Matheus Hofstede
 		</td>
 		<td>Senior Software Engineer </td>
 		<td>No Twitter Username</td>
 		<td>Sliema, Malta</td>
-		<td>251</td>
+		<td>253</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>70</td>
 		<td>
-			<a href="https://github.com/AFLucas-UOM">
-				<img src="https://avatars.githubusercontent.com/u/129380963?s=72&u=95851fc7bdaa03110d0893f5dd5883946bc5a8de&v=4" width="24" alt="Avatar of AFLucas-UOM"> AFLucas-UOM
-			</a><br/>
-			Andrea Filiberto Lucas
+			<a href="https://github.com/SakuraIsayeki">
+				<img src="https://avatars.githubusercontent.com/u/4705518?s=72&u=0674b733155d60aaedf88c268c28b9e6513eaf4b&v=4" width="24" alt="Avatar of SakuraIsayeki"> SakuraIsayeki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SakuraIsayeki">Copy rank badge</a><br/>
+			Sakura Isayeki
 		</td>
-		<td>Dawl Lab · Dept.<br/>Of<br/>Ai<br/>·<br/>University<br/>Of<br/>Malta<br/></td>
-		<td><a href="https://twitter.com/AFLucas26">AFLucas26</a></td>
-		<td>Malta</td>
+		<td>@nodsoft / @betssongroup </td>
+		<td>No Twitter Username</td>
+		<td>Saint Paul's Bay, Malta</td>
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/cybernerdie">
-				<img src="https://avatars.githubusercontent.com/u/52431939?s=72&u=ef1b3905a70fa40baa07b693dea08dda748b3313&v=4" width="24" alt="Avatar of cybernerdie"> cybernerdie
-			</a><br/>
-			Joshua Paul
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cybernerdie">cybernerdie</a></td>
-		<td>Pieta, Malta</td>
-		<td>243</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/red-game-dev">
-				<img src="https://avatars.githubusercontent.com/u/75917402?s=72&u=92b4a15ba49529423c0c1c2d28bb6ddab9a142be&v=4" width="24" alt="Avatar of red-game-dev"> red-game-dev
-			</a><br/>
-			Redeemer Pace | Goku | Game Dev
-		</td>
-		<td>Gods Of Zushin |<br/>Amw<br/>-<br/>Game<br/>&<br/>Entertainment<br/></td>
-		<td><a href="https://twitter.com/gozushin">gozushin</a></td>
-		<td>Malta</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>68</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/cloudmark">
 				<img src="https://avatars.githubusercontent.com/u/1745830?s=72&u=d2cb46607adb97554657f7a87c9d37000ae6c090&v=4" width="24" alt="Avatar of cloudmark"> cloudmark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cloudmark">Copy rank badge</a><br/>
 			Mark Galea
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mmgalea">mmgalea</a></td>
 		<td>Malta</td>
-		<td>228</td>
+		<td>240</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>72</td>
 		<td>
-			<a href="https://github.com/Juliansv">
-				<img src="https://avatars.githubusercontent.com/u/29905290?s=72&u=034004adb71a98c7d5255858efaf1cd91b9fecda&v=4" width="24" alt="Avatar of Juliansv"> Juliansv
-			</a><br/>
-			Julian Suarez Vivas
+			<a href="https://github.com/bolatahmett">
+				<img src="https://avatars.githubusercontent.com/u/11889285?s=72&u=66a0dbaae912fb230020674d16f67674f32d4ed1&v=4" width="24" alt="Avatar of bolatahmett"> bolatahmett
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#bolatahmett">Copy rank badge</a><br/>
+			Ahmet Bolat
+		</td>
+		<td>Invicti </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/cybernerdie">
+				<img src="https://avatars.githubusercontent.com/u/52431939?s=72&u=ef1b3905a70fa40baa07b693dea08dda748b3313&v=4" width="24" alt="Avatar of cybernerdie"> cybernerdie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cybernerdie">Copy rank badge</a><br/>
+			Joshua Paul
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cybernerdie">cybernerdie</a></td>
+		<td>Pieta, Malta</td>
+		<td>233</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/motorro">
+				<img src="https://avatars.githubusercontent.com/u/924536?s=72&u=e5472461d8ea7e982e415e987aeaafd8c370f35b&v=4" width="24" alt="Avatar of motorro"> motorro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#motorro">Copy rank badge</a><br/>
+			Nikolai Kotchetkov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>222</td>
+		<td>217</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/therealpan">
+				<img src="https://avatars.githubusercontent.com/u/9303371?s=72&u=2c33d3a9407c26bb029242d7e1c65913d89fd6c3&v=4" width="24" alt="Avatar of therealpan"> therealpan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#therealpan">Copy rank badge</a><br/>
+			pan
+		</td>
+		<td>Piirz Digital Limited </td>
+		<td><a href="https://twitter.com/angelopallanca">angelopallanca</a></td>
+		<td>Malta, London</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/imohweb">
+				<img src="https://avatars.githubusercontent.com/u/39197873?s=72&u=9c2f78218410ff0a53d6030cd1597245930e0f77&v=4" width="24" alt="Avatar of imohweb"> imohweb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#imohweb">Copy rank badge</a><br/>
+			Imoh Etuk
+		</td>
+		<td>Kpmg Mbs </td>
+		<td><a href="https://twitter.com/iamrealimoh">iamrealimoh</a></td>
+		<td>Marsa, Malta</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/DevelopmentScientist420">
 				<img src="https://avatars.githubusercontent.com/u/67861273?s=72&u=fe26d26330b8ce5667f8f90ef130e2146767a73f&v=4" width="24" alt="Avatar of DevelopmentScientist420"> DevelopmentScientist420
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DevelopmentScientist420">Copy rank badge</a><br/>
 			Black Scientist
 		</td>
 		<td>Dark Hood Games </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>216</td>
+		<td>215</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/Juliansv">
+				<img src="https://avatars.githubusercontent.com/u/29905290?s=72&u=034004adb71a98c7d5255858efaf1cd91b9fecda&v=4" width="24" alt="Avatar of Juliansv"> Juliansv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Juliansv">Copy rank badge</a><br/>
+			Julian Suarez Vivas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>212</td>
+	</tr>
+	<tr>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/KeithFarrugia">
 				<img src="https://avatars.githubusercontent.com/u/148719589?s=72&u=ad3a226dc26c6523d2c085f78efd6ad95f5c399b&v=4" width="24" alt="Avatar of KeithFarrugia"> KeithFarrugia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KeithFarrugia">Copy rank badge</a><br/>
 			Keith Farrugia
 		</td>
 		<td>No Company</td>
@@ -1028,63 +1134,63 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>80</td>
 		<td>
-			<a href="https://github.com/DavidF-22">
-				<img src="https://avatars.githubusercontent.com/u/125597226?s=72&u=e17ad27ce78ca94d9216bba9c79cc0f156793a5f&v=4" width="24" alt="Avatar of DavidF-22"> DavidF-22
-			</a><br/>
-			David Farrugia
+			<a href="https://github.com/denjell-crabnebula">
+				<img src="https://avatars.githubusercontent.com/u/124795337?s=72&u=60b89c659889ad4f75f34de943cbf42dc3995d67&v=4" width="24" alt="Avatar of denjell-crabnebula"> denjell-crabnebula
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#denjell-crabnebula">Copy rank badge</a><br/>
+			Daniel 
 		</td>
-		<td>University Of Malta </td>
+		<td>Crabnebula </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>202</td>
+		<td>203</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>81</td>
 		<td>
-			<a href="https://github.com/althruist">
-				<img src="https://avatars.githubusercontent.com/u/73611627?s=72&u=da7d62763d663560e9cf0f96f6e9b6220cb308ee&v=4" width="24" alt="Avatar of althruist"> althruist
-			</a><br/>
-			Kieran
+			<a href="https://github.com/mauroziux">
+				<img src="https://avatars.githubusercontent.com/u/7992157?s=72&u=18141633e6ea66e0459b98ced41878d3f280ef38&v=4" width="24" alt="Avatar of mauroziux"> mauroziux
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mauroziux">Copy rank badge</a><br/>
+			Mauricio Suárez vega
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>198</td>
+		<td>malta</td>
+		<td>196</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>82</td>
 		<td>
-			<a href="https://github.com/pablocabrera85">
-				<img src="https://avatars.githubusercontent.com/u/3269977?s=72&v=4" width="24" alt="Avatar of pablocabrera85"> pablocabrera85
-			</a><br/>
-			Pablo Agustin Cabrera
+			<a href="https://github.com/johanssonvincent">
+				<img src="https://avatars.githubusercontent.com/u/16799965?s=72&u=8188f3faae9dfd5a333cfa90b3c964dc75908ac8&v=4" width="24" alt="Avatar of johanssonvincent"> johanssonvincent
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#johanssonvincent">Copy rank badge</a><br/>
+			Vincent Johansson
 		</td>
-		<td>No Company</td>
+		<td>@fasttrack-solutions  </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>196</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>83</td>
 		<td>
-			<a href="https://github.com/oskarlh">
-				<img src="https://avatars.githubusercontent.com/u/11921030?s=72&u=73415d68caa1db441c367865f289641d7ba4335f&v=4" width="24" alt="Avatar of oskarlh"> oskarlh
-			</a><br/>
-			Oskar Larsson Högfeldt
+			<a href="https://github.com/DavidF-22">
+				<img src="https://avatars.githubusercontent.com/u/125597226?s=72&u=e17ad27ce78ca94d9216bba9c79cc0f156793a5f&v=4" width="24" alt="Avatar of DavidF-22"> DavidF-22
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DavidF-22">Copy rank badge</a><br/>
+			David Farrugia
 		</td>
-		<td>No Company</td>
+		<td>University Of Malta </td>
 		<td>No Twitter Username</td>
-		<td>Sliema, Malta</td>
-		<td>194</td>
+		<td>Malta</td>
+		<td>195</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/ahmetya">
 				<img src="https://avatars.githubusercontent.com/u/36188290?s=72&u=97cfa9220d000323224d1d40c74196469091f557&v=4" width="24" alt="Avatar of ahmetya"> ahmetya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ahmetya">Copy rank badge</a><br/>
 			Ahmet Yalcinkaya
 		</td>
 		<td>@betssongroup </td>
@@ -1093,154 +1199,232 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>85</td>
 		<td>
-			<a href="https://github.com/therealpan">
-				<img src="https://avatars.githubusercontent.com/u/9303371?s=72&u=2c33d3a9407c26bb029242d7e1c65913d89fd6c3&v=4" width="24" alt="Avatar of therealpan"> therealpan
-			</a><br/>
-			pan
+			<a href="https://github.com/oskarlh">
+				<img src="https://avatars.githubusercontent.com/u/11921030?s=72&u=73415d68caa1db441c367865f289641d7ba4335f&v=4" width="24" alt="Avatar of oskarlh"> oskarlh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#oskarlh">Copy rank badge</a><br/>
+			Oskar Larsson Högfeldt
 		</td>
-		<td>Piirz Digital Limited </td>
-		<td><a href="https://twitter.com/angelopallanca">angelopallanca</a></td>
-		<td>Malta, London</td>
-		<td>193</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sliema, Malta</td>
+		<td>192</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/althruist">
+				<img src="https://avatars.githubusercontent.com/u/73611627?s=72&u=da7d62763d663560e9cf0f96f6e9b6220cb308ee&v=4" width="24" alt="Avatar of althruist"> althruist
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#althruist">Copy rank badge</a><br/>
+			Kieran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/Matt-Barthet">
 				<img src="https://avatars.githubusercontent.com/u/23311754?s=72&u=a20f1a156d6ea3b71795d5500b59ae8bf35ee337&v=4" width="24" alt="Avatar of Matt-Barthet"> Matt-Barthet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Matt-Barthet">Copy rank badge</a><br/>
 			Matthew Barthet
 		</td>
 		<td>Insitute Of Digital Games<br/></td>
 		<td><a href="https://twitter.com/mbarthet3">mbarthet3</a></td>
 		<td>Malta</td>
-		<td>191</td>
+		<td>187</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>88</td>
 		<td>
-			<a href="https://github.com/motorro">
-				<img src="https://avatars.githubusercontent.com/u/924536?s=72&u=e5472461d8ea7e982e415e987aeaafd8c370f35b&v=4" width="24" alt="Avatar of motorro"> motorro
-			</a><br/>
-			Nikolai Kotchetkov
+			<a href="https://github.com/fajouri">
+				<img src="https://avatars.githubusercontent.com/u/7399626?s=72&v=4" width="24" alt="Avatar of fajouri"> fajouri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fajouri">Copy rank badge</a><br/>
+			Yamil Emmanuel Fajouri
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>186</td>
+		<td>187</td>
 	</tr>
 	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/johanssonvincent">
-				<img src="https://avatars.githubusercontent.com/u/16799965?s=72&u=8188f3faae9dfd5a333cfa90b3c964dc75908ac8&v=4" width="24" alt="Avatar of johanssonvincent"> johanssonvincent
-			</a><br/>
-			Vincent Johansson
-		</td>
-		<td>@fasttrack-solutions  </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>186</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/zimejin07">
-				<img src="https://avatars.githubusercontent.com/u/190013089?s=72&u=e5dbdf1787573f07ea22f8c3ccae07df00b99598&v=4" width="24" alt="Avatar of zimejin07"> zimejin07
-			</a><br/>
-			Zimuzo Ejinkeonye
-		</td>
-		<td>@litekite-atelier  </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>182</td>
-	</tr>
-	<tr>
-		<td>82</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/adrogin">
 				<img src="https://avatars.githubusercontent.com/u/42849285?s=72&u=59f363304aefcc766c6c97788fa755fe5ca499a5&v=4" width="24" alt="Avatar of adrogin"> adrogin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#adrogin">Copy rank badge</a><br/>
 			Alexander Drogin
 		</td>
 		<td>Ls Retail </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>168</td>
+		<td>182</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/mixy1">
+				<img src="https://avatars.githubusercontent.com/u/24992851?s=72&u=44a04e55a1773c7fc56acdb693843f9c2dba2237&v=4" width="24" alt="Avatar of mixy1"> mixy1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mixy1">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_mixy1">_mixy1</a></td>
+		<td>Malta</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/Lone-Wolfgang">
+				<img src="https://avatars.githubusercontent.com/u/101272662?s=72&u=4b4df1530cf1ac245189502862cb4597c3b54e34&v=4" width="24" alt="Avatar of Lone-Wolfgang"> Lone-Wolfgang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Lone-Wolfgang">Copy rank badge</a><br/>
+			Jordan Wolfgang Klein
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>174</td>
+	</tr>
+	<tr>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/Aksaka7">
 				<img src="https://avatars.githubusercontent.com/u/31123405?s=72&u=bc0fe25b3245307329f05298e57563128cb5187a&v=4" width="24" alt="Avatar of Aksaka7"> Aksaka7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Aksaka7">Copy rank badge</a><br/>
 			Mehmetasker
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>malta</td>
-		<td>151</td>
+		<td>170</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>93</td>
 		<td>
-			<a href="https://github.com/christopher3242">
-				<img src="https://avatars.githubusercontent.com/u/52284167?s=72&u=4bfbefbef8adf5bbae1ebfad69ae5bae716a2436&v=4" width="24" alt="Avatar of christopher3242"> christopher3242
-			</a><br/>
-			Christopher
+			<a href="https://github.com/sebbourgeois">
+				<img src="https://avatars.githubusercontent.com/u/1499732?s=72&u=64ac0dadad33991a1edfb52663c034f53bb55453&v=4" width="24" alt="Avatar of sebbourgeois"> sebbourgeois
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#sebbourgeois">Copy rank badge</a><br/>
+			Sébastien Bourgeois
+		</td>
+		<td>Seez </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/TykoDev">
+				<img src="https://avatars.githubusercontent.com/u/174830180?s=72&u=a31ec0e4a8587859e163cbd63955b96f7e74688c&v=4" width="24" alt="Avatar of TykoDev"> TykoDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#TykoDev">Copy rank badge</a><br/>
+			LionTech
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>149</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/zk2">
+				<img src="https://avatars.githubusercontent.com/u/4775391?s=72&u=4d428f06e50e0794802416f1e2fa1273657b0432&v=4" width="24" alt="Avatar of zk2"> zk2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zk2">Copy rank badge</a><br/>
+			Evgeniy Budanov
+		</td>
+		<td>@dataproboston  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/ijtan">
+				<img src="https://avatars.githubusercontent.com/u/11772153?s=72&u=92d99c3b004f635ed6d2e2ad6ab26e0a4d90b4c7&v=4" width="24" alt="Avatar of ijtan"> ijtan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ijtan">Copy rank badge</a><br/>
+			Ethan Zammit
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/BatuhanYilmaz26">
+				<img src="https://avatars.githubusercontent.com/u/65656783?s=72&u=b02187ddf0cbaef4d4daf28c4f65c0b949714ed3&v=4" width="24" alt="Avatar of BatuhanYilmaz26"> BatuhanYilmaz26
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#BatuhanYilmaz26">Copy rank badge</a><br/>
+			Batuhan Yılmaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/theWhisk">
 				<img src="https://avatars.githubusercontent.com/u/59413677?s=72&u=92b84d4ab5a83591f5e6ea068248c31e47045067&v=4" width="24" alt="Avatar of theWhisk"> theWhisk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#theWhisk">Copy rank badge</a><br/>
 			William Smallman-Köpf
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/HenryI16813809">HenryI16813809</a></td>
 		<td>Malta</td>
-		<td>147</td>
+		<td>148</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/LamplighterPaul">
+				<img src="https://avatars.githubusercontent.com/u/248680296?s=72&u=b0a2a7f55e2a190515aacabd9704ee489929b005&v=4" width="24" alt="Avatar of LamplighterPaul"> LamplighterPaul
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LamplighterPaul">Copy rank badge</a><br/>
+			Paul ⏳
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LamplighterPaul">LamplighterPaul</a></td>
+		<td>Malta</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/viktor-richard-ban">
 				<img src="https://avatars.githubusercontent.com/u/61428879?s=72&u=1e8e5f25dbc44e13b1386807d1bd275bd18639ff&v=4" width="24" alt="Avatar of viktor-richard-ban"> viktor-richard-ban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#viktor-richard-ban">Copy rank badge</a><br/>
 			Viktor Bán
 		</td>
 		<td>@betssongroup Prev At @hiflylabs<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>145</td>
+		<td>144</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>101</td>
 		<td>
-			<a href="https://github.com/mauroziux">
-				<img src="https://avatars.githubusercontent.com/u/7992157?s=72&u=18141633e6ea66e0459b98ced41878d3f280ef38&v=4" width="24" alt="Avatar of mauroziux"> mauroziux
-			</a><br/>
-			Mauricio Suárez vega
+			<a href="https://github.com/zimejin07">
+				<img src="https://avatars.githubusercontent.com/u/190013089?s=72&u=e5dbdf1787573f07ea22f8c3ccae07df00b99598&v=4" width="24" alt="Avatar of zimejin07"> zimejin07
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zimejin07">Copy rank badge</a><br/>
+			Zimuzo Ejinkeonye
 		</td>
-		<td>No Company</td>
+		<td>@litekite-atelier  </td>
 		<td>No Twitter Username</td>
-		<td>malta</td>
-		<td>141</td>
+		<td>Malta</td>
+		<td>143</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/snipe-dev">
 				<img src="https://avatars.githubusercontent.com/u/108638745?s=72&u=11d0e52dac3144f7233dee20cfa3749c8e734f14&v=4" width="24" alt="Avatar of snipe-dev"> snipe-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#snipe-dev">Copy rank badge</a><br/>
 			Aleksandr
 		</td>
 		<td>Blockchain  </td>
@@ -1249,12 +1433,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>103</td>
 		<td>
-			<a href="https://github.com/TykoDev">
-				<img src="https://avatars.githubusercontent.com/u/174830180?s=72&u=a31ec0e4a8587859e163cbd63955b96f7e74688c&v=4" width="24" alt="Avatar of TykoDev"> TykoDev
-			</a><br/>
-			LionTech
+			<a href="https://github.com/XedinUnknown">
+				<img src="https://avatars.githubusercontent.com/u/1428973?s=72&v=4" width="24" alt="Avatar of XedinUnknown"> XedinUnknown
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#XedinUnknown">Copy rank badge</a><br/>
+			Anton Ukhanev
+		</td>
+		<td>@un1q-com, @dhii </td>
+		<td><a href="https://twitter.com/xedinunknown">xedinunknown</a></td>
+		<td>Malta</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/christopher3242">
+				<img src="https://avatars.githubusercontent.com/u/52284167?s=72&u=4bfbefbef8adf5bbae1ebfad69ae5bae716a2436&v=4" width="24" alt="Avatar of christopher3242"> christopher3242
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#christopher3242">Copy rank badge</a><br/>
+			Christopher
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1262,11 +1459,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/matteotrubini">
+				<img src="https://avatars.githubusercontent.com/u/7964032?s=72&u=983f0887eb8d59a0f05c2f88ae8de7b4a7f0aa5a&v=4" width="24" alt="Avatar of matteotrubini"> matteotrubini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matteotrubini">Copy rank badge</a><br/>
+			Matteo Trubini
+		</td>
+		<td>@cubicsrl @cubicltd  </td>
+		<td>No Twitter Username</td>
+		<td>Lucca, Italy - Żebbuġ, Malta</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/liabri">
 				<img src="https://avatars.githubusercontent.com/u/40229335?s=72&v=4" width="24" alt="Avatar of liabri"> liabri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#liabri">Copy rank badge</a><br/>
 			liabri
 		</td>
 		<td>No Company</td>
@@ -1275,11 +1485,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/nicolaslair">
 				<img src="https://avatars.githubusercontent.com/u/667979?s=72&u=45e499ef100ce69d5a5c0ea8f276d042fd2c8225&v=4" width="24" alt="Avatar of nicolaslair"> nicolaslair
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nicolaslair">Copy rank badge</a><br/>
 			n:ko
 		</td>
 		<td>Above The Clouds </td>
@@ -1288,24 +1498,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/sgrech">
-				<img src="https://avatars.githubusercontent.com/u/3273816?s=72&u=2e98162d70bfce222607f37115fa6d67dbe06638&v=4" width="24" alt="Avatar of sgrech"> sgrech
-			</a><br/>
-			Shane Grech
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>93</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/zammitjames">
 				<img src="https://avatars.githubusercontent.com/u/1213082?s=72&u=d7558341937c17c07bfb4f86fb23fb6b1a1ef5ff&v=4" width="24" alt="Avatar of zammitjames"> zammitjames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zammitjames">Copy rank badge</a><br/>
 			James Zammit
 		</td>
 		<td>Senior Software Engineer </td>
@@ -1314,11 +1511,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/majorimi">
 				<img src="https://avatars.githubusercontent.com/u/7632824?s=72&u=f14a388b4a293218fe42c316f5f734331b4da2ae&v=4" width="24" alt="Avatar of majorimi"> majorimi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#majorimi">Copy rank badge</a><br/>
 			Imre Toth
 		</td>
 		<td>Freelancer (tech Lead, Architect)<br/></td>
@@ -1327,37 +1524,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/kevinfarrugia">
 				<img src="https://avatars.githubusercontent.com/u/8075326?s=72&u=46e04e2e046769c8087b0e1d39158e17d79ad52d&v=4" width="24" alt="Avatar of kevinfarrugia"> kevinfarrugia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kevinfarrugia">Copy rank badge</a><br/>
 			Kevin Farrugia
 		</td>
 		<td>@spiffingio  </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>125</td>
+		<td>123</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>111</td>
 		<td>
-			<a href="https://github.com/Lone-Wolfgang">
-				<img src="https://avatars.githubusercontent.com/u/101272662?s=72&u=4b4df1530cf1ac245189502862cb4597c3b54e34&v=4" width="24" alt="Avatar of Lone-Wolfgang"> Lone-Wolfgang
-			</a><br/>
-			Jordan Wolfgang Klein
+			<a href="https://github.com/mark-vella">
+				<img src="https://avatars.githubusercontent.com/u/16002916?s=72&u=d5b015b09636f2ce4cb58253b26376df28d807dc&v=4" width="24" alt="Avatar of mark-vella"> mark-vella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mark-vella">Copy rank badge</a><br/>
+			Mark Vella
 		</td>
-		<td>No Company</td>
+		<td>@chiliz </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>124</td>
+		<td>122</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/adalseno">
 				<img src="https://avatars.githubusercontent.com/u/2405291?s=72&u=078fd07e1ab6b2a4a7a815423a2b60312b02c036&v=4" width="24" alt="Avatar of adalseno"> adalseno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#adalseno">Copy rank badge</a><br/>
 			Andrea Dalseno
 		</td>
 		<td>No Company</td>
@@ -1366,37 +1563,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>113</td>
 		<td>
-			<a href="https://github.com/XedinUnknown">
-				<img src="https://avatars.githubusercontent.com/u/1428973?s=72&v=4" width="24" alt="Avatar of XedinUnknown"> XedinUnknown
-			</a><br/>
-			Anton Ukhanev
-		</td>
-		<td>@un1q-com, @dhii </td>
-		<td><a href="https://twitter.com/xedinunknown">xedinunknown</a></td>
-		<td>Malta</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/LamplighterPaul">
-				<img src="https://avatars.githubusercontent.com/u/248680296?s=72&u=b0a2a7f55e2a190515aacabd9704ee489929b005&v=4" width="24" alt="Avatar of LamplighterPaul"> LamplighterPaul
-			</a><br/>
-			Paul ⏳
+			<a href="https://github.com/stevedotmt">
+				<img src="https://avatars.githubusercontent.com/u/9993446?s=72&u=77f41300b649520e5a9e804feaef38c3c4bc54a9&v=4" width="24" alt="Avatar of stevedotmt"> stevedotmt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stevedotmt">Copy rank badge</a><br/>
+			Steve Xuereb
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LamplighterPaul">LamplighterPaul</a></td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>120</td>
+		<td>119</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/DylanZammit">
 				<img src="https://avatars.githubusercontent.com/u/14850740?s=72&u=0d757f88d887289ee7fb0532dfef72efd08477d0&v=4" width="24" alt="Avatar of DylanZammit"> DylanZammit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DylanZammit">Copy rank badge</a><br/>
 			Dylan Zammit
 		</td>
 		<td>No Company</td>
@@ -1405,25 +1589,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>115</td>
 		<td>
-			<a href="https://github.com/Ethnical">
-				<img src="https://avatars.githubusercontent.com/u/23560242?s=72&u=9ed72d81ef2ef3f0b627c89a24c0e86e9108ff75&v=4" width="24" alt="Avatar of Ethnical"> Ethnical
-			</a><br/>
-			No Name
-		</td>
-		<td>@ethereum-optimism  </td>
-		<td><a href="https://twitter.com/EthnicalInfo">EthnicalInfo</a></td>
-		<td>Malta</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/stevedotmt">
-				<img src="https://avatars.githubusercontent.com/u/9993446?s=72&u=77f41300b649520e5a9e804feaef38c3c4bc54a9&v=4" width="24" alt="Avatar of stevedotmt"> stevedotmt
-			</a><br/>
-			Steve Xuereb
+			<a href="https://github.com/m2ximus">
+				<img src="https://avatars.githubusercontent.com/u/11031458?s=72&u=934cdade8ffc22603daa970c771a0276183fe9ca&v=4" width="24" alt="Avatar of m2ximus"> m2ximus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#m2ximus">Copy rank badge</a><br/>
+			max—os
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1431,102 +1602,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/ijtan">
-				<img src="https://avatars.githubusercontent.com/u/11772153?s=72&u=92d99c3b004f635ed6d2e2ad6ab26e0a4d90b4c7&v=4" width="24" alt="Avatar of ijtan"> ijtan
-			</a><br/>
-			Ethan Zammit
-		</td>
-		<td>University Of Malta </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/marius-kengne">
-				<img src="https://avatars.githubusercontent.com/u/68014250?s=72&u=b368ba530a5ad8aa903bd8f74967b9d73c0e9597&v=4" width="24" alt="Avatar of marius-kengne"> marius-kengne
-			</a><br/>
-			Marius KENGNE
-		</td>
-		<td>Neural Ai </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/zk2">
-				<img src="https://avatars.githubusercontent.com/u/4775391?s=72&u=4d428f06e50e0794802416f1e2fa1273657b0432&v=4" width="24" alt="Avatar of zk2"> zk2
-			</a><br/>
-			Evgeniy Budanov
-		</td>
-		<td>@dataproboston  </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
 		<td>116</td>
-	</tr>
-	<tr>
-		<td>106</td>
 		<td>
-			<a href="https://github.com/MrKalister">
-				<img src="https://avatars.githubusercontent.com/u/90730760?s=72&u=7ca893686c90db441e76fe8805055a1a69cefef6&v=4" width="24" alt="Avatar of MrKalister"> MrKalister
-			</a><br/>
-			Novikov Maksim
+			<a href="https://github.com/amidos2006">
+				<img src="https://avatars.githubusercontent.com/u/1292799?s=72&u=ae345089ae4e4f9175b7dfbb30196230d01fda55&v=4" width="24" alt="Avatar of amidos2006"> amidos2006
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#amidos2006">Copy rank badge</a><br/>
+			Ahmed Khalifa
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>115</td>
+		<td><a href="https://twitter.com/amidos2006">amidos2006</a></td>
+		<td>Gzira, Malta</td>
+		<td>111</td>
 	</tr>
 	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/mark-vella">
-				<img src="https://avatars.githubusercontent.com/u/16002916?s=72&u=d5b015b09636f2ce4cb58253b26376df28d807dc&v=4" width="24" alt="Avatar of mark-vella"> mark-vella
-			</a><br/>
-			Mark Vella
-		</td>
-		<td>@chiliz </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/mixy1">
-				<img src="https://avatars.githubusercontent.com/u/24992851?s=72&u=44a04e55a1773c7fc56acdb693843f9c2dba2237&v=4" width="24" alt="Avatar of mixy1"> mixy1
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_mixy1">_mixy1</a></td>
-		<td>Malta</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/sebbourgeois">
-				<img src="https://avatars.githubusercontent.com/u/1499732?s=72&u=64ac0dadad33991a1edfb52663c034f53bb55453&v=4" width="24" alt="Avatar of sebbourgeois"> sebbourgeois
-			</a><br/>
-			Sébastien Bourgeois
-		</td>
-		<td>Seez </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>112</td>
-	</tr>
-	<tr>
-		<td>110</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/angusgee">
 				<img src="https://avatars.githubusercontent.com/u/108215590?s=72&u=3c5ce526102d3758306ba6c6cfb41541d1b74b6b&v=4" width="24" alt="Avatar of angusgee"> angusgee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#angusgee">Copy rank badge</a><br/>
 			Angus Girvan
 		</td>
 		<td>No Company</td>
@@ -1535,11 +1628,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/marius-kengne">
+				<img src="https://avatars.githubusercontent.com/u/68014250?s=72&u=b368ba530a5ad8aa903bd8f74967b9d73c0e9597&v=4" width="24" alt="Avatar of marius-kengne"> marius-kengne
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#marius-kengne">Copy rank badge</a><br/>
+			Marius KENGNE
+		</td>
+		<td>Neural Ai </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/mattpri22">
 				<img src="https://avatars.githubusercontent.com/u/183287208?s=72&u=7fdcbcf4a2d1284a3e28f614ecb00ded3a5b72fd&v=4" width="24" alt="Avatar of mattpri22"> mattpri22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mattpri22">Copy rank badge</a><br/>
 			Matthew Privitera
 		</td>
 		<td>No Company</td>
@@ -1548,11 +1654,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/cwebdesign">
 				<img src="https://avatars.githubusercontent.com/u/9461349?s=72&v=4" width="24" alt="Avatar of cwebdesign"> cwebdesign
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cwebdesign">Copy rank badge</a><br/>
 			Cweb
 		</td>
 		<td>No Company</td>
@@ -1561,11 +1667,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/kurtaqui">
 				<img src="https://avatars.githubusercontent.com/u/9292794?s=72&u=b375555815ada89fa0e5de328356406fe773c7ab&v=4" width="24" alt="Avatar of kurtaqui"> kurtaqui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kurtaqui">Copy rank badge</a><br/>
 			Kurt Aquilina
 		</td>
 		<td>No Company</td>
@@ -1574,11 +1680,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/vaskes79">
 				<img src="https://avatars.githubusercontent.com/u/3108240?s=72&u=09f23a416bc3777208ff6f2131a494796bb27eaf&v=4" width="24" alt="Avatar of vaskes79"> vaskes79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#vaskes79">Copy rank badge</a><br/>
 			Vasily Guzov
 		</td>
 		<td>No Company</td>
@@ -1587,11 +1693,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/jerrywang33">
+				<img src="https://avatars.githubusercontent.com/u/252975420?s=72&u=9dd3d674f7572f919f52f5d751f1c70082fd8b94&v=4" width="24" alt="Avatar of jerrywang33"> jerrywang33
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jerrywang33">Copy rank badge</a><br/>
+			JerryWang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/opheus2">
 				<img src="https://avatars.githubusercontent.com/u/31169044?s=72&v=4" width="24" alt="Avatar of opheus2"> opheus2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#opheus2">Copy rank badge</a><br/>
 			orpheusohms
 		</td>
 		<td>No Company</td>
@@ -1600,24 +1719,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/drmenguin">
-				<img src="https://avatars.githubusercontent.com/u/19354076?s=72&u=cf7cc492da5de4871de9f324810aca5417a45881&v=4" width="24" alt="Avatar of drmenguin"> drmenguin
-			</a><br/>
-			Luke Collins
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>117</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/Kryptic869">
 				<img src="https://avatars.githubusercontent.com/u/79280069?s=72&u=b491091e7a8edfe129eddc9f8091d462452025bd&v=4" width="24" alt="Avatar of Kryptic869"> Kryptic869
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Kryptic869">Copy rank badge</a><br/>
 			Matthew Camilleri
 		</td>
 		<td>No Company</td>
@@ -1626,115 +1732,128 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/RPCdotcom">
-				<img src="https://avatars.githubusercontent.com/u/141464235?s=72&u=9332abc49157cb11c9d17d03a2e32caa3d155358&v=4" width="24" alt="Avatar of RPCdotcom"> RPCdotcom
-			</a><br/>
-			RPCdot.com
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rpcdot">rpcdot</a></td>
-		<td>Swiss - Turkiye - UK - Estonia - Malta</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>119</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/danielefavi">
 				<img src="https://avatars.githubusercontent.com/u/7241290?s=72&u=8c40c3749be0185526c768954a853762ec8da454&v=4" width="24" alt="Avatar of danielefavi"> danielefavi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#danielefavi">Copy rank badge</a><br/>
 			Dan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>95</td>
+		<td>96</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>127</td>
 		<td>
-			<a href="https://github.com/simad">
-				<img src="https://avatars.githubusercontent.com/u/5015118?s=72&u=b822ea2fa30ed5831c9be38487b7f6ef22cd19c7&v=4" width="24" alt="Avatar of simad"> simad
-			</a><br/>
-			Silvia Mandalà
+			<a href="https://github.com/JuxhinDB">
+				<img src="https://avatars.githubusercontent.com/u/8005101?s=72&u=c3d2162dfd07ae0871d5bb6ae5d9c8b59fedfa8c&v=4" width="24" alt="Avatar of JuxhinDB"> JuxhinDB
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JuxhinDB">Copy rank badge</a><br/>
+			Juxhin
 		</td>
-		<td>Antifragility Labs </td>
-		<td>No Twitter Username</td>
+		<td>@haveibeensquatted </td>
+		<td><a href="https://twitter.com/juxhindb">juxhindb</a></td>
 		<td>Malta</td>
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>128</td>
 		<td>
-			<a href="https://github.com/ianharrigan">
-				<img src="https://avatars.githubusercontent.com/u/3024242?s=72&u=caabca6edda15213eb45a5ab5afb4a863de25e69&v=4" width="24" alt="Avatar of ianharrigan"> ianharrigan
-			</a><br/>
-			Ian Harrigan
+			<a href="https://github.com/MrKalister">
+				<img src="https://avatars.githubusercontent.com/u/90730760?s=72&u=7ca893686c90db441e76fe8805055a1a69cefef6&v=4" width="24" alt="Avatar of MrKalister"> MrKalister
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MrKalister">Copy rank badge</a><br/>
+			Novikov Maksim
 		</td>
-		<td>Freelance </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>89</td>
+		<td>92</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/BISAM20">
 				<img src="https://avatars.githubusercontent.com/u/266363764?s=72&u=f42ddc43673290c9e7e4352339c6a35a93ba6e7c&v=4" width="24" alt="Avatar of BISAM20"> BISAM20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#BISAM20">Copy rank badge</a><br/>
 			Bishoy Samaan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>89</td>
+		<td>91</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/kazuma007">
 				<img src="https://avatars.githubusercontent.com/u/28896927?s=72&v=4" width="24" alt="Avatar of kazuma007"> kazuma007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kazuma007">Copy rank badge</a><br/>
 			Kazuma Morishita
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>88</td>
+		<td>91</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>131</td>
 		<td>
-			<a href="https://github.com/denjell-crabnebula">
-				<img src="https://avatars.githubusercontent.com/u/124795337?s=72&u=60b89c659889ad4f75f34de943cbf42dc3995d67&v=4" width="24" alt="Avatar of denjell-crabnebula"> denjell-crabnebula
-			</a><br/>
-			Daniel 
+			<a href="https://github.com/simad">
+				<img src="https://avatars.githubusercontent.com/u/5015118?s=72&u=b822ea2fa30ed5831c9be38487b7f6ef22cd19c7&v=4" width="24" alt="Avatar of simad"> simad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#simad">Copy rank badge</a><br/>
+			Silvia Mandalà
 		</td>
-		<td>Crabnebula </td>
+		<td>Antifragility Labs </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>87</td>
+		<td>86</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/RPCdotcom">
+				<img src="https://avatars.githubusercontent.com/u/141464235?s=72&u=9332abc49157cb11c9d17d03a2e32caa3d155358&v=4" width="24" alt="Avatar of RPCdotcom"> RPCdotcom
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#RPCdotcom">Copy rank badge</a><br/>
+			RPCdot.com
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rpcdot">rpcdot</a></td>
+		<td>Swiss - Turkiye - UK - Estonia - Malta</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/drmenguin">
+				<img src="https://avatars.githubusercontent.com/u/19354076?s=72&u=cf7cc492da5de4871de9f324810aca5417a45881&v=4" width="24" alt="Avatar of drmenguin"> drmenguin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#drmenguin">Copy rank badge</a><br/>
+			Luke Collins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/936erpl">
 				<img src="https://avatars.githubusercontent.com/u/112661516?s=72&u=532866ff4ea7607655053d2269e5caaac781677b&v=4" width="24" alt="Avatar of 936erpl"> 936erpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#936erpl">Copy rank badge</a><br/>
 			639
 		</td>
 		<td>Cybermux </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>85</td>
+		<td>83</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/kayleighcodingthings">
 				<img src="https://avatars.githubusercontent.com/u/174701071?s=72&u=fd578be13fec6ae34b895656d1aa354575927c2e&v=4" width="24" alt="Avatar of kayleighcodingthings"> kayleighcodingthings
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kayleighcodingthings">Copy rank badge</a><br/>
 			Kayleigh Agius
 		</td>
 		<td>No Company</td>
@@ -1743,11 +1862,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/GasparBonari">
 				<img src="https://avatars.githubusercontent.com/u/89667053?s=72&u=9bef1819cc02fefdcde2d016d61341ae4bcab3c2&v=4" width="24" alt="Avatar of GasparBonari"> GasparBonari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#GasparBonari">Copy rank badge</a><br/>
 			Gaspar Bonari
 		</td>
 		<td>No Company</td>
@@ -1756,11 +1875,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/paulera">
 				<img src="https://avatars.githubusercontent.com/u/2051955?s=72&u=b1222012e5ec841124e2594b42f5aa11a92294c2&v=4" width="24" alt="Avatar of paulera"> paulera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#paulera">Copy rank badge</a><br/>
 			Paulo Amaral
 		</td>
 		<td>No Company</td>
@@ -1769,64 +1888,51 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/IlyaHomka">
-				<img src="https://avatars.githubusercontent.com/u/38095002?s=72&v=4" width="24" alt="Avatar of IlyaHomka"> IlyaHomka
-			</a><br/>
-			Ilia Khomchenko
-		</td>
-		<td>University Of Malta </td>
-		<td>No Twitter Username</td>
-		<td>Msida, Malta</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>130</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/noelzahra">
 				<img src="https://avatars.githubusercontent.com/u/1555886?s=72&u=e9a841fdfc2936b59fca6d1c0fb0a3c8c7bd8126&v=4" width="24" alt="Avatar of noelzahra"> noelzahra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#noelzahra">Copy rank badge</a><br/>
 			Noel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>79</td>
+		<td>81</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>139</td>
 		<td>
-			<a href="https://github.com/snikolaidis">
-				<img src="https://avatars.githubusercontent.com/u/4706466?s=72&v=4" width="24" alt="Avatar of snikolaidis"> snikolaidis
-			</a><br/>
-			Stratos Nikolaidis
+			<a href="https://github.com/ianharrigan">
+				<img src="https://avatars.githubusercontent.com/u/3024242?s=72&u=caabca6edda15213eb45a5ab5afb4a863de25e69&v=4" width="24" alt="Avatar of ianharrigan"> ianharrigan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ianharrigan">Copy rank badge</a><br/>
+			Ian Harrigan
 		</td>
-		<td>No Company</td>
+		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>140</td>
 		<td>
-			<a href="https://github.com/Geod24">
-				<img src="https://avatars.githubusercontent.com/u/2180215?s=72&v=4" width="24" alt="Avatar of Geod24"> Geod24
-			</a><br/>
-			Mathias LANG
+			<a href="https://github.com/Matthias-VP-UoM">
+				<img src="https://avatars.githubusercontent.com/u/129401057?s=72&u=587148f8a9e0e58034d1ab3bb9939f680804b263&v=4" width="24" alt="Avatar of Matthias-VP-UoM"> Matthias-VP-UoM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Matthias-VP-UoM">Copy rank badge</a><br/>
+			Matthias Vassallo Pulis
 		</td>
-		<td>Salang.io </td>
+		<td>University Of Malta </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>78</td>
+		<td>79</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>141</td>
 		<td>
-			<a href="https://github.com/BatuhanYilmaz26">
-				<img src="https://avatars.githubusercontent.com/u/65656783?s=72&u=b02187ddf0cbaef4d4daf28c4f65c0b949714ed3&v=4" width="24" alt="Avatar of BatuhanYilmaz26"> BatuhanYilmaz26
-			</a><br/>
-			Batuhan Yılmaz
+			<a href="https://github.com/andrezammit">
+				<img src="https://avatars.githubusercontent.com/u/1511456?s=72&u=f45023324dde8021e49dfe93f2150ad974803ff1&v=4" width="24" alt="Avatar of andrezammit"> andrezammit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#andrezammit">Copy rank badge</a><br/>
+			André Zammit
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1834,63 +1940,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/ehartman11">
 				<img src="https://avatars.githubusercontent.com/u/136380482?s=72&u=88c579b2ba30a6e348b21b0ea15edc77135901ba&v=4" width="24" alt="Avatar of ehartman11"> ehartman11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ehartman11">Copy rank badge</a><br/>
 			Ethan Hartman
 		</td>
 		<td>Dod/doe </td>
 		<td>No Twitter Username</td>
 		<td>Malta, NY</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/amidos2006">
-				<img src="https://avatars.githubusercontent.com/u/1292799?s=72&u=ae345089ae4e4f9175b7dfbb30196230d01fda55&v=4" width="24" alt="Avatar of amidos2006"> amidos2006
-			</a><br/>
-			Ahmed Khalifa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amidos2006">amidos2006</a></td>
-		<td>Gzira, Malta</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/dandago">
-				<img src="https://avatars.githubusercontent.com/u/13241564?s=72&v=4" width="24" alt="Avatar of dandago"> dandago
-			</a><br/>
-			Daniel D'Agostino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/NetBUG">
-				<img src="https://avatars.githubusercontent.com/u/1539823?s=72&v=4" width="24" alt="Avatar of NetBUG"> NetBUG
-			</a><br/>
-			Oleg
-		</td>
-		<td>Cerebelo </td>
-		<td>No Twitter Username</td>
-		<td>Sliema, Malta</td>
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/Avcharov">
 				<img src="https://avatars.githubusercontent.com/u/72924156?s=72&u=806a88f8138b5194dffaf314990fdc0ce7652030&v=4" width="24" alt="Avatar of Avcharov"> Avcharov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Avcharov">Copy rank badge</a><br/>
 			Hryhorii (Grig) Avcharov
 		</td>
 		<td>Betsson Group </td>
@@ -1899,37 +1966,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/iko2000">
-				<img src="https://avatars.githubusercontent.com/u/123463655?s=72&u=13cb3a06c01735e812ec96d2e47624e6dbc2e0e9&v=4" width="24" alt="Avatar of iko2000"> iko2000
-			</a><br/>
-			Iviko Shengelia
-		</td>
-		<td>88bit Limited </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/atanasivanovdev">
-				<img src="https://avatars.githubusercontent.com/u/107621899?s=72&u=6b1b22070b669e58ceda9e9f305a74db49efa240&v=4" width="24" alt="Avatar of atanasivanovdev"> atanasivanovdev
-			</a><br/>
-			Atanas Ivanov
-		</td>
-		<td>@betssongroup </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>141</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/matboud">
 				<img src="https://avatars.githubusercontent.com/u/24990394?s=72&u=ff819dd9c232b72f025d389717f4488703f2b1df&v=4" width="24" alt="Avatar of matboud"> matboud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matboud">Copy rank badge</a><br/>
 			Med Amine Matboud
 		</td>
 		<td>No Company</td>
@@ -1938,11 +1979,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/andreasmalta1">
 				<img src="https://avatars.githubusercontent.com/u/38852990?s=72&u=79a470a15933b0ab766df1d0101cb6ab66c90b8c&v=4" width="24" alt="Avatar of andreasmalta1"> andreasmalta1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#andreasmalta1">Copy rank badge</a><br/>
 			Andreas Calleja
 		</td>
 		<td>Bet365 </td>
@@ -1951,53 +1992,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/matteotrubini">
-				<img src="https://avatars.githubusercontent.com/u/7964032?s=72&u=983f0887eb8d59a0f05c2f88ae8de7b4a7f0aa5a&v=4" width="24" alt="Avatar of matteotrubini"> matteotrubini
-			</a><br/>
-			Matteo Trubini
-		</td>
-		<td>@cubicsrl @cubicltd  </td>
-		<td>No Twitter Username</td>
-		<td>Lucca, Italy - Żebbuġ, Malta</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/Izumi-sann">
-				<img src="https://avatars.githubusercontent.com/u/169927704?s=72&u=9c8057cc4039c596c5d6fb76a71a46d3c3cfb685&v=4" width="24" alt="Avatar of Izumi-sann"> Izumi-sann
-			</a><br/>
-			Alessandro
-		</td>
-		<td>Neural Ai </td>
-		<td>No Twitter Username</td>
-		<td>Malta, san gwann</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/keithbugeja">
 				<img src="https://avatars.githubusercontent.com/u/10714683?s=72&u=df7cdd8d49f39e6f8b0844539c12876051e75412&v=4" width="24" alt="Avatar of keithbugeja"> keithbugeja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#keithbugeja">Copy rank badge</a><br/>
 			Keith Bugeja
 		</td>
 		<td>University Of Malta </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/bolatahmett">
-				<img src="https://avatars.githubusercontent.com/u/11889285?s=72&u=66a0dbaae912fb230020674d16f67674f32d4ed1&v=4" width="24" alt="Avatar of bolatahmett"> bolatahmett
-			</a><br/>
-			Ahmet Bolat
-		</td>
-		<td>Invicti </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>71</td>
@@ -2007,7 +2009,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/MatthiasMifsud">
 				<img src="https://avatars.githubusercontent.com/u/171926270?s=72&u=f9cf8d7aad1fd5dc98245b3f791bd86aaaee1aa4&v=4" width="24" alt="Avatar of MatthiasMifsud"> MatthiasMifsud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MatthiasMifsud">Copy rank badge</a><br/>
 			Matthias Mifsud
 		</td>
 		<td>No Company</td>
@@ -2018,12 +2020,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>148</td>
 		<td>
-			<a href="https://github.com/Matthias-VP-UoM">
-				<img src="https://avatars.githubusercontent.com/u/129401057?s=72&u=587148f8a9e0e58034d1ab3bb9939f680804b263&v=4" width="24" alt="Avatar of Matthias-VP-UoM"> Matthias-VP-UoM
-			</a><br/>
-			Matthias Vassallo Pulis
+			<a href="https://github.com/robertscerri">
+				<img src="https://avatars.githubusercontent.com/u/69004664?s=72&u=1ee9723aaff5894a870e29de403f436180401f6a&v=4" width="24" alt="Avatar of robertscerri"> robertscerri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#robertscerri">Copy rank badge</a><br/>
+			Robert Scerri
 		</td>
-		<td>University Of Malta </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>69</td>
@@ -2033,7 +2035,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/Selman-EE">
 				<img src="https://avatars.githubusercontent.com/u/12496520?s=72&u=dfdb2d35b27a7e49c44c33dc9cc952b3789c5cfa&v=4" width="24" alt="Avatar of Selman-EE"> Selman-EE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Selman-EE">Copy rank badge</a><br/>
 			Selmanee
 		</td>
 		<td>No Company</td>
@@ -2044,35 +2046,100 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>150</td>
 		<td>
-			<a href="https://github.com/fajouri">
-				<img src="https://avatars.githubusercontent.com/u/7399626?s=72&v=4" width="24" alt="Avatar of fajouri"> fajouri
-			</a><br/>
-			Yamil Emmanuel Fajouri
+			<a href="https://github.com/atanasivanovdev">
+				<img src="https://avatars.githubusercontent.com/u/107621899?s=72&u=6b1b22070b669e58ceda9e9f305a74db49efa240&v=4" width="24" alt="Avatar of atanasivanovdev"> atanasivanovdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#atanasivanovdev">Copy rank badge</a><br/>
+			Atanas Ivanov
 		</td>
-		<td>No Company</td>
+		<td>@betssongroup </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>67</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/migueldingli1997">
-				<img src="https://avatars.githubusercontent.com/u/23614954?s=72&u=eb42b0955fd80b319bfb564e78357432e1364b07&v=4" width="24" alt="Avatar of migueldingli1997"> migueldingli1997
-			</a><br/>
-			Miguel Dingli
+			<a href="https://github.com/jkgatt">
+				<img src="https://avatars.githubusercontent.com/u/6892849?s=72&v=4" width="24" alt="Avatar of jkgatt"> jkgatt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jkgatt">Copy rank badge</a><br/>
+			Jean Gatt
 		</td>
-		<td>@simplystaking  </td>
-		<td><a href="https://twitter.com/migueldingli">migueldingli</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jean__gatt">jean__gatt</a></td>
 		<td>Malta</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>152</td>
 		<td>
+			<a href="https://github.com/dandago">
+				<img src="https://avatars.githubusercontent.com/u/13241564?s=72&v=4" width="24" alt="Avatar of dandago"> dandago
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dandago">Copy rank badge</a><br/>
+			Daniel D'Agostino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/Izumi-sann">
+				<img src="https://avatars.githubusercontent.com/u/169927704?s=72&u=9c8057cc4039c596c5d6fb76a71a46d3c3cfb685&v=4" width="24" alt="Avatar of Izumi-sann"> Izumi-sann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Izumi-sann">Copy rank badge</a><br/>
+			Alessandro Gamba
+		</td>
+		<td>Neural Ai </td>
+		<td>No Twitter Username</td>
+		<td>Malta, san gwann</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/Garfield-Chen">
+				<img src="https://avatars.githubusercontent.com/u/1573598?s=72&u=7cd19501d27a1c92c1abcb90188555eace9d08dd&v=4" width="24" alt="Avatar of Garfield-Chen"> Garfield-Chen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Garfield-Chen">Copy rank badge</a><br/>
+			Garfield
+		</td>
+		<td>Tyo House </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/victorhahncastell">
+				<img src="https://avatars.githubusercontent.com/u/3177019?s=72&u=f0ed7af4506d93f0d3d5a11d002490754429a456&v=4" width="24" alt="Avatar of victorhahncastell"> victorhahncastell
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#victorhahncastell">Copy rank badge</a><br/>
+			Victor Hahn
+		</td>
+		<td>It Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Mellieħa, Malta</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/ArthurSMR">
+				<img src="https://avatars.githubusercontent.com/u/42821179?s=72&u=e72b2d2b48fffa701006ab7243ef3d3af0efa76f&v=4" width="24" alt="Avatar of ArthurSMR"> ArthurSMR
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ArthurSMR">Copy rank badge</a><br/>
+			Arthur Rodrigues
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
 			<a href="https://github.com/DavideLaManna">
 				<img src="https://avatars.githubusercontent.com/u/125825378?s=72&u=8808f0b9390ca46d05df93c1008633d0845b392c&v=4" width="24" alt="Avatar of DavideLaManna"> DavideLaManna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DavideLaManna">Copy rank badge</a><br/>
 			Davide
 		</td>
 		<td>No Company</td>
@@ -2081,50 +2148,76 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>158</td>
 		<td>
-			<a href="https://github.com/Garfield-Chen">
-				<img src="https://avatars.githubusercontent.com/u/1573598?s=72&u=7cd19501d27a1c92c1abcb90188555eace9d08dd&v=4" width="24" alt="Avatar of Garfield-Chen"> Garfield-Chen
-			</a><br/>
-			Garfield
+			<a href="https://github.com/dottedmag">
+				<img src="https://avatars.githubusercontent.com/u/16120?s=72&u=6525020178a31442cfa9745db96a964907845341&v=4" width="24" alt="Avatar of dottedmag"> dottedmag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dottedmag">Copy rank badge</a><br/>
+			Mike Dotty
 		</td>
-		<td>Tyo House </td>
+		<td>Blackbird </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>159</td>
 		<td>
-			<a href="https://github.com/ArthurSMR">
-				<img src="https://avatars.githubusercontent.com/u/42821179?s=72&u=e72b2d2b48fffa701006ab7243ef3d3af0efa76f&v=4" width="24" alt="Avatar of ArthurSMR"> ArthurSMR
-			</a><br/>
-			Arthur Rodrigues
+			<a href="https://github.com/Allysh0w">
+				<img src="https://avatars.githubusercontent.com/u/33167123?s=72&u=f6b6e4a13329cabc2baa91aa0463735aed7843ba&v=4" width="24" alt="Avatar of Allysh0w"> Allysh0w
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Allysh0w">Copy rank badge</a><br/>
+			Allyson Martins
 		</td>
-		<td>Betsson Group </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>160</td>
 		<td>
-			<a href="https://github.com/victorhahncastell">
-				<img src="https://avatars.githubusercontent.com/u/3177019?s=72&u=f0ed7af4506d93f0d3d5a11d002490754429a456&v=4" width="24" alt="Avatar of victorhahncastell"> victorhahncastell
-			</a><br/>
-			Victor Hahn
+			<a href="https://github.com/davidbonnici1984">
+				<img src="https://avatars.githubusercontent.com/u/905774?s=72&u=85fc77d78a17a5c8e1479ac963a0d3aa4b19ec22&v=4" width="24" alt="Avatar of davidbonnici1984"> davidbonnici1984
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#davidbonnici1984">Copy rank badge</a><br/>
+			David Bonnici
 		</td>
-		<td>It Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Mellieħa, Malta</td>
+		<td>Opena3xx | Betsson Group<br/></td>
+		<td><a href="https://twitter.com/davidbonnici84">davidbonnici84</a></td>
+		<td>Malta</td>
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/raulalmeidatarazona">
+				<img src="https://avatars.githubusercontent.com/u/61455658?s=72&u=ea61e7fb0c039171098bbe4debf6d1efdf416648&v=4" width="24" alt="Avatar of raulalmeidatarazona"> raulalmeidatarazona
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#raulalmeidatarazona">Copy rank badge</a><br/>
+			Raul Almeida
+		</td>
+		<td>Ar Solucion Digital </td>
+		<td><a href="https://twitter.com/AlmeidaTarazona">AlmeidaTarazona</a></td>
+		<td>Malta</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/criticalsession">
+				<img src="https://avatars.githubusercontent.com/u/88831283?s=72&u=aa3988ba609b5b75bf12927b8651f828aa9a9cd3&v=4" width="24" alt="Avatar of criticalsession"> criticalsession
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#criticalsession">Copy rank badge</a><br/>
+			Amante Reale
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/criticalsession">criticalsession</a></td>
+		<td>Malta</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/ianmuscat">
 				<img src="https://avatars.githubusercontent.com/u/3533586?s=72&u=19a9dad955ceac6935a9732de0ee5ca507eaac08&v=4" width="24" alt="Avatar of ianmuscat"> ianmuscat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ianmuscat">Copy rank badge</a><br/>
 			Ian Muscat
 		</td>
 		<td>No Company</td>
@@ -2133,76 +2226,76 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>164</td>
 		<td>
-			<a href="https://github.com/Mallart">
-				<img src="https://avatars.githubusercontent.com/u/147828172?s=72&u=c22dfcd82ad6c0b6bd166a2961eef6c82a2f2d9e&v=4" width="24" alt="Avatar of Mallart"> Mallart
-			</a><br/>
-			Mathéo Allart
+			<a href="https://github.com/migueldingli1997">
+				<img src="https://avatars.githubusercontent.com/u/23614954?s=72&u=eb42b0955fd80b319bfb564e78357432e1364b07&v=4" width="24" alt="Avatar of migueldingli1997"> migueldingli1997
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#migueldingli1997">Copy rank badge</a><br/>
+			Miguel Dingli
 		</td>
-		<td>Webbakery </td>
+		<td>@simplystaking  </td>
+		<td><a href="https://twitter.com/migueldingli">migueldingli</a></td>
+		<td>Malta</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/Geod24">
+				<img src="https://avatars.githubusercontent.com/u/2180215?s=72&v=4" width="24" alt="Avatar of Geod24"> Geod24
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Geod24">Copy rank badge</a><br/>
+			Mathias LANG
+		</td>
+		<td>Salang.io </td>
 		<td>No Twitter Username</td>
-		<td>Hal-Tarxien, Malta</td>
+		<td>Malta</td>
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/davidbonnici1984">
-				<img src="https://avatars.githubusercontent.com/u/905774?s=72&u=85fc77d78a17a5c8e1479ac963a0d3aa4b19ec22&v=4" width="24" alt="Avatar of davidbonnici1984"> davidbonnici1984
-			</a><br/>
-			David Bonnici
-		</td>
-		<td>Opena3xx | Betsson Group<br/></td>
-		<td><a href="https://twitter.com/davidbonnici84">davidbonnici84</a></td>
-		<td>Malta</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/Expo39">
-				<img src="https://avatars.githubusercontent.com/u/83772836?s=72&u=c41f74aa25902c8760bada2d61141f656230e81c&v=4" width="24" alt="Avatar of Expo39"> Expo39
-			</a><br/>
-			Antonio Galdes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>160</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/gustavoflw">
 				<img src="https://avatars.githubusercontent.com/u/59900067?s=72&u=aa09193f3c462c1e2db2b83ca4e027c8b51acb13&v=4" width="24" alt="Avatar of gustavoflw"> gustavoflw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gustavoflw">Copy rank badge</a><br/>
 			𝕘𝕦𝕤𝕥𝕒𝕧𝕠
 		</td>
 		<td>Data Platform Engineer @<br/>Block<br/>Labs<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>59</td>
+		<td>61</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>167</td>
 		<td>
-			<a href="https://github.com/fcapolini">
-				<img src="https://avatars.githubusercontent.com/u/36851924?s=72&u=d0d01c71a1ed8d3ef4183380908ca23991d70071&v=4" width="24" alt="Avatar of fcapolini"> fcapolini
-			</a><br/>
-			Fabrizio Capolini
+			<a href="https://github.com/Mallart">
+				<img src="https://avatars.githubusercontent.com/u/147828172?s=72&u=c22dfcd82ad6c0b6bd166a2961eef6c82a2f2d9e&v=4" width="24" alt="Avatar of Mallart"> Mallart
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Mallart">Copy rank badge</a><br/>
+			Mathéo Allart
 		</td>
-		<td>No Company</td>
+		<td>Webbakery </td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
+		<td>Hal-Tarxien, Malta</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/Riocodex">
+				<img src="https://avatars.githubusercontent.com/u/79114676?s=72&u=4e2bdf1ed1b480ec49b4cdad6d19a6e77bf1f6e2&v=4" width="24" alt="Avatar of Riocodex"> Riocodex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Riocodex">Copy rank badge</a><br/>
+			RiocodeX
+		</td>
+		<td>Https://kingmakers.c </td>
+		<td><a href="https://twitter.com/onwukarosarioW">onwukarosarioW</a></td>
+		<td>Naxxar,Malta</td>
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/wonkywonka">
 				<img src="https://avatars.githubusercontent.com/u/32782674?s=72&u=d1bc06286ea3dd538e89e038e5443d26bc0b6e29&v=4" width="24" alt="Avatar of wonkywonka"> wonkywonka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#wonkywonka">Copy rank badge</a><br/>
 			Sacha Cassar
 		</td>
 		<td>Malta </td>
@@ -2211,24 +2304,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/JuxhinDB">
-				<img src="https://avatars.githubusercontent.com/u/8005101?s=72&u=c3d2162dfd07ae0871d5bb6ae5d9c8b59fedfa8c&v=4" width="24" alt="Avatar of JuxhinDB"> JuxhinDB
-			</a><br/>
-			Juxhin
-		</td>
-		<td>@haveibeensquatted </td>
-		<td><a href="https://twitter.com/juxhindb">juxhindb</a></td>
-		<td>Malta</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>164</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/neilcaruana">
 				<img src="https://avatars.githubusercontent.com/u/299606?s=72&u=77cab3e4949562c0c5ae0eb2d457bac99d3639ee&v=4" width="24" alt="Avatar of neilcaruana"> neilcaruana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#neilcaruana">Copy rank badge</a><br/>
 			Neil
 		</td>
 		<td>Shireburn Software Ltd. </td>
@@ -2237,37 +2317,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/andrewabela">
 				<img src="https://avatars.githubusercontent.com/u/37083469?s=72&u=4b117eb19cf617d4057b7d11f4bbd99dc422f340&v=4" width="24" alt="Avatar of andrewabela"> andrewabela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#andrewabela">Copy rank badge</a><br/>
 			Andrew Abela
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/andrehps">
-				<img src="https://avatars.githubusercontent.com/u/10257198?s=72&u=3e61d96473265ece362986571bca27f02bac054b&v=4" width="24" alt="Avatar of andrehps"> andrehps
-			</a><br/>
-			André Garcia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sliema (Malta) 🇲🇹</td>
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/gio-hernandez-saito">
 				<img src="https://avatars.githubusercontent.com/u/147490148?s=72&u=aab0638c2868800ae0d1a13248a6a40a6e6f134c&v=4" width="24" alt="Avatar of gio-hernandez-saito"> gio-hernandez-saito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gio-hernandez-saito">Copy rank badge</a><br/>
 			zerovoids
 		</td>
 		<td>No Company</td>
@@ -2276,11 +2343,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/gianmarcoalberti">
+				<img src="https://avatars.githubusercontent.com/u/8791619?s=72&v=4" width="24" alt="Avatar of gianmarcoalberti"> gianmarcoalberti
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gianmarcoalberti">Copy rank badge</a><br/>
+			Gianmarco Alberti
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/SpirosStampoulis">
 				<img src="https://avatars.githubusercontent.com/u/35004391?s=72&u=4e87af73fad0c044648fd987cc3b3bdd7e9c27c4&v=4" width="24" alt="Avatar of SpirosStampoulis"> SpirosStampoulis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SpirosStampoulis">Copy rank badge</a><br/>
 			Spiros Stampoulis 
 		</td>
 		<td>Web International Services Ltd<br/></td>
@@ -2289,11 +2369,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/djshababkhan">
+				<img src="https://avatars.githubusercontent.com/u/261331867?s=72&u=473bda2edea346c655c937e160ce183165654ca0&v=4" width="24" alt="Avatar of djshababkhan"> djshababkhan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#djshababkhan">Copy rank badge</a><br/>
+			Shabab Khan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/enderphan94">
+				<img src="https://avatars.githubusercontent.com/u/15033155?s=72&u=ce6b5c004046edd204f53f4a31696524c824cfbf&v=4" width="24" alt="Avatar of enderphan94"> enderphan94
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#enderphan94">Copy rank badge</a><br/>
+			Ender Loc Phan
+		</td>
+		<td>Https://kubertu.com/ </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/Berkay-Aykose">
 				<img src="https://avatars.githubusercontent.com/u/98065247?s=72&u=bafff0b795803bfa4d02264813c5345c59c334a2&v=4" width="24" alt="Avatar of Berkay-Aykose"> Berkay-Aykose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Berkay-Aykose">Copy rank badge</a><br/>
 			Berkay Mattéo Aykose
 		</td>
 		<td>Pamukkale University </td>
@@ -2302,11 +2408,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/iko2000">
+				<img src="https://avatars.githubusercontent.com/u/123463655?s=72&u=13cb3a06c01735e812ec96d2e47624e6dbc2e0e9&v=4" width="24" alt="Avatar of iko2000"> iko2000
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#iko2000">Copy rank badge</a><br/>
+			Iviko Shengelia
+		</td>
+		<td>88bit Limited </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Adarsh236">
 				<img src="https://avatars.githubusercontent.com/u/57707427?s=72&u=199bbaada539075b7b43ce8b242b43d1cbc6ea63&v=4" width="24" alt="Avatar of Adarsh236"> Adarsh236
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Adarsh236">Copy rank badge</a><br/>
 			Adarshverma1236
 		</td>
 		<td>No Company</td>
@@ -2315,12 +2434,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>180</td>
 		<td>
-			<a href="https://github.com/djshababkhan">
-				<img src="https://avatars.githubusercontent.com/u/261331867?s=72&u=473bda2edea346c655c937e160ce183165654ca0&v=4" width="24" alt="Avatar of djshababkhan"> djshababkhan
-			</a><br/>
-			Shabab Khan
+			<a href="https://github.com/stv-io">
+				<img src="https://avatars.githubusercontent.com/u/6401588?s=72&u=5cb5cb20723037400efc24ec535e7f6bad5db663&v=4" width="24" alt="Avatar of stv-io"> stv-io
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stv-io">Copy rank badge</a><br/>
+			Stephen Attard
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2328,11 +2447,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/KPull">
+				<img src="https://avatars.githubusercontent.com/u/5477536?s=72&u=edcca71d555c305bce71ad06b70a149f1dc9e448&v=4" width="24" alt="Avatar of KPull"> KPull
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KPull">Copy rank badge</a><br/>
+			Kyle Pullicino
+		</td>
+		<td>Phalanx Software Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/edwarddamato">
 				<img src="https://avatars.githubusercontent.com/u/19622548?s=72&u=f0a7b5f4623b1417726d1aeb6f034dfdbc3b1694&v=4" width="24" alt="Avatar of edwarddamato"> edwarddamato
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#edwarddamato">Copy rank badge</a><br/>
 			Edward D'Amato
 		</td>
 		<td>@pleo-io </td>
@@ -2341,11 +2473,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/palloncino">
 				<img src="https://avatars.githubusercontent.com/u/89332984?s=72&u=6eaa9261e4c058fdf4d53b08dc6e367e2e18917b&v=4" width="24" alt="Avatar of palloncino"> palloncino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#palloncino">Copy rank badge</a><br/>
 			Antonio Guiotto
 		</td>
 		<td>No Company</td>
@@ -2354,11 +2486,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/luyaneluiz">
 				<img src="https://avatars.githubusercontent.com/u/97472989?s=72&u=91be863ca8b7dc4dc7e824afd058f0b3153e19a9&v=4" width="24" alt="Avatar of luyaneluiz"> luyaneluiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#luyaneluiz">Copy rank badge</a><br/>
 			Luyane Luiz
 		</td>
 		<td>No Company</td>
@@ -2367,24 +2499,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/garyThrels">
-				<img src="https://avatars.githubusercontent.com/u/87307137?s=72&u=555a372f37ecd479a2e8cb2d366b42a3f912359e&v=4" width="24" alt="Avatar of garyThrels"> garyThrels
-			</a><br/>
-			Gary
-		</td>
-		<td>@threls-ltd  </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>176</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/yevhen-zakharevych">
 				<img src="https://avatars.githubusercontent.com/u/18073284?s=72&u=d6743edfbc8e95e8814db186a8ce418210bba01d&v=4" width="24" alt="Avatar of yevhen-zakharevych"> yevhen-zakharevych
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#yevhen-zakharevych">Copy rank badge</a><br/>
 			Yevhen Zakharevych
 		</td>
 		<td>No Company</td>
@@ -2393,24 +2512,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>186</td>
 		<td>
-			<a href="https://github.com/Allysh0w">
-				<img src="https://avatars.githubusercontent.com/u/33167123?s=72&u=f6b6e4a13329cabc2baa91aa0463735aed7843ba&v=4" width="24" alt="Avatar of Allysh0w"> Allysh0w
-			</a><br/>
-			Allyson Martins
+			<a href="https://github.com/kamasylvia">
+				<img src="https://avatars.githubusercontent.com/u/9450184?s=72&u=a2b43edfbae82776cba9b7939fd18b20d4764afa&v=4" width="24" alt="Avatar of kamasylvia"> kamasylvia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kamasylvia">Copy rank badge</a><br/>
+			Laniakea Kamasylvia
 		</td>
-		<td>No Company</td>
+		<td>Kdl </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>51</td>
+		<td>52</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/mvitor">
 				<img src="https://avatars.githubusercontent.com/u/21732?s=72&u=146d4b101cc96917dc05b553b5d555a3ed58399d&v=4" width="24" alt="Avatar of mvitor"> mvitor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mvitor">Copy rank badge</a><br/>
 			Marcio Matos
 		</td>
 		<td>No Company</td>
@@ -2419,25 +2538,38 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>188</td>
 		<td>
-			<a href="https://github.com/enderphan94">
-				<img src="https://avatars.githubusercontent.com/u/15033155?s=72&u=ce6b5c004046edd204f53f4a31696524c824cfbf&v=4" width="24" alt="Avatar of enderphan94"> enderphan94
-			</a><br/>
-			Ender Loc Phan
+			<a href="https://github.com/ica574">
+				<img src="https://avatars.githubusercontent.com/u/79566933?s=72&v=4" width="24" alt="Avatar of ica574"> ica574
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ica574">Copy rank badge</a><br/>
+			Isaac Cilia Attard
 		</td>
-		<td>Https://kubertu.com/ </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/IsaaCiliaAttard">IsaaCiliaAttard</a></td>
 		<td>Malta</td>
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>189</td>
 		<td>
-			<a href="https://github.com/zanardob">
-				<img src="https://avatars.githubusercontent.com/u/12400406?s=72&u=f9c00cf088a5b0f341f6e64ff2f8d990d873b39d&v=4" width="24" alt="Avatar of zanardob"> zanardob
-			</a><br/>
-			Guilherme Zanardo
+			<a href="https://github.com/spark8899">
+				<img src="https://avatars.githubusercontent.com/u/1016235?s=72&u=f29d5b4aa24cc002dc51cac2103f55476d6f7077&v=4" width="24" alt="Avatar of spark8899"> spark8899
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#spark8899">Copy rank badge</a><br/>
+			spark8899
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of Malta</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/salitronic">
+				<img src="https://avatars.githubusercontent.com/u/276628962?s=72&u=23ae7e1cc3c014672b309cef32b07b1e3d7216fe&v=4" width="24" alt="Avatar of salitronic"> salitronic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#salitronic">Copy rank badge</a><br/>
+			George Saliba
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2445,37 +2577,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/jecrs687">
-				<img src="https://avatars.githubusercontent.com/u/45917859?s=72&u=acd36f7201e7f6fa400f8b70a28569ff5613190a&v=4" width="24" alt="Avatar of jecrs687"> jecrs687
-			</a><br/>
-			Emanuel Cascone
-		</td>
-		<td>Spincity Solution </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/justin-calleja">
-				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
-			</a><br/>
-			Justin Calleja
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>183</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/K-Winkles">
 				<img src="https://avatars.githubusercontent.com/u/29561925?s=72&u=2b1e7f9b096bb8588b69e7af0878a79591ca8a36&v=4" width="24" alt="Avatar of K-Winkles"> K-Winkles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#K-Winkles">Copy rank badge</a><br/>
 			Kiana Alessandra Villaera
 		</td>
 		<td>No Company</td>
@@ -2484,24 +2590,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>192</td>
 		<td>
-			<a href="https://github.com/tabone">
-				<img src="https://avatars.githubusercontent.com/u/5364897?s=72&u=dd903e137d86d3a434638db17f36f75f47ae529f&v=4" width="24" alt="Avatar of tabone"> tabone
-			</a><br/>
-			Luca Tabone
+			<a href="https://github.com/colinvella">
+				<img src="https://avatars.githubusercontent.com/u/1244038?s=72&u=e06788d5e99ac31069a1250ebd1461412b06d7ac&v=4" width="24" alt="Avatar of colinvella"> colinvella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#colinvella">Copy rank badge</a><br/>
+			Colin Vella
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/taboneio">taboneio</a></td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/StaticRevo">
 				<img src="https://avatars.githubusercontent.com/u/116385849?s=72&u=973e7e21244bfc09c4fe28bf515157730c2cb6c3&v=4" width="24" alt="Avatar of StaticRevo"> StaticRevo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#StaticRevo">Copy rank badge</a><br/>
 			Isaac Attard
 		</td>
 		<td>No Company</td>
@@ -2510,25 +2616,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>194</td>
 		<td>
-			<a href="https://github.com/spark8899">
-				<img src="https://avatars.githubusercontent.com/u/1016235?s=72&u=f29d5b4aa24cc002dc51cac2103f55476d6f7077&v=4" width="24" alt="Avatar of spark8899"> spark8899
-			</a><br/>
-			spark8899
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of Malta</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/andrezammit">
-				<img src="https://avatars.githubusercontent.com/u/1511456?s=72&u=f45023324dde8021e49dfe93f2150ad974803ff1&v=4" width="24" alt="Avatar of andrezammit"> andrezammit
-			</a><br/>
-			André Zammit
+			<a href="https://github.com/justin-calleja">
+				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#justin-calleja">Copy rank badge</a><br/>
+			Justin Calleja
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2536,24 +2629,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>195</td>
 		<td>
-			<a href="https://github.com/salitronic">
-				<img src="https://avatars.githubusercontent.com/u/276628962?s=72&u=23ae7e1cc3c014672b309cef32b07b1e3d7216fe&v=4" width="24" alt="Avatar of salitronic"> salitronic
-			</a><br/>
-			George Saliba
+			<a href="https://github.com/tabone">
+				<img src="https://avatars.githubusercontent.com/u/5364897?s=72&u=dd903e137d86d3a434638db17f36f75f47ae529f&v=4" width="24" alt="Avatar of tabone"> tabone
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#tabone">Copy rank badge</a><br/>
+			Luca Tabone
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/taboneio">taboneio</a></td>
 		<td>Malta</td>
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/Ksciberras">
 				<img src="https://avatars.githubusercontent.com/u/65347637?s=72&u=7a4accb5021ffbfecab5cb942cd1a225673a10e3&v=4" width="24" alt="Avatar of Ksciberras"> Ksciberras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Ksciberras">Copy rank badge</a><br/>
 			Kyran Sciberras
 		</td>
 		<td>@chiliz </td>
@@ -2562,24 +2655,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/KPull">
-				<img src="https://avatars.githubusercontent.com/u/5477536?s=72&u=edcca71d555c305bce71ad06b70a149f1dc9e448&v=4" width="24" alt="Avatar of KPull"> KPull
-			</a><br/>
-			Kyle Pullicino
-		</td>
-		<td>Phalanx Software Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>191</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/furelid">
 				<img src="https://avatars.githubusercontent.com/u/8422426?s=72&u=de770cfedf6e4a54d0c54ab76ed95adf700c95e0&v=4" width="24" alt="Avatar of furelid"> furelid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#furelid">Copy rank badge</a><br/>
 			Johan Furelid
 		</td>
 		<td>No Company</td>
@@ -2588,37 +2668,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>198</td>
 		<td>
-			<a href="https://github.com/leandergrech">
-				<img src="https://avatars.githubusercontent.com/u/46715410?s=72&u=6d62d94474d71d06846241e083b75cf9268c5889&v=4" width="24" alt="Avatar of leandergrech"> leandergrech
-			</a><br/>
-			Leander Grech
+			<a href="https://github.com/xontab">
+				<img src="https://avatars.githubusercontent.com/u/4987684?s=72&v=4" width="24" alt="Avatar of xontab"> xontab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#xontab">Copy rank badge</a><br/>
+			Shaun Tabone
 		</td>
-		<td>No Company</td>
+		<td>Elantil </td>
 		<td>No Twitter Username</td>
-		<td>Msida, Malta</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/Riocodex">
-				<img src="https://avatars.githubusercontent.com/u/79114676?s=72&u=4e2bdf1ed1b480ec49b4cdad6d19a6e77bf1f6e2&v=4" width="24" alt="Avatar of Riocodex"> Riocodex
-			</a><br/>
-			RiocodeX
-		</td>
-		<td>Https://kingmakers.c </td>
-		<td><a href="https://twitter.com/onwukarosarioW">onwukarosarioW</a></td>
-		<td>Naxxar,Malta</td>
+		<td>Malta</td>
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/DheerendraTomar">
+				<img src="https://avatars.githubusercontent.com/u/26894057?s=72&u=b0d090545ac6afedaeb6073920e1188d6db5ecbe&v=4" width="24" alt="Avatar of DheerendraTomar"> DheerendraTomar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DheerendraTomar">Copy rank badge</a><br/>
+			Dheerendra Singh Tomar
+		</td>
+		<td>Institute Of Aerospace Technologies<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/KeithSammut">
 				<img src="https://avatars.githubusercontent.com/u/19623478?s=72&v=4" width="24" alt="Avatar of KeithSammut"> KeithSammut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KeithSammut">Copy rank badge</a><br/>
 			Keith Sammut
 		</td>
 		<td>Https://glest.io/ </td>
@@ -2627,24 +2707,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/m2ximus">
-				<img src="https://avatars.githubusercontent.com/u/11031458?s=72&u=934cdade8ffc22603daa970c771a0276183fe9ca&v=4" width="24" alt="Avatar of m2ximus"> m2ximus
-			</a><br/>
-			max—os
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>196</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/le-oasis">
 				<img src="https://avatars.githubusercontent.com/u/64417495?s=72&u=517d86953c3922bc98744fe1af2abb02c3f05a47&v=4" width="24" alt="Avatar of le-oasis"> le-oasis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#le-oasis">Copy rank badge</a><br/>
 			Mahmud Oyinloye
 		</td>
 		<td>Find.co </td>
@@ -2653,24 +2720,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/DheerendraTomar">
-				<img src="https://avatars.githubusercontent.com/u/26894057?s=72&u=b0d090545ac6afedaeb6073920e1188d6db5ecbe&v=4" width="24" alt="Avatar of DheerendraTomar"> DheerendraTomar
-			</a><br/>
-			Dheerendra Singh Tomar
-		</td>
-		<td>Institute Of Aerospace Technologies<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>198</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/Bernard-Borg">
 				<img src="https://avatars.githubusercontent.com/u/35971384?s=72&u=390ae652ebf7c3ad623473826133e3480cad40af&v=4" width="24" alt="Avatar of Bernard-Borg"> Bernard-Borg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Bernard-Borg">Copy rank badge</a><br/>
 			Bernard Borg
 		</td>
 		<td>No Company</td>
@@ -2679,11 +2733,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/jeremyfenech">
 				<img src="https://avatars.githubusercontent.com/u/102818695?s=72&u=040a3ee450d1b7f84f96c1d2921446b34afbb0c0&v=4" width="24" alt="Avatar of jeremyfenech"> jeremyfenech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jeremyfenech">Copy rank badge</a><br/>
 			Jeremy Fenech
 		</td>
 		<td>No Company</td>
@@ -2692,89 +2746,76 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/colinvella">
-				<img src="https://avatars.githubusercontent.com/u/1244038?s=72&u=e06788d5e99ac31069a1250ebd1461412b06d7ac&v=4" width="24" alt="Avatar of colinvella"> colinvella
-			</a><br/>
-			Colin Vella
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/stv-io">
-				<img src="https://avatars.githubusercontent.com/u/6401588?s=72&u=5cb5cb20723037400efc24ec535e7f6bad5db663&v=4" width="24" alt="Avatar of stv-io"> stv-io
-			</a><br/>
-			Stephen Attard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/itsciccio">
-				<img src="https://avatars.githubusercontent.com/u/50298612?s=72&u=873e0aeaa29bc54cd70d1bed44a956bc9486c5c0&v=4" width="24" alt="Avatar of itsciccio"> itsciccio
-			</a><br/>
-			Francesco Borg Bonello
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/itscicciooo">itscicciooo</a></td>
-		<td>Malta</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/devjony">
 				<img src="https://avatars.githubusercontent.com/u/51264643?s=72&u=267d586c8872460aba82dc2fc0b8cfb0e7288c0e&v=4" width="24" alt="Avatar of devjony"> devjony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#devjony">Copy rank badge</a><br/>
 			Jonata
 		</td>
 		<td>Kpmg </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/dottedmag">
-				<img src="https://avatars.githubusercontent.com/u/16120?s=72&u=6525020178a31442cfa9745db96a964907845341&v=4" width="24" alt="Avatar of dottedmag"> dottedmag
-			</a><br/>
-			Mike Dotty
-		</td>
-		<td>Blackbird </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>43</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>205</td>
 		<td>
-			<a href="https://github.com/gianmarcoalberti">
-				<img src="https://avatars.githubusercontent.com/u/8791619?s=72&v=4" width="24" alt="Avatar of gianmarcoalberti"> gianmarcoalberti
-			</a><br/>
-			Gianmarco Alberti
+			<a href="https://github.com/amifsud02">
+				<img src="https://avatars.githubusercontent.com/u/80411941?s=72&u=355abb36c2efd694df4c369d1deb8590d92278f0&v=4" width="24" alt="Avatar of amifsud02"> amifsud02
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#amifsud02">Copy rank badge</a><br/>
+			Anthony Mifsud
 		</td>
-		<td>University Of Malta </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>42</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>206</td>
 		<td>
+			<a href="https://github.com/fcapolini">
+				<img src="https://avatars.githubusercontent.com/u/36851924?s=72&u=d0d01c71a1ed8d3ef4183380908ca23991d70071&v=4" width="24" alt="Avatar of fcapolini"> fcapolini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fcapolini">Copy rank badge</a><br/>
+			Fabrizio Capolini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/marek2901">
+				<img src="https://avatars.githubusercontent.com/u/9845288?s=72&u=3611a339a6c5118eb8246f241140a3992f65d2b2&v=4" width="24" alt="Avatar of marek2901"> marek2901
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#marek2901">Copy rank badge</a><br/>
+			Marek Dziewit
+		</td>
+		<td>Phoenix 7 </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/smuriana">
+				<img src="https://avatars.githubusercontent.com/u/3493047?s=72&u=974f61dc0cee2acf379b4675993ec90f62a38ea5&v=4" width="24" alt="Avatar of smuriana"> smuriana
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#smuriana">Copy rank badge</a><br/>
+			Sergio Muriana
+		</td>
+		<td>@phoenixnap  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
 			<a href="https://github.com/zachary-cauchi">
 				<img src="https://avatars.githubusercontent.com/u/23012377?s=72&u=9fd1fead8ac4bb733c5c5c3fb28abb49b56c1f9a&v=4" width="24" alt="Avatar of zachary-cauchi"> zachary-cauchi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zachary-cauchi">Copy rank badge</a><br/>
 			Zachary Cauchi
 		</td>
 		<td>No Company</td>
@@ -2783,53 +2824,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/marek2901">
-				<img src="https://avatars.githubusercontent.com/u/9845288?s=72&u=3611a339a6c5118eb8246f241140a3992f65d2b2&v=4" width="24" alt="Avatar of marek2901"> marek2901
-			</a><br/>
-			Marek Dziewit
-		</td>
-		<td>Phoenix 7 </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/amrrizk95">
-				<img src="https://avatars.githubusercontent.com/u/47716776?s=72&u=9af20b08d09d5374532f8ab713164d2b6ee86168&v=4" width="24" alt="Avatar of amrrizk95"> amrrizk95
-			</a><br/>
-			amrrizk95
-		</td>
-		<td>Apcopay </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/alexportelli12">
-				<img src="https://avatars.githubusercontent.com/u/27212202?s=72&u=27ad9413fb8a69f75c54a080114e50b90e9fdde3&v=4" width="24" alt="Avatar of alexportelli12"> alexportelli12
-			</a><br/>
-			Alex Portelli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>40</td>
-	</tr>
-	<tr>
 		<td>210</td>
 		<td>
-			<a href="https://github.com/LucaCallus">
-				<img src="https://avatars.githubusercontent.com/u/189905911?s=72&u=d043739e910adeb22b528ed7ae25582f1fe9a130&v=4" width="24" alt="Avatar of LucaCallus"> LucaCallus
-			</a><br/>
-			Luca Callus
+			<a href="https://github.com/akhil-anil-fp">
+				<img src="https://avatars.githubusercontent.com/u/140489780?s=72&u=d02b045f580a302042ff69af506cdbe476555a52&v=4" width="24" alt="Avatar of akhil-anil-fp"> akhil-anil-fp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#akhil-anil-fp">Copy rank badge</a><br/>
+			Akhil Anil
 		</td>
-		<td>No Company</td>
+		<td>Funderpro </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>40</td>
@@ -2837,9 +2839,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/jecrs687">
+				<img src="https://avatars.githubusercontent.com/u/45917859?s=72&u=acd36f7201e7f6fa400f8b70a28569ff5613190a&v=4" width="24" alt="Avatar of jecrs687"> jecrs687
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jecrs687">Copy rank badge</a><br/>
+			Emanuel Cascone
+		</td>
+		<td>Spincity Solution </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/jkhin">
 				<img src="https://avatars.githubusercontent.com/u/1848005?s=72&u=0f1e15cedbaf38f9e84539d83a92d65089bb8af4&v=4" width="24" alt="Avatar of jkhin"> jkhin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jkhin">Copy rank badge</a><br/>
 			Joel Colmenares
 		</td>
 		<td>No Company</td>
@@ -2848,28 +2863,15 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/criticalsession">
-				<img src="https://avatars.githubusercontent.com/u/88831283?s=72&u=aa3988ba609b5b75bf12927b8651f828aa9a9cd3&v=4" width="24" alt="Avatar of criticalsession"> criticalsession
-			</a><br/>
-			Amante Reale
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/criticalsession">criticalsession</a></td>
-		<td>Malta</td>
-		<td>39</td>
-	</tr>
-	<tr>
 		<td>213</td>
 		<td>
-			<a href="https://github.com/akhil-anil-fp">
-				<img src="https://avatars.githubusercontent.com/u/140489780?s=72&u=d02b045f580a302042ff69af506cdbe476555a52&v=4" width="24" alt="Avatar of akhil-anil-fp"> akhil-anil-fp
-			</a><br/>
-			Akhil Anil
+			<a href="https://github.com/itsciccio">
+				<img src="https://avatars.githubusercontent.com/u/50298612?s=72&u=873e0aeaa29bc54cd70d1bed44a956bc9486c5c0&v=4" width="24" alt="Avatar of itsciccio"> itsciccio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#itsciccio">Copy rank badge</a><br/>
+			Francesco Borg Bonello
 		</td>
-		<td>Funderpro </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/itscicciooo">itscicciooo</a></td>
 		<td>Malta</td>
 		<td>39</td>
 	</tr>
@@ -2878,7 +2880,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/LucaKingu">
 				<img src="https://avatars.githubusercontent.com/u/89603654?s=72&u=33deac76be132c3a0c34abe5bb879fd63efb24b2&v=4" width="24" alt="Avatar of LucaKingu"> LucaKingu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LucaKingu">Copy rank badge</a><br/>
 			Luca Alfino
 		</td>
 		<td>No Company</td>
@@ -2889,25 +2891,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>215</td>
 		<td>
-			<a href="https://github.com/jkgatt">
-				<img src="https://avatars.githubusercontent.com/u/6892849?s=72&v=4" width="24" alt="Avatar of jkgatt"> jkgatt
-			</a><br/>
-			Jean Gatt
+			<a href="https://github.com/simonamdev">
+				<img src="https://avatars.githubusercontent.com/u/8162974?s=72&u=063b649005c7fc1d4ac960ec6b3a81b50165c30b&v=4" width="24" alt="Avatar of simonamdev"> simonamdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#simonamdev">Copy rank badge</a><br/>
+			Simon Agius Muscat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jean__gatt">jean__gatt</a></td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>37</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>216</td>
 		<td>
-			<a href="https://github.com/zq-xu">
-				<img src="https://avatars.githubusercontent.com/u/46521145?s=72&v=4" width="24" alt="Avatar of zq-xu"> zq-xu
-			</a><br/>
-			Damon
+			<a href="https://github.com/JamieStivala">
+				<img src="https://avatars.githubusercontent.com/u/6838536?s=72&v=4" width="24" alt="Avatar of JamieStivala"> JamieStivala
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JamieStivala">Copy rank badge</a><br/>
+			Jamie Stivala
 		</td>
-		<td>Freedom </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>37</td>
@@ -2915,12 +2917,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>217</td>
 		<td>
-			<a href="https://github.com/ogulcanturan">
-				<img src="https://avatars.githubusercontent.com/u/22854620?s=72&u=6f4b7ba515f01fd0e71d22fbc0a8219e5d4c3490&v=4" width="24" alt="Avatar of ogulcanturan"> ogulcanturan
-			</a><br/>
-			Oğulcan TURAN
+			<a href="https://github.com/chilukuru-saikrishna">
+				<img src="https://avatars.githubusercontent.com/u/64643176?s=72&u=ae02061f198b4e516bda09de5981d738eb37dcb7&v=4" width="24" alt="Avatar of chilukuru-saikrishna"> chilukuru-saikrishna
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#chilukuru-saikrishna">Copy rank badge</a><br/>
+			SaiKrishna Chilukuru
 		</td>
-		<td>@betssongroup </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>37</td>
@@ -2928,48 +2930,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>218</td>
 		<td>
-			<a href="https://github.com/JamieStivala">
-				<img src="https://avatars.githubusercontent.com/u/6838536?s=72&v=4" width="24" alt="Avatar of JamieStivala"> JamieStivala
-			</a><br/>
-			Jamie Stivala
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/simonamdev">
-				<img src="https://avatars.githubusercontent.com/u/8162974?s=72&u=063b649005c7fc1d4ac960ec6b3a81b50165c30b&v=4" width="24" alt="Avatar of simonamdev"> simonamdev
-			</a><br/>
-			Simon Agius Muscat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/gertab">
-				<img src="https://avatars.githubusercontent.com/u/1523669?s=72&v=4" width="24" alt="Avatar of gertab"> gertab
-			</a><br/>
-			Gerard Tabone
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
 			<a href="https://github.com/micmalti">
 				<img src="https://avatars.githubusercontent.com/u/31540652?s=72&u=cfe4639049c8024e69d57bc8ada60d151e24fcde&v=4" width="24" alt="Avatar of micmalti"> micmalti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#micmalti">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2978,11 +2941,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/MA-EMBED">
 				<img src="https://avatars.githubusercontent.com/u/248143361?s=72&u=72b8f23f31f3657df1fc6738411dfeb1ea56d3e9&v=4" width="24" alt="Avatar of MA-EMBED"> MA-EMBED
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MA-EMBED">Copy rank badge</a><br/>
 			Mark Agius
 		</td>
 		<td>Ma Embedded </td>
@@ -2991,24 +2954,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/CM2Walki">
-				<img src="https://avatars.githubusercontent.com/u/12199415?s=72&u=f2ff9e2d841709bc3f3bd8bc77b688e66c2cf05b&v=4" width="24" alt="Avatar of CM2Walki"> CM2Walki
-			</a><br/>
-			Walki
-		</td>
-		<td>Cm2.network </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>224</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/mertcaliskanyurek">
 				<img src="https://avatars.githubusercontent.com/u/20882575?s=72&u=6e4c0db60f859ade7a57ed5e72da0f5d2997ab95&v=4" width="24" alt="Avatar of mertcaliskanyurek"> mertcaliskanyurek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mertcaliskanyurek">Copy rank badge</a><br/>
 			Mert Çalışkanyürek
 		</td>
 		<td>Betsson Group </td>
@@ -3017,37 +2967,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/KennySB-dev">
-				<img src="https://avatars.githubusercontent.com/u/75525014?s=72&u=42b0f79bb3ad4397d519c9a73167059813ff6a1d&v=4" width="24" alt="Avatar of KennySB-dev"> KennySB-dev
-			</a><br/>
-			Kenny
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/mhoneyonsol">
-				<img src="https://avatars.githubusercontent.com/u/166422969?s=72&u=e431fd4e484d7c3a3ba913c458c87e7e867719bb&v=4" width="24" alt="Avatar of mhoneyonsol"> mhoneyonsol
-			</a><br/>
-			web3builder
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>227</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/mattcg">
 				<img src="https://avatars.githubusercontent.com/u/282964?s=72&v=4" width="24" alt="Avatar of mattcg"> mattcg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mattcg">Copy rank badge</a><br/>
 			Matthew Caruana Galizia
 		</td>
 		<td>@daphne-foundation  </td>
@@ -3056,37 +2980,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>222</td>
 		<td>
-			<a href="https://github.com/JoaoVictorLiz">
-				<img src="https://avatars.githubusercontent.com/u/81924436?s=72&u=171aa657c1e9d425becb40975bde155f1b2bb828&v=4" width="24" alt="Avatar of JoaoVictorLiz"> JoaoVictorLiz
-			</a><br/>
-			João Victor Liz
+			<a href="https://github.com/KennySB-dev">
+				<img src="https://avatars.githubusercontent.com/u/75525014?s=72&u=42b0f79bb3ad4397d519c9a73167059813ff6a1d&v=4" width="24" alt="Avatar of KennySB-dev"> KennySB-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KennySB-dev">Copy rank badge</a><br/>
+			Kenny
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>32</td>
+		<td>33</td>
 	</tr>
 	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/damidoug">
-				<img src="https://avatars.githubusercontent.com/u/75175586?s=72&u=3357bd66e59695c20c355cc4f8991690802b99ac&v=4" width="24" alt="Avatar of damidoug"> damidoug
-			</a><br/>
-			DamiDoug
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>230</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/timoye">
 				<img src="https://avatars.githubusercontent.com/u/11269627?s=72&u=7d9a546db3a974caf0b3331bd131d5d8f8c8e951&v=4" width="24" alt="Avatar of timoye"> timoye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#timoye">Copy rank badge</a><br/>
 			Timothy Soladoye
 		</td>
 		<td>Agroye </td>
@@ -3095,24 +3006,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/lucamuscat">
-				<img src="https://avatars.githubusercontent.com/u/18518340?s=72&u=1edc7c937d5a14e4cfde564bf010badbb9bfa255&v=4" width="24" alt="Avatar of lucamuscat"> lucamuscat
-			</a><br/>
-			Luca Muscat
-		</td>
-		<td>Alludo </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>232</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/rusiqe">
 				<img src="https://avatars.githubusercontent.com/u/4772140?s=72&u=b57533a629defe4b25ee7d3c38a555307593798d&v=4" width="24" alt="Avatar of rusiqe"> rusiqe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rusiqe">Copy rank badge</a><br/>
 			Taurai. M
 		</td>
 		<td>Taurai. M </td>
@@ -3121,11 +3019,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/requiemcreatif">
 				<img src="https://avatars.githubusercontent.com/u/75263918?s=72&u=4850cdda2525e4597cb78dd86dbb0b853429af55&v=4" width="24" alt="Avatar of requiemcreatif"> requiemcreatif
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#requiemcreatif">Copy rank badge</a><br/>
 			Alain Mani 
 		</td>
 		<td>Satoloc Insight / Omeruta<br/></td>
@@ -3134,11 +3032,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Kipstz">
 				<img src="https://avatars.githubusercontent.com/u/140314732?s=72&u=30809fc920e65915d1d7d62d6878f8f662c1c8ad&v=4" width="24" alt="Avatar of Kipstz"> Kipstz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Kipstz">Copy rank badge</a><br/>
 			Kipstz
 		</td>
 		<td>Me </td>
@@ -3147,24 +3045,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>227</td>
 		<td>
-			<a href="https://github.com/ica574">
-				<img src="https://avatars.githubusercontent.com/u/79566933?s=72&v=4" width="24" alt="Avatar of ica574"> ica574
-			</a><br/>
-			Isaac Cilia Attard
+			<a href="https://github.com/LucaCallus">
+				<img src="https://avatars.githubusercontent.com/u/189905911?s=72&u=d043739e910adeb22b528ed7ae25582f1fe9a130&v=4" width="24" alt="Avatar of LucaCallus"> LucaCallus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LucaCallus">Copy rank badge</a><br/>
+			Luca Callus
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/IsaaCiliaAttard">IsaaCiliaAttard</a></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/JoaoVictorLiz">
+				<img src="https://avatars.githubusercontent.com/u/81924436?s=72&u=171aa657c1e9d425becb40975bde155f1b2bb828&v=4" width="24" alt="Avatar of JoaoVictorLiz"> JoaoVictorLiz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JoaoVictorLiz">Copy rank badge</a><br/>
+			João Victor Liz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/seandiacono">
 				<img src="https://avatars.githubusercontent.com/u/20338969?s=72&u=6591e5fd0e35ae2f4ddbaa8de7002251bd260b85&v=4" width="24" alt="Avatar of seandiacono"> seandiacono
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#seandiacono">Copy rank badge</a><br/>
 			Sean Diacono
 		</td>
 		<td>Tableo </td>
@@ -3173,11 +3084,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/pedroandrehg">
 				<img src="https://avatars.githubusercontent.com/u/47529310?s=72&u=61e514e3ef5b4c09069d334523ad269e1aef0da7&v=4" width="24" alt="Avatar of pedroandrehg"> pedroandrehg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#pedroandrehg">Copy rank badge</a><br/>
 			pedro-guidobono
 		</td>
 		<td>University Of Malta </td>
@@ -3186,11 +3097,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/akinmoroglu">
 				<img src="https://avatars.githubusercontent.com/u/479949?s=72&u=c489250468327cdf215a7fa262dcdbd167c85129&v=4" width="24" alt="Avatar of akinmoroglu"> akinmoroglu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#akinmoroglu">Copy rank badge</a><br/>
 			akin
 		</td>
 		<td>No Company</td>
@@ -3199,11 +3110,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/AndreiSaliba">
 				<img src="https://avatars.githubusercontent.com/u/12976708?s=72&u=cd7a3456b3753f003cbc07ab96e73f5f0bc66695&v=4" width="24" alt="Avatar of AndreiSaliba"> AndreiSaliba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#AndreiSaliba">Copy rank badge</a><br/>
 			Andrei Saliba
 		</td>
 		<td>@go-plc </td>
@@ -3212,11 +3123,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/ValentinoTrenchev">
 				<img src="https://avatars.githubusercontent.com/u/74861035?s=72&u=941c38df14c1fd4ee6563474472c65307ad5c6a4&v=4" width="24" alt="Avatar of ValentinoTrenchev"> ValentinoTrenchev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ValentinoTrenchev">Copy rank badge</a><br/>
 			Valentino Trenchev
 		</td>
 		<td>No Company</td>
@@ -3225,11 +3136,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/robert-abela">
 				<img src="https://avatars.githubusercontent.com/u/7334931?s=72&v=4" width="24" alt="Avatar of robert-abela"> robert-abela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#robert-abela">Copy rank badge</a><br/>
 			Robert Abela
 		</td>
 		<td>Mcast </td>
@@ -3238,11 +3149,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/mariamo101">
 				<img src="https://avatars.githubusercontent.com/u/117212859?s=72&u=fd7d2a3d14a6ea41bc878daaba866aedb3bedfb9&v=4" width="24" alt="Avatar of mariamo101"> mariamo101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mariamo101">Copy rank badge</a><br/>
 			Mariami Makhniashvili
 		</td>
 		<td>Live Casino Gaming </td>
@@ -3251,24 +3162,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/smuriana">
-				<img src="https://avatars.githubusercontent.com/u/3493047?s=72&u=974f61dc0cee2acf379b4675993ec90f62a38ea5&v=4" width="24" alt="Avatar of smuriana"> smuriana
-			</a><br/>
-			Sergio Muriana
-		</td>
-		<td>@phoenixnap  </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>244</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/gabalesev">
 				<img src="https://avatars.githubusercontent.com/u/1622033?s=72&u=ade2b2f3d7f93f09671823f0670318373e76aac9&v=4" width="24" alt="Avatar of gabalesev"> gabalesev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gabalesev">Copy rank badge</a><br/>
 			Gab
 		</td>
 		<td>No Company</td>
@@ -3277,63 +3175,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>237</td>
 		<td>
-			<a href="https://github.com/chribonn">
-				<img src="https://avatars.githubusercontent.com/u/7222836?s=72&u=47e8c3d8c6fa8651522ea670ce2a34eba21788a3&v=4" width="24" alt="Avatar of chribonn"> chribonn
-			</a><br/>
-			Alan C Bonnici
+			<a href="https://github.com/amrrizk95">
+				<img src="https://avatars.githubusercontent.com/u/47716776?s=72&u=9af20b08d09d5374532f8ab713164d2b6ee86168&v=4" width="24" alt="Avatar of amrrizk95"> amrrizk95
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#amrrizk95">Copy rank badge</a><br/>
+			amrrizk95
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chribonn">chribonn</a></td>
-		<td>Malta</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/dev-git-unix">
-				<img src="https://avatars.githubusercontent.com/u/166314335?s=72&v=4" width="24" alt="Avatar of dev-git-unix"> dev-git-unix
-			</a><br/>
-			Anunay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/spyesx">
-				<img src="https://avatars.githubusercontent.com/u/372514?s=72&u=c4bdac2700be62d66a7f37c5d373fc8346f02190&v=4" width="24" alt="Avatar of spyesx"> spyesx
-			</a><br/>
-			spyesx
-		</td>
-		<td>@weinto  </td>
+		<td>Apcopay </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>238</td>
 		<td>
-			<a href="https://github.com/schkovich">
-				<img src="https://avatars.githubusercontent.com/u/1050649?s=72&v=4" width="24" alt="Avatar of schkovich"> schkovich
-			</a><br/>
-			Goran Mišković
+			<a href="https://github.com/lucamuscat">
+				<img src="https://avatars.githubusercontent.com/u/18518340?s=72&u=1edc7c937d5a14e4cfde564bf010badbb9bfa255&v=4" width="24" alt="Avatar of lucamuscat"> lucamuscat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#lucamuscat">Copy rank badge</a><br/>
+			Luca Muscat
 		</td>
-		<td>Cultive Tech </td>
+		<td>Alludo </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/julianportelli">
 				<img src="https://avatars.githubusercontent.com/u/40712371?s=72&u=f5d4069aa4b0849771c4ea5dc99bfec3e8e05bc5&v=4" width="24" alt="Avatar of julianportelli"> julianportelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#julianportelli">Copy rank badge</a><br/>
 			Julian
 		</td>
 		<td>No Company</td>
@@ -3342,24 +3214,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>240</td>
 		<td>
-			<a href="https://github.com/matikuluz">
-				<img src="https://avatars.githubusercontent.com/u/107650298?s=72&u=960c81c82b2d95887d16dd5bda770268ec124009&v=4" width="24" alt="Avatar of matikuluz"> matikuluz
-			</a><br/>
-			Mathias 
+			<a href="https://github.com/grebulll">
+				<img src="https://avatars.githubusercontent.com/u/49102718?s=72&u=e0732081750bb356906949440cc4c6627b65a738&v=4" width="24" alt="Avatar of grebulll"> grebulll
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#grebulll">Copy rank badge</a><br/>
+			Gabriel Cini
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malta </td>
+		<td>Gozo, Malta</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/alfaproject">
 				<img src="https://avatars.githubusercontent.com/u/60164?s=72&v=4" width="24" alt="Avatar of alfaproject"> alfaproject
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#alfaproject">Copy rank badge</a><br/>
 			João Dias
 		</td>
 		<td>The Mill </td>
@@ -3368,11 +3240,50 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/claylaut">
+				<img src="https://avatars.githubusercontent.com/u/1999085?s=72&u=7214bda63039caa81b6deecb971e937e6852fe2c&v=4" width="24" alt="Avatar of claylaut"> claylaut
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#claylaut">Copy rank badge</a><br/>
+			Clayton Lautier
+		</td>
+		<td>@betssongroup  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/spyesx">
+				<img src="https://avatars.githubusercontent.com/u/372514?s=72&u=c4bdac2700be62d66a7f37c5d373fc8346f02190&v=4" width="24" alt="Avatar of spyesx"> spyesx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#spyesx">Copy rank badge</a><br/>
+			spyesx
+		</td>
+		<td>@weinto  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/ccol002">
+				<img src="https://avatars.githubusercontent.com/u/5320508?s=72&u=3d9b2fc579daba5f98e4b293d9629abb3c4ea0a0&v=4" width="24" alt="Avatar of ccol002"> ccol002
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ccol002">Copy rank badge</a><br/>
+			Christian Colombo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/matthewworner">
 				<img src="https://avatars.githubusercontent.com/u/10849222?s=72&u=f3b0ab14a7415f426b9a7bf4d53b0f5631359d22&v=4" width="24" alt="Avatar of matthewworner"> matthewworner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matthewworner">Copy rank badge</a><br/>
 			Matthew Worner
 		</td>
 		<td>No Company</td>
@@ -3381,25 +3292,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>246</td>
 		<td>
-			<a href="https://github.com/claylaut">
-				<img src="https://avatars.githubusercontent.com/u/1999085?s=72&u=7214bda63039caa81b6deecb971e937e6852fe2c&v=4" width="24" alt="Avatar of claylaut"> claylaut
-			</a><br/>
-			Clayton Lautier
+			<a href="https://github.com/knatz-dev">
+				<img src="https://avatars.githubusercontent.com/u/17381536?s=72&u=9b5c9b4242e1be7cc2d2d19d4720cb9453d475cd&v=4" width="24" alt="Avatar of knatz-dev"> knatz-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#knatz-dev">Copy rank badge</a><br/>
+			Nathan Z. Khupe
 		</td>
-		<td>@betssongroup  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>247</td>
 		<td>
-			<a href="https://github.com/ccol002">
-				<img src="https://avatars.githubusercontent.com/u/5320508?s=72&u=3d9b2fc579daba5f98e4b293d9629abb3c4ea0a0&v=4" width="24" alt="Avatar of ccol002"> ccol002
-			</a><br/>
-			Christian Colombo
+			<a href="https://github.com/stas2k">
+				<img src="https://avatars.githubusercontent.com/u/50859?s=72&v=4" width="24" alt="Avatar of stas2k"> stas2k
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stas2k">Copy rank badge</a><br/>
+			Stas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3407,24 +3318,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>248</td>
 		<td>
-			<a href="https://github.com/aldric">
-				<img src="https://avatars.githubusercontent.com/u/377868?s=72&u=822ffa19f9bfc3c070276f3f2f757de18e421f18&v=4" width="24" alt="Avatar of aldric"> aldric
-			</a><br/>
-			Aldric Gaudinot
+			<a href="https://github.com/damidoug">
+				<img src="https://avatars.githubusercontent.com/u/75175586?s=72&u=3357bd66e59695c20c355cc4f8991690802b99ac&v=4" width="24" alt="Avatar of damidoug"> damidoug
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#damidoug">Copy rank badge</a><br/>
+			DamiDoug
 		</td>
-		<td>Spky.io </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/DurpDaCrooze">
 				<img src="https://avatars.githubusercontent.com/u/49364788?s=72&u=13ca1ccdac81acdf9196430df17ea6158ee2058b&v=4" width="24" alt="Avatar of DurpDaCrooze"> DurpDaCrooze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DurpDaCrooze">Copy rank badge</a><br/>
 			Luca Cassar
 		</td>
 		<td>@bedmc  </td>
@@ -3433,63 +3344,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>250</td>
 		<td>
-			<a href="https://github.com/JaminCO">
-				<img src="https://avatars.githubusercontent.com/u/76646536?s=72&u=c75d8dfe85914d6ba8ea3ea0f29319175746b536&v=4" width="24" alt="Avatar of JaminCO"> JaminCO
-			</a><br/>
-			Jamin Onuegbu
-		</td>
-		<td>Open To Senior Roles<br/>And<br/>Select<br/>Product<br/>Collaborations<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/stas2k">
-				<img src="https://avatars.githubusercontent.com/u/50859?s=72&v=4" width="24" alt="Avatar of stas2k"> stas2k
-			</a><br/>
-			Stas
+			<a href="https://github.com/LOADGAlAXX">
+				<img src="https://avatars.githubusercontent.com/u/24760997?s=72&u=f7afc790b0a95efcb52d5a2409d593cdeafa5084&v=4" width="24" alt="Avatar of LOADGAlAXX"> LOADGAlAXX
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LOADGAlAXX">Copy rank badge</a><br/>
+			Kaja
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>21</td>
+		<td>22</td>
 	</tr>
 	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/Piroddi">
-				<img src="https://avatars.githubusercontent.com/u/24908789?s=72&u=47fd6be200d08e28a7ae4ef45b8999ee98e91209&v=4" width="24" alt="Avatar of Piroddi"> Piroddi
-			</a><br/>
-			Kelvin Piroddi
-		</td>
-		<td>Https://envio.dev/ </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/thezelax">
-				<img src="https://avatars.githubusercontent.com/u/52893435?s=72&u=a00efbb4b85fda90da91253898fbf59393fb250b&v=4" width="24" alt="Avatar of thezelax"> thezelax
-			</a><br/>
-			Zelax
-		</td>
-		<td>Venux Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>261</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Digitelektro">
 				<img src="https://avatars.githubusercontent.com/u/32802255?s=72&u=1989d5b32daae547ad02b89010431f22701f6d32&v=4" width="24" alt="Avatar of Digitelektro"> Digitelektro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Digitelektro">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3498,11 +3370,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/esraspages">
+				<img src="https://avatars.githubusercontent.com/u/47081279?s=72&u=5ea4b5dc9a2afcb0dd4c96e4de91fbbc151871de&v=4" width="24" alt="Avatar of esraspages"> esraspages
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#esraspages">Copy rank badge</a><br/>
+			Esra A.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/stephenriolo">
 				<img src="https://avatars.githubusercontent.com/u/4718298?s=72&u=038dff95315415a390a9f9a7b8de517b6e7b9cf8&v=4" width="24" alt="Avatar of stephenriolo"> stephenriolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#stephenriolo">Copy rank badge</a><br/>
 			Stephen Riolo
 		</td>
 		<td>No Company</td>
@@ -3511,11 +3396,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/thezelax">
+				<img src="https://avatars.githubusercontent.com/u/52893435?s=72&u=a00efbb4b85fda90da91253898fbf59393fb250b&v=4" width="24" alt="Avatar of thezelax"> thezelax
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#thezelax">Copy rank badge</a><br/>
+			Zelax
+		</td>
+		<td>Venux Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/juansepalacios">
 				<img src="https://avatars.githubusercontent.com/u/246508095?s=72&u=c4cf871375b32279fdbbea9b575ebda38015ee4e&v=4" width="24" alt="Avatar of juansepalacios"> juansepalacios
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#juansepalacios">Copy rank badge</a><br/>
 			Juan Palacios
 		</td>
 		<td>Human Hr </td>
@@ -3524,11 +3422,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/pmartelletti">
 				<img src="https://avatars.githubusercontent.com/u/557390?s=72&u=4a14c14e79538073e103a5eda6631ac12a9e7174&v=4" width="24" alt="Avatar of pmartelletti"> pmartelletti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#pmartelletti">Copy rank badge</a><br/>
 			Pablo Maria Martelletti
 		</td>
 		<td>@vmeretail  </td>
@@ -3537,50 +3435,102 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>257</td>
 		<td>
-			<a href="https://github.com/Zarvi16G">
-				<img src="https://avatars.githubusercontent.com/u/145895650?s=72&u=7788f43acc3fcfd571392ebbf4f630f104db5a8f&v=4" width="24" alt="Avatar of Zarvi16G"> Zarvi16G
-			</a><br/>
-			Santiago Boada
+			<a href="https://github.com/Piroddi">
+				<img src="https://avatars.githubusercontent.com/u/24908789?s=72&u=47fd6be200d08e28a7ae4ef45b8999ee98e91209&v=4" width="24" alt="Avatar of Piroddi"> Piroddi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Piroddi">Copy rank badge</a><br/>
+			Kelvin Piroddi
 		</td>
-		<td>No Company</td>
+		<td>Https://envio.dev/ </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>258</td>
 		<td>
-			<a href="https://github.com/mbar0075">
-				<img src="https://avatars.githubusercontent.com/u/103250564?s=72&u=563bd40cb988c59b59b9187a04dc5e60073c9f3f&v=4" width="24" alt="Avatar of mbar0075"> mbar0075
-			</a><br/>
-			Matthias Bartolo
+			<a href="https://github.com/zq-xu">
+				<img src="https://avatars.githubusercontent.com/u/46521145?s=72&v=4" width="24" alt="Avatar of zq-xu"> zq-xu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zq-xu">Copy rank badge</a><br/>
+			Damon
 		</td>
-		<td>University Of Malta </td>
-		<td><a href="https://twitter.com/MatthiasBar6">MatthiasBar6</a></td>
+		<td>Freedom </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/matikuluz">
+				<img src="https://avatars.githubusercontent.com/u/107650298?s=72&u=960c81c82b2d95887d16dd5bda770268ec124009&v=4" width="24" alt="Avatar of matikuluz"> matikuluz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matikuluz">Copy rank badge</a><br/>
+			Mathias 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta </td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/Kwadz">
+				<img src="https://avatars.githubusercontent.com/u/1472599?s=72&v=4" width="24" alt="Avatar of Kwadz"> Kwadz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Kwadz">Copy rank badge</a><br/>
+			Richard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>261</td>
 		<td>
-			<a href="https://github.com/nezzonarcizo">
-				<img src="https://avatars.githubusercontent.com/u/47010053?s=72&u=ecb2c41d1fdf9d1bd941835c2d3830e4a36dbdb9&v=4" width="24" alt="Avatar of nezzonarcizo"> nezzonarcizo
-			</a><br/>
-			Marlon Augusto
+			<a href="https://github.com/chribonn">
+				<img src="https://avatars.githubusercontent.com/u/7222836?s=72&u=47e8c3d8c6fa8651522ea670ce2a34eba21788a3&v=4" width="24" alt="Avatar of chribonn"> chribonn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#chribonn">Copy rank badge</a><br/>
+			Alan C Bonnici
 		</td>
-		<td>Mytech </td>
-		<td>No Twitter Username</td>
-		<td>Sliema - Malta</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chribonn">chribonn</a></td>
+		<td>Malta</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/ogulcanturan">
+				<img src="https://avatars.githubusercontent.com/u/22854620?s=72&u=6f4b7ba515f01fd0e71d22fbc0a8219e5d4c3490&v=4" width="24" alt="Avatar of ogulcanturan"> ogulcanturan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ogulcanturan">Copy rank badge</a><br/>
+			Oğulcan TURAN
+		</td>
+		<td>@betssongroup </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/FredAGVdd">
+				<img src="https://avatars.githubusercontent.com/u/2247006?s=72&v=4" width="24" alt="Avatar of FredAGVdd"> FredAGVdd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#FredAGVdd">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/xevisdev">
 				<img src="https://avatars.githubusercontent.com/u/180689414?s=72&v=4" width="24" alt="Avatar of xevisdev"> xevisdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#xevisdev">Copy rank badge</a><br/>
 			Xevis_
 		</td>
 		<td>No Company</td>
@@ -3589,11 +3539,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/MEK783">
 				<img src="https://avatars.githubusercontent.com/u/59021985?s=72&u=26082c0c2db95480fb142d5d53bb75b32c70367a&v=4" width="24" alt="Avatar of MEK783"> MEK783
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MEK783">Copy rank badge</a><br/>
 			Mark Farrugia
 		</td>
 		<td>No Company</td>
@@ -3602,24 +3552,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>266</td>
 		<td>
-			<a href="https://github.com/LOADGAlAXX">
-				<img src="https://avatars.githubusercontent.com/u/24760997?s=72&u=f7afc790b0a95efcb52d5a2409d593cdeafa5084&v=4" width="24" alt="Avatar of LOADGAlAXX"> LOADGAlAXX
-			</a><br/>
-			Kaja
+			<a href="https://github.com/nezzonarcizo">
+				<img src="https://avatars.githubusercontent.com/u/47010053?s=72&u=ecb2c41d1fdf9d1bd941835c2d3830e4a36dbdb9&v=4" width="24" alt="Avatar of nezzonarcizo"> nezzonarcizo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nezzonarcizo">Copy rank badge</a><br/>
+			Marlon Augusto
 		</td>
-		<td>No Company</td>
+		<td>Mytech </td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>18</td>
+		<td>Sliema - Malta</td>
+		<td>17</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/elhassu">
 				<img src="https://avatars.githubusercontent.com/u/34008729?s=72&u=b2e718c058dee600a3388142f4416dc5ebfbadde&v=4" width="24" alt="Avatar of elhassu"> elhassu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#elhassu">Copy rank badge</a><br/>
 			Keelan Vella 
 		</td>
 		<td>@velafa  </td>
@@ -3628,24 +3578,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/ainsley-penza">
-				<img src="https://avatars.githubusercontent.com/u/31831964?s=72&u=29e8f536585ea26f0208ff08d07db9f18900ab62&v=4" width="24" alt="Avatar of ainsley-penza"> ainsley-penza
-			</a><br/>
-			Ainsley Penza
-		</td>
-		<td>@mallsystems - Junior Software<br/>Developer<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>273</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/M1HAJA">
 				<img src="https://avatars.githubusercontent.com/u/77331283?s=72&u=56b087326f34fe0bd94ab4c9a13332e752cb4cd0&v=4" width="24" alt="Avatar of M1HAJA"> M1HAJA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#M1HAJA">Copy rank badge</a><br/>
 			Jan Lawrence Formosa
 		</td>
 		<td>University Of Malta </td>
@@ -3654,11 +3591,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/grzegorz-golowicz">
 				<img src="https://avatars.githubusercontent.com/u/2749332?s=72&u=d6b00ee8474c5bb342c46e13baea914a5c53105a&v=4" width="24" alt="Avatar of grzegorz-golowicz"> grzegorz-golowicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#grzegorz-golowicz">Copy rank badge</a><br/>
 			Grzegorz Golowicz
 		</td>
 		<td>Icwt.pl </td>
@@ -3667,11 +3604,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/xinghehaohan">
 				<img src="https://avatars.githubusercontent.com/u/20296709?s=72&u=64d8abeba342b33bd98e7e6cf1f7c0d4169279af&v=4" width="24" alt="Avatar of xinghehaohan"> xinghehaohan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#xinghehaohan">Copy rank badge</a><br/>
 			Su
 		</td>
 		<td>No Company</td>
@@ -3680,24 +3617,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/Montaser-Taher">
-				<img src="https://avatars.githubusercontent.com/u/150381370?s=72&u=d39cd5681752dc422004953531b2b54e2c59bdac&v=4" width="24" alt="Avatar of Montaser-Taher"> Montaser-Taher
-			</a><br/>
-			M O N T A S E R
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>277</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/briantheuma">
 				<img src="https://avatars.githubusercontent.com/u/2876639?s=72&u=03c3d5e056b7ce1e55e91e7f3cf94b97441b6dd9&v=4" width="24" alt="Avatar of briantheuma"> briantheuma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#briantheuma">Copy rank badge</a><br/>
 			brian theuma
 		</td>
 		<td>No Company</td>
@@ -3706,11 +3630,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/Feilli">
 				<img src="https://avatars.githubusercontent.com/u/22742264?s=72&u=5b169fff0a96b68e28c5d0d77741c10e2dd08422&v=4" width="24" alt="Avatar of Feilli"> Feilli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Feilli">Copy rank badge</a><br/>
 			Kirill Pilipchuk
 		</td>
 		<td>No Company</td>
@@ -3719,102 +3643,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>273</td>
 		<td>
-			<a href="https://github.com/esraspages">
-				<img src="https://avatars.githubusercontent.com/u/47081279?s=72&u=5ea4b5dc9a2afcb0dd4c96e4de91fbbc151871de&v=4" width="24" alt="Avatar of esraspages"> esraspages
-			</a><br/>
-			Esra A.
+			<a href="https://github.com/ainsley-penza">
+				<img src="https://avatars.githubusercontent.com/u/31831964?s=72&u=29e8f536585ea26f0208ff08d07db9f18900ab62&v=4" width="24" alt="Avatar of ainsley-penza"> ainsley-penza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ainsley-penza">Copy rank badge</a><br/>
+			Ainsley Penza
 		</td>
-		<td>No Company</td>
+		<td>@mallsystems - Junior Software<br/>Developer<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>274</td>
 		<td>
-			<a href="https://github.com/timurzholudev">
-				<img src="https://avatars.githubusercontent.com/u/40488807?s=72&u=ef850b34fd860d9e18d95b577476f2708b3eb001&v=4" width="24" alt="Avatar of timurzholudev"> timurzholudev
-			</a><br/>
-			Zholudev Timur
+			<a href="https://github.com/aldric">
+				<img src="https://avatars.githubusercontent.com/u/377868?s=72&u=822ffa19f9bfc3c070276f3f2f757de18e421f18&v=4" width="24" alt="Avatar of aldric"> aldric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aldric">Copy rank badge</a><br/>
+			Aldric Gaudinot
 		</td>
-		<td>Amusnet Gaming </td>
+		<td>Spky.io </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/VitorTorquato">
-				<img src="https://avatars.githubusercontent.com/u/145038352?s=72&u=c6cc532e1da1a8599c6e0b07a1f97f320bc9fc87&v=4" width="24" alt="Avatar of VitorTorquato"> VitorTorquato
-			</a><br/>
-			Vitor 
-		</td>
-		<td>Sel-employed </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/kamasylvia">
-				<img src="https://avatars.githubusercontent.com/u/9450184?s=72&u=a2b43edfbae82776cba9b7939fd18b20d4764afa&v=4" width="24" alt="Avatar of kamasylvia"> kamasylvia
-			</a><br/>
-			Laniakea Kamasylvia
-		</td>
-		<td>Kdl </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/zakmicallef">
-				<img src="https://avatars.githubusercontent.com/u/27006127?s=72&u=fab922bdfb106b9b381f202e06f94410491c40c8&v=4" width="24" alt="Avatar of zakmicallef"> zakmicallef
-			</a><br/>
-			Zak Micallef
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/maykelesser">
-				<img src="https://avatars.githubusercontent.com/u/5692924?s=72&u=0c11238d0a2de622d9573f86f8030739d5e22e72&v=4" width="24" alt="Avatar of maykelesser"> maykelesser
-			</a><br/>
-			Maykel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/davidfarrugia">
-				<img src="https://avatars.githubusercontent.com/u/27766452?s=72&v=4" width="24" alt="Avatar of davidfarrugia"> davidfarrugia
-			</a><br/>
-			David Farrugia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>286</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/LPullicino">
 				<img src="https://avatars.githubusercontent.com/u/59690689?s=72&v=4" width="24" alt="Avatar of LPullicino"> LPullicino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LPullicino">Copy rank badge</a><br/>
 			Luke Pullicino
 		</td>
 		<td>No Company</td>
@@ -3823,11 +3682,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/ccpend">
 				<img src="https://avatars.githubusercontent.com/u/7973625?s=72&u=6dfc08464171456d23f8d4231da2d563ef0a9569&v=4" width="24" alt="Avatar of ccpend"> ccpend
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ccpend">Copy rank badge</a><br/>
 			大师
 		</td>
 		<td>No Company</td>
@@ -3836,11 +3695,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/ranareehanaslam">
+				<img src="https://avatars.githubusercontent.com/u/19831661?s=72&u=762d281841d6fd6fb39e72751a34f5f859f4fc83&v=4" width="24" alt="Avatar of ranareehanaslam"> ranareehanaslam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ranareehanaslam">Copy rank badge</a><br/>
+			Muhammad Rehan Aslam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Naxxar, Malta </td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/siradji">
 				<img src="https://avatars.githubusercontent.com/u/57817584?s=72&u=634a9607d2a4f4592fd14bd7198254653ccba3a4&v=4" width="24" alt="Avatar of siradji"> siradji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#siradji">Copy rank badge</a><br/>
 			Suraj Auwal
 		</td>
 		<td>Zoetis </td>
@@ -3849,11 +3721,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/glhrme">
+				<img src="https://avatars.githubusercontent.com/u/43591396?s=72&u=5ab8e30564bfb21bbfd38103e4ea38a1dfc77557&v=4" width="24" alt="Avatar of glhrme"> glhrme
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#glhrme">Copy rank badge</a><br/>
+			Guilherme de Assis dos Santos
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/scott4dev">
 				<img src="https://avatars.githubusercontent.com/u/108811?s=72&u=99465041b6445f3ee3c27f0e428e1ff6038b6c4c&v=4" width="24" alt="Avatar of scott4dev"> scott4dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#scott4dev">Copy rank badge</a><br/>
 			Claudio Maccari
 		</td>
 		<td>No Company</td>
@@ -3862,24 +3747,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/amifsud02">
-				<img src="https://avatars.githubusercontent.com/u/80411941?s=72&u=355abb36c2efd694df4c369d1deb8590d92278f0&v=4" width="24" alt="Avatar of amifsud02"> amifsud02
-			</a><br/>
-			Anthony Mifsud
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>291</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/adnnco">
 				<img src="https://avatars.githubusercontent.com/u/1195806?s=72&u=2d5f0a0b311abed71910418a70faab83c3c40a38&v=4" width="24" alt="Avatar of adnnco"> adnnco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#adnnco">Copy rank badge</a><br/>
 			Adnan Gunay
 		</td>
 		<td>No Company</td>
@@ -3888,11 +3760,50 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/zakmicallef">
+				<img src="https://avatars.githubusercontent.com/u/27006127?s=72&u=fab922bdfb106b9b381f202e06f94410491c40c8&v=4" width="24" alt="Avatar of zakmicallef"> zakmicallef
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zakmicallef">Copy rank badge</a><br/>
+			Zak Micallef
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/ezekielibe">
+				<img src="https://avatars.githubusercontent.com/u/70276726?s=72&u=e6886a0ca3a88e90d0e5bdde2bd91bc614ef3424&v=4" width="24" alt="Avatar of ezekielibe"> ezekielibe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ezekielibe">Copy rank badge</a><br/>
+			Ezekiel Ibegbunam
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ezekielibe3">Ezekielibe3</a></td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/JaminCO">
+				<img src="https://avatars.githubusercontent.com/u/76646536?s=72&u=c75d8dfe85914d6ba8ea3ea0f29319175746b536&v=4" width="24" alt="Avatar of JaminCO"> JaminCO
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JaminCO">Copy rank badge</a><br/>
+			Jamin Onuegbu
+		</td>
+		<td>Open To Senior Roles<br/>And<br/>Select<br/>Product<br/>Collaborations<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/cdemi">
 				<img src="https://avatars.githubusercontent.com/u/8025435?s=72&v=4" width="24" alt="Avatar of cdemi"> cdemi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cdemi">Copy rank badge</a><br/>
 			Christopher Demicoli
 		</td>
 		<td>No Company</td>
@@ -3901,24 +3812,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>286</td>
 		<td>
-			<a href="https://github.com/jamesattard">
-				<img src="https://avatars.githubusercontent.com/u/3464559?s=72&u=c40fc28a157f209db633699334d0577a8f1171e0&v=4" width="24" alt="Avatar of jamesattard"> jamesattard
-			</a><br/>
-			James A.
+			<a href="https://github.com/Gabb1995">
+				<img src="https://avatars.githubusercontent.com/u/20728259?s=72&u=7658486e85c6748d2d246b10cc84210929206238&v=4" width="24" alt="Avatar of Gabb1995"> Gabb1995
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Gabb1995">Copy rank badge</a><br/>
+			Gabriel Caruana
 		</td>
-		<td>Ja Consultants </td>
+		<td>@chiliz </td>
 		<td>No Twitter Username</td>
-		<td>UK | Malta | Worldwide</td>
+		<td>Malta</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/gertab">
+				<img src="https://avatars.githubusercontent.com/u/1523669?s=72&v=4" width="24" alt="Avatar of gertab"> gertab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gertab">Copy rank badge</a><br/>
+			Gerard Tabone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/franono">
 				<img src="https://avatars.githubusercontent.com/u/20502751?s=72&u=7b3476669bcaa078f1f493ed6130c3bc68ada1a9&v=4" width="24" alt="Avatar of franono"> franono
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#franono">Copy rank badge</a><br/>
 			Francesco Cremona
 		</td>
 		<td>@simplyvc </td>
@@ -3927,11 +3851,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/Cortis23">
+				<img src="https://avatars.githubusercontent.com/u/17590357?s=72&u=cd86d9ec932bc8733dbb49a0bc46153a65ebd471&v=4" width="24" alt="Avatar of Cortis23"> Cortis23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Cortis23">Copy rank badge</a><br/>
+			Christian Cortis
+		</td>
+		<td>C|c </td>
+		<td><a href="https://twitter.com/ChristianCortis">ChristianCortis</a></td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/fabianmuscat">
 				<img src="https://avatars.githubusercontent.com/u/56063935?s=72&u=08529f7bb370e45f9af6ed81c7331eb550d1eb59&v=4" width="24" alt="Avatar of fabianmuscat"> fabianmuscat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fabianmuscat">Copy rank badge</a><br/>
 			Fabian Muscat
 		</td>
 		<td>Shield Consultants Ltd. </td>
@@ -3940,12 +3877,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>291</td>
 		<td>
-			<a href="https://github.com/mprenditore">
-				<img src="https://avatars.githubusercontent.com/u/5493208?s=72&u=a5dd94d8999803fc37c27d29bda3b7daf38d3877&v=4" width="24" alt="Avatar of mprenditore"> mprenditore
-			</a><br/>
-			Stefano Stella
+			<a href="https://github.com/Montaser-Taher">
+				<img src="https://avatars.githubusercontent.com/u/150381370?s=72&u=d39cd5681752dc422004953531b2b54e2c59bdac&v=4" width="24" alt="Avatar of Montaser-Taher"> Montaser-Taher
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Montaser-Taher">Copy rank badge</a><br/>
+			M O N T A S E R
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3953,14 +3890,79 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/mbar0075">
+				<img src="https://avatars.githubusercontent.com/u/103250564?s=72&u=563bd40cb988c59b59b9187a04dc5e60073c9f3f&v=4" width="24" alt="Avatar of mbar0075"> mbar0075
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mbar0075">Copy rank badge</a><br/>
+			Matthias Bartolo
+		</td>
+		<td>University Of Malta </td>
+		<td><a href="https://twitter.com/MatthiasBar6">MatthiasBar6</a></td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/brendofranca">
 				<img src="https://avatars.githubusercontent.com/u/19381212?s=72&u=96ac829e78d1fab4962bdecd4c2b849d59a20a9d&v=4" width="24" alt="Avatar of brendofranca"> brendofranca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#brendofranca">Copy rank badge</a><br/>
 			Brendo França
 		</td>
-		<td>@koronet-network  </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/georgevella">
+				<img src="https://avatars.githubusercontent.com/u/1698222?s=72&v=4" width="24" alt="Avatar of georgevella"> georgevella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#georgevella">Copy rank badge</a><br/>
+			George Vella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/lukecardona">
+				<img src="https://avatars.githubusercontent.com/u/102857062?s=72&u=ce982e323b86a9e0058bff8d7570e4ceafb0911e&v=4" width="24" alt="Avatar of lukecardona"> lukecardona
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#lukecardona">Copy rank badge</a><br/>
+			Luke Cardona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/EndoTouma">
+				<img src="https://avatars.githubusercontent.com/u/90749272?s=72&u=9d529d13f4b6d9f81f4ae23ebda3aa0dea0964e9&v=4" width="24" alt="Avatar of EndoTouma"> EndoTouma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#EndoTouma">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sliema</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/daavexyz">
+				<img src="https://avatars.githubusercontent.com/u/67817054?s=72&u=26754e2911743e79017aa592f1e1db42c9ee31bb&v=4" width="24" alt="Avatar of daavexyz"> daavexyz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#daavexyz">Copy rank badge</a><br/>
+			dave
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>13</td>
@@ -3968,10 +3970,10 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>298</td>
 		<td>
-			<a href="https://github.com/georgevella">
-				<img src="https://avatars.githubusercontent.com/u/1698222?s=72&v=4" width="24" alt="Avatar of georgevella"> georgevella
-			</a><br/>
-			George Vella
+			<a href="https://github.com/KimSpecht">
+				<img src="https://avatars.githubusercontent.com/u/870107?s=72&u=76ebb7f37607f60ac0f143e1f990c8a80583545c&v=4" width="24" alt="Avatar of KimSpecht"> KimSpecht
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KimSpecht">Copy rank badge</a><br/>
+			Kim Pedersen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3981,12 +3983,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>299</td>
 		<td>
-			<a href="https://github.com/Gabb1995">
-				<img src="https://avatars.githubusercontent.com/u/20728259?s=72&u=7658486e85c6748d2d246b10cc84210929206238&v=4" width="24" alt="Avatar of Gabb1995"> Gabb1995
-			</a><br/>
-			Gabriel Caruana
+			<a href="https://github.com/davidfarrugia">
+				<img src="https://avatars.githubusercontent.com/u/27766452?s=72&v=4" width="24" alt="Avatar of davidfarrugia"> davidfarrugia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#davidfarrugia">Copy rank badge</a><br/>
+			David Farrugia
 		</td>
-		<td>@chiliz </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>13</td>
@@ -3994,10 +3996,10 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>300</td>
 		<td>
-			<a href="https://github.com/phitzi">
-				<img src="https://avatars.githubusercontent.com/u/6391787?s=72&v=4" width="24" alt="Avatar of phitzi"> phitzi
-			</a><br/>
-			Phitzi
+			<a href="https://github.com/EzenwaDuruoha">
+				<img src="https://avatars.githubusercontent.com/u/22953663?s=72&u=9402087152227b4620c142cdc6b0d1dedd1530a0&v=4" width="24" alt="Avatar of EzenwaDuruoha"> EzenwaDuruoha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#EzenwaDuruoha">Copy rank badge</a><br/>
+			Ezenwa Duruoha
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4007,100 +4009,35 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>301</td>
 		<td>
-			<a href="https://github.com/lukecardona">
-				<img src="https://avatars.githubusercontent.com/u/102857062?s=72&u=ce982e323b86a9e0058bff8d7570e4ceafb0911e&v=4" width="24" alt="Avatar of lukecardona"> lukecardona
-			</a><br/>
-			Luke Cardona
+			<a href="https://github.com/roderickvella">
+				<img src="https://avatars.githubusercontent.com/u/55999524?s=72&u=a8e7e01907653e27f8ded711ff3b8beb25869917&v=4" width="24" alt="Avatar of roderickvella"> roderickvella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#roderickvella">Copy rank badge</a><br/>
+			Roderick Vella Galea
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/Cortis23">
-				<img src="https://avatars.githubusercontent.com/u/17590357?s=72&u=cd86d9ec932bc8733dbb49a0bc46153a65ebd471&v=4" width="24" alt="Avatar of Cortis23"> Cortis23
-			</a><br/>
-			Christian Cortis
-		</td>
-		<td>C|c </td>
-		<td><a href="https://twitter.com/ChristianCortis">ChristianCortis</a></td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/EndoTouma">
-				<img src="https://avatars.githubusercontent.com/u/90749272?s=72&u=9d529d13f4b6d9f81f4ae23ebda3aa0dea0964e9&v=4" width="24" alt="Avatar of EndoTouma"> EndoTouma
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sliema</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a href="https://github.com/daavexyz">
-				<img src="https://avatars.githubusercontent.com/u/67817054?s=72&u=26754e2911743e79017aa592f1e1db42c9ee31bb&v=4" width="24" alt="Avatar of daavexyz"> daavexyz
-			</a><br/>
-			dave
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/EzenwaDuruoha">
-				<img src="https://avatars.githubusercontent.com/u/22953663?s=72&u=9402087152227b4620c142cdc6b0d1dedd1530a0&v=4" width="24" alt="Avatar of EzenwaDuruoha"> EzenwaDuruoha
-			</a><br/>
-			Ezenwa Duruoha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/ezekielibe">
-				<img src="https://avatars.githubusercontent.com/u/70276726?s=72&u=e6886a0ca3a88e90d0e5bdde2bd91bc614ef3424&v=4" width="24" alt="Avatar of ezekielibe"> ezekielibe
-			</a><br/>
-			Ezekiel Ibegbunam
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Ezekielibe3">Ezekielibe3</a></td>
-		<td>Malta</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/Frank-vdm">
-				<img src="https://avatars.githubusercontent.com/u/26402451?s=72&u=bd12d730104fc313c4a20803ad4c8c752183d76a&v=4" width="24" alt="Avatar of Frank-vdm"> Frank-vdm
-			</a><br/>
-			フランソワ
-		</td>
-		<td>Cinapse </td>
+		<td>Iict Mcast </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/adrianvellamlt">
+				<img src="https://avatars.githubusercontent.com/u/18593836?s=72&v=4" width="24" alt="Avatar of adrianvellamlt"> adrianvellamlt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#adrianvellamlt">Copy rank badge</a><br/>
+			Adrian Vella
+		</td>
+		<td>Enteractive Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/michaelstivala">
 				<img src="https://avatars.githubusercontent.com/u/4493561?s=72&u=5e6f38a9b5ae0bf02c77b4233cf5d88d2eb18509&v=4" width="24" alt="Avatar of michaelstivala"> michaelstivala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#michaelstivala">Copy rank badge</a><br/>
 			Michael Stivala
 		</td>
 		<td>No Company</td>
@@ -4109,37 +4046,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/KimSpecht">
-				<img src="https://avatars.githubusercontent.com/u/870107?s=72&u=76ebb7f37607f60ac0f143e1f990c8a80583545c&v=4" width="24" alt="Avatar of KimSpecht"> KimSpecht
-			</a><br/>
-			Kim Pedersen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/NasrOmar">
-				<img src="https://avatars.githubusercontent.com/u/44181944?s=72&u=4dad82bd647d3ed3f53fe41d0fbd741c89057719&v=4" width="24" alt="Avatar of NasrOmar"> NasrOmar
-			</a><br/>
-			Omar Nasr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>311</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/gregpavl">
 				<img src="https://avatars.githubusercontent.com/u/90420060?s=72&v=4" width="24" alt="Avatar of gregpavl"> gregpavl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gregpavl">Copy rank badge</a><br/>
 			Greg
 		</td>
 		<td>@ginbits </td>
@@ -4148,11 +4059,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/NasrOmar">
+				<img src="https://avatars.githubusercontent.com/u/44181944?s=72&u=4dad82bd647d3ed3f53fe41d0fbd741c89057719&v=4" width="24" alt="Avatar of NasrOmar"> NasrOmar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#NasrOmar">Copy rank badge</a><br/>
+			Omar Nasr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/taspanja">
+				<img src="https://avatars.githubusercontent.com/u/44866069?s=72&u=7395cc84cd819491304467e02820bcdebb6b6a76&v=4" width="24" alt="Avatar of taspanja"> taspanja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#taspanja">Copy rank badge</a><br/>
+			Keith Fenech
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/lbajada">
 				<img src="https://avatars.githubusercontent.com/u/22560659?s=72&u=5339187cc5542269ba9a5efbedbefffdf1f1f8d3&v=4" width="24" alt="Avatar of lbajada"> lbajada
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#lbajada">Copy rank badge</a><br/>
 			Luke Bajada
 		</td>
 		<td>@phoenixnap  </td>
@@ -4161,64 +4098,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>308</td>
 		<td>
-			<a href="https://github.com/xontab">
-				<img src="https://avatars.githubusercontent.com/u/4987684?s=72&v=4" width="24" alt="Avatar of xontab"> xontab
-			</a><br/>
-			Shaun Tabone
-		</td>
-		<td>Elantil </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/roderickvella">
-				<img src="https://avatars.githubusercontent.com/u/55999524?s=72&u=a8e7e01907653e27f8ded711ff3b8beb25869917&v=4" width="24" alt="Avatar of roderickvella"> roderickvella
-			</a><br/>
-			Roderick Vella Galea
-		</td>
-		<td>Iict Mcast </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/Hugo-Coutinho">
-				<img src="https://avatars.githubusercontent.com/u/34046395?s=72&u=9a8c3f4fede970f0ec8da43a29fa66c878f1ae81&v=4" width="24" alt="Avatar of Hugo-Coutinho"> Hugo-Coutinho
-			</a><br/>
-			No Name
-		</td>
-		<td>Betsson </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/Decodory">
-				<img src="https://avatars.githubusercontent.com/u/92710341?s=72&u=9b91aa2f33f1299af26f98b76992ea028ca5e0b5&v=4" width="24" alt="Avatar of Decodory"> Decodory
-			</a><br/>
-			Matthew Schembri
-		</td>
-		<td>@nuvolelabs </td>
-		<td><a href="https://twitter.com/decodory_">decodory_</a></td>
-		<td>Malta</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/JavierLMB">
-				<img src="https://avatars.githubusercontent.com/u/108611890?s=72&u=ec1fba834d51e381ae26fc79175764b232d7163e&v=4" width="24" alt="Avatar of JavierLMB"> JavierLMB
-			</a><br/>
-			Javier Camilleri
+			<a href="https://github.com/wlabatey">
+				<img src="https://avatars.githubusercontent.com/u/12471951?s=72&u=03b9aecc9622291119eb89f698df6fee848c8e37&v=4" width="24" alt="Avatar of wlabatey"> wlabatey
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#wlabatey">Copy rank badge</a><br/>
+			Will Batey
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4226,24 +4111,50 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>309</td>
 		<td>
-			<a href="https://github.com/adrianvellamlt">
-				<img src="https://avatars.githubusercontent.com/u/18593836?s=72&v=4" width="24" alt="Avatar of adrianvellamlt"> adrianvellamlt
-			</a><br/>
-			Adrian Vella
+			<a href="https://github.com/VitorTorquato">
+				<img src="https://avatars.githubusercontent.com/u/145038352?s=72&u=c6cc532e1da1a8599c6e0b07a1f97f320bc9fc87&v=4" width="24" alt="Avatar of VitorTorquato"> VitorTorquato
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#VitorTorquato">Copy rank badge</a><br/>
+			Vitor 
 		</td>
-		<td>Enteractive Ltd </td>
+		<td>Sel-employed </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/dmzinc">
+				<img src="https://avatars.githubusercontent.com/u/28094702?s=72&v=4" width="24" alt="Avatar of dmzinc"> dmzinc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dmzinc">Copy rank badge</a><br/>
+			Oguntuase Afolabi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/Decodory">
+				<img src="https://avatars.githubusercontent.com/u/92710341?s=72&u=9b91aa2f33f1299af26f98b76992ea028ca5e0b5&v=4" width="24" alt="Avatar of Decodory"> Decodory
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Decodory">Copy rank badge</a><br/>
+			Matthew Schembri
+		</td>
+		<td>Gasanmamo Insurance </td>
+		<td><a href="https://twitter.com/decodoryy">decodoryy</a></td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/zeitgeistf">
 				<img src="https://avatars.githubusercontent.com/u/11848697?s=72&u=e23b2aa3b352d94acbacc032f4ef13e8b7631ab5&v=4" width="24" alt="Avatar of zeitgeistf"> zeitgeistf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zeitgeistf">Copy rank badge</a><br/>
 			sf
 		</td>
 		<td>No Company</td>
@@ -4252,24 +4163,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/ConfidenceDev">
-				<img src="https://avatars.githubusercontent.com/u/34694992?s=72&u=efdf8b3b6b42ed033ba393c81613ef881b5c2cb0&v=4" width="24" alt="Avatar of ConfidenceDev"> ConfidenceDev
-			</a><br/>
-			Confidence Eze
-		</td>
-		<td>Plurg Inc </td>
-		<td><a href="https://twitter.com/confidencedev">confidencedev</a></td>
-		<td>Malta</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>321</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/ekm1">
 				<img src="https://avatars.githubusercontent.com/u/16984729?s=72&u=ab665b67a21519b67c069a3f3166348e4fbf89b2&v=4" width="24" alt="Avatar of ekm1"> ekm1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ekm1">Copy rank badge</a><br/>
 			Migel Hoxha
 		</td>
 		<td>No Company</td>
@@ -4278,12 +4176,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>314</td>
 		<td>
-			<a href="https://github.com/isaac-mercieca">
-				<img src="https://avatars.githubusercontent.com/u/16863199?s=72&u=cc83a96058144db7f9b20c313d1c9e993cccb375&v=4" width="24" alt="Avatar of isaac-mercieca"> isaac-mercieca
-			</a><br/>
-			Isaac Mercieca
+			<a href="https://github.com/mprenditore">
+				<img src="https://avatars.githubusercontent.com/u/5493208?s=72&u=a5dd94d8999803fc37c27d29bda3b7daf38d3877&v=4" width="24" alt="Avatar of mprenditore"> mprenditore
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mprenditore">Copy rank badge</a><br/>
+			Stefano Stella
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4291,11 +4189,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/alchimya">
 				<img src="https://avatars.githubusercontent.com/u/5986857?s=72&u=5930a4960a60f90d4813392067fda0d69cffad2d&v=4" width="24" alt="Avatar of alchimya"> alchimya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#alchimya">Copy rank badge</a><br/>
 			Domenico Vacchiano
 		</td>
 		<td>Slotmatic </td>
@@ -4304,11 +4202,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/frg">
 				<img src="https://avatars.githubusercontent.com/u/1245426?s=72&u=0c9628ba370b830cb8098359d1755d1fe5a43adb&v=4" width="24" alt="Avatar of frg"> frg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#frg">Copy rank badge</a><br/>
 			Jean Farrugia
 		</td>
 		<td>Kingmakers </td>
@@ -4317,12 +4215,116 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/kashif-se">
+				<img src="https://avatars.githubusercontent.com/u/5568138?s=72&u=a90a7a9a6713dace7f2c777332c5b0c6510068aa&v=4" width="24" alt="Avatar of kashif-se"> kashif-se
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kashif-se">Copy rank badge</a><br/>
+			Kashif Sohail
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kshfse">kshfse</a></td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/jamesattard">
+				<img src="https://avatars.githubusercontent.com/u/3464559?s=72&u=c40fc28a157f209db633699334d0577a8f1171e0&v=4" width="24" alt="Avatar of jamesattard"> jamesattard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jamesattard">Copy rank badge</a><br/>
+			James A.
+		</td>
+		<td>Ja Consultants </td>
+		<td>No Twitter Username</td>
+		<td>UK | Malta | Worldwide</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Frank-vdm">
+				<img src="https://avatars.githubusercontent.com/u/26402451?s=72&u=bd12d730104fc313c4a20803ad4c8c752183d76a&v=4" width="24" alt="Avatar of Frank-vdm"> Frank-vdm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Frank-vdm">Copy rank badge</a><br/>
+			フランソワ
+		</td>
+		<td>Cinapse </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/DanielMagro97">
 				<img src="https://avatars.githubusercontent.com/u/14795178?s=72&u=4e71ab6e77673de6c0c99241c2644a0ab644be12&v=4" width="24" alt="Avatar of DanielMagro97"> DanielMagro97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DanielMagro97">Copy rank badge</a><br/>
 			Daniel Magro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/AneWeber">
+				<img src="https://avatars.githubusercontent.com/u/170721538?s=72&u=cb4b6c2ece23918315e3e7095a6f6c47a0b9dbaf&v=4" width="24" alt="Avatar of AneWeber"> AneWeber
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#AneWeber">Copy rank badge</a><br/>
+			Ane Marinheiro Weber
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta - EU</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/JuanScerriE">
+				<img src="https://avatars.githubusercontent.com/u/29839689?s=72&u=af7eccdff4f5f6eac2b6136ebbba2231a1757716&v=4" width="24" alt="Avatar of JuanScerriE"> JuanScerriE
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JuanScerriE">Copy rank badge</a><br/>
+			Juan Scerri
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/phitzi">
+				<img src="https://avatars.githubusercontent.com/u/6391787?s=72&v=4" width="24" alt="Avatar of phitzi"> phitzi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#phitzi">Copy rank badge</a><br/>
+			Phitzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/danielMicallef">
+				<img src="https://avatars.githubusercontent.com/u/6313677?s=72&u=6182bfe8ac946fe9517896c0ccbba3b38a5c0a7f&v=4" width="24" alt="Avatar of danielMicallef"> danielMicallef
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#danielMicallef">Copy rank badge</a><br/>
+			Daniel Micallef
+		</td>
+		<td>Ekselera Ventures </td>
+		<td><a href="https://twitter.com/micallef_daniel">micallef_daniel</a></td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/Metjuw">
+				<img src="https://avatars.githubusercontent.com/u/8685305?s=72&u=be30a1f6cd3304a7e594d0402f79c36048d47338&v=4" width="24" alt="Avatar of Metjuw"> Metjuw
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Metjuw">Copy rank badge</a><br/>
+			Matthew Abela Medici
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4332,23 +4334,23 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/AneWeber">
-				<img src="https://avatars.githubusercontent.com/u/170721538?s=72&u=cb4b6c2ece23918315e3e7095a6f6c47a0b9dbaf&v=4" width="24" alt="Avatar of AneWeber"> AneWeber
-			</a><br/>
-			Ane Marinheiro Weber
+			<a href="https://github.com/keanegrech">
+				<img src="https://avatars.githubusercontent.com/u/44116193?s=72&u=9e67562c01bddbdcb50ab118d6f9fa4b6518c188&v=4" width="24" alt="Avatar of keanegrech"> keanegrech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#keanegrech">Copy rank badge</a><br/>
+			Keane Grech
 		</td>
-		<td>No Company</td>
+		<td>Planning Authority </td>
 		<td>No Twitter Username</td>
-		<td>Malta - EU</td>
+		<td>Malta</td>
 		<td>10</td>
 	</tr>
 	<tr>
 		<td>327</td>
 		<td>
-			<a href="https://github.com/JuanScerriE">
-				<img src="https://avatars.githubusercontent.com/u/29839689?s=72&u=af7eccdff4f5f6eac2b6136ebbba2231a1757716&v=4" width="24" alt="Avatar of JuanScerriE"> JuanScerriE
-			</a><br/>
-			Juan Scerri
+			<a href="https://github.com/eldrad294">
+				<img src="https://avatars.githubusercontent.com/u/18676578?s=72&u=6825d18ea517db8faee6a03edb1cb1ea1782f6dc&v=4" width="24" alt="Avatar of eldrad294"> eldrad294
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#eldrad294">Copy rank badge</a><br/>
+			Gabriel Sammut
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4358,75 +4360,75 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>328</td>
 		<td>
-			<a href="https://github.com/Metjuw">
-				<img src="https://avatars.githubusercontent.com/u/8685305?s=72&u=be30a1f6cd3304a7e594d0402f79c36048d47338&v=4" width="24" alt="Avatar of Metjuw"> Metjuw
-			</a><br/>
-			Matthew Abela Medici
+			<a href="https://github.com/apple-juice">
+				<img src="https://avatars.githubusercontent.com/u/2690724?s=72&u=28744c5bb7ab21c3fd4f5e2c1a925357aa5a576d&v=4" width="24" alt="Avatar of apple-juice"> apple-juice
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#apple-juice">Copy rank badge</a><br/>
+			Julia 
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>@stakefish </td>
+		<td><a href="https://twitter.com/ju_coder">ju_coder</a></td>
 		<td>Malta</td>
-		<td>10</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>329</td>
 		<td>
+			<a href="https://github.com/benjie332">
+				<img src="https://avatars.githubusercontent.com/u/3155713?s=72&u=b0011deea40b376060af0313a35f8d774f05bf2f&v=4" width="24" alt="Avatar of benjie332"> benjie332
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#benjie332">Copy rank badge</a><br/>
+			Benjie Gatt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/jimjamdev">
+				<img src="https://avatars.githubusercontent.com/u/797547?s=72&u=3d1b8f8375bfa363a137b106141f18ea52c19c78&v=4" width="24" alt="Avatar of jimjamdev"> jimjamdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jimjamdev">Copy rank badge</a><br/>
+			Ian Jamieson
+		</td>
+		<td>Ian Jamieson </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/OverGamesDev">
+				<img src="https://avatars.githubusercontent.com/u/30346630?s=72&u=b9b716039472f53240a564e177d9fcc6576dc73b&v=4" width="24" alt="Avatar of OverGamesDev"> OverGamesDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#OverGamesDev">Copy rank badge</a><br/>
+			OverGames
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/OverGDev">OverGDev</a></td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
 			<a href="https://github.com/deliriousMathematician">
 				<img src="https://avatars.githubusercontent.com/u/153628198?s=72&u=e998d6fc6a22390851ac0c35e209914f059d7b24&v=4" width="24" alt="Avatar of deliriousMathematician"> deliriousMathematician
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#deliriousMathematician">Copy rank badge</a><br/>
 			Michael Hall
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/keanegrech">
-				<img src="https://avatars.githubusercontent.com/u/44116193?s=72&u=9e67562c01bddbdcb50ab118d6f9fa4b6518c188&v=4" width="24" alt="Avatar of keanegrech"> keanegrech
-			</a><br/>
-			Keane Grech
-		</td>
-		<td>Planning Authority </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/weslleybarboza">
-				<img src="https://avatars.githubusercontent.com/u/47784377?s=72&u=7d388b4a04e762585d6c0c94c1d049f09fe4c6be&v=4" width="24" alt="Avatar of weslleybarboza"> weslleybarboza
-			</a><br/>
-			Weslley
-		</td>
-		<td>@epic </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/eldrad294">
-				<img src="https://avatars.githubusercontent.com/u/18676578?s=72&u=6825d18ea517db8faee6a03edb1cb1ea1782f6dc&v=4" width="24" alt="Avatar of eldrad294"> eldrad294
-			</a><br/>
-			Gabriel Sammut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>10</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>333</td>
 		<td>
-			<a href="https://github.com/benjie332">
-				<img src="https://avatars.githubusercontent.com/u/3155713?s=72&u=b0011deea40b376060af0313a35f8d774f05bf2f&v=4" width="24" alt="Avatar of benjie332"> benjie332
-			</a><br/>
-			Benjie Gatt
+			<a href="https://github.com/garyhili">
+				<img src="https://avatars.githubusercontent.com/u/87307137?s=72&u=555a372f37ecd479a2e8cb2d366b42a3f912359e&v=4" width="24" alt="Avatar of garyhili"> garyhili
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#garyhili">Copy rank badge</a><br/>
+			Gary
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4436,35 +4438,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>334</td>
 		<td>
-			<a href="https://github.com/jimjamdev">
-				<img src="https://avatars.githubusercontent.com/u/797547?s=72&u=3d1b8f8375bfa363a137b106141f18ea52c19c78&v=4" width="24" alt="Avatar of jimjamdev"> jimjamdev
-			</a><br/>
-			Ian Jamieson
-		</td>
-		<td>Ian Jamieson </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/danielMicallef">
-				<img src="https://avatars.githubusercontent.com/u/6313677?s=72&u=6182bfe8ac946fe9517896c0ccbba3b38a5c0a7f&v=4" width="24" alt="Avatar of danielMicallef"> danielMicallef
-			</a><br/>
-			Daniel Micallef
-		</td>
-		<td>Ekselera Ventures </td>
-		<td><a href="https://twitter.com/micallef_daniel">micallef_daniel</a></td>
-		<td>Malta</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
 			<a href="https://github.com/rodmorley">
 				<img src="https://avatars.githubusercontent.com/u/6349748?s=72&u=e9026dee054fc96ab8d62648acfac6a78feeebb2&v=4" width="24" alt="Avatar of rodmorley"> rodmorley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rodmorley">Copy rank badge</a><br/>
 			Rod M
 		</td>
 		<td>No Company</td>
@@ -4473,11 +4449,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/SardarML">
+				<img src="https://avatars.githubusercontent.com/u/116170786?s=72&v=4" width="24" alt="Avatar of SardarML"> SardarML
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SardarML">Copy rank badge</a><br/>
+			Sara Sardar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/dipeshchaudhari2908">
 				<img src="https://avatars.githubusercontent.com/u/45564499?s=72&u=6bd584a2cde6c3fa11c030d8c771d4788fe67dd5&v=4" width="24" alt="Avatar of dipeshchaudhari2908"> dipeshchaudhari2908
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dipeshchaudhari2908">Copy rank badge</a><br/>
 			Dipesh Chaudhari
 		</td>
 		<td>No Company</td>
@@ -4486,11 +4475,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/arielthomas1">
 				<img src="https://avatars.githubusercontent.com/u/81155172?s=72&u=bc5e32f2e6c5004d9c3e27953414238da6330190&v=4" width="24" alt="Avatar of arielthomas1"> arielthomas1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#arielthomas1">Copy rank badge</a><br/>
 			Ariel T. Thomas
 		</td>
 		<td>University Of Malta </td>
@@ -4499,11 +4488,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/CM2Walki">
+				<img src="https://avatars.githubusercontent.com/u/12199415?s=72&u=f2ff9e2d841709bc3f3bd8bc77b688e66c2cf05b&v=4" width="24" alt="Avatar of CM2Walki"> CM2Walki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#CM2Walki">Copy rank badge</a><br/>
+			Walki
+		</td>
+		<td>Cm2.network </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>339</td>
+		<td>
+			<a href="https://github.com/nevillegrech">
+				<img src="https://avatars.githubusercontent.com/u/4048285?s=72&u=20b16ab3d03f21e4f17be31c9ef263ba5180997d&v=4" width="24" alt="Avatar of nevillegrech"> nevillegrech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nevillegrech">Copy rank badge</a><br/>
+			Neville Grech
+		</td>
+		<td>Dedaub Limited </td>
+		<td><a href="https://twitter.com/neville_grech">neville_grech</a></td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/josefeg">
 				<img src="https://avatars.githubusercontent.com/u/2032603?s=72&v=4" width="24" alt="Avatar of josefeg"> josefeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#josefeg">Copy rank badge</a><br/>
 			Josef Galea
 		</td>
 		<td>No Company</td>
@@ -4512,24 +4527,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/apple-juice">
-				<img src="https://avatars.githubusercontent.com/u/2690724?s=72&u=28744c5bb7ab21c3fd4f5e2c1a925357aa5a576d&v=4" width="24" alt="Avatar of apple-juice"> apple-juice
-			</a><br/>
-			Julia 
-		</td>
-		<td>@stakefish </td>
-		<td><a href="https://twitter.com/ju_coder">ju_coder</a></td>
-		<td>Malta</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>341</td>
 		<td>
 			<a href="https://github.com/onmotion">
 				<img src="https://avatars.githubusercontent.com/u/12899080?s=72&u=217bda44b0f5ddfd3adfb0c0816145c239a6a3fe&v=4" width="24" alt="Avatar of onmotion"> onmotion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#onmotion">Copy rank badge</a><br/>
 			Alexandr Kozhevnikov
 		</td>
 		<td>Rush Entertainment </td>
@@ -4540,22 +4542,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>342</td>
 		<td>
-			<a href="https://github.com/raulalmeidatarazona">
-				<img src="https://avatars.githubusercontent.com/u/61455658?s=72&u=ea61e7fb0c039171098bbe4debf6d1efdf416648&v=4" width="24" alt="Avatar of raulalmeidatarazona"> raulalmeidatarazona
-			</a><br/>
-			Raul Almeida
-		</td>
-		<td>Ar Solucion Digital </td>
-		<td><a href="https://twitter.com/AlmeidaTarazona">AlmeidaTarazona</a></td>
-		<td>Malta</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
 			<a href="https://github.com/theomodesto">
 				<img src="https://avatars.githubusercontent.com/u/33163645?s=72&u=fc6b48ee2451b07ac2bdf92d2298b34078d56486&v=4" width="24" alt="Avatar of theomodesto"> theomodesto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#theomodesto">Copy rank badge</a><br/>
 			Theo Modesto
 		</td>
 		<td>No Company</td>
@@ -4564,11 +4553,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/mohamed-benoba">
+				<img src="https://avatars.githubusercontent.com/u/54261592?s=72&u=0f8dfdb88e99a188e88c7106edff4f80c80da3a1&v=4" width="24" alt="Avatar of mohamed-benoba"> mohamed-benoba
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mohamed-benoba">Copy rank badge</a><br/>
+			Mohamed Ben Nouba
+		</td>
+		<td>Mandobk </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>344</td>
 		<td>
 			<a href="https://github.com/cratuki">
 				<img src="https://avatars.githubusercontent.com/u/5275325?s=72&v=4" width="24" alt="Avatar of cratuki"> cratuki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cratuki">Copy rank badge</a><br/>
 			Craig Turner
 		</td>
 		<td>No Company</td>
@@ -4579,9 +4581,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/Zoroboak">
+				<img src="https://avatars.githubusercontent.com/u/33763241?s=72&u=590d49620cceb1c89a5f6666c04665e4ecdbb7d2&v=4" width="24" alt="Avatar of Zoroboak"> Zoroboak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Zoroboak">Copy rank badge</a><br/>
+			Pedro Daniel Pérez Sánchez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/SuchBlue">
 				<img src="https://avatars.githubusercontent.com/u/58862188?s=72&u=b18e4efe48e2ba2ab50a1c447da4863768c99194&v=4" width="24" alt="Avatar of SuchBlue"> SuchBlue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SuchBlue">Copy rank badge</a><br/>
 			SuchBlue
 		</td>
 		<td>No Company</td>
@@ -4590,25 +4605,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/carlosgauci">
 				<img src="https://avatars.githubusercontent.com/u/53526597?s=72&u=f8c29a80d048dd7b82ae9cfd16155d17283b6f92&v=4" width="24" alt="Avatar of carlosgauci"> carlosgauci
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#carlosgauci">Copy rank badge</a><br/>
 			Carlos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/etiennegalea">
-				<img src="https://avatars.githubusercontent.com/u/1249886?s=72&u=7bca88933cdd7e43c391cc7c87d3680a3b17d221&v=4" width="24" alt="Avatar of etiennegalea"> etiennegalea
-			</a><br/>
-			Etienne Galea
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4618,22 +4620,35 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>348</td>
 		<td>
-			<a href="https://github.com/bonej079">
-				<img src="https://avatars.githubusercontent.com/u/11914535?s=72&u=8392bb5d14587047d4faf3d4227e910d3af3b2d4&v=4" width="24" alt="Avatar of bonej079"> bonej079
-			</a><br/>
-			Joseph Bonello
+			<a href="https://github.com/sheldofu">
+				<img src="https://avatars.githubusercontent.com/u/2767714?s=72&u=171850d8c5c57ab25053f04bb4a9537ce4c5db99&v=4" width="24" alt="Avatar of sheldofu"> sheldofu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#sheldofu">Copy rank badge</a><br/>
+			Sheldon Marsh
 		</td>
-		<td>University Of Malta </td>
-		<td><a href="https://twitter.com/JB579">JB579</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>349</td>
 		<td>
+			<a href="https://github.com/ConfidenceDev">
+				<img src="https://avatars.githubusercontent.com/u/34694992?s=72&u=efdf8b3b6b42ed033ba393c81613ef881b5c2cb0&v=4" width="24" alt="Avatar of ConfidenceDev"> ConfidenceDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ConfidenceDev">Copy rank badge</a><br/>
+			Confidence Eze
+		</td>
+		<td>Plurg Inc </td>
+		<td><a href="https://twitter.com/confidencedev">confidencedev</a></td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
 			<a href="https://github.com/GustavoGarufi">
 				<img src="https://avatars.githubusercontent.com/u/21698991?s=72&u=9916f8e015ee72c635794b99fe157474fbb58556&v=4" width="24" alt="Avatar of GustavoGarufi"> GustavoGarufi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#GustavoGarufi">Copy rank badge</a><br/>
 			Gustavo Garufi
 		</td>
 		<td>Traffic Wizards </td>
@@ -4642,27 +4657,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/clintonmagro">
 				<img src="https://avatars.githubusercontent.com/u/9347779?s=72&u=8b3bda5f29c3ea0d00ee9dd09786aad88e049c35&v=4" width="24" alt="Avatar of clintonmagro"> clintonmagro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#clintonmagro">Copy rank badge</a><br/>
 			Clinton Magro
 		</td>
 		<td>Tipahaus </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/isaachili">
-				<img src="https://avatars.githubusercontent.com/u/18428880?s=72&u=14f5f75d08042c86a2f1ea90bae24875e94d2a64&v=4" width="24" alt="Avatar of isaachili"> isaachili
-			</a><br/>
-			Isaac Hili
-		</td>
-		<td>Play'n Go </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>8</td>
@@ -4672,7 +4674,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/emuel-vassallo">
 				<img src="https://avatars.githubusercontent.com/u/61983362?s=72&v=4" width="24" alt="Avatar of emuel-vassallo"> emuel-vassallo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#emuel-vassallo">Copy rank badge</a><br/>
 			Emuel
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/jpxue">
 				<img src="https://avatars.githubusercontent.com/u/22230478?s=72&u=6d989d2dc8d9492a2de164888b60a847ca5edaf9&v=4" width="24" alt="Avatar of jpxue"> jpxue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jpxue">Copy rank badge</a><br/>
 			Juan Xuereb
 		</td>
 		<td>No Company</td>
@@ -4696,22 +4698,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>354</td>
 		<td>
-			<a href="https://github.com/maxorlovsky">
-				<img src="https://avatars.githubusercontent.com/u/7931620?s=72&u=4abea4599be6423e15c037af837b87d59c31a05a&v=4" width="24" alt="Avatar of maxorlovsky"> maxorlovsky
-			</a><br/>
-			Maxo
-		</td>
-		<td>@lifinance </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
 			<a href="https://github.com/bartczyz">
 				<img src="https://avatars.githubusercontent.com/u/1191500?s=72&u=6e6065839e470e189ced0b9bc6d86d6b611604e2&v=4" width="24" alt="Avatar of bartczyz"> bartczyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#bartczyz">Copy rank badge</a><br/>
 			Bart Czyz
 		</td>
 		<td>No Company</td>
@@ -4720,24 +4709,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
-			<a href="https://github.com/glhrme">
-				<img src="https://avatars.githubusercontent.com/u/43591396?s=72&u=5ab8e30564bfb21bbfd38103e4ea38a1dfc77557&v=4" width="24" alt="Avatar of glhrme"> glhrme
-			</a><br/>
-			Guilherme de Assis dos Santos
+			<a href="https://github.com/julian-calleja">
+				<img src="https://avatars.githubusercontent.com/u/18438843?s=72&u=380dc2b7fed81b34179704c216b73c387a7272a6&v=4" width="24" alt="Avatar of julian-calleja"> julian-calleja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#julian-calleja">Copy rank badge</a><br/>
+			Julian Calleja
 		</td>
-		<td>Betsson Group </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/iainmckay">
 				<img src="https://avatars.githubusercontent.com/u/1223726?s=72&u=0e3c246f5c6daed74291eea2638e6c9b277cbaa7&v=4" width="24" alt="Avatar of iainmckay"> iainmckay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#iainmckay">Copy rank badge</a><br/>
 			Iain Mckay
 		</td>
 		<td>No Company</td>
@@ -4746,24 +4735,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>358</td>
-		<td>
-			<a href="https://github.com/Kwadz">
-				<img src="https://avatars.githubusercontent.com/u/1472599?s=72&v=4" width="24" alt="Avatar of Kwadz"> Kwadz
-			</a><br/>
-			Richard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>359</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/mzaharenkov">
 				<img src="https://avatars.githubusercontent.com/u/6191448?s=72&u=5c32fc7745dac67a6fb1e3e86374bf37d96588e6&v=4" width="24" alt="Avatar of mzaharenkov"> mzaharenkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mzaharenkov">Copy rank badge</a><br/>
 			Mikhail Zakharenkov
 		</td>
 		<td>Hmlabs </td>
@@ -4772,11 +4748,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/aklesky">
+				<img src="https://avatars.githubusercontent.com/u/2772790?s=72&u=9e4507a952d931b1375f8c8b256b057fcb90b67c&v=4" width="24" alt="Avatar of aklesky"> aklesky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aklesky">Copy rank badge</a><br/>
+			Aleksei Semiglasov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta, Sliema</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/haniefss">
 				<img src="https://avatars.githubusercontent.com/u/39113199?s=72&v=4" width="24" alt="Avatar of haniefss"> haniefss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#haniefss">Copy rank badge</a><br/>
 			Hanief
 		</td>
 		<td>No Company</td>
@@ -4785,11 +4774,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/AtakInjector">
 				<img src="https://avatars.githubusercontent.com/u/138025730?s=72&u=f8c499e49773fe81c2458b56a860858ab54a4ce5&v=4" width="24" alt="Avatar of AtakInjector"> AtakInjector
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#AtakInjector">Copy rank badge</a><br/>
 			AtakInjector
 		</td>
 		<td>No Company</td>
@@ -4798,11 +4787,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/myfender">
 				<img src="https://avatars.githubusercontent.com/u/3018311?s=72&v=4" width="24" alt="Avatar of myfender"> myfender
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#myfender">Copy rank badge</a><br/>
 			Carlo Loiacono
 		</td>
 		<td>Loiaging </td>
@@ -4811,12 +4800,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/BrendonCurmi">
 				<img src="https://avatars.githubusercontent.com/u/40634809?s=72&u=6db073f00b644694ba11f69dc375d9d18236314f&v=4" width="24" alt="Avatar of BrendonCurmi"> BrendonCurmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#BrendonCurmi">Copy rank badge</a><br/>
 			Brendon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/mattbeedle">
+				<img src="https://avatars.githubusercontent.com/u/2170?s=72&u=d8b87c5268c41cb790fa9d6d21af100b906aeed0&v=4" width="24" alt="Avatar of mattbeedle"> mattbeedle
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mattbeedle">Copy rank badge</a><br/>
+			Matt Beedle
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4828,7 +4830,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/sandorTuranszky">
 				<img src="https://avatars.githubusercontent.com/u/11644015?s=72&u=d32d7fa19a1abaca702859120cdfab613f067c6f&v=4" width="24" alt="Avatar of sandorTuranszky"> sandorTuranszky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#sandorTuranszky">Copy rank badge</a><br/>
 			Sandor
 		</td>
 		<td>Tursystem </td>
@@ -4839,23 +4841,23 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>365</td>
 		<td>
-			<a href="https://github.com/jacquesvcritien">
-				<img src="https://avatars.githubusercontent.com/u/30493486?s=72&u=4a335b418332c969710a192486a8529a642c9324&v=4" width="24" alt="Avatar of jacquesvcritien"> jacquesvcritien
-			</a><br/>
-			Jacques Vella Critien
+			<a href="https://github.com/SysPete">
+				<img src="https://avatars.githubusercontent.com/u/6115812?s=72&u=ac0eaf5908a21005c8178083489beb756b2e1fea&v=4" width="24" alt="Avatar of SysPete"> SysPete
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SysPete">Copy rank badge</a><br/>
+			Peter Mottram
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vcjacques">vcjacques</a></td>
+		<td>Sysnix Consultants, Watajis Ltd,<br/>Cognidox<br/>Ltd<br/></td>
+		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>6</td>
 	</tr>
 	<tr>
 		<td>366</td>
 		<td>
-			<a href="https://github.com/julian-calleja">
-				<img src="https://avatars.githubusercontent.com/u/18438843?s=72&u=380dc2b7fed81b34179704c216b73c387a7272a6&v=4" width="24" alt="Avatar of julian-calleja"> julian-calleja
-			</a><br/>
-			Julian Calleja
+			<a href="https://github.com/alex-ant">
+				<img src="https://avatars.githubusercontent.com/u/8091829?s=72&u=3304e401ba86b3717ea16ff2704255d085f7544d&v=4" width="24" alt="Avatar of alex-ant"> alex-ant
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#alex-ant">Copy rank badge</a><br/>
+			Aleksandrs Antonovs
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4865,61 +4867,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>367</td>
 		<td>
-			<a href="https://github.com/Zoroboak">
-				<img src="https://avatars.githubusercontent.com/u/33763241?s=72&u=590d49620cceb1c89a5f6666c04665e4ecdbb7d2&v=4" width="24" alt="Avatar of Zoroboak"> Zoroboak
-			</a><br/>
-			Pedro Daniel Pérez Sánchez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/alex-ant">
-				<img src="https://avatars.githubusercontent.com/u/8091829?s=72&u=3304e401ba86b3717ea16ff2704255d085f7544d&v=4" width="24" alt="Avatar of alex-ant"> alex-ant
-			</a><br/>
-			Aleksandrs Antonovs
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/redleafar">
-				<img src="https://avatars.githubusercontent.com/u/7470299?s=72&u=57939f95d6967852dd30065bc04cead8b87c01e3&v=4" width="24" alt="Avatar of redleafar"> redleafar
-			</a><br/>
-			Rafael Bermúdez
-		</td>
-		<td>Betsson Group </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>370</td>
-		<td>
-			<a href="https://github.com/OverGamesDev">
-				<img src="https://avatars.githubusercontent.com/u/30346630?s=72&u=b9b716039472f53240a564e177d9fcc6576dc73b&v=4" width="24" alt="Avatar of OverGamesDev"> OverGamesDev
-			</a><br/>
-			OverGames
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/OverGDev">OverGDev</a></td>
-		<td>Malta</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
 			<a href="https://github.com/aalzres">
 				<img src="https://avatars.githubusercontent.com/u/45148277?s=72&u=66986c47b72b8b56df01aa604d904978f1670028&v=4" width="24" alt="Avatar of aalzres"> aalzres
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aalzres">Copy rank badge</a><br/>
 			Andrés Felipe Alzate Restrepo
 		</td>
 		<td>Meep </td>
@@ -4928,11 +4878,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/isaachili">
+				<img src="https://avatars.githubusercontent.com/u/18428880?s=72&u=14f5f75d08042c86a2f1ea90bae24875e94d2a64&v=4" width="24" alt="Avatar of isaachili"> isaachili
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#isaachili">Copy rank badge</a><br/>
+			Isaac Hili
+		</td>
+		<td>Play'n Go </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/markpelli">
 				<img src="https://avatars.githubusercontent.com/u/68635036?s=72&u=72319d5950a3a2a7cdafe8f1ad28a3f3fb28c8c0&v=4" width="24" alt="Avatar of markpelli"> markpelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#markpelli">Copy rank badge</a><br/>
 			Mark Pellicano
 		</td>
 		<td>Betsson </td>
@@ -4941,24 +4904,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/ap-tech">
-				<img src="https://avatars.githubusercontent.com/u/8796500?s=72&u=9c462f1a5f303a8e4d83ee6f42456cd771554cf2&v=4" width="24" alt="Avatar of ap-tech"> ap-tech
-			</a><br/>
-			Anthony Pirotta
-		</td>
-		<td>Ap Tech </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>374</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/thomasl">
 				<img src="https://avatars.githubusercontent.com/u/25970?s=72&u=b47036ccf14520f0c39118cd6d93c0a599f81a23&v=4" width="24" alt="Avatar of thomasl"> thomasl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#thomasl">Copy rank badge</a><br/>
 			Thomas Lindgren
 		</td>
 		<td>No Company</td>
@@ -4967,11 +4917,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/ap-tech">
+				<img src="https://avatars.githubusercontent.com/u/8796500?s=72&u=9c462f1a5f303a8e4d83ee6f42456cd771554cf2&v=4" width="24" alt="Avatar of ap-tech"> ap-tech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ap-tech">Copy rank badge</a><br/>
+			Anthony Pirotta
+		</td>
+		<td>Ap Tech </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/IdotMaster1">
 				<img src="https://avatars.githubusercontent.com/u/48019206?s=72&u=73db805f67b03c931d34b0c64ade4f1a8122f956&v=4" width="24" alt="Avatar of IdotMaster1"> IdotMaster1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#IdotMaster1">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4980,11 +4943,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/liviuzachin">
+				<img src="https://avatars.githubusercontent.com/u/7502718?s=72&u=d75cef707f22bf6ec23c4204c6df6e9caa1ca7ed&v=4" width="24" alt="Avatar of liviuzachin"> liviuzachin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#liviuzachin">Copy rank badge</a><br/>
+			Liviu Zachin
+		</td>
+		<td>Zns </td>
+		<td><a href="https://twitter.com/liviuzachin">liviuzachin</a></td>
+		<td>Malta / Romania</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/petermolnar-dev">
 				<img src="https://avatars.githubusercontent.com/u/3090905?s=72&u=05cb19a5130243b89c90d8415821299e20df9bb3&v=4" width="24" alt="Avatar of petermolnar-dev"> petermolnar-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#petermolnar-dev">Copy rank badge</a><br/>
 			Peter Molnar
 		</td>
 		<td>Alludo / Parallels </td>
@@ -4993,11 +4969,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/tssge">
 				<img src="https://avatars.githubusercontent.com/u/2301748?s=72&u=8c917adc6a2a1f42b9166af1d96d9dd75cc2f8a3&v=4" width="24" alt="Avatar of tssge"> tssge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#tssge">Copy rank badge</a><br/>
 			Teemu Grönqvist
 		</td>
 		<td>Freelancer @net9-oy </td>
@@ -5006,11 +4982,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/viktorchobanov">
 				<img src="https://avatars.githubusercontent.com/u/15705816?s=72&u=213e81b4d29005c4f63a13e06cbe2afda2ce7a12&v=4" width="24" alt="Avatar of viktorchobanov"> viktorchobanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#viktorchobanov">Copy rank badge</a><br/>
 			Viktor Chobanov
 		</td>
 		<td>Vc Soft </td>
@@ -5019,11 +4995,50 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/krt-c">
+				<img src="https://avatars.githubusercontent.com/u/10705768?s=72&u=62973be0fbe2bd57b8c058ad81b1e9ac5529993f&v=4" width="24" alt="Avatar of krt-c"> krt-c
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#krt-c">Copy rank badge</a><br/>
+			Kurt Cassar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/redleafar">
+				<img src="https://avatars.githubusercontent.com/u/7470299?s=72&u=57939f95d6967852dd30065bc04cead8b87c01e3&v=4" width="24" alt="Avatar of redleafar"> redleafar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#redleafar">Copy rank badge</a><br/>
+			Rafael Bermúdez
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>379</td>
+		<td>
+			<a href="https://github.com/etiennegalea">
+				<img src="https://avatars.githubusercontent.com/u/1249886?s=72&u=7bca88933cdd7e43c391cc7c87d3680a3b17d221&v=4" width="24" alt="Avatar of etiennegalea"> etiennegalea
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#etiennegalea">Copy rank badge</a><br/>
+			Etienne Galea
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/Marcon3">
 				<img src="https://avatars.githubusercontent.com/u/104149951?s=72&v=4" width="24" alt="Avatar of Marcon3"> Marcon3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Marcon3">Copy rank badge</a><br/>
 			Marcon Spiteri
 		</td>
 		<td>University Of Malta </td>
@@ -5032,12 +5047,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
-			<a href="https://github.com/aleksbrgt">
-				<img src="https://avatars.githubusercontent.com/u/8698469?s=72&u=b79c6c979bbb1e0c987e8cc4a7ddc2514fba4c88&v=4" width="24" alt="Avatar of aleksbrgt"> aleksbrgt
-			</a><br/>
-			Aleks
+			<a href="https://github.com/Gabe-W-J">
+				<img src="https://avatars.githubusercontent.com/u/137659740?s=72&u=74789494272fe0c7bccc32914a8394e5b8dfae78&v=4" width="24" alt="Avatar of Gabe-W-J"> Gabe-W-J
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Gabe-W-J">Copy rank badge</a><br/>
+			Gabriel.W.Jackson
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5045,11 +5060,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/Nathan-Portelli-GTMT">
 				<img src="https://avatars.githubusercontent.com/u/166113662?s=72&u=339728e52acb0761528ec4fac90545539bb1d3ed&v=4" width="24" alt="Avatar of Nathan-Portelli-GTMT"> Nathan-Portelli-GTMT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Nathan-Portelli-GTMT">Copy rank badge</a><br/>
 			Nathan Portelli
 		</td>
 		<td>Grant Thornton Malta </td>
@@ -5058,11 +5073,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/kjlibsol">
+				<img src="https://avatars.githubusercontent.com/u/46519782?s=72&v=4" width="24" alt="Avatar of kjlibsol"> kjlibsol
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kjlibsol">Copy rank badge</a><br/>
+			Klaus Jensen
+		</td>
+		<td>Liberatum Solutions Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/ethernity-cloud">
 				<img src="https://avatars.githubusercontent.com/u/66076991?s=72&u=26de3b5e380ff8ea6bddb60a347b566d415ff2dc&v=4" width="24" alt="Avatar of ethernity-cloud"> ethernity-cloud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ethernity-cloud">Copy rank badge</a><br/>
 			Ethernity CLOUD
 		</td>
 		<td>Ethernity Cloud Ltd </td>
@@ -5071,11 +5099,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/hlindberg">
+				<img src="https://avatars.githubusercontent.com/u/563066?s=72&u=af462d9356d287fdf2dc26a3c46f3c92f971e02f&v=4" width="24" alt="Avatar of hlindberg"> hlindberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#hlindberg">Copy rank badge</a><br/>
+			Henrik Lindberg
+		</td>
+		<td>Bebalon Ltd </td>
+		<td><a href="https://twitter.com/hel">hel</a></td>
+		<td>Għarb, Gozo, Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/tailorvj">
 				<img src="https://avatars.githubusercontent.com/u/1202692?s=72&u=22f5710e12bcab48d191661aada76948963d8af8&v=4" width="24" alt="Avatar of tailorvj"> tailorvj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#tailorvj">Copy rank badge</a><br/>
 			Tailor VJ
 		</td>
 		<td>No Company</td>
@@ -5084,11 +5125,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/damko">
 				<img src="https://avatars.githubusercontent.com/u/1107588?s=72&u=6ebb4d7404b9937468aff1e2e4d54ff0813c0f3a&v=4" width="24" alt="Avatar of damko"> damko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#damko">Copy rank badge</a><br/>
 			damko
 		</td>
 		<td>No Company</td>
@@ -5097,53 +5138,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/liviuzachin">
-				<img src="https://avatars.githubusercontent.com/u/7502718?s=72&u=d75cef707f22bf6ec23c4204c6df6e9caa1ca7ed&v=4" width="24" alt="Avatar of liviuzachin"> liviuzachin
-			</a><br/>
-			Liviu Zachin
-		</td>
-		<td>Zns </td>
-		<td><a href="https://twitter.com/liviuzachin">liviuzachin</a></td>
-		<td>Malta / Romania</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/rrhvella">
-				<img src="https://avatars.githubusercontent.com/u/678295?s=72&v=4" width="24" alt="Avatar of rrhvella"> rrhvella
-			</a><br/>
-			Robert Vella
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/Arifi98">
-				<img src="https://avatars.githubusercontent.com/u/56672543?s=72&u=362936135f3bf36dad19b49841e4e7d1fe8fc43d&v=4" width="24" alt="Avatar of Arifi98"> Arifi98
-			</a><br/>
-			Arif Bucpapaj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/sheldofu">
-				<img src="https://avatars.githubusercontent.com/u/2767714?s=72&u=171850d8c5c57ab25053f04bb4a9537ce4c5db99&v=4" width="24" alt="Avatar of sheldofu"> sheldofu
-			</a><br/>
-			Sheldon Marsh
+			<a href="https://github.com/timurzholudev">
+				<img src="https://avatars.githubusercontent.com/u/40488807?s=72&u=ef850b34fd860d9e18d95b577476f2708b3eb001&v=4" width="24" alt="Avatar of timurzholudev"> timurzholudev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#timurzholudev">Copy rank badge</a><br/>
+			Zholudev Timur
 		</td>
-		<td>No Company</td>
+		<td>Amusnet Gaming </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>4</td>
@@ -5151,10 +5153,10 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>389</td>
 		<td>
-			<a href="https://github.com/jacob0811">
-				<img src="https://avatars.githubusercontent.com/u/10351380?s=72&u=aa894f8171ae8f93b231a6f738896b04ecfcc2cc&v=4" width="24" alt="Avatar of jacob0811"> jacob0811
-			</a><br/>
-			Jacob El Aida Chaffey
+			<a href="https://github.com/rrhvella">
+				<img src="https://avatars.githubusercontent.com/u/678295?s=72&v=4" width="24" alt="Avatar of rrhvella"> rrhvella
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rrhvella">Copy rank badge</a><br/>
+			Robert Vella
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5164,22 +5166,35 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>390</td>
 		<td>
-			<a href="https://github.com/zulu395">
-				<img src="https://avatars.githubusercontent.com/u/112874864?s=72&u=6cf13446b9aee806b06b1ab42db6d009e7e659c6&v=4" width="24" alt="Avatar of zulu395"> zulu395
-			</a><br/>
-			Izuchukwu Nwankwo
+			<a href="https://github.com/mcianc">
+				<img src="https://avatars.githubusercontent.com/u/97325?s=72&u=c70ef55644fc5f1aca1bc95e4e44e7e3f428773f&v=4" width="24" alt="Avatar of mcianc"> mcianc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mcianc">Copy rank badge</a><br/>
+			Marco
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/devIzumi">devIzumi</a></td>
-		<td>Naxxar,Malta</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
 		<td>4</td>
 	</tr>
 	<tr>
 		<td>391</td>
 		<td>
+			<a href="https://github.com/Arifi98">
+				<img src="https://avatars.githubusercontent.com/u/56672543?s=72&u=362936135f3bf36dad19b49841e4e7d1fe8fc43d&v=4" width="24" alt="Avatar of Arifi98"> Arifi98
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Arifi98">Copy rank badge</a><br/>
+			Arif Bucpapaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
 			<a href="https://github.com/renzomartinezr">
 				<img src="https://avatars.githubusercontent.com/u/106455112?s=72&u=42575265ab49afdf0dca0995914d6f5d50b46c8d&v=4" width="24" alt="Avatar of renzomartinezr"> renzomartinezr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#renzomartinezr">Copy rank badge</a><br/>
 			Renzo Martínez
 		</td>
 		<td>Bank Of Valletta </td>
@@ -5188,25 +5203,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/knatz-dev">
-				<img src="https://avatars.githubusercontent.com/u/17381536?s=72&u=9b5c9b4242e1be7cc2d2d19d4720cb9453d475cd&v=4" width="24" alt="Avatar of knatz-dev"> knatz-dev
-			</a><br/>
-			Nathan Z. Khupe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>393</td>
 		<td>
-			<a href="https://github.com/donniewang">
-				<img src="https://avatars.githubusercontent.com/u/3195854?s=72&u=e4841a9630a81b8caf917edac86ed6c1e45ccf60&v=4" width="24" alt="Avatar of donniewang"> donniewang
-			</a><br/>
-			Donnie Wang
+			<a href="https://github.com/jacob0811">
+				<img src="https://avatars.githubusercontent.com/u/10351380?s=72&u=aa894f8171ae8f93b231a6f738896b04ecfcc2cc&v=4" width="24" alt="Avatar of jacob0811"> jacob0811
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jacob0811">Copy rank badge</a><br/>
+			Jacob El Aida Chaffey
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5216,9 +5218,61 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>394</td>
 		<td>
+			<a href="https://github.com/rianneazzopardi">
+				<img src="https://avatars.githubusercontent.com/u/75312486?s=72&u=120f7331cd37839bb2f3c90f4c2b182bc72e9926&v=4" width="24" alt="Avatar of rianneazzopardi"> rianneazzopardi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rianneazzopardi">Copy rank badge</a><br/>
+			Rianne Azzopardi
+		</td>
+		<td>Ccbill </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/zulu395">
+				<img src="https://avatars.githubusercontent.com/u/112874864?s=72&u=6cf13446b9aee806b06b1ab42db6d009e7e659c6&v=4" width="24" alt="Avatar of zulu395"> zulu395
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zulu395">Copy rank badge</a><br/>
+			Izuchukwu Nwankwo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/devIzumi">devIzumi</a></td>
+		<td>Naxxar,Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/aleksbrgt">
+				<img src="https://avatars.githubusercontent.com/u/8698469?s=72&u=b79c6c979bbb1e0c987e8cc4a7ddc2514fba4c88&v=4" width="24" alt="Avatar of aleksbrgt"> aleksbrgt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aleksbrgt">Copy rank badge</a><br/>
+			Aleks
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/dev-git-unix">
+				<img src="https://avatars.githubusercontent.com/u/166314335?s=72&v=4" width="24" alt="Avatar of dev-git-unix"> dev-git-unix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#dev-git-unix">Copy rank badge</a><br/>
+			Anunay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
 			<a href="https://github.com/DanielAtt2000">
 				<img src="https://avatars.githubusercontent.com/u/59541958?s=72&v=4" width="24" alt="Avatar of DanielAtt2000"> DanielAtt2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DanielAtt2000">Copy rank badge</a><br/>
 			Daniel Attard
 		</td>
 		<td>No Company</td>
@@ -5227,37 +5281,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>395</td>
-		<td>
-			<a href="https://github.com/kjlibsol">
-				<img src="https://avatars.githubusercontent.com/u/46519782?s=72&v=4" width="24" alt="Avatar of kjlibsol"> kjlibsol
-			</a><br/>
-			Klaus Jensen
-		</td>
-		<td>Liberatum Solutions Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>396</td>
-		<td>
-			<a href="https://github.com/hlindberg">
-				<img src="https://avatars.githubusercontent.com/u/563066?s=72&u=af462d9356d287fdf2dc26a3c46f3c92f971e02f&v=4" width="24" alt="Avatar of hlindberg"> hlindberg
-			</a><br/>
-			Henrik Lindberg
-		</td>
-		<td>Bebalon Ltd </td>
-		<td><a href="https://twitter.com/hel">hel</a></td>
-		<td>Għarb, Gozo, Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>397</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/katbinaris">
 				<img src="https://avatars.githubusercontent.com/u/128137530?s=72&u=559b1959e64d9bbccd2ee8e3cdf67532d5370437&v=4" width="24" alt="Avatar of katbinaris"> katbinaris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#katbinaris">Copy rank badge</a><br/>
 			Binaris
 		</td>
 		<td>Binaris Circuitry </td>
@@ -5266,11 +5294,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/louayyahyaoui">
 				<img src="https://avatars.githubusercontent.com/u/49155930?s=72&u=4e14167fbe68b93060ca3bafeff0e0c50926f340&v=4" width="24" alt="Avatar of louayyahyaoui"> louayyahyaoui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#louayyahyaoui">Copy rank badge</a><br/>
 			Louay Yahyaoui
 		</td>
 		<td>Esprit </td>
@@ -5279,38 +5307,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/mattbeedle">
-				<img src="https://avatars.githubusercontent.com/u/2170?s=72&u=d8b87c5268c41cb790fa9d6d21af100b906aeed0&v=4" width="24" alt="Avatar of mattbeedle"> mattbeedle
-			</a><br/>
-			Matt Beedle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/enricoaquilina">
 				<img src="https://avatars.githubusercontent.com/u/17750052?s=72&u=439a265eed6198606b2899a9940464bc4e6dc461&v=4" width="24" alt="Avatar of enricoaquilina"> enricoaquilina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#enricoaquilina">Copy rank badge</a><br/>
 			Enrico Aquilina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/enchantner">
-				<img src="https://avatars.githubusercontent.com/u/158997?s=72&v=4" width="24" alt="Avatar of enchantner"> enchantner
-			</a><br/>
-			Nikolay Markov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5320,9 +5322,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>402</td>
 		<td>
+			<a href="https://github.com/enchantner">
+				<img src="https://avatars.githubusercontent.com/u/158997?s=72&v=4" width="24" alt="Avatar of enchantner"> enchantner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#enchantner">Copy rank badge</a><br/>
+			Nikolay Markov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a href="https://github.com/SMenigat">
 				<img src="https://avatars.githubusercontent.com/u/7868768?s=72&u=0ac2644dc9841d1d658674353c1960acdc02a52f&v=4" width="24" alt="Avatar of SMenigat"> SMenigat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#SMenigat">Copy rank badge</a><br/>
 			Samuel Menigat
 		</td>
 		<td>Anic Gmbh </td>
@@ -5331,11 +5346,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/jacquesvcritien">
+				<img src="https://avatars.githubusercontent.com/u/30493486?s=72&u=4a335b418332c969710a192486a8529a642c9324&v=4" width="24" alt="Avatar of jacquesvcritien"> jacquesvcritien
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jacquesvcritien">Copy rank badge</a><br/>
+			Jacques Vella Critien
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vcjacques">vcjacques</a></td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/maxorlovsky">
+				<img src="https://avatars.githubusercontent.com/u/7931620?s=72&u=4abea4599be6423e15c037af837b87d59c31a05a&v=4" width="24" alt="Avatar of maxorlovsky"> maxorlovsky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#maxorlovsky">Copy rank badge</a><br/>
+			Maxo
+		</td>
+		<td>@lifinance </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/reubensammut">
 				<img src="https://avatars.githubusercontent.com/u/760324?s=72&v=4" width="24" alt="Avatar of reubensammut"> reubensammut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#reubensammut">Copy rank badge</a><br/>
 			Reuben Sammut
 		</td>
 		<td>No Company</td>
@@ -5344,11 +5385,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/yish-mael">
 				<img src="https://avatars.githubusercontent.com/u/21696853?s=72&u=078a244b4af1cecac73e9359a9462a95d5932f8d&v=4" width="24" alt="Avatar of yish-mael"> yish-mael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#yish-mael">Copy rank badge</a><br/>
 			Tolu Akinnubi
 		</td>
 		<td>Maiel Technologies, Llc <br/></td>
@@ -5357,11 +5398,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/pauldavis">
 				<img src="https://avatars.githubusercontent.com/u/4824?s=72&v=4" width="24" alt="Avatar of pauldavis"> pauldavis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#pauldavis">Copy rank badge</a><br/>
 			Paul Davis
 		</td>
 		<td>Neural Enterprises </td>
@@ -5370,11 +5411,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/mikhailuliashchenkov">
+				<img src="https://avatars.githubusercontent.com/u/39565146?s=72&u=1387df036b8c4b77ea25011313e63060ab63788e&v=4" width="24" alt="Avatar of mikhailuliashchenkov"> mikhailuliashchenkov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mikhailuliashchenkov">Copy rank badge</a><br/>
+			mikhailuliashchenkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/trv-cs">
 				<img src="https://avatars.githubusercontent.com/u/86597721?s=72&u=58db2943a7ba83b32ba90f738e2c3b8b9fdcd781&v=4" width="24" alt="Avatar of trv-cs"> trv-cs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#trv-cs">Copy rank badge</a><br/>
 			Tony Valentine
 		</td>
 		<td>No Company</td>
@@ -5383,24 +5437,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/aklesky">
-				<img src="https://avatars.githubusercontent.com/u/2772790?s=72&u=9e4507a952d931b1375f8c8b256b057fcb90b67c&v=4" width="24" alt="Avatar of aklesky"> aklesky
-			</a><br/>
-			Aleksei Semiglasov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta, Sliema</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>408</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/j3valentin">
 				<img src="https://avatars.githubusercontent.com/u/658379?s=72&u=8265131719bff735549c565d39b4f47020670cc3&v=4" width="24" alt="Avatar of j3valentin"> j3valentin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#j3valentin">Copy rank badge</a><br/>
 			Johan AR
 		</td>
 		<td>Web International Services Ltd<br/></td>
@@ -5409,11 +5450,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/ifen">
 				<img src="https://avatars.githubusercontent.com/u/6473483?s=72&u=8ebfdb5f79abdd28d6e004096797b4d70f83cca1&v=4" width="24" alt="Avatar of ifen"> ifen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ifen">Copy rank badge</a><br/>
 			Ian Fenech Conti
 		</td>
 		<td>University Of Malta </td>
@@ -5422,24 +5463,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>410</td>
-		<td>
-			<a href="https://github.com/mcianc">
-				<img src="https://avatars.githubusercontent.com/u/97325?s=72&u=c70ef55644fc5f1aca1bc95e4e44e7e3f428773f&v=4" width="24" alt="Avatar of mcianc"> mcianc
-			</a><br/>
-			Marco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>411</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/kurtabela">
 				<img src="https://avatars.githubusercontent.com/u/57000611?s=72&u=4d6a03584ef5c7db28e0f58a6f1798ebf8ddb3a5&v=4" width="24" alt="Avatar of kurtabela"> kurtabela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kurtabela">Copy rank badge</a><br/>
 			Kurt Abela
 		</td>
 		<td>Neural Ai </td>
@@ -5448,11 +5476,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/maqqju">
 				<img src="https://avatars.githubusercontent.com/u/7325216?s=72&u=900f4bf5b705342605454503bc3aa846e96ff077&v=4" width="24" alt="Avatar of maqqju"> maqqju
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#maqqju">Copy rank badge</a><br/>
 			Matthew Croker
 		</td>
 		<td>Ixaris Systems Ltd. </td>
@@ -5461,11 +5489,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/JowiM">
 				<img src="https://avatars.githubusercontent.com/u/348120?s=72&u=58caabf1b12d510f4bd4cd23b308656f18ad2623&v=4" width="24" alt="Avatar of JowiM"> JowiM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JowiM">Copy rank badge</a><br/>
 			Johann Mifsud
 		</td>
 		<td>No Company</td>
@@ -5474,11 +5502,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/Kradirhamik">
 				<img src="https://avatars.githubusercontent.com/u/6460056?s=72&v=4" width="24" alt="Avatar of Kradirhamik"> Kradirhamik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Kradirhamik">Copy rank badge</a><br/>
 			Ivo Cunha
 		</td>
 		<td>@betssongroup  </td>
@@ -5487,11 +5515,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/claudiaborg">
 				<img src="https://avatars.githubusercontent.com/u/6863318?s=72&u=70e78ec87940c51d355a962bec333e7135bec965&v=4" width="24" alt="Avatar of claudiaborg"> claudiaborg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#claudiaborg">Copy rank badge</a><br/>
 			Claudia Borg
 		</td>
 		<td>University Of Malta </td>
@@ -5500,40 +5528,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/Gabe-W-J">
-				<img src="https://avatars.githubusercontent.com/u/137659740?s=72&u=74789494272fe0c7bccc32914a8394e5b8dfae78&v=4" width="24" alt="Avatar of Gabe-W-J"> Gabe-W-J
-			</a><br/>
-			Gabriel.W.Jackson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/MicheleLonghi">
 				<img src="https://avatars.githubusercontent.com/u/867473?s=72&u=6bb725c4939a8927af410451cdc8aac86d3df5f3&v=4" width="24" alt="Avatar of MicheleLonghi"> MicheleLonghi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MicheleLonghi">Copy rank badge</a><br/>
 			Michele Longhi
 		</td>
 		<td>Visuality Software </td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/pvts">
-				<img src="https://avatars.githubusercontent.com/u/61947293?s=72&u=3d598c0f83050b9649b1383403c5c3018aad757d&v=4" width="24" alt="Avatar of pvts"> pvts
-			</a><br/>
-			George Satyridis
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>3</td>
@@ -5543,7 +5545,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/soniXx123">
 				<img src="https://avatars.githubusercontent.com/u/35350615?s=72&u=26cb3930271e513df5ae632fea281a6976d3e93c&v=4" width="24" alt="Avatar of soniXx123"> soniXx123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#soniXx123">Copy rank badge</a><br/>
 			Rene Roecker
 		</td>
 		<td>Gampeon, Inc. </td>
@@ -5556,7 +5558,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/mgalea">
 				<img src="https://avatars.githubusercontent.com/u/14042836?s=72&u=39935c5d1d9726efbcc6737b1950c0c31f007227&v=4" width="24" alt="Avatar of mgalea"> mgalea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mgalea">Copy rank badge</a><br/>
 			Random Systems
 		</td>
 		<td>Random Systems International </td>
@@ -5569,7 +5571,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/kurtseychell">
 				<img src="https://avatars.githubusercontent.com/u/152292181?s=72&v=4" width="24" alt="Avatar of kurtseychell"> kurtseychell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kurtseychell">Copy rank badge</a><br/>
 			FT-KurtSeychell
 		</td>
 		<td>Foshtech </td>
@@ -5582,7 +5584,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/ALGxMily">
 				<img src="https://avatars.githubusercontent.com/u/60633908?s=72&u=abf8323851994dcea7b2699e90031471a2aa058b&v=4" width="24" alt="Avatar of ALGxMily"> ALGxMily
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ALGxMily">Copy rank badge</a><br/>
 			Giuliano Dimov
 		</td>
 		<td>Resira </td>
@@ -5595,7 +5597,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/OnoArnaldo">
 				<img src="https://avatars.githubusercontent.com/u/18633188?s=72&u=0469f86bf9d69448aed5b6df8501e41770e09725&v=4" width="24" alt="Avatar of OnoArnaldo"> OnoArnaldo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#OnoArnaldo">Copy rank badge</a><br/>
 			Arnaldo Ono
 		</td>
 		<td>No Company</td>
@@ -5606,9 +5608,35 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>424</td>
 		<td>
+			<a href="https://github.com/ryanfalzon">
+				<img src="https://avatars.githubusercontent.com/u/30478175?s=72&u=c9811c2b13daaa02da1b7378d989bdbfcd6dfebd&v=4" width="24" alt="Avatar of ryanfalzon"> ryanfalzon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ryanfalzon">Copy rank badge</a><br/>
+			Ryan Falzon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/cachiama">
+				<img src="https://avatars.githubusercontent.com/u/6071699?s=72&v=4" width="24" alt="Avatar of cachiama"> cachiama
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#cachiama">Copy rank badge</a><br/>
+			Mark Anthony Cachia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
 			<a href="https://github.com/ChintanTrivedi">
 				<img src="https://avatars.githubusercontent.com/u/15974320?s=72&u=0bcc21d55364c1332253baa560b0f7542c3b8188&v=4" width="24" alt="Avatar of ChintanTrivedi"> ChintanTrivedi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ChintanTrivedi">Copy rank badge</a><br/>
 			Chintan Trivedi
 		</td>
 		<td>Dg Ai Research Lab<br/></td>
@@ -5617,24 +5645,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/nevillegrech">
-				<img src="https://avatars.githubusercontent.com/u/4048285?s=72&u=20b16ab3d03f21e4f17be31c9ef263ba5180997d&v=4" width="24" alt="Avatar of nevillegrech"> nevillegrech
-			</a><br/>
-			Neville Grech
-		</td>
-		<td>Dedaub Limited </td>
-		<td><a href="https://twitter.com/neville_grech">neville_grech</a></td>
-		<td>Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/ziyahan">
 				<img src="https://avatars.githubusercontent.com/u/965759?s=72&v=4" width="24" alt="Avatar of ziyahan"> ziyahan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ziyahan">Copy rank badge</a><br/>
 			Ziyahan Albeniz
 		</td>
 		<td>Traderen </td>
@@ -5643,11 +5658,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/killroy42">
 				<img src="https://avatars.githubusercontent.com/u/1201793?s=72&u=0c351effd67c102493d5c40e748ab380b4e96edf&v=4" width="24" alt="Avatar of killroy42"> killroy42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#killroy42">Copy rank badge</a><br/>
 			Sven Neumann
 		</td>
 		<td>Svencodes </td>
@@ -5656,11 +5671,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/GabrielGil">
 				<img src="https://avatars.githubusercontent.com/u/961534?s=72&u=6cecc79986b26b6c7d19cb1ea730701ea2184fdf&v=4" width="24" alt="Avatar of GabrielGil"> GabrielGil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#GabrielGil">Copy rank badge</a><br/>
 			Gabriel
 		</td>
 		<td>@redacreltd </td>
@@ -5669,40 +5684,27 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/marcolenzo">
-				<img src="https://avatars.githubusercontent.com/u/6007586?s=72&u=e218d9726136044f5c971366e314c1c28047c5f2&v=4" width="24" alt="Avatar of marcolenzo"> marcolenzo
-			</a><br/>
-			Marco Lenzo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
 		<td>430</td>
 		<td>
-			<a href="https://github.com/aonurozcan">
-				<img src="https://avatars.githubusercontent.com/u/7273908?s=72&u=78d8dd1194280697afd7b88ee2f2c082c0a7cebf&v=4" width="24" alt="Avatar of aonurozcan"> aonurozcan
-			</a><br/>
-			A.Onur Özcan
+			<a href="https://github.com/Alain-Bearez">
+				<img src="https://avatars.githubusercontent.com/u/479120?s=72&u=c0b768eda73f8e4ddaa8d57e757a20bc223adb48&v=4" width="24" alt="Avatar of Alain-Bearez"> Alain-Bearez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Alain-Bearez">Copy rank badge</a><br/>
+			Alain Béarez
 		</td>
-		<td>@wamoio  </td>
+		<td>@cuali @for-scala </td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
+		<td>Valletta</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>431</td>
 		<td>
-			<a href="https://github.com/ClementGuerin">
-				<img src="https://avatars.githubusercontent.com/u/1357503?s=72&v=4" width="24" alt="Avatar of ClementGuerin"> ClementGuerin
-			</a><br/>
-			Clément Guerin
+			<a href="https://github.com/marcolenzo">
+				<img src="https://avatars.githubusercontent.com/u/6007586?s=72&u=e218d9726136044f5c971366e314c1c28047c5f2&v=4" width="24" alt="Avatar of marcolenzo"> marcolenzo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#marcolenzo">Copy rank badge</a><br/>
+			Marco Lenzo
 		</td>
-		<td>Hitbox Agency </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>2</td>
@@ -5712,7 +5714,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/matthewkenely">
 				<img src="https://avatars.githubusercontent.com/u/63400705?s=72&u=67b7c2238b0a210f8e55f8888f91ef9e95e8a842&v=4" width="24" alt="Avatar of matthewkenely"> matthewkenely
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matthewkenely">Copy rank badge</a><br/>
 			Matthew Kenely
 		</td>
 		<td>Seyai </td>
@@ -5723,9 +5725,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>433</td>
 		<td>
+			<a href="https://github.com/aonurozcan">
+				<img src="https://avatars.githubusercontent.com/u/7273908?s=72&u=78d8dd1194280697afd7b88ee2f2c082c0a7cebf&v=4" width="24" alt="Avatar of aonurozcan"> aonurozcan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aonurozcan">Copy rank badge</a><br/>
+			A.Onur Özcan
+		</td>
+		<td>@wamoio  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
 			<a href="https://github.com/michaelgeorgeattard">
 				<img src="https://avatars.githubusercontent.com/u/5755302?s=72&u=cdbf7340614826c306c0f4fe5102afde11e3b6e0&v=4" width="24" alt="Avatar of michaelgeorgeattard"> michaelgeorgeattard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#michaelgeorgeattard">Copy rank badge</a><br/>
 			Michael George Attard
 		</td>
 		<td>Openbet </td>
@@ -5734,25 +5749,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/benothmen">
 				<img src="https://avatars.githubusercontent.com/u/15376316?s=72&u=3ce778c8461be9023b22461ee3e9e22ac5391532&v=4" width="24" alt="Avatar of benothmen"> benothmen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#benothmen">Copy rank badge</a><br/>
 			Zied Ben Othman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/aemresafak">
-				<img src="https://avatars.githubusercontent.com/u/59789023?s=72&v=4" width="24" alt="Avatar of aemresafak"> aemresafak
-			</a><br/>
-			Emre
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5762,22 +5764,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>436</td>
 		<td>
-			<a href="https://github.com/krt-c">
-				<img src="https://avatars.githubusercontent.com/u/10705768?s=72&u=62973be0fbe2bd57b8c058ad81b1e9ac5529993f&v=4" width="24" alt="Avatar of krt-c"> krt-c
-			</a><br/>
-			Kurt Cassar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
 			<a href="https://github.com/m-fenix2112">
 				<img src="https://avatars.githubusercontent.com/u/14968437?s=72&v=4" width="24" alt="Avatar of m-fenix2112"> m-fenix2112
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#m-fenix2112">Copy rank badge</a><br/>
 			Muhanned Masoud
 		</td>
 		<td>Ats </td>
@@ -5786,11 +5775,37 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/Hugo-Coutinho">
+				<img src="https://avatars.githubusercontent.com/u/34046395?s=72&u=9a8c3f4fede970f0ec8da43a29fa66c878f1ae81&v=4" width="24" alt="Avatar of Hugo-Coutinho"> Hugo-Coutinho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Hugo-Coutinho">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Betsson </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>438</td>
+		<td>
+			<a href="https://github.com/aemresafak">
+				<img src="https://avatars.githubusercontent.com/u/59789023?s=72&v=4" width="24" alt="Avatar of aemresafak"> aemresafak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#aemresafak">Copy rank badge</a><br/>
+			Emre
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/oleggrech7">
 				<img src="https://avatars.githubusercontent.com/u/62063371?s=72&u=05e7de88b632f392f74c589151c87467ba429777&v=4" width="24" alt="Avatar of oleggrech7"> oleggrech7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#oleggrech7">Copy rank badge</a><br/>
 			Oleg Grech
 		</td>
 		<td>No Company</td>
@@ -5799,11 +5814,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/Navito-py">
 				<img src="https://avatars.githubusercontent.com/u/85807097?s=72&u=163947baf092c5aac777cb193fdd00b2ab326df7&v=4" width="24" alt="Avatar of Navito-py"> Navito-py
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Navito-py">Copy rank badge</a><br/>
 			Ivan Toneatto
 		</td>
 		<td>No Company</td>
@@ -5812,11 +5827,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/nlivori">
 				<img src="https://avatars.githubusercontent.com/u/7957046?s=72&u=95edb6c6d155e6d57db6d903172a81e9f9536f4b&v=4" width="24" alt="Avatar of nlivori"> nlivori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#nlivori">Copy rank badge</a><br/>
 			Nikolai Livori
 		</td>
 		<td>@skivori </td>
@@ -5825,11 +5840,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/azzopardim">
 				<img src="https://avatars.githubusercontent.com/u/6307428?s=72&u=b68e9468059dc297e934febdd7fa236a499342d2&v=4" width="24" alt="Avatar of azzopardim"> azzopardim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#azzopardim">Copy rank badge</a><br/>
 			Michael Azzopardi
 		</td>
 		<td>Creative Innovation </td>
@@ -5838,27 +5853,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/KeithDeb">
-				<img src="https://avatars.githubusercontent.com/u/7805525?s=72&u=c46af6f6cc3d404378503b3c7f5e571c4fc20e85&v=4" width="24" alt="Avatar of KeithDeb"> KeithDeb
-			</a><br/>
-			Keith Debattista
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Marsaskala, Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
 		<td>443</td>
 		<td>
-			<a href="https://github.com/chriscborg">
-				<img src="https://avatars.githubusercontent.com/u/1198968?s=72&u=cf1e32c1f57ffdefa37e68310f12acb552e10a0d&v=4" width="24" alt="Avatar of chriscborg"> chriscborg
-			</a><br/>
-			Chris
+			<a href="https://github.com/Trapster">
+				<img src="https://avatars.githubusercontent.com/u/18178611?s=72&u=b9b184b3317d7db1b6e0874014231f14ce495d99&v=4" width="24" alt="Avatar of Trapster"> Trapster
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Trapster">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>Vioside </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>2</td>
@@ -5866,12 +5868,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>444</td>
 		<td>
-			<a href="https://github.com/Trapster">
-				<img src="https://avatars.githubusercontent.com/u/18178611?s=72&u=b9b184b3317d7db1b6e0874014231f14ce495d99&v=4" width="24" alt="Avatar of Trapster"> Trapster
-			</a><br/>
-			No Name
+			<a href="https://github.com/chriscborg">
+				<img src="https://avatars.githubusercontent.com/u/1198968?s=72&u=cf1e32c1f57ffdefa37e68310f12acb552e10a0d&v=4" width="24" alt="Avatar of chriscborg"> chriscborg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#chriscborg">Copy rank badge</a><br/>
+			Chris
 		</td>
-		<td>No Company</td>
+		<td>Vioside </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>2</td>
@@ -5881,7 +5883,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/vikmpetrov">
 				<img src="https://avatars.githubusercontent.com/u/27880486?s=72&u=e1019ae88ed2a53305df97b42344a3cdda4c7ea3&v=4" width="24" alt="Avatar of vikmpetrov"> vikmpetrov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#vikmpetrov">Copy rank badge</a><br/>
 			Viktor Petrov
 		</td>
 		<td>@vikmpetrov </td>
@@ -5892,35 +5894,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>446</td>
 		<td>
-			<a href="https://github.com/nbonavia">
-				<img src="https://avatars.githubusercontent.com/u/5277924?s=72&u=967572ecdbc0f56c09f42482c5c01068e25b97f7&v=4" width="24" alt="Avatar of nbonavia"> nbonavia
-			</a><br/>
-			Neville Bonavia
+			<a href="https://github.com/KeithDeb">
+				<img src="https://avatars.githubusercontent.com/u/7805525?s=72&u=c46af6f6cc3d404378503b3c7f5e571c4fc20e85&v=4" width="24" alt="Avatar of KeithDeb"> KeithDeb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#KeithDeb">Copy rank badge</a><br/>
+			Keith Debattista
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malta</td>
+		<td>Marsaskala, Malta</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>447</td>
 		<td>
-			<a href="https://github.com/jqed-xuereb">
-				<img src="https://avatars.githubusercontent.com/u/26697268?s=72&u=2753a7d88c9a1802f92ff49f8c374fc31f0b810f&v=4" width="24" alt="Avatar of jqed-xuereb"> jqed-xuereb
-			</a><br/>
-			Jake Xuereb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/curlyqubit">curlyqubit</a></td>
-		<td>Malta</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
 			<a href="https://github.com/joseph118">
 				<img src="https://avatars.githubusercontent.com/u/6863655?s=72&u=489ccff47c090f54afab8e1fc9deaab905659859&v=4" width="24" alt="Avatar of joseph118"> joseph118
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#joseph118">Copy rank badge</a><br/>
 			Joseph Borg
 		</td>
 		<td>No Company</td>
@@ -5929,11 +5918,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/marcfingerdev">
-				<img src="https://avatars.githubusercontent.com/u/76623763?s=72&u=ba0a4a56c88910b7bb031139f4af94fd27441958&v=4" width="24" alt="Avatar of marcfingerdev"> marcfingerdev
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/76623763?s=72&u=d78318e6d3b480d74fad4fdf8f4cc944436b472e&v=4" width="24" alt="Avatar of marcfingerdev"> marcfingerdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#marcfingerdev">Copy rank badge</a><br/>
 			Marc
 		</td>
 		<td>No Company</td>
@@ -5942,11 +5931,24 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/serhatates">
+				<img src="https://avatars.githubusercontent.com/u/12493738?s=72&u=9ebca662e4f9070c6d5fa5fedc72afdcafc22198&v=4" width="24" alt="Avatar of serhatates"> serhatates
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#serhatates">Copy rank badge</a><br/>
+			Serhat Ates
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sliema, Malta</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>450</td>
 		<td>
 			<a href="https://github.com/sleeping4cat">
 				<img src="https://avatars.githubusercontent.com/u/112309211?s=72&u=4edfac7865b39e0d9cc27f339b129d3ec4c094b6&v=4" width="24" alt="Avatar of sleeping4cat"> sleeping4cat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#sleeping4cat">Copy rank badge</a><br/>
 			tawsif
 		</td>
 		<td>Sleeping Ai </td>
@@ -5959,7 +5961,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/matteorapa">
 				<img src="https://avatars.githubusercontent.com/u/46799259?s=72&u=8af605b9d3d80517385f977d500770310061a1d1&v=4" width="24" alt="Avatar of matteorapa"> matteorapa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#matteorapa">Copy rank badge</a><br/>
 			Matteo Rapa
 		</td>
 		<td>No Company</td>
@@ -5972,7 +5974,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/giuliadant">
 				<img src="https://avatars.githubusercontent.com/u/145217908?s=72&u=de8a2b824b922b781f2de999be05d38cacfa1fec&v=4" width="24" alt="Avatar of giuliadant"> giuliadant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#giuliadant">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5983,12 +5985,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>453</td>
 		<td>
-			<a href="https://github.com/taspanja">
-				<img src="https://avatars.githubusercontent.com/u/44866069?s=72&u=7395cc84cd819491304467e02820bcdebb6b6a76&v=4" width="24" alt="Avatar of taspanja"> taspanja
-			</a><br/>
-			Keith Fenech
+			<a href="https://github.com/fenjas">
+				<img src="https://avatars.githubusercontent.com/u/19566745?s=72&u=ff9b155e3566fce5c99e81670a7486e8c935b614&v=4" width="24" alt="Avatar of fenjas"> fenjas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fenjas">Copy rank badge</a><br/>
+			Jason Fenech
 		</td>
-		<td>No Company</td>
+		<td>Gig </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>2</td>
@@ -5996,10 +5998,10 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>454</td>
 		<td>
-			<a href="https://github.com/Alessandro1985">
-				<img src="https://avatars.githubusercontent.com/u/7733926?s=72&u=03d37296d6f798c7c2e0ffd8c1639b5187365453&v=4" width="24" alt="Avatar of Alessandro1985"> Alessandro1985
-			</a><br/>
-			Alessandro Morsiani
+			<a href="https://github.com/donniewang">
+				<img src="https://avatars.githubusercontent.com/u/3195854?s=72&u=e4841a9630a81b8caf917edac86ed6c1e45ccf60&v=4" width="24" alt="Avatar of donniewang"> donniewang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#donniewang">Copy rank badge</a><br/>
+			Donnie Wang
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6009,14 +6011,14 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>455</td>
 		<td>
-			<a href="https://github.com/serhatates">
-				<img src="https://avatars.githubusercontent.com/u/12493738?s=72&u=9ebca662e4f9070c6d5fa5fedc72afdcafc22198&v=4" width="24" alt="Avatar of serhatates"> serhatates
-			</a><br/>
-			Serhat Ates
+			<a href="https://github.com/Alessandro1985">
+				<img src="https://avatars.githubusercontent.com/u/7733926?s=72&u=03d37296d6f798c7c2e0ffd8c1639b5187365453&v=4" width="24" alt="Avatar of Alessandro1985"> Alessandro1985
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Alessandro1985">Copy rank badge</a><br/>
+			Alessandro Morsiani
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sliema, Malta</td>
+		<td>Malta</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -6024,7 +6026,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/erdpksingh">
 				<img src="https://avatars.githubusercontent.com/u/16812707?s=72&u=60a577d708dd1746d2e26a1196aca250c6162f62&v=4" width="24" alt="Avatar of erdpksingh"> erdpksingh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#erdpksingh">Copy rank badge</a><br/>
 			Deepak Singh
 		</td>
 		<td>No Company</td>
@@ -6037,7 +6039,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/Imachicken29">
 				<img src="https://avatars.githubusercontent.com/u/49617271?s=72&u=f9d8fd18433dafa4002b16c2626a1b018f91b21d&v=4" width="24" alt="Avatar of Imachicken29"> Imachicken29
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Imachicken29">Copy rank badge</a><br/>
 			I'm a chicken
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/xiaocong">
 				<img src="https://avatars.githubusercontent.com/u/1559756?s=72&v=4" width="24" alt="Avatar of xiaocong"> xiaocong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#xiaocong">Copy rank badge</a><br/>
 			xiaocong
 		</td>
 		<td>Guru Inc. </td>
@@ -6063,7 +6065,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/raihanrms">
 				<img src="https://avatars.githubusercontent.com/u/21366863?s=72&u=eefc80c192cf357cf14fc1f9af223a5e432e4df1&v=4" width="24" alt="Avatar of raihanrms"> raihanrms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#raihanrms">Copy rank badge</a><br/>
 			Raihan Munim
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/mccxiv">
 				<img src="https://avatars.githubusercontent.com/u/1700359?s=72&u=3ac41cc67304e3f2faff72388f8e6b47843bbed4&v=4" width="24" alt="Avatar of mccxiv"> mccxiv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#mccxiv">Copy rank badge</a><br/>
 			Andrea Stella
 		</td>
 		<td>No Company</td>
@@ -6087,9 +6089,22 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>461</td>
 		<td>
+			<a href="https://github.com/emircokdogan">
+				<img src="https://avatars.githubusercontent.com/u/5866487?s=72&u=4943eda85a1abc23e5d53115f97d6e5ef171a8aa&v=4" width="24" alt="Avatar of emircokdogan"> emircokdogan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#emircokdogan">Copy rank badge</a><br/>
+			Emir Cokdogan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
 			<a href="https://github.com/ZaqueuLima3">
 				<img src="https://avatars.githubusercontent.com/u/31195408?s=72&u=366b11dc3e3f70bb33f40513fb235d481a987ff9&v=4" width="24" alt="Avatar of ZaqueuLima3"> ZaqueuLima3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ZaqueuLima3">Copy rank badge</a><br/>
 			Zaqueu Santos
 		</td>
 		<td>@betssongroup </td>
@@ -6098,24 +6113,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/kashif-se">
-				<img src="https://avatars.githubusercontent.com/u/5568138?s=72&u=a90a7a9a6713dace7f2c777332c5b0c6510068aa&v=4" width="24" alt="Avatar of kashif-se"> kashif-se
-			</a><br/>
-			Kashif Sohail
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kshfse">kshfse</a></td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>463</td>
 		<td>
 			<a href="https://github.com/jamesfarrugia">
 				<img src="https://avatars.githubusercontent.com/u/14979341?s=72&u=ca028eea7852c8fc45f2ba9943b1d2a67c26d179&v=4" width="24" alt="Avatar of jamesfarrugia"> jamesfarrugia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#jamesfarrugia">Copy rank badge</a><br/>
 			James Farrugia
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/fairmutex">
 				<img src="https://avatars.githubusercontent.com/u/4706582?s=72&u=8858faf608603a9e9d8f747db52e1c5879934d2e&v=4" width="24" alt="Avatar of fairmutex"> fairmutex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fairmutex">Copy rank badge</a><br/>
 			Stephan Galea
 		</td>
 		<td>N/a </td>
@@ -6141,7 +6143,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/LukeVassallo">
 				<img src="https://avatars.githubusercontent.com/u/39440296?s=72&v=4" width="24" alt="Avatar of LukeVassallo"> LukeVassallo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LukeVassallo">Copy rank badge</a><br/>
 			Luke Vassallo
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/kemalunal">
 				<img src="https://avatars.githubusercontent.com/u/3184435?s=72&u=b10b600dcad476fbf63e837098d2586ceb82d8a7&v=4" width="24" alt="Avatar of kemalunal"> kemalunal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kemalunal">Copy rank badge</a><br/>
 			Kemal Ünal
 		</td>
 		<td>No Company</td>
@@ -6167,7 +6169,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/bavly">
 				<img src="https://avatars.githubusercontent.com/u/7056242?s=72&u=323d1c66ee13cbd6ebf4f79474b3391743388cf7&v=4" width="24" alt="Avatar of bavly"> bavly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#bavly">Copy rank badge</a><br/>
 			Bavly Morcos 
 		</td>
 		<td>No Company</td>
@@ -6178,12 +6180,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>468</td>
 		<td>
-			<a href="https://github.com/PaoloBezzina">
-				<img src="https://avatars.githubusercontent.com/u/72805355?s=72&u=e0a35081de6a32b92d1f8dd342823458360b7801&v=4" width="24" alt="Avatar of PaoloBezzina"> PaoloBezzina
-			</a><br/>
-			Paolo Bezzina
+			<a href="https://github.com/ENBYSS">
+				<img src="https://avatars.githubusercontent.com/u/17473983?s=72&u=e61b30a3d772fedc1ea6e26fce182e9807616060&v=4" width="24" alt="Avatar of ENBYSS"> ENBYSS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#ENBYSS">Copy rank badge</a><br/>
+			ENBYSS
 		</td>
-		<td>Alpha Group Ltd </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>1</td>
@@ -6191,12 +6193,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>469</td>
 		<td>
-			<a href="https://github.com/ENBYSS">
-				<img src="https://avatars.githubusercontent.com/u/17473983?s=72&u=e61b30a3d772fedc1ea6e26fce182e9807616060&v=4" width="24" alt="Avatar of ENBYSS"> ENBYSS
-			</a><br/>
-			ENBYSS
+			<a href="https://github.com/PaoloBezzina">
+				<img src="https://avatars.githubusercontent.com/u/72805355?s=72&u=e0a35081de6a32b92d1f8dd342823458360b7801&v=4" width="24" alt="Avatar of PaoloBezzina"> PaoloBezzina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#PaoloBezzina">Copy rank badge</a><br/>
+			Paolo Bezzina
 		</td>
-		<td>No Company</td>
+		<td>Alpha Group Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>1</td>
@@ -6206,7 +6208,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/billymcintosh">
 				<img src="https://avatars.githubusercontent.com/u/217779?s=72&u=6e30bbc1348f09ac47343920bd400102cdc0f3d8&v=4" width="24" alt="Avatar of billymcintosh"> billymcintosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#billymcintosh">Copy rank badge</a><br/>
 			Billy McIntosh
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/francescamizzi">
 				<img src="https://avatars.githubusercontent.com/u/72987846?s=72&u=5b271d0423ad499efc0324784f14c8348dd2fb55&v=4" width="24" alt="Avatar of francescamizzi"> francescamizzi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#francescamizzi">Copy rank badge</a><br/>
 			Francesca Mizzi
 		</td>
 		<td>No Company</td>
@@ -6230,22 +6232,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>472</td>
 		<td>
-			<a href="https://github.com/dmzinc">
-				<img src="https://avatars.githubusercontent.com/u/28094702?s=72&v=4" width="24" alt="Avatar of dmzinc"> dmzinc
-			</a><br/>
-			Oguntuase Afolabi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
 			<a href="https://github.com/zeppu">
 				<img src="https://avatars.githubusercontent.com/u/7858320?s=72&u=71e09e74af633f76e6277a04ad371326d8907989&v=4" width="24" alt="Avatar of zeppu"> zeppu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#zeppu">Copy rank badge</a><br/>
 			Joseph DeBono
 		</td>
 		<td>Glyde Software </td>
@@ -6254,11 +6243,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/firepro20">
 				<img src="https://avatars.githubusercontent.com/u/17837413?s=72&u=655781a679c296d3d2432c8e24bfce8ead0458e0&v=4" width="24" alt="Avatar of firepro20"> firepro20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#firepro20">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Grand Strategist </td>
@@ -6267,12 +6256,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/bgcc93">
 				<img src="https://avatars.githubusercontent.com/u/8963485?s=72&v=4" width="24" alt="Avatar of bgcc93"> bgcc93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#bgcc93">Copy rank badge</a><br/>
 			Bruno Di Giuseppe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/JavierLMB">
+				<img src="https://avatars.githubusercontent.com/u/108611890?s=72&u=ec1fba834d51e381ae26fc79175764b232d7163e&v=4" width="24" alt="Avatar of JavierLMB"> JavierLMB
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#JavierLMB">Copy rank badge</a><br/>
+			Javier Camilleri
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6284,7 +6286,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/yassaasalib">
 				<img src="https://avatars.githubusercontent.com/u/96331908?s=72&u=0dea8651272c96ec651c1f7c0cedf9a73e0d1458&v=4" width="24" alt="Avatar of yassaasalib"> yassaasalib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#yassaasalib">Copy rank badge</a><br/>
 			Yassa Salib
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/rossanmol">
 				<img src="https://avatars.githubusercontent.com/u/18351988?s=72&u=0da0d4c9f7643b036e039ede45c0b848ce5d7ded&v=4" width="24" alt="Avatar of rossanmol"> rossanmol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rossanmol">Copy rank badge</a><br/>
 			Rostislav Dascal
 		</td>
 		<td>@betssongroup  </td>
@@ -6308,22 +6310,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>478</td>
 		<td>
-			<a href="https://github.com/gabrieldimech">
-				<img src="https://avatars.githubusercontent.com/u/2034445?s=72&v=4" width="24" alt="Avatar of gabrieldimech"> gabrieldimech
-			</a><br/>
-			Gabriel Dimech
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
 			<a href="https://github.com/Lakistein">
 				<img src="https://avatars.githubusercontent.com/u/9079888?s=72&u=93a4830bd9407c5cae6de33fd1135b4f3eb3702c&v=4" width="24" alt="Avatar of Lakistein"> Lakistein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Lakistein">Copy rank badge</a><br/>
 			Lazar Lazarevic
 		</td>
 		<td>Betsson Group </td>
@@ -6332,14 +6321,27 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/Haedrian">
+				<img src="https://avatars.githubusercontent.com/u/1496891?s=72&v=4" width="24" alt="Avatar of Haedrian"> Haedrian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Haedrian">Copy rank badge</a><br/>
+			Adrian Abela
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>480</td>
 		<td>
-			<a href="https://github.com/DavidCachiaEnriquez">
-				<img src="https://avatars.githubusercontent.com/u/102987214?s=72&u=5968216ab2afefe4ac3f7a18e243dc57dee4418c&v=4" width="24" alt="Avatar of DavidCachiaEnriquez"> DavidCachiaEnriquez
-			</a><br/>
-			David Cachia Enriquez
+			<a href="https://github.com/gabrieldimech">
+				<img src="https://avatars.githubusercontent.com/u/2034445?s=72&v=4" width="24" alt="Avatar of gabrieldimech"> gabrieldimech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gabrieldimech">Copy rank badge</a><br/>
+			Gabriel Dimech
 		</td>
-		<td>University Of Malta </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>1</td>
@@ -6347,12 +6349,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>481</td>
 		<td>
-			<a href="https://github.com/Haedrian">
-				<img src="https://avatars.githubusercontent.com/u/1496891?s=72&v=4" width="24" alt="Avatar of Haedrian"> Haedrian
-			</a><br/>
-			Adrian Abela
+			<a href="https://github.com/weslleybarboza">
+				<img src="https://avatars.githubusercontent.com/u/47784377?s=72&u=7d388b4a04e762585d6c0c94c1d049f09fe4c6be&v=4" width="24" alt="Avatar of weslleybarboza"> weslleybarboza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#weslleybarboza">Copy rank badge</a><br/>
+			Weslley
 		</td>
-		<td>No Company</td>
+		<td>@epic </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>1</td>
@@ -6362,7 +6364,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/MrX101">
 				<img src="https://avatars.githubusercontent.com/u/12518919?s=72&u=dfb6af13b52c92904bf0598e509b0d121c1f5d00&v=4" width="24" alt="Avatar of MrX101"> MrX101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#MrX101">Copy rank badge</a><br/>
 			Simon Borg
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>
 			<a href="https://github.com/Luca-Sordetti">
 				<img src="https://avatars.githubusercontent.com/u/91209271?s=72&u=e33f589c069e7837d03d09e6f98179b0a1524778&v=4" width="24" alt="Avatar of Luca-Sordetti"> Luca-Sordetti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Luca-Sordetti">Copy rank badge</a><br/>
 			Luca
 		</td>
 		<td>No Company</td>
@@ -6386,10 +6388,10 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/adriandebarro">
-				<img src="https://avatars.githubusercontent.com/u/5006626?s=72&u=e41f8baf221fc30daeb5e45ebc045dde43b12e0c&v=4" width="24" alt="Avatar of adriandebarro"> adriandebarro
-			</a><br/>
-			Mandos
+			<a href="https://github.com/werminghoff">
+				<img src="https://avatars.githubusercontent.com/u/7004195?s=72&u=9acdb19dbdea5f3e7e3f17a64b42accbf0d90603&v=4" width="24" alt="Avatar of werminghoff"> werminghoff
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#werminghoff">Copy rank badge</a><br/>
+			Bruno Werminghoff
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6399,22 +6401,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>485</td>
 		<td>
-			<a href="https://github.com/werminghoff">
-				<img src="https://avatars.githubusercontent.com/u/7004195?s=72&u=9acdb19dbdea5f3e7e3f17a64b42accbf0d90603&v=4" width="24" alt="Avatar of werminghoff"> werminghoff
-			</a><br/>
-			Bruno Werminghoff
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
 			<a href="https://github.com/NathanPortelli">
 				<img src="https://avatars.githubusercontent.com/u/61872215?s=72&u=1a17a7d47c15ef094e5889d1005a79e44b307c5f&v=4" width="24" alt="Avatar of NathanPortelli"> NathanPortelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#NathanPortelli">Copy rank badge</a><br/>
 			Nathan Portelli
 		</td>
 		<td>@grant-thornton-malt </td>
@@ -6423,11 +6412,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/galin-cho">
 				<img src="https://avatars.githubusercontent.com/u/262104956?s=72&u=c290aea855058bc3bbc658133c980871ff29077e&v=4" width="24" alt="Avatar of galin-cho"> galin-cho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#galin-cho">Copy rank badge</a><br/>
 			Galin Genov
 		</td>
 		<td>Hireroo </td>
@@ -6436,12 +6425,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/Cristina0702">
 				<img src="https://avatars.githubusercontent.com/u/81619421?s=72&u=63724922b6ae8f5a5728f843b17f0a9bbdf0b7cc&v=4" width="24" alt="Avatar of Cristina0702"> Cristina0702
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Cristina0702">Copy rank badge</a><br/>
 			Cristina Cutajar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/AntoineSpiteri2">
+				<img src="https://avatars.githubusercontent.com/u/91940077?s=72&u=4816dfdb7c615a1bcf01964dd215bee085a29e54&v=4" width="24" alt="Avatar of AntoineSpiteri2"> AntoineSpiteri2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#AntoineSpiteri2">Copy rank badge</a><br/>
+			Antoine Spiteri
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6451,35 +6453,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>489</td>
 		<td>
-			<a href="https://github.com/AntoineSpiteri2">
-				<img src="https://avatars.githubusercontent.com/u/91940077?s=72&u=4816dfdb7c615a1bcf01964dd215bee085a29e54&v=4" width="24" alt="Avatar of AntoineSpiteri2"> AntoineSpiteri2
-			</a><br/>
-			Antoine Spiteri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/kfi">
-				<img src="https://avatars.githubusercontent.com/u/2392672?s=72&u=c1c33706879ab7e7f9c3e8b5c05e566c1c233bbf&v=4" width="24" alt="Avatar of kfi"> kfi
-			</a><br/>
-			Kian Foroodi
-		</td>
-		<td>@alkima  </td>
-		<td>No Twitter Username</td>
-		<td>Santa Venera, Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
 			<a href="https://github.com/9H1LO">
 				<img src="https://avatars.githubusercontent.com/u/17033123?s=72&u=9ea348b311e5ffddc5c129b5ddacd53c86a7df7b&v=4" width="24" alt="Avatar of 9H1LO"> 9H1LO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#9H1LO">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6488,12 +6464,38 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/DamienSB">
 				<img src="https://avatars.githubusercontent.com/u/48827852?s=72&u=e28ebfe226a6f7f305f28d224fb5727b73019852&v=4" width="24" alt="Avatar of DamienSB"> DamienSB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#DamienSB">Copy rank badge</a><br/>
 			Damien Spiteri Binett
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/gdebat">
+				<img src="https://avatars.githubusercontent.com/u/3858201?s=72&v=4" width="24" alt="Avatar of gdebat"> gdebat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#gdebat">Copy rank badge</a><br/>
+			Gilbert Debattista
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/LeeFarrugia">
+				<img src="https://avatars.githubusercontent.com/u/64322719?s=72&v=4" width="24" alt="Avatar of LeeFarrugia"> LeeFarrugia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#LeeFarrugia">Copy rank badge</a><br/>
+			Lee Farrugia
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6503,12 +6505,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>493</td>
 		<td>
-			<a href="https://github.com/gdebat">
-				<img src="https://avatars.githubusercontent.com/u/3858201?s=72&v=4" width="24" alt="Avatar of gdebat"> gdebat
-			</a><br/>
-			Gilbert Debattista
+			<a href="https://github.com/racheloconnell">
+				<img src="https://avatars.githubusercontent.com/u/27767540?s=72&u=cafb7a28165112dcc55cf7efda923f8b178bb70b&v=4" width="24" alt="Avatar of racheloconnell"> racheloconnell
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#racheloconnell">Copy rank badge</a><br/>
+			Dr Rachel O'Connell
 		</td>
-		<td>No Company</td>
+		<td>@trustelevateltd  </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>1</td>
@@ -6516,22 +6518,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>494</td>
 		<td>
-			<a href="https://github.com/LeeFarrugia">
-				<img src="https://avatars.githubusercontent.com/u/64322719?s=72&v=4" width="24" alt="Avatar of LeeFarrugia"> LeeFarrugia
-			</a><br/>
-			Lee Farrugia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
 			<a href="https://github.com/Sean-Powell">
 				<img src="https://avatars.githubusercontent.com/u/12112672?s=72&v=4" width="24" alt="Avatar of Sean-Powell"> Sean-Powell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#Sean-Powell">Copy rank badge</a><br/>
 			Sean Powell
 		</td>
 		<td>Alpha Group </td>
@@ -6540,11 +6529,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/kparavindbabu">
 				<img src="https://avatars.githubusercontent.com/u/11346168?s=72&u=b0f842589d119d317671bef6deb17af26be2ea44&v=4" width="24" alt="Avatar of kparavindbabu"> kparavindbabu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#kparavindbabu">Copy rank badge</a><br/>
 			Aravind Babu
 		</td>
 		<td>Incredible Web Ltd </td>
@@ -6553,12 +6542,12 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
-			<a href="https://github.com/gamingapple">
-				<img src="https://avatars.githubusercontent.com/u/76929464?s=72&u=4751e6a009a8575cb3ee2fd746644b0a3d27cc96&v=4" width="24" alt="Avatar of gamingapple"> gamingapple
-			</a><br/>
-			gamingapple
+			<a href="https://github.com/antoniopersiano">
+				<img src="https://avatars.githubusercontent.com/u/72618160?s=72&v=4" width="24" alt="Avatar of antoniopersiano"> antoniopersiano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#antoniopersiano">Copy rank badge</a><br/>
+			Antonio Persiano
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6566,12 +6555,25 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/rubenmamo">
+				<img src="https://avatars.githubusercontent.com/u/7700562?s=72&u=5b744c12de3183384a66b02d19f5ca6a59036754&v=4" width="24" alt="Avatar of rubenmamo"> rubenmamo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#rubenmamo">Copy rank badge</a><br/>
+			Ruben Mamo
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/rubenmamo">rubenmamo</a></td>
+		<td>Malta</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>498</td>
 		<td>
-			<a href="https://github.com/antoniopersiano">
-				<img src="https://avatars.githubusercontent.com/u/72618160?s=72&v=4" width="24" alt="Avatar of antoniopersiano"> antoniopersiano
-			</a><br/>
-			Antonio Persiano
+			<a href="https://github.com/anotheroberta">
+				<img src="https://avatars.githubusercontent.com/u/44339493?s=72&v=4" width="24" alt="Avatar of anotheroberta"> anotheroberta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#anotheroberta">Copy rank badge</a><br/>
+			Roberta Buhagiar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6581,22 +6583,9 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 	<tr>
 		<td>499</td>
 		<td>
-			<a href="https://github.com/anotheroberta">
-				<img src="https://avatars.githubusercontent.com/u/44339493?s=72&v=4" width="24" alt="Avatar of anotheroberta"> anotheroberta
-			</a><br/>
-			Roberta Buhagiar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
 			<a href="https://github.com/colinvella-betsson">
 				<img src="https://avatars.githubusercontent.com/u/68687061?s=72&u=3fcf57a67da885f6e953663cee6a5ecc0e49d2b2&v=4" width="24" alt="Avatar of colinvella-betsson"> colinvella-betsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#colinvella-betsson">Copy rank badge</a><br/>
 			Colin Vella
 		</td>
 		<td>Betsson Group </td>
@@ -6605,11 +6594,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/hazemmh1911">
 				<img src="https://avatars.githubusercontent.com/u/72710993?s=72&u=dbb2073fd93ffb58506ad1f1e16f495103b3ec97&v=4" width="24" alt="Avatar of hazemmh1911"> hazemmh1911
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#hazemmh1911">Copy rank badge</a><br/>
 			Hazem
 		</td>
 		<td>No Company</td>
@@ -6618,11 +6607,11 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/fencer">
 				<img src="https://avatars.githubusercontent.com/u/620966?s=72&v=4" width="24" alt="Avatar of fencer"> fencer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#fencer">Copy rank badge</a><br/>
 			Claude
 		</td>
 		<td>No Company</td>
@@ -6631,29 +6620,16 @@ There are `874 users`  in Malta. You need at least `2 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/colincachia">
 				<img src="https://avatars.githubusercontent.com/u/1846706?s=72&u=837c6af50f5f14f5ef2e06ce656396b3f9633486&v=4" width="24" alt="Avatar of colincachia"> colincachia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/malta.md#colincachia">Copy rank badge</a><br/>
 			Colin Cachia
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/colincachia">colincachia</a></td>
 		<td>Malta</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/PaulKabyn">
-				<img src="https://avatars.githubusercontent.com/u/239605457?s=72&u=d028292e601dd9910445d69fb0613fef81194074&v=4" width="24" alt="Avatar of PaulKabyn"> PaulKabyn
-			</a><br/>
-			Paul Kabyn
-		</td>
-		<td>Doxis Gmbh, Pogray! </td>
-		<td>No Twitter Username</td>
-		<td>Malta, Frankfurt am Main</td>
 		<td>1</td>
 	</tr>
 </table>
