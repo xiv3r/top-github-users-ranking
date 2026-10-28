@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `public contributions` by users in Poland on `2026/9/30 12:54 AM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `public contributions` by users in Poland on `2026/10/28 2:20 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `930 users`  in Poland. You need at least `94 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Poland GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mgorny">
 				<img src="https://avatars.githubusercontent.com/u/110765?s=72&u=8b45f2ed8365e91a745800335adcedb95e0aae30&v=4" width="24" alt="Avatar of mgorny"> mgorny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mgorny">Copy rank badge</a><br/>
 			Michał Górny
 		</td>
 		<td>@quansight-labs  </td>
@@ -122,7 +124,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/adamziel">
 				<img src="https://avatars.githubusercontent.com/u/205419?s=72&u=d9d6f0d38339ad233258c4891e227219ccb7c3b4&v=4" width="24" alt="Avatar of adamziel"> adamziel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#adamziel">Copy rank badge</a><br/>
 			Adam Zieliński
 		</td>
 		<td>Automattic </td>
@@ -135,7 +137,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DanielTRZ">
 				<img src="https://avatars.githubusercontent.com/u/71105883?s=72&u=913324380cd585f8f3185a6c76ffd0748e95d2f6&v=4" width="24" alt="Avatar of DanielTRZ"> DanielTRZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DanielTRZ">Copy rank badge</a><br/>
 			Daniel Trzeciński
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PrzemyslawKlys">
 				<img src="https://avatars.githubusercontent.com/u/15063294?s=72&u=103b5981a79c86b3c199b8e905ab39ba9088375c&v=4" width="24" alt="Avatar of PrzemyslawKlys"> PrzemyslawKlys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PrzemyslawKlys">Copy rank badge</a><br/>
 			Przemysław Kłys
 		</td>
 		<td>Evotec </td>
@@ -161,7 +163,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/khasinski">
 				<img src="https://avatars.githubusercontent.com/u/702380?s=72&v=4" width="24" alt="Avatar of khasinski"> khasinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#khasinski">Copy rank badge</a><br/>
 			Chris Hasiński
 		</td>
 		<td>No Company</td>
@@ -174,7 +176,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pawelsalawa">
 				<img src="https://avatars.githubusercontent.com/u/481846?s=72&u=8fe60437ccd166fac2d5fa76d9c30e3d8f6d3b5b&v=4" width="24" alt="Avatar of pawelsalawa"> pawelsalawa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pawelsalawa">Copy rank badge</a><br/>
 			Paweł Salawa
 		</td>
 		<td>No Company</td>
@@ -187,7 +189,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/thymikee">
 				<img src="https://avatars.githubusercontent.com/u/5106466?s=72&u=e04fa087efc1c378afce5e5246d39d4f3ecfe49d&v=4" width="24" alt="Avatar of thymikee"> thymikee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#thymikee">Copy rank badge</a><br/>
 			Michał Pierzchała
 		</td>
 		<td>@callstack  </td>
@@ -200,7 +202,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pr0d1r2">
 				<img src="https://avatars.githubusercontent.com/u/31430?s=72&u=a143afb3d9a83056365b3f78429188f0a629892b&v=4" width="24" alt="Avatar of pr0d1r2"> pr0d1r2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pr0d1r2">Copy rank badge</a><br/>
 			Marcin Nowicki
 		</td>
 		<td>No Company</td>
@@ -213,7 +215,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/potiuk">
 				<img src="https://avatars.githubusercontent.com/u/595491?s=72&v=4" width="24" alt="Avatar of potiuk"> potiuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#potiuk">Copy rank badge</a><br/>
 			Jarek Potiuk
 		</td>
 		<td>Apache Software Foundation </td>
@@ -226,7 +228,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MateuszKubuszok">
 				<img src="https://avatars.githubusercontent.com/u/1900121?s=72&u=5b17ac16b713a32b55ae9efb4708c427cfd281a0&v=4" width="24" alt="Avatar of MateuszKubuszok"> MateuszKubuszok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MateuszKubuszok">Copy rank badge</a><br/>
 			Mateusz Kubuszok
 		</td>
 		<td>No Company</td>
@@ -239,7 +241,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kjk">
 				<img src="https://avatars.githubusercontent.com/u/7935?s=72&u=5dc6f8c2b4a4a6afe12882549a51bb0fb378feda&v=4" width="24" alt="Avatar of kjk"> kjk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kjk">Copy rank badge</a><br/>
 			Krzysztof Kowalczyk
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/StefanMaron">
 				<img src="https://avatars.githubusercontent.com/u/24838311?s=72&u=11bbe0c9814c53159a1821206ad4aa758d8431c5&v=4" width="24" alt="Avatar of StefanMaron"> StefanMaron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#StefanMaron">Copy rank badge</a><br/>
 			Stefan Maroń
 		</td>
 		<td>Freelance Bc Developer </td>
@@ -265,7 +267,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/RooTinfinite">
 				<img src="https://avatars.githubusercontent.com/u/4924867?s=72&u=d7b2d7f55920502f6f77184c9bb30b4b72913c31&v=4" width="24" alt="Avatar of RooTinfinite"> RooTinfinite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#RooTinfinite">Copy rank badge</a><br/>
 			Piotr Maminski
 		</td>
 		<td>Epaka </td>
@@ -278,7 +280,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sefinek">
 				<img src="https://avatars.githubusercontent.com/u/92880265?s=72&u=d1a92005fda24adbaac3dca11b2aabd20c919907&v=4" width="24" alt="Avatar of sefinek"> sefinek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sefinek">Copy rank badge</a><br/>
 			Sefinek
 		</td>
 		<td>@sniffcatdb  </td>
@@ -291,7 +293,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SpicyMarinara">
 				<img src="https://avatars.githubusercontent.com/u/45567659?s=72&u=b678ef0c65fc4124c46826ace95a5ca50d8ad887&v=4" width="24" alt="Avatar of SpicyMarinara"> SpicyMarinara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SpicyMarinara">Copy rank badge</a><br/>
 			Spicy Marinara
 		</td>
 		<td>@glimmer-fics </td>
@@ -304,7 +306,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rustatian">
 				<img src="https://avatars.githubusercontent.com/u/8040338?s=72&u=d52123a8a1540c29c3aeaa4e33d163e874e08ad3&v=4" width="24" alt="Avatar of rustatian"> rustatian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rustatian">Copy rank badge</a><br/>
 			Valery Piashchynski
 		</td>
 		<td>@codenameoyster </td>
@@ -317,7 +319,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hasparus">
 				<img src="https://avatars.githubusercontent.com/u/15332326?s=72&u=0ee15040eaa9b894bd007cf514d00b6d1bc67d60&v=4" width="24" alt="Avatar of hasparus"> hasparus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hasparus">Copy rank badge</a><br/>
 			Piotr Monwid-Olechnowicz
 		</td>
 		<td>@palestra-sh </td>
@@ -330,7 +332,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bartlomieju">
 				<img src="https://avatars.githubusercontent.com/u/13602871?s=72&u=15d2d07e2a911cec20bfebca987349a61d3861ec&v=4" width="24" alt="Avatar of bartlomieju"> bartlomieju
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bartlomieju">Copy rank badge</a><br/>
 			Bartek Iwańczuk
 		</td>
 		<td>@denoland </td>
@@ -343,7 +345,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/masagrator">
 				<img src="https://avatars.githubusercontent.com/u/8557858?s=72&u=5805b254ea6e5af12df21b61a591830e3dbcadb5&v=4" width="24" alt="Avatar of masagrator"> masagrator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#masagrator">Copy rank badge</a><br/>
 			MasaGratoR
 		</td>
 		<td>No Company</td>
@@ -356,7 +358,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sirlucjan">
 				<img src="https://avatars.githubusercontent.com/u/5910665?s=72&u=807e4cec10fe501b6dd8b04af85f8ef7cd03067b&v=4" width="24" alt="Avatar of sirlucjan"> sirlucjan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sirlucjan">Copy rank badge</a><br/>
 			Piotr Górski
 		</td>
 		<td>@cachyos @seafoam-labs </td>
@@ -369,7 +371,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rr-">
 				<img src="https://avatars.githubusercontent.com/u/1045476?s=72&u=9f902026e17d64632b9cb1fd2d1ed80c540a449b&v=4" width="24" alt="Avatar of rr-"> rr-
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rr-">Copy rank badge</a><br/>
 			Dash
 		</td>
 		<td>No Company</td>
@@ -382,7 +384,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cvx">
 				<img src="https://avatars.githubusercontent.com/u/66961?s=72&v=4" width="24" alt="Avatar of cvx"> cvx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cvx">Copy rank badge</a><br/>
 			Jarek Radosz
 		</td>
 		<td>Discourse </td>
@@ -395,7 +397,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tgodzik">
 				<img src="https://avatars.githubusercontent.com/u/3807253?s=72&u=227b38b0eb1b8cb1f0afa84786bfb1539ec4ec28&v=4" width="24" alt="Avatar of tgodzik"> tgodzik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tgodzik">Copy rank badge</a><br/>
 			Tomasz Godzik
 		</td>
 		<td>@virtuslab </td>
@@ -408,7 +410,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KPKrol85">
 				<img src="https://avatars.githubusercontent.com/u/104792533?s=72&u=7aa86ef6290a341922e4a24d1b89a685ea50fa37&v=4" width="24" alt="Avatar of KPKrol85"> KPKrol85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KPKrol85">Copy rank badge</a><br/>
 			Kamil Król
 		</td>
 		<td>Kp_code Digital Studio </td>
@@ -421,7 +423,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/damianlegawiec">
 				<img src="https://avatars.githubusercontent.com/u/55154?s=72&u=3ed4482def17090d2e6c51e4259328382a552479&v=4" width="24" alt="Avatar of damianlegawiec"> damianlegawiec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#damianlegawiec">Copy rank badge</a><br/>
 			Damian Legawiec
 		</td>
 		<td>@spree </td>
@@ -434,7 +436,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/slachiewicz">
 				<img src="https://avatars.githubusercontent.com/u/6705942?s=72&v=4" width="24" alt="Avatar of slachiewicz"> slachiewicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#slachiewicz">Copy rank badge</a><br/>
 			Sylwester Lachiewicz
 		</td>
 		<td>No Company</td>
@@ -447,7 +449,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukaszgryglicki">
 				<img src="https://avatars.githubusercontent.com/u/2469783?s=72&u=975047cd166af4d10f59250a3fc082f6f5e40c48&v=4" width="24" alt="Avatar of lukaszgryglicki"> lukaszgryglicki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukaszgryglicki">Copy rank badge</a><br/>
 			Łukasz Gryglicki
 		</td>
 		<td>@cncf @linuxfoundation @kubernetes </td>
@@ -460,7 +462,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ajgon">
 				<img src="https://avatars.githubusercontent.com/u/150545?s=72&u=4a15cf529a68c8d8a55e2fbe0daad3de86186467&v=4" width="24" alt="Avatar of ajgon"> ajgon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ajgon">Copy rank badge</a><br/>
 			Igor Rzegocki
 		</td>
 		<td>No Company</td>
@@ -473,7 +475,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jcubic">
 				<img src="https://avatars.githubusercontent.com/u/280241?s=72&u=b6c2b307dfe532a4a34c945a4bc9abf0e465ab82&v=4" width="24" alt="Avatar of jcubic"> jcubic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jcubic">Copy rank badge</a><br/>
 			Jakub T. Jankiewicz
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sergeyklay">
 				<img src="https://avatars.githubusercontent.com/u/1256298?s=72&u=004ebd6a918447965be830297ab0639645e507e0&v=4" width="24" alt="Avatar of sergeyklay"> sergeyklay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sergeyklay">Copy rank badge</a><br/>
 			Serghei Iakovlev
 		</td>
 		<td>@sortie-ai @airslateinc </td>
@@ -499,7 +501,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wendigo">
 				<img src="https://avatars.githubusercontent.com/u/66972?s=72&u=31b555b6ff750ec4918c8d06498edf646f1a554c&v=4" width="24" alt="Avatar of wendigo"> wendigo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wendigo">Copy rank badge</a><br/>
 			Mateusz "Serafin" Gajewski
 		</td>
 		<td>@trinodb @starburstdata </td>
@@ -512,7 +514,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Simek">
 				<img src="https://avatars.githubusercontent.com/u/719641?s=72&u=d36716eff385696b5942b8e283d8c6d4cbbf9888&v=4" width="24" alt="Avatar of Simek"> Simek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Simek">Copy rank badge</a><br/>
 			Bartosz Kaszubowski
 		</td>
 		<td>Ex @expo </td>
@@ -525,7 +527,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bieniu">
 				<img src="https://avatars.githubusercontent.com/u/478555?s=72&u=e984b230c7872452ebebe4e0a56cd58753b2333b&v=4" width="24" alt="Avatar of bieniu"> bieniu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bieniu">Copy rank badge</a><br/>
 			Maciej Bieniek
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilmysliwiec">
 				<img src="https://avatars.githubusercontent.com/u/23244943?s=72&u=6b1bf39c56f0f912e44b4e1dd2e23d3c16ef363e&v=4" width="24" alt="Avatar of kamilmysliwiec"> kamilmysliwiec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilmysliwiec">Copy rank badge</a><br/>
 			Kamil Mysliwiec
 		</td>
 		<td>@nestjs  </td>
@@ -551,7 +553,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/V3RON">
 				<img src="https://avatars.githubusercontent.com/u/8137511?s=72&u=74e73a943bc9d56c71eda2990a46f5d34c29bca6&v=4" width="24" alt="Avatar of V3RON"> V3RON
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#V3RON">Copy rank badge</a><br/>
 			Szymon Chmal
 		</td>
 		<td>Callstack @callstack </td>
@@ -564,7 +566,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mohcodes01">
 				<img src="https://avatars.githubusercontent.com/u/301445167?s=72&v=4" width="24" alt="Avatar of mohcodes01"> mohcodes01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mohcodes01">Copy rank badge</a><br/>
 			mohcodes
 		</td>
 		<td>@mohocodes-team  </td>
@@ -577,7 +579,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piecioshka">
 				<img src="https://avatars.githubusercontent.com/u/244935?s=72&u=c8447d3b17dfdcb6b26baa40874f8d362702e30a&v=4" width="24" alt="Avatar of piecioshka"> piecioshka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piecioshka">Copy rank badge</a><br/>
 			Piotr Kowalski
 		</td>
 		<td>No Company</td>
@@ -590,7 +592,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mkljczk">
 				<img src="https://avatars.githubusercontent.com/u/21127288?s=72&u=ca766fe1abce966575c6c59906267d77d92eb87e&v=4" width="24" alt="Avatar of mkljczk"> mkljczk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mkljczk">Copy rank badge</a><br/>
 			nicole mikołajczyk
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mrexodia">
 				<img src="https://avatars.githubusercontent.com/u/2458265?s=72&u=d6e791712a4a68f677a6ab9add346df3e02be994&v=4" width="24" alt="Avatar of mrexodia"> mrexodia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mrexodia">Copy rank badge</a><br/>
 			Duncan Ogilvie
 		</td>
 		<td>No Company</td>
@@ -616,7 +618,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pivovarit">
 				<img src="https://avatars.githubusercontent.com/u/2182533?s=72&u=c00beead5a14a8dbf839633302ec66981aab2394&v=4" width="24" alt="Avatar of pivovarit"> pivovarit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pivovarit">Copy rank badge</a><br/>
 			Grzegorz Piwowarek
 		</td>
 		<td>@vavr-io </td>
@@ -629,7 +631,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/66HEX">
 				<img src="https://avatars.githubusercontent.com/u/168720167?s=72&u=5a351c462712fbe3190fbf4a9f6505c0d2673aa0&v=4" width="24" alt="Avatar of 66HEX"> 66HEX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#66HEX">Copy rank badge</a><br/>
 			Marek Jóźwiak
 		</td>
 		<td>@kaltwrk </td>
@@ -642,7 +644,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/antonkarasbiz">
 				<img src="https://avatars.githubusercontent.com/u/105895349?s=72&u=6088fb944fb1e53e4d5016fe13749765f239886f&v=4" width="24" alt="Avatar of antonkarasbiz"> antonkarasbiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#antonkarasbiz">Copy rank badge</a><br/>
 			Anton Karas
 		</td>
 		<td>Web3 / Ai </td>
@@ -655,7 +657,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pwittchen">
 				<img src="https://avatars.githubusercontent.com/u/695319?s=72&u=dbda7bd609e76046e121fc1e7a557786264d2bfb&v=4" width="24" alt="Avatar of pwittchen"> pwittchen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pwittchen">Copy rank badge</a><br/>
 			Piotr Wittchen
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tomusdrw">
 				<img src="https://avatars.githubusercontent.com/u/581548?s=72&v=4" width="24" alt="Avatar of tomusdrw"> tomusdrw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tomusdrw">Copy rank badge</a><br/>
 			Tomek Drwięga
 		</td>
 		<td>No Company</td>
@@ -681,7 +683,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pellared">
 				<img src="https://avatars.githubusercontent.com/u/5067549?s=72&u=1262f6477a71a4ea6520b060ee0eca2ce1af4096&v=4" width="24" alt="Avatar of pellared"> pellared
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pellared">Copy rank badge</a><br/>
 			Robert Pająk
 		</td>
 		<td>Splunk </td>
@@ -694,7 +696,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukaszsamson">
 				<img src="https://avatars.githubusercontent.com/u/1078186?s=72&v=4" width="24" alt="Avatar of lukaszsamson"> lukaszsamson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukaszsamson">Copy rank badge</a><br/>
 			Łukasz Samson
 		</td>
 		<td>No Company</td>
@@ -707,7 +709,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojtekmaj">
 				<img src="https://avatars.githubusercontent.com/u/5426427?s=72&u=a6a688c4a3f715f44096e75af337d30d7cbecc28&v=4" width="24" alt="Avatar of wojtekmaj"> wojtekmaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojtekmaj">Copy rank badge</a><br/>
 			Wojciech Maj
 		</td>
 		<td>Rewardo </td>
@@ -720,7 +722,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/matkoniecz">
 				<img src="https://avatars.githubusercontent.com/u/899988?s=72&u=1a682cd39f51bb0224a52c7640a040c849b73ae8&v=4" width="24" alt="Avatar of matkoniecz"> matkoniecz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#matkoniecz">Copy rank badge</a><br/>
 			Mateusz Konieczny
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/josevalim">
 				<img src="https://avatars.githubusercontent.com/u/9582?s=72&u=c00cf4c84840538f31a3a8a46fec9dcc7b0ff132&v=4" width="24" alt="Avatar of josevalim"> josevalim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#josevalim">Copy rank badge</a><br/>
 			José Valim
 		</td>
 		<td>No Company</td>
@@ -746,7 +748,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/slawekjaranowski">
 				<img src="https://avatars.githubusercontent.com/u/3578921?s=72&u=72f16ad73ef4ddf9b812da197ad514b414f215a4&v=4" width="24" alt="Avatar of slawekjaranowski"> slawekjaranowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#slawekjaranowski">Copy rank badge</a><br/>
 			Slawomir Jaranowski
 		</td>
 		<td>No Company</td>
@@ -759,7 +761,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pawurb">
 				<img src="https://avatars.githubusercontent.com/u/1131944?s=72&u=cfab866e0eb42e909723a84a2111d38f6055594d&v=4" width="24" alt="Avatar of pawurb"> pawurb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pawurb">Copy rank badge</a><br/>
 			Paweł Urbanek
 		</td>
 		<td>@namiai </td>
@@ -772,7 +774,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Blaizzy">
 				<img src="https://avatars.githubusercontent.com/u/23445657?s=72&u=84dda94e9330c5538ea94099b5cae699c88586f8&v=4" width="24" alt="Avatar of Blaizzy"> Blaizzy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Blaizzy">Copy rank badge</a><br/>
 			Prince Canuma
 		</td>
 		<td>Kulissiwa.com </td>
@@ -785,7 +787,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/derberg">
 				<img src="https://avatars.githubusercontent.com/u/6995927?s=72&u=a6101323e4ae4d8b9f7b1fb2048a5ea2591d84a9&v=4" width="24" alt="Avatar of derberg"> derberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#derberg">Copy rank badge</a><br/>
 			Lukasz Gornicki
 		</td>
 		<td>No Company</td>
@@ -798,7 +800,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lkostrowski">
 				<img src="https://avatars.githubusercontent.com/u/9268745?s=72&u=2df9e2c3fee31c244b5b12fd930f8d8e1e79e994&v=4" width="24" alt="Avatar of lkostrowski"> lkostrowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lkostrowski">Copy rank badge</a><br/>
 			Lukasz Ostrowski
 		</td>
 		<td>@saleor  </td>
@@ -811,7 +813,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/adamw">
 				<img src="https://avatars.githubusercontent.com/u/60503?s=72&u=d63edeb0d594d2c1805496fc534461e8ed88abdd&v=4" width="24" alt="Avatar of adamw"> adamw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#adamw">Copy rank badge</a><br/>
 			Adam Warski
 		</td>
 		<td>Https://www.software </td>
@@ -824,7 +826,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/norberttech">
 				<img src="https://avatars.githubusercontent.com/u/1921950?s=72&u=b3fcad865b49488141231800a9b61df28873976b&v=4" width="24" alt="Avatar of norberttech"> norberttech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#norberttech">Copy rank badge</a><br/>
 			Norbert Orzechowicz
 		</td>
 		<td>@flow-php  </td>
@@ -837,7 +839,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mmstick">
 				<img src="https://avatars.githubusercontent.com/u/4143535?s=72&u=f7faaa207511dbf2440f62129eb985fa1f7bc4e6&v=4" width="24" alt="Avatar of mmstick"> mmstick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mmstick">Copy rank badge</a><br/>
 			Michael Murphy
 		</td>
 		<td>@system76 </td>
@@ -850,7 +852,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Daynlight">
 				<img src="https://avatars.githubusercontent.com/u/62157770?s=72&u=357bc5d6fb28c99bfe840087d1693f8801ac4786&v=4" width="24" alt="Avatar of Daynlight"> Daynlight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Daynlight">Copy rank badge</a><br/>
 			Rai Ives
 		</td>
 		<td>No Company</td>
@@ -863,7 +865,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/twardoch">
 				<img src="https://avatars.githubusercontent.com/u/519108?s=72&u=e122ed9f719a882094c3e9a867187a42cd8883c4&v=4" width="24" alt="Avatar of twardoch"> twardoch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#twardoch">Copy rank badge</a><br/>
 			Adam Twardoch
 		</td>
 		<td>Fontlab Ltd. </td>
@@ -876,7 +878,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/HuckleR2003">
 				<img src="https://avatars.githubusercontent.com/u/64114763?s=72&u=98dc894db176928aeddcf029aea36382e59cece6&v=4" width="24" alt="Avatar of HuckleR2003"> HuckleR2003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#HuckleR2003">Copy rank badge</a><br/>
 			Marcin "HuckleR" Firmuga
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/satya164">
 				<img src="https://avatars.githubusercontent.com/u/1174278?s=72&v=4" width="24" alt="Avatar of satya164"> satya164
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#satya164">Copy rank badge</a><br/>
 			Satyajit Sahoo
 		</td>
 		<td>@callstack  </td>
@@ -902,7 +904,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mrholek">
 				<img src="https://avatars.githubusercontent.com/u/3524167?s=72&v=4" width="24" alt="Avatar of mrholek"> mrholek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mrholek">Copy rank badge</a><br/>
 			Łukasz Holeczek
 		</td>
 		<td>@coreui </td>
@@ -915,7 +917,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dekoza">
 				<img src="https://avatars.githubusercontent.com/u/210980?s=72&u=c03c78a8ae1039b500dfe343665536ebc51979b2&v=4" width="24" alt="Avatar of dekoza"> dekoza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dekoza">Copy rank badge</a><br/>
 			Dominik Kozaczko
 		</td>
 		<td>Bttr.dev </td>
@@ -928,7 +930,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Fivell">
 				<img src="https://avatars.githubusercontent.com/u/120269?s=72&u=1c658a9d924f2bd47df4c666169398ead37722e5&v=4" width="24" alt="Avatar of Fivell"> Fivell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Fivell">Copy rank badge</a><br/>
 			Igor Fedoronchuk
 		</td>
 		<td>@didww </td>
@@ -941,7 +943,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tegnike">
 				<img src="https://avatars.githubusercontent.com/u/35606144?s=72&u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4" width="24" alt="Avatar of tegnike"> tegnike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tegnike">Copy rank badge</a><br/>
 			ニケちゃん / nikechan
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/keszybz">
 				<img src="https://avatars.githubusercontent.com/u/349618?s=72&v=4" width="24" alt="Avatar of keszybz"> keszybz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#keszybz">Copy rank badge</a><br/>
 			Zbigniew Jędrzejewski-Szmek
 		</td>
 		<td>Amutable </td>
@@ -967,7 +969,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/stared">
 				<img src="https://avatars.githubusercontent.com/u/1001610?s=72&u=9a664b05a9e0ec94cef8223198d72055a38d9e23&v=4" width="24" alt="Avatar of stared"> stared
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#stared">Copy rank badge</a><br/>
 			Piotr Migdał
 		</td>
 		<td>Ex: Quantum Flytrap Cto<br/>&<br/>Cofounder<br/></td>
@@ -980,7 +982,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/stalniy">
 				<img src="https://avatars.githubusercontent.com/u/1159966?s=72&u=741b1a8c04b3cdaef9ce2237618c56eb487e0bc9&v=4" width="24" alt="Avatar of stalniy"> stalniy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#stalniy">Copy rank badge</a><br/>
 			Serhii Stotskyi
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/arsenyinfo">
 				<img src="https://avatars.githubusercontent.com/u/4929993?s=72&u=e29b881ca3eaa27168e89988c39531114780e882&v=4" width="24" alt="Avatar of arsenyinfo"> arsenyinfo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#arsenyinfo">Copy rank badge</a><br/>
 			Arseny Kravchenko
 		</td>
 		<td>No Company</td>
@@ -1006,7 +1008,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MateuszNaKodach">
 				<img src="https://avatars.githubusercontent.com/u/18637116?s=72&u=06e7f0c1e4be67e2b7b106623a575829a9e842ec&v=4" width="24" alt="Avatar of MateuszNaKodach"> MateuszNaKodach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MateuszNaKodach">Copy rank badge</a><br/>
 			Mateusz Nowak
 		</td>
 		<td>Ready To Work With<br/>Ddd<br/>/<br/>Cqrs<br/>/<br/>Event<br/>Sourcing<br/>/<br/>Kotlin<br/>/<br/>Java<br/>/<br/>Ruby<br/>/<br/>Node.js<br/>/<br/>.net<br/><br/></td>
@@ -1019,7 +1021,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KoBeWi">
 				<img src="https://avatars.githubusercontent.com/u/2223172?s=72&u=fc85633b469acb6e7baef4dba5171f19a2a4ff85&v=4" width="24" alt="Avatar of KoBeWi"> KoBeWi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KoBeWi">Copy rank badge</a><br/>
 			Tomasz Chabora
 		</td>
 		<td>Godot </td>
@@ -1032,7 +1034,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wende">
 				<img src="https://avatars.githubusercontent.com/u/4634386?s=72&u=be46c9767c967e6f69be220776ba8336cc8de953&v=4" width="24" alt="Avatar of wende"> wende
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wende">Copy rank badge</a><br/>
 			Krzysztof Wende
 		</td>
 		<td>Neon Tree Solutions Ltd.<br/></td>
@@ -1045,7 +1047,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/czlonkowski">
 				<img src="https://avatars.githubusercontent.com/u/56956555?s=72&v=4" width="24" alt="Avatar of czlonkowski"> czlonkowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#czlonkowski">Copy rank badge</a><br/>
 			Romuald Członkowski
 		</td>
 		<td>Aiadvisors </td>
@@ -1058,7 +1060,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tpluscode">
 				<img src="https://avatars.githubusercontent.com/u/588128?s=72&u=f7e737f3457a7807a814388826453f2f0e6c8f65&v=4" width="24" alt="Avatar of tpluscode"> tpluscode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tpluscode">Copy rank badge</a><br/>
 			Tomasz Pluskiewicz
 		</td>
 		<td>T+code </td>
@@ -1071,7 +1073,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/findepi">
 				<img src="https://avatars.githubusercontent.com/u/144328?s=72&u=bc4e2dfc6c19b5468582b86d217aea1743f3c232&v=4" width="24" alt="Avatar of findepi"> findepi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#findepi">Copy rank badge</a><br/>
 			Piotr Findeisen
 		</td>
 		<td>@starburstdata  </td>
@@ -1084,7 +1086,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michaldrabik">
 				<img src="https://avatars.githubusercontent.com/u/11537045?s=72&u=82311082f1c85be6804fb319f3b9f8399cf73de6&v=4" width="24" alt="Avatar of michaldrabik"> michaldrabik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michaldrabik">Copy rank badge</a><br/>
 			Mike
 		</td>
 		<td>No Company</td>
@@ -1097,7 +1099,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/LesnyRumcajs">
 				<img src="https://avatars.githubusercontent.com/u/9642092?s=72&u=a8b165198af44669c7d5ffd71cc7ccaa6939af68&v=4" width="24" alt="Avatar of LesnyRumcajs"> LesnyRumcajs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#LesnyRumcajs">Copy rank badge</a><br/>
 			Hubert
 		</td>
 		<td>Chainsafe </td>
@@ -1110,7 +1112,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/amis92">
 				<img src="https://avatars.githubusercontent.com/u/2671396?s=72&u=8dd1d0a806820103bfd33f737f868a2c460133f7&v=4" width="24" alt="Avatar of amis92"> amis92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#amis92">Copy rank badge</a><br/>
 			Amadeusz Sadowski
 		</td>
 		<td>@warhub, @amadevus, @bsdata, @allegro<br/><br/></td>
@@ -1123,7 +1125,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krunixbase-dev">
 				<img src="https://avatars.githubusercontent.com/u/132249302?s=72&u=cfb0c159f144fc3cc3dd2eddd78586bf60839c6a&v=4" width="24" alt="Avatar of krunixbase-dev"> krunixbase-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krunixbase-dev">Copy rank badge</a><br/>
 			Andrzej
 		</td>
 		<td>Krunixbase Organization </td>
@@ -1136,7 +1138,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/trekawek">
 				<img src="https://avatars.githubusercontent.com/u/142138?s=72&u=db8e057b7d981d6b3b6eb3f842baea4c473f2c9c&v=4" width="24" alt="Avatar of trekawek"> trekawek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#trekawek">Copy rank badge</a><br/>
 			Tomek Rekawek
 		</td>
 		<td>@google </td>
@@ -1149,7 +1151,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/thetarnav">
 				<img src="https://avatars.githubusercontent.com/u/24491503?s=72&u=44b02fe69a21d9bc205497a25d3a25d1e4e1f607&v=4" width="24" alt="Avatar of thetarnav"> thetarnav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#thetarnav">Copy rank badge</a><br/>
 			Damian Tarnawski
 		</td>
 		<td>No Company</td>
@@ -1162,7 +1164,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/churlongo">
 				<img src="https://avatars.githubusercontent.com/u/10852534?s=72&u=fdb6a49822baf35f4139ae3351769628e77e7cad&v=4" width="24" alt="Avatar of churlongo"> churlongo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#churlongo">Copy rank badge</a><br/>
 			Sift Labs
 		</td>
 		<td>Sift Labs </td>
@@ -1175,7 +1177,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/philips77">
 				<img src="https://avatars.githubusercontent.com/u/6576580?s=72&u=535c4602d9cf7033772107afaecf1a53f5c4f025&v=4" width="24" alt="Avatar of philips77"> philips77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#philips77">Copy rank badge</a><br/>
 			Aleksander Nowakowski
 		</td>
 		<td>@nordicsemiconductor  </td>
@@ -1188,7 +1190,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/flabbet">
 				<img src="https://avatars.githubusercontent.com/u/25402427?s=72&v=4" width="24" alt="Avatar of flabbet"> flabbet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#flabbet">Copy rank badge</a><br/>
 			Krzysztof Krysiński
 		</td>
 		<td>Pixieditor </td>
@@ -1201,7 +1203,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukmccall">
 				<img src="https://avatars.githubusercontent.com/u/9578601?s=72&u=8f590d2f96644b209ff8f06b59d580bb47dfa722&v=4" width="24" alt="Avatar of lukmccall"> lukmccall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukmccall">Copy rank badge</a><br/>
 			Łukasz Kosmaty
 		</td>
 		<td>@software-mansion, @expo </td>
@@ -1214,7 +1216,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dex4er">
 				<img src="https://avatars.githubusercontent.com/u/174367?s=72&v=4" width="24" alt="Avatar of dex4er"> dex4er
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dex4er">Copy rank badge</a><br/>
 			Piotr Roszatycki
 		</td>
 		<td>No Company</td>
@@ -1227,7 +1229,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Andarist">
 				<img src="https://avatars.githubusercontent.com/u/9800850?s=72&u=e3f1122575d08330d6a438221c3610b5728bd6d4&v=4" width="24" alt="Avatar of Andarist"> Andarist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Andarist">Copy rank badge</a><br/>
 			Mateusz Burzyński
 		</td>
 		<td>@replayio </td>
@@ -1240,7 +1242,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ciembor">
 				<img src="https://avatars.githubusercontent.com/u/702108?s=72&u=31265314ac44e923fcdab0d2c1649779f9fedbd7&v=4" width="24" alt="Avatar of ciembor"> ciembor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ciembor">Copy rank badge</a><br/>
 			Maciej Ciemborowicz
 		</td>
 		<td>Akra Polska </td>
@@ -1253,7 +1255,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Zaczero">
 				<img src="https://avatars.githubusercontent.com/u/10835147?s=72&u=5288b7e6cdca8ca33728e107d2dd3b92b84c149c&v=4" width="24" alt="Avatar of Zaczero"> Zaczero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Zaczero">Copy rank badge</a><br/>
 			Kamil Monicz
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tsapeta">
 				<img src="https://avatars.githubusercontent.com/u/1714764?s=72&u=b9976dda8bbe41769df22fec2a929a6f41a89da2&v=4" width="24" alt="Avatar of tsapeta"> tsapeta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tsapeta">Copy rank badge</a><br/>
 			Tomasz Sapeta
 		</td>
 		<td>@expo </td>
@@ -1279,7 +1281,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/EgorBo">
 				<img src="https://avatars.githubusercontent.com/u/523221?s=72&u=928bd85ed90950adb6fbc06270173ef9bcbbe707&v=4" width="24" alt="Avatar of EgorBo"> EgorBo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#EgorBo">Copy rank badge</a><br/>
 			Egor Bogatov
 		</td>
 		<td>@microsoft </td>
@@ -1292,7 +1294,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MatiPl01">
 				<img src="https://avatars.githubusercontent.com/u/52978053?s=72&u=f46e4fa4a835410e5d8d59d8c5751ec72f6c23d1&v=4" width="24" alt="Avatar of MatiPl01"> MatiPl01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MatiPl01">Copy rank badge</a><br/>
 			Mateusz Łopaciński
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/xnetcat">
 				<img src="https://avatars.githubusercontent.com/u/42355410?s=72&u=d207b4059ea63221577fcd22964730afc2b5f880&v=4" width="24" alt="Avatar of xnetcat"> xnetcat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#xnetcat">Copy rank badge</a><br/>
 			kuba
 		</td>
 		<td>@youngphoenixfly  </td>
@@ -1318,7 +1320,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/plokhotnyuk">
 				<img src="https://avatars.githubusercontent.com/u/890289?s=72&u=111f284af4796a29da51286ffee017d6c7ef66f4&v=4" width="24" alt="Avatar of plokhotnyuk"> plokhotnyuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#plokhotnyuk">Copy rank badge</a><br/>
 			Andriy Plokhotnyuk
 		</td>
 		<td>No Company</td>
@@ -1331,7 +1333,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piaskowyk">
 				<img src="https://avatars.githubusercontent.com/u/36106620?s=72&u=7a941fba63977c335618db424e04e8911888a6cf&v=4" width="24" alt="Avatar of piaskowyk"> piaskowyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piaskowyk">Copy rank badge</a><br/>
 			Krzysztof Piaskowy
 		</td>
 		<td>Software Mansion </td>
@@ -1344,7 +1346,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mafiesto4">
 				<img src="https://avatars.githubusercontent.com/u/3464853?s=72&u=fb9ea46be0f25821fd9132332bed81111f1d814b&v=4" width="24" alt="Avatar of mafiesto4"> mafiesto4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mafiesto4">Copy rank badge</a><br/>
 			Wojciech Figat
 		</td>
 		<td>No Company</td>
@@ -1357,7 +1359,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alexfrxx">
 				<img src="https://avatars.githubusercontent.com/u/197260827?s=72&u=2fe4c5a2ed9e1d106b355cad91b4b8a5dd7dca2e&v=4" width="24" alt="Avatar of alexfrxx"> alexfrxx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alexfrxx">Copy rank badge</a><br/>
 			Aleksandr Frolov
 		</td>
 		<td>Grandschool </td>
@@ -1370,7 +1372,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lszl84">
 				<img src="https://avatars.githubusercontent.com/u/42072702?s=72&u=b3dca826951a47ffa7a018ee664f8140117bdbd4&v=4" width="24" alt="Avatar of lszl84"> lszl84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lszl84">Copy rank badge</a><br/>
 			Luke | DevMindscape
 		</td>
 		<td>Devmindscape </td>
@@ -1383,7 +1385,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sthalik">
 				<img src="https://avatars.githubusercontent.com/u/1896811?s=72&v=4" width="24" alt="Avatar of sthalik"> sthalik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sthalik">Copy rank badge</a><br/>
 			Stanislaw Halik
 		</td>
 		<td>No Company</td>
@@ -1396,7 +1398,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mpiorowski">
 				<img src="https://avatars.githubusercontent.com/u/26543876?s=72&u=93ea336830b037d16299b4f3be69c0866d86d5a6&v=4" width="24" alt="Avatar of mpiorowski"> mpiorowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mpiorowski">Copy rank badge</a><br/>
 			Mateusz Piórowski
 		</td>
 		<td>Https://jump.ai/ </td>
@@ -1409,7 +1411,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/janisz">
 				<img src="https://avatars.githubusercontent.com/u/1616386?s=72&v=4" width="24" alt="Avatar of janisz"> janisz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#janisz">Copy rank badge</a><br/>
 			Tomasz Janiszewski
 		</td>
 		<td>@redhatofficial </td>
@@ -1422,7 +1424,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/j-piasecki">
 				<img src="https://avatars.githubusercontent.com/u/21055725?s=72&u=e97202d584b1dc03068d0ca6083fecede0186347&v=4" width="24" alt="Avatar of j-piasecki"> j-piasecki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#j-piasecki">Copy rank badge</a><br/>
 			Jakub Piasecki
 		</td>
 		<td>Software Mansion </td>
@@ -1435,7 +1437,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/osiewicz">
 				<img src="https://avatars.githubusercontent.com/u/24362066?s=72&u=8466fc8a6dc202f8e39ce125568d08599d95ae65&v=4" width="24" alt="Avatar of osiewicz"> osiewicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#osiewicz">Copy rank badge</a><br/>
 			Piotr Osiewicz
 		</td>
 		<td>@zed-industries, @wezel-build </td>
@@ -1448,7 +1450,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mkaput">
 				<img src="https://avatars.githubusercontent.com/u/3450050?s=72&u=0160a839b44296325799601c95d6050853c8b761&v=4" width="24" alt="Avatar of mkaput"> mkaput
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mkaput">Copy rank badge</a><br/>
 			Marek Kaput
 		</td>
 		<td>@software-mansion </td>
@@ -1461,7 +1463,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piomin">
 				<img src="https://avatars.githubusercontent.com/u/2892502?s=72&u=bffc151a5df6b2c9ae56385d42e76fb7546aac91&v=4" width="24" alt="Avatar of piomin"> piomin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piomin">Copy rank badge</a><br/>
 			Piotr Mińkowski
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/grzracz">
 				<img src="https://avatars.githubusercontent.com/u/45147225?s=72&u=afe1d6716172c3f15bbc5a9b8914d4432291b699&v=4" width="24" alt="Avatar of grzracz"> grzracz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#grzracz">Copy rank badge</a><br/>
 			Grzegorz Raczek
 		</td>
 		<td>@vestigefi </td>
@@ -1487,7 +1489,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/veelenga">
 				<img src="https://avatars.githubusercontent.com/u/3624712?s=72&v=4" width="24" alt="Avatar of veelenga"> veelenga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#veelenga">Copy rank badge</a><br/>
 			Vitalii Elenhaupt
 		</td>
 		<td>No Company</td>
@@ -1500,7 +1502,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kubukoz">
 				<img src="https://avatars.githubusercontent.com/u/894884?s=72&u=7f97379e9221193c03914eb723969f597765d1ac&v=4" width="24" alt="Avatar of kubukoz"> kubukoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kubukoz">Copy rank badge</a><br/>
 			Jakub Kozłowski
 		</td>
 		<td>Siriusxm (contractor) </td>
@@ -1513,7 +1515,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/oskardudycz">
 				<img src="https://avatars.githubusercontent.com/u/5562528?s=72&u=decd12aa824a26a72a9685b64ba5612823d0d0c1&v=4" width="24" alt="Avatar of oskardudycz"> oskardudycz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#oskardudycz">Copy rank badge</a><br/>
 			Oskar Dudycz
 		</td>
 		<td>No Company</td>
@@ -1526,7 +1528,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/noisy">
 				<img src="https://avatars.githubusercontent.com/u/201263?s=72&u=b0eb8dca18ce5b888a42d97c52aee7674d655776&v=4" width="24" alt="Avatar of noisy"> noisy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#noisy">Copy rank badge</a><br/>
 			Krzysztof Szumny
 		</td>
 		<td>No Company</td>
@@ -1539,7 +1541,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/LifeNode777">
 				<img src="https://avatars.githubusercontent.com/u/238032684?s=72&u=f9a2128a2961f6e60607443f8d3d786fef167600&v=4" width="24" alt="Avatar of LifeNode777"> LifeNode777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#LifeNode777">Copy rank badge</a><br/>
 			Krzysztof Baran
 		</td>
 		<td>Project Lifenode  </td>
@@ -1552,7 +1554,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/smalluban">
 				<img src="https://avatars.githubusercontent.com/u/1906677?s=72&u=d2cc761e680a079ffa06508949ed1aab6a3ca07d&v=4" width="24" alt="Avatar of smalluban"> smalluban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#smalluban">Copy rank badge</a><br/>
 			Dominik Lubański
 		</td>
 		<td>Ghostery </td>
@@ -1565,7 +1567,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zefhemel">
 				<img src="https://avatars.githubusercontent.com/u/59073?s=72&u=c237cc0572008a5b730d5cdd0e07eecc315bc223&v=4" width="24" alt="Avatar of zefhemel"> zefhemel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zefhemel">Copy rank badge</a><br/>
 			Zef Hemel
 		</td>
 		<td>No Company</td>
@@ -1578,7 +1580,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/serathius">
 				<img src="https://avatars.githubusercontent.com/u/5873433?s=72&u=db75a9ad7956b6116229c5b05d20c74a5a3e1cab&v=4" width="24" alt="Avatar of serathius"> serathius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#serathius">Copy rank badge</a><br/>
 			Marek Siarkowicz
 		</td>
 		<td>Google </td>
@@ -1591,7 +1593,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michaldudak">
 				<img src="https://avatars.githubusercontent.com/u/4696105?s=72&u=71db238cdf2ab78cf8315d1dc72e9a21a4fb2443&v=4" width="24" alt="Avatar of michaldudak"> michaldudak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michaldudak">Copy rank badge</a><br/>
 			Michał Dudak
 		</td>
 		<td>@mui </td>
@@ -1604,7 +1606,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/keradus">
 				<img src="https://avatars.githubusercontent.com/u/2716794?s=72&u=94c0ff41ced5639d37e5f1f32df8e531fa7af70d&v=4" width="24" alt="Avatar of keradus"> keradus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#keradus">Copy rank badge</a><br/>
 			Dariusz Rumiński
 		</td>
 		<td>Php Cs Fixer |<br/>Delivery<br/>Hero<br/></td>
@@ -1617,7 +1619,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kirillzyusko">
 				<img src="https://avatars.githubusercontent.com/u/22820318?s=72&u=b4eeaec7b022a83602edb18c362615a74b178917&v=4" width="24" alt="Avatar of kirillzyusko"> kirillzyusko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kirillzyusko">Copy rank badge</a><br/>
 			Kirill Zyusko
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kasper93">
 				<img src="https://avatars.githubusercontent.com/u/1126053?s=72&v=4" width="24" alt="Avatar of kasper93"> kasper93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kasper93">Copy rank badge</a><br/>
 			Kacper Michajłow
 		</td>
 		<td>No Company</td>
@@ -1643,7 +1645,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/slayoo">
 				<img src="https://avatars.githubusercontent.com/u/89685?s=72&u=6195d362cd60a2df5c61a1289af47f821dfb73c5&v=4" width="24" alt="Avatar of slayoo"> slayoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#slayoo">Copy rank badge</a><br/>
 			Sylwester Arabas
 		</td>
 		<td>Agh.edu.pl </td>
@@ -1656,7 +1658,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/turhancan97">
 				<img src="https://avatars.githubusercontent.com/u/22428774?s=72&u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4" width="24" alt="Avatar of turhancan97"> turhancan97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#turhancan97">Copy rank badge</a><br/>
 			Turhan Can Kargın
 		</td>
 		<td>Jagiellonian University In Kraków<br/></td>
@@ -1669,7 +1671,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/surblazer">
 				<img src="https://avatars.githubusercontent.com/u/34722402?s=72&u=f032d4a5c2c7ee9fba5d361d6bd22c58ee83a662&v=4" width="24" alt="Avatar of surblazer"> surblazer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#surblazer">Copy rank badge</a><br/>
 			Matsvei Niaverau
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mcharytoniuk">
 				<img src="https://avatars.githubusercontent.com/u/1286785?s=72&u=982f598553a582f1d601623ba0fd4c8527ade5d4&v=4" width="24" alt="Avatar of mcharytoniuk"> mcharytoniuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mcharytoniuk">Copy rank badge</a><br/>
 			Mateusz Charytoniuk
 		</td>
 		<td>Intentee </td>
@@ -1695,7 +1697,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/smokku">
 				<img src="https://avatars.githubusercontent.com/u/147687?s=72&u=4027d01073d19c1009fc092f0e11ee4b3c11183b&v=4" width="24" alt="Avatar of smokku"> smokku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#smokku">Copy rank badge</a><br/>
 			Tomasz Sterna
 		</td>
 		<td>Xiaoka.com </td>
@@ -1708,7 +1710,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nyxiereal">
 				<img src="https://avatars.githubusercontent.com/u/98595166?s=72&u=396b662df95fa8274d790831939c434ee74e12f3&v=4" width="24" alt="Avatar of nyxiereal"> nyxiereal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nyxiereal">Copy rank badge</a><br/>
 			Nyx
 		</td>
 		<td>The Meowery </td>
@@ -1721,7 +1723,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jbroma">
 				<img src="https://avatars.githubusercontent.com/u/20626315?s=72&u=8cacaea406d594b6428c4c22a75332996d7a5c87&v=4" width="24" alt="Avatar of jbroma"> jbroma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jbroma">Copy rank badge</a><br/>
 			Jakub Romańczyk
 		</td>
 		<td>@rorkai </td>
@@ -1734,7 +1736,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukaszlenart">
 				<img src="https://avatars.githubusercontent.com/u/170103?s=72&u=a9203e7a8ffd5f0bd494ab0e034b0b6fa04ebc1d&v=4" width="24" alt="Avatar of lukaszlenart"> lukaszlenart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukaszlenart">Copy rank badge</a><br/>
 			Lukasz Lenart
 		</td>
 		<td>Softwaremill </td>
@@ -1747,7 +1749,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dawidd6">
 				<img src="https://avatars.githubusercontent.com/u/9713907?s=72&u=caab643eb55ea344a0f739c9f01b14b551d5ae51&v=4" width="24" alt="Avatar of dawidd6"> dawidd6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dawidd6">Copy rank badge</a><br/>
 			Dawid Dziurla
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mpusz">
 				<img src="https://avatars.githubusercontent.com/u/506260?s=72&v=4" width="24" alt="Avatar of mpusz"> mpusz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mpusz">Copy rank badge</a><br/>
 			Mateusz Pusz
 		</td>
 		<td>@train-it-eu  </td>
@@ -1773,7 +1775,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/paweljarosz">
 				<img src="https://avatars.githubusercontent.com/u/11634203?s=72&u=93ee24a94f87a13b55fa244bce46edbf8f71d503&v=4" width="24" alt="Avatar of paweljarosz"> paweljarosz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#paweljarosz">Copy rank badge</a><br/>
 			Pawel
 		</td>
 		<td>Defold, Codeward </td>
@@ -1786,7 +1788,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ravicious">
 				<img src="https://avatars.githubusercontent.com/u/27113?s=72&u=1f99cda5755aff7b149749fbf299222f99fc54ac&v=4" width="24" alt="Avatar of ravicious"> ravicious
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ravicious">Copy rank badge</a><br/>
 			Maja Cieślak
 		</td>
 		<td>@gravitational </td>
@@ -1799,7 +1801,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/asiekierka">
 				<img src="https://avatars.githubusercontent.com/u/113514?s=72&u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="24" alt="Avatar of asiekierka"> asiekierka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#asiekierka">Copy rank badge</a><br/>
 			Adrian "asie" Siekierka
 		</td>
 		<td>No Company</td>
@@ -1812,7 +1814,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ku1ik">
 				<img src="https://avatars.githubusercontent.com/u/17589?s=72&u=1f51a13592061f7f7e3819fd20f88f31eaa7e053&v=4" width="24" alt="Avatar of ku1ik"> ku1ik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ku1ik">Copy rank badge</a><br/>
 			Marcin Kulik
 		</td>
 		<td>@asciinema </td>
@@ -1825,7 +1827,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zyga">
 				<img src="https://avatars.githubusercontent.com/u/784262?s=72&v=4" width="24" alt="Avatar of zyga"> zyga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zyga">Copy rank badge</a><br/>
 			Zygmunt Krynicki
 		</td>
 		<td>Canonical </td>
@@ -1838,7 +1840,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/codecalm">
 				<img src="https://avatars.githubusercontent.com/u/1282324?s=72&u=929834c4d5d606a76cb6206fa97cfab879a2d26a&v=4" width="24" alt="Avatar of codecalm"> codecalm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#codecalm">Copy rank badge</a><br/>
 			Paweł Kuna
 		</td>
 		<td>Tabler @tabler  </td>
@@ -1851,7 +1853,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mczachurski">
 				<img src="https://avatars.githubusercontent.com/u/6191974?s=72&u=4f49646743530ae5578e293a4ed2433a1a9ca5fa&v=4" width="24" alt="Avatar of mczachurski"> mczachurski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mczachurski">Copy rank badge</a><br/>
 			Marcin Czachurski
 		</td>
 		<td>No Company</td>
@@ -1864,7 +1866,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michalsn">
 				<img src="https://avatars.githubusercontent.com/u/459185?s=72&u=db46383d2c539975afce8494c4da70930e5171f6&v=4" width="24" alt="Avatar of michalsn"> michalsn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michalsn">Copy rank badge</a><br/>
 			Michal Sniatala
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/johnslavik">
 				<img src="https://avatars.githubusercontent.com/u/64036239?s=72&u=eda14de2bed362cdb300061be49d5d03c739584e&v=4" width="24" alt="Avatar of johnslavik"> johnslavik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#johnslavik">Copy rank badge</a><br/>
 			Bartosz Sławecki
 		</td>
 		<td>@pandadoc </td>
@@ -1890,7 +1892,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jtomaszewski">
 				<img src="https://avatars.githubusercontent.com/u/1862580?s=72&u=bc6dde3f0e18ce23fe2ab79d08d352fb1c231cba&v=4" width="24" alt="Avatar of jtomaszewski"> jtomaszewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jtomaszewski">Copy rank badge</a><br/>
 			Jack Tomaszewski
 		</td>
 		<td>@fullstackhouse </td>
@@ -1903,7 +1905,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/blazejkustra">
 				<img src="https://avatars.githubusercontent.com/u/46095609?s=72&u=cc6ba878094319701a3a09e48f2cd741298c5164&v=4" width="24" alt="Avatar of blazejkustra"> blazejkustra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#blazejkustra">Copy rank badge</a><br/>
 			Błażej Kustra
 		</td>
 		<td>Software Mansion </td>
@@ -1916,7 +1918,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Patola">
 				<img src="https://avatars.githubusercontent.com/u/2991620?s=72&u=0f027c648f49142d2e82ca73515808b6ed85dee2&v=4" width="24" alt="Avatar of Patola"> Patola
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Patola">Copy rank badge</a><br/>
 			Patola
 		</td>
 		<td>Makerlinux </td>
@@ -1929,7 +1931,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/adamsitnik">
 				<img src="https://avatars.githubusercontent.com/u/6011991?s=72&u=9d61ca586bf1dfbd7ba3f950c8c32085eecad4eb&v=4" width="24" alt="Avatar of adamsitnik"> adamsitnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#adamsitnik">Copy rank badge</a><br/>
 			Adam Sitnik
 		</td>
 		<td>@microsoft </td>
@@ -1942,7 +1944,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sulmar">
 				<img src="https://avatars.githubusercontent.com/u/779025?s=72&u=df7f90748be298a82335dff6742a5019eb26ee51&v=4" width="24" alt="Avatar of sulmar"> sulmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sulmar">Copy rank badge</a><br/>
 			Marcin Sulecki
 		</td>
 		<td>Sulmar </td>
@@ -1955,7 +1957,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SteelPh0enix">
 				<img src="https://avatars.githubusercontent.com/u/10062791?s=72&u=affe9c64e9365be11c59054b98d58fd6a26f2736&v=4" width="24" alt="Avatar of SteelPh0enix"> SteelPh0enix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SteelPh0enix">Copy rank badge</a><br/>
 			Wojciech Olech
 		</td>
 		<td>@n7space  </td>
@@ -1968,7 +1970,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/soltysh">
 				<img src="https://avatars.githubusercontent.com/u/576341?s=72&u=8664bf76b8552bab3ae6471281af5770ee02e600&v=4" width="24" alt="Avatar of soltysh"> soltysh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#soltysh">Copy rank badge</a><br/>
 			Maciej Szulik
 		</td>
 		<td>@defenseunicorns </td>
@@ -1981,7 +1983,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/orestesgaolin">
 				<img src="https://avatars.githubusercontent.com/u/16854239?s=72&u=b30dc32c159dd24bad6b7a92261660ca794477ff&v=4" width="24" alt="Avatar of orestesgaolin"> orestesgaolin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#orestesgaolin">Copy rank badge</a><br/>
 			Dominik Roszkowski
 		</td>
 		<td>Engineering Lead @makevisible </td>
@@ -1994,7 +1996,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kkafar">
 				<img src="https://avatars.githubusercontent.com/u/50801299?s=72&u=38439d545518378d99c7f1ce034e6a67283a19d3&v=4" width="24" alt="Avatar of kkafar"> kkafar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kkafar">Copy rank badge</a><br/>
 			Kacper Kafara
 		</td>
 		<td>@software-mansion  </td>
@@ -2007,7 +2009,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/JanWilczek">
 				<img src="https://avatars.githubusercontent.com/u/24981875?s=72&v=4" width="24" alt="Avatar of JanWilczek"> JanWilczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#JanWilczek">Copy rank badge</a><br/>
 			Jan Wilczek
 		</td>
 		<td>Wolfsound Jan Wilczek </td>
@@ -2020,7 +2022,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/v-fidelusaleksander">
 				<img src="https://avatars.githubusercontent.com/u/63016446?s=72&u=7234d5c317ad4016bb4c17784015f0b130c4607c&v=4" width="24" alt="Avatar of v-fidelusaleksander"> v-fidelusaleksander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#v-fidelusaleksander">Copy rank badge</a><br/>
 			Aleksander Fidelus
 		</td>
 		<td>Github </td>
@@ -2033,7 +2035,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pawlos">
 				<img src="https://avatars.githubusercontent.com/u/1296768?s=72&v=4" width="24" alt="Avatar of pawlos"> pawlos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pawlos">Copy rank badge</a><br/>
 			Paweł Łukasik
 		</td>
 		<td>Octal Solutions </td>
@@ -2046,7 +2048,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dzienisz">
 				<img src="https://avatars.githubusercontent.com/u/3521624?s=72&u=e17d2b0c418219593af30c029b4f1dd38170d8e8&v=4" width="24" alt="Avatar of dzienisz"> dzienisz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dzienisz">Copy rank badge</a><br/>
 			Kamil Dzieniszewski
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sjchmiela">
 				<img src="https://avatars.githubusercontent.com/u/1151041?s=72&u=df4028ee0ebaec6f469f7b6f605147c5b28ba4ca&v=4" width="24" alt="Avatar of sjchmiela"> sjchmiela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sjchmiela">Copy rank badge</a><br/>
 			Stanisław Chmiela
 		</td>
 		<td>@expo </td>
@@ -2072,7 +2074,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gwpl">
 				<img src="https://avatars.githubusercontent.com/u/221403?s=72&v=4" width="24" alt="Avatar of gwpl"> gwpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gwpl">Copy rank badge</a><br/>
 			Grzegorz Wierzowiecki
 		</td>
 		<td>No Company</td>
@@ -2085,7 +2087,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bebiksior">
 				<img src="https://avatars.githubusercontent.com/u/71410238?s=72&u=ab3747039fc3045f27f9724336dd26864d660d51&v=4" width="24" alt="Avatar of bebiksior"> bebiksior
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bebiksior">Copy rank badge</a><br/>
 			Łukasz Tlałka
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kwasniew">
 				<img src="https://avatars.githubusercontent.com/u/1394682?s=72&u=e9f48018856a5e4ca4e379be53db9f047fc5b305&v=4" width="24" alt="Avatar of kwasniew"> kwasniew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kwasniew">Copy rank badge</a><br/>
 			Mateusz Kwasniewski
 		</td>
 		<td>Mindventures, @unleash </td>
@@ -2111,7 +2113,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/geneotech">
 				<img src="https://avatars.githubusercontent.com/u/3588717?s=72&u=8bbb79bfd08f92ca2eda0290c41f904d976bd8f5&v=4" width="24" alt="Avatar of geneotech"> geneotech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#geneotech">Copy rank badge</a><br/>
 			Patryk Czachurski
 		</td>
 		<td>@teamhypersomnia  </td>
@@ -2124,7 +2126,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pwilkin">
 				<img src="https://avatars.githubusercontent.com/u/5802960?s=72&u=e7e4366b1244d847029a1dc2a6944669141553b8&v=4" width="24" alt="Avatar of pwilkin"> pwilkin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pwilkin">Copy rank badge</a><br/>
 			Piotr Wilkin (ilintar)
 		</td>
 		<td>Syndatis Bpm </td>
@@ -2137,7 +2139,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MarcinZiabek">
 				<img src="https://avatars.githubusercontent.com/u/9263853?s=72&u=e53078d905cd6b811abd567ec9803c9dc6989172&v=4" width="24" alt="Avatar of MarcinZiabek"> MarcinZiabek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MarcinZiabek">Copy rank badge</a><br/>
 			Marcin Ziąbek
 		</td>
 		<td>No Company</td>
@@ -2150,7 +2152,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alexkuzmik">
 				<img src="https://avatars.githubusercontent.com/u/98702584?s=72&u=45b5a3ebfc6792dde0d6d33bde5ecb88d419ad65&v=4" width="24" alt="Avatar of alexkuzmik"> alexkuzmik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alexkuzmik">Copy rank badge</a><br/>
 			Alexander Kuzmik
 		</td>
 		<td>@comet-ml  </td>
@@ -2163,7 +2165,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/iceener">
 				<img src="https://avatars.githubusercontent.com/u/29215115?s=72&u=1d2728609a33fcfd1ba91884b9d0beed9642c084&v=4" width="24" alt="Avatar of iceener"> iceener
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#iceener">Copy rank badge</a><br/>
 			overment
 		</td>
 		<td>No Company</td>
@@ -2176,7 +2178,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/maximkrouk">
 				<img src="https://avatars.githubusercontent.com/u/40476363?s=72&u=96efd43e58b5a9fe774507fce04d8c7a54c29e38&v=4" width="24" alt="Avatar of maximkrouk"> maximkrouk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#maximkrouk">Copy rank badge</a><br/>
 			Maxim Krouk
 		</td>
 		<td>@praktika-ai </td>
@@ -2189,7 +2191,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ayoy">
 				<img src="https://avatars.githubusercontent.com/u/14022?s=72&v=4" width="24" alt="Avatar of ayoy"> ayoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ayoy">Copy rank badge</a><br/>
 			Dominik Kapusta
 		</td>
 		<td>@duckduckgo </td>
@@ -2202,7 +2204,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/marcingrzejszczak">
 				<img src="https://avatars.githubusercontent.com/u/3297437?s=72&v=4" width="24" alt="Avatar of marcingrzejszczak"> marcingrzejszczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#marcingrzejszczak">Copy rank badge</a><br/>
 			Marcin Grzejszczak
 		</td>
 		<td>Herodevs </td>
@@ -2215,7 +2217,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dweiss">
 				<img src="https://avatars.githubusercontent.com/u/199470?s=72&v=4" width="24" alt="Avatar of dweiss"> dweiss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dweiss">Copy rank badge</a><br/>
 			Dawid Weiss
 		</td>
 		<td>Carrot Search S.c. </td>
@@ -2228,7 +2230,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MichaelMoroz">
 				<img src="https://avatars.githubusercontent.com/u/47035925?s=72&u=cae7aaf853bed0f0e2ec004072d8e69e658d35cb&v=4" width="24" alt="Avatar of MichaelMoroz"> MichaelMoroz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MichaelMoroz">Copy rank badge</a><br/>
 			Mykhailo Moroz
 		</td>
 		<td>Zibra Ai </td>
@@ -2241,7 +2243,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/maciaszczykm">
 				<img src="https://avatars.githubusercontent.com/u/2823399?s=72&u=0964646ce90a81be33d873007488dd5fbeeff9ca&v=4" width="24" alt="Avatar of maciaszczykm"> maciaszczykm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#maciaszczykm">Copy rank badge</a><br/>
 			Marcin Maciaszczyk
 		</td>
 		<td>@pluralsh </td>
@@ -2254,7 +2256,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/spetz">
 				<img src="https://avatars.githubusercontent.com/u/2419600?s=72&u=3d76004aa5d37bd1c678bbe6fe2e00de8cecf657&v=4" width="24" alt="Avatar of spetz"> spetz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#spetz">Copy rank badge</a><br/>
 			Piotr Gankiewicz
 		</td>
 		<td>@laserdata @apache </td>
@@ -2267,7 +2269,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/floreks">
 				<img src="https://avatars.githubusercontent.com/u/2285385?s=72&u=dab7fc318340c9d1be7cc4b73f4722d1c468bbc8&v=4" width="24" alt="Avatar of floreks"> floreks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#floreks">Copy rank badge</a><br/>
 			Sebastian Florek
 		</td>
 		<td>@pluralsh </td>
@@ -2280,7 +2282,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hsz">
 				<img src="https://avatars.githubusercontent.com/u/108333?s=72&u=3182f64b23d538ab6efac5acf0c422cb7d4c037f&v=4" width="24" alt="Avatar of hsz"> hsz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hsz">Copy rank badge</a><br/>
 			Jakub Chrzanowski
 		</td>
 		<td>Developer Advocate @jetbrains </td>
@@ -2293,7 +2295,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Krever">
 				<img src="https://avatars.githubusercontent.com/u/2219224?s=72&u=93b830bc593f01a9a131931be195d88678b1cd11&v=4" width="24" alt="Avatar of Krever"> Krever
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Krever">Copy rank badge</a><br/>
 			Voytek Pituła
 		</td>
 		<td>Swissborg </td>
@@ -2306,7 +2308,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mtojek">
 				<img src="https://avatars.githubusercontent.com/u/14044910?s=72&u=ab8e348fdbb38191ff1d799c3487f7f6051fff7c&v=4" width="24" alt="Avatar of mtojek"> mtojek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mtojek">Copy rank badge</a><br/>
 			Marcin Tojek
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hyzyla">
 				<img src="https://avatars.githubusercontent.com/u/7952949?s=72&u=099af4cc23606b0931b3d1f5adf511cdc78c53d0&v=4" width="24" alt="Avatar of hyzyla"> hyzyla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hyzyla">Copy rank badge</a><br/>
 			Yevhenii Hyzyla
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Jackenmen">
 				<img src="https://avatars.githubusercontent.com/u/6032823?s=72&u=9e0a04b949bbfd9494d898664c1ab051d260fdbc&v=4" width="24" alt="Avatar of Jackenmen"> Jackenmen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Jackenmen">Copy rank badge</a><br/>
 			Jakub Kuczys
 		</td>
 		<td>No Company</td>
@@ -2345,7 +2347,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/griffi-gh">
 				<img src="https://avatars.githubusercontent.com/u/45996170?s=72&u=3587fa4e2813748a19c0c8aa8055ca6400ba45a0&v=4" width="24" alt="Avatar of griffi-gh"> griffi-gh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#griffi-gh">Copy rank badge</a><br/>
 			Lunyaaa~
 		</td>
 		<td>@spectral-compute </td>
@@ -2358,7 +2360,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Krzysztof-Cieslak">
 				<img src="https://avatars.githubusercontent.com/u/5427083?s=72&u=14e4c84892fc24d16fbe8d2909eec042cb4f7adc&v=4" width="24" alt="Avatar of Krzysztof-Cieslak"> Krzysztof-Cieslak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Krzysztof-Cieslak">Copy rank badge</a><br/>
 			Krzysztof Cieślak
 		</td>
 		<td>@github @githubnext </td>
@@ -2371,7 +2373,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mdjastrzebski">
 				<img src="https://avatars.githubusercontent.com/u/6368606?s=72&u=92f45a67a4f565eb71e17dbf68055b8a98b851bd&v=4" width="24" alt="Avatar of mdjastrzebski"> mdjastrzebski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mdjastrzebski">Copy rank badge</a><br/>
 			Maciej Jastrzebski
 		</td>
 		<td>@callstack </td>
@@ -2384,7 +2386,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/igorgolovanov">
 				<img src="https://avatars.githubusercontent.com/u/363810?s=72&u=541f5106d5bc8b16525e786c3b9c069519f2b25c&v=4" width="24" alt="Avatar of igorgolovanov"> igorgolovanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#igorgolovanov">Copy rank badge</a><br/>
 			Igor Golovanov
 		</td>
 		<td>@paramount-streaming @pluto-tv @cbsi-cbscom </td>
@@ -2397,7 +2399,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mackuba">
 				<img src="https://avatars.githubusercontent.com/u/28465?s=72&u=6e8fbb1a642aaae35c502a43c678d79fea9e1c51&v=4" width="24" alt="Avatar of mackuba"> mackuba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mackuba">Copy rank badge</a><br/>
 			Kuba Suder
 		</td>
 		<td>Mackuba Company </td>
@@ -2410,7 +2412,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ksopyla">
 				<img src="https://avatars.githubusercontent.com/u/64201?s=72&u=5ff34e823afbd379711ebcf3925b4d4cb904f0bc&v=4" width="24" alt="Avatar of ksopyla"> ksopyla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ksopyla">Copy rank badge</a><br/>
 			Krzysztof Sopyła
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/komar007">
 				<img src="https://avatars.githubusercontent.com/u/108297?s=72&v=4" width="24" alt="Avatar of komar007"> komar007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#komar007">Copy rank badge</a><br/>
 			Michal Trybus
 		</td>
 		<td>Adb </td>
@@ -2436,7 +2438,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tajchert">
 				<img src="https://avatars.githubusercontent.com/u/2962633?s=72&u=63b01fba003e58a8c9f0c865688556d83aadb643&v=4" width="24" alt="Avatar of tajchert"> tajchert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tajchert">Copy rank badge</a><br/>
 			Michal Tajchert
 		</td>
 		<td>Lite E-commerce </td>
@@ -2449,7 +2451,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bieli">
 				<img src="https://avatars.githubusercontent.com/u/183053?s=72&u=707fd3a1ecb8d589b77fbe161e413bc39e265c58&v=4" width="24" alt="Avatar of bieli"> bieli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bieli">Copy rank badge</a><br/>
 			Marcin Bielak
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/katafrakt">
 				<img src="https://avatars.githubusercontent.com/u/119904?s=72&u=cd2c7bd988ab92c2c16f596cfcc1440df260bdde&v=4" width="24" alt="Avatar of katafrakt"> katafrakt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#katafrakt">Copy rank badge</a><br/>
 			Paweł Świątkowski
 		</td>
 		<td>@jump-app </td>
@@ -2475,7 +2477,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sergey-tihon">
 				<img src="https://avatars.githubusercontent.com/u/1197905?s=72&u=c38ab919787195f0f62999693a5a2676de86ea51&v=4" width="24" alt="Avatar of sergey-tihon"> sergey-tihon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sergey-tihon">Copy rank badge</a><br/>
 			Sergey Tihon
 		</td>
 		<td>@epam </td>
@@ -2488,7 +2490,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/balcieren">
 				<img src="https://avatars.githubusercontent.com/u/46889813?s=72&u=47476436823758d050b552edff67e871b93c319d&v=4" width="24" alt="Avatar of balcieren"> balcieren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#balcieren">Copy rank badge</a><br/>
 			Eren Balcı
 		</td>
 		<td>No Company</td>
@@ -2501,7 +2503,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MrCyjaneK">
 				<img src="https://avatars.githubusercontent.com/u/20381330?s=72&v=4" width="24" alt="Avatar of MrCyjaneK"> MrCyjaneK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MrCyjaneK">Copy rank badge</a><br/>
 			cyan
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hasherezade">
 				<img src="https://avatars.githubusercontent.com/u/3115348?s=72&u=85d5a5e139a9b6a0b2abdfb133f42cdf9e2acde5&v=4" width="24" alt="Avatar of hasherezade"> hasherezade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hasherezade">Copy rank badge</a><br/>
 			hasherezade
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/allozaur">
 				<img src="https://avatars.githubusercontent.com/u/37627284?s=72&u=5ae3f693efe1d4b68e6e2041fd170299dab48796&v=4" width="24" alt="Avatar of allozaur"> allozaur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#allozaur">Copy rank badge</a><br/>
 			Aleksander Grygier
 		</td>
 		<td>@huggingface  </td>
@@ -2540,7 +2542,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zalun">
 				<img src="https://avatars.githubusercontent.com/u/97885?s=72&u=7e409b6e1c074487384320486040cf90aec54829&v=4" width="24" alt="Avatar of zalun"> zalun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zalun">Copy rank badge</a><br/>
 			Piotr Zalewa
 		</td>
 		<td>Nod Consulting </td>
@@ -2553,7 +2555,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jakex7">
 				<img src="https://avatars.githubusercontent.com/u/39670088?s=72&u=43a7c4e37afa145b5ee2f6268ee3931283759441&v=4" width="24" alt="Avatar of jakex7"> jakex7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jakex7">Copy rank badge</a><br/>
 			Jakub Grzywacz
 		</td>
 		<td>@expo At @software-mansion </td>
@@ -2566,7 +2568,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/barthap">
 				<img src="https://avatars.githubusercontent.com/u/278340?s=72&u=d564930f12ebe4c332ee21df7215138a119a6c61&v=4" width="24" alt="Avatar of barthap"> barthap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#barthap">Copy rank badge</a><br/>
 			Bartłomiej Klocek
 		</td>
 		<td>Software Mansion </td>
@@ -2579,7 +2581,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pplonski">
 				<img src="https://avatars.githubusercontent.com/u/6959032?s=72&u=d9b9235c1334177dee87878cb026a540b4f6ef0b&v=4" width="24" alt="Avatar of pplonski"> pplonski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pplonski">Copy rank badge</a><br/>
 			Piotr
 		</td>
 		<td>@mljar </td>
@@ -2592,7 +2594,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/CookiePLMonster">
 				<img src="https://avatars.githubusercontent.com/u/7947461?s=72&u=1d3536824770fb188d9a453113a6fe9b5527221a&v=4" width="24" alt="Avatar of CookiePLMonster"> CookiePLMonster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#CookiePLMonster">Copy rank badge</a><br/>
 			Silent
 		</td>
 		<td>No Company</td>
@@ -2605,7 +2607,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pieh">
 				<img src="https://avatars.githubusercontent.com/u/419821?s=72&u=07527b928c3f4456e471633b73c74f7c7b5ee7db&v=4" width="24" alt="Avatar of pieh"> pieh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pieh">Copy rank badge</a><br/>
 			Michal Piechowiak
 		</td>
 		<td>@netlify </td>
@@ -2618,7 +2620,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tilk">
 				<img src="https://avatars.githubusercontent.com/u/509167?s=72&v=4" width="24" alt="Avatar of tilk"> tilk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tilk">Copy rank badge</a><br/>
 			Marek Materzok
 		</td>
 		<td>University Of Wrocław </td>
@@ -2631,7 +2633,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wokalski">
 				<img src="https://avatars.githubusercontent.com/u/1693190?s=72&u=d4a35ccbeef48976bf3d5b48200afa2ab81a4e1b&v=4" width="24" alt="Avatar of wokalski"> wokalski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wokalski">Copy rank badge</a><br/>
 			Wojtek Czekalski
 		</td>
 		<td>@dialohq </td>
@@ -2644,7 +2646,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tranzystorekk">
 				<img src="https://avatars.githubusercontent.com/u/5671049?s=72&u=0dcaa0cec9b087049268f34f6f9026abb8006e54&v=4" width="24" alt="Avatar of tranzystorekk"> tranzystorekk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tranzystorekk">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2657,7 +2659,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Azgaar">
 				<img src="https://avatars.githubusercontent.com/u/26469650?s=72&u=9691bf34ce66f151e9900586c14fec80a7de55cf&v=4" width="24" alt="Avatar of Azgaar"> Azgaar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Azgaar">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2670,7 +2672,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/trag1c">
 				<img src="https://avatars.githubusercontent.com/u/77130613?s=72&u=fe78c14962d6f033312caf25f9d9664e383b9dde&v=4" width="24" alt="Avatar of trag1c"> trag1c
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#trag1c">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@nokia @ghostty-org </td>
@@ -2683,7 +2685,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DoomHammer">
 				<img src="https://avatars.githubusercontent.com/u/695373?s=72&v=4" width="24" alt="Avatar of DoomHammer"> DoomHammer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DoomHammer">Copy rank badge</a><br/>
 			Piotr Gaczkowski
 		</td>
 		<td>No Company</td>
@@ -2696,7 +2698,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lenhattung">
 				<img src="https://avatars.githubusercontent.com/u/49211930?s=72&u=50ab65dfaf821da9bb20f4e6f04b83fe290f61c9&v=4" width="24" alt="Avatar of lenhattung"> lenhattung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lenhattung">Copy rank badge</a><br/>
 			Le Nhat Tung
 		</td>
 		<td>Founder At Titv -<br/>Https://titv.vn<br/></td>
@@ -2709,7 +2711,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/qarmin">
 				<img src="https://avatars.githubusercontent.com/u/41945903?s=72&u=7bcfa6e94f1e5ef313f572341d449b284f5ca1cf&v=4" width="24" alt="Avatar of qarmin"> qarmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#qarmin">Copy rank badge</a><br/>
 			Rafał Mikrut
 		</td>
 		<td>No Company</td>
@@ -2722,7 +2724,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pbrudny">
 				<img src="https://avatars.githubusercontent.com/u/29052?s=72&u=2d5c6236499b49e470a816a50df62e16b910332b&v=4" width="24" alt="Avatar of pbrudny"> pbrudny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pbrudny">Copy rank badge</a><br/>
 			Piotr Brudny
 		</td>
 		<td>Jobsforit.de </td>
@@ -2735,7 +2737,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/yarolegovich">
 				<img src="https://avatars.githubusercontent.com/u/9644546?s=72&u=e0114929637474f7262447f7a67b767138a61f5a&v=4" width="24" alt="Avatar of yarolegovich"> yarolegovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#yarolegovich">Copy rank badge</a><br/>
 			Yaroslav
 		</td>
 		<td>@google </td>
@@ -2748,7 +2750,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tomekzaw">
 				<img src="https://avatars.githubusercontent.com/u/20516055?s=72&u=22ec7348c6d9b56448d1eca9a2424280aafd9ea6&v=4" width="24" alt="Avatar of tomekzaw"> tomekzaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tomekzaw">Copy rank badge</a><br/>
 			Tomasz Zawadzki
 		</td>
 		<td>@software-mansion </td>
@@ -2761,7 +2763,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MarshalX">
 				<img src="https://avatars.githubusercontent.com/u/15520314?s=72&u=314075534fae487a02425e6385e32ee8525d01e8&v=4" width="24" alt="Avatar of MarshalX"> MarshalX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MarshalX">Copy rank badge</a><br/>
 			Ilya Siamionau
 		</td>
 		<td>@datadog </td>
@@ -2774,7 +2776,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KrzaQ">
 				<img src="https://avatars.githubusercontent.com/u/1174663?s=72&u=a22f7ca1c4cff18fac10e8c3b9115859b6d061a9&v=4" width="24" alt="Avatar of KrzaQ"> KrzaQ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KrzaQ">Copy rank badge</a><br/>
 			Paweł Zakrzewski
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/marcinbunsch">
 				<img src="https://avatars.githubusercontent.com/u/65431?s=72&u=6afea47cd247fc3bf8a0ba3379df36bf117fae41&v=4" width="24" alt="Avatar of marcinbunsch"> marcinbunsch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#marcinbunsch">Copy rank badge</a><br/>
 			Marcin Bunsch
 		</td>
 		<td>Breakout Learning </td>
@@ -2800,7 +2802,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rkujawa">
 				<img src="https://avatars.githubusercontent.com/u/2439472?s=72&v=4" width="24" alt="Avatar of rkujawa"> rkujawa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rkujawa">Copy rank badge</a><br/>
 			Radosław Kujawa
 		</td>
 		<td>@linkercloud, @sakura-it </td>
@@ -2813,7 +2815,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/okwasniewski">
 				<img src="https://avatars.githubusercontent.com/u/52801365?s=72&u=199c0a3a6e213b1ac933b53008f779bec67192d7&v=4" width="24" alt="Avatar of okwasniewski"> okwasniewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#okwasniewski">Copy rank badge</a><br/>
 			Oskar Kwaśniewski
 		</td>
 		<td>No Company</td>
@@ -2826,7 +2828,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bkaankose">
 				<img src="https://avatars.githubusercontent.com/u/12009960?s=72&u=b74a6b24cc577cb46e282dbd7039749a87ec02ce&v=4" width="24" alt="Avatar of bkaankose"> bkaankose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bkaankose">Copy rank badge</a><br/>
 			Burak Kaan Köse
 		</td>
 		<td>Avanade </td>
@@ -2839,7 +2841,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Krzyhau">
 				<img src="https://avatars.githubusercontent.com/u/16310330?s=72&u=580b227ec4e6303bce51ddcfaec7b746c4f24238&v=4" width="24" alt="Avatar of Krzyhau"> Krzyhau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Krzyhau">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nnixaa">
 				<img src="https://avatars.githubusercontent.com/u/230527?s=72&u=4a1d92afd5f05ce4a4598a82efd6baecb99920ea&v=4" width="24" alt="Avatar of nnixaa"> nnixaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nnixaa">Copy rank badge</a><br/>
 			Dmitry Nehaychik
 		</td>
 		<td>@uibakery   </td>
@@ -2865,7 +2867,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/codcreater1">
 				<img src="https://avatars.githubusercontent.com/u/141832088?s=72&u=942243fd9e1a5a0f4ace1fff4cbb10a7b4019a2d&v=4" width="24" alt="Avatar of codcreater1"> codcreater1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#codcreater1">Copy rank badge</a><br/>
 			Murat Can
 		</td>
 		<td>No Company</td>
@@ -2878,7 +2880,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jgonet">
 				<img src="https://avatars.githubusercontent.com/u/12465392?s=72&u=2026b4dfdbd26679707bc2db125b098ce91aef8c&v=4" width="24" alt="Avatar of jgonet"> jgonet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jgonet">Copy rank badge</a><br/>
 			Jakub Gonet
 		</td>
 		<td>@software-mansion  </td>
@@ -2891,7 +2893,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mostlyobvious">
 				<img src="https://avatars.githubusercontent.com/u/116740?s=72&u=5e83e26edab29f99d2f21d92aaef145f3c274e81&v=4" width="24" alt="Avatar of mostlyobvious"> mostlyobvious
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mostlyobvious">Copy rank badge</a><br/>
 			Paweł Pacana
 		</td>
 		<td>No Company</td>
@@ -2904,7 +2906,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/itbeard">
 				<img src="https://avatars.githubusercontent.com/u/45439635?s=72&u=fd0884ca4247e43ddcc63d3b947f221d51f6ba84&v=4" width="24" alt="Avatar of itbeard"> itbeard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#itbeard">Copy rank badge</a><br/>
 			Lex "IT Beard" Kartynnik
 		</td>
 		<td>Youtube, Evocoders, Junie </td>
@@ -2917,7 +2919,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/naugtur">
 				<img src="https://avatars.githubusercontent.com/u/509375?s=72&u=55f776984d12b256ee7bb30aa105fc726ecfcb50&v=4" width="24" alt="Avatar of naugtur"> naugtur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#naugtur">Copy rank badge</a><br/>
 			Zbyszek Tenerowicz
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jpudysz">
 				<img src="https://avatars.githubusercontent.com/u/9088288?s=72&u=0671237a03fee7fd345f53d9a8243d713e5c445d&v=4" width="24" alt="Avatar of jpudysz"> jpudysz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jpudysz">Copy rank badge</a><br/>
 			Jacek Pudysz
 		</td>
 		<td>Codemask </td>
@@ -2943,7 +2945,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Igloczek">
 				<img src="https://avatars.githubusercontent.com/u/5119280?s=72&u=ecc1bc5b85dedfa188c082464cd5ef4f6fc3bd3f&v=4" width="24" alt="Avatar of Igloczek"> Igloczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Igloczek">Copy rank badge</a><br/>
 			Bartek Igielski
 		</td>
 		<td>No Company</td>
@@ -2956,7 +2958,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/j-g00da">
 				<img src="https://avatars.githubusercontent.com/u/128227338?s=72&u=3971f966c9882e65f32db90cc0e071a9ab9b3490&v=4" width="24" alt="Avatar of j-g00da"> j-g00da
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#j-g00da">Copy rank badge</a><br/>
 			j-g00da
 		</td>
 		<td>@archlinux @chatmail @ratatui </td>
@@ -2969,7 +2971,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kzuraw">
 				<img src="https://avatars.githubusercontent.com/u/9116238?s=72&u=2e45d5d4a6454eed945ca8a296536d85f725b8f0&v=4" width="24" alt="Avatar of kzuraw"> kzuraw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kzuraw">Copy rank badge</a><br/>
 			Krzysztof Żuraw
 		</td>
 		<td>No Company</td>
@@ -2982,7 +2984,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mkuthan">
 				<img src="https://avatars.githubusercontent.com/u/1560526?s=72&v=4" width="24" alt="Avatar of mkuthan"> mkuthan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mkuthan">Copy rank badge</a><br/>
 			Marcin Kuthan
 		</td>
 		<td>No Company</td>
@@ -2995,7 +2997,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/spatulatom">
 				<img src="https://avatars.githubusercontent.com/u/40583214?s=72&u=4c533d67f5df04ebffc3cbc95ce85e6bc25795cc&v=4" width="24" alt="Avatar of spatulatom"> spatulatom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#spatulatom">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3008,7 +3010,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sp5wwp">
 				<img src="https://avatars.githubusercontent.com/u/44336093?s=72&u=2d7ba239096fd134096525ce0e88959f3545e231&v=4" width="24" alt="Avatar of sp5wwp"> sp5wwp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sp5wwp">Copy rank badge</a><br/>
 			Wojciech Kaczmarski
 		</td>
 		<td>M17 Foundation </td>
@@ -3021,7 +3023,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/maks-rafalko">
 				<img src="https://avatars.githubusercontent.com/u/3725595?s=72&u=6a51065b7ccac83a60ba8c1f05621004e3d95078&v=4" width="24" alt="Avatar of maks-rafalko"> maks-rafalko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#maks-rafalko">Copy rank badge</a><br/>
 			Maks Rafalko
 		</td>
 		<td>@infection  </td>
@@ -3034,7 +3036,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilkisiela">
 				<img src="https://avatars.githubusercontent.com/u/8167190?s=72&u=d6fb3b26298a4a6174630019a50247dad2c670b6&v=4" width="24" alt="Avatar of kamilkisiela"> kamilkisiela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilkisiela">Copy rank badge</a><br/>
 			Kamil Kisiela
 		</td>
 		<td>@the-guild-org </td>
@@ -3047,7 +3049,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/avatorl">
 				<img src="https://avatars.githubusercontent.com/u/59934292?s=72&u=7cc3719cce9c12c8a8823487a82c169f670834a8&v=4" width="24" alt="Avatar of avatorl"> avatorl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#avatorl">Copy rank badge</a><br/>
 			Andrzej Leszkiewicz
 		</td>
 		<td>No Company</td>
@@ -3060,7 +3062,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/widmogrod">
 				<img src="https://avatars.githubusercontent.com/u/164249?s=72&v=4" width="24" alt="Avatar of widmogrod"> widmogrod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#widmogrod">Copy rank badge</a><br/>
 			Gabriel Habryn
 		</td>
 		<td>No Company</td>
@@ -3073,7 +3075,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/imLinguin">
 				<img src="https://avatars.githubusercontent.com/u/62100117?s=72&u=4c84adc9f5eda60325344c4fef36906930ac8cd9&v=4" width="24" alt="Avatar of imLinguin"> imLinguin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#imLinguin">Copy rank badge</a><br/>
 			Paweł Lidwin
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Kubuxu">
 				<img src="https://avatars.githubusercontent.com/u/2259282?s=72&v=4" width="24" alt="Avatar of Kubuxu"> Kubuxu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Kubuxu">Copy rank badge</a><br/>
 			Jakub Sztandera
 		</td>
 		<td>Protocol Labs </td>
@@ -3099,7 +3101,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gziolo">
 				<img src="https://avatars.githubusercontent.com/u/699132?s=72&u=f37a9d5ab9b8bd429780db87fe385a1eb4cdcff0&v=4" width="24" alt="Avatar of gziolo"> gziolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gziolo">Copy rank badge</a><br/>
 			Greg Ziółkowski
 		</td>
 		<td>@automattic </td>
@@ -3112,7 +3114,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mati865">
 				<img src="https://avatars.githubusercontent.com/u/1174646?s=72&v=4" width="24" alt="Avatar of mati865"> mati865
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mati865">Copy rank badge</a><br/>
 			Mateusz Mikuła
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/arturbien">
 				<img src="https://avatars.githubusercontent.com/u/28541613?s=72&u=9af10f9895cf814d272bd3594b1ec18160f878c4&v=4" width="24" alt="Avatar of arturbien"> arturbien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#arturbien">Copy rank badge</a><br/>
 			Artur Bień
 		</td>
 		<td>No Company</td>
@@ -3138,7 +3140,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/solnic">
 				<img src="https://avatars.githubusercontent.com/u/1066?s=72&v=4" width="24" alt="Avatar of solnic"> solnic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#solnic">Copy rank badge</a><br/>
 			Peter Solnica
 		</td>
 		<td>@getsentry </td>
@@ -3151,7 +3153,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PeterPorzuczek">
 				<img src="https://avatars.githubusercontent.com/u/24259570?s=72&u=915f556f8e62cf46ca1def9a68dc10e05b35ddc6&v=4" width="24" alt="Avatar of PeterPorzuczek"> PeterPorzuczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PeterPorzuczek">Copy rank badge</a><br/>
 			Piotr Porzuczek
 		</td>
 		<td>@neo-3809940taa </td>
@@ -3164,7 +3166,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nurkiewicz">
 				<img src="https://avatars.githubusercontent.com/u/164045?s=72&v=4" width="24" alt="Avatar of nurkiewicz"> nurkiewicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nurkiewicz">Copy rank badge</a><br/>
 			Tomasz Nurkiewicz
 		</td>
 		<td>Monday.com </td>
@@ -3177,7 +3179,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/aradzie">
 				<img src="https://avatars.githubusercontent.com/u/44386?s=72&u=512ca7ae7ddc8a161078305af8709efb11f6d2ba&v=4" width="24" alt="Avatar of aradzie"> aradzie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#aradzie">Copy rank badge</a><br/>
 			Aliaksandr Radzivanovich
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alufers">
 				<img src="https://avatars.githubusercontent.com/u/5400940?s=72&v=4" width="24" alt="Avatar of alufers"> alufers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alufers">Copy rank badge</a><br/>
 			Albert Koczy
 		</td>
 		<td>Vitalthings </td>
@@ -3203,7 +3205,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/psmyrdek">
 				<img src="https://avatars.githubusercontent.com/u/6187417?s=72&u=ee70db4bd3b5d087031ec54a14e8214131275e73&v=4" width="24" alt="Avatar of psmyrdek"> psmyrdek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#psmyrdek">Copy rank badge</a><br/>
 			Przemek Smyrdek
 		</td>
 		<td>Przeprogramowani </td>
@@ -3216,7 +3218,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/szdziedzic">
 				<img src="https://avatars.githubusercontent.com/u/55145344?s=72&u=d000966b485f4145b09d8a9127509d82b0e2d9fb&v=4" width="24" alt="Avatar of szdziedzic"> szdziedzic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#szdziedzic">Copy rank badge</a><br/>
 			Szymon Dziedzic
 		</td>
 		<td>@expo </td>
@@ -3229,7 +3231,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojtekmach">
 				<img src="https://avatars.githubusercontent.com/u/76071?s=72&v=4" width="24" alt="Avatar of wojtekmach"> wojtekmach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojtekmach">Copy rank badge</a><br/>
 			Wojtek Mach
 		</td>
 		<td>@dashbitco   </td>
@@ -3242,7 +3244,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Horusiath">
 				<img src="https://avatars.githubusercontent.com/u/679705?s=72&u=1045fdc27b9420a8101a5f573728b3032fd4b208&v=4" width="24" alt="Avatar of Horusiath"> Horusiath
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Horusiath">Copy rank badge</a><br/>
 			Bartosz Sypytkowski
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/damianszczepanik">
 				<img src="https://avatars.githubusercontent.com/u/9612911?s=72&v=4" width="24" alt="Avatar of damianszczepanik"> damianszczepanik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#damianszczepanik">Copy rank badge</a><br/>
 			Damian Szczepanik
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dzmitry-varabei">
 				<img src="https://avatars.githubusercontent.com/u/2429680?s=72&u=cefc71eaceffd3ccf68ce6c738d0026eb3accb20&v=4" width="24" alt="Avatar of dzmitry-varabei"> dzmitry-varabei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dzmitry-varabei">Copy rank badge</a><br/>
 			Dzmitry Varabei
 		</td>
 		<td>No Company</td>
@@ -3281,7 +3283,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/vladholubiev">
 				<img src="https://avatars.githubusercontent.com/u/3817380?s=72&u=3bec36287492a0033a0fa49252d505e04dc32722&v=4" width="24" alt="Avatar of vladholubiev"> vladholubiev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#vladholubiev">Copy rank badge</a><br/>
 			Vladyslav Holubiev
 		</td>
 		<td>@shelfio  </td>
@@ -3294,7 +3296,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Ph0enixKM">
 				<img src="https://avatars.githubusercontent.com/u/29208124?s=72&u=42dede45c77fcc958d0634860cea8c4615bef653&v=4" width="24" alt="Avatar of Ph0enixKM"> Ph0enixKM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Ph0enixKM">Copy rank badge</a><br/>
 			Paweł Karaś
 		</td>
 		<td>@amber-lang </td>
@@ -3307,7 +3309,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TheLastGimbus">
 				<img src="https://avatars.githubusercontent.com/u/40139196?s=72&u=e56cb6ceef91c5c6f34c2227fc95c78e34f5e60e&v=4" width="24" alt="Avatar of TheLastGimbus"> TheLastGimbus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TheLastGimbus">Copy rank badge</a><br/>
 			Mateusz Soszyński
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kubkon">
 				<img src="https://avatars.githubusercontent.com/u/1519747?s=72&u=242eb0dcd1841303f3f48919c2f5120d35900f50&v=4" width="24" alt="Avatar of kubkon"> kubkon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kubkon">Copy rank badge</a><br/>
 			Jakub Konka
 		</td>
 		<td>@zed-industries </td>
@@ -3333,7 +3335,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cziter15">
 				<img src="https://avatars.githubusercontent.com/u/5003708?s=72&u=a3374ec6f8ed8d656f3b0ff2cea2c9bbf82ee9ce&v=4" width="24" alt="Avatar of cziter15"> cziter15
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cziter15">Copy rank badge</a><br/>
 			Krzysztof Strehlau
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ivasik-k7">
 				<img src="https://avatars.githubusercontent.com/u/59869036?s=72&u=fa58f9b70eec621b1034edc06e7ae4d3078ea6de&v=4" width="24" alt="Avatar of ivasik-k7"> ivasik-k7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ivasik-k7">Copy rank badge</a><br/>
 			Ivan
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/retyui">
 				<img src="https://avatars.githubusercontent.com/u/4661784?s=72&u=bd9c9cdd377e595ec49e9715ea86203c02334cfc&v=4" width="24" alt="Avatar of retyui"> retyui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#retyui">Copy rank badge</a><br/>
 			Davyd NRB
 		</td>
 		<td>Callstack </td>
@@ -3372,7 +3374,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mwydmuch">
 				<img src="https://avatars.githubusercontent.com/u/8513199?s=72&u=224ee05fa0f463020ea471be544459c091723954&v=4" width="24" alt="Avatar of mwydmuch"> mwydmuch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mwydmuch">Copy rank badge</a><br/>
 			Marek Wydmuch
 		</td>
 		<td>Snowflake / Poznan University<br/>Of<br/>Technology<br/>/<br/>Ml<br/>In<br/>Pl<br/>/<br/>Farama<br/>Foundation<br/></td>
@@ -3385,7 +3387,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tgrabiec">
 				<img src="https://avatars.githubusercontent.com/u/283695?s=72&u=8a8e29d8cf4a17744e9c6670132ecb4ccaf820d6&v=4" width="24" alt="Avatar of tgrabiec"> tgrabiec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tgrabiec">Copy rank badge</a><br/>
 			Tomasz Grabiec
 		</td>
 		<td>Scylladb </td>
@@ -3398,7 +3400,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/drybjed">
 				<img src="https://avatars.githubusercontent.com/u/1043958?s=72&u=3094c8830e233b25445986095762b39f6b80e209&v=4" width="24" alt="Avatar of drybjed"> drybjed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#drybjed">Copy rank badge</a><br/>
 			Maciej Delmanowski
 		</td>
 		<td>Comp S.a. </td>
@@ -3411,7 +3413,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AdrianEddy">
 				<img src="https://avatars.githubusercontent.com/u/3849067?s=72&u=9a723b83b3cf1e348176c9169a3e6b3dc66679f3&v=4" width="24" alt="Avatar of AdrianEddy"> AdrianEddy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AdrianEddy">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Netnave Studio </td>
@@ -3424,7 +3426,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mgol">
 				<img src="https://avatars.githubusercontent.com/u/1758366?s=72&u=b8bbaee0cb1861098456b83b8674e0a6897fc9f3&v=4" width="24" alt="Avatar of mgol"> mgol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mgol">Copy rank badge</a><br/>
 			Michał Gołębiowski-Owczarek
 		</td>
 		<td>@asana, @jquery </td>
@@ -3437,7 +3439,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/roma-glushko">
 				<img src="https://avatars.githubusercontent.com/u/9402690?s=72&u=b02d02989f95db6b31df27c9aee72b8081b71ab8&v=4" width="24" alt="Avatar of roma-glushko"> roma-glushko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#roma-glushko">Copy rank badge</a><br/>
 			Roma Hlushko
 		</td>
 		<td>@nvidia </td>
@@ -3450,7 +3452,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/theoneandonlywoj">
 				<img src="https://avatars.githubusercontent.com/u/23722848?s=72&u=6c51c2c702584de5113516a259f7d0eb740f1acc&v=4" width="24" alt="Avatar of theoneandonlywoj"> theoneandonlywoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#theoneandonlywoj">Copy rank badge</a><br/>
 			Wojciech Orzechowski
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/4IceG">
 				<img src="https://avatars.githubusercontent.com/u/59826889?s=72&u=8945bed56ae656d0f4ef285c8ecbbc2c2a89a621&v=4" width="24" alt="Avatar of 4IceG"> 4IceG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#4IceG">Copy rank badge</a><br/>
 			Rafał Wabik
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/behenate">
 				<img src="https://avatars.githubusercontent.com/u/31368152?s=72&u=598d305a15f19403d86f17488adc007a9e23aafe&v=4" width="24" alt="Avatar of behenate"> behenate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#behenate">Copy rank badge</a><br/>
 			Wojciech Dróżdż
 		</td>
 		<td>Agh University Of Science<br/>And<br/>Technology,<br/>@software-mansion<br/></td>
@@ -3489,7 +3491,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/s-KaiNet">
 				<img src="https://avatars.githubusercontent.com/u/10658276?s=72&u=15bfc5d6e2243724c9d07cd5c7f3a39b7dea0854&v=4" width="24" alt="Avatar of s-KaiNet"> s-KaiNet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#s-KaiNet">Copy rank badge</a><br/>
 			Sergei Sergeev
 		</td>
 		<td>Independent </td>
@@ -3502,7 +3504,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/patrykorwat">
 				<img src="https://avatars.githubusercontent.com/u/1073936?s=72&u=714ea1f4fd04a2c083f3b9bee05cc245c327962e&v=4" width="24" alt="Avatar of patrykorwat"> patrykorwat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#patrykorwat">Copy rank badge</a><br/>
 			Patryk Orwat
 		</td>
 		<td>@nokia </td>
@@ -3515,7 +3517,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/felipeelias">
 				<img src="https://avatars.githubusercontent.com/u/24556?s=72&u=00fdd2f9f14cd548266af2ec5ef9f8eb39fc38a7&v=4" width="24" alt="Avatar of felipeelias"> felipeelias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#felipeelias">Copy rank badge</a><br/>
 			Felipe Philipp
 		</td>
 		<td>@clipboardhealth  </td>
@@ -3528,7 +3530,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kacperlukawski">
 				<img src="https://avatars.githubusercontent.com/u/2649301?s=72&u=5e688d2b90ddcafd5028a9da292010144cad6d18&v=4" width="24" alt="Avatar of kacperlukawski"> kacperlukawski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kacperlukawski">Copy rank badge</a><br/>
 			Kacper Łukawski
 		</td>
 		<td>No Company</td>
@@ -3541,7 +3543,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojciech-kulik">
 				<img src="https://avatars.githubusercontent.com/u/3128467?s=72&u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4" width="24" alt="Avatar of wojciech-kulik"> wojciech-kulik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojciech-kulik">Copy rank badge</a><br/>
 			Wojciech Kulik
 		</td>
 		<td>Snippety.app </td>
@@ -3554,7 +3556,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mattpap">
 				<img src="https://avatars.githubusercontent.com/u/27475?s=72&v=4" width="24" alt="Avatar of mattpap"> mattpap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mattpap">Copy rank badge</a><br/>
 			Mateusz Paprocki
 		</td>
 		<td>Available For Hire </td>
@@ -3567,7 +3569,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jhomlala">
 				<img src="https://avatars.githubusercontent.com/u/1329033?s=72&u=41fa42ef1a8bef6e6ef9360d2c822b1ac37d695f&v=4" width="24" alt="Avatar of jhomlala"> jhomlala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jhomlala">Copy rank badge</a><br/>
 			Jakub Homlala
 		</td>
 		<td>Olx </td>
@@ -3580,7 +3582,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kacperkapusciak">
 				<img src="https://avatars.githubusercontent.com/u/39658211?s=72&u=37d974ed0f61a0c85da669c74e7dad8874a06234&v=4" width="24" alt="Avatar of kacperkapusciak"> kacperkapusciak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kacperkapusciak">Copy rank badge</a><br/>
 			Kacper Kapuściak
 		</td>
 		<td>Software Mansion </td>
@@ -3593,7 +3595,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mbiesiad">
 				<img src="https://avatars.githubusercontent.com/u/18367606?s=72&u=211a5f850d9947917c63b53e5e63f2257ea6bd3d&v=4" width="24" alt="Avatar of mbiesiad"> mbiesiad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mbiesiad">Copy rank badge</a><br/>
 			Michal Biesiada
 		</td>
 		<td>No Company</td>
@@ -3606,7 +3608,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/janisozaur">
 				<img src="https://avatars.githubusercontent.com/u/550290?s=72&v=4" width="24" alt="Avatar of janisozaur"> janisozaur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#janisozaur">Copy rank badge</a><br/>
 			Michał Janiszewski
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mloskot">
 				<img src="https://avatars.githubusercontent.com/u/80741?s=72&u=14260057b96f513704f55f35a1fe623a0b921872&v=4" width="24" alt="Avatar of mloskot"> mloskot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mloskot">Copy rank badge</a><br/>
 			Mateusz Łoskot
 		</td>
 		<td>@nec-corp </td>
@@ -3632,7 +3634,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/w84death">
 				<img src="https://avatars.githubusercontent.com/u/2567162?s=72&u=6fb2e06731bd1f74f87df2d9aade9e872a78d61a&v=4" width="24" alt="Avatar of w84death"> w84death
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#w84death">Copy rank badge</a><br/>
 			Krzysztof Krystian Jankowski
 		</td>
 		<td>P1x </td>
@@ -3645,7 +3647,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cassiodeveloper">
 				<img src="https://avatars.githubusercontent.com/u/2001658?s=72&u=a0e369b748c9d8cfe8d91c9cd4d5879ca049e719&v=4" width="24" alt="Avatar of cassiodeveloper"> cassiodeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cassiodeveloper">Copy rank badge</a><br/>
 			Cássio B. Pereira
 		</td>
 		<td>@stonex </td>
@@ -3658,7 +3660,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Ys-sudo">
 				<img src="https://avatars.githubusercontent.com/u/57189926?s=72&u=22c41381e77c1cf843d82b93407001a63be2d5aa&v=4" width="24" alt="Avatar of Ys-sudo"> Ys-sudo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Ys-sudo">Copy rank badge</a><br/>
 			George Lazaridis
 		</td>
 		<td>@coded-letter </td>
@@ -3671,7 +3673,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Kyiro">
 				<img src="https://avatars.githubusercontent.com/u/54126666?s=72&u=5ecb8892e0df224238c3b6b57c5174bbf7cfd225&v=4" width="24" alt="Avatar of Kyiro"> Kyiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Kyiro">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3684,7 +3686,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilmazurek">
 				<img src="https://avatars.githubusercontent.com/u/42776173?s=72&u=e078e1bfb662aba902007c6de1fa440262fec417&v=4" width="24" alt="Avatar of kamilmazurek"> kamilmazurek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilmazurek">Copy rank badge</a><br/>
 			Kamil Mazurek
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/davidondrej">
 				<img src="https://avatars.githubusercontent.com/u/131768515?s=72&u=a0ca2f0dd0eb04824013186b4eb244db51bfd946&v=4" width="24" alt="Avatar of davidondrej"> davidondrej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#davidondrej">Copy rank badge</a><br/>
 			David Ondrej
 		</td>
 		<td>No Company</td>
@@ -3710,7 +3712,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piotrkulpinski">
 				<img src="https://avatars.githubusercontent.com/u/358412?s=72&v=4" width="24" alt="Avatar of piotrkulpinski"> piotrkulpinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piotrkulpinski">Copy rank badge</a><br/>
 			Piotr Kulpinski
 		</td>
 		<td>No Company</td>
@@ -3723,7 +3725,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kuba2k2">
 				<img src="https://avatars.githubusercontent.com/u/30433568?s=72&v=4" width="24" alt="Avatar of kuba2k2"> kuba2k2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kuba2k2">Copy rank badge</a><br/>
 			Kuba Szczodrzyński
 		</td>
 		<td>@szkolny-eu @libretiny-eu </td>
@@ -3736,7 +3738,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/LetItRock">
 				<img src="https://avatars.githubusercontent.com/u/2607232?s=72&u=877864044fd03d65a58204c2f57cf01088e69c0a&v=4" width="24" alt="Avatar of LetItRock"> LetItRock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#LetItRock">Copy rank badge</a><br/>
 			Paweł Tymczuk
 		</td>
 		<td>Novu </td>
@@ -3749,7 +3751,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Valian">
 				<img src="https://avatars.githubusercontent.com/u/3935986?s=72&u=bd5de272ed3df5037992dd9ce32c3f0865aed937&v=4" width="24" alt="Avatar of Valian"> Valian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Valian">Copy rank badge</a><br/>
 			Jakub Skałecki
 		</td>
 		<td>Mindnexus.dev </td>
@@ -3762,7 +3764,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gwiazdan">
 				<img src="https://avatars.githubusercontent.com/u/144944428?s=72&v=4" width="24" alt="Avatar of gwiazdan"> gwiazdan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gwiazdan">Copy rank badge</a><br/>
 			Norbert Gwiazda
 		</td>
 		<td>No Company</td>
@@ -3775,7 +3777,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hauleth">
 				<img src="https://avatars.githubusercontent.com/u/291639?s=72&u=f7e2114bbd4adf918ee846937e0f0521fdf26d25&v=4" width="24" alt="Avatar of hauleth"> hauleth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hauleth">Copy rank badge</a><br/>
 			Łukasz Jan Niemier
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/RaczeQ">
 				<img src="https://avatars.githubusercontent.com/u/17250607?s=72&u=650dc0b3c1958c0ba530086387fd15d615059d77&v=4" width="24" alt="Avatar of RaczeQ"> RaczeQ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#RaczeQ">Copy rank badge</a><br/>
 			Kamil Raczycki
 		</td>
 		<td>Dataplace.ai </td>
@@ -3801,7 +3803,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cube2222">
 				<img src="https://avatars.githubusercontent.com/u/7013055?s=72&u=6030373a95697afa5b2c796b8820d0a963a6c5e0&v=4" width="24" alt="Avatar of cube2222"> cube2222
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cube2222">Copy rank badge</a><br/>
 			Kuba Martin
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/VladSez">
 				<img src="https://avatars.githubusercontent.com/u/16666234?s=72&u=584242e3ef205d8db39420e15ea6417277b05197&v=4" width="24" alt="Avatar of VladSez"> VladSez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#VladSez">Copy rank badge</a><br/>
 			Vlad Sazonau
 		</td>
 		<td>No Company</td>
@@ -3827,7 +3829,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pjedrzejewski">
 				<img src="https://avatars.githubusercontent.com/u/614970?s=72&u=9cc9cfe90ee9254663e040ac567cd86ccd9bef7d&v=4" width="24" alt="Avatar of pjedrzejewski"> pjedrzejewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pjedrzejewski">Copy rank badge</a><br/>
 			Paweł Jędrzejewski
 		</td>
 		<td>@marketlum, @mavilabs </td>
@@ -3840,7 +3842,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alecpl">
 				<img src="https://avatars.githubusercontent.com/u/546788?s=72&u=dc11ee904d06487ded30ae8e3f38295900bf9ab2&v=4" width="24" alt="Avatar of alecpl"> alecpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alecpl">Copy rank badge</a><br/>
 			Aleksander Machniak
 		</td>
 		<td>No Company</td>
@@ -3853,7 +3855,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KarolChlasta">
 				<img src="https://avatars.githubusercontent.com/u/37190220?s=72&u=fe6110e3e9885d61d7004aaffc83c09413cf2096&v=4" width="24" alt="Avatar of KarolChlasta"> KarolChlasta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KarolChlasta">Copy rank badge</a><br/>
 			Karol Chlasta
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kmagiera">
 				<img src="https://avatars.githubusercontent.com/u/726445?s=72&u=eabd325b221a17a05f0b3d873c4aec544370ea6c&v=4" width="24" alt="Avatar of kmagiera"> kmagiera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kmagiera">Copy rank badge</a><br/>
 			Krzysztof Magiera
 		</td>
 		<td>@software-mansion  </td>
@@ -3879,7 +3881,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bgalek">
 				<img src="https://avatars.githubusercontent.com/u/2291045?s=72&v=4" width="24" alt="Avatar of bgalek"> bgalek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bgalek">Copy rank badge</a><br/>
 			Bartosz Gałek
 		</td>
 		<td>@netflix </td>
@@ -3892,7 +3894,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ClueSec">
 				<img src="https://avatars.githubusercontent.com/u/93116510?s=72&u=b8265c44f75bfd2143b3d617416a1ad0fb83153d&v=4" width="24" alt="Avatar of ClueSec"> ClueSec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ClueSec">Copy rank badge</a><br/>
 			Łukasz Bielaszewski
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/exelban">
 				<img src="https://avatars.githubusercontent.com/u/13332412?s=72&u=839d583ed658483af96a6fe40cd384d910522e1a&v=4" width="24" alt="Avatar of exelban"> exelban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#exelban">Copy rank badge</a><br/>
 			Serhiy Mytrovtsiy
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/razorjack">
 				<img src="https://avatars.githubusercontent.com/u/26290?s=72&u=ce439fe0a5f77c700a521ae51520ffe64a591c2c&v=4" width="24" alt="Avatar of razorjack"> razorjack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#razorjack">Copy rank badge</a><br/>
 			Jacek Galanciak
 		</td>
 		<td>Plane </td>
@@ -3931,7 +3933,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/paweljw">
 				<img src="https://avatars.githubusercontent.com/u/770796?s=72&u=3aa2c443761e0de7d2f6053d77526935fa26a21c&v=4" width="24" alt="Avatar of paweljw"> paweljw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#paweljw">Copy rank badge</a><br/>
 			Paweł J. Wal
 		</td>
 		<td>@betterstackhq </td>
@@ -3944,7 +3946,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rjaros">
 				<img src="https://avatars.githubusercontent.com/u/5646804?s=72&u=39b0513e9ee3b74eaa540a2b929fb70922da3ad5&v=4" width="24" alt="Avatar of rjaros"> rjaros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rjaros">Copy rank badge</a><br/>
 			Robert Jaros
 		</td>
 		<td>Treksoft </td>
@@ -3957,7 +3959,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kadyb">
 				<img src="https://avatars.githubusercontent.com/u/35004826?s=72&u=dcf17deb757e4972f25196a557f5f1be816080d9&v=4" width="24" alt="Avatar of kadyb"> kadyb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kadyb">Copy rank badge</a><br/>
 			Krzysztof Dyba
 		</td>
 		<td>Adam Mickiewicz University </td>
@@ -3970,7 +3972,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Friz-zy">
 				<img src="https://avatars.githubusercontent.com/u/870618?s=72&v=4" width="24" alt="Avatar of Friz-zy"> Friz-zy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Friz-zy">Copy rank badge</a><br/>
 			Filipp Frizzy
 		</td>
 		<td>Independent Entrepreneur </td>
@@ -3983,7 +3985,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kitze">
 				<img src="https://avatars.githubusercontent.com/u/1160594?s=72&u=1249aee990965d95db9d438501f417707462950a&v=4" width="24" alt="Avatar of kitze"> kitze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kitze">Copy rank badge</a><br/>
 			kitze 🚀
 		</td>
 		<td>Zekit </td>
@@ -3996,7 +3998,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AdrianOrlow">
 				<img src="https://avatars.githubusercontent.com/u/10941338?s=72&u=f863123217662c11293c32e0d68c8f8039941417&v=4" width="24" alt="Avatar of AdrianOrlow"> AdrianOrlow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AdrianOrlow">Copy rank badge</a><br/>
 			Adrian Orłów
 		</td>
 		<td>Founder @gi-org-pl </td>
@@ -4009,7 +4011,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tborzyszkowski">
 				<img src="https://avatars.githubusercontent.com/u/1172070?s=72&u=d44037185610dce02d7db22976cc34123cf071ea&v=4" width="24" alt="Avatar of tborzyszkowski"> tborzyszkowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tborzyszkowski">Copy rank badge</a><br/>
 			Tomasz Borzyszkowski
 		</td>
 		<td>University Of Gdańsk </td>
@@ -4022,7 +4024,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kkokosa">
 				<img src="https://avatars.githubusercontent.com/u/11159779?s=72&u=8d5b659370ce1996d81f6c867d0614dd59b59dc6&v=4" width="24" alt="Avatar of kkokosa"> kkokosa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kkokosa">Copy rank badge</a><br/>
 			Konrad Kokosa
 		</td>
 		<td>@microsoft  </td>
@@ -4035,7 +4037,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/micorix">
 				<img src="https://avatars.githubusercontent.com/u/20800459?s=72&u=86aa23cee5e566975dd1f6632d95740db5464385&v=4" width="24" alt="Avatar of micorix"> micorix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#micorix">Copy rank badge</a><br/>
 			Michał Oręziak
 		</td>
 		<td>Hiring? </td>
@@ -4048,7 +4050,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/annwoj">
 				<img src="https://avatars.githubusercontent.com/u/104991729?s=72&u=aa00b5796bcdcdde2aba65bd75dc35b85787f129&v=4" width="24" alt="Avatar of annwoj"> annwoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#annwoj">Copy rank badge</a><br/>
 			Anna Wojdyło
 		</td>
 		<td>Nordic Semiconductor </td>
@@ -4061,7 +4063,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dzikoysk">
 				<img src="https://avatars.githubusercontent.com/u/4235722?s=72&u=3a237cb01406c26c448c9911f8a69824dffb3166&v=4" width="24" alt="Avatar of dzikoysk"> dzikoysk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dzikoysk">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wtrocki">
 				<img src="https://avatars.githubusercontent.com/u/981838?s=72&u=58f8ad0ae003f8bc8d741a9c355420caeeff36d5&v=4" width="24" alt="Avatar of wtrocki"> wtrocki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wtrocki">Copy rank badge</a><br/>
 			Wojciech Trocki
 		</td>
 		<td>Mongodb </td>
@@ -4087,7 +4089,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ecosse3">
 				<img src="https://avatars.githubusercontent.com/u/17691791?s=72&u=146fc14f5c2b0a25690dead141fa44f58fd33376&v=4" width="24" alt="Avatar of ecosse3"> ecosse3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ecosse3">Copy rank badge</a><br/>
 			Łukasz Kurpiewski
 		</td>
 		<td>No Company</td>
@@ -4100,7 +4102,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jpc">
 				<img src="https://avatars.githubusercontent.com/u/107984?s=72&u=03a8a3f9cb360618eb9495d3ef7af4b89788b714&v=4" width="24" alt="Avatar of jpc"> jpc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jpc">Copy rank badge</a><br/>
 			Jakub Piotr Cłapa
 		</td>
 		<td>Hume Ai Inc. </td>
@@ -4113,7 +4115,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MateuszDabrowski">
 				<img src="https://avatars.githubusercontent.com/u/13339456?s=72&u=dcf24819530a44203c6300f1612569a86a1a30c3&v=4" width="24" alt="Avatar of MateuszDabrowski"> MateuszDabrowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MateuszDabrowski">Copy rank badge</a><br/>
 			Mateusz Dąbrowski
 		</td>
 		<td>Mateuszdabrowski.pl </td>
@@ -4126,7 +4128,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/aleqsio">
 				<img src="https://avatars.githubusercontent.com/u/5597580?s=72&u=cbdc2f1f865a63872c58417b7bbfd8614a342b1a&v=4" width="24" alt="Avatar of aleqsio"> aleqsio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#aleqsio">Copy rank badge</a><br/>
 			Alek Mikucki
 		</td>
 		<td>Software Mansion </td>
@@ -4139,7 +4141,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Bartek532">
 				<img src="https://avatars.githubusercontent.com/u/57185551?s=72&u=aeb803ef8d3944d8bed3115666a3c001ca39701c&v=4" width="24" alt="Avatar of Bartek532"> Bartek532
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Bartek532">Copy rank badge</a><br/>
 			Bartosz Zagrodzki
 		</td>
 		<td>@dropbox </td>
@@ -4152,7 +4154,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nabijaczleweli">
 				<img src="https://avatars.githubusercontent.com/u/6709544?s=72&u=d71325634cc3761400747849440ff8f8a84178b0&v=4" width="24" alt="Avatar of nabijaczleweli"> nabijaczleweli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nabijaczleweli">Copy rank badge</a><br/>
 			наб
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/awawa-dev">
 				<img src="https://avatars.githubusercontent.com/u/69086569?s=72&u=fac7b68d02b0b200de51cf46a3f79b44c8b17081&v=4" width="24" alt="Avatar of awawa-dev"> awawa-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#awawa-dev">Copy rank badge</a><br/>
 			Awawa
 		</td>
 		<td>No Company</td>
@@ -4178,7 +4180,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tomekw">
 				<img src="https://avatars.githubusercontent.com/u/198371?s=72&u=474fbb3bfbb5cb4b78898258d26cfc8e5c557ae9&v=4" width="24" alt="Avatar of tomekw"> tomekw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tomekw">Copy rank badge</a><br/>
 			Tomek Wałkuski
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/buddhi1980">
 				<img src="https://avatars.githubusercontent.com/u/11696990?s=72&u=9ca491d0493bd2cf324d900225eb30d2e7e503bd&v=4" width="24" alt="Avatar of buddhi1980"> buddhi1980
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#buddhi1980">Copy rank badge</a><br/>
 			Krzysztof Marczak
 		</td>
 		<td>N/a </td>
@@ -4204,7 +4206,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gikf">
 				<img src="https://avatars.githubusercontent.com/u/60067306?s=72&v=4" width="24" alt="Avatar of gikf"> gikf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gikf">Copy rank badge</a><br/>
 			Krzysztof G.
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gagolews">
 				<img src="https://avatars.githubusercontent.com/u/3193581?s=72&u=7841fa4d1dc6d833c8b5d67ec99dc469939d0f66&v=4" width="24" alt="Avatar of gagolews"> gagolews
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gagolews">Copy rank badge</a><br/>
 			Marek Gagolewski
 		</td>
 		<td>Warsaw University Of Technology<br/></td>
@@ -4230,7 +4232,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ZieIony">
 				<img src="https://avatars.githubusercontent.com/u/10180628?s=72&u=5a14710cbd65fd12f5f62a1802900351eab5ee34&v=4" width="24" alt="Avatar of ZieIony"> ZieIony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ZieIony">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wolfgarbe">
 				<img src="https://avatars.githubusercontent.com/u/7057583?s=72&u=27ae406dbba45ebd0e9dfc608bdcfe5baa740134&v=4" width="24" alt="Avatar of wolfgarbe"> wolfgarbe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wolfgarbe">Copy rank badge</a><br/>
 			Wolf Garbe
 		</td>
 		<td>Seekstorm </td>
@@ -4256,7 +4258,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/woywro">
 				<img src="https://avatars.githubusercontent.com/u/81762811?s=72&u=3ce5bd246c1f466f4c9fce18fcf709f26c48175a&v=4" width="24" alt="Avatar of woywro"> woywro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#woywro">Copy rank badge</a><br/>
 			Wojtek Wrotek
 		</td>
 		<td>@blazity </td>
@@ -4269,7 +4271,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ITomPoland">
 				<img src="https://avatars.githubusercontent.com/u/104223105?s=72&u=a1bfc7296c42633bedfa629b857824d3c0b1c896&v=4" width="24" alt="Avatar of ITomPoland"> ITomPoland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ITomPoland">Copy rank badge</a><br/>
 			Tomasz Szmajda
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/szkocot">
 				<img src="https://avatars.githubusercontent.com/u/478549?s=72&u=16d88d7190bb0db1693a1de3aaa43f47d1059c56&v=4" width="24" alt="Avatar of szkocot"> szkocot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#szkocot">Copy rank badge</a><br/>
 			Szymon Kocot
 		</td>
 		<td>No Company</td>
@@ -4295,7 +4297,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/swistaczek">
 				<img src="https://avatars.githubusercontent.com/u/13238?s=72&u=6c57af1ee359882c923b5a1d867941b988e21060&v=4" width="24" alt="Avatar of swistaczek"> swistaczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#swistaczek">Copy rank badge</a><br/>
 			Ernest Bursa
 		</td>
 		<td>Fourthwall, Inc. </td>
@@ -4308,7 +4310,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pjankiewicz">
 				<img src="https://avatars.githubusercontent.com/u/130572?s=72&v=4" width="24" alt="Avatar of pjankiewicz"> pjankiewicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pjankiewicz">Copy rank badge</a><br/>
 			Paweł Jankiewicz
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Comandeer">
 				<img src="https://avatars.githubusercontent.com/u/1078728?s=72&v=4" width="24" alt="Avatar of Comandeer"> Comandeer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Comandeer">Copy rank badge</a><br/>
 			Tomasz Jakut
 		</td>
 		<td>@cksource </td>
@@ -4334,7 +4336,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bartosz-io">
 				<img src="https://avatars.githubusercontent.com/u/8076187?s=72&u=651198f7bbf5c4674652d13d4651cdcba13e4b05&v=4" width="24" alt="Avatar of bartosz-io"> bartosz-io
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bartosz-io">Copy rank badge</a><br/>
 			Bartosz Pietrucha
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piotrwitek">
 				<img src="https://avatars.githubusercontent.com/u/739075?s=72&u=20a958978ed682661984e4d004f351380a51c4ac&v=4" width="24" alt="Avatar of piotrwitek"> piotrwitek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piotrwitek">Copy rank badge</a><br/>
 			Piotr Witek
 		</td>
 		<td>Oazo Apps </td>
@@ -4360,7 +4362,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krizzu">
 				<img src="https://avatars.githubusercontent.com/u/6444719?s=72&u=9ef7a292b2f9117b36752dc23ce6a6461cf69e6d&v=4" width="24" alt="Avatar of krizzu"> krizzu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krizzu">Copy rank badge</a><br/>
 			Krzysztof Borowy
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/emcifuntik">
 				<img src="https://avatars.githubusercontent.com/u/4309694?s=72&u=46e1245f3f149e6ceab34c0a1d0aaf3002555d9c&v=4" width="24" alt="Avatar of emcifuntik"> emcifuntik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#emcifuntik">Copy rank badge</a><br/>
 			Yauhen Pahrabniak
 		</td>
 		<td>Rockstar Games </td>
@@ -4386,7 +4388,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ales-tsurko">
 				<img src="https://avatars.githubusercontent.com/u/8686568?s=72&u=13824a6ce666cd36e530ea6d47be29b6f7d19cd6&v=4" width="24" alt="Avatar of ales-tsurko"> ales-tsurko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ales-tsurko">Copy rank badge</a><br/>
 			Ales Tsurko
 		</td>
 		<td>No Company</td>
@@ -4399,7 +4401,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/felixxm">
 				<img src="https://avatars.githubusercontent.com/u/2865885?s=72&u=0df0a3d45b6dae54e1d08e5b4aeb70201aa5d31c&v=4" width="24" alt="Avatar of felixxm"> felixxm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#felixxm">Copy rank badge</a><br/>
 			Mariusz Felisiak
 		</td>
 		<td>@divio </td>
@@ -4412,7 +4414,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Seo-yeonLee">
 				<img src="https://avatars.githubusercontent.com/u/214059097?s=72&u=50b15f536861401cd4cb3f15683f58d6b599db94&v=4" width="24" alt="Avatar of Seo-yeonLee"> Seo-yeonLee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Seo-yeonLee">Copy rank badge</a><br/>
 			Szymon
 		</td>
 		<td>Techpolish </td>
@@ -4425,7 +4427,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojtek-kalicinski">
 				<img src="https://avatars.githubusercontent.com/u/1135907?s=72&u=559258e71ebdbbd0e8a1ea85b5c67c4c9673f8e4&v=4" width="24" alt="Avatar of wojtek-kalicinski"> wojtek-kalicinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojtek-kalicinski">Copy rank badge</a><br/>
 			Wojtek Kaliciński
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bibixx">
 				<img src="https://avatars.githubusercontent.com/u/14880213?s=72&u=d018adfbbe82956faa067a3911127977ca2cf84f&v=4" width="24" alt="Avatar of bibixx"> bibixx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bibixx">Copy rank badge</a><br/>
 			Bartosz Legięć
 		</td>
 		<td>@craftdocs </td>
@@ -4451,7 +4453,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rafalp">
 				<img src="https://avatars.githubusercontent.com/u/750553?s=72&u=ca5943dbb0449800b8362ba7b4652deb3b2a5d1f&v=4" width="24" alt="Avatar of rafalp"> rafalp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rafalp">Copy rank badge</a><br/>
 			Rafał Pitoń
 		</td>
 		<td>Mobile Vikings </td>
@@ -4464,7 +4466,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jacklul">
 				<img src="https://avatars.githubusercontent.com/u/8418678?s=72&u=e61507783522a1c0972d15914ff36d44aa182ecf&v=4" width="24" alt="Avatar of jacklul"> jacklul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jacklul">Copy rank badge</a><br/>
 			Jack'lul
 		</td>
 		<td>No Company</td>
@@ -4477,7 +4479,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/syrex1013">
 				<img src="https://avatars.githubusercontent.com/u/31669127?s=72&u=d04fc6db960cd67c2878de44101f97e1ef5e7a6b&v=4" width="24" alt="Avatar of syrex1013"> syrex1013
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#syrex1013">Copy rank badge</a><br/>
 			Adrian Dacka
 		</td>
 		<td>Threatvector & @threatsoftware <br/></td>
@@ -4490,7 +4492,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/angrymouse">
 				<img src="https://avatars.githubusercontent.com/u/40735471?s=72&u=86ac590420571a5655b7bd48376ff3d741bca3dd&v=4" width="24" alt="Avatar of angrymouse"> angrymouse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#angrymouse">Copy rank badge</a><br/>
 			Nik Rykov
 		</td>
 		<td>Decentralized Society </td>
@@ -4503,7 +4505,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/JustArchi">
 				<img src="https://avatars.githubusercontent.com/u/1069029?s=72&u=4ce19ce8b6c04754a4b374da982f94c2729350e0&v=4" width="24" alt="Avatar of JustArchi"> JustArchi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#JustArchi">Copy rank badge</a><br/>
 			Łukasz Domeradzki
 		</td>
 		<td>@justarchinet @talkmore-dev @knowit Ex-@rocketsoftpl<br/></td>
@@ -4516,7 +4518,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SpacingBat3">
 				<img src="https://avatars.githubusercontent.com/u/57194920?s=72&v=4" width="24" alt="Avatar of SpacingBat3"> SpacingBat3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SpacingBat3">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>🎓 Agh Ust </td>
@@ -4529,7 +4531,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/LogvinovLeon">
 				<img src="https://avatars.githubusercontent.com/u/6204356?s=72&u=38d3259e570a464c8ba980fe6d560df36010d299&v=4" width="24" alt="Avatar of LogvinovLeon"> LogvinovLeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#LogvinovLeon">Copy rank badge</a><br/>
 			Leonid Logvinov
 		</td>
 		<td>No Company</td>
@@ -4542,7 +4544,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PythonicNinja">
 				<img src="https://avatars.githubusercontent.com/u/1098417?s=72&u=da882651f1344c1fb762d408988a8588ed847676&v=4" width="24" alt="Avatar of PythonicNinja"> PythonicNinja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PythonicNinja">Copy rank badge</a><br/>
 			Wojtek Nowak
 		</td>
 		<td>No Company</td>
@@ -4555,7 +4557,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nineinchnick">
 				<img src="https://avatars.githubusercontent.com/u/795177?s=72&u=e332f316f574cc7b59766fe2a3aa126005008664&v=4" width="24" alt="Avatar of nineinchnick"> nineinchnick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nineinchnick">Copy rank badge</a><br/>
 			Jan Waś
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wsparcie">
 				<img src="https://avatars.githubusercontent.com/u/78564645?s=72&u=5474c0594e759762ffcac7964369a68839397ebc&v=4" width="24" alt="Avatar of wsparcie"> wsparcie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wsparcie">Copy rank badge</a><br/>
 			Kamil SZ
 		</td>
 		<td>@solvro, @wroclaw-tech </td>
@@ -4581,7 +4583,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krzys-h">
 				<img src="https://avatars.githubusercontent.com/u/1517255?s=72&u=b76b3d1db6172e6b83d4178162ded8238d1e613b&v=4" width="24" alt="Avatar of krzys-h"> krzys-h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krzys-h">Copy rank badge</a><br/>
 			Krzysztof Haładyn (krzys_h)
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pie6k">
 				<img src="https://avatars.githubusercontent.com/u/7311462?s=72&u=bfd51d99536243402c528d1fe13567bc845f0205&v=4" width="24" alt="Avatar of pie6k"> pie6k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pie6k">Copy rank badge</a><br/>
 			Adam Pietrasiak
 		</td>
 		<td>Screen Studio </td>
@@ -4607,7 +4609,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pomianowski">
 				<img src="https://avatars.githubusercontent.com/u/13592821?s=72&u=7ce97b6873a14ecd0c39a9fc5ba35550f4583918&v=4" width="24" alt="Avatar of pomianowski"> pomianowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pomianowski">Copy rank badge</a><br/>
 			pomian
 		</td>
 		<td>@lepoco </td>
@@ -4620,7 +4622,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/neuronetio">
 				<img src="https://avatars.githubusercontent.com/u/25027696?s=72&u=36aa55e423dd8659f28d9430941584f71bc1422c&v=4" width="24" alt="Avatar of neuronetio"> neuronetio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#neuronetio">Copy rank badge</a><br/>
 			neuronet
 		</td>
 		<td>Neuronet </td>
@@ -4633,7 +4635,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Volmarg">
 				<img src="https://avatars.githubusercontent.com/u/37488679?s=72&u=2b85367283aff8bc20de19644713ceeb6fd0eba0&v=4" width="24" alt="Avatar of Volmarg"> Volmarg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Volmarg">Copy rank badge</a><br/>
 			Dariusz
 		</td>
 		<td>@os-cillation </td>
@@ -4646,7 +4648,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jaceklaskowski">
 				<img src="https://avatars.githubusercontent.com/u/62313?s=72&u=a4b1df9a19f5f6d702d8b85d4c4aa534ad448c50&v=4" width="24" alt="Avatar of jaceklaskowski"> jaceklaskowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jaceklaskowski">Copy rank badge</a><br/>
 			Jacek Laskowski
 		</td>
 		<td>Freelance Ai Engineer </td>
@@ -4659,7 +4661,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/OrestTa">
 				<img src="https://avatars.githubusercontent.com/u/830847?s=72&v=4" width="24" alt="Avatar of OrestTa"> OrestTa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#OrestTa">Copy rank badge</a><br/>
 			Orest Tarasiuk
 		</td>
 		<td>@t1protocol </td>
@@ -4672,7 +4674,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MatthewJakubowski">
 				<img src="https://avatars.githubusercontent.com/u/250630279?s=72&u=e4bb4463b5ad8ac01fdf05fe28ac381188003eeb&v=4" width="24" alt="Avatar of MatthewJakubowski"> MatthewJakubowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MatthewJakubowski">Copy rank badge</a><br/>
 			Mateusz Jakubowski
 		</td>
 		<td>Applied Machine Learning &<br/>Xai<br/></td>
@@ -4685,7 +4687,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dsonyy">
 				<img src="https://avatars.githubusercontent.com/u/25373558?s=72&u=5400e0a7604454b302ee5fa3e9b54196c8974b84&v=4" width="24" alt="Avatar of dsonyy"> dsonyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dsonyy">Copy rank badge</a><br/>
 			Szymon Bednorz
 		</td>
 		<td>@golf-mcp </td>
@@ -4698,7 +4700,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SzymonOzog">
 				<img src="https://avatars.githubusercontent.com/u/58388001?s=72&v=4" width="24" alt="Avatar of SzymonOzog"> SzymonOzog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SzymonOzog">Copy rank badge</a><br/>
 			Szymon Ożóg
 		</td>
 		<td>Nvidia </td>
@@ -4711,7 +4713,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PsichiX">
 				<img src="https://avatars.githubusercontent.com/u/2111867?s=72&u=6aee0b8a84f08d09da87814ae4152436eb09cedb&v=4" width="24" alt="Avatar of PsichiX"> PsichiX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PsichiX">Copy rank badge</a><br/>
 			Patryk Budzyński
 		</td>
 		<td>No Company</td>
@@ -4724,7 +4726,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TomaszWaszczyk">
 				<img src="https://avatars.githubusercontent.com/u/1605705?s=72&u=a0ccf1bda7ad3b6b5c208dee196d2c3d4d68a21f&v=4" width="24" alt="Avatar of TomaszWaszczyk"> TomaszWaszczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TomaszWaszczyk">Copy rank badge</a><br/>
 			Tomasz Waszczyk
 		</td>
 		<td>Real Life Matrix |<br/>Tomek@getalby.com<br/>Tomek.waszczyk.eth<br/></td>
@@ -4737,7 +4739,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mgajda">
 				<img src="https://avatars.githubusercontent.com/u/685529?s=72&u=639c786cdfe96e14a26c81b439960099f70ee9dd&v=4" width="24" alt="Avatar of mgajda"> mgajda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mgajda">Copy rank badge</a><br/>
 			Michał J. Gajda
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/suchov">
 				<img src="https://avatars.githubusercontent.com/u/1478985?s=72&u=48920d614a868e04b17d24e0d85e6a5cc65ac80f&v=4" width="24" alt="Avatar of suchov"> suchov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#suchov">Copy rank badge</a><br/>
 			Artem Sychov
 		</td>
 		<td>@corva-ai @kottans </td>
@@ -4763,7 +4765,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pawelkonior">
 				<img src="https://avatars.githubusercontent.com/u/1580820?s=72&u=4d8bb55abb9fcd8f77348facbc21f625dbb4067f&v=4" width="24" alt="Avatar of pawelkonior"> pawelkonior
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pawelkonior">Copy rank badge</a><br/>
 			Paweł Konior
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/stloyd">
 				<img src="https://avatars.githubusercontent.com/u/67402?s=72&u=58b9baf106b60676dcc637b6f13288bebbd371ca&v=4" width="24" alt="Avatar of stloyd"> stloyd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#stloyd">Copy rank badge</a><br/>
 			Joseph Bielawski
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/danielpacak">
 				<img src="https://avatars.githubusercontent.com/u/1322923?s=72&u=b5bf5c80a95df9ddb8c74cf556192e71b9b6fc44&v=4" width="24" alt="Avatar of danielpacak"> danielpacak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#danielpacak">Copy rank badge</a><br/>
 			Daniel Pacak
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hrw">
 				<img src="https://avatars.githubusercontent.com/u/185508?s=72&u=9fd50c0dbfc83bdc18d0d036b627fde3e9924beb&v=4" width="24" alt="Avatar of hrw"> hrw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hrw">Copy rank badge</a><br/>
 			Marcin Juszkiewicz
 		</td>
 		<td>Red Hat </td>
@@ -4815,7 +4817,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jnareb">
 				<img src="https://avatars.githubusercontent.com/u/2706?s=72&u=b09346f4bbf4915cdd1ed4c7a6109854ff551262&v=4" width="24" alt="Avatar of jnareb"> jnareb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jnareb">Copy rank badge</a><br/>
 			Jakub Narębski
 		</td>
 		<td>Nicolaus Copernicus University In<br/>Toruń<br/></td>
@@ -4828,7 +4830,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pczarn">
 				<img src="https://avatars.githubusercontent.com/u/3356767?s=72&u=36cff68a721147f907bff29b5be1b4ae56330911&v=4" width="24" alt="Avatar of pczarn"> pczarn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pczarn">Copy rank badge</a><br/>
 			Peter Blackson
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/adampielak">
 				<img src="https://avatars.githubusercontent.com/u/12827483?s=72&u=9d79c48b57e0a8d24db7ab21a0c0fa375d411858&v=4" width="24" alt="Avatar of adampielak"> adampielak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#adampielak">Copy rank badge</a><br/>
 			Adam Pielak
 		</td>
 		<td>Github.com/beyondpl </td>
@@ -4854,7 +4856,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/JavaSaBr">
 				<img src="https://avatars.githubusercontent.com/u/7160534?s=72&u=93ce5a140f1460ceb743ece4d0e2fe87a21b9ba8&v=4" width="24" alt="Avatar of JavaSaBr"> JavaSaBr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#JavaSaBr">Copy rank badge</a><br/>
 			Aliaksandr Brui
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jimaek">
 				<img src="https://avatars.githubusercontent.com/u/1834071?s=72&u=f77b721c1a5be797832c316b57f426d3a49c773b&v=4" width="24" alt="Avatar of jimaek"> jimaek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jimaek">Copy rank badge</a><br/>
 			Dmitriy Akulov
 		</td>
 		<td>@jsdelivr  </td>
@@ -4880,7 +4882,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/OlegWock">
 				<img src="https://avatars.githubusercontent.com/u/7430438?s=72&u=f3f21ab87f48ca6bf7a9d9985f2892aab4bb8c3e&v=4" width="24" alt="Avatar of OlegWock"> OlegWock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#OlegWock">Copy rank badge</a><br/>
 			Oleh
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/EgemenErin">
 				<img src="https://avatars.githubusercontent.com/u/113554575?s=72&u=32cc9499fa7f08f215524987adefa83b4a1dca58&v=4" width="24" alt="Avatar of EgemenErin"> EgemenErin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#EgemenErin">Copy rank badge</a><br/>
 			Egemen Erin
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bartaz">
 				<img src="https://avatars.githubusercontent.com/u/83575?s=72&u=3bb36bba00a39af5bd0e3da220b360513412b18e&v=4" width="24" alt="Avatar of bartaz"> bartaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bartaz">Copy rank badge</a><br/>
 			Bartek Szopka
 		</td>
 		<td>@canonical  </td>
@@ -4919,7 +4921,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nesbox">
 				<img src="https://avatars.githubusercontent.com/u/1101448?s=72&u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4" width="24" alt="Avatar of nesbox"> nesbox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nesbox">Copy rank badge</a><br/>
 			Vadim Grigoruk
 		</td>
 		<td>Nesbox </td>
@@ -4932,7 +4934,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/RobertoPrevato">
 				<img src="https://avatars.githubusercontent.com/u/2576032?s=72&u=34b539e3c0fcba122bf52958c2beede8a2238c00&v=4" width="24" alt="Avatar of RobertoPrevato"> RobertoPrevato
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#RobertoPrevato">Copy rank badge</a><br/>
 			Roberto Prevato
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/stasm">
 				<img src="https://avatars.githubusercontent.com/u/265818?s=72&u=849bd30928082654f5c5127998662a83c2462732&v=4" width="24" alt="Avatar of stasm"> stasm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#stasm">Copy rank badge</a><br/>
 			Stanisław Małolepszy
 		</td>
 		<td>@google </td>
@@ -4958,7 +4960,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michalczukm">
 				<img src="https://avatars.githubusercontent.com/u/6861120?s=72&u=e2aecc4b997435b7b3f80a4206f568d0de9464f1&v=4" width="24" alt="Avatar of michalczukm"> michalczukm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michalczukm">Copy rank badge</a><br/>
 			Michał Michalczuk
 		</td>
 		<td>Tektit Consulting </td>
@@ -4971,7 +4973,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/fcambus">
 				<img src="https://avatars.githubusercontent.com/u/825456?s=72&v=4" width="24" alt="Avatar of fcambus"> fcambus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#fcambus">Copy rank badge</a><br/>
 			Frederic Cambus
 		</td>
 		<td>Statdns </td>
@@ -4984,7 +4986,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KebsCS">
 				<img src="https://avatars.githubusercontent.com/u/22469895?s=72&u=592b4f67ab296aa3347934c25dec2c93b53d909e&v=4" width="24" alt="Avatar of KebsCS"> KebsCS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KebsCS">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4997,7 +4999,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cub-uanic">
 				<img src="https://avatars.githubusercontent.com/u/75673?s=72&u=7c53731d3e2c59cad00392b7e5f12f3560d9f646&v=4" width="24" alt="Avatar of cub-uanic"> cub-uanic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cub-uanic">Copy rank badge</a><br/>
 			Oleh Kostiuk
 		</td>
 		<td>Independent Contractor </td>
@@ -5010,7 +5012,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sawickiap">
 				<img src="https://avatars.githubusercontent.com/u/10674866?s=72&v=4" width="24" alt="Avatar of sawickiap"> sawickiap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sawickiap">Copy rank badge</a><br/>
 			Adam Sawicki
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cezarypiatek">
 				<img src="https://avatars.githubusercontent.com/u/7759991?s=72&u=cc55d8fd8f0a6f5b04aa05a49d0dcb155972bb0b&v=4" width="24" alt="Avatar of cezarypiatek"> cezarypiatek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cezarypiatek">Copy rank badge</a><br/>
 			Cezary Piątek
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/afronski">
 				<img src="https://avatars.githubusercontent.com/u/665582?s=72&u=44037533d33ab0897f2ef666d64de62da93dc250&v=4" width="24" alt="Avatar of afronski"> afronski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#afronski">Copy rank badge</a><br/>
 			Wojtek Gawroński
 		</td>
 		<td>@unleash </td>
@@ -5049,7 +5051,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dvasyliev">
 				<img src="https://avatars.githubusercontent.com/u/24624324?s=72&u=3392756b88549d1747ce58afc60510b9a4172bfd&v=4" width="24" alt="Avatar of dvasyliev"> dvasyliev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dvasyliev">Copy rank badge</a><br/>
 			Dmytro Vasyliev
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michalbe">
 				<img src="https://avatars.githubusercontent.com/u/347657?s=72&u=6b3fe132ded3ffe782312aa92b605c42ac3abcb2&v=4" width="24" alt="Avatar of michalbe"> michalbe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michalbe">Copy rank badge</a><br/>
 			Michał Budzyński
 		</td>
 		<td>@michalbe </td>
@@ -5075,7 +5077,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Tunaycel">
 				<img src="https://avatars.githubusercontent.com/u/190946090?s=72&u=242c8742dbcdfe7534b6cb9eca438a8643d4a742&v=4" width="24" alt="Avatar of Tunaycel"> Tunaycel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Tunaycel">Copy rank badge</a><br/>
 			Hüseyin Tunay Çelik
 		</td>
 		<td>Nest2move </td>
@@ -5088,7 +5090,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mdtanrikulu">
 				<img src="https://avatars.githubusercontent.com/u/2774845?s=72&u=2fff75fc8fbeb69ed20189dbaac862c22c5a9987&v=4" width="24" alt="Avatar of mdtanrikulu"> mdtanrikulu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mdtanrikulu">Copy rank badge</a><br/>
 			Muhammed Tanrıkulu
 		</td>
 		<td>@ensdomains @almonit </td>
@@ -5101,7 +5103,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/btrojan-official">
 				<img src="https://avatars.githubusercontent.com/u/178641906?s=72&u=207480f8129fe68f1020a3aedab6987180806842&v=4" width="24" alt="Avatar of btrojan-official"> btrojan-official
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#btrojan-official">Copy rank badge</a><br/>
 			Bartosz Trojan
 		</td>
 		<td>Inceptive </td>
@@ -5114,7 +5116,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Chmarusso">
 				<img src="https://avatars.githubusercontent.com/u/1804368?s=72&u=49702e959d64bb8a7a79388caea362705307f35a&v=4" width="24" alt="Avatar of Chmarusso"> Chmarusso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Chmarusso">Copy rank badge</a><br/>
 			Artur
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/1p22geo">
 				<img src="https://avatars.githubusercontent.com/u/113300767?s=72&v=4" width="24" alt="Avatar of 1p22geo"> 1p22geo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#1p22geo">Copy rank badge</a><br/>
 			Geodecki 4P gr.1
 		</td>
 		<td>Zsti Gliwice </td>
@@ -5140,7 +5142,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/h0ek">
 				<img src="https://avatars.githubusercontent.com/u/4890300?s=72&u=fad4195d26c06c778156ad2bb500ea7829bb75fb&v=4" width="24" alt="Avatar of h0ek"> h0ek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#h0ek">Copy rank badge</a><br/>
 			hoek
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/BlladeRunner">
 				<img src="https://avatars.githubusercontent.com/u/29070121?s=72&u=1f857424aa8a0dd143ea7d0aac478ca645ddb643&v=4" width="24" alt="Avatar of BlladeRunner"> BlladeRunner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#BlladeRunner">Copy rank badge</a><br/>
 			Rufus Black
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MarcinusX">
 				<img src="https://avatars.githubusercontent.com/u/16286046?s=72&u=fe7e7ab703982d187253ecc811fb51b65802cd00&v=4" width="24" alt="Avatar of MarcinusX"> MarcinusX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MarcinusX">Copy rank badge</a><br/>
 			Marcin Szałek
 		</td>
 		<td>@cheddar-me </td>
@@ -5179,7 +5181,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/WojciechMula">
 				<img src="https://avatars.githubusercontent.com/u/4331762?s=72&v=4" width="24" alt="Avatar of WojciechMula"> WojciechMula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#WojciechMula">Copy rank badge</a><br/>
 			Wojciech Muła
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/IgorKowalczyk">
 				<img src="https://avatars.githubusercontent.com/u/49127376?s=72&u=d4726d070ee1a0abd9b09a3e723caccd8072d21e&v=4" width="24" alt="Avatar of IgorKowalczyk"> IgorKowalczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#IgorKowalczyk">Copy rank badge</a><br/>
 			Majonez.exe
 		</td>
 		<td>@coderscommunity </td>
@@ -5205,7 +5207,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/koral--">
 				<img src="https://avatars.githubusercontent.com/u/3340954?s=72&u=ecdfff46c4b5e30dd824f260c77742e0b985b2ec&v=4" width="24" alt="Avatar of koral--"> koral--
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#koral--">Copy rank badge</a><br/>
 			Karol Wrótniak
 		</td>
 		<td>@droidsonroids  </td>
@@ -5218,7 +5220,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/konradxmalinowski">
 				<img src="https://avatars.githubusercontent.com/u/142544506?s=72&u=2b74603a083050c468b12949a2b8322bdbd22457&v=4" width="24" alt="Avatar of konradxmalinowski"> konradxmalinowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#konradxmalinowski">Copy rank badge</a><br/>
 			Konrad Malinowski
 		</td>
 		<td>No Company</td>
@@ -5231,7 +5233,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/WoLewicki">
 				<img src="https://avatars.githubusercontent.com/u/32481228?s=72&u=a11a30f43153b0bec3d97ec23b999bec7d2320d7&v=4" width="24" alt="Avatar of WoLewicki"> WoLewicki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#WoLewicki">Copy rank badge</a><br/>
 			Wojciech Lewicki
 		</td>
 		<td>Software Mansion </td>
@@ -5244,7 +5246,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DamianGlowala">
 				<img src="https://avatars.githubusercontent.com/u/48835293?s=72&u=35e90ee7a0b11b84c26484c178bcecee8e77daa8&v=4" width="24" alt="Avatar of DamianGlowala"> DamianGlowala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DamianGlowala">Copy rank badge</a><br/>
 			Damian Głowala
 		</td>
 		<td>Lottomerkury Sp. Z O.o.<br/></td>
@@ -5257,7 +5259,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/damian-kolakowski">
 				<img src="https://avatars.githubusercontent.com/u/492449?s=72&v=4" width="24" alt="Avatar of damian-kolakowski"> damian-kolakowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#damian-kolakowski">Copy rank badge</a><br/>
 			Damian Kołakowski
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/elshadaghazade">
 				<img src="https://avatars.githubusercontent.com/u/3605068?s=72&u=8ec26dc2779ccc230523aedafdef8ac6ee53cb6c&v=4" width="24" alt="Avatar of elshadaghazade"> elshadaghazade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#elshadaghazade">Copy rank badge</a><br/>
 			Elshad Aghazade
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pietrushnic">
 				<img src="https://avatars.githubusercontent.com/u/1071894?s=72&u=9bb6eb283d4488c1e4ab8630fab44e406a65d581&v=4" width="24" alt="Avatar of pietrushnic"> pietrushnic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pietrushnic">Copy rank badge</a><br/>
 			Piotr Król
 		</td>
 		<td>3mdeb </td>
@@ -5296,7 +5298,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SzymonPobiega">
 				<img src="https://avatars.githubusercontent.com/u/163318?s=72&v=4" width="24" alt="Avatar of SzymonPobiega"> SzymonPobiega
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SzymonPobiega">Copy rank badge</a><br/>
 			Szymon Pobiega
 		</td>
 		<td>@particularsoftware </td>
@@ -5309,7 +5311,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mzet-">
 				<img src="https://avatars.githubusercontent.com/u/4785347?s=72&u=126c38fef9c86352e814c3031fb01f5a51191d61&v=4" width="24" alt="Avatar of mzet-"> mzet-
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mzet-">Copy rank badge</a><br/>
 			mzet
 		</td>
 		<td>Z-labs, Adversary Simulations </td>
@@ -5322,7 +5324,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michbur">
 				<img src="https://avatars.githubusercontent.com/u/5267317?s=72&u=bd7cdc8c51e23a97d7283acb6693c64fde6ab6a9&v=4" width="24" alt="Avatar of michbur"> michbur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michbur">Copy rank badge</a><br/>
 			Michał Burdukiewicz
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zamazan4ik">
 				<img src="https://avatars.githubusercontent.com/u/7355383?s=72&u=e660e0683b9637e93454f3ab385ee71cf65b5194&v=4" width="24" alt="Avatar of zamazan4ik"> zamazan4ik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zamazan4ik">Copy rank badge</a><br/>
 			Alexander Zaitsev
 		</td>
 		<td>N-able </td>
@@ -5348,7 +5350,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/oxica">
 				<img src="https://avatars.githubusercontent.com/u/88445174?s=72&u=2cc8dca67064af3254d89efa9a434d81239414f0&v=4" width="24" alt="Avatar of oxica"> oxica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#oxica">Copy rank badge</a><br/>
 			Oksana Jarantowska
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojtek-t">
 				<img src="https://avatars.githubusercontent.com/u/10743879?s=72&u=8993cb01c1cc21f6eae151262cab1ee0ffdf6ab6&v=4" width="24" alt="Avatar of wojtek-t"> wojtek-t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojtek-t">Copy rank badge</a><br/>
 			Wojciech Tyczynski
 		</td>
 		<td>Google </td>
@@ -5374,7 +5376,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mateuszzwierzycki">
 				<img src="https://avatars.githubusercontent.com/u/2178452?s=72&u=e9961217764507f24dcfa5e208d959ef19843ce9&v=4" width="24" alt="Avatar of mateuszzwierzycki"> mateuszzwierzycki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mateuszzwierzycki">Copy rank badge</a><br/>
 			Mateusz
 		</td>
 		<td>@theobjectco  </td>
@@ -5387,7 +5389,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/caderek">
 				<img src="https://avatars.githubusercontent.com/u/1690967?s=72&u=2c7da5fb68f0f8c66a6f124c411886e425125c7a&v=4" width="24" alt="Avatar of caderek"> caderek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#caderek">Copy rank badge</a><br/>
 			Maciej Caderek
 		</td>
 		<td>No Company</td>
@@ -5400,7 +5402,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PanNiebieski">
 				<img src="https://avatars.githubusercontent.com/u/1837595?s=72&u=efa4071b301e78bcbfd52d2c0c3a381e8b6c3ed9&v=4" width="24" alt="Avatar of PanNiebieski"> PanNiebieski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PanNiebieski">Copy rank badge</a><br/>
 			Cezary Walenciuk
 		</td>
 		<td>No Company</td>
@@ -5413,7 +5415,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pvgomes">
 				<img src="https://avatars.githubusercontent.com/u/4427450?s=72&u=fcd775f837a2d88170bdbef4048cfb69cce99866&v=4" width="24" alt="Avatar of pvgomes"> pvgomes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pvgomes">Copy rank badge</a><br/>
 			Paulo Victor Leite Lima Gomes
 		</td>
 		<td>@brazanation </td>
@@ -5426,7 +5428,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Kwpolska">
 				<img src="https://avatars.githubusercontent.com/u/327323?s=72&u=44faab5d90b0e48d557b56cccf97beb67527840a&v=4" width="24" alt="Avatar of Kwpolska"> Kwpolska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Kwpolska">Copy rank badge</a><br/>
 			Chris Warrick
 		</td>
 		<td>No Company</td>
@@ -5439,7 +5441,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamil-kucharski">
 				<img src="https://avatars.githubusercontent.com/u/275099440?s=72&u=8da85c4b64b1cb94e6624413fe8fded337e9a0f4&v=4" width="24" alt="Avatar of kamil-kucharski"> kamil-kucharski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamil-kucharski">Copy rank badge</a><br/>
 			Kamil Kucharski
 		</td>
 		<td>Wrocław University Of Science<br/>And<br/>Technology<br/></td>
@@ -5452,7 +5454,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mcore1976">
 				<img src="https://avatars.githubusercontent.com/u/43117081?s=72&u=53233609df246a8e9d6ea81724700b4cdda41e0d&v=4" width="24" alt="Avatar of mcore1976"> mcore1976
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mcore1976">Copy rank badge</a><br/>
 			Adam Loboda
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mwielgus">
 				<img src="https://avatars.githubusercontent.com/u/11994812?s=72&u=a187139caa692338721038e32edbf56e361d5e8a&v=4" width="24" alt="Avatar of mwielgus"> mwielgus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mwielgus">Copy rank badge</a><br/>
 			Marcin Wielgus
 		</td>
 		<td>Google </td>
@@ -5478,7 +5480,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ad-m">
 				<img src="https://avatars.githubusercontent.com/u/3618479?s=72&u=caecbe72e4c785ba5d4ecd3ad3281e53174e1a7a&v=4" width="24" alt="Avatar of ad-m"> ad-m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ad-m">Copy rank badge</a><br/>
 			Adam Dobrawy
 		</td>
 		<td>Redakcja "jasność" </td>
@@ -5491,7 +5493,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/madhead">
 				<img src="https://avatars.githubusercontent.com/u/577360?s=72&v=4" width="24" alt="Avatar of madhead"> madhead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#madhead">Copy rank badge</a><br/>
 			Siarhei Krukau
 		</td>
 		<td>No Company</td>
@@ -5504,7 +5506,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PiotrMachowski">
 				<img src="https://avatars.githubusercontent.com/u/6118709?s=72&u=82946b841a3827f598b4871d997f423c425cc40e&v=4" width="24" alt="Avatar of PiotrMachowski"> PiotrMachowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PiotrMachowski">Copy rank badge</a><br/>
 			Piotr Machowski
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ambv">
 				<img src="https://avatars.githubusercontent.com/u/55281?s=72&u=a7ec460a666172941079e6ddb7b9134e0e0b2b39&v=4" width="24" alt="Avatar of ambv"> ambv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ambv">Copy rank badge</a><br/>
 			Łukasz Langa
 		</td>
 		<td>@psf </td>
@@ -5530,7 +5532,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/typeofweb">
 				<img src="https://avatars.githubusercontent.com/u/1338731?s=72&u=c4d014bd75442bf520d2268ed1a41389997ddb38&v=4" width="24" alt="Avatar of typeofweb"> typeofweb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#typeofweb">Copy rank badge</a><br/>
 			Michał Miszczyszyn
 		</td>
 		<td>@yournextstore </td>
@@ -5543,7 +5545,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/juliancwirko">
 				<img src="https://avatars.githubusercontent.com/u/4427985?s=72&u=ebbe701308d9267a5fe5dfb5b525afdf8fc5d54f&v=4" width="24" alt="Avatar of juliancwirko"> juliancwirko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#juliancwirko">Copy rank badge</a><br/>
 			Julian.io
 		</td>
 		<td>No Company</td>
@@ -5556,7 +5558,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bzaczynski">
 				<img src="https://avatars.githubusercontent.com/u/2493451?s=72&u=9d7c05908d34b0d0e13191abc8c2b7719189b4ec&v=4" width="24" alt="Avatar of bzaczynski"> bzaczynski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bzaczynski">Copy rank badge</a><br/>
 			Bartosz Zaczyński
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Aga-C">
 				<img src="https://avatars.githubusercontent.com/u/85929121?s=72&u=35ee48f41d33f89abef268244cf31b08591973df&v=4" width="24" alt="Avatar of Aga-C"> Aga-C
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Aga-C">Copy rank badge</a><br/>
 			Agnieszka C
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pwalczyszyn">
 				<img src="https://avatars.githubusercontent.com/u/368561?s=72&v=4" width="24" alt="Avatar of pwalczyszyn"> pwalczyszyn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pwalczyszyn">Copy rank badge</a><br/>
 			Piotr Walczyszyn
 		</td>
 		<td>@adobe </td>
@@ -5595,7 +5597,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/js6pak">
 				<img src="https://avatars.githubusercontent.com/u/35262707?s=72&u=dc4d3c42ad7764d252e91015108eac6687b9c6e7&v=4" width="24" alt="Avatar of js6pak"> js6pak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#js6pak">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zneix">
 				<img src="https://avatars.githubusercontent.com/u/44851575?s=72&u=acee32a6b7edd082aabf5c24183c6878a1b6dbb6&v=4" width="24" alt="Avatar of zneix"> zneix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zneix">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5621,7 +5623,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ducin">
 				<img src="https://avatars.githubusercontent.com/u/375027?s=72&v=4" width="24" alt="Avatar of ducin"> ducin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ducin">Copy rank badge</a><br/>
 			Tomasz Ducin
 		</td>
 		<td>@tomasz_ducin </td>
@@ -5634,7 +5636,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/NikodemBartnik">
 				<img src="https://avatars.githubusercontent.com/u/39432165?s=72&u=f1b6612cb29678ae2d6dfea5162d88249fd48174&v=4" width="24" alt="Avatar of NikodemBartnik"> NikodemBartnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#NikodemBartnik">Copy rank badge</a><br/>
 			Nikodem Bartnik
 		</td>
 		<td>@huggingface And @indystrycc </td>
@@ -5647,7 +5649,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/patrys">
 				<img src="https://avatars.githubusercontent.com/u/81205?s=72&u=83aefd1ab1e4219ec7135f173ddf7b1335ef0301&v=4" width="24" alt="Avatar of patrys"> patrys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#patrys">Copy rank badge</a><br/>
 			Patryk Zawadzki
 		</td>
 		<td>Saleor Commerce </td>
@@ -5660,7 +5662,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/neg4n">
 				<img src="https://avatars.githubusercontent.com/u/57688858?s=72&u=6ccc35dcf8bdfe3dedd9a0f7c4b9df17c8e324c0&v=4" width="24" alt="Avatar of neg4n"> neg4n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#neg4n">Copy rank badge</a><br/>
 			Igor Klepacki
 		</td>
 		<td>No Company</td>
@@ -5673,7 +5675,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Szostak21">
 				<img src="https://avatars.githubusercontent.com/u/171433648?s=72&u=d62e849ee49f17ae956cd589f6428dc3c7e68c2f&v=4" width="24" alt="Avatar of Szostak21"> Szostak21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Szostak21">Copy rank badge</a><br/>
 			Paweł Szostak
 		</td>
 		<td>No Company</td>
@@ -5686,7 +5688,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/maarcingebala">
 				<img src="https://avatars.githubusercontent.com/u/5421321?s=72&u=8ae8e333be23b2bc2bdbf06a712aec8572fdc928&v=4" width="24" alt="Avatar of maarcingebala"> maarcingebala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#maarcingebala">Copy rank badge</a><br/>
 			Marcin Gębala
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tomash">
 				<img src="https://avatars.githubusercontent.com/u/38259?s=72&u=35f5de01349d82fede55d7d5a03bcadddd5a1ccb&v=4" width="24" alt="Avatar of tomash"> tomash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tomash">Copy rank badge</a><br/>
 			Tomasz Stachewicz
 		</td>
 		<td>Everai </td>
@@ -5712,7 +5714,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/peterblazejewicz">
 				<img src="https://avatars.githubusercontent.com/u/14539?s=72&v=4" width="24" alt="Avatar of peterblazejewicz"> peterblazejewicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#peterblazejewicz">Copy rank badge</a><br/>
 			Piotr Błażejewicz (Peter Blazejewicz)
 		</td>
 		<td>Gn Poland/jabra+ Poland </td>
@@ -5725,7 +5727,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TyMill">
 				<img src="https://avatars.githubusercontent.com/u/81069997?s=72&u=b0094377463ee6d01454992df7b427ad6d8bbf63&v=4" width="24" alt="Avatar of TyMill"> TyMill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TyMill">Copy rank badge</a><br/>
 			Tymoteusz Miller
 		</td>
 		<td>University Of Szczecin </td>
@@ -5738,7 +5740,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zaps166">
 				<img src="https://avatars.githubusercontent.com/u/6239090?s=72&u=6e4bd1e6b88b0cad1b1a394f676c0c2c403579e7&v=4" width="24" alt="Avatar of zaps166"> zaps166
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zaps166">Copy rank badge</a><br/>
 			Błażej Szczygieł
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alovak">
 				<img src="https://avatars.githubusercontent.com/u/19233?s=72&u=f3df0061d736037ac5300ce6e4199a91e527b29a&v=4" width="24" alt="Avatar of alovak"> alovak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alovak">Copy rank badge</a><br/>
 			Pavel Gabriel
 		</td>
 		<td>@moov-io </td>
@@ -5764,7 +5766,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dziudek">
 				<img src="https://avatars.githubusercontent.com/u/22004?s=72&u=c886893370112f3880f23b6913bd5b81522adcc8&v=4" width="24" alt="Avatar of dziudek"> dziudek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dziudek">Copy rank badge</a><br/>
 			Tomasz Dziuda
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nikitaeverywhere">
 				<img src="https://avatars.githubusercontent.com/u/4989256?s=72&u=f4f2f1fe98a9eae6c7dacfbe9b6ff186cac1911c&v=4" width="24" alt="Avatar of nikitaeverywhere"> nikitaeverywhere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nikitaeverywhere">Copy rank badge</a><br/>
 			Nikita Savchenko
 		</td>
 		<td>@dataunlocker  </td>
@@ -5790,7 +5792,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DominikN">
 				<img src="https://avatars.githubusercontent.com/u/7963800?s=72&u=4b96341ae3ebd2e39f59c7f8cedd644025e58299&v=4" width="24" alt="Avatar of DominikN"> DominikN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DominikN">Copy rank badge</a><br/>
 			Dominik Nowak
 		</td>
 		<td>@husarion </td>
@@ -5803,7 +5805,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mswiderski">
 				<img src="https://avatars.githubusercontent.com/u/904474?s=72&v=4" width="24" alt="Avatar of mswiderski"> mswiderski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mswiderski">Copy rank badge</a><br/>
 			Maciej Swiderski
 		</td>
 		<td>No Company</td>
@@ -5816,7 +5818,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/arturdryomov">
 				<img src="https://avatars.githubusercontent.com/u/200401?s=72&u=0092be029f49cfa7c10e81b10d88ce1c25eeb850&v=4" width="24" alt="Avatar of arturdryomov"> arturdryomov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#arturdryomov">Copy rank badge</a><br/>
 			Artur Dryomov
 		</td>
 		<td>No Company</td>
@@ -5829,7 +5831,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lchrusciel">
 				<img src="https://avatars.githubusercontent.com/u/6213903?s=72&u=6ce6175996a8d9ea33ae870415e28771adf7f7da&v=4" width="24" alt="Avatar of lchrusciel"> lchrusciel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lchrusciel">Copy rank badge</a><br/>
 			Łukasz Chruściel
 		</td>
 		<td>@commerceweavers </td>
@@ -5842,7 +5844,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gesior">
 				<img src="https://avatars.githubusercontent.com/u/2642737?s=72&u=9f3c042eb1e6a0a645743b36ec283743356c0a8b&v=4" width="24" alt="Avatar of gesior"> gesior
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gesior">Copy rank badge</a><br/>
 			Jerzy Skalski
 		</td>
 		<td>No Company</td>
@@ -5855,7 +5857,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pbiecek">
 				<img src="https://avatars.githubusercontent.com/u/4624318?s=72&u=4831d730d77db8101740a02222119d68ec9f0a53&v=4" width="24" alt="Avatar of pbiecek"> pbiecek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pbiecek">Copy rank badge</a><br/>
 			Przemysław Biecek
 		</td>
 		<td>@modeloriented @mi2datalab @mi2-education @betaandbit<br/><br/>@mim-uw<br/>University<br/>Of<br/>Warsaw<br/></td>
@@ -5868,7 +5870,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/maciejkorsan">
 				<img src="https://avatars.githubusercontent.com/u/655235?s=72&u=deba6d244425aacfafdaa94262f78a30a4a570ec&v=4" width="24" alt="Avatar of maciejkorsan"> maciejkorsan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#maciejkorsan">Copy rank badge</a><br/>
 			Maciej Korsan
 		</td>
 		<td>@arkency </td>
@@ -5881,7 +5883,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/0fca">
 				<img src="https://avatars.githubusercontent.com/u/25554250?s=72&u=9a23e8e382f9d36d17b2cf6af8bddc678c3f8dda&v=4" width="24" alt="Avatar of 0fca"> 0fca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#0fca">Copy rank badge</a><br/>
 			Lukas
 		</td>
 		<td>Łukasz Bownik Software Solutions<br/></td>
@@ -5894,7 +5896,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/danielkorzekwa">
 				<img src="https://avatars.githubusercontent.com/u/1285297?s=72&u=cdc364fe8ec4d694eb2c1f6dfe4ef49be2c5dc16&v=4" width="24" alt="Avatar of danielkorzekwa"> danielkorzekwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#danielkorzekwa">Copy rank badge</a><br/>
 			Daniel Korzekwa
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/paireks">
 				<img src="https://avatars.githubusercontent.com/u/47977819?s=72&u=537d88eda908ea6ac527719abf1ef9b61babe02a&v=4" width="24" alt="Avatar of paireks"> paireks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#paireks">Copy rank badge</a><br/>
 			Wojciech Radaczyński
 		</td>
 		<td>No Company</td>
@@ -5920,7 +5922,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sszczep">
 				<img src="https://avatars.githubusercontent.com/u/21238816?s=72&u=6737cd25f79f5a442cf57c7ae3e103ef85b5f255&v=4" width="24" alt="Avatar of sszczep"> sszczep
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sszczep">Copy rank badge</a><br/>
 			Sebastian Szczepański
 		</td>
 		<td>@computec  </td>
@@ -5933,7 +5935,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Albert221">
 				<img src="https://avatars.githubusercontent.com/u/4085280?s=72&u=a0813a72f51a40acad97bf77a5adc22bebcf072a&v=4" width="24" alt="Avatar of Albert221"> Albert221
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Albert221">Copy rank badge</a><br/>
 			Albert Wolszon
 		</td>
 		<td>@leancodepl </td>
@@ -5946,7 +5948,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojcikstefan">
 				<img src="https://avatars.githubusercontent.com/u/1718372?s=72&u=d1d912d5d9c099daec72767d7fd723d2dd67c686&v=4" width="24" alt="Avatar of wojcikstefan"> wojcikstefan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojcikstefan">Copy rank badge</a><br/>
 			Stefan Wójcik
 		</td>
 		<td>Close (close.com) </td>
@@ -5959,7 +5961,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ka8725">
 				<img src="https://avatars.githubusercontent.com/u/243846?s=72&u=37873319a3eb7917589e0c4110bba21fc479e319&v=4" width="24" alt="Avatar of ka8725"> ka8725
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ka8725">Copy rank badge</a><br/>
 			Andrei Kaleshka
 		</td>
 		<td>@widefix  </td>
@@ -5972,7 +5974,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/radekmie">
 				<img src="https://avatars.githubusercontent.com/u/1379064?s=72&u=e1a0ad56d8011469b041f24515a1c84563087397&v=4" width="24" alt="Avatar of radekmie"> radekmie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#radekmie">Copy rank badge</a><br/>
 			Radosław Miernik
 		</td>
 		<td>Head Of Engineering At<br/>@alenoag<br/></td>
@@ -5985,7 +5987,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pjagielski">
 				<img src="https://avatars.githubusercontent.com/u/513361?s=72&u=ef66e6251a708d61406fd704c64ac5a701da847b&v=4" width="24" alt="Avatar of pjagielski"> pjagielski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pjagielski">Copy rank badge</a><br/>
 			Piotr Jagielski
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wvffle">
 				<img src="https://avatars.githubusercontent.com/u/13330620?s=72&u=17d9e71833478693fbba48ce6073c577d632d5c0&v=4" width="24" alt="Avatar of wvffle"> wvffle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wvffle">Copy rank badge</a><br/>
 			Kasper J. Seweryn
 		</td>
 		<td>No Company</td>
@@ -6011,7 +6013,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/morgoth">
 				<img src="https://avatars.githubusercontent.com/u/10766?s=72&v=4" width="24" alt="Avatar of morgoth"> morgoth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#morgoth">Copy rank badge</a><br/>
 			Wojciech Wnętrzak
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Eghizio">
 				<img src="https://avatars.githubusercontent.com/u/32049761?s=72&u=bf361c3f1dd86a3efcab0383741a7166943d636d&v=4" width="24" alt="Avatar of Eghizio"> Eghizio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Eghizio">Copy rank badge</a><br/>
 			Jakub Wąsik
 		</td>
 		<td>Heineken </td>
@@ -6037,7 +6039,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/panicz">
 				<img src="https://avatars.githubusercontent.com/u/9381224?s=72&u=31e510cbff482496f31ead5ad5dce6b33f317ad5&v=4" width="24" alt="Avatar of panicz"> panicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#panicz">Copy rank badge</a><br/>
 			Panicz
 		</td>
 		<td>Uniwersytet Gdański </td>
@@ -6050,7 +6052,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Baroshem">
 				<img src="https://avatars.githubusercontent.com/u/37120330?s=72&u=b4d30c78e5638f31a26babe875c9e0ea91440c89&v=4" width="24" alt="Avatar of Baroshem"> Baroshem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Baroshem">Copy rank badge</a><br/>
 			Jakub Andrzejewski
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/webhdx">
 				<img src="https://avatars.githubusercontent.com/u/10212760?s=72&u=dc517b8b350d13d0cbf2b4a7dad45a9c66f48a97&v=4" width="24" alt="Avatar of webhdx"> webhdx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#webhdx">Copy rank badge</a><br/>
 			Maciej Kobus
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KamilLelonek">
 				<img src="https://avatars.githubusercontent.com/u/3199333?s=72&v=4" width="24" alt="Avatar of KamilLelonek"> KamilLelonek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KamilLelonek">Copy rank badge</a><br/>
 			Kamil Lelonek
 		</td>
 		<td>Lexit </td>
@@ -6089,7 +6091,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/karolmajek">
 				<img src="https://avatars.githubusercontent.com/u/11379772?s=72&u=0f065bc774e3884ec770669ec652940a009820f3&v=4" width="24" alt="Avatar of karolmajek"> karolmajek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#karolmajek">Copy rank badge</a><br/>
 			Karol Majek
 		</td>
 		<td>@cufix  </td>
@@ -6102,7 +6104,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pkolaczk">
 				<img src="https://avatars.githubusercontent.com/u/1352795?s=72&v=4" width="24" alt="Avatar of pkolaczk"> pkolaczk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pkolaczk">Copy rank badge</a><br/>
 			Piotr Kołaczkowski
 		</td>
 		<td>Ibm </td>
@@ -6115,7 +6117,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/phoe">
 				<img src="https://avatars.githubusercontent.com/u/15045546?s=72&u=54d55f7a95931d7f35cd683a6938d46bc415b793&v=4" width="24" alt="Avatar of phoe"> phoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#phoe">Copy rank badge</a><br/>
 			Michał "phoe" Herda
 		</td>
 		<td>#lisp @ Libera Chat<br/></td>
@@ -6128,7 +6130,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mmalecki">
 				<img src="https://avatars.githubusercontent.com/u/692459?s=72&u=f36efe78df6cd6fa00d6da68e30bcd121a2d63b2&v=4" width="24" alt="Avatar of mmalecki"> mmalecki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mmalecki">Copy rank badge</a><br/>
 			Maciej Małecki
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/xAranaktu">
 				<img src="https://avatars.githubusercontent.com/u/12433069?s=72&u=4eeaafb5e026c32c5947c2f519e50b9445c5d9d6&v=4" width="24" alt="Avatar of xAranaktu"> xAranaktu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#xAranaktu">Copy rank badge</a><br/>
 			Paweł
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KonstantinKlepikov">
 				<img src="https://avatars.githubusercontent.com/u/20581667?s=72&u=a6fd1775f0823c1aec37b200af2d01b5bc5fc387&v=4" width="24" alt="Avatar of KonstantinKlepikov"> KonstantinKlepikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KonstantinKlepikov">Copy rank badge</a><br/>
 			Konstantin Kl.
 		</td>
 		<td>No Company</td>
@@ -6167,7 +6169,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TeddyDD">
 				<img src="https://avatars.githubusercontent.com/u/4397533?s=72&u=ab2ba8222927237dcf4c0ffeded37b831132c956&v=4" width="24" alt="Avatar of TeddyDD"> TeddyDD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TeddyDD">Copy rank badge</a><br/>
 			Daniel Lewan
 		</td>
 		<td>Olx </td>
@@ -6180,7 +6182,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilogorek">
 				<img src="https://avatars.githubusercontent.com/u/1523305?s=72&u=8e769c59dd8a799707f6a984ffc0799631a90d31&v=4" width="24" alt="Avatar of kamilogorek"> kamilogorek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilogorek">Copy rank badge</a><br/>
 			Kamil Ogórek
 		</td>
 		<td>@supabase  </td>
@@ -6193,7 +6195,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kmkolasinski">
 				<img src="https://avatars.githubusercontent.com/u/10145864?s=72&u=a579598142e0e28ac7e7a2c0482af75b1963a926&v=4" width="24" alt="Avatar of kmkolasinski"> kmkolasinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kmkolasinski">Copy rank badge</a><br/>
 			Krzysztof Kolasinski
 		</td>
 		<td>Shelfwise / Form.com </td>
@@ -6206,7 +6208,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lucassus">
 				<img src="https://avatars.githubusercontent.com/u/41239?s=72&u=54b8ce3aeee5f75fe9d997e102c797a2e36714af&v=4" width="24" alt="Avatar of lucassus"> lucassus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lucassus">Copy rank badge</a><br/>
 			Lukasz Bandzarewicz
 		</td>
 		<td>@maxio-com  </td>
@@ -6219,7 +6221,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/fidley">
 				<img src="https://avatars.githubusercontent.com/u/7912195?s=72&u=9ae952553c1bc3ab179b56bee022ecc277cdd04d&v=4" width="24" alt="Avatar of fidley"> fidley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#fidley">Copy rank badge</a><br/>
 			Łukasz Pęgiel
 		</td>
 		<td>Hager Group </td>
@@ -6232,7 +6234,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mtrojnar">
 				<img src="https://avatars.githubusercontent.com/u/13538198?s=72&u=e8d9ef055108348740826efb1072bd1e0d9c5316&v=4" width="24" alt="Avatar of mtrojnar"> mtrojnar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mtrojnar">Copy rank badge</a><br/>
 			Michał Trojnara
 		</td>
 		<td>Mobi-com Polska Sp. Z<br/>O.o.<br/></td>
@@ -6245,7 +6247,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mikegapinski">
 				<img src="https://avatars.githubusercontent.com/u/930055?s=72&u=32c154c005774d985c4cc9d48f6901d0ce07e58d&v=4" width="24" alt="Avatar of mikegapinski"> mikegapinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mikegapinski">Copy rank badge</a><br/>
 			Michał Gapiński
 		</td>
 		<td>Tesla Android </td>
@@ -6258,7 +6260,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/adrianolszewski">
 				<img src="https://avatars.githubusercontent.com/u/95669100?s=72&u=065ed50151af015a37720c5631cdfeb536cd0725&v=4" width="24" alt="Avatar of adrianolszewski"> adrianolszewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#adrianolszewski">Copy rank badge</a><br/>
 			Adrian Olszewski
 		</td>
 		<td>2kmm Cro </td>
@@ -6271,7 +6273,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Tuhaj">
 				<img src="https://avatars.githubusercontent.com/u/6118271?s=72&u=8380732ebdce0401fec9e76c7acd26faf6afae28&v=4" width="24" alt="Avatar of Tuhaj"> Tuhaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Tuhaj">Copy rank badge</a><br/>
 			Piotr Zientara
 		</td>
 		<td>@xfaang </td>
@@ -6284,7 +6286,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Kabanosk">
 				<img src="https://avatars.githubusercontent.com/u/56364007?s=72&u=86cae318281a873d672456b3f4edf56e5dd0e058&v=4" width="24" alt="Avatar of Kabanosk"> Kabanosk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Kabanosk">Copy rank badge</a><br/>
 			Wojciech Fiołka
 		</td>
 		<td>Globallogic </td>
@@ -6297,7 +6299,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lpiob">
 				<img src="https://avatars.githubusercontent.com/u/1444251?s=72&u=d6502d8579b42ebbb5f2b9a77a852b4810df46f1&v=4" width="24" alt="Avatar of lpiob"> lpiob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lpiob">Copy rank badge</a><br/>
 			Łukasz Biegaj
 		</td>
 		<td>Univio </td>
@@ -6310,7 +6312,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zsiciarz">
 				<img src="https://avatars.githubusercontent.com/u/182194?s=72&u=a7b58eb4e9b2c00b306e0ce64ca530833ca6bfbc&v=4" width="24" alt="Avatar of zsiciarz"> zsiciarz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zsiciarz">Copy rank badge</a><br/>
 			Zbigniew Siciarz
 		</td>
 		<td>Fold Logic </td>
@@ -6323,7 +6325,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dumbasPL">
 				<img src="https://avatars.githubusercontent.com/u/29180158?s=72&u=ceb0087095f6802aa7bdf44e5675a5fcd20a637f&v=4" width="24" alt="Avatar of dumbasPL"> dumbasPL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dumbasPL">Copy rank badge</a><br/>
 			nezu
 		</td>
 		<td>@nezu-cc  </td>
@@ -6336,7 +6338,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/juliocesarfort">
 				<img src="https://avatars.githubusercontent.com/u/47504?s=72&u=5615ddfb4162dad0bc21a5a408dcb12889ad1a69&v=4" width="24" alt="Avatar of juliocesarfort"> juliocesarfort
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#juliocesarfort">Copy rank badge</a><br/>
 			Julio
 		</td>
 		<td>@blazeinfosec </td>
@@ -6349,7 +6351,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/blipinsk">
 				<img src="https://avatars.githubusercontent.com/u/6371716?s=72&u=c854413a9184195c2e6f74af79331fa88eb26fd1&v=4" width="24" alt="Avatar of blipinsk"> blipinsk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#blipinsk">Copy rank badge</a><br/>
 			Bartek Lipinski
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/viashchuk">
 				<img src="https://avatars.githubusercontent.com/u/22917917?s=72&u=22589cf9524639d53503492250360e805f0f0cd3&v=4" width="24" alt="Avatar of viashchuk"> viashchuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#viashchuk">Copy rank badge</a><br/>
 			Viki
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piecyk">
 				<img src="https://avatars.githubusercontent.com/u/82964?s=72&u=3b321fe3040b00d8f70df059b1fc3e466bb4f302&v=4" width="24" alt="Avatar of piecyk"> piecyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piecyk">Copy rank badge</a><br/>
 			Damian Pieczynski
 		</td>
 		<td>@scalaconsultants </td>
@@ -6388,7 +6390,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mkrl">
 				<img src="https://avatars.githubusercontent.com/u/18409292?s=72&u=b866dd934a93536393d2e6a6156b8f37f7503d8e&v=4" width="24" alt="Avatar of mkrl"> mkrl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mkrl">Copy rank badge</a><br/>
 			Misha
 		</td>
 		<td>Developer Experience Engineer </td>
@@ -6401,7 +6403,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gkasprow">
 				<img src="https://avatars.githubusercontent.com/u/4325054?s=72&u=4512a388138687bbc702de0d524ce5c6740d21dc&v=4" width="24" alt="Avatar of gkasprow"> gkasprow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gkasprow">Copy rank badge</a><br/>
 			Greg Kasprowicz
 		</td>
 		<td>Warsaw University Of Technology<br/>/<br/>Creotech<br/></td>
@@ -6414,7 +6416,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mikolajdobrucki">
 				<img src="https://avatars.githubusercontent.com/u/5467602?s=72&u=764e87c0383d0dbf676e63e558cd846f21020ef2&v=4" width="24" alt="Avatar of mikolajdobrucki"> mikolajdobrucki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mikolajdobrucki">Copy rank badge</a><br/>
 			Mikolaj Dobrucki
 		</td>
 		<td>Castle.io </td>
@@ -6427,7 +6429,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/apohllo">
 				<img src="https://avatars.githubusercontent.com/u/40543?s=72&u=da8959c22df067b37729070f703a8863ad2df3e1&v=4" width="24" alt="Avatar of apohllo"> apohllo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#apohllo">Copy rank badge</a><br/>
 			Aleksander Smywiński-Pohl
 		</td>
 		<td>Agh, Enelpol </td>
@@ -6440,7 +6442,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Qbicz">
 				<img src="https://avatars.githubusercontent.com/u/5618209?s=72&u=71c221e21c3cfe792a721e0488040f183242d15c&v=4" width="24" alt="Avatar of Qbicz"> Qbicz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Qbicz">Copy rank badge</a><br/>
 			Filip Kubicz
 		</td>
 		<td>@worldcoin </td>
@@ -6453,7 +6455,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/marekkirejczyk">
 				<img src="https://avatars.githubusercontent.com/u/197522?s=72&u=a36384c3d39460fb2bc0630a5d87be2748164aa7&v=4" width="24" alt="Avatar of marekkirejczyk"> marekkirejczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#marekkirejczyk">Copy rank badge</a><br/>
 			Marek Kirejczyk
 		</td>
 		<td>Vlayer </td>
@@ -6466,7 +6468,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cristaloleg">
 				<img src="https://avatars.githubusercontent.com/u/366002?s=72&u=22b4115f9d411829bd5511490932bca8bd08fc6b&v=4" width="24" alt="Avatar of cristaloleg"> cristaloleg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cristaloleg">Copy rank badge</a><br/>
 			Oleg Kovalov
 		</td>
 		<td>@go-perf @cristalhq @go-critic <br/></td>
@@ -6479,7 +6481,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wkrzywiec">
 				<img src="https://avatars.githubusercontent.com/u/25372667?s=72&u=76f8261b92fd9aebecd5b8b015ecfc700bd87faa&v=4" width="24" alt="Avatar of wkrzywiec"> wkrzywiec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wkrzywiec">Copy rank badge</a><br/>
 			Wojtek Krzywiec
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rkinas">
 				<img src="https://avatars.githubusercontent.com/u/62574431?s=72&u=12a6905cda7e272be67cd3a8fc6ab93ab20dbe33&v=4" width="24" alt="Avatar of rkinas"> rkinas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rkinas">Copy rank badge</a><br/>
 			Remek Kinas
 		</td>
 		<td>Ai5 </td>
@@ -6505,7 +6507,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AcidWeb">
 				<img src="https://avatars.githubusercontent.com/u/3713734?s=72&v=4" width="24" alt="Avatar of AcidWeb"> AcidWeb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AcidWeb">Copy rank badge</a><br/>
 			Paweł Jastrzębski
 		</td>
 		<td>@stxnext  </td>
@@ -6518,7 +6520,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/olafsulich">
 				<img src="https://avatars.githubusercontent.com/u/46969484?s=72&u=92f104c455b72cfa42ff8d1227d9029f199fd084&v=4" width="24" alt="Avatar of olafsulich"> olafsulich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#olafsulich">Copy rank badge</a><br/>
 			Olaf Sulich
 		</td>
 		<td>Housecall Pro </td>
@@ -6531,7 +6533,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/troZee">
 				<img src="https://avatars.githubusercontent.com/u/12766071?s=72&u=2c024d9a62d807e83d7076a0093bedc81d377f6b&v=4" width="24" alt="Avatar of troZee"> troZee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#troZee">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@callstack  </td>
@@ -6544,7 +6546,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nathell">
 				<img src="https://avatars.githubusercontent.com/u/43891?s=72&u=e7b943a08f63c78337f1fe1a4d7e8bc97567a202&v=4" width="24" alt="Avatar of nathell"> nathell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nathell">Copy rank badge</a><br/>
 			Daniel Janus
 		</td>
 		<td>@project-j </td>
@@ -6557,7 +6559,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ycarowr">
 				<img src="https://avatars.githubusercontent.com/u/8862539?s=72&u=0a66dbfdf1cc708dca892eeaa396e3edda19d424&v=4" width="24" alt="Avatar of ycarowr"> ycarowr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ycarowr">Copy rank badge</a><br/>
 			ycarowr
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mkusher">
 				<img src="https://avatars.githubusercontent.com/u/523021?s=72&u=a3a5b1cc58c0b0741c8a71fb9bb74035b957eea5&v=4" width="24" alt="Avatar of mkusher"> mkusher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mkusher">Copy rank badge</a><br/>
 			Aleh Kashnikau
 		</td>
 		<td>@teladoc </td>
@@ -6583,7 +6585,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/unkn0w">
 				<img src="https://avatars.githubusercontent.com/u/1361159?s=72&u=b7aa8855b4d16ecbd4a8e9ed9e408ca4c375a95b&v=4" width="24" alt="Avatar of unkn0w"> unkn0w
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#unkn0w">Copy rank badge</a><br/>
 			Jakub 'unknow' Mrugalski
 		</td>
 		<td>Mikr.us </td>
@@ -6596,7 +6598,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/calganaygun">
 				<img src="https://avatars.githubusercontent.com/u/20268300?s=72&u=bd8c7e48add63b2b273e7a2f4dc49244cb1f4134&v=4" width="24" alt="Avatar of calganaygun"> calganaygun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#calganaygun">Copy rank badge</a><br/>
 			Çalgan Aygün
 		</td>
 		<td>Pipelines.company / Finalcheck </td>
@@ -6609,7 +6611,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Xanewok">
 				<img src="https://avatars.githubusercontent.com/u/3093213?s=72&u=18f32441e54605114ccd99727b020b2372a34ca8&v=4" width="24" alt="Avatar of Xanewok"> Xanewok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Xanewok">Copy rank badge</a><br/>
 			Igor Matuszewski
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Zales0123">
 				<img src="https://avatars.githubusercontent.com/u/6212718?s=72&u=8dce05b218e13faa6ab2092dfe6e0b1cdcd66780&v=4" width="24" alt="Avatar of Zales0123"> Zales0123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Zales0123">Copy rank badge</a><br/>
 			Mateusz Zalewski
 		</td>
 		<td>@sylius </td>
@@ -6635,7 +6637,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/szymex73">
 				<img src="https://avatars.githubusercontent.com/u/5494832?s=72&u=102b31c1a62fd702edcf6c18c2ac0ea604dd5dd1&v=4" width="24" alt="Avatar of szymex73"> szymex73
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#szymex73">Copy rank badge</a><br/>
 			Szymon Borecki
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cahirwpz">
 				<img src="https://avatars.githubusercontent.com/u/265236?s=72&u=b57679d198adf11eda24dc40c12acb5fa484fe39&v=4" width="24" alt="Avatar of cahirwpz"> cahirwpz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cahirwpz">Copy rank badge</a><br/>
 			Krystian Bacławski
 		</td>
 		<td>University Of Wroclaw </td>
@@ -6661,7 +6663,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MarczakIO">
 				<img src="https://avatars.githubusercontent.com/u/32310272?s=72&u=9e87746b3b55f68f47d27b565ef3ec052af2bfb0&v=4" width="24" alt="Avatar of MarczakIO"> MarczakIO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MarczakIO">Copy rank badge</a><br/>
 			Adam Marczak
 		</td>
 		<td>C&f </td>
@@ -6674,7 +6676,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gambala">
 				<img src="https://avatars.githubusercontent.com/u/2563426?s=72&u=2c7276f0923cb7e79482dc44558669a1fea8f5c1&v=4" width="24" alt="Avatar of gambala"> gambala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gambala">Copy rank badge</a><br/>
 			Vitaly
 		</td>
 		<td>No Company</td>
@@ -6687,7 +6689,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ihorvorotnov">
 				<img src="https://avatars.githubusercontent.com/u/1066083?s=72&v=4" width="24" alt="Avatar of ihorvorotnov"> ihorvorotnov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ihorvorotnov">Copy rank badge</a><br/>
 			Ihor Vorotnov
 		</td>
 		<td>@10up, @fueled </td>
@@ -6700,7 +6702,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/erszcz">
 				<img src="https://avatars.githubusercontent.com/u/112145?s=72&u=63813094b6d545d9bd74b9f7694636a84ed01672&v=4" width="24" alt="Avatar of erszcz"> erszcz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#erszcz">Copy rank badge</a><br/>
 			Radek Szymczyszyn
 		</td>
 		<td>@v7labs  </td>
@@ -6713,7 +6715,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hotline1337">
 				<img src="https://avatars.githubusercontent.com/u/32012110?s=72&u=1dcae9c649466dac8bdd7b618f65ffd088871414&v=4" width="24" alt="Avatar of hotline1337"> hotline1337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hotline1337">Copy rank badge</a><br/>
 			hotline
 		</td>
 		<td>Zen.com Llc </td>
@@ -6726,7 +6728,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/darrarski">
 				<img src="https://avatars.githubusercontent.com/u/1384684?s=72&v=4" width="24" alt="Avatar of darrarski"> darrarski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#darrarski">Copy rank badge</a><br/>
 			Dariusz Rybicki
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bmstefanski">
 				<img src="https://avatars.githubusercontent.com/u/28964599?s=72&u=9228a088f6f69e575e6a992ce212bdda4bd0751e&v=4" width="24" alt="Avatar of bmstefanski"> bmstefanski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bmstefanski">Copy rank badge</a><br/>
 			Bart Stefanski
 		</td>
 		<td>@afimudu </td>
@@ -6752,7 +6754,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/klubinskak">
 				<img src="https://avatars.githubusercontent.com/u/76222513?s=72&u=cdef671bb8bd06124d02bd39b6fd4b04155a55d0&v=4" width="24" alt="Avatar of klubinskak"> klubinskak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#klubinskak">Copy rank badge</a><br/>
 			Klaudia Klubińska
 		</td>
 		<td>No Company</td>
@@ -6765,7 +6767,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tpeczek">
 				<img src="https://avatars.githubusercontent.com/u/1446301?s=72&v=4" width="24" alt="Avatar of tpeczek"> tpeczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tpeczek">Copy rank badge</a><br/>
 			Tomasz Pęczek
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pstrzalk">
 				<img src="https://avatars.githubusercontent.com/u/3659593?s=72&u=4638be55128607793f12fd501654f39a5fd8821e&v=4" width="24" alt="Avatar of pstrzalk"> pstrzalk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pstrzalk">Copy rank badge</a><br/>
 			Paweł Strzałkowski
 		</td>
 		<td>@visualitypl  </td>
@@ -6791,7 +6793,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Szymon20000">
 				<img src="https://avatars.githubusercontent.com/u/12784455?s=72&u=c8242d279ad241ed4a507f7889e4a98280e15990&v=4" width="24" alt="Avatar of Szymon20000"> Szymon20000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Szymon20000">Copy rank badge</a><br/>
 			Szymon Kapała
 		</td>
 		<td>@margelo  </td>
@@ -6804,7 +6806,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rasooll">
 				<img src="https://avatars.githubusercontent.com/u/19185986?s=72&u=97dd9d332b3dd3ad209ca9d800ba762f2232901e&v=4" width="24" alt="Avatar of rasooll"> rasooll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rasooll">Copy rank badge</a><br/>
 			Rasool Safari
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/oleklamza">
 				<img src="https://avatars.githubusercontent.com/u/1088246?s=72&u=1d16f63a963e04ad59e9084a05b258d54843e4fc&v=4" width="24" alt="Avatar of oleklamza"> oleklamza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#oleklamza">Copy rank badge</a><br/>
 			Olek Lamża
 		</td>
 		<td>University Of Silesia </td>
@@ -6830,7 +6832,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/palmiak">
 				<img src="https://avatars.githubusercontent.com/u/2342458?s=72&v=4" width="24" alt="Avatar of palmiak"> palmiak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#palmiak">Copy rank badge</a><br/>
 			Maciek Palmowski
 		</td>
 		<td>Patchstack </td>
@@ -6843,7 +6845,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nullbytepl">
 				<img src="https://avatars.githubusercontent.com/u/17909699?s=72&u=a5519aa3a7fb1e40e9b6bd81ee6dee7769c0aa91&v=4" width="24" alt="Avatar of nullbytepl"> nullbytepl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nullbytepl">Copy rank badge</a><br/>
 			mila wojciechowska
 		</td>
 		<td>Us4us Ltd. </td>
@@ -6856,7 +6858,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TheDoctor0">
 				<img src="https://avatars.githubusercontent.com/u/16612504?s=72&u=132e80fdf5b7f20b992d936ebbd9b3efe2b5f073&v=4" width="24" alt="Avatar of TheDoctor0"> TheDoctor0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TheDoctor0">Copy rank badge</a><br/>
 			Dawid Janik
 		</td>
 		<td>Baytekin Media Ltd. </td>
@@ -6869,7 +6871,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilchm">
 				<img src="https://avatars.githubusercontent.com/u/1621930?s=72&v=4" width="24" alt="Avatar of kamilchm"> kamilchm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilchm">Copy rank badge</a><br/>
 			Kamil Chmielewski
 		</td>
 		<td>No Company</td>
@@ -6882,7 +6884,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tstamborski">
 				<img src="https://avatars.githubusercontent.com/u/30195684?s=72&u=8f423abde5ef8772ba59c2eb96355c09651096ae&v=4" width="24" alt="Avatar of tstamborski"> tstamborski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tstamborski">Copy rank badge</a><br/>
 			telex operator
 		</td>
 		<td>No Company</td>
@@ -6895,7 +6897,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tdziurko">
 				<img src="https://avatars.githubusercontent.com/u/615954?s=72&v=4" width="24" alt="Avatar of tdziurko"> tdziurko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tdziurko">Copy rank badge</a><br/>
 			Tomasz Dziurko
 		</td>
 		<td>Softwaremill </td>
@@ -6908,7 +6910,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/vi">
 				<img src="https://avatars.githubusercontent.com/u/173219?s=72&v=4" width="24" alt="Avatar of vi"> vi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#vi">Copy rank badge</a><br/>
 			Vitaly Shukela
 		</td>
 		<td>No Company</td>
@@ -6921,7 +6923,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dmfigol">
 				<img src="https://avatars.githubusercontent.com/u/1923704?s=72&u=d1632bf80777f0ad8911cf4fb1ea942d3bc8c03b&v=4" width="24" alt="Avatar of dmfigol"> dmfigol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dmfigol">Copy rank badge</a><br/>
 			Dmitry Figol
 		</td>
 		<td>Splunk </td>
@@ -6934,7 +6936,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lowleveldesign">
 				<img src="https://avatars.githubusercontent.com/u/6109268?s=72&u=dfe6993007cb4c50502ffc5467e8949d0bfb01fd&v=4" width="24" alt="Avatar of lowleveldesign"> lowleveldesign
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lowleveldesign">Copy rank badge</a><br/>
 			Sebastian Solnica
 		</td>
 		<td>No Company</td>
@@ -6947,7 +6949,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/VEINHORN">
 				<img src="https://avatars.githubusercontent.com/u/3595400?s=72&u=9d91d5b1df4452c8938d4cd46c2bd11b293e445b&v=4" width="24" alt="Avatar of VEINHORN"> VEINHORN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#VEINHORN">Copy rank badge</a><br/>
 			Boris Korogvich
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lkurzyniec">
 				<img src="https://avatars.githubusercontent.com/u/5943484?s=72&u=8c1415eb1f0cba4aedd2aaeefbcb3f7759d98212&v=4" width="24" alt="Avatar of lkurzyniec"> lkurzyniec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lkurzyniec">Copy rank badge</a><br/>
 			Łukasz Kurzyniec.pl
 		</td>
 		<td>No Company</td>
@@ -6973,7 +6975,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/FractalFir">
 				<img src="https://avatars.githubusercontent.com/u/75212430?s=72&u=41760bb987583e6a173ac1da204fbe79c17d2386&v=4" width="24" alt="Avatar of FractalFir"> FractalFir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#FractalFir">Copy rank badge</a><br/>
 			Fractal Fir(Michał Kostrubiec)
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kokosing">
 				<img src="https://avatars.githubusercontent.com/u/7569403?s=72&u=a7151bb7aba9ca3eea9c4c3c2ac9bcd0de5133c3&v=4" width="24" alt="Avatar of kokosing"> kokosing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kokosing">Copy rank badge</a><br/>
 			Grzegorz Kokosiński
 		</td>
 		<td>@starburstdata  </td>
@@ -6999,7 +7001,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ayufan">
 				<img src="https://avatars.githubusercontent.com/u/2419009?s=72&u=ecea20fdf1c9b3581ff5cc4a26039f024af7a7de&v=4" width="24" alt="Avatar of ayufan"> ayufan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ayufan">Copy rank badge</a><br/>
 			Kamil Trzciński
 		</td>
 		<td>Senior Distinguished Engineer At<br/>Gitlab<br/></td>
@@ -7012,7 +7014,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DCzajkowski">
 				<img src="https://avatars.githubusercontent.com/u/4501047?s=72&u=b196fc306de61080299d54abbfae1497b4bd8b86&v=4" width="24" alt="Avatar of DCzajkowski"> DCzajkowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DCzajkowski">Copy rank badge</a><br/>
 			Dariusz Czajkowski
 		</td>
 		<td>Dilato Applications Inc. </td>
@@ -7025,7 +7027,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TeMPOraL">
 				<img src="https://avatars.githubusercontent.com/u/330616?s=72&v=4" width="24" alt="Avatar of TeMPOraL"> TeMPOraL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TeMPOraL">Copy rank badge</a><br/>
 			Jacek Złydach
 		</td>
 		<td>@hackerspacekrk  </td>
@@ -7038,7 +7040,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/roblaszczak">
 				<img src="https://avatars.githubusercontent.com/u/5737091?s=72&u=8d3290e0f04ba42702b18063b899d56f4d800f6c&v=4" width="24" alt="Avatar of roblaszczak"> roblaszczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#roblaszczak">Copy rank badge</a><br/>
 			Robert Laszczak
 		</td>
 		<td>@threedotslabs </td>
@@ -7051,7 +7053,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/YasiOnFire">
 				<img src="https://avatars.githubusercontent.com/u/3300701?s=72&v=4" width="24" alt="Avatar of YasiOnFire"> YasiOnFire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#YasiOnFire">Copy rank badge</a><br/>
 			Yasio
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/d33tah">
 				<img src="https://avatars.githubusercontent.com/u/295322?s=72&v=4" width="24" alt="Avatar of d33tah"> d33tah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#d33tah">Copy rank badge</a><br/>
 			Jacek Wielemborek
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tomekl007">
 				<img src="https://avatars.githubusercontent.com/u/2332235?s=72&u=b0b45b0d5fc66ffde0d5f973c5d49e130a84aa88&v=4" width="24" alt="Avatar of tomekl007"> tomekl007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tomekl007">Copy rank badge</a><br/>
 			Tomasz Lelek
 		</td>
 		<td>@dremio </td>
@@ -7090,7 +7092,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pedrocoutinhosilva">
 				<img src="https://avatars.githubusercontent.com/u/44022548?s=72&u=8d7c8b84204e24895fc5aa72167b184db9b62cb7&v=4" width="24" alt="Avatar of pedrocoutinhosilva"> pedrocoutinhosilva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pedrocoutinhosilva">Copy rank badge</a><br/>
 			Pedro Silva
 		</td>
 		<td>No Company</td>
@@ -7103,7 +7105,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/electronick1">
 				<img src="https://avatars.githubusercontent.com/u/5982083?s=72&u=1dda5a63bbc1ceb0996699e969658b7d821c5ea3&v=4" width="24" alt="Avatar of electronick1"> electronick1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#electronick1">Copy rank badge</a><br/>
 			Oleg
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krzysztofzablocki">
 				<img src="https://avatars.githubusercontent.com/u/1468993?s=72&u=1ab32c645ce3bd2c31c8d7d6c9eef9ccc21d3038&v=4" width="24" alt="Avatar of krzysztofzablocki"> krzysztofzablocki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krzysztofzablocki">Copy rank badge</a><br/>
 			Krzysztof Zabłocki
 		</td>
 		<td>No Company</td>
@@ -7129,7 +7131,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AndreiMisiukevich">
 				<img src="https://avatars.githubusercontent.com/u/10124814?s=72&u=49bea3c33ba32925ec700a97a7666e52ae541b8f&v=4" width="24" alt="Avatar of AndreiMisiukevich"> AndreiMisiukevich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AndreiMisiukevich">Copy rank badge</a><br/>
 			Andrei
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gleber">
 				<img src="https://avatars.githubusercontent.com/u/33185?s=72&u=cb377b3d2c1eb0581c8a5f301ca75409713dd016&v=4" width="24" alt="Avatar of gleber"> gleber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gleber">Copy rank badge</a><br/>
 			Gleb Peregud
 		</td>
 		<td>Google </td>
@@ -7155,7 +7157,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/arcz">
 				<img src="https://avatars.githubusercontent.com/u/4679721?s=72&u=58e57cba51d882e358cbed07ec561a88d2580359&v=4" width="24" alt="Avatar of arcz"> arcz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#arcz">Copy rank badge</a><br/>
 			Artur Cygan
 		</td>
 		<td>@trailofbits  </td>
@@ -7168,7 +7170,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/prokulski">
 				<img src="https://avatars.githubusercontent.com/u/19608488?s=72&u=6262849a1ad7d194a34483b23e94d8cc5b4d61ca&v=4" width="24" alt="Avatar of prokulski"> prokulski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#prokulski">Copy rank badge</a><br/>
 			Łukasz Prokulski
 		</td>
 		<td>@dane-analizy </td>
@@ -7181,7 +7183,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hbaniecki">
 				<img src="https://avatars.githubusercontent.com/u/32574004?s=72&u=8c0d141f75c490d0dca23fd31c184a85d51c0e03&v=4" width="24" alt="Avatar of hbaniecki"> hbaniecki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hbaniecki">Copy rank badge</a><br/>
 			Hubert Baniecki
 		</td>
 		<td>University Of Warsaw </td>
@@ -7194,7 +7196,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/stepaniukm">
 				<img src="https://avatars.githubusercontent.com/u/28492390?s=72&u=ce579337479d7a654999135fab51e7d4db482c88&v=4" width="24" alt="Avatar of stepaniukm"> stepaniukm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#stepaniukm">Copy rank badge</a><br/>
 			Mateusz Stepaniuk
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ZenyaDAR">
 				<img src="https://avatars.githubusercontent.com/u/86112194?s=72&u=1b74dd8a69b516a41a322bb37b8d98f7838a9c50&v=4" width="24" alt="Avatar of ZenyaDAR"> ZenyaDAR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ZenyaDAR">Copy rank badge</a><br/>
 			Dziza Yevhenii
 		</td>
 		<td>Nda </td>
@@ -7220,7 +7222,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/andrzejsliwa">
 				<img src="https://avatars.githubusercontent.com/u/9280?s=72&u=ede264ddc869ba582f1813c9e91e456b075d820f&v=4" width="24" alt="Avatar of andrzejsliwa"> andrzejsliwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#andrzejsliwa">Copy rank badge</a><br/>
 			Andrzej Śliwa
 		</td>
 		<td>Vp Engineering / Cto<br/>/<br/>Architect<br/>/<br/>Polyglot<br/>Dev<br/></td>
@@ -7233,7 +7235,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Psyhackological">
 				<img src="https://avatars.githubusercontent.com/u/47569716?s=72&u=66dc5e86731eaf8c6bc78a1bff34420ed2e5402b&v=4" width="24" alt="Avatar of Psyhackological"> Psyhackological
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Psyhackological">Copy rank badge</a><br/>
 			Konrad Konieczny
 		</td>
 		<td>Rtb House </td>
@@ -7246,7 +7248,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mfolejewski">
 				<img src="https://avatars.githubusercontent.com/u/58222533?s=72&u=73f2e4c1f877a10c5a7b73258c6837bb1077e334&v=4" width="24" alt="Avatar of mfolejewski"> mfolejewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mfolejewski">Copy rank badge</a><br/>
 			Mirosław Folejewski
 		</td>
 		<td>Https://twitter.com/ </td>
@@ -7259,7 +7261,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/PJDude">
 				<img src="https://avatars.githubusercontent.com/u/113237362?s=72&u=56808c471a96df9f8bf8649d1bde318f1e5da3b7&v=4" width="24" alt="Avatar of PJDude"> PJDude
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#PJDude">Copy rank badge</a><br/>
 			Piotr Jochymek
 		</td>
 		<td>No Company</td>
@@ -7272,7 +7274,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jakobowsky">
 				<img src="https://avatars.githubusercontent.com/u/32365708?s=72&u=b388299df3e4e38b231bb59e4de260a25fed331b&v=4" width="24" alt="Avatar of jakobowsky"> jakobowsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jakobowsky">Copy rank badge</a><br/>
 			Jakob Wolitzki
 		</td>
 		<td>Deltologic </td>
@@ -7285,7 +7287,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mimecorg">
 				<img src="https://avatars.githubusercontent.com/u/36986002?s=72&v=4" width="24" alt="Avatar of mimecorg"> mimecorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mimecorg">Copy rank badge</a><br/>
 			Michał Męciński
 		</td>
 		<td>No Company</td>
@@ -7298,7 +7300,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kgabis">
 				<img src="https://avatars.githubusercontent.com/u/635855?s=72&u=7a9f22a2659933f2e07e87a524bdf609c4742a49&v=4" width="24" alt="Avatar of kgabis"> kgabis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kgabis">Copy rank badge</a><br/>
 			Krzysztof Gabis
 		</td>
 		<td>No Company</td>
@@ -7311,7 +7313,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AmirAli5">
 				<img src="https://avatars.githubusercontent.com/u/41503327?s=72&u=75cc95d65a070a86f4b8071d8af7ea3759513380&v=4" width="24" alt="Avatar of AmirAli5"> AmirAli5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AmirAli5">Copy rank badge</a><br/>
 			Amir Ali
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krzysztof-magosa">
 				<img src="https://avatars.githubusercontent.com/u/6112411?s=72&u=dc3b8a9bc459c67ab53ca95caa7cb791e843ad69&v=4" width="24" alt="Avatar of krzysztof-magosa"> krzysztof-magosa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krzysztof-magosa">Copy rank badge</a><br/>
 			Krzysztof Magosa
 		</td>
 		<td>@statsperform </td>
@@ -7337,7 +7339,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/panr">
 				<img src="https://avatars.githubusercontent.com/u/1303365?s=72&u=a7d962df508f736813b707540bb4f44c59cce120&v=4" width="24" alt="Avatar of panr"> panr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#panr">Copy rank badge</a><br/>
 			Radek Kozieł
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Polprzewodnikowy">
 				<img src="https://avatars.githubusercontent.com/u/3756990?s=72&u=9f1e99622f1ced91fd798a6f714c8a6589648748&v=4" width="24" alt="Avatar of Polprzewodnikowy"> Polprzewodnikowy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Polprzewodnikowy">Copy rank badge</a><br/>
 			Mateusz Faderewski
 		</td>
 		<td>No Company</td>
@@ -7363,7 +7365,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/baransu">
 				<img src="https://avatars.githubusercontent.com/u/9558691?s=72&u=3cdf0603835bcfe4469982c63eda1846f0a4f7d7&v=4" width="24" alt="Avatar of baransu"> baransu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#baransu">Copy rank badge</a><br/>
 			Tomasz Cichocinski
 		</td>
 		<td>@jamdotdev </td>
@@ -7376,7 +7378,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Frizi">
 				<img src="https://avatars.githubusercontent.com/u/919491?s=72&u=604fe8f89855a5b593ef31ad8ffb7322ac61df6f&v=4" width="24" alt="Avatar of Frizi"> Frizi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Frizi">Copy rank badge</a><br/>
 			Frizi
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/deweloperuch">
 				<img src="https://avatars.githubusercontent.com/u/234628784?s=72&u=639483363a861da0d5b38aa4485852a4ddb07651&v=4" width="24" alt="Avatar of deweloperuch"> deweloperuch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#deweloperuch">Copy rank badge</a><br/>
 			Deweloperuch
 		</td>
 		<td>Deweloperuch </td>
@@ -7402,7 +7404,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/playpauseandstop">
 				<img src="https://avatars.githubusercontent.com/u/21325?s=72&u=a7cd7b296a235d5cf6256fd69e17618ed66562d8&v=4" width="24" alt="Avatar of playpauseandstop"> playpauseandstop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#playpauseandstop">Copy rank badge</a><br/>
 			Igor Davydenko
 		</td>
 		<td>@portsideco  </td>
@@ -7415,7 +7417,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/goldmann">
 				<img src="https://avatars.githubusercontent.com/u/43489?s=72&v=4" width="24" alt="Avatar of goldmann"> goldmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#goldmann">Copy rank badge</a><br/>
 			Marek Goldmann
 		</td>
 		<td>Ibm </td>
@@ -7428,7 +7430,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mrmike">
 				<img src="https://avatars.githubusercontent.com/u/529635?s=72&v=4" width="24" alt="Avatar of mrmike"> mrmike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mrmike">Copy rank badge</a><br/>
 			Michal Moczulski
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sentialx">
 				<img src="https://avatars.githubusercontent.com/u/11065386?s=72&u=1ace82e20e3429937d8a891d3043bbf8497ebac1&v=4" width="24" alt="Avatar of sentialx"> sentialx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sentialx">Copy rank badge</a><br/>
 			Eryk Rakowski
 		</td>
 		<td>@redbrickmedia </td>
@@ -7454,7 +7456,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Reinmar">
 				<img src="https://avatars.githubusercontent.com/u/156149?s=72&u=b1069e01fff1c82c942d829fa46aea3a2dfca3c4&v=4" width="24" alt="Avatar of Reinmar"> Reinmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Reinmar">Copy rank badge</a><br/>
 			Piotrek Koszuliński
 		</td>
 		<td>Cksource </td>
@@ -7467,7 +7469,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/porimol">
 				<img src="https://avatars.githubusercontent.com/u/3611305?s=72&u=c50053419cdaf8fe9f76bb5632526c3409ad1952&v=4" width="24" alt="Avatar of porimol"> porimol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#porimol">Copy rank badge</a><br/>
 			Porimol Chandro
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/end3r">
 				<img src="https://avatars.githubusercontent.com/u/373344?s=72&u=29727b1464e5fd4bdfed58f897296603a3c7ec63&v=4" width="24" alt="Avatar of end3r"> end3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#end3r">Copy rank badge</a><br/>
 			Andrzej Mazur
 		</td>
 		<td>@enclavegames  </td>
@@ -7493,7 +7495,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/unfa">
 				<img src="https://avatars.githubusercontent.com/u/491704?s=72&u=7a6f29e6cbdf5eead3b24286505032280ee72028&v=4" width="24" alt="Avatar of unfa"> unfa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#unfa">Copy rank badge</a><br/>
 			unfa
 		</td>
 		<td>No Company</td>
@@ -7506,7 +7508,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Moumen486">
 				<img src="https://avatars.githubusercontent.com/u/190938049?s=72&u=3adf747c4964769c4056979f7ccf28c901d7a661&v=4" width="24" alt="Avatar of Moumen486"> Moumen486
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Moumen486">Copy rank badge</a><br/>
 			ABDELMOUMEN BENHADDAD
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MichalDanielDobrzanski">
 				<img src="https://avatars.githubusercontent.com/u/16417787?s=72&u=f27a1536d597cba194904bfb7b12cd5e6caacaae&v=4" width="24" alt="Avatar of MichalDanielDobrzanski"> MichalDanielDobrzanski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MichalDanielDobrzanski">Copy rank badge</a><br/>
 			Michał Dobrzanski
 		</td>
 		<td>Sliide </td>
@@ -7532,7 +7534,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sebawita">
 				<img src="https://avatars.githubusercontent.com/u/6089763?s=72&u=26f45e12e9953ecdb8a5cdc3e3981ce9f5090290&v=4" width="24" alt="Avatar of sebawita"> sebawita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sebawita">Copy rank badge</a><br/>
 			Sebastian Witalec
 		</td>
 		<td>@namespacelabs </td>
@@ -7545,7 +7547,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamilbaczek">
 				<img src="https://avatars.githubusercontent.com/u/74410956?s=72&u=79ae9cd2317392ad50cab40cdfedddf6b1a77171&v=4" width="24" alt="Avatar of kamilbaczek"> kamilbaczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamilbaczek">Copy rank badge</a><br/>
 			Kamil Bączek
 		</td>
 		<td>Softwaremind </td>
@@ -7558,7 +7560,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mstechly">
 				<img src="https://avatars.githubusercontent.com/u/7314136?s=72&u=bae1943043b15c996738f0353706d8ebc32b42a6&v=4" width="24" alt="Avatar of mstechly"> mstechly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mstechly">Copy rank badge</a><br/>
 			Michał Stęchły
 		</td>
 		<td>No Company</td>
@@ -7571,7 +7573,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nafisfaysal">
 				<img src="https://avatars.githubusercontent.com/u/7595238?s=72&u=223eca3f4c5cc04f3d6728421faa1e20e3335cc9&v=4" width="24" alt="Avatar of nafisfaysal"> nafisfaysal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nafisfaysal">Copy rank badge</a><br/>
 			Nafis Faysal
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jezen">
 				<img src="https://avatars.githubusercontent.com/u/1926747?s=72&u=4835474f603662f80d3bb42611efeb578faaabaa&v=4" width="24" alt="Avatar of jezen"> jezen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jezen">Copy rank badge</a><br/>
 			Jezen Thomas
 		</td>
 		<td>Supercede </td>
@@ -7597,7 +7599,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/anvar-muzaffarli">
 				<img src="https://avatars.githubusercontent.com/u/76660152?s=72&u=0d63185562a187fbfb8e9f6795e80d90886f0191&v=4" width="24" alt="Avatar of anvar-muzaffarli"> anvar-muzaffarli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#anvar-muzaffarli">Copy rank badge</a><br/>
 			MCT, Ph.D Anvar Khalid
 		</td>
 		<td>Infosys </td>
@@ -7610,7 +7612,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/feelfreelinux">
 				<img src="https://avatars.githubusercontent.com/u/11230853?s=72&u=40f51fa3fdb63baf33c1949c21f7f835b206fd13&v=4" width="24" alt="Avatar of feelfreelinux"> feelfreelinux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#feelfreelinux">Copy rank badge</a><br/>
 			Filip Grzywok
 		</td>
 		<td>Vitalthings </td>
@@ -7623,7 +7625,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mlojek">
 				<img src="https://avatars.githubusercontent.com/u/48631831?s=72&u=174426af38cb7db3785e281c4573402bd2123668&v=4" width="24" alt="Avatar of mlojek"> mlojek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mlojek">Copy rank badge</a><br/>
 			Marcin Łojek
 		</td>
 		<td>Warsaw University Of Technology<br/></td>
@@ -7636,7 +7638,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pilloPl">
 				<img src="https://avatars.githubusercontent.com/u/8503093?s=72&u=e4433d5ce4655fd76232462eee6f032c3334ab87&v=4" width="24" alt="Avatar of pilloPl"> pilloPl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pilloPl">Copy rank badge</a><br/>
 			Jakub Pilimon
 		</td>
 		<td>No Company</td>
@@ -7649,7 +7651,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hckr">
 				<img src="https://avatars.githubusercontent.com/u/1078650?s=72&u=77b057b34a301f61b08429ff90dae919daf29da9&v=4" width="24" alt="Avatar of hckr"> hckr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hckr">Copy rank badge</a><br/>
 			Jakub Młokosiewicz
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/burnpiro">
 				<img src="https://avatars.githubusercontent.com/u/3284639?s=72&u=af4e3140674c6545928d5bb74322c78282e14403&v=4" width="24" alt="Avatar of burnpiro"> burnpiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#burnpiro">Copy rank badge</a><br/>
 			Kemal Erdem
 		</td>
 		<td>@primeintellect-ai </td>
@@ -7675,7 +7677,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/falsyvalues">
 				<img src="https://avatars.githubusercontent.com/u/1199350?s=72&u=00eaf2103877b0b74a1cb23e26c20f1923faf100&v=4" width="24" alt="Avatar of falsyvalues"> falsyvalues
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#falsyvalues">Copy rank badge</a><br/>
 			Michał Lipiński
 		</td>
 		<td>No Company</td>
@@ -7688,7 +7690,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sarxos">
 				<img src="https://avatars.githubusercontent.com/u/472658?s=72&v=4" width="24" alt="Avatar of sarxos"> sarxos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sarxos">Copy rank badge</a><br/>
 			Bartosz Firyn
 		</td>
 		<td>Lionbridge </td>
@@ -7701,7 +7703,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krzysobo">
 				<img src="https://avatars.githubusercontent.com/u/22167805?s=72&u=db454e8c89f83d25ea20b7142e95e9433fe617b0&v=4" width="24" alt="Avatar of krzysobo"> krzysobo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krzysobo">Copy rank badge</a><br/>
 			Krzysztof Sobolewski
 		</td>
 		<td>No Company</td>
@@ -7714,7 +7716,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jirafey">
 				<img src="https://avatars.githubusercontent.com/u/97115044?s=72&u=2f43b1fb285634f4a4a10e29803b367623859319&v=4" width="24" alt="Avatar of jirafey"> jirafey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jirafey">Copy rank badge</a><br/>
 			Jirafey
 		</td>
 		<td>Ex Working Student -<br/>Python<br/>Developer<br/>@nokia<br/></td>
@@ -7727,7 +7729,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ilonajulczuk">
 				<img src="https://avatars.githubusercontent.com/u/2233160?s=72&u=b87feec58bd017020c7cc6474dc8eeca6dc0fbb6&v=4" width="24" alt="Avatar of ilonajulczuk"> ilonajulczuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ilonajulczuk">Copy rank badge</a><br/>
 			Justyna Ilczuk
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/nbeloglazov">
 				<img src="https://avatars.githubusercontent.com/u/252053?s=72&u=c52a1bf4d3d591197817b2cd9972a5988213a91c&v=4" width="24" alt="Avatar of nbeloglazov"> nbeloglazov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#nbeloglazov">Copy rank badge</a><br/>
 			Mikita Belahlazau
 		</td>
 		<td>Waymo </td>
@@ -7753,7 +7755,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MichalLytek">
 				<img src="https://avatars.githubusercontent.com/u/10618781?s=72&u=2800e54d15ad79a12b24829f5d84ad6ff26cb655&v=4" width="24" alt="Avatar of MichalLytek"> MichalLytek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MichalLytek">Copy rank badge</a><br/>
 			Michał Lytek
 		</td>
 		<td>Magna Digital </td>
@@ -7766,7 +7768,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bkamins">
 				<img src="https://avatars.githubusercontent.com/u/6187170?s=72&u=5c3740d232a74800a9909dd05851d49e7d8805f6&v=4" width="24" alt="Avatar of bkamins"> bkamins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bkamins">Copy rank badge</a><br/>
 			Bogumił Kamiński
 		</td>
 		<td>Sgh Warsaw School Of<br/>Economics<br/></td>
@@ -7779,7 +7781,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wdanilo">
 				<img src="https://avatars.githubusercontent.com/u/1623053?s=72&u=5a8c02675af4c8a4812f3f9985ae2220d15faf8d&v=4" width="24" alt="Avatar of wdanilo"> wdanilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wdanilo">Copy rank badge</a><br/>
 			Wojciech Daniło
 		</td>
 		<td>Enso.org </td>
@@ -7792,7 +7794,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/konradybcio">
 				<img src="https://avatars.githubusercontent.com/u/32096130?s=72&u=75e99cf4deb4ba59a89e1987bf94f94e59966e6d&v=4" width="24" alt="Avatar of konradybcio"> konradybcio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#konradybcio">Copy rank badge</a><br/>
 			Konrad Dybcio
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jkadamczyk">
 				<img src="https://avatars.githubusercontent.com/u/16062886?s=72&u=de48373e0e525ecd73c123cce40efc686f12d526&v=4" width="24" alt="Avatar of jkadamczyk"> jkadamczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jkadamczyk">Copy rank badge</a><br/>
 			Kuba Adamczyk
 		</td>
 		<td>Aave Labs </td>
@@ -7818,7 +7820,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sheerun">
 				<img src="https://avatars.githubusercontent.com/u/292365?s=72&u=58b65c1d64ab284f2601dc088e7754ff364dd7c6&v=4" width="24" alt="Avatar of sheerun"> sheerun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sheerun">Copy rank badge</a><br/>
 			Adam Stankiewicz
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/klonyyy">
 				<img src="https://avatars.githubusercontent.com/u/10755893?s=72&u=cacbdc484dff41c2657fbcc4619efa32d7873724&v=4" width="24" alt="Avatar of klonyyy"> klonyyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#klonyyy">Copy rank badge</a><br/>
 			Piotr Wasilewski
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ArturT">
 				<img src="https://avatars.githubusercontent.com/u/662545?s=72&u=474bf0e0325f37f270823c8ec89714806d373ed1&v=4" width="24" alt="Avatar of ArturT"> ArturT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ArturT">Copy rank badge</a><br/>
 			Artur Trzop
 		</td>
 		<td>Knapsackpro.com </td>
@@ -7857,7 +7859,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/igorczechak221">
 				<img src="https://avatars.githubusercontent.com/u/236542285?s=72&u=16f561371ddf83a033b15c3c601e2c8c0e161cb6&v=4" width="24" alt="Avatar of igorczechak221"> igorczechak221
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#igorczechak221">Copy rank badge</a><br/>
 			Smart Dev
 		</td>
 		<td>Voypost </td>
@@ -7870,7 +7872,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mpapis">
 				<img src="https://avatars.githubusercontent.com/u/48054?s=72&u=20932a8758edce4695e8a13616ea38da576b2050&v=4" width="24" alt="Avatar of mpapis"> mpapis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mpapis">Copy rank badge</a><br/>
 			Michal Papis
 		</td>
 		<td>Opensource, Akra Polska </td>
@@ -7883,7 +7885,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Ola-Kaznowska">
 				<img src="https://avatars.githubusercontent.com/u/118020449?s=72&u=ee26ec20cd49a4289375d5128f3f911962ca70ba&v=4" width="24" alt="Avatar of Ola-Kaznowska"> Ola-Kaznowska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Ola-Kaznowska">Copy rank badge</a><br/>
 			Ola Kaznowska
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cubiczek">
 				<img src="https://avatars.githubusercontent.com/u/87925970?s=72&u=07f26a02d8ddd4341114ff09347661a44e560fc5&v=4" width="24" alt="Avatar of cubiczek"> cubiczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cubiczek">Copy rank badge</a><br/>
 			cubik
 		</td>
 		<td>No Company</td>
@@ -7909,7 +7911,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mwanago">
 				<img src="https://avatars.githubusercontent.com/u/15181215?s=72&u=b63f09a287ee58d240c4dad27e8df1384ef63e18&v=4" width="24" alt="Avatar of mwanago"> mwanago
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mwanago">Copy rank badge</a><br/>
 			Marcin Wanago
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pacarti">
 				<img src="https://avatars.githubusercontent.com/u/59978338?s=72&u=39697c781c4a83f6ed68fe55e78ddfbde3b3432f&v=4" width="24" alt="Avatar of pacarti"> pacarti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pacarti">Copy rank badge</a><br/>
 			Artur Paciorkowski
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/RIP21">
 				<img src="https://avatars.githubusercontent.com/u/3940079?s=72&u=165b63d92a1989fdf1bd2b51ef3eeae05a4be488&v=4" width="24" alt="Avatar of RIP21"> RIP21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#RIP21">Copy rank badge</a><br/>
 			Andrey (Andrii) Los
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kolorobot">
 				<img src="https://avatars.githubusercontent.com/u/1202934?s=72&u=93aa00084006055432cf717da49f8b50918845bd&v=4" width="24" alt="Avatar of kolorobot"> kolorobot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kolorobot">Copy rank badge</a><br/>
 			Rafal Borowiec
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Michcioperz">
 				<img src="https://avatars.githubusercontent.com/u/3064202?s=72&u=477d83640c79691d1d84e3a891813b33d61cad06&v=4" width="24" alt="Avatar of Michcioperz"> Michcioperz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Michcioperz">Copy rank badge</a><br/>
 			Michalina Sidor
 		</td>
 		<td>@google </td>
@@ -7974,7 +7976,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piotr-jura-udemy">
 				<img src="https://avatars.githubusercontent.com/u/39863283?s=72&u=1074a8aa9725a32083cc54b94eb8400ca80c381b&v=4" width="24" alt="Avatar of piotr-jura-udemy"> piotr-jura-udemy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piotr-jura-udemy">Copy rank badge</a><br/>
 			Piotr Jura
 		</td>
 		<td>Agentic Developer </td>
@@ -7987,7 +7989,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/szmarczak">
 				<img src="https://avatars.githubusercontent.com/u/36894700?s=72&u=d904463d62998824fe6e4055d55475515ace7d87&v=4" width="24" alt="Avatar of szmarczak"> szmarczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#szmarczak">Copy rank badge</a><br/>
 			Szymon Marczak
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/44past4">
 				<img src="https://avatars.githubusercontent.com/u/6388530?s=72&u=9205d83d4d816abf93b9cb6a3f542cc9ee78fbb4&v=4" width="24" alt="Avatar of 44past4"> 44past4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#44past4">Copy rank badge</a><br/>
 			Paweł Kępka
 		</td>
 		<td>Google </td>
@@ -8013,7 +8015,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ExeinfoASL">
 				<img src="https://avatars.githubusercontent.com/u/58791357?s=72&u=fa2dbefb138bfdaf21404f051266e3482ceb0d6c&v=4" width="24" alt="Avatar of ExeinfoASL"> ExeinfoASL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ExeinfoASL">Copy rank badge</a><br/>
 			ASL
 		</td>
 		<td>A.s.l Soft </td>
@@ -8026,7 +8028,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/elgatito">
 				<img src="https://avatars.githubusercontent.com/u/1247242?s=72&u=d9b8894270efbee3778e0b929d7cc07f0bea7071&v=4" width="24" alt="Avatar of elgatito"> elgatito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#elgatito">Copy rank badge</a><br/>
 			Denis
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/matrixik">
 				<img src="https://avatars.githubusercontent.com/u/201930?s=72&u=bf6fb768d07b54d627c34bb253fcdf05f20e002d&v=4" width="24" alt="Avatar of matrixik"> matrixik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#matrixik">Copy rank badge</a><br/>
 			Dobrosław Żybort
 		</td>
 		<td>R&d Fujitsu Poland </td>
@@ -8052,7 +8054,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MrRobb">
 				<img src="https://avatars.githubusercontent.com/u/7969569?s=72&u=7615610dcf01bb89656cbcde3ca0716fdcac6168&v=4" width="24" alt="Avatar of MrRobb"> MrRobb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MrRobb">Copy rank badge</a><br/>
 			Roberto Ariosa
 		</td>
 		<td>@google </td>
@@ -8065,7 +8067,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rootkovska">
 				<img src="https://avatars.githubusercontent.com/u/10212863?s=72&u=b14e1c3d865276dfb9df91bc2f54f3808fcd0de2&v=4" width="24" alt="Avatar of rootkovska"> rootkovska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rootkovska">Copy rank badge</a><br/>
 			Joanna Rutkowska
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/teamon">
 				<img src="https://avatars.githubusercontent.com/u/8083?s=72&u=a0a6be37b3daf6a9ea93e4bcae6877f51e0dc050&v=4" width="24" alt="Avatar of teamon"> teamon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#teamon">Copy rank badge</a><br/>
 			Tymon Tobolski
 		</td>
 		<td>@ubotsco </td>
@@ -8091,7 +8093,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kondrak">
 				<img src="https://avatars.githubusercontent.com/u/423295?s=72&u=a91b7214a624ec1cdf4270500659cf22e3317fb6&v=4" width="24" alt="Avatar of kondrak"> kondrak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kondrak">Copy rank badge</a><br/>
 			Krzysztof Kondrak
 		</td>
 		<td>No Company</td>
@@ -8104,7 +8106,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/o01011">
 				<img src="https://avatars.githubusercontent.com/u/116636835?s=72&u=5ae9cbee6e0ae6aa0f5158ff9823650d0b97731d&v=4" width="24" alt="Avatar of o01011"> o01011
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#o01011">Copy rank badge</a><br/>
 			Maksym Kutsenko
 		</td>
 		<td>Codegeeks Solutions </td>
@@ -8117,7 +8119,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pzduniak">
 				<img src="https://avatars.githubusercontent.com/u/917230?s=72&u=c5c17a8f8363a30a86b72cf0c05b76a062845d08&v=4" width="24" alt="Avatar of pzduniak"> pzduniak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pzduniak">Copy rank badge</a><br/>
 			Piotr Zduniak
 		</td>
 		<td>Swe @zoom, Owner @pyr-sh,<br/>Co-founder<br/>@hakierspejs<br/></td>
@@ -8130,7 +8132,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dreamer">
 				<img src="https://avatars.githubusercontent.com/u/3967?s=72&u=6fdb631e61960adf0406d7562fbc475365f641e8&v=4" width="24" alt="Avatar of dreamer"> dreamer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dreamer">Copy rank badge</a><br/>
 			Patryk Obara
 		</td>
 		<td>No Company</td>
@@ -8143,7 +8145,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pszufe">
 				<img src="https://avatars.githubusercontent.com/u/3813584?s=72&u=d930f385f7b12758263eedada47b857883b23a44&v=4" width="24" alt="Avatar of pszufe"> pszufe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pszufe">Copy rank badge</a><br/>
 			Przemysław Szufel
 		</td>
 		<td>Warsaw School Of Economics<br/></td>
@@ -8156,7 +8158,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/noyzys">
 				<img src="https://avatars.githubusercontent.com/u/43380558?s=72&u=d73fe8d58ae8c7165db972a9d3a1746bda35c393&v=4" width="24" alt="Avatar of noyzys"> noyzys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#noyzys">Copy rank badge</a><br/>
 			Damian 
 		</td>
 		<td>@rgmc-pl-network </td>
@@ -8169,7 +8171,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jakubhajek">
 				<img src="https://avatars.githubusercontent.com/u/12278855?s=72&u=febef45ac2943806e8535fcd105a17aa587fe444&v=4" width="24" alt="Avatar of jakubhajek"> jakubhajek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jakubhajek">Copy rank badge</a><br/>
 			Jakub Hajek
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AdamSiekierski">
 				<img src="https://avatars.githubusercontent.com/u/24841038?s=72&u=e45f311a33a13a1944085ab28bc49fa80db1c1e5&v=4" width="24" alt="Avatar of AdamSiekierski"> AdamSiekierski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AdamSiekierski">Copy rank badge</a><br/>
 			Adam Siekierski
 		</td>
 		<td>@appunite </td>
@@ -8195,7 +8197,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/marcinwyszynski">
 				<img src="https://avatars.githubusercontent.com/u/571786?s=72&u=34ffdd3255d04c191fa4006ccae9e260fa95732a&v=4" width="24" alt="Avatar of marcinwyszynski"> marcinwyszynski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#marcinwyszynski">Copy rank badge</a><br/>
 			Marcin Wyszynski
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cahitihac">
 				<img src="https://avatars.githubusercontent.com/u/20772217?s=72&u=b05c968b93ef7872cbe3f5bc74f0d9bd17d2d521&v=4" width="24" alt="Avatar of cahitihac"> cahitihac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cahitihac">Copy rank badge</a><br/>
 			Cahit
 		</td>
 		<td>@epam </td>
@@ -8221,7 +8223,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gbaranski">
 				<img src="https://avatars.githubusercontent.com/u/34353640?s=72&u=38af75f079a3c576c34f5d7a4de0198f101ab561&v=4" width="24" alt="Avatar of gbaranski"> gbaranski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gbaranski">Copy rank badge</a><br/>
 			Grzegorz Baranski
 		</td>
 		<td>No Company</td>
@@ -8234,7 +8236,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piotrmaciejbednarski">
 				<img src="https://avatars.githubusercontent.com/u/115151408?s=72&v=4" width="24" alt="Avatar of piotrmaciejbednarski"> piotrmaciejbednarski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piotrmaciejbednarski">Copy rank badge</a><br/>
 			Piotr Bednarski
 		</td>
 		<td>Useme (r&d) </td>
@@ -8247,7 +8249,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/styczynski">
 				<img src="https://avatars.githubusercontent.com/u/7319352?s=72&u=743e1bf2fa2ceb11735be865782158a16bcd8ebc&v=4" width="24" alt="Avatar of styczynski"> styczynski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#styczynski">Copy rank badge</a><br/>
 			Piotr Aleksander Styczyński
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/terjanq">
 				<img src="https://avatars.githubusercontent.com/u/11320896?s=72&u=c346c565aaae982187b72cbcf96df14f4534f322&v=4" width="24" alt="Avatar of terjanq"> terjanq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#terjanq">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@google  </td>
@@ -8273,7 +8275,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/paneq">
 				<img src="https://avatars.githubusercontent.com/u/65587?s=72&u=42b11eb0c54ffc2698c3b23b4fd5cf96fff3d7fa&v=4" width="24" alt="Avatar of paneq"> paneq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#paneq">Copy rank badge</a><br/>
 			Robert Pankowecki
 		</td>
 		<td>@toptal </td>
@@ -8286,7 +8288,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mrfixpl">
 				<img src="https://avatars.githubusercontent.com/u/103274854?s=72&u=64cb379e51e720770b1ccbfaaf76e69be8f42401&v=4" width="24" alt="Avatar of mrfixpl"> mrfixpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mrfixpl">Copy rank badge</a><br/>
 			mr-fix
 		</td>
 		<td>No Company</td>
@@ -8299,7 +8301,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/RafalFilipek">
 				<img src="https://avatars.githubusercontent.com/u/80960?s=72&u=1ffbf54d1c47acb3cad9042c763298bb34280f45&v=4" width="24" alt="Avatar of RafalFilipek"> RafalFilipek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#RafalFilipek">Copy rank badge</a><br/>
 			Rafau
 		</td>
 		<td>Orange </td>
@@ -8312,7 +8314,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dsokal">
 				<img src="https://avatars.githubusercontent.com/u/5256730?s=72&u=b6a74e4a0910d76fddfde2ca6f5f94592082c023&v=4" width="24" alt="Avatar of dsokal"> dsokal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dsokal">Copy rank badge</a><br/>
 			Dominik Sokal
 		</td>
 		<td>@solidstudiosh </td>
@@ -8325,7 +8327,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ihor">
 				<img src="https://avatars.githubusercontent.com/u/490943?s=72&u=901dca2ed63075b4d85f67190f5225b6d14f88bc&v=4" width="24" alt="Avatar of ihor"> ihor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ihor">Copy rank badge</a><br/>
 			Ihor Burlachenko
 		</td>
 		<td>Vp Of Engineering At<br/>Make<br/></td>
@@ -8338,7 +8340,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Idered">
 				<img src="https://avatars.githubusercontent.com/u/230404?s=72&u=3f321d9ed9cf2eb1e6b6b935b5fc8f4cef4b3723&v=4" width="24" alt="Avatar of Idered"> Idered
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Idered">Copy rank badge</a><br/>
 			Kasper Mikiewicz
 		</td>
 		<td>@stackblitz  </td>
@@ -8351,7 +8353,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Dziurwa14">
 				<img src="https://avatars.githubusercontent.com/u/54191536?s=72&u=5e59267979f187968c4ba9f534e4ceebea4e5b10&v=4" width="24" alt="Avatar of Dziurwa14"> Dziurwa14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Dziurwa14">Copy rank badge</a><br/>
 			Dziurwa
 		</td>
 		<td>Home </td>
@@ -8364,7 +8366,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Scthe">
 				<img src="https://avatars.githubusercontent.com/u/9325337?s=72&u=4901e7eb3ed046a3d3844dff350f913ab568308b&v=4" width="24" alt="Avatar of Scthe"> Scthe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Scthe">Copy rank badge</a><br/>
 			Marcin Matuszczyk
 		</td>
 		<td>Open For Hire (javascript)<br/></td>
@@ -8377,7 +8379,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bbarthec">
 				<img src="https://avatars.githubusercontent.com/u/16623003?s=72&u=46e0349d9769fbbf06b4e3eccf525ba0ebe3c30e&v=4" width="24" alt="Avatar of bbarthec"> bbarthec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bbarthec">Copy rank badge</a><br/>
 			Bartłomiej Bukowski
 		</td>
 		<td>@software-mansion, Ex-@expo Developer </td>
@@ -8390,7 +8392,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dawiddyrcz">
 				<img src="https://avatars.githubusercontent.com/u/34553866?s=72&u=84f01d7f8f75d7bbac9b0bae3870dd79fb32dcf0&v=4" width="24" alt="Avatar of dawiddyrcz"> dawiddyrcz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dawiddyrcz">Copy rank badge</a><br/>
 			Dawid Dyrcz
 		</td>
 		<td>Ddbim </td>
@@ -8403,7 +8405,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ayogun">
 				<img src="https://avatars.githubusercontent.com/u/62607936?s=72&u=c2c66aa6bc80e5159f6c45ec9d907c4f82b8d8f3&v=4" width="24" alt="Avatar of ayogun"> ayogun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ayogun">Copy rank badge</a><br/>
 			Ali Ogun
 		</td>
 		<td>@hylandsoftware  </td>
@@ -8416,7 +8418,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pwicherski">
 				<img src="https://avatars.githubusercontent.com/u/6884051?s=72&u=f862df0a7325d02149becc2094a05c99eea59b01&v=4" width="24" alt="Avatar of pwicherski"> pwicherski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pwicherski">Copy rank badge</a><br/>
 			Piotr Wicherski
 		</td>
 		<td>@uefadigital </td>
@@ -8429,7 +8431,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/karol-f">
 				<img src="https://avatars.githubusercontent.com/u/893082?s=72&u=0cda88d40a24ee696580f2e62f5569f49117cf40&v=4" width="24" alt="Avatar of karol-f"> karol-f
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#karol-f">Copy rank badge</a><br/>
 			Karol Fabjańczuk
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MaKiPL">
 				<img src="https://avatars.githubusercontent.com/u/7060605?s=72&u=eecefbdb2b3f38c5484a4bed4fc4b07e2feb29bc&v=4" width="24" alt="Avatar of MaKiPL"> MaKiPL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MaKiPL">Copy rank badge</a><br/>
 			Marcin 'Maki' Gomulak
 		</td>
 		<td>Flyingwildhog </td>
@@ -8455,7 +8457,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sinemercumert">
 				<img src="https://avatars.githubusercontent.com/u/89394918?s=72&u=7642bf53da1ef3ce4f0e94364f5abcfd674fff07&v=4" width="24" alt="Avatar of sinemercumert"> sinemercumert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sinemercumert">Copy rank badge</a><br/>
 			Sinem Ercümert
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/otabek-kholmirzaev">
 				<img src="https://avatars.githubusercontent.com/u/78837196?s=72&u=919d208a6afbcdd894027ab1bd59af4f4e6e9ad0&v=4" width="24" alt="Avatar of otabek-kholmirzaev"> otabek-kholmirzaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#otabek-kholmirzaev">Copy rank badge</a><br/>
 			Otabek Kholmirzaev
 		</td>
 		<td>Software Engineer </td>
@@ -8481,7 +8483,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Juby210">
 				<img src="https://avatars.githubusercontent.com/u/31005896?s=72&u=a5ba421880cccfdb15fe4d2ed0eb5dc52780277f&v=4" width="24" alt="Avatar of Juby210"> Juby210
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Juby210">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/thunderer">
 				<img src="https://avatars.githubusercontent.com/u/1087180?s=72&u=1004de5b46b0770733d009e96163f7efa2a8b486&v=4" width="24" alt="Avatar of thunderer"> thunderer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#thunderer">Copy rank badge</a><br/>
 			Tomasz Kowalczyk
 		</td>
 		<td>Gentleman </td>
@@ -8507,7 +8509,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wiktorlazarski">
 				<img src="https://avatars.githubusercontent.com/u/27450453?s=72&u=2d293b71ab2f710812333915ef64b34f43abc226&v=4" width="24" alt="Avatar of wiktorlazarski"> wiktorlazarski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wiktorlazarski">Copy rank badge</a><br/>
 			Wiktor Łazarski
 		</td>
 		<td>@worldcoin </td>
@@ -8520,7 +8522,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/JaCzekanski">
 				<img src="https://avatars.githubusercontent.com/u/3662990?s=72&u=e2842d334a8dac233e01031e6658a8291e91e24f&v=4" width="24" alt="Avatar of JaCzekanski"> JaCzekanski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#JaCzekanski">Copy rank badge</a><br/>
 			Jakub Czekański
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bpieczek">
 				<img src="https://avatars.githubusercontent.com/u/92160230?s=72&u=8514d5363ce2bc8d8ba5678d2838e3d9505bfb68&v=4" width="24" alt="Avatar of bpieczek"> bpieczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bpieczek">Copy rank badge</a><br/>
 			Bartosz Pieczek
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukaszklis">
 				<img src="https://avatars.githubusercontent.com/u/11782?s=72&u=ea61e92e2dec4d359f5b6f500f9d037c95838234&v=4" width="24" alt="Avatar of lukaszklis"> lukaszklis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukaszklis">Copy rank badge</a><br/>
 			Łukasz Kliś
 		</td>
 		<td>@surferseo </td>
@@ -8559,7 +8561,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/BartoszJarocki">
 				<img src="https://avatars.githubusercontent.com/u/1017620?s=72&u=1683b6d937c238b552e4988a6d6a75fe7375410b&v=4" width="24" alt="Avatar of BartoszJarocki"> BartoszJarocki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#BartoszJarocki">Copy rank badge</a><br/>
 			Bartosz Jarocki
 		</td>
 		<td>@motion-creative  </td>
@@ -8572,7 +8574,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/juliuszlosinski">
 				<img src="https://avatars.githubusercontent.com/u/72278818?s=72&u=4e9e220bf615361d83f5a90ecaacafad5ac3e32e&v=4" width="24" alt="Avatar of juliuszlosinski"> juliuszlosinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#juliuszlosinski">Copy rank badge</a><br/>
 			Juliusz Łosiński
 		</td>
 		<td>Research And Teaching Assistant<br/>|<br/>Ml<br/>Engineer<br/></td>
@@ -8585,7 +8587,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/medikoo">
 				<img src="https://avatars.githubusercontent.com/u/122434?s=72&u=6202deb7a394c25a15b19d420e5ea28914384ec4&v=4" width="24" alt="Avatar of medikoo"> medikoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#medikoo">Copy rank badge</a><br/>
 			Mariusz Nowak
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/weijie-chen">
 				<img src="https://avatars.githubusercontent.com/u/59842360?s=72&u=c2020ab895defe1dc5e3fce6eb21a5c885adc7cd&v=4" width="24" alt="Avatar of weijie-chen"> weijie-chen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#weijie-chen">Copy rank badge</a><br/>
 			Weijie Chen
 		</td>
 		<td>No Company</td>
@@ -8611,7 +8613,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/BekBrace">
 				<img src="https://avatars.githubusercontent.com/u/60483846?s=72&u=8653b3cba8e188980f841ec88a41569ba6aff3f5&v=4" width="24" alt="Avatar of BekBrace"> BekBrace
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#BekBrace">Copy rank badge</a><br/>
 			BekBrace
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rahmanusta">
 				<img src="https://avatars.githubusercontent.com/u/1158804?s=72&u=7a6f2aadf7b9fa2698741d98d37bee2795d7cfe4&v=4" width="24" alt="Avatar of rahmanusta"> rahmanusta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rahmanusta">Copy rank badge</a><br/>
 			Rahman Usta
 		</td>
 		<td>Istanbul Jug </td>
@@ -8637,7 +8639,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/przemyslawzaworski">
 				<img src="https://avatars.githubusercontent.com/u/22749729?s=72&v=4" width="24" alt="Avatar of przemyslawzaworski"> przemyslawzaworski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#przemyslawzaworski">Copy rank badge</a><br/>
 			Przemyslaw Zaworski
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hypeapps">
 				<img src="https://avatars.githubusercontent.com/u/17014754?s=72&u=ae1eed3a52a227dfbf6d959a4433dce955b16ace&v=4" width="24" alt="Avatar of hypeapps"> hypeapps
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hypeapps">Copy rank badge</a><br/>
 			Przemek 
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/macbury">
 				<img src="https://avatars.githubusercontent.com/u/110908?s=72&u=39b0f3e902e05f5bb1cf0c806799c51005d9deef&v=4" width="24" alt="Avatar of macbury"> macbury
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#macbury">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bananu7">
 				<img src="https://avatars.githubusercontent.com/u/2399997?s=72&u=75e6cb80774d900147d0ca06dec8578b17dc46b8&v=4" width="24" alt="Avatar of bananu7"> bananu7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bananu7">Copy rank badge</a><br/>
 			Bartek Banachewicz
 		</td>
 		<td>No Company</td>
@@ -8689,7 +8691,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pokonski">
 				<img src="https://avatars.githubusercontent.com/u/135402?s=72&u=99368c81bab07bb7ef2b5e4f74857982df51a1bb&v=4" width="24" alt="Avatar of pokonski"> pokonski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pokonski">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michalchudziak">
 				<img src="https://avatars.githubusercontent.com/u/7837457?s=72&u=7b867431309ad44cba611492b5d65429c0225074&v=4" width="24" alt="Avatar of michalchudziak"> michalchudziak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michalchudziak">Copy rank badge</a><br/>
 			Michał Chudziak
 		</td>
 		<td>Michalchudziak.dev </td>
@@ -8715,7 +8717,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/plumthedev">
 				<img src="https://avatars.githubusercontent.com/u/26173777?s=72&u=819ccc4c025f454cfaabba2b2bb4230ee978cad9&v=4" width="24" alt="Avatar of plumthedev"> plumthedev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#plumthedev">Copy rank badge</a><br/>
 			Kacper Pruszyński
 		</td>
 		<td>No Company</td>
@@ -8728,7 +8730,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mat3e">
 				<img src="https://avatars.githubusercontent.com/u/8582753?s=72&u=f0a0a940c3245a28ebfe2c3ed019ea5a5553b828&v=4" width="24" alt="Avatar of mat3e"> mat3e
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mat3e">Copy rank badge</a><br/>
 			Mateusz Chrzonstowski
 		</td>
 		<td>Inpost </td>
@@ -8741,7 +8743,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/m1entus">
 				<img src="https://avatars.githubusercontent.com/u/1565368?s=72&u=869a2af95711cc1c9698e71173be67188dfdeaf6&v=4" width="24" alt="Avatar of m1entus"> m1entus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#m1entus">Copy rank badge</a><br/>
 			Michał Zaborowski
 		</td>
 		<td>@geneva </td>
@@ -8754,7 +8756,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/piotrplenik">
 				<img src="https://avatars.githubusercontent.com/u/674766?s=72&u=a32a6a1bb09ab8567781e43ff24ef26ec82e3aeb&v=4" width="24" alt="Avatar of piotrplenik"> piotrplenik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#piotrplenik">Copy rank badge</a><br/>
 			Piotr Plenik
 		</td>
 		<td>Paramount </td>
@@ -8767,7 +8769,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SKGleba">
 				<img src="https://avatars.githubusercontent.com/u/30833773?s=72&v=4" width="24" alt="Avatar of SKGleba"> SKGleba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SKGleba">Copy rank badge</a><br/>
 			Sebastian Kubala
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Ace-Krypton">
 				<img src="https://avatars.githubusercontent.com/u/75210504?s=72&u=27cdc0f28c9c1d8a6558e9d338407f51cbeabc78&v=4" width="24" alt="Avatar of Ace-Krypton"> Ace-Krypton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Ace-Krypton">Copy rank badge</a><br/>
 			krypton
 		</td>
 		<td>Visutla University </td>
@@ -8793,7 +8795,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cloudowski">
 				<img src="https://avatars.githubusercontent.com/u/6390303?s=72&u=298e3bcba7fbf6fb7225441ec3332071aa2f8f3f&v=4" width="24" alt="Avatar of cloudowski"> cloudowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cloudowski">Copy rank badge</a><br/>
 			Tomasz Cholewa
 		</td>
 		<td>No Company</td>
@@ -8806,7 +8808,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Trancever">
 				<img src="https://avatars.githubusercontent.com/u/18584155?s=72&u=4f1f6924ebff525fda5e05ded21a43655358a25a&v=4" width="24" alt="Avatar of Trancever"> Trancever
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Trancever">Copy rank badge</a><br/>
 			Dawid Urbaniak
 		</td>
 		<td>@dweet-solutions  </td>
@@ -8819,7 +8821,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lest">
 				<img src="https://avatars.githubusercontent.com/u/36079?s=72&u=5db7203eec06ae9d2e49f2c23ae7eaac6e5dae15&v=4" width="24" alt="Avatar of lest"> lest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lest">Copy rank badge</a><br/>
 			Sergey Nartimov
 		</td>
 		<td>Bookfusion </td>
@@ -8832,7 +8834,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wowo">
 				<img src="https://avatars.githubusercontent.com/u/100724?s=72&u=abd19e84332963e8f19314dde03e23ffed2deb2c&v=4" width="24" alt="Avatar of wowo"> wowo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wowo">Copy rank badge</a><br/>
 			Wojciech Sznapka
 		</td>
 		<td>Gamblitude </td>
@@ -8845,7 +8847,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Gorillq">
 				<img src="https://avatars.githubusercontent.com/u/114919571?s=72&u=bb570181bb5b452b4c47a4b5740d5018209e3e1e&v=4" width="24" alt="Avatar of Gorillq"> Gorillq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Gorillq">Copy rank badge</a><br/>
 			Kamil
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mwojcikowski">
 				<img src="https://avatars.githubusercontent.com/u/2325645?s=72&u=fe998ea4194b634df9940e2162b91e326f98244d&v=4" width="24" alt="Avatar of mwojcikowski"> mwojcikowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mwojcikowski">Copy rank badge</a><br/>
 			Maciej Wójcikowski
 		</td>
 		<td>@merckgroup </td>
@@ -8871,7 +8873,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tboba">
 				<img src="https://avatars.githubusercontent.com/u/23281839?s=72&u=dcacb232fc98c7908dfe4f16ad2713a424b83585&v=4" width="24" alt="Avatar of tboba"> tboba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tboba">Copy rank badge</a><br/>
 			Tymoteusz Boba
 		</td>
 		<td>@software-mansion </td>
@@ -8884,7 +8886,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cyberspacedk">
 				<img src="https://avatars.githubusercontent.com/u/44088176?s=72&u=19b80861cc46c50ae8cd4b82383014b7cb784b0d&v=4" width="24" alt="Avatar of cyberspacedk"> cyberspacedk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cyberspacedk">Copy rank badge</a><br/>
 			Dmytro
 		</td>
 		<td>Dataart </td>
@@ -8897,7 +8899,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dimazen">
 				<img src="https://avatars.githubusercontent.com/u/829562?s=72&u=719993cb81603dd38e800d41ff286c3a1e6f5ec1&v=4" width="24" alt="Avatar of dimazen"> dimazen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dimazen">Copy rank badge</a><br/>
 			Dima Vorona
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mlykotom">
 				<img src="https://avatars.githubusercontent.com/u/3973717?s=72&u=efea8c8211788a32614b43cb7c4ef3672c35581b&v=4" width="24" alt="Avatar of mlykotom"> mlykotom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mlykotom">Copy rank badge</a><br/>
 			Tomáš Mlynarič
 		</td>
 		<td>@google  </td>
@@ -8923,7 +8925,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/l3l0">
 				<img src="https://avatars.githubusercontent.com/u/209405?s=72&u=12ad97e12aa21645f32753476d04096c69083e55&v=4" width="24" alt="Avatar of l3l0"> l3l0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#l3l0">Copy rank badge</a><br/>
 			Leszek Prabucki
 		</td>
 		<td>Iteo </td>
@@ -8936,7 +8938,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Vivirinter">
 				<img src="https://avatars.githubusercontent.com/u/66433979?s=72&u=71ef5ba0882c32d0b086648f0ba797376f89574f&v=4" width="24" alt="Avatar of Vivirinter"> Vivirinter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Vivirinter">Copy rank badge</a><br/>
 			vivirinter
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/gustojs">
 				<img src="https://avatars.githubusercontent.com/u/25644507?s=72&u=8dd1abb882e167f0d2902e8e26c3456876879273&v=4" width="24" alt="Avatar of gustojs"> gustojs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#gustojs">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/DanielMichalski">
 				<img src="https://avatars.githubusercontent.com/u/5454114?s=72&u=75899e05652115449d7b4a56638b84b2e15e03b1&v=4" width="24" alt="Avatar of DanielMichalski"> DanielMichalski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#DanielMichalski">Copy rank badge</a><br/>
 			Daniel Michalski
 		</td>
 		<td>Dm Software House </td>
@@ -8975,7 +8977,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sonocotta">
 				<img src="https://avatars.githubusercontent.com/u/98712315?s=72&u=c034aa2096a02b8b1df92e34667a9429e478c1fb&v=4" width="24" alt="Avatar of sonocotta"> sonocotta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sonocotta">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Sonocotta </td>
@@ -8988,7 +8990,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/goodideagiver">
 				<img src="https://avatars.githubusercontent.com/u/55458485?s=72&u=8330f0d83e959788e06a830b37fdd959667439f2&v=4" width="24" alt="Avatar of goodideagiver"> goodideagiver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#goodideagiver">Copy rank badge</a><br/>
 			prplblck
 		</td>
 		<td>Appunite </td>
@@ -9001,7 +9003,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/beerose">
 				<img src="https://avatars.githubusercontent.com/u/9019397?s=72&u=62d4fdfabeb268d4e165bf94a47c6b0750f92833&v=4" width="24" alt="Avatar of beerose"> beerose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#beerose">Copy rank badge</a><br/>
 			Aleksandra
 		</td>
 		<td>Clerk </td>
@@ -9014,7 +9016,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ochococo">
 				<img src="https://avatars.githubusercontent.com/u/3382607?s=72&u=b91e25ed3780844bd63bf83c361894bf07b1a262&v=4" width="24" alt="Avatar of ochococo"> ochococo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ochococo">Copy rank badge</a><br/>
 			Oktawian Chojnacki
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Puliczek">
 				<img src="https://avatars.githubusercontent.com/u/12344862?s=72&u=870342d77a525262e2e73a456abb09354527ead9&v=4" width="24" alt="Avatar of Puliczek"> Puliczek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Puliczek">Copy rank badge</a><br/>
 			Maciej Pulikowski
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ecler">
 				<img src="https://avatars.githubusercontent.com/u/2544319?s=72&u=f3e376e4315a511b31abd6ba72ff208085f46826&v=4" width="24" alt="Avatar of ecler"> ecler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ecler">Copy rank badge</a><br/>
 			Paweł Białecki
 		</td>
 		<td>Astro Photons Apps </td>
@@ -9053,7 +9055,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rasom">
 				<img src="https://avatars.githubusercontent.com/u/2364994?s=72&u=3add0350753274731cced1cf6316edfc291d0bca&v=4" width="24" alt="Avatar of rasom"> rasom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rasom">Copy rank badge</a><br/>
 			Roman Volosovskyi
 		</td>
 		<td>No Company</td>
@@ -9066,7 +9068,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tombusby">
 				<img src="https://avatars.githubusercontent.com/u/7223349?s=72&u=53d3e76587d1249358293889d35d014b27a52f85&v=4" width="24" alt="Avatar of tombusby"> tombusby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tombusby">Copy rank badge</a><br/>
 			Tom Busby
 		</td>
 		<td>@cryptoanarchywiki  </td>
@@ -9079,7 +9081,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/snapshotpl">
 				<img src="https://avatars.githubusercontent.com/u/312655?s=72&v=4" width="24" alt="Avatar of snapshotpl"> snapshotpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#snapshotpl">Copy rank badge</a><br/>
 			Witold Wasiczko
 		</td>
 		<td>Fabbler.ai </td>
@@ -9092,7 +9094,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Sikora00">
 				<img src="https://avatars.githubusercontent.com/u/24508253?s=72&u=1d25ab692589e6aaf856da57c3968931ef5f480c&v=4" width="24" alt="Avatar of Sikora00"> Sikora00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Sikora00">Copy rank badge</a><br/>
 			Maciej Sikorski
 		</td>
 		<td>@rampnetwork </td>
@@ -9105,7 +9107,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KoMaR1911">
 				<img src="https://avatars.githubusercontent.com/u/15141257?s=72&u=9edc01ce9e2a9ac9d60f6047d2253447b50189ed&v=4" width="24" alt="Avatar of KoMaR1911"> KoMaR1911
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KoMaR1911">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Byteshield.ac </td>
@@ -9118,7 +9120,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pawelkaczor">
 				<img src="https://avatars.githubusercontent.com/u/41667?s=72&u=5cb6fec0a1e0f0ac56d5b8a341dd621f637bb0c4&v=4" width="24" alt="Avatar of pawelkaczor"> pawelkaczor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pawelkaczor">Copy rank badge</a><br/>
 			Paweł Kaczor
 		</td>
 		<td>Newicom Paweł Kaczor </td>
@@ -9131,7 +9133,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/fizyk20">
 				<img src="https://avatars.githubusercontent.com/u/3586757?s=72&v=4" width="24" alt="Avatar of fizyk20"> fizyk20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#fizyk20">Copy rank badge</a><br/>
 			Bartłomiej Kamiński
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/azac">
 				<img src="https://avatars.githubusercontent.com/u/1867924?s=72&v=4" width="24" alt="Avatar of azac"> azac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#azac">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/elceef">
 				<img src="https://avatars.githubusercontent.com/u/8627380?s=72&u=7c0e116b8abfefb1419c4a1daa8c7e6f0414e61d&v=4" width="24" alt="Avatar of elceef"> elceef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#elceef">Copy rank badge</a><br/>
 			Marcin Ulikowski
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/aniav">
 				<img src="https://avatars.githubusercontent.com/u/182546?s=72&u=74b6c644905fdbf36a9ea51a40a4e86fa9fb94f6&v=4" width="24" alt="Avatar of aniav"> aniav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#aniav">Copy rank badge</a><br/>
 			Ania Warzecha
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/sulco">
 				<img src="https://avatars.githubusercontent.com/u/1511906?s=72&u=d6df33a5f54e0c9b5fb79fe1c4461249d5f726b7&v=4" width="24" alt="Avatar of sulco"> sulco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#sulco">Copy rank badge</a><br/>
 			 Tomek Sulkowski
 		</td>
 		<td>Stackblitz </td>
@@ -9196,7 +9198,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bizley">
 				<img src="https://avatars.githubusercontent.com/u/8577314?s=72&u=87787dbd2d931204e5168c7412db28b4cbc437a6&v=4" width="24" alt="Avatar of bizley"> bizley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bizley">Copy rank badge</a><br/>
 			Bizley
 		</td>
 		<td>@positivecodes @saga-capital @yiisoft </td>
@@ -9209,7 +9211,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/michaljaz">
 				<img src="https://avatars.githubusercontent.com/u/26044292?s=72&u=9746ec85890bdf977b26e25a3505c02a31a0545d&v=4" width="24" alt="Avatar of michaljaz"> michaljaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#michaljaz">Copy rank badge</a><br/>
 			Michał Jażdżyk
 		</td>
 		<td>@shopmcapp, @essagames, @pumptrader, @epicpiano<br/></td>
@@ -9222,7 +9224,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/vifon">
 				<img src="https://avatars.githubusercontent.com/u/624347?s=72&v=4" width="24" alt="Avatar of vifon"> vifon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#vifon">Copy rank badge</a><br/>
 			Wojciech Siewierski
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bblimke">
 				<img src="https://avatars.githubusercontent.com/u/15547?s=72&u=1dac1dd37128b934367c58ffed3213d87d9e8cc6&v=4" width="24" alt="Avatar of bblimke"> bblimke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bblimke">Copy rank badge</a><br/>
 			Bartosz Blimke
 		</td>
 		<td>Bartosz Blimke Web Development<br/></td>
@@ -9248,7 +9250,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kdzwinel">
 				<img src="https://avatars.githubusercontent.com/u/985504?s=72&u=5217b4407b94a5837696843d9af563d43dd1b436&v=4" width="24" alt="Avatar of kdzwinel"> kdzwinel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kdzwinel">Copy rank badge</a><br/>
 			Konrad Dzwinel
 		</td>
 		<td>Privacy Engineering @duckduckgo </td>
@@ -9261,7 +9263,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kaban0z">
 				<img src="https://avatars.githubusercontent.com/u/266239490?s=72&u=c1758a825592ad12a4f279d5c8092b2d3382e1ac&v=4" width="24" alt="Avatar of kaban0z"> kaban0z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kaban0z">Copy rank badge</a><br/>
 			𝔄𝔰𝔲𝔨𝔞/𝔨𝔞𝔟𝔞𝔫𝔬𝔰
 		</td>
 		<td>Pls Dont Copy My<br/>Skins<br/>U<br/>Can<br/>Take<br/>Inspo<br/>But<br/>Only<br/>With<br/>My<br/>Premission!<br/></td>
@@ -9274,7 +9276,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/divadsn">
 				<img src="https://avatars.githubusercontent.com/u/28547847?s=72&u=e238fcab898a4694a054a582a281904dc9f28f8b&v=4" width="24" alt="Avatar of divadsn"> divadsn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#divadsn">Copy rank badge</a><br/>
 			David Sn
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mobily">
 				<img src="https://avatars.githubusercontent.com/u/1467712?s=72&u=474d4e7d8f0d88e3a140eca5e9264e5d84508296&v=4" width="24" alt="Avatar of mobily"> mobily
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mobily">Copy rank badge</a><br/>
 			Marcin Dziewulski
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mateuszbuda">
 				<img src="https://avatars.githubusercontent.com/u/5720638?s=72&u=da6569aefbed1581c87686b921848567645e980d&v=4" width="24" alt="Avatar of mateuszbuda"> mateuszbuda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mateuszbuda">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9313,7 +9315,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/poliarush">
 				<img src="https://avatars.githubusercontent.com/u/325722?s=72&u=b92b131727958ec6760881b6973ee6746f694edf&v=4" width="24" alt="Avatar of poliarush"> poliarush
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#poliarush">Copy rank badge</a><br/>
 			Mykhailo Poliarush
 		</td>
 		<td>@testomatio  </td>
@@ -9326,7 +9328,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/MoonRide303">
 				<img src="https://avatars.githubusercontent.com/u/130458190?s=72&u=57c2bff6dc8a7a1fddb2372e799fcb42c3300e25&v=4" width="24" alt="Avatar of MoonRide303"> MoonRide303
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#MoonRide303">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Informatic">
 				<img src="https://avatars.githubusercontent.com/u/1131102?s=72&u=e834c7d63d57f5432f379931b17c590cba7bab08&v=4" width="24" alt="Avatar of Informatic"> Informatic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Informatic">Copy rank badge</a><br/>
 			Piotr Dobrowolski
 		</td>
 		<td>Warsaw Hackerspace </td>
@@ -9352,7 +9354,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rexdex">
 				<img src="https://avatars.githubusercontent.com/u/8012205?s=72&u=6e62ca304de81a1ff5301f872c8bd79a83648233&v=4" width="24" alt="Avatar of rexdex"> rexdex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rexdex">Copy rank badge</a><br/>
 			Rex Dex
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/arcusfelis">
 				<img src="https://avatars.githubusercontent.com/u/639796?s=72&v=4" width="24" alt="Avatar of arcusfelis"> arcusfelis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#arcusfelis">Copy rank badge</a><br/>
 			Michael Uvarov
 		</td>
 		<td>Erlang Solutions </td>
@@ -9378,7 +9380,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/radex">
 				<img src="https://avatars.githubusercontent.com/u/183747?s=72&u=4439d576e65e6bb47e7faa8cd14baf9ddb61de32&v=4" width="24" alt="Avatar of radex"> radex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#radex">Copy rank badge</a><br/>
 			Radek Pietruszewski
 		</td>
 		<td>No Company</td>
@@ -9391,7 +9393,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/AgaMiko">
 				<img src="https://avatars.githubusercontent.com/u/20025059?s=72&u=b3e0c4f008e0ccbcff4a4dbbd02b02059a5f5c68&v=4" width="24" alt="Avatar of AgaMiko"> AgaMiko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#AgaMiko">Copy rank badge</a><br/>
 			Agnieszka Mikołajczyk
 		</td>
 		<td>Chaptr.ai </td>
@@ -9404,7 +9406,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zamotany">
 				<img src="https://avatars.githubusercontent.com/u/17573635?s=72&u=63a9875b6c4b26422f823780b09870392c42de5d&v=4" width="24" alt="Avatar of zamotany"> zamotany
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zamotany">Copy rank badge</a><br/>
 			Paweł Gulbinowicz
 		</td>
 		<td>No Company</td>
@@ -9417,7 +9419,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/paweldudek">
 				<img src="https://avatars.githubusercontent.com/u/968513?s=72&u=26ec9b9fdfb7cde57f6db86bb18fcd30b3a76b87&v=4" width="24" alt="Avatar of paweldudek"> paweldudek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#paweldudek">Copy rank badge</a><br/>
 			Pawel Dudek
 		</td>
 		<td>@toptal, @deckset </td>
@@ -9430,7 +9432,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/the-moonwitch">
 				<img src="https://avatars.githubusercontent.com/u/35173529?s=72&u=d79fabb8d3865bfb75169217644f339d1854ca25&v=4" width="24" alt="Avatar of the-moonwitch"> the-moonwitch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#the-moonwitch">Copy rank badge</a><br/>
 			samhain
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/imanel">
 				<img src="https://avatars.githubusercontent.com/u/36869?s=72&v=4" width="24" alt="Avatar of imanel"> imanel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#imanel">Copy rank badge</a><br/>
 			Bernard Potocki
 		</td>
 		<td>No Company</td>
@@ -9456,7 +9458,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/chalup">
 				<img src="https://avatars.githubusercontent.com/u/518902?s=72&u=cd292af426baf814debde0b57970e96279bf895b&v=4" width="24" alt="Avatar of chalup"> chalup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#chalup">Copy rank badge</a><br/>
 			Jerzy Chałupski
 		</td>
 		<td>Chess.com </td>
@@ -9469,7 +9471,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jopohl">
 				<img src="https://avatars.githubusercontent.com/u/18219846?s=72&u=c68f1f17f7cc3e20f7f95f76f90c787758038987&v=4" width="24" alt="Avatar of jopohl"> jopohl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jopohl">Copy rank badge</a><br/>
 			Dr.-Ing. Johannes Pohl
 		</td>
 		<td>Nvidia </td>
@@ -9482,7 +9484,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/badamczewski">
 				<img src="https://avatars.githubusercontent.com/u/752380?s=72&u=d587aef080ee604c8e616d25785bcc22329112aa&v=4" width="24" alt="Avatar of badamczewski"> badamczewski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#badamczewski">Copy rank badge</a><br/>
 			Bartosz
 		</td>
 		<td>Iyuno </td>
@@ -9495,7 +9497,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cztomczak">
 				<img src="https://avatars.githubusercontent.com/u/1187415?s=72&v=4" width="24" alt="Avatar of cztomczak"> cztomczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cztomczak">Copy rank badge</a><br/>
 			Czarek Tomczak
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Byterprogram">
 				<img src="https://avatars.githubusercontent.com/u/137158715?s=72&u=b56f6a42629d92a3ff94c12aa87b18ebf82b4c60&v=4" width="24" alt="Avatar of Byterprogram"> Byterprogram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Byterprogram">Copy rank badge</a><br/>
 			Byter
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/krzjoa">
 				<img src="https://avatars.githubusercontent.com/u/17183113?s=72&u=ad32507b9e440e4d4cf517fbc9b0e753205989da&v=4" width="24" alt="Avatar of krzjoa"> krzjoa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#krzjoa">Copy rank badge</a><br/>
 			Krzysztof Joachimiak
 		</td>
 		<td>Ceva Logistics </td>
@@ -9534,7 +9536,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ikkisoft">
 				<img src="https://avatars.githubusercontent.com/u/6027823?s=72&u=6bf26cf24ad6be79d3733901f694b04f222ab896&v=4" width="24" alt="Avatar of ikkisoft"> ikkisoft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ikkisoft">Copy rank badge</a><br/>
 			Luca Carettoni
 		</td>
 		<td>@doyensec  </td>
@@ -9547,7 +9549,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/miciek">
 				<img src="https://avatars.githubusercontent.com/u/937660?s=72&u=bb974034e851d87a8e74b77f91765c9f874eaec1&v=4" width="24" alt="Avatar of miciek"> miciek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#miciek">Copy rank badge</a><br/>
 			Michał Płachta
 		</td>
 		<td>No Company</td>
@@ -9560,7 +9562,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/okendoken">
 				<img src="https://avatars.githubusercontent.com/u/1212194?s=72&u=24adacec5c9fb31ed4cd02f77f4725ec44876f9c&v=4" width="24" alt="Avatar of okendoken"> okendoken
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#okendoken">Copy rank badge</a><br/>
 			Philip Daineka
 		</td>
 		<td>Flatlogic, Llc </td>
@@ -9573,7 +9575,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/GabrielaOchoaDaderska">
 				<img src="https://avatars.githubusercontent.com/u/108947060?s=72&u=906c5333627d9ceff820dd56bc64d1ee36ffa7b5&v=4" width="24" alt="Avatar of GabrielaOchoaDaderska"> GabrielaOchoaDaderska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#GabrielaOchoaDaderska">Copy rank badge</a><br/>
 			Gabriela Ochoa Dąderska
 		</td>
 		<td>No Company</td>
@@ -9586,7 +9588,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rurza">
 				<img src="https://avatars.githubusercontent.com/u/2467137?s=72&u=4816c90aa721697b2bc7e5cff8fa5e6b3d7bf8f3&v=4" width="24" alt="Avatar of rurza"> rurza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rurza">Copy rank badge</a><br/>
 			Adam Różyński
 		</td>
 		<td>Micropixels </td>
@@ -9599,7 +9601,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/EmilMalanczak">
 				<img src="https://avatars.githubusercontent.com/u/53233583?s=72&u=4c9ba816c2493f1085b16fc721d836e838618702&v=4" width="24" alt="Avatar of EmilMalanczak"> EmilMalanczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#EmilMalanczak">Copy rank badge</a><br/>
 			Missit
 		</td>
 		<td>Nexos.ai </td>
@@ -9612,7 +9614,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/erykml">
 				<img src="https://avatars.githubusercontent.com/u/30637137?s=72&u=19692cd6f611809c21d56389cbe0ac42cf01aa7d&v=4" width="24" alt="Avatar of erykml"> erykml
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#erykml">Copy rank badge</a><br/>
 			Eryk Lewinson
 		</td>
 		<td>No Company</td>
@@ -9625,7 +9627,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/drbenasmah">
 				<img src="https://avatars.githubusercontent.com/u/113874303?s=72&u=2f0223c39d4377ee39c1f4df7837dc47898a42c4&v=4" width="24" alt="Avatar of drbenasmah"> drbenasmah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#drbenasmah">Copy rank badge</a><br/>
 			Ben Asmah
 		</td>
 		<td>No Company</td>
@@ -9638,7 +9640,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jarzebski">
 				<img src="https://avatars.githubusercontent.com/u/3647?s=72&u=6e9a308e5db9de2ee76c5d220a55415718145f16&v=4" width="24" alt="Avatar of jarzebski"> jarzebski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jarzebski">Copy rank badge</a><br/>
 			Korneliusz Jarzębski
 		</td>
 		<td>No Company</td>
@@ -9651,7 +9653,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/karolpiczak">
 				<img src="https://avatars.githubusercontent.com/u/215618?s=72&u=5194d6549cd9ce3d0df133bc1949b79c3741345f&v=4" width="24" alt="Avatar of karolpiczak"> karolpiczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#karolpiczak">Copy rank badge</a><br/>
 			Karol Piczak
 		</td>
 		<td>No Company</td>
@@ -9664,7 +9666,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/feimosi">
 				<img src="https://avatars.githubusercontent.com/u/5721520?s=72&u=980ef674cffd81476dba966be8a520287e6fe8ff&v=4" width="24" alt="Avatar of feimosi"> feimosi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#feimosi">Copy rank badge</a><br/>
 			Marek Grzybek
 		</td>
 		<td>No Company</td>
@@ -9677,7 +9679,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SaiyansKing">
 				<img src="https://avatars.githubusercontent.com/u/38609240?s=72&u=a4c5c12cd803574df6b69826862a8608bae6714c&v=4" width="24" alt="Avatar of SaiyansKing"> SaiyansKing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SaiyansKing">Copy rank badge</a><br/>
 			Jakub
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/alexilyenko">
 				<img src="https://avatars.githubusercontent.com/u/5586681?s=72&u=b6b0d30cff2d9a5aacfd7a3f5bd508f4fa3c3d3f&v=4" width="24" alt="Avatar of alexilyenko"> alexilyenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#alexilyenko">Copy rank badge</a><br/>
 			Alex Ilyenko
 		</td>
 		<td>Netflix </td>
@@ -9703,7 +9705,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/slon1024">
 				<img src="https://avatars.githubusercontent.com/u/1564306?s=72&u=5313c204121e66471d524ae763c79e9f9ce81afa&v=4" width="24" alt="Avatar of slon1024"> slon1024
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#slon1024">Copy rank badge</a><br/>
 			Vladimir Alekseichenko
 		</td>
 		<td>Founder & Ceo Dataworkshop<br/></td>
@@ -9716,7 +9718,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/CoderMaggie">
 				<img src="https://avatars.githubusercontent.com/u/13198869?s=72&u=8b39d74bfd9e474afd672ebce71062410f7ce8f6&v=4" width="24" alt="Avatar of CoderMaggie"> CoderMaggie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#CoderMaggie">Copy rank badge</a><br/>
 			Magdalena Sadowska
 		</td>
 		<td>Head Of Product Operations<br/>@sylius<br/><br/></td>
@@ -9729,7 +9731,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/chipnertkj">
 				<img src="https://avatars.githubusercontent.com/u/32001812?s=72&u=2ff80c866b4441f140edb985cd4e1429f0fd3ec5&v=4" width="24" alt="Avatar of chipnertkj"> chipnertkj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#chipnertkj">Copy rank badge</a><br/>
 			Piotr Wyszomirski
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mthenw">
 				<img src="https://avatars.githubusercontent.com/u/455261?s=72&u=3d667b18cddec2fe131031b7853fdca122b24f85&v=4" width="24" alt="Avatar of mthenw"> mthenw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mthenw">Copy rank badge</a><br/>
 			Maciej Winnicki
 		</td>
 		<td>No Company</td>
@@ -9755,7 +9757,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/aleksanderwozniak">
 				<img src="https://avatars.githubusercontent.com/u/22658673?s=72&u=35f16f741e8dc03bc570f70b9de1881643da262d&v=4" width="24" alt="Avatar of aleksanderwozniak"> aleksanderwozniak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#aleksanderwozniak">Copy rank badge</a><br/>
 			Aleksander Woźniak
 		</td>
 		<td>No Company</td>
@@ -9768,7 +9770,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/bselwe">
 				<img src="https://avatars.githubusercontent.com/u/26686598?s=72&u=44400ef1a4ea78d8d932f2410e0746ba944a2f4e&v=4" width="24" alt="Avatar of bselwe"> bselwe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#bselwe">Copy rank badge</a><br/>
 			Bart Selwesiuk
 		</td>
 		<td>@orb-club </td>
@@ -9781,7 +9783,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Xyueta">
 				<img src="https://avatars.githubusercontent.com/u/101590573?s=72&u=70a20dca979b52b2612a7c95037764cc39d1c5da&v=4" width="24" alt="Avatar of Xyueta"> Xyueta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Xyueta">Copy rank badge</a><br/>
 			Xyueta
 		</td>
 		<td>@atlas-os </td>
@@ -9794,7 +9796,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ikhlestov">
 				<img src="https://avatars.githubusercontent.com/u/9900548?s=72&v=4" width="24" alt="Avatar of ikhlestov"> ikhlestov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ikhlestov">Copy rank badge</a><br/>
 			Illarion
 		</td>
 		<td>No Company</td>
@@ -9807,7 +9809,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/EastVictory">
 				<img src="https://avatars.githubusercontent.com/u/9948530?s=72&u=c841b0f70544e2b5cc6e158c261642d40704e91f&v=4" width="24" alt="Avatar of EastVictory"> EastVictory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#EastVictory">Copy rank badge</a><br/>
 			VI
 		</td>
 		<td>No Company</td>
@@ -9820,7 +9822,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/shentao">
 				<img src="https://avatars.githubusercontent.com/u/3737591?s=72&u=6ef86c71bbbb74efae3c6224390ce9a8cba82272&v=4" width="24" alt="Avatar of shentao"> shentao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#shentao">Copy rank badge</a><br/>
 			Damian Dulisz
 		</td>
 		<td>@vuejs, @coursedog  </td>
@@ -9833,7 +9835,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/woju">
 				<img src="https://avatars.githubusercontent.com/u/1550337?s=72&u=31a58f6f5a9312c38fe6fd2676a9f9fbe56c9a02&v=4" width="24" alt="Avatar of woju"> woju
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#woju">Copy rank badge</a><br/>
 			Wojtek Porczyk
 		</td>
 		<td>Invisible Things Lab (@invisiblethingslab<br/>@qubesos<br/>@gramineproject)<br/></td>
@@ -9846,7 +9848,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cytrowski">
 				<img src="https://avatars.githubusercontent.com/u/2965690?s=72&u=f7e7bc1ef0135c2df30c1b4f2f1200be84958b29&v=4" width="24" alt="Avatar of cytrowski"> cytrowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cytrowski">Copy rank badge</a><br/>
 			Bartosz Cytrowski
 		</td>
 		<td>No Company</td>
@@ -9859,7 +9861,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Esemesek">
 				<img src="https://avatars.githubusercontent.com/u/9092510?s=72&u=9cce7cba91494d7ba5c0d29662a45e603c465fbf&v=4" width="24" alt="Avatar of Esemesek"> Esemesek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Esemesek">Copy rank badge</a><br/>
 			Kacper Wiszczuk
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/NicolasLM">
 				<img src="https://avatars.githubusercontent.com/u/7612656?s=72&u=8cd64238014f47cbe1c3337b9b9bddd401d91948&v=4" width="24" alt="Avatar of NicolasLM"> NicolasLM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#NicolasLM">Copy rank badge</a><br/>
 			Nicolas Le Manchet
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/KLUSKI55">
 				<img src="https://avatars.githubusercontent.com/u/219336744?s=72&u=9a15c4afd1f7845d19e68829f63a3e3af313bfd7&v=4" width="24" alt="Avatar of KLUSKI55"> KLUSKI55
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#KLUSKI55">Copy rank badge</a><br/>
 			Kluski55
 		</td>
 		<td>No Company</td>
@@ -9898,7 +9900,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/SP4R0W">
 				<img src="https://avatars.githubusercontent.com/u/52696628?s=72&u=07695a7a97bb69809bd4f1034568f7cba2196a78&v=4" width="24" alt="Avatar of SP4R0W"> SP4R0W
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#SP4R0W">Copy rank badge</a><br/>
 			SP4R0W
 		</td>
 		<td>Sparrowworks </td>
@@ -9911,7 +9913,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/cbm80amiga">
 				<img src="https://avatars.githubusercontent.com/u/19922888?s=72&u=c3c8ab913d473e8793bdfd7b3f0fb678aa53de2e&v=4" width="24" alt="Avatar of cbm80amiga"> cbm80amiga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#cbm80amiga">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/syzymon">
 				<img src="https://avatars.githubusercontent.com/u/44476995?s=72&u=d0e11a56afbeeeae7bb55cddd81a3197279494c9&v=4" width="24" alt="Avatar of syzymon"> syzymon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#syzymon">Copy rank badge</a><br/>
 			Szymon Tworkowski
 		</td>
 		<td>University Of Warsaw </td>
@@ -9937,7 +9939,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kolinko">
 				<img src="https://avatars.githubusercontent.com/u/274250?s=72&v=4" width="24" alt="Avatar of kolinko"> kolinko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kolinko">Copy rank badge</a><br/>
 			Tomasz Kolinko
 		</td>
 		<td>Eveem.org </td>
@@ -9950,7 +9952,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/hub33k">
 				<img src="https://avatars.githubusercontent.com/u/3370806?s=72&u=e4b65e6940c1da1760db8aaf18f1e2556f071d3f&v=4" width="24" alt="Avatar of hub33k"> hub33k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#hub33k">Copy rank badge</a><br/>
 			Hubert
 		</td>
 		<td>No Company</td>
@@ -9963,7 +9965,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/crimanvel">
 				<img src="https://avatars.githubusercontent.com/u/114362818?s=72&u=407ea55f02379170f359500849d3da94d8ef387a&v=4" width="24" alt="Avatar of crimanvel"> crimanvel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#crimanvel">Copy rank badge</a><br/>
 			Manu Veliz | Manu Dev
 		</td>
 		<td>No Company</td>
@@ -9976,7 +9978,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/JakubDziworski">
 				<img src="https://avatars.githubusercontent.com/u/5649364?s=72&u=7c05311e71fda26b54e824277d3b5f253dd6f222&v=4" width="24" alt="Avatar of JakubDziworski"> JakubDziworski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#JakubDziworski">Copy rank badge</a><br/>
 			Jakub Dziworski
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/OlimpiadaAI">
 				<img src="https://avatars.githubusercontent.com/u/167645546?s=72&u=2ed1cd829696ca4e001ca18682089c1930909399&v=4" width="24" alt="Avatar of OlimpiadaAI"> OlimpiadaAI
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#OlimpiadaAI">Copy rank badge</a><br/>
 			Olimpiada AI
 		</td>
 		<td>No Company</td>
@@ -10002,7 +10004,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lukewalczak">
 				<img src="https://avatars.githubusercontent.com/u/22746080?s=72&u=28d28a09397f40803c2b76710155ed534330c59c&v=4" width="24" alt="Avatar of lukewalczak"> lukewalczak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lukewalczak">Copy rank badge</a><br/>
 			Luke Walczak
 		</td>
 		<td>@callstack  </td>
@@ -10015,7 +10017,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mulander">
 				<img src="https://avatars.githubusercontent.com/u/107247?s=72&v=4" width="24" alt="Avatar of mulander"> mulander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mulander">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Microsoft </td>
@@ -10028,7 +10030,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/drygiel">
 				<img src="https://avatars.githubusercontent.com/u/1775021?s=72&v=4" width="24" alt="Avatar of drygiel"> drygiel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#drygiel">Copy rank badge</a><br/>
 			Damian Drygiel
 		</td>
 		<td>No Company</td>
@@ -10041,7 +10043,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/niespodd">
 				<img src="https://avatars.githubusercontent.com/u/746448?s=72&u=ac19d7fe83cfd10d7c0e4c2e7317eff3e69a8ce3&v=4" width="24" alt="Avatar of niespodd"> niespodd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#niespodd">Copy rank badge</a><br/>
 			Dariusz Niespodziany
 		</td>
 		<td>No Company</td>
@@ -10054,7 +10056,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Milan-960">
 				<img src="https://avatars.githubusercontent.com/u/79278557?s=72&u=35c65dbc9d6d3f07d4c436bdc2303e26933acdf9&v=4" width="24" alt="Avatar of Milan-960"> Milan-960
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Milan-960">Copy rank badge</a><br/>
 			Milan Sachani
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Daniel-Krzyczkowski">
 				<img src="https://avatars.githubusercontent.com/u/15244422?s=72&u=84ae67649a02e6e4014c2b63d81c53c0b5591303&v=4" width="24" alt="Avatar of Daniel-Krzyczkowski"> Daniel-Krzyczkowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Daniel-Krzyczkowski">Copy rank badge</a><br/>
 			Daniel Krzyczkowski
 		</td>
 		<td>Tech Mind Factory </td>
@@ -10080,7 +10082,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/rsp">
 				<img src="https://avatars.githubusercontent.com/u/119231?s=72&u=248b4f39f05f2d2c1794a35f70fd089e551c96ce&v=4" width="24" alt="Avatar of rsp"> rsp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#rsp">Copy rank badge</a><br/>
 			Rafał Pocztarski
 		</td>
 		<td>Paramount </td>
@@ -10093,7 +10095,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/dbacinski">
 				<img src="https://avatars.githubusercontent.com/u/454414?s=72&u=9223f4f022ea7b7bf782d6acb81043c847d35caa&v=4" width="24" alt="Avatar of dbacinski"> dbacinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#dbacinski">Copy rank badge</a><br/>
 			Dariusz Baciński
 		</td>
 		<td>No Company</td>
@@ -10106,7 +10108,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/chegewara">
 				<img src="https://avatars.githubusercontent.com/u/1406020?s=72&v=4" width="24" alt="Avatar of chegewara"> chegewara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#chegewara">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -10119,7 +10121,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/emir1031">
 				<img src="https://avatars.githubusercontent.com/u/78050550?s=72&u=1a964e914f85d98c540433f3fa88d0aca65797f2&v=4" width="24" alt="Avatar of emir1031"> emir1031
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#emir1031">Copy rank badge</a><br/>
 			EmirHan B.
 		</td>
 		<td>No Company</td>
@@ -10132,7 +10134,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jakub-frieske">
 				<img src="https://avatars.githubusercontent.com/u/49623782?s=72&v=4" width="24" alt="Avatar of jakub-frieske"> jakub-frieske
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jakub-frieske">Copy rank badge</a><br/>
 			Jakub Frieske
 		</td>
 		<td>Poznan University Of Technology<br/></td>
@@ -10145,7 +10147,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/YaroslavGaponov">
 				<img src="https://avatars.githubusercontent.com/u/1457386?s=72&u=73a290b2c8c2c5012f3e68d1438d4d966272dcaa&v=4" width="24" alt="Avatar of YaroslavGaponov"> YaroslavGaponov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#YaroslavGaponov">Copy rank badge</a><br/>
 			Yaroslav Gaponov
 		</td>
 		<td>No Company</td>
@@ -10158,7 +10160,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/desowin">
 				<img src="https://avatars.githubusercontent.com/u/1053087?s=72&v=4" width="24" alt="Avatar of desowin"> desowin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#desowin">Copy rank badge</a><br/>
 			Tomasz Moń
 		</td>
 		<td>No Company</td>
@@ -10171,7 +10173,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/pdabrowski6">
 				<img src="https://avatars.githubusercontent.com/u/238076?s=72&u=59379c584bcad0c1923a7f6bc6a84c73a7beb5b4&v=4" width="24" alt="Avatar of pdabrowski6"> pdabrowski6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#pdabrowski6">Copy rank badge</a><br/>
 			Paweł Dąbrowski
 		</td>
 		<td>No Company</td>
@@ -10184,7 +10186,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/burczyk">
 				<img src="https://avatars.githubusercontent.com/u/1155763?s=72&v=4" width="24" alt="Avatar of burczyk"> burczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#burczyk">Copy rank badge</a><br/>
 			Kamil Burczyk
 		</td>
 		<td>No Company</td>
@@ -10197,7 +10199,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/korneliakobiela">
 				<img src="https://avatars.githubusercontent.com/u/18300603?s=72&u=22be1ee6b1892f17a5289935c6f628f02625adf7&v=4" width="24" alt="Avatar of korneliakobiela"> korneliakobiela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#korneliakobiela">Copy rank badge</a><br/>
 			Kornelia Kobiela
 		</td>
 		<td>@uxeon </td>
@@ -10210,7 +10212,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/szimek">
 				<img src="https://avatars.githubusercontent.com/u/9873?s=72&v=4" width="24" alt="Avatar of szimek"> szimek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#szimek">Copy rank badge</a><br/>
 			Szymon Nowak
 		</td>
 		<td>@sensortower  </td>
@@ -10223,7 +10225,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ecomdragona">
 				<img src="https://avatars.githubusercontent.com/u/132449304?s=72&u=09a9d69ee4cf3480a2853b14c5a353faadf30145&v=4" width="24" alt="Avatar of ecomdragona"> ecomdragona
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ecomdragona">Copy rank badge</a><br/>
 			Red Angry
 		</td>
 		<td>Create8 </td>
@@ -10236,7 +10238,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ashleve">
 				<img src="https://avatars.githubusercontent.com/u/43458894?s=72&u=3fced39a3116710305458d325932acf1bb416434&v=4" width="24" alt="Avatar of ashleve"> ashleve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ashleve">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -10249,7 +10251,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wololock">
 				<img src="https://avatars.githubusercontent.com/u/1258405?s=72&u=7c5449f99670b8511482cb26853facf72508ce71&v=4" width="24" alt="Avatar of wololock"> wololock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wololock">Copy rank badge</a><br/>
 			Szymon Stepniak
 		</td>
 		<td>No Company</td>
@@ -10262,7 +10264,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Nadrin">
 				<img src="https://avatars.githubusercontent.com/u/615654?s=72&u=6a8361287a5f3cb26d97b52054630aaca662375f&v=4" width="24" alt="Avatar of Nadrin"> Nadrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Nadrin">Copy rank badge</a><br/>
 			Michał Siejak
 		</td>
 		<td>Marmoset Llc </td>
@@ -10275,7 +10277,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kadirhzrc">
 				<img src="https://avatars.githubusercontent.com/u/44302279?s=72&u=0dfd03390b693074b26c77ca878f83f7c582ce49&v=4" width="24" alt="Avatar of kadirhzrc"> kadirhzrc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kadirhzrc">Copy rank badge</a><br/>
 			Kadir Hizarci
 		</td>
 		<td>No Company</td>
@@ -10288,7 +10290,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/vitaliy-bobrov">
 				<img src="https://avatars.githubusercontent.com/u/6780441?s=72&u=e6a6e86af37f2bf1b778ddc051d4cca049773dda&v=4" width="24" alt="Avatar of vitaliy-bobrov"> vitaliy-bobrov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#vitaliy-bobrov">Copy rank badge</a><br/>
 			Vitalii Bobrov
 		</td>
 		<td>Epam Systems Inc </td>
@@ -10301,7 +10303,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Tibing">
 				<img src="https://avatars.githubusercontent.com/u/17410089?s=72&u=e09cd0fdfc71586851d2caa173bcf6dcac62ebf2&v=4" width="24" alt="Avatar of Tibing"> Tibing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Tibing">Copy rank badge</a><br/>
 			Nikita Poltoratsky
 		</td>
 		<td>@akveo @akveodev  </td>
@@ -10314,7 +10316,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zonel">
 				<img src="https://avatars.githubusercontent.com/u/40122657?s=72&u=a73f0ba339474b2d93e008cfb3258005616e2d85&v=4" width="24" alt="Avatar of zonel"> zonel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zonel">Copy rank badge</a><br/>
 			Bart B
 		</td>
 		<td>No Company</td>
@@ -10327,7 +10329,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wuub">
 				<img src="https://avatars.githubusercontent.com/u/588857?s=72&u=4c63e9d84a3c71594744e86e7165cf22809b4f75&v=4" width="24" alt="Avatar of wuub"> wuub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wuub">Copy rank badge</a><br/>
 			Wojciech Bederski
 		</td>
 		<td>Wuub.net </td>
@@ -10340,7 +10342,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/vintage">
 				<img src="https://avatars.githubusercontent.com/u/729785?s=72&u=8dc7df6c9b945e6cc8a8cdaa57435c444ea08700&v=4" width="24" alt="Avatar of vintage"> vintage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#vintage">Copy rank badge</a><br/>
 			Kamil Rykowski
 		</td>
 		<td>Vaultomb </td>
@@ -10353,7 +10355,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mciastek">
 				<img src="https://avatars.githubusercontent.com/u/3169629?s=72&u=6c2d5ad64dbb0c0526fba976e3ada9d6391fe444&v=4" width="24" alt="Avatar of mciastek"> mciastek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mciastek">Copy rank badge</a><br/>
 			Mirek Ciastek
 		</td>
 		<td>No Company</td>
@@ -10366,7 +10368,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kacgrzes">
 				<img src="https://avatars.githubusercontent.com/u/7748788?s=72&u=fb1fe594e4b13ad5f0c9b6223c64c7f4c15aa792&v=4" width="24" alt="Avatar of kacgrzes"> kacgrzes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kacgrzes">Copy rank badge</a><br/>
 			Kacper Grzeszczyk
 		</td>
 		<td>Contractor </td>
@@ -10379,7 +10381,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/trimstray">
 				<img src="https://avatars.githubusercontent.com/u/31127917?s=72&v=4" width="24" alt="Avatar of trimstray"> trimstray
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#trimstray">Copy rank badge</a><br/>
 			Michał Ży
 		</td>
 		<td>No Company</td>
@@ -10392,7 +10394,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/mgeeky">
 				<img src="https://avatars.githubusercontent.com/u/654344?s=72&u=9266b0795e1e3b057c2dcd827644eeec69bd1373&v=4" width="24" alt="Avatar of mgeeky"> mgeeky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#mgeeky">Copy rank badge</a><br/>
 			Mariusz Banach
 		</td>
 		<td>Binary-offensive.com </td>
@@ -10405,7 +10407,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/fastred">
 				<img src="https://avatars.githubusercontent.com/u/197767?s=72&u=56f516dd56f7b41f3e44758b6d1b72b539877ca7&v=4" width="24" alt="Avatar of fastred"> fastred
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#fastred">Copy rank badge</a><br/>
 			Arek Holko
 		</td>
 		<td>No Company</td>
@@ -10418,7 +10420,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/egzumer">
 				<img src="https://avatars.githubusercontent.com/u/14902414?s=72&u=fff0620c7e61b9f71a2735684f1e2efadfda8a4a&v=4" width="24" alt="Avatar of egzumer"> egzumer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#egzumer">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -10431,7 +10433,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lesnitsky">
 				<img src="https://avatars.githubusercontent.com/u/6261302?s=72&u=e2e3dc84f5af39c27771a507ed6c7600287b587a&v=4" width="24" alt="Avatar of lesnitsky"> lesnitsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lesnitsky">Copy rank badge</a><br/>
 			Andrei Lesnitsky
 		</td>
 		<td>Flutterflow </td>
@@ -10444,7 +10446,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/tporadowski">
 				<img src="https://avatars.githubusercontent.com/u/6212622?s=72&u=27e7a140d39b98e8ee04e3123740139dab9f199c&v=4" width="24" alt="Avatar of tporadowski"> tporadowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#tporadowski">Copy rank badge</a><br/>
 			Tomasz Poradowski
 		</td>
 		<td>Poradowski.com </td>
@@ -10457,7 +10459,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/thebergamo">
 				<img src="https://avatars.githubusercontent.com/u/1778730?s=72&u=5d0fdfbb4cd69ac726c3bbe8d608afc451c9d494&v=4" width="24" alt="Avatar of thebergamo"> thebergamo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#thebergamo">Copy rank badge</a><br/>
 			Marcos Bérgamo
 		</td>
 		<td>@epam </td>
@@ -10470,7 +10472,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/donadigo">
 				<img src="https://avatars.githubusercontent.com/u/8205284?s=72&u=ade94ee2611e719e14c1a686be2a3d080e00de8f&v=4" width="24" alt="Avatar of donadigo"> donadigo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#donadigo">Copy rank badge</a><br/>
 			Adam
 		</td>
 		<td>No Company</td>
@@ -10483,7 +10485,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/jedrzejchalubek">
 				<img src="https://avatars.githubusercontent.com/u/3652932?s=72&v=4" width="24" alt="Avatar of jedrzejchalubek"> jedrzejchalubek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#jedrzejchalubek">Copy rank badge</a><br/>
 			Jędrzej Chałubek
 		</td>
 		<td>No Company</td>
@@ -10496,7 +10498,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ziutek">
 				<img src="https://avatars.githubusercontent.com/u/294880?s=72&v=4" width="24" alt="Avatar of ziutek"> ziutek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ziutek">Copy rank badge</a><br/>
 			Michał Derkacz
 		</td>
 		<td>No Company</td>
@@ -10509,7 +10511,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/zielmicha">
 				<img src="https://avatars.githubusercontent.com/u/364357?s=72&v=4" width="24" alt="Avatar of zielmicha"> zielmicha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#zielmicha">Copy rank badge</a><br/>
 			Michał Zieliński
 		</td>
 		<td>No Company</td>
@@ -10522,7 +10524,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/kamarros">
 				<img src="https://avatars.githubusercontent.com/u/66215467?s=72&u=7b491b71faea2ac98ad0d291a20af84f686bde08&v=4" width="24" alt="Avatar of kamarros"> kamarros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#kamarros">Copy rank badge</a><br/>
 			Sulejewski Kamil
 		</td>
 		<td>No Company</td>
@@ -10535,7 +10537,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ewilded">
 				<img src="https://avatars.githubusercontent.com/u/1158719?s=72&u=dc3f71ec21c9ed2e0a558995d96a2992825971d9&v=4" width="24" alt="Avatar of ewilded"> ewilded
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ewilded">Copy rank badge</a><br/>
 			Julian Horoszkiewicz
 		</td>
 		<td>Hackingiscool </td>
@@ -10548,7 +10550,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/furas">
 				<img src="https://avatars.githubusercontent.com/u/654432?s=72&u=fa99ecbce9d7bf672eb8de2000fd7bbdabec410e&v=4" width="24" alt="Avatar of furas"> furas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#furas">Copy rank badge</a><br/>
 			Bartłomiej "furas" Burek
 		</td>
 		<td>No Company</td>
@@ -10561,7 +10563,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/wojtek1wojtek">
 				<img src="https://avatars.githubusercontent.com/u/77987242?s=72&u=dc4579ae7aafa420447951a1bbb0c31c41478e75&v=4" width="24" alt="Avatar of wojtek1wojtek"> wojtek1wojtek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#wojtek1wojtek">Copy rank badge</a><br/>
 			Szaman
 		</td>
 		<td>No Company</td>
@@ -10574,7 +10576,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/Pasniczy">
 				<img src="https://avatars.githubusercontent.com/u/72109970?s=72&u=ec6991a69938581b520078faec05eefa49f02f35&v=4" width="24" alt="Avatar of Pasniczy"> Pasniczy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#Pasniczy">Copy rank badge</a><br/>
 			Bartek Paśnik
 		</td>
 		<td>No Company</td>
@@ -10587,7 +10589,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/ardcore">
 				<img src="https://avatars.githubusercontent.com/u/49605?s=72&v=4" width="24" alt="Avatar of ardcore"> ardcore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#ardcore">Copy rank badge</a><br/>
 			Szymon Piłkowski
 		</td>
 		<td>@molecule-one </td>
@@ -10600,7 +10602,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/lpodkalicki">
 				<img src="https://avatars.githubusercontent.com/u/1240222?s=72&u=e6bf54cd85fa949c3edf76fe13faf2b21f717f1f&v=4" width="24" alt="Avatar of lpodkalicki"> lpodkalicki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#lpodkalicki">Copy rank badge</a><br/>
 			Łukasz Podkalicki
 		</td>
 		<td>Warsaw University Of Technology<br/></td>
@@ -10613,7 +10615,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/FlamingShali">
 				<img src="https://avatars.githubusercontent.com/u/147900620?s=72&u=e5a6b74759c64d3f1a12e9044c3898cad20c0376&v=4" width="24" alt="Avatar of FlamingShali"> FlamingShali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#FlamingShali">Copy rank badge</a><br/>
 			Michael
 		</td>
 		<td>No Company</td>
@@ -10626,7 +10628,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/denu5">
 				<img src="https://avatars.githubusercontent.com/u/5692193?s=72&u=a6e8c8a86796dee628f3c117688c73f87e07e0e0&v=4" width="24" alt="Avatar of denu5"> denu5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#denu5">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -10639,7 +10641,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/TheMolkaPL">
 				<img src="https://avatars.githubusercontent.com/u/4578571?s=72&u=530b7334315244d57b873f74ed117aa28f586232&v=4" width="24" alt="Avatar of TheMolkaPL"> TheMolkaPL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#TheMolkaPL">Copy rank badge</a><br/>
 			Aleksander Jagiello
 		</td>
 		<td>No Company</td>
@@ -10652,7 +10654,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/advantis">
 				<img src="https://avatars.githubusercontent.com/u/853858?s=72&u=ac400aaa567181b7613b65dd3bba1819853352ef&v=4" width="24" alt="Avatar of advantis"> advantis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#advantis">Copy rank badge</a><br/>
 			Yurii Kotov
 		</td>
 		<td>No Company</td>
@@ -10665,7 +10667,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/akozdev">
 				<img src="https://avatars.githubusercontent.com/u/51536161?s=72&u=bc7e2ebe2cb927944391a1ff1a35f4ee474e9307&v=4" width="24" alt="Avatar of akozdev"> akozdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#akozdev">Copy rank badge</a><br/>
 			Aleksander Kozłowski
 		</td>
 		<td>No Company</td>
@@ -10678,7 +10680,7 @@ There are `930 users`  in Poland. You need at least `94 followers` to be on this
 		<td>
 			<a href="https://github.com/isif00">
 				<img src="https://avatars.githubusercontent.com/u/116845247?s=72&u=918e8ded270ed46395e52a642bb0e68d26589b7b&v=4" width="24" alt="Avatar of isif00"> isif00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/poland.md#isif00">Copy rank badge</a><br/>
 			Salmi Sifeddine 
 		</td>
 		<td>University Of Science &<br/>Technology<br/>Hourai<br/>Boumedien<br/></td>
