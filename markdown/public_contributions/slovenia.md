@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `public contributions` by users in Slovenia on `2026/10/3 2:21 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `public contributions` by users in Slovenia on `2026/10/31 3:32 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
 There are `940 users`  in Slovenia. You need at least `8 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Slovenia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/garbas">
 				<img src="https://avatars.githubusercontent.com/u/20208?s=72&u=91a075b9c4353116dbf0ec9db5c3c4a688e6fd91&v=4" width="24" alt="Avatar of garbas"> garbas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#garbas">Copy rank badge</a><br/>
 			Rok Garbas
 		</td>
 		<td>Nix - Elm -<br/>Rust<br/>-<br/>Python<br/></td>
@@ -122,7 +124,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/itechdom">
 				<img src="https://avatars.githubusercontent.com/u/12499719?s=72&u=c28a3b65c2d5e8a9d02150f1f7ea22466b6bd3b3&v=4" width="24" alt="Avatar of itechdom"> itechdom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#itechdom">Copy rank badge</a><br/>
 			Osama Alghanmi
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/igorpecovnik">
 				<img src="https://avatars.githubusercontent.com/u/6281704?s=72&u=c23024f7e11da7d4d07e60bd14a5c1c324beb739&v=4" width="24" alt="Avatar of igorpecovnik"> igorpecovnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#igorpecovnik">Copy rank badge</a><br/>
 			Igor
 		</td>
 		<td>@armbian  </td>
@@ -148,7 +150,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MatejGomboc">
 				<img src="https://avatars.githubusercontent.com/u/13914219?s=72&u=f2c37d18a71f1b5bbbff1d8ff20f5058454d5d6e&v=4" width="24" alt="Avatar of MatejGomboc"> MatejGomboc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MatejGomboc">Copy rank badge</a><br/>
 			Matej Gomboc
 		</td>
 		<td>Skylabs D.o.o. </td>
@@ -161,7 +163,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/crtahlin">
 				<img src="https://avatars.githubusercontent.com/u/1554520?s=72&v=4" width="24" alt="Avatar of crtahlin"> crtahlin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#crtahlin">Copy rank badge</a><br/>
 			Crt Ahlin
 		</td>
 		<td>No Company</td>
@@ -174,7 +176,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/stefanb">
 				<img src="https://avatars.githubusercontent.com/u/319826?s=72&u=1d81ce78f6b8e7204f16527f27dc284f9c473ad9&v=4" width="24" alt="Avatar of stefanb"> stefanb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#stefanb">Copy rank badge</a><br/>
 			Štefan Baebler
 		</td>
 		<td>@equaleyes </td>
@@ -187,7 +189,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/fentas">
 				<img src="https://avatars.githubusercontent.com/u/405182?s=72&u=31a37fec1d7f0e4426ca19c66f2aaeca4ed76a6c&v=4" width="24" alt="Avatar of fentas"> fentas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#fentas">Copy rank badge</a><br/>
 			Jan Guth
 		</td>
 		<td>@lanisce </td>
@@ -200,7 +202,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejdro">
 				<img src="https://avatars.githubusercontent.com/u/507922?s=72&v=4" width="24" alt="Avatar of matejdro"> matejdro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejdro">Copy rank badge</a><br/>
 			Matej Drobnič
 		</td>
 		<td>No Company</td>
@@ -213,7 +215,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/majazaloznik">
 				<img src="https://avatars.githubusercontent.com/u/7770285?s=72&u=268d39c05c0420bbce782c4b3249718d7d8741a2&v=4" width="24" alt="Avatar of majazaloznik"> majazaloznik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#majazaloznik">Copy rank badge</a><br/>
 			maja
 		</td>
 		<td>Ox.ac.uk </td>
@@ -226,7 +228,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/titpetric">
 				<img src="https://avatars.githubusercontent.com/u/233360?s=72&v=4" width="24" alt="Avatar of titpetric"> titpetric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#titpetric">Copy rank badge</a><br/>
 			Tit Petric
 		</td>
 		<td>No Company</td>
@@ -239,7 +241,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/OBattler">
 				<img src="https://avatars.githubusercontent.com/u/10365853?s=72&u=027dc7d2c6fbc80ca625eb40cc82fe25b4038d42&v=4" width="24" alt="Avatar of OBattler"> OBattler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#OBattler">Copy rank badge</a><br/>
 			Miran Grča
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mzagozen">
 				<img src="https://avatars.githubusercontent.com/u/370065?s=72&u=b60a5b0b5ca8196928679647bf03ce450499462d&v=4" width="24" alt="Avatar of mzagozen"> mzagozen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mzagozen">Copy rank badge</a><br/>
 			Marko Zagožen
 		</td>
 		<td>Flint Si </td>
@@ -265,7 +267,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/eriknovak">
 				<img src="https://avatars.githubusercontent.com/u/9943382?s=72&u=91d07e9cfa29e523f7254eec0d41581762f6d81c&v=4" width="24" alt="Avatar of eriknovak"> eriknovak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#eriknovak">Copy rank badge</a><br/>
 			Erik Novak
 		</td>
 		<td>@event-registry @e3-jsi  </td>
@@ -278,7 +280,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/baadc0de">
 				<img src="https://avatars.githubusercontent.com/u/15308543?s=72&v=4" width="24" alt="Avatar of baadc0de"> baadc0de
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#baadc0de">Copy rank badge</a><br/>
 			Bojan Šernek
 		</td>
 		<td>@distopik </td>
@@ -291,7 +293,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MusicDin">
 				<img src="https://avatars.githubusercontent.com/u/56398240?s=72&u=6e8574e3d9bc0e92a41cf82f1f533c4628ccb120&v=4" width="24" alt="Avatar of MusicDin"> MusicDin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MusicDin">Copy rank badge</a><br/>
 			Din Mušić
 		</td>
 		<td>@canonical @lxc  </td>
@@ -304,7 +306,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SkBlaz">
 				<img src="https://avatars.githubusercontent.com/u/10035780?s=72&u=5d62f992cdc53154368e10fcf35739c5ab9c9758&v=4" width="24" alt="Avatar of SkBlaz"> SkBlaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SkBlaz">Copy rank badge</a><br/>
 			SkBlaz
 		</td>
 		<td>No Company</td>
@@ -317,7 +319,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dz0ny">
 				<img src="https://avatars.githubusercontent.com/u/239513?s=72&u=5489d27106bc87608ec1f284929ed6e72031a7df&v=4" width="24" alt="Avatar of dz0ny"> dz0ny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dz0ny">Copy rank badge</a><br/>
 			Janez Troha
 		</td>
 		<td>@teamniteo </td>
@@ -330,7 +332,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/amadejkastelic">
 				<img src="https://avatars.githubusercontent.com/u/26391003?s=72&u=51a3a7da4eb056601c8d381b69eeb908de699a14&v=4" width="24" alt="Avatar of amadejkastelic"> amadejkastelic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#amadejkastelic">Copy rank badge</a><br/>
 			Amadej Kastelic
 		</td>
 		<td>No Company</td>
@@ -343,7 +345,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Quantumlyy">
 				<img src="https://avatars.githubusercontent.com/u/7919610?s=72&u=293372d29b2f75b881d7385460b66b9da66e5b56&v=4" width="24" alt="Avatar of Quantumlyy"> Quantumlyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Quantumlyy">Copy rank badge</a><br/>
 			Nejc Drobnič
 		</td>
 		<td>No Company</td>
@@ -356,7 +358,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nootey">
 				<img src="https://avatars.githubusercontent.com/u/71206589?s=72&u=8bf22baa4141959439bc240905d68652f18f3b5b&v=4" width="24" alt="Avatar of nootey"> nootey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nootey">Copy rank badge</a><br/>
 			Nootey
 		</td>
 		<td>@robinhood </td>
@@ -369,7 +371,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lebaaar">
 				<img src="https://avatars.githubusercontent.com/u/104724521?s=72&u=6e387fc19c2bf7d660d544e2eaeefebacab0c24b&v=4" width="24" alt="Avatar of lebaaar"> lebaaar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lebaaar">Copy rank badge</a><br/>
 			Lan
 		</td>
 		<td>No Company</td>
@@ -382,7 +384,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilijachrchev">
 				<img src="https://avatars.githubusercontent.com/u/189349848?s=72&u=0dfafc0f54b394b2335f51d94a58a08dfe387924&v=4" width="24" alt="Avatar of ilijachrchev"> ilijachrchev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ilijachrchev">Copy rank badge</a><br/>
 			Ilija Chrchev
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KlemenDEV">
 				<img src="https://avatars.githubusercontent.com/u/16374228?s=72&u=8457392588aa4d3a89cb9530354a732d3f44682e&v=4" width="24" alt="Avatar of KlemenDEV"> KlemenDEV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KlemenDEV">Copy rank badge</a><br/>
 			Klemen
 		</td>
 		<td>@pylo, @mcreator, @awakeboards </td>
@@ -408,7 +410,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jinjinov">
 				<img src="https://avatars.githubusercontent.com/u/20396198?s=72&v=4" width="24" alt="Avatar of Jinjinov"> Jinjinov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Jinjinov">Copy rank badge</a><br/>
 			Urban
 		</td>
 		<td>@sowalabs </td>
@@ -421,7 +423,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lynxlynxlynx">
 				<img src="https://avatars.githubusercontent.com/u/121515?s=72&v=4" width="24" alt="Avatar of lynxlynxlynx"> lynxlynxlynx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lynxlynxlynx">Copy rank badge</a><br/>
 			Jaka Kranjc
 		</td>
 		<td>No Company</td>
@@ -434,7 +436,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokzitko">
 				<img src="https://avatars.githubusercontent.com/u/29095556?s=72&u=d1587c84e7b2ea9b3ebe95063b409605101459e8&v=4" width="24" alt="Avatar of rokzitko"> rokzitko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokzitko">Copy rank badge</a><br/>
 			Rok Žitko
 		</td>
 		<td>Jozef Stefan Institute, Faculty<br/>Of<br/>Mathematics<br/>And<br/>Physics<br/>Univeristy<br/>Of<br/>Ljubljana<br/></td>
@@ -447,7 +449,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tfourj">
 				<img src="https://avatars.githubusercontent.com/u/48729601?s=72&u=0e0f057b8a299e6c9c0d517424568cf5c7469ab6&v=4" width="24" alt="Avatar of tfourj"> tfourj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tfourj">Copy rank badge</a><br/>
 			Taj Tkalec
 		</td>
 		<td>No Company</td>
@@ -460,7 +462,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tommysqueak">
 				<img src="https://avatars.githubusercontent.com/u/623057?s=72&u=7fc7e177b4e5fe7104899569cc49f125e35c0bdb&v=4" width="24" alt="Avatar of tommysqueak"> tommysqueak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tommysqueak">Copy rank badge</a><br/>
 			Tom Philip
 		</td>
 		<td>Strategyzer </td>
@@ -473,7 +475,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zanci19">
 				<img src="https://avatars.githubusercontent.com/u/73758755?s=72&u=dcb551879ba0f3b2dfd615d578befd5c0ff7996f&v=4" width="24" alt="Avatar of Zanci19"> Zanci19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Zanci19">Copy rank badge</a><br/>
 			Zanci19
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matevz">
 				<img src="https://avatars.githubusercontent.com/u/83672?s=72&v=4" width="24" alt="Avatar of matevz"> matevz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matevz">Copy rank badge</a><br/>
 			Matevž Jekovec
 		</td>
 		<td>@oasisprotocol </td>
@@ -499,7 +501,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zstoimchev">
 				<img src="https://avatars.githubusercontent.com/u/62955474?s=72&u=d8f2aa69dc04665d74c003a81007575448300e81&v=4" width="24" alt="Avatar of zstoimchev"> zstoimchev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zstoimchev">Copy rank badge</a><br/>
 			Zhivko Stoimchev
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jurerotar">
 				<img src="https://avatars.githubusercontent.com/u/28565137?s=72&u=6f3a3d5066b3f6c9fb636c7f6487e3aa0482e9ef&v=4" width="24" alt="Avatar of jurerotar"> jurerotar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jurerotar">Copy rank badge</a><br/>
 			Jure Rotar
 		</td>
 		<td>No Company</td>
@@ -525,7 +527,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/barisgit">
 				<img src="https://avatars.githubusercontent.com/u/125830696?s=72&v=4" width="24" alt="Avatar of barisgit"> barisgit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#barisgit">Copy rank badge</a><br/>
 			Blaž Aristovnik
 		</td>
 		<td>@paxia-team  </td>
@@ -538,7 +540,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Blarc">
 				<img src="https://avatars.githubusercontent.com/u/36704759?s=72&u=7b2eda0145397519cc98e8edbca3955a93cbf407&v=4" width="24" alt="Avatar of Blarc"> Blarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Blarc">Copy rank badge</a><br/>
 			Jakob Maležič
 		</td>
 		<td>Kaldi </td>
@@ -551,7 +553,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gaspergrom">
 				<img src="https://avatars.githubusercontent.com/u/15195228?s=72&u=4728752ee5101207e53c943020d660854894045e&v=4" width="24" alt="Avatar of gaspergrom"> gaspergrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gaspergrom">Copy rank badge</a><br/>
 			Gašper Grom
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoornet">
 				<img src="https://avatars.githubusercontent.com/u/44338?s=72&v=4" width="24" alt="Avatar of hoornet"> hoornet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hoornet">Copy rank badge</a><br/>
 			Hoornet
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MitjaBezensek">
 				<img src="https://avatars.githubusercontent.com/u/2523721?s=72&u=fcc6905f4a4b7b772b9680c16f6a77e804288d61&v=4" width="24" alt="Avatar of MitjaBezensek"> MitjaBezensek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MitjaBezensek">Copy rank badge</a><br/>
 			Mitja Bezenšek
 		</td>
 		<td>Tldraw </td>
@@ -590,7 +592,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vucinatim">
 				<img src="https://avatars.githubusercontent.com/u/56194319?s=72&u=9077a83428a48b1e5a17efef924f816880771fc3&v=4" width="24" alt="Avatar of vucinatim"> vucinatim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vucinatim">Copy rank badge</a><br/>
 			Tim Vučina
 		</td>
 		<td>Zerodays.dev </td>
@@ -603,7 +605,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LegationPro">
 				<img src="https://avatars.githubusercontent.com/u/81240296?s=72&u=164760b608b681ae0d8baca4b2c3a2c835ca1064&v=4" width="24" alt="Avatar of LegationPro"> LegationPro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LegationPro">Copy rank badge</a><br/>
 			Anze
 		</td>
 		<td>No Company</td>
@@ -616,7 +618,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigazajc007">
 				<img src="https://avatars.githubusercontent.com/u/44822563?s=72&u=a5d88e347133da42d599b7f5d9918b01b34b0360&v=4" width="24" alt="Avatar of zigazajc007"> zigazajc007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigazajc007">Copy rank badge</a><br/>
 			Ziga Zajc
 		</td>
 		<td>Rabbit Company </td>
@@ -629,7 +631,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bl4ko">
 				<img src="https://avatars.githubusercontent.com/u/83308880?s=72&u=91204f2f8cf5d9d1716d8785f61924284b6b4382&v=4" width="24" alt="Avatar of bl4ko"> bl4ko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bl4ko">Copy rank badge</a><br/>
 			Gasper Oblak
 		</td>
 		<td>Ljubljana </td>
@@ -642,7 +644,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ptrus">
 				<img src="https://avatars.githubusercontent.com/u/3691472?s=72&u=d7193ccb19c11900040b5d2ff686d5dce3a759dc&v=4" width="24" alt="Avatar of ptrus"> ptrus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ptrus">Copy rank badge</a><br/>
 			Peter Us
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mentos1386">
 				<img src="https://avatars.githubusercontent.com/u/1910649?s=72&u=d7ef7a7cd65e644b936e232d61ce21cf2cead047&v=4" width="24" alt="Avatar of mentos1386"> mentos1386
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mentos1386">Copy rank badge</a><br/>
 			Tine Jozelj
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aljazerzen">
 				<img src="https://avatars.githubusercontent.com/u/11072061?s=72&u=9e38d686a29d9d95efc1fd60f1c04aa1f53a3e20&v=4" width="24" alt="Avatar of aljazerzen"> aljazerzen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aljazerzen">Copy rank badge</a><br/>
 			Aljaž Mur Eržen
 		</td>
 		<td>@geldata  </td>
@@ -681,7 +683,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sunderee">
 				<img src="https://avatars.githubusercontent.com/u/67547990?s=72&u=3460ad86fe83748596f7a7e4ece7e87fe524472e&v=4" width="24" alt="Avatar of sunderee"> sunderee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sunderee">Copy rank badge</a><br/>
 			Peter Aleksander Bizjak
 		</td>
 		<td>Peter Aleksander Bizjak S.p.<br/></td>
@@ -694,7 +696,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janmerhar">
 				<img src="https://avatars.githubusercontent.com/u/64565013?s=72&u=520da9a4c9c644dc704b3cfd7ee0608268176d63&v=4" width="24" alt="Avatar of janmerhar"> janmerhar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janmerhar">Copy rank badge</a><br/>
 			Jan Merhar
 		</td>
 		<td>Xlab </td>
@@ -707,7 +709,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/refaktor">
 				<img src="https://avatars.githubusercontent.com/u/1375005?s=72&u=946943317c043722542c06b83f00db03fd9351b2&v=4" width="24" alt="Avatar of refaktor"> refaktor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#refaktor">Copy rank badge</a><br/>
 			Refaktor
 		</td>
 		<td>No Company</td>
@@ -720,7 +722,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tthuma1">
 				<img src="https://avatars.githubusercontent.com/u/30806431?s=72&u=ca0f262ea3a56d9c94d2fe3a631af7f18c0a2110&v=4" width="24" alt="Avatar of tthuma1"> tthuma1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tthuma1">Copy rank badge</a><br/>
 			Tim Thuma
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sysadminmatmoz">
 				<img src="https://avatars.githubusercontent.com/u/6734798?s=72&u=0e7066810732ec850eaaefb9473acbd67dad7a86&v=4" width="24" alt="Avatar of sysadminmatmoz"> sysadminmatmoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sysadminmatmoz">Copy rank badge</a><br/>
 			Matjaz Mozetic
 		</td>
 		<td>Luxim D.o.o. </td>
@@ -746,7 +748,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/campovski">
 				<img src="https://avatars.githubusercontent.com/u/13218644?s=72&u=18bc50e497b903f6d67776fbd9ed6e7cdb53357d&v=4" width="24" alt="Avatar of campovski"> campovski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#campovski">Copy rank badge</a><br/>
 			Marcel Čampa
 		</td>
 		<td>@stelynx  </td>
@@ -759,7 +761,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janezicmatej">
 				<img src="https://avatars.githubusercontent.com/u/33402885?s=72&u=d44c88380458a13145c486ffa9caffbfe74968ae&v=4" width="24" alt="Avatar of janezicmatej"> janezicmatej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janezicmatej">Copy rank badge</a><br/>
 			Matej Janežič
 		</td>
 		<td>@aflabsofficial, @flare-foundation </td>
@@ -772,7 +774,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/urosj">
 				<img src="https://avatars.githubusercontent.com/u/8036113?s=72&u=608e5f26ff8e215331ddc6895fcc3c6505b1dd7e&v=4" width="24" alt="Avatar of urosj"> urosj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#urosj">Copy rank badge</a><br/>
 			Uros Jovanovic
 		</td>
 		<td>Independent Researcher </td>
@@ -785,7 +787,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mitjafelicijan">
 				<img src="https://avatars.githubusercontent.com/u/296714?s=72&v=4" width="24" alt="Avatar of mitjafelicijan"> mitjafelicijan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mitjafelicijan">Copy rank badge</a><br/>
 			Mitja Felicijan
 		</td>
 		<td>No Company</td>
@@ -798,7 +800,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/drb0r1s">
 				<img src="https://avatars.githubusercontent.com/u/86303985?s=72&u=16c0ad3785e40ccd94fb980cc39740c9d9c09019&v=4" width="24" alt="Avatar of drb0r1s"> drb0r1s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#drb0r1s">Copy rank badge</a><br/>
 			Boris
 		</td>
 		<td>No Company</td>
@@ -811,7 +813,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Shooshte">
 				<img src="https://avatars.githubusercontent.com/u/11058850?s=72&u=c958f91eb9f7f8e14006b505f9bad9e96f833de0&v=4" width="24" alt="Avatar of Shooshte"> Shooshte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Shooshte">Copy rank badge</a><br/>
 			miha.sustersic.work@gmail.com
 		</td>
 		<td>Unemployed </td>
@@ -824,7 +826,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janezd">
 				<img src="https://avatars.githubusercontent.com/u/2387315?s=72&v=4" width="24" alt="Avatar of janezd"> janezd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janezd">Copy rank badge</a><br/>
 			Janez Demšar
 		</td>
 		<td>University Of Ljubljana </td>
@@ -837,7 +839,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/otobrglez">
 				<img src="https://avatars.githubusercontent.com/u/225946?s=72&v=4" width="24" alt="Avatar of otobrglez"> otobrglez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#otobrglez">Copy rank badge</a><br/>
 			Oto Brglez
 		</td>
 		<td>Opalab </td>
@@ -850,7 +852,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/edgarcancinoe">
 				<img src="https://avatars.githubusercontent.com/u/59784477?s=72&u=d9f7df329188be9eb296ea8cabfad12fddc6a9dd&v=4" width="24" alt="Avatar of edgarcancinoe"> edgarcancinoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#edgarcancinoe">Copy rank badge</a><br/>
 			José Edgar Hernandez Cancino Estrada
 		</td>
 		<td>No Company</td>
@@ -863,7 +865,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zmilan">
 				<img src="https://avatars.githubusercontent.com/u/302135?s=72&v=4" width="24" alt="Avatar of zmilan"> zmilan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zmilan">Copy rank badge</a><br/>
 			Milan Zivkovic
 		</td>
 		<td>Mali Mlin D.o.o. </td>
@@ -876,7 +878,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MysteriousWolf">
 				<img src="https://avatars.githubusercontent.com/u/5306409?s=72&u=bf9e8b90254e93944b81eaadc96351bb80b5de8c&v=4" width="24" alt="Avatar of MysteriousWolf"> MysteriousWolf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MysteriousWolf">Copy rank badge</a><br/>
 			Matej Pevec
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Javac-g">
 				<img src="https://avatars.githubusercontent.com/u/93475429?s=72&u=019b01d9d7699e80c38c1522953b9a22a9694e54&v=4" width="24" alt="Avatar of Javac-g"> Javac-g
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Javac-g">Copy rank badge</a><br/>
 			Maksym Denysov
 		</td>
 		<td>Pines-digital Corp. </td>
@@ -902,7 +904,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aikenahac">
 				<img src="https://avatars.githubusercontent.com/u/30961404?s=72&u=51e80f966ae25879b691c91d9a17f68205da6d8d&v=4" width="24" alt="Avatar of aikenahac"> aikenahac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aikenahac">Copy rank badge</a><br/>
 			Aiken Tine Ahac
 		</td>
 		<td>@avarra & @preskok </td>
@@ -915,7 +917,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VlaDexa">
 				<img src="https://avatars.githubusercontent.com/u/52157081?s=72&u=56eec0b88f956aa4d1d5350fef4985b45433424a&v=4" width="24" alt="Avatar of VlaDexa"> VlaDexa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VlaDexa">Copy rank badge</a><br/>
 			Vladislav Grechannik
 		</td>
 		<td>No Company</td>
@@ -928,7 +930,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/asodja">
 				<img src="https://avatars.githubusercontent.com/u/3939893?s=72&u=61ce42bbb1cbc8c24ead67eef0f3516b4f8352cd&v=4" width="24" alt="Avatar of asodja"> asodja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#asodja">Copy rank badge</a><br/>
 			Anže Sodja
 		</td>
 		<td>@gradle  </td>
@@ -941,7 +943,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokm">
 				<img src="https://avatars.githubusercontent.com/u/5579125?s=72&v=4" width="24" alt="Avatar of rokm"> rokm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokm">Copy rank badge</a><br/>
 			Rok Mandeljc
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanGolicnik">
 				<img src="https://avatars.githubusercontent.com/u/15875762?s=72&v=4" width="24" alt="Avatar of JanGolicnik"> JanGolicnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanGolicnik">Copy rank badge</a><br/>
 			Jan Goličnik
 		</td>
 		<td>Guardiaris </td>
@@ -967,7 +969,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dzmitry-stramavus">
 				<img src="https://avatars.githubusercontent.com/u/10708539?s=72&u=1eb4308db437428546be9e483586fb381b0174ab&v=4" width="24" alt="Avatar of dzmitry-stramavus"> dzmitry-stramavus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dzmitry-stramavus">Copy rank badge</a><br/>
 			Dmitry Stremous
 		</td>
 		<td>Scaleflex </td>
@@ -980,7 +982,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tomasinjo">
 				<img src="https://avatars.githubusercontent.com/u/43334457?s=72&u=9622f0eac725653445c27d37da1f6abb24034171&v=4" width="24" alt="Avatar of Tomasinjo"> Tomasinjo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Tomasinjo">Copy rank badge</a><br/>
 			Tom Kern
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/igoraj">
 				<img src="https://avatars.githubusercontent.com/u/1874763?s=72&u=c73cf3a8e33a238cc37613f90be3c1dec278c050&v=4" width="24" alt="Avatar of igoraj"> igoraj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#igoraj">Copy rank badge</a><br/>
 			Igor Ajdišek
 		</td>
 		<td>@3fs  </td>
@@ -1006,7 +1008,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SL-Mar">
 				<img src="https://avatars.githubusercontent.com/u/126812704?s=72&u=11ecb22e5f8b89a1778fe4632a30e9193b4b6778&v=4" width="24" alt="Avatar of SL-Mar"> SL-Mar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SL-Mar">Copy rank badge</a><br/>
 			Sebastien M. LAIGNEL
 		</td>
 		<td>Sl Mar  </td>
@@ -1019,7 +1021,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miharekar">
 				<img src="https://avatars.githubusercontent.com/u/986645?s=72&u=8481fe6f906f70273e694225e8fe3108971c7529&v=4" width="24" alt="Avatar of miharekar"> miharekar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miharekar">Copy rank badge</a><br/>
 			Miha Rekar
 		</td>
 		<td>@redguava   </td>
@@ -1032,7 +1034,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/domengabrovsek">
 				<img src="https://avatars.githubusercontent.com/u/25017633?s=72&u=d77c555859a9921e0d7bec0a1e1343a67081f71e&v=4" width="24" alt="Avatar of domengabrovsek"> domengabrovsek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#domengabrovsek">Copy rank badge</a><br/>
 			Domen Gabrovšek
 		</td>
 		<td>No Company</td>
@@ -1045,7 +1047,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/samo4">
 				<img src="https://avatars.githubusercontent.com/u/5190707?s=72&u=5e8cda8125ac06206998221dfc736e7f93ebaffb&v=4" width="24" alt="Avatar of samo4"> samo4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#samo4">Copy rank badge</a><br/>
 			Samo
 		</td>
 		<td>Nabla </td>
@@ -1058,7 +1060,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mathjazz">
 				<img src="https://avatars.githubusercontent.com/u/626716?s=72&v=4" width="24" alt="Avatar of mathjazz"> mathjazz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mathjazz">Copy rank badge</a><br/>
 			Matjaž Horvat
 		</td>
 		<td>Mozilla </td>
@@ -1071,7 +1073,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokbenko">
 				<img src="https://avatars.githubusercontent.com/u/115651717?s=72&u=906cebc4949816765fce4efed9ab18bbe7b67662&v=4" width="24" alt="Avatar of rokbenko"> rokbenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokbenko">Copy rank badge</a><br/>
 			Rok Benko
 		</td>
 		<td>No Company</td>
@@ -1084,7 +1086,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/iredmail">
 				<img src="https://avatars.githubusercontent.com/u/2048991?s=72&u=32ed41e515b63cd5e47327f51d1672271ef8dfc3&v=4" width="24" alt="Avatar of iredmail"> iredmail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#iredmail">Copy rank badge</a><br/>
 			iRedMail
 		</td>
 		<td>Iredmail </td>
@@ -1097,7 +1099,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/xBlaz3kx">
 				<img src="https://avatars.githubusercontent.com/u/22869613?s=72&u=ec01a389922f93122327afd5bc946c7d4c70d2f4&v=4" width="24" alt="Avatar of xBlaz3kx"> xBlaz3kx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#xBlaz3kx">Copy rank badge</a><br/>
 			Blaž Dular
 		</td>
 		<td>Reflexivity </td>
@@ -1110,7 +1112,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dhawton">
 				<img src="https://avatars.githubusercontent.com/u/1330566?s=72&u=0848a77b90b6cd6c3149240f7e9b35ed15bfa270&v=4" width="24" alt="Avatar of dhawton"> dhawton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dhawton">Copy rank badge</a><br/>
 			Daniel Hawton
 		</td>
 		<td>@solo-io  </td>
@@ -1123,7 +1125,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidhozic">
 				<img src="https://avatars.githubusercontent.com/u/25441182?s=72&u=506a164c5b65dcc5a4b3ff674ecd06056bc24e64&v=4" width="24" alt="Avatar of davidhozic"> davidhozic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#davidhozic">Copy rank badge</a><br/>
 			David Hožič
 		</td>
 		<td>No Company</td>
@@ -1136,7 +1138,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ajdnik">
 				<img src="https://avatars.githubusercontent.com/u/922975?s=72&u=01bbd2f27f3f0cfbdca1f73d445adbe63d000fd9&v=4" width="24" alt="Avatar of ajdnik"> ajdnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ajdnik">Copy rank badge</a><br/>
 			Rok Ajdnik
 		</td>
 		<td>Plume Design, Inc. </td>
@@ -1149,7 +1151,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JernejHabjan">
 				<img src="https://avatars.githubusercontent.com/u/21958321?s=72&u=a59504f79f1bc715d3a014b185be6a99f2a84d66&v=4" width="24" alt="Avatar of JernejHabjan"> JernejHabjan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JernejHabjan">Copy rank badge</a><br/>
 			Jernej Habjan
 		</td>
 		<td>Hepra D.o.o. </td>
@@ -1162,7 +1164,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BojanJurca">
 				<img src="https://avatars.githubusercontent.com/u/42709677?s=72&u=b61d0b0edb850b86142426cc6ad24b4933274a67&v=4" width="24" alt="Avatar of BojanJurca"> BojanJurca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BojanJurca">Copy rank badge</a><br/>
 			Bojan Jurca
 		</td>
 		<td>No Company</td>
@@ -1175,7 +1177,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tavsec">
 				<img src="https://avatars.githubusercontent.com/u/31708774?s=72&u=121e2a2cb3eb1edb64be356d45d4edab77cdd85b&v=4" width="24" alt="Avatar of tavsec"> tavsec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tavsec">Copy rank badge</a><br/>
 			Timotej Avsec
 		</td>
 		<td>@higroup-si </td>
@@ -1188,7 +1190,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alesstimec">
 				<img src="https://avatars.githubusercontent.com/u/5555154?s=72&u=007a1a5e7d9125d319f2b55fc8bdde601a32a36c&v=4" width="24" alt="Avatar of alesstimec"> alesstimec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alesstimec">Copy rank badge</a><br/>
 			Ales Stimec
 		</td>
 		<td>Canonical </td>
@@ -1201,7 +1203,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mskvarc">
 				<img src="https://avatars.githubusercontent.com/u/12166333?s=72&u=cd56a6aafc5d7f0d9b64823b50adb3438be74e57&v=4" width="24" alt="Avatar of mskvarc"> mskvarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mskvarc">Copy rank badge</a><br/>
 			Matej Škvarč
 		</td>
 		<td>Senlab </td>
@@ -1214,7 +1216,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/abenedik">
 				<img src="https://avatars.githubusercontent.com/u/7727284?s=72&u=55568488e72d269355ad4d3e02a28e2d798bcff2&v=4" width="24" alt="Avatar of abenedik"> abenedik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#abenedik">Copy rank badge</a><br/>
 			Andrej Benedik
 		</td>
 		<td>Ab4d </td>
@@ -1227,7 +1229,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejk">
 				<img src="https://avatars.githubusercontent.com/u/699334?s=72&u=4fa0a654b363604fd4c21c103db7fd394c072848&v=4" width="24" alt="Avatar of matejk"> matejk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejk">Copy rank badge</a><br/>
 			Matej Kenda
 		</td>
 		<td>No Company</td>
@@ -1240,7 +1242,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanKosutnik">
 				<img src="https://avatars.githubusercontent.com/u/18749412?s=72&u=fd3821db7e9dc01355d2ab55d985b44a2d33a2a6&v=4" width="24" alt="Avatar of JanKosutnik"> JanKosutnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanKosutnik">Copy rank badge</a><br/>
 			JanKosutnik
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/madamov">
 				<img src="https://avatars.githubusercontent.com/u/2778854?s=72&v=4" width="24" alt="Avatar of madamov"> madamov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#madamov">Copy rank badge</a><br/>
 			Milan Adamov
 		</td>
 		<td>Adamov Konsultacije </td>
@@ -1266,7 +1268,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/landomen">
 				<img src="https://avatars.githubusercontent.com/u/16841324?s=72&u=02b91d37c839a4c0570b17384d2752b8e449b74e&v=4" width="24" alt="Avatar of landomen"> landomen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#landomen">Copy rank badge</a><br/>
 			Domen Lanišnik
 		</td>
 		<td>Duckduckgo </td>
@@ -1279,7 +1281,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jeras">
 				<img src="https://avatars.githubusercontent.com/u/47131?s=72&u=ebb025740ec43b07394e6895fec33d189ca93bd0&v=4" width="24" alt="Avatar of jeras"> jeras
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jeras">Copy rank badge</a><br/>
 			Iztok Jeras
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tfius">
 				<img src="https://avatars.githubusercontent.com/u/1674145?s=72&u=50b2e881bc8164d772cc0b11afe1c307dd4905b2&v=4" width="24" alt="Avatar of tfius"> tfius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tfius">Copy rank badge</a><br/>
 			Tadej Fius
 		</td>
 		<td>Mediaatlas </td>
@@ -1305,7 +1307,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LukaPrebil">
 				<img src="https://avatars.githubusercontent.com/u/68891118?s=72&u=071bd90658c445c821eea0bbe9c1eec51b4ce766&v=4" width="24" alt="Avatar of LukaPrebil"> LukaPrebil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LukaPrebil">Copy rank badge</a><br/>
 			Luka Prebil Grintal
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/buresdv">
 				<img src="https://avatars.githubusercontent.com/u/22037369?s=72&u=98adbfd1a20a7af6cc273cec14d493f938866264&v=4" width="24" alt="Avatar of buresdv"> buresdv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#buresdv">Copy rank badge</a><br/>
 			David Bureš
 		</td>
 		<td>No Company</td>
@@ -1331,7 +1333,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/viddrobnic">
 				<img src="https://avatars.githubusercontent.com/u/5161200?s=72&u=bee5890e0d3f0968b4597b79ac2fec475a760ad6&v=4" width="24" alt="Avatar of viddrobnic"> viddrobnic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#viddrobnic">Copy rank badge</a><br/>
 			Vid Drobnič
 		</td>
 		<td>No Company</td>
@@ -1344,7 +1346,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ribafish">
 				<img src="https://avatars.githubusercontent.com/u/15016637?s=72&u=586575567a40fe35b423fdbf0f91334a38c2f04d&v=4" width="24" alt="Avatar of ribafish"> ribafish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ribafish">Copy rank badge</a><br/>
 			Gašper Kojek
 		</td>
 		<td>@gradle </td>
@@ -1357,7 +1359,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/anderlli0053">
 				<img src="https://avatars.githubusercontent.com/u/22171451?s=72&u=72335fcfa8c397e925b1ce44d15a2b05d45c2707&v=4" width="24" alt="Avatar of anderlli0053"> anderlli0053
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#anderlli0053">Copy rank badge</a><br/>
 			Andrew Poženel
 		</td>
 		<td>Various Things </td>
@@ -1370,7 +1372,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/offlinehacker">
 				<img src="https://avatars.githubusercontent.com/u/585547?s=72&v=4" width="24" alt="Avatar of offlinehacker"> offlinehacker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#offlinehacker">Copy rank badge</a><br/>
 			Jaka Hudoklin
 		</td>
 		<td>X-truder </td>
@@ -1383,7 +1385,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ppisljar">
 				<img src="https://avatars.githubusercontent.com/u/13629809?s=72&u=3ef0d73817d445d4763b683b5f030402c5ae7782&v=4" width="24" alt="Avatar of ppisljar"> ppisljar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ppisljar">Copy rank badge</a><br/>
 			Peter Pisljar
 		</td>
 		<td>Elastic </td>
@@ -1396,7 +1398,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakecernet">
 				<img src="https://avatars.githubusercontent.com/u/117542696?s=72&u=2554d96539735c33d01f54c8db974a2e604a5766&v=4" width="24" alt="Avatar of jakecernet"> jakecernet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakecernet">Copy rank badge</a><br/>
 			Jaka Černetič
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/perkzen">
 				<img src="https://avatars.githubusercontent.com/u/73199603?s=72&u=07ed5217ae74ad058d7a3e050137ce674385e93e&v=4" width="24" alt="Avatar of perkzen"> perkzen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#perkzen">Copy rank badge</a><br/>
 			Domen Perko
 		</td>
 		<td>@parakeetai  </td>
@@ -1422,7 +1424,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miran248">
 				<img src="https://avatars.githubusercontent.com/u/32389245?s=72&u=dc13d28ba5126edf2260a3d3d50d4ee5f98b78fa&v=4" width="24" alt="Avatar of miran248"> miran248
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miran248">Copy rank badge</a><br/>
 			Miran
 		</td>
 		<td>No Company</td>
@@ -1435,7 +1437,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/poppyseedDev">
 				<img src="https://avatars.githubusercontent.com/u/30662672?s=72&u=26855375f31d8f86b2e2d21834f862e6caeca315&v=4" width="24" alt="Avatar of poppyseedDev"> poppyseedDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#poppyseedDev">Copy rank badge</a><br/>
 			Aurora Poppyseed
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gabr42">
 				<img src="https://avatars.githubusercontent.com/u/2873801?s=72&u=f8dc5dfb8e67d7ecd937794a785619574571cb50&v=4" width="24" alt="Avatar of gabr42"> gabr42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gabr42">Copy rank badge</a><br/>
 			Primož Gabrijelčič
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/erazemk">
 				<img src="https://avatars.githubusercontent.com/u/46302511?s=72&u=e44d7ef7612c945673fb60c014bf6e15e880dafa&v=4" width="24" alt="Avatar of erazemk"> erazemk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#erazemk">Copy rank badge</a><br/>
 			Erazem Kokot
 		</td>
 		<td>@devrev  </td>
@@ -1474,7 +1476,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntadej">
 				<img src="https://avatars.githubusercontent.com/u/805384?s=72&v=4" width="24" alt="Avatar of ntadej"> ntadej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ntadej">Copy rank badge</a><br/>
 			Tadej Novak
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sebastjanm">
 				<img src="https://avatars.githubusercontent.com/u/994660?s=72&v=4" width="24" alt="Avatar of sebastjanm"> sebastjanm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sebastjanm">Copy rank badge</a><br/>
 			Sebastjan Mislej
 		</td>
 		<td>Lecturehub.com </td>
@@ -1500,7 +1502,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Niko1221">
 				<img src="https://avatars.githubusercontent.com/u/86886444?s=72&u=3aadf100bdecb29e464a29c9378d706940d5fc5b&v=4" width="24" alt="Avatar of Niko1221"> Niko1221
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Niko1221">Copy rank badge</a><br/>
 			Niko
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mfin">
 				<img src="https://avatars.githubusercontent.com/u/568677?s=72&u=4a28a22df0b0c1314dc519f412c9a02131f04fcb&v=4" width="24" alt="Avatar of mfin"> mfin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mfin">Copy rank badge</a><br/>
 			Matjaž Finžgar
 		</td>
 		<td>No Company</td>
@@ -1526,7 +1528,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/filips123">
 				<img src="https://avatars.githubusercontent.com/u/16626308?s=72&u=f08d7dcf17124eb57f7a2fe8e25806bf310b251a&v=4" width="24" alt="Avatar of filips123"> filips123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#filips123">Copy rank badge</a><br/>
 			Filip Štamcar
 		</td>
 		<td>No Company</td>
@@ -1539,7 +1541,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dorkamotorka">
 				<img src="https://avatars.githubusercontent.com/u/48418580?s=72&u=d4c3c08f20cc72a24f59e77d6cbbacd8ea361d38&v=4" width="24" alt="Avatar of dorkamotorka"> dorkamotorka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dorkamotorka">Copy rank badge</a><br/>
 			Teodor Janez Podobnik
 		</td>
 		<td>Prewave </td>
@@ -1552,7 +1554,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Vaskivskyi">
 				<img src="https://avatars.githubusercontent.com/u/6554415?s=72&u=0495f3300e9af69895744e2e793b47fa8823b80c&v=4" width="24" alt="Avatar of Vaskivskyi"> Vaskivskyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Vaskivskyi">Copy rank badge</a><br/>
 			Yevhenii Vaskivskyi
 		</td>
 		<td>@complex-f7  </td>
@@ -1565,7 +1567,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilovespectra">
 				<img src="https://avatars.githubusercontent.com/u/94848716?s=72&u=8566933f013e1d474032277b8c91758361f3aafe&v=4" width="24" alt="Avatar of ilovespectra"> ilovespectra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ilovespectra">Copy rank badge</a><br/>
 			tanny
 		</td>
 		<td>Resonance </td>
@@ -1578,7 +1580,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Privatech38">
 				<img src="https://avatars.githubusercontent.com/u/99482159?s=72&u=19fc71771eae9fd8bd66b3f73653dedac86e096c&v=4" width="24" alt="Avatar of Privatech38"> Privatech38
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Privatech38">Copy rank badge</a><br/>
 			Žiga Slatnar Štagar
 		</td>
 		<td>@tectonicnetwork </td>
@@ -1591,7 +1593,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/samastur">
 				<img src="https://avatars.githubusercontent.com/u/572571?s=72&u=fee64d5b29fbd0382162e20cac73f4a2ab9312df&v=4" width="24" alt="Avatar of samastur"> samastur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#samastur">Copy rank badge</a><br/>
 			Marko Samastur
 		</td>
 		<td>Uptree </td>
@@ -1604,7 +1606,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejbauer">
 				<img src="https://avatars.githubusercontent.com/u/646599?s=72&v=4" width="24" alt="Avatar of andrejbauer"> andrejbauer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejbauer">Copy rank badge</a><br/>
 			Andrej Bauer
 		</td>
 		<td>University Of Ljubljana </td>
@@ -1617,7 +1619,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/martinjagodic">
 				<img src="https://avatars.githubusercontent.com/u/42938138?s=72&u=a0d94d77853cd2d9909ab8fff20698f11c875ba5&v=4" width="24" alt="Avatar of martinjagodic"> martinjagodic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#martinjagodic">Copy rank badge</a><br/>
 			Martin Jagodic
 		</td>
 		<td>@decaporg  </td>
@@ -1630,7 +1632,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kostko">
 				<img src="https://avatars.githubusercontent.com/u/543739?s=72&v=4" width="24" alt="Avatar of kostko"> kostko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kostko">Copy rank badge</a><br/>
 			Jernej Kos
 		</td>
 		<td>No Company</td>
@@ -1643,7 +1645,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/firefly-cpp">
 				<img src="https://avatars.githubusercontent.com/u/1633361?s=72&u=955b43d15fdd77ed00e7bbe122909ef0d608f43f&v=4" width="24" alt="Avatar of firefly-cpp"> firefly-cpp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#firefly-cpp">Copy rank badge</a><br/>
 			Iztok Fister Jr.
 		</td>
 		<td>No Company</td>
@@ -1656,7 +1658,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jankoslavic">
 				<img src="https://avatars.githubusercontent.com/u/5072664?s=72&u=6976447ed785895eda817918175eca457a489400&v=4" width="24" alt="Avatar of jankoslavic"> jankoslavic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jankoslavic">Copy rank badge</a><br/>
 			Janko Slavič
 		</td>
 		<td>University Of Ljubljana </td>
@@ -1669,7 +1671,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanezSedeljsak">
 				<img src="https://avatars.githubusercontent.com/u/43420276?s=72&u=4a2f1a1a9c49703c4e75beeddee1d9c5ed358d61&v=4" width="24" alt="Avatar of JanezSedeljsak"> JanezSedeljsak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanezSedeljsak">Copy rank badge</a><br/>
 			Janez Sedeljšak
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bojanrajh">
 				<img src="https://avatars.githubusercontent.com/u/117360292?s=72&u=2c5d6fe129440ae99e3f422404b942479bd57e44&v=4" width="24" alt="Avatar of bojanrajh"> bojanrajh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bojanrajh">Copy rank badge</a><br/>
 			Bojan Rajh
 		</td>
 		<td>@shopware </td>
@@ -1695,7 +1697,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Null000">
 				<img src="https://avatars.githubusercontent.com/u/243961?s=72&u=05b58ce9174cf4463ce764d20296e0b4cc2ea7b5&v=4" width="24" alt="Avatar of Null000"> Null000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Null000">Copy rank badge</a><br/>
 			Damjan Košir
 		</td>
 		<td>Stake.fish </td>
@@ -1708,7 +1710,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Legoless">
 				<img src="https://avatars.githubusercontent.com/u/1434530?s=72&u=27175749df35ab5e0466aa049674552576f0cc99&v=4" width="24" alt="Avatar of Legoless"> Legoless
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Legoless">Copy rank badge</a><br/>
 			Dal Rupnik
 		</td>
 		<td>Unified Sense </td>
@@ -1721,7 +1723,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/depy">
 				<img src="https://avatars.githubusercontent.com/u/141397?s=72&u=8fc7663cca203eacf4a7a71de87c10a504c3482f&v=4" width="24" alt="Avatar of depy"> depy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#depy">Copy rank badge</a><br/>
 			Matjaz Muhic
 		</td>
 		<td>Codeable </td>
@@ -1734,7 +1736,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VakeDomen">
 				<img src="https://avatars.githubusercontent.com/u/31067452?s=72&v=4" width="24" alt="Avatar of VakeDomen"> VakeDomen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VakeDomen">Copy rank badge</a><br/>
 			Domen Vake
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xfa7ca7">
 				<img src="https://avatars.githubusercontent.com/u/24227274?s=72&u=c7fb8b586bcc13351c5115b27355a1677a7f2750&v=4" width="24" alt="Avatar of 0xfa7ca7"> 0xfa7ca7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#0xfa7ca7">Copy rank badge</a><br/>
 			kapi
 		</td>
 		<td>Klop.studio </td>
@@ -1760,7 +1762,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mzgajner">
 				<img src="https://avatars.githubusercontent.com/u/1853648?s=72&u=4f30fca5d8b7d95ef1d95de61a0a2032d278873a&v=4" width="24" alt="Avatar of mzgajner"> mzgajner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mzgajner">Copy rank badge</a><br/>
 			Mato Žgajner
 		</td>
 		<td>@sleuth-io </td>
@@ -1773,7 +1775,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigapovhe">
 				<img src="https://avatars.githubusercontent.com/u/21365070?s=72&u=b771aa10bf643ec5b2e3324a96d865a08bf045d7&v=4" width="24" alt="Avatar of zigapovhe"> zigapovhe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigapovhe">Copy rank badge</a><br/>
 			Žiga Povhe
 		</td>
 		<td>No Company</td>
@@ -1786,7 +1788,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sparrowDom">
 				<img src="https://avatars.githubusercontent.com/u/579910?s=72&v=4" width="24" alt="Avatar of sparrowDom"> sparrowDom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sparrowDom">Copy rank badge</a><br/>
 			Domen Grabec
 		</td>
 		<td>Origin Protocol </td>
@@ -1799,7 +1801,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikashitsa">
 				<img src="https://avatars.githubusercontent.com/u/1029908?s=72&u=2ac6cdf2178f26aa7420be4ce91647b71305d2f5&v=4" width="24" alt="Avatar of nikashitsa"> nikashitsa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nikashitsa">Copy rank badge</a><br/>
 			Nikita Verkhovin
 		</td>
 		<td>@coinspace </td>
@@ -1812,7 +1814,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaka-k">
 				<img src="https://avatars.githubusercontent.com/u/74316018?s=72&u=96960cdcdb6d69b051e75700bb0061366828cbbe&v=4" width="24" alt="Avatar of jaka-k"> jaka-k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jaka-k">Copy rank badge</a><br/>
 			Jaka Krajnc
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bovrhovn">
 				<img src="https://avatars.githubusercontent.com/u/58401850?s=72&u=b5a0a8ac858bb33c14a04f8bb317a695e3f358fd&v=4" width="24" alt="Avatar of bovrhovn"> bovrhovn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bovrhovn">Copy rank badge</a><br/>
 			Bojan Vrhovnik
 		</td>
 		<td>Microsoft </td>
@@ -1838,7 +1840,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/danfisher85">
 				<img src="https://avatars.githubusercontent.com/u/7786257?s=72&u=9b7293808d726d7bee716dc1d3d884075b84f8a2&v=4" width="24" alt="Avatar of danfisher85"> danfisher85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#danfisher85">Copy rank badge</a><br/>
 			Roman (Dan Fisher) Perevala
 		</td>
 		<td>No Company</td>
@@ -1851,7 +1853,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sulcer">
 				<img src="https://avatars.githubusercontent.com/u/78727019?s=72&u=88cb5e0ff7d573754448956fef64e5f29a0a53c9&v=4" width="24" alt="Avatar of sulcer"> sulcer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sulcer">Copy rank badge</a><br/>
 			Gregor Sulcer
 		</td>
 		<td>@databox </td>
@@ -1864,7 +1866,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bobalazek">
 				<img src="https://avatars.githubusercontent.com/u/1904053?s=72&u=b9f55adfbd0fbb044ab62c8f5a11ad76ebf7729d&v=4" width="24" alt="Avatar of bobalazek"> bobalazek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bobalazek">Copy rank badge</a><br/>
 			Borut Balazek
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MoffKalast">
 				<img src="https://avatars.githubusercontent.com/u/9977799?s=72&v=4" width="24" alt="Avatar of MoffKalast"> MoffKalast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MoffKalast">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TroiMakesGames">
 				<img src="https://avatars.githubusercontent.com/u/143833120?s=72&u=8bccd43f83c9ceed973c5db9d8f5ada208104740&v=4" width="24" alt="Avatar of TroiMakesGames"> TroiMakesGames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TroiMakesGames">Copy rank badge</a><br/>
 			Troi
 		</td>
 		<td>No Company</td>
@@ -1903,7 +1905,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mxmou">
 				<img src="https://avatars.githubusercontent.com/u/51849865?s=72&u=f9ce2f6207c1d86eb97fce547ed3a57ce9024ed1&v=4" width="24" alt="Avatar of mxmou"> mxmou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mxmou">Copy rank badge</a><br/>
 			Maximouse
 		</td>
 		<td>No Company</td>
@@ -1916,7 +1918,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vpeter4">
 				<img src="https://avatars.githubusercontent.com/u/1016324?s=72&u=59f6795a0c7087d74541a2b912b03f4bfe426615&v=4" width="24" alt="Avatar of vpeter4"> vpeter4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vpeter4">Copy rank badge</a><br/>
 			Peter
 		</td>
 		<td>No Company</td>
@@ -1929,7 +1931,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dusano">
 				<img src="https://avatars.githubusercontent.com/u/139641?s=72&u=30bf770f2edff56292d775081b28893688ceb7c3&v=4" width="24" alt="Avatar of dusano"> dusano
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dusano">Copy rank badge</a><br/>
 			Dusan Omercevic
 		</td>
 		<td>@codeplain-ai  </td>
@@ -1942,7 +1944,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nadjano">
 				<img src="https://avatars.githubusercontent.com/u/103439290?s=72&u=d060f0d201e1f63c8891cd3725f8df2689041722&v=4" width="24" alt="Avatar of nadjano"> nadjano
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nadjano">Copy rank badge</a><br/>
 			Nadja Nolte
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/klemenkenda">
 				<img src="https://avatars.githubusercontent.com/u/795773?s=72&u=dfbf4b2bb860a83f2a61e95dbdbe5501d870054e&v=4" width="24" alt="Avatar of klemenkenda"> klemenkenda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#klemenkenda">Copy rank badge</a><br/>
 			Klemen Kenda
 		</td>
 		<td>Jozef Stefan Institute </td>
@@ -1968,7 +1970,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pseudobun">
 				<img src="https://avatars.githubusercontent.com/u/32909989?s=72&u=1f23924611df8afca4cbe20d4a68657b3e738005&v=4" width="24" alt="Avatar of pseudobun"> pseudobun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pseudobun">Copy rank badge</a><br/>
 			Urban
 		</td>
 		<td>@blockchain-lab-um @lutralabs </td>
@@ -1981,7 +1983,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/slashrsm">
 				<img src="https://avatars.githubusercontent.com/u/376889?s=72&v=4" width="24" alt="Avatar of slashrsm"> slashrsm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#slashrsm">Copy rank badge</a><br/>
 			Janez Urevc
 		</td>
 		<td>No Company</td>
@@ -1994,7 +1996,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/GChuf">
 				<img src="https://avatars.githubusercontent.com/u/42591821?s=72&u=7e3af8c50aed14a46212294aa6f9f0f55fc50bb5&v=4" width="24" alt="Avatar of GChuf"> GChuf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#GChuf">Copy rank badge</a><br/>
 			Gašper Čefarin
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/munichpavel">
 				<img src="https://avatars.githubusercontent.com/u/21952941?s=72&u=d50bfda9ddc03d7ec38034b8c7faa095dfed22c2&v=4" width="24" alt="Avatar of munichpavel"> munichpavel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#munichpavel">Copy rank badge</a><br/>
 			Paul Larsen
 		</td>
 		<td>Korapis D.o.o. </td>
@@ -2020,7 +2022,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TjasaZil">
 				<img src="https://avatars.githubusercontent.com/u/53261472?s=72&u=cacf1f6f7b5a19191e176a601272920e806d8831&v=4" width="24" alt="Avatar of TjasaZil"> TjasaZil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TjasaZil">Copy rank badge</a><br/>
 			Tjasa
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alesj">
 				<img src="https://avatars.githubusercontent.com/u/331896?s=72&v=4" width="24" alt="Avatar of alesj"> alesj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alesj">Copy rank badge</a><br/>
 			Aleš Justin
 		</td>
 		<td>@ibm </td>
@@ -2046,7 +2048,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matjazonline">
 				<img src="https://avatars.githubusercontent.com/u/1091110?s=72&u=45102565717777fd1440edde7e2765425f1c2305&v=4" width="24" alt="Avatar of matjazonline"> matjazonline
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matjazonline">Copy rank badge</a><br/>
 			Matjaz Hirschman
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/domenkoder">
 				<img src="https://avatars.githubusercontent.com/u/74912929?s=72&u=d0baa7adf51b43f2109370b95547438f9765f013&v=4" width="24" alt="Avatar of domenkoder"> domenkoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#domenkoder">Copy rank badge</a><br/>
 			Domen Koder
 		</td>
 		<td>Elektrotehniška In Računalniška Šola<br/>Nova<br/>Gorica<br/></td>
@@ -2072,7 +2074,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matija2209">
 				<img src="https://avatars.githubusercontent.com/u/16494697?s=72&u=a47f1f7abcdd465f28c39b54fd623d522db16bf5&v=4" width="24" alt="Avatar of matija2209"> matija2209
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matija2209">Copy rank badge</a><br/>
 			Matija Žiberna
 		</td>
 		<td>We Hate Copy Pasting<br/></td>
@@ -2085,7 +2087,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AlenkaF">
 				<img src="https://avatars.githubusercontent.com/u/16418547?s=72&u=7cbcdb11709b2ba498cda292016c3e42232f1bcd&v=4" width="24" alt="Avatar of AlenkaF"> AlenkaF
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AlenkaF">Copy rank badge</a><br/>
 			Alenka Frim
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hannesbarbez">
 				<img src="https://avatars.githubusercontent.com/u/21220083?s=72&u=5b00470953dcb983791ac6b5f4111882a1d978c4&v=4" width="24" alt="Avatar of hannesbarbez"> hannesbarbez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hannesbarbez">Copy rank badge</a><br/>
 			Hannes Barbez
 		</td>
 		<td>Self-employed </td>
@@ -2111,7 +2113,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KomelT">
 				<img src="https://avatars.githubusercontent.com/u/46865859?s=72&u=b3f95c7a93b1e27ea26d4445796de78183fd3773&v=4" width="24" alt="Avatar of KomelT"> KomelT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KomelT">Copy rank badge</a><br/>
 			Tilen Komel
 		</td>
 		<td>No Company</td>
@@ -2124,7 +2126,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JureVidrih">
 				<img src="https://avatars.githubusercontent.com/u/29111986?s=72&u=83727d9393756c271fae4d7e506bf62e7f399f3c&v=4" width="24" alt="Avatar of JureVidrih"> JureVidrih
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JureVidrih">Copy rank badge</a><br/>
 			Jure VIdrih
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mitkonikov">
 				<img src="https://avatars.githubusercontent.com/u/6832136?s=72&u=75336619d6c10ba867533b91152e6c82c86fbb4e&v=4" width="24" alt="Avatar of mitkonikov"> mitkonikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mitkonikov">Copy rank badge</a><br/>
 			Mitko Nikov
 		</td>
 		<td>University Of Maribor </td>
@@ -2150,7 +2152,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bancek">
 				<img src="https://avatars.githubusercontent.com/u/367440?s=72&u=2da165b5ad9efeed982a5c80e3729ce2da415e07&v=4" width="24" alt="Avatar of bancek"> bancek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bancek">Copy rank badge</a><br/>
 			Luka Zakrajšek
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrggvg">
 				<img src="https://avatars.githubusercontent.com/u/77358848?s=72&u=7e22016ab088d7ce95bfb89b4174f65b375556d0&v=4" width="24" alt="Avatar of mrggvg"> mrggvg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mrggvg">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2176,7 +2178,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TheLukaDragar">
 				<img src="https://avatars.githubusercontent.com/u/44731570?s=72&u=0f621378461ba29393ccca7f39ea4a3a745e6f1a&v=4" width="24" alt="Avatar of TheLukaDragar"> TheLukaDragar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TheLukaDragar">Copy rank badge</a><br/>
 			Luka Dragar
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/robbymilo">
 				<img src="https://avatars.githubusercontent.com/u/8106669?s=72&u=b5929162f75a8e3e5dca80dcfe543e46ff5985aa&v=4" width="24" alt="Avatar of robbymilo"> robbymilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#robbymilo">Copy rank badge</a><br/>
 			Robby Milo
 		</td>
 		<td>@grafana  </td>
@@ -2202,7 +2204,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lukatavcer">
 				<img src="https://avatars.githubusercontent.com/u/17572146?s=72&u=5ce36b144d59afd2d67d3ba45966aa3884e8bdd3&v=4" width="24" alt="Avatar of lukatavcer"> lukatavcer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lukatavcer">Copy rank badge</a><br/>
 			Luka Tavčer
 		</td>
 		<td>Rethink.finance / Prizmadesk </td>
@@ -2215,7 +2217,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zhivko">
 				<img src="https://avatars.githubusercontent.com/u/3688966?s=72&u=d391caf40fe087a42d3ff584ea7a2c1dc5c86f5a&v=4" width="24" alt="Avatar of zhivko"> zhivko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zhivko">Copy rank badge</a><br/>
 			zhivko
 		</td>
 		<td>Klemen Zivkovic It S.p.<br/></td>
@@ -2228,7 +2230,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nicolasbeauvais">
 				<img src="https://avatars.githubusercontent.com/u/2951704?s=72&u=39bf3247ef90b1e0eb2a20571c5b2ccba06f83e0&v=4" width="24" alt="Avatar of nicolasbeauvais"> nicolasbeauvais
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nicolasbeauvais">Copy rank badge</a><br/>
 			Nicolas Beauvais
 		</td>
 		<td>Founder Of Phare.io </td>
@@ -2241,7 +2243,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Scorpio3310">
 				<img src="https://avatars.githubusercontent.com/u/38212799?s=72&u=ce8217c9c8c605fea8cc4376359b9004bdd589f6&v=4" width="24" alt="Avatar of Scorpio3310"> Scorpio3310
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Scorpio3310">Copy rank badge</a><br/>
 			Nik Klemenc
 		</td>
 		<td>No Company</td>
@@ -2254,7 +2256,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gcerar">
 				<img src="https://avatars.githubusercontent.com/u/5150132?s=72&u=45c4b40691fd601ba07d6c2d8bd0e804128c9c0e&v=4" width="24" alt="Avatar of gcerar"> gcerar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gcerar">Copy rank badge</a><br/>
 			Gregor Cerar
 		</td>
 		<td>Comsensus, Jsi @sensorlab </td>
@@ -2267,7 +2269,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomaztk">
 				<img src="https://avatars.githubusercontent.com/u/16327468?s=72&u=de1f934dd173e2a77b746f0897b50e4d94a6fb55&v=4" width="24" alt="Avatar of tomaztk"> tomaztk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tomaztk">Copy rank badge</a><br/>
 			Tomaz Kastrun
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikogamulin">
 				<img src="https://avatars.githubusercontent.com/u/1803701?s=72&u=7f9909c5677beabc57722bf5c9006022f8a9209c&v=4" width="24" alt="Avatar of nikogamulin"> nikogamulin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nikogamulin">Copy rank badge</a><br/>
 			Niko Gamulin
 		</td>
 		<td>Causaris Ai </td>
@@ -2293,7 +2295,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LanVukusic">
 				<img src="https://avatars.githubusercontent.com/u/13378639?s=72&u=742773b9237cecca15ce3c51fe0f2c0a09d5a081&v=4" width="24" alt="Avatar of LanVukusic"> LanVukusic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LanVukusic">Copy rank badge</a><br/>
 			Lan Vukušič
 		</td>
 		<td>No Company</td>
@@ -2306,7 +2308,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tjanez">
 				<img src="https://avatars.githubusercontent.com/u/2518544?s=72&v=4" width="24" alt="Avatar of tjanez"> tjanez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tjanez">Copy rank badge</a><br/>
 			Tadej Janež
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TheCodeDestroyer">
 				<img src="https://avatars.githubusercontent.com/u/5381925?s=72&u=92571b0abad961d260c8d6b13631609398a661db&v=4" width="24" alt="Avatar of TheCodeDestroyer"> TheCodeDestroyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TheCodeDestroyer">Copy rank badge</a><br/>
 			Nace Logar
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/anzepintar">
 				<img src="https://avatars.githubusercontent.com/u/46792251?s=72&u=f44be62408401c96bf20034468c8f9374dec48c4&v=4" width="24" alt="Avatar of anzepintar"> anzepintar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#anzepintar">Copy rank badge</a><br/>
 			Anže Pintar
 		</td>
 		<td>No Company</td>
@@ -2345,7 +2347,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Freeky7819">
 				<img src="https://avatars.githubusercontent.com/u/192425760?s=72&u=80e08af9b41e44480bb30299315aa6f6426deafd&v=4" width="24" alt="Avatar of Freeky7819"> Freeky7819
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Freeky7819">Copy rank badge</a><br/>
 			Damjan Žakelj
 		</td>
 		<td>No Company</td>
@@ -2358,7 +2360,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Paveljolak">
 				<img src="https://avatars.githubusercontent.com/u/74764952?s=72&u=6433442d699ef08d61ffd302413203ffa545ee69&v=4" width="24" alt="Avatar of Paveljolak"> Paveljolak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Paveljolak">Copy rank badge</a><br/>
 			Pavel
 		</td>
 		<td>@ubiquityrobotics </td>
@@ -2371,7 +2373,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miha-stopar">
 				<img src="https://avatars.githubusercontent.com/u/2494901?s=72&v=4" width="24" alt="Avatar of miha-stopar"> miha-stopar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miha-stopar">Copy rank badge</a><br/>
 			Miha Stopar
 		</td>
 		<td>No Company</td>
@@ -2384,7 +2386,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zankooo">
 				<img src="https://avatars.githubusercontent.com/u/120281742?s=72&u=e90d967204698841e2e7fde6052d57a60afa9cc9&v=4" width="24" alt="Avatar of Zankooo"> Zankooo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Zankooo">Copy rank badge</a><br/>
 			Zan 
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/xtrinch">
 				<img src="https://avatars.githubusercontent.com/u/7256491?s=72&u=8a15534c52e88ffea7ab84cb3a9abbb3cdb60a3b&v=4" width="24" alt="Avatar of xtrinch"> xtrinch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#xtrinch">Copy rank badge</a><br/>
 			Mojca Rojko
 		</td>
 		<td>No Company</td>
@@ -2410,7 +2412,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/majcn">
 				<img src="https://avatars.githubusercontent.com/u/800011?s=72&v=4" width="24" alt="Avatar of majcn"> majcn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#majcn">Copy rank badge</a><br/>
 			Gregor Majcen
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Aljoberg">
 				<img src="https://avatars.githubusercontent.com/u/72980003?s=72&u=c5d2c021a6ee26000ca7b8e0614d6ff2a21ac9f5&v=4" width="24" alt="Avatar of Aljoberg"> Aljoberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Aljoberg">Copy rank badge</a><br/>
 			Aljo
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pavlin-policar">
 				<img src="https://avatars.githubusercontent.com/u/5758119?s=72&u=e45fc47c5334c7db0f8c0a89d7182023f723d1de&v=4" width="24" alt="Avatar of pavlin-policar"> pavlin-policar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pavlin-policar">Copy rank badge</a><br/>
 			Pavlin Poličar
 		</td>
 		<td>University Of Ljubljana </td>
@@ -2449,7 +2451,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaticBabnik">
 				<img src="https://avatars.githubusercontent.com/u/19249905?s=72&u=a028251c1e4d9023f0e560c294028cce3173f65d&v=4" width="24" alt="Avatar of MaticBabnik"> MaticBabnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MaticBabnik">Copy rank badge</a><br/>
 			Matic Babnik
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigapk">
 				<img src="https://avatars.githubusercontent.com/u/5074514?s=72&u=c56fcb7d7ba0b2e8af4cc849030aa0f6379b0d27&v=4" width="24" alt="Avatar of zigapk"> zigapk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigapk">Copy rank badge</a><br/>
 			Žiga Patačko
 		</td>
 		<td>Zerodays </td>
@@ -2475,7 +2477,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejs2">
 				<img src="https://avatars.githubusercontent.com/u/44124120?s=72&u=b08ba45172c021b04008e234e2c354d8f266f959&v=4" width="24" alt="Avatar of andrejs2"> andrejs2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejs2">Copy rank badge</a><br/>
 			Andrej Sersen
 		</td>
 		<td>No Company</td>
@@ -2488,7 +2490,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alesbrelih">
 				<img src="https://avatars.githubusercontent.com/u/10506436?s=72&u=355f15a63c41698a27ca79075e2b5f507c04a5c2&v=4" width="24" alt="Avatar of alesbrelih"> alesbrelih
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alesbrelih">Copy rank badge</a><br/>
 			Aleš Brelih
 		</td>
 		<td>No Company</td>
@@ -2501,7 +2503,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/EmaCikotic">
 				<img src="https://avatars.githubusercontent.com/u/90923231?s=72&v=4" width="24" alt="Avatar of EmaCikotic"> EmaCikotic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#EmaCikotic">Copy rank badge</a><br/>
 			Ema Čikotić
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TomazErjavec">
 				<img src="https://avatars.githubusercontent.com/u/5927714?s=72&u=078a67be6ca0ccc6e059c227de8bc43c7290e3a9&v=4" width="24" alt="Avatar of TomazErjavec"> TomazErjavec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TomazErjavec">Copy rank badge</a><br/>
 			Tomaž Erjavec
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -2527,7 +2529,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/knagode">
 				<img src="https://avatars.githubusercontent.com/u/4473199?s=72&u=6d005ffabbbb3e920c814403ddc2a89ac2be0075&v=4" width="24" alt="Avatar of knagode"> knagode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#knagode">Copy rank badge</a><br/>
 			Klemen Nagode
 		</td>
 		<td>Topkey, Adbarker, Declegacy </td>
@@ -2540,7 +2542,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/metayeti">
 				<img src="https://avatars.githubusercontent.com/u/2159248?s=72&u=640b808d7ab6df19de965dcc12f2211df8d9d983&v=4" width="24" alt="Avatar of metayeti"> metayeti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#metayeti">Copy rank badge</a><br/>
 			Danijel
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/timkalan">
 				<img src="https://avatars.githubusercontent.com/u/49699147?s=72&u=e2580b52e294cb05c97fc627b7cbad5e7363fb0b&v=4" width="24" alt="Avatar of timkalan"> timkalan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#timkalan">Copy rank badge</a><br/>
 			Tim Kalan
 		</td>
 		<td>No Company</td>
@@ -2566,7 +2568,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gapidobri">
 				<img src="https://avatars.githubusercontent.com/u/34812805?s=72&u=1fd5c64c7a1356d5d05b19e51d8e4c70789fcebd&v=4" width="24" alt="Avatar of gapidobri"> gapidobri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gapidobri">Copy rank badge</a><br/>
 			Gašper Dobrovoljc
 		</td>
 		<td>@aeriotech </td>
@@ -2579,7 +2581,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/karantan">
 				<img src="https://avatars.githubusercontent.com/u/7062631?s=72&u=63f45cdde8cb34b10d036dc3efb9dbccffffd4d9&v=4" width="24" alt="Avatar of karantan"> karantan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#karantan">Copy rank badge</a><br/>
 			Gasper Vozel
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/trco">
 				<img src="https://avatars.githubusercontent.com/u/33464584?s=72&u=9bd299dad45d386d401303443d6a7b61dd93eacb&v=4" width="24" alt="Avatar of trco"> trco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#trco">Copy rank badge</a><br/>
 			Uroš Trstenjak
 		</td>
 		<td>Databox Inc. </td>
@@ -2605,7 +2607,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KlemenKobau">
 				<img src="https://avatars.githubusercontent.com/u/24980699?s=72&v=4" width="24" alt="Avatar of KlemenKobau"> KlemenKobau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KlemenKobau">Copy rank badge</a><br/>
 			Klemen
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/edofic">
 				<img src="https://avatars.githubusercontent.com/u/597476?s=72&u=7261d52141d4c78891445958a1de8ef8de5df47e&v=4" width="24" alt="Avatar of edofic"> edofic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#edofic">Copy rank badge</a><br/>
 			Andraž Bajt
 		</td>
 		<td>@leanix  </td>
@@ -2631,7 +2633,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndyTempel">
 				<img src="https://avatars.githubusercontent.com/u/9637751?s=72&u=f470e5e316d0f44154f204c29af54cbd3050549c&v=4" width="24" alt="Avatar of AndyTempel"> AndyTempel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AndyTempel">Copy rank badge</a><br/>
 			NANI
 		</td>
 		<td>No Company</td>
@@ -2644,7 +2646,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vykhand">
 				<img src="https://avatars.githubusercontent.com/u/498481?s=72&u=0d3856ca632b8f6faef56ba845d8a5e38906c840&v=4" width="24" alt="Avatar of vykhand"> vykhand
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vykhand">Copy rank badge</a><br/>
 			Andrey Vykhodtsev
 		</td>
 		<td>Aprova Gmbh. </td>
@@ -2657,7 +2659,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TilenTinta">
 				<img src="https://avatars.githubusercontent.com/u/32980770?s=72&u=a74fc26e1ee8ee0e94aa1642e2a60efd145f1aa4&v=4" width="24" alt="Avatar of TilenTinta"> TilenTinta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TilenTinta">Copy rank badge</a><br/>
 			Tilen Tinta
 		</td>
 		<td>Hidria - Advancetec </td>
@@ -2670,7 +2672,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/fullmetaltac">
 				<img src="https://avatars.githubusercontent.com/u/5435980?s=72&u=5e42fcb891c9928742c8bb646de1063659b5b649&v=4" width="24" alt="Avatar of fullmetaltac"> fullmetaltac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#fullmetaltac">Copy rank badge</a><br/>
 			Dmytro Malkin
 		</td>
 		<td>No Company</td>
@@ -2683,7 +2685,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MihaMarkic">
 				<img src="https://avatars.githubusercontent.com/u/2194935?s=72&u=7309a96b74c9c073c58f281da48d5a057a3b96f0&v=4" width="24" alt="Avatar of MihaMarkic"> MihaMarkic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MihaMarkic">Copy rank badge</a><br/>
 			Miha Markič
 		</td>
 		<td>Righthand </td>
@@ -2696,7 +2698,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/svenahac">
 				<img src="https://avatars.githubusercontent.com/u/52139707?s=72&u=feb007eac0c9ec0a6709bee34de018316af91f22&v=4" width="24" alt="Avatar of svenahac"> svenahac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#svenahac">Copy rank badge</a><br/>
 			Sven Ahac
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ServerlessLife">
 				<img src="https://avatars.githubusercontent.com/u/45481241?s=72&u=7268aa36288369d17be10103340ad3d22c7e2186&v=4" width="24" alt="Avatar of ServerlessLife"> ServerlessLife
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ServerlessLife">Copy rank badge</a><br/>
 			Marko
 		</td>
 		<td>No Company</td>
@@ -2722,7 +2724,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ursamiklavcic">
 				<img src="https://avatars.githubusercontent.com/u/100948240?s=72&u=8250b299450f400ba4cf6ea8237a712d651354dd&v=4" width="24" alt="Avatar of ursamiklavcic"> ursamiklavcic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ursamiklavcic">Copy rank badge</a><br/>
 			Ursa
 		</td>
 		<td>Nlzoh </td>
@@ -2735,7 +2737,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RokLenarcic">
 				<img src="https://avatars.githubusercontent.com/u/3322433?s=72&u=5bb07a1b85a29073b79b76e401232ac522d4c402&v=4" width="24" alt="Avatar of RokLenarcic"> RokLenarcic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RokLenarcic">Copy rank badge</a><br/>
 			Rok Lenarčič
 		</td>
 		<td>No Company</td>
@@ -2748,7 +2750,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaanos">
 				<img src="https://avatars.githubusercontent.com/u/6708236?s=72&u=33a3cd429bd003c8223375de359ca61ac9e14702&v=4" width="24" alt="Avatar of jaanos"> jaanos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jaanos">Copy rank badge</a><br/>
 			Janoš Vidali
 		</td>
 		<td>Faculty Of Mathematics And<br/>Physics<br/></td>
@@ -2761,7 +2763,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alenhorvat">
 				<img src="https://avatars.githubusercontent.com/u/10848802?s=72&u=72c72f5d50e430569cd365f7f1ea6246f28c3a15&v=4" width="24" alt="Avatar of alenhorvat"> alenhorvat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alenhorvat">Copy rank badge</a><br/>
 			Alen Horvat
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nzkozar">
 				<img src="https://avatars.githubusercontent.com/u/5633192?s=72&u=b536127ee2d8d061fb1cef7a433093091badd796&v=4" width="24" alt="Avatar of nzkozar"> nzkozar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nzkozar">Copy rank badge</a><br/>
 			Anže Kožar
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Lenart12">
 				<img src="https://avatars.githubusercontent.com/u/39205323?s=72&v=4" width="24" alt="Avatar of Lenart12"> Lenart12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Lenart12">Copy rank badge</a><br/>
 			Lenart Kos
 		</td>
 		<td>@lxnavigation  </td>
@@ -2800,7 +2802,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/carissableker">
 				<img src="https://avatars.githubusercontent.com/u/26261557?s=72&u=c713b6a1370a4523a66c05df19532ef0a092903c&v=4" width="24" alt="Avatar of carissableker"> carissableker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#carissableker">Copy rank badge</a><br/>
 			Carissa Bleker
 		</td>
 		<td>@nib-si </td>
@@ -2813,7 +2815,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mxtejj">
 				<img src="https://avatars.githubusercontent.com/u/33222334?s=72&u=cd8f94c1e624725bda6eecc5006f80921b89c877&v=4" width="24" alt="Avatar of mxtejj"> mxtejj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mxtejj">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2826,7 +2828,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sovintz">
 				<img src="https://avatars.githubusercontent.com/u/36709435?s=72&u=5253112c2996868257e92e374bb30d274c1f3881&v=4" width="24" alt="Avatar of sovintz"> sovintz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sovintz">Copy rank badge</a><br/>
 			Lan Sovinc
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SasoPavlic">
 				<img src="https://avatars.githubusercontent.com/u/24464688?s=72&u=6d11b4c08b138a8670a10591d25f765962a9682f&v=4" width="24" alt="Avatar of SasoPavlic"> SasoPavlic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SasoPavlic">Copy rank badge</a><br/>
 			Sašo Pavlič
 		</td>
 		<td>Skylabs D.o.o. </td>
@@ -2852,7 +2854,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/valenciaga1231">
 				<img src="https://avatars.githubusercontent.com/u/88737953?s=72&v=4" width="24" alt="Avatar of valenciaga1231"> valenciaga1231
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#valenciaga1231">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>University Of Ljubljana </td>
@@ -2865,7 +2867,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VukIG">
 				<img src="https://avatars.githubusercontent.com/u/111462330?s=72&u=28fb1f5f9542603700edd575fc9be50c3662977d&v=4" width="24" alt="Avatar of VukIG"> VukIG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VukIG">Copy rank badge</a><br/>
 			Vuk Ignjatovic
 		</td>
 		<td>No Company</td>
@@ -2878,7 +2880,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mkatch">
 				<img src="https://avatars.githubusercontent.com/u/3180186?s=72&u=efa70ee45dfe39eeba87adaffe6e7a01690d7e82&v=4" width="24" alt="Avatar of mkatch"> mkatch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mkatch">Copy rank badge</a><br/>
 			Marcin Kaczmarek
 		</td>
 		<td>Jitter.video </td>
@@ -2891,7 +2893,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jackysi">
 				<img src="https://avatars.githubusercontent.com/u/2860965?s=72&u=294b661eeb0c9852c9376c3f043eb0d4d64e4897&v=4" width="24" alt="Avatar of Jackysi"> Jackysi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Jackysi">Copy rank badge</a><br/>
 			Jaka Prašnikar
 		</td>
 		<td>Defikon </td>
@@ -2904,7 +2906,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/timrekelj">
 				<img src="https://avatars.githubusercontent.com/u/62036887?s=72&u=981f03e72551eb162abff22477b47bd522575734&v=4" width="24" alt="Avatar of timrekelj"> timrekelj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#timrekelj">Copy rank badge</a><br/>
 			Tim Rekelj
 		</td>
 		<td>Calda D.o.o </td>
@@ -2917,7 +2919,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lin-cadez">
 				<img src="https://avatars.githubusercontent.com/u/68005465?s=72&u=b6e69407eb39bb60dc4ccea4b36099454cae8638&v=4" width="24" alt="Avatar of lin-cadez"> lin-cadez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lin-cadez">Copy rank badge</a><br/>
 			Lin Čadež
 		</td>
 		<td>Info@cadez.eu </td>
@@ -2930,7 +2932,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarkoSterk">
 				<img src="https://avatars.githubusercontent.com/u/79147377?s=72&u=cdb9f284f053148dccd6191c45c2f9bddfc61b2d&v=4" width="24" alt="Avatar of MarkoSterk"> MarkoSterk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MarkoSterk">Copy rank badge</a><br/>
 			Marko Šterk
 		</td>
 		<td>No Company</td>
@@ -2943,7 +2945,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarkoSagadin">
 				<img src="https://avatars.githubusercontent.com/u/41839945?s=72&u=7a932afe46a0fc8860101425f5b7ab03fea19ea1&v=4" width="24" alt="Avatar of MarkoSagadin"> MarkoSagadin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MarkoSagadin">Copy rank badge</a><br/>
 			Marko Sagadin
 		</td>
 		<td>Irnas </td>
@@ -2956,7 +2958,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tinrab">
 				<img src="https://avatars.githubusercontent.com/u/6238910?s=72&u=fda1a3c760168087fe05a0e0d8b1c21260164b85&v=4" width="24" alt="Avatar of tinrab"> tinrab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tinrab">Copy rank badge</a><br/>
 			Tin Rabzelj
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakobkordez">
 				<img src="https://avatars.githubusercontent.com/u/15233258?s=72&u=1c06618da08ffee455f6670d5913dcc6be75f9eb&v=4" width="24" alt="Avatar of jakobkordez"> jakobkordez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakobkordez">Copy rank badge</a><br/>
 			Jakob Kordež
 		</td>
 		<td>Metrel D. O. O.<br/></td>
@@ -2982,7 +2984,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lpoto">
 				<img src="https://avatars.githubusercontent.com/u/67372390?s=72&v=4" width="24" alt="Avatar of lpoto"> lpoto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lpoto">Copy rank badge</a><br/>
 			Luka Potočnik
 		</td>
 		<td>@devrev </td>
@@ -2995,7 +2997,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndrejErjavec">
 				<img src="https://avatars.githubusercontent.com/u/72978650?s=72&u=26655e7e769e541f542cb3b72aea9a118a2b7828&v=4" width="24" alt="Avatar of AndrejErjavec"> AndrejErjavec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AndrejErjavec">Copy rank badge</a><br/>
 			Andrej Erjavec
 		</td>
 		<td>No Company</td>
@@ -3008,7 +3010,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ta5946">
 				<img src="https://avatars.githubusercontent.com/u/99540835?s=72&v=4" width="24" alt="Avatar of ta5946"> ta5946
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ta5946">Copy rank badge</a><br/>
 			Tjaš Ajdovec
 		</td>
 		<td>No Company</td>
@@ -3021,7 +3023,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/DejanL">
 				<img src="https://avatars.githubusercontent.com/u/2689599?s=72&u=7f8dfed60eb9ba53ec073d11bb5c5f6daca82aae&v=4" width="24" alt="Avatar of DejanL"> DejanL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#DejanL">Copy rank badge</a><br/>
 			Dejan Lavbič
 		</td>
 		<td>University Of Ljubljana, Faculty<br/>Of<br/>Computer<br/>And<br/>Information<br/>Science<br/></td>
@@ -3034,7 +3036,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TajaKuzman">
 				<img src="https://avatars.githubusercontent.com/u/86299119?s=72&u=e18a23bd2c69afde96f267d9e96d91e0cc44cb59&v=4" width="24" alt="Avatar of TajaKuzman"> TajaKuzman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TajaKuzman">Copy rank badge</a><br/>
 			Taja Kuzman Pungeršek
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -3047,7 +3049,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/predkambrij">
 				<img src="https://avatars.githubusercontent.com/u/1273258?s=72&v=4" width="24" alt="Avatar of predkambrij"> predkambrij
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#predkambrij">Copy rank badge</a><br/>
 			Alojzij Blatnik
 		</td>
 		<td>No Company</td>
@@ -3060,7 +3062,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakic12">
 				<img src="https://avatars.githubusercontent.com/u/37750012?s=72&u=481934d4a97409eddabbed57ba477e8e997249f3&v=4" width="24" alt="Avatar of jakic12"> jakic12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakic12">Copy rank badge</a><br/>
 			Jakob Drusany
 		</td>
 		<td>No Company</td>
@@ -3073,7 +3075,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/djokobozinov">
 				<img src="https://avatars.githubusercontent.com/u/4171694?s=72&u=baa373a96460b8bfcda0d4c53fa085bbae9795ab&v=4" width="24" alt="Avatar of djokobozinov"> djokobozinov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#djokobozinov">Copy rank badge</a><br/>
 			Gjoko Bozhinov
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/galgantar">
 				<img src="https://avatars.githubusercontent.com/u/35263010?s=72&v=4" width="24" alt="Avatar of galgantar"> galgantar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#galgantar">Copy rank badge</a><br/>
 			Gal Gantar
 		</td>
 		<td>No Company</td>
@@ -3099,7 +3101,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zbejas">
 				<img src="https://avatars.githubusercontent.com/u/5880434?s=72&u=9a09f3cfc7356fe4f708a5a35b22c8bad8aaa5bd&v=4" width="24" alt="Avatar of zbejas"> zbejas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zbejas">Copy rank badge</a><br/>
 			Anže Mavrič
 		</td>
 		<td>Koenergija D.o.o. </td>
@@ -3112,7 +3114,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/brokenpylons">
 				<img src="https://avatars.githubusercontent.com/u/21318936?s=72&u=73a0cbd4088d2ae0080c7631ba04c94189ada78d&v=4" width="24" alt="Avatar of brokenpylons"> brokenpylons
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#brokenpylons">Copy rank badge</a><br/>
 			Žiga Leber
 		</td>
 		<td>University Of Maribor </td>
@@ -3125,7 +3127,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pfiser">
 				<img src="https://avatars.githubusercontent.com/u/43002321?s=72&u=8fc82224e2f70440faadfffb2b50dcf085ffdb15&v=4" width="24" alt="Avatar of pfiser"> pfiser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pfiser">Copy rank badge</a><br/>
 			Primoz Fiser
 		</td>
 		<td>Norik Systems D.o.o. |<br/>@norikdoo<br/>|<br/></td>
@@ -3138,7 +3140,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ra1u">
 				<img src="https://avatars.githubusercontent.com/u/824170?s=72&u=3bd17efad1ab559f68347a06d737d3a8edfb65a3&v=4" width="24" alt="Avatar of ra1u"> ra1u
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ra1u">Copy rank badge</a><br/>
 			Luka Rahne
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/trepca">
 				<img src="https://avatars.githubusercontent.com/u/22480?s=72&v=4" width="24" alt="Avatar of trepca"> trepca
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#trepca">Copy rank badge</a><br/>
 			Sebastjan Trepca
 		</td>
 		<td>No Company</td>
@@ -3164,7 +3166,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Meemaw">
 				<img src="https://avatars.githubusercontent.com/u/8524109?s=72&u=8a9967ca7c38e03c6f19306d05022270de84cbb0&v=4" width="24" alt="Avatar of Meemaw"> Meemaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Meemaw">Copy rank badge</a><br/>
 			Matej Šnuderl
 		</td>
 		<td>Opensea </td>
@@ -3177,7 +3179,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gto76">
 				<img src="https://avatars.githubusercontent.com/u/1396046?s=72&u=852f59cf0d778cb9863e623352049d42c2fac10c&v=4" width="24" alt="Avatar of gto76"> gto76
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gto76">Copy rank badge</a><br/>
 			Jure Šorn
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TheRealH0u">
 				<img src="https://avatars.githubusercontent.com/u/20799930?s=72&u=eb04aa30b5d76403d0210a830ccd7cd8dbc3d245&v=4" width="24" alt="Avatar of TheRealH0u"> TheRealH0u
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TheRealH0u">Copy rank badge</a><br/>
 			Hou
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Putr">
 				<img src="https://avatars.githubusercontent.com/u/616239?s=72&u=5897133f15ed5f8702119ac312a0dc0ff93398cc&v=4" width="24" alt="Avatar of Putr"> Putr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Putr">Copy rank badge</a><br/>
 			Rok Andrée
 		</td>
 		<td>@institut-ip21 </td>
@@ -3216,7 +3218,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/drola">
 				<img src="https://avatars.githubusercontent.com/u/1074328?s=72&u=0726bd559b0dfb1d1462fceff6a23710d1da19fd&v=4" width="24" alt="Avatar of drola"> drola
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#drola">Copy rank badge</a><br/>
 			Matjaž Drolc
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hyperNURb">
 				<img src="https://avatars.githubusercontent.com/u/59742?s=72&v=4" width="24" alt="Avatar of hyperNURb"> hyperNURb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hyperNURb">Copy rank badge</a><br/>
 			Ivan Križnar
 		</td>
 		<td>Simplified </td>
@@ -3242,7 +3244,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aglasencnik">
 				<img src="https://avatars.githubusercontent.com/u/39464103?s=72&u=4fd86c7848a25c17a295c883246f3761d254a479&v=4" width="24" alt="Avatar of aglasencnik"> aglasencnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aglasencnik">Copy rank badge</a><br/>
 			Amadej Glasenčnik
 		</td>
 		<td>Skupina Stroka.si </td>
@@ -3255,7 +3257,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bojangles-m">
 				<img src="https://avatars.githubusercontent.com/u/517677?s=72&u=272af4279ab6eee00144968bf941fb8ccf82bb3e&v=4" width="24" alt="Avatar of bojangles-m"> bojangles-m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bojangles-m">Copy rank badge</a><br/>
 			Bojan Mazej
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/DrejcPesjak">
 				<img src="https://avatars.githubusercontent.com/u/47791324?s=72&u=35b5c006f236a0c290bd94663a053b3bea414e94&v=4" width="24" alt="Avatar of DrejcPesjak"> DrejcPesjak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#DrejcPesjak">Copy rank badge</a><br/>
 			Drejc Pesjak
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -3281,7 +3283,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BlazOrazem">
 				<img src="https://avatars.githubusercontent.com/u/5699173?s=72&u=8c9d17120cedefa9a82ebd59d52724e994056dd7&v=4" width="24" alt="Avatar of BlazOrazem"> BlazOrazem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BlazOrazem">Copy rank badge</a><br/>
 			Blaž Oražem
 		</td>
 		<td>Cto At @spletna-postaja </td>
@@ -3294,7 +3296,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mostafa901">
 				<img src="https://avatars.githubusercontent.com/u/12208720?s=72&u=9decbaa13fe0adf66a98ee319bdb954f6ce6e18d&v=4" width="24" alt="Avatar of mostafa901"> mostafa901
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mostafa901">Copy rank badge</a><br/>
 			Moustafa Khalil
 		</td>
 		<td>Sharpbim S.p. </td>
@@ -3307,7 +3309,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jernejc">
 				<img src="https://avatars.githubusercontent.com/u/1895106?s=72&u=dbccb7cd6e0f5412c580fd1836ca9b37498a12a8&v=4" width="24" alt="Avatar of jernejc"> jernejc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jernejc">Copy rank badge</a><br/>
 			Jernej
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ivankrstev">
 				<img src="https://avatars.githubusercontent.com/u/76234294?s=72&u=b3e6346730fd805e4f6aa2c59e06f5a27bd08464&v=4" width="24" alt="Avatar of ivankrstev"> ivankrstev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ivankrstev">Copy rank badge</a><br/>
 			Ivan Krstev
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarioStojcevski">
 				<img src="https://avatars.githubusercontent.com/u/61598148?s=72&u=c15604846b090c201f362d08afac0495cfdf7fe6&v=4" width="24" alt="Avatar of MarioStojcevski"> MarioStojcevski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MarioStojcevski">Copy rank badge</a><br/>
 			mariostojcevski
 		</td>
 		<td>Motion Source </td>
@@ -3346,7 +3348,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MihaelBercic">
 				<img src="https://avatars.githubusercontent.com/u/13570480?s=72&u=7480af2d4d54b7e682b5c084a0c3b945a2a02ae4&v=4" width="24" alt="Avatar of MihaelBercic"> MihaelBercic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MihaelBercic">Copy rank badge</a><br/>
 			Mihael Berčič
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nik1178">
 				<img src="https://avatars.githubusercontent.com/u/69012060?s=72&u=bed5cbfce5eee319f164206e84db38b3f4ad8e7c&v=4" width="24" alt="Avatar of nik1178"> nik1178
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nik1178">Copy rank badge</a><br/>
 			Nik Jenič
 		</td>
 		<td>Fri Ul </td>
@@ -3372,7 +3374,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihakrajnc">
 				<img src="https://avatars.githubusercontent.com/u/8857844?s=72&u=ff9f8b2ba8881446ea2f8dff1048cbafdb90563c&v=4" width="24" alt="Avatar of mihakrajnc"> mihakrajnc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mihakrajnc">Copy rank badge</a><br/>
 			Miha Krajnc
 		</td>
 		<td>Debology </td>
@@ -3385,7 +3387,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bambiroe">
 				<img src="https://avatars.githubusercontent.com/u/79152955?s=72&u=31cf8e244ff5f67992433f1b52037daf9f6178e6&v=4" width="24" alt="Avatar of bambiroe"> bambiroe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bambiroe">Copy rank badge</a><br/>
 			Bambi
 		</td>
 		<td>No Company</td>
@@ -3398,7 +3400,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vandot">
 				<img src="https://avatars.githubusercontent.com/u/9026558?s=72&u=fd972ea60c80688e4cfc6f0c45cb79e6f76122eb&v=4" width="24" alt="Avatar of vandot"> vandot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vandot">Copy rank badge</a><br/>
 			Иван Vandot
 		</td>
 		<td>No Company</td>
@@ -3411,7 +3413,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/leonkosak">
 				<img src="https://avatars.githubusercontent.com/u/39346964?s=72&u=c1baacc29b25aa041a6525f7588e1481a44c8572&v=4" width="24" alt="Avatar of leonkosak"> leonkosak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#leonkosak">Copy rank badge</a><br/>
 			Leon Košak
 		</td>
 		<td>@cognitroniq  </td>
@@ -3424,7 +3426,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BostjanOb">
 				<img src="https://avatars.githubusercontent.com/u/650818?s=72&v=4" width="24" alt="Avatar of BostjanOb"> BostjanOb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BostjanOb">Copy rank badge</a><br/>
 			Bostjan
 		</td>
 		<td>@media24si  </td>
@@ -3437,7 +3439,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Klemen1337">
 				<img src="https://avatars.githubusercontent.com/u/6691011?s=72&u=1cad4dffb5164fa5a06ea1dff9ec0e3d7e99617b&v=4" width="24" alt="Avatar of Klemen1337"> Klemen1337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Klemen1337">Copy rank badge</a><br/>
 			Klemen Kastelic
 		</td>
 		<td>Olaii D.o.o. </td>
@@ -3450,7 +3452,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/smeznar">
 				<img src="https://avatars.githubusercontent.com/u/32440443?s=72&u=e82361a449571ba6d5a79145b676ef5b47aa4e89&v=4" width="24" alt="Avatar of smeznar"> smeznar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#smeznar">Copy rank badge</a><br/>
 			Sebastian Mežnar
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rafaelmerlotto">
 				<img src="https://avatars.githubusercontent.com/u/106768498?s=72&u=fe8c801413296050aba35abc937a28d863261b42&v=4" width="24" alt="Avatar of rafaelmerlotto"> rafaelmerlotto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rafaelmerlotto">Copy rank badge</a><br/>
 			Rafael Merlotto
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mazingaro">
 				<img src="https://avatars.githubusercontent.com/u/15820322?s=72&u=0c00edbb4132569087fd2a8483fb5d117daa945c&v=4" width="24" alt="Avatar of mazingaro"> mazingaro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mazingaro">Copy rank badge</a><br/>
 			Alen Mangafić
 		</td>
 		<td>Geodetic Institute Of Slovenia<br/></td>
@@ -3489,7 +3491,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jernejsk">
 				<img src="https://avatars.githubusercontent.com/u/15807605?s=72&v=4" width="24" alt="Avatar of jernejsk"> jernejsk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jernejsk">Copy rank badge</a><br/>
 			Jernej Škrabec
 		</td>
 		<td>Skylabs </td>
@@ -3502,7 +3504,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/craftbyte">
 				<img src="https://avatars.githubusercontent.com/u/3154203?s=72&u=d9f376215b559f341b789b27ce9d1f83331344b6&v=4" width="24" alt="Avatar of craftbyte"> craftbyte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#craftbyte">Copy rank badge</a><br/>
 			Anže Jenšterle
 		</td>
 		<td><redacted> </td>
@@ -3515,7 +3517,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZmagoD">
 				<img src="https://avatars.githubusercontent.com/u/7046787?s=72&u=a0c6341386c366bdbe1323abfec99d6bb94477e8&v=4" width="24" alt="Avatar of ZmagoD"> ZmagoD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ZmagoD">Copy rank badge</a><br/>
 			Zmago Devetak
 		</td>
 		<td>@algrano  </td>
@@ -3528,7 +3530,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LukaKljun">
 				<img src="https://avatars.githubusercontent.com/u/150531939?s=72&u=1fc2642c020c58d9b9cf5b4884aae374c8786a17&v=4" width="24" alt="Avatar of LukaKljun"> LukaKljun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LukaKljun">Copy rank badge</a><br/>
 			Luka Kljun
 		</td>
 		<td>No Company</td>
@@ -3541,7 +3543,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matjaz">
 				<img src="https://avatars.githubusercontent.com/u/10425?s=72&u=f7eda48677268768d665a92d67bb8f7f483bce38&v=4" width="24" alt="Avatar of matjaz"> matjaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matjaz">Copy rank badge</a><br/>
 			Matjaž Lipuš
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jernejstrasner">
 				<img src="https://avatars.githubusercontent.com/u/701239?s=72&u=f502d88c08c198032887199df85167c83644af14&v=4" width="24" alt="Avatar of jernejstrasner"> jernejstrasner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jernejstrasner">Copy rank badge</a><br/>
 			Jernej Strasner
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bokysan">
 				<img src="https://avatars.githubusercontent.com/u/4567693?s=72&u=c0d6041f21e350c44f585442d1286a2c05a57bab&v=4" width="24" alt="Avatar of bokysan"> bokysan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bokysan">Copy rank badge</a><br/>
 			Boky
 		</td>
 		<td>No Company</td>
@@ -3580,7 +3582,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/damirarh">
 				<img src="https://avatars.githubusercontent.com/u/1292060?s=72&u=20fca3d2e858bd8d4796ae46fb096f7853e02b46&v=4" width="24" alt="Avatar of damirarh"> damirarh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#damirarh">Copy rank badge</a><br/>
 			Damir Arh
 		</td>
 		<td>Razum D.o.o. </td>
@@ -3593,7 +3595,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lurovi">
 				<img src="https://avatars.githubusercontent.com/u/101579055?s=72&u=54af6f5b4bcaecb76819f742b1f402b9df19d0b8&v=4" width="24" alt="Avatar of lurovi"> lurovi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lurovi">Copy rank badge</a><br/>
 			Luigi Rovito
 		</td>
 		<td>Jozef Stefan Institute </td>
@@ -3606,7 +3608,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/majmohar4">
 				<img src="https://avatars.githubusercontent.com/u/119863703?s=72&u=e690fc1c0058214d1dff441938e0d4e733e95a47&v=4" width="24" alt="Avatar of majmohar4"> majmohar4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#majmohar4">Copy rank badge</a><br/>
 			Maj Mohar
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zoranbosnjak">
 				<img src="https://avatars.githubusercontent.com/u/9718081?s=72&u=5b312812c73c5343d6b607c1921b4addf3c52430&v=4" width="24" alt="Avatar of zoranbosnjak"> zoranbosnjak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zoranbosnjak">Copy rank badge</a><br/>
 			Zoran Bošnjak
 		</td>
 		<td>No Company</td>
@@ -3632,7 +3634,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/uprel">
 				<img src="https://avatars.githubusercontent.com/u/7328417?s=72&v=4" width="24" alt="Avatar of uprel"> uprel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#uprel">Copy rank badge</a><br/>
 			Uroš Preložnik
 		</td>
 		<td>Level2 </td>
@@ -3645,7 +3647,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matej">
 				<img src="https://avatars.githubusercontent.com/u/91322?s=72&u=87b7840bf70becbee583cd0b98398751daf9335e&v=4" width="24" alt="Avatar of matej"> matej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matej">Copy rank badge</a><br/>
 			Matej Bukovinski
 		</td>
 		<td>Pspdfkit </td>
@@ -3658,7 +3660,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kkris0">
 				<img src="https://avatars.githubusercontent.com/u/37045415?s=72&u=53c3b637799f392fca8a4d307ed7493383fba74b&v=4" width="24" alt="Avatar of kkris0"> kkris0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kkris0">Copy rank badge</a><br/>
 			Kristjan Križman
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/NadicaSm">
 				<img src="https://avatars.githubusercontent.com/u/41929315?s=72&u=e69f1575f74baa0140774e942eb6c67f2298c4f0&v=4" width="24" alt="Avatar of NadicaSm"> NadicaSm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#NadicaSm">Copy rank badge</a><br/>
 			Nadica Miljković
 		</td>
 		<td>University Of Belgrade -<br/>School<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Faculty<br/>Of<br/>Electrical<br/>Engineering,<br/>University<br/>Of<br/>Ljubljana<br/></td>
@@ -3684,7 +3686,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/designfailure">
 				<img src="https://avatars.githubusercontent.com/u/89921011?s=72&u=4b0f580fb7951bddb6bbe11c3dfd5968fadc6a1b&v=4" width="24" alt="Avatar of designfailure"> designfailure
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#designfailure">Copy rank badge</a><br/>
 			#designfailure
 		</td>
 		<td>Intrepid-stars </td>
@@ -3697,7 +3699,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Domen988">
 				<img src="https://avatars.githubusercontent.com/u/7599470?s=72&u=f53902537b94609e1d164fec0416382c1ec1410c&v=4" width="24" alt="Avatar of Domen988"> Domen988
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Domen988">Copy rank badge</a><br/>
 			Domen Žagar
 		</td>
 		<td>No Company</td>
@@ -3710,7 +3712,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/timkmecl">
 				<img src="https://avatars.githubusercontent.com/u/49208260?s=72&u=b8ea98e1a7c983f49f9db27687b7a2f50ca2b125&v=4" width="24" alt="Avatar of timkmecl"> timkmecl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#timkmecl">Copy rank badge</a><br/>
 			Tim Kmecl
 		</td>
 		<td>No Company</td>
@@ -3723,7 +3725,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KamarulAdha">
 				<img src="https://avatars.githubusercontent.com/u/52944294?s=72&u=4aa06972339061e6d5b3536cb6820dd304544ece&v=4" width="24" alt="Avatar of KamarulAdha"> KamarulAdha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KamarulAdha">Copy rank badge</a><br/>
 			Kamarul Adha
 		</td>
 		<td>Knowledge Innovation Centre </td>
@@ -3736,7 +3738,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lukacu">
 				<img src="https://avatars.githubusercontent.com/u/875641?s=72&u=06b815373c7e40d38d282221aeba2834a99a7524&v=4" width="24" alt="Avatar of lukacu"> lukacu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lukacu">Copy rank badge</a><br/>
 			Luka Čehovin Zajc
 		</td>
 		<td>Vicos Lab, University Of<br/>Ljubljana,<br/>Slovenia<br/></td>
@@ -3749,7 +3751,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokostik">
 				<img src="https://avatars.githubusercontent.com/u/9090706?s=72&u=ba6a04c9d07823161db51ddaf0d845403519f2c5&v=4" width="24" alt="Avatar of rokostik"> rokostik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokostik">Copy rank badge</a><br/>
 			Rok Sušnik
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/potocnikvid">
 				<img src="https://avatars.githubusercontent.com/u/54533045?s=72&u=03f6358fc1e2503565ab6b64cc49063ee3b6daa3&v=4" width="24" alt="Avatar of potocnikvid"> potocnikvid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#potocnikvid">Copy rank badge</a><br/>
 			Vid Potocnik
 		</td>
 		<td>@thecalda </td>
@@ -3775,7 +3777,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/spagnoloG">
 				<img src="https://avatars.githubusercontent.com/u/57506122?s=72&u=1a222be935aa23ec7ed9b149a3cd14b6954ee5ff&v=4" width="24" alt="Avatar of spagnoloG"> spagnoloG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#spagnoloG">Copy rank badge</a><br/>
 			Gašper Spagnolo
 		</td>
 		<td>Fri </td>
@@ -3788,7 +3790,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/leamars">
 				<img src="https://avatars.githubusercontent.com/u/2446390?s=72&u=06ea3a40df749b2497d39805201a748fd540d3b2&v=4" width="24" alt="Avatar of leamars"> leamars
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#leamars">Copy rank badge</a><br/>
 			Lea Marolt
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanHuntersi">
 				<img src="https://avatars.githubusercontent.com/u/55513538?s=72&v=4" width="24" alt="Avatar of JanHuntersi"> JanHuntersi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanHuntersi">Copy rank badge</a><br/>
 			Jan Sernec
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/patik123">
 				<img src="https://avatars.githubusercontent.com/u/69119220?s=72&u=b69711e75d4f2a902ac52438c1d4b0c5019b4dcb&v=4" width="24" alt="Avatar of patik123"> patik123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#patik123">Copy rank badge</a><br/>
 			Patrick
 		</td>
 		<td>No Company</td>
@@ -3827,7 +3829,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakakordez">
 				<img src="https://avatars.githubusercontent.com/u/9075565?s=72&u=a184c38792fe7c7db0699e19887f8c182871819a&v=4" width="24" alt="Avatar of jakakordez"> jakakordez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakakordez">Copy rank badge</a><br/>
 			Jaka Kordež
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nyanSpruk">
 				<img src="https://avatars.githubusercontent.com/u/14331235?s=72&u=5b9f75e162d86b97cad86bd13951d07b36eda322&v=4" width="24" alt="Avatar of nyanSpruk"> nyanSpruk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nyanSpruk">Copy rank badge</a><br/>
 			Nik Jan Špruk
 		</td>
 		<td>University Of Ljubljana </td>
@@ -3853,7 +3855,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrej-koman">
 				<img src="https://avatars.githubusercontent.com/u/97840968?s=72&u=8ff52c5872303a96692e9a0cb6727778c0466bc0&v=4" width="24" alt="Avatar of andrej-koman"> andrej-koman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrej-koman">Copy rank badge</a><br/>
 			Andrej Koman
 		</td>
 		<td>Viar D.o.o. </td>
@@ -3866,7 +3868,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikrohard">
 				<img src="https://avatars.githubusercontent.com/u/133844?s=72&u=0ce534c14f129bac6d3f09a74586b318f06fd385&v=4" width="24" alt="Avatar of mikrohard"> mikrohard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mikrohard">Copy rank badge</a><br/>
 			Jernej Fijačko
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matebestek">
 				<img src="https://avatars.githubusercontent.com/u/155356?s=72&u=dfb3248ec5ab6ad02426fd178afd2bf97b35f14c&v=4" width="24" alt="Avatar of matebestek"> matebestek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matebestek">Copy rank badge</a><br/>
 			Mate Bestek, PhD
 		</td>
 		<td>Oncology Institute Ljubljana </td>
@@ -3892,7 +3894,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarZab">
 				<img src="https://avatars.githubusercontent.com/u/1311249?s=72&u=6bc252734366ca61ced4a5c57d3563f769a15579&v=4" width="24" alt="Avatar of MarZab"> MarZab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MarZab">Copy rank badge</a><br/>
 			Marko Zabreznik
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/markozajc">
 				<img src="https://avatars.githubusercontent.com/u/30626847?s=72&u=6f817e824e8d732ddcfd9bc91ab44db73ed88eed&v=4" width="24" alt="Avatar of markozajc"> markozajc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#markozajc">Copy rank badge</a><br/>
 			Marko Zajc
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/carelesshangman">
 				<img src="https://avatars.githubusercontent.com/u/89906015?s=72&u=03e8a79cfa4940fb5c94abae9dca18849b212224&v=4" width="24" alt="Avatar of carelesshangman"> carelesshangman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#carelesshangman">Copy rank badge</a><br/>
 			Jaka German
 		</td>
 		<td>No Company</td>
@@ -3931,7 +3933,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrej-kocijan">
 				<img src="https://avatars.githubusercontent.com/u/71572499?s=72&u=acd4f0d823eb84b14f7e581cc7587be6e55403a6&v=4" width="24" alt="Avatar of andrej-kocijan"> andrej-kocijan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrej-kocijan">Copy rank badge</a><br/>
 			Andrej Kocijan
 		</td>
 		<td>No Company</td>
@@ -3944,7 +3946,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/b4d">
 				<img src="https://avatars.githubusercontent.com/u/1495293?s=72&v=4" width="24" alt="Avatar of b4d"> b4d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#b4d">Copy rank badge</a><br/>
 			Deni (s55db)
 		</td>
 		<td>No Company</td>
@@ -3957,7 +3959,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/iztokbajcar">
 				<img src="https://avatars.githubusercontent.com/u/50874197?s=72&u=3393c665d4bcd3d19fe5b8b6dd89c7e3f2102ae9&v=4" width="24" alt="Avatar of iztokbajcar"> iztokbajcar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#iztokbajcar">Copy rank badge</a><br/>
 			Iztok Bajcar
 		</td>
 		<td>No Company</td>
@@ -3970,7 +3972,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tzuntar">
 				<img src="https://avatars.githubusercontent.com/u/35228139?s=72&u=bad496c2ecc6be281d52f11ca96552c71a6e17fc&v=4" width="24" alt="Avatar of tzuntar"> tzuntar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tzuntar">Copy rank badge</a><br/>
 			Tobija Žuntar
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pengu5055">
 				<img src="https://avatars.githubusercontent.com/u/15948405?s=72&u=a214e2bbe2ec1d4fb92227a8ddabf2e12abcb64e&v=4" width="24" alt="Avatar of pengu5055"> pengu5055
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pengu5055">Copy rank badge</a><br/>
 			Marko Urbanč
 		</td>
 		<td>Private </td>
@@ -3996,7 +3998,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/axkralj990">
 				<img src="https://avatars.githubusercontent.com/u/14350684?s=72&u=f783c8dc36b53fdc02b78f700baad9a56f29794b&v=4" width="24" alt="Avatar of axkralj990"> axkralj990
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#axkralj990">Copy rank badge</a><br/>
 			axkralj990
 		</td>
 		<td>Pareto Ai | University<br/>Of<br/>Ljubljana<br/></td>
@@ -4009,7 +4011,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pr3mar">
 				<img src="https://avatars.githubusercontent.com/u/5265944?s=72&u=a4b2b68ec1a00fbc7abcf27b7390a2d7f3a5ef65&v=4" width="24" alt="Avatar of pr3mar"> pr3mar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pr3mar">Copy rank badge</a><br/>
 			Marko Prelevikj
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hamzic2019">
 				<img src="https://avatars.githubusercontent.com/u/53975836?s=72&v=4" width="24" alt="Avatar of hamzic2019"> hamzic2019
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hamzic2019">Copy rank badge</a><br/>
 			Hara
 		</td>
 		<td>Hara </td>
@@ -4035,7 +4037,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/franga2000">
 				<img src="https://avatars.githubusercontent.com/u/3891092?s=72&v=4" width="24" alt="Avatar of franga2000"> franga2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#franga2000">Copy rank badge</a><br/>
 			Miha Frangež
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanLikar">
 				<img src="https://avatars.githubusercontent.com/u/4228250?s=72&u=03361858d33d654bee0a384c8bd6777c6e0f8f6d&v=4" width="24" alt="Avatar of JanLikar"> JanLikar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanLikar">Copy rank badge</a><br/>
 			Jan Likar
 		</td>
 		<td>@xlab-si </td>
@@ -4061,7 +4063,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ajasja">
 				<img src="https://avatars.githubusercontent.com/u/19926?s=72&u=0a03a14ffa75c2305fad19d35a9101e1ef50b389&v=4" width="24" alt="Avatar of ajasja"> ajasja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ajasja">Copy rank badge</a><br/>
 			Ajasja Ljubetič
 		</td>
 		<td>Research Assistant Prof., National<br/>Institute<br/>Of<br/>Chemistry,<br/>Slovenia<br/>&<br/>Bakerl<br/>Lab,<br/>Uw<br/></td>
@@ -4074,7 +4076,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nljubesi">
 				<img src="https://avatars.githubusercontent.com/u/5081897?s=72&v=4" width="24" alt="Avatar of nljubesi"> nljubesi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nljubesi">Copy rank badge</a><br/>
 			Nikola Ljubešić
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -4087,7 +4089,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zobo">
 				<img src="https://avatars.githubusercontent.com/u/2456026?s=72&v=4" width="24" alt="Avatar of zobo"> zobo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zobo">Copy rank badge</a><br/>
 			Damjan Cvetko
 		</td>
 		<td>Monotek D.o.o. </td>
@@ -4100,7 +4102,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/etiank">
 				<img src="https://avatars.githubusercontent.com/u/144434318?s=72&u=6c1370c77e8f71f098e39a0fb1de7decff5a32ba&v=4" width="24" alt="Avatar of etiank"> etiank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#etiank">Copy rank badge</a><br/>
 			k.et
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LeskoIam">
 				<img src="https://avatars.githubusercontent.com/u/4057745?s=72&u=73b30c0c746fde98a1c21ec4ff5d497811ed66d0&v=4" width="24" alt="Avatar of LeskoIam"> LeskoIam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LeskoIam">Copy rank badge</a><br/>
 			Leško
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/luksa">
 				<img src="https://avatars.githubusercontent.com/u/823581?s=72&v=4" width="24" alt="Avatar of luksa"> luksa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#luksa">Copy rank badge</a><br/>
 			Marko Lukša
 		</td>
 		<td>Independent Contractor </td>
@@ -4139,7 +4141,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaticConradi">
 				<img src="https://avatars.githubusercontent.com/u/5693961?s=72&u=a0170156cef99acf9b27c7d638f74c0738ce5db8&v=4" width="24" alt="Avatar of MaticConradi"> MaticConradi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MaticConradi">Copy rank badge</a><br/>
 			Matic Conradi
 		</td>
 		<td>No Company</td>
@@ -4152,7 +4154,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gabrijelokorn">
 				<img src="https://avatars.githubusercontent.com/u/79152818?s=72&u=a4d84f321e50dcc3b720822626fe56084a140f7f&v=4" width="24" alt="Avatar of gabrijelokorn"> gabrijelokorn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gabrijelokorn">Copy rank badge</a><br/>
 			Gabrijel Okorn
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gregora">
 				<img src="https://avatars.githubusercontent.com/u/26600857?s=72&u=3d63fb5d4c62dbf36a246afae7dfde9a17573ed3&v=4" width="24" alt="Avatar of gregora"> gregora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gregora">Copy rank badge</a><br/>
 			Gregor Alič
 		</td>
 		<td>No Company</td>
@@ -4178,7 +4180,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/simongoricar">
 				<img src="https://avatars.githubusercontent.com/u/11632445?s=72&u=74dd7c3b4260d2c0177c4ebc7576ca8925d7abb0&v=4" width="24" alt="Avatar of simongoricar"> simongoricar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#simongoricar">Copy rank badge</a><br/>
 			Simon Goričar
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/galpodlipnik1">
 				<img src="https://avatars.githubusercontent.com/u/69755435?s=72&u=47b1726b190da0bb71c82778d2aa1edd1ce9c52a&v=4" width="24" alt="Avatar of galpodlipnik1"> galpodlipnik1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#galpodlipnik1">Copy rank badge</a><br/>
 			Gal Podlipnik
 		</td>
 		<td>Devrev </td>
@@ -4204,7 +4206,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/anzemur">
 				<img src="https://avatars.githubusercontent.com/u/17564531?s=72&u=ef7ca2c912dfafd0b8eea31a73e91642920795fa&v=4" width="24" alt="Avatar of anzemur"> anzemur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#anzemur">Copy rank badge</a><br/>
 			Anze Mur
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigamedved">
 				<img src="https://avatars.githubusercontent.com/u/47921749?s=72&u=6a0aded6803990596a8faf7bfc8974d70885b97a&v=4" width="24" alt="Avatar of zigamedved"> zigamedved
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigamedved">Copy rank badge</a><br/>
 			Ziga Medved
 		</td>
 		<td>Robinhood </td>
@@ -4230,7 +4232,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/daviunic">
 				<img src="https://avatars.githubusercontent.com/u/33632722?s=72&u=ae1541016e035669e23f3d5cc74fe0e95fc4069a&v=4" width="24" alt="Avatar of daviunic"> daviunic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#daviunic">Copy rank badge</a><br/>
 			David Simunič
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aljaz90">
 				<img src="https://avatars.githubusercontent.com/u/35540285?s=72&u=2ae7b7c62128ed3c993dde42bde1a6b89d895957&v=4" width="24" alt="Avatar of aljaz90"> aljaz90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aljaz90">Copy rank badge</a><br/>
 			Aljaz Kern
 		</td>
 		<td>No Company</td>
@@ -4256,7 +4258,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreiparfenov">
 				<img src="https://avatars.githubusercontent.com/u/30646779?s=72&u=81ff49b4c9f1049c006b6fa07e1ca6e25b9a1ad0&v=4" width="24" alt="Avatar of andreiparfenov"> andreiparfenov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andreiparfenov">Copy rank badge</a><br/>
 			Andrei Parfenov
 		</td>
 		<td>Tripleten-com </td>
@@ -4269,7 +4271,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ArutyunyanA">
 				<img src="https://avatars.githubusercontent.com/u/126784114?s=72&u=fcfb7fd928188a9a6e67085acd4d5cfc8ade0a3a&v=4" width="24" alt="Avatar of ArutyunyanA"> ArutyunyanA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ArutyunyanA">Copy rank badge</a><br/>
 			Artyom
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokf">
 				<img src="https://avatars.githubusercontent.com/u/2836852?s=72&u=edd9b1a80fba474bcf5dc9bf504d234f37de6920&v=4" width="24" alt="Avatar of rokf"> rokf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokf">Copy rank badge</a><br/>
 			Rok Fajfar
 		</td>
 		<td>@3fs </td>
@@ -4295,7 +4297,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/maj113">
 				<img src="https://avatars.githubusercontent.com/u/36992813?s=72&u=4e3b9441d5397529ae1342ffa466f38fe9102cc4&v=4" width="24" alt="Avatar of maj113"> maj113
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#maj113">Copy rank badge</a><br/>
 			Maj Soklič
 		</td>
 		<td>Iskra D.o.o Lvs/stikalna Tehnika<br/></td>
@@ -4308,7 +4310,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jure">
 				<img src="https://avatars.githubusercontent.com/u/238667?s=72&u=18a98da772a417ade1c1d7b5aa86ca973517ba52&v=4" width="24" alt="Avatar of jure"> jure
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jure">Copy rank badge</a><br/>
 			Jure Triglav
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matevzdolenc">
 				<img src="https://avatars.githubusercontent.com/u/419142?s=72&u=af4cfe7c088157d7a09d6c59d72e2b794e3edff7&v=4" width="24" alt="Avatar of matevzdolenc"> matevzdolenc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matevzdolenc">Copy rank badge</a><br/>
 			Matevz Dolenc
 		</td>
 		<td>University Of Ljubljana, Fgg<br/></td>
@@ -4334,7 +4336,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihaj">
 				<img src="https://avatars.githubusercontent.com/u/557954?s=72&u=a1683b85721c14e841ee6be1e92e37f9527dab96&v=4" width="24" alt="Avatar of mihaj"> mihaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mihaj">Copy rank badge</a><br/>
 			Miha Jakovac
 		</td>
 		<td>Mjc, Evo-teh D.o.o. </td>
@@ -4347,7 +4349,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Poko18">
 				<img src="https://avatars.githubusercontent.com/u/36132075?s=72&u=cfbc255e09ba285ccf9ab1c01e763285b5203469&v=4" width="24" alt="Avatar of Poko18"> Poko18
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Poko18">Copy rank badge</a><br/>
 			Tadej Satler, PhD
 		</td>
 		<td>@cryocloud-org  </td>
@@ -4360,7 +4362,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/NikolaM4">
 				<img src="https://avatars.githubusercontent.com/u/128964319?s=72&u=cefdbca17d8a463633fc73a8bfda630ceb837b6d&v=4" width="24" alt="Avatar of NikolaM4"> NikolaM4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#NikolaM4">Copy rank badge</a><br/>
 			Nikola
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/brodul">
 				<img src="https://avatars.githubusercontent.com/u/204514?s=72&v=4" width="24" alt="Avatar of brodul"> brodul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#brodul">Copy rank badge</a><br/>
 			Andraz Brodnik
 		</td>
 		<td>Brodul S.p. </td>
@@ -4386,7 +4388,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gmenih">
 				<img src="https://avatars.githubusercontent.com/u/1362216?s=72&u=1868aebff82fe7e9e0c46048d2f136393f6ded9d&v=4" width="24" alt="Avatar of gmenih"> gmenih
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gmenih">Copy rank badge</a><br/>
 			Gregor Menih
 		</td>
 		<td>No Company</td>
@@ -4399,7 +4401,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SandyAbasman">
 				<img src="https://avatars.githubusercontent.com/u/74963378?s=72&u=975406fa11719dcae5bf1350b6f2026dbc7a6a9f&v=4" width="24" alt="Avatar of SandyAbasman"> SandyAbasman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SandyAbasman">Copy rank badge</a><br/>
 			Sunday Abasman
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janhartman">
 				<img src="https://avatars.githubusercontent.com/u/15076960?s=72&u=5b6c76b62579fe0bcd003401e8d8f1e9b5b1ccb1&v=4" width="24" alt="Avatar of janhartman"> janhartman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janhartman">Copy rank badge</a><br/>
 			Jan Hartman
 		</td>
 		<td>@sourcegraph </td>
@@ -4425,7 +4427,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jalezi">
 				<img src="https://avatars.githubusercontent.com/u/44704999?s=72&v=4" width="24" alt="Avatar of jalezi"> jalezi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jalezi">Copy rank badge</a><br/>
 			Jaka Daneu
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/urluur">
 				<img src="https://avatars.githubusercontent.com/u/75851399?s=72&u=36a231488f885d5597538b652df03c687f7d271c&v=4" width="24" alt="Avatar of urluur"> urluur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#urluur">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4451,7 +4453,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xTijan">
 				<img src="https://avatars.githubusercontent.com/u/88556617?s=72&v=4" width="24" alt="Avatar of 0xTijan"> 0xTijan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#0xTijan">Copy rank badge</a><br/>
 			Tijan
 		</td>
 		<td>No Company</td>
@@ -4464,7 +4466,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tiimie1">
 				<img src="https://avatars.githubusercontent.com/u/75375855?s=72&u=f338518017de987ec396d47093421b49c2468af8&v=4" width="24" alt="Avatar of Tiimie1"> Tiimie1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Tiimie1">Copy rank badge</a><br/>
 			Tim Pangersic
 		</td>
 		<td>No Company</td>
@@ -4477,7 +4479,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aha999">
 				<img src="https://avatars.githubusercontent.com/u/50620416?s=72&u=b428c3dd66dce96f236afbce922193f60900d94b&v=4" width="24" alt="Avatar of aha999"> aha999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aha999">Copy rank badge</a><br/>
 			Klemen Skerbiš
 		</td>
 		<td>No Company</td>
@@ -4490,7 +4492,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zprima">
 				<img src="https://avatars.githubusercontent.com/u/6128800?s=72&u=fdd84e4263b61ac7804f642a94212c5e193cec6c&v=4" width="24" alt="Avatar of zprima"> zprima
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zprima">Copy rank badge</a><br/>
 			Primož Žnidar
 		</td>
 		<td>@poviolabs  </td>
@@ -4503,7 +4505,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Timic3">
 				<img src="https://avatars.githubusercontent.com/u/20747466?s=72&u=a619d3bb0e8c0db2b3a3ada0a10be793b29013cf&v=4" width="24" alt="Avatar of Timic3"> Timic3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Timic3">Copy rank badge</a><br/>
 			Timotej
 		</td>
 		<td>Flycom Technologies </td>
@@ -4516,7 +4518,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alvik48">
 				<img src="https://avatars.githubusercontent.com/u/2843380?s=72&u=df7706e72cfa9a9f33bac290f2bebafb98dcfdea&v=4" width="24" alt="Avatar of alvik48"> alvik48
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alvik48">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>No Company</td>
@@ -4529,7 +4531,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Timotej979">
 				<img src="https://avatars.githubusercontent.com/u/16840528?s=72&u=ace60138965add3439a5f2162bf79fac8cb23bbc&v=4" width="24" alt="Avatar of Timotej979"> Timotej979
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Timotej979">Copy rank badge</a><br/>
 			Timothy
 		</td>
 		<td>Aptira </td>
@@ -4542,7 +4544,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/some1else">
 				<img src="https://avatars.githubusercontent.com/u/10702?s=72&u=f72e409b19543d895065eaf3bdee69d7ec8fc4ae&v=4" width="24" alt="Avatar of some1else"> some1else
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#some1else">Copy rank badge</a><br/>
 			Srđan Prodanović
 		</td>
 		<td>No Company</td>
@@ -4555,7 +4557,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pukmajster">
 				<img src="https://avatars.githubusercontent.com/u/45610204?s=72&u=2c0b4694c63997f38711b485c37624b1d5666c08&v=4" width="24" alt="Avatar of pukmajster"> pukmajster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pukmajster">Copy rank badge</a><br/>
 			Žan Pukmajster
 		</td>
 		<td>@thesmartestway </td>
@@ -4568,7 +4570,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ardabeyazoglu">
 				<img src="https://avatars.githubusercontent.com/u/1159836?s=72&u=f0e3808847610ebb879f8ed7f7fc634c067e8227&v=4" width="24" alt="Avatar of ardabeyazoglu"> ardabeyazoglu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ardabeyazoglu">Copy rank badge</a><br/>
 			Arda Beyazoğlu
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/denisekart">
 				<img src="https://avatars.githubusercontent.com/u/6152001?s=72&u=5301c41f2f0b2490a92b94c22caa9358cff851dd&v=4" width="24" alt="Avatar of denisekart"> denisekart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#denisekart">Copy rank badge</a><br/>
 			Denis Ekart
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AnzeSinigoj">
 				<img src="https://avatars.githubusercontent.com/u/68126135?s=72&u=5dfd67dbeece6ee40136e1f19789a02fa0c7e66a&v=4" width="24" alt="Avatar of AnzeSinigoj"> AnzeSinigoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AnzeSinigoj">Copy rank badge</a><br/>
 			Anže Šinigoj
 		</td>
 		<td>No Company</td>
@@ -4607,7 +4609,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/blaz-r">
 				<img src="https://avatars.githubusercontent.com/u/61357777?s=72&u=55b326117bbace6211b2bd397d95249a5fcf2692&v=4" width="24" alt="Avatar of blaz-r"> blaz-r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#blaz-r">Copy rank badge</a><br/>
 			Blaž Rolih
 		</td>
 		<td>University Of Ljubljana </td>
@@ -4620,7 +4622,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gsustar">
 				<img src="https://avatars.githubusercontent.com/u/47887004?s=72&v=4" width="24" alt="Avatar of gsustar"> gsustar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gsustar">Copy rank badge</a><br/>
 			Grega Šuštar
 		</td>
 		<td>University Of Ljubljana </td>
@@ -4633,7 +4635,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mayki0909">
 				<img src="https://avatars.githubusercontent.com/u/50374602?s=72&u=4ef03c9ccc52f63cb6e3c840cb960508097005ae&v=4" width="24" alt="Avatar of mayki0909"> mayki0909
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mayki0909">Copy rank badge</a><br/>
 			Majks
 		</td>
 		<td>Sorted Wallet </td>
@@ -4646,7 +4648,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/frenkd">
 				<img src="https://avatars.githubusercontent.com/u/45878025?s=72&u=27e0686e6f32abf3f67cd8de8531d46f7f52176a&v=4" width="24" alt="Avatar of frenkd"> frenkd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#frenkd">Copy rank badge</a><br/>
 			Frenk Dragar
 		</td>
 		<td>@trivial-group  </td>
@@ -4659,7 +4661,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/b0gdanp3trovic">
 				<img src="https://avatars.githubusercontent.com/u/62192440?s=72&u=010d5ac321d937b5ecb3a9e98683f8b267b676f2&v=4" width="24" alt="Avatar of b0gdanp3trovic"> b0gdanp3trovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#b0gdanp3trovic">Copy rank badge</a><br/>
 			Bogdan Petrović
 		</td>
 		<td>No Company</td>
@@ -4672,7 +4674,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/IgorTavcar">
 				<img src="https://avatars.githubusercontent.com/u/1750160?s=72&u=347ca688c53aa2e2a6c7c25ddbce86776fe2204a&v=4" width="24" alt="Avatar of IgorTavcar"> IgorTavcar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#IgorTavcar">Copy rank badge</a><br/>
 			Igor Tavčar
 		</td>
 		<td>Resonanca It D.o.o. </td>
@@ -4685,7 +4687,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/coachzer">
 				<img src="https://avatars.githubusercontent.com/u/65659048?s=72&u=55fafc9f1f994489055e19c5b57d5a344ee4804f&v=4" width="24" alt="Avatar of coachzer"> coachzer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#coachzer">Copy rank badge</a><br/>
 			Nikola Kovačević
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gregor-srdic">
 				<img src="https://avatars.githubusercontent.com/u/3057225?s=72&u=1364606986c34b11c48f141c084e3860b429ab85&v=4" width="24" alt="Avatar of gregor-srdic"> gregor-srdic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gregor-srdic">Copy rank badge</a><br/>
 			Gregor Srdic
 		</td>
 		<td>Nomnio D.o.o. </td>
@@ -4711,7 +4713,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/maticboncina">
 				<img src="https://avatars.githubusercontent.com/u/54638868?s=72&u=741905f4b631265a6c59f4911a384e657c57a958&v=4" width="24" alt="Avatar of maticboncina"> maticboncina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#maticboncina">Copy rank badge</a><br/>
 			Matic Bončina
 		</td>
 		<td>@noxitylabs  </td>
@@ -4724,7 +4726,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zrezke">
 				<img src="https://avatars.githubusercontent.com/u/59307111?s=72&u=58bde0187c74abd7a312202fe2886b087b5e3bf3&v=4" width="24" alt="Avatar of zrezke"> zrezke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zrezke">Copy rank badge</a><br/>
 			Filip Jeretina
 		</td>
 		<td>@luxonis  </td>
@@ -4737,7 +4739,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/estrumbelj">
 				<img src="https://avatars.githubusercontent.com/u/38114993?s=72&u=37b6db2aff336474dcb454cf2512692a1124ab13&v=4" width="24" alt="Avatar of estrumbelj"> estrumbelj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#estrumbelj">Copy rank badge</a><br/>
 			Erik Štrumbelj
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErroneousFatality">
 				<img src="https://avatars.githubusercontent.com/u/10187565?s=72&u=b3aa4449535ab0672028ab4d30873af405662014&v=4" width="24" alt="Avatar of ErroneousFatality"> ErroneousFatality
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ErroneousFatality">Copy rank badge</a><br/>
 			Andrej Križan
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TwentyPast4">
 				<img src="https://avatars.githubusercontent.com/u/54912695?s=72&u=7d4d851008282904ddd675f590c410064e843428&v=4" width="24" alt="Avatar of TwentyPast4"> TwentyPast4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TwentyPast4">Copy rank badge</a><br/>
 			Dan Toškan
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LukaMelinc">
 				<img src="https://avatars.githubusercontent.com/u/92365296?s=72&u=d545c1405eb3b3ab85f07fab911352c7cc5dbc1b&v=4" width="24" alt="Avatar of LukaMelinc"> LukaMelinc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LukaMelinc">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mytja">
 				<img src="https://avatars.githubusercontent.com/u/52399966?s=72&u=310aa0c6ab35a342429679ff0855707b044a9d35&v=4" width="24" alt="Avatar of mytja"> mytja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mytja">Copy rank badge</a><br/>
 			Mitja Ševerkar
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/blazoncek">
 				<img src="https://avatars.githubusercontent.com/u/7722392?s=72&u=78bddb872d2a9fb91e9549e7003a4e251b9eb215&v=4" width="24" alt="Avatar of blazoncek"> blazoncek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#blazoncek">Copy rank badge</a><br/>
 			Blaž Kristan
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/overlordtm">
 				<img src="https://avatars.githubusercontent.com/u/220832?s=72&v=4" width="24" alt="Avatar of overlordtm"> overlordtm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#overlordtm">Copy rank badge</a><br/>
 			Andraz Vrhovec
 		</td>
 		<td>Koofr </td>
@@ -4828,7 +4830,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/novoselrok">
 				<img src="https://avatars.githubusercontent.com/u/6417322?s=72&u=5c5c7306c642c089bcd0969f23644453c7c2fbba&v=4" width="24" alt="Avatar of novoselrok"> novoselrok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#novoselrok">Copy rank badge</a><br/>
 			Rok Novosel
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/NikolaGostovikj">
 				<img src="https://avatars.githubusercontent.com/u/169855488?s=72&v=4" width="24" alt="Avatar of NikolaGostovikj"> NikolaGostovikj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#NikolaGostovikj">Copy rank badge</a><br/>
 			Nikola
 		</td>
 		<td>No Company</td>
@@ -4854,7 +4856,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigatrcek">
 				<img src="https://avatars.githubusercontent.com/u/57506989?s=72&u=330bec699a9c3caf9585bf7f37ab2f7ffa9993a8&v=4" width="24" alt="Avatar of zigatrcek"> zigatrcek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigatrcek">Copy rank badge</a><br/>
 			Žiga Trček
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rozmansi">
 				<img src="https://avatars.githubusercontent.com/u/6889694?s=72&u=747f03164d532aa44133a2b057eb1a8b8221db08&v=4" width="24" alt="Avatar of rozmansi"> rozmansi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rozmansi">Copy rank badge</a><br/>
 			Simon Rozman
 		</td>
 		<td>@amebis  </td>
@@ -4880,7 +4882,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/astritzeqiri">
 				<img src="https://avatars.githubusercontent.com/u/8720176?s=72&u=771df4071518523f39f814e4fab0e8646735bfc8&v=4" width="24" alt="Avatar of astritzeqiri"> astritzeqiri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#astritzeqiri">Copy rank badge</a><br/>
 			Astrit Zeqiri
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/orkaa">
 				<img src="https://avatars.githubusercontent.com/u/155681?s=72&u=64510bd1846dc23ca6f89eced986d4a3bdd7391b&v=4" width="24" alt="Avatar of orkaa"> orkaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#orkaa">Copy rank badge</a><br/>
 			Nace Oroz
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/roksamsa">
 				<img src="https://avatars.githubusercontent.com/u/3736661?s=72&u=66c07689ce1690fec97839f812ab0547eecc65f6&v=4" width="24" alt="Avatar of roksamsa"> roksamsa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#roksamsa">Copy rank badge</a><br/>
 			Rok Samsa
 		</td>
 		<td>Danfoss Slovenia </td>
@@ -4919,7 +4921,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sandi2382">
 				<img src="https://avatars.githubusercontent.com/u/25146647?s=72&u=5ed55d61d4f2c0882ed3dbc8a21fed106ba8f937&v=4" width="24" alt="Avatar of sandi2382"> sandi2382
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sandi2382">Copy rank badge</a><br/>
 			Sandi Pečečnik
 		</td>
 		<td>Kaudata </td>
@@ -4932,7 +4934,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ttusar">
 				<img src="https://avatars.githubusercontent.com/u/13745935?s=72&v=4" width="24" alt="Avatar of ttusar"> ttusar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ttusar">Copy rank badge</a><br/>
 			Tea Tušar
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -4945,7 +4947,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mvrhov">
 				<img src="https://avatars.githubusercontent.com/u/450008?s=72&u=44a6d3f00b24e1130d5e358efe8b8bae080b28d0&v=4" width="24" alt="Avatar of mvrhov"> mvrhov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mvrhov">Copy rank badge</a><br/>
 			Miha Vrhovnik
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/xban1x">
 				<img src="https://avatars.githubusercontent.com/u/4397323?s=72&u=979169d60e32303805c76a7e8697275fc1b83c22&v=4" width="24" alt="Avatar of xban1x"> xban1x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#xban1x">Copy rank badge</a><br/>
 			Urban Lavbič
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VesterDe">
 				<img src="https://avatars.githubusercontent.com/u/722505?s=72&u=49e6c45c0c6594e7da70962346656cd9da92c722&v=4" width="24" alt="Avatar of VesterDe"> VesterDe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VesterDe">Copy rank badge</a><br/>
 			Demjan
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nezapajek">
 				<img src="https://avatars.githubusercontent.com/u/62426773?s=72&u=561d95d768f7ffbd781d6123338e9ebccbc47bfd&v=4" width="24" alt="Avatar of nezapajek"> nezapajek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nezapajek">Copy rank badge</a><br/>
 			Neža Pajek Arambašič
 		</td>
 		<td>University Of Ljubljana </td>
@@ -4997,7 +4999,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MedvedMatej">
 				<img src="https://avatars.githubusercontent.com/u/68302129?s=72&v=4" width="24" alt="Avatar of MedvedMatej"> MedvedMatej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MedvedMatej">Copy rank badge</a><br/>
 			Matej Medved
 		</td>
 		<td>No Company</td>
@@ -5010,7 +5012,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Term164">
 				<img src="https://avatars.githubusercontent.com/u/1679924?s=72&u=95c1ed9a533d214b4534a9db0d5250ebebe59f8c&v=4" width="24" alt="Avatar of Term164"> Term164
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Term164">Copy rank badge</a><br/>
 			Jani Bangiev
 		</td>
 		<td>Isl Online/pdq </td>
@@ -5023,7 +5025,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigagrcar">
 				<img src="https://avatars.githubusercontent.com/u/15911824?s=72&u=b09823fc149af82c1e0acc51207f9b50b7b4d114&v=4" width="24" alt="Avatar of zigagrcar"> zigagrcar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigagrcar">Copy rank badge</a><br/>
 			Ziga Grcar
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RokKos">
 				<img src="https://avatars.githubusercontent.com/u/8342378?s=72&u=775a97938928a7ade669108c577fd028fceda4f8&v=4" width="24" alt="Avatar of RokKos"> RokKos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RokKos">Copy rank badge</a><br/>
 			Rok Kos
 		</td>
 		<td>No Company</td>
@@ -5049,7 +5051,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/martines3000">
 				<img src="https://avatars.githubusercontent.com/u/35891136?s=72&u=6f8b019c529a3b255b0fe005d3ab8f5ca1b6e31e&v=4" width="24" alt="Avatar of martines3000"> martines3000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#martines3000">Copy rank badge</a><br/>
 			Martin Domajnko
 		</td>
 		<td>@lutralabs </td>
@@ -5062,7 +5064,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomazc">
 				<img src="https://avatars.githubusercontent.com/u/588596?s=72&u=6870c947db33934060f26dae92c1d45797a30af6&v=4" width="24" alt="Avatar of tomazc"> tomazc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tomazc">Copy rank badge</a><br/>
 			Tomaž Curk
 		</td>
 		<td>University Of Ljubljana </td>
@@ -5075,7 +5077,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/demirhalilbasic">
 				<img src="https://avatars.githubusercontent.com/u/117943668?s=72&u=16752d55898d80502a179500e546d8788d5272cb&v=4" width="24" alt="Avatar of demirhalilbasic"> demirhalilbasic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#demirhalilbasic">Copy rank badge</a><br/>
 			Demir Halilbašić
 		</td>
 		<td>University Of Nova Gorica<br/></td>
@@ -5088,7 +5090,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokgregoric">
 				<img src="https://avatars.githubusercontent.com/u/168918?s=72&v=4" width="24" alt="Avatar of rokgregoric"> rokgregoric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokgregoric">Copy rank badge</a><br/>
 			Rok Gregorič
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Vid201">
 				<img src="https://avatars.githubusercontent.com/u/38610409?s=72&u=73c52f2a0fabee7f022424ff03a64cdaf2bebb56&v=4" width="24" alt="Avatar of Vid201"> Vid201
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Vid201">Copy rank badge</a><br/>
 			Vid Kersic
 		</td>
 		<td>@lutralabs </td>
@@ -5114,7 +5116,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/njezersek">
 				<img src="https://avatars.githubusercontent.com/u/10494687?s=72&u=20d6cab2ccfe96b045bd0de945502408bcc306b3&v=4" width="24" alt="Avatar of njezersek"> njezersek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#njezersek">Copy rank badge</a><br/>
 			Nejc Jezeršek
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndrejPetelin">
 				<img src="https://avatars.githubusercontent.com/u/6455997?s=72&u=5822ec5d37075ec3e5277f472aa761c170507bea&v=4" width="24" alt="Avatar of AndrejPetelin"> AndrejPetelin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AndrejPetelin">Copy rank badge</a><br/>
 			Andrej Petelin
 		</td>
 		<td>No Company</td>
@@ -5140,7 +5142,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejgodec">
 				<img src="https://avatars.githubusercontent.com/u/7317144?s=72&u=91d0d8f17b2f422eb84a407c2683df3505f82a90&v=4" width="24" alt="Avatar of andrejgodec"> andrejgodec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejgodec">Copy rank badge</a><br/>
 			Andrej
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/maticzav">
 				<img src="https://avatars.githubusercontent.com/u/3924224?s=72&u=66a57881d09c312bef538bdb142eb2a01cb20380&v=4" width="24" alt="Avatar of maticzav"> maticzav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#maticzav">Copy rank badge</a><br/>
 			Matic Zavadlal
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rkrajnc">
 				<img src="https://avatars.githubusercontent.com/u/941597?s=72&v=4" width="24" alt="Avatar of rkrajnc"> rkrajnc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rkrajnc">Copy rank badge</a><br/>
 			Rok Krajnc
 		</td>
 		<td>No Company</td>
@@ -5179,7 +5181,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/szlend">
 				<img src="https://avatars.githubusercontent.com/u/7301807?s=72&v=4" width="24" alt="Avatar of szlend"> szlend
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#szlend">Copy rank badge</a><br/>
 			Simon Žlender
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miha-meglic">
 				<img src="https://avatars.githubusercontent.com/u/10308386?s=72&u=8cdbf81191bb5323de09eae2fa44c61ed2beb08f&v=4" width="24" alt="Avatar of miha-meglic"> miha-meglic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miha-meglic">Copy rank badge</a><br/>
 			Miha Meglic
 		</td>
 		<td>No Company</td>
@@ -5205,7 +5207,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/randrej">
 				<img src="https://avatars.githubusercontent.com/u/3741879?s=72&u=1aa0f0e237cecb49c90dc8199012b53d373be681&v=4" width="24" alt="Avatar of randrej"> randrej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#randrej">Copy rank badge</a><br/>
 			Andrej Radović
 		</td>
 		<td>Andrej Radović S. P.<br/></td>
@@ -5218,7 +5220,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MilovanTomasevic">
 				<img src="https://avatars.githubusercontent.com/u/26183601?s=72&u=c8fe41d431557196046a585bcb086a2d58aa7634&v=4" width="24" alt="Avatar of MilovanTomasevic"> MilovanTomasevic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MilovanTomasevic">Copy rank badge</a><br/>
 			Milovan Tomašević
 		</td>
 		<td>Advanexus | Pathlyai </td>
@@ -5231,7 +5233,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gorandodig">
 				<img src="https://avatars.githubusercontent.com/u/31227?s=72&u=f84330c7a6d3bc75a44b9bda280c75680e490e6d&v=4" width="24" alt="Avatar of gorandodig"> gorandodig
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gorandodig">Copy rank badge</a><br/>
 			Goran Dodig
 		</td>
 		<td>@codeplain-ai </td>
@@ -5244,7 +5246,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Anja159">
 				<img src="https://avatars.githubusercontent.com/u/61201059?s=72&u=1c2122caeea4a5ae967aae1a40db2b1fba27cae6&v=4" width="24" alt="Avatar of Anja159"> Anja159
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Anja159">Copy rank badge</a><br/>
 			Anja 
 		</td>
 		<td>Faculty Of Computer And<br/>Information<br/>Science,<br/>Ljubljana<br/></td>
@@ -5257,7 +5259,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrcinv">
 				<img src="https://avatars.githubusercontent.com/u/5948013?s=72&u=a33b194fe406705b7e5170397d9d55574d2cecf3&v=4" width="24" alt="Avatar of mrcinv"> mrcinv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mrcinv">Copy rank badge</a><br/>
 			Martin Vuk
 		</td>
 		<td>Univerza V Ljubljani </td>
@@ -5270,7 +5272,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aleksgorica">
 				<img src="https://avatars.githubusercontent.com/u/30185022?s=72&u=93891575c3876ed490c4e3ae66fe58a9931fdc75&v=4" width="24" alt="Avatar of aleksgorica"> aleksgorica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aleksgorica">Copy rank badge</a><br/>
 			Aleks
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/DavidKarlas">
 				<img src="https://avatars.githubusercontent.com/u/774791?s=72&u=2c694a8f2ab29273ffe1b9f7ad414acf3a3463c3&v=4" width="24" alt="Avatar of DavidKarlas"> DavidKarlas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#DavidKarlas">Copy rank badge</a><br/>
 			David Karlaš
 		</td>
 		<td>Ngen </td>
@@ -5296,7 +5298,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BlazZupan">
 				<img src="https://avatars.githubusercontent.com/u/726604?s=72&u=114f5a55ce3f10a556631a764d36b0651ce25de5&v=4" width="24" alt="Avatar of BlazZupan"> BlazZupan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BlazZupan">Copy rank badge</a><br/>
 			Blaž
 		</td>
 		<td>University Of Ljubljana </td>
@@ -5309,7 +5311,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nverbic">
 				<img src="https://avatars.githubusercontent.com/u/17902969?s=72&u=87f5678fa4f264d635ae541c742a510c002f5cca&v=4" width="24" alt="Avatar of nverbic"> nverbic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nverbic">Copy rank badge</a><br/>
 			Nevena Verbic
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/buma">
 				<img src="https://avatars.githubusercontent.com/u/1055967?s=72&v=4" width="24" alt="Avatar of buma"> buma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#buma">Copy rank badge</a><br/>
 			Marko Burjek
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mydnicq">
 				<img src="https://avatars.githubusercontent.com/u/7260332?s=72&u=465008fd1a5c6045a8c245d1d1d48b162102711b&v=4" width="24" alt="Avatar of mydnicq"> mydnicq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mydnicq">Copy rank badge</a><br/>
 			Tadej Stanic
 		</td>
 		<td>@poviolabs  </td>
@@ -5348,7 +5350,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/libsamek">
 				<img src="https://avatars.githubusercontent.com/u/2481249?s=72&u=b8cd0981ae16b85d21231a9f583859472b1c70c0&v=4" width="24" alt="Avatar of libsamek"> libsamek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#libsamek">Copy rank badge</a><br/>
 			Samo Jelovšek
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/GregaVrbancic">
 				<img src="https://avatars.githubusercontent.com/u/1894788?s=72&u=cc3fc8b0c2909f51606d5b649ecb37d2760389c7&v=4" width="24" alt="Avatar of GregaVrbancic"> GregaVrbancic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#GregaVrbancic">Copy rank badge</a><br/>
 			Grega Vrbančič
 		</td>
 		<td>University Of Maribor, Faculty<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Computer<br/>Science<br/></td>
@@ -5374,7 +5376,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dnllzc">
 				<img src="https://avatars.githubusercontent.com/u/61419348?s=72&u=e775c77639004230ba8d41397048e75da1b4e4f8&v=4" width="24" alt="Avatar of dnllzc"> dnllzc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dnllzc">Copy rank badge</a><br/>
 			Danilo Lazić
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/t1k3i">
 				<img src="https://avatars.githubusercontent.com/u/125555768?s=72&v=4" width="24" alt="Avatar of t1k3i"> t1k3i
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#t1k3i">Copy rank badge</a><br/>
 			Tikei Radovac
 		</td>
 		<td>No Company</td>
@@ -5400,7 +5402,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zanderle">
 				<img src="https://avatars.githubusercontent.com/u/5232693?s=72&v=4" width="24" alt="Avatar of zanderle"> zanderle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zanderle">Copy rank badge</a><br/>
 			Žan Anderle
 		</td>
 		<td>Freelancer </td>
@@ -5413,7 +5415,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/park-sewon">
 				<img src="https://avatars.githubusercontent.com/u/25924970?s=72&u=2dfe1209e2ff728c500cb3f2a6dceb294619ca52&v=4" width="24" alt="Avatar of park-sewon"> park-sewon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#park-sewon">Copy rank badge</a><br/>
 			Sewon Park
 		</td>
 		<td>Imfm </td>
@@ -5426,7 +5428,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matkuki">
 				<img src="https://avatars.githubusercontent.com/u/10289651?s=72&u=9cafbcae45d9140319f51e39447a50babcf90d96&v=4" width="24" alt="Avatar of matkuki"> matkuki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matkuki">Copy rank badge</a><br/>
 			Matic Kukovec
 		</td>
 		<td>No Company</td>
@@ -5439,7 +5441,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jeryini">
 				<img src="https://avatars.githubusercontent.com/u/1238022?s=72&u=ea6684d1632ff02ed793dea41132e821b0933833&v=4" width="24" alt="Avatar of jeryini"> jeryini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jeryini">Copy rank badge</a><br/>
 			Jernej Jerin
 		</td>
 		<td>Dronecontrol </td>
@@ -5452,7 +5454,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/omeratagunn">
 				<img src="https://avatars.githubusercontent.com/u/29014425?s=72&u=6a0be9ced9c1f21abf42374d741d9e96e068cfda&v=4" width="24" alt="Avatar of omeratagunn"> omeratagunn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#omeratagunn">Copy rank badge</a><br/>
 			Ömer Atagün
 		</td>
 		<td>Sap </td>
@@ -5465,7 +5467,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tiggax">
 				<img src="https://avatars.githubusercontent.com/u/66419530?s=72&u=5a66013b89cb5119a6378041f2739e8d07fe57fa&v=4" width="24" alt="Avatar of Tiggax"> Tiggax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Tiggax">Copy rank badge</a><br/>
 			Tilen Gimpelj
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hickscorp">
 				<img src="https://avatars.githubusercontent.com/u/822933?s=72&u=172e1ffa80e23712e2e3de5ca707dfddb31ccbba&v=4" width="24" alt="Avatar of hickscorp"> hickscorp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hickscorp">Copy rank badge</a><br/>
 			Pierre Martin
 		</td>
 		<td>Consilience Ventures </td>
@@ -5491,7 +5493,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/silverhook">
 				<img src="https://avatars.githubusercontent.com/u/3227264?s=72&v=4" width="24" alt="Avatar of silverhook"> silverhook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#silverhook">Copy rank badge</a><br/>
 			Matija Šuklje
 		</td>
 		<td>@liferay </td>
@@ -5504,7 +5506,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/krisssttinaa">
 				<img src="https://avatars.githubusercontent.com/u/117029938?s=72&u=14bf505620999084cf683622fc84345947031a19&v=4" width="24" alt="Avatar of krisssttinaa"> krisssttinaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#krisssttinaa">Copy rank badge</a><br/>
 			Kristina Piiarska
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/martink635">
 				<img src="https://avatars.githubusercontent.com/u/444687?s=72&u=b192f72a78df239dd7d121f5347c09188c944908&v=4" width="24" alt="Avatar of martink635"> martink635
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#martink635">Copy rank badge</a><br/>
 			Martin
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sijanec">
 				<img src="https://avatars.githubusercontent.com/u/42650898?s=72&u=69ca4f76cbb51f56506b16613cdafb5b09de3362&v=4" width="24" alt="Avatar of sijanec"> sijanec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sijanec">Copy rank badge</a><br/>
 			Anton Luka Šijanec
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/maticjesenicnik">
 				<img src="https://avatars.githubusercontent.com/u/27804921?s=72&u=837f87b40d5505394d3a60693257d332a486c6e7&v=4" width="24" alt="Avatar of maticjesenicnik"> maticjesenicnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#maticjesenicnik">Copy rank badge</a><br/>
 			Matic Jeseničnik
 		</td>
 		<td>Crea D.o.o. </td>
@@ -5556,7 +5558,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vekejsn">
 				<img src="https://avatars.githubusercontent.com/u/67960691?s=72&u=0d2cc1fc80e005539224aad53114d49bb4ad299b&v=4" width="24" alt="Avatar of vekejsn"> vekejsn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vekejsn">Copy rank badge</a><br/>
 			Nedžad Beus
 		</td>
 		<td>Ekonomska Fakulteta, Univerza V<br/>Ljubljani<br/></td>
@@ -5569,7 +5571,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nplan">
 				<img src="https://avatars.githubusercontent.com/u/22661359?s=72&u=88d6143cb5b5722414631620a5779a883f0f17ca&v=4" width="24" alt="Avatar of nplan"> nplan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nplan">Copy rank badge</a><br/>
 			Nejc Planinšek
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rokmohar">
 				<img src="https://avatars.githubusercontent.com/u/2438846?s=72&u=1a8571c50f7a27c2730a62f9d64d23b4aec39cd3&v=4" width="24" alt="Avatar of rokmohar"> rokmohar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rokmohar">Copy rank badge</a><br/>
 			Rok Mohar
 		</td>
 		<td>Random D.o.o. </td>
@@ -5595,7 +5597,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/muki">
 				<img src="https://avatars.githubusercontent.com/u/435810?s=72&v=4" width="24" alt="Avatar of muki"> muki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#muki">Copy rank badge</a><br/>
 			Filip Muki Dobranic
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/am-on">
 				<img src="https://avatars.githubusercontent.com/u/8530224?s=72&u=3d125aa54a6794ff13b37a8d2657f0ac3f338c6a&v=4" width="24" alt="Avatar of am-on"> am-on
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#am-on">Copy rank badge</a><br/>
 			Amon Stopinšek
 		</td>
 		<td>@teamniteo </td>
@@ -5621,7 +5623,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jurevajs">
 				<img src="https://avatars.githubusercontent.com/u/91623771?s=72&u=c114bdc739924459d5a2e5039fa8fc6c19ae9d63&v=4" width="24" alt="Avatar of jurevajs"> jurevajs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jurevajs">Copy rank badge</a><br/>
 			Jure Vajs
 		</td>
 		<td>Feri Um </td>
@@ -5634,7 +5636,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alekseykulikov">
 				<img src="https://avatars.githubusercontent.com/u/158189?s=72&u=10c7afc275961cd78e011ba62a2bddf920126600&v=4" width="24" alt="Avatar of alekseykulikov"> alekseykulikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alekseykulikov">Copy rank badge</a><br/>
 			Aleksey Kulikov
 		</td>
 		<td>Treo </td>
@@ -5647,7 +5649,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mmazi">
 				<img src="https://avatars.githubusercontent.com/u/294075?s=72&v=4" width="24" alt="Avatar of mmazi"> mmazi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mmazi">Copy rank badge</a><br/>
 			Matija Mazi
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/meznaric">
 				<img src="https://avatars.githubusercontent.com/u/1058131?s=72&u=8401b2c0339895748d7de053f19bd79b4163f799&v=4" width="24" alt="Avatar of meznaric"> meznaric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#meznaric">Copy rank badge</a><br/>
 			Vito Meznaric
 		</td>
 		<td>Otivia Ltd. </td>
@@ -5673,7 +5675,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/awswan">
 				<img src="https://avatars.githubusercontent.com/u/29544804?s=72&v=4" width="24" alt="Avatar of awswan"> awswan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#awswan">Copy rank badge</a><br/>
 			Andrew Swan
 		</td>
 		<td>University Of Ljubljana </td>
@@ -5686,7 +5688,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/frasza">
 				<img src="https://avatars.githubusercontent.com/u/22049682?s=72&u=56c76153830bffe3509a8a1d6dc8455c9cee3048&v=4" width="24" alt="Avatar of frasza"> frasza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#frasza">Copy rank badge</a><br/>
 			Žan Fras (FrozenSpirit)
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanPlazovnik">
 				<img src="https://avatars.githubusercontent.com/u/10787639?s=72&u=10ed54b4b1547402990765cc1d6203fa55ac4343&v=4" width="24" alt="Avatar of JanPlazovnik"> JanPlazovnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanPlazovnik">Copy rank badge</a><br/>
 			Jan Plazovnik
 		</td>
 		<td>No Company</td>
@@ -5712,7 +5714,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/szitnik">
 				<img src="https://avatars.githubusercontent.com/u/983633?s=72&v=4" width="24" alt="Avatar of szitnik"> szitnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#szitnik">Copy rank badge</a><br/>
 			Slavko
 		</td>
 		<td>No Company</td>
@@ -5725,7 +5727,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/canimus">
 				<img src="https://avatars.githubusercontent.com/u/278303?s=72&v=4" width="24" alt="Avatar of canimus"> canimus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#canimus">Copy rank badge</a><br/>
 			Herminio Vazquez
 		</td>
 		<td>Copado </td>
@@ -5738,7 +5740,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrbrdo">
 				<img src="https://avatars.githubusercontent.com/u/167990?s=72&u=6558715870ac9067bd09847489ee726c9847d067&v=4" width="24" alt="Avatar of mrbrdo"> mrbrdo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mrbrdo">Copy rank badge</a><br/>
 			Jan Berdajs
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejj">
 				<img src="https://avatars.githubusercontent.com/u/9829?s=72&u=e051404e2850b6cd21b430607eebcfade258c2ca&v=4" width="24" alt="Avatar of andrejj"> andrejj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejj">Copy rank badge</a><br/>
 			Andrej Jančič
 		</td>
 		<td>No Company</td>
@@ -5764,7 +5766,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/idioterna">
 				<img src="https://avatars.githubusercontent.com/u/3073374?s=72&u=eb40a336c6fd97fcd531dd752820d9a256b16cb6&v=4" width="24" alt="Avatar of idioterna"> idioterna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#idioterna">Copy rank badge</a><br/>
 			Jure Koren
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/katafractari">
 				<img src="https://avatars.githubusercontent.com/u/1299228?s=72&u=7f353e84328360f1bbcaac5f7aa138452842e932&v=4" width="24" alt="Avatar of katafractari"> katafractari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#katafractari">Copy rank badge</a><br/>
 			Rok Pergarec
 		</td>
 		<td>@kaldi-it  </td>
@@ -5790,7 +5792,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LouDk">
 				<img src="https://avatars.githubusercontent.com/u/1484539?s=72&v=4" width="24" alt="Avatar of LouDk"> LouDk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LouDk">Copy rank badge</a><br/>
 			David Panzalović
 		</td>
 		<td>@g-core  </td>
@@ -5803,7 +5805,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KrofDrakula">
 				<img src="https://avatars.githubusercontent.com/u/112161?s=72&u=78a214e103a5c866677c3227bb3b8cb74119c1c7&v=4" width="24" alt="Avatar of KrofDrakula"> KrofDrakula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KrofDrakula">Copy rank badge</a><br/>
 			Klemen Slavič
 		</td>
 		<td>Open Sourcerer </td>
@@ -5816,7 +5818,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matcldr">
 				<img src="https://avatars.githubusercontent.com/u/66589714?s=72&u=fe82c3b8397fae47add1d40c5f8ef68030c8d725&v=4" width="24" alt="Avatar of matcldr"> matcldr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matcldr">Copy rank badge</a><br/>
 			matcldr
 		</td>
 		<td>No Company</td>
@@ -5829,7 +5831,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/amadejpapez">
 				<img src="https://avatars.githubusercontent.com/u/63184600?s=72&u=f9dd0418ab92cce0453ac7035f7a60a6f247a07c&v=4" width="24" alt="Avatar of amadejpapez"> amadejpapez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#amadejpapez">Copy rank badge</a><br/>
 			Amadej Papež
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/hadalin">
 				<img src="https://avatars.githubusercontent.com/u/1746370?s=72&v=4" width="24" alt="Avatar of hadalin"> hadalin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#hadalin">Copy rank badge</a><br/>
 			Primož Hadalin
 		</td>
 		<td>No Company</td>
@@ -5855,7 +5857,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tilenn">
 				<img src="https://avatars.githubusercontent.com/u/79167500?s=72&v=4" width="24" alt="Avatar of tilenn"> tilenn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tilenn">Copy rank badge</a><br/>
 			Tilen Ožbot
 		</td>
 		<td>Vienna University Of Technology<br/></td>
@@ -5868,7 +5870,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ecerroni">
 				<img src="https://avatars.githubusercontent.com/u/11174327?s=72&v=4" width="24" alt="Avatar of ecerroni"> ecerroni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ecerroni">Copy rank badge</a><br/>
 			ric0
 		</td>
 		<td>Me </td>
@@ -5881,7 +5883,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/marcuss346">
 				<img src="https://avatars.githubusercontent.com/u/89461220?s=72&u=0bd995c0b18dc718c91a1f64fc409dfa9a1c8a14&v=4" width="24" alt="Avatar of marcuss346"> marcuss346
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#marcuss346">Copy rank badge</a><br/>
 			Mark Ilovar
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/luxxi">
 				<img src="https://avatars.githubusercontent.com/u/1362438?s=72&u=4c1e6c8b35a9373777f6144228509b750636c14b&v=4" width="24" alt="Avatar of luxxi"> luxxi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#luxxi">Copy rank badge</a><br/>
 			Luka Domitrovič
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VladaPetrovic">
 				<img src="https://avatars.githubusercontent.com/u/230076?s=72&v=4" width="24" alt="Avatar of VladaPetrovic"> VladaPetrovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VladaPetrovic">Copy rank badge</a><br/>
 			Vlada Petrović
 		</td>
 		<td>Http://databox.com </td>
@@ -5920,7 +5922,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jernejjevsenak">
 				<img src="https://avatars.githubusercontent.com/u/24474135?s=72&u=697aaac80c8729ad8e890b9417d504eca1625db8&v=4" width="24" alt="Avatar of jernejjevsenak"> jernejjevsenak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jernejjevsenak">Copy rank badge</a><br/>
 			Jernej Jevšenak
 		</td>
 		<td>Slovenian Forestry Institute </td>
@@ -5933,7 +5935,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/drobilc">
 				<img src="https://avatars.githubusercontent.com/u/5029843?s=72&u=b2cd0f7f854138615be9e347bd78cb5f9a7dc2a3&v=4" width="24" alt="Avatar of drobilc"> drobilc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#drobilc">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pedrokost">
 				<img src="https://avatars.githubusercontent.com/u/725286?s=72&v=4" width="24" alt="Avatar of pedrokost"> pedrokost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pedrokost">Copy rank badge</a><br/>
 			Pedro Kostelec
 		</td>
 		<td>Sentinel Marine Solutions </td>
@@ -5959,7 +5961,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/javornikanze">
 				<img src="https://avatars.githubusercontent.com/u/61537629?s=72&v=4" width="24" alt="Avatar of javornikanze"> javornikanze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#javornikanze">Copy rank badge</a><br/>
 			Anže Javornik
 		</td>
 		<td>Faculty Of Computer &<br/>Information<br/>Science<br/></td>
@@ -5972,7 +5974,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/markogresak">
 				<img src="https://avatars.githubusercontent.com/u/6675751?s=72&u=7100bdc187f4875437177bb2eded8da0ea0ab0ae&v=4" width="24" alt="Avatar of markogresak"> markogresak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#markogresak">Copy rank badge</a><br/>
 			Marko Grešak
 		</td>
 		<td>No Company</td>
@@ -5985,7 +5987,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ravby">
 				<img src="https://avatars.githubusercontent.com/u/1442550?s=72&u=18e202615827dca603e6a6f01fda496afb9054ff&v=4" width="24" alt="Avatar of Ravby"> Ravby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Ravby">Copy rank badge</a><br/>
 			Miha Ravber
 		</td>
 		<td>University Of Maribor -<br/>Faculty<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Computer<br/>Science<br/></td>
@@ -5998,7 +6000,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigaLuksic">
 				<img src="https://avatars.githubusercontent.com/u/31988337?s=72&u=c51095249a2a1c3ad485d5bcc0ccfd66b92f195c&v=4" width="24" alt="Avatar of zigaLuksic"> zigaLuksic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigaLuksic">Copy rank badge</a><br/>
 			Žiga Lukšič
 		</td>
 		<td>Sinergise </td>
@@ -6011,7 +6013,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/romunov">
 				<img src="https://avatars.githubusercontent.com/u/544571?s=72&u=a7e3959ababc1dd4f0b8c1e2be016adb700c8262&v=4" width="24" alt="Avatar of romunov"> romunov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#romunov">Copy rank badge</a><br/>
 			Roman Luštrik
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/easwee">
 				<img src="https://avatars.githubusercontent.com/u/2518825?s=72&u=a24026bc5ed35688174b1a36f3c29eda594d38d7&v=4" width="24" alt="Avatar of easwee"> easwee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#easwee">Copy rank badge</a><br/>
 			Anej Gorkič
 		</td>
 		<td>@easwee-net </td>
@@ -6037,7 +6039,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/UrekD">
 				<img src="https://avatars.githubusercontent.com/u/38784343?s=72&v=4" width="24" alt="Avatar of UrekD"> UrekD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#UrekD">Copy rank badge</a><br/>
 			Urek
 		</td>
 		<td>Flint Si </td>
@@ -6050,7 +6052,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mzorec">
 				<img src="https://avatars.githubusercontent.com/u/6092976?s=72&v=4" width="24" alt="Avatar of mzorec"> mzorec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mzorec">Copy rank badge</a><br/>
 			Marko Zorec
 		</td>
 		<td>Comtrade D.o.o </td>
@@ -6063,7 +6065,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SparkOW511">
 				<img src="https://avatars.githubusercontent.com/u/92668831?s=72&u=5b95c30dfc9f51d8be48c23fa5791f24c54e0b4c&v=4" width="24" alt="Avatar of SparkOW511"> SparkOW511
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SparkOW511">Copy rank badge</a><br/>
 			Timotej Borštnar
 		</td>
 		<td>Noctrify </td>
@@ -6076,7 +6078,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/PortalDart">
 				<img src="https://avatars.githubusercontent.com/u/120784194?s=72&u=5f228956f3f5f1e8f4658a570c22853f67e601d9&v=4" width="24" alt="Avatar of PortalDart"> PortalDart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#PortalDart">Copy rank badge</a><br/>
 			PortalDart
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/thocevar">
 				<img src="https://avatars.githubusercontent.com/u/919223?s=72&u=fa5c21c4c23eb601ad28fc11522ac86274b6ea87&v=4" width="24" alt="Avatar of thocevar"> thocevar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#thocevar">Copy rank badge</a><br/>
 			Tomaž Hočevar
 		</td>
 		<td>University Of Ljubljana </td>
@@ -6102,7 +6104,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aJuvan">
 				<img src="https://avatars.githubusercontent.com/u/26064030?s=72&u=2c6ad440d3c1cb72da406f3176748db5e3f2802a&v=4" width="24" alt="Avatar of aJuvan"> aJuvan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aJuvan">Copy rank badge</a><br/>
 			Andraž Juvan
 		</td>
 		<td>Dragonsec Si </td>
@@ -6115,7 +6117,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lahovniktadej">
 				<img src="https://avatars.githubusercontent.com/u/57890734?s=72&u=2b7d17a1c665db7b7aec0740bf3eef3278661ea1&v=4" width="24" alt="Avatar of lahovniktadej"> lahovniktadej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lahovniktadej">Copy rank badge</a><br/>
 			Tadej Lahovnik
 		</td>
 		<td>University Of Maribor </td>
@@ -6128,7 +6130,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jurecuhalev">
 				<img src="https://avatars.githubusercontent.com/u/13806?s=72&v=4" width="24" alt="Avatar of jurecuhalev"> jurecuhalev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jurecuhalev">Copy rank badge</a><br/>
 			Jure Cuhalev
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/cufarvid">
 				<img src="https://avatars.githubusercontent.com/u/32638301?s=72&u=bcc26ff2f3a4bb3a156ff8380e939f6591c19400&v=4" width="24" alt="Avatar of cufarvid"> cufarvid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#cufarvid">Copy rank badge</a><br/>
 			Vid Čufar
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/GioSensation">
 				<img src="https://avatars.githubusercontent.com/u/1828326?s=72&v=4" width="24" alt="Avatar of GioSensation"> GioSensation
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#GioSensation">Copy rank badge</a><br/>
 			Emanuele Feliziani
 		</td>
 		<td>@duckduckgo </td>
@@ -6167,7 +6169,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/cgorican">
 				<img src="https://avatars.githubusercontent.com/u/93093693?s=72&u=0b02e4657ffe276efe015dc62bc0d164b0439b43&v=4" width="24" alt="Avatar of cgorican"> cgorican
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#cgorican">Copy rank badge</a><br/>
 			Črt
 		</td>
 		<td>No Company</td>
@@ -6180,7 +6182,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gregorkovac">
 				<img src="https://avatars.githubusercontent.com/u/79193306?s=72&u=ca04f407b5b1571e86ec5a480d44ec6338632771&v=4" width="24" alt="Avatar of gregorkovac"> gregorkovac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gregorkovac">Copy rank badge</a><br/>
 			Gregor Kovač
 		</td>
 		<td>Simfit2drive </td>
@@ -6193,7 +6195,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/corvinux">
 				<img src="https://avatars.githubusercontent.com/u/5354129?s=72&u=914abed57a2c8bf5c5827add9bcbd9802e5aad0c&v=4" width="24" alt="Avatar of corvinux"> corvinux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#corvinux">Copy rank badge</a><br/>
 			Aleksander Hunyadi
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/milosm">
 				<img src="https://avatars.githubusercontent.com/u/411722?s=72&v=4" width="24" alt="Avatar of milosm"> milosm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#milosm">Copy rank badge</a><br/>
 			Milos Mladenovic
 		</td>
 		<td>D·labs </td>
@@ -6219,7 +6221,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejcgalof">
 				<img src="https://avatars.githubusercontent.com/u/3874664?s=72&u=2fb50b148b83c3d3636c7b1ad6162569ea09706f&v=4" width="24" alt="Avatar of nejcgalof"> nejcgalof
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejcgalof">Copy rank badge</a><br/>
 			Nejc Galof
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tomaz12345">
 				<img src="https://avatars.githubusercontent.com/u/71287697?s=72&v=4" width="24" alt="Avatar of Tomaz12345"> Tomaz12345
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Tomaz12345">Copy rank badge</a><br/>
 			Tomaž Poljanšek
 		</td>
 		<td>No Company</td>
@@ -6245,7 +6247,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/erikkastelec">
 				<img src="https://avatars.githubusercontent.com/u/34520112?s=72&u=5fdd941b35ea37f6a2b043bfc8c8fd2284b315bd&v=4" width="24" alt="Avatar of erikkastelec"> erikkastelec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#erikkastelec">Copy rank badge</a><br/>
 			Erik Kastelec
 		</td>
 		<td>Petrol D.d. </td>
@@ -6258,7 +6260,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejstrasek">
 				<img src="https://avatars.githubusercontent.com/u/9976413?s=72&u=120d518a32dcb12340d2907c99b90e7e7588f29b&v=4" width="24" alt="Avatar of matejstrasek"> matejstrasek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejstrasek">Copy rank badge</a><br/>
 			matej
 		</td>
 		<td>Exoticca </td>
@@ -6271,7 +6273,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janvasiljevic">
 				<img src="https://avatars.githubusercontent.com/u/47833674?s=72&u=dc19250493781510f1541af350c87f97af701cc5&v=4" width="24" alt="Avatar of janvasiljevic"> janvasiljevic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janvasiljevic">Copy rank badge</a><br/>
 			Jan Vasiljevič
 		</td>
 		<td>No Company</td>
@@ -6284,7 +6286,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janhencic">
 				<img src="https://avatars.githubusercontent.com/u/61284133?s=72&u=e5221f064e7ae35df6d56e40e1b4260445139e69&v=4" width="24" alt="Avatar of janhencic"> janhencic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janhencic">Copy rank badge</a><br/>
 			Jan Hencic
 		</td>
 		<td>@tvbeat </td>
@@ -6297,7 +6299,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JernejL">
 				<img src="https://avatars.githubusercontent.com/u/1741375?s=72&u=f302ba1c31e7328bf79d9802642f2b3771cf60e4&v=4" width="24" alt="Avatar of JernejL"> JernejL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JernejL">Copy rank badge</a><br/>
 			Jernej L.
 		</td>
 		<td>Mathpudding </td>
@@ -6310,7 +6312,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/CarinaChenot">
 				<img src="https://avatars.githubusercontent.com/u/16705167?s=72&u=18a080c7b09e6daae2970b9ae0cf1ec6b5ffbde0&v=4" width="24" alt="Avatar of CarinaChenot"> CarinaChenot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#CarinaChenot">Copy rank badge</a><br/>
 			Carina Chenot
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SloCompTech">
 				<img src="https://avatars.githubusercontent.com/u/11356157?s=72&u=44b837cd4cbfeef9c7485b0fdfaa9cd270825a97&v=4" width="24" alt="Avatar of SloCompTech"> SloCompTech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SloCompTech">Copy rank badge</a><br/>
 			Martin Dagarin
 		</td>
 		<td>@fri </td>
@@ -6336,7 +6338,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dasdachs">
 				<img src="https://avatars.githubusercontent.com/u/12150735?s=72&u=0aa9194f7172b860f16edfeff958f8c8474a07c7&v=4" width="24" alt="Avatar of dasdachs"> dasdachs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dasdachs">Copy rank badge</a><br/>
 			Jani Šumak
 		</td>
 		<td>No Company</td>
@@ -6349,7 +6351,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/marwuint">
 				<img src="https://avatars.githubusercontent.com/u/45337732?s=72&u=2e45f42fc1197dc4c5b9d94e57275523177cb668&v=4" width="24" alt="Avatar of marwuint"> marwuint
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#marwuint">Copy rank badge</a><br/>
 			Martin
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jurinator">
 				<img src="https://avatars.githubusercontent.com/u/85701889?s=72&u=0c7b0ba24e263a88b355fb6a8cee11c8b66b7f1a&v=4" width="24" alt="Avatar of Jurinator"> Jurinator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Jurinator">Copy rank badge</a><br/>
 			Jure
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BlazBone">
 				<img src="https://avatars.githubusercontent.com/u/79161952?s=72&u=38388835a106270e0c1655e2bbab78ea6ade57b7&v=4" width="24" alt="Avatar of BlazBone"> BlazBone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BlazBone">Copy rank badge</a><br/>
 			Blaz Bone
 		</td>
 		<td>No Company</td>
@@ -6388,7 +6390,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/StreakyFly">
 				<img src="https://avatars.githubusercontent.com/u/53691430?s=72&u=0d220f2744855d8d16f58c7d6c7e62a465ce49ab&v=4" width="24" alt="Avatar of StreakyFly"> StreakyFly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#StreakyFly">Copy rank badge</a><br/>
 			StreakyFly
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ardianreshani">
 				<img src="https://avatars.githubusercontent.com/u/17383633?s=72&u=9f6587d20174bf18b531882adfcdad8b1db8bb91&v=4" width="24" alt="Avatar of ardianreshani"> ardianreshani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ardianreshani">Copy rank badge</a><br/>
 			Ardian Reshani
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bmihelac">
 				<img src="https://avatars.githubusercontent.com/u/13813?s=72&u=fa9c5c69410cd8c18f4c9dc80fb7e220b0408a1d&v=4" width="24" alt="Avatar of bmihelac"> bmihelac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bmihelac">Copy rank badge</a><br/>
 			Bojan Mihelac
 		</td>
 		<td>Informatikamihelac </td>
@@ -6427,7 +6429,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ctomc">
 				<img src="https://avatars.githubusercontent.com/u/824084?s=72&u=520e92d04e42780a07f87932710e186499bcc640&v=4" width="24" alt="Avatar of ctomc"> ctomc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ctomc">Copy rank badge</a><br/>
 			Tomaz Cerar
 		</td>
 		<td>No Company</td>
@@ -6440,7 +6442,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pinkflozd">
 				<img src="https://avatars.githubusercontent.com/u/252927?s=72&v=4" width="24" alt="Avatar of pinkflozd"> pinkflozd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pinkflozd">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/m0sa">
 				<img src="https://avatars.githubusercontent.com/u/503702?s=72&u=b414f1945e6c7d3d00596bd05b9e575ecf0b4dcf&v=4" width="24" alt="Avatar of m0sa"> m0sa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#m0sa">Copy rank badge</a><br/>
 			Samo Prelog
 		</td>
 		<td>@positronlabs </td>
@@ -6466,7 +6468,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/wolfboyyang">
 				<img src="https://avatars.githubusercontent.com/u/6252922?s=72&u=d9adae15306b24b2d5f38d74831a34292d305ea1&v=4" width="24" alt="Avatar of wolfboyyang"> wolfboyyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#wolfboyyang">Copy rank badge</a><br/>
 			Wei Yang 
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndrejHafner">
 				<img src="https://avatars.githubusercontent.com/u/24529138?s=72&u=9a5e33be8a92bdc52085361156049a8d3e92421d&v=4" width="24" alt="Avatar of AndrejHafner"> AndrejHafner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AndrejHafner">Copy rank badge</a><br/>
 			Andrej Hafner
 		</td>
 		<td>Sportradar </td>
@@ -6492,7 +6494,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/IgnetStudio">
 				<img src="https://avatars.githubusercontent.com/u/4675493?s=72&u=c9ee3d1b23861d6005646eda1132da2e8b74f7e4&v=4" width="24" alt="Avatar of IgnetStudio"> IgnetStudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#IgnetStudio">Copy rank badge</a><br/>
 			Ignet
 		</td>
 		<td>Ignet </td>
@@ -6505,7 +6507,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Rafal-Swietek">
 				<img src="https://avatars.githubusercontent.com/u/67970266?s=72&u=93e597ec2016c08854e9db574dc51d97fedb442e&v=4" width="24" alt="Avatar of Rafal-Swietek"> Rafal-Swietek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Rafal-Swietek">Copy rank badge</a><br/>
 			Rafał Świętek
 		</td>
 		<td>Institute Josef Stefan </td>
@@ -6518,7 +6520,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/goonjja">
 				<img src="https://avatars.githubusercontent.com/u/49905?s=72&u=bc58f5d893ec25768aeb4e03100b42ebb31b0964&v=4" width="24" alt="Avatar of goonjja"> goonjja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#goonjja">Copy rank badge</a><br/>
 			Sergei Vedernikov
 		</td>
 		<td>No Company</td>
@@ -6531,7 +6533,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gslapnicar">
 				<img src="https://avatars.githubusercontent.com/u/6990548?s=72&u=3ec5505dfbbf9a9c31ba58d68225e2b8a54cd2b7&v=4" width="24" alt="Avatar of gslapnicar"> gslapnicar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gslapnicar">Copy rank badge</a><br/>
 			Gašper Slapničar
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -6544,7 +6546,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jkmcnk">
 				<img src="https://avatars.githubusercontent.com/u/4378371?s=72&v=4" width="24" alt="Avatar of jkmcnk"> jkmcnk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jkmcnk">Copy rank badge</a><br/>
 			jaKa
 		</td>
 		<td>@koofr  </td>
@@ -6557,7 +6559,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/balavec">
 				<img src="https://avatars.githubusercontent.com/u/2581220?s=72&u=51d6c026f33d4867ee8a3a2c3fa3a81c30cb4c43&v=4" width="24" alt="Avatar of balavec"> balavec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#balavec">Copy rank badge</a><br/>
 			Robert Kuzma
 		</td>
 		<td>Roža Vetrov D.o.o. </td>
@@ -6570,7 +6572,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tilenmiklavic">
 				<img src="https://avatars.githubusercontent.com/u/47791739?s=72&u=02e1f09d937656ddd3200b45566f0df9cb2785bd&v=4" width="24" alt="Avatar of tilenmiklavic"> tilenmiklavic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tilenmiklavic">Copy rank badge</a><br/>
 			Tilen Miklavič
 		</td>
 		<td>Celtra </td>
@@ -6583,7 +6585,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ExtremePro11299">
 				<img src="https://avatars.githubusercontent.com/u/134209046?s=72&u=622ef50f528265203b32f4533ad3b6cb070d1384&v=4" width="24" alt="Avatar of ExtremePro11299"> ExtremePro11299
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ExtremePro11299">Copy rank badge</a><br/>
 			ExtremePro11299
 		</td>
 		<td>No Company</td>
@@ -6596,7 +6598,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomazzaman">
 				<img src="https://avatars.githubusercontent.com/u/10770386?s=72&u=13628e101613c4c1b6a3ccbe0e816d741c9f501f&v=4" width="24" alt="Avatar of tomazzaman"> tomazzaman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tomazzaman">Copy rank badge</a><br/>
 			Tomaž Zaman
 		</td>
 		<td>Mono Technologies Inc. </td>
@@ -6609,7 +6611,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/grlicaa">
 				<img src="https://avatars.githubusercontent.com/u/30799807?s=72&u=cad99cfbcb7f02e321e907300eb018d30ae11455&v=4" width="24" alt="Avatar of grlicaa"> grlicaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#grlicaa">Copy rank badge</a><br/>
 			Andrej Grlica
 		</td>
 		<td>The Right Thing Solutions<br/></td>
@@ -6622,7 +6624,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/DCalhas">
 				<img src="https://avatars.githubusercontent.com/u/14864195?s=72&u=b45a02ac803590fb3b9f2a8c41ad28de48288998&v=4" width="24" alt="Avatar of DCalhas"> DCalhas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#DCalhas">Copy rank badge</a><br/>
 			David Calhas
 		</td>
 		<td>University Of Ljubljana </td>
@@ -6635,7 +6637,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/damjankuznar">
 				<img src="https://avatars.githubusercontent.com/u/1381937?s=72&u=c99a90092249d61e13697629b6382ec003a35218&v=4" width="24" alt="Avatar of damjankuznar"> damjankuznar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#damjankuznar">Copy rank badge</a><br/>
 			Damjan Kužnar
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonidezman">
 				<img src="https://avatars.githubusercontent.com/u/11177270?s=72&u=ccf51dabcbf2c06517b66077de6519b44572d24c&v=4" width="24" alt="Avatar of tonidezman"> tonidezman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tonidezman">Copy rank badge</a><br/>
 			Toni Dezman
 		</td>
 		<td>No Company</td>
@@ -6661,7 +6663,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dbruncek">
 				<img src="https://avatars.githubusercontent.com/u/16231145?s=72&v=4" width="24" alt="Avatar of dbruncek"> dbruncek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dbruncek">Copy rank badge</a><br/>
 			Domen Bruncek
 		</td>
 		<td>Plume Design Inc. </td>
@@ -6674,7 +6676,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alescernivec">
 				<img src="https://avatars.githubusercontent.com/u/2122667?s=72&v=4" width="24" alt="Avatar of alescernivec"> alescernivec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alescernivec">Copy rank badge</a><br/>
 			Ales Cernivec
 		</td>
 		<td>Scilife.io </td>
@@ -6687,7 +6689,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janmilosic">
 				<img src="https://avatars.githubusercontent.com/u/61479658?s=72&v=4" width="24" alt="Avatar of janmilosic"> janmilosic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janmilosic">Copy rank badge</a><br/>
 			Jan Milosic
 		</td>
 		<td>No Company</td>
@@ -6700,7 +6702,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Shoter3000">
 				<img src="https://avatars.githubusercontent.com/u/124626218?s=72&u=db9419aeec445eed475c2e0ae36ce6e3a9952d66&v=4" width="24" alt="Avatar of Shoter3000"> Shoter3000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Shoter3000">Copy rank badge</a><br/>
 			Shoter3000
 		</td>
 		<td>No Company</td>
@@ -6713,7 +6715,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/blazsolar">
 				<img src="https://avatars.githubusercontent.com/u/613514?s=72&v=4" width="24" alt="Avatar of blazsolar"> blazsolar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#blazsolar">Copy rank badge</a><br/>
 			Blaž Šolar
 		</td>
 		<td>No Company</td>
@@ -6726,7 +6728,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zorantica">
 				<img src="https://avatars.githubusercontent.com/u/33637578?s=72&u=e8a02b7ec09e83d6cb4ca34618a2c8f9173e481c&v=4" width="24" alt="Avatar of zorantica"> zorantica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zorantica">Copy rank badge</a><br/>
 			Zoran Tica
 		</td>
 		<td>Zt-tech </td>
@@ -6739,7 +6741,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jurij15">
 				<img src="https://avatars.githubusercontent.com/u/79604050?s=72&u=e7e70460af7ccd949c11762552895e95527525b2&v=4" width="24" alt="Avatar of Jurij15"> Jurij15
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Jurij15">Copy rank badge</a><br/>
 			Jure Jurij Grom
 		</td>
 		<td>No Company</td>
@@ -6752,7 +6754,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Frcsty">
 				<img src="https://avatars.githubusercontent.com/u/50297792?s=72&u=df3d64f85795d97205151f179270ffdec7f36561&v=4" width="24" alt="Avatar of Frcsty"> Frcsty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Frcsty">Copy rank badge</a><br/>
 			Mark Prenar
 		</td>
 		<td>No Company</td>
@@ -6765,7 +6767,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jovanovskajovana">
 				<img src="https://avatars.githubusercontent.com/u/18234668?s=72&u=5460af86711040d38509e804fccc87897fc8b1e5&v=4" width="24" alt="Avatar of jovanovskajovana"> jovanovskajovana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jovanovskajovana">Copy rank badge</a><br/>
 			Jovana Jovanovska
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihasket">
 				<img src="https://avatars.githubusercontent.com/u/79801427?s=72&u=acbd6955f6a8de74681bfcc652756026f031cdd9&v=4" width="24" alt="Avatar of mihasket"> mihasket
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mihasket">Copy rank badge</a><br/>
 			Miha
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janhocevar">
 				<img src="https://avatars.githubusercontent.com/u/1181746?s=72&v=4" width="24" alt="Avatar of janhocevar"> janhocevar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janhocevar">Copy rank badge</a><br/>
 			Jan Hočevar
 		</td>
 		<td>Houmofis D.o.o. </td>
@@ -6804,7 +6806,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aljazblatnik">
 				<img src="https://avatars.githubusercontent.com/u/7538026?s=72&v=4" width="24" alt="Avatar of aljazblatnik"> aljazblatnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aljazblatnik">Copy rank badge</a><br/>
 			Aljaž Blatnik
 		</td>
 		<td>Ul Fe </td>
@@ -6817,7 +6819,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mmoskon">
 				<img src="https://avatars.githubusercontent.com/u/6714836?s=72&u=3d36f9810181008a312a27b0ac9c856bff999af9&v=4" width="24" alt="Avatar of mmoskon"> mmoskon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mmoskon">Copy rank badge</a><br/>
 			Miha Moskon
 		</td>
 		<td>University Of Ljubljana </td>
@@ -6830,7 +6832,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejskraba">
 				<img src="https://avatars.githubusercontent.com/u/2339519?s=72&v=4" width="24" alt="Avatar of andrejskraba"> andrejskraba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejskraba">Copy rank badge</a><br/>
 			Andrej Škraba
 		</td>
 		<td>University Of Maribor, Faculty<br/>Of<br/>Organizational<br/>Sciences,<br/>Department<br/>Of<br/>Informatics,<br/>Cybernetics<br/>&<br/>Decision<br/>Support<br/>Systems<br/>Laboratory<br/></td>
@@ -6843,7 +6845,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zigad">
 				<img src="https://avatars.githubusercontent.com/u/41201503?s=72&u=6111c0a9a8d78b4797a2817438d120986d4ca1dd&v=4" width="24" alt="Avatar of zigad"> zigad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zigad">Copy rank badge</a><br/>
 			Žiga Deisinger
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/utement">
 				<img src="https://avatars.githubusercontent.com/u/745446?s=72&u=30dcc699aeb7e4415aa4ee255fde7c2a6510326e&v=4" width="24" alt="Avatar of utement"> utement
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#utement">Copy rank badge</a><br/>
 			Uroš Tement
 		</td>
 		<td>No Company</td>
@@ -6869,7 +6871,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sparkica">
 				<img src="https://avatars.githubusercontent.com/u/1309114?s=72&u=1d494c08c19c5e49e35a5739a69a25f2ab5aa9c7&v=4" width="24" alt="Avatar of sparkica"> sparkica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sparkica">Copy rank badge</a><br/>
 			Mateja Verlic Bruncic
 		</td>
 		<td>@databox  </td>
@@ -6882,7 +6884,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/acasar">
 				<img src="https://avatars.githubusercontent.com/u/6329543?s=72&u=2cbcf2aeb692dff36f76ad7ad63fdfa75436d8b2&v=4" width="24" alt="Avatar of acasar"> acasar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#acasar">Copy rank badge</a><br/>
 			Anže Časar
 		</td>
 		<td>@spletna-postaja  </td>
@@ -6895,7 +6897,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/pkese">
 				<img src="https://avatars.githubusercontent.com/u/278492?s=72&u=81c54b440acf572ebe36b2d5f91e76422d1eb554&v=4" width="24" alt="Avatar of pkese"> pkese
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#pkese">Copy rank badge</a><br/>
 			Peter Keše
 		</td>
 		<td>Jsi, Oecd </td>
@@ -6908,7 +6910,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/slax0rr">
 				<img src="https://avatars.githubusercontent.com/u/3025605?s=72&u=d6d19d225ed4278a07744008608c35aa6a8c590a&v=4" width="24" alt="Avatar of slax0rr"> slax0rr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#slax0rr">Copy rank badge</a><br/>
 			Tomaz Lovrec
 		</td>
 		<td>@form3tech  </td>
@@ -6921,7 +6923,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gigibu5">
 				<img src="https://avatars.githubusercontent.com/u/16723465?s=72&u=65a1a094cbd4c8f6afd82d5095edcb4c4aacee11&v=4" width="24" alt="Avatar of gigibu5"> gigibu5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gigibu5">Copy rank badge</a><br/>
 			Žiga Kralj
 		</td>
 		<td>No Company</td>
@@ -6934,7 +6936,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/akastrin">
 				<img src="https://avatars.githubusercontent.com/u/139071?s=72&u=97f56cf124659f50a567c0cea6e0b352ad682edd&v=4" width="24" alt="Avatar of akastrin"> akastrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#akastrin">Copy rank badge</a><br/>
 			Andrej Kastrin
 		</td>
 		<td>University Of Ljubljana </td>
@@ -6947,7 +6949,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kuncgregor">
 				<img src="https://avatars.githubusercontent.com/u/79810134?s=72&u=b08dff51cb26d042bfda7a89c3234c77719b22f4&v=4" width="24" alt="Avatar of kuncgregor"> kuncgregor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kuncgregor">Copy rank badge</a><br/>
 			Gregor Kunc
 		</td>
 		<td>Aerio </td>
@@ -6960,7 +6962,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Noughmad">
 				<img src="https://avatars.githubusercontent.com/u/30710?s=72&v=4" width="24" alt="Avatar of Noughmad"> Noughmad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Noughmad">Copy rank badge</a><br/>
 			Miha Čančula
 		</td>
 		<td>Noughmad </td>
@@ -6973,7 +6975,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gmgale">
 				<img src="https://avatars.githubusercontent.com/u/62303146?s=72&v=4" width="24" alt="Avatar of gmgale"> gmgale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gmgale">Copy rank badge</a><br/>
 			George Gale
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikigre">
 				<img src="https://avatars.githubusercontent.com/u/42046119?s=72&v=4" width="24" alt="Avatar of nikigre"> nikigre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nikigre">Copy rank badge</a><br/>
 			nikigre
 		</td>
 		<td>No Company</td>
@@ -6999,7 +7001,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kcotar">
 				<img src="https://avatars.githubusercontent.com/u/1202653?s=72&u=4830cea7545a1be75088a290cf3d8ac8f01e4dc1&v=4" width="24" alt="Avatar of kcotar"> kcotar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kcotar">Copy rank badge</a><br/>
 			Klemen Cotar
 		</td>
 		<td>No Company</td>
@@ -7012,7 +7014,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/urosgruber">
 				<img src="https://avatars.githubusercontent.com/u/590455?s=72&v=4" width="24" alt="Avatar of urosgruber"> urosgruber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#urosgruber">Copy rank badge</a><br/>
 			Uros Gruber
 		</td>
 		<td>Squarebox </td>
@@ -7025,7 +7027,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/frlequ">
 				<img src="https://avatars.githubusercontent.com/u/121799877?s=72&u=6745db37eaa14bf2262fbc9226b0cd18e8418a03&v=4" width="24" alt="Avatar of frlequ"> frlequ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#frlequ">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/krebeljk">
 				<img src="https://avatars.githubusercontent.com/u/28546414?s=72&v=4" width="24" alt="Avatar of krebeljk"> krebeljk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#krebeljk">Copy rank badge</a><br/>
 			Kristjan Krebelj
 		</td>
 		<td>Laboratory For Numerical Modelling<br/>And<br/>Simulation<br/></td>
@@ -7051,7 +7053,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RTEdbg">
 				<img src="https://avatars.githubusercontent.com/u/144953452?s=72&v=4" width="24" alt="Avatar of RTEdbg"> RTEdbg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RTEdbg">Copy rank badge</a><br/>
 			Branko Premzel
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/wrathchild14">
 				<img src="https://avatars.githubusercontent.com/u/44843050?s=72&u=a46c571a4fbcf26a68892a4f2db354642b8477ff&v=4" width="24" alt="Avatar of wrathchild14"> wrathchild14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#wrathchild14">Copy rank badge</a><br/>
 			Jovan Prodanov
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JLP">
 				<img src="https://avatars.githubusercontent.com/u/53071?s=72&v=4" width="24" alt="Avatar of JLP"> JLP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JLP">Copy rank badge</a><br/>
 			Jure Repinc
 		</td>
 		<td>No Company</td>
@@ -7090,7 +7092,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/markodvornik">
 				<img src="https://avatars.githubusercontent.com/u/161789?s=72&v=4" width="24" alt="Avatar of markodvornik"> markodvornik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#markodvornik">Copy rank badge</a><br/>
 			Marko Dvornik
 		</td>
 		<td>@3tav  </td>
@@ -7103,7 +7105,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihaur">
 				<img src="https://avatars.githubusercontent.com/u/10325909?s=72&u=17679d88ad771afd384ada1590178867736ebafc&v=4" width="24" alt="Avatar of mihaur"> mihaur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mihaur">Copy rank badge</a><br/>
 			Miha Urbanija
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/marhi">
 				<img src="https://avatars.githubusercontent.com/u/25351024?s=72&u=dbc0e9c9865238ea2a831a3189842f2a16dcf849&v=4" width="24" alt="Avatar of marhi"> marhi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#marhi">Copy rank badge</a><br/>
 			Tomaž Marhat
 		</td>
 		<td>Meld D.o.o. </td>
@@ -7129,7 +7131,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mslenc">
 				<img src="https://avatars.githubusercontent.com/u/28239?s=72&v=4" width="24" alt="Avatar of mslenc"> mslenc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mslenc">Copy rank badge</a><br/>
 			Mitja Šlenc
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejcvivod">
 				<img src="https://avatars.githubusercontent.com/u/14198084?s=72&u=93b65ec5bc0d702ba92d4f6f9ac99fe00b5fb603&v=4" width="24" alt="Avatar of nejcvivod"> nejcvivod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejcvivod">Copy rank badge</a><br/>
 			Nejc Vivod
 		</td>
 		<td>@poviolabs  </td>
@@ -7155,7 +7157,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AveeMaria">
 				<img src="https://avatars.githubusercontent.com/u/160887359?s=72&u=ff2b002eb083d21720d5e85790c3a348f9471660&v=4" width="24" alt="Avatar of AveeMaria"> AveeMaria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AveeMaria">Copy rank badge</a><br/>
 			AveeMaria
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanezStupar">
 				<img src="https://avatars.githubusercontent.com/u/647445?s=72&u=7404ea47a8a860fb4bbbc1a42782f47e4c9dd065&v=4" width="24" alt="Avatar of JanezStupar"> JanezStupar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanezStupar">Copy rank badge</a><br/>
 			Janez Štupar
 		</td>
 		<td>Free Radicals </td>
@@ -7181,7 +7183,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Yalchin403">
 				<img src="https://avatars.githubusercontent.com/u/54992849?s=72&u=920c384435264d22f9b86ca88eaa1950160c46bf&v=4" width="24" alt="Avatar of Yalchin403"> Yalchin403
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Yalchin403">Copy rank badge</a><br/>
 			Yalchin403
 		</td>
 		<td>No Company</td>
@@ -7194,7 +7196,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/davision">
 				<img src="https://avatars.githubusercontent.com/u/3862832?s=72&u=887abc9bda1a85bea3d3e59c012e99daba65bcf6&v=4" width="24" alt="Avatar of davision"> davision
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#davision">Copy rank badge</a><br/>
 			David Licen
 		</td>
 		<td>@artnetik  </td>
@@ -7207,7 +7209,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kkogovsek">
 				<img src="https://avatars.githubusercontent.com/u/8089644?s=72&u=6caff0973890613e785d0fe88643a025e1fd6261&v=4" width="24" alt="Avatar of kkogovsek"> kkogovsek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kkogovsek">Copy rank badge</a><br/>
 			Klemen Kogovšek
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/planeer">
 				<img src="https://avatars.githubusercontent.com/u/25594581?s=72&u=e951f1e87bac5717b7a98e822a1e84a5c6c5c5c3&v=4" width="24" alt="Avatar of planeer"> planeer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#planeer">Copy rank badge</a><br/>
 			Nejc Planer
 		</td>
 		<td>@studoverse  </td>
@@ -7233,7 +7235,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ronzyfonzy">
 				<img src="https://avatars.githubusercontent.com/u/722464?s=72&u=849a48cb74bc138bd4d3401462de4ca89dae6cfe&v=4" width="24" alt="Avatar of ronzyfonzy"> ronzyfonzy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ronzyfonzy">Copy rank badge</a><br/>
 			Robert Tajnšek
 		</td>
 		<td>No Company</td>
@@ -7246,7 +7248,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RenePotocnik">
 				<img src="https://avatars.githubusercontent.com/u/76653181?s=72&u=eb3baaafe9470f0da3fdf60548f6672453f9f942&v=4" width="24" alt="Avatar of RenePotocnik"> RenePotocnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RenePotocnik">Copy rank badge</a><br/>
 			Rene Potočnik
 		</td>
 		<td>No Company</td>
@@ -7259,7 +7261,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dejanskledar">
 				<img src="https://avatars.githubusercontent.com/u/13760486?s=72&u=1123cc67e2cda5a6b83aec4dd2bc195a2aa1f265&v=4" width="24" alt="Avatar of dejanskledar"> dejanskledar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dejanskledar">Copy rank badge</a><br/>
 			Dejan Skledar
 		</td>
 		<td>@povio </td>
@@ -7272,7 +7274,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/LeonardoTononi">
 				<img src="https://avatars.githubusercontent.com/u/39841774?s=72&u=ff129744f1b73b6701ead73c08f6841caee0194e&v=4" width="24" alt="Avatar of LeonardoTononi"> LeonardoTononi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#LeonardoTononi">Copy rank badge</a><br/>
 			Leonardo
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gregopet">
 				<img src="https://avatars.githubusercontent.com/u/263044?s=72&v=4" width="24" alt="Avatar of gregopet"> gregopet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gregopet">Copy rank badge</a><br/>
 			Gregor Petrin
 		</td>
 		<td>Razum D.o.o. </td>
@@ -7298,7 +7300,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/drye">
 				<img src="https://avatars.githubusercontent.com/u/199121?s=72&u=210307faae34fe6b8eb60529ea84f9340fd2e43d&v=4" width="24" alt="Avatar of drye"> drye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#drye">Copy rank badge</a><br/>
 			Primož Verdnik
 		</td>
 		<td>@theydo  </td>
@@ -7311,7 +7313,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lokarkristina">
 				<img src="https://avatars.githubusercontent.com/u/32477249?s=72&u=f8b3c1b84e0d16444e73264a09e47623e2ecd984&v=4" width="24" alt="Avatar of lokarkristina"> lokarkristina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lokarkristina">Copy rank badge</a><br/>
 			Kristina Lokar
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/maslick">
 				<img src="https://avatars.githubusercontent.com/u/5644706?s=72&u=43b6d17b0991e9a9e3bc1c0fe0d1baf91f6ccf05&v=4" width="24" alt="Avatar of maslick"> maslick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#maslick">Copy rank badge</a><br/>
 			Paul Maslov
 		</td>
 		<td>No Company</td>
@@ -7337,7 +7339,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rok-cesnovar">
 				<img src="https://avatars.githubusercontent.com/u/28476796?s=72&u=42d64065985ed3d77068ee3235585fd876304f8b&v=4" width="24" alt="Avatar of rok-cesnovar"> rok-cesnovar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rok-cesnovar">Copy rank badge</a><br/>
 			Rok Češnovar
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mtyaka">
 				<img src="https://avatars.githubusercontent.com/u/32585?s=72&v=4" width="24" alt="Avatar of mtyaka"> mtyaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mtyaka">Copy rank badge</a><br/>
 			Matjaz Gregoric
 		</td>
 		<td>No Company</td>
@@ -7363,7 +7365,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Dormage">
 				<img src="https://avatars.githubusercontent.com/u/2729743?s=72&u=189b8a1651138f20cb541a506f94148a91c22fbb&v=4" width="24" alt="Avatar of Dormage"> Dormage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Dormage">Copy rank badge</a><br/>
 			Aleksandar
 		</td>
 		<td>University Of Primorska &<br/>Innorenew<br/>Coe<br/></td>
@@ -7376,7 +7378,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jazzbre">
 				<img src="https://avatars.githubusercontent.com/u/6158084?s=72&u=0b75b5916b373c443913a273065ceb949f7db659&v=4" width="24" alt="Avatar of jazzbre"> jazzbre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jazzbre">Copy rank badge</a><br/>
 			Aleš Mlakar
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/greginvm">
 				<img src="https://avatars.githubusercontent.com/u/10724016?s=72&u=38ca27417794ee2b07fceae0c7edbcce739dd235&v=4" width="24" alt="Avatar of greginvm"> greginvm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#greginvm">Copy rank badge</a><br/>
 			Gregor Ratajc
 		</td>
 		<td>No Company</td>
@@ -7402,7 +7404,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/desmax">
 				<img src="https://avatars.githubusercontent.com/u/656393?s=72&u=9453bcd2dfab749eecc8f9515275baf8feea6cea&v=4" width="24" alt="Avatar of desmax"> desmax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#desmax">Copy rank badge</a><br/>
 			Maksym Pustynnikov
 		</td>
 		<td>Laspra Soft </td>
@@ -7415,7 +7417,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/markoftw">
 				<img src="https://avatars.githubusercontent.com/u/1616694?s=72&u=81c6c03ce673b9c83af81cfcc748287c97d19b9e&v=4" width="24" alt="Avatar of markoftw"> markoftw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#markoftw">Copy rank badge</a><br/>
 			Marko
 		</td>
 		<td>No Company</td>
@@ -7428,7 +7430,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/CirilBohak">
 				<img src="https://avatars.githubusercontent.com/u/3185466?s=72&u=280caece3146bfbf44a92c2d684350e259fab59f&v=4" width="24" alt="Avatar of CirilBohak"> CirilBohak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#CirilBohak">Copy rank badge</a><br/>
 			Ciril Bohak
 		</td>
 		<td>University Of Ljubljana, Faculty<br/>Of<br/>Computer<br/>And<br/>Information<br/>Science<br/></td>
@@ -7441,7 +7443,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nimatel">
 				<img src="https://avatars.githubusercontent.com/u/4012593?s=72&v=4" width="24" alt="Avatar of nimatel"> nimatel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nimatel">Copy rank badge</a><br/>
 			Ivan Zupancic
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tetrapak0">
 				<img src="https://avatars.githubusercontent.com/u/112382253?s=72&u=f5b010b28d1fa2e7b9885625e1f12dbc1765f677&v=4" width="24" alt="Avatar of Tetrapak0"> Tetrapak0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Tetrapak0">Copy rank badge</a><br/>
 			Tetrapak
 		</td>
 		<td>No Company</td>
@@ -7467,7 +7469,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miharajster">
 				<img src="https://avatars.githubusercontent.com/u/33149554?s=72&u=53fd607692e96469e570d7004ced6607770bdecb&v=4" width="24" alt="Avatar of miharajster"> miharajster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miharajster">Copy rank badge</a><br/>
 			Miha Rajšter
 		</td>
 		<td>Lumnium </td>
@@ -7480,7 +7482,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BChainbuddy">
 				<img src="https://avatars.githubusercontent.com/u/123108325?s=72&u=3591997b97e2b07363ffc180af09e3a3b6593e97&v=4" width="24" alt="Avatar of BChainbuddy"> BChainbuddy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BChainbuddy">Copy rank badge</a><br/>
 			BChainBuddy
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BojanPLOJ">
 				<img src="https://avatars.githubusercontent.com/u/20479881?s=72&u=bc8bdc3cb3230f5cff2f77d7b2bdce3c8381e944&v=4" width="24" alt="Avatar of BojanPLOJ"> BojanPLOJ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BojanPLOJ">Copy rank badge</a><br/>
 			Bojan Ploj
 		</td>
 		<td>College Of Ptuj </td>
@@ -7506,7 +7508,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zalalahovnik">
 				<img src="https://avatars.githubusercontent.com/u/105444201?s=72&u=548f4760153fb1bea4d60216959389d0eca4d3e9&v=4" width="24" alt="Avatar of zalalahovnik"> zalalahovnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zalalahovnik">Copy rank badge</a><br/>
 			Zala Lahovnik
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/CANopenNode">
 				<img src="https://avatars.githubusercontent.com/u/13575344?s=72&u=368cc170ec904092098b2fc06001a5b6e2ae1bdf&v=4" width="24" alt="Avatar of CANopenNode"> CANopenNode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#CANopenNode">Copy rank badge</a><br/>
 			Janez
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tadejmagajna">
 				<img src="https://avatars.githubusercontent.com/u/1088423?s=72&u=e3cc8b34778174e70250aa02a976f88612c02b0d&v=4" width="24" alt="Avatar of tadejmagajna"> tadejmagajna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tadejmagajna">Copy rank badge</a><br/>
 			Tadej Magajna
 		</td>
 		<td>@sandoz </td>
@@ -7545,7 +7547,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/amarCausevic">
 				<img src="https://avatars.githubusercontent.com/u/37142287?s=72&u=6f16324152d5bbf3ccdbebd467b2b9b434739bfb&v=4" width="24" alt="Avatar of amarCausevic"> amarCausevic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#amarCausevic">Copy rank badge</a><br/>
 			Amar Causevic
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sedovsek">
 				<img src="https://avatars.githubusercontent.com/u/666767?s=72&u=bd233704f67b5f8fbe3eaddac1ffc9989c859d59&v=4" width="24" alt="Avatar of sedovsek"> sedovsek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sedovsek">Copy rank badge</a><br/>
 			Robert Sedovšek
 		</td>
 		<td>Rideshots.cc </td>
@@ -7571,7 +7573,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mmitech">
 				<img src="https://avatars.githubusercontent.com/u/4456920?s=72&u=31894854e237d66bc4c54893f03c573e672ba1ad&v=4" width="24" alt="Avatar of mmitech"> mmitech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mmitech">Copy rank badge</a><br/>
 			Mourad Ilyes Mlik
 		</td>
 		<td>Mmitech </td>
@@ -7584,7 +7586,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Pancho">
 				<img src="https://avatars.githubusercontent.com/u/224127?s=72&v=4" width="24" alt="Avatar of Pancho"> Pancho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Pancho">Copy rank badge</a><br/>
 			Danijel Pančić
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SretkoSreten">
 				<img src="https://avatars.githubusercontent.com/u/87679591?s=72&u=9422967314f8ddc3293358a066883800c0e9d45a&v=4" width="24" alt="Avatar of SretkoSreten"> SretkoSreten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SretkoSreten">Copy rank badge</a><br/>
 			Sreten
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/markosorec">
 				<img src="https://avatars.githubusercontent.com/u/3768072?s=72&u=a8ac171b91da664c05f1deb8c4afa112eadb23ee&v=4" width="24" alt="Avatar of markosorec"> markosorec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#markosorec">Copy rank badge</a><br/>
 			MarcS
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/budi1200">
 				<img src="https://avatars.githubusercontent.com/u/7889389?s=72&u=e1b900c60e358920b739bf7f3277bffcde4aae4c&v=4" width="24" alt="Avatar of budi1200"> budi1200
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#budi1200">Copy rank badge</a><br/>
 			Alen Budimir
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/napsy">
 				<img src="https://avatars.githubusercontent.com/u/56799?s=72&u=21cab12a66cd7986e52c725160cc9dce914c8da0&v=4" width="24" alt="Avatar of napsy"> napsy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#napsy">Copy rank badge</a><br/>
 			Luka Napotnik
 		</td>
 		<td>No Company</td>
@@ -7649,7 +7651,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BojanKogoj">
 				<img src="https://avatars.githubusercontent.com/u/634075?s=72&v=4" width="24" alt="Avatar of BojanKogoj"> BojanKogoj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BojanKogoj">Copy rank badge</a><br/>
 			Bojan Kogoj
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/miaerbus">
 				<img src="https://avatars.githubusercontent.com/u/66063?s=72&v=4" width="24" alt="Avatar of miaerbus"> miaerbus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#miaerbus">Copy rank badge</a><br/>
 			Mia Erbus
 		</td>
 		<td>No Company</td>
@@ -7675,7 +7677,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/imnotbeno">
 				<img src="https://avatars.githubusercontent.com/u/33790648?s=72&u=4c241e7399121519797f11def26c219fb4612bb7&v=4" width="24" alt="Avatar of imnotbeno"> imnotbeno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#imnotbeno">Copy rank badge</a><br/>
 			Niko Bec
 		</td>
 		<td>Calda </td>
@@ -7688,7 +7690,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidvidmar">
 				<img src="https://avatars.githubusercontent.com/u/140988?s=72&u=d37580e3a3f8a212c87716b35ec61baf7b82fc47&v=4" width="24" alt="Avatar of davidvidmar"> davidvidmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#davidvidmar">Copy rank badge</a><br/>
 			David Vidmar
 		</td>
 		<td>@gen-i-si </td>
@@ -7701,7 +7703,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/eMarek">
 				<img src="https://avatars.githubusercontent.com/u/311634?s=72&u=ea9cd4452d6f124f1961f5d30481a502bcf9bf22&v=4" width="24" alt="Avatar of eMarek"> eMarek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#eMarek">Copy rank badge</a><br/>
 			Marko Bregant
 		</td>
 		<td>No Company</td>
@@ -7714,7 +7716,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jumpswitch">
 				<img src="https://avatars.githubusercontent.com/u/1878580?s=72&u=2402195c105be0418697c6fdb2b6acda9f79c102&v=4" width="24" alt="Avatar of jumpswitch"> jumpswitch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jumpswitch">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7727,7 +7729,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/srmncnk">
 				<img src="https://avatars.githubusercontent.com/u/25658970?s=72&u=c36663d106df9685effbfd72cc401ef3c2b3b013&v=4" width="24" alt="Avatar of srmncnk"> srmncnk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#srmncnk">Copy rank badge</a><br/>
 			Simon Irmancnik
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZanMarolt">
 				<img src="https://avatars.githubusercontent.com/u/7118268?s=72&u=d34759b3d774c900792ef39bb51719afeeba45cd&v=4" width="24" alt="Avatar of ZanMarolt"> ZanMarolt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ZanMarolt">Copy rank badge</a><br/>
 			Zan Marolt
 		</td>
 		<td>Sap Leanix </td>
@@ -7753,7 +7755,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matek100">
 				<img src="https://avatars.githubusercontent.com/u/35506203?s=72&u=72a546d27479de5f9c35d1642e527768694922e0&v=4" width="24" alt="Avatar of matek100"> matek100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matek100">Copy rank badge</a><br/>
 			Matjaž
 		</td>
 		<td>No Company</td>
@@ -7766,7 +7768,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tajdaskraba">
 				<img src="https://avatars.githubusercontent.com/u/47979019?s=72&u=c3f577f92cc7090bad220aa282d63cd8d5a91b74&v=4" width="24" alt="Avatar of tajdaskraba"> tajdaskraba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tajdaskraba">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7779,7 +7781,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matjaz-bravc-ctg">
 				<img src="https://avatars.githubusercontent.com/u/39013003?s=72&u=d3a88b9fb3de2ecd6e9b7e533506adb1046bd6a5&v=4" width="24" alt="Avatar of matjaz-bravc-ctg"> matjaz-bravc-ctg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matjaz-bravc-ctg">Copy rank badge</a><br/>
 			Matjaž Bravc
 		</td>
 		<td>Comtrade Gaming </td>
@@ -7792,7 +7794,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/steelsnake93">
 				<img src="https://avatars.githubusercontent.com/u/78445299?s=72&v=4" width="24" alt="Avatar of steelsnake93"> steelsnake93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#steelsnake93">Copy rank badge</a><br/>
 			Nikola Tasev
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/viris">
 				<img src="https://avatars.githubusercontent.com/u/3950657?s=72&u=dfeaa487f6a46480f9b1c58cc88a37ecf9feccdb&v=4" width="24" alt="Avatar of viris"> viris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#viris">Copy rank badge</a><br/>
 			Viris
 		</td>
 		<td>Viris </td>
@@ -7818,7 +7820,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mlubej">
 				<img src="https://avatars.githubusercontent.com/u/37869250?s=72&u=188e8773ad5ffdfd94e9b3b6c61083741a36d3a5&v=4" width="24" alt="Avatar of mlubej"> mlubej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mlubej">Copy rank badge</a><br/>
 			Matic Lubej
 		</td>
 		<td>Eo Research Team @<br/>Sinergise<br/></td>
@@ -7831,7 +7833,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/goranche">
 				<img src="https://avatars.githubusercontent.com/u/1487971?s=72&u=0c37977c886b828032dc1641344e139cdbcdfb2f&v=4" width="24" alt="Avatar of goranche"> goranche
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#goranche">Copy rank badge</a><br/>
 			Goran Blažič
 		</td>
 		<td>Goranche.dev </td>
@@ -7844,7 +7846,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jbargu">
 				<img src="https://avatars.githubusercontent.com/u/15074090?s=72&u=4143e80054049c0624c2d2e6e407e39fbd977c0f&v=4" width="24" alt="Avatar of jbargu"> jbargu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jbargu">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7857,7 +7859,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/UCyborg">
 				<img src="https://avatars.githubusercontent.com/u/3683626?s=72&u=5a1875c3f064b882cbe0bab0c204a948ef36b3ed&v=4" width="24" alt="Avatar of UCyborg"> UCyborg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#UCyborg">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/litera">
 				<img src="https://avatars.githubusercontent.com/u/800583?s=72&v=4" width="24" alt="Avatar of litera"> litera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#litera">Copy rank badge</a><br/>
 			Robert Koritnik
 		</td>
 		<td>No Company</td>
@@ -7883,7 +7885,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janmalec">
 				<img src="https://avatars.githubusercontent.com/u/4379169?s=72&u=fe73d5b0adbdf031dbb032be0e2b5078876c639b&v=4" width="24" alt="Avatar of janmalec"> janmalec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janmalec">Copy rank badge</a><br/>
 			Jan Malec
 		</td>
 		<td>Jožef Stefan Institute </td>
@@ -7896,7 +7898,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/urosjarc">
 				<img src="https://avatars.githubusercontent.com/u/8678755?s=72&u=dc478503dff273feaa54341ed5778d36a0ac92a0&v=4" width="24" alt="Avatar of urosjarc"> urosjarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#urosjarc">Copy rank badge</a><br/>
 			Uroš Jarc
 		</td>
 		<td>Self-employed </td>
@@ -7909,7 +7911,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/NeutralPlasma">
 				<img src="https://avatars.githubusercontent.com/u/25546803?s=72&u=be21ccdccf1f1b1fefef954895571f590dd2b944&v=4" width="24" alt="Avatar of NeutralPlasma"> NeutralPlasma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#NeutralPlasma">Copy rank badge</a><br/>
 			Gasper Lukman
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/palhartinger">
 				<img src="https://avatars.githubusercontent.com/u/5892245?s=72&u=f5320415d6113cecd1592465b1cc4b554a46a5e0&v=4" width="24" alt="Avatar of palhartinger"> palhartinger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#palhartinger">Copy rank badge</a><br/>
 			Rok Palhartinger
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/krisp3t">
 				<img src="https://avatars.githubusercontent.com/u/77499501?s=72&u=f02cc3391466c0fb7c808e1bc1037fc10f0bb03b&v=4" width="24" alt="Avatar of krisp3t"> krisp3t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#krisp3t">Copy rank badge</a><br/>
 			Kris Petrič
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kami">
 				<img src="https://avatars.githubusercontent.com/u/125088?s=72&u=1568ccc9466c022eeb02f8ed718a6b9db0df02dc&v=4" width="24" alt="Avatar of Kami"> Kami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Kami">Copy rank badge</a><br/>
 			Tomaz Muraus
 		</td>
 		<td>Sentinelone | Previously: Scalyr,<br/>Extreme<br/>Networks,<br/>Brocade,<br/>Stackstorm,<br/>Rackspace,<br/>Etc.<br/></td>
@@ -7961,7 +7963,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sbandur84">
 				<img src="https://avatars.githubusercontent.com/u/7636018?s=72&u=f6a79e067d475201ef2909ffccf1d759e6203944&v=4" width="24" alt="Avatar of sbandur84"> sbandur84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sbandur84">Copy rank badge</a><br/>
 			Sebastijan Bandur
 		</td>
 		<td>No Company</td>
@@ -7974,7 +7976,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matjaz-go">
 				<img src="https://avatars.githubusercontent.com/u/3670620?s=72&u=b6b2813dc445dbc669a1838b94cd41e3a04af925&v=4" width="24" alt="Avatar of matjaz-go"> matjaz-go
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matjaz-go">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Qlector, Gounlimited </td>
@@ -7987,7 +7989,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bbencina">
 				<img src="https://avatars.githubusercontent.com/u/28514054?s=72&v=4" width="24" alt="Avatar of bbencina"> bbencina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bbencina">Copy rank badge</a><br/>
 			Benjamin Benčina
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Svashtar">
 				<img src="https://avatars.githubusercontent.com/u/4694?s=72&u=d340ca766f682ce286baeef46387192debd3171a&v=4" width="24" alt="Avatar of Svashtar"> Svashtar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Svashtar">Copy rank badge</a><br/>
 			Svashtar
 		</td>
 		<td>Svashta </td>
@@ -8013,7 +8015,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zaplotnik">
 				<img src="https://avatars.githubusercontent.com/u/57202507?s=72&v=4" width="24" alt="Avatar of zaplotnik"> zaplotnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zaplotnik">Copy rank badge</a><br/>
 			Žiga Zaplotnik
 		</td>
 		<td>Ecmwf </td>
@@ -8026,7 +8028,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mladen-borovic">
 				<img src="https://avatars.githubusercontent.com/u/40441820?s=72&v=4" width="24" alt="Avatar of mladen-borovic"> mladen-borovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mladen-borovic">Copy rank badge</a><br/>
 			Mladen Borovič
 		</td>
 		<td>Um Feri </td>
@@ -8039,7 +8041,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/marko-medvesek">
 				<img src="https://avatars.githubusercontent.com/u/87998044?s=72&u=94fa9322401d9545ff8008c099570076bb939c03&v=4" width="24" alt="Avatar of marko-medvesek"> marko-medvesek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#marko-medvesek">Copy rank badge</a><br/>
 			Marko
 		</td>
 		<td>No Company</td>
@@ -8052,7 +8054,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Matjaz12">
 				<img src="https://avatars.githubusercontent.com/u/69471504?s=72&v=4" width="24" alt="Avatar of Matjaz12"> Matjaz12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Matjaz12">Copy rank badge</a><br/>
 			Matjaž Zupančič Muc
 		</td>
 		<td>No Company</td>
@@ -8065,7 +8067,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/feri42">
 				<img src="https://avatars.githubusercontent.com/u/10512029?s=72&u=355ce2ec322b188f1f35f6c66c89a1d5b34cde19&v=4" width="24" alt="Avatar of feri42"> feri42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#feri42">Copy rank badge</a><br/>
 			Ferenc Kiraly
 		</td>
 		<td>Exodus Movement </td>
@@ -8078,7 +8080,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nkovacic">
 				<img src="https://avatars.githubusercontent.com/u/3670753?s=72&u=5903c7578a20a7748536c9e494868b89a7e22d48&v=4" width="24" alt="Avatar of nkovacic"> nkovacic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nkovacic">Copy rank badge</a><br/>
 			Niko Kovačič
 		</td>
 		<td>@bird-buddy </td>
@@ -8091,7 +8093,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bojanpotocnik">
 				<img src="https://avatars.githubusercontent.com/u/4901762?s=72&u=a8fff0797145e2d4be8ea177e9e96a343554a866&v=4" width="24" alt="Avatar of bojanpotocnik"> bojanpotocnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bojanpotocnik">Copy rank badge</a><br/>
 			Bojan Potočnik
 		</td>
 		<td>@plume-design  </td>
@@ -8104,7 +8106,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndrewStetsenko">
 				<img src="https://avatars.githubusercontent.com/u/2838582?s=72&u=5fdfd5ec03b58cd6d5caf7b9dec67e78b80b7c3d&v=4" width="24" alt="Avatar of AndrewStetsenko"> AndrewStetsenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#AndrewStetsenko">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Relocate.me </td>
@@ -8117,7 +8119,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bestia-dev">
 				<img src="https://avatars.githubusercontent.com/u/31509965?s=72&u=ef4b03c482a864c1b53efdbe73aa64b35c149d2d&v=4" width="24" alt="Avatar of bestia-dev"> bestia-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bestia-dev">Copy rank badge</a><br/>
 			bestia.dev
 		</td>
 		<td>Slovenia </td>
@@ -8130,7 +8132,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KLuka">
 				<img src="https://avatars.githubusercontent.com/u/1918763?s=72&v=4" width="24" alt="Avatar of KLuka"> KLuka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KLuka">Copy rank badge</a><br/>
 			Luka Krajger
 		</td>
 		<td>No Company</td>
@@ -8143,7 +8145,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zplesac">
 				<img src="https://avatars.githubusercontent.com/u/3542084?s=72&u=6ee0fac4ac3d57e3a6d3e9cba6c332e91ba451f2&v=4" width="24" alt="Avatar of zplesac"> zplesac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zplesac">Copy rank badge</a><br/>
 			Zeljko Plesac
 		</td>
 		<td>Infinum </td>
@@ -8156,7 +8158,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/janezlapajne">
 				<img src="https://avatars.githubusercontent.com/u/17291754?s=72&u=3a88b121d067dad4c82a6c3d07e6efefb43f4186&v=4" width="24" alt="Avatar of janezlapajne"> janezlapajne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#janezlapajne">Copy rank badge</a><br/>
 			Janez Lapajne
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejsvajger">
 				<img src="https://avatars.githubusercontent.com/u/370837?s=72&u=567223bcbdbc0dcf0fbba4d2fe0d6ad32d5d374f&v=4" width="24" alt="Avatar of matejsvajger"> matejsvajger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejsvajger">Copy rank badge</a><br/>
 			Matej Svajger
 		</td>
 		<td>@1tool Software </td>
@@ -8182,7 +8184,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bradeskojest">
 				<img src="https://avatars.githubusercontent.com/u/817095?s=72&v=4" width="24" alt="Avatar of Bradeskojest"> Bradeskojest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Bradeskojest">Copy rank badge</a><br/>
 			Luka Bradesko
 		</td>
 		<td>Solvesall, Ijs, Cyc, Bloomberg,<br/>Curious<br/>Cat,<br/>Timing<br/>Poljane,<br/>Kobobo<br/></td>
@@ -8195,7 +8197,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/morpheus7CS">
 				<img src="https://avatars.githubusercontent.com/u/8884582?s=72&v=4" width="24" alt="Avatar of morpheus7CS"> morpheus7CS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#morpheus7CS">Copy rank badge</a><br/>
 			Gal Jakič
 		</td>
 		<td>@wewowweb </td>
@@ -8208,7 +8210,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vladimirpetrovski">
 				<img src="https://avatars.githubusercontent.com/u/7715804?s=72&u=072ae26c1109e0571ba606d3c2d60ab4b0678869&v=4" width="24" alt="Avatar of vladimirpetrovski"> vladimirpetrovski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vladimirpetrovski">Copy rank badge</a><br/>
 			Vladimir Petrovski
 		</td>
 		<td>@usespeakeasy  </td>
@@ -8221,7 +8223,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lucijabrezocnik">
 				<img src="https://avatars.githubusercontent.com/u/36370699?s=72&u=5c299a91dacb8c940311bc05b1648dcead4ceb92&v=4" width="24" alt="Avatar of lucijabrezocnik"> lucijabrezocnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lucijabrezocnik">Copy rank badge</a><br/>
 			Lucija Brezočnik
 		</td>
 		<td>University Of Maribor, Faculty<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Computer<br/>Science<br/></td>
@@ -8234,7 +8236,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/priezz">
 				<img src="https://avatars.githubusercontent.com/u/6680317?s=72&u=1bf9a479e87e5ea002440868fe12449df4e28dc3&v=4" width="24" alt="Avatar of priezz"> priezz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#priezz">Copy rank badge</a><br/>
 			Alexandr Priezzhev
 		</td>
 		<td>Dvaplus D.o.o. </td>
@@ -8247,7 +8249,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/spedy">
 				<img src="https://avatars.githubusercontent.com/u/1649204?s=72&u=2835acfdd6e02ed220ae4d295f5caa05c8ac6309&v=4" width="24" alt="Avatar of spedy"> spedy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#spedy">Copy rank badge</a><br/>
 			Klemen Strušnik
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/BaKiForHire">
 				<img src="https://avatars.githubusercontent.com/u/51700255?s=72&u=c5dfc82e004279f966460487f61bf950809a1ff9&v=4" width="24" alt="Avatar of BaKiForHire"> BaKiForHire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#BaKiForHire">Copy rank badge</a><br/>
 			Blaže Banjanski
 		</td>
 		<td>No Company</td>
@@ -8273,7 +8275,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZigaByte">
 				<img src="https://avatars.githubusercontent.com/u/5606425?s=72&u=bdb5157362f8fdff2b1f0a7340ec87ef2942157e&v=4" width="24" alt="Avatar of ZigaByte"> ZigaByte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ZigaByte">Copy rank badge</a><br/>
 			Žiga Vene
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tiazv">
 				<img src="https://avatars.githubusercontent.com/u/118838487?s=72&v=4" width="24" alt="Avatar of tiazv"> tiazv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tiazv">Copy rank badge</a><br/>
 			Tia Žvajker
 		</td>
 		<td>No Company</td>
@@ -8299,7 +8301,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/fsacer">
 				<img src="https://avatars.githubusercontent.com/u/2059352?s=72&v=4" width="24" alt="Avatar of fsacer"> fsacer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#fsacer">Copy rank badge</a><br/>
 			Franci Šacer
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tadeboro">
 				<img src="https://avatars.githubusercontent.com/u/70951?s=72&v=4" width="24" alt="Avatar of tadeboro"> tadeboro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tadeboro">Copy rank badge</a><br/>
 			Tadej Borovšak
 		</td>
 		<td>@viaduct-ai </td>
@@ -8325,7 +8327,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/peric">
 				<img src="https://avatars.githubusercontent.com/u/1193864?s=72&u=dae94af16c38ee124753914020dc984b339efee4&v=4" width="24" alt="Avatar of peric"> peric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#peric">Copy rank badge</a><br/>
 			Dražen Perić
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/denvit">
 				<img src="https://avatars.githubusercontent.com/u/858347?s=72&u=652913d8a660359690f0a3bde4998f848c39a624&v=4" width="24" alt="Avatar of denvit"> denvit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#denvit">Copy rank badge</a><br/>
 			Denis Veg
 		</td>
 		<td>No Company</td>
@@ -8351,7 +8353,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakobcvetko">
 				<img src="https://avatars.githubusercontent.com/u/4570970?s=72&u=32d98cef87fb4b25d7bd134575b0bf822ba24664&v=4" width="24" alt="Avatar of jakobcvetko"> jakobcvetko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakobcvetko">Copy rank badge</a><br/>
 			Jakob Cvetko
 		</td>
 		<td>Jakob Cvetko S.p. </td>
@@ -8364,7 +8366,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Formator">
 				<img src="https://avatars.githubusercontent.com/u/1932159?s=72&v=4" width="24" alt="Avatar of Formator"> Formator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Formator">Copy rank badge</a><br/>
 			Ervin MARGUC
 		</td>
 		<td>Ervin Marguc S.p. </td>
@@ -8377,7 +8379,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zasuh">
 				<img src="https://avatars.githubusercontent.com/u/18556278?s=72&u=659db5db70748e9bbac7a91e1da24b8dc83b09aa&v=4" width="24" alt="Avatar of zasuh"> zasuh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zasuh">Copy rank badge</a><br/>
 			Žane Suhadolnik
 		</td>
 		<td>@dlabs </td>
@@ -8390,7 +8392,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Synthethics">
 				<img src="https://avatars.githubusercontent.com/u/89489089?s=72&u=25c08eeeb93b437416ec6d6d81d5942ee101b271&v=4" width="24" alt="Avatar of Synthethics"> Synthethics
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Synthethics">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8403,7 +8405,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nk1505">
 				<img src="https://avatars.githubusercontent.com/u/41727823?s=72&u=67b519b0d17b41b7777001d25cc5adaf2233b1fc&v=4" width="24" alt="Avatar of nk1505"> nk1505
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nk1505">Copy rank badge</a><br/>
 			Nejc Kraševec
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrihtar">
 				<img src="https://avatars.githubusercontent.com/u/697517?s=72&u=2345e47439d454873a0486a33797ea48b46ef4e6&v=4" width="24" alt="Avatar of mrihtar"> mrihtar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mrihtar">Copy rank badge</a><br/>
 			Matjaz Rihtar
 		</td>
 		<td>No Company</td>
@@ -8429,7 +8431,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ddksr">
 				<img src="https://avatars.githubusercontent.com/u/2311380?s=72&v=4" width="24" alt="Avatar of ddksr"> ddksr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ddksr">Copy rank badge</a><br/>
 			Žiga Stopinšek
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SamoPritrznik">
 				<img src="https://avatars.githubusercontent.com/u/50667049?s=72&u=6496f6c58b4ac1f5654e20a891307dc79ece9bab&v=4" width="24" alt="Avatar of SamoPritrznik"> SamoPritrznik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SamoPritrznik">Copy rank badge</a><br/>
 			Samo Pritržnik Pungaršek
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jozko">
 				<img src="https://avatars.githubusercontent.com/u/2110261?s=72&v=4" width="24" alt="Avatar of jozko"> jozko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jozko">Copy rank badge</a><br/>
 			Jozko Skrablin
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KlemenSkok">
 				<img src="https://avatars.githubusercontent.com/u/119757510?s=72&v=4" width="24" alt="Avatar of KlemenSkok"> KlemenSkok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KlemenSkok">Copy rank badge</a><br/>
 			Klemen
 		</td>
 		<td>Inea D.o.o. </td>
@@ -8481,7 +8483,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/trulex">
 				<img src="https://avatars.githubusercontent.com/u/3431769?s=72&u=95e2288cc817040128142f2159772c4109f6090a&v=4" width="24" alt="Avatar of trulex"> trulex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#trulex">Copy rank badge</a><br/>
 			Darko Janković
 		</td>
 		<td>@poviolabs </td>
@@ -8494,7 +8496,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jzavrl">
 				<img src="https://avatars.githubusercontent.com/u/4910773?s=72&v=4" width="24" alt="Avatar of jzavrl"> jzavrl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jzavrl">Copy rank badge</a><br/>
 			Jan Zavrl
 		</td>
 		<td>No Company</td>
@@ -8507,7 +8509,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RozinaTimotej">
 				<img src="https://avatars.githubusercontent.com/u/61662167?s=72&v=4" width="24" alt="Avatar of RozinaTimotej"> RozinaTimotej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RozinaTimotej">Copy rank badge</a><br/>
 			Timotej Rozina
 		</td>
 		<td>No Company</td>
@@ -8520,7 +8522,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/milanm-dev">
 				<img src="https://avatars.githubusercontent.com/u/52612617?s=72&u=3723ba37e61cba24684c21a0b9b89b7cf7ea8d2d&v=4" width="24" alt="Avatar of milanm-dev"> milanm-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#milanm-dev">Copy rank badge</a><br/>
 			Milan Milenkovic
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jurevito">
 				<img src="https://avatars.githubusercontent.com/u/36798549?s=72&u=434de3c69fd2a6a45b98852738d65b98bad6627b&v=4" width="24" alt="Avatar of jurevito"> jurevito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jurevito">Copy rank badge</a><br/>
 			Jure Vito Srovin
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sergejostir">
 				<img src="https://avatars.githubusercontent.com/u/21297285?s=72&v=4" width="24" alt="Avatar of sergejostir"> sergejostir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sergejostir">Copy rank badge</a><br/>
 			Sergej Oštir
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aksonov">
 				<img src="https://avatars.githubusercontent.com/u/1321329?s=72&u=4a121f35fb11bda9b936103977a96f1ce691d8bf&v=4" width="24" alt="Avatar of aksonov"> aksonov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aksonov">Copy rank badge</a><br/>
 			Pavel Aksonov
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SimonSuster">
 				<img src="https://avatars.githubusercontent.com/u/1826574?s=72&u=cd6d928864f1625414f5080f2fd515c58b6f9bde&v=4" width="24" alt="Avatar of SimonSuster"> SimonSuster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SimonSuster">Copy rank badge</a><br/>
 			Simon Šuster
 		</td>
 		<td>Textgain </td>
@@ -8585,7 +8587,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lenart">
 				<img src="https://avatars.githubusercontent.com/u/9228?s=72&u=cee0f49311729e7b66f005b46b067636b1181618&v=4" width="24" alt="Avatar of lenart"> lenart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lenart">Copy rank badge</a><br/>
 			Lenart Rudel
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/devisperessutti">
 				<img src="https://avatars.githubusercontent.com/u/14233816?s=72&u=8b6a205d755894e665bff7d17b9a586e8eded19c&v=4" width="24" alt="Avatar of devisperessutti"> devisperessutti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#devisperessutti">Copy rank badge</a><br/>
 			Devis Peressutti
 		</td>
 		<td>@sinergise @sentinel-hub @planetlabs </td>
@@ -8611,7 +8613,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/samop">
 				<img src="https://avatars.githubusercontent.com/u/890221?s=72&v=4" width="24" alt="Avatar of samop"> samop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#samop">Copy rank badge</a><br/>
 			Samo Penic
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/danilojezernik">
 				<img src="https://avatars.githubusercontent.com/u/96477921?s=72&u=01b3b42e0a96e9f9986651add86fe43bf723e59f&v=4" width="24" alt="Avatar of danilojezernik"> danilojezernik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#danilojezernik">Copy rank badge</a><br/>
 			Danilo Jezernik
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/kb2623">
 				<img src="https://avatars.githubusercontent.com/u/7480221?s=72&u=c0196fda5e9c1ca5b6881cd978cff65a34f05697&v=4" width="24" alt="Avatar of kb2623"> kb2623
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#kb2623">Copy rank badge</a><br/>
 			Klemen Berkovič
 		</td>
 		<td>Um Feri </td>
@@ -8650,7 +8652,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/batic">
 				<img src="https://avatars.githubusercontent.com/u/2518145?s=72&v=4" width="24" alt="Avatar of batic"> batic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#batic">Copy rank badge</a><br/>
 			Matej Batič
 		</td>
 		<td>@sinergise  </td>
@@ -8663,7 +8665,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejcrogelsek">
 				<img src="https://avatars.githubusercontent.com/u/33556841?s=72&u=f05adce4e4c19a56b53958493f6d6a925c5ca6ff&v=4" width="24" alt="Avatar of nejcrogelsek"> nejcrogelsek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejcrogelsek">Copy rank badge</a><br/>
 			Nejc Rogelšek
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/majknez">
 				<img src="https://avatars.githubusercontent.com/u/62266405?s=72&v=4" width="24" alt="Avatar of majknez"> majknez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#majknez">Copy rank badge</a><br/>
 			Maj Knez
 		</td>
 		<td>Self Taught </td>
@@ -8689,7 +8691,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrejpan">
 				<img src="https://avatars.githubusercontent.com/u/1015265?s=72&u=489aa5d2c57c7d8e29dd5bbe4104b46f9733b1c7&v=4" width="24" alt="Avatar of andrejpan"> andrejpan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrejpan">Copy rank badge</a><br/>
 			Andrej Pangercic
 		</td>
 		<td>I.h.s. Doo </td>
@@ -8702,7 +8704,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MFProduction">
 				<img src="https://avatars.githubusercontent.com/u/5241343?s=72&u=268ceaddba2f870fb82723cc24f5480374736ece&v=4" width="24" alt="Avatar of MFProduction"> MFProduction
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MFProduction">Copy rank badge</a><br/>
 			Mrstain
 		</td>
 		<td>Bitstamp </td>
@@ -8715,7 +8717,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/IrenejMarc">
 				<img src="https://avatars.githubusercontent.com/u/15063546?s=72&u=cd32a01cf101c6a870e0251e0db1fc2ae6679c98&v=4" width="24" alt="Avatar of IrenejMarc"> IrenejMarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#IrenejMarc">Copy rank badge</a><br/>
 			Irenej Marc
 		</td>
 		<td>No Company</td>
@@ -8728,7 +8730,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/friedcell">
 				<img src="https://avatars.githubusercontent.com/u/209139?s=72&v=4" width="24" alt="Avatar of friedcell"> friedcell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#friedcell">Copy rank badge</a><br/>
 			Marko Mrdjenovic
 		</td>
 		<td>Klevio </td>
@@ -8741,7 +8743,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ltclmbdev">
 				<img src="https://avatars.githubusercontent.com/u/1519448?s=72&u=a05d71c22fc6e113a34c4882e025c57c6771a2c1&v=4" width="24" alt="Avatar of ltclmbdev"> ltclmbdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ltclmbdev">Copy rank badge</a><br/>
 			Yevhen Nahalskyi
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/KlemenPlazar">
 				<img src="https://avatars.githubusercontent.com/u/1364213?s=72&u=08a9755652b0d2e73682d690b1296ae50b7af928&v=4" width="24" alt="Avatar of KlemenPlazar"> KlemenPlazar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#KlemenPlazar">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Povio </td>
@@ -8767,7 +8769,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/c0dehunter">
 				<img src="https://avatars.githubusercontent.com/u/1484658?s=72&u=9bb518e6bb75b49802c3be5860ecc393f2b7bf7e&v=4" width="24" alt="Avatar of c0dehunter"> c0dehunter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#c0dehunter">Copy rank badge</a><br/>
 			Primož Kralj
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanZrimec">
 				<img src="https://avatars.githubusercontent.com/u/37239764?s=72&u=1e92ef5af0c650957e36395280c842e6715ddf32&v=4" width="24" alt="Avatar of JanZrimec"> JanZrimec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanZrimec">Copy rank badge</a><br/>
 			Jan Zrimec
 		</td>
 		<td>National Institute Of Biology<br/></td>
@@ -8793,7 +8795,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/alsar">
 				<img src="https://avatars.githubusercontent.com/u/1380676?s=72&u=527c20f5ffe9279c10097aea143ece27a44003e9&v=4" width="24" alt="Avatar of alsar"> alsar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#alsar">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Intriro </td>
@@ -8806,7 +8808,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/orescek">
 				<img src="https://avatars.githubusercontent.com/u/17717937?s=72&u=174de14bf887f04c3ca1da75f4c102771b019f5b&v=4" width="24" alt="Avatar of orescek"> orescek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#orescek">Copy rank badge</a><br/>
 			Dejan Lazar
 		</td>
 		<td>Flowforge </td>
@@ -8819,7 +8821,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/zanmagerl">
 				<img src="https://avatars.githubusercontent.com/u/36709679?s=72&u=c6ce1e6ac8e88c95eaef80d1665060f745314c52&v=4" width="24" alt="Avatar of zanmagerl"> zanmagerl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#zanmagerl">Copy rank badge</a><br/>
 			Žan Magerl
 		</td>
 		<td>Outfit7 (ekipa2 D.o.o. Subsidiary)<br/><br/></td>
@@ -8832,7 +8834,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejcstopno">
 				<img src="https://avatars.githubusercontent.com/u/20465368?s=72&u=3d5d7b8b2cdf4165b198e4bd9ed48399bee350bd&v=4" width="24" alt="Avatar of nejcstopno"> nejcstopno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejcstopno">Copy rank badge</a><br/>
 			Nejc Stopnisek
 		</td>
 		<td>@nlzoh </td>
@@ -8845,7 +8847,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/krmeljalen">
 				<img src="https://avatars.githubusercontent.com/u/11915376?s=72&u=a0704f42345f44cac602378cf2587cf01aa21f46&v=4" width="24" alt="Avatar of krmeljalen"> krmeljalen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#krmeljalen">Copy rank badge</a><br/>
 			Alen Krmelj
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MatejFranceskin">
 				<img src="https://avatars.githubusercontent.com/u/7646986?s=72&u=b6707999ff8bf1cb6ab5dd6892712f2b5e0298a1&v=4" width="24" alt="Avatar of MatejFranceskin"> MatejFranceskin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MatejFranceskin">Copy rank badge</a><br/>
 			Matej Frančeškin
 		</td>
 		<td>No Company</td>
@@ -8871,7 +8873,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/NejcZupec">
 				<img src="https://avatars.githubusercontent.com/u/1460732?s=72&u=4648a1e23b050e84b764bcd915c7a1efc832b366&v=4" width="24" alt="Avatar of NejcZupec"> NejcZupec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#NejcZupec">Copy rank badge</a><br/>
 			Nejc Župec
 		</td>
 		<td>No Company</td>
@@ -8884,7 +8886,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejsp">
 				<img src="https://avatars.githubusercontent.com/u/3091122?s=72&u=c5bbbdb2fdd688ee763613f0378aaac7c94b267f&v=4" width="24" alt="Avatar of matejsp"> matejsp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejsp">Copy rank badge</a><br/>
 			Matej Spiller Muys
 		</td>
 		<td>Bitstamp </td>
@@ -8897,7 +8899,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejcpirecnik">
 				<img src="https://avatars.githubusercontent.com/u/29843306?s=72&u=649a7325539fc73dce4080de27415b71cd7ee80d&v=4" width="24" alt="Avatar of nejcpirecnik"> nejcpirecnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejcpirecnik">Copy rank badge</a><br/>
 			nejc26
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/c05m1x">
 				<img src="https://avatars.githubusercontent.com/u/2150244?s=72&u=d4a2f128fa8f20aaa59f3ccbe87b8917035debf5&v=4" width="24" alt="Avatar of c05m1x"> c05m1x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#c05m1x">Copy rank badge</a><br/>
 			Gorazd Kozmus
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/horvatz">
 				<img src="https://avatars.githubusercontent.com/u/69274970?s=72&u=6383295bd012806398c041a48beabd1cd1517d54&v=4" width="24" alt="Avatar of horvatz"> horvatz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#horvatz">Copy rank badge</a><br/>
 			Žan Horvat
 		</td>
 		<td>No Company</td>
@@ -8936,7 +8938,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SloMusti">
 				<img src="https://avatars.githubusercontent.com/u/1584734?s=72&v=4" width="24" alt="Avatar of SloMusti"> SloMusti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SloMusti">Copy rank badge</a><br/>
 			Luka Mustafa
 		</td>
 		<td>@irnas  </td>
@@ -8949,7 +8951,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/greenstatic">
 				<img src="https://avatars.githubusercontent.com/u/14580434?s=72&u=d317cd3b15c54f90f5f78599af5e55a56fcd0162&v=4" width="24" alt="Avatar of greenstatic"> greenstatic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#greenstatic">Copy rank badge</a><br/>
 			Gregor Krmelj
 		</td>
 		<td>1home </td>
@@ -8962,7 +8964,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/romanorac">
 				<img src="https://avatars.githubusercontent.com/u/8342728?s=72&v=4" width="24" alt="Avatar of romanorac"> romanorac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#romanorac">Copy rank badge</a><br/>
 			Roman Orac
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ekranac">
 				<img src="https://avatars.githubusercontent.com/u/5889632?s=72&u=d3e34468790355f497a2b326cc9cce5c35bce6a4&v=4" width="24" alt="Avatar of ekranac"> ekranac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ekranac">Copy rank badge</a><br/>
 			Ziga Besal
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JureSotosek">
 				<img src="https://avatars.githubusercontent.com/u/16746406?s=72&u=ac4f470de1c07f64d597d61f75b87161b8d5bf97&v=4" width="24" alt="Avatar of JureSotosek"> JureSotosek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JureSotosek">Copy rank badge</a><br/>
 			Jure Sotosek
 		</td>
 		<td>@parakeetai </td>
@@ -9001,7 +9003,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ercchy">
 				<img src="https://avatars.githubusercontent.com/u/2290441?s=72&v=4" width="24" alt="Avatar of ercchy"> ercchy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ercchy">Copy rank badge</a><br/>
 			Erika Pogorelc
 		</td>
 		<td>Freelance </td>
@@ -9014,7 +9016,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/xrado">
 				<img src="https://avatars.githubusercontent.com/u/17779?s=72&v=4" width="24" alt="Avatar of xrado"> xrado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#xrado">Copy rank badge</a><br/>
 			Radovan Lozej
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/rodp">
 				<img src="https://avatars.githubusercontent.com/u/48476?s=72&u=b7fa72a54fc5acd9e47428812bdbf5f7220bd4a2&v=4" width="24" alt="Avatar of rodp"> rodp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#rodp">Copy rank badge</a><br/>
 			Rodoljub Petrović
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mholub">
 				<img src="https://avatars.githubusercontent.com/u/14720?s=72&u=79d2b7f65b949559c653e70b4d5795ee434b7bce&v=4" width="24" alt="Avatar of mholub"> mholub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mholub">Copy rank badge</a><br/>
 			Michael Holub
 		</td>
 		<td>Outfit7 </td>
@@ -9053,7 +9055,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JanHalozan">
 				<img src="https://avatars.githubusercontent.com/u/5421084?s=72&u=4083ae5820daf641d364c3330d865cf0f0c5e2ca&v=4" width="24" alt="Avatar of JanHalozan"> JanHalozan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JanHalozan">Copy rank badge</a><br/>
 			Jan Haložan
 		</td>
 		<td>No Company</td>
@@ -9066,7 +9068,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/dejanstrancar">
 				<img src="https://avatars.githubusercontent.com/u/3260215?s=72&v=4" width="24" alt="Avatar of dejanstrancar"> dejanstrancar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#dejanstrancar">Copy rank badge</a><br/>
 			Dejan Strancar
 		</td>
 		<td>Mediately </td>
@@ -9079,7 +9081,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/aweCodeMan">
 				<img src="https://avatars.githubusercontent.com/u/3627889?s=72&u=3fb76678324bfc919d9e9294b509399a4bd95fcd&v=4" width="24" alt="Avatar of aweCodeMan"> aweCodeMan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#aweCodeMan">Copy rank badge</a><br/>
 			Miha Medven
 		</td>
 		<td>No Company</td>
@@ -9092,7 +9094,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/StormPacer">
 				<img src="https://avatars.githubusercontent.com/u/73640025?s=72&u=cbedfb2ff0ede0b18b80192455977351e2162bb7&v=4" width="24" alt="Avatar of StormPacer"> StormPacer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#StormPacer">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9105,7 +9107,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/tersekmatija">
 				<img src="https://avatars.githubusercontent.com/u/56075061?s=72&u=f550957f2a7613c76962609d9446aed784f30214&v=4" width="24" alt="Avatar of tersekmatija"> tersekmatija
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#tersekmatija">Copy rank badge</a><br/>
 			Matija Teršek
 		</td>
 		<td>Vp Of Ai @<br/>Luxonis<br/></td>
@@ -9118,7 +9120,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/GasperFunda">
 				<img src="https://avatars.githubusercontent.com/u/39793309?s=72&u=6255d135dae2ab4dd320ac891bbc4a0910c9d5e5&v=4" width="24" alt="Avatar of GasperFunda"> GasperFunda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#GasperFunda">Copy rank badge</a><br/>
 			Gašper Funda Povše
 		</td>
 		<td>Inova It </td>
@@ -9131,7 +9133,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/grizeldi">
 				<img src="https://avatars.githubusercontent.com/u/13003371?s=72&v=4" width="24" alt="Avatar of grizeldi"> grizeldi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#grizeldi">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ivangrozni">
 				<img src="https://avatars.githubusercontent.com/u/3587288?s=72&u=6afd21c1071443b0d3c8c1c86487d380b88ea116&v=4" width="24" alt="Avatar of ivangrozni"> ivangrozni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ivangrozni">Copy rank badge</a><br/>
 			Lio Novelli
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/15minutOdmora">
 				<img src="https://avatars.githubusercontent.com/u/44203081?s=72&v=4" width="24" alt="Avatar of 15minutOdmora"> 15minutOdmora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#15minutOdmora">Copy rank badge</a><br/>
 			Liam Mislej
 		</td>
 		<td>Celtra </td>
@@ -9170,7 +9172,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/usoban">
 				<img src="https://avatars.githubusercontent.com/u/606492?s=72&v=4" width="24" alt="Avatar of usoban"> usoban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#usoban">Copy rank badge</a><br/>
 			Urban Soban
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/david-slatinek">
 				<img src="https://avatars.githubusercontent.com/u/79467409?s=72&u=93f60c922910aee61c5898f0c4ba85269de0a680&v=4" width="24" alt="Avatar of david-slatinek"> david-slatinek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#david-slatinek">Copy rank badge</a><br/>
 			David Slatinek
 		</td>
 		<td>Hisense Europe </td>
@@ -9196,7 +9198,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ulexxander">
 				<img src="https://avatars.githubusercontent.com/u/55105865?s=72&u=4d7370e1a1bb92e0ec87a062e9d8cfe75b09e994&v=4" width="24" alt="Avatar of ulexxander"> ulexxander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ulexxander">Copy rank badge</a><br/>
 			Alexander Ustyugov
 		</td>
 		<td>P2p.org </td>
@@ -9209,7 +9211,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gresakg">
 				<img src="https://avatars.githubusercontent.com/u/2828923?s=72&v=4" width="24" alt="Avatar of gresakg"> gresakg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gresakg">Copy rank badge</a><br/>
 			Gregor G.
 		</td>
 		<td>Grit </td>
@@ -9222,7 +9224,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sirceljm">
 				<img src="https://avatars.githubusercontent.com/u/963690?s=72&u=ef6e71b90b11ba9cddfce29fad30c74cc1feaf15&v=4" width="24" alt="Avatar of sirceljm"> sirceljm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sirceljm">Copy rank badge</a><br/>
 			Matej Šircelj
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihaTrajbaric">
 				<img src="https://avatars.githubusercontent.com/u/26118837?s=72&v=4" width="24" alt="Avatar of mihaTrajbaric"> mihaTrajbaric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mihaTrajbaric">Copy rank badge</a><br/>
 			Mihael Trajbarič
 		</td>
 		<td>@luxonis  </td>
@@ -9248,7 +9250,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrewshkovskii">
 				<img src="https://avatars.githubusercontent.com/u/1146287?s=72&u=8f957d386be441bda840203d79079f42e93e73af&v=4" width="24" alt="Avatar of andrewshkovskii"> andrewshkovskii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#andrewshkovskii">Copy rank badge</a><br/>
 			Andrei Baryshnikov
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/danijelGombac">
 				<img src="https://avatars.githubusercontent.com/u/3872726?s=72&v=4" width="24" alt="Avatar of danijelGombac"> danijelGombac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#danijelGombac">Copy rank badge</a><br/>
 			Danijel Gombač
 		</td>
 		<td>Gombač D.o.o. </td>
@@ -9274,7 +9276,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaticBobnar">
 				<img src="https://avatars.githubusercontent.com/u/53122300?s=72&v=4" width="24" alt="Avatar of MaticBobnar"> MaticBobnar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MaticBobnar">Copy rank badge</a><br/>
 			Matic Bobnar
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/mclion">
 				<img src="https://avatars.githubusercontent.com/u/1983711?s=72&v=4" width="24" alt="Avatar of mclion"> mclion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#mclion">Copy rank badge</a><br/>
 			Marko McLion
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nejchauptman">
 				<img src="https://avatars.githubusercontent.com/u/45256722?s=72&u=5639a082a0823fee9e556fd8561e6a68f923cae2&v=4" width="24" alt="Avatar of nejchauptman"> nejchauptman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nejchauptman">Copy rank badge</a><br/>
 			Nejc Hauptman
 		</td>
 		<td>No Company</td>
@@ -9313,7 +9315,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gustinmi">
 				<img src="https://avatars.githubusercontent.com/u/988661?s=72&u=7a034d2721d538f01ada627f35e2d2e7ec9d1bf4&v=4" width="24" alt="Avatar of gustinmi"> gustinmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gustinmi">Copy rank badge</a><br/>
 			Mitja Guštin
 		</td>
 		<td>Eligma D.o.o </td>
@@ -9326,7 +9328,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/sp0ng3Bob">
 				<img src="https://avatars.githubusercontent.com/u/14179704?s=72&u=a327ae15bf69fcffb907fa0f0098aee97154fb1f&v=4" width="24" alt="Avatar of sp0ng3Bob"> sp0ng3Bob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#sp0ng3Bob">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/JakaCikac">
 				<img src="https://avatars.githubusercontent.com/u/1460728?s=72&u=b6f4114a7b048cf2bf10f3af539df9a6766ae4dd&v=4" width="24" alt="Avatar of JakaCikac"> JakaCikac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#JakaCikac">Copy rank badge</a><br/>
 			Jaka Cikač
 		</td>
 		<td>Otsala - Ai Engineering<br/>And<br/>Consulting<br/></td>
@@ -9352,7 +9354,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/RusAlex">
 				<img src="https://avatars.githubusercontent.com/u/374474?s=72&v=4" width="24" alt="Avatar of RusAlex"> RusAlex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#RusAlex">Copy rank badge</a><br/>
 			Alexander Pletnev
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/marpontes">
 				<img src="https://avatars.githubusercontent.com/u/1767420?s=72&u=a5227eff4402f7f0128904d4f6c8894a37bd5129&v=4" width="24" alt="Avatar of marpontes"> marpontes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#marpontes">Copy rank badge</a><br/>
 			Marcello Pontes
 		</td>
 		<td>3fs </td>
@@ -9378,7 +9380,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Alpheus">
 				<img src="https://avatars.githubusercontent.com/u/16172?s=72&u=aba128d1832e8d7fa6e45ba70f764b9c83445a6f&v=4" width="24" alt="Avatar of Alpheus"> Alpheus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Alpheus">Copy rank badge</a><br/>
 			Denis Čahuk
 		</td>
 		<td>Coach Denis @coachdenis </td>
@@ -9391,7 +9393,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gregorleban">
 				<img src="https://avatars.githubusercontent.com/u/809658?s=72&v=4" width="24" alt="Avatar of gregorleban"> gregorleban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gregorleban">Copy rank badge</a><br/>
 			Gregor Leban
 		</td>
 		<td>Event Registry </td>
@@ -9404,7 +9406,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/astaric">
 				<img src="https://avatars.githubusercontent.com/u/588601?s=72&v=4" width="24" alt="Avatar of astaric"> astaric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#astaric">Copy rank badge</a><br/>
 			Anže Starič
 		</td>
 		<td>No Company</td>
@@ -9417,7 +9419,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/bojan">
 				<img src="https://avatars.githubusercontent.com/u/273287?s=72&v=4" width="24" alt="Avatar of bojan"> bojan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#bojan">Copy rank badge</a><br/>
 			Bojan Dimovski
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/endragor">
 				<img src="https://avatars.githubusercontent.com/u/2417849?s=72&u=fe60ec0c100a9ebdc95e516372df3852a04db361&v=4" width="24" alt="Avatar of endragor"> endragor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#endragor">Copy rank badge</a><br/>
 			Ruslan Mustakov
 		</td>
 		<td>Triternion </td>
@@ -9443,7 +9445,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/leiizko">
 				<img src="https://avatars.githubusercontent.com/u/12763010?s=72&v=4" width="24" alt="Avatar of leiizko"> leiizko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#leiizko">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9456,7 +9458,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/matejhocevar">
 				<img src="https://avatars.githubusercontent.com/u/3007189?s=72&u=392ce6aac79f8dd68427d269b41497ce7df0be6d&v=4" width="24" alt="Avatar of matejhocevar"> matejhocevar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#matejhocevar">Copy rank badge</a><br/>
 			Matej Hočevar
 		</td>
 		<td>@tretton37 </td>
@@ -9469,7 +9471,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/gasperk">
 				<img src="https://avatars.githubusercontent.com/u/283161?s=72&v=4" width="24" alt="Avatar of gasperk"> gasperk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#gasperk">Copy rank badge</a><br/>
 			Gasper Kozak
 		</td>
 		<td>No Company</td>
@@ -9482,7 +9484,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/anzev">
 				<img src="https://avatars.githubusercontent.com/u/2580091?s=72&v=4" width="24" alt="Avatar of anzev"> anzev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#anzev">Copy rank badge</a><br/>
 			anze
 		</td>
 		<td>No Company</td>
@@ -9495,7 +9497,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakoberzar">
 				<img src="https://avatars.githubusercontent.com/u/7083461?s=72&u=d981dffd488499868e9473688a59c84f986a57df&v=4" width="24" alt="Avatar of jakoberzar"> jakoberzar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jakoberzar">Copy rank badge</a><br/>
 			Jakob Erzar
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/EkaterinaB29">
 				<img src="https://avatars.githubusercontent.com/u/119041374?s=72&u=175516542d6cc3da9fb95eafa76baf20728b08ef&v=4" width="24" alt="Avatar of EkaterinaB29"> EkaterinaB29
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#EkaterinaB29">Copy rank badge</a><br/>
 			Ekaterina Bochvaroska
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/Mihc3">
 				<img src="https://avatars.githubusercontent.com/u/519152?s=72&u=763b49ea6e0c8df7fdba9db4c7b0a362e791956a&v=4" width="24" alt="Avatar of Mihc3"> Mihc3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#Mihc3">Copy rank badge</a><br/>
 			Miha Penger
 		</td>
 		<td>No Company</td>
@@ -9534,7 +9536,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/SimeonAleksov">
 				<img src="https://avatars.githubusercontent.com/u/24735292?s=72&u=fccee7f5c717a4291aac6697f347c36db83274f9&v=4" width="24" alt="Avatar of SimeonAleksov"> SimeonAleksov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#SimeonAleksov">Copy rank badge</a><br/>
 			Simeon
 		</td>
 		<td>No Company</td>
@@ -9547,7 +9549,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/VitoDrofenik">
 				<img src="https://avatars.githubusercontent.com/u/43829105?s=72&u=9c4adfa72718d5d7ebf66cf20d566cb960ee74fd&v=4" width="24" alt="Avatar of VitoDrofenik"> VitoDrofenik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#VitoDrofenik">Copy rank badge</a><br/>
 			Vito Drofenik
 		</td>
 		<td>No Company</td>
@@ -9560,7 +9562,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/uroshekic">
 				<img src="https://avatars.githubusercontent.com/u/5269741?s=72&v=4" width="24" alt="Avatar of uroshekic"> uroshekic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#uroshekic">Copy rank badge</a><br/>
 			Uroš Hekić
 		</td>
 		<td>Outfit7 </td>
@@ -9573,7 +9575,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jureslak">
 				<img src="https://avatars.githubusercontent.com/u/1394590?s=72&u=2cfa6e27a589db4a88c72112f454ba3b27afc498&v=4" width="24" alt="Avatar of jureslak"> jureslak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jureslak">Copy rank badge</a><br/>
 			Jure Slak
 		</td>
 		<td>»jožef Stefan« Institute </td>
@@ -9586,7 +9588,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/cdxc">
 				<img src="https://avatars.githubusercontent.com/u/19191902?s=72&u=228fc18125f0d9a94a4e6228e233417ca9d7d386&v=4" width="24" alt="Avatar of cdxc"> cdxc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#cdxc">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Fakulteta Za Matematiko In<br/>Fiziko<br/></td>
@@ -9599,7 +9601,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/xpero39">
 				<img src="https://avatars.githubusercontent.com/u/16490239?s=72&u=f2974d4b43248732f9e70f28e1b4859ee69f4085&v=4" width="24" alt="Avatar of xpero39"> xpero39
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#xpero39">Copy rank badge</a><br/>
 			Peter Vreča
 		</td>
 		<td>No Company</td>
@@ -9612,7 +9614,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/lukazohar">
 				<img src="https://avatars.githubusercontent.com/u/33789683?s=72&u=5d4b050efce20b112ff31bbdcb74953707a769e4&v=4" width="24" alt="Avatar of lukazohar"> lukazohar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#lukazohar">Copy rank badge</a><br/>
 			Luka Žohar
 		</td>
 		<td>No Company</td>
@@ -9625,7 +9627,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/TheMapotakes">
 				<img src="https://avatars.githubusercontent.com/u/78513646?s=72&u=dedcf634a6e36652bba397cf1ea95f7d811e8528&v=4" width="24" alt="Avatar of TheMapotakes"> TheMapotakes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#TheMapotakes">Copy rank badge</a><br/>
 			TheMapotakes
 		</td>
 		<td>No Company</td>
@@ -9638,7 +9640,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/ducakar">
 				<img src="https://avatars.githubusercontent.com/u/63474?s=72&u=d3550a89d52fd654f4de2a800cc90796e4acd989&v=4" width="24" alt="Avatar of ducakar"> ducakar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#ducakar">Copy rank badge</a><br/>
 			Davorin Učakar
 		</td>
 		<td>No Company</td>
@@ -9651,7 +9653,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/jurem">
 				<img src="https://avatars.githubusercontent.com/u/1853167?s=72&v=4" width="24" alt="Avatar of jurem"> jurem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#jurem">Copy rank badge</a><br/>
 			Jure Mihelič
 		</td>
 		<td>Ulj, Fri </td>
@@ -9664,7 +9666,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/failedguidedog">
 				<img src="https://avatars.githubusercontent.com/u/74219?s=72&v=4" width="24" alt="Avatar of failedguidedog"> failedguidedog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#failedguidedog">Copy rank badge</a><br/>
 			Uros Trebec
 		</td>
 		<td>Viaduct.ai </td>
@@ -9677,7 +9679,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/unkailevski">
 				<img src="https://avatars.githubusercontent.com/u/168606068?s=72&u=91a918f6eefbbd4bb4088cc2c038370efd2843ba&v=4" width="24" alt="Avatar of unkailevski"> unkailevski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#unkailevski">Copy rank badge</a><br/>
 			TheBigLevski
 		</td>
 		<td>Unkai Consulting </td>
@@ -9690,7 +9692,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/vrenko007">
 				<img src="https://avatars.githubusercontent.com/u/3320728?s=72&u=cee3717206415c3c4d94a144e332c3bf91b039e0&v=4" width="24" alt="Avatar of vrenko007"> vrenko007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#vrenko007">Copy rank badge</a><br/>
 			Matic Vrenko
 		</td>
 		<td>Razum </td>
@@ -9703,7 +9705,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikrozman21">
 				<img src="https://avatars.githubusercontent.com/u/20975185?s=72&u=4c50ed2b3f72973ce017d20734784e90cb81f93a&v=4" width="24" alt="Avatar of nikrozman21"> nikrozman21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#nikrozman21">Copy rank badge</a><br/>
 			Nik Rozman
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/donrax">
 				<img src="https://avatars.githubusercontent.com/u/17612504?s=72&u=5040b2ed431b29784a3c7a2bda39d94400fdda65&v=4" width="24" alt="Avatar of donrax"> donrax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#donrax">Copy rank badge</a><br/>
 			Domen R.
 		</td>
 		<td>No Company</td>
@@ -9729,7 +9731,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/MilosLukic">
 				<img src="https://avatars.githubusercontent.com/u/8350874?s=72&v=4" width="24" alt="Avatar of MilosLukic"> MilosLukic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#MilosLukic">Copy rank badge</a><br/>
 			Miloš Lukić
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/metodribic">
 				<img src="https://avatars.githubusercontent.com/u/6840850?s=72&u=6cd964acbf0c7bf896e24c851858ff722ea0c5f9&v=4" width="24" alt="Avatar of metodribic"> metodribic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#metodribic">Copy rank badge</a><br/>
 			Metod Ribič
 		</td>
 		<td>Working At Better </td>
@@ -9755,7 +9757,7 @@ There are `940 users`  in Slovenia. You need at least `8 followers` to be on thi
 		<td>
 			<a href="https://github.com/anzi2001">
 				<img src="https://avatars.githubusercontent.com/u/11164098?s=72&v=4" width="24" alt="Avatar of anzi2001"> anzi2001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/slovenia.md#anzi2001">Copy rank badge</a><br/>
 			Anže Kocjančič
 		</td>
 		<td>No Company</td>
