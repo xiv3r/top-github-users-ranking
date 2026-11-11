@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` by users in Bolivia on `2026/10/12 11:18 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` by users in Bolivia on `2026/11/11 4:36 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `972 users`  in Bolivia. You need at least `5 followers` to be on this list.
+There are `971 users`  in Bolivia. You need at least `5 followers` to be on this list.
 
 🏅 Looking for a shareable ranking badge? Visit the [Bolivia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
@@ -117,23 +117,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Fairese </td>
 		<td><a href="https://twitter.com/AndyIbanezK">AndyIbanezK</a></td>
 		<td>Bolivia</td>
-		<td>25270</td>
+		<td>25292</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/julesklord">
-				<img src="https://avatars.githubusercontent.com/u/801266?s=72&u=70f5096b75f9fbec867ea01fd5596fab435cad5a&v=4" width="24" alt="Avatar of julesklord"> julesklord
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#julesklord">Copy rank badge</a><br/>
-			Jules Martins
-		</td>
-		<td>@fearless-media-grou  </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, México</td>
-		<td>3750</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/Luiss2080">
 				<img src="https://avatars.githubusercontent.com/u/149401326?s=72&u=f9af17bf8b317dc6939d4af566da77d748c70c0c&v=4" width="24" alt="Avatar of Luiss2080"> Luiss2080
@@ -143,10 +130,36 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Universidad Privada Domingo Savio<br/></td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz - Bolivia</td>
-		<td>3351</td>
+		<td>4804</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/julesklord">
+				<img src="https://avatars.githubusercontent.com/u/801266?s=72&u=70f5096b75f9fbec867ea01fd5596fab435cad5a&v=4" width="24" alt="Avatar of julesklord"> julesklord
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#julesklord">Copy rank badge</a><br/>
+			Jules Martins
+		</td>
+		<td>@fearless-media-grou  </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, México</td>
+		<td>3754</td>
 	</tr>
 	<tr>
 		<td>4</td>
+		<td>
+			<a href="https://github.com/arkgast">
+				<img src="https://avatars.githubusercontent.com/u/5279327?s=72&u=1f74b29c9b872b3776376807615f6f1bce79d923&v=4" width="24" alt="Avatar of arkgast"> arkgast
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#arkgast">Copy rank badge</a><br/>
+			Arnold Gandarillas Castillo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>3554</td>
+	</tr>
+	<tr>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/DanielTorres1">
 				<img src="https://avatars.githubusercontent.com/u/22946964?s=72&u=e8cbdccfdc3fa2f5d76d96a5d804f3242646fd8e&v=4" width="24" alt="Avatar of DanielTorres1"> DanielTorres1
@@ -156,10 +169,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>3032</td>
+		<td>3097</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/OscarGauss">
 				<img src="https://avatars.githubusercontent.com/u/6438307?s=72&u=24daa4f05406277f4ec757c8f5ba97e1689e17dc&v=4" width="24" alt="Avatar of OscarGauss"> OscarGauss
@@ -169,33 +182,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/oscar_gauss">oscar_gauss</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>2907</td>
+		<td>3077</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/jassielof">
-				<img src="https://avatars.githubusercontent.com/u/110270993?s=72&v=4" width="24" alt="Avatar of jassielof"> jassielof
+				<img src="https://avatars.githubusercontent.com/u/110270993?s=72&u=1f8611ee3359ddafd97cde4d5f84b6c5316507dc&v=4" width="24" alt="Avatar of jassielof"> jassielof
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jassielof">Copy rank badge</a><br/>
 			Jassiel Ovando
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra</td>
-		<td>2835</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/adimerpaul">
-				<img src="https://avatars.githubusercontent.com/u/22999010?s=72&u=636701807b0dbcea83057d27a96140a6e13b188a&v=4" width="24" alt="Avatar of adimerpaul"> adimerpaul
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adimerpaul">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>Sela </td>
-		<td>No Twitter Username</td>
-		<td>Oruro Bolivia</td>
-		<td>2381</td>
+		<td>3030</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -208,10 +208,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>@rustlanges </td>
 		<td><a href="https://twitter.com/sergioribera_rs">sergioribera_rs</a></td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>2072</td>
+		<td>2884</td>
 	</tr>
 	<tr>
 		<td>9</td>
+		<td>
+			<a href="https://github.com/adimerpaul">
+				<img src="https://avatars.githubusercontent.com/u/22999010?s=72&u=636701807b0dbcea83057d27a96140a6e13b188a&v=4" width="24" alt="Avatar of adimerpaul"> adimerpaul
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adimerpaul">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Sela </td>
+		<td>No Twitter Username</td>
+		<td>Oruro Bolivia</td>
+		<td>2324</td>
+	</tr>
+	<tr>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/Walsen">
 				<img src="https://avatars.githubusercontent.com/u/10902?s=72&v=4" width="24" alt="Avatar of Walsen"> Walsen
@@ -221,75 +234,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Ffactory </td>
 		<td><a href="https://twitter.com/Walsen">Walsen</a></td>
 		<td>Cochabamba - Bolivia</td>
-		<td>1975</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/oscarmajai">
-				<img src="https://avatars.githubusercontent.com/u/119555604?s=72&u=aa486208fddb833fa06b0060cf2faf960fb7e7b0&v=4" width="24" alt="Avatar of oscarmajai"> oscarmajai
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#oscarmajai">Copy rank badge</a><br/>
-			Oscar Magaña Jaime
-		</td>
-		<td>Oscarmajai.dev </td>
-		<td>No Twitter Username</td>
-		<td>San jose de la Paz, Jalisco, México.</td>
-		<td>1954</td>
+		<td>1957</td>
 	</tr>
 	<tr>
 		<td>11</td>
-		<td>
-			<a href="https://github.com/arkgast">
-				<img src="https://avatars.githubusercontent.com/u/5279327?s=72&u=1f74b29c9b872b3776376807615f6f1bce79d923&v=4" width="24" alt="Avatar of arkgast"> arkgast
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#arkgast">Copy rank badge</a><br/>
-			Arnold Gandarillas Castillo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1859</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/ggonzalez94">
-				<img src="https://avatars.githubusercontent.com/u/17907743?s=72&u=16fb3e3b73be3bdcd31a6df31c037fef27bf04a4&v=4" width="24" alt="Avatar of ggonzalez94"> ggonzalez94
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ggonzalez94">Copy rank badge</a><br/>
-			Gustavo Gonzalez
-		</td>
-		<td>@taikoxyz </td>
-		<td><a href="https://twitter.com/gusgonzalezs">gusgonzalezs</a></td>
-		<td>Santa Cruz de la SIerra, Bolivia</td>
-		<td>1399</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/notluquis">
-				<img src="https://avatars.githubusercontent.com/u/51384279?s=72&u=cc5962aef52b4ced1493cd4c7bfb691c0fee88c5&v=4" width="24" alt="Avatar of notluquis"> notluquis
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#notluquis">Copy rank badge</a><br/>
-			Lucas Pulgar-Escobar
-		</td>
-		<td>Buk </td>
-		<td><a href="https://twitter.com/notluquis">notluquis</a></td>
-		<td>San Pedro de la Paz</td>
-		<td>1312</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/jandrescodes">
-				<img src="https://avatars.githubusercontent.com/u/110783799?s=72&u=ca98fed84993f92fbe6d3769531dfed07cbbfa67&v=4" width="24" alt="Avatar of jandrescodes"> jandrescodes
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jandrescodes">Copy rank badge</a><br/>
-			Andres
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jandrescodes">jandrescodes</a></td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>1292</td>
-	</tr>
-	<tr>
-		<td>15</td>
 		<td>
 			<a href="https://github.com/asosab">
 				<img src="https://avatars.githubusercontent.com/u/491253?s=72&u=cc45576148914ae9a143cc7290eaa2b876c39f37&v=4" width="24" alt="Avatar of asosab"> asosab
@@ -299,36 +247,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/asosab">asosab</a></td>
 		<td>Bolivia</td>
-		<td>1224</td>
+		<td>1646</td>
 	</tr>
 	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/raulzarzadev">
-				<img src="https://avatars.githubusercontent.com/u/46048980?s=72&u=d17c0fbdda0f57c19713ac9d40385cf5dadc37fd&v=4" width="24" alt="Avatar of raulzarzadev"> raulzarzadev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raulzarzadev">Copy rank badge</a><br/>
-			raulzarza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Mexico</td>
-		<td>1222</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/Lotiel-Dev">
-				<img src="https://avatars.githubusercontent.com/u/180131103?s=72&u=41c220c1ce92b803950919c685f09bee9d3dba32&v=4" width="24" alt="Avatar of Lotiel-Dev"> Lotiel-Dev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Lotiel-Dev">Copy rank badge</a><br/>
-			Carlos Antonio Gutierrez Copara
-		</td>
-		<td>Higher University Of San<br/>Simón<br/></td>
-		<td><a href="https://twitter.com/Gerceis81">Gerceis81</a></td>
-		<td>Bolivia</td>
-		<td>1215</td>
-	</tr>
-	<tr>
-		<td>18</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/alphaonex86">
 				<img src="https://avatars.githubusercontent.com/u/778581?s=72&v=4" width="24" alt="Avatar of alphaonex86"> alphaonex86
@@ -338,49 +260,62 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Confiared S.r.l. </td>
 		<td>No Twitter Username</td>
 		<td>Santa cruz de la sierra, Bolivia</td>
-		<td>1197</td>
+		<td>1548</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>13</td>
 		<td>
-			<a href="https://github.com/igidio">
-				<img src="https://avatars.githubusercontent.com/u/61283392?s=72&u=eadb3ea757d391a875899a6a6ed3d7d59af25077&v=4" width="24" alt="Avatar of igidio"> igidio
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#igidio">Copy rank badge</a><br/>
-			Salvador Cáceres C.
+			<a href="https://github.com/jandrescodes">
+				<img src="https://avatars.githubusercontent.com/u/110783799?s=72&u=ca98fed84993f92fbe6d3769531dfed07cbbfa67&v=4" width="24" alt="Avatar of jandrescodes"> jandrescodes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jandrescodes">Copy rank badge</a><br/>
+			Andrés
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jandrescodes">jandrescodes</a></td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>1466</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/nema1502">
+				<img src="https://avatars.githubusercontent.com/u/70548302?s=72&u=5ed30b1954a6a5a96624ced07c205f461ca5088e&v=4" width="24" alt="Avatar of nema1502"> nema1502
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nema1502">Copy rank badge</a><br/>
+			Nicolas Mejia
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1189</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>1464</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>15</td>
 		<td>
-			<a href="https://github.com/alexalcon">
-				<img src="https://avatars.githubusercontent.com/u/83939543?s=72&u=7d2cfa8f419ac7fc56cfa12ba92a9d2a2cb42405&v=4" width="24" alt="Avatar of alexalcon"> alexalcon
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alexalcon">Copy rank badge</a><br/>
-			Alex Alcón
+			<a href="https://github.com/raulzarzadev">
+				<img src="https://avatars.githubusercontent.com/u/46048980?s=72&u=d17c0fbdda0f57c19713ac9d40385cf5dadc37fd&v=4" width="24" alt="Avatar of raulzarzadev"> raulzarzadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raulzarzadev">Copy rank badge</a><br/>
+			raulzarza
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>1088</td>
+		<td>La Paz, Mexico</td>
+		<td>1407</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>16</td>
 		<td>
-			<a href="https://github.com/nicobytes">
-				<img src="https://avatars.githubusercontent.com/u/7611944?s=72&u=f0790cc34a3b62cf4e179475f644b3ba0ad99e93&v=4" width="24" alt="Avatar of nicobytes"> nicobytes
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nicobytes">Copy rank badge</a><br/>
-			Nicolas Molina Monroy
+			<a href="https://github.com/notluquis">
+				<img src="https://avatars.githubusercontent.com/u/51384279?s=72&u=cc5962aef52b4ced1493cd4c7bfb691c0fee88c5&v=4" width="24" alt="Avatar of notluquis"> notluquis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#notluquis">Copy rank badge</a><br/>
+			Lucas Pulgar-Escobar
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nicobytes">nicobytes</a></td>
-		<td>Cochabamba, Bolivia</td>
-		<td>1085</td>
+		<td>Buk </td>
+		<td><a href="https://twitter.com/notluquis">notluquis</a></td>
+		<td>San Pedro de la Paz</td>
+		<td>1352</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/samuelloza">
 				<img src="https://avatars.githubusercontent.com/u/4775012?s=72&u=349a8295bd4cf372429f3fa90f3257770c4ef306&v=4" width="24" alt="Avatar of samuelloza"> samuelloza
@@ -390,23 +325,36 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>1063</td>
+		<td>1350</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>18</td>
 		<td>
-			<a href="https://github.com/nataly-33">
-				<img src="https://avatars.githubusercontent.com/u/204836063?s=72&u=5949e1ffd27480b7aec4fd6e796780f282bc336f&v=4" width="24" alt="Avatar of nataly-33"> nataly-33
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nataly-33">Copy rank badge</a><br/>
-			Nataly Vanessa Martinez Martinez
+			<a href="https://github.com/ggonzalez94">
+				<img src="https://avatars.githubusercontent.com/u/17907743?s=72&u=16fb3e3b73be3bdcd31a6df31c037fef27bf04a4&v=4" width="24" alt="Avatar of ggonzalez94"> ggonzalez94
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ggonzalez94">Copy rank badge</a><br/>
+			Gustavo Gonzalez
+		</td>
+		<td>@taikoxyz </td>
+		<td><a href="https://twitter.com/gusgonzalezs">gusgonzalezs</a></td>
+		<td>Santa Cruz de la SIerra, Bolivia</td>
+		<td>1324</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/nicobytes">
+				<img src="https://avatars.githubusercontent.com/u/7611944?s=72&u=f0790cc34a3b62cf4e179475f644b3ba0ad99e93&v=4" width="24" alt="Avatar of nicobytes"> nicobytes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nicobytes">Copy rank badge</a><br/>
+			Nicolas Molina Monroy
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1038</td>
+		<td><a href="https://twitter.com/nicobytes">nicobytes</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>1205</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/DanielGuzmanV">
 				<img src="https://avatars.githubusercontent.com/u/109259673?s=72&u=6f00b3d6e0fd570bd5bd45905cc6eb3afd49d60d&v=4" width="24" alt="Avatar of DanielGuzmanV"> DanielGuzmanV
@@ -416,49 +364,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz - Bolivia</td>
-		<td>1033</td>
+		<td>1170</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>21</td>
 		<td>
-			<a href="https://github.com/Johan-py">
-				<img src="https://avatars.githubusercontent.com/u/207353700?s=72&u=69e386b7e66d40c8cc4e8d9a4d86ff50198a61e6&v=4" width="24" alt="Avatar of Johan-py"> Johan-py
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Johan-py">Copy rank badge</a><br/>
-			Johan Marcelo Beltrán Montaño
+			<a href="https://github.com/Lotiel-Dev">
+				<img src="https://avatars.githubusercontent.com/u/180131103?s=72&u=41c220c1ce92b803950919c685f09bee9d3dba32&v=4" width="24" alt="Avatar of Lotiel-Dev"> Lotiel-Dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Lotiel-Dev">Copy rank badge</a><br/>
+			Carlos Antonio Gutierrez Copara
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>1024</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/ospfranco">
-				<img src="https://avatars.githubusercontent.com/u/1634213?s=72&u=97859b47b671989b514858947566dcc4d80d5346&v=4" width="24" alt="Avatar of ospfranco"> ospfranco
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ospfranco">Copy rank badge</a><br/>
-			Oscar Franco
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ospfranco">ospfranco</a></td>
+		<td>Higher University Of San<br/>Simón<br/></td>
+		<td><a href="https://twitter.com/Gerceis81">Gerceis81</a></td>
 		<td>Bolivia</td>
-		<td>960</td>
+		<td>1150</td>
 	</tr>
 	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/nahimterrazas">
-				<img src="https://avatars.githubusercontent.com/u/189661284?s=72&u=51e3277b4393ded9184f9f5b210168a0c32b5baa&v=4" width="24" alt="Avatar of nahimterrazas"> nahimterrazas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahimterrazas">Copy rank badge</a><br/>
-			Nahim Terrazas
-		</td>
-		<td>Openzeppelin </td>
-		<td>No Twitter Username</td>
-		<td>SCZ - Bolivia</td>
-		<td>948</td>
-	</tr>
-	<tr>
-		<td>28</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/TOMOKI977">
 				<img src="https://avatars.githubusercontent.com/u/39506930?s=72&u=d7e5a1cf63658fd38794f4bde7fbc08cc1ed24d4&v=4" width="24" alt="Avatar of TOMOKI977"> TOMOKI977
@@ -468,49 +390,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Verus Platfosm Llc </td>
 		<td><a href="https://twitter.com/TomoKi977">TomoKi977</a></td>
 		<td>Bolivia</td>
-		<td>923</td>
+		<td>1058</td>
 	</tr>
 	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/nathan95oks">
-				<img src="https://avatars.githubusercontent.com/u/160979036?s=72&u=a9358848f6fb9e3def8dd305e0a46935ecb9812f&v=4" width="24" alt="Avatar of nathan95oks"> nathan95oks
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nathan95oks">Copy rank badge</a><br/>
-			Nathanael Alba
-		</td>
-		<td>Universidad Catolica Bolivina San<br/>Pablo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bolivia, Cochabamba</td>
-		<td>899</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/Richixs">
-				<img src="https://avatars.githubusercontent.com/u/124272385?s=72&u=8960a453cf233ed2da2c7e66bf1528f5aad924b4&v=4" width="24" alt="Avatar of Richixs"> Richixs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Richixs">Copy rank badge</a><br/>
-			Ricardo Ramirez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia, Cochabamba</td>
-		<td>880</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/Frosmin">
-				<img src="https://avatars.githubusercontent.com/u/97764798?s=72&u=b8ce5645299ac4ede222728178b3bf258e974c17&v=4" width="24" alt="Avatar of Frosmin"> Frosmin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Frosmin">Copy rank badge</a><br/>
-			Simon Abasto Martinis
-		</td>
-		<td>Higher University Of San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>857</td>
-	</tr>
-	<tr>
-		<td>32</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/SamuelRioTz">
 				<img src="https://avatars.githubusercontent.com/u/43000324?s=72&u=c95c909ac40d98c31f1377b7bdafff20dba08174&v=4" width="24" alt="Avatar of SamuelRioTz"> SamuelRioTz
@@ -520,23 +403,192 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>@nexionsrl · @trufi-association </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba, Bolivia</td>
-		<td>830</td>
+		<td>1026</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/olartgabo">
+				<img src="https://avatars.githubusercontent.com/u/68618969?s=72&u=12779a39c25bf556b7737838b859817b6fe1d8ff&v=4" width="24" alt="Avatar of olartgabo"> olartgabo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#olartgabo">Copy rank badge</a><br/>
+			Gabriel Olarte Medrano
+		</td>
+		<td>@mcpjam  </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>1025</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/dougc95">
+				<img src="https://avatars.githubusercontent.com/u/14900412?s=72&u=11f96ab672ac11987f5c832db2844b1e4f568715&v=4" width="24" alt="Avatar of dougc95"> dougc95
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dougc95">Copy rank badge</a><br/>
+			Douglas Rojas
+		</td>
+		<td>Helios Software </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>983</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/igidio">
+				<img src="https://avatars.githubusercontent.com/u/61283392?s=72&u=eadb3ea757d391a875899a6a6ed3d7d59af25077&v=4" width="24" alt="Avatar of igidio"> igidio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#igidio">Copy rank badge</a><br/>
+			Salvador Cáceres C.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>974</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/nataly-33">
+				<img src="https://avatars.githubusercontent.com/u/204836063?s=72&u=5949e1ffd27480b7aec4fd6e796780f282bc336f&v=4" width="24" alt="Avatar of nataly-33"> nataly-33
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nataly-33">Copy rank badge</a><br/>
+			Nataly Vanessa Martinez Martinez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>958</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/mariocesar">
+				<img src="https://avatars.githubusercontent.com/u/25034?s=72&u=840a9be26f20c88523ac9353bc043ee5990ae94b&v=4" width="24" alt="Avatar of mariocesar"> mariocesar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mariocesar">Copy rank badge</a><br/>
+			Mario-César
+		</td>
+		<td>Humanzilla </td>
+		<td><a href="https://twitter.com/mariocesar_xyz">mariocesar_xyz</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>923</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/Johan-py">
+				<img src="https://avatars.githubusercontent.com/u/207353700?s=72&u=69e386b7e66d40c8cc4e8d9a4d86ff50198a61e6&v=4" width="24" alt="Avatar of Johan-py"> Johan-py
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Johan-py">Copy rank badge</a><br/>
+			Johan Marcelo Beltrán Montaño
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>907</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/Mats2208">
+				<img src="https://avatars.githubusercontent.com/u/197782816?s=72&u=4f107aee5039633a98b6208c47805d9821769a9f&v=4" width="24" alt="Avatar of Mats2208"> Mats2208
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mats2208">Copy rank badge</a><br/>
+			Mateo Andres Soto Gareca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia </td>
+		<td>904</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/nahimterrazas">
+				<img src="https://avatars.githubusercontent.com/u/189661284?s=72&u=51e3277b4393ded9184f9f5b210168a0c32b5baa&v=4" width="24" alt="Avatar of nahimterrazas"> nahimterrazas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahimterrazas">Copy rank badge</a><br/>
+			Nahim Terrazas
+		</td>
+		<td>Openzeppelin </td>
+		<td>No Twitter Username</td>
+		<td>SCZ - Bolivia</td>
+		<td>886</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/andrecuellar">
+				<img src="https://avatars.githubusercontent.com/u/7474035?s=72&v=4" width="24" alt="Avatar of andrecuellar"> andrecuellar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#andrecuellar">Copy rank badge</a><br/>
+			PUENTE_Andre Cuellar
+		</td>
+		<td>Boliviandevs </td>
+		<td><a href="https://twitter.com/andrecuellar1">andrecuellar1</a></td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>857</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
+			<a href="https://github.com/andru1236">
+				<img src="https://avatars.githubusercontent.com/u/18579701?s=72&u=501b80f72423d05a5e67fb54fe14d6ad4d3e0aed&v=4" width="24" alt="Avatar of andru1236"> andru1236
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#andru1236">Copy rank badge</a><br/>
+			Andres
+		</td>
+		<td>@sincprosrl  </td>
+		<td><a href="https://twitter.com/andru12369">andru12369</a></td>
+		<td>Cochabamba - Bolivia</td>
+		<td>856</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/Victoroide">
+				<img src="https://avatars.githubusercontent.com/u/111157887?s=72&u=3251dca5a09dab0c6a1c2c0b97355c22dcb6d2c5&v=4" width="24" alt="Avatar of Victoroide"> Victoroide
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Victoroide">Copy rank badge</a><br/>
+			Victor Cuellar 
+		</td>
+		<td>Nvisionx </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>850</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/gitchaell">
-				<img src="https://avatars.githubusercontent.com/u/37460957?s=72&u=da8560d208df6cdde15f456d511b6de7e9d4d0d8&v=4" width="24" alt="Avatar of gitchaell"> gitchaell
+				<img src="https://avatars.githubusercontent.com/u/37460957?s=72&u=f0deaf30e8232f938a98735ba1c5c78f9d429cd6&v=4" width="24" alt="Avatar of gitchaell"> gitchaell
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gitchaell">Copy rank badge</a><br/>
 			Michaell Alavedra
 		</td>
 		<td>@instrategy </td>
 		<td><a href="https://twitter.com/michaellalaved">michaellalaved</a></td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>819</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/ospfranco">
+				<img src="https://avatars.githubusercontent.com/u/1634213?s=72&u=97859b47b671989b514858947566dcc4d80d5346&v=4" width="24" alt="Avatar of ospfranco"> ospfranco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ospfranco">Copy rank badge</a><br/>
+			Oscar Franco
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ospfranco">ospfranco</a></td>
+		<td>Bolivia</td>
 		<td>812</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/DrewSC13">
+				<img src="https://avatars.githubusercontent.com/u/70583595?s=72&u=dbe90f71bfcb55c3ab6d154202a2e0e748612c98&v=4" width="24" alt="Avatar of DrewSC13"> DrewSC13
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DrewSC13">Copy rank badge</a><br/>
+			Claudio Andres Sanjines Cuellar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>808</td>
+	</tr>
+	<tr>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/FernandoVCG33">
 				<img src="https://avatars.githubusercontent.com/u/197964541?s=72&u=dacb4d3cc6e13a2cb5b230a6fed08650ff1af47c&v=4" width="24" alt="Avatar of FernandoVCG33"> FernandoVCG33
@@ -549,46 +601,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>805</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>39</td>
 		<td>
-			<a href="https://github.com/cesarszv">
-				<img src="https://avatars.githubusercontent.com/u/205967966?s=72&u=17af68e73ad1968821411fa242b7595151ebf60e&v=4" width="24" alt="Avatar of cesarszv"> cesarszv
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cesarszv">Copy rank badge</a><br/>
-			Sebastian Zambrana
+			<a href="https://github.com/Frosmin">
+				<img src="https://avatars.githubusercontent.com/u/97764798?s=72&u=b8ce5645299ac4ede222728178b3bf258e974c17&v=4" width="24" alt="Avatar of Frosmin"> Frosmin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Frosmin">Copy rank badge</a><br/>
+			Simon Abasto Martinis
+		</td>
+		<td>Higher University Of San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>774</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/Richixs">
+				<img src="https://avatars.githubusercontent.com/u/124272385?s=72&u=8960a453cf233ed2da2c7e66bf1528f5aad924b4&v=4" width="24" alt="Avatar of Richixs"> Richixs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Richixs">Copy rank badge</a><br/>
+			Ricardo Ramirez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>701</td>
+		<td>Bolivia, Cochabamba</td>
+		<td>730</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>41</td>
 		<td>
-			<a href="https://github.com/mariocesar">
-				<img src="https://avatars.githubusercontent.com/u/25034?s=72&u=840a9be26f20c88523ac9353bc043ee5990ae94b&v=4" width="24" alt="Avatar of mariocesar"> mariocesar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mariocesar">Copy rank badge</a><br/>
-			Mario-César
+			<a href="https://github.com/Catriel42">
+				<img src="https://avatars.githubusercontent.com/u/165046705?s=72&u=3089f6d099f5068107e2877cad54df8dd77a5a52&v=4" width="24" alt="Avatar of Catriel42"> Catriel42
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Catriel42">Copy rank badge</a><br/>
+			Catriel Pereira
 		</td>
-		<td>Humanzilla </td>
-		<td><a href="https://twitter.com/mariocesar_xyz">mariocesar_xyz</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>696</td>
+		<td>Jala University </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>726</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>42</td>
 		<td>
-			<a href="https://github.com/andrecuellar">
-				<img src="https://avatars.githubusercontent.com/u/7474035?s=72&v=4" width="24" alt="Avatar of andrecuellar"> andrecuellar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#andrecuellar">Copy rank badge</a><br/>
-			PUENTE_Andre Cuellar
+			<a href="https://github.com/SaulChoque">
+				<img src="https://avatars.githubusercontent.com/u/85711498?s=72&u=89a6f69b0a29a7d90a77903b1149d2e4d28e4b09&v=4" width="24" alt="Avatar of SaulChoque"> SaulChoque
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#SaulChoque">Copy rank badge</a><br/>
+			BaluChop
 		</td>
-		<td>Boliviandevs </td>
-		<td><a href="https://twitter.com/andrecuellar1">andrecuellar1</a></td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>694</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/saulchoque4363">saulchoque4363</a></td>
+		<td>Bolivia 🇧🇴</td>
+		<td>718</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/cchura94">
 				<img src="https://avatars.githubusercontent.com/u/15663327?s=72&u=71ef4468da62a3a5349a8c04c859c2c9d789ceee&v=4" width="24" alt="Avatar of cchura94"> cchura94
@@ -598,85 +663,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Blumbit- Edtics </td>
 		<td><a href="https://twitter.com/CChura94">CChura94</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>677</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/TheArrick">
-				<img src="https://avatars.githubusercontent.com/u/109319538?s=72&u=6a168e1055506b14288d873969e002577d098fa0&v=4" width="24" alt="Avatar of TheArrick"> TheArrick
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TheArrick">Copy rank badge</a><br/>
-			Ignacio Jaldin
-		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>670</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/Mats2208">
-				<img src="https://avatars.githubusercontent.com/u/197782816?s=72&u=4f107aee5039633a98b6208c47805d9821769a9f&v=4" width="24" alt="Avatar of Mats2208"> Mats2208
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mats2208">Copy rank badge</a><br/>
-			Mateo Andres Soto Gareca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia </td>
-		<td>638</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/AnahiSU">
-				<img src="https://avatars.githubusercontent.com/u/81058245?s=72&u=0469a46925a57bdd9b34cca0b3960f2a32e3fa3c&v=4" width="24" alt="Avatar of AnahiSU"> AnahiSU
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AnahiSU">Copy rank badge</a><br/>
-			Anahí Sanabria Ugarte
-		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>635</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/olartgabo">
-				<img src="https://avatars.githubusercontent.com/u/68618969?s=72&u=12779a39c25bf556b7737838b859817b6fe1d8ff&v=4" width="24" alt="Avatar of olartgabo"> olartgabo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#olartgabo">Copy rank badge</a><br/>
-			Gabriel Olarte Medrano
-		</td>
-		<td>@mcpjam  </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>626</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/Dauphinsss">
-				<img src="https://avatars.githubusercontent.com/u/163332677?s=72&u=af9041a67624e3d0880958f00b4f9eb56b75217e&v=4" width="24" alt="Avatar of Dauphinsss"> Dauphinsss
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Dauphinsss">Copy rank badge</a><br/>
-			Marko<3
-		</td>
-		<td>Cutie Mark </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>611</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/DrewSC13">
-				<img src="https://avatars.githubusercontent.com/u/70583595?s=72&u=dbe90f71bfcb55c3ab6d154202a2e0e748612c98&v=4" width="24" alt="Avatar of DrewSC13"> DrewSC13
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DrewSC13">Copy rank badge</a><br/>
-			Claudio Andres Sanjines Cuellar
+			<a href="https://github.com/cesarszv">
+				<img src="https://avatars.githubusercontent.com/u/205967966?s=72&u=17af68e73ad1968821411fa242b7595151ebf60e&v=4" width="24" alt="Avatar of cesarszv"> cesarszv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cesarszv">Copy rank badge</a><br/>
+			Sebastian Zambrana
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>600</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>697</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -689,101 +689,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>@sociest @clubalgoritmos  </td>
 		<td><a href="https://twitter.com/andreschirinos_">andreschirinos_</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>585</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/srllamadev">
-				<img src="https://avatars.githubusercontent.com/u/192006049?s=72&u=ad7b6119e08fae605829c1402e07aa27c7c77bb2&v=4" width="24" alt="Avatar of srllamadev"> srllamadev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#srllamadev">Copy rank badge</a><br/>
-			Sr LLama Dev
+			<a href="https://github.com/Dauphinsss">
+				<img src="https://avatars.githubusercontent.com/u/163332677?s=72&u=af9041a67624e3d0880958f00b4f9eb56b75217e&v=4" width="24" alt="Avatar of Dauphinsss"> Dauphinsss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Dauphinsss">Copy rank badge</a><br/>
+			Marko<3
 		</td>
-		<td>No Company</td>
+		<td>Cutie Mark </td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>580</td>
+		<td>Bolivia</td>
+		<td>642</td>
 	</tr>
 	<tr>
 		<td>47</td>
-		<td>
-			<a href="https://github.com/link200309">
-				<img src="https://avatars.githubusercontent.com/u/133817555?s=72&u=92660e6d059e104c1de879e5cb391a82deb1e74c&v=4" width="24" alt="Avatar of link200309"> link200309
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#link200309">Copy rank badge</a><br/>
-			John Henry Chavarria Zurita
-		</td>
-		<td>Umss </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>580</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/dougc95">
-				<img src="https://avatars.githubusercontent.com/u/14900412?s=72&u=11f96ab672ac11987f5c832db2844b1e4f568715&v=4" width="24" alt="Avatar of dougc95"> dougc95
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dougc95">Copy rank badge</a><br/>
-			Douglas Rojas
-		</td>
-		<td>Helios Software </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>577</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/mauforonda">
-				<img src="https://avatars.githubusercontent.com/u/4010711?s=72&u=80ee2153c2608e602dc9ec7153bc54beeb86c6a0&v=4" width="24" alt="Avatar of mauforonda"> mauforonda
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mauforonda">Copy rank badge</a><br/>
-			Mau Foronda
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mauforonda">mauforonda</a></td>
-		<td>Bolivia</td>
-		<td>573</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/diegorojasj">
-				<img src="https://avatars.githubusercontent.com/u/69219863?s=72&u=7ce4c21c250d52b5e5e29f21b3ae7e3f5c9c5667&v=4" width="24" alt="Avatar of diegorojasj"> diegorojasj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegorojasj">Copy rank badge</a><br/>
-			Diego Rojas Justiniano
-		</td>
-		<td>Bord </td>
-		<td><a href="https://twitter.com/diegorojasj222">diegorojasj222</a></td>
-		<td>Bolivia, Santa Cruz de la Sierra</td>
-		<td>564</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/kapit4n">
-				<img src="https://avatars.githubusercontent.com/u/277572?s=72&u=3810d552be76fe598b9ce99991a923b42e09b895&v=4" width="24" alt="Avatar of kapit4n"> kapit4n
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kapit4n">Copy rank badge</a><br/>
-			Luis Arce
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>562</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/ron86i">
-				<img src="https://avatars.githubusercontent.com/u/111312783?s=72&u=2ed6ec425af44a49ff8f96da3aaa1505f439ed48&v=4" width="24" alt="Avatar of ron86i"> ron86i
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ron86i">Copy rank badge</a><br/>
-			Ronaldo Rua
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tarija, Bolivia</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>53</td>
 		<td>
 			<a href="https://github.com/villcabo">
 				<img src="https://avatars.githubusercontent.com/u/7145004?s=72&u=c8bd13a8362612e0af2b339032b3feec73df48f0&v=4" width="24" alt="Avatar of villcabo"> villcabo
@@ -793,10 +715,101 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>@sintesissa  </td>
 		<td><a href="https://twitter.com/BismarckVillcaS">BismarckVillcaS</a></td>
 		<td>Bolivia</td>
-		<td>555</td>
+		<td>616</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/Mirandaaca">
+				<img src="https://avatars.githubusercontent.com/u/113213195?s=72&u=b4217b3d9c1514491b873890b03179c0425cc134&v=4" width="24" alt="Avatar of Mirandaaca"> Mirandaaca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mirandaaca">Copy rank badge</a><br/>
+			Cristopher Miranda Aramayo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>607</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/kapit4n">
+				<img src="https://avatars.githubusercontent.com/u/277572?s=72&u=3810d552be76fe598b9ce99991a923b42e09b895&v=4" width="24" alt="Avatar of kapit4n"> kapit4n
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kapit4n">Copy rank badge</a><br/>
+			Luis Arce
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>606</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/AnahiSU">
+				<img src="https://avatars.githubusercontent.com/u/81058245?s=72&u=0469a46925a57bdd9b34cca0b3960f2a32e3fa3c&v=4" width="24" alt="Avatar of AnahiSU"> AnahiSU
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AnahiSU">Copy rank badge</a><br/>
+			Anahí Sanabria Ugarte
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>587</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/tokidev-ai">
+				<img src="https://avatars.githubusercontent.com/u/11529293?s=72&u=8330000a59e738a7e2e349044ff918fbc6bcb652&v=4" width="24" alt="Avatar of tokidev-ai"> tokidev-ai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#tokidev-ai">Copy rank badge</a><br/>
+			Rodrigo Torrico Del Castillo
+		</td>
+		<td>Unosquare ( Mcgraw Hill<br/>)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Cochabamba</td>
+		<td>581</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/danelerr">
+				<img src="https://avatars.githubusercontent.com/u/62757813?s=72&u=f15a94f94716feac2174afccf91c8bf2c80dc0f6&v=4" width="24" alt="Avatar of danelerr"> danelerr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danelerr">Copy rank badge</a><br/>
+			Daniel Cueto
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/danelerr">danelerr</a></td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>574</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/ron86i">
+				<img src="https://avatars.githubusercontent.com/u/111312783?s=72&u=2ed6ec425af44a49ff8f96da3aaa1505f439ed48&v=4" width="24" alt="Avatar of ron86i"> ron86i
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ron86i">Copy rank badge</a><br/>
+			Ronaldo Rua
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tarija, Bolivia</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>54</td>
+		<td>
+			<a href="https://github.com/mauforonda">
+				<img src="https://avatars.githubusercontent.com/u/4010711?s=72&u=80ee2153c2608e602dc9ec7153bc54beeb86c6a0&v=4" width="24" alt="Avatar of mauforonda"> mauforonda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mauforonda">Copy rank badge</a><br/>
+			Mau Foronda
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mauforonda">mauforonda</a></td>
+		<td>Bolivia</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/jpfernandezl">
 				<img src="https://avatars.githubusercontent.com/u/9676674?s=72&u=8a722b9e2b0d6243bb13f78893b8d768ceb23bdf&v=4" width="24" alt="Avatar of jpfernandezl"> jpfernandezl
@@ -809,267 +822,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>553</td>
 	</tr>
 	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/Catriel42">
-				<img src="https://avatars.githubusercontent.com/u/165046705?s=72&u=3089f6d099f5068107e2877cad54df8dd77a5a52&v=4" width="24" alt="Avatar of Catriel42"> Catriel42
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Catriel42">Copy rank badge</a><br/>
-			Catriel Pereira
-		</td>
-		<td>Jala University </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>545</td>
-	</tr>
-	<tr>
 		<td>56</td>
-		<td>
-			<a href="https://github.com/danelerr">
-				<img src="https://avatars.githubusercontent.com/u/62757813?s=72&u=f15a94f94716feac2174afccf91c8bf2c80dc0f6&v=4" width="24" alt="Avatar of danelerr"> danelerr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danelerr">Copy rank badge</a><br/>
-			Daniel Cueto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/danelerr">danelerr</a></td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>545</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/tokidev-ai">
-				<img src="https://avatars.githubusercontent.com/u/11529293?s=72&u=8330000a59e738a7e2e349044ff918fbc6bcb652&v=4" width="24" alt="Avatar of tokidev-ai"> tokidev-ai
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#tokidev-ai">Copy rank badge</a><br/>
-			Rodrigo Torrico Del Castillo
-		</td>
-		<td>Unosquare ( Mcgraw Hill<br/>)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bolivia, Cochabamba</td>
-		<td>544</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/Stevenjoelrs">
-				<img src="https://avatars.githubusercontent.com/u/146046072?s=72&u=144cc3ef38be7e1ef1c7989e9f12aaec8350d5da&v=4" width="24" alt="Avatar of Stevenjoelrs"> Stevenjoelrs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Stevenjoelrs">Copy rank badge</a><br/>
-			Steven Joel Ramos Salazar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>530</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/diegodev-01">
-				<img src="https://avatars.githubusercontent.com/u/85521499?s=72&u=6927aaf39f4ee8f062c2a46bc6a86b701a4d4952&v=4" width="24" alt="Avatar of diegodev-01"> diegodev-01
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegodev-01">Copy rank badge</a><br/>
-			Diego Perez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba/Bolivia</td>
-		<td>517</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/terorero">
-				<img src="https://avatars.githubusercontent.com/u/26678748?s=72&u=f0cc3ca1849dbb473cbdf4983008540c89e3a5bd&v=4" width="24" alt="Avatar of terorero"> terorero
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#terorero">Copy rank badge</a><br/>
-			TeroRERO
-		</td>
-		<td>@bitacoraroot </td>
-		<td><a href="https://twitter.com/terorero">terorero</a></td>
-		<td>Bolivia</td>
-		<td>511</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/SaulChoque">
-				<img src="https://avatars.githubusercontent.com/u/85711498?s=72&u=89a6f69b0a29a7d90a77903b1149d2e4d28e4b09&v=4" width="24" alt="Avatar of SaulChoque"> SaulChoque
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#SaulChoque">Copy rank badge</a><br/>
-			BaluChop
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/saulchoque4363">saulchoque4363</a></td>
-		<td>Bolivia 🇧🇴</td>
-		<td>505</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/LeoMogiano">
-				<img src="https://avatars.githubusercontent.com/u/91585994?s=72&u=4db9af5fde852377be7e0c8ad2c0ff14293f84c4&v=4" width="24" alt="Avatar of LeoMogiano"> LeoMogiano
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LeoMogiano">Copy rank badge</a><br/>
-			Leonardo Mogiano Gutierrez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz (Bolivia)</td>
-		<td>501</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/KRocioCC">
-				<img src="https://avatars.githubusercontent.com/u/173510651?s=72&u=875b79c66e29aecc47bf7d2ae947a55a6b1443bb&v=4" width="24" alt="Avatar of KRocioCC"> KRocioCC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KRocioCC">Copy rank badge</a><br/>
-			Karen Rocio Catari Calderon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>500</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/Gordex2014">
-				<img src="https://avatars.githubusercontent.com/u/11999853?s=72&u=7e038f3a6a3cab443ca070244c357860adbc2995&v=4" width="24" alt="Avatar of Gordex2014"> Gordex2014
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Gordex2014">Copy rank badge</a><br/>
-			Álvaro Salinas Dockar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gordex_s_d">gordex_s_d</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>485</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/SidnyTech">
-				<img src="https://avatars.githubusercontent.com/u/162159155?s=72&u=4733adb5fb7d23b9bb541d7c6097d85203eaf412&v=4" width="24" alt="Avatar of SidnyTech"> SidnyTech
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#SidnyTech">Copy rank badge</a><br/>
-			Sidney A. Sahonero Garrado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>482</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/pazteddy">
-				<img src="https://avatars.githubusercontent.com/u/2751139?s=72&u=9262ba4b2b3e32c04d23942fc041542b7ce223c7&v=4" width="24" alt="Avatar of pazteddy"> pazteddy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pazteddy">Copy rank badge</a><br/>
-			Teddy Paz Muñoz
-		</td>
-		<td>Devtalles </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>471</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/Franci-343">
-				<img src="https://avatars.githubusercontent.com/u/153700812?s=72&u=ee307276f7b146026124903723966397300671a8&v=4" width="24" alt="Avatar of Franci-343"> Franci-343
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Franci-343">Copy rank badge</a><br/>
-			Franci
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La paz</td>
-		<td>470</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/antonionatusch">
-				<img src="https://avatars.githubusercontent.com/u/153565587?s=72&u=c6e98d2b26a20f3715610aa632602016c70b84dc&v=4" width="24" alt="Avatar of antonionatusch"> antonionatusch
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#antonionatusch">Copy rank badge</a><br/>
-			Antonio Miguel Natusch Zarco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>470</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/franco148">
-				<img src="https://avatars.githubusercontent.com/u/10811329?s=72&u=3ef0fee5c082fb189c106981323d4be1f182734d&v=4" width="24" alt="Avatar of franco148"> franco148
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#franco148">Copy rank badge</a><br/>
-			Franco Arratia Lopez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>456</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
-			<a href="https://github.com/skillparty">
-				<img src="https://avatars.githubusercontent.com/u/83247348?s=72&u=7c4aab6c14040d1e14ed2ec62b4db0741c2f7780&v=4" width="24" alt="Avatar of skillparty"> skillparty
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#skillparty">Copy rank badge</a><br/>
-			joseAlejandro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>447</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/IdenTiclla">
-				<img src="https://avatars.githubusercontent.com/u/20525059?s=72&u=febe5a8a5d205ddaca603edc9d53a09067a9ff7f&v=4" width="24" alt="Avatar of IdenTiclla"> IdenTiclla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IdenTiclla">Copy rank badge</a><br/>
-			Iden Ticlla
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/IdenTiclla">IdenTiclla</a></td>
-		<td>Bolivia</td>
-		<td>440</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/dylanzeballos">
-				<img src="https://avatars.githubusercontent.com/u/164448335?s=72&v=4" width="24" alt="Avatar of dylanzeballos"> dylanzeballos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dylanzeballos">Copy rank badge</a><br/>
-			Dylan Amin Zeballos Peredo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba,  Bolivia</td>
-		<td>433</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/Erickgiber">
-				<img src="https://avatars.githubusercontent.com/u/77713259?s=72&u=1c8aec809267407ce1f9e443c03ad8f8308b7ae7&v=4" width="24" alt="Avatar of Erickgiber"> Erickgiber
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Erickgiber">Copy rank badge</a><br/>
-			Erick Ramirez
-		</td>
-		<td>Stargonist Team </td>
-		<td><a href="https://twitter.com/Erickgiber">Erickgiber</a></td>
-		<td>Sucre, Carúpano</td>
-		<td>422</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/garyMamaniCortez">
-				<img src="https://avatars.githubusercontent.com/u/54512823?s=72&u=5714a4c63189c2198f2582fad057cd98ecfaa201&v=4" width="24" alt="Avatar of garyMamaniCortez"> garyMamaniCortez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#garyMamaniCortez">Copy rank badge</a><br/>
-			Jhonny Gary Mamani Cortez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>417</td>
-	</tr>
-	<tr>
-		<td>75</td>
 		<td>
 			<a href="https://github.com/alex-roc">
 				<img src="https://avatars.githubusercontent.com/u/10243925?s=72&u=1c52db3f5a2cf6e78b19711731a54582b872517b&v=4" width="24" alt="Avatar of alex-roc"> alex-roc
@@ -1079,7 +832,254 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>@lab-tecnosocial  </td>
 		<td><a href="https://twitter.com/alexrocz">alexrocz</a></td>
 		<td>Cochabamba, Bolivia.</td>
-		<td>415</td>
+		<td>552</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/Gordex2014">
+				<img src="https://avatars.githubusercontent.com/u/11999853?s=72&u=7e038f3a6a3cab443ca070244c357860adbc2995&v=4" width="24" alt="Avatar of Gordex2014"> Gordex2014
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Gordex2014">Copy rank badge</a><br/>
+			Álvaro Salinas Dockar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gordex_s_d">gordex_s_d</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>546</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/TheArrick">
+				<img src="https://avatars.githubusercontent.com/u/109319538?s=72&u=6a168e1055506b14288d873969e002577d098fa0&v=4" width="24" alt="Avatar of TheArrick"> TheArrick
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TheArrick">Copy rank badge</a><br/>
+			Ignacio Jaldin
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>541</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/srllamadev">
+				<img src="https://avatars.githubusercontent.com/u/192006049?s=72&u=ad7b6119e08fae605829c1402e07aa27c7c77bb2&v=4" width="24" alt="Avatar of srllamadev"> srllamadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#srllamadev">Copy rank badge</a><br/>
+			Sr LLama Dev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>528</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/link200309">
+				<img src="https://avatars.githubusercontent.com/u/133817555?s=72&u=92660e6d059e104c1de879e5cb391a82deb1e74c&v=4" width="24" alt="Avatar of link200309"> link200309
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#link200309">Copy rank badge</a><br/>
+			John Henry Chavarria Zurita
+		</td>
+		<td>Umss </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a href="https://github.com/Stevenjoelrs">
+				<img src="https://avatars.githubusercontent.com/u/146046072?s=72&u=144cc3ef38be7e1ef1c7989e9f12aaec8350d5da&v=4" width="24" alt="Avatar of Stevenjoelrs"> Stevenjoelrs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Stevenjoelrs">Copy rank badge</a><br/>
+			Steven Joel Ramos Salazar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/Franci-343">
+				<img src="https://avatars.githubusercontent.com/u/153700812?s=72&u=ee307276f7b146026124903723966397300671a8&v=4" width="24" alt="Avatar of Franci-343"> Franci-343
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Franci-343">Copy rank badge</a><br/>
+			Franci
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La paz</td>
+		<td>496</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/terorero">
+				<img src="https://avatars.githubusercontent.com/u/26678748?s=72&u=f0cc3ca1849dbb473cbdf4983008540c89e3a5bd&v=4" width="24" alt="Avatar of terorero"> terorero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#terorero">Copy rank badge</a><br/>
+			TeroRERO
+		</td>
+		<td>@bitacoraroot </td>
+		<td><a href="https://twitter.com/terorero">terorero</a></td>
+		<td>Bolivia</td>
+		<td>494</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/HenryRiveraM">
+				<img src="https://avatars.githubusercontent.com/u/116650397?s=72&u=80d13baa19adb429cde6b15e5788297591562219&v=4" width="24" alt="Avatar of HenryRiveraM"> HenryRiveraM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#HenryRiveraM">Copy rank badge</a><br/>
+			Henry Alejandro Rivera Mendez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>483</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/KRocioCC">
+				<img src="https://avatars.githubusercontent.com/u/173510651?s=72&u=875b79c66e29aecc47bf7d2ae947a55a6b1443bb&v=4" width="24" alt="Avatar of KRocioCC"> KRocioCC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KRocioCC">Copy rank badge</a><br/>
+			Karen Rocio Catari Calderon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>476</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/Erickgiber">
+				<img src="https://avatars.githubusercontent.com/u/77713259?s=72&u=1c8aec809267407ce1f9e443c03ad8f8308b7ae7&v=4" width="24" alt="Avatar of Erickgiber"> Erickgiber
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Erickgiber">Copy rank badge</a><br/>
+			Erick Ramirez
+		</td>
+		<td>Stargonist Team </td>
+		<td><a href="https://twitter.com/Erickgiber">Erickgiber</a></td>
+		<td>Sucre, Carúpano</td>
+		<td>469</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/pazteddy">
+				<img src="https://avatars.githubusercontent.com/u/2751139?s=72&u=9262ba4b2b3e32c04d23942fc041542b7ce223c7&v=4" width="24" alt="Avatar of pazteddy"> pazteddy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pazteddy">Copy rank badge</a><br/>
+			Teddy Paz Muñoz
+		</td>
+		<td>Devtalles </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>466</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/emmi-lili">
+				<img src="https://avatars.githubusercontent.com/u/19696305?s=72&u=1ba7ba846fb90aad4afcf8e3814cca9038b5d6cc&v=4" width="24" alt="Avatar of emmi-lili"> emmi-lili
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#emmi-lili">Copy rank badge</a><br/>
+			Emmi 
+		</td>
+		<td>Bitgo </td>
+		<td><a href="https://twitter.com/emmcriptada">emmcriptada</a></td>
+		<td>Bolivia</td>
+		<td>454</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/ManuelElias1999">
+				<img src="https://avatars.githubusercontent.com/u/64552997?s=72&u=baa46715e64e5e2129041cd34d72f1667c3efb0e&v=4" width="24" alt="Avatar of ManuelElias1999"> ManuelElias1999
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ManuelElias1999">Copy rank badge</a><br/>
+			Juan Manuel Elias Soria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>447</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/diegorojasj">
+				<img src="https://avatars.githubusercontent.com/u/69219863?s=72&u=7ce4c21c250d52b5e5e29f21b3ae7e3f5c9c5667&v=4" width="24" alt="Avatar of diegorojasj"> diegorojasj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegorojasj">Copy rank badge</a><br/>
+			Diego Rojas Justiniano
+		</td>
+		<td>Bord </td>
+		<td><a href="https://twitter.com/diegorojasj222">diegorojasj222</a></td>
+		<td>Bolivia, Santa Cruz de la Sierra</td>
+		<td>447</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/MiltonValleL">
+				<img src="https://avatars.githubusercontent.com/u/169931919?s=72&u=f115a593138b688538392bb72c794cbbd5c325d2&v=4" width="24" alt="Avatar of MiltonValleL"> MiltonValleL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiltonValleL">Copy rank badge</a><br/>
+			Milton Rodolfo Valle Lora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>446</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/garyMamaniCortez">
+				<img src="https://avatars.githubusercontent.com/u/54512823?s=72&u=5714a4c63189c2198f2582fad057cd98ecfaa201&v=4" width="24" alt="Avatar of garyMamaniCortez"> garyMamaniCortez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#garyMamaniCortez">Copy rank badge</a><br/>
+			Jhonny Gary Mamani Cortez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>445</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/skillparty">
+				<img src="https://avatars.githubusercontent.com/u/83247348?s=72&u=7c4aab6c14040d1e14ed2ec62b4db0741c2f7780&v=4" width="24" alt="Avatar of skillparty"> skillparty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#skillparty">Copy rank badge</a><br/>
+			joseAlejandro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/franco148">
+				<img src="https://avatars.githubusercontent.com/u/10811329?s=72&u=3ef0fee5c082fb189c106981323d4be1f182734d&v=4" width="24" alt="Avatar of franco148"> franco148
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#franco148">Copy rank badge</a><br/>
+			Franco Arratia Lopez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/antonionatusch">
+				<img src="https://avatars.githubusercontent.com/u/153565587?s=72&u=c6e98d2b26a20f3715610aa632602016c70b84dc&v=4" width="24" alt="Avatar of antonionatusch"> antonionatusch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#antonionatusch">Copy rank badge</a><br/>
+			Antonio Miguel Natusch Zarco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>441</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1092,72 +1092,72 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/devferx">devferx</a></td>
 		<td>Bolivia</td>
-		<td>404</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>77</td>
 		<td>
-			<a href="https://github.com/zzebnell">
-				<img src="https://avatars.githubusercontent.com/u/127797568?s=72&v=4" width="24" alt="Avatar of zzebnell"> zzebnell
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#zzebnell">Copy rank badge</a><br/>
-			Leonel Zeballos Aldunate
+			<a href="https://github.com/pedroanze">
+				<img src="https://avatars.githubusercontent.com/u/96597151?s=72&u=9fa9fe64c1299ea7990fe578fff057dc24bef356&v=4" width="24" alt="Avatar of pedroanze"> pedroanze
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pedroanze">Copy rank badge</a><br/>
+			Pedro Anze
 		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>Uplabs Ai </td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>398</td>
+		<td>Bolivia</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/emmi-lili">
-				<img src="https://avatars.githubusercontent.com/u/19696305?s=72&u=1ba7ba846fb90aad4afcf8e3814cca9038b5d6cc&v=4" width="24" alt="Avatar of emmi-lili"> emmi-lili
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#emmi-lili">Copy rank badge</a><br/>
-			Emmi 
+			<a href="https://github.com/ruddypazd">
+				<img src="https://avatars.githubusercontent.com/u/7370358?s=72&u=7a12b62497e79fbae3662d5bb677c10083629c37&v=4" width="24" alt="Avatar of ruddypazd"> ruddypazd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ruddypazd">Copy rank badge</a><br/>
+			Roy Ruddy Paz Demiquel
 		</td>
-		<td>Bitgo </td>
-		<td><a href="https://twitter.com/emmcriptada">emmcriptada</a></td>
-		<td>Bolivia</td>
-		<td>388</td>
+		<td>Servisofts Srl - Uplabsai<br/>Llc<br/></td>
+		<td><a href="https://twitter.com/ruddypazd">ruddypazd</a></td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>79</td>
 		<td>
-			<a href="https://github.com/Grillo26">
-				<img src="https://avatars.githubusercontent.com/u/45028931?s=72&u=3f7d3037cfca8e6d7fd8b3cf5b701c05890b9a22&v=4" width="24" alt="Avatar of Grillo26"> Grillo26
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Grillo26">Copy rank badge</a><br/>
-			Carlos Enrique Mamani Torrez
+			<a href="https://github.com/diegodev-01">
+				<img src="https://avatars.githubusercontent.com/u/85521499?s=72&u=6927aaf39f4ee8f062c2a46bc6a86b701a4d4952&v=4" width="24" alt="Avatar of diegodev-01"> diegodev-01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegodev-01">Copy rank badge</a><br/>
+			Diego Perez
 		</td>
-		<td>Partnertech </td>
-		<td><a href="https://twitter.com/Gr26llo">Gr26llo</a></td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>387</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba/Bolivia</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>80</td>
 		<td>
-			<a href="https://github.com/MetaDandy">
-				<img src="https://avatars.githubusercontent.com/u/128628774?s=72&u=8ef3e462d5a40671076850f19ed9b42dc33b5ca6&v=4" width="24" alt="Avatar of MetaDandy"> MetaDandy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MetaDandy">Copy rank badge</a><br/>
-			Joseph Benitez Arroyo
+			<a href="https://github.com/The-Rigo">
+				<img src="https://avatars.githubusercontent.com/u/55820400?s=72&u=5bf68a9cf99a44b2a0c52e19916dd02078d82f91&v=4" width="24" alt="Avatar of The-Rigo"> The-Rigo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#The-Rigo">Copy rank badge</a><br/>
+			Rodrigo Ledezma
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>387</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/benjaminheredia1">
-				<img src="https://avatars.githubusercontent.com/u/65923976?s=72&u=0e84e5ebd431e2f90fafbee8986f04556fc8de5f&v=4" width="24" alt="Avatar of benjaminheredia1"> benjaminheredia1
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#benjaminheredia1">Copy rank badge</a><br/>
-			Heredia Ruiz Pablo Benjamin
+			<a href="https://github.com/Amiddala">
+				<img src="https://avatars.githubusercontent.com/u/168691418?s=72&u=5c5e1a99bf54812e2a7a6f54e063ea114de5e5f7&v=4" width="24" alt="Avatar of Amiddala"> Amiddala
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Amiddala">Copy rank badge</a><br/>
+			Candy Ordoñez Pinto
 		</td>
-		<td>No Company</td>
+		<td>Universidad Mayor De San<br/>Simon<br/></td>
 		<td>No Twitter Username</td>
-		<td>Bolivia, Santa Cruz de la Sierra</td>
-		<td>386</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1170,33 +1170,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>la paz, bcs</td>
-		<td>386</td>
+		<td>390</td>
 	</tr>
 	<tr>
 		<td>83</td>
 		<td>
-			<a href="https://github.com/MiltonValleL">
-				<img src="https://avatars.githubusercontent.com/u/169931919?s=72&u=f115a593138b688538392bb72c794cbbd5c325d2&v=4" width="24" alt="Avatar of MiltonValleL"> MiltonValleL
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiltonValleL">Copy rank badge</a><br/>
-			Milton Rodolfo Valle Lora
+			<a href="https://github.com/henrytaby">
+				<img src="https://avatars.githubusercontent.com/u/410918?s=72&u=3cecd19d0e8a5807b386e9b9e013f284a5fe32ed&v=4" width="24" alt="Avatar of henrytaby"> henrytaby
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#henrytaby">Copy rank badge</a><br/>
+			Henry Taby
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>383</td>
+		<td><a href="https://twitter.com/HenryTaby">HenryTaby</a></td>
+		<td>Bolivia</td>
+		<td>386</td>
 	</tr>
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/Amiddala">
-				<img src="https://avatars.githubusercontent.com/u/168691418?s=72&u=5c5e1a99bf54812e2a7a6f54e063ea114de5e5f7&v=4" width="24" alt="Avatar of Amiddala"> Amiddala
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Amiddala">Copy rank badge</a><br/>
-			Candy Ordoñez Pinto
+			<a href="https://github.com/benjaminheredia1">
+				<img src="https://avatars.githubusercontent.com/u/65923976?s=72&u=0e84e5ebd431e2f90fafbee8986f04556fc8de5f&v=4" width="24" alt="Avatar of benjaminheredia1"> benjaminheredia1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#benjaminheredia1">Copy rank badge</a><br/>
+			Heredia Ruiz Pablo Benjamin
 		</td>
-		<td>Universidad Mayor De San<br/>Simon<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>382</td>
+		<td>Bolivia, Santa Cruz de la Sierra</td>
+		<td>385</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1209,33 +1209,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ivancidev">ivancidev</a></td>
 		<td>Bolivia, Cochabamba</td>
-		<td>380</td>
+		<td>382</td>
 	</tr>
 	<tr>
 		<td>86</td>
 		<td>
-			<a href="https://github.com/Odig0">
-				<img src="https://avatars.githubusercontent.com/u/78091956?s=72&u=84e7a5ca0cd50ce6059a385c8b2cb9fa805e42a2&v=4" width="24" alt="Avatar of Odig0"> Odig0
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Odig0">Copy rank badge</a><br/>
-			Diego Guzman
+			<a href="https://github.com/SidnyTech">
+				<img src="https://avatars.githubusercontent.com/u/162159155?s=72&u=4733adb5fb7d23b9bb541d7c6097d85203eaf412&v=4" width="24" alt="Avatar of SidnyTech"> SidnyTech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#SidnyTech">Copy rank badge</a><br/>
+			Sidney A. Sahonero Garrado
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
-		<td>379</td>
+		<td>Bolivia</td>
+		<td>382</td>
 	</tr>
 	<tr>
 		<td>87</td>
 		<td>
-			<a href="https://github.com/GatoCoder282">
-				<img src="https://avatars.githubusercontent.com/u/150871745?s=72&u=3c44d8b51bb8a324d87c7fbd00759465278c1028&v=4" width="24" alt="Avatar of GatoCoder282"> GatoCoder282
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GatoCoder282">Copy rank badge</a><br/>
-			Diego Valdez
+			<a href="https://github.com/BorisAngulo">
+				<img src="https://avatars.githubusercontent.com/u/81875983?s=72&u=14c021bc021910a721c81ff67c25ffb9c70fec34&v=4" width="24" alt="Avatar of BorisAngulo"> BorisAngulo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BorisAngulo">Copy rank badge</a><br/>
+			Boris Anthony Angulo Urquieta
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>375</td>
+		<td>Bolivia</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1248,23 +1248,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Factored </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>368</td>
+		<td>361</td>
 	</tr>
 	<tr>
 		<td>89</td>
-		<td>
-			<a href="https://github.com/andru1236">
-				<img src="https://avatars.githubusercontent.com/u/18579701?s=72&u=501b80f72423d05a5e67fb54fe14d6ad4d3e0aed&v=4" width="24" alt="Avatar of andru1236"> andru1236
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#andru1236">Copy rank badge</a><br/>
-			Andres
-		</td>
-		<td>@sincprosrl  </td>
-		<td><a href="https://twitter.com/andru12369">andru12369</a></td>
-		<td>Cochabamba - Bolivia</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>90</td>
 		<td>
 			<a href="https://github.com/linuxenthusiastic">
 				<img src="https://avatars.githubusercontent.com/u/85538772?s=72&u=77e73a7ff4ec2f240d5db80fc75a967e6cbfaae1&v=4" width="24" alt="Avatar of linuxenthusiastic"> linuxenthusiastic
@@ -1274,10 +1261,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz , Bolivia</td>
-		<td>365</td>
+		<td>360</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/ODCenteno">
 				<img src="https://avatars.githubusercontent.com/u/66588488?s=72&u=5e72aa21421e673a612224b4424963c3539f9ac3&v=4" width="24" alt="Avatar of ODCenteno"> ODCenteno
@@ -1287,62 +1274,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ODCenteno">ODCenteno</a></td>
 		<td>La Paz, Baja California Sur, México.</td>
-		<td>363</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/GatoCoder282">
+				<img src="https://avatars.githubusercontent.com/u/150871745?s=72&u=3c44d8b51bb8a324d87c7fbd00759465278c1028&v=4" width="24" alt="Avatar of GatoCoder282"> GatoCoder282
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GatoCoder282">Copy rank badge</a><br/>
+			Diego Valdez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>348</td>
 	</tr>
 	<tr>
 		<td>92</td>
-		<td>
-			<a href="https://github.com/Mirandaaca">
-				<img src="https://avatars.githubusercontent.com/u/113213195?s=72&u=41f8eb890afc211bb0b3b4ec361b3c971bf47911&v=4" width="24" alt="Avatar of Mirandaaca"> Mirandaaca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mirandaaca">Copy rank badge</a><br/>
-			Cristopher Miranda Aramayo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>362</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/henrytaby">
-				<img src="https://avatars.githubusercontent.com/u/410918?s=72&u=3cecd19d0e8a5807b386e9b9e013f284a5fe32ed&v=4" width="24" alt="Avatar of henrytaby"> henrytaby
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#henrytaby">Copy rank badge</a><br/>
-			Henry Taby
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/HenryTaby">HenryTaby</a></td>
-		<td>Bolivia</td>
-		<td>351</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/pedroanze">
-				<img src="https://avatars.githubusercontent.com/u/96597151?s=72&u=9fa9fe64c1299ea7990fe578fff057dc24bef356&v=4" width="24" alt="Avatar of pedroanze"> pedroanze
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pedroanze">Copy rank badge</a><br/>
-			Pedro Anze
-		</td>
-		<td>Uplabs Ai </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>347</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/paodanchacon">
-				<img src="https://avatars.githubusercontent.com/u/63526399?s=72&v=4" width="24" alt="Avatar of paodanchacon"> paodanchacon
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paodanchacon">Copy rank badge</a><br/>
-			Daniela Chambilla
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DANIELACHAMBIL2">DANIELACHAMBIL2</a></td>
-		<td>La Paz Bolivia</td>
-		<td>346</td>
-	</tr>
-	<tr>
-		<td>96</td>
 		<td>
 			<a href="https://github.com/caleeli">
 				<img src="https://avatars.githubusercontent.com/u/8028650?s=72&u=0ce55b231eba62418532e8795f99b6f892492637&v=4" width="24" alt="Avatar of caleeli"> caleeli
@@ -1352,23 +1300,62 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz - Bolivia</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/rats4final">
+				<img src="https://avatars.githubusercontent.com/u/80012704?s=72&u=bf8c8cce85f1cb05696262a979293abafeb7ef80&v=4" width="24" alt="Avatar of rats4final"> rats4final
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rats4final">Copy rank badge</a><br/>
+			David Antezana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/hiygabo">
+				<img src="https://avatars.githubusercontent.com/u/128774412?s=72&v=4" width="24" alt="Avatar of hiygabo"> hiygabo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hiygabo">Copy rank badge</a><br/>
+			Gabriel Omar Andia Alave
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>339</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>95</td>
 		<td>
-			<a href="https://github.com/alvarohurtadobo">
-				<img src="https://avatars.githubusercontent.com/u/5840011?s=72&u=144725084a6f0f1a91bc7e40e08f5056cb6a0e16&v=4" width="24" alt="Avatar of alvarohurtadobo"> alvarohurtadobo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarohurtadobo">Copy rank badge</a><br/>
-			Álvaro Rubén Hurtado Maldonado
+			<a href="https://github.com/tiveor">
+				<img src="https://avatars.githubusercontent.com/u/982787?s=72&u=c0402d89e3f39b28cd7a6f41c4ff97af64f56167&v=4" width="24" alt="Avatar of tiveor"> tiveor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#tiveor">Copy rank badge</a><br/>
+			Alvaro Orellana
 		</td>
-		<td>@demsbo </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>338</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/zzebnell">
+				<img src="https://avatars.githubusercontent.com/u/127797568?s=72&v=4" width="24" alt="Avatar of zzebnell"> zzebnell
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#zzebnell">Copy rank badge</a><br/>
+			Leonel Zeballos Aldunate
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>332</td>
+	</tr>
+	<tr>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/srodrigo23">
 				<img src="https://avatars.githubusercontent.com/u/7539078?s=72&u=a0a314e9fa01bb584f7d05912233cb21f4864e37&v=4" width="24" alt="Avatar of srodrigo23"> srodrigo23
@@ -1378,36 +1365,75 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Free Lance </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba, Bolivia</td>
-		<td>329</td>
+		<td>331</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
-			<a href="https://github.com/BorisAngulo">
-				<img src="https://avatars.githubusercontent.com/u/81875983?s=72&u=14c021bc021910a721c81ff67c25ffb9c70fec34&v=4" width="24" alt="Avatar of BorisAngulo"> BorisAngulo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BorisAngulo">Copy rank badge</a><br/>
-			Boris Anthony Angulo Urquieta
+			<a href="https://github.com/axelfoxII">
+				<img src="https://avatars.githubusercontent.com/u/13296354?s=72&u=f199e75287f484a24e5be31ba72ad516943ed598&v=4" width="24" alt="Avatar of axelfoxII"> axelfoxII
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#axelfoxII">Copy rank badge</a><br/>
+			Alex Salvatierra
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/Coding-Rod">
+				<img src="https://avatars.githubusercontent.com/u/48334944?s=72&u=1031ae46abe62545dcda4d04d892dd17c242251e&v=4" width="24" alt="Avatar of Coding-Rod"> Coding-Rod
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Coding-Rod">Copy rank badge</a><br/>
+			Rodrigo Fernandez Testa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
 		<td>325</td>
 	</tr>
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/goku673">
-				<img src="https://avatars.githubusercontent.com/u/83481744?s=72&u=7001c2bcf6a9904605f84d7954c95393e973790c&v=4" width="24" alt="Avatar of goku673"> goku673
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#goku673">Copy rank badge</a><br/>
-			Freddy Amin Zapata 
+			<a href="https://github.com/Wimpi18">
+				<img src="https://avatars.githubusercontent.com/u/102839000?s=72&u=f419f2fa983263c69dcf6e6840e15689a742a481&v=4" width="24" alt="Avatar of Wimpi18"> Wimpi18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Wimpi18">Copy rank badge</a><br/>
+			Winsor
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba-Bolivia</td>
+		<td>Bolivia</td>
 		<td>324</td>
 	</tr>
 	<tr>
 		<td>101</td>
+		<td>
+			<a href="https://github.com/paolo">
+				<img src="https://avatars.githubusercontent.com/u/21358?s=72&u=923d963ae46e38f0896e9f4f493a923eb3d69733&v=4" width="24" alt="Avatar of paolo"> paolo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paolo">Copy rank badge</a><br/>
+			Paolo Castro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/Glfrancodev">
+				<img src="https://avatars.githubusercontent.com/u/187966171?s=72&u=d1a75d62dcd8fca3686afd983adfac6c4db6ea6f&v=4" width="24" alt="Avatar of Glfrancodev"> Glfrancodev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Glfrancodev">Copy rank badge</a><br/>
+			Gabriel Andrés López Franco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/monoald">
 				<img src="https://avatars.githubusercontent.com/u/67347256?s=72&u=914ab84d94cd294b6447fff3e9122edede4a5750&v=4" width="24" alt="Avatar of monoald"> monoald
@@ -1420,59 +1446,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/hiygabo">
-				<img src="https://avatars.githubusercontent.com/u/128774412?s=72&v=4" width="24" alt="Avatar of hiygabo"> hiygabo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hiygabo">Copy rank badge</a><br/>
-			Gabriel Omar Andia Alave
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/Wimpi18">
-				<img src="https://avatars.githubusercontent.com/u/102839000?s=72&u=f419f2fa983263c69dcf6e6840e15689a742a481&v=4" width="24" alt="Avatar of Wimpi18"> Wimpi18
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Wimpi18">Copy rank badge</a><br/>
-			Winsor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>318</td>
-	</tr>
-	<tr>
 		<td>104</td>
-		<td>
-			<a href="https://github.com/ManuelElias1999">
-				<img src="https://avatars.githubusercontent.com/u/64552997?s=72&u=baa46715e64e5e2129041cd34d72f1667c3efb0e&v=4" width="24" alt="Avatar of ManuelElias1999"> ManuelElias1999
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ManuelElias1999">Copy rank badge</a><br/>
-			Juan Manuel Elias Soria
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>314</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/tiveor">
-				<img src="https://avatars.githubusercontent.com/u/982787?s=72&u=c0402d89e3f39b28cd7a6f41c4ff97af64f56167&v=4" width="24" alt="Avatar of tiveor"> tiveor
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#tiveor">Copy rank badge</a><br/>
-			Alvaro Orellana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>106</td>
 		<td>
 			<a href="https://github.com/AlexandroCamacho1000">
 				<img src="https://avatars.githubusercontent.com/u/101161175?s=72&u=807db0e10c44175fd37a3ad3b01c45247a022ebf&v=4" width="24" alt="Avatar of AlexandroCamacho1000"> AlexandroCamacho1000
@@ -1482,10 +1456,49 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba</td>
-		<td>309</td>
+		<td>317</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/obed-tc">
+				<img src="https://avatars.githubusercontent.com/u/67854304?s=72&u=6abab8a63d8ad73a20e100c9c0995abd6daef4cf&v=4" width="24" alt="Avatar of obed-tc"> obed-tc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#obed-tc">Copy rank badge</a><br/>
+			Obed
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ObedCT_">ObedCT_</a></td>
+		<td>Bolivia</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/Odig0">
+				<img src="https://avatars.githubusercontent.com/u/78091956?s=72&u=84e7a5ca0cd50ce6059a385c8b2cb9fa805e42a2&v=4" width="24" alt="Avatar of Odig0"> Odig0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Odig0">Copy rank badge</a><br/>
+			Diego Guzman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>313</td>
 	</tr>
 	<tr>
 		<td>107</td>
+		<td>
+			<a href="https://github.com/Grillo26">
+				<img src="https://avatars.githubusercontent.com/u/45028931?s=72&u=3f7d3037cfca8e6d7fd8b3cf5b701c05890b9a22&v=4" width="24" alt="Avatar of Grillo26"> Grillo26
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Grillo26">Copy rank badge</a><br/>
+			Carlos Enrique Mamani Torrez
+		</td>
+		<td>Partnertech </td>
+		<td><a href="https://twitter.com/Gr26llo">Gr26llo</a></td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>312</td>
+	</tr>
+	<tr>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/geekhadev">
 				<img src="https://avatars.githubusercontent.com/u/499907?s=72&u=7521e34d00ab3970ffdc0adb95a1ed847525a149&v=4" width="24" alt="Avatar of geekhadev"> geekhadev
@@ -1498,85 +1511,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>308</td>
 	</tr>
 	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/ruddypazd">
-				<img src="https://avatars.githubusercontent.com/u/7370358?s=72&u=7a12b62497e79fbae3662d5bb677c10083629c37&v=4" width="24" alt="Avatar of ruddypazd"> ruddypazd
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ruddypazd">Copy rank badge</a><br/>
-			Roy Ruddy Paz Demiquel
-		</td>
-		<td>Servisofts Srl - Uplabsai<br/>Llc<br/></td>
-		<td><a href="https://twitter.com/ruddypazd">ruddypazd</a></td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>308</td>
-	</tr>
-	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/obed-tc">
-				<img src="https://avatars.githubusercontent.com/u/67854304?s=72&u=6abab8a63d8ad73a20e100c9c0995abd6daef4cf&v=4" width="24" alt="Avatar of obed-tc"> obed-tc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#obed-tc">Copy rank badge</a><br/>
-			Obed
+			<a href="https://github.com/goku673">
+				<img src="https://avatars.githubusercontent.com/u/83481744?s=72&u=7001c2bcf6a9904605f84d7954c95393e973790c&v=4" width="24" alt="Avatar of goku673"> goku673
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#goku673">Copy rank badge</a><br/>
+			Freddy Amin Zapata 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ObedCT_">ObedCT_</a></td>
-		<td>Bolivia</td>
-		<td>305</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba-Bolivia</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/Coding-Rod">
-				<img src="https://avatars.githubusercontent.com/u/48334944?s=72&u=1031ae46abe62545dcda4d04d892dd17c242251e&v=4" width="24" alt="Avatar of Coding-Rod"> Coding-Rod
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Coding-Rod">Copy rank badge</a><br/>
-			Rodrigo Fernandez Testa
+			<a href="https://github.com/MetaDandy">
+				<img src="https://avatars.githubusercontent.com/u/128628774?s=72&u=8ef3e462d5a40671076850f19ed9b42dc33b5ca6&v=4" width="24" alt="Avatar of MetaDandy"> MetaDandy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MetaDandy">Copy rank badge</a><br/>
+			Joseph Benitez Arroyo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>297</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>111</td>
-		<td>
-			<a href="https://github.com/profetaRecursivo">
-				<img src="https://avatars.githubusercontent.com/u/128869999?s=72&u=431e146c41a3569a6eaf865c52790a298752b1a0&v=4" width="24" alt="Avatar of profetaRecursivo"> profetaRecursivo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#profetaRecursivo">Copy rank badge</a><br/>
-			Jaime Sebastian Chavarria Fuertes
-		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>297</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/taicoding">
-				<img src="https://avatars.githubusercontent.com/u/6510765?s=72&u=211d7ce4bef0eb5d2127b34b70182cd0d2df9287&v=4" width="24" alt="Avatar of taicoding"> taicoding
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#taicoding">Copy rank badge</a><br/>
-			Tatiana Delgadillo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/taicoding">taicoding</a></td>
-		<td>La Paz</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Aliaga23">
-				<img src="https://avatars.githubusercontent.com/u/138465246?s=72&u=66c8180d54281337799af24d6ba8a213c5e7b6ec&v=4" width="24" alt="Avatar of Aliaga23"> Aliaga23
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Aliaga23">Copy rank badge</a><br/>
-			Arturo Aliaga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>114</td>
 		<td>
 			<a href="https://github.com/sae0-3">
 				<img src="https://avatars.githubusercontent.com/u/100965991?s=72&u=55f7cdc97bab1832a8e6cd346c44ba6518469459&v=4" width="24" alt="Avatar of sae0-3"> sae0-3
@@ -1586,10 +1547,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>295</td>
+		<td>297</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/borispacex">
+				<img src="https://avatars.githubusercontent.com/u/40006498?s=72&u=356213925d9859b08a4efb8690b968ebde893d1e&v=4" width="24" alt="Avatar of borispacex"> borispacex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#borispacex">Copy rank badge</a><br/>
+			Boris Vargas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/borispacex">borispacex</a></td>
+		<td>La Paz - Bolivia</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/arielscc">
 				<img src="https://avatars.githubusercontent.com/u/12211109?s=72&u=90c51051e865fc0d56a218591d3b6528b9aff966&v=4" width="24" alt="Avatar of arielscc"> arielscc
@@ -1602,29 +1576,55 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>114</td>
 		<td>
-			<a href="https://github.com/borispacex">
-				<img src="https://avatars.githubusercontent.com/u/40006498?s=72&u=356213925d9859b08a4efb8690b968ebde893d1e&v=4" width="24" alt="Avatar of borispacex"> borispacex
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#borispacex">Copy rank badge</a><br/>
-			Boris Vargas
+			<a href="https://github.com/profetaRecursivo">
+				<img src="https://avatars.githubusercontent.com/u/128869999?s=72&u=431e146c41a3569a6eaf865c52790a298752b1a0&v=4" width="24" alt="Avatar of profetaRecursivo"> profetaRecursivo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#profetaRecursivo">Copy rank badge</a><br/>
+			Jaime Sebastian Chavarria Fuertes
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/WilliamCallao">
+				<img src="https://avatars.githubusercontent.com/u/96638909?s=72&v=4" width="24" alt="Avatar of WilliamCallao"> WilliamCallao
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WilliamCallao">Copy rank badge</a><br/>
+			William Humberto Callao Lopez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/borispacex">borispacex</a></td>
-		<td>La Paz - Bolivia</td>
-		<td>288</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/rivera-ernesto">
+				<img src="https://avatars.githubusercontent.com/u/1261982?s=72&u=55ab6b4e8644e546cfcb17560088b3cbba31421f&v=4" width="24" alt="Avatar of rivera-ernesto"> rivera-ernesto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rivera-ernesto">Copy rank badge</a><br/>
+			Ernesto Rivera
+		</td>
+		<td>@ptez  </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>117</td>
 		<td>
-			<a href="https://github.com/Andross3">
-				<img src="https://avatars.githubusercontent.com/u/128936023?s=72&u=775c7238abea95339187c4fbcd649962e2ea8db2&v=4" width="24" alt="Avatar of Andross3"> Andross3
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Andross3">Copy rank badge</a><br/>
-			Andres Chavez
+			<a href="https://github.com/timoteoponce">
+				<img src="https://avatars.githubusercontent.com/u/248934?s=72&u=c12598cebb9c137a5a1b4f1bcf0c6d96967ca82b&v=4" width="24" alt="Avatar of timoteoponce"> timoteoponce
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#timoteoponce">Copy rank badge</a><br/>
+			Timoteo Ponce
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba-Bolivia</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>285</td>
 	</tr>
 	<tr>
@@ -1638,23 +1638,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>284</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>119</td>
-		<td>
-			<a href="https://github.com/yalonso7">
-				<img src="https://avatars.githubusercontent.com/u/39344295?s=72&u=fa3ad3dac979fbf0d5a74f3f97d07f5b6c364f34&v=4" width="24" alt="Avatar of yalonso7"> yalonso7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yalonso7">Copy rank badge</a><br/>
-			Yulian Alonso
-		</td>
-		<td>Classified </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz De La Sierra, Bolivia</td>
-		<td>279</td>
-	</tr>
-	<tr>
-		<td>120</td>
 		<td>
 			<a href="https://github.com/diegozambrana">
 				<img src="https://avatars.githubusercontent.com/u/3308376?s=72&u=17110ed0c452929bd288323a45b9c069e2108e91&v=4" width="24" alt="Avatar of diegozambrana"> diegozambrana
@@ -1667,33 +1654,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
-			<a href="https://github.com/miguel-124C">
-				<img src="https://avatars.githubusercontent.com/u/121363772?s=72&u=d4c1a68589a0f99a541237c5ff571fb993c490ca&v=4" width="24" alt="Avatar of miguel-124C"> miguel-124C
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#miguel-124C">Copy rank badge</a><br/>
-			Miguel Angel Cuellar Serrudo
+			<a href="https://github.com/alvarohurtadobo">
+				<img src="https://avatars.githubusercontent.com/u/5840011?s=72&u=144725084a6f0f1a91bc7e40e08f5056cb6a0e16&v=4" width="24" alt="Avatar of alvarohurtadobo"> alvarohurtadobo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarohurtadobo">Copy rank badge</a><br/>
+			Álvaro Rubén Hurtado Maldonado
 		</td>
-		<td>Ticsys </td>
+		<td>@demsbo </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>274</td>
 	</tr>
 	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/Glfrancodev">
-				<img src="https://avatars.githubusercontent.com/u/187966171?s=72&u=d1a75d62dcd8fca3686afd983adfac6c4db6ea6f&v=4" width="24" alt="Avatar of Glfrancodev"> Glfrancodev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Glfrancodev">Copy rank badge</a><br/>
-			Gabriel Andrés López Franco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>273</td>
-	</tr>
-	<tr>
-		<td>123</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/hagom">
 				<img src="https://avatars.githubusercontent.com/u/12469002?s=72&u=33e9c6307fc33d2210e712a43950d6dfa806e653&v=4" width="24" alt="Avatar of hagom"> hagom
@@ -1703,20 +1677,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cumana, Sucre</td>
-		<td>273</td>
+		<td>269</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/C-ArenA">
+				<img src="https://avatars.githubusercontent.com/u/44629176?s=72&u=d7f82bc68df1c700c924c18e835dab2ab91dc163&v=4" width="24" alt="Avatar of C-ArenA"> C-ArenA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#C-ArenA">Copy rank badge</a><br/>
+			C-ArenA
+		</td>
+		<td>2ies </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/yalonso7">
+				<img src="https://avatars.githubusercontent.com/u/39344295?s=72&u=fa3ad3dac979fbf0d5a74f3f97d07f5b6c364f34&v=4" width="24" alt="Avatar of yalonso7"> yalonso7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yalonso7">Copy rank badge</a><br/>
+			Yulian Alonso
+		</td>
+		<td>Classified </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz De La Sierra, Bolivia</td>
+		<td>259</td>
 	</tr>
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/Hans3010">
-				<img src="https://avatars.githubusercontent.com/u/107671302?s=72&u=c0b4296fe20c2e0e3d34875f139273f41b93838f&v=4" width="24" alt="Avatar of Hans3010"> Hans3010
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Hans3010">Copy rank badge</a><br/>
-			Hanserm
+			<a href="https://github.com/Davp94">
+				<img src="https://avatars.githubusercontent.com/u/22361322?s=72&u=cfb3415528ee7af3fe5db080eb34c452920432b5&v=4" width="24" alt="Avatar of Davp94"> Davp94
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Davp94">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>No Company</td>
+		<td>Universidad Mayor De San<br/>Andres<br/></td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra - Bolivia</td>
-		<td>270</td>
+		<td>La Paz, Bolivia</td>
+		<td>258</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1729,23 +1729,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Severitech_dev">Severitech_dev</a></td>
 		<td>Bolivia</td>
-		<td>264</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>126</td>
-		<td>
-			<a href="https://github.com/C-ArenA">
-				<img src="https://avatars.githubusercontent.com/u/44629176?s=72&u=d7f82bc68df1c700c924c18e835dab2ab91dc163&v=4" width="24" alt="Avatar of C-ArenA"> C-ArenA
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#C-ArenA">Copy rank badge</a><br/>
-			C-ArenA
-		</td>
-		<td>2ies </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>127</td>
 		<td>
 			<a href="https://github.com/jhasmany-fernandez">
 				<img src="https://avatars.githubusercontent.com/u/36086876?s=72&u=947eb3d15b1c6690eaacc13d22d7b80c725d94b1&v=4" width="24" alt="Avatar of jhasmany-fernandez"> jhasmany-fernandez
@@ -1755,20 +1742,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>U.a.g.r.m. </td>
 		<td><a href="https://twitter.com/jhasmanyj">jhasmanyj</a></td>
 		<td>Santa Cruz de la Sierra </td>
-		<td>256</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/miguel-124C">
+				<img src="https://avatars.githubusercontent.com/u/121363772?s=72&u=d4c1a68589a0f99a541237c5ff571fb993c490ca&v=4" width="24" alt="Avatar of miguel-124C"> miguel-124C
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#miguel-124C">Copy rank badge</a><br/>
+			Miguel Angel Cuellar Serrudo
+		</td>
+		<td>Ticsys </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>249</td>
 	</tr>
 	<tr>
 		<td>128</td>
 		<td>
-			<a href="https://github.com/fjsuarez">
-				<img src="https://avatars.githubusercontent.com/u/3099648?s=72&v=4" width="24" alt="Avatar of fjsuarez"> fjsuarez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fjsuarez">Copy rank badge</a><br/>
-			Francisco Suarez
+			<a href="https://github.com/joelalejsanchez">
+				<img src="https://avatars.githubusercontent.com/u/91491222?s=72&u=f6bce89014fb6105e5655fcd5f13f8bb291bc9bf&v=4" width="24" alt="Avatar of joelalejsanchez"> joelalejsanchez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#joelalejsanchez">Copy rank badge</a><br/>
+			Joel Alejandro Sanchez Valdez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>250</td>
+		<td>Bolivia</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1781,218 +1781,49 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>241</td>
+		<td>246</td>
 	</tr>
 	<tr>
 		<td>130</td>
 		<td>
-			<a href="https://github.com/joelalejsanchez">
-				<img src="https://avatars.githubusercontent.com/u/91491222?s=72&u=f6bce89014fb6105e5655fcd5f13f8bb291bc9bf&v=4" width="24" alt="Avatar of joelalejsanchez"> joelalejsanchez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#joelalejsanchez">Copy rank badge</a><br/>
-			Joel Alejandro Sanchez Valdez
+			<a href="https://github.com/dylanzeballos">
+				<img src="https://avatars.githubusercontent.com/u/164448335?s=72&v=4" width="24" alt="Avatar of dylanzeballos"> dylanzeballos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dylanzeballos">Copy rank badge</a><br/>
+			Dylan Amin Zeballos Peredo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>239</td>
+		<td>Cochabamba,  Bolivia</td>
+		<td>244</td>
 	</tr>
 	<tr>
 		<td>131</td>
 		<td>
-			<a href="https://github.com/timoteoponce">
-				<img src="https://avatars.githubusercontent.com/u/248934?s=72&u=c12598cebb9c137a5a1b4f1bcf0c6d96967ca82b&v=4" width="24" alt="Avatar of timoteoponce"> timoteoponce
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#timoteoponce">Copy rank badge</a><br/>
-			Timoteo Ponce
+			<a href="https://github.com/Jhoel777ar">
+				<img src="https://avatars.githubusercontent.com/u/160800103?s=72&u=637b6925a5f498fc7742d373783c920480f92d45&v=4" width="24" alt="Avatar of Jhoel777ar"> Jhoel777ar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jhoel777ar">Copy rank badge</a><br/>
+			Joel Andres C.
 		</td>
-		<td>No Company</td>
+		<td>Ark Dev </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>235</td>
+		<td>Chile - Bolivia</td>
+		<td>241</td>
 	</tr>
 	<tr>
 		<td>132</td>
 		<td>
-			<a href="https://github.com/Davp94">
-				<img src="https://avatars.githubusercontent.com/u/22361322?s=72&u=cfb3415528ee7af3fe5db080eb34c452920432b5&v=4" width="24" alt="Avatar of Davp94"> Davp94
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Davp94">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/Aliaga23">
+				<img src="https://avatars.githubusercontent.com/u/138465246?s=72&u=66c8180d54281337799af24d6ba8a213c5e7b6ec&v=4" width="24" alt="Avatar of Aliaga23"> Aliaga23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Aliaga23">Copy rank badge</a><br/>
+			Arturo Aliaga
 		</td>
-		<td>Universidad Mayor De San<br/>Andres<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>232</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>238</td>
 	</tr>
 	<tr>
 		<td>133</td>
-		<td>
-			<a href="https://github.com/pablonoya">
-				<img src="https://avatars.githubusercontent.com/u/31524852?s=72&u=ad27fb0901bfca27b7fbf2846483aafbf05946b1&v=4" width="24" alt="Avatar of pablonoya"> pablonoya
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pablonoya">Copy rank badge</a><br/>
-			Pablo Noya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sucre, Bolivia</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/rsoft-latam">
-				<img src="https://avatars.githubusercontent.com/u/21285250?s=72&u=e6f5a50a7ef5814b66390272d39cd22adf2791e0&v=4" width="24" alt="Avatar of rsoft-latam"> rsoft-latam
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rsoft-latam">Copy rank badge</a><br/>
-			Ricardo Pari
-		</td>
-		<td>Rsoft Latam </td>
-		<td><a href="https://twitter.com/rsoft_latam">rsoft_latam</a></td>
-		<td>La Paz (Bolivia)</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/AlejandroCalzadilla">
-				<img src="https://avatars.githubusercontent.com/u/118866799?s=72&v=4" width="24" alt="Avatar of AlejandroCalzadilla"> AlejandroCalzadilla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlejandroCalzadilla">Copy rank badge</a><br/>
-			Jose_ALejandro_Calzadilla_Nogales
-		</td>
-		<td>Universidad_autonoma </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
-		<td>216</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/WilliamCallao">
-				<img src="https://avatars.githubusercontent.com/u/96638909?s=72&v=4" width="24" alt="Avatar of WilliamCallao"> WilliamCallao
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WilliamCallao">Copy rank badge</a><br/>
-			William Humberto Callao Lopez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>214</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/nema1502">
-				<img src="https://avatars.githubusercontent.com/u/70548302?s=72&u=5ed30b1954a6a5a96624ced07c205f461ca5088e&v=4" width="24" alt="Avatar of nema1502"> nema1502
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nema1502">Copy rank badge</a><br/>
-			Nicolas Mejia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>214</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/nahuelXZV">
-				<img src="https://avatars.githubusercontent.com/u/80172547?s=72&u=e6f75e0f1136b202ded9155b7e88da49990e0dec&v=4" width="24" alt="Avatar of nahuelXZV"> nahuelXZV
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahuelXZV">Copy rank badge</a><br/>
-			Nahuel Zalazar
-		</td>
-		<td>Dualbiz </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>209</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/AngelAlmanza">
-				<img src="https://avatars.githubusercontent.com/u/86009089?s=72&u=7d1bc182e71a35350ceebc815c74e9a0f9e3c86b&v=4" width="24" alt="Avatar of AngelAlmanza"> AngelAlmanza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AngelAlmanza">Copy rank badge</a><br/>
-			Angel Almanza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La paz, B.C.S. México</td>
-		<td>208</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/RafaelReyes0816">
-				<img src="https://avatars.githubusercontent.com/u/141748653?s=72&u=ed4672a0ddcf670c5a56d0b66e19daa29e6aa3ff&v=4" width="24" alt="Avatar of RafaelReyes0816"> RafaelReyes0816
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RafaelReyes0816">Copy rank badge</a><br/>
-			Rafael Reyes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RafaelR10996376">RafaelR10996376</a></td>
-		<td>Bolivia</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/carlos-olivera">
-				<img src="https://avatars.githubusercontent.com/u/1182541?s=72&u=6da00038c6af382c75a6752588dc0eac8026a5e0&v=4" width="24" alt="Avatar of carlos-olivera"> carlos-olivera
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carlos-olivera">Copy rank badge</a><br/>
-			Carlos Olivera Terrazas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/carlos_olivera">carlos_olivera</a></td>
-		<td>Bolivia</td>
-		<td>202</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/Kira2602">
-				<img src="https://avatars.githubusercontent.com/u/125493619?s=72&u=6f0036aca8cd89541479dfe09d70f45caeebd823&v=4" width="24" alt="Avatar of Kira2602"> Kira2602
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Kira2602">Copy rank badge</a><br/>
-			Rosario Calisaya Calderon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>202</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/jhordyess">
-				<img src="https://avatars.githubusercontent.com/u/65508346?s=72&u=4bc2f1ad4f9a739337b1f81393eb245a11012d2f&v=4" width="24" alt="Avatar of jhordyess"> jhordyess
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhordyess">Copy rank badge</a><br/>
-			Jhordy Gavinchu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jhordyess">jhordyess</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>201</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/maborak">
-				<img src="https://avatars.githubusercontent.com/u/2009948?s=72&v=4" width="24" alt="Avatar of maborak"> maborak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#maborak">Copy rank badge</a><br/>
-			Wilmer A.
-		</td>
-		<td>Maborak Technologies, Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>198</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/willmanduran">
-				<img src="https://avatars.githubusercontent.com/u/89213345?s=72&u=e42ff85246f7b4679888f256ee565a6b4b3764d8&v=4" width="24" alt="Avatar of willmanduran"> willmanduran
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#willmanduran">Copy rank badge</a><br/>
-			Willman R. Durán Saldías
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/willmanrds">willmanrds</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>146</td>
 		<td>
 			<a href="https://github.com/itskreisler">
 				<img src="https://avatars.githubusercontent.com/u/55462768?s=72&u=30b01edc185aa7440a22a6e15cbe59b746d2c457&v=4" width="24" alt="Avatar of itskreisler"> itskreisler
@@ -2002,127 +1833,75 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/itskreisler">itskreisler</a></td>
 		<td>Sincelejo, Sucre - Colombia</td>
-		<td>194</td>
+		<td>233</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>134</td>
 		<td>
-			<a href="https://github.com/germancsaid">
-				<img src="https://avatars.githubusercontent.com/u/87827345?s=72&u=3b055714af00f6594d229f24077dc4ec0c226e3b&v=4" width="24" alt="Avatar of germancsaid"> germancsaid
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#germancsaid">Copy rank badge</a><br/>
-			G Charls Tardio
-		</td>
-		<td>@koddotech @tracktor-lat </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/Pericena">
-				<img src="https://avatars.githubusercontent.com/u/24308878?s=72&u=88ddc91f39d3d7456269e6a5e88433dad79aebe4&v=4" width="24" alt="Avatar of Pericena"> Pericena
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Pericena">Copy rank badge</a><br/>
-			Luishiño
-		</td>
-		<td>Uagrm Student </td>
-		<td><a href="https://twitter.com/LPericena">LPericena</a></td>
-		<td>Bolivia, Santa Cruz</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/alfredoT7">
-				<img src="https://avatars.githubusercontent.com/u/154649217?s=72&u=7c756b9c8b619447d47d3198f1047bd4e92f03ef&v=4" width="24" alt="Avatar of alfredoT7"> alfredoT7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alfredoT7">Copy rank badge</a><br/>
-			Alfredo Ernesto Torrico Garcia
-		</td>
-		<td>@soft-craft-bol  </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/stanlee321">
-				<img src="https://avatars.githubusercontent.com/u/7696948?s=72&u=e5ba795af0d9d285c7762c266a9ffccfedb890cf&v=4" width="24" alt="Avatar of stanlee321"> stanlee321
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#stanlee321">Copy rank badge</a><br/>
-			Stanley Salvatierra
-		</td>
-		<td>Deepmicrosystems.com </td>
-		<td><a href="https://twitter.com/iamatachyon">iamatachyon</a></td>
-		<td>Bolivia</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/erikfva">
-				<img src="https://avatars.githubusercontent.com/u/24607160?s=72&v=4" width="24" alt="Avatar of erikfva"> erikfva
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#erikfva">Copy rank badge</a><br/>
-			Erik F. Vargas Agreda
+			<a href="https://github.com/LeoMogiano">
+				<img src="https://avatars.githubusercontent.com/u/91585994?s=72&u=4db9af5fde852377be7e0c8ad2c0ff14293f84c4&v=4" width="24" alt="Avatar of LeoMogiano"> LeoMogiano
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LeoMogiano">Copy rank badge</a><br/>
+			Leonardo Mogiano Gutierrez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>189</td>
+		<td>Santa Cruz (Bolivia)</td>
+		<td>230</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>135</td>
 		<td>
-			<a href="https://github.com/fabinnerself">
-				<img src="https://avatars.githubusercontent.com/u/8484799?s=72&u=1495ed1c8a9582225385487718c37175dff1a778&v=4" width="24" alt="Avatar of fabinnerself"> fabinnerself
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fabinnerself">Copy rank badge</a><br/>
-			Favian Medina
+			<a href="https://github.com/RafaelReyes0816">
+				<img src="https://avatars.githubusercontent.com/u/141748653?s=72&u=ed4672a0ddcf670c5a56d0b66e19daa29e6aa3ff&v=4" width="24" alt="Avatar of RafaelReyes0816"> RafaelReyes0816
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RafaelReyes0816">Copy rank badge</a><br/>
+			Rafael Reyes
 		</td>
-		<td>Soletud Aeturnus </td>
-		<td><a href="https://twitter.com/favinnerself">favinnerself</a></td>
-		<td>La Paz Bolivia South America</td>
-		<td>187</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RafaelR10996376">RafaelR10996376</a></td>
+		<td>Bolivia</td>
+		<td>230</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>136</td>
 		<td>
-			<a href="https://github.com/OmarRMC">
-				<img src="https://avatars.githubusercontent.com/u/76457439?s=72&u=2abf63835773f6ca8d908f49a13f1b7432234dbf&v=4" width="24" alt="Avatar of OmarRMC"> OmarRMC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#OmarRMC">Copy rank badge</a><br/>
-			Omar R Mamani
+			<a href="https://github.com/Andross3">
+				<img src="https://avatars.githubusercontent.com/u/128936023?s=72&u=775c7238abea95339187c4fbcd649962e2ea8db2&v=4" width="24" alt="Avatar of Andross3"> Andross3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Andross3">Copy rank badge</a><br/>
+			Andres Chavez
 		</td>
-		<td>Ing. En Sistemas Informaticos<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/Chambeador">
-				<img src="https://avatars.githubusercontent.com/u/132324218?s=72&u=14c6823ed3bd3df6791c68819237a71a1d43dffb&v=4" width="24" alt="Avatar of Chambeador"> Chambeador
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Chambeador">Copy rank badge</a><br/>
-			Miguel Angel Condori
-		</td>
-		<td>Universidad Mayor De San<br/>Simon<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba-Bolivia</td>
-		<td>185</td>
+		<td>230</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>137</td>
 		<td>
-			<a href="https://github.com/AlexanderTemp">
-				<img src="https://avatars.githubusercontent.com/u/25992298?s=72&u=aee76df26845ad130b92da5b54bc579f5895aa76&v=4" width="24" alt="Avatar of AlexanderTemp"> AlexanderTemp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlexanderTemp">Copy rank badge</a><br/>
-			Alexander Nina
+			<a href="https://github.com/cr0wg4n">
+				<img src="https://avatars.githubusercontent.com/u/14966182?s=72&u=8c4b478c941eda8f39295cb0f69256524ff64180&v=4" width="24" alt="Avatar of cr0wg4n"> cr0wg4n
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cr0wg4n">Copy rank badge</a><br/>
+			Mauricio Matias C.
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/cr0wg4n">cr0wg4n</a></td>
 		<td>Bolivia</td>
-		<td>185</td>
+		<td>223</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/rsoft-latam">
+				<img src="https://avatars.githubusercontent.com/u/21285250?s=72&u=e6f5a50a7ef5814b66390272d39cd22adf2791e0&v=4" width="24" alt="Avatar of rsoft-latam"> rsoft-latam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rsoft-latam">Copy rank badge</a><br/>
+			Ricardo Pari
+		</td>
+		<td>Rsoft Latam </td>
+		<td><a href="https://twitter.com/rsoft_latam">rsoft_latam</a></td>
+		<td>La Paz (Bolivia)</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/Vargm-b">
 				<img src="https://avatars.githubusercontent.com/u/183957425?s=72&u=900fccb0661f9aba593447f31559814fef31b04f&v=4" width="24" alt="Avatar of Vargm-b"> Vargm-b
@@ -2132,62 +1911,348 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Universidad Mayor De San<br/>Simon<br/></td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba, Bolivia</td>
-		<td>184</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/pablonoya">
+				<img src="https://avatars.githubusercontent.com/u/31524852?s=72&u=ad27fb0901bfca27b7fbf2846483aafbf05946b1&v=4" width="24" alt="Avatar of pablonoya"> pablonoya
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pablonoya">Copy rank badge</a><br/>
+			Pablo Noya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre, Bolivia</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/AlejandroCalzadilla">
+				<img src="https://avatars.githubusercontent.com/u/118866799?s=72&v=4" width="24" alt="Avatar of AlejandroCalzadilla"> AlejandroCalzadilla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlejandroCalzadilla">Copy rank badge</a><br/>
+			Jose_ALejandro_Calzadilla_Nogales
+		</td>
+		<td>Universidad_autonoma </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/AngelAlmanza">
+				<img src="https://avatars.githubusercontent.com/u/86009089?s=72&u=7d1bc182e71a35350ceebc815c74e9a0f9e3c86b&v=4" width="24" alt="Avatar of AngelAlmanza"> AngelAlmanza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AngelAlmanza">Copy rank badge</a><br/>
+			Angel Almanza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La paz, B.C.S. México</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/maborak">
+				<img src="https://avatars.githubusercontent.com/u/2009948?s=72&v=4" width="24" alt="Avatar of maborak"> maborak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#maborak">Copy rank badge</a><br/>
+			Wilmer A.
+		</td>
+		<td>Maborak Technologies, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/nahuelXZV">
+				<img src="https://avatars.githubusercontent.com/u/80172547?s=72&u=e6f75e0f1136b202ded9155b7e88da49990e0dec&v=4" width="24" alt="Avatar of nahuelXZV"> nahuelXZV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahuelXZV">Copy rank badge</a><br/>
+			Nahuel Zalazar
+		</td>
+		<td>Dualbiz </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/rossmelabasto">
+				<img src="https://avatars.githubusercontent.com/u/76182770?s=72&u=87dd10dc31a31b15b86229914a10895dd01f7144&v=4" width="24" alt="Avatar of rossmelabasto"> rossmelabasto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rossmelabasto">Copy rank badge</a><br/>
+			Rossmel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/stanlee321">
+				<img src="https://avatars.githubusercontent.com/u/7696948?s=72&u=e5ba795af0d9d285c7762c266a9ffccfedb890cf&v=4" width="24" alt="Avatar of stanlee321"> stanlee321
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#stanlee321">Copy rank badge</a><br/>
+			Stanley Salvatierra
+		</td>
+		<td>Deepmicrosystems.com </td>
+		<td><a href="https://twitter.com/iamatachyon">iamatachyon</a></td>
+		<td>Bolivia</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/jhordyess">
+				<img src="https://avatars.githubusercontent.com/u/65508346?s=72&u=4bc2f1ad4f9a739337b1f81393eb245a11012d2f&v=4" width="24" alt="Avatar of jhordyess"> jhordyess
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhordyess">Copy rank badge</a><br/>
+			Jhordy Gavinchu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jhordyess">jhordyess</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/omarhuanca">
+				<img src="https://avatars.githubusercontent.com/u/13002587?s=72&u=3cc22aee987805c3b9dd718034770cc0a8c71385&v=4" width="24" alt="Avatar of omarhuanca"> omarhuanca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#omarhuanca">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Center Memi </td>
+		<td>No Twitter Username</td>
+		<td>Cercado - Cochabamba</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/willmanduran">
+				<img src="https://avatars.githubusercontent.com/u/89213345?s=72&u=e42ff85246f7b4679888f256ee565a6b4b3764d8&v=4" width="24" alt="Avatar of willmanduran"> willmanduran
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#willmanduran">Copy rank badge</a><br/>
+			Willman R. Durán Saldías
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/willmanrds">willmanrds</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/richardparra99">
+				<img src="https://avatars.githubusercontent.com/u/110671604?s=72&u=26427d192880e3e2cf6b67b02fe8e44f2f61a506&v=4" width="24" alt="Avatar of richardparra99"> richardparra99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#richardparra99">Copy rank badge</a><br/>
+			Richard Parra Zegarra
+		</td>
+		<td>Universidad Nur </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra (Bolivia)</td>
+		<td>202</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/Pericena">
+				<img src="https://avatars.githubusercontent.com/u/24308878?s=72&u=88ddc91f39d3d7456269e6a5e88433dad79aebe4&v=4" width="24" alt="Avatar of Pericena"> Pericena
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Pericena">Copy rank badge</a><br/>
+			Luishiño
+		</td>
+		<td>Uagrm Student </td>
+		<td><a href="https://twitter.com/LPericena">LPericena</a></td>
+		<td>Bolivia, Santa Cruz</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/taicoding">
+				<img src="https://avatars.githubusercontent.com/u/6510765?s=72&u=211d7ce4bef0eb5d2127b34b70182cd0d2df9287&v=4" width="24" alt="Avatar of taicoding"> taicoding
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#taicoding">Copy rank badge</a><br/>
+			Tatiana Delgadillo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/taicoding">taicoding</a></td>
+		<td>La Paz</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/germancsaid">
+				<img src="https://avatars.githubusercontent.com/u/87827345?s=72&u=3b055714af00f6594d229f24077dc4ec0c226e3b&v=4" width="24" alt="Avatar of germancsaid"> germancsaid
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#germancsaid">Copy rank badge</a><br/>
+			G Charls Tardio
+		</td>
+		<td>@koddotech @tracktor-lat </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/erikfva">
+				<img src="https://avatars.githubusercontent.com/u/24607160?s=72&v=4" width="24" alt="Avatar of erikfva"> erikfva
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#erikfva">Copy rank badge</a><br/>
+			Erik F. Vargas Agreda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/Chambeador">
+				<img src="https://avatars.githubusercontent.com/u/132324218?s=72&u=14c6823ed3bd3df6791c68819237a71a1d43dffb&v=4" width="24" alt="Avatar of Chambeador"> Chambeador
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Chambeador">Copy rank badge</a><br/>
+			Miguel Angel Condori
+		</td>
+		<td>Universidad Mayor De San<br/>Simon<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba-Bolivia</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/Valls017">
+				<img src="https://avatars.githubusercontent.com/u/128014986?s=72&u=fdf91614c4328dbca15cd2061b6338f01d67aacd&v=4" width="24" alt="Avatar of Valls017"> Valls017
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Valls017">Copy rank badge</a><br/>
+			Marcelo Vallejos Tinta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>157</td>
 		<td>
-			<a href="https://github.com/marceloquispeortega">
-				<img src="https://avatars.githubusercontent.com/u/15899528?s=72&u=6b8ceeb4158dfaf95c930d71b841cf7fed553a82&v=4" width="24" alt="Avatar of marceloquispeortega"> marceloquispeortega
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#marceloquispeortega">Copy rank badge</a><br/>
-			Marcelo Quispe Ortega
+			<a href="https://github.com/Diegootm">
+				<img src="https://avatars.githubusercontent.com/u/201616094?s=72&u=be623d7806301d6bb8920a7ac30590d817e4cea8&v=4" width="24" alt="Avatar of Diegootm"> Diegootm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Diegootm">Copy rank badge</a><br/>
+			Diego Tejerina 
 		</td>
-		<td>Servicios Informáticos #rootcode </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre</td>
-		<td>183</td>
+		<td>Bolivia</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/milets04">
-				<img src="https://avatars.githubusercontent.com/u/153246370?s=72&u=0d04c0f9ce52e08db015cce6e61b3872d43bf9c8&v=4" width="24" alt="Avatar of milets04"> milets04
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#milets04">Copy rank badge</a><br/>
-			Milena Torrico 
+			<a href="https://github.com/MikeGutty">
+				<img src="https://avatars.githubusercontent.com/u/170435377?s=72&u=1f7cd89ab4e63c8243ee22eb2846154c73938372&v=4" width="24" alt="Avatar of MikeGutty"> MikeGutty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MikeGutty">Copy rank badge</a><br/>
+			Michael Gutierrez
 		</td>
-		<td>Umss </td>
+		<td>Xanthops </td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>183</td>
+		<td>Bolivia</td>
+		<td>191</td>
 	</tr>
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/Jalgoz">
-				<img src="https://avatars.githubusercontent.com/u/71052601?s=72&u=2edfd8e268800355215c1536e6f5e164ba50209d&v=4" width="24" alt="Avatar of Jalgoz"> Jalgoz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jalgoz">Copy rank badge</a><br/>
-			José Lozada Gómez
+			<a href="https://github.com/nathan95oks">
+				<img src="https://avatars.githubusercontent.com/u/160979036?s=72&u=a9358848f6fb9e3def8dd305e0a46935ecb9812f&v=4" width="24" alt="Avatar of nathan95oks"> nathan95oks
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nathan95oks">Copy rank badge</a><br/>
+			Nathanael Alba
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/J4LGOZ">J4LGOZ</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>183</td>
+		<td>Universidad Catolica Bolivina San<br/>Pablo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Cochabamba</td>
+		<td>191</td>
 	</tr>
 	<tr>
 		<td>160</td>
 		<td>
-			<a href="https://github.com/rodriQuelali">
-				<img src="https://avatars.githubusercontent.com/u/94028016?s=72&u=cfb10c0ef17ef745a9aa441e8c61c9e376e628f1&v=4" width="24" alt="Avatar of rodriQuelali"> rodriQuelali
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rodriQuelali">Copy rank badge</a><br/>
-			rodriquelali
+			<a href="https://github.com/abelrgr">
+				<img src="https://avatars.githubusercontent.com/u/1250071?s=72&v=4" width="24" alt="Avatar of abelrgr"> abelrgr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#abelrgr">Copy rank badge</a><br/>
+			Abel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia-La Paz</td>
-		<td>182</td>
+		<td>Bolivia</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>161</td>
+		<td>
+			<a href="https://github.com/alfredoT7">
+				<img src="https://avatars.githubusercontent.com/u/154649217?s=72&u=7c756b9c8b619447d47d3198f1047bd4e92f03ef&v=4" width="24" alt="Avatar of alfredoT7"> alfredoT7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alfredoT7">Copy rank badge</a><br/>
+			Alfredo Ernesto Torrico Garcia
+		</td>
+		<td>@soft-craft-bol  </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/MiguelT18">
+				<img src="https://avatars.githubusercontent.com/u/64659722?s=72&u=373d09d4469df4d70723b8ca98c7bc1515d94e3b&v=4" width="24" alt="Avatar of MiguelT18"> MiguelT18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiguelT18">Copy rank badge</a><br/>
+			Miguel Teran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tarija, Bolivia</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/jsoliz064">
+				<img src="https://avatars.githubusercontent.com/u/62267283?s=72&u=8091138bc466ab6d8bebe53c306f649b33525da1&v=4" width="24" alt="Avatar of jsoliz064"> jsoliz064
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jsoliz064">Copy rank badge</a><br/>
+			Jose Daniel Soliz
+		</td>
+		<td>Mindmap Srl </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/IdenTiclla">
+				<img src="https://avatars.githubusercontent.com/u/20525059?s=72&u=febe5a8a5d205ddaca603edc9d53a09067a9ff7f&v=4" width="24" alt="Avatar of IdenTiclla"> IdenTiclla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IdenTiclla">Copy rank badge</a><br/>
+			Iden Ticlla
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/IdenTiclla">IdenTiclla</a></td>
+		<td>Bolivia</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/antonelladev">
+				<img src="https://avatars.githubusercontent.com/u/118008601?s=72&u=3b30fe99625f8e9643e0ea2a8cec1c5a40e2525d&v=4" width="24" alt="Avatar of antonelladev"> antonelladev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#antonelladev">Copy rank badge</a><br/>
+			Linda Antonella
+		</td>
+		<td>Kleur Digital </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>181</td>
+	</tr>
+	<tr>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/gabriel-pantojab">
 				<img src="https://avatars.githubusercontent.com/u/81129980?s=72&u=314e3bc4a6a722083d14795dc9421b948b13b6b9&v=4" width="24" alt="Avatar of gabriel-pantojab"> gabriel-pantojab
@@ -2200,59 +2265,111 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>167</td>
 		<td>
-			<a href="https://github.com/antonelladev">
-				<img src="https://avatars.githubusercontent.com/u/118008601?s=72&u=3b30fe99625f8e9643e0ea2a8cec1c5a40e2525d&v=4" width="24" alt="Avatar of antonelladev"> antonelladev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#antonelladev">Copy rank badge</a><br/>
-			Linda Antonella
-		</td>
-		<td>Kleur Digital </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/Dylan-Uribe">
-				<img src="https://avatars.githubusercontent.com/u/124309583?s=72&u=b8ae0674d69e1c5e23e0c07417de70ccc0d155cc&v=4" width="24" alt="Avatar of Dylan-Uribe"> Dylan-Uribe
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Dylan-Uribe">Copy rank badge</a><br/>
-			Dylan Joel Uribe Blatnik
+			<a href="https://github.com/rodriQuelali">
+				<img src="https://avatars.githubusercontent.com/u/94028016?s=72&u=cfb10c0ef17ef745a9aa441e8c61c9e376e628f1&v=4" width="24" alt="Avatar of rodriQuelali"> rodriQuelali
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rodriQuelali">Copy rank badge</a><br/>
+			rodriquelali
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz De la Sierra, Bolivia</td>
+		<td>Bolivia-La Paz</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/Jalgoz">
+				<img src="https://avatars.githubusercontent.com/u/71052601?s=72&u=2edfd8e268800355215c1536e6f5e164ba50209d&v=4" width="24" alt="Avatar of Jalgoz"> Jalgoz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jalgoz">Copy rank badge</a><br/>
+			José Lozada Gómez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/J4LGOZ">J4LGOZ</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/Diego785">
+				<img src="https://avatars.githubusercontent.com/u/62267327?s=72&u=49f416cd599cfb07b267c4869f94f5fdc87e0ea1&v=4" width="24" alt="Avatar of Diego785"> Diego785
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Diego785">Copy rank badge</a><br/>
+			Diego Hurtado Vargas
+		</td>
+		<td>Boliviandevs · Solutiontech </td>
+		<td><a href="https://twitter.com/DiegoHurtadoVa3">DiegoHurtadoVa3</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/ikanadev">
+				<img src="https://avatars.githubusercontent.com/u/63680173?s=72&u=3f05c02ef63b7408114f0263f654b1445a4ee32a&v=4" width="24" alt="Avatar of ikanadev"> ikanadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ikanadev">Copy rank badge</a><br/>
+			Kevv
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>171</td>
 		<td>
-			<a href="https://github.com/omarhuanca">
-				<img src="https://avatars.githubusercontent.com/u/13002587?s=72&u=3cc22aee987805c3b9dd718034770cc0a8c71385&v=4" width="24" alt="Avatar of omarhuanca"> omarhuanca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#omarhuanca">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/yhojan2007">
+				<img src="https://avatars.githubusercontent.com/u/209562004?s=72&v=4" width="24" alt="Avatar of yhojan2007"> yhojan2007
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yhojan2007">Copy rank badge</a><br/>
+			Yhojan Mendoza
 		</td>
-		<td>Center Memi </td>
+		<td>Uagrm Ficct </td>
 		<td>No Twitter Username</td>
-		<td>Cercado - Cochabamba</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/sebastianDuranC">
+				<img src="https://avatars.githubusercontent.com/u/88981225?s=72&u=afef73b6a60f051af4e8e46fe262d7ee5cd02885&v=4" width="24" alt="Avatar of sebastianDuranC"> sebastianDuranC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sebastianDuranC">Copy rank badge</a><br/>
+			Sebastian Duran Caballero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>173</td>
 		<td>
-			<a href="https://github.com/FershoUno">
-				<img src="https://avatars.githubusercontent.com/u/50505848?s=72&u=3390627d3e0ad979e894e87a360adb606faf6f62&v=4" width="24" alt="Avatar of FershoUno"> FershoUno
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FershoUno">Copy rank badge</a><br/>
-			Fernando
+			<a href="https://github.com/diegoPenguino">
+				<img src="https://avatars.githubusercontent.com/u/22405024?s=72&u=cae48c998f671418ed4c2df43357ed197a9eaa63&v=4" width="24" alt="Avatar of diegoPenguino"> diegoPenguino
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegoPenguino">Copy rank badge</a><br/>
+			Diego Angulo Ramirez
 		</td>
-		<td>@nlbol  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>175</td>
+		<td>Cochabamba, Bolivia </td>
+		<td>176</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/miguel-atencio-vargas">
+				<img src="https://avatars.githubusercontent.com/u/33062530?s=72&u=400a8abb272f067f867ba2ce94bf933508bfd078&v=4" width="24" alt="Avatar of miguel-atencio-vargas"> miguel-atencio-vargas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#miguel-atencio-vargas">Copy rank badge</a><br/>
+			Miguel Atencio Vargas
+		</td>
+		<td>Coderoad </td>
+		<td><a href="https://twitter.com/atencio947">atencio947</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/iguii">
 				<img src="https://avatars.githubusercontent.com/u/22847626?s=72&u=9a926a83cead2827a02087a3f41bf06f070fff7c&v=4" width="24" alt="Avatar of iguii"> iguii
@@ -2265,20 +2382,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>176</td>
 		<td>
-			<a href="https://github.com/Diegootm">
-				<img src="https://avatars.githubusercontent.com/u/201616094?s=72&u=be623d7806301d6bb8920a7ac30590d817e4cea8&v=4" width="24" alt="Avatar of Diegootm"> Diegootm
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Diegootm">Copy rank badge</a><br/>
-			Diego Tejerina 
+			<a href="https://github.com/ynvYauneEnovore">
+				<img src="https://avatars.githubusercontent.com/u/88410835?s=72&u=81f5b7edd0254d910fedfb7c49546afb2861071a&v=4" width="24" alt="Avatar of ynvYauneEnovore"> ynvYauneEnovore
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ynvYauneEnovore">Copy rank badge</a><br/>
+			Yovan R. Enovore
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Encorp Llc </td>
+		<td><a href="https://twitter.com/ramonenovore">ramonenovore</a></td>
+		<td>Sucre Bolivia</td>
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/cesarcori">
 				<img src="https://avatars.githubusercontent.com/u/75759935?s=72&u=bec76e77e2e8aa119d8656c7ee67ad8b2bdc99c1&v=4" width="24" alt="Avatar of cesarcori"> cesarcori
@@ -2291,7 +2408,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/carlos-olivera">
+				<img src="https://avatars.githubusercontent.com/u/1182541?s=72&u=6da00038c6af382c75a6752588dc0eac8026a5e0&v=4" width="24" alt="Avatar of carlos-olivera"> carlos-olivera
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carlos-olivera">Copy rank badge</a><br/>
+			Carlos Olivera Terrazas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/carlos_olivera">carlos_olivera</a></td>
+		<td>Bolivia</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Feliverse">
 				<img src="https://avatars.githubusercontent.com/u/114632980?s=72&u=1c26aa72a5e4556c1e772e9d03358b34cb225f5b&v=4" width="24" alt="Avatar of Feliverse"> Feliverse
@@ -2301,62 +2431,36 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/FelipeHaybar">FelipeHaybar</a></td>
 		<td>Cochabamba, Bolivia</td>
-		<td>173</td>
+		<td>169</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>180</td>
 		<td>
-			<a href="https://github.com/danielquisbert">
-				<img src="https://avatars.githubusercontent.com/u/2903100?s=72&u=b49cd8afeef935a58ba68ac1de094dbf77105dd2&v=4" width="24" alt="Avatar of danielquisbert"> danielquisbert
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danielquisbert">Copy rank badge</a><br/>
-			DaNi
+			<a href="https://github.com/OmarRMC">
+				<img src="https://avatars.githubusercontent.com/u/76457439?s=72&u=2abf63835773f6ca8d908f49a13f1b7432234dbf&v=4" width="24" alt="Avatar of OmarRMC"> OmarRMC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#OmarRMC">Copy rank badge</a><br/>
+			Omar R Mamani
 		</td>
-		<td>@arteclab  </td>
-		<td><a href="https://twitter.com/danielquisbertc">danielquisbertc</a></td>
-		<td>La Paz - Bolivia</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/arielgos">
-				<img src="https://avatars.githubusercontent.com/u/5615798?s=72&u=ba04e35b7cf10680898807eb3a7114f4404984a1&v=4" width="24" alt="Avatar of arielgos"> arielgos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#arielgos">Copy rank badge</a><br/>
-			Ariel Ortuño Solis
-		</td>
-		<td>Arielgos </td>
-		<td><a href="https://twitter.com/arielgos">arielgos</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>171</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/miguel-atencio-vargas">
-				<img src="https://avatars.githubusercontent.com/u/33062530?s=72&u=400a8abb272f067f867ba2ce94bf933508bfd078&v=4" width="24" alt="Avatar of miguel-atencio-vargas"> miguel-atencio-vargas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#miguel-atencio-vargas">Copy rank badge</a><br/>
-			Miguel Atencio Vargas
-		</td>
-		<td>Coderoad </td>
-		<td><a href="https://twitter.com/atencio947">atencio947</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>171</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/rats4final">
-				<img src="https://avatars.githubusercontent.com/u/80012704?s=72&v=4" width="24" alt="Avatar of rats4final"> rats4final
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rats4final">Copy rank badge</a><br/>
-			David Antezana
-		</td>
-		<td>No Company</td>
+		<td>Ing. En Sistemas Informaticos<br/></td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>170</td>
+		<td>La Paz - Bolivia</td>
+		<td>169</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/drkpkg">
+				<img src="https://avatars.githubusercontent.com/u/972555?s=72&u=285352ba16d6e52ecc5d23caa858dbd1be889f09&v=4" width="24" alt="Avatar of drkpkg"> drkpkg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#drkpkg">Copy rank badge</a><br/>
+			Felix Daniel Coca Calvimontes
+		</td>
+		<td>Appex Latam </td>
+		<td><a href="https://twitter.com/DevBastion">DevBastion</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/adhes14">
 				<img src="https://avatars.githubusercontent.com/u/66705273?s=72&u=7ba9dc5fb46e9f80c01e7893802bd9532110df41&v=4" width="24" alt="Avatar of adhes14"> adhes14
@@ -2369,7 +2473,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/Nicolas-Pedernera">
 				<img src="https://avatars.githubusercontent.com/u/300781681?s=72&u=2f8666376644e87c0125ef3dca242fec8c35aaf3&v=4" width="24" alt="Avatar of Nicolas-Pedernera"> Nicolas-Pedernera
@@ -2382,20 +2486,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/richardparra99">
-				<img src="https://avatars.githubusercontent.com/u/110671604?s=72&u=26427d192880e3e2cf6b67b02fe8e44f2f61a506&v=4" width="24" alt="Avatar of richardparra99"> richardparra99
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#richardparra99">Copy rank badge</a><br/>
-			Richard Parra Zegarra
-		</td>
-		<td>Universidad Nur </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra (Bolivia)</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>177</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/AlvaroLimber">
 				<img src="https://avatars.githubusercontent.com/u/8467833?s=72&u=af0cedd1824d3e5fc4bb340cda86fa01efde5702&v=4" width="24" alt="Avatar of AlvaroLimber"> AlvaroLimber
@@ -2405,36 +2496,62 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Fundación Aru </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>167</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>185</td>
 		<td>
-			<a href="https://github.com/drkpkg">
-				<img src="https://avatars.githubusercontent.com/u/972555?s=72&u=285352ba16d6e52ecc5d23caa858dbd1be889f09&v=4" width="24" alt="Avatar of drkpkg"> drkpkg
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#drkpkg">Copy rank badge</a><br/>
-			Felix Daniel Coca Calvimontes
+			<a href="https://github.com/arielgos">
+				<img src="https://avatars.githubusercontent.com/u/5615798?s=72&u=ba04e35b7cf10680898807eb3a7114f4404984a1&v=4" width="24" alt="Avatar of arielgos"> arielgos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#arielgos">Copy rank badge</a><br/>
+			Ariel Ortuño Solis
 		</td>
-		<td>Appex Latam </td>
-		<td><a href="https://twitter.com/DevBastion">DevBastion</a></td>
+		<td>Arielgos </td>
+		<td><a href="https://twitter.com/arielgos">arielgos</a></td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>161</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>186</td>
 		<td>
-			<a href="https://github.com/FrancoJTA">
-				<img src="https://avatars.githubusercontent.com/u/153335505?s=72&u=951c8949167ca682acce320bb0c31c16d2d2c922&v=4" width="24" alt="Avatar of FrancoJTA"> FrancoJTA
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FrancoJTA">Copy rank badge</a><br/>
-			Franco Torrez
+			<a href="https://github.com/cristianiniguez">
+				<img src="https://avatars.githubusercontent.com/u/64929919?s=72&u=de8a785d43bb774c4c7ef8e80fd4e8f91d80b50e&v=4" width="24" alt="Avatar of cristianiniguez"> cristianiniguez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cristianiniguez">Copy rank badge</a><br/>
+			Cristian Felix Iñiguez Porcel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>161</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>163</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/lalomax">
+				<img src="https://avatars.githubusercontent.com/u/95863162?s=72&u=58451942c7a9655be842a16224f6c6303c9171a1&v=4" width="24" alt="Avatar of lalomax"> lalomax
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#lalomax">Copy rank badge</a><br/>
+			Orlando
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/OrlandoFloresH">OrlandoFloresH</a></td>
+		<td>La Paz Bolivia</td>
+		<td>160</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/fabinnerself">
+				<img src="https://avatars.githubusercontent.com/u/8484799?s=72&u=1495ed1c8a9582225385487718c37175dff1a778&v=4" width="24" alt="Avatar of fabinnerself"> fabinnerself
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fabinnerself">Copy rank badge</a><br/>
+			Favian Medina
+		</td>
+		<td>Soletud Aeturnus </td>
+		<td><a href="https://twitter.com/favinnerself">favinnerself</a></td>
+		<td>La Paz Bolivia South America</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/Israel-Almanza">
 				<img src="https://avatars.githubusercontent.com/u/60950503?s=72&u=69fd57312c8c6d2657486086421164b597f02bba&v=4" width="24" alt="Avatar of Israel-Almanza"> Israel-Almanza
@@ -2447,72 +2564,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>190</td>
 		<td>
-			<a href="https://github.com/Valls017">
-				<img src="https://avatars.githubusercontent.com/u/128014986?s=72&u=fdf91614c4328dbca15cd2061b6338f01d67aacd&v=4" width="24" alt="Avatar of Valls017"> Valls017
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Valls017">Copy rank badge</a><br/>
-			Marcelo Vallejos Tinta
+			<a href="https://github.com/Krakaur">
+				<img src="https://avatars.githubusercontent.com/u/85331368?s=72&u=70daf336155a0c736927a71b0efc298a47da674c&v=4" width="24" alt="Avatar of Krakaur"> Krakaur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Krakaur">Copy rank badge</a><br/>
+			Hans Krakaur
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Doctorado Educación Udg </td>
+		<td><a href="https://twitter.com/HKrakaur">HKrakaur</a></td>
+		<td>La Paz</td>
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/xcharag">
-				<img src="https://avatars.githubusercontent.com/u/106485083?s=72&u=7f45df81de24cd5382e43bd7c40353cf802d7702&v=4" width="24" alt="Avatar of xcharag"> xcharag
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xcharag">Copy rank badge</a><br/>
-			Oscar Denes Aguilar Soliz
-		</td>
-		<td>@microcom-ti </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/EstebanBra">
-				<img src="https://avatars.githubusercontent.com/u/120672895?s=72&u=55f0728728b1aa6497db5a5df9f32ddf2dc04d5c&v=4" width="24" alt="Avatar of EstebanBra"> EstebanBra
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EstebanBra">Copy rank badge</a><br/>
-			Esteban Bravo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Pedro de La Paz, Chile</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/camtordev">
-				<img src="https://avatars.githubusercontent.com/u/139392199?s=72&u=6daba316b0b0dcf26220ecc31887b99eccddf3b3&v=4" width="24" alt="Avatar of camtordev"> camtordev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#camtordev">Copy rank badge</a><br/>
-			Humberto Alejandro Campos Torrejon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/MikeGutty">
-				<img src="https://avatars.githubusercontent.com/u/170435377?s=72&u=1f7cd89ab4e63c8243ee22eb2846154c73938372&v=4" width="24" alt="Avatar of MikeGutty"> MikeGutty
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MikeGutty">Copy rank badge</a><br/>
-			Michael Gutierrez
-		</td>
-		<td>Xanthops </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>186</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/adrianlaymepresi">
 				<img src="https://avatars.githubusercontent.com/u/178117712?s=72&u=cab753c747440502768449311af7807af9f76ed8&v=4" width="24" alt="Avatar of adrianlaymepresi"> adrianlaymepresi
@@ -2522,10 +2587,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>SUCRE, BOLIVIA</td>
-		<td>156</td>
+		<td>157</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/Programmercito">
 				<img src="https://avatars.githubusercontent.com/u/4504287?s=72&u=fc41a3d194e91ca87c49505109d2921b10e858be&v=4" width="24" alt="Avatar of Programmercito"> Programmercito
@@ -2535,218 +2600,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/programmercito">programmercito</a></td>
 		<td>Bolivia</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/jsoliz064">
-				<img src="https://avatars.githubusercontent.com/u/62267283?s=72&u=8091138bc466ab6d8bebe53c306f649b33525da1&v=4" width="24" alt="Avatar of jsoliz064"> jsoliz064
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jsoliz064">Copy rank badge</a><br/>
-			Jose Daniel Soliz
-		</td>
-		<td>Mindmap Srl </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/oscarcortez">
-				<img src="https://avatars.githubusercontent.com/u/48032479?s=72&u=3312c26f80cd9b75c9f19df9b423c0906f555271&v=4" width="24" alt="Avatar of oscarcortez"> oscarcortez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#oscarcortez">Copy rank badge</a><br/>
-			Oscar Cortez
-		</td>
-		<td>Intergraphics </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/Jaimeclaure">
-				<img src="https://avatars.githubusercontent.com/u/8270777?s=72&u=bdba8839e956399314a088e3eff1cd3c105bfa52&v=4" width="24" alt="Avatar of Jaimeclaure"> Jaimeclaure
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jaimeclaure">Copy rank badge</a><br/>
-			Jaime Claure
-		</td>
-		<td>Digital Naviera </td>
-		<td><a href="https://twitter.com/jaibytes">jaibytes</a></td>
-		<td>Bolivia </td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/DrunkOldDog">
-				<img src="https://avatars.githubusercontent.com/u/21226219?s=72&u=31c4614b0bc985f32b3aa424bb7b9af90853ccf8&v=4" width="24" alt="Avatar of DrunkOldDog"> DrunkOldDog
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DrunkOldDog">Copy rank badge</a><br/>
-			Juan Ignacio Reyes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/juanireyesg">juanireyesg</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/sebastianDuranC">
-				<img src="https://avatars.githubusercontent.com/u/88981225?s=72&u=afef73b6a60f051af4e8e46fe262d7ee5cd02885&v=4" width="24" alt="Avatar of sebastianDuranC"> sebastianDuranC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sebastianDuranC">Copy rank badge</a><br/>
-			Sebastian Duran Caballero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>149</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>193</td>
 		<td>
-			<a href="https://github.com/ikanadev">
-				<img src="https://avatars.githubusercontent.com/u/63680173?s=72&u=3f05c02ef63b7408114f0263f654b1445a4ee32a&v=4" width="24" alt="Avatar of ikanadev"> ikanadev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ikanadev">Copy rank badge</a><br/>
-			Kevv
+			<a href="https://github.com/Dylan-Uribe">
+				<img src="https://avatars.githubusercontent.com/u/124309583?s=72&u=b8ae0674d69e1c5e23e0c07417de70ccc0d155cc&v=4" width="24" alt="Avatar of Dylan-Uribe"> Dylan-Uribe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Dylan-Uribe">Copy rank badge</a><br/>
+			Dylan Joel Uribe Blatnik
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>148</td>
+		<td>Santa Cruz De la Sierra, Bolivia</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>194</td>
-		<td>
-			<a href="https://github.com/cristianiniguez">
-				<img src="https://avatars.githubusercontent.com/u/64929919?s=72&u=de8a785d43bb774c4c7ef8e80fd4e8f91d80b50e&v=4" width="24" alt="Avatar of cristianiniguez"> cristianiniguez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cristianiniguez">Copy rank badge</a><br/>
-			Cristian Felix Iñiguez Porcel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/imertetsu">
-				<img src="https://avatars.githubusercontent.com/u/52182312?s=72&u=24dbebb3e2d4514b0b3ccc4cb1aa8bdf30850503&v=4" width="24" alt="Avatar of imertetsu"> imertetsu
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#imertetsu">Copy rank badge</a><br/>
-			Imer Coaguila
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/ynvYauneEnovore">
-				<img src="https://avatars.githubusercontent.com/u/88410835?s=72&u=81f5b7edd0254d910fedfb7c49546afb2861071a&v=4" width="24" alt="Avatar of ynvYauneEnovore"> ynvYauneEnovore
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ynvYauneEnovore">Copy rank badge</a><br/>
-			Yovan R. Enovore
-		</td>
-		<td>Encorp Llc </td>
-		<td><a href="https://twitter.com/ramonenovore">ramonenovore</a></td>
-		<td>Sucre Bolivia</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/paolojoaquinp">
-				<img src="https://avatars.githubusercontent.com/u/70081671?s=72&u=7fb00bc256f5774e96ddb5cfe9aff9357ef40d60&v=4" width="24" alt="Avatar of paolojoaquinp"> paolojoaquinp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paolojoaquinp">Copy rank badge</a><br/>
-			Paolo Joaquin Pinto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/paolojoaquinp">paolojoaquinp</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/Troy8203">
-				<img src="https://avatars.githubusercontent.com/u/61430237?s=72&u=0fdffb8dd0616b7cfe50379796aa944a946417cc&v=4" width="24" alt="Avatar of Troy8203"> Troy8203
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Troy8203">Copy rank badge</a><br/>
-			Roy Ayala
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/yhojan2007">
-				<img src="https://avatars.githubusercontent.com/u/209562004?s=72&v=4" width="24" alt="Avatar of yhojan2007"> yhojan2007
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yhojan2007">Copy rank badge</a><br/>
-			Yhojan Mendoza
-		</td>
-		<td>Uagrm Ficct </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/enrique159">
-				<img src="https://avatars.githubusercontent.com/u/16583689?s=72&u=8644ce84818ba864b08aa3e186535c61b07e7cc1&v=4" width="24" alt="Avatar of enrique159"> enrique159
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#enrique159">Copy rank badge</a><br/>
-			Enrique Marin
-		</td>
-		<td>Bewor </td>
-		<td><a href="https://twitter.com/emarin_dev">emarin_dev</a></td>
-		<td>La Paz, Baja California Sur, México</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/eavm314">
-				<img src="https://avatars.githubusercontent.com/u/91498129?s=72&v=4" width="24" alt="Avatar of eavm314"> eavm314
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eavm314">Copy rank badge</a><br/>
-			Enrique Vicente
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/J0CIR0">
-				<img src="https://avatars.githubusercontent.com/u/125481940?s=72&u=38f674d002009bb02b217fd1f5179de822ddc8f1&v=4" width="24" alt="Avatar of J0CIR0"> J0CIR0
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#J0CIR0">Copy rank badge</a><br/>
-			JociroPy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra - Bolivia</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/stoledolarrain">
-				<img src="https://avatars.githubusercontent.com/u/114009203?s=72&u=1b004ef469277be138082f58466bcc089e277c8c&v=4" width="24" alt="Avatar of stoledolarrain"> stoledolarrain
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#stoledolarrain">Copy rank badge</a><br/>
-			Samir Toledo
-		</td>
-		<td>Mamaya Tech </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>204</td>
 		<td>
 			<a href="https://github.com/lizarragadev">
 				<img src="https://avatars.githubusercontent.com/u/1924390?s=72&u=8295115e0ac9361a3222143dfd4255bf7845c0fa&v=4" width="24" alt="Avatar of lizarragadev"> lizarragadev
@@ -2756,10 +2626,192 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lizarragadev">lizarragadev</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>137</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/xcharag">
+				<img src="https://avatars.githubusercontent.com/u/106485083?s=72&u=7f45df81de24cd5382e43bd7c40353cf802d7702&v=4" width="24" alt="Avatar of xcharag"> xcharag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xcharag">Copy rank badge</a><br/>
+			Oscar Denes Aguilar Soliz
+		</td>
+		<td>@microcom-ti </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/danielquisbert">
+				<img src="https://avatars.githubusercontent.com/u/2903100?s=72&u=b49cd8afeef935a58ba68ac1de094dbf77105dd2&v=4" width="24" alt="Avatar of danielquisbert"> danielquisbert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danielquisbert">Copy rank badge</a><br/>
+			DaNi
+		</td>
+		<td>@arteclab  </td>
+		<td><a href="https://twitter.com/danielquisbertc">danielquisbertc</a></td>
+		<td>La Paz - Bolivia</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/westc">
+				<img src="https://avatars.githubusercontent.com/u/704518?s=72&u=5534de02ee45fbf458faf1dcf48946ba2f4e82d8&v=4" width="24" alt="Avatar of westc"> westc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#westc">Copy rank badge</a><br/>
+			Chris West
+		</td>
+		<td>@copperhill-consulti </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/FershoUno">
+				<img src="https://avatars.githubusercontent.com/u/50505848?s=72&u=3390627d3e0ad979e894e87a360adb606faf6f62&v=4" width="24" alt="Avatar of FershoUno"> FershoUno
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FershoUno">Copy rank badge</a><br/>
+			Fernando
+		</td>
+		<td>@nlbol  </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/xonlinex">
+				<img src="https://avatars.githubusercontent.com/u/58613155?s=72&u=ce9b7c80758d8fbadc7ac81301f1fbdc4aaa2915&v=4" width="24" alt="Avatar of xonlinex"> xonlinex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xonlinex">Copy rank badge</a><br/>
+			xonlinex
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/Jaimeclaure">
+				<img src="https://avatars.githubusercontent.com/u/8270777?s=72&u=bdba8839e956399314a088e3eff1cd3c105bfa52&v=4" width="24" alt="Avatar of Jaimeclaure"> Jaimeclaure
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jaimeclaure">Copy rank badge</a><br/>
+			Jaime Claure
+		</td>
+		<td>Digital Naviera </td>
+		<td><a href="https://twitter.com/jaibytes">jaibytes</a></td>
+		<td>Bolivia </td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/oscarcortez">
+				<img src="https://avatars.githubusercontent.com/u/48032479?s=72&u=3312c26f80cd9b75c9f19df9b423c0906f555271&v=4" width="24" alt="Avatar of oscarcortez"> oscarcortez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#oscarcortez">Copy rank badge</a><br/>
+			Oscar Cortez
+		</td>
+		<td>Intergraphics </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/FrancoJTA">
+				<img src="https://avatars.githubusercontent.com/u/153335505?s=72&u=951c8949167ca682acce320bb0c31c16d2d2c922&v=4" width="24" alt="Avatar of FrancoJTA"> FrancoJTA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FrancoJTA">Copy rank badge</a><br/>
+			Franco Torrez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/mario-pereyra">
+				<img src="https://avatars.githubusercontent.com/u/152916171?s=72&u=c2d4bddc7bc6bdd6a034a55303988410dd87ed77&v=4" width="24" alt="Avatar of mario-pereyra"> mario-pereyra
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mario-pereyra">Copy rank badge</a><br/>
+			Mario Alberto Pereyra Justiniano
+		</td>
+		<td>Totvs Bolivia </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/imertetsu">
+				<img src="https://avatars.githubusercontent.com/u/52182312?s=72&u=24dbebb3e2d4514b0b3ccc4cb1aa8bdf30850503&v=4" width="24" alt="Avatar of imertetsu"> imertetsu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#imertetsu">Copy rank badge</a><br/>
+			Imer Coaguila
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>144</td>
 	</tr>
 	<tr>
 		<td>205</td>
+		<td>
+			<a href="https://github.com/stoledolarrain">
+				<img src="https://avatars.githubusercontent.com/u/114009203?s=72&u=1b004ef469277be138082f58466bcc089e277c8c&v=4" width="24" alt="Avatar of stoledolarrain"> stoledolarrain
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#stoledolarrain">Copy rank badge</a><br/>
+			Samir Toledo
+		</td>
+		<td>Mamaya Tech </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/eavm314">
+				<img src="https://avatars.githubusercontent.com/u/91498129?s=72&v=4" width="24" alt="Avatar of eavm314"> eavm314
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eavm314">Copy rank badge</a><br/>
+			Enrique Vicente
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/J0CIR0">
+				<img src="https://avatars.githubusercontent.com/u/125481940?s=72&u=38f674d002009bb02b217fd1f5179de822ddc8f1&v=4" width="24" alt="Avatar of J0CIR0"> J0CIR0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#J0CIR0">Copy rank badge</a><br/>
+			JociroPy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra - Bolivia</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/Kira2602">
+				<img src="https://avatars.githubusercontent.com/u/125493619?s=72&u=6f0036aca8cd89541479dfe09d70f45caeebd823&v=4" width="24" alt="Avatar of Kira2602"> Kira2602
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Kira2602">Copy rank badge</a><br/>
+			Rosario Calisaya Calderon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/runinbk">
 				<img src="https://avatars.githubusercontent.com/u/112770098?s=72&u=82d3c0ffbf730c1917c3c0f42219ddf8f366de68&v=4" width="24" alt="Avatar of runinbk"> runinbk
@@ -2769,59 +2821,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz - Bolivia</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/jesulim">
-				<img src="https://avatars.githubusercontent.com/u/27868712?s=72&u=21ec2a81d1ee4da1681abf134f0b1df5cca81272&v=4" width="24" alt="Avatar of jesulim"> jesulim
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jesulim">Copy rank badge</a><br/>
-			Ivan Martinez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sucre - Bolivia</td>
-		<td>135</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/Snifer">
-				<img src="https://avatars.githubusercontent.com/u/1558379?s=72&u=b6e5621beb30279b82f51c835033639941658e14&v=4" width="24" alt="Avatar of Snifer"> Snifer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Snifer">Copy rank badge</a><br/>
-			Snifer
-		</td>
-		<td>Snifer@l4b's </td>
-		<td><a href="https://twitter.com/sniferl4bs">sniferl4bs</a></td>
-		<td>Bolivia</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/CarlosKApaza">
-				<img src="https://avatars.githubusercontent.com/u/130298298?s=72&u=1168496bfd71118c726b4680a56103b641128db5&v=4" width="24" alt="Avatar of CarlosKApaza"> CarlosKApaza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosKApaza">Copy rank badge</a><br/>
-			Carlos Daniel Kevin Apaza Villca 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sucre - Bolivia</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/rossmelabasto">
-				<img src="https://avatars.githubusercontent.com/u/76182770?s=72&u=87dd10dc31a31b15b86229914a10895dd01f7144&v=4" width="24" alt="Avatar of rossmelabasto"> rossmelabasto
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rossmelabasto">Copy rank badge</a><br/>
-			Rossmel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>130</td>
+		<td>140</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -2834,101 +2834,88 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>130</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>211</td>
 		<td>
-			<a href="https://github.com/hcvcastro">
-				<img src="https://avatars.githubusercontent.com/u/6153911?s=72&u=24de300d0b0108637ac6a8c022ab31e209463b2b&v=4" width="24" alt="Avatar of hcvcastro"> hcvcastro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hcvcastro">Copy rank badge</a><br/>
-			Henry Castro
+			<a href="https://github.com/CarlosKApaza">
+				<img src="https://avatars.githubusercontent.com/u/130298298?s=72&u=1168496bfd71118c726b4680a56103b641128db5&v=4" width="24" alt="Avatar of CarlosKApaza"> CarlosKApaza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosKApaza">Copy rank badge</a><br/>
+			Carlos Daniel Kevin Apaza Villca 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>128</td>
+		<td>Sucre - Bolivia</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/Joregesosa">
-				<img src="https://avatars.githubusercontent.com/u/73912460?s=72&u=b0876246b34c3e9764c0875679c58bddaa54e41a&v=4" width="24" alt="Avatar of Joregesosa"> Joregesosa
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Joregesosa">Copy rank badge</a><br/>
-			Jorge Sosa
+			<a href="https://github.com/0PValencia">
+				<img src="https://avatars.githubusercontent.com/u/148593335?s=72&u=446b9ef0b3bc2f715920970c39b36f7ff88d2997&v=4" width="24" alt="Avatar of 0PValencia"> 0PValencia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0PValencia">Copy rank badge</a><br/>
+			Dennis Ariel Gongora Valencia
 		</td>
-		<td>Funval Internacional </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>128</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>138</td>
 	</tr>
 	<tr>
 		<td>213</td>
 		<td>
-			<a href="https://github.com/lalomax">
-				<img src="https://avatars.githubusercontent.com/u/95863162?s=72&u=58451942c7a9655be842a16224f6c6303c9171a1&v=4" width="24" alt="Avatar of lalomax"> lalomax
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#lalomax">Copy rank badge</a><br/>
-			Orlando
+			<a href="https://github.com/Raxorg">
+				<img src="https://avatars.githubusercontent.com/u/18240060?s=72&u=61ddc143f5d5c099333746a608c7ed945862165f&v=4" width="24" alt="Avatar of Raxorg"> Raxorg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Raxorg">Copy rank badge</a><br/>
+			Groxar
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/OrlandoFloresH">OrlandoFloresH</a></td>
-		<td>La Paz Bolivia</td>
-		<td>128</td>
+		<td>Epicness For Everyone </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>214</td>
 		<td>
-			<a href="https://github.com/cr0wg4n">
-				<img src="https://avatars.githubusercontent.com/u/14966182?s=72&u=8c4b478c941eda8f39295cb0f69256524ff64180&v=4" width="24" alt="Avatar of cr0wg4n"> cr0wg4n
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cr0wg4n">Copy rank badge</a><br/>
-			Mauricio Matias C.
+			<a href="https://github.com/marceloquispeortega">
+				<img src="https://avatars.githubusercontent.com/u/15899528?s=72&u=6b8ceeb4158dfaf95c930d71b841cf7fed553a82&v=4" width="24" alt="Avatar of marceloquispeortega"> marceloquispeortega
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#marceloquispeortega">Copy rank badge</a><br/>
+			Marcelo Quispe Ortega
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cr0wg4n">cr0wg4n</a></td>
-		<td>Bolivia</td>
-		<td>125</td>
+		<td>Servicios Informáticos #rootcode </td>
+		<td>No Twitter Username</td>
+		<td>Sucre</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>215</td>
 		<td>
-			<a href="https://github.com/toitolucho">
-				<img src="https://avatars.githubusercontent.com/u/1872880?s=72&u=d98922fbf5db235d7add73a308d59a4da1573116&v=4" width="24" alt="Avatar of toitolucho"> toitolucho
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#toitolucho">Copy rank badge</a><br/>
-			Luis Antonio Molina Yampa
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/toito_lucho">toito_lucho</a></td>
-		<td>Bolivia</td>
-		<td>125</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/Jose20025">
-				<img src="https://avatars.githubusercontent.com/u/91438144?s=72&u=074edbe47178588aea8ea8bbeb277c6820f75962&v=4" width="24" alt="Avatar of Jose20025"> Jose20025
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jose20025">Copy rank badge</a><br/>
-			Jose Carlos Gutiérrez
+			<a href="https://github.com/Nicolascresposu">
+				<img src="https://avatars.githubusercontent.com/u/91248750?s=72&u=ac11894ac7427780ed058f7ddea0452f8070aec6&v=4" width="24" alt="Avatar of Nicolascresposu"> Nicolascresposu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nicolascresposu">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>125</td>
+		<td>135</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
-			<a href="https://github.com/MiguelT18">
-				<img src="https://avatars.githubusercontent.com/u/64659722?s=72&u=373d09d4469df4d70723b8ca98c7bc1515d94e3b&v=4" width="24" alt="Avatar of MiguelT18"> MiguelT18
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiguelT18">Copy rank badge</a><br/>
-			Miguel Teran
+			<a href="https://github.com/camtordev">
+				<img src="https://avatars.githubusercontent.com/u/139392199?s=72&u=6daba316b0b0dcf26220ecc31887b99eccddf3b3&v=4" width="24" alt="Avatar of camtordev"> camtordev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#camtordev">Copy rank badge</a><br/>
+			Humberto Alejandro Campos Torrejon
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tarija, Bolivia</td>
-		<td>124</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>135</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/jevillanueva">
 				<img src="https://avatars.githubusercontent.com/u/7273659?s=72&u=d78e47e5934e1d9a1068b9e784946c1a6c98f281&v=4" width="24" alt="Avatar of jevillanueva"> jevillanueva
@@ -2938,98 +2925,111 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Jevillanueva.dev </td>
 		<td><a href="https://twitter.com/jevillanuevaDev">jevillanuevaDev</a></td>
 		<td>La Paz Bolivia</td>
-		<td>124</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/jesulim">
+				<img src="https://avatars.githubusercontent.com/u/27868712?s=72&u=21ec2a81d1ee4da1681abf134f0b1df5cca81272&v=4" width="24" alt="Avatar of jesulim"> jesulim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jesulim">Copy rank badge</a><br/>
+			Ivan Martinez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre - Bolivia</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>219</td>
 		<td>
-			<a href="https://github.com/santtiag">
-				<img src="https://avatars.githubusercontent.com/u/96261455?s=72&u=1390822825d4d3eefd2e13fd87efc10f925ef93a&v=4" width="24" alt="Avatar of santtiag"> santtiag
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#santtiag">Copy rank badge</a><br/>
-			Santiago Romero
+			<a href="https://github.com/Snifer">
+				<img src="https://avatars.githubusercontent.com/u/1558379?s=72&u=b6e5621beb30279b82f51c835033639941658e14&v=4" width="24" alt="Avatar of Snifer"> Snifer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Snifer">Copy rank badge</a><br/>
+			Snifer
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_santtiag">_santtiag</a></td>
-		<td>Sucre, Colombia</td>
-		<td>124</td>
+		<td>Snifer@l4b's </td>
+		<td><a href="https://twitter.com/sniferl4bs">sniferl4bs</a></td>
+		<td>Bolivia</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>220</td>
 		<td>
-			<a href="https://github.com/delsycuellarchung">
-				<img src="https://avatars.githubusercontent.com/u/127460341?s=72&u=6202b6a82acb5eaeada89cae3100161477c9b634&v=4" width="24" alt="Avatar of delsycuellarchung"> delsycuellarchung
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#delsycuellarchung">Copy rank badge</a><br/>
-			Delsy Noelia Cuellar Chung
+			<a href="https://github.com/sebastianmlz">
+				<img src="https://avatars.githubusercontent.com/u/176963258?s=72&u=961a2633491129fbb0db19c67289d3228152ae9d&v=4" width="24" alt="Avatar of sebastianmlz"> sebastianmlz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sebastianmlz">Copy rank badge</a><br/>
+			Sebastián Méndez
 		</td>
-		<td>No Company</td>
+		<td>Finup </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>123</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/xonlinex">
-				<img src="https://avatars.githubusercontent.com/u/58613155?s=72&u=ce9b7c80758d8fbadc7ac81301f1fbdc4aaa2915&v=4" width="24" alt="Avatar of xonlinex"> xonlinex
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xonlinex">Copy rank badge</a><br/>
-			xonlinex
+			<a href="https://github.com/Jose20025">
+				<img src="https://avatars.githubusercontent.com/u/91438144?s=72&u=074edbe47178588aea8ea8bbeb277c6820f75962&v=4" width="24" alt="Avatar of Jose20025"> Jose20025
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Jose20025">Copy rank badge</a><br/>
+			Jose Carlos Gutiérrez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>123</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>131</td>
 	</tr>
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/adancondori">
-				<img src="https://avatars.githubusercontent.com/u/6661588?s=72&u=4a822e7126af0a5820fffd98b5c25c6a30472996&v=4" width="24" alt="Avatar of adancondori"> adancondori
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adancondori">Copy rank badge</a><br/>
-			Adan Condori C.
+			<a href="https://github.com/irvin373">
+				<img src="https://avatars.githubusercontent.com/u/4324357?s=72&u=ff628cda870eeeae97e33c4576e5e4f45943a801&v=4" width="24" alt="Avatar of irvin373"> irvin373
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#irvin373">Copy rank badge</a><br/>
+			irvin
 		</td>
-		<td>Independiente </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia - Santa cruz</td>
-		<td>122</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/fernando59">
-				<img src="https://avatars.githubusercontent.com/u/40122608?s=72&u=a9bd87f8f81102d14e75842e182c969e2b137351&v=4" width="24" alt="Avatar of fernando59"> fernando59
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fernando59">Copy rank badge</a><br/>
-			Fernando Mercado Saby
+			<a href="https://github.com/hcvcastro">
+				<img src="https://avatars.githubusercontent.com/u/6153911?s=72&u=24de300d0b0108637ac6a8c022ab31e209463b2b&v=4" width="24" alt="Avatar of hcvcastro"> hcvcastro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hcvcastro">Copy rank badge</a><br/>
+			Henry Castro
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>122</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>224</td>
 		<td>
-			<a href="https://github.com/Victoroide">
-				<img src="https://avatars.githubusercontent.com/u/111157887?s=72&u=3251dca5a09dab0c6a1c2c0b97355c22dcb6d2c5&v=4" width="24" alt="Avatar of Victoroide"> Victoroide
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Victoroide">Copy rank badge</a><br/>
-			Victor Cuéllar 
+			<a href="https://github.com/LuisCalleLazo">
+				<img src="https://avatars.githubusercontent.com/u/94710794?s=72&u=53c0df954b4d99c4ab983a041cfe2a735fc00bf8&v=4" width="24" alt="Avatar of LuisCalleLazo"> LuisCalleLazo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuisCalleLazo">Copy rank badge</a><br/>
+			Devnar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>122</td>
+		<td>La Paz, Bolivia</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/DarkWinD1437">
-				<img src="https://avatars.githubusercontent.com/u/102001158?s=72&u=cc7f4d7ec08bb2b9fedff1e07c36536e99b931f8&v=4" width="24" alt="Avatar of DarkWinD1437"> DarkWinD1437
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DarkWinD1437">Copy rank badge</a><br/>
-			DarkWinD
+			<a href="https://github.com/alefiengo">
+				<img src="https://avatars.githubusercontent.com/u/6498096?s=72&u=e164a8a64d4732e747cd297dfd9f5a6e4e639a3c&v=4" width="24" alt="Avatar of alefiengo"> alefiengo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alefiengo">Copy rank badge</a><br/>
+			José Alejandro Fiengo Vega
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz De La Sierra</td>
-		<td>121</td>
+		<td>La Paz, Bolivia</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -3042,10 +3042,114 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sucre, Bolivia</td>
-		<td>121</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>227</td>
+		<td>
+			<a href="https://github.com/toitolucho">
+				<img src="https://avatars.githubusercontent.com/u/1872880?s=72&u=d98922fbf5db235d7add73a308d59a4da1573116&v=4" width="24" alt="Avatar of toitolucho"> toitolucho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#toitolucho">Copy rank badge</a><br/>
+			Luis Antonio Molina Yampa
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/toito_lucho">toito_lucho</a></td>
+		<td>Bolivia</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/combimauri">
+				<img src="https://avatars.githubusercontent.com/u/11466673?s=72&u=3a44243664a8c56e60f1cd6caa6407b3ecf71e27&v=4" width="24" alt="Avatar of combimauri"> combimauri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#combimauri">Copy rank badge</a><br/>
+			Mauricio Arce Torrez
+		</td>
+		<td>Jalasoft </td>
+		<td><a href="https://twitter.com/combimauri">combimauri</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/nomikugg">
+				<img src="https://avatars.githubusercontent.com/u/39710090?s=72&u=c8453a3721b7b5e13b50ca13df4ab405ebbf1ad9&v=4" width="24" alt="Avatar of nomikugg"> nomikugg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nomikugg">Copy rank badge</a><br/>
+			Luis Fernando Rojas Arroyo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nomikugg">nomikugg</a></td>
+		<td>Sucre, Bolivia</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/adancondori">
+				<img src="https://avatars.githubusercontent.com/u/6661588?s=72&u=4a822e7126af0a5820fffd98b5c25c6a30472996&v=4" width="24" alt="Avatar of adancondori"> adancondori
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adancondori">Copy rank badge</a><br/>
+			Adan Condori C.
+		</td>
+		<td>Independiente </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia - Santa cruz</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/fernando59">
+				<img src="https://avatars.githubusercontent.com/u/40122608?s=72&u=a9bd87f8f81102d14e75842e182c969e2b137351&v=4" width="24" alt="Avatar of fernando59"> fernando59
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fernando59">Copy rank badge</a><br/>
+			Fernando Mercado Saby
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/EstebanBra">
+				<img src="https://avatars.githubusercontent.com/u/120672895?s=72&u=55f0728728b1aa6497db5a5df9f32ddf2dc04d5c&v=4" width="24" alt="Avatar of EstebanBra"> EstebanBra
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EstebanBra">Copy rank badge</a><br/>
+			Esteban Bravo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Pedro de La Paz, Chile</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/Troy8203">
+				<img src="https://avatars.githubusercontent.com/u/61430237?s=72&u=0fdffb8dd0616b7cfe50379796aa944a946417cc&v=4" width="24" alt="Avatar of Troy8203"> Troy8203
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Troy8203">Copy rank badge</a><br/>
+			Roy Ayala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/feresdev">
+				<img src="https://avatars.githubusercontent.com/u/116810804?s=72&u=5a96ff58131bbf93651650c2d773b86d3be56782&v=4" width="24" alt="Avatar of feresdev"> feresdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#feresdev">Copy rank badge</a><br/>
+			Fernando Estrada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/gmendozah">
 				<img src="https://avatars.githubusercontent.com/u/20589494?s=72&u=dbc7d194769e5cacbd34452e29a55ddafade6d46&v=4" width="24" alt="Avatar of gmendozah"> gmendozah
@@ -3058,20 +3162,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>236</td>
 		<td>
-			<a href="https://github.com/KievAndres">
-				<img src="https://avatars.githubusercontent.com/u/28435811?s=72&u=d18fe790c76532d9eae14690bbe326278baf92c6&v=4" width="24" alt="Avatar of KievAndres"> KievAndres
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KievAndres">Copy rank badge</a><br/>
-			Kiev Andres Mendoza Rojas
+			<a href="https://github.com/enrique159">
+				<img src="https://avatars.githubusercontent.com/u/16583689?s=72&u=8644ce84818ba864b08aa3e186535c61b07e7cc1&v=4" width="24" alt="Avatar of enrique159"> enrique159
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#enrique159">Copy rank badge</a><br/>
+			Enrique Marin
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KievAndresDev">KievAndresDev</a></td>
-		<td>La Paz, Bolivia</td>
+		<td>Bewor </td>
+		<td><a href="https://twitter.com/emarin_dev">emarin_dev</a></td>
+		<td>La Paz, Baja California Sur, México</td>
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/delsycuellarchung">
+				<img src="https://avatars.githubusercontent.com/u/127460341?s=72&u=6202b6a82acb5eaeada89cae3100161477c9b634&v=4" width="24" alt="Avatar of delsycuellarchung"> delsycuellarchung
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#delsycuellarchung">Copy rank badge</a><br/>
+			Delsy Noelia Cuellar Chung
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/vacho">
+				<img src="https://avatars.githubusercontent.com/u/3926391?s=72&u=81a5ef26514652e821e6afb8e8f8fa91d8bd6511&v=4" width="24" alt="Avatar of vacho"> vacho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vacho">Copy rank badge</a><br/>
+			Osvaldo Villarroel Marañon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/jorgenio">
+				<img src="https://avatars.githubusercontent.com/u/581031?s=72&u=d367b52991e51842fdc7fb0ac35c150468b7438a&v=4" width="24" alt="Avatar of jorgenio"> jorgenio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jorgenio">Copy rank badge</a><br/>
+			jorgenio
+		</td>
+		<td>Jorgenio Software </td>
+		<td><a href="https://twitter.com/jorgenio">jorgenio</a></td>
+		<td>Tarija-Republica de Bolivia</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/electricpants01">
 				<img src="https://avatars.githubusercontent.com/u/20894460?s=72&u=d3dab68a2ae85617865e0025c400e47bb42b37ca&v=4" width="24" alt="Avatar of electricpants01"> electricpants01
@@ -3081,36 +3224,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra - Bolivia</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/nomikugg">
-				<img src="https://avatars.githubusercontent.com/u/39710090?s=72&u=c8453a3721b7b5e13b50ca13df4ab405ebbf1ad9&v=4" width="24" alt="Avatar of nomikugg"> nomikugg
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nomikugg">Copy rank badge</a><br/>
-			Luis Fernando Rojas Arroyo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nomikugg">nomikugg</a></td>
-		<td>Sucre, Bolivia</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/0xmapachex">
-				<img src="https://avatars.githubusercontent.com/u/25932297?s=72&u=49c8ba1f914f040d10cb41526b4f396ed9009148&v=4" width="24" alt="Avatar of 0xmapachex"> 0xmapachex
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0xmapachex">Copy rank badge</a><br/>
-			Raccoon
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/0xmapachex">0xmapachex</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/romero102">
 				<img src="https://avatars.githubusercontent.com/u/23480448?s=72&u=fec59e78e476897c460c6591c50a76b97d5e2a69&v=4" width="24" alt="Avatar of romero102"> romero102
@@ -3123,7 +3240,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/mavesc">
 				<img src="https://avatars.githubusercontent.com/u/65517229?s=72&u=a9bce6736dd336002a09f8dc3fcb7e5058c26582&v=4" width="24" alt="Avatar of mavesc"> mavesc
@@ -3136,59 +3253,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>243</td>
 		<td>
-			<a href="https://github.com/Mac3495">
-				<img src="https://avatars.githubusercontent.com/u/14170396?s=72&u=b112a5084b1f3c64e43747a34306ed3f836e0614&v=4" width="24" alt="Avatar of Mac3495"> Mac3495
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mac3495">Copy rank badge</a><br/>
-			Marcelo Torrez
-		</td>
-		<td>@gdgandroidbolivia </td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/vacho">
-				<img src="https://avatars.githubusercontent.com/u/3926391?s=72&u=81a5ef26514652e821e6afb8e8f8fa91d8bd6511&v=4" width="24" alt="Avatar of vacho"> vacho
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vacho">Copy rank badge</a><br/>
-			Osvaldo Villarroel Marañon
+			<a href="https://github.com/0xmapachex">
+				<img src="https://avatars.githubusercontent.com/u/25932297?s=72&u=49c8ba1f914f040d10cb41526b4f396ed9009148&v=4" width="24" alt="Avatar of 0xmapachex"> 0xmapachex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0xmapachex">Copy rank badge</a><br/>
+			Raccoon
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td><a href="https://twitter.com/0xmapachex">0xmapachex</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>244</td>
 		<td>
-			<a href="https://github.com/rivera-ernesto">
-				<img src="https://avatars.githubusercontent.com/u/1261982?s=72&u=55ab6b4e8644e546cfcb17560088b3cbba31421f&v=4" width="24" alt="Avatar of rivera-ernesto"> rivera-ernesto
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rivera-ernesto">Copy rank badge</a><br/>
-			Ernesto Rivera
+			<a href="https://github.com/Joregesosa">
+				<img src="https://avatars.githubusercontent.com/u/73912460?s=72&u=b0876246b34c3e9764c0875679c58bddaa54e41a&v=4" width="24" alt="Avatar of Joregesosa"> Joregesosa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Joregesosa">Copy rank badge</a><br/>
+			Jorge Sosa
 		</td>
-		<td>@ptez  </td>
+		<td>Funval Internacional </td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>114</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>115</td>
 	</tr>
 	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/chelobotix">
-				<img src="https://avatars.githubusercontent.com/u/65084923?s=72&u=061a0a262b0f27ecf0d9ded24b16fe541c6db91b&v=4" width="24" alt="Avatar of chelobotix"> chelobotix
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#chelobotix">Copy rank badge</a><br/>
-			Marcelo Alarcon
-		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/marcealarconb">marcealarconb</a></td>
-		<td>Bolivia</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>238</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/pauloCastillo">
 				<img src="https://avatars.githubusercontent.com/u/14443894?s=72&v=4" width="24" alt="Avatar of pauloCastillo"> pauloCastillo
@@ -3198,36 +3289,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>La Paz - Bolivia</td>
-		<td>114</td>
+		<td>115</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>246</td>
 		<td>
-			<a href="https://github.com/LuisCalleLazo">
-				<img src="https://avatars.githubusercontent.com/u/94710794?s=72&u=53c0df954b4d99c4ab983a041cfe2a735fc00bf8&v=4" width="24" alt="Avatar of LuisCalleLazo"> LuisCalleLazo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuisCalleLazo">Copy rank badge</a><br/>
-			LuisCalleLazo
+			<a href="https://github.com/MiltonChino">
+				<img src="https://avatars.githubusercontent.com/u/104020457?s=72&u=77036db234630d57a0a8ab8eb0306710ca3a43d6&v=4" width="24" alt="Avatar of MiltonChino"> MiltonChino
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiltonChino">Copy rank badge</a><br/>
+			Milton Alcides Chino Mamani
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz, Bolivia</td>
-		<td>113</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/jmoreira-linkux">
-				<img src="https://avatars.githubusercontent.com/u/163207?s=72&u=501e0adfe8cb40b88e6fe9413198235efdd4ddeb&v=4" width="24" alt="Avatar of jmoreira-linkux"> jmoreira-linkux
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jmoreira-linkux">Copy rank badge</a><br/>
-			Jorge Moreira
-		</td>
-		<td>Linkux-it </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>241</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/1r0m3r0">
 				<img src="https://avatars.githubusercontent.com/u/25332354?s=72&u=8514948b8bd84436da6b9a82d1147142d84d6163&v=4" width="24" alt="Avatar of 1r0m3r0"> 1r0m3r0
@@ -3237,36 +3315,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>El Alto, La Paz, Bolivia</td>
-		<td>113</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>248</td>
 		<td>
-			<a href="https://github.com/gaspar200309">
-				<img src="https://avatars.githubusercontent.com/u/133708167?s=72&u=6c12b4f07371c8c6a69103a20e9b0869ebcae8a4&v=4" width="24" alt="Avatar of gaspar200309"> gaspar200309
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gaspar200309">Copy rank badge</a><br/>
-			Armando Gaspar 
+			<a href="https://github.com/Mac3495">
+				<img src="https://avatars.githubusercontent.com/u/14170396?s=72&u=b112a5084b1f3c64e43747a34306ed3f836e0614&v=4" width="24" alt="Avatar of Mac3495"> Mac3495
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mac3495">Copy rank badge</a><br/>
+			Marcelo Torrez
 		</td>
-		<td>Softcraft </td>
+		<td>@gdgandroidbolivia </td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba/Bolvia</td>
+		<td>La Paz - Bolivia</td>
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/David-H-L">
-				<img src="https://avatars.githubusercontent.com/u/81874354?s=72&u=8577206745e4fec6912bbac3441394510ec59753&v=4" width="24" alt="Avatar of David-H-L"> David-H-L
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#David-H-L">Copy rank badge</a><br/>
-			David Huanca Ledezma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia, Cochabamba</td>
-		<td>112</td>
-	</tr>
-	<tr>
-		<td>244</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/estevooliveira111">
 				<img src="https://avatars.githubusercontent.com/u/63885372?s=72&u=67ca197871a4bc6b404799d5b4c010aaffcf8033&v=4" width="24" alt="Avatar of estevooliveira111"> estevooliveira111
@@ -3276,36 +3341,88 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/estevoolabs">estevoolabs</a></td>
 		<td>Santa Cruz de La Sierra - Bolívia</td>
-		<td>110</td>
+		<td>112</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>250</td>
 		<td>
-			<a href="https://github.com/BetzabeG">
-				<img src="https://avatars.githubusercontent.com/u/133925916?s=72&u=4b5c5b6ddf26b4daca3c67ad733dc31ef5a985b4&v=4" width="24" alt="Avatar of BetzabeG"> BetzabeG
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BetzabeG">Copy rank badge</a><br/>
-			Betzabe Gutierrez
+			<a href="https://github.com/Antonmarchitec">
+				<img src="https://avatars.githubusercontent.com/u/70084380?s=72&u=c3c0bb54714bb97be2bf6ee9451afc2b52c9c2d0&v=4" width="24" alt="Avatar of Antonmarchitec"> Antonmarchitec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Antonmarchitec">Copy rank badge</a><br/>
+			Antonio Ponce
+		</td>
+		<td>Front-end Developer </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz (Bolivia) </td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/paulgrimaldo">
+				<img src="https://avatars.githubusercontent.com/u/20879838?s=72&u=34c642a87df4547207839556eee9bf68e8bfa52f&v=4" width="24" alt="Avatar of paulgrimaldo"> paulgrimaldo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paulgrimaldo">Copy rank badge</a><br/>
+			Paul Fernando Grimaldo Bravo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BetzabeG12">BetzabeG12</a></td>
-		<td>La Paz</td>
-		<td>110</td>
+		<td><a href="https://twitter.com/paulgrimaldob">paulgrimaldob</a></td>
+		<td>Santa Cruz de la Siera - Bolivia</td>
+		<td>111</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>252</td>
 		<td>
-			<a href="https://github.com/profjcp">
-				<img src="https://avatars.githubusercontent.com/u/128756539?s=72&u=94373415907d0c3f188e3b61ce3a7e1c3e83935b&v=4" width="24" alt="Avatar of profjcp"> profjcp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#profjcp">Copy rank badge</a><br/>
-			Juan Carlos Peinado Pereira
+			<a href="https://github.com/paolojoaquinp">
+				<img src="https://avatars.githubusercontent.com/u/70081671?s=72&u=7fb00bc256f5774e96ddb5cfe9aff9357ef40d60&v=4" width="24" alt="Avatar of paolojoaquinp"> paolojoaquinp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paolojoaquinp">Copy rank badge</a><br/>
+			Paolo Joaquin Pinto
 		</td>
-		<td>Uagrm </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>109</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/paolojoaquinp">paolojoaquinp</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>111</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/DarkWinD1437">
+				<img src="https://avatars.githubusercontent.com/u/102001158?s=72&u=cc7f4d7ec08bb2b9fedff1e07c36536e99b931f8&v=4" width="24" alt="Avatar of DarkWinD1437"> DarkWinD1437
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DarkWinD1437">Copy rank badge</a><br/>
+			DarkWinD
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz De La Sierra</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/t0m-a">
+				<img src="https://avatars.githubusercontent.com/u/18073749?s=72&u=93f9cdb0c01b87ccaf70fc9df2c52276ef450ff4&v=4" width="24" alt="Avatar of t0m-a"> t0m-a
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#t0m-a">Copy rank badge</a><br/>
+			Thomas Simon
+		</td>
+		<td>Systems Architect · Noc<br/>&<br/>Ai<br/>Context<br/>Engineer<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz Bolivia</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/EValeriaAliagaTaborga">
+				<img src="https://avatars.githubusercontent.com/u/25601568?s=72&u=ea7075a3ad3c0e7146bfb1795e673bcbeabb01b8&v=4" width="24" alt="Avatar of EValeriaAliagaTaborga"> EValeriaAliagaTaborga
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EValeriaAliagaTaborga">Copy rank badge</a><br/>
+			Ericka Valeria Aliaga Taborga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Nataliaqg">
 				<img src="https://avatars.githubusercontent.com/u/90530885?s=72&u=2a5ac84560700009d61032662ca09de1410e1945&v=4" width="24" alt="Avatar of Nataliaqg"> Nataliaqg
@@ -3318,7 +3435,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/mamanipatricia">
 				<img src="https://avatars.githubusercontent.com/u/19600504?s=72&u=9d128c90797f931c781e6db0c77f0a4e9847fec3&v=4" width="24" alt="Avatar of mamanipatricia"> mamanipatricia
@@ -3331,150 +3448,111 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/westc">
-				<img src="https://avatars.githubusercontent.com/u/704518?s=72&u=5534de02ee45fbf458faf1dcf48946ba2f4e82d8&v=4" width="24" alt="Avatar of westc"> westc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#westc">Copy rank badge</a><br/>
-			Chris West
-		</td>
-		<td>@copperhill-consulti </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/irvin373">
-				<img src="https://avatars.githubusercontent.com/u/4324357?s=72&u=ff628cda870eeeae97e33c4576e5e4f45943a801&v=4" width="24" alt="Avatar of irvin373"> irvin373
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#irvin373">Copy rank badge</a><br/>
-			irvin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/mariagarciaflores">
-				<img src="https://avatars.githubusercontent.com/u/11466678?s=72&u=6cb5323020669c3db3e7280c9f14688ec036488b&v=4" width="24" alt="Avatar of mariagarciaflores"> mariagarciaflores
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mariagarciaflores">Copy rank badge</a><br/>
-			Maria Griselda Garcia Flores
-		</td>
-		<td>Jalasoft </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/Antonmarchitec">
-				<img src="https://avatars.githubusercontent.com/u/70084380?s=72&u=c3c0bb54714bb97be2bf6ee9451afc2b52c9c2d0&v=4" width="24" alt="Avatar of Antonmarchitec"> Antonmarchitec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Antonmarchitec">Copy rank badge</a><br/>
-			Antonio Ponce
-		</td>
-		<td>Front-end Developer </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz (Bolivia) </td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/davidmanueldev">
-				<img src="https://avatars.githubusercontent.com/u/129340427?s=72&u=c552dd86ed7d03cb4a4e76cd35f49f0680db3ad5&v=4" width="24" alt="Avatar of davidmanueldev"> davidmanueldev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#davidmanueldev">Copy rank badge</a><br/>
-			David Manuel
-		</td>
-		<td>Unifranz </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/EValeriaAliagaTaborga">
-				<img src="https://avatars.githubusercontent.com/u/25601568?s=72&u=ea7075a3ad3c0e7146bfb1795e673bcbeabb01b8&v=4" width="24" alt="Avatar of EValeriaAliagaTaborga"> EValeriaAliagaTaborga
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EValeriaAliagaTaborga">Copy rank badge</a><br/>
-			Ericka Valeria Aliaga Taborga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/paolo">
-				<img src="https://avatars.githubusercontent.com/u/21358?s=72&u=923d963ae46e38f0896e9f4f493a923eb3d69733&v=4" width="24" alt="Avatar of paolo"> paolo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paolo">Copy rank badge</a><br/>
-			Paolo Castro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/combimauri">
-				<img src="https://avatars.githubusercontent.com/u/11466673?s=72&u=3a44243664a8c56e60f1cd6caa6407b3ecf71e27&v=4" width="24" alt="Avatar of combimauri"> combimauri
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#combimauri">Copy rank badge</a><br/>
-			Mauricio Arce Torrez
-		</td>
-		<td>Jalasoft </td>
-		<td><a href="https://twitter.com/combimauri">combimauri</a></td>
-		<td>Cochabamba, Bolivia</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/Krakaur">
-				<img src="https://avatars.githubusercontent.com/u/85331368?s=72&u=70daf336155a0c736927a71b0efc298a47da674c&v=4" width="24" alt="Avatar of Krakaur"> Krakaur
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Krakaur">Copy rank badge</a><br/>
-			Hans Krakaur
-		</td>
-		<td>Doctorado Educación Udg </td>
-		<td><a href="https://twitter.com/HKrakaur">HKrakaur</a></td>
-		<td>La Paz</td>
-		<td>100</td>
-	</tr>
-	<tr>
 		<td>258</td>
 		<td>
-			<a href="https://github.com/DennGuez">
-				<img src="https://avatars.githubusercontent.com/u/104109926?s=72&u=8a9974445f2b166d7f7061cac109e2d2e1796675&v=4" width="24" alt="Avatar of DennGuez"> DennGuez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DennGuez">Copy rank badge</a><br/>
-			DennGuez
+			<a href="https://github.com/freddxvill">
+				<img src="https://avatars.githubusercontent.com/u/93953973?s=72&u=5ad2f45d8f648541b2116f8bb488c99a604b1984&v=4" width="24" alt="Avatar of freddxvill"> freddxvill
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#freddxvill">Copy rank badge</a><br/>
+			Freddy Villca Villegas
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dennguez">dennguez</a></td>
-		<td>Bolivia / Spain</td>
-		<td>100</td>
+		<td>Thinka Ai </td>
+		<td><a href="https://twitter.com/fredvill">fredvill</a></td>
+		<td>Cbba | Bolivia</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>259</td>
 		<td>
-			<a href="https://github.com/paulgrimaldo">
-				<img src="https://avatars.githubusercontent.com/u/20879838?s=72&u=34c642a87df4547207839556eee9bf68e8bfa52f&v=4" width="24" alt="Avatar of paulgrimaldo"> paulgrimaldo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paulgrimaldo">Copy rank badge</a><br/>
-			Paul Fernando Grimaldo Bravo
+			<a href="https://github.com/gaspar200309">
+				<img src="https://avatars.githubusercontent.com/u/133708167?s=72&u=6c12b4f07371c8c6a69103a20e9b0869ebcae8a4&v=4" width="24" alt="Avatar of gaspar200309"> gaspar200309
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gaspar200309">Copy rank badge</a><br/>
+			Armando Gaspar 
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/paulgrimaldob">paulgrimaldob</a></td>
-		<td>Santa Cruz de la Siera - Bolivia</td>
-		<td>99</td>
+		<td>Softcraft </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba/Bolvia</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>260</td>
+		<td>
+			<a href="https://github.com/BetzabeG">
+				<img src="https://avatars.githubusercontent.com/u/133925916?s=72&u=4b5c5b6ddf26b4daca3c67ad733dc31ef5a985b4&v=4" width="24" alt="Avatar of BetzabeG"> BetzabeG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BetzabeG">Copy rank badge</a><br/>
+			Betzabe Gutierrez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BetzabeG12">BetzabeG12</a></td>
+		<td>La Paz</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/omarmus">
+				<img src="https://avatars.githubusercontent.com/u/2482184?s=72&u=c0a36611c6f8fe66172a97d884f666e4a67d2685&v=4" width="24" alt="Avatar of omarmus"> omarmus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#omarmus">Copy rank badge</a><br/>
+			Omar Gutiérrez Condori
+		</td>
+		<td>Omarmus </td>
+		<td><a href="https://twitter.com/ozielmus">ozielmus</a></td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/morvenlabs">
+				<img src="https://avatars.githubusercontent.com/u/90227469?s=72&u=ba60e895ead13546e3c26312aac9fbb4465a44d3&v=4" width="24" alt="Avatar of morvenlabs"> morvenlabs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#morvenlabs">Copy rank badge</a><br/>
+			José Manuel Morales Patty
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/EdsonVladimir">
+				<img src="https://avatars.githubusercontent.com/u/22439320?s=72&u=7c4591b31e1d9b356dc9052a3daf6e901123d422&v=4" width="24" alt="Avatar of EdsonVladimir"> EdsonVladimir
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EdsonVladimir">Copy rank badge</a><br/>
+			Edson - Sosa
+		</td>
+		<td>@telio Mobility </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/Oerlinker">
+				<img src="https://avatars.githubusercontent.com/u/149842009?s=72&v=4" width="24" alt="Avatar of Oerlinker"> Oerlinker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Oerlinker">Copy rank badge</a><br/>
+			Andres Antonio Segovia Ampuero
+		</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/profjcp">
+				<img src="https://avatars.githubusercontent.com/u/128756539?s=72&u=94373415907d0c3f188e3b61ce3a7e1c3e83935b&v=4" width="24" alt="Avatar of profjcp"> profjcp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#profjcp">Copy rank badge</a><br/>
+			Juan Carlos Peinado Pereira
+		</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/Miguel-Ike">
 				<img src="https://avatars.githubusercontent.com/u/12467993?s=72&u=2f97473fc2a6263e971360959a7513ddd2c17e40&v=4" width="24" alt="Avatar of Miguel-Ike"> Miguel-Ike
@@ -3487,7 +3565,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/DennGuez">
+				<img src="https://avatars.githubusercontent.com/u/104109926?s=72&u=8a9974445f2b166d7f7061cac109e2d2e1796675&v=4" width="24" alt="Avatar of DennGuez"> DennGuez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DennGuez">Copy rank badge</a><br/>
+			DennGuez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dennguez">dennguez</a></td>
+		<td>Bolivia / Spain</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/moonhuntercode">
 				<img src="https://avatars.githubusercontent.com/u/53928868?s=72&u=69b8710e2b923192e5e9a95872c4a79b2fb9ed4d&v=4" width="24" alt="Avatar of moonhuntercode"> moonhuntercode
@@ -3500,46 +3591,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>269</td>
 		<td>
-			<a href="https://github.com/Alba070503">
-				<img src="https://avatars.githubusercontent.com/u/97574964?s=72&u=d6c9023e7c532b7ecaad38a6d2d72d438d9a8afa&v=4" width="24" alt="Avatar of Alba070503"> Alba070503
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Alba070503">Copy rank badge</a><br/>
-			Alba070503
-		</td>
-		<td>Alba070503-official </td>
-		<td><a href="https://twitter.com/Alba070503">Alba070503</a></td>
-		<td>Bolivia</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/vagner-merlin">
-				<img src="https://avatars.githubusercontent.com/u/189437954?s=72&u=ac0244fc24f60cc8d4a3ee2feec76a7038da3546&v=4" width="24" alt="Avatar of vagner-merlin"> vagner-merlin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vagner-merlin">Copy rank badge</a><br/>
-			Byvagner
+			<a href="https://github.com/Aron6625">
+				<img src="https://avatars.githubusercontent.com/u/82057863?s=72&u=12f5f69797e22e4ae479599bae455c0c26ea94d4&v=4" width="24" alt="Avatar of Aron6625"> Aron6625
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Aron6625">Copy rank badge</a><br/>
+			Aron Padilla
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>bolivia / scz</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/Riju-vo">
-				<img src="https://avatars.githubusercontent.com/u/133923704?s=72&v=4" width="24" alt="Avatar of Riju-vo"> Riju-vo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Riju-vo">Copy rank badge</a><br/>
-			Richard J. Vargas Osinaga
-		</td>
-		<td>Uagrm </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>265</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/luucamay">
 				<img src="https://avatars.githubusercontent.com/u/15850514?s=72&v=4" width="24" alt="Avatar of luucamay"> luucamay
@@ -3552,46 +3617,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>271</td>
 		<td>
-			<a href="https://github.com/alefiengo">
-				<img src="https://avatars.githubusercontent.com/u/6498096?s=72&u=e164a8a64d4732e747cd297dfd9f5a6e4e639a3c&v=4" width="24" alt="Avatar of alefiengo"> alefiengo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alefiengo">Copy rank badge</a><br/>
-			José Alejandro Fiengo Vega
+			<a href="https://github.com/Vlastrix">
+				<img src="https://avatars.githubusercontent.com/u/69318797?s=72&u=b78302ae7d7067e9940b789d4ff3b2ca496eb929&v=4" width="24" alt="Avatar of Vlastrix"> Vlastrix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Vlastrix">Copy rank badge</a><br/>
+			Vladislav Bochkov
 		</td>
-		<td>No Company</td>
+		<td>Kiwit Agency </td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/milets04">
+				<img src="https://avatars.githubusercontent.com/u/153246370?s=72&u=0d04c0f9ce52e08db015cce6e61b3872d43bf9c8&v=4" width="24" alt="Avatar of milets04"> milets04
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#milets04">Copy rank badge</a><br/>
+			Milena Torrico 
+		</td>
+		<td>Umss </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>273</td>
 		<td>
-			<a href="https://github.com/WildeRojas">
-				<img src="https://avatars.githubusercontent.com/u/182025592?s=72&v=4" width="24" alt="Avatar of WildeRojas"> WildeRojas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WildeRojas">Copy rank badge</a><br/>
-			Wilder Ario Rojas Mamani
+			<a href="https://github.com/enevaca">
+				<img src="https://avatars.githubusercontent.com/u/12105692?s=72&u=fc533b6cc0bc72461abda3b8ed134b8afae23646&v=4" width="24" alt="Avatar of enevaca"> enevaca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#enevaca">Copy rank badge</a><br/>
+			Noel Vaca
 		</td>
-		<td>Uagrm </td>
+		<td>Organo Judicial </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz De La Sierra</td>
+		<td>Sucre</td>
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/DevLatBo">
-				<img src="https://avatars.githubusercontent.com/u/5255678?s=72&u=fd264fd5db1735b8418d83bcc78a756baa1356a2&v=4" width="24" alt="Avatar of DevLatBo"> DevLatBo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DevLatBo">Copy rank badge</a><br/>
-			Oscar Rolando Gamboa A.
-		</td>
-		<td>Devlat </td>
-		<td><a href="https://twitter.com/DevLatBo">DevLatBo</a></td>
-		<td>Cochabamba Bolivia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>269</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/rp4ri">
 				<img src="https://avatars.githubusercontent.com/u/29334900?s=72&u=1bfbccfdabd5d10db9b5c0cc960a4e95f8298307&v=4" width="24" alt="Avatar of rp4ri"> rp4ri
@@ -3604,7 +3669,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/doctsystems">
 				<img src="https://avatars.githubusercontent.com/u/4739434?s=72&u=08b88335dd9429e7bb6d26b26a403a7051ea3288&v=4" width="24" alt="Avatar of doctsystems"> doctsystems
@@ -3617,59 +3682,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>276</td>
 		<td>
-			<a href="https://github.com/enevaca">
-				<img src="https://avatars.githubusercontent.com/u/12105692?s=72&u=fc533b6cc0bc72461abda3b8ed134b8afae23646&v=4" width="24" alt="Avatar of enevaca"> enevaca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#enevaca">Copy rank badge</a><br/>
-			Noel Vaca
-		</td>
-		<td>Organo Judicial </td>
-		<td>No Twitter Username</td>
-		<td>Sucre</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/Oerlinker">
-				<img src="https://avatars.githubusercontent.com/u/149842009?s=72&v=4" width="24" alt="Avatar of Oerlinker"> Oerlinker
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Oerlinker">Copy rank badge</a><br/>
-			Andres Antonio Segovia Ampuero
-		</td>
-		<td>Uagrm </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/hernanrengel">
-				<img src="https://avatars.githubusercontent.com/u/3303395?s=72&u=fdae036bf7ad172beed0bada0b4f1ee230be6bb1&v=4" width="24" alt="Avatar of hernanrengel"> hernanrengel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hernanrengel">Copy rank badge</a><br/>
-			hernan-rengel
-		</td>
-		<td>Advice </td>
-		<td>No Twitter Username</td>
-		<td>La Paz</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/Mario-pereyra">
-				<img src="https://avatars.githubusercontent.com/u/152916171?s=72&u=869d12888df094725e1d030e5a136250a462b0e5&v=4" width="24" alt="Avatar of Mario-pereyra"> Mario-pereyra
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mario-pereyra">Copy rank badge</a><br/>
-			Mario Alberto Pereyra J.
+			<a href="https://github.com/NatxioDev">
+				<img src="https://avatars.githubusercontent.com/u/58778115?s=72&u=dbd47c90223abab290adaa1b0dac9c371fc2364e&v=4" width="24" alt="Avatar of NatxioDev"> NatxioDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NatxioDev">Copy rank badge</a><br/>
+			Ignacio Paz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>89</td>
+		<td>La Paz, Bolivia</td>
+		<td>91</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/kenjikv">
+				<img src="https://avatars.githubusercontent.com/u/7775057?s=72&u=60a373a13f2769e90a374e0380acd4f33c93c845&v=4" width="24" alt="Avatar of kenjikv"> kenjikv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kenjikv">Copy rank badge</a><br/>
+			Kenji Kawaida
+		</td>
+		<td>Freelance </td>
+		<td><a href="https://twitter.com/kenjikawaida">kenjikawaida</a></td>
+		<td>Bolivia - Santa Cruz</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/diegolanda">
 				<img src="https://avatars.githubusercontent.com/u/1644517?s=72&v=4" width="24" alt="Avatar of diegolanda"> diegolanda
@@ -3682,20 +3721,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/pr0nstar">
-				<img src="https://avatars.githubusercontent.com/u/64463227?s=72&v=4" width="24" alt="Avatar of pr0nstar"> pr0nstar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pr0nstar">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/abcussi">
+				<img src="https://avatars.githubusercontent.com/u/52175588?s=72&u=7260bfce1b785bac3ccbbded75c182e990edf21c&v=4" width="24" alt="Avatar of abcussi"> abcussi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#abcussi">Copy rank badge</a><br/>
+			Angel Benjamin Cussi Callisaya
 		</td>
-		<td>No Company</td>
+		<td>Freelance Full-stack Developer </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Bolivia, La paz</td>
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/crisdux">
 				<img src="https://avatars.githubusercontent.com/u/41398104?s=72&u=bfaba822fa47b5d97f78f45e9f304e6136a9cf88&v=4" width="24" alt="Avatar of crisdux"> crisdux
@@ -3708,20 +3747,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/ProfessorByte">
-				<img src="https://avatars.githubusercontent.com/u/37822461?s=72&u=1084d0cefea8123ef702f2f3d0940da6632e134d&v=4" width="24" alt="Avatar of ProfessorByte"> ProfessorByte
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ProfessorByte">Copy rank badge</a><br/>
-			Pabloux Darkmind
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PablouxDarkmind">PablouxDarkmind</a></td>
-		<td>Cochabamba, Bolivia</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>279</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/AlvaritoGSG">
 				<img src="https://avatars.githubusercontent.com/u/98865161?s=72&u=80c8d0aa4efb547781c62ef74d58ab2f605f3e35&v=4" width="24" alt="Avatar of AlvaritoGSG"> AlvaritoGSG
@@ -3731,33 +3757,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AlvaritoGSG">AlvaritoGSG</a></td>
 		<td>Bolivia</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/CamperoJose">
-				<img src="https://avatars.githubusercontent.com/u/113204362?s=72&u=c2c318dde533592bcb11f2d28c01fcc01cc41192&v=4" width="24" alt="Avatar of CamperoJose"> CamperoJose
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CamperoJose">Copy rank badge</a><br/>
-			José Antonio Campero Morales
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/NatxioDev">
-				<img src="https://avatars.githubusercontent.com/u/58778115?s=72&u=dbd47c90223abab290adaa1b0dac9c371fc2364e&v=4" width="24" alt="Avatar of NatxioDev"> NatxioDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NatxioDev">Copy rank badge</a><br/>
-			Ignacio Paz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>86</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -3770,36 +3770,140 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz Bolivia</td>
-		<td>85</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>283</td>
 		<td>
-			<a href="https://github.com/sebastianmlz">
-				<img src="https://avatars.githubusercontent.com/u/176963258?s=72&u=961a2633491129fbb0db19c67289d3228152ae9d&v=4" width="24" alt="Avatar of sebastianmlz"> sebastianmlz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sebastianmlz">Copy rank badge</a><br/>
-			Sebastián Méndez
+			<a href="https://github.com/AXSCQ">
+				<img src="https://avatars.githubusercontent.com/u/148512806?s=72&u=7d16a02f99fab9bfddc65db0ac2045ddbc7d1694&v=4" width="24" alt="Avatar of AXSCQ"> AXSCQ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AXSCQ">Copy rank badge</a><br/>
+			Axel Condori
 		</td>
-		<td>Finup </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>84</td>
+		<td>Bolivia</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>284</td>
 		<td>
-			<a href="https://github.com/RaulOrtiz99">
-				<img src="https://avatars.githubusercontent.com/u/36978009?s=72&u=2c2aa3f325cc7644c14db72d8ccfdbbae7c4b83b&v=4" width="24" alt="Avatar of RaulOrtiz99"> RaulOrtiz99
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RaulOrtiz99">Copy rank badge</a><br/>
-			RaulOrtiz99
+			<a href="https://github.com/MarbelVega">
+				<img src="https://avatars.githubusercontent.com/u/14811919?s=72&u=5f86ae98f42debd855aa53ab8e5e53000001f5a3&v=4" width="24" alt="Avatar of MarbelVega"> MarbelVega
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MarbelVega">Copy rank badge</a><br/>
+			Christian Vega 
 		</td>
-		<td>Uagrm Student </td>
+		<td>Netwalkers </td>
 		<td>No Twitter Username</td>
-		<td>santa cruz-bolivia</td>
-		<td>83</td>
+		<td>Bolivia</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>285</td>
+		<td>
+			<a href="https://github.com/Chalakito3">
+				<img src="https://avatars.githubusercontent.com/u/292284160?s=72&u=dd6a161d21250307b1cee39667b0c0ceb5257701&v=4" width="24" alt="Avatar of Chalakito3"> Chalakito3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Chalakito3">Copy rank badge</a><br/>
+			Franklin Ronaldo Jorge Guarachi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/rhuanca">
+				<img src="https://avatars.githubusercontent.com/u/89518?s=72&v=4" width="24" alt="Avatar of rhuanca"> rhuanca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rhuanca">Copy rank badge</a><br/>
+			Renan Huanca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/CamperoJose">
+				<img src="https://avatars.githubusercontent.com/u/113204362?s=72&u=c2c318dde533592bcb11f2d28c01fcc01cc41192&v=4" width="24" alt="Avatar of CamperoJose"> CamperoJose
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CamperoJose">Copy rank badge</a><br/>
+			José Antonio Campero Morales
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/pr0nstar">
+				<img src="https://avatars.githubusercontent.com/u/64463227?s=72&v=4" width="24" alt="Avatar of pr0nstar"> pr0nstar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pr0nstar">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/devmiguelangel">
+				<img src="https://avatars.githubusercontent.com/u/3604190?s=72&u=362249d06fdef5f8d9b8dd9ba91ec81413d38204&v=4" width="24" alt="Avatar of devmiguelangel"> devmiguelangel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#devmiguelangel">Copy rank badge</a><br/>
+			Miguel Angel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/miguelangello">miguelangello</a></td>
+		<td>La Paz - Bolivia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/m87y2k">
+				<img src="https://avatars.githubusercontent.com/u/37814562?s=72&u=d3ba04333752c253385decbb67aeb5cd39d40272&v=4" width="24" alt="Avatar of m87y2k"> m87y2k
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#m87y2k">Copy rank badge</a><br/>
+			Miguel Benjamin Zubieta Rios
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/m87_y2k">m87_y2k</a></td>
+		<td>Bolivia</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/JonathanDSoto">
+				<img src="https://avatars.githubusercontent.com/u/37603928?s=72&u=f6abe9bbaf6b46a1b468459eaf844649979a70a7&v=4" width="24" alt="Avatar of JonathanDSoto"> JonathanDSoto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JonathanDSoto">Copy rank badge</a><br/>
+			Jonathan Soto
+		</td>
+		<td>Universidad Autonoma De Baja<br/>California<br/>Sur<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz Baja California Sur México</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/ItzRodri">
+				<img src="https://avatars.githubusercontent.com/u/134517998?s=72&u=4e1bbc613f8d7ff1390646e6887ac8f04b7a731c&v=4" width="24" alt="Avatar of ItzRodri"> ItzRodri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ItzRodri">Copy rank badge</a><br/>
+			Rodrigo Gutierrez Cruz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia,Sanra Cruz de la Sierra</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/surionah">
 				<img src="https://avatars.githubusercontent.com/u/4296658?s=72&u=7688835b5fc0408c32e04fe4fa6d814621125dbb&v=4" width="24" alt="Avatar of surionah"> surionah
@@ -3812,7 +3916,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/CimarRodrigo">
 				<img src="https://avatars.githubusercontent.com/u/64667912?s=72&u=8764983a5a25b662e07aad0b5f4a501865ee1b9a&v=4" width="24" alt="Avatar of CimarRodrigo"> CimarRodrigo
@@ -3825,20 +3929,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>295</td>
 		<td>
-			<a href="https://github.com/punamateo">
-				<img src="https://avatars.githubusercontent.com/u/25805943?s=72&u=d4b26650e2536cc93cc4be4769660f6d8c9c4e70&v=4" width="24" alt="Avatar of punamateo"> punamateo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#punamateo">Copy rank badge</a><br/>
-			Mateo Puña
+			<a href="https://github.com/ProfessorByte">
+				<img src="https://avatars.githubusercontent.com/u/37822461?s=72&u=1084d0cefea8123ef702f2f3d0940da6632e134d&v=4" width="24" alt="Avatar of ProfessorByte"> ProfessorByte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ProfessorByte">Copy rank badge</a><br/>
+			Pabloux Darkmind
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>81</td>
+		<td><a href="https://twitter.com/PablouxDarkmind">PablouxDarkmind</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>82</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/Sebas21gt">
 				<img src="https://avatars.githubusercontent.com/u/90219576?s=72&u=c9b3da58bea35abfa864fd202882e6c836bd5cbd&v=4" width="24" alt="Avatar of Sebas21gt"> Sebas21gt
@@ -3848,111 +3952,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sucre</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/kenjikv">
-				<img src="https://avatars.githubusercontent.com/u/7775057?s=72&u=4bcbfb75ec4f4f2e272d9c0d46ec0422c18efaf0&v=4" width="24" alt="Avatar of kenjikv"> kenjikv
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kenjikv">Copy rank badge</a><br/>
-			Kenji Kawaida
-		</td>
-		<td>Freelance </td>
-		<td><a href="https://twitter.com/kenjikawaida">kenjikawaida</a></td>
-		<td>Bolivia - Santa Cruz</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/KevinOmega">
-				<img src="https://avatars.githubusercontent.com/u/94870936?s=72&u=d8425794cb6e7cea27c7f383b15bd209c1f72016&v=4" width="24" alt="Avatar of KevinOmega"> KevinOmega
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KevinOmega">Copy rank badge</a><br/>
-			Kevin Huayllas
-		</td>
-		<td>Unicen </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/ItzRodri">
-				<img src="https://avatars.githubusercontent.com/u/134517998?s=72&u=4e1bbc613f8d7ff1390646e6887ac8f04b7a731c&v=4" width="24" alt="Avatar of ItzRodri"> ItzRodri
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ItzRodri">Copy rank badge</a><br/>
-			Rodrigo Gutierrez Cruz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia,Sanra Cruz de la Sierra</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/devmiguelangel">
-				<img src="https://avatars.githubusercontent.com/u/3604190?s=72&u=362249d06fdef5f8d9b8dd9ba91ec81413d38204&v=4" width="24" alt="Avatar of devmiguelangel"> devmiguelangel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#devmiguelangel">Copy rank badge</a><br/>
-			Miguel Angel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/miguelangello">miguelangello</a></td>
-		<td>La Paz - Bolivia</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/fabiosantiagopaixao">
-				<img src="https://avatars.githubusercontent.com/u/20490835?s=72&u=37e2ed981d6dca1df08814397aafa482de430564&v=4" width="24" alt="Avatar of fabiosantiagopaixao"> fabiosantiagopaixao
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fabiosantiagopaixao">Copy rank badge</a><br/>
-			Fábio Santiago da Paixão
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Potosí - Bolivia</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/Raxorg">
-				<img src="https://avatars.githubusercontent.com/u/18240060?s=72&u=61ddc143f5d5c099333746a608c7ed945862165f&v=4" width="24" alt="Avatar of Raxorg"> Raxorg
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Raxorg">Copy rank badge</a><br/>
-			Groxar
-		</td>
-		<td>Epicness For Everyone </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/rhuanca">
-				<img src="https://avatars.githubusercontent.com/u/89518?s=72&v=4" width="24" alt="Avatar of rhuanca"> rhuanca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rhuanca">Copy rank badge</a><br/>
-			Renan Huanca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/KendCode">
-				<img src="https://avatars.githubusercontent.com/u/178251682?s=72&u=86ed257bbc0e832021416ddc59b1eb2c9dce8c9e&v=4" width="24" alt="Avatar of KendCode"> KendCode
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KendCode">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>78</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>297</td>
@@ -3965,10 +3965,101 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>77</td>
+		<td>81</td>
 	</tr>
 	<tr>
 		<td>298</td>
+		<td>
+			<a href="https://github.com/lcalexyahir">
+				<img src="https://avatars.githubusercontent.com/u/176620940?s=72&u=87ed4b6c3730b2df9967070c838c67aa94f4665e&v=4" width="24" alt="Avatar of lcalexyahir"> lcalexyahir
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#lcalexyahir">Copy rank badge</a><br/>
+			×The_Capi×
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/DevLatBo">
+				<img src="https://avatars.githubusercontent.com/u/5255678?s=72&u=fd264fd5db1735b8418d83bcc78a756baa1356a2&v=4" width="24" alt="Avatar of DevLatBo"> DevLatBo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DevLatBo">Copy rank badge</a><br/>
+			Oscar Rolando Gamboa A.
+		</td>
+		<td>Devlat </td>
+		<td><a href="https://twitter.com/DevLatBo">DevLatBo</a></td>
+		<td>Cochabamba Bolivia</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/David-H-L">
+				<img src="https://avatars.githubusercontent.com/u/81874354?s=72&u=8577206745e4fec6912bbac3441394510ec59753&v=4" width="24" alt="Avatar of David-H-L"> David-H-L
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#David-H-L">Copy rank badge</a><br/>
+			David Huanca Ledezma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Cochabamba</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/nahimdhaney">
+				<img src="https://avatars.githubusercontent.com/u/30023737?s=72&u=34ee10e51d8c0164b8aee82fbadb854b872a1994&v=4" width="24" alt="Avatar of nahimdhaney"> nahimdhaney
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahimdhaney">Copy rank badge</a><br/>
+			Nahim Terrazas Parada
+		</td>
+		<td>@openzeppelin </td>
+		<td><a href="https://twitter.com/nahimdhaney">nahimdhaney</a></td>
+		<td>Bolivia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/AZMCode">
+				<img src="https://avatars.githubusercontent.com/u/15837568?s=72&v=4" width="24" alt="Avatar of AZMCode"> AZMCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AZMCode">Copy rank badge</a><br/>
+			Adriano Zambrana Marchetti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/fabiosantiagopaixao">
+				<img src="https://avatars.githubusercontent.com/u/20490835?s=72&u=37e2ed981d6dca1df08814397aafa482de430564&v=4" width="24" alt="Avatar of fabiosantiagopaixao"> fabiosantiagopaixao
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fabiosantiagopaixao">Copy rank badge</a><br/>
+			Fábio Santiago da Paixão
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Potosí - Bolivia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/Riju-vo">
+				<img src="https://avatars.githubusercontent.com/u/133923704?s=72&v=4" width="24" alt="Avatar of Riju-vo"> Riju-vo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Riju-vo">Copy rank badge</a><br/>
+			Richard J. Vargas Osinaga
+		</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/vecalciskay">
 				<img src="https://avatars.githubusercontent.com/u/173696?s=72&v=4" width="24" alt="Avatar of vecalciskay"> vecalciskay
@@ -3978,10 +4069,62 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Artexacta Srl </td>
 		<td><a href="https://twitter.com/vecalciskay">vecalciskay</a></td>
 		<td>Bolivia</td>
-		<td>76</td>
+		<td>78</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/KievAndres">
+				<img src="https://avatars.githubusercontent.com/u/28435811?s=72&u=d18fe790c76532d9eae14690bbe326278baf92c6&v=4" width="24" alt="Avatar of KievAndres"> KievAndres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KievAndres">Copy rank badge</a><br/>
+			Kiev Andres Mendoza Rojas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KievAndresDev">KievAndresDev</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/punamateo">
+				<img src="https://avatars.githubusercontent.com/u/25805943?s=72&u=d4b26650e2536cc93cc4be4769660f6d8c9c4e70&v=4" width="24" alt="Avatar of punamateo"> punamateo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#punamateo">Copy rank badge</a><br/>
+			Mateo Puña
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/Mrdavid656">
+				<img src="https://avatars.githubusercontent.com/u/56058231?s=72&u=6c14c655755cff0b496f34337e0c17cb62e85bb5&v=4" width="24" alt="Avatar of Mrdavid656"> Mrdavid656
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mrdavid656">Copy rank badge</a><br/>
+			David Gemio
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/adylezz">
+				<img src="https://avatars.githubusercontent.com/u/201607144?s=72&u=7e9ae9ee89ccbeacaebd400b7a1499ad96445fa0&v=4" width="24" alt="Avatar of adylezz"> adylezz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adylezz">Copy rank badge</a><br/>
+			Ady
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/databyady">databyady</a></td>
+		<td>Bolivia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/JoseLuisGit">
 				<img src="https://avatars.githubusercontent.com/u/54485617?s=72&u=9918f59a7e33ef5c44252a1e04609d660c0821b6&v=4" width="24" alt="Avatar of JoseLuisGit"> JoseLuisGit
@@ -3991,49 +4134,49 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Uagrm </td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz / Bolivia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/Zerchito">
+				<img src="https://avatars.githubusercontent.com/u/13457879?s=72&u=935cee57368cc0c167962b9a8544655dd1a7bd62&v=4" width="24" alt="Avatar of Zerchito"> Zerchito
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Zerchito">Copy rank badge</a><br/>
+			Sergio Flores Ledezma (zerch)
+		</td>
+		<td>Witco </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/RaulOrtiz99">
+				<img src="https://avatars.githubusercontent.com/u/36978009?s=72&u=2c2aa3f325cc7644c14db72d8ccfdbbae7c4b83b&v=4" width="24" alt="Avatar of RaulOrtiz99"> RaulOrtiz99
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RaulOrtiz99">Copy rank badge</a><br/>
+			RaulOrtiz99
+		</td>
+		<td>Uagrm Student </td>
+		<td>No Twitter Username</td>
+		<td>santa cruz-bolivia</td>
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>313</td>
 		<td>
-			<a href="https://github.com/JonathanDSoto">
-				<img src="https://avatars.githubusercontent.com/u/37603928?s=72&u=f6abe9bbaf6b46a1b468459eaf844649979a70a7&v=4" width="24" alt="Avatar of JonathanDSoto"> JonathanDSoto
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JonathanDSoto">Copy rank badge</a><br/>
-			Jonathan Soto
+			<a href="https://github.com/LuiSauter">
+				<img src="https://avatars.githubusercontent.com/u/88288135?s=72&u=d17053bf2dd0943859d77ec310572e99111bb673&v=4" width="24" alt="Avatar of LuiSauter"> LuiSauter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuiSauter">Copy rank badge</a><br/>
+			Luis Gabriel Janco
 		</td>
-		<td>Universidad Autonoma De Baja<br/>California<br/>Sur<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz Baja California Sur México</td>
+		<td>Sauterdev </td>
+		<td><a href="https://twitter.com/sauterdev">sauterdev</a></td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/rodravknight9">
-				<img src="https://avatars.githubusercontent.com/u/71949125?s=72&u=0ca6dff4d5226f1630b6a741c563c918dd73e897&v=4" width="24" alt="Avatar of rodravknight9"> rodravknight9
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rodravknight9">Copy rank badge</a><br/>
-			Rodrigo R. Alarcón V.
-		</td>
-		<td>Jalasoft </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/MrBl4ck04">
-				<img src="https://avatars.githubusercontent.com/u/78627210?s=72&u=73836f8785d35e6d12a8cc09a92963b30d891be7&v=4" width="24" alt="Avatar of MrBl4ck04"> MrBl4ck04
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MrBl4ck04">Copy rank badge</a><br/>
-			Franz Carvajal
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Franz0414">Franz0414</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>303</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/miguel-acha">
 				<img src="https://avatars.githubusercontent.com/u/147735128?s=72&u=7cd489131cfc7e14e317f8ef8a74cd4cefe873c0&v=4" width="24" alt="Avatar of miguel-acha"> miguel-acha
@@ -4046,137 +4189,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>315</td>
 		<td>
-			<a href="https://github.com/JJLizarazu">
-				<img src="https://avatars.githubusercontent.com/u/159208781?s=72&u=448a17e6e419018e1343a924901f540fdf14740c&v=4" width="24" alt="Avatar of JJLizarazu"> JJLizarazu
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JJLizarazu">Copy rank badge</a><br/>
-			Juan José Lizarazu
+			<a href="https://github.com/rodravknight9">
+				<img src="https://avatars.githubusercontent.com/u/71949125?s=72&u=0ca6dff4d5226f1630b6a741c563c918dd73e897&v=4" width="24" alt="Avatar of rodravknight9"> rodravknight9
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rodravknight9">Copy rank badge</a><br/>
+			Rodrigo R. Alarcón V.
 		</td>
-		<td>No Company</td>
+		<td>Jalasoft </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/MiltonChino">
-				<img src="https://avatars.githubusercontent.com/u/104020457?s=72&u=8c98ea96cd07ee2a448a02b8429cd4356ed22580&v=4" width="24" alt="Avatar of MiltonChino"> MiltonChino
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiltonChino">Copy rank badge</a><br/>
-			Milton Alcides Chino Mamani
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/AZMCode">
-				<img src="https://avatars.githubusercontent.com/u/15837568?s=72&v=4" width="24" alt="Avatar of AZMCode"> AZMCode
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AZMCode">Copy rank badge</a><br/>
-			Adriano Zambrana Marchetti
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/ElJoamy">
-				<img src="https://avatars.githubusercontent.com/u/68487005?s=72&u=280c171914d4f3ad5e8f696af4d13caebfbf68ee&v=4" width="24" alt="Avatar of ElJoamy"> ElJoamy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ElJoamy">Copy rank badge</a><br/>
-			Joseph Anthony Meneses Salguero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/HazaFG">
-				<img src="https://avatars.githubusercontent.com/u/127232657?s=72&u=bcc01ca22692e07d4e29e943ab428eb181687e6f&v=4" width="24" alt="Avatar of HazaFG"> HazaFG
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#HazaFG">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz BCS</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/terranigmark">
-				<img src="https://avatars.githubusercontent.com/u/21066556?s=72&u=8583ccd26f20392da65db94699267680ef58ae42&v=4" width="24" alt="Avatar of terranigmark"> terranigmark
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#terranigmark">Copy rank badge</a><br/>
-			Héctor Vega
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Baja California Sur, México</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/alemonas">
-				<img src="https://avatars.githubusercontent.com/u/6874963?s=72&u=61f1910dcb1595322803ac3f0f67d5fa0e81282e&v=4" width="24" alt="Avatar of alemonas"> alemonas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alemonas">Copy rank badge</a><br/>
-			Alejandro Monasterios
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aleMmR">aleMmR</a></td>
 		<td>La Paz, Bolivia</td>
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>316</td>
 		<td>
-			<a href="https://github.com/AXSCQ">
-				<img src="https://avatars.githubusercontent.com/u/148512806?s=72&u=7d16a02f99fab9bfddc65db0ac2045ddbc7d1694&v=4" width="24" alt="Avatar of AXSCQ"> AXSCQ
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AXSCQ">Copy rank badge</a><br/>
-			Axel Condori
+			<a href="https://github.com/lab24com">
+				<img src="https://avatars.githubusercontent.com/u/148305658?s=72&u=b7e3c32cf667d51d023d17eb950db4623d46d107&v=4" width="24" alt="Avatar of lab24com"> lab24com
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#lab24com">Copy rank badge</a><br/>
+			 Willian
 		</td>
-		<td>No Company</td>
+		<td>Laka </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>317</td>
 		<td>
-			<a href="https://github.com/GUZZ-0704">
-				<img src="https://avatars.githubusercontent.com/u/104204195?s=72&v=4" width="24" alt="Avatar of GUZZ-0704"> GUZZ-0704
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GUZZ-0704">Copy rank badge</a><br/>
-			Gustavo Andres Ramirez Garcia
+			<a href="https://github.com/retr0max309">
+				<img src="https://avatars.githubusercontent.com/u/185919680?s=72&u=1df10ba18ffbc0eb4ae364ec4fcc396022249225&v=4" width="24" alt="Avatar of retr0max309"> retr0max309
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#retr0max309">Copy rank badge</a><br/>
+			Maximiliano Turdera Colque
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>73</td>
+		<td>Sucre-Bolivia</td>
+		<td>72</td>
 	</tr>
 	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/Zerchito">
-				<img src="https://avatars.githubusercontent.com/u/13457879?s=72&u=935cee57368cc0c167962b9a8544655dd1a7bd62&v=4" width="24" alt="Avatar of Zerchito"> Zerchito
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Zerchito">Copy rank badge</a><br/>
-			Sergio Flores Ledezma (zerch)
-		</td>
-		<td>Witco </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>314</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/kiritodeveloper">
 				<img src="https://avatars.githubusercontent.com/u/23660868?s=72&u=bc992576ea72491cd9c8d22b2c3bd45395559d4e&v=4" width="24" alt="Avatar of kiritodeveloper"> kiritodeveloper
@@ -4189,7 +4241,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/salembo">
 				<img src="https://avatars.githubusercontent.com/u/4789056?s=72&u=52c5f3b7262f3144430b30f519bea23f476af998&v=4" width="24" alt="Avatar of salembo"> salembo
@@ -4202,59 +4254,72 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>320</td>
 		<td>
-			<a href="https://github.com/Alienbooy">
-				<img src="https://avatars.githubusercontent.com/u/167379953?s=72&u=e9212bbec04a6c96b50d614a9939fb7bba05ef61&v=4" width="24" alt="Avatar of Alienbooy"> Alienbooy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Alienbooy">Copy rank badge</a><br/>
-			Angelo Gareca Vaca
+			<a href="https://github.com/DrunkOldDog">
+				<img src="https://avatars.githubusercontent.com/u/21226219?s=72&u=31c4614b0bc985f32b3aa424bb7b9af90853ccf8&v=4" width="24" alt="Avatar of DrunkOldDog"> DrunkOldDog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DrunkOldDog">Copy rank badge</a><br/>
+			Juan Ignacio Reyes
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/ivanpalenciab">
-				<img src="https://avatars.githubusercontent.com/u/92239983?s=72&u=94baaf991269117867882ee33726b0532a301f94&v=4" width="24" alt="Avatar of ivanpalenciab"> ivanpalenciab
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ivanpalenciab">Copy rank badge</a><br/>
-			Ivan Palencia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ivanpalenciab">ivanpalenciab</a></td>
-		<td>since-sucre colombia</td>
+		<td><a href="https://twitter.com/juanireyesg">juanireyesg</a></td>
+		<td>La Paz, Bolivia</td>
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>321</td>
 		<td>
-			<a href="https://github.com/0PValencia">
-				<img src="https://avatars.githubusercontent.com/u/148593335?s=72&u=446b9ef0b3bc2f715920970c39b36f7ff88d2997&v=4" width="24" alt="Avatar of 0PValencia"> 0PValencia
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0PValencia">Copy rank badge</a><br/>
-			Dennis Ariel Gongora Valencia
+			<a href="https://github.com/eencinasq">
+				<img src="https://avatars.githubusercontent.com/u/6945588?s=72&u=fb3b1187baa6f1bab0aac363ef852a4a96d0fc15&v=4" width="24" alt="Avatar of eencinasq"> eencinasq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eencinasq">Copy rank badge</a><br/>
+			Edwin Encinas
 		</td>
-		<td>No Company</td>
+		<td>Ffactory </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
+		<td>CBBA-Bolivia</td>
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>322</td>
 		<td>
-			<a href="https://github.com/Carlosdvp">
-				<img src="https://avatars.githubusercontent.com/u/6460913?s=72&u=5b31ff9b6aa9dd3724d025717c14b7c555e80036&v=4" width="24" alt="Avatar of Carlosdvp"> Carlosdvp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Carlosdvp">Copy rank badge</a><br/>
-			Carlos V.
+			<a href="https://github.com/JJLizarazu">
+				<img src="https://avatars.githubusercontent.com/u/159208781?s=72&u=448a17e6e419018e1343a924901f540fdf14740c&v=4" width="24" alt="Avatar of JJLizarazu"> JJLizarazu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JJLizarazu">Copy rank badge</a><br/>
+			Juan José Lizarazu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
+		<td>Bolivia</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/viviLaura57">
+				<img src="https://avatars.githubusercontent.com/u/139585073?s=72&u=b677d444a5d6b4d2179d66f4564616d997d0fbb9&v=4" width="24" alt="Avatar of viviLaura57"> viviLaura57
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#viviLaura57">Copy rank badge</a><br/>
+			vivianalaurat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/KevinOmega">
+				<img src="https://avatars.githubusercontent.com/u/94870936?s=72&u=d8425794cb6e7cea27c7f383b15bd209c1f72016&v=4" width="24" alt="Avatar of KevinOmega"> KevinOmega
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KevinOmega">Copy rank badge</a><br/>
+			Kevin Huayllas
+		</td>
+		<td>Unicen </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/nethCor343">
 				<img src="https://avatars.githubusercontent.com/u/181650082?s=72&u=c1ff691073c49c0f47dbae4ceb6b8bc9c947c798&v=4" width="24" alt="Avatar of nethCor343"> nethCor343
@@ -4267,163 +4332,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/benjiCastillo">
-				<img src="https://avatars.githubusercontent.com/u/18648920?s=72&u=1ced2fefc51141e1a077e63669eb864612a81fb1&v=4" width="24" alt="Avatar of benjiCastillo"> benjiCastillo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#benjiCastillo">Copy rank badge</a><br/>
-			Benjamin Castillo Eguez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sucre, Bolivia</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/abelrgr">
-				<img src="https://avatars.githubusercontent.com/u/1250071?s=72&v=4" width="24" alt="Avatar of abelrgr"> abelrgr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#abelrgr">Copy rank badge</a><br/>
-			Abel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/viviLaura57">
-				<img src="https://avatars.githubusercontent.com/u/139585073?s=72&u=3119c818fe5ec41cab012cd79559aec867d2a889&v=4" width="24" alt="Avatar of viviLaura57"> viviLaura57
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#viviLaura57">Copy rank badge</a><br/>
-			vivianalaurat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/adylezz">
-				<img src="https://avatars.githubusercontent.com/u/201607144?s=72&u=7e9ae9ee89ccbeacaebd400b7a1499ad96445fa0&v=4" width="24" alt="Avatar of adylezz"> adylezz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#adylezz">Copy rank badge</a><br/>
-			Ady
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/databyady">databyady</a></td>
-		<td>Bolivia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/MarbelVega">
-				<img src="https://avatars.githubusercontent.com/u/14811919?s=72&u=ef810b5972dd7d2c94cca422db65ec36e7cd32ea&v=4" width="24" alt="Avatar of MarbelVega"> MarbelVega
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MarbelVega">Copy rank badge</a><br/>
-			Christian Vega 
-		</td>
-		<td>Netwalkers </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>67</td>
-	</tr>
-	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/CarlaMamaniChavez">
-				<img src="https://avatars.githubusercontent.com/u/66276312?s=72&u=5c77bacadc24693f27e59e825a559532d163a715&v=4" width="24" alt="Avatar of CarlaMamaniChavez"> CarlaMamaniChavez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlaMamaniChavez">Copy rank badge</a><br/>
-			Carla Vanesa Mamani Chavez
+			<a href="https://github.com/gerickt">
+				<img src="https://avatars.githubusercontent.com/u/4694035?s=72&u=d5fb5d1ab73a38aa9d413426e725d917581213af&v=4" width="24" alt="Avatar of gerickt"> gerickt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gerickt">Copy rank badge</a><br/>
+			Gerick
 		</td>
-		<td>University "mayor De San<br/>Andres"<br/></td>
-		<td><a href="https://twitter.com/CarlaMamaniCha1">CarlaMamaniCha1</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>66</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gerickt">gerickt</a></td>
+		<td>La Paz</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>327</td>
-		<td>
-			<a href="https://github.com/bjvta">
-				<img src="https://avatars.githubusercontent.com/u/14314615?s=72&u=3ae2edb299b2e80d0a7c31b88003696778f2c409&v=4" width="24" alt="Avatar of bjvta"> bjvta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bjvta">Copy rank badge</a><br/>
-			Brandon Valle
-		</td>
-		<td>Bjvsoft </td>
-		<td>No Twitter Username</td>
-		<td>Remote/Santa Cruz - Bolivia</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/danielstp">
-				<img src="https://avatars.githubusercontent.com/u/360370?s=72&u=dd22295f2db421495ef1036e8534d99d9895abc4&v=4" width="24" alt="Avatar of danielstp"> danielstp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danielstp">Copy rank badge</a><br/>
-			Daniel R. Saguez Tezanos Pinto
-		</td>
-		<td>@ngvenezuela  </td>
-		<td><a href="https://twitter.com/danielstp">danielstp</a></td>
-		<td>Bolivia</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/omarmus">
-				<img src="https://avatars.githubusercontent.com/u/2482184?s=72&u=c0a36611c6f8fe66172a97d884f666e4a67d2685&v=4" width="24" alt="Avatar of omarmus"> omarmus
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#omarmus">Copy rank badge</a><br/>
-			Omar Gutiérrez Condori
-		</td>
-		<td>Omarmus </td>
-		<td><a href="https://twitter.com/ozielmus">ozielmus</a></td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/MartinAAcebeyL">
-				<img src="https://avatars.githubusercontent.com/u/73047711?s=72&u=df23bdc0736ffd002aea821f6805781e7203af12&v=4" width="24" alt="Avatar of MartinAAcebeyL"> MartinAAcebeyL
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MartinAAcebeyL">Copy rank badge</a><br/>
-			Martin Acebey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/AleMancilla">
-				<img src="https://avatars.githubusercontent.com/u/49656371?s=72&u=094d18374d402b6cff1cbb6e801066f8c2553f8e&v=4" width="24" alt="Avatar of AleMancilla"> AleMancilla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AleMancilla">Copy rank badge</a><br/>
-			Alejandro Mancilla Huanca
-		</td>
-		<td>Boliviatrek </td>
-		<td>No Twitter Username</td>
-		<td>La Paz Bolivia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/diegoPenguino">
-				<img src="https://avatars.githubusercontent.com/u/22405024?s=72&u=cae48c998f671418ed4c2df43357ed197a9eaa63&v=4" width="24" alt="Avatar of diegoPenguino"> diegoPenguino
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diegoPenguino">Copy rank badge</a><br/>
-			Diego Angulo Ramirez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia </td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>333</td>
 		<td>
 			<a href="https://github.com/ErickFP7314">
 				<img src="https://avatars.githubusercontent.com/u/121003112?s=72&u=7c1ceeee3831b83b3efa55af795759b1fbbd7ff1&v=4" width="24" alt="Avatar of ErickFP7314"> ErickFP7314
@@ -4433,10 +4355,49 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>64</td>
+		<td>67</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/AleMancilla">
+				<img src="https://avatars.githubusercontent.com/u/49656371?s=72&u=094d18374d402b6cff1cbb6e801066f8c2553f8e&v=4" width="24" alt="Avatar of AleMancilla"> AleMancilla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AleMancilla">Copy rank badge</a><br/>
+			Alejandro Mancilla Huanca
+		</td>
+		<td>Boliviatrek </td>
+		<td>No Twitter Username</td>
+		<td>La Paz Bolivia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/Alienbooy">
+				<img src="https://avatars.githubusercontent.com/u/167379953?s=72&u=e9212bbec04a6c96b50d614a9939fb7bba05ef61&v=4" width="24" alt="Avatar of Alienbooy"> Alienbooy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Alienbooy">Copy rank badge</a><br/>
+			Angelo Gareca Vaca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/Richardson94">
+				<img src="https://avatars.githubusercontent.com/u/34153121?s=72&u=1c0c4fa2432ff48b67cbc103018eaf343cb8e363&v=4" width="24" alt="Avatar of Richardson94"> Richardson94
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Richardson94">Copy rank badge</a><br/>
+			Nelson Richard Cori Sirpa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/IngenieroAlan">
 				<img src="https://avatars.githubusercontent.com/u/118313670?s=72&v=4" width="24" alt="Avatar of IngenieroAlan"> IngenieroAlan
@@ -4449,46 +4410,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>332</td>
 		<td>
-			<a href="https://github.com/Richardson94">
-				<img src="https://avatars.githubusercontent.com/u/34153121?s=72&u=1c0c4fa2432ff48b67cbc103018eaf343cb8e363&v=4" width="24" alt="Avatar of Richardson94"> Richardson94
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Richardson94">Copy rank badge</a><br/>
-			Nelson Richard Cori Sirpa
+			<a href="https://github.com/HazaFG">
+				<img src="https://avatars.githubusercontent.com/u/127232657?s=72&u=bcc01ca22692e07d4e29e943ab428eb181687e6f&v=4" width="24" alt="Avatar of HazaFG"> HazaFG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#HazaFG">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/gerickt">
-				<img src="https://avatars.githubusercontent.com/u/4694035?s=72&u=d5fb5d1ab73a38aa9d413426e725d917581213af&v=4" width="24" alt="Avatar of gerickt"> gerickt
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gerickt">Copy rank badge</a><br/>
-			Gerick
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gerickt">gerickt</a></td>
-		<td>La Paz</td>
+		<td>La Paz BCS</td>
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/Mrdavid656">
-				<img src="https://avatars.githubusercontent.com/u/56058231?s=72&u=6c14c655755cff0b496f34337e0c17cb62e85bb5&v=4" width="24" alt="Avatar of Mrdavid656"> Mrdavid656
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mrdavid656">Copy rank badge</a><br/>
-			David Gemio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>338</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/andresh0816">
 				<img src="https://avatars.githubusercontent.com/u/20376163?s=72&u=15e56924b7153b8acb676191d34a53daffa97312&v=4" width="24" alt="Avatar of andresh0816"> andresh0816
@@ -4498,10 +4433,153 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Bytars </td>
 		<td>No Twitter Username</td>
 		<td>Morroa, Sucre</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/davidmanueldev">
+				<img src="https://avatars.githubusercontent.com/u/129340427?s=72&u=c552dd86ed7d03cb4a4e76cd35f49f0680db3ad5&v=4" width="24" alt="Avatar of davidmanueldev"> davidmanueldev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#davidmanueldev">Copy rank badge</a><br/>
+			David Manuel
+		</td>
+		<td>Unifranz </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>62</td>
 	</tr>
 	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/mercer3014">
+				<img src="https://avatars.githubusercontent.com/u/142670297?s=72&u=93a71e53c87ebe0b5d3402babb9115ce0da1ad96&v=4" width="24" alt="Avatar of mercer3014"> mercer3014
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mercer3014">Copy rank badge</a><br/>
+			Alex Cerezo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/Carlosdvp">
+				<img src="https://avatars.githubusercontent.com/u/6460913?s=72&u=5b31ff9b6aa9dd3724d025717c14b7c555e80036&v=4" width="24" alt="Avatar of Carlosdvp"> Carlosdvp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Carlosdvp">Copy rank badge</a><br/>
+			Carlos V.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/MrBl4ck04">
+				<img src="https://avatars.githubusercontent.com/u/78627210?s=72&u=73836f8785d35e6d12a8cc09a92963b30d891be7&v=4" width="24" alt="Avatar of MrBl4ck04"> MrBl4ck04
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MrBl4ck04">Copy rank badge</a><br/>
+			Franz Carvajal
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Franz0414">Franz0414</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/mariagarciaflores">
+				<img src="https://avatars.githubusercontent.com/u/11466678?s=72&u=6cb5323020669c3db3e7280c9f14688ec036488b&v=4" width="24" alt="Avatar of mariagarciaflores"> mariagarciaflores
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mariagarciaflores">Copy rank badge</a><br/>
+			Maria Griselda Garcia Flores
+		</td>
+		<td>Jalasoft </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>61</td>
+	</tr>
+	<tr>
 		<td>339</td>
+		<td>
+			<a href="https://github.com/chelobotix">
+				<img src="https://avatars.githubusercontent.com/u/65084923?s=72&u=061a0a262b0f27ecf0d9ded24b16fe541c6db91b&v=4" width="24" alt="Avatar of chelobotix"> chelobotix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#chelobotix">Copy rank badge</a><br/>
+			Marcelo Alarcon
+		</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/marcealarconb">marcealarconb</a></td>
+		<td>Bolivia</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/GUZZ-0704">
+				<img src="https://avatars.githubusercontent.com/u/104204195?s=72&v=4" width="24" alt="Avatar of GUZZ-0704"> GUZZ-0704
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GUZZ-0704">Copy rank badge</a><br/>
+			Gustavo Andres Ramirez Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/aldo-gutierrez">
+				<img src="https://avatars.githubusercontent.com/u/3989508?s=72&u=2eb85ff4745869695c1e05e8f19b7c25090277c5&v=4" width="24" alt="Avatar of aldo-gutierrez"> aldo-gutierrez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#aldo-gutierrez">Copy rank badge</a><br/>
+			Aldo Gutierrez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/WildeRojas">
+				<img src="https://avatars.githubusercontent.com/u/182025592?s=72&v=4" width="24" alt="Avatar of WildeRojas"> WildeRojas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WildeRojas">Copy rank badge</a><br/>
+			Wilder Ario Rojas Mamani
+		</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz De La Sierra</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/KendCode">
+				<img src="https://avatars.githubusercontent.com/u/178251682?s=72&u=86ed257bbc0e832021416ddc59b1eb2c9dce8c9e&v=4" width="24" alt="Avatar of KendCode"> KendCode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KendCode">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/bjvta">
+				<img src="https://avatars.githubusercontent.com/u/14314615?s=72&u=3ae2edb299b2e80d0a7c31b88003696778f2c409&v=4" width="24" alt="Avatar of bjvta"> bjvta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bjvta">Copy rank badge</a><br/>
+			Brandon Valle
+		</td>
+		<td>Bjvsoft </td>
+		<td>No Twitter Username</td>
+		<td>Remote/Santa Cruz - Bolivia</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/LuwuVelasco">
 				<img src="https://avatars.githubusercontent.com/u/105027435?s=72&u=10ee5d79043db2b9051188b232fb9f84a220986d&v=4" width="24" alt="Avatar of LuwuVelasco"> LuwuVelasco
@@ -4511,62 +4589,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz, Bolivia</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/MagdielQP">
-				<img src="https://avatars.githubusercontent.com/u/166472450?s=72&u=3395d07555c6d921404d73e7a034b0a8d7af38b0&v=4" width="24" alt="Avatar of MagdielQP"> MagdielQP
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MagdielQP">Copy rank badge</a><br/>
-			Isai Magdiel Quispe Perez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba/Bolivia</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/aojedacs">
-				<img src="https://avatars.githubusercontent.com/u/7572960?s=72&u=04bac301d5e705dc900f9f949f2f7c06e4c2eee0&v=4" width="24" alt="Avatar of aojedacs"> aojedacs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#aojedacs">Copy rank badge</a><br/>
-			Angel de Jesus Ojeda Castro
-		</td>
-		<td>Infios </td>
-		<td><a href="https://twitter.com/aojedacs">aojedacs</a></td>
-		<td>La Paz B.C.S, México</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/RonaldLopez171832">
-				<img src="https://avatars.githubusercontent.com/u/27923914?s=72&u=f6f13817a884d59d9dfec2ad79b767b81e56dac0&v=4" width="24" alt="Avatar of RonaldLopez171832"> RonaldLopez171832
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RonaldLopez171832">Copy rank badge</a><br/>
-			Ronald Lopez Profe
-		</td>
-		<td>Desarrollamelo </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/m87y2k">
-				<img src="https://avatars.githubusercontent.com/u/37814562?s=72&u=d3ba04333752c253385decbb67aeb5cd39d40272&v=4" width="24" alt="Avatar of m87y2k"> m87y2k
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#m87y2k">Copy rank badge</a><br/>
-			Miguel Benjamin Zubieta Rios
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/m87_y2k">m87_y2k</a></td>
-		<td>Bolivia</td>
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/ricardoasinr">
 				<img src="https://avatars.githubusercontent.com/u/71453150?s=72&u=34b89cc7f0c8feaf3fd83a13ace4dab7ac5d2cb7&v=4" width="24" alt="Avatar of ricardoasinr"> ricardoasinr
@@ -4576,52 +4602,65 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ricardoasinr">ricardoasinr</a></td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/alexolomeo">
-				<img src="https://avatars.githubusercontent.com/u/1932527?s=72&u=54dafe73d1fce90c7f7c67c545a4c3eb91ace2b9&v=4" width="24" alt="Avatar of alexolomeo"> alexolomeo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alexolomeo">Copy rank badge</a><br/>
-			Alexander Aguilar
-		</td>
-		<td>Glisc </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/Nicolascresposu">
-				<img src="https://avatars.githubusercontent.com/u/91248750?s=72&u=ac11894ac7427780ed058f7ddea0452f8070aec6&v=4" width="24" alt="Avatar of Nicolascresposu"> Nicolascresposu
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nicolascresposu">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>57</td>
 	</tr>
 	<tr>
 		<td>347</td>
 		<td>
-			<a href="https://github.com/CrisisTecno">
-				<img src="https://avatars.githubusercontent.com/u/143370345?s=72&u=e185ad133adb1983b29e77ac36a45cca968ff595&v=4" width="24" alt="Avatar of CrisisTecno"> CrisisTecno
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CrisisTecno">Copy rank badge</a><br/>
-			Cristhian Lucio Quispe Nina
+			<a href="https://github.com/RonaldLopez171832">
+				<img src="https://avatars.githubusercontent.com/u/27923914?s=72&u=f6f13817a884d59d9dfec2ad79b767b81e56dac0&v=4" width="24" alt="Avatar of RonaldLopez171832"> RonaldLopez171832
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RonaldLopez171832">Copy rank badge</a><br/>
+			Ronald Lopez Profe
 		</td>
-		<td>No Company</td>
+		<td>Desarrollamelo </td>
 		<td>No Twitter Username</td>
-		<td>Cochbamba, Bolivia</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>57</td>
 	</tr>
 	<tr>
 		<td>348</td>
 		<td>
+			<a href="https://github.com/Victorlimon">
+				<img src="https://avatars.githubusercontent.com/u/92769629?s=72&v=4" width="24" alt="Avatar of Victorlimon"> Victorlimon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Victorlimon">Copy rank badge</a><br/>
+			Victor M. Limon Zabala
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VictorLimonzab1">VictorLimonzab1</a></td>
+		<td>Bolivia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/alemonas">
+				<img src="https://avatars.githubusercontent.com/u/6874963?s=72&u=61f1910dcb1595322803ac3f0f67d5fa0e81282e&v=4" width="24" alt="Avatar of alemonas"> alemonas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alemonas">Copy rank badge</a><br/>
+			Alejandro Monasterios
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aleMmR">aleMmR</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/jhoelito123">
+				<img src="https://avatars.githubusercontent.com/u/133827076?s=72&u=e8735a342e75035e26312a95a514218d815d5256&v=4" width="24" alt="Avatar of jhoelito123"> jhoelito123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhoelito123">Copy rank badge</a><br/>
+			Adam Jhoel Mamani
+		</td>
+		<td>@soft-craft-bol  </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
 			<a href="https://github.com/OscarCampohermoso">
-				<img src="https://avatars.githubusercontent.com/u/104600219?s=72&u=622b0bc53d81cede2b19d6db6fe1d0362d1872ec&v=4" width="24" alt="Avatar of OscarCampohermoso"> OscarCampohermoso
+				<img src="https://avatars.githubusercontent.com/u/104600219?s=72&u=b75f9e95e0a4d01ac39e1a0151fc7e5c6be86f4a&v=4" width="24" alt="Avatar of OscarCampohermoso"> OscarCampohermoso
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#OscarCampohermoso">Copy rank badge</a><br/>
 			No Name
 		</td>
@@ -4631,20 +4670,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>352</td>
 		<td>
-			<a href="https://github.com/Gabriel-Pacheco-Martinez">
-				<img src="https://avatars.githubusercontent.com/u/113046608?s=72&u=53d18928fb361b7bd42d20c23d87fb5c45e55381&v=4" width="24" alt="Avatar of Gabriel-Pacheco-Martinez"> Gabriel-Pacheco-Martinez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Gabriel-Pacheco-Martinez">Copy rank badge</a><br/>
-			Gabriel Pacheco
+			<a href="https://github.com/terranigmark">
+				<img src="https://avatars.githubusercontent.com/u/21066556?s=72&u=8583ccd26f20392da65db94699267680ef58ae42&v=4" width="24" alt="Avatar of terranigmark"> terranigmark
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#terranigmark">Copy rank badge</a><br/>
+			Héctor Vega
 		</td>
-		<td>@banconacionalbolivi @virginiatech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>55</td>
+		<td>La Paz, Baja California Sur, México</td>
+		<td>54</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/re-al-7">
 				<img src="https://avatars.githubusercontent.com/u/10615843?s=72&u=85fa056dcb3ad6f855587c5ccd238f58deba0bde&v=4" width="24" alt="Avatar of re-al-7"> re-al-7
@@ -4657,46 +4696,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/svjchrysler">
-				<img src="https://avatars.githubusercontent.com/u/20376683?s=72&u=1c6fc565e9bb064d14777fc804e3c3202b8f4cec&v=4" width="24" alt="Avatar of svjchrysler"> svjchrysler
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#svjchrysler">Copy rank badge</a><br/>
-			Jhon Salguero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/jhonacs2">
-				<img src="https://avatars.githubusercontent.com/u/75391330?s=72&u=2d82bf4ab38c118dcbcf28c30eaa0667b2ba202f&v=4" width="24" alt="Avatar of jhonacs2"> jhonacs2
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhonacs2">Copy rank badge</a><br/>
-			Jhonatan Soto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Jhona_CSS">Jhona_CSS</a></td>
-		<td>La Paz , Bolivia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/Br4ikanUserP267">
-				<img src="https://avatars.githubusercontent.com/u/86017215?s=72&u=d3e186e7d9bf74196ec3c6ccfda34135f3209de4&v=4" width="24" alt="Avatar of Br4ikanUserP267"> Br4ikanUserP267
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Br4ikanUserP267">Copy rank badge</a><br/>
-			BRAIKAN PIÑA
-		</td>
-		<td>Clinica Santa María </td>
-		<td>No Twitter Username</td>
-		<td>SINCELEJO,SUCRE</td>
-		<td>53</td>
-	</tr>
-	<tr>
 		<td>354</td>
+		<td>
+			<a href="https://github.com/Eynar92">
+				<img src="https://avatars.githubusercontent.com/u/115285455?s=72&u=c24557ae7cf00c84e975b71fa41b35ddda78a02f&v=4" width="24" alt="Avatar of Eynar92"> Eynar92
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Eynar92">Copy rank badge</a><br/>
+			Eynar J. Alvarez M.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/alexolomeo">
+				<img src="https://avatars.githubusercontent.com/u/1932527?s=72&u=54dafe73d1fce90c7f7c67c545a4c3eb91ace2b9&v=4" width="24" alt="Avatar of alexolomeo"> alexolomeo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alexolomeo">Copy rank badge</a><br/>
+			Alexander Aguilar
+		</td>
+		<td>Glisc </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/danielstp">
+				<img src="https://avatars.githubusercontent.com/u/360370?s=72&u=dd22295f2db421495ef1036e8534d99d9895abc4&v=4" width="24" alt="Avatar of danielstp"> danielstp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danielstp">Copy rank badge</a><br/>
+			Daniel R. Saguez Tezanos Pinto
+		</td>
+		<td>@ngvenezuela  </td>
+		<td><a href="https://twitter.com/danielstp">danielstp</a></td>
+		<td>Bolivia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/andrescastromamani">
 				<img src="https://avatars.githubusercontent.com/u/40498384?s=72&u=6a667985542dea6329f2c4f71a7cc856a481d20b&v=4" width="24" alt="Avatar of andrescastromamani"> andrescastromamani
@@ -4709,98 +4748,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/Ernesto2001PO">
-				<img src="https://avatars.githubusercontent.com/u/111402458?s=72&u=10de1a7c5d91f9fe99c405842cf504d3e707b065&v=4" width="24" alt="Avatar of Ernesto2001PO"> Ernesto2001PO
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Ernesto2001PO">Copy rank badge</a><br/>
-			Ernesto Paz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz-Bolivia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/JuanJoseMirandaM">
-				<img src="https://avatars.githubusercontent.com/u/39716343?s=72&u=3038299a411728ea451d2fe78018467e57a8c7a6&v=4" width="24" alt="Avatar of JuanJoseMirandaM"> JuanJoseMirandaM
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JuanJoseMirandaM">Copy rank badge</a><br/>
-			Juan Jose Miranda
-		</td>
-		<td>Jsm Solutions </td>
-		<td>No Twitter Username</td>
-		<td>La Paz</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/JoseAndresHV">
-				<img src="https://avatars.githubusercontent.com/u/30439829?s=72&u=78ae4615809aff735521dffda1cc315c036ed386&v=4" width="24" alt="Avatar of JoseAndresHV"> JoseAndresHV
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JoseAndresHV">Copy rank badge</a><br/>
-			Jose Andres Hurtado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>52</td>
-	</tr>
-	<tr>
 		<td>358</td>
 		<td>
-			<a href="https://github.com/Skueletor">
-				<img src="https://avatars.githubusercontent.com/u/73276191?s=72&u=fce1c964e7b4b5dcd012d28e360513167723b56a&v=4" width="24" alt="Avatar of Skueletor"> Skueletor
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Skueletor">Copy rank badge</a><br/>
-			Skueletor
+			<a href="https://github.com/jhonacs2">
+				<img src="https://avatars.githubusercontent.com/u/75391330?s=72&u=2d82bf4ab38c118dcbcf28c30eaa0667b2ba202f&v=4" width="24" alt="Avatar of jhonacs2"> jhonacs2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhonacs2">Copy rank badge</a><br/>
+			Jhonatan Soto
 		</td>
-		<td>Edukardex </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jhona_CSS">Jhona_CSS</a></td>
+		<td>La Paz , Bolivia</td>
 		<td>52</td>
 	</tr>
 	<tr>
 		<td>359</td>
 		<td>
-			<a href="https://github.com/javieronishi">
-				<img src="https://avatars.githubusercontent.com/u/2164740?s=72&u=21a5d1d35b4374d927bed0a9c684267405ab7843&v=4" width="24" alt="Avatar of javieronishi"> javieronishi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#javieronishi">Copy rank badge</a><br/>
-			Javier Onishi Sadud
+			<a href="https://github.com/aojedacs">
+				<img src="https://avatars.githubusercontent.com/u/7572960?s=72&u=04bac301d5e705dc900f9f949f2f7c06e4c2eee0&v=4" width="24" alt="Avatar of aojedacs"> aojedacs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#aojedacs">Copy rank badge</a><br/>
+			Angel de Jesus Ojeda Castro
 		</td>
-		<td>Agetic </td>
-		<td><a href="https://twitter.com/JavierOnishi">JavierOnishi</a></td>
-		<td>La Paz - Bolivia</td>
+		<td>Infios </td>
+		<td><a href="https://twitter.com/aojedacs">aojedacs</a></td>
+		<td>La Paz B.C.S, México</td>
 		<td>52</td>
 	</tr>
 	<tr>
 		<td>360</td>
 		<td>
-			<a href="https://github.com/erozas">
-				<img src="https://avatars.githubusercontent.com/u/10351995?s=72&u=dbe4d55c789b1f057737cf605254a5198d180d49&v=4" width="24" alt="Avatar of erozas"> erozas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#erozas">Copy rank badge</a><br/>
-			Exequiel Rozas
+			<a href="https://github.com/MagdielQP">
+				<img src="https://avatars.githubusercontent.com/u/166472450?s=72&u=3395d07555c6d921404d73e7a034b0a8d7af38b0&v=4" width="24" alt="Avatar of MagdielQP"> MagdielQP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MagdielQP">Copy rank badge</a><br/>
+			Isai Magdiel Quispe Perez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_erozas">_erozas</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/Maxbm19">
-				<img src="https://avatars.githubusercontent.com/u/65494737?s=72&u=1e740b5835495a45191352178fe1c5e432374fe8&v=4" width="24" alt="Avatar of Maxbm19"> Maxbm19
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Maxbm19">Copy rank badge</a><br/>
-			Max Baldiviezo
-		</td>
-		<td>Ixpantia </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia (UTC-4)</td>
+		<td>Cochabamba/Bolivia</td>
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/LMenesesTroche">
 				<img src="https://avatars.githubusercontent.com/u/126593150?s=72&u=6248b6a7eb8038e2d352ae6d683470b58ff2c93c&v=4" width="24" alt="Avatar of LMenesesTroche"> LMenesesTroche
@@ -4813,7 +4800,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/dheeyi">
+				<img src="https://avatars.githubusercontent.com/u/7713859?s=72&v=4" width="24" alt="Avatar of dheeyi"> dheeyi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dheeyi">Copy rank badge</a><br/>
+			William Barra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>50</td>
+	</tr>
+	<tr>
 		<td>363</td>
+		<td>
+			<a href="https://github.com/Br4ikanUserP267">
+				<img src="https://avatars.githubusercontent.com/u/86017215?s=72&u=d3e186e7d9bf74196ec3c6ccfda34135f3209de4&v=4" width="24" alt="Avatar of Br4ikanUserP267"> Br4ikanUserP267
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Br4ikanUserP267">Copy rank badge</a><br/>
+			BRAIKAN PIÑA
+		</td>
+		<td>Clinica Santa María </td>
+		<td>No Twitter Username</td>
+		<td>SINCELEJO,SUCRE</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/FreddyMachaca">
 				<img src="https://avatars.githubusercontent.com/u/110005596?s=72&u=67861e8768fd33353d86828e2678d58b809a8477&v=4" width="24" alt="Avatar of FreddyMachaca"> FreddyMachaca
@@ -4823,19 +4836,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/kevinsubieta">
-				<img src="https://avatars.githubusercontent.com/u/12590368?s=72&u=7966f1926e4d0de870cb7e97e5d56a6a20459be1&v=4" width="24" alt="Avatar of kevinsubieta"> kevinsubieta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kevinsubieta">Copy rank badge</a><br/>
-			Kevin Subieta
-		</td>
-		<td>Subieta </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -4854,19 +4854,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>366</td>
 		<td>
-			<a href="https://github.com/Vlastrix">
-				<img src="https://avatars.githubusercontent.com/u/69318797?s=72&u=b78302ae7d7067e9940b789d4ff3b2ca496eb929&v=4" width="24" alt="Avatar of Vlastrix"> Vlastrix
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Vlastrix">Copy rank badge</a><br/>
-			Vladislav Bochkov
-		</td>
-		<td>Kiwit Agency </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
 			<a href="https://github.com/WilberRojas">
 				<img src="https://avatars.githubusercontent.com/u/74274632?s=72&u=004ce22119fc4a77699cfe9f9c58d6834dc742f4&v=4" width="24" alt="Avatar of WilberRojas"> WilberRojas
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WilberRojas">Copy rank badge</a><br/>
@@ -4878,16 +4865,29 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/javieronishi">
+				<img src="https://avatars.githubusercontent.com/u/2164740?s=72&u=21a5d1d35b4374d927bed0a9c684267405ab7843&v=4" width="24" alt="Avatar of javieronishi"> javieronishi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#javieronishi">Copy rank badge</a><br/>
+			Javier Onishi Sadud
+		</td>
+		<td>Agetic </td>
+		<td><a href="https://twitter.com/JavierOnishi">JavierOnishi</a></td>
+		<td>La Paz - Bolivia</td>
+		<td>49</td>
+	</tr>
+	<tr>
 		<td>368</td>
 		<td>
-			<a href="https://github.com/LuiSauter">
-				<img src="https://avatars.githubusercontent.com/u/88288135?s=72&u=d17053bf2dd0943859d77ec310572e99111bb673&v=4" width="24" alt="Avatar of LuiSauter"> LuiSauter
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuiSauter">Copy rank badge</a><br/>
-			Luis Gabriel Janco
+			<a href="https://github.com/vagner-merlin">
+				<img src="https://avatars.githubusercontent.com/u/189437954?s=72&u=ac0244fc24f60cc8d4a3ee2feec76a7038da3546&v=4" width="24" alt="Avatar of vagner-merlin"> vagner-merlin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vagner-merlin">Copy rank badge</a><br/>
+			Byvagner
 		</td>
-		<td>Sauterdev </td>
-		<td><a href="https://twitter.com/sauterdev">sauterdev</a></td>
-		<td>Santa Cruz, Bolivia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>bolivia / scz</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -4906,32 +4906,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>370</td>
 		<td>
-			<a href="https://github.com/nahimdhaney">
-				<img src="https://avatars.githubusercontent.com/u/30023737?s=72&u=34ee10e51d8c0164b8aee82fbadb854b872a1994&v=4" width="24" alt="Avatar of nahimdhaney"> nahimdhaney
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nahimdhaney">Copy rank badge</a><br/>
-			Nahim Terrazas Parada
-		</td>
-		<td>@openzeppelin </td>
-		<td><a href="https://twitter.com/nahimdhaney">nahimdhaney</a></td>
-		<td>Bolivia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/wtenorioucb">
-				<img src="https://avatars.githubusercontent.com/u/74077487?s=72&v=4" width="24" alt="Avatar of wtenorioucb"> wtenorioucb
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wtenorioucb">Copy rank badge</a><br/>
-			Willy Tenorio P.
-		</td>
-		<td>Ucb </td>
-		<td><a href="https://twitter.com/TigerWil">TigerWil</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
 			<a href="https://github.com/0z4c4">
 				<img src="https://avatars.githubusercontent.com/u/104656813?s=72&u=7ce34d3c83faeb186ed58ff24e13ae96cacf5e38&v=4" width="24" alt="Avatar of 0z4c4"> 0z4c4
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0z4c4">Copy rank badge</a><br/>
@@ -4943,38 +4917,38 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/vakajose">
+				<img src="https://avatars.githubusercontent.com/u/19436335?s=72&u=af01b9a4dc3c18941cc1bc6d11666c016e6e882c&v=4" width="24" alt="Avatar of vakajose"> vakajose
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vakajose">Copy rank badge</a><br/>
+			Jose Luis Vaca Fernandez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/benjiCastillo">
+				<img src="https://avatars.githubusercontent.com/u/18648920?s=72&u=1ced2fefc51141e1a077e63669eb864612a81fb1&v=4" width="24" alt="Avatar of benjiCastillo"> benjiCastillo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#benjiCastillo">Copy rank badge</a><br/>
+			Benjamin Castillo Eguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre, Bolivia</td>
+		<td>48</td>
+	</tr>
+	<tr>
 		<td>373</td>
 		<td>
-			<a href="https://github.com/freddxvill">
-				<img src="https://avatars.githubusercontent.com/u/93953973?s=72&u=5ad2f45d8f648541b2116f8bb488c99a604b1984&v=4" width="24" alt="Avatar of freddxvill"> freddxvill
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#freddxvill">Copy rank badge</a><br/>
-			Freddy Villca Villegas
-		</td>
-		<td>Thinka Ai </td>
-		<td><a href="https://twitter.com/fredvill">fredvill</a></td>
-		<td>Cbba | Bolivia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/Zumayaa">
-				<img src="https://avatars.githubusercontent.com/u/90068709?s=72&u=fbfad9c7c8be0dc570149b5b5ef23975c8a87430&v=4" width="24" alt="Avatar of Zumayaa"> Zumayaa
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Zumayaa">Copy rank badge</a><br/>
-			Abraham
-		</td>
-		<td>Icatebcs </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Baja California Sur.</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/axelfoxII">
-				<img src="https://avatars.githubusercontent.com/u/13296354?s=72&u=f199e75287f484a24e5be31ba72ad516943ed598&v=4" width="24" alt="Avatar of axelfoxII"> axelfoxII
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#axelfoxII">Copy rank badge</a><br/>
-			Alex Salvatierra
+			<a href="https://github.com/MartinAAcebeyL">
+				<img src="https://avatars.githubusercontent.com/u/73047711?s=72&u=df23bdc0736ffd002aea821f6805781e7203af12&v=4" width="24" alt="Avatar of MartinAAcebeyL"> MartinAAcebeyL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MartinAAcebeyL">Copy rank badge</a><br/>
+			Martin Acebey
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4982,7 +4956,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/edgarinvillegas">
 				<img src="https://avatars.githubusercontent.com/u/255083?s=72&u=4ed312b706b784fb1c197cb7ce314df63932f1e1&v=4" width="24" alt="Avatar of edgarinvillegas"> edgarinvillegas
@@ -4995,20 +4969,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>377</td>
-		<td>
-			<a href="https://github.com/dheeyi">
-				<img src="https://avatars.githubusercontent.com/u/7713859?s=72&v=4" width="24" alt="Avatar of dheeyi"> dheeyi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dheeyi">Copy rank badge</a><br/>
-			William Barra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>378</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/klozano">
 				<img src="https://avatars.githubusercontent.com/u/8312203?s=72&u=0cb58f4c65a5d291fb907b9368e54f18de950607&v=4" width="24" alt="Avatar of klozano"> klozano
@@ -5021,7 +4982,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/Cobp">
+				<img src="https://avatars.githubusercontent.com/u/147078245?s=72&u=0c97f13e39ed92ed8597ed9caf208145d7374441&v=4" width="24" alt="Avatar of Cobp"> Cobp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Cobp">Copy rank badge</a><br/>
+			Fabio Adrian Cobb Iraghua
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cobb_fabio">cobb_fabio</a></td>
+		<td>Santa Cruz-Bolivia</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/agustinmejia">
+				<img src="https://avatars.githubusercontent.com/u/22199888?s=72&u=aef66571b80db659dd49c59e626704562d1d95ce&v=4" width="24" alt="Avatar of agustinmejia"> agustinmejia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#agustinmejia">Copy rank badge</a><br/>
+			Agustin Mejia
+		</td>
+		<td>Desarrollo Creativo </td>
+		<td><a href="https://twitter.com/AgustinMejiaM">AgustinMejiaM</a></td>
+		<td>Santísima Trinidad - Beni - Bolivia</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/kevinsubieta">
+				<img src="https://avatars.githubusercontent.com/u/12590368?s=72&u=7966f1926e4d0de870cb7e97e5d56a6a20459be1&v=4" width="24" alt="Avatar of kevinsubieta"> kevinsubieta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kevinsubieta">Copy rank badge</a><br/>
+			Kevin Subieta
+		</td>
+		<td>Subieta </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>47</td>
+	</tr>
+	<tr>
 		<td>379</td>
+		<td>
+			<a href="https://github.com/JoseAndresHV">
+				<img src="https://avatars.githubusercontent.com/u/30439829?s=72&u=78ae4615809aff735521dffda1cc315c036ed386&v=4" width="24" alt="Avatar of JoseAndresHV"> JoseAndresHV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JoseAndresHV">Copy rank badge</a><br/>
+			Jose Andres Hurtado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/Yah-veh">
 				<img src="https://avatars.githubusercontent.com/u/58156906?s=72&u=b6dceed2c7ac5cb41438647c32317e7bfa781f89&v=4" width="24" alt="Avatar of Yah-veh"> Yah-veh
@@ -5034,7 +5047,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/ivanpalenciab">
+				<img src="https://avatars.githubusercontent.com/u/92239983?s=72&u=94baaf991269117867882ee33726b0532a301f94&v=4" width="24" alt="Avatar of ivanpalenciab"> ivanpalenciab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ivanpalenciab">Copy rank badge</a><br/>
+			Ivan Palencia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivanpalenciab">ivanpalenciab</a></td>
+		<td>since-sucre colombia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/ilustrardesign">
 				<img src="https://avatars.githubusercontent.com/u/72947723?s=72&u=a69e3e89a4175c6ec453efed6483ee9b6494adcd&v=4" width="24" alt="Avatar of ilustrardesign"> ilustrardesign
@@ -5047,33 +5073,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>383</td>
 		<td>
-			<a href="https://github.com/retr0max309">
-				<img src="https://avatars.githubusercontent.com/u/185919680?s=72&u=1df10ba18ffbc0eb4ae364ec4fcc396022249225&v=4" width="24" alt="Avatar of retr0max309"> retr0max309
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#retr0max309">Copy rank badge</a><br/>
-			Maximiliano Turdera Colque
+			<a href="https://github.com/carakan">
+				<img src="https://avatars.githubusercontent.com/u/6695?s=72&u=1751c801353b0210ea90ff6c1061aa729bad98fd&v=4" width="24" alt="Avatar of carakan"> carakan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carakan">Copy rank badge</a><br/>
+			Carlos Ramos
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sucre-Bolivia</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/draquio">
-				<img src="https://avatars.githubusercontent.com/u/138133750?s=72&u=8f8c678ee47a437de64daf4d27ec409b4ece1098&v=4" width="24" alt="Avatar of draquio"> draquio
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#draquio">Copy rank badge</a><br/>
-			Sergio Mercado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Kopius </td>
+		<td><a href="https://twitter.com/carakan">carakan</a></td>
 		<td>Bolivia</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/Alba070503">
+				<img src="https://avatars.githubusercontent.com/u/97574964?s=72&u=d6c9023e7c532b7ecaad38a6d2d72d438d9a8afa&v=4" width="24" alt="Avatar of Alba070503"> Alba070503
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Alba070503">Copy rank badge</a><br/>
+			Alba070503
+		</td>
+		<td>Alba070503-official </td>
+		<td><a href="https://twitter.com/Alba070503">Alba070503</a></td>
+		<td>Bolivia</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/wtenorioucb">
+				<img src="https://avatars.githubusercontent.com/u/74077487?s=72&v=4" width="24" alt="Avatar of wtenorioucb"> wtenorioucb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wtenorioucb">Copy rank badge</a><br/>
+			Willy Tenorio P.
+		</td>
+		<td>Ucb </td>
+		<td><a href="https://twitter.com/TigerWil">TigerWil</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/CarrascoAlejandro">
 				<img src="https://avatars.githubusercontent.com/u/86273260?s=72&u=edab905d7577c90671a209e0403062ec80fe7678&v=4" width="24" alt="Avatar of CarrascoAlejandro"> CarrascoAlejandro
@@ -5086,46 +5125,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>387</td>
 		<td>
-			<a href="https://github.com/RepolloDev">
-				<img src="https://avatars.githubusercontent.com/u/96484170?s=72&u=a12e110d651debe7ef68d1e8ee256df80b0cbdfe&v=4" width="24" alt="Avatar of RepolloDev"> RepolloDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RepolloDev">Copy rank badge</a><br/>
-			Luis Gabriel
+			<a href="https://github.com/JuanJoseMirandaM">
+				<img src="https://avatars.githubusercontent.com/u/39716343?s=72&u=3038299a411728ea451d2fe78018467e57a8c7a6&v=4" width="24" alt="Avatar of JuanJoseMirandaM"> JuanJoseMirandaM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JuanJoseMirandaM">Copy rank badge</a><br/>
+			Juan Jose Miranda
 		</td>
-		<td>No Company</td>
+		<td>Jsm Solutions </td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
+		<td>La Paz</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>388</td>
 		<td>
-			<a href="https://github.com/FranzM91">
-				<img src="https://avatars.githubusercontent.com/u/5831936?s=72&u=0ef8702e9f6bfa988a5aa7c58842844baeb0e7f9&v=4" width="24" alt="Avatar of FranzM91"> FranzM91
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FranzM91">Copy rank badge</a><br/>
-			Franz Mamani
+			<a href="https://github.com/DannerAly">
+				<img src="https://avatars.githubusercontent.com/u/114673654?s=72&u=ff9391d7f0eebb99e41b8fb6d67a798b88ce6429&v=4" width="24" alt="Avatar of DannerAly"> DannerAly
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DannerAly">Copy rank badge</a><br/>
+			Danner Aly
 		</td>
-		<td>Qhanati </td>
+		<td>Universidad San Francisco Xavier<br/>De<br/>Chuquisaca<br/></td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba</td>
+		<td>Sucre </td>
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/mercer3014">
-				<img src="https://avatars.githubusercontent.com/u/142670297?s=72&u=93a71e53c87ebe0b5d3402babb9115ce0da1ad96&v=4" width="24" alt="Avatar of mercer3014"> mercer3014
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mercer3014">Copy rank badge</a><br/>
-			Alex Cerezo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>387</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/krypton612">
 				<img src="https://avatars.githubusercontent.com/u/50895807?s=72&u=e1aca18a9e5ce211d61a8c8bf84bd63977241693&v=4" width="24" alt="Avatar of krypton612"> krypton612
@@ -5138,55 +5164,29 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/ObedAndradeOrtiz">
-				<img src="https://avatars.githubusercontent.com/u/86919211?s=72&u=a51fbcbe9609ec9a2a398d41c62ec5fdfd4f85d7&v=4" width="24" alt="Avatar of ObedAndradeOrtiz"> ObedAndradeOrtiz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ObedAndradeOrtiz">Copy rank badge</a><br/>
-			Esrom Obed Andrade Ortiz
-		</td>
-		<td>Uagrm </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz-Bolivia</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/BranimirE">
-				<img src="https://avatars.githubusercontent.com/u/4145502?s=72&u=8c665be1810cd8e8e7ebb406426b425a1d07fab5&v=4" width="24" alt="Avatar of BranimirE"> BranimirE
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BranimirE">Copy rank badge</a><br/>
-			Branimir Espinoza
-		</td>
-		<td>New Vision Data </td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>44</td>
-	</tr>
-	<tr>
 		<td>390</td>
 		<td>
-			<a href="https://github.com/dazes97">
-				<img src="https://avatars.githubusercontent.com/u/23646354?s=72&u=2cad5e027d20e44fd1cb7806e3888a0d2bd99740&v=4" width="24" alt="Avatar of dazes97"> dazes97
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dazes97">Copy rank badge</a><br/>
-			Daniel Zeballos
+			<a href="https://github.com/ArnyWorld">
+				<img src="https://avatars.githubusercontent.com/u/47994871?s=72&u=39bc65cdcf5efe0cc2f4a316a10b9f61b119e2f5&v=4" width="24" alt="Avatar of ArnyWorld"> ArnyWorld
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ArnyWorld">Copy rank badge</a><br/>
+			Arnaldo Muñoz Mendoza
 		</td>
-		<td>No Company</td>
+		<td>Profesor Y Frontend Developer<br/></td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz Bolivia</td>
+		<td>Bolivia</td>
 		<td>44</td>
 	</tr>
 	<tr>
 		<td>391</td>
 		<td>
-			<a href="https://github.com/agustinmejia">
-				<img src="https://avatars.githubusercontent.com/u/22199888?s=72&u=aef66571b80db659dd49c59e626704562d1d95ce&v=4" width="24" alt="Avatar of agustinmejia"> agustinmejia
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#agustinmejia">Copy rank badge</a><br/>
-			Agustin Mejia
+			<a href="https://github.com/franzemil">
+				<img src="https://avatars.githubusercontent.com/u/11077528?s=72&v=4" width="24" alt="Avatar of franzemil"> franzemil
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#franzemil">Copy rank badge</a><br/>
+			Franz Emil Eulate Chacolla
 		</td>
-		<td>Desarrollo Creativo </td>
-		<td><a href="https://twitter.com/AgustinMejiaM">AgustinMejiaM</a></td>
-		<td>Santísima Trinidad - Beni - Bolivia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -5205,96 +5205,122 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>393</td>
 		<td>
-			<a href="https://github.com/TANHEHANZ">
-				<img src="https://avatars.githubusercontent.com/u/113189112?s=72&u=e924f34b9eff6d32a33baba50fdb90b9be4e3963&v=4" width="24" alt="Avatar of TANHEHANZ"> TANHEHANZ
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TANHEHANZ">Copy rank badge</a><br/>
-			Hanz Tapia Choque
+			<a href="https://github.com/Maxbm19">
+				<img src="https://avatars.githubusercontent.com/u/65494737?s=72&u=1e740b5835495a45191352178fe1c5e432374fe8&v=4" width="24" alt="Avatar of Maxbm19"> Maxbm19
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Maxbm19">Copy rank badge</a><br/>
+			Max Baldiviezo
 		</td>
-		<td>Unifranz  </td>
+		<td>Ixpantia </td>
 		<td>No Twitter Username</td>
-		<td>bolivia</td>
-		<td>42</td>
+		<td>Santa Cruz, Bolivia (UTC-4)</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>394</td>
 		<td>
-			<a href="https://github.com/DASTLSITO">
-				<img src="https://avatars.githubusercontent.com/u/92644723?s=72&u=057cfb53137ce49ca9d547bbfd10d08029014dd9&v=4" width="24" alt="Avatar of DASTLSITO"> DASTLSITO
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DASTLSITO">Copy rank badge</a><br/>
-			Jesus Eduardo Alvarez Perez
+			<a href="https://github.com/AmirJV1">
+				<img src="https://avatars.githubusercontent.com/u/66282280?s=72&u=da6276a319684ccf39a8afceb1650605aee67a17&v=4" width="24" alt="Avatar of AmirJV1"> AmirJV1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AmirJV1">Copy rank badge</a><br/>
+			Amir Velasquez
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Baja California Sur</td>
-		<td>42</td>
+		<td><a href="https://twitter.com/NoSoyAmir">NoSoyAmir</a></td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>395</td>
 		<td>
-			<a href="https://github.com/vmtacurir">
-				<img src="https://avatars.githubusercontent.com/u/82398219?s=72&u=d5eb40cf342f560681bbe3db2faa10a74dfb7658&v=4" width="24" alt="Avatar of vmtacurir"> vmtacurir
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vmtacurir">Copy rank badge</a><br/>
-			Victor Manuel Tacuri Rengifo
+			<a href="https://github.com/EltonCass">
+				<img src="https://avatars.githubusercontent.com/u/51844513?s=72&u=68dba75257ac92370030e5878bb24dfeb6982af1&v=4" width="24" alt="Avatar of EltonCass"> EltonCass
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EltonCass">Copy rank badge</a><br/>
+			Elton Cassas
 		</td>
-		<td>Universidad Mayor, Real Y<br/>Pontificia<br/>De<br/>San<br/>Francisco<br/>Xavier<br/>De<br/>Chuquisaca<br/></td>
-		<td><a href="https://twitter.com/victormanuel_tr">victormanuel_tr</a></td>
-		<td>Sucre - Bolivia </td>
-		<td>41</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/jclm-rt">
-				<img src="https://avatars.githubusercontent.com/u/55666859?s=72&u=04937164e98a9614fe0b1853ab00dd20def2f503&v=4" width="24" alt="Avatar of jclm-rt"> jclm-rt
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jclm-rt">Copy rank badge</a><br/>
-			Julio Cesar Lapaca Martinez
+			<a href="https://github.com/kevinvasquezb">
+				<img src="https://avatars.githubusercontent.com/u/66265089?s=72&u=839915ee15324892c8f47e2d5a8d5d1df53b4317&v=4" width="24" alt="Avatar of kevinvasquezb"> kevinvasquezb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kevinvasquezb">Copy rank badge</a><br/>
+			Kevin Vasquez B.
 		</td>
-		<td>Pricer </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>41</td>
+		<td>Utepsa - Emi </td>
+		<td><a href="https://twitter.com/kevinvasquezba">kevinvasquezba</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>397</td>
 		<td>
-			<a href="https://github.com/jhoelito123">
-				<img src="https://avatars.githubusercontent.com/u/133827076?s=72&u=e8735a342e75035e26312a95a514218d815d5256&v=4" width="24" alt="Avatar of jhoelito123"> jhoelito123
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jhoelito123">Copy rank badge</a><br/>
-			Adam Jhoel Mamani
+			<a href="https://github.com/FranzM91">
+				<img src="https://avatars.githubusercontent.com/u/5831936?s=72&u=0ef8702e9f6bfa988a5aa7c58842844baeb0e7f9&v=4" width="24" alt="Avatar of FranzM91"> FranzM91
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FranzM91">Copy rank badge</a><br/>
+			Franz Mamani
 		</td>
-		<td>@soft-craft-bol  </td>
+		<td>Qhanati </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>41</td>
+		<td>Cochabamba</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>398</td>
 		<td>
-			<a href="https://github.com/lcalexyahir">
-				<img src="https://avatars.githubusercontent.com/u/176620940?s=72&u=86ec9d2cc1b13381887b9b1972919fe410909e7c&v=4" width="24" alt="Avatar of lcalexyahir"> lcalexyahir
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#lcalexyahir">Copy rank badge</a><br/>
-			×The_Capi×
+			<a href="https://github.com/BranimirE">
+				<img src="https://avatars.githubusercontent.com/u/4145502?s=72&u=8c665be1810cd8e8e7ebb406426b425a1d07fab5&v=4" width="24" alt="Avatar of BranimirE"> BranimirE
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BranimirE">Copy rank badge</a><br/>
+			Branimir Espinoza
 		</td>
-		<td>No Company</td>
+		<td>New Vision Data </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>41</td>
+		<td>La Paz - Bolivia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>399</td>
 		<td>
-			<a href="https://github.com/mar-vall">
-				<img src="https://avatars.githubusercontent.com/u/80362881?s=72&u=c740d9ba18cd10b5555cc10340281ef5231058d7&v=4" width="24" alt="Avatar of mar-vall"> mar-vall
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mar-vall">Copy rank badge</a><br/>
-			Mariana Vallejos
+			<a href="https://github.com/dazes97">
+				<img src="https://avatars.githubusercontent.com/u/23646354?s=72&u=2cad5e027d20e44fd1cb7806e3888a0d2bd99740&v=4" width="24" alt="Avatar of dazes97"> dazes97
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dazes97">Copy rank badge</a><br/>
+			Daniel Zeballos
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>41</td>
+		<td>Santa Cruz Bolivia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>400</td>
+		<td>
+			<a href="https://github.com/CarlaMamaniChavez">
+				<img src="https://avatars.githubusercontent.com/u/66276312?s=72&u=5c77bacadc24693f27e59e825a559532d163a715&v=4" width="24" alt="Avatar of CarlaMamaniChavez"> CarlaMamaniChavez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlaMamaniChavez">Copy rank badge</a><br/>
+			Carla Vanesa Mamani Chavez
+		</td>
+		<td>University "mayor De San<br/>Andres"<br/></td>
+		<td><a href="https://twitter.com/CarlaMamaniCha1">CarlaMamaniCha1</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/ObedAndradeOrtiz">
+				<img src="https://avatars.githubusercontent.com/u/86919211?s=72&u=76d1f687b539fcab0c90a8b280d68115736b372c&v=4" width="24" alt="Avatar of ObedAndradeOrtiz"> ObedAndradeOrtiz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ObedAndradeOrtiz">Copy rank badge</a><br/>
+			Esrom Obed Andrade Ortiz
+		</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz-Bolivia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/ArielGalvez">
 				<img src="https://avatars.githubusercontent.com/u/32244920?s=72&u=9e7e244350135f13732c9fd3f4be37fd1ba8c4f9&v=4" width="24" alt="Avatar of ArielGalvez"> ArielGalvez
@@ -5307,10 +5333,23 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/trxsalo">
+				<img src="https://avatars.githubusercontent.com/u/68619451?s=72&u=7eb16fb3ac31a8449ef8b4bdae254510b4075d23&v=4" width="24" alt="Avatar of trxsalo"> trxsalo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#trxsalo">Copy rank badge</a><br/>
+			TRXSALOME
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/Apsael">
-				<img src="https://avatars.githubusercontent.com/u/59040583?s=72&u=d61ff96a5ae33f817ae05b7ce01267a87e57746b&v=4" width="24" alt="Avatar of Apsael"> Apsael
+				<img src="https://avatars.githubusercontent.com/u/59040583?s=72&u=1f6f11ceacbe340857a94f5ab0cf324b97d21c7f&v=4" width="24" alt="Avatar of Apsael"> Apsael
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Apsael">Copy rank badge</a><br/>
 			Diego Andrés Fernández Romero
 		</td>
@@ -5320,7 +5359,72 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/jclm-rt">
+				<img src="https://avatars.githubusercontent.com/u/55666859?s=72&u=04937164e98a9614fe0b1853ab00dd20def2f503&v=4" width="24" alt="Avatar of jclm-rt"> jclm-rt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jclm-rt">Copy rank badge</a><br/>
+			Julio Cesar Lapaca Martinez
+		</td>
+		<td>Pricer </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/derinvc23">
+				<img src="https://avatars.githubusercontent.com/u/101202290?s=72&v=4" width="24" alt="Avatar of derinvc23"> derinvc23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#derinvc23">Copy rank badge</a><br/>
+			Derin Dickson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DerinDickson">DerinDickson</a></td>
+		<td>Santa Cruz, Bolivia </td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/wolf-mtwo">
+				<img src="https://avatars.githubusercontent.com/u/7588258?s=72&u=7873d37ff874e18b9440004ab314a85c94b58a4b&v=4" width="24" alt="Avatar of wolf-mtwo"> wolf-mtwo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wolf-mtwo">Copy rank badge</a><br/>
+			Rolf Mtwo
+		</td>
+		<td>Jalasoft </td>
+		<td>No Twitter Username</td>
+		<td>Cbba, Bolivia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/Skueletor">
+				<img src="https://avatars.githubusercontent.com/u/73276191?s=72&u=fce1c964e7b4b5dcd012d28e360513167723b56a&v=4" width="24" alt="Avatar of Skueletor"> Skueletor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Skueletor">Copy rank badge</a><br/>
+			Skueletor
+		</td>
+		<td>Edukardex </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/draquio">
+				<img src="https://avatars.githubusercontent.com/u/138133750?s=72&u=8f8c678ee47a437de64daf4d27ec409b4ece1098&v=4" width="24" alt="Avatar of draquio"> draquio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#draquio">Copy rank badge</a><br/>
+			Sergio Mercado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/SebastianBelmonte01">
 				<img src="https://avatars.githubusercontent.com/u/83316300?s=72&u=57437b3fe34d0593f9c6cec45594b71862f01c95&v=4" width="24" alt="Avatar of SebastianBelmonte01"> SebastianBelmonte01
@@ -5333,46 +5437,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/derinvc23">
-				<img src="https://avatars.githubusercontent.com/u/101202290?s=72&v=4" width="24" alt="Avatar of derinvc23"> derinvc23
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#derinvc23">Copy rank badge</a><br/>
-			Derin Dickson
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DerinDickson">DerinDickson</a></td>
-		<td>Santa Cruz, Bolivia </td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/0xsissN">
-				<img src="https://avatars.githubusercontent.com/u/100359738?s=72&u=8c55dabec728e32586c0eb289d2b8aa47ace57e8&v=4" width="24" alt="Avatar of 0xsissN"> 0xsissN
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0xsissN">Copy rank badge</a><br/>
-			Nicolas Sivila
-		</td>
-		<td>Upds </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/NahuelTG">
-				<img src="https://avatars.githubusercontent.com/u/82225217?s=72&u=9ea8c42f4051b44b5a7cad86b7d4e1e1c4b28b1c&v=4" width="24" alt="Avatar of NahuelTG"> NahuelTG
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NahuelTG">Copy rank badge</a><br/>
-			Nahuel Torrez Guzman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>406</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/bladimir-morales">
 				<img src="https://avatars.githubusercontent.com/u/59274853?s=72&u=7eb7c76da503e8716f138f9e3c3f08b87e3426b7&v=4" width="24" alt="Avatar of bladimir-morales"> bladimir-morales
@@ -5385,7 +5450,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/Gabriel-Pacheco-Martinez">
+				<img src="https://avatars.githubusercontent.com/u/113046608?s=72&u=53d18928fb361b7bd42d20c23d87fb5c45e55381&v=4" width="24" alt="Avatar of Gabriel-Pacheco-Martinez"> Gabriel-Pacheco-Martinez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Gabriel-Pacheco-Martinez">Copy rank badge</a><br/>
+			Gabriel Pacheco
+		</td>
+		<td>@banconacionalbolivi @virginiatech </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/Anstayker">
 				<img src="https://avatars.githubusercontent.com/u/35853318?s=72&u=7c5d457381a1793f1a03c5dc50354c4464b797aa&v=4" width="24" alt="Avatar of Anstayker"> Anstayker
@@ -5398,20 +5476,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>414</td>
 		<td>
-			<a href="https://github.com/muimui69">
-				<img src="https://avatars.githubusercontent.com/u/83107695?s=72&u=08e98b65f7d22297d03269c1642502e55b5b3325&v=4" width="24" alt="Avatar of muimui69"> muimui69
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#muimui69">Copy rank badge</a><br/>
-			Moises Reyes
+			<a href="https://github.com/0xsissN">
+				<img src="https://avatars.githubusercontent.com/u/100359738?s=72&u=8c55dabec728e32586c0eb289d2b8aa47ace57e8&v=4" width="24" alt="Avatar of 0xsissN"> 0xsissN
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#0xsissN">Copy rank badge</a><br/>
+			Nicolas Sivila
 		</td>
-		<td>No Company</td>
+		<td>Upds </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/DASTLSITO">
+				<img src="https://avatars.githubusercontent.com/u/92644723?s=72&u=057cfb53137ce49ca9d547bbfd10d08029014dd9&v=4" width="24" alt="Avatar of DASTLSITO"> DASTLSITO
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DASTLSITO">Copy rank badge</a><br/>
+			Jesus Eduardo Alvarez Perez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Baja California Sur</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/cpjosejesus">
+				<img src="https://avatars.githubusercontent.com/u/45214219?s=72&u=e9ac663dcd58ff4da9f841c2f11ffb089bd9eb2a&v=4" width="24" alt="Avatar of cpjosejesus"> cpjosejesus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cpjosejesus">Copy rank badge</a><br/>
+			Jose Jesus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cpjosejesus">cpjosejesus</a></td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/Gonzalo-Aruquipa">
 				<img src="https://avatars.githubusercontent.com/u/32972962?s=72&u=abec992b00c9f6984bf3847db6b0a21489a830e4&v=4" width="24" alt="Avatar of Gonzalo-Aruquipa"> Gonzalo-Aruquipa
@@ -5424,7 +5528,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/cristianfchq">
 				<img src="https://avatars.githubusercontent.com/u/46145612?s=72&u=fcb715b2dcbd7106c3d9e63343b860c28a33c572&v=4" width="24" alt="Avatar of cristianfchq"> cristianfchq
@@ -5437,20 +5541,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/wolf-mtwo">
-				<img src="https://avatars.githubusercontent.com/u/7588258?s=72&u=7873d37ff874e18b9440004ab314a85c94b58a4b&v=4" width="24" alt="Avatar of wolf-mtwo"> wolf-mtwo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wolf-mtwo">Copy rank badge</a><br/>
-			Rolf Mtwo
-		</td>
-		<td>Jalasoft </td>
-		<td>No Twitter Username</td>
-		<td>Cbba, Bolivia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>412</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/Max-Power-7">
 				<img src="https://avatars.githubusercontent.com/u/53453234?s=72&u=8ffcea8610805b4b3d4130bc780415fe35f169fa&v=4" width="24" alt="Avatar of Max-Power-7"> Max-Power-7
@@ -5463,59 +5554,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>420</td>
 		<td>
-			<a href="https://github.com/DannerAly">
-				<img src="https://avatars.githubusercontent.com/u/114673654?s=72&u=ff9391d7f0eebb99e41b8fb6d67a798b88ce6429&v=4" width="24" alt="Avatar of DannerAly"> DannerAly
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DannerAly">Copy rank badge</a><br/>
-			Danner Aly
+			<a href="https://github.com/santtiag">
+				<img src="https://avatars.githubusercontent.com/u/96261455?s=72&u=1390822825d4d3eefd2e13fd87efc10f925ef93a&v=4" width="24" alt="Avatar of santtiag"> santtiag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#santtiag">Copy rank badge</a><br/>
+			Santiago Romero
 		</td>
-		<td>Universidad San Francisco Xavier<br/>De<br/>Chuquisaca<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sucre </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_santtiag">_santtiag</a></td>
+		<td>Sucre, Colombia</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/aldo-gutierrez">
-				<img src="https://avatars.githubusercontent.com/u/3989508?s=72&v=4" width="24" alt="Avatar of aldo-gutierrez"> aldo-gutierrez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#aldo-gutierrez">Copy rank badge</a><br/>
-			Aldo Gutierrez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/CrisBelDev">
-				<img src="https://avatars.githubusercontent.com/u/126825548?s=72&u=5255e5442634faab4954d1ffc376638004b3b5f5&v=4" width="24" alt="Avatar of CrisBelDev"> CrisBelDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CrisBelDev">Copy rank badge</a><br/>
-			Cristian Abel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/carakan">
-				<img src="https://avatars.githubusercontent.com/u/6695?s=72&u=1751c801353b0210ea90ff6c1061aa729bad98fd&v=4" width="24" alt="Avatar of carakan"> carakan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carakan">Copy rank badge</a><br/>
-			Carlos Ramos
-		</td>
-		<td>Kopius </td>
-		<td><a href="https://twitter.com/carakan">carakan</a></td>
-		<td>Bolivia</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>417</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/ENez7">
 				<img src="https://avatars.githubusercontent.com/u/27792588?s=72&u=cc1fbe3fb667a5f65ae8fe0633fa32e3ffd6cf3b&v=4" width="24" alt="Avatar of ENez7"> ENez7
@@ -5528,7 +5580,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/MeetFireAgain">
+				<img src="https://avatars.githubusercontent.com/u/55641631?s=72&u=11493f38ca82cd42ce9b2ed77a827e14a2b7c796&v=4" width="24" alt="Avatar of MeetFireAgain"> MeetFireAgain
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MeetFireAgain">Copy rank badge</a><br/>
+			BlueEyE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia,Uyuni</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/farias-hecdin">
+				<img src="https://avatars.githubusercontent.com/u/54963296?s=72&u=6baf1840bc03994c0c525f030e6fdc78895a1e9e&v=4" width="24" alt="Avatar of farias-hecdin"> farias-hecdin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#farias-hecdin">Copy rank badge</a><br/>
+			Hecdin Farias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre, Venezuela</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/MiguelAngelQ">
+				<img src="https://avatars.githubusercontent.com/u/99612891?s=72&u=3ceb04a6ffc112e03ca3f7e7234e2841b4ba72ef&v=4" width="24" alt="Avatar of MiguelAngelQ"> MiguelAngelQ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiguelAngelQ">Copy rank badge</a><br/>
+			Miguel Angel Quispe Mamani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/Zumayaa">
+				<img src="https://avatars.githubusercontent.com/u/90068709?s=72&u=fbfad9c7c8be0dc570149b5b5ef23975c8a87430&v=4" width="24" alt="Avatar of Zumayaa"> Zumayaa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Zumayaa">Copy rank badge</a><br/>
+			Abraham
+		</td>
+		<td>Icatebcs </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Baja California Sur.</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/tecnocrata">
 				<img src="https://avatars.githubusercontent.com/u/709446?s=72&u=c1b9673924cf52a5e5cbbb2008181abc75d03c8f&v=4" width="24" alt="Avatar of tecnocrata"> tecnocrata
@@ -5541,7 +5645,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/tebo">
 				<img src="https://avatars.githubusercontent.com/u/27850?s=72&v=4" width="24" alt="Avatar of tebo"> tebo
@@ -5554,7 +5658,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/tintayadev">
 				<img src="https://avatars.githubusercontent.com/u/95485537?s=72&u=54ad8faf86844ae93d51491a2f6c1baefe92a157&v=4" width="24" alt="Avatar of tintayadev"> tintayadev
@@ -5567,46 +5671,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>429</td>
 		<td>
-			<a href="https://github.com/cpjosejesus">
-				<img src="https://avatars.githubusercontent.com/u/45214219?s=72&u=e9ac663dcd58ff4da9f841c2f11ffb089bd9eb2a&v=4" width="24" alt="Avatar of cpjosejesus"> cpjosejesus
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cpjosejesus">Copy rank badge</a><br/>
-			Jose Jesus
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cpjosejesus">cpjosejesus</a></td>
-		<td>Santa Cruz de la Sierra</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/gastonnina">
-				<img src="https://avatars.githubusercontent.com/u/360484?s=72&v=4" width="24" alt="Avatar of gastonnina"> gastonnina
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gastonnina">Copy rank badge</a><br/>
-			Gaston Nina
+			<a href="https://github.com/ElJoamy">
+				<img src="https://avatars.githubusercontent.com/u/68487005?s=72&u=280c171914d4f3ad5e8f696af4d13caebfbf68ee&v=4" width="24" alt="Avatar of ElJoamy"> ElJoamy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ElJoamy">Copy rank badge</a><br/>
+			Joseph Anthony Meneses Salguero
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/kevinvasquezb">
-				<img src="https://avatars.githubusercontent.com/u/66265089?s=72&u=2040cc95dd5bb8fbedcf6b103f71ba794477e6f4&v=4" width="24" alt="Avatar of kevinvasquezb"> kevinvasquezb
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kevinvasquezb">Copy rank badge</a><br/>
-			Kevin Vasquez B.
-		</td>
-		<td>Utepsa - Emi </td>
-		<td><a href="https://twitter.com/kevinvasquezba">kevinvasquezba</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>La Paz - Bolivia</td>
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/gavo">
 				<img src="https://avatars.githubusercontent.com/u/4350792?s=72&v=4" width="24" alt="Avatar of gavo"> gavo
@@ -5619,11 +5697,11 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>431</td>
 		<td>
-			<a href="https://github.com/JuanJo53">
-				<img src="https://avatars.githubusercontent.com/u/48367481?s=72&u=3051d916d3f832b32726225676f025ce0f6919e1&v=4" width="24" alt="Avatar of JuanJo53"> JuanJo53
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JuanJo53">Copy rank badge</a><br/>
+			<a href="https://github.com/juanjo-fdez">
+				<img src="https://avatars.githubusercontent.com/u/48367481?s=72&u=3051d916d3f832b32726225676f025ce0f6919e1&v=4" width="24" alt="Avatar of juanjo-fdez"> juanjo-fdez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#juanjo-fdez">Copy rank badge</a><br/>
 			Juan José Fernández
 		</td>
 		<td>No Company</td>
@@ -5632,20 +5710,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/TheFrankemon">
-				<img src="https://avatars.githubusercontent.com/u/7704372?s=72&u=c3203df4b69112195999e02551b4446d786042bb&v=4" width="24" alt="Avatar of TheFrankemon"> TheFrankemon
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TheFrankemon">Copy rank badge</a><br/>
-			Franco Montiel
-		</td>
-		<td>@conplata </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>427</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/kniazyouk">
 				<img src="https://avatars.githubusercontent.com/u/69700635?s=72&u=8c29766d7bed5879e3646321fe0cda5b4b9d5d82&v=4" width="24" alt="Avatar of kniazyouk"> kniazyouk
@@ -5658,33 +5723,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/MeetFireAgain">
-				<img src="https://avatars.githubusercontent.com/u/55641631?s=72&u=11493f38ca82cd42ce9b2ed77a827e14a2b7c796&v=4" width="24" alt="Avatar of MeetFireAgain"> MeetFireAgain
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MeetFireAgain">Copy rank badge</a><br/>
-			BlueEyE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia,Uyuni</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/ircube">
-				<img src="https://avatars.githubusercontent.com/u/913069?s=72&u=bac7070c272a6fea8596e47ad7e418cd41fbee9d&v=4" width="24" alt="Avatar of ircube"> ircube
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ircube">Copy rank badge</a><br/>
-			Ivo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia - Cochabamba</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>430</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/LuisOlivaresJ">
 				<img src="https://avatars.githubusercontent.com/u/41806420?s=72&u=cee70ee4759f53fc395b49c98d2dcc91dc5293d2&v=4" width="24" alt="Avatar of LuisOlivaresJ"> LuisOlivaresJ
@@ -5697,33 +5736,85 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>434</td>
 		<td>
-			<a href="https://github.com/mario-loza">
-				<img src="https://avatars.githubusercontent.com/u/4163574?s=72&u=f13a8180379639469a8121a6c5a12234b3f3c696&v=4" width="24" alt="Avatar of mario-loza"> mario-loza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mario-loza">Copy rank badge</a><br/>
-			Mario Alejandro Loza Armand Ugon
+			<a href="https://github.com/TANHEHANZ">
+				<img src="https://avatars.githubusercontent.com/u/113189112?s=72&u=e924f34b9eff6d32a33baba50fdb90b9be4e3963&v=4" width="24" alt="Avatar of TANHEHANZ"> TANHEHANZ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TANHEHANZ">Copy rank badge</a><br/>
+			Hanz Tapia Choque
+		</td>
+		<td>Unifranz  </td>
+		<td>No Twitter Username</td>
+		<td>bolivia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/alvarorpf">
+				<img src="https://avatars.githubusercontent.com/u/41393264?s=72&u=c22a76c0727829518aa2bee60c9bfb56faf0c57a&v=4" width="24" alt="Avatar of alvarorpf"> alvarorpf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarorpf">Copy rank badge</a><br/>
+			Alvaro Renato Paredes Flores
+		</td>
+		<td>@quilsoft-org </td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/Ernesto2001PO">
+				<img src="https://avatars.githubusercontent.com/u/111402458?s=72&u=10de1a7c5d91f9fe99c405842cf504d3e707b065&v=4" width="24" alt="Avatar of Ernesto2001PO"> Ernesto2001PO
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Ernesto2001PO">Copy rank badge</a><br/>
+			Ernesto Paz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Santa Cruz-Bolivia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/Suredials">
+				<img src="https://avatars.githubusercontent.com/u/130783266?s=72&u=980676742011961689d3e27caa2a5c28bac02191&v=4" width="24" alt="Avatar of Suredials"> Suredials
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Suredials">Copy rank badge</a><br/>
+			Suredials
+		</td>
+		<td>Gobierno Autónomo Departamental De<br/>Santa<br/>Cruz<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>438</td>
 		<td>
-			<a href="https://github.com/Mauricio-JA">
-				<img src="https://avatars.githubusercontent.com/u/83379486?s=72&u=902d9bce4afbcfd0b4be1cfaeb35d0b96652f6e6&v=4" width="24" alt="Avatar of Mauricio-JA"> Mauricio-JA
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mauricio-JA">Copy rank badge</a><br/>
-			Mauricio Justiniano
+			<a href="https://github.com/JRGPdev">
+				<img src="https://avatars.githubusercontent.com/u/142231012?s=72&v=4" width="24" alt="Avatar of JRGPdev"> JRGPdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JRGPdev">Copy rank badge</a><br/>
+			Jose Rene Guarachi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Curz, Bolivia</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/exiach">
+				<img src="https://avatars.githubusercontent.com/u/2590160?s=72&u=7675358880084a8989e0e27fc5ee219e03264d04&v=4" width="24" alt="Avatar of exiach"> exiach
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#exiach">Copy rank badge</a><br/>
+			:DanielCanqui
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/JazzielGod">
 				<img src="https://avatars.githubusercontent.com/u/134029154?s=72&u=ed50d296406659cc10a1a5a49fb1b16319a47e02&v=4" width="24" alt="Avatar of JazzielGod"> JazzielGod
@@ -5736,38 +5827,64 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>441</td>
 		<td>
-			<a href="https://github.com/AmirJV1">
-				<img src="https://avatars.githubusercontent.com/u/66282280?s=72&u=da6276a319684ccf39a8afceb1650605aee67a17&v=4" width="24" alt="Avatar of AmirJV1"> AmirJV1
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AmirJV1">Copy rank badge</a><br/>
-			Amir Velasquez
+			<a href="https://github.com/liesvyvall">
+				<img src="https://avatars.githubusercontent.com/u/90939168?s=72&u=590623e3ae370c923622336d45ce750e7dea27b1&v=4" width="24" alt="Avatar of liesvyvall"> liesvyvall
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#liesvyvall">Copy rank badge</a><br/>
+			Liesvy Valladares
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NoSoyAmir">NoSoyAmir</a></td>
-		<td>Santa Cruz, Bolivia</td>
+		<td>Centro Interdisciplinario De Ciencias<br/>Marinas<br/>-<br/>Ipn<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz, BCS, Mexico</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>442</td>
 		<td>
-			<a href="https://github.com/franzemil">
-				<img src="https://avatars.githubusercontent.com/u/11077528?s=72&v=4" width="24" alt="Avatar of franzemil"> franzemil
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#franzemil">Copy rank badge</a><br/>
-			Franz Emil Eulate Chacolla
+			<a href="https://github.com/Mauricio-JA">
+				<img src="https://avatars.githubusercontent.com/u/83379486?s=72&u=902d9bce4afbcfd0b4be1cfaeb35d0b96652f6e6&v=4" width="24" alt="Avatar of Mauricio-JA"> Mauricio-JA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Mauricio-JA">Copy rank badge</a><br/>
+			Mauricio Justiniano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Curz, Bolivia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/CrisBelDev">
+				<img src="https://avatars.githubusercontent.com/u/126825548?s=72&v=4" width="24" alt="Avatar of CrisBelDev"> CrisBelDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CrisBelDev">Copy rank badge</a><br/>
+			Cristian Abel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz, Bolivia</td>
-		<td>31</td>
+		<td>30</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>444</td>
 		<td>
-			<a href="https://github.com/z1egfr1ed">
-				<img src="https://avatars.githubusercontent.com/u/78269649?s=72&u=a5cbc7632cdeba8abe53b405db889cdec9f6673b&v=4" width="24" alt="Avatar of z1egfr1ed"> z1egfr1ed
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#z1egfr1ed">Copy rank badge</a><br/>
-			s1egfr1ed
+			<a href="https://github.com/svjchrysler">
+				<img src="https://avatars.githubusercontent.com/u/20376683?s=72&u=1c6fc565e9bb064d14777fc804e3c3202b8f4cec&v=4" width="24" alt="Avatar of svjchrysler"> svjchrysler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#svjchrysler">Copy rank badge</a><br/>
+			Jhon Salguero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/mario-loza">
+				<img src="https://avatars.githubusercontent.com/u/4163574?s=72&u=f13a8180379639469a8121a6c5a12234b3f3c696&v=4" width="24" alt="Avatar of mario-loza"> mario-loza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mario-loza">Copy rank badge</a><br/>
+			Mario Alejandro Loza Armand Ugon
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5775,64 +5892,12 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>446</td>
 		<td>
-			<a href="https://github.com/amosbatto">
-				<img src="https://avatars.githubusercontent.com/u/4958913?s=72&v=4" width="24" alt="Avatar of amosbatto"> amosbatto
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#amosbatto">Copy rank badge</a><br/>
-			Amos Batto
-		</td>
-		<td>Www.illa-a.org </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/exiach">
-				<img src="https://avatars.githubusercontent.com/u/2590160?s=72&u=7675358880084a8989e0e27fc5ee219e03264d04&v=4" width="24" alt="Avatar of exiach"> exiach
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#exiach">Copy rank badge</a><br/>
-			:DanielCanqui
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/renatoapaza">
-				<img src="https://avatars.githubusercontent.com/u/40183979?s=72&u=7c8e31935b9714d5d30484e05ccfd6ed522d3e13&v=4" width="24" alt="Avatar of renatoapaza"> renatoapaza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#renatoapaza">Copy rank badge</a><br/>
-			Renato Apaza T.
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/renatoapaza">renatoapaza</a></td>
-		<td>La Paz Bolivia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>440</td>
-		<td>
-			<a href="https://github.com/Cobp">
-				<img src="https://avatars.githubusercontent.com/u/147078245?s=72&u=0c97f13e39ed92ed8597ed9caf208145d7374441&v=4" width="24" alt="Avatar of Cobp"> Cobp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Cobp">Copy rank badge</a><br/>
-			Fabio Cobb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cobb_fabio">cobb_fabio</a></td>
-		<td>Santa Cruz-Bolivia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/Eynar92">
-				<img src="https://avatars.githubusercontent.com/u/115285455?s=72&u=c24557ae7cf00c84e975b71fa41b35ddda78a02f&v=4" width="24" alt="Avatar of Eynar92"> Eynar92
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Eynar92">Copy rank badge</a><br/>
-			Eynar J. Alvarez M.
+			<a href="https://github.com/mar-vall">
+				<img src="https://avatars.githubusercontent.com/u/80362881?s=72&u=c740d9ba18cd10b5555cc10340281ef5231058d7&v=4" width="24" alt="Avatar of mar-vall"> mar-vall
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mar-vall">Copy rank badge</a><br/>
+			Mariana Vallejos
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5840,59 +5905,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>447</td>
 		<td>
-			<a href="https://github.com/briandevcontrol">
-				<img src="https://avatars.githubusercontent.com/u/9508094?s=72&v=4" width="24" alt="Avatar of briandevcontrol"> briandevcontrol
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#briandevcontrol">Copy rank badge</a><br/>
-			Amanda Reed
+			<a href="https://github.com/TheFrankemon">
+				<img src="https://avatars.githubusercontent.com/u/7704372?s=72&u=c3203df4b69112195999e02551b4446d786042bb&v=4" width="24" alt="Avatar of TheFrankemon"> TheFrankemon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#TheFrankemon">Copy rank badge</a><br/>
+			Franco Montiel
+		</td>
+		<td>@conplata </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/L-Anghelo-Chinchilla">
+				<img src="https://avatars.githubusercontent.com/u/50245303?s=72&u=d09cf1bb104a3a230eeb85183cbec64335eaeb5d&v=4" width="24" alt="Avatar of L-Anghelo-Chinchilla"> L-Anghelo-Chinchilla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#L-Anghelo-Chinchilla">Copy rank badge</a><br/>
+			L Anghelo P Chinchilla
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Michelleville, Bolivia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/alvarosiles11">
-				<img src="https://avatars.githubusercontent.com/u/61075383?s=72&u=ae5442a53a8fb92c4b87d9c2dade57282407c4ec&v=4" width="24" alt="Avatar of alvarosiles11"> alvarosiles11
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarosiles11">Copy rank badge</a><br/>
-			Alvaro Siles Estrada
-		</td>
-		<td>Servisofts Srl </td>
-		<td><a href="https://twitter.com/alvarosiles11">alvarosiles11</a></td>
 		<td>Bolivia</td>
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/IVANDOMENZAIN">
-				<img src="https://avatars.githubusercontent.com/u/26483972?s=72&u=5ea28a8896bd7bbf20184ce0ecb5b3a4245e33df&v=4" width="24" alt="Avatar of IVANDOMENZAIN"> IVANDOMENZAIN
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IVANDOMENZAIN">Copy rank badge</a><br/>
-			Iván Domenzain
-		</td>
-		<td>Chalmers University Of Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Mexico</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/nor-mn">
-				<img src="https://avatars.githubusercontent.com/u/44355107?s=72&u=e783e91f5aa3a299e7a23b36ce8daad10dfbb325&v=4" width="24" alt="Avatar of nor-mn"> nor-mn
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nor-mn">Copy rank badge</a><br/>
-			Noelia Martínez
-		</td>
-		<td>Epicness For Everyone </td>
-		<td><a href="https://twitter.com/nor_mmn">nor_mmn</a></td>
-		<td>La Paz - Bolivia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>446</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/licht0001">
 				<img src="https://avatars.githubusercontent.com/u/61655340?s=72&u=9e1e186e94cbf7909a2cb8ff205834b18448b398&v=4" width="24" alt="Avatar of licht0001"> licht0001
@@ -5905,33 +5944,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>450</td>
 		<td>
-			<a href="https://github.com/luchinango">
-				<img src="https://avatars.githubusercontent.com/u/62854639?s=72&u=eaa9699d63ba184bcc13ab179fdaed0a30617078&v=4" width="24" alt="Avatar of luchinango"> luchinango
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#luchinango">Copy rank badge</a><br/>
-			Luis Alberto Martínez Barrientos
-		</td>
-		<td>Codemediia </td>
-		<td>No Twitter Username</td>
-		<td>Tarija, Bolivia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/walkerperedo">
-				<img src="https://avatars.githubusercontent.com/u/66075803?s=72&v=4" width="24" alt="Avatar of walkerperedo"> walkerperedo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#walkerperedo">Copy rank badge</a><br/>
-			Walker Fabricio Peredo Escobar
+			<a href="https://github.com/blazzbyte">
+				<img src="https://avatars.githubusercontent.com/u/138590043?s=72&u=7540d609195ee4d80c3cb877c77c10a2212e1036&v=4" width="24" alt="Avatar of blazzbyte"> blazzbyte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#blazzbyte">Copy rank badge</a><br/>
+			Rodrigo IF
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/walker_peredo">walker_peredo</a></td>
-		<td>Cochabamba-Bolivia</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/luisfernado28">
 				<img src="https://avatars.githubusercontent.com/u/23712020?s=72&v=4" width="24" alt="Avatar of luisfernado28"> luisfernado28
@@ -5944,20 +5970,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/liesvyvall">
-				<img src="https://avatars.githubusercontent.com/u/90939168?s=72&u=590623e3ae370c923622336d45ce750e7dea27b1&v=4" width="24" alt="Avatar of liesvyvall"> liesvyvall
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#liesvyvall">Copy rank badge</a><br/>
-			Liesvy Valladares
-		</td>
-		<td>Centro Interdisciplinario De Ciencias<br/>Marinas<br/>-<br/>Ipn<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz, BCS, Mexico</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/WhitesSoft">
 				<img src="https://avatars.githubusercontent.com/u/49206077?s=72&u=7f9d1dbee69dfc537c35ea50441ed128e6a16d55&v=4" width="24" alt="Avatar of WhitesSoft"> WhitesSoft
@@ -5970,20 +5983,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
-			<a href="https://github.com/rlunadev">
-				<img src="https://avatars.githubusercontent.com/u/7585253?s=72&u=48c384f33ed8e03b5953e67390a6af88d416cde9&v=4" width="24" alt="Avatar of rlunadev"> rlunadev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rlunadev">Copy rank badge</a><br/>
-			Ronald Luna
+			<a href="https://github.com/Nikol-0207">
+				<img src="https://avatars.githubusercontent.com/u/130877862?s=72&u=18ba8c9fb51eaadfa366eea0e0b86c9d4e012610&v=4" width="24" alt="Avatar of Nikol-0207"> Nikol-0207
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nikol-0207">Copy rank badge</a><br/>
+			Nikol
 		</td>
-		<td>Luna </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
+		<td>Bolivia</td>
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/BiancaRomeroG">
+				<img src="https://avatars.githubusercontent.com/u/92609752?s=72&u=952d7e83e0c035739a2dbdc8a10c872e9eb9eb09&v=4" width="24" alt="Avatar of BiancaRomeroG"> BiancaRomeroG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BiancaRomeroG">Copy rank badge</a><br/>
+			Bianca Romero Guzman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/vmtacurir">
+				<img src="https://avatars.githubusercontent.com/u/82398219?s=72&u=d5eb40cf342f560681bbe3db2faa10a74dfb7658&v=4" width="24" alt="Avatar of vmtacurir"> vmtacurir
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vmtacurir">Copy rank badge</a><br/>
+			Victor Manuel Tacuri Rengifo
+		</td>
+		<td>Universidad Mayor, Real Y<br/>Pontificia<br/>De<br/>San<br/>Francisco<br/>Xavier<br/>De<br/>Chuquisaca<br/></td>
+		<td><a href="https://twitter.com/victormanuel_tr">victormanuel_tr</a></td>
+		<td>Sucre - Bolivia </td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/NahuelTG">
+				<img src="https://avatars.githubusercontent.com/u/82225217?s=72&u=9ea8c42f4051b44b5a7cad86b7d4e1e1c4b28b1c&v=4" width="24" alt="Avatar of NahuelTG"> NahuelTG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NahuelTG">Copy rank badge</a><br/>
+			Nahuel Torrez Guzman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/fabricio136900">
 				<img src="https://avatars.githubusercontent.com/u/35009729?s=72&u=7f17b1e90bca417d7ce5f6c1a1231693848739f7&v=4" width="24" alt="Avatar of fabricio136900"> fabricio136900
@@ -5996,7 +6048,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/alxmcr">
 				<img src="https://avatars.githubusercontent.com/u/8689897?s=72&u=3ec584734626d0cf54e8aaef7591f76c271f6038&v=4" width="24" alt="Avatar of alxmcr"> alxmcr
@@ -6009,7 +6061,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/ArturoMauricioDev">
+				<img src="https://avatars.githubusercontent.com/u/61112938?s=72&u=075c53a678245088fb3acbf6183e3ae121006963&v=4" width="24" alt="Avatar of ArturoMauricioDev"> ArturoMauricioDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ArturoMauricioDev">Copy rank badge</a><br/>
+			Arturo Mauricio
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ArturoMauricioD">ArturoMauricioD</a></td>
+		<td>Bolivia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/IVANDOMENZAIN">
+				<img src="https://avatars.githubusercontent.com/u/26483972?s=72&u=5ea28a8896bd7bbf20184ce0ecb5b3a4245e33df&v=4" width="24" alt="Avatar of IVANDOMENZAIN"> IVANDOMENZAIN
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IVANDOMENZAIN">Copy rank badge</a><br/>
+			Iván Domenzain
+		</td>
+		<td>Chalmers University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Mexico</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/hiro2233">
 				<img src="https://avatars.githubusercontent.com/u/6075116?s=72&u=28bc98a87106137609b872feb1ad80ad456e4434&v=4" width="24" alt="Avatar of hiro2233"> hiro2233
@@ -6022,20 +6100,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>462</td>
 		<td>
-			<a href="https://github.com/Avaruz">
-				<img src="https://avatars.githubusercontent.com/u/690375?s=72&u=c39945472c8298de1136341dd1f1db0bb0293d4c&v=4" width="24" alt="Avatar of Avaruz"> Avaruz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Avaruz">Copy rank badge</a><br/>
-			Adhemar
+			<a href="https://github.com/cesarju">
+				<img src="https://avatars.githubusercontent.com/u/37281311?s=72&u=0d2daddcc78c27167fce96900e84a48e051b1eac&v=4" width="24" alt="Avatar of cesarju"> cesarju
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cesarju">Copy rank badge</a><br/>
+			Cesar
 		</td>
-		<td>Avaruz </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
+		<td>La Paz - Bolivia</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/miguelramirezdev">
 				<img src="https://avatars.githubusercontent.com/u/25914932?s=72&u=dee71aeba09450d64953bbb7ba631813b3340361&v=4" width="24" alt="Avatar of miguelramirezdev"> miguelramirezdev
@@ -6048,7 +6126,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Marcelo0920">
 				<img src="https://avatars.githubusercontent.com/u/45415232?s=72&v=4" width="24" alt="Avatar of Marcelo0920"> Marcelo0920
@@ -6061,59 +6139,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>465</td>
 		<td>
-			<a href="https://github.com/MiguelAngelQ">
-				<img src="https://avatars.githubusercontent.com/u/99612891?s=72&u=3ceb04a6ffc112e03ca3f7e7234e2841b4ba72ef&v=4" width="24" alt="Avatar of MiguelAngelQ"> MiguelAngelQ
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiguelAngelQ">Copy rank badge</a><br/>
-			Miguel Angel Quispe Mamani
+			<a href="https://github.com/jonatan-esprella-lopez">
+				<img src="https://avatars.githubusercontent.com/u/93718044?s=72&u=758bdd4cf09762adc94048016ab3e4259e35d2fb&v=4" width="24" alt="Avatar of jonatan-esprella-lopez"> jonatan-esprella-lopez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jonatan-esprella-lopez">Copy rank badge</a><br/>
+			Jonatan Esprella Lopez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Fitness Group International </td>
+		<td><a href="https://twitter.com/EsprellaJonatan">EsprellaJonatan</a></td>
+		<td>Bolivia - Cochabamba</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/L-Anghelo-Chinchilla">
-				<img src="https://avatars.githubusercontent.com/u/50245303?s=72&u=d09cf1bb104a3a230eeb85183cbec64335eaeb5d&v=4" width="24" alt="Avatar of L-Anghelo-Chinchilla"> L-Anghelo-Chinchilla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#L-Anghelo-Chinchilla">Copy rank badge</a><br/>
-			L Anghelo P Chinchilla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/jdrt-daniel">
-				<img src="https://avatars.githubusercontent.com/u/79815605?s=72&u=92dc9a4772ae420d81e0952e764a43aa7b908f50&v=4" width="24" alt="Avatar of jdrt-daniel"> jdrt-daniel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jdrt-daniel">Copy rank badge</a><br/>
-			Daniel Rafael
-		</td>
-		<td>Fullstask Developer </td>
-		<td><a href="https://twitter.com/danirt07">danirt07</a></td>
-		<td>Bolivia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/aylinsbq">
-				<img src="https://avatars.githubusercontent.com/u/59626648?s=72&u=b8622922b6fbfcde679e6e7c517c02c4f31bb2d8&v=4" width="24" alt="Avatar of aylinsbq"> aylinsbq
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#aylinsbq">Copy rank badge</a><br/>
-			Aylin Sarai Botelo Quino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>463</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/cwpachecol">
 				<img src="https://avatars.githubusercontent.com/u/20022413?s=72&v=4" width="24" alt="Avatar of cwpachecol"> cwpachecol
@@ -6126,7 +6165,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/G3rson98">
+				<img src="https://avatars.githubusercontent.com/u/45806224?s=72&u=f88ca416e62a643ff73e5c403844b8f567189fd9&v=4" width="24" alt="Avatar of G3rson98"> G3rson98
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#G3rson98">Copy rank badge</a><br/>
+			Gerson Oliva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz , Bolivia.</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/muimui69">
+				<img src="https://avatars.githubusercontent.com/u/83107695?s=72&u=08e98b65f7d22297d03269c1642502e55b5b3325&v=4" width="24" alt="Avatar of muimui69"> muimui69
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#muimui69">Copy rank badge</a><br/>
+			Moises Reyes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/2jsdev">
+				<img src="https://avatars.githubusercontent.com/u/51468253?s=72&u=0c2166f8a3b7905568e46a0e01fdef0dc587db2a&v=4" width="24" alt="Avatar of 2jsdev"> 2jsdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#2jsdev">Copy rank badge</a><br/>
+			Jordy Morales
+		</td>
+		<td>Unosquare </td>
+		<td><a href="https://twitter.com/2jsdev">2jsdev</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/David203009">
 				<img src="https://avatars.githubusercontent.com/u/77461961?s=72&u=de48b251383be47ed782c93f64b03199d5ec702c&v=4" width="24" alt="Avatar of David203009"> David203009
@@ -6139,59 +6217,72 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>471</td>
 		<td>
-			<a href="https://github.com/blazzbyte">
-				<img src="https://avatars.githubusercontent.com/u/138590043?s=72&u=7540d609195ee4d80c3cb877c77c10a2212e1036&v=4" width="24" alt="Avatar of blazzbyte"> blazzbyte
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#blazzbyte">Copy rank badge</a><br/>
-			Rodrigo IF
+			<a href="https://github.com/CrisisTecno">
+				<img src="https://avatars.githubusercontent.com/u/143370345?s=72&u=e185ad133adb1983b29e77ac36a45cca968ff595&v=4" width="24" alt="Avatar of CrisisTecno"> CrisisTecno
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CrisisTecno">Copy rank badge</a><br/>
+			Cristhian Lucio Quispe Nina
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Cochbamba, Bolivia</td>
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>472</td>
 		<td>
-			<a href="https://github.com/eencinasq">
-				<img src="https://avatars.githubusercontent.com/u/6945588?s=72&u=fb3b1187baa6f1bab0aac363ef852a4a96d0fc15&v=4" width="24" alt="Avatar of eencinasq"> eencinasq
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eencinasq">Copy rank badge</a><br/>
-			Edwin Encinas
-		</td>
-		<td>Ffactory </td>
-		<td>No Twitter Username</td>
-		<td>CBBA-Bolivia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/farias-hecdin">
-				<img src="https://avatars.githubusercontent.com/u/54963296?s=72&u=6baf1840bc03994c0c525f030e6fdc78895a1e9e&v=4" width="24" alt="Avatar of farias-hecdin"> farias-hecdin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#farias-hecdin">Copy rank badge</a><br/>
-			Hecdin Farias
+			<a href="https://github.com/bramiprudencio">
+				<img src="https://avatars.githubusercontent.com/u/42982424?s=72&u=413715a938a6104943cf375c1dab0d2e58befe91&v=4" width="24" alt="Avatar of bramiprudencio"> bramiprudencio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bramiprudencio">Copy rank badge</a><br/>
+			Brami Prudencio
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre, Venezuela</td>
-		<td>24</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>473</td>
 		<td>
-			<a href="https://github.com/ArnyWorld">
-				<img src="https://avatars.githubusercontent.com/u/47994871?s=72&u=39bc65cdcf5efe0cc2f4a316a10b9f61b119e2f5&v=4" width="24" alt="Avatar of ArnyWorld"> ArnyWorld
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ArnyWorld">Copy rank badge</a><br/>
-			Arnaldo Muñoz Mendoza
+			<a href="https://github.com/wavecos">
+				<img src="https://avatars.githubusercontent.com/u/4807043?s=72&v=4" width="24" alt="Avatar of wavecos"> wavecos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wavecos">Copy rank badge</a><br/>
+			Jose Alfredo Arias S.
 		</td>
-		<td>Profesor Y Frontend Developer<br/></td>
+		<td>Xiobit </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/fchgds">
+				<img src="https://avatars.githubusercontent.com/u/6086176?s=72&u=a5550fd7a5651e0cbff47749fbd2d46bc07dce78&v=4" width="24" alt="Avatar of fchgds"> fchgds
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fchgds">Copy rank badge</a><br/>
+			Fernando
+		</td>
+		<td>Zoftcoapps Software Srl </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/jessicaori">
+				<img src="https://avatars.githubusercontent.com/u/66490864?s=72&u=dace9f4bfadfac534ab06af18c483703f63329e2&v=4" width="24" alt="Avatar of jessicaori"> jessicaori
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jessicaori">Copy rank badge</a><br/>
+			Jessica Orihuela Rojas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/Spankill">
 				<img src="https://avatars.githubusercontent.com/u/90408561?s=72&u=cb517ed4f306e5444c12cf331c72f6e8866bf55f&v=4" width="24" alt="Avatar of Spankill"> Spankill
@@ -6204,20 +6295,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/jforco">
-				<img src="https://avatars.githubusercontent.com/u/23099878?s=72&v=4" width="24" alt="Avatar of jforco"> jforco
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jforco">Copy rank badge</a><br/>
-			Jonathan Forco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>471</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/hrnn">
 				<img src="https://avatars.githubusercontent.com/u/854676?s=72&u=64ba3baf7e24f8f3ceff16c00a4f4e6d4951a906&v=4" width="24" alt="Avatar of hrnn"> hrnn
@@ -6230,20 +6308,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/ArturoMauricioDev">
-				<img src="https://avatars.githubusercontent.com/u/61112938?s=72&u=075c53a678245088fb3acbf6183e3ae121006963&v=4" width="24" alt="Avatar of ArturoMauricioDev"> ArturoMauricioDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ArturoMauricioDev">Copy rank badge</a><br/>
-			Arturo Mauricio
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ArturoMauricioD">ArturoMauricioD</a></td>
-		<td>Bolivia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>473</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/OliverZulett">
 				<img src="https://avatars.githubusercontent.com/u/61068158?s=72&u=55295db9c544622fbbefb6bb486fc60fcc4c8ed7&v=4" width="24" alt="Avatar of OliverZulett"> OliverZulett
@@ -6256,7 +6321,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/Zardeerah">
 				<img src="https://avatars.githubusercontent.com/u/174076371?s=72&u=4b487f0f99482e766f86aaa0527efb8af68f359f&v=4" width="24" alt="Avatar of Zardeerah"> Zardeerah
@@ -6269,20 +6334,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/DanielCruz-fs">
-				<img src="https://avatars.githubusercontent.com/u/29930991?s=72&v=4" width="24" alt="Avatar of DanielCruz-fs"> DanielCruz-fs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DanielCruz-fs">Copy rank badge</a><br/>
-			Daniel Cruz Calani
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>476</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/lanstat">
 				<img src="https://avatars.githubusercontent.com/u/937935?s=72&v=4" width="24" alt="Avatar of lanstat"> lanstat
@@ -6295,46 +6347,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>481</td>
 		<td>
-			<a href="https://github.com/ojavierhr">
-				<img src="https://avatars.githubusercontent.com/u/66095323?s=72&u=9a9a6d46ea7b0eb60b7f3a34a138db4450493539&v=4" width="24" alt="Avatar of ojavierhr"> ojavierhr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ojavierhr">Copy rank badge</a><br/>
-			Osmar Javier Hidalgo Riffarachi
+			<a href="https://github.com/renatoapaza">
+				<img src="https://avatars.githubusercontent.com/u/40183979?s=72&u=7c8e31935b9714d5d30484e05ccfd6ed522d3e13&v=4" width="24" alt="Avatar of renatoapaza"> renatoapaza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#renatoapaza">Copy rank badge</a><br/>
+			Renato Apaza T.
 		</td>
-		<td>Uagrm </td>
-		<td>No Twitter Username</td>
-		<td>Santa cruz de la sierra - Bolivia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/renatoapaza">renatoapaza</a></td>
+		<td>La Paz Bolivia</td>
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>482</td>
 		<td>
-			<a href="https://github.com/ojhernandezc">
-				<img src="https://avatars.githubusercontent.com/u/12258588?s=72&u=863f87457a9a1d4c09741079700ebd18b6e0814a&v=4" width="24" alt="Avatar of ojhernandezc"> ojhernandezc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ojhernandezc">Copy rank badge</a><br/>
-			Oscar J. Hernandez Castillo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ojhernandezc">ojhernandezc</a></td>
-		<td>Sincelejo, (Sucre) CO</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
-			<a href="https://github.com/MQInfer12">
-				<img src="https://avatars.githubusercontent.com/u/97072752?s=72&u=a46142e53121cc97a94c0409a5ea89b5271879d1&v=4" width="24" alt="Avatar of MQInfer12"> MQInfer12
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MQInfer12">Copy rank badge</a><br/>
-			Mauricio Molina
+			<a href="https://github.com/Diyhi0515">
+				<img src="https://avatars.githubusercontent.com/u/120338163?s=72&u=405e38daee70302c330d776d1f04ae6abfe2ff09&v=4" width="24" alt="Avatar of Diyhi0515"> Diyhi0515
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Diyhi0515">Copy rank badge</a><br/>
+			Helen Baldelomar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/Ajerhy">
 				<img src="https://avatars.githubusercontent.com/u/34432038?s=72&u=aa1177bd467ab89b2638ad347f0f71c269f4fdf1&v=4" width="24" alt="Avatar of Ajerhy"> Ajerhy
@@ -6347,20 +6386,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>484</td>
 		<td>
-			<a href="https://github.com/vakajose">
-				<img src="https://avatars.githubusercontent.com/u/19436335?s=72&u=af01b9a4dc3c18941cc1bc6d11666c016e6e882c&v=4" width="24" alt="Avatar of vakajose"> vakajose
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vakajose">Copy rank badge</a><br/>
-			Jose Luis Vaca Fernandez
+			<a href="https://github.com/gastonnina">
+				<img src="https://avatars.githubusercontent.com/u/360484?s=72&v=4" width="24" alt="Avatar of gastonnina"> gastonnina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gastonnina">Copy rank badge</a><br/>
+			Gaston Nina
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>La Paz, Bolivia</td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/ojhernandezc">
+				<img src="https://avatars.githubusercontent.com/u/12258588?s=72&u=863f87457a9a1d4c09741079700ebd18b6e0814a&v=4" width="24" alt="Avatar of ojhernandezc"> ojhernandezc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ojhernandezc">Copy rank badge</a><br/>
+			Oscar J. Hernandez Castillo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ojhernandezc">ojhernandezc</a></td>
+		<td>Sincelejo, (Sucre) CO</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/EscalanteUCB">
+				<img src="https://avatars.githubusercontent.com/u/178574714?s=72&v=4" width="24" alt="Avatar of EscalanteUCB"> EscalanteUCB
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EscalanteUCB">Copy rank badge</a><br/>
+			EDDY ESCALANTE USTARIZ
+		</td>
+		<td>Universidad Católica Boliviana </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/Avaruz">
+				<img src="https://avatars.githubusercontent.com/u/690375?s=72&u=c39945472c8298de1136341dd1f1db0bb0293d4c&v=4" width="24" alt="Avatar of Avaruz"> Avaruz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Avaruz">Copy rank badge</a><br/>
+			Adhemar
+		</td>
+		<td>Avaruz </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/kevin-mcm">
 				<img src="https://avatars.githubusercontent.com/u/28254614?s=72&u=cd9015b938627283721c892652af4c798a0018a6&v=4" width="24" alt="Avatar of kevin-mcm"> kevin-mcm
@@ -6373,33 +6451,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/JaviDevp">
-				<img src="https://avatars.githubusercontent.com/u/65985590?s=72&u=5db32a0d1dfe4bb4b9ab4f46b02988e26e4eef30&v=4" width="24" alt="Avatar of JaviDevp"> JaviDevp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JaviDevp">Copy rank badge</a><br/>
-			Javier Andrés Vidal U.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/saulpinedo">
-				<img src="https://avatars.githubusercontent.com/u/11062242?s=72&u=d9fc11aecc29379dd22eeace4050e3163083c431&v=4" width="24" alt="Avatar of saulpinedo"> saulpinedo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#saulpinedo">Copy rank badge</a><br/>
-			Saúl Pinedo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Warnes / Santa Cruz / Bolivia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>485</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/DarkAstaroth">
 				<img src="https://avatars.githubusercontent.com/u/35034650?s=72&u=03bc198b9a33cac2f93af741c9cd453eae570cf7&v=4" width="24" alt="Avatar of DarkAstaroth"> DarkAstaroth
@@ -6412,20 +6464,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>490</td>
 		<td>
-			<a href="https://github.com/pr00thmatic">
-				<img src="https://avatars.githubusercontent.com/u/5183802?s=72&u=505162682d2da9b140dad6c4e7c898b13fc4abbf&v=4" width="24" alt="Avatar of pr00thmatic"> pr00thmatic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pr00thmatic">Copy rank badge</a><br/>
-			pr00thmatic
+			<a href="https://github.com/saulpinedo">
+				<img src="https://avatars.githubusercontent.com/u/11062242?s=72&u=d9fc11aecc29379dd22eeace4050e3163083c431&v=4" width="24" alt="Avatar of saulpinedo"> saulpinedo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#saulpinedo">Copy rank badge</a><br/>
+			Saúl Pinedo
 		</td>
-		<td>Blue Gravity Studios </td>
-		<td><a href="https://twitter.com/pr00thmatic">pr00thmatic</a></td>
-		<td>La Paz</td>
-		<td>20</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Warnes / Santa Cruz / Bolivia</td>
+		<td>21</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/IvySaskia">
 				<img src="https://avatars.githubusercontent.com/u/41027286?s=72&u=d9c9435099cd1a973a53ebf7d96ebd869f08bd93&v=4" width="24" alt="Avatar of IvySaskia"> IvySaskia
@@ -6438,7 +6490,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/carlosuxd">
 				<img src="https://avatars.githubusercontent.com/u/11496612?s=72&u=bcba774249dfbf499666e302bcc137d2bfcded56&v=4" width="24" alt="Avatar of carlosuxd"> carlosuxd
@@ -6451,46 +6503,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>493</td>
 		<td>
-			<a href="https://github.com/EdsonVladimir">
-				<img src="https://avatars.githubusercontent.com/u/22439320?s=72&u=7c4591b31e1d9b356dc9052a3daf6e901123d422&v=4" width="24" alt="Avatar of EdsonVladimir"> EdsonVladimir
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EdsonVladimir">Copy rank badge</a><br/>
-			Edson - Sosa
+			<a href="https://github.com/hvillalo">
+				<img src="https://avatars.githubusercontent.com/u/25779456?s=72&u=f6329613ad1d758697326c8339001770697a0853&v=4" width="24" alt="Avatar of hvillalo"> hvillalo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hvillalo">Copy rank badge</a><br/>
+			Héctor Villalobos
 		</td>
-		<td>@telio Mobility </td>
+		<td>Instituto Politécnico Nacional -<br/>Cicimar<br/></td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>La Paz, B.C.S., México</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/bulacia-bruno">
-				<img src="https://avatars.githubusercontent.com/u/130194450?s=72&v=4" width="24" alt="Avatar of bulacia-bruno"> bulacia-bruno
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bulacia-bruno">Copy rank badge</a><br/>
-			Bruno Bulacia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/alvarorpf">
-				<img src="https://avatars.githubusercontent.com/u/41393264?s=72&u=c22a76c0727829518aa2bee60c9bfb56faf0c57a&v=4" width="24" alt="Avatar of alvarorpf"> alvarorpf
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarorpf">Copy rank badge</a><br/>
-			Alvaro Renato Paredes Flores
-		</td>
-		<td>@quilsoft-org </td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>492</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/AlyStrat">
 				<img src="https://avatars.githubusercontent.com/u/7606783?s=72&u=96d172cfc166a5844a868b5fa5f00f96151eaf39&v=4" width="24" alt="Avatar of AlyStrat"> AlyStrat
@@ -6503,54 +6529,28 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/AlbertoRodRios">
-				<img src="https://avatars.githubusercontent.com/u/127056299?s=72&u=a1a7dd67b9af31dddb756339d2088394285db2cc&v=4" width="24" alt="Avatar of AlbertoRodRios"> AlbertoRodRios
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlbertoRodRios">Copy rank badge</a><br/>
-			Alberto Rodriguez Rios
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlbertoRodRios">AlbertoRodRios</a></td>
-		<td>La Paz Baja California Sur</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>494</td>
-		<td>
-			<a href="https://github.com/ginimessersmith">
-				<img src="https://avatars.githubusercontent.com/u/77306577?s=72&u=49874b1d795a2f0b9f1af4e65704312d08a61477&v=4" width="24" alt="Avatar of ginimessersmith"> ginimessersmith
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ginimessersmith">Copy rank badge</a><br/>
-			Gino Baptista
-		</td>
-		<td>Universidad Autónoma Gabriel Rene<br/>Moreno<br/></td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>19</td>
-	</tr>
-	<tr>
 		<td>495</td>
 		<td>
-			<a href="https://github.com/fchgds">
-				<img src="https://avatars.githubusercontent.com/u/6086176?s=72&u=a5550fd7a5651e0cbff47749fbd2d46bc07dce78&v=4" width="24" alt="Avatar of fchgds"> fchgds
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fchgds">Copy rank badge</a><br/>
-			Fernando
+			<a href="https://github.com/pr00thmatic">
+				<img src="https://avatars.githubusercontent.com/u/5183802?s=72&u=505162682d2da9b140dad6c4e7c898b13fc4abbf&v=4" width="24" alt="Avatar of pr00thmatic"> pr00thmatic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pr00thmatic">Copy rank badge</a><br/>
+			pr00thmatic
 		</td>
-		<td>Zoftcoapps Software Srl </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>Blue Gravity Studios </td>
+		<td><a href="https://twitter.com/pr00thmatic">pr00thmatic</a></td>
+		<td>La Paz</td>
 		<td>19</td>
 	</tr>
 	<tr>
 		<td>496</td>
 		<td>
-			<a href="https://github.com/hdarioDev">
-				<img src="https://avatars.githubusercontent.com/u/63020855?s=72&u=269d3320a88afc031372c9598468055fe0680975&v=4" width="24" alt="Avatar of hdarioDev"> hdarioDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hdarioDev">Copy rank badge</a><br/>
-			Darío Condori Humerez
+			<a href="https://github.com/AllyOR">
+				<img src="https://avatars.githubusercontent.com/u/31754886?s=72&u=6e08d7cd8ad308cea9697cbf7ad6d7807601ff67&v=4" width="24" alt="Avatar of AllyOR"> AllyOR
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AllyOR">Copy rank badge</a><br/>
+			Alison Orellana
 		</td>
-		<td>Hdariodev </td>
-		<td><a href="https://twitter.com/hdarioDev">hdarioDev</a></td>
+		<td>Cisco Networking Academy </td>
+		<td><a href="https://twitter.com/ALLY_OR_ENEMY">ALLY_OR_ENEMY</a></td>
 		<td>Bolivia</td>
 		<td>19</td>
 	</tr>
@@ -6570,6 +6570,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>498</td>
 		<td>
+			<a href="https://github.com/JaviDevp">
+				<img src="https://avatars.githubusercontent.com/u/65985590?s=72&u=5db32a0d1dfe4bb4b9ab4f46b02988e26e4eef30&v=4" width="24" alt="Avatar of JaviDevp"> JaviDevp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JaviDevp">Copy rank badge</a><br/>
+			Javier Andrés Vidal U.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
 			<a href="https://github.com/danielthames360">
 				<img src="https://avatars.githubusercontent.com/u/77151920?s=72&u=f74d7ffffc154818ed55488a59cda93ffb0f0522&v=4" width="24" alt="Avatar of danielthames360"> danielthames360
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danielthames360">Copy rank badge</a><br/>
@@ -6581,7 +6594,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/xXCrIs7xDXx">
+				<img src="https://avatars.githubusercontent.com/u/144378346?s=72&u=23cc7ca5bb31ef79daeb42b5fdfc658868bddc65&v=4" width="24" alt="Avatar of xXCrIs7xDXx"> xXCrIs7xDXx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xXCrIs7xDXx">Copy rank badge</a><br/>
+			Cristian Jocieney Velasco Conde
+		</td>
+		<td>Jachacoders </td>
+		<td><a href="https://twitter.com/xX7w7_CrIs_xDXx">xX7w7_CrIs_xDXx</a></td>
+		<td>Bolivia 🇧🇴</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/owen2345">
 				<img src="https://avatars.githubusercontent.com/u/1148415?s=72&u=faf575bb0650f3c0cd801e4894e9d24525c34da6&v=4" width="24" alt="Avatar of owen2345"> owen2345
@@ -6594,20 +6620,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>502</td>
 		<td>
-			<a href="https://github.com/jonatan-esprella-lopez">
-				<img src="https://avatars.githubusercontent.com/u/93718044?s=72&u=758bdd4cf09762adc94048016ab3e4259e35d2fb&v=4" width="24" alt="Avatar of jonatan-esprella-lopez"> jonatan-esprella-lopez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jonatan-esprella-lopez">Copy rank badge</a><br/>
-			Jonatan Esprella Lopez
+			<a href="https://github.com/Lucascserrate">
+				<img src="https://avatars.githubusercontent.com/u/98147833?s=72&u=f92eb591269e930498f9184d924336df963a848d&v=4" width="24" alt="Avatar of Lucascserrate"> Lucascserrate
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Lucascserrate">Copy rank badge</a><br/>
+			Lucas Camacho
 		</td>
-		<td>Fitness Group International </td>
-		<td><a href="https://twitter.com/EsprellaJonatan">EsprellaJonatan</a></td>
-		<td>Bolivia - Cochabamba</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/MQInfer12">
+				<img src="https://avatars.githubusercontent.com/u/97072752?s=72&u=a46142e53121cc97a94c0409a5ea89b5271879d1&v=4" width="24" alt="Avatar of MQInfer12"> MQInfer12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MQInfer12">Copy rank badge</a><br/>
+			Mauricio Molina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/sergiop99">
 				<img src="https://avatars.githubusercontent.com/u/3382629?s=72&u=fcdf3535b8caabc7b979c1dd81a4eeccefd7af00&v=4" width="24" alt="Avatar of sergiop99"> sergiop99
@@ -6620,20 +6659,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/edsonmgoz">
-				<img src="https://avatars.githubusercontent.com/u/8063556?s=72&u=204dff713c2d47e75df8b7b0cb947cc126f1c9bd&v=4" width="24" alt="Avatar of edsonmgoz"> edsonmgoz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#edsonmgoz">Copy rank badge</a><br/>
-			Edson Mollericona Marín
-		</td>
-		<td>Edsonmm </td>
-		<td><a href="https://twitter.com/edsonmgoz">edsonmgoz</a></td>
-		<td>Bolivia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>503</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/lorddemon">
 				<img src="https://avatars.githubusercontent.com/u/6675738?s=72&u=83fb4bac792e58797a90b13530af9cf9f38d75f1&v=4" width="24" alt="Avatar of lorddemon"> lorddemon
@@ -6646,7 +6672,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/lfernando-cs">
 				<img src="https://avatars.githubusercontent.com/u/69864465?s=72&u=6e7280be9c3a9caa3ed91088b5c0d15c74855d7a&v=4" width="24" alt="Avatar of lfernando-cs"> lfernando-cs
@@ -6659,33 +6685,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/Lucascserrate">
-				<img src="https://avatars.githubusercontent.com/u/98147833?s=72&u=f92eb591269e930498f9184d924336df963a848d&v=4" width="24" alt="Avatar of Lucascserrate"> Lucascserrate
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Lucascserrate">Copy rank badge</a><br/>
-			Lucas Camacho
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a href="https://github.com/paullcv">
-				<img src="https://avatars.githubusercontent.com/u/87844419?s=72&u=6b14b2e06802ab62a823b869ce89cd552f216e7f&v=4" width="24" alt="Avatar of paullcv"> paullcv
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paullcv">Copy rank badge</a><br/>
-			Paul Cruz
-		</td>
-		<td>Gometrixs </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz-Bolivia</td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>507</td>
+		<td>
+			<a href="https://github.com/hdarioDev">
+				<img src="https://avatars.githubusercontent.com/u/63020855?s=72&u=269d3320a88afc031372c9598468055fe0680975&v=4" width="24" alt="Avatar of hdarioDev"> hdarioDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hdarioDev">Copy rank badge</a><br/>
+			Darío Condori Humerez
+		</td>
+		<td>Hdariodev </td>
+		<td><a href="https://twitter.com/hdarioDev">hdarioDev</a></td>
+		<td>Bolivia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/lgramirez">
 				<img src="https://avatars.githubusercontent.com/u/19524943?s=72&v=4" width="24" alt="Avatar of lgramirez"> lgramirez
@@ -6698,33 +6711,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
-			<a href="https://github.com/MiguelAngelVega">
-				<img src="https://avatars.githubusercontent.com/u/532642?s=72&v=4" width="24" alt="Avatar of MiguelAngelVega"> MiguelAngelVega
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MiguelAngelVega">Copy rank badge</a><br/>
-			Miguel Vega
+			<a href="https://github.com/DanielCruz-fs">
+				<img src="https://avatars.githubusercontent.com/u/29930991?s=72&v=4" width="24" alt="Avatar of DanielCruz-fs"> DanielCruz-fs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#DanielCruz-fs">Copy rank badge</a><br/>
+			Daniel Cruz Calani
 		</td>
-		<td>Vertum </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
-			<a href="https://github.com/eigenwijsje">
-				<img src="https://avatars.githubusercontent.com/u/16598?s=72&u=c283d45e8c633340343c71881d5435b66bcbaf33&v=4" width="24" alt="Avatar of eigenwijsje"> eigenwijsje
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eigenwijsje">Copy rank badge</a><br/>
-			Ernesto Rico Schmidt
+			<a href="https://github.com/AlbertoRodRios">
+				<img src="https://avatars.githubusercontent.com/u/127056299?s=72&u=a1a7dd67b9af31dddb756339d2088394285db2cc&v=4" width="24" alt="Avatar of AlbertoRodRios"> AlbertoRodRios
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlbertoRodRios">Copy rank badge</a><br/>
+			Alberto Rodriguez Rios
 		</td>
-		<td>@radio-helsinki-graz </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>16</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlbertoRodRios">AlbertoRodRios</a></td>
+		<td>La Paz Baja California Sur</td>
+		<td>17</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/raymundo-rabago">
+				<img src="https://avatars.githubusercontent.com/u/5541677?s=72&u=823b4743945e8c42f4fa314973686eaf3bfe089a&v=4" width="24" alt="Avatar of raymundo-rabago"> raymundo-rabago
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raymundo-rabago">Copy rank badge</a><br/>
+			Raymundo Rabago
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/raymundo_rabago">raymundo_rabago</a></td>
+		<td>La Paz Mexico</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/rlunadev">
+				<img src="https://avatars.githubusercontent.com/u/7585253?s=72&u=48c384f33ed8e03b5953e67390a6af88d416cde9&v=4" width="24" alt="Avatar of rlunadev"> rlunadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rlunadev">Copy rank badge</a><br/>
+			Ronald Luna
+		</td>
+		<td>Luna </td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/NatorWebDev">
 				<img src="https://avatars.githubusercontent.com/u/126914912?s=72&u=7020f1da37b4fd77db55f0bc26d9814d65ba7334&v=4" width="24" alt="Avatar of NatorWebDev"> NatorWebDev
@@ -6737,38 +6776,12 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>514</td>
 		<td>
-			<a href="https://github.com/AllyOR">
-				<img src="https://avatars.githubusercontent.com/u/31754886?s=72&u=6e08d7cd8ad308cea9697cbf7ad6d7807601ff67&v=4" width="24" alt="Avatar of AllyOR"> AllyOR
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AllyOR">Copy rank badge</a><br/>
-			Alison Orellana
-		</td>
-		<td>Cisco Networking Academy </td>
-		<td><a href="https://twitter.com/ALLY_OR_ENEMY">ALLY_OR_ENEMY</a></td>
-		<td>Bolivia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/wavecos">
-				<img src="https://avatars.githubusercontent.com/u/4807043?s=72&v=4" width="24" alt="Avatar of wavecos"> wavecos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#wavecos">Copy rank badge</a><br/>
-			Jose Alfredo Arias S.
-		</td>
-		<td>Xiobit </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>513</td>
-		<td>
-			<a href="https://github.com/JRGPdev">
-				<img src="https://avatars.githubusercontent.com/u/142231012?s=72&v=4" width="24" alt="Avatar of JRGPdev"> JRGPdev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JRGPdev">Copy rank badge</a><br/>
-			Jose Rene Guarachi
+			<a href="https://github.com/bulacia-bruno">
+				<img src="https://avatars.githubusercontent.com/u/130194450?s=72&v=4" width="24" alt="Avatar of bulacia-bruno"> bulacia-bruno
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bulacia-bruno">Copy rank badge</a><br/>
+			Bruno Bulacia
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6776,33 +6789,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/Luedch93">
-				<img src="https://avatars.githubusercontent.com/u/14883509?s=72&u=372a85c32de11bb81d67320891e2e340a94f73ce&v=4" width="24" alt="Avatar of Luedch93"> Luedch93
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Luedch93">Copy rank badge</a><br/>
-			Luis Chavez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/luedch93">luedch93</a></td>
-		<td>La Paz, Bolivia</td>
-		<td>16</td>
-	</tr>
-	<tr>
 		<td>515</td>
-		<td>
-			<a href="https://github.com/Nachin7u7">
-				<img src="https://avatars.githubusercontent.com/u/60782381?s=72&u=e997b4dc36e9f71669184062abe363ae3528aff1&v=4" width="24" alt="Avatar of Nachin7u7"> Nachin7u7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nachin7u7">Copy rank badge</a><br/>
-			Ricardo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia, La Paz</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>516</td>
 		<td>
 			<a href="https://github.com/maikomr">
 				<img src="https://avatars.githubusercontent.com/u/3672014?s=72&u=671176db6916a6f888bc3c685ad40f4cb6af366a&v=4" width="24" alt="Avatar of maikomr"> maikomr
@@ -6815,20 +6802,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/Luedch93">
+				<img src="https://avatars.githubusercontent.com/u/14883509?s=72&u=372a85c32de11bb81d67320891e2e340a94f73ce&v=4" width="24" alt="Avatar of Luedch93"> Luedch93
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Luedch93">Copy rank badge</a><br/>
+			Luis Chavez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/luedch93">luedch93</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>16</td>
+	</tr>
+	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/Suredials">
-				<img src="https://avatars.githubusercontent.com/u/130783266?s=72&u=980676742011961689d3e27caa2a5c28bac02191&v=4" width="24" alt="Avatar of Suredials"> Suredials
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Suredials">Copy rank badge</a><br/>
-			Suredials
+			<a href="https://github.com/jforco">
+				<img src="https://avatars.githubusercontent.com/u/23099878?s=72&v=4" width="24" alt="Avatar of jforco"> jforco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jforco">Copy rank badge</a><br/>
+			Jonathan Forco
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
-		<td>15</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>518</td>
+		<td>
+			<a href="https://github.com/ccaballero">
+				<img src="https://avatars.githubusercontent.com/u/277981?s=72&v=4" width="24" alt="Avatar of ccaballero"> ccaballero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ccaballero">Copy rank badge</a><br/>
+			Carlos Caballero
+		</td>
+		<td>Hiperbórea </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/vspimentel">
+				<img src="https://avatars.githubusercontent.com/u/81595020?s=72&u=7b43dde3b233c4f51284155b4aa3399c4e5e49a3&v=4" width="24" alt="Avatar of vspimentel"> vspimentel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vspimentel">Copy rank badge</a><br/>
+			Vito Pimentel
+		</td>
+		<td>Universidad San Francisco Xavier<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sucre, Bolivia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/nandes2062">
 				<img src="https://avatars.githubusercontent.com/u/6126258?s=72&u=7f5b9830a673e896b2a3b67ffc5696ecce990c05&v=4" width="24" alt="Avatar of nandes2062"> nandes2062
@@ -6841,59 +6867,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/hvillalo">
-				<img src="https://avatars.githubusercontent.com/u/25779456?s=72&u=f6329613ad1d758697326c8339001770697a0853&v=4" width="24" alt="Avatar of hvillalo"> hvillalo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hvillalo">Copy rank badge</a><br/>
-			Héctor Villalobos
-		</td>
-		<td>Instituto Politécnico Nacional -<br/>Cicimar<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz, B.C.S., México</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
-			<a href="https://github.com/Diyhi0515">
-				<img src="https://avatars.githubusercontent.com/u/120338163?s=72&u=405e38daee70302c330d776d1f04ae6abfe2ff09&v=4" width="24" alt="Avatar of Diyhi0515"> Diyhi0515
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Diyhi0515">Copy rank badge</a><br/>
-			Helen Baldelomar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>15</td>
-	</tr>
-	<tr>
 		<td>521</td>
 		<td>
-			<a href="https://github.com/strymsg">
-				<img src="https://avatars.githubusercontent.com/u/35537786?s=72&u=f148a8f9a0abfbdb9cfc99b63fc951ac2ef32bfc&v=4" width="24" alt="Avatar of strymsg"> strymsg
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#strymsg">Copy rank badge</a><br/>
-			Rodrigo Garcia
+			<a href="https://github.com/yracnet">
+				<img src="https://avatars.githubusercontent.com/u/3243735?s=72&u=7d257664cb81fe3250777ff46864dbcd1c2c9a54&v=4" width="24" alt="Avatar of yracnet"> yracnet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yracnet">Copy rank badge</a><br/>
+			Willyams Yujra
 		</td>
-		<td>No Company</td>
+		<td>Arganouv, United Virtualities, Hiskasoft<br/></td>
 		<td>No Twitter Username</td>
-		<td>La Paz / Bolivia</td>
+		<td>Bolivia</td>
 		<td>15</td>
 	</tr>
 	<tr>
 		<td>522</td>
-		<td>
-			<a href="https://github.com/yessicarm">
-				<img src="https://avatars.githubusercontent.com/u/89185291?s=72&u=4030c5e238140f04f01faaa54bc09d6ec15ff92c&v=4" width="24" alt="Avatar of yessicarm"> yessicarm
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yessicarm">Copy rank badge</a><br/>
-			Yessica L. Rodriguez Muñoz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, B.C.S., México.</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>523</td>
 		<td>
 			<a href="https://github.com/aguss-afk">
 				<img src="https://avatars.githubusercontent.com/u/74320809?s=72&v=4" width="24" alt="Avatar of aguss-afk"> aguss-afk
@@ -6906,20 +6893,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
-			<a href="https://github.com/EliasCode79">
-				<img src="https://avatars.githubusercontent.com/u/61769763?s=72&u=2100eef8d4c2bcd351ab8fefac5db15dc7a63f85&v=4" width="24" alt="Avatar of EliasCode79"> EliasCode79
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EliasCode79">Copy rank badge</a><br/>
-			Elias Franco
+			<a href="https://github.com/yessicarm">
+				<img src="https://avatars.githubusercontent.com/u/89185291?s=72&u=4030c5e238140f04f01faaa54bc09d6ec15ff92c&v=4" width="24" alt="Avatar of yessicarm"> yessicarm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yessicarm">Copy rank badge</a><br/>
+			Yessica L. Rodriguez Muñoz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre, Bolivia</td>
+		<td>La Paz, B.C.S., México.</td>
 		<td>15</td>
 	</tr>
 	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/edsonmgoz">
+				<img src="https://avatars.githubusercontent.com/u/8063556?s=72&u=204dff713c2d47e75df8b7b0cb947cc126f1c9bd&v=4" width="24" alt="Avatar of edsonmgoz"> edsonmgoz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#edsonmgoz">Copy rank badge</a><br/>
+			Edson Mollericona Marín
+		</td>
+		<td>Edsonmm </td>
+		<td><a href="https://twitter.com/edsonmgoz">edsonmgoz</a></td>
+		<td>Bolivia</td>
+		<td>14</td>
+	</tr>
+	<tr>
 		<td>525</td>
+		<td>
+			<a href="https://github.com/GaboAP">
+				<img src="https://avatars.githubusercontent.com/u/79124922?s=72&u=d401fa35bbfdeb12b1953ce214ab133aa41038df&v=4" width="24" alt="Avatar of GaboAP"> GaboAP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GaboAP">Copy rank badge</a><br/>
+			Gabriel Omar Almendras Penha
+		</td>
+		<td>Jfm </td>
+		<td><a href="https://twitter.com/G_o_a_p">G_o_a_p</a></td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/kiranitor123">
 				<img src="https://avatars.githubusercontent.com/u/34452472?s=72&u=a3c7f6f1f69ca1bf01bba71ea85b1c42878fd305&v=4" width="24" alt="Avatar of kiranitor123"> kiranitor123
@@ -6932,55 +6945,42 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
-			<a href="https://github.com/martinkztro">
-				<img src="https://avatars.githubusercontent.com/u/123603393?s=72&u=17090e86bff91487a2e8bd4d1fbd66ba57c88603&v=4" width="24" alt="Avatar of martinkztro"> martinkztro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#martinkztro">Copy rank badge</a><br/>
-			Martín Castro
+			<a href="https://github.com/z1egfr1ed">
+				<img src="https://avatars.githubusercontent.com/u/78269649?s=72&u=a5cbc7632cdeba8abe53b405db889cdec9f6673b&v=4" width="24" alt="Avatar of z1egfr1ed"> z1egfr1ed
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#z1egfr1ed">Copy rank badge</a><br/>
+			s1egfr1ed
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Baja California Sur, México</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>527</td>
-		<td>
-			<a href="https://github.com/EloySerrudo">
-				<img src="https://avatars.githubusercontent.com/u/42912680?s=72&u=810216f92d2ace6806eb2638ec9fd178c557612d&v=4" width="24" alt="Avatar of EloySerrudo"> EloySerrudo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EloySerrudo">Copy rank badge</a><br/>
-			Eloy Serrudo
-		</td>
-		<td>Universidad Del Valle </td>
-		<td><a href="https://twitter.com/eloy_S_C">eloy_S_C</a></td>
 		<td>Bolivia</td>
 		<td>14</td>
 	</tr>
 	<tr>
 		<td>528</td>
 		<td>
-			<a href="https://github.com/BernardoPer19">
-				<img src="https://avatars.githubusercontent.com/u/148910513?s=72&u=b97a85a55b55ca490cac2d3c53f01cb79ddb036f&v=4" width="24" alt="Avatar of BernardoPer19"> BernardoPer19
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BernardoPer19">Copy rank badge</a><br/>
-			b.eww_
+			<a href="https://github.com/walkerperedo">
+				<img src="https://avatars.githubusercontent.com/u/66075803?s=72&v=4" width="24" alt="Avatar of walkerperedo"> walkerperedo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#walkerperedo">Copy rank badge</a><br/>
+			Walker Fabricio Peredo Escobar
 		</td>
-		<td>Universidad Mayor De San<br/>Simon<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/walker_peredo">walker_peredo</a></td>
+		<td>Cochabamba-Bolivia</td>
 		<td>14</td>
 	</tr>
 	<tr>
 		<td>529</td>
 		<td>
-			<a href="https://github.com/JavierExeni">
-				<img src="https://avatars.githubusercontent.com/u/48496718?s=72&u=83c541300e74dde5f836d33aa77f33d68c0108a8&v=4" width="24" alt="Avatar of JavierExeni"> JavierExeni
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JavierExeni">Copy rank badge</a><br/>
-			Javier Exeni
+			<a href="https://github.com/WatchDog773">
+				<img src="https://avatars.githubusercontent.com/u/51092526?s=72&u=78bde4eb79fc6ebbe26a52192d9404bb79c05d3d&v=4" width="24" alt="Avatar of WatchDog773"> WatchDog773
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WatchDog773">Copy rank badge</a><br/>
+			Alessandro Cardona
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia, Santa Cruz de la Sierra</td>
+		<td>Marcala, La Paz</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -7012,19 +7012,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>532</td>
 		<td>
-			<a href="https://github.com/raymundo-rabago">
-				<img src="https://avatars.githubusercontent.com/u/5541677?s=72&u=823b4743945e8c42f4fa314973686eaf3bfe089a&v=4" width="24" alt="Avatar of raymundo-rabago"> raymundo-rabago
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raymundo-rabago">Copy rank badge</a><br/>
-			Raymundo Rabago
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/raymundo_rabago">raymundo_rabago</a></td>
-		<td>La Paz Mexico</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
 			<a href="https://github.com/vicodevs667">
 				<img src="https://avatars.githubusercontent.com/u/103433997?s=72&u=624e6c688d7c1194ffe8bd515e5d64720370e121&v=4" width="24" alt="Avatar of vicodevs667"> vicodevs667
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vicodevs667">Copy rank badge</a><br/>
@@ -7036,20 +7023,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/ginimessersmith">
+				<img src="https://avatars.githubusercontent.com/u/77306577?s=72&u=49874b1d795a2f0b9f1af4e65704312d08a61477&v=4" width="24" alt="Avatar of ginimessersmith"> ginimessersmith
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ginimessersmith">Copy rank badge</a><br/>
+			Gino Baptista
+		</td>
+		<td>Universidad Autónoma Gabriel Rene<br/>Moreno<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>13</td>
+	</tr>
+	<tr>
 		<td>534</td>
 		<td>
-			<a href="https://github.com/yracnet">
-				<img src="https://avatars.githubusercontent.com/u/3243735?s=72&u=7d257664cb81fe3250777ff46864dbcd1c2c9a54&v=4" width="24" alt="Avatar of yracnet"> yracnet
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yracnet">Copy rank badge</a><br/>
-			Willyams Yujra
+			<a href="https://github.com/gnujavasergio">
+				<img src="https://avatars.githubusercontent.com/u/654790?s=72&u=5e7de3803d7696e2116914082fa6243509db1792&v=4" width="24" alt="Avatar of gnujavasergio"> gnujavasergio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gnujavasergio">Copy rank badge</a><br/>
+			Sergio Antonio Ochoa Martinez
 		</td>
-		<td>Arganouv, United Virtualities, Hiskasoft<br/></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre - Bolivia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/NoemiNahomy">
+				<img src="https://avatars.githubusercontent.com/u/1789542?s=72&u=6871d2fd8e05b55139bc477924c4f817707a3f54&v=4" width="24" alt="Avatar of NoemiNahomy"> NoemiNahomy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NoemiNahomy">Copy rank badge</a><br/>
+			Noemi Nahomy
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/vladwelt">
 				<img src="https://avatars.githubusercontent.com/u/3821723?s=72&u=a91c0377186fdeb53710123fef9adc4e98bf620c&v=4" width="24" alt="Avatar of vladwelt"> vladwelt
@@ -7062,7 +7075,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/uabarahona">
 				<img src="https://avatars.githubusercontent.com/u/15148088?s=72&u=6ae8f56f43635d444b50e95e53aed74ae86b3a4b&v=4" width="24" alt="Avatar of uabarahona"> uabarahona
@@ -7075,41 +7088,28 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/zphoenixz">
-				<img src="https://avatars.githubusercontent.com/u/20118013?s=72&u=27f2bc05af14e81c9eab21509fcee28213593f58&v=4" width="24" alt="Avatar of zphoenixz"> zphoenixz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#zphoenixz">Copy rank badge</a><br/>
-			Ramiro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>13</td>
-	</tr>
-	<tr>
 		<td>538</td>
 		<td>
-			<a href="https://github.com/parduccinward">
-				<img src="https://avatars.githubusercontent.com/u/22183427?s=72&u=b77b94129edd83e08c244f5de65c77c571e74691&v=4" width="24" alt="Avatar of parduccinward"> parduccinward
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#parduccinward">Copy rank badge</a><br/>
-			Diego Pardo Blacutt
+			<a href="https://github.com/diego-adrian">
+				<img src="https://avatars.githubusercontent.com/u/4738575?s=72&u=f254add355a6914e5e804331334273750a17760a&v=4" width="24" alt="Avatar of diego-adrian"> diego-adrian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diego-adrian">Copy rank badge</a><br/>
+			Diego Adrian Barra Paredes
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Diegoadrian </td>
+		<td><a href="https://twitter.com/_addcode_">_addcode_</a></td>
+		<td>Bolivia - La Paz</td>
 		<td>13</td>
 	</tr>
 	<tr>
 		<td>539</td>
 		<td>
-			<a href="https://github.com/sergiombdev">
-				<img src="https://avatars.githubusercontent.com/u/34431828?s=72&u=ae54980c18a10c0293b3cc0e6f7a7a7dcf13d672&v=4" width="24" alt="Avatar of sergiombdev"> sergiombdev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sergiombdev">Copy rank badge</a><br/>
-			Sergio Mendoza Benito
+			<a href="https://github.com/EloySerrudo">
+				<img src="https://avatars.githubusercontent.com/u/42912680?s=72&u=810216f92d2ace6806eb2638ec9fd178c557612d&v=4" width="24" alt="Avatar of EloySerrudo"> EloySerrudo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EloySerrudo">Copy rank badge</a><br/>
+			Eloy Serrudo
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Universidad Del Valle </td>
+		<td><a href="https://twitter.com/eloy_S_C">eloy_S_C</a></td>
 		<td>Bolivia</td>
 		<td>13</td>
 	</tr>
@@ -7129,6 +7129,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>541</td>
 		<td>
+			<a href="https://github.com/BernardoPer19">
+				<img src="https://avatars.githubusercontent.com/u/148910513?s=72&u=b97a85a55b55ca490cac2d3c53f01cb79ddb036f&v=4" width="24" alt="Avatar of BernardoPer19"> BernardoPer19
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BernardoPer19">Copy rank badge</a><br/>
+			b.eww_
+		</td>
+		<td>Universidad Mayor De San<br/>Simon<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
 			<a href="https://github.com/cespedesct">
 				<img src="https://avatars.githubusercontent.com/u/50535820?s=72&u=31e125c4346336a7223860dee8fec58e008b6599&v=4" width="24" alt="Avatar of cespedesct"> cespedesct
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cespedesct">Copy rank badge</a><br/>
@@ -7140,59 +7153,85 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>542</td>
-		<td>
-			<a href="https://github.com/jonathanj20">
-				<img src="https://avatars.githubusercontent.com/u/89630702?s=72&v=4" width="24" alt="Avatar of jonathanj20"> jonathanj20
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jonathanj20">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Baja California Sur, México</td>
-		<td>13</td>
-	</tr>
-	<tr>
 		<td>543</td>
 		<td>
-			<a href="https://github.com/gnujavasergio">
-				<img src="https://avatars.githubusercontent.com/u/654790?s=72&u=5e7de3803d7696e2116914082fa6243509db1792&v=4" width="24" alt="Avatar of gnujavasergio"> gnujavasergio
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gnujavasergio">Copy rank badge</a><br/>
-			Sergio Antonio Ochoa Martinez
+			<a href="https://github.com/Nachin7u7">
+				<img src="https://avatars.githubusercontent.com/u/60782381?s=72&u=e997b4dc36e9f71669184062abe363ae3528aff1&v=4" width="24" alt="Avatar of Nachin7u7"> Nachin7u7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nachin7u7">Copy rank badge</a><br/>
+			Ricardo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre - Bolivia</td>
-		<td>12</td>
+		<td>Bolivia, La Paz</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>544</td>
 		<td>
-			<a href="https://github.com/GaboAP">
-				<img src="https://avatars.githubusercontent.com/u/79124922?s=72&u=d401fa35bbfdeb12b1953ce214ab133aa41038df&v=4" width="24" alt="Avatar of GaboAP"> GaboAP
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GaboAP">Copy rank badge</a><br/>
-			Gabriel Omar Almendras Penha
+			<a href="https://github.com/sergiombdev">
+				<img src="https://avatars.githubusercontent.com/u/34431828?s=72&u=ae54980c18a10c0293b3cc0e6f7a7a7dcf13d672&v=4" width="24" alt="Avatar of sergiombdev"> sergiombdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sergiombdev">Copy rank badge</a><br/>
+			Sergio Mendoza Benito
 		</td>
-		<td>Jfm </td>
-		<td><a href="https://twitter.com/G_o_a_p">G_o_a_p</a></td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>12</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>545</td>
 		<td>
-			<a href="https://github.com/WatchDog773">
-				<img src="https://avatars.githubusercontent.com/u/51092526?s=72&u=78bde4eb79fc6ebbe26a52192d9404bb79c05d3d&v=4" width="24" alt="Avatar of WatchDog773"> WatchDog773
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#WatchDog773">Copy rank badge</a><br/>
-			Alessandro Cardona
+			<a href="https://github.com/raranibar">
+				<img src="https://avatars.githubusercontent.com/u/182447?s=72&u=e8cf95b3422182cfe0d4de7ffc15281431f708a3&v=4" width="24" alt="Avatar of raranibar"> raranibar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raranibar">Copy rank badge</a><br/>
+			Ricardo Javier Aranibar Leon
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Marcala, La Paz</td>
-		<td>12</td>
+		<td>Bolivia</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>546</td>
+		<td>
+			<a href="https://github.com/zphoenixz">
+				<img src="https://avatars.githubusercontent.com/u/20118013?s=72&u=27f2bc05af14e81c9eab21509fcee28213593f58&v=4" width="24" alt="Avatar of zphoenixz"> zphoenixz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#zphoenixz">Copy rank badge</a><br/>
+			Ramiro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/martinkztro">
+				<img src="https://avatars.githubusercontent.com/u/123603393?s=72&u=17090e86bff91487a2e8bd4d1fbd66ba57c88603&v=4" width="24" alt="Avatar of martinkztro"> martinkztro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#martinkztro">Copy rank badge</a><br/>
+			Martín Castro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Baja California Sur, México</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/SergioYucra">
+				<img src="https://avatars.githubusercontent.com/u/86269414?s=72&u=070e73f5eea6babe345a52f07d7d61baa92e4e3d&v=4" width="24" alt="Avatar of SergioYucra"> SergioYucra
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#SergioYucra">Copy rank badge</a><br/>
+			Sergio Yucra
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sergioyucrap">sergioyucrap</a></td>
+		<td>La Paz Bolivia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/marcopdonoso">
 				<img src="https://avatars.githubusercontent.com/u/83668664?s=72&u=9458b0343c9d0a5d36c8efc7205bb565e5b1e019&v=4" width="24" alt="Avatar of marcopdonoso"> marcopdonoso
@@ -7205,33 +7244,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>550</td>
 		<td>
-			<a href="https://github.com/raranibar">
-				<img src="https://avatars.githubusercontent.com/u/182447?s=72&u=e8cf95b3422182cfe0d4de7ffc15281431f708a3&v=4" width="24" alt="Avatar of raranibar"> raranibar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#raranibar">Copy rank badge</a><br/>
-			Ricardo Javier Aranibar Leon
+			<a href="https://github.com/nicopanozo">
+				<img src="https://avatars.githubusercontent.com/u/62406937?s=72&u=0db075f42576f1931c60b9790533f3037e7715fc&v=4" width="24" alt="Avatar of nicopanozo"> nicopanozo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nicopanozo">Copy rank badge</a><br/>
+			Nicolas Panozo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>551</td>
 		<td>
-			<a href="https://github.com/VictorVillazante">
-				<img src="https://avatars.githubusercontent.com/u/48367631?s=72&u=300f0fe52baf42f09ad647eb901844cf9240a85d&v=4" width="24" alt="Avatar of VictorVillazante"> VictorVillazante
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#VictorVillazante">Copy rank badge</a><br/>
-			Victor Villazante
+			<a href="https://github.com/MysickBoy">
+				<img src="https://avatars.githubusercontent.com/u/108527488?s=72&u=ceb67bf2d894a243217341f258b352408059a93e&v=4" width="24" alt="Avatar of MysickBoy"> MysickBoy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MysickBoy">Copy rank badge</a><br/>
+			Daniel Rojas
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VVillazante6400">VVillazante6400</a></td>
+		<td>Auth0 </td>
+		<td>No Twitter Username</td>
 		<td>La Paz, Bolivia</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/IVANCCAMA">
 				<img src="https://avatars.githubusercontent.com/u/81888538?s=72&u=304a6356893fd78c966ce0883bb08456050731c5&v=4" width="24" alt="Avatar of IVANCCAMA"> IVANCCAMA
@@ -7244,7 +7283,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/EliasCode79">
+				<img src="https://avatars.githubusercontent.com/u/61769763?s=72&u=2100eef8d4c2bcd351ab8fefac5db15dc7a63f85&v=4" width="24" alt="Avatar of EliasCode79"> EliasCode79
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EliasCode79">Copy rank badge</a><br/>
+			Elias Franco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sucre, Bolivia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/mpargar">
 				<img src="https://avatars.githubusercontent.com/u/32663960?s=72&u=fdc7afacd18bc1c69c2ed39e8b89003c6a54e919&v=4" width="24" alt="Avatar of mpargar"> mpargar
@@ -7257,7 +7309,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/ronytic">
 				<img src="https://avatars.githubusercontent.com/u/716101?s=72&v=4" width="24" alt="Avatar of ronytic"> ronytic
@@ -7270,20 +7322,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/cesarju">
-				<img src="https://avatars.githubusercontent.com/u/37281311?s=72&u=0d2daddcc78c27167fce96900e84a48e051b1eac&v=4" width="24" alt="Avatar of cesarju"> cesarju
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cesarju">Copy rank badge</a><br/>
-			Cesar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>553</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/JDavidVR">
 				<img src="https://avatars.githubusercontent.com/u/4760084?s=72&u=466f70ddd22e27daef044beae7446357aa06d4ec&v=4" width="24" alt="Avatar of JDavidVR"> JDavidVR
@@ -7296,46 +7335,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>557</td>
 		<td>
-			<a href="https://github.com/trxsalo">
-				<img src="https://avatars.githubusercontent.com/u/68619451?s=72&u=ab207982d4fef1fae498a15cabb63f9e4839f91e&v=4" width="24" alt="Avatar of trxsalo"> trxsalo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#trxsalo">Copy rank badge</a><br/>
-			TRXSALOME
+			<a href="https://github.com/JuanFajardo">
+				<img src="https://avatars.githubusercontent.com/u/6690095?s=72&u=f6e78ec0f7cdfd2a6c9802e8e911715939784754&v=4" width="24" alt="Avatar of JuanFajardo"> JuanFajardo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JuanFajardo">Copy rank badge</a><br/>
+			Juan Fajardo
 		</td>
-		<td>No Company</td>
+		<td>Sisoft </td>
 		<td>No Twitter Username</td>
+		<td>Potosí, Bolivia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/Huascar321">
+				<img src="https://avatars.githubusercontent.com/u/45210400?s=72&v=4" width="24" alt="Avatar of Huascar321"> Huascar321
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Huascar321">Copy rank badge</a><br/>
+			Huáscar
+		</td>
+		<td>Upsa </td>
+		<td><a href="https://twitter.com/Huascar321">Huascar321</a></td>
 		<td>Bolivia</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/ozzyoss77">
-				<img src="https://avatars.githubusercontent.com/u/43213361?s=72&u=f15032bfe38dd798c34796ceff03b34ae1b7f608&v=4" width="24" alt="Avatar of ozzyoss77"> ozzyoss77
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ozzyoss77">Copy rank badge</a><br/>
-			Leopoldo Crhistian Riverin Gomez
-		</td>
-		<td>Riverin Tech Solutions </td>
-		<td><a href="https://twitter.com/crhis_riverin">crhis_riverin</a></td>
-		<td>Bolivia, La Paz</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/rofviv">
-				<img src="https://avatars.githubusercontent.com/u/19541949?s=72&u=d233ff2cc0fe08eb3309d8d366ef26a2a65ef445&v=4" width="24" alt="Avatar of rofviv"> rofviv
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rofviv">Copy rank badge</a><br/>
-			Roy Favio
-		</td>
-		<td>Flutter Developer </td>
-		<td><a href="https://twitter.com/RoyFavio">RoyFavio</a></td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>557</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/joelrojas">
 				<img src="https://avatars.githubusercontent.com/u/17706137?s=72&u=76c8725339f5d0922c5f15eb3ef8665445f41d8e&v=4" width="24" alt="Avatar of joelrojas"> joelrojas
@@ -7348,85 +7374,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>558</td>
-		<td>
-			<a href="https://github.com/nicopanozo">
-				<img src="https://avatars.githubusercontent.com/u/62406937?s=72&u=0db075f42576f1931c60b9790533f3037e7715fc&v=4" width="24" alt="Avatar of nicopanozo"> nicopanozo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nicopanozo">Copy rank badge</a><br/>
-			Nicolas Panozo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/bmrv911">
-				<img src="https://avatars.githubusercontent.com/u/111802190?s=72&u=8ad35d89fd929bb495da6a613066b4dae958a176&v=4" width="24" alt="Avatar of bmrv911"> bmrv911
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bmrv911">Copy rank badge</a><br/>
-			Brayan Moises Rodríguez Veizaga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>560</td>
 		<td>
-			<a href="https://github.com/robperezit">
-				<img src="https://avatars.githubusercontent.com/u/144255072?s=72&u=8cccca31e7c72e482910ca14ce87bc5e953c9f6f&v=4" width="24" alt="Avatar of robperezit"> robperezit
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#robperezit">Copy rank badge</a><br/>
-			Rob Perez
+			<a href="https://github.com/LFAUMSA">
+				<img src="https://avatars.githubusercontent.com/u/101900012?s=72&u=7f9b652dff9303a92430e99e7fa461c3cb61e938&v=4" width="24" alt="Avatar of LFAUMSA"> LFAUMSA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LFAUMSA">Copy rank badge</a><br/>
+			LABORATORIO DE FÍSICA DE LA ATMÓSFERA-LABORATORY FOR ATMOSPHERIC PHYSICS
 		</td>
-		<td>Sistecem </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>LA PAZ - BOLIVIA</td>
 		<td>11</td>
 	</tr>
 	<tr>
 		<td>561</td>
 		<td>
-			<a href="https://github.com/carlosclavijo">
-				<img src="https://avatars.githubusercontent.com/u/49215224?s=72&u=606c1be4531cc2236b25ecc17bc33355d9bc44ac&v=4" width="24" alt="Avatar of carlosclavijo"> carlosclavijo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carlosclavijo">Copy rank badge</a><br/>
-			Carlos Clavijo
+			<a href="https://github.com/jjiglesiasg">
+				<img src="https://avatars.githubusercontent.com/u/22849578?s=72&u=b679b86c50907390a2c114055985b56a400d5316&v=4" width="24" alt="Avatar of jjiglesiasg"> jjiglesiasg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jjiglesiasg">Copy rank badge</a><br/>
+			Juan Jose Iglesias
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/CarlosClavijo96">CarlosClavijo96</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia.</td>
+		<td>Moto Club Cochabamba </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
 		<td>11</td>
 	</tr>
 	<tr>
 		<td>562</td>
-		<td>
-			<a href="https://github.com/Victorlimon">
-				<img src="https://avatars.githubusercontent.com/u/92769629?s=72&v=4" width="24" alt="Avatar of Victorlimon"> Victorlimon
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Victorlimon">Copy rank badge</a><br/>
-			Victor M. Limon Zabala
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VictorLimonzab1">VictorLimonzab1</a></td>
-		<td>Bolivia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>563</td>
-		<td>
-			<a href="https://github.com/ccaballero">
-				<img src="https://avatars.githubusercontent.com/u/277981?s=72&v=4" width="24" alt="Avatar of ccaballero"> ccaballero
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ccaballero">Copy rank badge</a><br/>
-			Carlos Caballero
-		</td>
-		<td>Hiperbórea </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>564</td>
 		<td>
 			<a href="https://github.com/devcarlos">
 				<img src="https://avatars.githubusercontent.com/u/646364?s=72&u=1c34097930f9278a5c72e5671666007fb28f25c5&v=4" width="24" alt="Avatar of devcarlos"> devcarlos
@@ -7439,7 +7413,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/thomasboospegler">
 				<img src="https://avatars.githubusercontent.com/u/69267114?s=72&u=ff82485077a1ed9938715d11b994d5473b67b81d&v=4" width="24" alt="Avatar of thomasboospegler"> thomasboospegler
@@ -7452,7 +7426,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/ircube">
+				<img src="https://avatars.githubusercontent.com/u/913069?s=72&u=bac7070c272a6fea8596e47ad7e418cd41fbee9d&v=4" width="24" alt="Avatar of ircube"> ircube
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ircube">Copy rank badge</a><br/>
+			Ivo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia - Cochabamba</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/JohnnHidalgo">
+				<img src="https://avatars.githubusercontent.com/u/31965496?s=72&u=038ea0938ec70f379944212010e6f5c7cbdb0047&v=4" width="24" alt="Avatar of JohnnHidalgo"> JohnnHidalgo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JohnnHidalgo">Copy rank badge</a><br/>
+			Johnn Hidalgo
+		</td>
+		<td>@gdglapaz @tedxucb </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>10</td>
+	</tr>
+	<tr>
 		<td>566</td>
+		<td>
+			<a href="https://github.com/erikvelarde">
+				<img src="https://avatars.githubusercontent.com/u/78813256?s=72&v=4" width="24" alt="Avatar of erikvelarde"> erikvelarde
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#erikvelarde">Copy rank badge</a><br/>
+			F. Erick Velarde Silva
+		</td>
+		<td>Vetsoft </td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia </td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/amosbatto">
+				<img src="https://avatars.githubusercontent.com/u/4958913?s=72&v=4" width="24" alt="Avatar of amosbatto"> amosbatto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#amosbatto">Copy rank badge</a><br/>
+			Amos Batto
+		</td>
+		<td>Www.illa-a.org </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/DriaMT321">
 				<img src="https://avatars.githubusercontent.com/u/145689824?s=72&u=e3f07eec80aaccb63906ea1e6bf1b92dce6862a8&v=4" width="24" alt="Avatar of DriaMT321"> DriaMT321
@@ -7465,20 +7491,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>567</td>
-		<td>
-			<a href="https://github.com/CarlosAvilaDev">
-				<img src="https://avatars.githubusercontent.com/u/117247813?s=72&u=3ecc7a2b7687215952cb47d5212143340221f64a&v=4" width="24" alt="Avatar of CarlosAvilaDev"> CarlosAvilaDev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosAvilaDev">Copy rank badge</a><br/>
-			CarlosAvila
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz | Guadalajara MX</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/cechus">
 				<img src="https://avatars.githubusercontent.com/u/11302363?s=72&u=ad92456b0eb4818c20274058e2eecc74afab86dc&v=4" width="24" alt="Avatar of cechus"> cechus
@@ -7491,7 +7504,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/RicardoJD22">
 				<img src="https://avatars.githubusercontent.com/u/99311900?s=72&u=fedc81d01a49a5900f315a9d7a23f3db8aeb40f5&v=4" width="24" alt="Avatar of RicardoJD22"> RicardoJD22
@@ -7501,19 +7514,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Paz Baja California Sur</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/JChuayta">
-				<img src="https://avatars.githubusercontent.com/u/34210605?s=72&u=6a432243255fb8f2aada8ff88b0de4bc4ce5d80d&v=4" width="24" alt="Avatar of JChuayta"> JChuayta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JChuayta">Copy rank badge</a><br/>
-			Juan Carlos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7545,18 +7545,44 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>573</td>
 		<td>
-			<a href="https://github.com/Chuch3x">
-				<img src="https://avatars.githubusercontent.com/u/112001425?s=72&v=4" width="24" alt="Avatar of Chuch3x"> Chuch3x
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Chuch3x">Copy rank badge</a><br/>
-			César Augusto Méndez Camacho
+			<a href="https://github.com/chispofish">
+				<img src="https://avatars.githubusercontent.com/u/23057789?s=72&u=97b0d663f340c68082782cc97b047afaac2dd22f&v=4" width="24" alt="Avatar of chispofish"> chispofish
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#chispofish">Copy rank badge</a><br/>
+			Christian Parraga
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
+		<td>La Paz, Bolivia</td>
 		<td>10</td>
 	</tr>
 	<tr>
 		<td>574</td>
+		<td>
+			<a href="https://github.com/Omarjust">
+				<img src="https://avatars.githubusercontent.com/u/75322548?s=72&u=83768adf73e5a64f6e018683d2bfe0352c688ab4&v=4" width="24" alt="Avatar of Omarjust"> Omarjust
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Omarjust">Copy rank badge</a><br/>
+			Omar Justiniano Sikujara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/AndreaLaruta">
+				<img src="https://avatars.githubusercontent.com/u/42414128?s=72&u=974dbcd8e0f6ffaf100d8467fa999bab6fda3b4e&v=4" width="24" alt="Avatar of AndreaLaruta"> AndreaLaruta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AndreaLaruta">Copy rank badge</a><br/>
+			Andrea Geraldinne Laruta Coronel
+		</td>
+		<td>None </td>
+		<td><a href="https://twitter.com/AndreaG_Latina">AndreaG_Latina</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/pablotardio">
 				<img src="https://avatars.githubusercontent.com/u/56210570?s=72&u=d9e35f68d647202f089efeb48494e8251dc12cad&v=4" width="24" alt="Avatar of pablotardio"> pablotardio
@@ -7566,32 +7592,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz, Bolivia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/xjkwak">
-				<img src="https://avatars.githubusercontent.com/u/788608?s=72&u=4d149d9a85ca5ae6f2deedd537589a738226b272&v=4" width="24" alt="Avatar of xjkwak"> xjkwak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xjkwak">Copy rank badge</a><br/>
-			Cristian Mamani
-		</td>
-		<td>Phase 2, Supersoft, Mojix<br/></td>
-		<td><a href="https://twitter.com/xjkwak">xjkwak</a></td>
-		<td>Cochabamba Bolivia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/JohnnHidalgo">
-				<img src="https://avatars.githubusercontent.com/u/31965496?s=72&u=038ea0938ec70f379944212010e6f5c7cbdb0047&v=4" width="24" alt="Avatar of JohnnHidalgo"> JohnnHidalgo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JohnnHidalgo">Copy rank badge</a><br/>
-			Johnn Hidalgo
-		</td>
-		<td>@gdglapaz @tedxucb </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7610,14 +7610,14 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>578</td>
 		<td>
-			<a href="https://github.com/yoshiohack">
-				<img src="https://avatars.githubusercontent.com/u/2223458?s=72&v=4" width="24" alt="Avatar of yoshiohack"> yoshiohack
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yoshiohack">Copy rank badge</a><br/>
-			Yoshio Alberto Valles Marquez
+			<a href="https://github.com/IA-Programming">
+				<img src="https://avatars.githubusercontent.com/u/118508502?s=72&u=2c68f0eda3df492bca07940aebd3885d6e7463d8&v=4" width="24" alt="Avatar of IA-Programming"> IA-Programming
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IA-Programming">Copy rank badge</a><br/>
+			AI_Programming
 		</td>
-		<td>Devandtech </td>
-		<td><a href="https://twitter.com/yoshiohack">yoshiohack</a></td>
-		<td>La Paz Baja California Sur México</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7649,31 +7649,18 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>581</td>
 		<td>
-			<a href="https://github.com/JuanFajardo">
-				<img src="https://avatars.githubusercontent.com/u/6690095?s=72&u=f6e78ec0f7cdfd2a6c9802e8e911715939784754&v=4" width="24" alt="Avatar of JuanFajardo"> JuanFajardo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JuanFajardo">Copy rank badge</a><br/>
-			Juan Fajardo
+			<a href="https://github.com/yoshiohack">
+				<img src="https://avatars.githubusercontent.com/u/2223458?s=72&v=4" width="24" alt="Avatar of yoshiohack"> yoshiohack
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yoshiohack">Copy rank badge</a><br/>
+			Yoshio Alberto Valles Marquez
 		</td>
-		<td>Sisoft </td>
-		<td>No Twitter Username</td>
-		<td>Potosí, Bolivia</td>
+		<td>Devandtech </td>
+		<td><a href="https://twitter.com/yoshiohack">yoshiohack</a></td>
+		<td>La Paz Baja California Sur México</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>582</td>
-		<td>
-			<a href="https://github.com/Huascar321">
-				<img src="https://avatars.githubusercontent.com/u/45210400?s=72&v=4" width="24" alt="Avatar of Huascar321"> Huascar321
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Huascar321">Copy rank badge</a><br/>
-			Huáscar
-		</td>
-		<td>Upsa </td>
-		<td><a href="https://twitter.com/Huascar321">Huascar321</a></td>
-		<td>Bolivia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>583</td>
 		<td>
 			<a href="https://github.com/jesuj">
 				<img src="https://avatars.githubusercontent.com/u/70449345?s=72&u=327964c67e4035be4d3761718dfba7b0932c216e&v=4" width="24" alt="Avatar of jesuj"> jesuj
@@ -7683,6 +7670,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Loyalty Clubs </td>
 		<td><a href="https://twitter.com/jesuz194">jesuz194</a></td>
 		<td>Santa Cruz de la Sierra</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/bmrv911">
+				<img src="https://avatars.githubusercontent.com/u/111802190?s=72&u=8ad35d89fd929bb495da6a613066b4dae958a176&v=4" width="24" alt="Avatar of bmrv911"> bmrv911
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bmrv911">Copy rank badge</a><br/>
+			Brayan Moises Rodríguez Veizaga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7701,19 +7701,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>585</td>
 		<td>
-			<a href="https://github.com/jessicaori">
-				<img src="https://avatars.githubusercontent.com/u/66490864?s=72&u=dace9f4bfadfac534ab06af18c483703f63329e2&v=4" width="24" alt="Avatar of jessicaori"> jessicaori
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jessicaori">Copy rank badge</a><br/>
-			Jessica Orihuela Rojas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>586</td>
-		<td>
 			<a href="https://github.com/ValexLaz">
 				<img src="https://avatars.githubusercontent.com/u/104407130?s=72&u=29e8c6182dca9318fed0041fc83e6b1ff2390ea4&v=4" width="24" alt="Avatar of ValexLaz"> ValexLaz
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ValexLaz">Copy rank badge</a><br/>
@@ -7725,7 +7712,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/mathiasmendozav">
 				<img src="https://avatars.githubusercontent.com/u/154480626?s=72&u=0a084556fb77eeca486bbad6c5d6b845fe16dce1&v=4" width="24" alt="Avatar of mathiasmendozav"> mathiasmendozav
@@ -7738,20 +7725,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>588</td>
-		<td>
-			<a href="https://github.com/Nikol-0207">
-				<img src="https://avatars.githubusercontent.com/u/130877862?s=72&u=18ba8c9fb51eaadfa366eea0e0b86c9d4e012610&v=4" width="24" alt="Avatar of Nikol-0207"> Nikol-0207
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Nikol-0207">Copy rank badge</a><br/>
-			Nikol
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>589</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/arianesomoza">
 				<img src="https://avatars.githubusercontent.com/u/147267006?s=72&u=4dbdf8c675dba3f483c8b5e9a05bc3810f678669&v=4" width="24" alt="Avatar of arianesomoza"> arianesomoza
@@ -7764,46 +7738,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>590</td>
-		<td>
-			<a href="https://github.com/AndreaLaruta">
-				<img src="https://avatars.githubusercontent.com/u/42414128?s=72&u=974dbcd8e0f6ffaf100d8467fa999bab6fda3b4e&v=4" width="24" alt="Avatar of AndreaLaruta"> AndreaLaruta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AndreaLaruta">Copy rank badge</a><br/>
-			Andrea Geraldinne Laruta Coronel
-		</td>
-		<td>None </td>
-		<td><a href="https://twitter.com/AndreaG_Latina">AndreaG_Latina</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/ernestomar">
-				<img src="https://avatars.githubusercontent.com/u/373498?s=72&u=516cc9b307324824bdebad830b2dd692726ea011&v=4" width="24" alt="Avatar of ernestomar"> ernestomar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ernestomar">Copy rank badge</a><br/>
-			Ernesto Campohermoso
-		</td>
-		<td>Cirrus It S.r.l. </td>
-		<td><a href="https://twitter.com/ec10o">ec10o</a></td>
-		<td>La Paz</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/Francovg18">
-				<img src="https://avatars.githubusercontent.com/u/153469619?s=72&u=e215fda3fb0588abac996860ea7c0281e5c66c43&v=4" width="24" alt="Avatar of Francovg18"> Francovg18
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Francovg18">Copy rank badge</a><br/>
-			Franco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>593</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/carliros">
 				<img src="https://avatars.githubusercontent.com/u/151595?s=72&u=c4ba04ebdd4213434c6a0e2fc718cb450222ca61&v=4" width="24" alt="Avatar of carliros"> carliros
@@ -7816,7 +7751,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/ozzyoss77">
+				<img src="https://avatars.githubusercontent.com/u/43213361?s=72&u=f15032bfe38dd798c34796ceff03b34ae1b7f608&v=4" width="24" alt="Avatar of ozzyoss77"> ozzyoss77
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ozzyoss77">Copy rank badge</a><br/>
+			Leopoldo Crhistian Riverin Gomez
+		</td>
+		<td>Riverin Tech Solutions </td>
+		<td><a href="https://twitter.com/crhis_riverin">crhis_riverin</a></td>
+		<td>Bolivia, La Paz</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/nandex7">
+				<img src="https://avatars.githubusercontent.com/u/10405387?s=72&u=4410f8ab78fc8818b726e91432fddbafba10e277&v=4" width="24" alt="Avatar of nandex7"> nandex7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nandex7">Copy rank badge</a><br/>
+			Fernando Terrazas
+		</td>
+		<td>Iproject Partners Bolivia S.r.l<br/></td>
+		<td><a href="https://twitter.com/nandex777">nandex777</a></td>
+		<td>Bolivia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/NorvicSoftware">
 				<img src="https://avatars.githubusercontent.com/u/96735171?s=72&u=9f87b55d50c0ec58f5ee03edc24125cd0bcd7e4b&v=4" width="24" alt="Avatar of NorvicSoftware"> NorvicSoftware
@@ -7829,7 +7790,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/fradevgb">
 				<img src="https://avatars.githubusercontent.com/u/54147991?s=72&u=a108b6a5765fa3b0a2de392a4d6b6750ca4ee7a5&v=4" width="24" alt="Avatar of fradevgb"> fradevgb
@@ -7842,7 +7803,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/bendevs">
 				<img src="https://avatars.githubusercontent.com/u/35249848?s=72&u=f70f8b2483a7004c850ac72f5e2dee9f4be42ac8&v=4" width="24" alt="Avatar of bendevs"> bendevs
@@ -7852,6 +7813,45 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>BOLIVIA</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/rofviv">
+				<img src="https://avatars.githubusercontent.com/u/19541949?s=72&u=d233ff2cc0fe08eb3309d8d366ef26a2a65ef445&v=4" width="24" alt="Avatar of rofviv"> rofviv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#rofviv">Copy rank badge</a><br/>
+			Roy Favio
+		</td>
+		<td>Flutter Developer </td>
+		<td><a href="https://twitter.com/RoyFavio">RoyFavio</a></td>
+		<td>Santa Cruz - Bolivia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/JavierExeni">
+				<img src="https://avatars.githubusercontent.com/u/48496718?s=72&u=83c541300e74dde5f836d33aa77f33d68c0108a8&v=4" width="24" alt="Avatar of JavierExeni"> JavierExeni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JavierExeni">Copy rank badge</a><br/>
+			Javier Exeni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Santa Cruz de la Sierra</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/JChuayta">
+				<img src="https://avatars.githubusercontent.com/u/34210605?s=72&u=6a432243255fb8f2aada8ff88b0de4bc4ce5d80d&v=4" width="24" alt="Avatar of JChuayta"> JChuayta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JChuayta">Copy rank badge</a><br/>
+			Juan Carlos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7870,19 +7870,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>598</td>
 		<td>
-			<a href="https://github.com/joystacktrek">
-				<img src="https://avatars.githubusercontent.com/u/122351434?s=72&u=1c5a12d67b341c28d1a329645d8386d6f2baa94f&v=4" width="24" alt="Avatar of joystacktrek"> joystacktrek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#joystacktrek">Copy rank badge</a><br/>
-			joytotheworld
-		</td>
-		<td>Stacktrek </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Iloilo City</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
 			<a href="https://github.com/mauriballes">
 				<img src="https://avatars.githubusercontent.com/u/16750543?s=72&u=14e19b8dc50fd471e8129490a701091b8879c9d4&v=4" width="24" alt="Avatar of mauriballes"> mauriballes
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mauriballes">Copy rank badge</a><br/>
@@ -7894,14 +7881,27 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
+		<td>599</td>
+		<td>
+			<a href="https://github.com/kplian">
+				<img src="https://avatars.githubusercontent.com/u/5582737?s=72&u=6428b7bf8e5cf26a3d99594b99c0663d25b35c7d&v=4" width="24" alt="Avatar of kplian"> kplian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kplian">Copy rank badge</a><br/>
+			KPLIAN
+		</td>
+		<td>Kplian </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba - Bolivia</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>600</td>
 		<td>
-			<a href="https://github.com/chitopolo">
-				<img src="https://avatars.githubusercontent.com/u/2089898?s=72&u=01868dadf6be0a157c2108de6d6d4d55fad4f865&v=4" width="24" alt="Avatar of chitopolo"> chitopolo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#chitopolo">Copy rank badge</a><br/>
-			Rene Polo
+			<a href="https://github.com/eigenwijsje">
+				<img src="https://avatars.githubusercontent.com/u/16598?s=72&u=c283d45e8c633340343c71881d5435b66bcbaf33&v=4" width="24" alt="Avatar of eigenwijsje"> eigenwijsje
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#eigenwijsje">Copy rank badge</a><br/>
+			Ernesto Rico Schmidt
 		</td>
-		<td>No Company</td>
+		<td>@radio-helsinki-graz </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba, Bolivia</td>
 		<td>7</td>
@@ -7909,18 +7909,44 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>601</td>
 		<td>
-			<a href="https://github.com/fcchn4">
-				<img src="https://avatars.githubusercontent.com/u/46818457?s=72&u=fdb9bd81efbf6c7e93c1c229986e404a3913eef3&v=4" width="24" alt="Avatar of fcchn4"> fcchn4
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fcchn4">Copy rank badge</a><br/>
-			Fcch
+			<a href="https://github.com/xjkwak">
+				<img src="https://avatars.githubusercontent.com/u/788608?s=72&u=4d149d9a85ca5ae6f2deedd537589a738226b272&v=4" width="24" alt="Avatar of xjkwak"> xjkwak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xjkwak">Copy rank badge</a><br/>
+			Cristian Mamani
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fcchn4">fcchn4</a></td>
-		<td>Bolivia</td>
+		<td>Phase 2, Supersoft, Mojix<br/></td>
+		<td><a href="https://twitter.com/xjkwak">xjkwak</a></td>
+		<td>Cochabamba Bolivia</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>602</td>
+		<td>
+			<a href="https://github.com/ernestomar">
+				<img src="https://avatars.githubusercontent.com/u/373498?s=72&u=516cc9b307324824bdebad830b2dd692726ea011&v=4" width="24" alt="Avatar of ernestomar"> ernestomar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ernestomar">Copy rank badge</a><br/>
+			Ernesto Campohermoso
+		</td>
+		<td>Cirrus It S.r.l. </td>
+		<td><a href="https://twitter.com/ec10o">ec10o</a></td>
+		<td>La Paz</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/jgenso">
+				<img src="https://avatars.githubusercontent.com/u/914157?s=72&u=c1d3637204ee4dc999a3f2abab98c59325be8976&v=4" width="24" alt="Avatar of jgenso"> jgenso
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jgenso">Copy rank badge</a><br/>
+			Juan Jose
+		</td>
+		<td>Genso Iniciativas Web </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/ivansanguezax">
 				<img src="https://avatars.githubusercontent.com/u/39546708?s=72&u=08e9f693b4f4929f33d3a5ef4aa45f261e3d485b&v=4" width="24" alt="Avatar of ivansanguezax"> ivansanguezax
@@ -7933,20 +7959,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>605</td>
 		<td>
-			<a href="https://github.com/xyroux">
-				<img src="https://avatars.githubusercontent.com/u/112005385?s=72&u=5cc3c270c938f74381303aa068e96597562a79cb&v=4" width="24" alt="Avatar of xyroux"> xyroux
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xyroux">Copy rank badge</a><br/>
-			Sergio
+			<a href="https://github.com/jorge-llanque">
+				<img src="https://avatars.githubusercontent.com/u/36458315?s=72&u=56fab07f55eba5701b720fbfc36184bfdfae3ff2&v=4" width="24" alt="Avatar of jorge-llanque"> jorge-llanque
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jorge-llanque">Copy rank badge</a><br/>
+			Jorge.cs
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Software Engineer, Thinkbridge Company<br/></td>
+		<td><a href="https://twitter.com/jllanquedev">jllanquedev</a></td>
+		<td>Santa Cruz de la Sierra, BO</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/maudel">
 				<img src="https://avatars.githubusercontent.com/u/3695390?s=72&u=ac01a2c23e6ec3d778b00cba879e4e63d3622e86&v=4" width="24" alt="Avatar of maudel"> maudel
@@ -7959,20 +7985,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>605</td>
-		<td>
-			<a href="https://github.com/CinisArboris">
-				<img src="https://avatars.githubusercontent.com/u/48339524?s=72&u=519fb1e40dab94bfc1518d64ed360a3abd9e7748&v=4" width="24" alt="Avatar of CinisArboris"> CinisArboris
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CinisArboris">Copy rank badge</a><br/>
-			Eyver Emilio Vargas Medina
-		</td>
-		<td>@sceris.ficct </td>
-		<td><a href="https://twitter.com/CinisArboris">CinisArboris</a></td>
-		<td>Santa Cruz de la Sierra - Bolivia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/cocaco-dev">
 				<img src="https://avatars.githubusercontent.com/u/52352741?s=72&u=3d67f0bbb6fa95b8a279f5ac9b866938b9a186d4&v=4" width="24" alt="Avatar of cocaco-dev"> cocaco-dev
@@ -7985,7 +7998,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/ErraticTurtle35">
 				<img src="https://avatars.githubusercontent.com/u/7518521?s=72&u=5306ea7662d4d2883f17abd5cbf24448a8fa5ce6&v=4" width="24" alt="Avatar of ErraticTurtle35"> ErraticTurtle35
@@ -7998,59 +8011,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>608</td>
-		<td>
-			<a href="https://github.com/frideldev">
-				<img src="https://avatars.githubusercontent.com/u/29682147?s=72&u=a69a8810b61238d5db0841959304fb09d095c5cc&v=4" width="24" alt="Avatar of frideldev"> frideldev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#frideldev">Copy rank badge</a><br/>
-			Fridel Baldiviezo
-		</td>
-		<td>Fridel Baldiviezo </td>
-		<td><a href="https://twitter.com/frideldev">frideldev</a></td>
-		<td>Tarija-Bolivia</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>609</td>
 		<td>
-			<a href="https://github.com/sinticbolivia">
-				<img src="https://avatars.githubusercontent.com/u/6933036?s=72&u=6e2bc39890795eb45a5eb6b9dac21dea845877be&v=4" width="24" alt="Avatar of sinticbolivia"> sinticbolivia
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sinticbolivia">Copy rank badge</a><br/>
-			Sintic Bolivia
+			<a href="https://github.com/Whitent-bo">
+				<img src="https://avatars.githubusercontent.com/u/330047355?s=72&u=f576101f408dbf4cfafd87af0346fb77543d32e8&v=4" width="24" alt="Avatar of Whitent-bo"> Whitent-bo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Whitent-bo">Copy rank badge</a><br/>
+			Lucas 
 		</td>
-		<td>Sintic Bolivia </td>
+		<td>Universidad Mayor De San<br/>Simón<br/><br/></td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
+		<td>CBB - Bolivia </td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>610</td>
-		<td>
-			<a href="https://github.com/riveroma">
-				<img src="https://avatars.githubusercontent.com/u/27159768?s=72&u=3806b0d7979d94387cc35309fd5f0a0141ea2339&v=4" width="24" alt="Avatar of riveroma"> riveroma
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#riveroma">Copy rank badge</a><br/>
-			Kr0n0$.·.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra - Bolivia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>611</td>
-		<td>
-			<a href="https://github.com/mrprogramator">
-				<img src="https://avatars.githubusercontent.com/u/7607180?s=72&u=82ebc9c8caf4c340c2f8451fb0cd3ec01d571fa3&v=4" width="24" alt="Avatar of mrprogramator"> mrprogramator
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mrprogramator">Copy rank badge</a><br/>
-			Luis Alberto Saucedo Quiroga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>612</td>
 		<td>
 			<a href="https://github.com/borissoto">
 				<img src="https://avatars.githubusercontent.com/u/7810247?s=72&u=efc3a96acb27aaad48d9ada607c26b5340d22cd1&v=4" width="24" alt="Avatar of borissoto"> borissoto
@@ -8063,42 +8037,68 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>611</td>
 		<td>
-			<a href="https://github.com/RTXPabloV">
-				<img src="https://avatars.githubusercontent.com/u/133233884?s=72&u=2f964cbac37294509ac93277d00343ebf79d4fcb&v=4" width="24" alt="Avatar of RTXPabloV"> RTXPabloV
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RTXPabloV">Copy rank badge</a><br/>
-			PabloDeV3012
+			<a href="https://github.com/riveroma">
+				<img src="https://avatars.githubusercontent.com/u/27159768?s=72&u=3806b0d7979d94387cc35309fd5f0a0141ea2339&v=4" width="24" alt="Avatar of riveroma"> riveroma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#riveroma">Copy rank badge</a><br/>
+			Kr0n0$.·.
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Santa Cruz de la Sierra - Bolivia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/mrprogramator">
+				<img src="https://avatars.githubusercontent.com/u/7607180?s=72&u=82ebc9c8caf4c340c2f8451fb0cd3ec01d571fa3&v=4" width="24" alt="Avatar of mrprogramator"> mrprogramator
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mrprogramator">Copy rank badge</a><br/>
+			Luis Alberto Saucedo Quiroga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/jonathanj20">
+				<img src="https://avatars.githubusercontent.com/u/89630702?s=72&v=4" width="24" alt="Avatar of jonathanj20"> jonathanj20
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jonathanj20">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Baja California Sur, México</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>614</td>
 		<td>
-			<a href="https://github.com/pomaalvin">
-				<img src="https://avatars.githubusercontent.com/u/48572620?s=72&v=4" width="24" alt="Avatar of pomaalvin"> pomaalvin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#pomaalvin">Copy rank badge</a><br/>
-			Alvin Jamil Poma Tarqui
+			<a href="https://github.com/Rodrifer">
+				<img src="https://avatars.githubusercontent.com/u/126223?s=72&u=e3b2ebfe2cebb833db5e915e35cc4179944dee02&v=4" width="24" alt="Avatar of Rodrifer"> Rodrifer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Rodrifer">Copy rank badge</a><br/>
+			Rodrigo Soliz
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>7</td>
+		<td><a href="https://twitter.com/Rodri_fer">Rodri_fer</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>615</td>
 		<td>
-			<a href="https://github.com/G3rson98">
-				<img src="https://avatars.githubusercontent.com/u/45806224?s=72&u=f88ca416e62a643ff73e5c403844b8f567189fd9&v=4" width="24" alt="Avatar of G3rson98"> G3rson98
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#G3rson98">Copy rank badge</a><br/>
-			Gerson Oliva
+			<a href="https://github.com/alexpizarroj">
+				<img src="https://avatars.githubusercontent.com/u/3832027?s=72&u=e996acf5c3b00c5c190efe388b147cd1e51d5046&v=4" width="24" alt="Avatar of alexpizarroj"> alexpizarroj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alexpizarroj">Copy rank badge</a><br/>
+			Alex Pizarro
 		</td>
-		<td>No Company</td>
+		<td>Https://edenmed.com/ </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz , Bolivia.</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -8130,6 +8130,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>618</td>
 		<td>
+			<a href="https://github.com/fcchn4">
+				<img src="https://avatars.githubusercontent.com/u/46818457?s=72&u=fdb9bd81efbf6c7e93c1c229986e404a3913eef3&v=4" width="24" alt="Avatar of fcchn4"> fcchn4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fcchn4">Copy rank badge</a><br/>
+			Fcch
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fcchn4">fcchn4</a></td>
+		<td>Bolivia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
 			<a href="https://github.com/cahuayamarcial">
 				<img src="https://avatars.githubusercontent.com/u/30442018?s=72&u=11d444452458c7160834f53d856736ddaf0d41e4&v=4" width="24" alt="Avatar of cahuayamarcial"> cahuayamarcial
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#cahuayamarcial">Copy rank badge</a><br/>
@@ -8141,33 +8154,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/jorge-llanque">
-				<img src="https://avatars.githubusercontent.com/u/36458315?s=72&u=b73a538aede2f227dabee211e27cb2434cbf9b14&v=4" width="24" alt="Avatar of jorge-llanque"> jorge-llanque
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jorge-llanque">Copy rank badge</a><br/>
-			Jorge.cs
-		</td>
-		<td>Software Engineer, Thinkbridge Company<br/></td>
-		<td><a href="https://twitter.com/jllanquedev">jllanquedev</a></td>
-		<td>Santa Cruz de la Sierra, BO</td>
-		<td>6</td>
-	</tr>
-	<tr>
 		<td>620</td>
 		<td>
-			<a href="https://github.com/grovertabu">
-				<img src="https://avatars.githubusercontent.com/u/43526964?s=72&u=9c0bd38dfb193bb9e207448f156a3a0314a83869&v=4" width="24" alt="Avatar of grovertabu"> grovertabu
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#grovertabu">Copy rank badge</a><br/>
-			Grover Taboada Rodas
+			<a href="https://github.com/xyroux">
+				<img src="https://avatars.githubusercontent.com/u/112005385?s=72&u=5cc3c270c938f74381303aa068e96597562a79cb&v=4" width="24" alt="Avatar of xyroux"> xyroux
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#xyroux">Copy rank badge</a><br/>
+			Sergio
 		</td>
-		<td>Escuela De Negocios Esam<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre </td>
+		<td>Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
 		<td>621</td>
+		<td>
+			<a href="https://github.com/strymsg">
+				<img src="https://avatars.githubusercontent.com/u/35537786?s=72&u=f148a8f9a0abfbdb9cfc99b63fc951ac2ef32bfc&v=4" width="24" alt="Avatar of strymsg"> strymsg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#strymsg">Copy rank badge</a><br/>
+			Rodrigo Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz / Bolivia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/urvog">
 				<img src="https://avatars.githubusercontent.com/u/459689?s=72&u=8491d74f78693b578de83935fa45f0d8ddcaad57&v=4" width="24" alt="Avatar of urvog"> urvog
@@ -8180,7 +8193,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/AleCossioCh">
+				<img src="https://avatars.githubusercontent.com/u/23039347?s=72&u=a55482d01770e74f298e3cce9d5e4e68576642b6&v=4" width="24" alt="Avatar of AleCossioCh"> AleCossioCh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AleCossioCh">Copy rank badge</a><br/>
+			Alejandra Cossío 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/finguer">
+				<img src="https://avatars.githubusercontent.com/u/6179776?s=72&u=322b6096ade9dba10b5b671940436262981edf91&v=4" width="24" alt="Avatar of finguer"> finguer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#finguer">Copy rank badge</a><br/>
+			finguer
+		</td>
+		<td>Kplian, Disydes </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/KarimGhonem">
 				<img src="https://avatars.githubusercontent.com/u/17323575?s=72&u=6b9ed6f756db42d5e0bf83dc9c7faa9ef7cc4685&v=4" width="24" alt="Avatar of KarimGhonem"> KarimGhonem
@@ -8193,20 +8232,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>626</td>
 		<td>
-			<a href="https://github.com/EltonCass">
-				<img src="https://avatars.githubusercontent.com/u/51844513?s=72&u=68dba75257ac92370030e5878bb24dfeb6982af1&v=4" width="24" alt="Avatar of EltonCass"> EltonCass
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#EltonCass">Copy rank badge</a><br/>
-			Elton Cassas
+			<a href="https://github.com/edualse">
+				<img src="https://avatars.githubusercontent.com/u/77848834?s=72&v=4" width="24" alt="Avatar of edualse"> edualse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#edualse">Copy rank badge</a><br/>
+			Erick Alse
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Alse </td>
+		<td><a href="https://twitter.com/Erick_Alse">Erick_Alse</a></td>
+		<td>Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/joystacktrek">
+				<img src="https://avatars.githubusercontent.com/u/122351434?s=72&u=1c5a12d67b341c28d1a329645d8386d6f2baa94f&v=4" width="24" alt="Avatar of joystacktrek"> joystacktrek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#joystacktrek">Copy rank badge</a><br/>
+			joytotheworld
+		</td>
+		<td>Stacktrek </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Iloilo City</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/QuantumCode2000">
 				<img src="https://avatars.githubusercontent.com/u/64666591?s=72&u=54013b7b8726d813ecc4d430c084f5875551f6ee&v=4" width="24" alt="Avatar of QuantumCode2000"> QuantumCode2000
@@ -8219,46 +8271,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>625</td>
-		<td>
-			<a href="https://github.com/GriselJimenez">
-				<img src="https://avatars.githubusercontent.com/u/46911040?s=72&u=059608effc9a8c2e2d4dd91f0caa48d2f49aa153&v=4" width="24" alt="Avatar of GriselJimenez"> GriselJimenez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GriselJimenez">Copy rank badge</a><br/>
-			Grisel Jiménez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Georockgris">Georockgris</a></td>
-		<td>Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
-			<a href="https://github.com/2jsdev">
-				<img src="https://avatars.githubusercontent.com/u/51468253?s=72&u=0c2166f8a3b7905568e46a0e01fdef0dc587db2a&v=4" width="24" alt="Avatar of 2jsdev"> 2jsdev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#2jsdev">Copy rank badge</a><br/>
-			Jordy Morales
-		</td>
-		<td>Unosquare </td>
-		<td><a href="https://twitter.com/2jsdev">2jsdev</a></td>
-		<td>Cochabamba, Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>627</td>
-		<td>
-			<a href="https://github.com/NoemiNahomy">
-				<img src="https://avatars.githubusercontent.com/u/1789542?s=72&u=6871d2fd8e05b55139bc477924c4f817707a3f54&v=4" width="24" alt="Avatar of NoemiNahomy"> NoemiNahomy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#NoemiNahomy">Copy rank badge</a><br/>
-			Noemi Nahomy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/kevinbarja">
 				<img src="https://avatars.githubusercontent.com/u/8870117?s=72&v=4" width="24" alt="Avatar of kevinbarja"> kevinbarja
@@ -8271,7 +8284,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/ctola91">
 				<img src="https://avatars.githubusercontent.com/u/9135312?s=72&v=4" width="24" alt="Avatar of ctola91"> ctola91
@@ -8284,20 +8297,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
-			<a href="https://github.com/nandex7">
-				<img src="https://avatars.githubusercontent.com/u/10405387?s=72&u=4410f8ab78fc8818b726e91432fddbafba10e277&v=4" width="24" alt="Avatar of nandex7"> nandex7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nandex7">Copy rank badge</a><br/>
-			Fernando Terrazas
+			<a href="https://github.com/CinisArboris">
+				<img src="https://avatars.githubusercontent.com/u/48339524?s=72&u=519fb1e40dab94bfc1518d64ed360a3abd9e7748&v=4" width="24" alt="Avatar of CinisArboris"> CinisArboris
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CinisArboris">Copy rank badge</a><br/>
+			Eyver Emilio Vargas Medina
 		</td>
-		<td>Iproject Partners Bolivia S.r.l<br/></td>
-		<td><a href="https://twitter.com/nandex777">nandex777</a></td>
-		<td>Bolivia</td>
+		<td>@sceris.ficct </td>
+		<td><a href="https://twitter.com/CinisArboris">CinisArboris</a></td>
+		<td>Santa Cruz de la Sierra - Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/cheyodevfarm">
 				<img src="https://avatars.githubusercontent.com/u/66282886?s=72&u=983877725f5da70e3874a61a0ce7d4a758f25b6c&v=4" width="24" alt="Avatar of cheyodevfarm"> cheyodevfarm
@@ -8310,20 +8323,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
-			<a href="https://github.com/RadoV18">
-				<img src="https://avatars.githubusercontent.com/u/73953191?s=72&u=f4f3462242162f72090f64cc97a3b8e554a08a8c&v=4" width="24" alt="Avatar of RadoV18"> RadoV18
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RadoV18">Copy rank badge</a><br/>
-			Radomir Vladislavić
+			<a href="https://github.com/hermany">
+				<img src="https://avatars.githubusercontent.com/u/143344?s=72&u=811f5e3211ce93030d2cc804c60baca319b71a29&v=4" width="24" alt="Avatar of hermany"> hermany
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hermany">Copy rank badge</a><br/>
+			Hermany Terrazas
 		</td>
-		<td>Jigcar </td>
+		<td>Wappcom </td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/Aper-ux">
 				<img src="https://avatars.githubusercontent.com/u/72824805?s=72&u=85fdeb8ab7d905870a6a3216e5606a9699a3f0e7&v=4" width="24" alt="Avatar of Aper-ux"> Aper-ux
@@ -8336,42 +8349,29 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>634</td>
-		<td>
-			<a href="https://github.com/bpdarlyn">
-				<img src="https://avatars.githubusercontent.com/u/13193490?s=72&u=5d9f24adadf9229fdbc823c7d37be8b2f685668d&v=4" width="24" alt="Avatar of bpdarlyn"> bpdarlyn
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bpdarlyn">Copy rank badge</a><br/>
-			darlyn
-		</td>
-		<td>Qubytesoft S.r.l </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/phanzr">
-				<img src="https://avatars.githubusercontent.com/u/17005650?s=72&u=9c0763e01894dd3fad42b009234b163456ce733e&v=4" width="24" alt="Avatar of phanzr"> phanzr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#phanzr">Copy rank badge</a><br/>
-			Samantha Zambrana
+			<a href="https://github.com/KARENTORRICO1612">
+				<img src="https://avatars.githubusercontent.com/u/67204691?s=72&u=a0c6a8eb70e6a54401090ba494e570dc27d573ff&v=4" width="24" alt="Avatar of KARENTORRICO1612"> KARENTORRICO1612
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#KARENTORRICO1612">Copy rank badge</a><br/>
+			Liz Conde
 		</td>
-		<td>@scesi </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
+		<td>Cochabamba</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>636</td>
 		<td>
-			<a href="https://github.com/AleCossioCh">
-				<img src="https://avatars.githubusercontent.com/u/23039347?s=72&u=a55482d01770e74f298e3cce9d5e4e68576642b6&v=4" width="24" alt="Avatar of AleCossioCh"> AleCossioCh
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AleCossioCh">Copy rank badge</a><br/>
-			Alejandra Cossío 
+			<a href="https://github.com/frideldev">
+				<img src="https://avatars.githubusercontent.com/u/29682147?s=72&u=a69a8810b61238d5db0841959304fb09d095c5cc&v=4" width="24" alt="Avatar of frideldev"> frideldev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#frideldev">Copy rank badge</a><br/>
+			Fridel Baldiviezo
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
+		<td>Fridel Baldiviezo </td>
+		<td><a href="https://twitter.com/frideldev">frideldev</a></td>
+		<td>Tarija-Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -8390,6 +8390,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>638</td>
 		<td>
+			<a href="https://github.com/sinticbolivia">
+				<img src="https://avatars.githubusercontent.com/u/6933036?s=72&u=6e2bc39890795eb45a5eb6b9dac21dea845877be&v=4" width="24" alt="Avatar of sinticbolivia"> sinticbolivia
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#sinticbolivia">Copy rank badge</a><br/>
+			Sintic Bolivia
+		</td>
+		<td>Sintic Bolivia </td>
+		<td>No Twitter Username</td>
+		<td>La Paz - Bolivia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
 			<a href="https://github.com/JorgeAbrego">
 				<img src="https://avatars.githubusercontent.com/u/65416755?s=72&u=f0ddd374911da73629000e25fbe2abf001c9e67d&v=4" width="24" alt="Avatar of JorgeAbrego"> JorgeAbrego
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JorgeAbrego">Copy rank badge</a><br/>
@@ -8398,19 +8411,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jv_abrego">jv_abrego</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>639</td>
-		<td>
-			<a href="https://github.com/edualse">
-				<img src="https://avatars.githubusercontent.com/u/77848834?s=72&v=4" width="24" alt="Avatar of edualse"> edualse
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#edualse">Copy rank badge</a><br/>
-			Erick Alse
-		</td>
-		<td>Alse </td>
-		<td><a href="https://twitter.com/Erick_Alse">Erick_Alse</a></td>
-		<td>Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -8429,44 +8429,18 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>641</td>
 		<td>
-			<a href="https://github.com/vitiko98">
-				<img src="https://avatars.githubusercontent.com/u/59455966?s=72&u=a0f01479e778886a31f23cd52f7f0401b471a2b6&v=4" width="24" alt="Avatar of vitiko98"> vitiko98
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vitiko98">Copy rank badge</a><br/>
-			Vitiko
+			<a href="https://github.com/mauudev">
+				<img src="https://avatars.githubusercontent.com/u/4335429?s=72&u=c707a2e471383d93f16e6806aab477f74a6bf4b8&v=4" width="24" alt="Avatar of mauudev"> mauudev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mauudev">Copy rank badge</a><br/>
+			Mauricio Trigo Uriona
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>642</td>
-		<td>
-			<a href="https://github.com/boriscy">
-				<img src="https://avatars.githubusercontent.com/u/38298?s=72&u=5541ee9432a3aaa19c464ad046538eb068f7f7db&v=4" width="24" alt="Avatar of boriscy"> boriscy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#boriscy">Copy rank badge</a><br/>
-			Boris Barroso
-		</td>
-		<td>Lead With Purpose </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>643</td>
-		<td>
-			<a href="https://github.com/kplian">
-				<img src="https://avatars.githubusercontent.com/u/5582737?s=72&u=6428b7bf8e5cf26a3d99594b99c0663d25b35c7d&v=4" width="24" alt="Avatar of kplian"> kplian
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kplian">Copy rank badge</a><br/>
-			KPLIAN
-		</td>
-		<td>Kplian </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba - Bolivia</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/dianacalizaya">
 				<img src="https://avatars.githubusercontent.com/u/96246255?s=72&u=8d184b1890915461537bb69b37fe109937510930&v=4" width="24" alt="Avatar of dianacalizaya"> dianacalizaya
@@ -8479,85 +8453,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/danianmercado">
 				<img src="https://avatars.githubusercontent.com/u/8953955?s=72&u=7460c625b6bbd84be2dfefdae7aab87cd7d16746&v=4" width="24" alt="Avatar of danianmercado"> danianmercado
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#danianmercado">Copy rank badge</a><br/>
 			danianmercado
 		</td>
-		<td>Itransfers </td>
+		<td>Softsnow </td>
 		<td><a href="https://twitter.com/danianmercado">danianmercado</a></td>
 		<td>Santa Cruz, Bolivia</td>
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/kurenai-ryu">
+				<img src="https://avatars.githubusercontent.com/u/11935858?s=72&u=60e1e1432549425d9371dfe58aa01bbba6a928aa&v=4" width="24" alt="Avatar of kurenai-ryu"> kurenai-ryu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kurenai-ryu">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/kauvinlucas">
+				<img src="https://avatars.githubusercontent.com/u/59508271?s=72&u=1da5c9ec539356ce6edfa999d0b66ef90849c7ef&v=4" width="24" alt="Avatar of kauvinlucas"> kauvinlucas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kauvinlucas">Copy rank badge</a><br/>
+			Kauvin Lucas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>646</td>
 		<td>
-			<a href="https://github.com/vspimentel">
-				<img src="https://avatars.githubusercontent.com/u/81595020?s=72&u=7b43dde3b233c4f51284155b4aa3399c4e5e49a3&v=4" width="24" alt="Avatar of vspimentel"> vspimentel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vspimentel">Copy rank badge</a><br/>
-			Vito Pimentel
+			<a href="https://github.com/yacel100">
+				<img src="https://avatars.githubusercontent.com/u/2986434?s=72&u=8ddaafcdbd17e7b908ff2e40cc13934eb879762e&v=4" width="24" alt="Avatar of yacel100"> yacel100
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yacel100">Copy rank badge</a><br/>
+			jose luis
 		</td>
-		<td>Universidad San Francisco Xavier<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sucre, Bolivia</td>
+		<td>Yacmay </td>
+		<td><a href="https://twitter.com/yacel100">yacel100</a></td>
+		<td>Bolivia</td>
 		<td>4</td>
 	</tr>
 	<tr>
 		<td>647</td>
-		<td>
-			<a href="https://github.com/Rodrifer">
-				<img src="https://avatars.githubusercontent.com/u/126223?s=72&u=e3b2ebfe2cebb833db5e915e35cc4179944dee02&v=4" width="24" alt="Avatar of Rodrifer"> Rodrifer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Rodrifer">Copy rank badge</a><br/>
-			Rodrigo Soliz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Rodri_fer">Rodri_fer</a></td>
-		<td>Cochabamba, Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/alexpizarroj">
-				<img src="https://avatars.githubusercontent.com/u/3832027?s=72&u=e996acf5c3b00c5c190efe388b147cd1e51d5046&v=4" width="24" alt="Avatar of alexpizarroj"> alexpizarroj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alexpizarroj">Copy rank badge</a><br/>
-			Alex Pizarro
-		</td>
-		<td>Https://edenmed.com/ </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/BiancaRomeroG">
-				<img src="https://avatars.githubusercontent.com/u/92609752?s=72&u=952d7e83e0c035739a2dbdc8a10c872e9eb9eb09&v=4" width="24" alt="Avatar of BiancaRomeroG"> BiancaRomeroG
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#BiancaRomeroG">Copy rank badge</a><br/>
-			Bianca Romero Guzman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>650</td>
-		<td>
-			<a href="https://github.com/retbleed">
-				<img src="https://avatars.githubusercontent.com/u/80010408?s=72&u=cf119d012f488d55a70fd6142574e5059272f2c0&v=4" width="24" alt="Avatar of retbleed"> retbleed
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#retbleed">Copy rank badge</a><br/>
-			λ l e x a n d e r
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/retbleed">retbleed</a></td>
-		<td>La Paz, México</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>651</td>
 		<td>
 			<a href="https://github.com/uialberto">
 				<img src="https://avatars.githubusercontent.com/u/854471?s=72&u=2d5049ec0882aab1199b5015bb6bf6667eb5ee72&v=4" width="24" alt="Avatar of uialberto"> uialberto
@@ -8570,20 +8518,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>648</td>
 		<td>
-			<a href="https://github.com/hermany">
-				<img src="https://avatars.githubusercontent.com/u/143344?s=72&u=811f5e3211ce93030d2cc804c60baca319b71a29&v=4" width="24" alt="Avatar of hermany"> hermany
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#hermany">Copy rank badge</a><br/>
-			Hermany Terrazas
+			<a href="https://github.com/retbleed">
+				<img src="https://avatars.githubusercontent.com/u/80010408?s=72&u=cf119d012f488d55a70fd6142574e5059272f2c0&v=4" width="24" alt="Avatar of retbleed"> retbleed
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#retbleed">Copy rank badge</a><br/>
+			λ l e x a n d e r
 		</td>
-		<td>Wappcom </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/retbleed">retbleed</a></td>
+		<td>La Paz, México</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>649</td>
+		<td>
+			<a href="https://github.com/CarlosFULLHD">
+				<img src="https://avatars.githubusercontent.com/u/119177486?s=72&u=d0186372de489e441de5b5d05f9ff52321c6f54e&v=4" width="24" alt="Avatar of CarlosFULLHD"> CarlosFULLHD
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosFULLHD">Copy rank badge</a><br/>
+			Carlos Nina Reynaga
+		</td>
+		<td>Indasoge Spa </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/nubeclan">
 				<img src="https://avatars.githubusercontent.com/u/23103360?s=72&u=42a279e401822a11a4b5975c077c15373847adfb&v=4" width="24" alt="Avatar of nubeclan"> nubeclan
@@ -8596,7 +8557,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/RoyDevTEAM">
 				<img src="https://avatars.githubusercontent.com/u/147108729?s=72&u=d484448e0cc304540367049d6997e9850c2274f7&v=4" width="24" alt="Avatar of RoyDevTEAM"> RoyDevTEAM
@@ -8609,7 +8570,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/JosseMontano">
 				<img src="https://avatars.githubusercontent.com/u/81046804?s=72&u=e4c11f545e436a28a5a2ec53fb17963a282cc136&v=4" width="24" alt="Avatar of JosseMontano"> JosseMontano
@@ -8622,7 +8583,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/alanwalter45">
 				<img src="https://avatars.githubusercontent.com/u/16258269?s=72&u=67a7d7c27e67cf86644bd0ee25e5784415a2336b&v=4" width="24" alt="Avatar of alanwalter45"> alanwalter45
@@ -8635,7 +8596,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/carlosclavijo">
+				<img src="https://avatars.githubusercontent.com/u/49215224?s=72&u=606c1be4531cc2236b25ecc17bc33355d9bc44ac&v=4" width="24" alt="Avatar of carlosclavijo"> carlosclavijo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#carlosclavijo">Copy rank badge</a><br/>
+			Carlos Clavijo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/CarlosClavijo96">CarlosClavijo96</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia.</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/GeorgeOfSystem">
 				<img src="https://avatars.githubusercontent.com/u/49001431?s=72&u=775a57d0c0160e0fa18b72fd5032421f1ab9527b&v=4" width="24" alt="Avatar of GeorgeOfSystem"> GeorgeOfSystem
@@ -8648,20 +8622,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>656</td>
 		<td>
-			<a href="https://github.com/mauudev">
-				<img src="https://avatars.githubusercontent.com/u/4335429?s=72&u=c707a2e471383d93f16e6806aab477f74a6bf4b8&v=4" width="24" alt="Avatar of mauudev"> mauudev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mauudev">Copy rank badge</a><br/>
-			Mauricio Trigo Uriona
+			<a href="https://github.com/alvarosiles11">
+				<img src="https://avatars.githubusercontent.com/u/61075383?s=72&u=ae5442a53a8fb92c4b87d9c2dade57282407c4ec&v=4" width="24" alt="Avatar of alvarosiles11"> alvarosiles11
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#alvarosiles11">Copy rank badge</a><br/>
+			Alvaro Siles Estrada
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba - Bolivia</td>
+		<td>Servisofts Srl </td>
+		<td><a href="https://twitter.com/alvarosiles11">alvarosiles11</a></td>
+		<td>Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/darvein">
 				<img src="https://avatars.githubusercontent.com/u/12852802?s=72&u=f1092c10924f56270fe9c672cac01bf9e9d5999f&v=4" width="24" alt="Avatar of darvein"> darvein
@@ -8674,20 +8648,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>660</td>
-		<td>
-			<a href="https://github.com/LuisaMora">
-				<img src="https://avatars.githubusercontent.com/u/79343096?s=72&u=809c4cf1eb468a6aa42a06f19a25cfc720d070e2&v=4" width="24" alt="Avatar of LuisaMora"> LuisaMora
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuisaMora">Copy rank badge</a><br/>
-			Luisa Mora
-		</td>
-		<td>Universidad Mayor De San<br/>Simon<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>661</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/carlitux">
 				<img src="https://avatars.githubusercontent.com/u/40538?s=72&v=4" width="24" alt="Avatar of carlitux"> carlitux
@@ -8700,20 +8661,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>659</td>
 		<td>
-			<a href="https://github.com/phreakphreak">
-				<img src="https://avatars.githubusercontent.com/u/91038818?s=72&u=8d334bb3319165b4550b64ec552b0acfce8f4395&v=4" width="24" alt="Avatar of phreakphreak"> phreakphreak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#phreakphreak">Copy rank badge</a><br/>
-			Michael Zabala (Mike)
+			<a href="https://github.com/AlexanderASH">
+				<img src="https://avatars.githubusercontent.com/u/50622774?s=72&u=af83b268599c6588ea5ebf072e8b8f7d153c3e6e&v=4" width="24" alt="Avatar of AlexanderASH"> AlexanderASH
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlexanderASH">Copy rank badge</a><br/>
+			Alexander Sanchez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/phreakphreak">phreakphreak</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>Uagrm </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Santa Cruz</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/GriselJimenez">
+				<img src="https://avatars.githubusercontent.com/u/46911040?s=72&u=059608effc9a8c2e2d4dd91f0caa48d2f49aa153&v=4" width="24" alt="Avatar of GriselJimenez"> GriselJimenez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#GriselJimenez">Copy rank badge</a><br/>
+			Grisel Jiménez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Georockgris">Georockgris</a></td>
+		<td>Bolivia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/e1016">
 				<img src="https://avatars.githubusercontent.com/u/29954550?s=72&u=4ad5467df5554e51b2246ef31d663f5d582c4d5d&v=4" width="24" alt="Avatar of e1016"> e1016
@@ -8726,7 +8700,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/JoseChirinos">
 				<img src="https://avatars.githubusercontent.com/u/15722362?s=72&u=77782843685fef48d74ea08fca8ba719ce0d9814&v=4" width="24" alt="Avatar of JoseChirinos"> JoseChirinos
@@ -8739,7 +8713,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/AnyPaoCS">
 				<img src="https://avatars.githubusercontent.com/u/40205585?s=72&u=789b5fff633400e06dde0e42a351f7aaffd85c66&v=4" width="24" alt="Avatar of AnyPaoCS"> AnyPaoCS
@@ -8752,7 +8726,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/nicolenumbergg">
 				<img src="https://avatars.githubusercontent.com/u/134247164?s=72&u=1fdf84add0f9730f3ff8140512d1e5a4e0962cd2&v=4" width="24" alt="Avatar of nicolenumbergg"> nicolenumbergg
@@ -8765,10 +8739,10 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/marcanii">
-				<img src="https://avatars.githubusercontent.com/u/78616513?s=72&u=97fb4be9078eaeeda751bb1166ab48ef8d810494&v=4" width="24" alt="Avatar of marcanii"> marcanii
+				<img src="https://avatars.githubusercontent.com/u/78616513?s=72&u=5ca2a33772f9311cd2f74466dada43db6ca7ee40&v=4" width="24" alt="Avatar of marcanii"> marcanii
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#marcanii">Copy rank badge</a><br/>
 			Abel Israel Marcani Aguilar
 		</td>
@@ -8778,20 +8752,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>666</td>
 		<td>
-			<a href="https://github.com/diego-adrian">
-				<img src="https://avatars.githubusercontent.com/u/4738575?s=72&u=f254add355a6914e5e804331334273750a17760a&v=4" width="24" alt="Avatar of diego-adrian"> diego-adrian
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#diego-adrian">Copy rank badge</a><br/>
-			Diego Adrian Barra Paredes
+			<a href="https://github.com/RadoV18">
+				<img src="https://avatars.githubusercontent.com/u/73953191?s=72&u=f4f3462242162f72090f64cc97a3b8e554a08a8c&v=4" width="24" alt="Avatar of RadoV18"> RadoV18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#RadoV18">Copy rank badge</a><br/>
+			Radomir Vladislavić
 		</td>
-		<td>Diegoadrian </td>
-		<td><a href="https://twitter.com/_addcode_">_addcode_</a></td>
-		<td>Bolivia - La Paz</td>
+		<td>Jigcar </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/MickyOR">
 				<img src="https://avatars.githubusercontent.com/u/6519865?s=72&u=faeb5cb2e85be8d2ffa9aefc64ab01aa033c0a9e&v=4" width="24" alt="Avatar of MickyOR"> MickyOR
@@ -8804,16 +8778,42 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>668</td>
 		<td>
-			<a href="https://github.com/Pabdro">
-				<img src="https://avatars.githubusercontent.com/u/80706043?s=72&v=4" width="24" alt="Avatar of Pabdro"> Pabdro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Pabdro">Copy rank badge</a><br/>
-			Pablo Alejandro Badani Zambrana
+			<a href="https://github.com/CarlosAvilaDev">
+				<img src="https://avatars.githubusercontent.com/u/117247813?s=72&u=3ecc7a2b7687215952cb47d5212143340221f64a&v=4" width="24" alt="Avatar of CarlosAvilaDev"> CarlosAvilaDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosAvilaDev">Copy rank badge</a><br/>
+			CarlosAvila
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
+		<td>La Paz | Guadalajara MX</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/paullcv">
+				<img src="https://avatars.githubusercontent.com/u/87844419?s=72&u=6b14b2e06802ab62a823b869ce89cd552f216e7f&v=4" width="24" alt="Avatar of paullcv"> paullcv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#paullcv">Copy rank badge</a><br/>
+			Paul Cruz
+		</td>
+		<td>Gometrixs </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz-Bolivia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/MaxFSP">
+				<img src="https://avatars.githubusercontent.com/u/72162955?s=72&u=e2f0061bbd6f31459c6072035978b24d2ed6a5ce&v=4" width="24" alt="Avatar of MaxFSP"> MaxFSP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#MaxFSP">Copy rank badge</a><br/>
+			Maximiliano Farfan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8832,19 +8832,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>672</td>
 		<td>
-			<a href="https://github.com/andreacornejo">
-				<img src="https://avatars.githubusercontent.com/u/32601297?s=72&u=d6e091a56d3b220addf306ebe7f29d606996226a&v=4" width="24" alt="Avatar of andreacornejo"> andreacornejo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#andreacornejo">Copy rank badge</a><br/>
-			Andrea Cornejo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/andreacoding">andreacoding</a></td>
-		<td>Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>673</td>
-		<td>
 			<a href="https://github.com/dchilo">
 				<img src="https://avatars.githubusercontent.com/u/87886602?s=72&u=95c352eb1a2015a4cc7980653ae5545cf8a315b3&v=4" width="24" alt="Avatar of dchilo"> dchilo
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#dchilo">Copy rank badge</a><br/>
@@ -8853,6 +8840,19 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>Tigo Bolivia </td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>673</td>
+		<td>
+			<a href="https://github.com/phanzr">
+				<img src="https://avatars.githubusercontent.com/u/17005650?s=72&u=9c0763e01894dd3fad42b009234b163456ce733e&v=4" width="24" alt="Avatar of phanzr"> phanzr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#phanzr">Copy rank badge</a><br/>
+			Samantha Zambrana
+		</td>
+		<td>@scesi </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8871,19 +8871,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 	<tr>
 		<td>675</td>
 		<td>
-			<a href="https://github.com/finguer">
-				<img src="https://avatars.githubusercontent.com/u/6179776?s=72&u=322b6096ade9dba10b5b671940436262981edf91&v=4" width="24" alt="Avatar of finguer"> finguer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#finguer">Copy rank badge</a><br/>
-			finguer
-		</td>
-		<td>Kplian, Disydes </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>676</td>
-		<td>
 			<a href="https://github.com/LuisNunezVela">
 				<img src="https://avatars.githubusercontent.com/u/17316303?s=72&u=943d2e5db171ae141eb4d962f2ef0691c1f21774&v=4" width="24" alt="Avatar of LuisNunezVela"> LuisNunezVela
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuisNunezVela">Copy rank badge</a><br/>
@@ -8895,7 +8882,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/ehumerez">
 				<img src="https://avatars.githubusercontent.com/u/28359375?s=72&u=4a445a6af0ef1da49bf49e7c068ae3d6c922461b&v=4" width="24" alt="Avatar of ehumerez"> ehumerez
@@ -8908,7 +8895,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/4rnol">
 				<img src="https://avatars.githubusercontent.com/u/60412572?s=72&u=2993370636bde4db074146a717bfdd8a8bc3833d&v=4" width="24" alt="Avatar of 4rnol"> 4rnol
@@ -8921,33 +8908,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>679</td>
-		<td>
-			<a href="https://github.com/maurirosas">
-				<img src="https://avatars.githubusercontent.com/u/106721088?s=72&u=2ddbebc34cd26bc5989c6aa63bbb71b5f8b99829&v=4" width="24" alt="Avatar of maurirosas"> maurirosas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#maurirosas">Copy rank badge</a><br/>
-			Mauricio Rosas Velasquez
-		</td>
-		<td>Universidad Católica Boliviana </td>
-		<td>No Twitter Username</td>
-		<td>Tarija, Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/crisloma">
-				<img src="https://avatars.githubusercontent.com/u/2893212?s=72&u=988f743587ae61ae1680aa796f030df00899aec0&v=4" width="24" alt="Avatar of crisloma"> crisloma
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#crisloma">Copy rank badge</a><br/>
-			Cristina Loma
-		</td>
-		<td>Digitalboost </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>681</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/DavidS1707">
 				<img src="https://avatars.githubusercontent.com/u/87838786?s=72&u=e54a23d802dade8484b203c014387d428fefe440&v=4" width="24" alt="Avatar of DavidS1707"> DavidS1707
@@ -8960,7 +8921,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/frank-sepulveda">
 				<img src="https://avatars.githubusercontent.com/u/7442695?s=72&u=40d4cd2cd3ac73d488445f00d93a7dd80541b002&v=4" width="24" alt="Avatar of frank-sepulveda"> frank-sepulveda
@@ -8973,7 +8934,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/nathalyAlarconT">
 				<img src="https://avatars.githubusercontent.com/u/4137439?s=72&u=1443f5ec7354069e01063bcc55ba021f4d93cb3b&v=4" width="24" alt="Avatar of nathalyAlarconT"> nathalyAlarconT
@@ -8986,20 +8947,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>681</td>
 		<td>
-			<a href="https://github.com/jgenso">
-				<img src="https://avatars.githubusercontent.com/u/914157?s=72&u=c1d3637204ee4dc999a3f2abab98c59325be8976&v=4" width="24" alt="Avatar of jgenso"> jgenso
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jgenso">Copy rank badge</a><br/>
-			Juan Jose
+			<a href="https://github.com/phreakphreak">
+				<img src="https://avatars.githubusercontent.com/u/91038818?s=72&u=8d334bb3319165b4550b64ec552b0acfce8f4395&v=4" width="24" alt="Avatar of phreakphreak"> phreakphreak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#phreakphreak">Copy rank badge</a><br/>
+			Michael Zabala (Mike)
 		</td>
-		<td>Genso Iniciativas Web </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/phreakphreak">phreakphreak</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/ferOnti">
 				<img src="https://avatars.githubusercontent.com/u/1680171?s=72&v=4" width="24" alt="Avatar of ferOnti"> ferOnti
@@ -9012,7 +8973,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/JHIMMY">
 				<img src="https://avatars.githubusercontent.com/u/16492822?s=72&u=8b7d543198cfe70ba058446eca4ef463e4ba19bc&v=4" width="24" alt="Avatar of JHIMMY"> JHIMMY
@@ -9025,7 +8986,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/JorcelMahan">
 				<img src="https://avatars.githubusercontent.com/u/26581036?s=72&u=210376d8c0fcb95ed77838d9582551365fa85916&v=4" width="24" alt="Avatar of JorcelMahan"> JorcelMahan
@@ -9038,7 +8999,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/Francovg18">
+				<img src="https://avatars.githubusercontent.com/u/153469619?s=72&u=e215fda3fb0588abac996860ea7c0281e5c66c43&v=4" width="24" alt="Avatar of Francovg18"> Francovg18
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Francovg18">Copy rank badge</a><br/>
+			Franco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Alvardud">
 				<img src="https://avatars.githubusercontent.com/u/19878900?s=72&u=79aa7b232b472870cdbcc3b7977e87c4e52adf80&v=4" width="24" alt="Avatar of Alvardud"> Alvardud
@@ -9051,59 +9025,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/IrvM0245">
-				<img src="https://avatars.githubusercontent.com/u/52447557?s=72&u=ba810b4fa1ef41a2ec795705326ebcf6f53da2bc&v=4" width="24" alt="Avatar of IrvM0245"> IrvM0245
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IrvM0245">Copy rank badge</a><br/>
-			Irving Mariscal
-		</td>
-		<td>Tcs </td>
-		<td>No Twitter Username</td>
-		<td>La paz, Baja California Sur.</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>690</td>
-		<td>
-			<a href="https://github.com/yacel100">
-				<img src="https://avatars.githubusercontent.com/u/2986434?s=72&u=8ddaafcdbd17e7b908ff2e40cc13934eb879762e&v=4" width="24" alt="Avatar of yacel100"> yacel100
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#yacel100">Copy rank badge</a><br/>
-			jose luis
-		</td>
-		<td>Yacmay </td>
-		<td><a href="https://twitter.com/yacel100">yacel100</a></td>
-		<td>Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>691</td>
-		<td>
-			<a href="https://github.com/vladimircostaj">
-				<img src="https://avatars.githubusercontent.com/u/68115854?s=72&u=8066626541c26a23db1e352c92bc9432fef91188&v=4" width="24" alt="Avatar of vladimircostaj"> vladimircostaj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#vladimircostaj">Copy rank badge</a><br/>
-			Vladimir Costas 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>692</td>
-		<td>
-			<a href="https://github.com/kurenai-ryu">
-				<img src="https://avatars.githubusercontent.com/u/11935858?s=72&u=60e1e1432549425d9371dfe58aa01bbba6a928aa&v=4" width="24" alt="Avatar of kurenai-ryu"> kurenai-ryu
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kurenai-ryu">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>693</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/jknaudt21">
 				<img src="https://avatars.githubusercontent.com/u/32918747?s=72&u=4786a4ca31f005e68d91b2e82f59dcd5efc6949b&v=4" width="24" alt="Avatar of jknaudt21"> jknaudt21
@@ -9116,12 +9038,38 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>688</td>
 		<td>
-			<a href="https://github.com/kauvinlucas">
-				<img src="https://avatars.githubusercontent.com/u/59508271?s=72&u=1da5c9ec539356ce6edfa999d0b66ef90849c7ef&v=4" width="24" alt="Avatar of kauvinlucas"> kauvinlucas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#kauvinlucas">Copy rank badge</a><br/>
-			Kauvin Lucas
+			<a href="https://github.com/IrvM0245">
+				<img src="https://avatars.githubusercontent.com/u/52447557?s=72&u=ba810b4fa1ef41a2ec795705326ebcf6f53da2bc&v=4" width="24" alt="Avatar of IrvM0245"> IrvM0245
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IrvM0245">Copy rank badge</a><br/>
+			Irving Mariscal
+		</td>
+		<td>Tcs </td>
+		<td>No Twitter Username</td>
+		<td>La paz, Baja California Sur.</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/grovertabu">
+				<img src="https://avatars.githubusercontent.com/u/43526964?s=72&u=9c0bd38dfb193bb9e207448f156a3a0314a83869&v=4" width="24" alt="Avatar of grovertabu"> grovertabu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#grovertabu">Copy rank badge</a><br/>
+			Grover Taboada Rodas
+		</td>
+		<td>Escuela De Negocios Esam<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sucre </td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/jpidelatorre">
+				<img src="https://avatars.githubusercontent.com/u/104569?s=72&v=4" width="24" alt="Avatar of jpidelatorre"> jpidelatorre
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jpidelatorre">Copy rank badge</a><br/>
+			Juan Pablo de la Torre
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9129,46 +9077,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>691</td>
 		<td>
-			<a href="https://github.com/CarlosFULLHD">
-				<img src="https://avatars.githubusercontent.com/u/119177486?s=72&u=d0186372de489e441de5b5d05f9ff52321c6f54e&v=4" width="24" alt="Avatar of CarlosFULLHD"> CarlosFULLHD
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#CarlosFULLHD">Copy rank badge</a><br/>
-			Carlos Nina Reynaga
+			<a href="https://github.com/ferrux29">
+				<img src="https://avatars.githubusercontent.com/u/61064914?s=72&u=888d5ca9777e1ae61f162bdf7b4c0b494b3bbcc6&v=4" width="24" alt="Avatar of ferrux29"> ferrux29
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ferrux29">Copy rank badge</a><br/>
+			Sebastian Ferrufino
 		</td>
-		<td>Indasoge Spa </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>696</td>
-		<td>
-			<a href="https://github.com/erikvelarde">
-				<img src="https://avatars.githubusercontent.com/u/78813256?s=72&v=4" width="24" alt="Avatar of erikvelarde"> erikvelarde
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#erikvelarde">Copy rank badge</a><br/>
-			F. Erick Velarde Silva
-		</td>
-		<td>Vetsoft </td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>697</td>
-		<td>
-			<a href="https://github.com/garysan">
-				<img src="https://avatars.githubusercontent.com/u/211511?s=72&u=edfca8a16b56021961f8031387326874e84cdbd0&v=4" width="24" alt="Avatar of garysan"> garysan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#garysan">Copy rank badge</a><br/>
-			Gary Ariel Sandi Vigabriel
-		</td>
-		<td>Sandi-ti.com </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>698</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/rasrules">
 				<img src="https://avatars.githubusercontent.com/u/20568831?s=72&u=a843e91fea7ff50d2becda88a0e7bc05db4d42b7&v=4" width="24" alt="Avatar of rasrules"> rasrules
@@ -9181,33 +9103,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>693</td>
 		<td>
-			<a href="https://github.com/joshlive77">
-				<img src="https://avatars.githubusercontent.com/u/14322154?s=72&u=531194920a64393ff36273f7797c69271b9e1963&v=4" width="24" alt="Avatar of joshlive77"> joshlive77
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#joshlive77">Copy rank badge</a><br/>
-			Su_Do
+			<a href="https://github.com/bpdarlyn">
+				<img src="https://avatars.githubusercontent.com/u/13193490?s=72&u=5d9f24adadf9229fdbc823c7d37be8b2f685668d&v=4" width="24" alt="Avatar of bpdarlyn"> bpdarlyn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#bpdarlyn">Copy rank badge</a><br/>
+			darlyn
 		</td>
-		<td>No Company</td>
+		<td>Qubytesoft S.r.l </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>694</td>
 		<td>
-			<a href="https://github.com/willyfc">
-				<img src="https://avatars.githubusercontent.com/u/833073?s=72&u=c14e8438641663e8a2793d43c714050c868c82e8&v=4" width="24" alt="Avatar of willyfc"> willyfc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#willyfc">Copy rank badge</a><br/>
-			Willans Flores Casivanis
+			<a href="https://github.com/Pabdro">
+				<img src="https://avatars.githubusercontent.com/u/80706043?s=72&v=4" width="24" alt="Avatar of Pabdro"> Pabdro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Pabdro">Copy rank badge</a><br/>
+			Pablo Alejandro Badani Zambrana
 		</td>
-		<td>Mojo </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
+		<td>La Paz - Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/mundacho">
 				<img src="https://avatars.githubusercontent.com/u/4747697?s=72&u=22e21d283637e501fb809c4d29524d57d4e85116&v=4" width="24" alt="Avatar of mundacho"> mundacho
@@ -9220,20 +9142,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>696</td>
 		<td>
-			<a href="https://github.com/IA-Programming">
-				<img src="https://avatars.githubusercontent.com/u/118508502?s=72&u=2c68f0eda3df492bca07940aebd3885d6e7463d8&v=4" width="24" alt="Avatar of IA-Programming"> IA-Programming
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#IA-Programming">Copy rank badge</a><br/>
-			AI_Programming
+			<a href="https://github.com/jpceci">
+				<img src="https://avatars.githubusercontent.com/u/85380442?s=72&u=5e64f1ba4c8941636d295b1a6881645aac29e10d&v=4" width="24" alt="Avatar of jpceci"> jpceci
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jpceci">Copy rank badge</a><br/>
+			Cecilia Justiniano Pessoa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/jcca">
 				<img src="https://avatars.githubusercontent.com/u/1195729?s=72&u=3da3b4ba9a908356a7142acd38860835816f20cc&v=4" width="24" alt="Avatar of jcca"> jcca
@@ -9246,20 +9168,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>698</td>
 		<td>
-			<a href="https://github.com/jvillcavillegas">
-				<img src="https://avatars.githubusercontent.com/u/82187040?s=72&u=a3220d59700106d059ac84ac9590e4effeb0f8c4&v=4" width="24" alt="Avatar of jvillcavillegas"> jvillcavillegas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jvillcavillegas">Copy rank badge</a><br/>
-			Jose Luis Villca Villegas
+			<a href="https://github.com/willyfc">
+				<img src="https://avatars.githubusercontent.com/u/833073?s=72&u=c14e8438641663e8a2793d43c714050c868c82e8&v=4" width="24" alt="Avatar of willyfc"> willyfc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#willyfc">Copy rank badge</a><br/>
+			Willans Flores Casivanis
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jvillcavillegas">jvillcavillegas</a></td>
-		<td>Bolivia</td>
+		<td>Mojo </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/juankprz">
 				<img src="https://avatars.githubusercontent.com/u/3914902?s=72&u=655f1a5945b1167a4570ec12ae7fd464eeb2574a&v=4" width="24" alt="Avatar of juankprz"> juankprz
@@ -9272,7 +9194,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/KatzuneStarky">
 				<img src="https://avatars.githubusercontent.com/u/79546969?s=72&u=d8213f2cb30dbfad7ea1eb64227ae99e03c33534&v=4" width="24" alt="Avatar of KatzuneStarky"> KatzuneStarky
@@ -9285,7 +9207,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/ronalgg">
+				<img src="https://avatars.githubusercontent.com/u/17093569?s=72&u=978470c11ff8d0e6c898703166540a6c7bc3a336&v=4" width="24" alt="Avatar of ronalgg"> ronalgg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ronalgg">Copy rank badge</a><br/>
+			Ronal Guerrero
+		</td>
+		<td>Jg </td>
+		<td>No Twitter Username</td>
+		<td>Tairja, Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/maurirosas">
+				<img src="https://avatars.githubusercontent.com/u/106721088?s=72&u=2ddbebc34cd26bc5989c6aa63bbb71b5f8b99829&v=4" width="24" alt="Avatar of maurirosas"> maurirosas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#maurirosas">Copy rank badge</a><br/>
+			Mauricio Rosas Velasquez
+		</td>
+		<td>Universidad Católica Boliviana </td>
+		<td>No Twitter Username</td>
+		<td>Tarija, Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/nor-mn">
+				<img src="https://avatars.githubusercontent.com/u/44355107?s=72&u=e783e91f5aa3a299e7a23b36ce8daad10dfbb325&v=4" width="24" alt="Avatar of nor-mn"> nor-mn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nor-mn">Copy rank badge</a><br/>
+			Noelia Martínez
+		</td>
+		<td>Epicness For Everyone </td>
+		<td><a href="https://twitter.com/nor_mmn">nor_mmn</a></td>
+		<td>La Paz - Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/Juanmla">
 				<img src="https://avatars.githubusercontent.com/u/59983504?s=72&u=2004ed70f4c998a3f408642c3a3d12af601d1440&v=4" width="24" alt="Avatar of Juanmla"> Juanmla
@@ -9298,7 +9259,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/crisloma">
+				<img src="https://avatars.githubusercontent.com/u/2893212?s=72&u=988f743587ae61ae1680aa796f030df00899aec0&v=4" width="24" alt="Avatar of crisloma"> crisloma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#crisloma">Copy rank badge</a><br/>
+			Cristina Loma
+		</td>
+		<td>Digitalboost </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/pablocyc">
 				<img src="https://avatars.githubusercontent.com/u/29672486?s=72&u=e890316d95e89e850fb24e5007743f9ffcae9b01&v=4" width="24" alt="Avatar of pablocyc"> pablocyc
@@ -9311,59 +9285,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>709</td>
-		<td>
-			<a href="https://github.com/LuYaSC">
-				<img src="https://avatars.githubusercontent.com/u/16929730?s=72&u=fb3bdb98c5ba78ecb5243a7bc45b3d7d659b4131&v=4" width="24" alt="Avatar of LuYaSC"> LuYaSC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuYaSC">Copy rank badge</a><br/>
-			Luis Jose Jimenez Peña
-		</td>
-		<td>Nexion Srl </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>710</td>
-		<td>
-			<a href="https://github.com/edwinmrb">
-				<img src="https://avatars.githubusercontent.com/u/16000039?s=72&u=4bb9635d3a3506a1d143d9d644582389cb2f2510&v=4" width="24" alt="Avatar of edwinmrb"> edwinmrb
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#edwinmrb">Copy rank badge</a><br/>
-			Edwin Bustamante Rodriguez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba-Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>711</td>
-		<td>
-			<a href="https://github.com/synapsido">
-				<img src="https://avatars.githubusercontent.com/u/20001957?s=72&u=9503c0f345ebbf4b314e97a3bc8b93044f94aa45&v=4" width="24" alt="Avatar of synapsido"> synapsido
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#synapsido">Copy rank badge</a><br/>
-			Mau
-		</td>
-		<td>Msl Group </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
-			<a href="https://github.com/fernandoVicentei">
-				<img src="https://avatars.githubusercontent.com/u/63516609?s=72&u=42a3b0ede824324ab4f5ad7aeb33bf16253ba0c4&v=4" width="24" alt="Avatar of fernandoVicentei"> fernandoVicentei
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#fernandoVicentei">Copy rank badge</a><br/>
-			Fernando Vicente
-		</td>
-		<td>Liammayne12@gmail.co </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>713</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/marcos-x86">
 				<img src="https://avatars.githubusercontent.com/u/12157902?s=72&u=1c160ddc5d1315a18a4c828a307d19d5f75301fc&v=4" width="24" alt="Avatar of marcos-x86"> marcos-x86
@@ -9376,20 +9298,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>708</td>
 		<td>
-			<a href="https://github.com/AlexanderASH">
-				<img src="https://avatars.githubusercontent.com/u/50622774?s=72&u=af83b268599c6588ea5ebf072e8b8f7d153c3e6e&v=4" width="24" alt="Avatar of AlexanderASH"> AlexanderASH
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#AlexanderASH">Copy rank badge</a><br/>
-			Alexander Sanchez
+			<a href="https://github.com/charlie00788">
+				<img src="https://avatars.githubusercontent.com/u/9145034?s=72&v=4" width="24" alt="Avatar of charlie00788"> charlie00788
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#charlie00788">Copy rank badge</a><br/>
+			Charlie Seoane
 		</td>
-		<td>Uagrm </td>
+		<td>Seosoft </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia, Santa Cruz</td>
+		<td>Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/ggarron">
+				<img src="https://avatars.githubusercontent.com/u/902169?s=72&v=4" width="24" alt="Avatar of ggarron"> ggarron
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ggarron">Copy rank badge</a><br/>
+			Guillermo Garron
+		</td>
+		<td>Go2linux </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/huascarmm">
+				<img src="https://avatars.githubusercontent.com/u/3494996?s=72&u=4d3c3517d91b71fa4bc27d19c9bf924714417e2e&v=4" width="24" alt="Avatar of huascarmm"> huascarmm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#huascarmm">Copy rank badge</a><br/>
+			Huascar Miranda Martínez
+		</td>
+		<td>Blockchainconsultora </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
+			<a href="https://github.com/boriscy">
+				<img src="https://avatars.githubusercontent.com/u/38298?s=72&u=5541ee9432a3aaa19c464ad046538eb068f7f7db&v=4" width="24" alt="Avatar of boriscy"> boriscy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#boriscy">Copy rank badge</a><br/>
+			Boris Barroso
+		</td>
+		<td>Lead With Purpose </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/coralidiana">
 				<img src="https://avatars.githubusercontent.com/u/49656111?s=72&u=1f1d8bee9d36062332d6952504515d7bc1f6e27a&v=4" width="24" alt="Avatar of coralidiana"> coralidiana
@@ -9402,20 +9363,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>716</td>
-		<td>
-			<a href="https://github.com/jzunigarce">
-				<img src="https://avatars.githubusercontent.com/u/722001?s=72&u=0aaa267362862a730fdeaf50956b6d2c6331a4c8&v=4" width="24" alt="Avatar of jzunigarce"> jzunigarce
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jzunigarce">Copy rank badge</a><br/>
-			Jesús Antonio Zúñiga Arce
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jzunigarce">jzunigarce</a></td>
-		<td>La Paz, BCS, México</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>717</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/alemurillo104">
 				<img src="https://avatars.githubusercontent.com/u/50039249?s=72&u=ba8c2b2ecfba7af039fea974e866a8502862afaa&v=4" width="24" alt="Avatar of alemurillo104"> alemurillo104
@@ -9428,7 +9376,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/jzunigarce">
+				<img src="https://avatars.githubusercontent.com/u/722001?s=72&u=0aaa267362862a730fdeaf50956b6d2c6331a4c8&v=4" width="24" alt="Avatar of jzunigarce"> jzunigarce
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jzunigarce">Copy rank badge</a><br/>
+			Jesús Antonio Zúñiga Arce
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jzunigarce">jzunigarce</a></td>
+		<td>La Paz, BCS, México</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/imer1319">
 				<img src="https://avatars.githubusercontent.com/u/42623084?s=72&v=4" width="24" alt="Avatar of imer1319"> imer1319
@@ -9441,20 +9402,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>719</td>
-		<td>
-			<a href="https://github.com/nomadesoft">
-				<img src="https://avatars.githubusercontent.com/u/4915538?s=72&u=15c9f67eeb76744997b5a0bd41450c2a6d045742&v=4" width="24" alt="Avatar of nomadesoft"> nomadesoft
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nomadesoft">Copy rank badge</a><br/>
-			Jesus Farfan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>720</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/elroir">
 				<img src="https://avatars.githubusercontent.com/u/55668932?s=72&v=4" width="24" alt="Avatar of elroir"> elroir
@@ -9467,7 +9415,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/nomadesoft">
+				<img src="https://avatars.githubusercontent.com/u/4915538?s=72&u=15c9f67eeb76744997b5a0bd41450c2a6d045742&v=4" width="24" alt="Avatar of nomadesoft"> nomadesoft
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#nomadesoft">Copy rank badge</a><br/>
+			Jesus Farfan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/OryxonDev">
 				<img src="https://avatars.githubusercontent.com/u/37677237?s=72&u=f97fc6c967e7aece73e5d4aee0994181e9c07ecf&v=4" width="24" alt="Avatar of OryxonDev"> OryxonDev
@@ -9480,7 +9441,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/vicsanjinez">
 				<img src="https://avatars.githubusercontent.com/u/8229470?s=72&u=ef2b2434d42ab148f0b99d82a3b3855d0d5b3d4f&v=4" width="24" alt="Avatar of vicsanjinez"> vicsanjinez
@@ -9493,46 +9454,20 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>720</td>
 		<td>
-			<a href="https://github.com/ferrux29">
-				<img src="https://avatars.githubusercontent.com/u/61064914?s=72&u=888d5ca9777e1ae61f162bdf7b4c0b494b3bbcc6&v=4" width="24" alt="Avatar of ferrux29"> ferrux29
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#ferrux29">Copy rank badge</a><br/>
-			Sebastian Ferrufino
+			<a href="https://github.com/garysan">
+				<img src="https://avatars.githubusercontent.com/u/211511?s=72&u=edfca8a16b56021961f8031387326874e84cdbd0&v=4" width="24" alt="Avatar of garysan"> garysan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#garysan">Copy rank badge</a><br/>
+			Gary Ariel Sandi Vigabriel
 		</td>
-		<td>No Company</td>
+		<td>Sandi-ti.com </td>
 		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
+		<td>Bolivia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>724</td>
-		<td>
-			<a href="https://github.com/almartinch">
-				<img src="https://avatars.githubusercontent.com/u/10336825?s=72&u=2bca5d075f34aad7e0ecb080b96fbab11b2616d6&v=4" width="24" alt="Avatar of almartinch"> almartinch
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#almartinch">Copy rank badge</a><br/>
-			Martin Callejas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lipari, La Paz, Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/jaiko92">
-				<img src="https://avatars.githubusercontent.com/u/14111379?s=72&u=ef8b631456f4e25481d231cb8b41d9cf2fea3c55&v=4" width="24" alt="Avatar of jaiko92"> jaiko92
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#jaiko92">Copy rank badge</a><br/>
-			Rodrigo Raul Montero Acosta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>la santisima trinidad bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>726</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/mqJose">
 				<img src="https://avatars.githubusercontent.com/u/1795243?s=72&u=9630b67406e6116a2c43b0339d174c561a631430&v=4" width="24" alt="Avatar of mqJose"> mqJose
@@ -9545,59 +9480,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>727</td>
-		<td>
-			<a href="https://github.com/gramscih">
-				<img src="https://avatars.githubusercontent.com/u/5256669?s=72&u=0ae610e25f344f6eba2c43c13e7bd45606329d4f&v=4" width="24" alt="Avatar of gramscih"> gramscih
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gramscih">Copy rank badge</a><br/>
-			Gramsci
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>728</td>
-		<td>
-			<a href="https://github.com/amiguelalvarez">
-				<img src="https://avatars.githubusercontent.com/u/138636776?s=72&u=07b7abd11c332688264c49bd50a8e872a8586f0f&v=4" width="24" alt="Avatar of amiguelalvarez"> amiguelalvarez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#amiguelalvarez">Copy rank badge</a><br/>
-			Miguel Alvarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>729</td>
-		<td>
-			<a href="https://github.com/Disenandowebs">
-				<img src="https://avatars.githubusercontent.com/u/41397439?s=72&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width="24" alt="Avatar of Disenandowebs"> Disenandowebs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Disenandowebs">Copy rank badge</a><br/>
-			Developer
-		</td>
-		<td>Disenandowebs </td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>730</td>
-		<td>
-			<a href="https://github.com/FlorencioQuelca">
-				<img src="https://avatars.githubusercontent.com/u/54711776?s=72&u=262bcbadb9f44b79f6b263787e6ecea17f061daa&v=4" width="24" alt="Avatar of FlorencioQuelca"> FlorencioQuelca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FlorencioQuelca">Copy rank badge</a><br/>
-			Florencio Quelca
-		</td>
-		<td>Fps La Paz </td>
-		<td><a href="https://twitter.com/florencioQuelca">florencioQuelca</a></td>
-		<td>Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>731</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/mkantonio">
 				<img src="https://avatars.githubusercontent.com/u/39425186?s=72&v=4" width="24" alt="Avatar of mkantonio"> mkantonio
@@ -9610,7 +9493,46 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>723</td>
+		<td>
+			<a href="https://github.com/gramscih">
+				<img src="https://avatars.githubusercontent.com/u/5256669?s=72&u=0ae610e25f344f6eba2c43c13e7bd45606329d4f&v=4" width="24" alt="Avatar of gramscih"> gramscih
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#gramscih">Copy rank badge</a><br/>
+			Gramsci
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/Disenandowebs">
+				<img src="https://avatars.githubusercontent.com/u/41397439?s=72&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width="24" alt="Avatar of Disenandowebs"> Disenandowebs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Disenandowebs">Copy rank badge</a><br/>
+			Developer
+		</td>
+		<td>Disenandowebs </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/JoseOlin">
+				<img src="https://avatars.githubusercontent.com/u/6277774?s=72&u=8aa3c1b84d59606a0062c8be1d726ac7449b71e5&v=4" width="24" alt="Avatar of JoseOlin"> JoseOlin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#JoseOlin">Copy rank badge</a><br/>
+			José Luis G. Torres
+		</td>
+		<td>Autonomia Olin </td>
+		<td>No Twitter Username</td>
+		<td>La Paz, México</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/jcanaviri42">
 				<img src="https://avatars.githubusercontent.com/u/31946002?s=72&u=2ff542b5a5383a282b25ef8067f86eb86f8f9b4a&v=4" width="24" alt="Avatar of jcanaviri42"> jcanaviri42
@@ -9623,7 +9545,59 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>727</td>
+		<td>
+			<a href="https://github.com/Chuch3x">
+				<img src="https://avatars.githubusercontent.com/u/112001425?s=72&v=4" width="24" alt="Avatar of Chuch3x"> Chuch3x
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#Chuch3x">Copy rank badge</a><br/>
+			César Augusto Méndez Camacho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/juanpablo-nunez">
+				<img src="https://avatars.githubusercontent.com/u/50757995?s=72&u=01de75807a6cc513a01979c04a8db2d156e38ca7&v=4" width="24" alt="Avatar of juanpablo-nunez"> juanpablo-nunez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#juanpablo-nunez">Copy rank badge</a><br/>
+			Juan Pablo Nuñéz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia-Santa Cruz</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/amiguelalvarez">
+				<img src="https://avatars.githubusercontent.com/u/138636776?s=72&u=07b7abd11c332688264c49bd50a8e872a8586f0f&v=4" width="24" alt="Avatar of amiguelalvarez"> amiguelalvarez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#amiguelalvarez">Copy rank badge</a><br/>
+			Miguel Alvarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/mcoria08">
+				<img src="https://avatars.githubusercontent.com/u/6056274?s=72&u=cd3fc0ee1c59e2d3cb5f45021d6b60905b118c9a&v=4" width="24" alt="Avatar of mcoria08"> mcoria08
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#mcoria08">Copy rank badge</a><br/>
+			Miguel Coria
+		</td>
+		<td>Pixeles Web - Soluciones<br/>Creativas<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz, B.C.S.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/sakoke">
 				<img src="https://avatars.githubusercontent.com/u/141934653?s=72&u=dbf8a3c44bfff6eb4f410eb6c3c21bd1ddbe1c36&v=4" width="24" alt="Avatar of sakoke"> sakoke
@@ -9636,20 +9610,33 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>732</td>
 		<td>
-			<a href="https://github.com/LIALO">
-				<img src="https://avatars.githubusercontent.com/u/8611475?s=72&v=4" width="24" alt="Avatar of LIALO"> LIALO
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LIALO">Copy rank badge</a><br/>
-			Jesús Grande
+			<a href="https://github.com/LuYaSC">
+				<img src="https://avatars.githubusercontent.com/u/16929730?s=72&u=fb3bdb98c5ba78ecb5243a7bc45b3d7d659b4131&v=4" width="24" alt="Avatar of LuYaSC"> LuYaSC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#LuYaSC">Copy rank badge</a><br/>
+			Luis Jose Jimenez Peña
 		</td>
-		<td>Palo Verde </td>
+		<td>Nexion Srl </td>
 		<td>No Twitter Username</td>
-		<td>La Paz</td>
+		<td>La Paz, Bolivia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>733</td>
+		<td>
+			<a href="https://github.com/FlorencioQuelca">
+				<img src="https://avatars.githubusercontent.com/u/54711776?s=72&u=262bcbadb9f44b79f6b263787e6ecea17f061daa&v=4" width="24" alt="Avatar of FlorencioQuelca"> FlorencioQuelca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#FlorencioQuelca">Copy rank badge</a><br/>
+			Florencio Quelca
+		</td>
+		<td>Fps La Paz </td>
+		<td><a href="https://twitter.com/florencioQuelca">florencioQuelca</a></td>
+		<td>Bolivia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/loboaveces">
 				<img src="https://avatars.githubusercontent.com/u/84980330?s=72&u=62dc54015b4b1eef20a2e84b7ae7ee6beac44df9&v=4" width="24" alt="Avatar of loboaveces"> loboaveces
@@ -9662,7 +9649,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/jamerbi">
 				<img src="https://avatars.githubusercontent.com/u/13470756?s=72&v=4" width="24" alt="Avatar of jamerbi"> jamerbi
@@ -9675,7 +9662,7 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/ivancho98">
 				<img src="https://avatars.githubusercontent.com/u/2394522?s=72&u=70e4ae857fe261e9dc325236a630cb970a28e707&v=4" width="24" alt="Avatar of ivancho98"> ivancho98
@@ -9685,19 +9672,6 @@ There are `972 users`  in Bolivia. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz,Bolivia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
-			<a href="https://github.com/charlie00788">
-				<img src="https://avatars.githubusercontent.com/u/9145034?s=72&v=4" width="24" alt="Avatar of charlie00788"> charlie00788
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/bolivia.md#charlie00788">Copy rank badge</a><br/>
-			Charlie Seoane
-		</td>
-		<td>Seosoft </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
 		<td>1</td>
 	</tr>
 </table>
