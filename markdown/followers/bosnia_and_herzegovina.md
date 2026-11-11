@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2026/10/13 3:43 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2026/11/11 10:55 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
+There are `36 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>227</td>
+		<td>228</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,23 +128,10 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
 		<td>Sarajevo</td>
-		<td>28</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>
-			<a href="https://github.com/arminimamovic99">
-				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=37ee678ae70ac03c4ea8b483710e7198671efd99&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
-			</a><br/>
-			Armin Imamovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>4</td>
 		<td>
 			<a href="https://github.com/pandzicivan">
 				<img src="https://avatars.githubusercontent.com/u/13085426?s=72&u=154fa773e18d1d9b56dfd7af5510e9fd4e15ba88&v=4" width="24" alt="Avatar of pandzicivan"> pandzicivan
@@ -155,6 +142,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
 		<td>16</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/arminimamovic99">
+				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=37ee678ae70ac03c4ea8b483710e7198671efd99&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
+			</a><br/>
+			Armin Imamovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica, Bosnia and Herzegovina</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -206,7 +206,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zenica,Bosnia & Herzegovina</td>
-		<td>8</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -276,19 +276,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/nedim-basic">
-				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
-			</a><br/>
-			NedimBašić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia & Herzegovina</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/nejramustagrudic">
 				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
 			</a><br/>
@@ -297,6 +284,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/nedim-basic">
+				<img src="https://avatars.githubusercontent.com/u/117400053?s=72&v=4" width="24" alt="Avatar of nedim-basic"> nedim-basic
+			</a><br/>
+			NedimBašić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica, Bosnia & Herzegovina</td>
 		<td>2</td>
 	</tr>
 	<tr>
