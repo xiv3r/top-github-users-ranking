@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatia">
 </a>
 
-The `public contributions` by users in Croatia on `2026/10/16 7:35 AM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
+The `public contributions` by users in Croatia on `2026/11/16 3:08 AM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
-There are `961 users`  in Croatia. You need at least `13 followers` to be on this list.
+There are `960 users`  in Croatia. You need at least `12 followers` to be on this list.
 
 🏅 Looking for a shareable ranking badge? Visit the [Croatia GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
@@ -109,15 +109,15 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/stepanic">
-				<img src="https://avatars.githubusercontent.com/u/315282?s=72&u=1eb01ff06baa307b48200d456fa62ed19cfc3cce&v=4" width="24" alt="Avatar of stepanic"> stepanic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stepanic">Copy rank badge</a><br/>
-			Matija Stepanic
+			<a href="https://github.com/ivicac">
+				<img src="https://avatars.githubusercontent.com/u/969971?s=72&v=4" width="24" alt="Avatar of ivicac"> ivicac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivicac">Copy rank badge</a><br/>
+			Ivica Čardić
 		</td>
-		<td>Italk Ltd. </td>
+		<td>Liferay Inc. </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>41212</td>
+		<td>Zagreb</td>
+		<td>10464</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,10 +130,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Https://enterwell.ne </td>
 		<td><a href="https://twitter.com/AleksandarDev">AleksandarDev</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>8874</td>
+		<td>10365</td>
 	</tr>
 	<tr>
 		<td>3</td>
+		<td>
+			<a href="https://github.com/lovrozagar">
+				<img src="https://avatars.githubusercontent.com/u/86857639?s=72&u=fb63a6b055a54b521c59ce60441867758af2f086&v=4" width="24" alt="Avatar of lovrozagar"> lovrozagar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lovrozagar">Copy rank badge</a><br/>
+			Lovro Zagar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lovrozagar">lovrozagar</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>8682</td>
+	</tr>
+	<tr>
+		<td>4</td>
 		<td>
 			<a href="https://github.com/mkn8rn">
 				<img src="https://avatars.githubusercontent.com/u/151679182?s=72&v=4" width="24" alt="Avatar of mkn8rn"> mkn8rn
@@ -143,49 +156,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Obrt Mkn8rn, Vl. Marko<br/>Kopričanec<br/></td>
 		<td>No Twitter Username</td>
 		<td>Križevci, Croatia</td>
-		<td>6516</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
-			<a href="https://github.com/nibzard">
-				<img src="https://avatars.githubusercontent.com/u/6250945?s=72&u=3799eecbe5b9a807d776cae429684fa38d4bb014&v=4" width="24" alt="Avatar of nibzard"> nibzard
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nibzard">Copy rank badge</a><br/>
-			Nikola Balic
-		</td>
-		<td>@disequi </td>
-		<td><a href="https://twitter.com/nibzard">nibzard</a></td>
-		<td>Split, Croatia</td>
-		<td>6286</td>
+		<td>7431</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>
-			<a href="https://github.com/ivicac">
-				<img src="https://avatars.githubusercontent.com/u/969971?s=72&v=4" width="24" alt="Avatar of ivicac"> ivicac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivicac">Copy rank badge</a><br/>
-			Ivica Čardić
-		</td>
-		<td>Liferay Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>5990</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/ivanmeler">
-				<img src="https://avatars.githubusercontent.com/u/4472273?s=72&u=b552b1c871070b727d309fd5a51b0715fd0d204e&v=4" width="24" alt="Avatar of ivanmeler"> ivanmeler
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanmeler">Copy rank badge</a><br/>
-			Ivan Meler
-		</td>
-		<td>Meler Media Group </td>
-		<td><a href="https://twitter.com/ivan_meler">ivan_meler</a></td>
-		<td>Croatia, Vukovar</td>
-		<td>5766</td>
-	</tr>
-	<tr>
-		<td>7</td>
 		<td>
 			<a href="https://github.com/chefsale">
 				<img src="https://avatars.githubusercontent.com/u/3193842?s=72&u=f62b0e809968e8073663a946b37ca2bd6004677f&v=4" width="24" alt="Avatar of chefsale"> chefsale
@@ -195,10 +169,49 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>5567</td>
+		<td>6660</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/nibzard">
+				<img src="https://avatars.githubusercontent.com/u/6250945?s=72&u=3799eecbe5b9a807d776cae429684fa38d4bb014&v=4" width="24" alt="Avatar of nibzard"> nibzard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nibzard">Copy rank badge</a><br/>
+			Nikola Balic
+		</td>
+		<td>@disequi </td>
+		<td><a href="https://twitter.com/nibzard">nibzard</a></td>
+		<td>Split, Croatia</td>
+		<td>5998</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/ivanmeler">
+				<img src="https://avatars.githubusercontent.com/u/4472273?s=72&u=b552b1c871070b727d309fd5a51b0715fd0d204e&v=4" width="24" alt="Avatar of ivanmeler"> ivanmeler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanmeler">Copy rank badge</a><br/>
+			Ivan Meler
+		</td>
+		<td>Meler Media Group </td>
+		<td><a href="https://twitter.com/ivan_meler">ivan_meler</a></td>
+		<td>Croatia, Vukovar</td>
+		<td>5909</td>
 	</tr>
 	<tr>
 		<td>8</td>
+		<td>
+			<a href="https://github.com/stepanic">
+				<img src="https://avatars.githubusercontent.com/u/315282?s=72&u=1eb01ff06baa307b48200d456fa62ed19cfc3cce&v=4" width="24" alt="Avatar of stepanic"> stepanic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stepanic">Copy rank badge</a><br/>
+			Matija Stepanic
+		</td>
+		<td>Italk Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5876</td>
+	</tr>
+	<tr>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/vladmandic">
 				<img src="https://avatars.githubusercontent.com/u/57876960?s=72&u=5d0c2c03561ff068d88bf3633a827540e23cadc1&v=4" width="24" alt="Avatar of vladmandic"> vladmandic
@@ -208,10 +221,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vmandic00">vmandic00</a></td>
 		<td>Miami, Florida / Rijeka, Croatia</td>
-		<td>4871</td>
+		<td>4647</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/Ino-Bagaric">
 				<img src="https://avatars.githubusercontent.com/u/16362368?s=72&v=4" width="24" alt="Avatar of Ino-Bagaric"> Ino-Bagaric
@@ -221,10 +234,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>4165</td>
+		<td>4540</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/ralfbecher">
 				<img src="https://avatars.githubusercontent.com/u/3512714?s=72&u=eb5ed5885b9d3d741f5f075c546789a5c3c44c9e&v=4" width="24" alt="Avatar of ralfbecher"> ralfbecher
@@ -234,10 +247,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Founder, Head Of R&d<br/></td>
 		<td><a href="https://twitter.com/irregularbi">irregularbi</a></td>
 		<td>Veli Lošinj, Croatia</td>
-		<td>3678</td>
+		<td>4134</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/davidabram">
 				<img src="https://avatars.githubusercontent.com/u/7620347?s=72&u=27503f434b488bcfa90e1e41284d89f41c09c9e1&v=4" width="24" alt="Avatar of davidabram"> davidabram
@@ -247,20 +260,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Crocoder.dev </td>
 		<td><a href="https://twitter.com/devabram">devabram</a></td>
 		<td>Croatia</td>
-		<td>3476</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/moljac">
-				<img src="https://avatars.githubusercontent.com/u/1768576?s=72&u=1636fbded5abadbfa9d2b134212ca5dd503e4a54&v=4" width="24" alt="Avatar of moljac"> moljac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#moljac">Copy rank badge</a><br/>
-			moljac
-		</td>
-		<td>Microsoft / Xamarin Inc.,<br/>Holisticware<br/></td>
-		<td><a href="https://twitter.com/moljacsharp">moljacsharp</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>3144</td>
+		<td>3631</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -273,10 +273,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Crystal Labs </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>2926</td>
+		<td>3571</td>
 	</tr>
 	<tr>
 		<td>14</td>
+		<td>
+			<a href="https://github.com/kstevica">
+				<img src="https://avatars.githubusercontent.com/u/5310628?s=72&u=edd54fe1a45dd7e0ff46d48f9c144e012b4e0830&v=4" width="24" alt="Avatar of kstevica"> kstevica
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kstevica">Copy rank badge</a><br/>
+			Stevica Kuharski
+		</td>
+		<td>Fil Rouge Capital </td>
+		<td><a href="https://twitter.com/kstevica">kstevica</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>3323</td>
+	</tr>
+	<tr>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/SeloSlav">
 				<img src="https://avatars.githubusercontent.com/u/8828948?s=72&u=0c29876b39f6920003ca0d5d6ffeb6dafe73f678&v=4" width="24" alt="Avatar of SeloSlav"> SeloSlav
@@ -284,38 +297,12 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 			Martin Erlic
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SeloSlav">SeloSlav</a></td>
+		<td><a href="https://twitter.com/MetalHorse233">MetalHorse233</a></td>
 		<td>Zagreb</td>
-		<td>2916</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/borisbabic">
-				<img src="https://avatars.githubusercontent.com/u/1743184?s=72&v=4" width="24" alt="Avatar of borisbabic"> borisbabic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#borisbabic">Copy rank badge</a><br/>
-			Boris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>2760</td>
+		<td>3052</td>
 	</tr>
 	<tr>
 		<td>16</td>
-		<td>
-			<a href="https://github.com/ipaleka">
-				<img src="https://avatars.githubusercontent.com/u/49662536?s=72&u=5e5649438909e98c10bfe6abf837f55f43f5ba89&v=4" width="24" alt="Avatar of ipaleka"> ipaleka
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ipaleka">Copy rank badge</a><br/>
-			Ivica Paleka
-		</td>
-		<td>Hopemeet.me </td>
-		<td>No Twitter Username</td>
-		<td>Zadar, Croatia</td>
-		<td>2656</td>
-	</tr>
-	<tr>
-		<td>17</td>
 		<td>
 			<a href="https://github.com/stamparm">
 				<img src="https://avatars.githubusercontent.com/u/921555?s=72&u=3cf0ec54c189c932d4c5bb575543cd5e497f92ad&v=4" width="24" alt="Avatar of stamparm"> stamparm
@@ -325,33 +312,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/stamparm">stamparm</a></td>
 		<td>Croatia</td>
-		<td>2586</td>
+		<td>2886</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/moljac">
+				<img src="https://avatars.githubusercontent.com/u/1768576?s=72&u=1636fbded5abadbfa9d2b134212ca5dd503e4a54&v=4" width="24" alt="Avatar of moljac"> moljac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#moljac">Copy rank badge</a><br/>
+			moljac
+		</td>
+		<td>Microsoft / Xamarin Inc.,<br/>Holisticware<br/></td>
+		<td><a href="https://twitter.com/moljacsharp">moljacsharp</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>2863</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/rkusan00">
-				<img src="https://avatars.githubusercontent.com/u/25183352?s=72&u=b39dbb748a55c95b91de1688e69603acfa873c8e&v=4" width="24" alt="Avatar of rkusan00"> rkusan00
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rkusan00">Copy rank badge</a><br/>
-			Renato Kusanović
+			<a href="https://github.com/darko-mijic">
+				<img src="https://avatars.githubusercontent.com/u/4280521?s=72&u=8296ff0a60ad632b09278862673272031d58261e&v=4" width="24" alt="Avatar of darko-mijic"> darko-mijic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#darko-mijic">Copy rank badge</a><br/>
+			Darko Mijić
 		</td>
-		<td>@extensionengine </td>
+		<td>Thespian D.o.o. </td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>2517</td>
+		<td>Zagreb</td>
+		<td>2799</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/brunozoric">
-				<img src="https://avatars.githubusercontent.com/u/10399339?s=72&u=983af48ef76eb81732846e5748e1fbe67357a9d6&v=4" width="24" alt="Avatar of brunozoric"> brunozoric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brunozoric">Copy rank badge</a><br/>
-			Bruno Zorić
+			<a href="https://github.com/izkreny">
+				<img src="https://avatars.githubusercontent.com/u/223124?s=72&u=22e4e398273af00583aac72800950e3733df60e5&v=4" width="24" alt="Avatar of izkreny"> izkreny
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#izkreny">Copy rank badge</a><br/>
+			Iskren
 		</td>
-		<td>Webiny </td>
-		<td><a href="https://twitter.com/snyder_hr">snyder_hr</a></td>
-		<td>Zagreb</td>
-		<td>2484</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>2795</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -364,62 +364,49 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Msm Programming </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>2457</td>
+		<td>2733</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/lovrozagar">
-				<img src="https://avatars.githubusercontent.com/u/86857639?s=72&v=4" width="24" alt="Avatar of lovrozagar"> lovrozagar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lovrozagar">Copy rank badge</a><br/>
-			Lovro Zagar
+			<a href="https://github.com/borisbabic">
+				<img src="https://avatars.githubusercontent.com/u/1743184?s=72&v=4" width="24" alt="Avatar of borisbabic"> borisbabic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#borisbabic">Copy rank badge</a><br/>
+			Boris
 		</td>
-		<td>Rearm.co </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>2393</td>
+		<td>2633</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/scharissis">
-				<img src="https://avatars.githubusercontent.com/u/376382?s=72&u=21da38bcf55ef6712398ef67e8c7d96096c4a045&v=4" width="24" alt="Avatar of scharissis"> scharissis
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#scharissis">Copy rank badge</a><br/>
-			Stefano Charissis
+			<a href="https://github.com/rkusan00">
+				<img src="https://avatars.githubusercontent.com/u/25183352?s=72&u=b39dbb748a55c95b91de1688e69603acfa873c8e&v=4" width="24" alt="Avatar of rkusan00"> rkusan00
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rkusan00">Copy rank badge</a><br/>
+			Renato Kusanović
 		</td>
-		<td>No Company</td>
+		<td>@extensionengine </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>2329</td>
+		<td>2601</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/infomiho">
-				<img src="https://avatars.githubusercontent.com/u/2223680?s=72&u=9a7ce86a35a25f17e18a8f4d74137d8ba171f85a&v=4" width="24" alt="Avatar of infomiho"> infomiho
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#infomiho">Copy rank badge</a><br/>
-			Mihovil Ilakovac
+			<a href="https://github.com/brunozoric">
+				<img src="https://avatars.githubusercontent.com/u/10399339?s=72&u=983af48ef76eb81732846e5748e1fbe67357a9d6&v=4" width="24" alt="Avatar of brunozoric"> brunozoric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brunozoric">Copy rank badge</a><br/>
+			Bruno Zorić
 		</td>
-		<td>Wasp </td>
-		<td><a href="https://twitter.com/infomiho">infomiho</a></td>
-		<td>Croatia</td>
-		<td>2273</td>
+		<td>Webiny </td>
+		<td><a href="https://twitter.com/snyder_hr">snyder_hr</a></td>
+		<td>Zagreb</td>
+		<td>2543</td>
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>
-			<a href="https://github.com/izkreny">
-				<img src="https://avatars.githubusercontent.com/u/223124?s=72&u=22e4e398273af00583aac72800950e3733df60e5&v=4" width="24" alt="Avatar of izkreny"> izkreny
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#izkreny">Copy rank badge</a><br/>
-			Iskren
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>2227</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/adrians5j">
 				<img src="https://avatars.githubusercontent.com/u/5121148?s=72&u=abd7ab96c017b6a7c7ef2c5c6b11900240d3355c&v=4" width="24" alt="Avatar of adrians5j"> adrians5j
@@ -429,88 +416,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Webiny </td>
 		<td><a href="https://twitter.com/adrians5j">adrians5j</a></td>
 		<td>Rijeka, Croatia</td>
-		<td>2132</td>
+		<td>2500</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/scharissis">
+				<img src="https://avatars.githubusercontent.com/u/376382?s=72&u=21da38bcf55ef6712398ef67e8c7d96096c4a045&v=4" width="24" alt="Avatar of scharissis"> scharissis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#scharissis">Copy rank badge</a><br/>
+			Stefano Charissis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>2277</td>
 	</tr>
 	<tr>
 		<td>26</td>
-		<td>
-			<a href="https://github.com/darko-mijic">
-				<img src="https://avatars.githubusercontent.com/u/4280521?s=72&u=8296ff0a60ad632b09278862673272031d58261e&v=4" width="24" alt="Avatar of darko-mijic"> darko-mijic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#darko-mijic">Copy rank badge</a><br/>
-			Darko Mijić
-		</td>
-		<td>Thespian D.o.o. </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>2039</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/Tiniifan">
-				<img src="https://avatars.githubusercontent.com/u/30804632?s=72&u=272a933013e1f91c2d1cb77c9fbbbe6778e5a203&v=4" width="24" alt="Avatar of Tiniifan"> Tiniifan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Tiniifan">Copy rank badge</a><br/>
-			Tinifan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1859</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/Shazbot">
-				<img src="https://avatars.githubusercontent.com/u/1927927?s=72&u=7b08b9ec0a7041ee2edce30178379695acf5d359&v=4" width="24" alt="Avatar of Shazbot"> Shazbot
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Shazbot">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1795</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/kstevica">
-				<img src="https://avatars.githubusercontent.com/u/5310628?s=72&u=edd54fe1a45dd7e0ff46d48f9c144e012b4e0830&v=4" width="24" alt="Avatar of kstevica"> kstevica
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kstevica">Copy rank badge</a><br/>
-			Stevica Kuharski
-		</td>
-		<td>Fil Rouge Capital </td>
-		<td><a href="https://twitter.com/kstevica">kstevica</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>1669</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/bgrgicak">
-				<img src="https://avatars.githubusercontent.com/u/1199991?s=72&u=b44576f2ddb406af2e67b338193be94bc72bab96&v=4" width="24" alt="Avatar of bgrgicak"> bgrgicak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bgrgicak">Copy rank badge</a><br/>
-			Bero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1618</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/monorkin">
-				<img src="https://avatars.githubusercontent.com/u/1655218?s=72&u=e159b7a9f5a2172e4e7e2aed6a9c69ee107b9144&v=4" width="24" alt="Avatar of monorkin"> monorkin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#monorkin">Copy rank badge</a><br/>
-			Stanko Krtalić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/monorkin">monorkin</a></td>
-		<td>Zagreb</td>
-		<td>1617</td>
-	</tr>
-	<tr>
-		<td>32</td>
 		<td>
 			<a href="https://github.com/jurajhilje">
 				<img src="https://avatars.githubusercontent.com/u/3176222?s=72&u=26ff0a354965f26e1aa67371af785bdcb29e6e2c&v=4" width="24" alt="Avatar of jurajhilje"> jurajhilje
@@ -520,101 +442,101 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Ivpn </td>
 		<td>No Twitter Username</td>
 		<td>Zadar, Croatia</td>
-		<td>1556</td>
+		<td>2144</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>27</td>
 		<td>
-			<a href="https://github.com/richardpl">
-				<img src="https://avatars.githubusercontent.com/u/469155?s=72&v=4" width="24" alt="Avatar of richardpl"> richardpl
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#richardpl">Copy rank badge</a><br/>
-			Paul B Mahol
+			<a href="https://github.com/Shazbot">
+				<img src="https://avatars.githubusercontent.com/u/1927927?s=72&u=7b08b9ec0a7041ee2edce30178379695acf5d359&v=4" width="24" alt="Avatar of Shazbot"> Shazbot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Shazbot">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>2005</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/infomiho">
+				<img src="https://avatars.githubusercontent.com/u/2223680?s=72&u=9a7ce86a35a25f17e18a8f4d74137d8ba171f85a&v=4" width="24" alt="Avatar of infomiho"> infomiho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#infomiho">Copy rank badge</a><br/>
+			Mihovil Ilakovac
+		</td>
+		<td>Wasp </td>
+		<td><a href="https://twitter.com/infomiho">infomiho</a></td>
+		<td>Croatia</td>
+		<td>1989</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/vburojevic">
+				<img src="https://avatars.githubusercontent.com/u/2234474?s=72&u=edee530e7bdf60f928b4a2aa6f58432bbc4b3ba4&v=4" width="24" alt="Avatar of vburojevic"> vburojevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vburojevic">Copy rank badge</a><br/>
+			Vedran Burojević
+		</td>
+		<td>Caffeinated Code </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>1970</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/Tiniifan">
+				<img src="https://avatars.githubusercontent.com/u/30804632?s=72&u=272a933013e1f91c2d1cb77c9fbbbe6778e5a203&v=4" width="24" alt="Avatar of Tiniifan"> Tiniifan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Tiniifan">Copy rank badge</a><br/>
+			Tinifan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>1550</td>
+		<td>1784</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/ipaleka">
+				<img src="https://avatars.githubusercontent.com/u/49662536?s=72&u=5e5649438909e98c10bfe6abf837f55f43f5ba89&v=4" width="24" alt="Avatar of ipaleka"> ipaleka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ipaleka">Copy rank badge</a><br/>
+			Ivica Paleka
+		</td>
+		<td>Hopemeet.me </td>
+		<td>No Twitter Username</td>
+		<td>Zadar, Croatia</td>
+		<td>1781</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/josippapez">
+				<img src="https://avatars.githubusercontent.com/u/37837991?s=72&u=b155e889355b3b9bee9c0e248739bcceb7767365&v=4" width="24" alt="Avatar of josippapez"> josippapez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#josippapez">Copy rank badge</a><br/>
+			Josip Papež
+		</td>
+		<td>Prototyp </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>1698</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/bgrgicak">
+				<img src="https://avatars.githubusercontent.com/u/1199991?s=72&u=b44576f2ddb406af2e67b338193be94bc72bab96&v=4" width="24" alt="Avatar of bgrgicak"> bgrgicak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bgrgicak">Copy rank badge</a><br/>
+			Bero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1667</td>
 	</tr>
 	<tr>
 		<td>34</td>
-		<td>
-			<a href="https://github.com/emodric">
-				<img src="https://avatars.githubusercontent.com/u/362286?s=72&v=4" width="24" alt="Avatar of emodric"> emodric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#emodric">Copy rank badge</a><br/>
-			Edi Modrić
-		</td>
-		<td>Netgen (@netgen) </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1511</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/stsrki">
-				<img src="https://avatars.githubusercontent.com/u/900302?s=72&u=f4636cdc6c3298725c49ded19c62df9a2134dd6d&v=4" width="24" alt="Avatar of stsrki"> stsrki
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stsrki">Copy rank badge</a><br/>
-			Mladen Macanović
-		</td>
-		<td>Megabit </td>
-		<td><a href="https://twitter.com/MladenMacanovic">MladenMacanovic</a></td>
-		<td>Split, Croatia</td>
-		<td>1412</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/brunotot">
-				<img src="https://avatars.githubusercontent.com/u/53398175?s=72&u=27d5bdbc7273e642959e8ed3f0c04220ebd5c1f0&v=4" width="24" alt="Avatar of brunotot"> brunotot
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brunotot">Copy rank badge</a><br/>
-			Bruno
-		</td>
-		<td>Rgo Communications </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1353</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/akoidan">
-				<img src="https://avatars.githubusercontent.com/u/1336703?s=72&u=9fab2f92738c667887662ff454a354ed845983eb&v=4" width="24" alt="Avatar of akoidan"> akoidan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akoidan">Copy rank badge</a><br/>
-			Andrew Koidan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rijeka</td>
-		<td>1345</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/dux">
-				<img src="https://avatars.githubusercontent.com/u/48320?s=72&u=f5105f2614344b9b60e7903c309bb77702512366&v=4" width="24" alt="Avatar of dux"> dux
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dux">Copy rank badge</a><br/>
-			Dino Reić
-		</td>
-		<td>Trifolium </td>
-		<td>No Twitter Username</td>
-		<td>London, Zagreb, Berlin</td>
-		<td>1333</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/sbarisic">
-				<img src="https://avatars.githubusercontent.com/u/3836060?s=72&u=0bef9de35dbf45249730687e00e74a7afcd23086&v=4" width="24" alt="Avatar of sbarisic"> sbarisic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sbarisic">Copy rank badge</a><br/>
-			Saša Barišić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bjelovar, Croatia</td>
-		<td>1316</td>
-	</tr>
-	<tr>
-		<td>40</td>
 		<td>
 			<a href="https://github.com/dkorunic">
 				<img src="https://avatars.githubusercontent.com/u/3041939?s=72&u=fe7796715028a7bc7a1a1d5951f50c13e1e3aba1&v=4" width="24" alt="Avatar of dkorunic"> dkorunic
@@ -624,23 +546,179 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Haproxy Technologies </td>
 		<td><a href="https://twitter.com/dkorunic">dkorunic</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>1307</td>
+		<td>1601</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/ivoras">
+				<img src="https://avatars.githubusercontent.com/u/2300424?s=72&v=4" width="24" alt="Avatar of ivoras"> ivoras
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivoras">Copy rank badge</a><br/>
+			Ivan Voras
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1570</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/monorkin">
+				<img src="https://avatars.githubusercontent.com/u/1655218?s=72&u=e159b7a9f5a2172e4e7e2aed6a9c69ee107b9144&v=4" width="24" alt="Avatar of monorkin"> monorkin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#monorkin">Copy rank badge</a><br/>
+			Stanko Krtalić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/monorkin">monorkin</a></td>
+		<td>Zagreb</td>
+		<td>1508</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/richardpl">
+				<img src="https://avatars.githubusercontent.com/u/469155?s=72&v=4" width="24" alt="Avatar of richardpl"> richardpl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#richardpl">Copy rank badge</a><br/>
+			Paul B Mahol
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1478</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/Ninjacornix">
+				<img src="https://avatars.githubusercontent.com/u/38979327?s=72&u=c079b2f8b2fc1d2e9a14c01add177d7a5b4a15fc&v=4" width="24" alt="Avatar of Ninjacornix"> Ninjacornix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ninjacornix">Copy rank badge</a><br/>
+			Ninjacornix
+		</td>
+		<td>Rimac Technology </td>
+		<td>No Twitter Username</td>
+		<td>Čapljina-Zagreb</td>
+		<td>1464</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/dux">
+				<img src="https://avatars.githubusercontent.com/u/48320?s=72&u=f5105f2614344b9b60e7903c309bb77702512366&v=4" width="24" alt="Avatar of dux"> dux
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dux">Copy rank badge</a><br/>
+			Dino Reić
+		</td>
+		<td>Trifolium </td>
+		<td>No Twitter Username</td>
+		<td>London, Zagreb, Berlin</td>
+		<td>1409</td>
+	</tr>
+	<tr>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/matija">
-				<img src="https://avatars.githubusercontent.com/u/8150171?s=72&u=10ac8a9ccb0841449b282bed9baed14be7af9ffb&v=4" width="24" alt="Avatar of matija"> matija
+				<img src="https://avatars.githubusercontent.com/u/8150171?s=72&u=9e2521465c4484740f9ea806cb35a9cc08019e27&v=4" width="24" alt="Avatar of matija"> matija
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matija">Copy rank badge</a><br/>
 			Matija Munjaković
 		</td>
 		<td>@kodius @getunblock @tandokuco </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>1303</td>
+		<td>1390</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/emodric">
+				<img src="https://avatars.githubusercontent.com/u/362286?s=72&v=4" width="24" alt="Avatar of emodric"> emodric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#emodric">Copy rank badge</a><br/>
+			Edi Modrić
+		</td>
+		<td>Netgen (@netgen) </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>1385</td>
 	</tr>
 	<tr>
 		<td>42</td>
+		<td>
+			<a href="https://github.com/hrgdavor">
+				<img src="https://avatars.githubusercontent.com/u/2480762?s=72&v=4" width="24" alt="Avatar of hrgdavor"> hrgdavor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hrgdavor">Copy rank badge</a><br/>
+			Davor Hrg
+		</td>
+		<td>Rgo Communications </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1377</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/stsrki">
+				<img src="https://avatars.githubusercontent.com/u/900302?s=72&u=f4636cdc6c3298725c49ded19c62df9a2134dd6d&v=4" width="24" alt="Avatar of stsrki"> stsrki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stsrki">Copy rank badge</a><br/>
+			Mladen Macanović
+		</td>
+		<td>Megabit </td>
+		<td><a href="https://twitter.com/MladenMacanovic">MladenMacanovic</a></td>
+		<td>Split, Croatia</td>
+		<td>1375</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/underscope">
+				<img src="https://avatars.githubusercontent.com/u/6253820?s=72&u=0311bfb536736d7ffd9adc4d7cff0ec9e4d588d6&v=4" width="24" alt="Avatar of underscope"> underscope
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#underscope">Copy rank badge</a><br/>
+			Damir Perisic
+		</td>
+		<td>Studion </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1327</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/3alpha">
+				<img src="https://avatars.githubusercontent.com/u/15694175?s=72&u=ff4d22b5011fe7b5a4a6f3059b53341aa04cc7a0&v=4" width="24" alt="Avatar of 3alpha"> 3alpha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#3alpha">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1320</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/ianrumac">
+				<img src="https://avatars.githubusercontent.com/u/6658593?s=72&u=e697eb96ca3df4800bc35a31321ad4cf0f68a094&v=4" width="24" alt="Avatar of ianrumac"> ianrumac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ianrumac">Copy rank badge</a><br/>
+			Ian Rumac
+		</td>
+		<td>@superwall @hypen-lang  </td>
+		<td><a href="https://twitter.com/ianissoawesome">ianissoawesome</a></td>
+		<td>Zagreb</td>
+		<td>1308</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/akoidan">
+				<img src="https://avatars.githubusercontent.com/u/1336703?s=72&u=9fab2f92738c667887662ff454a354ed845983eb&v=4" width="24" alt="Avatar of akoidan"> akoidan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akoidan">Copy rank badge</a><br/>
+			Andrew Koidan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>1288</td>
+	</tr>
+	<tr>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/davorrunje">
 				<img src="https://avatars.githubusercontent.com/u/24715380?s=72&u=b1f4e29f5d976c2c88da377dffc3675ed5ea1a7f&v=4" width="24" alt="Avatar of davorrunje"> davorrunje
@@ -653,46 +731,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1273</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>49</td>
 		<td>
-			<a href="https://github.com/underscope">
-				<img src="https://avatars.githubusercontent.com/u/6253820?s=72&u=0311bfb536736d7ffd9adc4d7cff0ec9e4d588d6&v=4" width="24" alt="Avatar of underscope"> underscope
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#underscope">Copy rank badge</a><br/>
-			Damir Perisic
+			<a href="https://github.com/sbarisic">
+				<img src="https://avatars.githubusercontent.com/u/3836060?s=72&u=0bef9de35dbf45249730687e00e74a7afcd23086&v=4" width="24" alt="Avatar of sbarisic"> sbarisic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sbarisic">Copy rank badge</a><br/>
+			Saša Barišić
 		</td>
-		<td>Studion </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1247</td>
+		<td>Bjelovar, Croatia</td>
+		<td>1268</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>50</td>
 		<td>
-			<a href="https://github.com/tonyiboy">
-				<img src="https://avatars.githubusercontent.com/u/126675750?s=72&u=c8026f70925b7abe8174813be2534cb71d2ff08a&v=4" width="24" alt="Avatar of tonyiboy"> tonyiboy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonyiboy">Copy rank badge</a><br/>
-			Antonio
+			<a href="https://github.com/ivanlele">
+				<img src="https://avatars.githubusercontent.com/u/110336129?s=72&v=4" width="24" alt="Avatar of ivanlele"> ivanlele
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanlele">Copy rank badge</a><br/>
+			Ivan Lele
 		</td>
-		<td>100devs </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1232</td>
+		<td>Blockstream </td>
+		<td><a href="https://twitter.com/ivanlele402">ivanlele402</a></td>
+		<td>Croatia, Zagreb</td>
+		<td>1176</td>
 	</tr>
 	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/ianrumac">
-				<img src="https://avatars.githubusercontent.com/u/6658593?s=72&u=e697eb96ca3df4800bc35a31321ad4cf0f68a094&v=4" width="24" alt="Avatar of ianrumac"> ianrumac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ianrumac">Copy rank badge</a><br/>
-			Ian Rumac
-		</td>
-		<td>@superwall @hypen-lang  </td>
-		<td><a href="https://twitter.com/ianissoawesome">ianissoawesome</a></td>
-		<td>Zagreb</td>
-		<td>1182</td>
-	</tr>
-	<tr>
-		<td>46</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/ku5ic">
 				<img src="https://avatars.githubusercontent.com/u/697651?s=72&u=a205ab3f50c78fbcdfe59ad4858d38a91c4799e5&v=4" width="24" alt="Avatar of ku5ic"> ku5ic
@@ -702,10 +767,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Spacelift, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Rijeka, Croatia</td>
-		<td>1119</td>
+		<td>1174</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/PCrnjak">
+				<img src="https://avatars.githubusercontent.com/u/30388414?s=72&u=5198598efdf9363213d785fa628aba91c03413d5&v=4" width="24" alt="Avatar of PCrnjak"> PCrnjak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#PCrnjak">Copy rank badge</a><br/>
+			Source Robotics
+		</td>
+		<td>Source Robotics D.o.o. </td>
+		<td><a href="https://twitter.com/SourceRobotics">SourceRobotics</a></td>
+		<td>Croatia, Zagreb</td>
+		<td>1153</td>
+	</tr>
+	<tr>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/mkruselj">
 				<img src="https://avatars.githubusercontent.com/u/2393720?s=72&u=42da7e104a006626a434bde1683e76c0125385aa&v=4" width="24" alt="Avatar of mkruselj"> mkruselj
@@ -715,23 +793,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>1076</td>
+		<td>1116</td>
 	</tr>
 	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/hrgdavor">
-				<img src="https://avatars.githubusercontent.com/u/2480762?s=72&v=4" width="24" alt="Avatar of hrgdavor"> hrgdavor
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hrgdavor">Copy rank badge</a><br/>
-			Davor Hrg
-		</td>
-		<td>Rgo Communications </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1061</td>
-	</tr>
-	<tr>
-		<td>49</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/kresimir-coko">
 				<img src="https://avatars.githubusercontent.com/u/24564752?s=72&u=9366fa7e128c77493a4ea6e2e7661f245aea95b7&v=4" width="24" alt="Avatar of kresimir-coko"> kresimir-coko
@@ -741,153 +806,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@bytechefhq  </td>
 		<td><a href="https://twitter.com/kresimircoko">kresimircoko</a></td>
 		<td>Šibenik, Croatia</td>
-		<td>1052</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/zeljkofilipin">
-				<img src="https://avatars.githubusercontent.com/u/23927?s=72&v=4" width="24" alt="Avatar of zeljkofilipin"> zeljkofilipin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zeljkofilipin">Copy rank badge</a><br/>
-			Željko Filipin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1022</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/ivoras">
-				<img src="https://avatars.githubusercontent.com/u/2300424?s=72&v=4" width="24" alt="Avatar of ivoras"> ivoras
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivoras">Copy rank badge</a><br/>
-			Ivan Voras
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>963</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/3alpha">
-				<img src="https://avatars.githubusercontent.com/u/15694175?s=72&u=ff4d22b5011fe7b5a4a6f3059b53341aa04cc7a0&v=4" width="24" alt="Avatar of 3alpha"> 3alpha
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#3alpha">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>959</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/alaca">
-				<img src="https://avatars.githubusercontent.com/u/4222590?s=72&u=217fbe6bea58048a35a5133b8fca7f9e41333e2c&v=4" width="24" alt="Avatar of alaca"> alaca
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#alaca">Copy rank badge</a><br/>
-			Ante Laća
-		</td>
-		<td>@fueled </td>
-		<td>No Twitter Username</td>
-		<td>Vodice, Croatia</td>
-		<td>952</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/vuki656">
-				<img src="https://avatars.githubusercontent.com/u/8104698?s=72&u=6df8bb18afd3edcb0a9232d4b447733c0a943722&v=4" width="24" alt="Avatar of vuki656"> vuki656
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vuki656">Copy rank badge</a><br/>
-			Domagoj Vukovic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/domagoj_vkv">domagoj_vkv</a></td>
-		<td>Croatia</td>
-		<td>945</td>
+		<td>1087</td>
 	</tr>
 	<tr>
 		<td>55</td>
-		<td>
-			<a href="https://github.com/franFodor">
-				<img src="https://avatars.githubusercontent.com/u/49796718?s=72&u=bf0e2e967651d861d306be4ca86d160e8b2d1812&v=4" width="24" alt="Avatar of franFodor"> franFodor
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#franFodor">Copy rank badge</a><br/>
-			Fran Fodor
-		</td>
-		<td>@solderedelectronics </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>943</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/ASoldo">
-				<img src="https://avatars.githubusercontent.com/u/1175537?s=72&u=67c4bef8455fd0cf31f0eda068c6031d7aa85b6b&v=4" width="24" alt="Avatar of ASoldo"> ASoldo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ASoldo">Copy rank badge</a><br/>
-			Rootster
-		</td>
-		<td>Rootster </td>
-		<td><a href="https://twitter.com/RootsterAnon">RootsterAnon</a></td>
-		<td>Zagreb</td>
-		<td>934</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/as51340">
-				<img src="https://avatars.githubusercontent.com/u/53269502?s=72&u=4b3b7b21b46efed1d08910e92f4ce30f636bc21e&v=4" width="24" alt="Avatar of as51340"> as51340
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#as51340">Copy rank badge</a><br/>
-			Andi Skrgat
-		</td>
-		<td>@memgraph  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>917</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/framebassman">
-				<img src="https://avatars.githubusercontent.com/u/1880826?s=72&u=0d99a6a48393e5c7a5636313e106702663aa94bc&v=4" width="24" alt="Avatar of framebassman"> framebassman
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#framebassman">Copy rank badge</a><br/>
-			Dmitry Romashov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Frame_Bassman">Frame_Bassman</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>897</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/TypicalHog">
-				<img src="https://avatars.githubusercontent.com/u/11476902?s=72&u=b9366f8fea5fb17712259790489a4fac682bcc32&v=4" width="24" alt="Avatar of TypicalHog"> TypicalHog
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#TypicalHog">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TypicalHog">TypicalHog</a></td>
-		<td>Croatia</td>
-		<td>888</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/karlomikus">
-				<img src="https://avatars.githubusercontent.com/u/469393?s=72&u=4560c891f7ef3f0a9c78625fa054805dc7cefc9c&v=4" width="24" alt="Avatar of karlomikus"> karlomikus
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karlomikus">Copy rank badge</a><br/>
-			Karlo Mikus
-		</td>
-		<td>Dhimahi </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>878</td>
-	</tr>
-	<tr>
-		<td>61</td>
 		<td>
 			<a href="https://github.com/antejavor">
 				<img src="https://avatars.githubusercontent.com/u/18125448?s=72&u=75888e86b12e547480f13984f1d735bdc481fd55&v=4" width="24" alt="Avatar of antejavor"> antejavor
@@ -897,75 +819,75 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@memgraph  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia, Zagreb</td>
-		<td>871</td>
+		<td>1083</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>56</td>
 		<td>
-			<a href="https://github.com/razorblade23">
-				<img src="https://avatars.githubusercontent.com/u/81590614?s=72&u=3991f44a58451965cccfc99a53e0f6ea1aa79325&v=4" width="24" alt="Avatar of razorblade23"> razorblade23
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#razorblade23">Copy rank badge</a><br/>
-			razorblade23
+			<a href="https://github.com/dpluscec">
+				<img src="https://avatars.githubusercontent.com/u/7013497?s=72&u=63168da9a4402efc1355bc2e3bb3f20767853cf6&v=4" width="24" alt="Avatar of dpluscec"> dpluscec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dpluscec">Copy rank badge</a><br/>
+			Domagoj Pluscec
 		</td>
-		<td>No Company</td>
+		<td>@janeasystems  </td>
 		<td>No Twitter Username</td>
-		<td>Zadar, Croatia</td>
-		<td>834</td>
+		<td>Croatia</td>
+		<td>1053</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>57</td>
 		<td>
-			<a href="https://github.com/jbojcic1">
-				<img src="https://avatars.githubusercontent.com/u/10374826?s=72&v=4" width="24" alt="Avatar of jbojcic1"> jbojcic1
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jbojcic1">Copy rank badge</a><br/>
-			Josip Bojčić
+			<a href="https://github.com/framebassman">
+				<img src="https://avatars.githubusercontent.com/u/1880826?s=72&u=0d99a6a48393e5c7a5636313e106702663aa94bc&v=4" width="24" alt="Avatar of framebassman"> framebassman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#framebassman">Copy rank badge</a><br/>
+			Dmitry Romashov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/josip_bojcic">josip_bojcic</a></td>
-		<td>Split, Croatia</td>
-		<td>817</td>
+		<td><a href="https://twitter.com/Frame_Bassman">Frame_Bassman</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>1010</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>58</td>
 		<td>
-			<a href="https://github.com/vburojevic">
-				<img src="https://avatars.githubusercontent.com/u/2234474?s=72&u=edee530e7bdf60f928b4a2aa6f58432bbc4b3ba4&v=4" width="24" alt="Avatar of vburojevic"> vburojevic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vburojevic">Copy rank badge</a><br/>
-			Vedran Burojević
+			<a href="https://github.com/zeljkofilipin">
+				<img src="https://avatars.githubusercontent.com/u/23927?s=72&v=4" width="24" alt="Avatar of zeljkofilipin"> zeljkofilipin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zeljkofilipin">Copy rank badge</a><br/>
+			Željko Filipin
 		</td>
-		<td>Caffeinated Code </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>810</td>
+		<td>1006</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>59</td>
 		<td>
-			<a href="https://github.com/Elenore23">
-				<img src="https://avatars.githubusercontent.com/u/127576591?s=72&u=81f6a5fe126668093e3cd3a4fa9bac7761a6c1d9&v=4" width="24" alt="Avatar of Elenore23"> Elenore23
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Elenore23">Copy rank badge</a><br/>
-			Elenore23 
+			<a href="https://github.com/tonyiboy">
+				<img src="https://avatars.githubusercontent.com/u/126675750?s=72&u=c8026f70925b7abe8174813be2534cb71d2ff08a&v=4" width="24" alt="Avatar of tonyiboy"> tonyiboy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonyiboy">Copy rank badge</a><br/>
+			Antonio
 		</td>
-		<td>No Company</td>
+		<td>100devs </td>
 		<td>No Twitter Username</td>
-		<td>Croatia </td>
-		<td>807</td>
+		<td>Croatia</td>
+		<td>1006</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>60</td>
 		<td>
-			<a href="https://github.com/josippapez">
-				<img src="https://avatars.githubusercontent.com/u/37837991?s=72&u=1c80b4c5b32e3093202704dd7d6ed8a6350d4993&v=4" width="24" alt="Avatar of josippapez"> josippapez
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#josippapez">Copy rank badge</a><br/>
-			Josip Papež
+			<a href="https://github.com/allixsenos">
+				<img src="https://avatars.githubusercontent.com/u/752893?s=72&v=4" width="24" alt="Avatar of allixsenos"> allixsenos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#allixsenos">Copy rank badge</a><br/>
+			Luka Kladarić
 		</td>
-		<td>Prototyp </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>802</td>
+		<td>Chaos Guru </td>
+		<td><a href="https://twitter.com/kll">kll</a></td>
+		<td>Zagreb</td>
+		<td>968</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/capJavert">
 				<img src="https://avatars.githubusercontent.com/u/9803078?s=72&u=1c51db45f535cc563b4ef7f923d09a1d78eda358&v=4" width="24" alt="Avatar of capJavert"> capJavert
@@ -975,7 +897,85 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@kickasscoderz @dailydotdev  </td>
 		<td><a href="https://twitter.com/capJavert">capJavert</a></td>
 		<td>Croatia</td>
-		<td>796</td>
+		<td>959</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/0x19">
+				<img src="https://avatars.githubusercontent.com/u/255984?s=72&u=6b3fdbb6075aa37b87ec4b7f9f39b3f8505dcaff&v=4" width="24" alt="Avatar of 0x19"> 0x19
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#0x19">Copy rank badge</a><br/>
+			Nevio Vesić
+		</td>
+		<td>@inorbithr </td>
+		<td><a href="https://twitter.com/vesicnevio">vesicnevio</a></td>
+		<td>Rijeka and Zagreb, Croatia</td>
+		<td>943</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/franFodor">
+				<img src="https://avatars.githubusercontent.com/u/49796718?s=72&u=bf0e2e967651d861d306be4ca86d160e8b2d1812&v=4" width="24" alt="Avatar of franFodor"> franFodor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#franFodor">Copy rank badge</a><br/>
+			Fran Fodor
+		</td>
+		<td>@solderedelectronics </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>935</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/karlomikus">
+				<img src="https://avatars.githubusercontent.com/u/469393?s=72&u=4560c891f7ef3f0a9c78625fa054805dc7cefc9c&v=4" width="24" alt="Avatar of karlomikus"> karlomikus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karlomikus">Copy rank badge</a><br/>
+			Karlo Mikus
+		</td>
+		<td>Dhimahi </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>908</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/bis3946">
+				<img src="https://avatars.githubusercontent.com/u/95106883?s=72&u=e65228effbbb8bbdb38f1c48b28ecd89b9887ae0&v=4" width="24" alt="Avatar of bis3946"> bis3946
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bis3946">Copy rank badge</a><br/>
+			bis3946
+		</td>
+		<td>Nun Nexus Of Unity<br/><br/></td>
+		<td><a href="https://twitter.com/bis3946">bis3946</a></td>
+		<td>Croatia</td>
+		<td>892</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/TypicalHog">
+				<img src="https://avatars.githubusercontent.com/u/11476902?s=72&u=b9366f8fea5fb17712259790489a4fac682bcc32&v=4" width="24" alt="Avatar of TypicalHog"> TypicalHog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#TypicalHog">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TypicalHog">TypicalHog</a></td>
+		<td>Croatia</td>
+		<td>890</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/vuki656">
+				<img src="https://avatars.githubusercontent.com/u/8104698?s=72&u=6df8bb18afd3edcb0a9232d4b447733c0a943722&v=4" width="24" alt="Avatar of vuki656"> vuki656
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vuki656">Copy rank badge</a><br/>
+			Domagoj Vukovic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/domagoj_vkv">domagoj_vkv</a></td>
+		<td>Croatia</td>
+		<td>885</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -988,75 +988,114 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>779</td>
+		<td>862</td>
 	</tr>
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/HypeMC">
-				<img src="https://avatars.githubusercontent.com/u/2445045?s=72&u=fa2d0fbe3208ceed09a00e24f329c71f33b38ec5&v=4" width="24" alt="Avatar of HypeMC"> HypeMC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#HypeMC">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/mvladic">
+				<img src="https://avatars.githubusercontent.com/u/449788?s=72&v=4" width="24" alt="Avatar of mvladic"> mvladic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mvladic">Copy rank badge</a><br/>
+			Martin Vladić
 		</td>
-		<td>@sofascore  </td>
-		<td>No Twitter Username</td>
+		<td>Envox D.o.o. </td>
+		<td><a href="https://twitter.com/mvladic">mvladic</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>749</td>
+		<td>827</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
-			<a href="https://github.com/dpavlin">
-				<img src="https://avatars.githubusercontent.com/u/15665?s=72&v=4" width="24" alt="Avatar of dpavlin"> dpavlin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dpavlin">Copy rank badge</a><br/>
-			Dobrica Pavlinušić
+			<a href="https://github.com/duke4e">
+				<img src="https://avatars.githubusercontent.com/u/288641?s=72&u=908079d0e65132e0a48a9ff693ec088000d1f585&v=4" width="24" alt="Avatar of duke4e"> duke4e
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#duke4e">Copy rank badge</a><br/>
+			Bojan Drvarek
 		</td>
-		<td>@ffzg  </td>
-		<td><a href="https://twitter.com/dpavlin">dpavlin</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>746</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>825</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/mislavjc">
-				<img src="https://avatars.githubusercontent.com/u/68654622?s=72&u=9fb907a813c9b29d13dbb266cbb4ea2213fefd11&v=4" width="24" alt="Avatar of mislavjc"> mislavjc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mislavjc">Copy rank badge</a><br/>
-			Mislav
+			<a href="https://github.com/isBatak">
+				<img src="https://avatars.githubusercontent.com/u/4128883?s=72&u=ff92f3df6142c7835661fc8bb5983d2a64084237&v=4" width="24" alt="Avatar of isBatak"> isBatak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#isBatak">Copy rank badge</a><br/>
+			Ivica Batinić
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mislavjc">mislavjc</a></td>
-		<td>Zagreb</td>
-		<td>723</td>
+		<td>Tradelocker </td>
+		<td><a href="https://twitter.com/_isBatak">_isBatak</a></td>
+		<td>Croatia</td>
+		<td>820</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/kosirm">
-				<img src="https://avatars.githubusercontent.com/u/54502?s=72&u=29fc2ee1f344b8d92833f3c722c945329412f144&v=4" width="24" alt="Avatar of kosirm"> kosirm
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kosirm">Copy rank badge</a><br/>
-			Milan Košir
+			<a href="https://github.com/misobarisic">
+				<img src="https://avatars.githubusercontent.com/u/50531162?s=72&u=5ab235a8312c56262bd9177e65d0a152020fbc92&v=4" width="24" alt="Avatar of misobarisic"> misobarisic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#misobarisic">Copy rank badge</a><br/>
+			Mišo Barišić
 		</td>
-		<td>Dreambox </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pula, Croatia</td>
-		<td>719</td>
+		<td>Croatia</td>
+		<td>816</td>
 	</tr>
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/bperak">
-				<img src="https://avatars.githubusercontent.com/u/13450656?s=72&u=c7cea66e80548dd250e1126cfc86c37339f109cd&v=4" width="24" alt="Avatar of bperak"> bperak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bperak">Copy rank badge</a><br/>
-			Benedikt Perak
+			<a href="https://github.com/jbojcic1">
+				<img src="https://avatars.githubusercontent.com/u/10374826?s=72&v=4" width="24" alt="Avatar of jbojcic1"> jbojcic1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jbojcic1">Copy rank badge</a><br/>
+			Josip Bojčić
 		</td>
-		<td>Faculty Of Humanities And<br/>Social<br/>Sciences,<br/>University<br/>Of<br/>Rijeka,<br/>@syntagent<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Rijeka</td>
-		<td>711</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/josip_bojcic">josip_bojcic</a></td>
+		<td>Split, Croatia</td>
+		<td>807</td>
 	</tr>
 	<tr>
 		<td>74</td>
+		<td>
+			<a href="https://github.com/DynamicsNinja">
+				<img src="https://avatars.githubusercontent.com/u/31212465?s=72&u=79944c687d6a42a9eb659ac4e92f86b06967b2af&v=4" width="24" alt="Avatar of DynamicsNinja"> DynamicsNinja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DynamicsNinja">Copy rank badge</a><br/>
+			Ivan Ficko
+		</td>
+		<td>Span D.d. </td>
+		<td><a href="https://twitter.com/DynamicsNinja">DynamicsNinja</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>800</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/ASoldo">
+				<img src="https://avatars.githubusercontent.com/u/1175537?s=72&u=67c4bef8455fd0cf31f0eda068c6031d7aa85b6b&v=4" width="24" alt="Avatar of ASoldo"> ASoldo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ASoldo">Copy rank badge</a><br/>
+			Rootster
+		</td>
+		<td>Rootster </td>
+		<td><a href="https://twitter.com/RootsterAnon">RootsterAnon</a></td>
+		<td>Zagreb</td>
+		<td>787</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/Elenore23">
+				<img src="https://avatars.githubusercontent.com/u/127576591?s=72&u=81f6a5fe126668093e3cd3a4fa9bac7761a6c1d9&v=4" width="24" alt="Avatar of Elenore23"> Elenore23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Elenore23">Copy rank badge</a><br/>
+			Elenore23 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia </td>
+		<td>776</td>
+	</tr>
+	<tr>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/JJ-Cro">
 				<img src="https://avatars.githubusercontent.com/u/83344666?s=72&u=9533444b6383f53f560231e942877f670170158d&v=4" width="24" alt="Avatar of JJ-Cro"> JJ-Cro
@@ -1066,23 +1105,75 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Quantcentral D.o.o. </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>709</td>
+		<td>775</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>78</td>
 		<td>
-			<a href="https://github.com/UltraXDZN">
-				<img src="https://avatars.githubusercontent.com/u/57915175?s=72&u=5070923fc100e190b90d68c417b080285511b508&v=4" width="24" alt="Avatar of UltraXDZN"> UltraXDZN
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#UltraXDZN">Copy rank badge</a><br/>
-			Juraj Crljenko
+			<a href="https://github.com/HypeMC">
+				<img src="https://avatars.githubusercontent.com/u/2445045?s=72&u=fa2d0fbe3208ceed09a00e24f329c71f33b38ec5&v=4" width="24" alt="Avatar of HypeMC"> HypeMC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#HypeMC">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>@foobar-devs  </td>
+		<td>@sofascore  </td>
 		<td>No Twitter Username</td>
-		<td>Pula, Croatia</td>
-		<td>681</td>
+		<td>Zagreb, Croatia</td>
+		<td>770</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/razorblade23">
+				<img src="https://avatars.githubusercontent.com/u/81590614?s=72&u=3991f44a58451965cccfc99a53e0f6ea1aa79325&v=4" width="24" alt="Avatar of razorblade23"> razorblade23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#razorblade23">Copy rank badge</a><br/>
+			razorblade23
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zadar, Croatia</td>
+		<td>752</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/dpavlin">
+				<img src="https://avatars.githubusercontent.com/u/15665?s=72&v=4" width="24" alt="Avatar of dpavlin"> dpavlin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dpavlin">Copy rank badge</a><br/>
+			Dobrica Pavlinušić
+		</td>
+		<td>@ffzg  </td>
+		<td><a href="https://twitter.com/dpavlin">dpavlin</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>740</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/mislavjc">
+				<img src="https://avatars.githubusercontent.com/u/68654622?s=72&u=9fb907a813c9b29d13dbb266cbb4ea2213fefd11&v=4" width="24" alt="Avatar of mislavjc"> mislavjc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mislavjc">Copy rank badge</a><br/>
+			Mislav
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mislavjc">mislavjc</a></td>
+		<td>Zagreb</td>
+		<td>724</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/goran-mahovlic">
+				<img src="https://avatars.githubusercontent.com/u/4248736?s=72&u=7364fc9111904cf3189cac73c5c73e89df0af53b&v=4" width="24" alt="Avatar of goran-mahovlic"> goran-mahovlic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#goran-mahovlic">Copy rank badge</a><br/>
+			Goran Mahovlic
+		</td>
+		<td>Intergalaktik D.o.o. </td>
+		<td><a href="https://twitter.com/GMahovlic">GMahovlic</a></td>
+		<td>Croatia</td>
+		<td>716</td>
+	</tr>
+	<tr>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/Pavel910">
 				<img src="https://avatars.githubusercontent.com/u/3920893?s=72&v=4" width="24" alt="Avatar of Pavel910"> Pavel910
@@ -1092,49 +1183,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Webiny Ltd. </td>
 		<td><a href="https://twitter.com/paveldenisjuk">paveldenisjuk</a></td>
 		<td>Croatia</td>
-		<td>679</td>
+		<td>689</td>
 	</tr>
 	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/dpluscec">
-				<img src="https://avatars.githubusercontent.com/u/7013497?s=72&u=63168da9a4402efc1355bc2e3bb3f20767853cf6&v=4" width="24" alt="Avatar of dpluscec"> dpluscec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dpluscec">Copy rank badge</a><br/>
-			Domagoj Pluscec
-		</td>
-		<td>@janeasystems  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>663</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/schrepfler">
-				<img src="https://avatars.githubusercontent.com/u/3553?s=72&v=4" width="24" alt="Avatar of schrepfler"> schrepfler
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#schrepfler">Copy rank badge</a><br/>
-			Srepfler Srdan
-		</td>
-		<td>The Unit Ltd. </td>
-		<td><a href="https://twitter.com/schrepfler">schrepfler</a></td>
-		<td>Zagreb</td>
-		<td>661</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/DuckySoLucky">
-				<img src="https://avatars.githubusercontent.com/u/75372052?s=72&u=abc32d396cc0978dba0218c2de5c44bd462038f6&v=4" width="24" alt="Avatar of DuckySoLucky"> DuckySoLucky
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DuckySoLucky">Copy rank badge</a><br/>
-			Robert Kovac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>652</td>
-	</tr>
-	<tr>
-		<td>80</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/tomislav">
 				<img src="https://avatars.githubusercontent.com/u/656?s=72&u=fbba8842811c5742ff80f25ebe8091182f1e3ed4&v=4" width="24" alt="Avatar of tomislav"> tomislav
@@ -1144,10 +1196,62 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>645</td>
+		<td>671</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/UltraXDZN">
+				<img src="https://avatars.githubusercontent.com/u/57915175?s=72&u=5070923fc100e190b90d68c417b080285511b508&v=4" width="24" alt="Avatar of UltraXDZN"> UltraXDZN
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#UltraXDZN">Copy rank badge</a><br/>
+			Juraj Crljenko
+		</td>
+		<td>@foobar-devs  </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>671</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/schrepfler">
+				<img src="https://avatars.githubusercontent.com/u/3553?s=72&v=4" width="24" alt="Avatar of schrepfler"> schrepfler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#schrepfler">Copy rank badge</a><br/>
+			Srepfler Srdan
+		</td>
+		<td>The Unit Ltd. </td>
+		<td><a href="https://twitter.com/schrepfler">schrepfler</a></td>
+		<td>Zagreb</td>
+		<td>669</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/oktalz">
+				<img src="https://avatars.githubusercontent.com/u/7778502?s=72&v=4" width="24" alt="Avatar of oktalz"> oktalz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#oktalz">Copy rank badge</a><br/>
+			Zlatko Bratkovic
+		</td>
+		<td>Haproxy Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>667</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/robimarko">
+				<img src="https://avatars.githubusercontent.com/u/1360816?s=72&u=bee267673c306960892a2f4a041edaa211b576cb&v=4" width="24" alt="Avatar of robimarko"> robimarko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#robimarko">Copy rank badge</a><br/>
+			Robert Marko
+		</td>
+		<td>@sartura  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>642</td>
+	</tr>
+	<tr>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/TommyRadan">
 				<img src="https://avatars.githubusercontent.com/u/8278883?s=72&u=d8b832003a95a794fdec10392fadf66c77475287&v=4" width="24" alt="Avatar of TommyRadan"> TommyRadan
@@ -1160,59 +1264,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>642</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>90</td>
 		<td>
-			<a href="https://github.com/oktalz">
-				<img src="https://avatars.githubusercontent.com/u/7778502?s=72&v=4" width="24" alt="Avatar of oktalz"> oktalz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#oktalz">Copy rank badge</a><br/>
-			Zlatko Bratkovic
-		</td>
-		<td>Haproxy Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>612</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/ivan-sincek">
-				<img src="https://avatars.githubusercontent.com/u/35937483?s=72&u=796da30449b5d46e6b2e7519e23d65ad50d446dd&v=4" width="24" alt="Avatar of ivan-sincek"> ivan-sincek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivan-sincek">Copy rank badge</a><br/>
-			Ivan Šincek
+			<a href="https://github.com/DuckySoLucky">
+				<img src="https://avatars.githubusercontent.com/u/75372052?s=72&u=abc32d396cc0978dba0218c2de5c44bd462038f6&v=4" width="24" alt="Avatar of DuckySoLucky"> DuckySoLucky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DuckySoLucky">Copy rank badge</a><br/>
+			Robert Kovac
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/IvanSincek">IvanSincek</a></td>
-		<td>Croatia</td>
-		<td>607</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/robimarko">
-				<img src="https://avatars.githubusercontent.com/u/1360816?s=72&u=bee267673c306960892a2f4a041edaa211b576cb&v=4" width="24" alt="Avatar of robimarko"> robimarko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#robimarko">Copy rank badge</a><br/>
-			Robert Marko
-		</td>
-		<td>@sartura  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>607</td>
+		<td>635</td>
 	</tr>
 	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/cappig">
-				<img src="https://avatars.githubusercontent.com/u/74995193?s=72&u=fbb0339f211cbb9a118c39deae3735ce6b17050d&v=4" width="24" alt="Avatar of cappig"> cappig
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#cappig">Copy rank badge</a><br/>
-			Matej Jurasić
-		</td>
-		<td>Fer@unizg </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>583</td>
-	</tr>
-	<tr>
-		<td>86</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/TvrtkoM">
 				<img src="https://avatars.githubusercontent.com/u/551965?s=72&u=fb37b746efa624d7549a9339dc1419049893ac21&v=4" width="24" alt="Avatar of TvrtkoM"> TvrtkoM
@@ -1222,205 +1287,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>581</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/inescodefam">
-				<img src="https://avatars.githubusercontent.com/u/126782081?s=72&u=c1ba29cd94d2948cd262f5fd1f622fb3ec8c5ce1&v=4" width="24" alt="Avatar of inescodefam"> inescodefam
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#inescodefam">Copy rank badge</a><br/>
-			Ines Kamber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>563</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/mvladic">
-				<img src="https://avatars.githubusercontent.com/u/449788?s=72&v=4" width="24" alt="Avatar of mvladic"> mvladic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mvladic">Copy rank badge</a><br/>
-			Martin Vladić
-		</td>
-		<td>Envox D.o.o. </td>
-		<td><a href="https://twitter.com/mvladic">mvladic</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>557</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/kresogalic8">
-				<img src="https://avatars.githubusercontent.com/u/7289406?s=72&u=e259153cb68c35b851a5414d651ca5768b75620d&v=4" width="24" alt="Avatar of kresogalic8"> kresogalic8
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kresogalic8">Copy rank badge</a><br/>
-			Krešimir Galić
-		</td>
-		<td>@fronttribe  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Osijek</td>
-		<td>556</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/LeonardM01">
-				<img src="https://avatars.githubusercontent.com/u/86668031?s=72&u=dc1b184611813d1b421fddd71a77ebb12be49e88&v=4" width="24" alt="Avatar of LeonardM01"> LeonardM01
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LeonardM01">Copy rank badge</a><br/>
-			Leonard Martinis
-		</td>
-		<td>@meridian-doo @medusa-technologies @citedom <br/></td>
-		<td><a href="https://twitter.com/MartinisLeonard">MartinisLeonard</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>550</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/talentsache">
-				<img src="https://avatars.githubusercontent.com/u/184568179?s=72&u=52b298fd069a617a7442bb598114d40992baef70&v=4" width="24" alt="Avatar of talentsache"> talentsache
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#talentsache">Copy rank badge</a><br/>
-			Mario Simic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/talentsache">talentsache</a></td>
-		<td>Austria / Croatia / Europe</td>
-		<td>546</td>
+		<td>583</td>
 	</tr>
 	<tr>
 		<td>92</td>
 		<td>
-			<a href="https://github.com/goran-mahovlic">
-				<img src="https://avatars.githubusercontent.com/u/4248736?s=72&u=7364fc9111904cf3189cac73c5c73e89df0af53b&v=4" width="24" alt="Avatar of goran-mahovlic"> goran-mahovlic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#goran-mahovlic">Copy rank badge</a><br/>
-			Goran Mahovlic
+			<a href="https://github.com/igorbeslic">
+				<img src="https://avatars.githubusercontent.com/u/939286?s=72&u=8ceea4d07eae81044222169c58453d6f4a0a93d3&v=4" width="24" alt="Avatar of igorbeslic"> igorbeslic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igorbeslic">Copy rank badge</a><br/>
+			Igor Bešlić
 		</td>
-		<td>Intergalaktik D.o.o. </td>
-		<td><a href="https://twitter.com/GMahovlic">GMahovlic</a></td>
-		<td>Croatia</td>
-		<td>534</td>
+		<td>Bitna Prednost D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>93</td>
-		<td>
-			<a href="https://github.com/sodic">
-				<img src="https://avatars.githubusercontent.com/u/22752307?s=72&u=2cfd8652688be35dcb23fa3a4fa2c8dbd26eef91&v=4" width="24" alt="Avatar of sodic"> sodic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sodic">Copy rank badge</a><br/>
-			Filip Sodić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/filipsodic">filipsodic</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>527</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/matiadev">
-				<img src="https://avatars.githubusercontent.com/u/38083522?s=72&u=0698c7617a710e6310061629cd9da19a51fe07b6&v=4" width="24" alt="Avatar of matiadev"> matiadev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matiadev">Copy rank badge</a><br/>
-			Matia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/joyofcodedev">joyofcodedev</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>524</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/darkohedgehog">
-				<img src="https://avatars.githubusercontent.com/u/126003050?s=72&u=8fc2c1165407822ed2a177e35d333d34292f96a5&v=4" width="24" alt="Avatar of darkohedgehog"> darkohedgehog
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#darkohedgehog">Copy rank badge</a><br/>
-			Darko Živić
-		</td>
-		<td>Živić-elektro J.d.o.o. </td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Vukovar</td>
-		<td>521</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/mateogalic112">
-				<img src="https://avatars.githubusercontent.com/u/61632123?s=72&u=e62465ac32ef37bfb4f9408fd94abc70e863cff1&v=4" width="24" alt="Avatar of mateogalic112"> mateogalic112
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mateogalic112">Copy rank badge</a><br/>
-			matteoo.eth
-		</td>
-		<td>Alpha Code </td>
-		<td><a href="https://twitter.com/matteoo_eth">matteoo_eth</a></td>
-		<td>Zagreb</td>
-		<td>520</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/Zeko369">
-				<img src="https://avatars.githubusercontent.com/u/3064377?s=72&u=6e4fe043e775eecf1e0acbfa8784807abaa157ed&v=4" width="24" alt="Avatar of Zeko369"> Zeko369
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Zeko369">Copy rank badge</a><br/>
-			Fran Zekan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Zeko369">Zeko369</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/Ninodevo">
-				<img src="https://avatars.githubusercontent.com/u/5016559?s=72&u=866664455116f0a73d99497543d8dabc66e5521c&v=4" width="24" alt="Avatar of Ninodevo"> Ninodevo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ninodevo">Copy rank badge</a><br/>
-			Nino Mihovilic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ninomihovilic">ninomihovilic</a></td>
-		<td>Zagreb</td>
-		<td>510</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/jurkovic-nikola">
-				<img src="https://avatars.githubusercontent.com/u/1388673?s=72&v=4" width="24" alt="Avatar of jurkovic-nikola"> jurkovic-nikola
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jurkovic-nikola">Copy rank badge</a><br/>
-			Nikola
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>493</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/DoDoENT">
-				<img src="https://avatars.githubusercontent.com/u/158844?s=72&v=4" width="24" alt="Avatar of DoDoENT"> DoDoENT
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DoDoENT">Copy rank badge</a><br/>
-			DoDo
-		</td>
-		<td>@microblink </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>487</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/Swader">
-				<img src="https://avatars.githubusercontent.com/u/1430603?s=72&u=043d06b721b48621add0edc606d05d1ac9e952dc&v=4" width="24" alt="Avatar of Swader"> Swader
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Swader">Copy rank badge</a><br/>
-			Bruno Škvorc
-		</td>
-		<td>Bitfalls.com </td>
-		<td><a href="https://twitter.com/swader">swader</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>483</td>
-	</tr>
-	<tr>
-		<td>102</td>
 		<td>
 			<a href="https://github.com/lmatosevic">
 				<img src="https://avatars.githubusercontent.com/u/11697100?s=72&u=ee38131262d71883c33ef8b22f02d31e72ee5429&v=4" width="24" alt="Avatar of lmatosevic"> lmatosevic
@@ -1430,283 +1313,36 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lukamatosev">lukamatosev</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>479</td>
+		<td>581</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>94</td>
 		<td>
-			<a href="https://github.com/IvanDzanija">
-				<img src="https://avatars.githubusercontent.com/u/49160935?s=72&u=6fcfe0851d52f19e40bdf6345d1f59ef78681e5e&v=4" width="24" alt="Avatar of IvanDzanija"> IvanDzanija
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#IvanDzanija">Copy rank badge</a><br/>
-			Džanija Ivan
+			<a href="https://github.com/Ninodevo">
+				<img src="https://avatars.githubusercontent.com/u/5016559?s=72&u=866664455116f0a73d99497543d8dabc66e5521c&v=4" width="24" alt="Avatar of Ninodevo"> Ninodevo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ninodevo">Copy rank badge</a><br/>
+			Nino Mihovilic
 		</td>
-		<td>University Of Zagreb </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ninomihovilic">ninomihovilic</a></td>
 		<td>Zagreb</td>
-		<td>477</td>
+		<td>574</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>95</td>
 		<td>
-			<a href="https://github.com/isBatak">
-				<img src="https://avatars.githubusercontent.com/u/4128883?s=72&u=ff92f3df6142c7835661fc8bb5983d2a64084237&v=4" width="24" alt="Avatar of isBatak"> isBatak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#isBatak">Copy rank badge</a><br/>
-			Ivica Batinić
+			<a href="https://github.com/mateogalic112">
+				<img src="https://avatars.githubusercontent.com/u/61632123?s=72&u=e62465ac32ef37bfb4f9408fd94abc70e863cff1&v=4" width="24" alt="Avatar of mateogalic112"> mateogalic112
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mateogalic112">Copy rank badge</a><br/>
+			matteoo.eth
 		</td>
-		<td>Tradelocker </td>
-		<td><a href="https://twitter.com/_isBatak">_isBatak</a></td>
-		<td>Croatia</td>
-		<td>476</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/tplavcic">
-				<img src="https://avatars.githubusercontent.com/u/4625195?s=72&u=984e65626cb536b6dd67e3259d92a992bca8180b&v=4" width="24" alt="Avatar of tplavcic"> tplavcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tplavcic">Copy rank badge</a><br/>
-			Tomislav Plavcic
-		</td>
-		<td>@percona  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>472</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/AntonioErdeljac">
-				<img src="https://avatars.githubusercontent.com/u/23248726?s=72&u=dc88f27fb03b58aa24387b5a38ee0cc741490230&v=4" width="24" alt="Avatar of AntonioErdeljac"> AntonioErdeljac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AntonioErdeljac">Copy rank badge</a><br/>
-			Antonio Erdeljac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>462</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/markojerkic">
-				<img src="https://avatars.githubusercontent.com/u/22824333?s=72&u=37c4dbb5220846021f011f72ca5934fef59f1a4c&v=4" width="24" alt="Avatar of markojerkic"> markojerkic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markojerkic">Copy rank badge</a><br/>
-			Marko Jerkić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>459</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/ivodolenc">
-				<img src="https://avatars.githubusercontent.com/u/51852491?s=72&u=c05d8274f20c775f72822a2b11b3398b1c177a3e&v=4" width="24" alt="Avatar of ivodolenc"> ivodolenc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivodolenc">Copy rank badge</a><br/>
-			Ivo Dolenc
-		</td>
-		<td>@hypernym-studio </td>
-		<td><a href="https://twitter.com/ivodolenc">ivodolenc</a></td>
-		<td>Croatia</td>
-		<td>458</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/nsajko">
-				<img src="https://avatars.githubusercontent.com/u/4944410?s=72&u=9f3076e8042c344232cb516083eef6415241adb0&v=4" width="24" alt="Avatar of nsajko"> nsajko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nsajko">Copy rank badge</a><br/>
-			Neven Sajko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Alpha Code </td>
+		<td><a href="https://twitter.com/matteoo_eth">matteoo_eth</a></td>
 		<td>Zagreb</td>
-		<td>450</td>
+		<td>568</td>
 	</tr>
 	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/tvatavuk">
-				<img src="https://avatars.githubusercontent.com/u/2724850?s=72&v=4" width="24" alt="Avatar of tvatavuk"> tvatavuk
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tvatavuk">Copy rank badge</a><br/>
-			Tonći Vatavuk
-		</td>
-		<td>Net Media Sistemi D.o.o.<br/></td>
-		<td><a href="https://twitter.com/tvatavuk">tvatavuk</a></td>
-		<td>Split, Croatia</td>
-		<td>442</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/allixsenos">
-				<img src="https://avatars.githubusercontent.com/u/752893?s=72&v=4" width="24" alt="Avatar of allixsenos"> allixsenos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#allixsenos">Copy rank badge</a><br/>
-			Luka Kladarić
-		</td>
-		<td>Chaos Guru </td>
-		<td><a href="https://twitter.com/kll">kll</a></td>
-		<td>Zagreb</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/h00s">
-				<img src="https://avatars.githubusercontent.com/u/15060?s=72&u=248e0f4d2aa78a8b9001fa421a2ec9eb631ecc9a&v=4" width="24" alt="Avatar of h00s"> h00s
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#h00s">Copy rank badge</a><br/>
-			Krunoslav Husak
-		</td>
-		<td>Binel Ltd. </td>
-		<td><a href="https://twitter.com/h00s">h00s</a></td>
-		<td>Daruvar, Croatia</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/mtopolnik">
-				<img src="https://avatars.githubusercontent.com/u/490953?s=72&v=4" width="24" alt="Avatar of mtopolnik"> mtopolnik
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mtopolnik">Copy rank badge</a><br/>
-			Marko Topolnik
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mtopolnik">mtopolnik</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/4nte">
-				<img src="https://avatars.githubusercontent.com/u/8070595?s=72&u=72b40cdac521e2e81681de64d5bd295ff3c12693&v=4" width="24" alt="Avatar of 4nte"> 4nte
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#4nte">Copy rank badge</a><br/>
-			Ante Gulin
-		</td>
-		<td>Bitboiler.software </td>
-		<td><a href="https://twitter.com/ante_gulin">ante_gulin</a></td>
-		<td>Croatia</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/toniperic">
-				<img src="https://avatars.githubusercontent.com/u/5714104?s=72&u=68acbe0bc9964a6bb4a39efcecde6372a8682f40&v=4" width="24" alt="Avatar of toniperic"> toniperic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#toniperic">Copy rank badge</a><br/>
-			Toni Peric
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thetoniperic">thetoniperic</a></td>
-		<td>Croatia</td>
-		<td>425</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/narimiran">
-				<img src="https://avatars.githubusercontent.com/u/16516130?s=72&u=d238aaeb7aa3fe1fb4f5aa5a1c11c77bedcc27bf&v=4" width="24" alt="Avatar of narimiran"> narimiran
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#narimiran">Copy rank badge</a><br/>
-			Miran
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>422</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/gersak">
-				<img src="https://avatars.githubusercontent.com/u/147416?s=72&u=99666e6e7e347476a63594fbb39bb0816a3a3f6f&v=4" width="24" alt="Avatar of gersak"> gersak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gersak">Copy rank badge</a><br/>
-			Robert Gersak
-		</td>
-		<td>Neyho </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>422</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/chule">
-				<img src="https://avatars.githubusercontent.com/u/776736?s=72&u=7a53395aaf16280cc2f0273ff80883afbb4276fa&v=4" width="24" alt="Avatar of chule"> chule
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#chule">Copy rank badge</a><br/>
-			Igor Cuckovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>420</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/acehox">
-				<img src="https://avatars.githubusercontent.com/u/16418183?s=72&u=40db1e59f7db9dde71affadf01c3e85811862bff&v=4" width="24" alt="Avatar of acehox"> acehox
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#acehox">Copy rank badge</a><br/>
-			Tomislav
-		</td>
-		<td>@insidercx </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>418</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/begedin">
-				<img src="https://avatars.githubusercontent.com/u/1925540?s=72&u=9d7486619b44f42190c0c0026a10b855f93767a9&v=4" width="24" alt="Avatar of begedin"> begedin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#begedin">Copy rank badge</a><br/>
-			Nikola Begedin
-		</td>
-		<td>@bego-solutions @v7labs  </td>
-		<td><a href="https://twitter.com/begedinnikola">begedinnikola</a></td>
-		<td>Croatia</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/prasimix">
-				<img src="https://avatars.githubusercontent.com/u/15106476?s=72&u=54c0ff793176553df898be56214448b2b9d8929b&v=4" width="24" alt="Avatar of prasimix"> prasimix
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#prasimix">Copy rank badge</a><br/>
-			prasimix
-		</td>
-		<td>Envox D.o.o. </td>
-		<td><a href="https://twitter.com/envox">envox</a></td>
-		<td>Croatia</td>
-		<td>414</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/adrianhajdin">
-				<img src="https://avatars.githubusercontent.com/u/24898559?s=72&u=eb286f0650a3b722032a5c24e3d9bdc4ebef93ee&v=4" width="24" alt="Avatar of adrianhajdin"> adrianhajdin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#adrianhajdin">Copy rank badge</a><br/>
-			Adrian Hajdin - JS Mastery
-		</td>
-		<td>Javascript Mastery </td>
-		<td><a href="https://twitter.com/jsmasterypro">jsmasterypro</a></td>
-		<td>Croatia</td>
-		<td>396</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/jan-kelemen">
-				<img src="https://avatars.githubusercontent.com/u/8822011?s=72&u=b0f856775c76f1a1a2f4ae9708ba5f4d6114287e&v=4" width="24" alt="Avatar of jan-kelemen"> jan-kelemen
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jan-kelemen">Copy rank badge</a><br/>
-			Jan Kelemen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>396</td>
-	</tr>
-	<tr>
-		<td>124</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/dsego">
 				<img src="https://avatars.githubusercontent.com/u/578557?s=72&u=f32900baadc5b8b05aa8a8cd607b2ecfacd437ee&v=4" width="24" alt="Avatar of dsego"> dsego
@@ -1716,127 +1352,257 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>390</td>
+		<td>568</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>97</td>
 		<td>
-			<a href="https://github.com/IvaLeder">
-				<img src="https://avatars.githubusercontent.com/u/13046162?s=72&u=cb6bb0504d92d620abc5164f513cc2b819989029&v=4" width="24" alt="Avatar of IvaLeder"> IvaLeder
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#IvaLeder">Copy rank badge</a><br/>
-			Iva
+			<a href="https://github.com/ivan-sincek">
+				<img src="https://avatars.githubusercontent.com/u/35937483?s=72&u=796da30449b5d46e6b2e7519e23d65ad50d446dd&v=4" width="24" alt="Avatar of ivan-sincek"> ivan-sincek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivan-sincek">Copy rank badge</a><br/>
+			Ivan Šincek
 		</td>
 		<td>No Company</td>
+		<td><a href="https://twitter.com/IvanSincek">IvanSincek</a></td>
+		<td>Croatia</td>
+		<td>567</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/LeonardM01">
+				<img src="https://avatars.githubusercontent.com/u/86668031?s=72&u=dc1b184611813d1b421fddd71a77ebb12be49e88&v=4" width="24" alt="Avatar of LeonardM01"> LeonardM01
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LeonardM01">Copy rank badge</a><br/>
+			Leonard Martinis
+		</td>
+		<td>@meridian-doo @medusa-technologies @citedom <br/></td>
+		<td><a href="https://twitter.com/MartinisLeonard">MartinisLeonard</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>567</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/matiadev">
+				<img src="https://avatars.githubusercontent.com/u/38083522?s=72&u=0698c7617a710e6310061629cd9da19a51fe07b6&v=4" width="24" alt="Avatar of matiadev"> matiadev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matiadev">Copy rank badge</a><br/>
+			Matia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joyofcodedev">joyofcodedev</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>564</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/markojerkic">
+				<img src="https://avatars.githubusercontent.com/u/22824333?s=72&u=37c4dbb5220846021f011f72ca5934fef59f1a4c&v=4" width="24" alt="Avatar of markojerkic"> markojerkic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markojerkic">Copy rank badge</a><br/>
+			Marko Jerkić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>561</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/talentsache">
+				<img src="https://avatars.githubusercontent.com/u/184568179?s=72&u=52b298fd069a617a7442bb598114d40992baef70&v=4" width="24" alt="Avatar of talentsache"> talentsache
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#talentsache">Copy rank badge</a><br/>
+			Mario Simic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/talentsache">talentsache</a></td>
+		<td>Austria / Croatia / Europe</td>
+		<td>559</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/jurkovic-nikola">
+				<img src="https://avatars.githubusercontent.com/u/1388673?s=72&v=4" width="24" alt="Avatar of jurkovic-nikola"> jurkovic-nikola
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jurkovic-nikola">Copy rank badge</a><br/>
+			Nikola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>541</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/cappig">
+				<img src="https://avatars.githubusercontent.com/u/74995193?s=72&u=fbb0339f211cbb9a118c39deae3735ce6b17050d&v=4" width="24" alt="Avatar of cappig"> cappig
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#cappig">Copy rank badge</a><br/>
+			Matej Jurasić
+		</td>
+		<td>Fer@unizg </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>538</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/kosirm">
+				<img src="https://avatars.githubusercontent.com/u/54502?s=72&u=29fc2ee1f344b8d92833f3c722c945329412f144&v=4" width="24" alt="Avatar of kosirm"> kosirm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kosirm">Copy rank badge</a><br/>
+			Milan Košir
+		</td>
+		<td>Dreambox </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>531</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/darkohedgehog">
+				<img src="https://avatars.githubusercontent.com/u/126003050?s=72&u=8fc2c1165407822ed2a177e35d333d34292f96a5&v=4" width="24" alt="Avatar of darkohedgehog"> darkohedgehog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#darkohedgehog">Copy rank badge</a><br/>
+			Darko Živić
+		</td>
+		<td>Živić-elektro J.d.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Vukovar</td>
+		<td>529</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/Zeko369">
+				<img src="https://avatars.githubusercontent.com/u/3064377?s=72&u=6e4fe043e775eecf1e0acbfa8784807abaa157ed&v=4" width="24" alt="Avatar of Zeko369"> Zeko369
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Zeko369">Copy rank badge</a><br/>
+			Fran Zekan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Zeko369">Zeko369</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/4nte">
+				<img src="https://avatars.githubusercontent.com/u/8070595?s=72&u=72b40cdac521e2e81681de64d5bd295ff3c12693&v=4" width="24" alt="Avatar of 4nte"> 4nte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#4nte">Copy rank badge</a><br/>
+			Ante Gulin
+		</td>
+		<td>Bitboiler.software </td>
+		<td><a href="https://twitter.com/ante_gulin">ante_gulin</a></td>
+		<td>Croatia</td>
+		<td>515</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/sodic">
+				<img src="https://avatars.githubusercontent.com/u/22752307?s=72&u=2cfd8652688be35dcb23fa3a4fa2c8dbd26eef91&v=4" width="24" alt="Avatar of sodic"> sodic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sodic">Copy rank badge</a><br/>
+			Filip Sodić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/filipsodic">filipsodic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>513</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/DoDoENT">
+				<img src="https://avatars.githubusercontent.com/u/158844?s=72&v=4" width="24" alt="Avatar of DoDoENT"> DoDoENT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DoDoENT">Copy rank badge</a><br/>
+			DoDo
+		</td>
+		<td>@microblink </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>382</td>
+		<td>505</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>110</td>
 		<td>
-			<a href="https://github.com/Martinsos">
-				<img src="https://avatars.githubusercontent.com/u/1536647?s=72&u=f7ce3d4f348c0f0006a611a17895b1dd7aad7659&v=4" width="24" alt="Avatar of Martinsos"> Martinsos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Martinsos">Copy rank badge</a><br/>
-			Martin Šošić
+			<a href="https://github.com/kresogalic8">
+				<img src="https://avatars.githubusercontent.com/u/7289406?s=72&u=e259153cb68c35b851a5414d651ca5768b75620d&v=4" width="24" alt="Avatar of kresogalic8"> kresogalic8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kresogalic8">Copy rank badge</a><br/>
+			Krešimir Galić
 		</td>
-		<td>Wasp-lang.dev </td>
-		<td><a href="https://twitter.com/MartinSosic">MartinSosic</a></td>
-		<td>Croatia</td>
-		<td>380</td>
+		<td>@fronttribe  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Osijek</td>
+		<td>505</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>111</td>
 		<td>
-			<a href="https://github.com/mnalis">
-				<img src="https://avatars.githubusercontent.com/u/156656?s=72&v=4" width="24" alt="Avatar of mnalis"> mnalis
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mnalis">Copy rank badge</a><br/>
-			Matija Nalis
+			<a href="https://github.com/mtopolnik">
+				<img src="https://avatars.githubusercontent.com/u/490953?s=72&v=4" width="24" alt="Avatar of mtopolnik"> mtopolnik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mtopolnik">Copy rank badge</a><br/>
+			Marko Topolnik
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/mtopolnik">mtopolnik</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>376</td>
+		<td>504</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>112</td>
 		<td>
-			<a href="https://github.com/monikapurpl3">
-				<img src="https://avatars.githubusercontent.com/u/47637144?s=72&u=2195f7462b7b4c7adf9f77d392b928ee58a9e6bd&v=4" width="24" alt="Avatar of monikapurpl3"> monikapurpl3
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#monikapurpl3">Copy rank badge</a><br/>
-			monikapurpl3
+			<a href="https://github.com/adrianhajdin">
+				<img src="https://avatars.githubusercontent.com/u/24898559?s=72&u=eb286f0650a3b722032a5c24e3d9bdc4ebef93ee&v=4" width="24" alt="Avatar of adrianhajdin"> adrianhajdin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#adrianhajdin">Copy rank badge</a><br/>
+			Adrian Hajdin - JS Mastery
 		</td>
-		<td>No Company</td>
+		<td>Javascript Mastery </td>
+		<td><a href="https://twitter.com/jsmasterypro">jsmasterypro</a></td>
+		<td>Croatia</td>
+		<td>496</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/acehox">
+				<img src="https://avatars.githubusercontent.com/u/16418183?s=72&u=40db1e59f7db9dde71affadf01c3e85811862bff&v=4" width="24" alt="Avatar of acehox"> acehox
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#acehox">Copy rank badge</a><br/>
+			Tomislav
+		</td>
+		<td>@insidercx </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>376</td>
+		<td>484</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>114</td>
 		<td>
-			<a href="https://github.com/Molitvan">
-				<img src="https://avatars.githubusercontent.com/u/82037155?s=72&u=0087b5981536556402fc7619c2bf3edf27d10bf0&v=4" width="24" alt="Avatar of Molitvan"> Molitvan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Molitvan">Copy rank badge</a><br/>
-			Vjeran Bezik
+			<a href="https://github.com/begedin">
+				<img src="https://avatars.githubusercontent.com/u/1925540?s=72&u=9d7486619b44f42190c0c0026a10b855f93767a9&v=4" width="24" alt="Avatar of begedin"> begedin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#begedin">Copy rank badge</a><br/>
+			Nikola Begedin
 		</td>
-		<td>No Company</td>
+		<td>@bego-solutions @v7labs  </td>
+		<td><a href="https://twitter.com/begedinnikola">begedinnikola</a></td>
+		<td>Croatia</td>
+		<td>483</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/tplavcic">
+				<img src="https://avatars.githubusercontent.com/u/4625195?s=72&u=984e65626cb536b6dd67e3259d92a992bca8180b&v=4" width="24" alt="Avatar of tplavcic"> tplavcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tplavcic">Copy rank badge</a><br/>
+			Tomislav Plavcic
+		</td>
+		<td>@percona  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>375</td>
+		<td>470</td>
 	</tr>
 	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/0x19">
-				<img src="https://avatars.githubusercontent.com/u/255984?s=72&u=6b3fdbb6075aa37b87ec4b7f9f39b3f8505dcaff&v=4" width="24" alt="Avatar of 0x19"> 0x19
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#0x19">Copy rank badge</a><br/>
-			Nevio Vesić
-		</td>
-		<td>@inorbithr </td>
-		<td><a href="https://twitter.com/vesicnevio">vesicnevio</a></td>
-		<td>Rijeka and Zagreb, Croatia</td>
-		<td>374</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/P374R">
-				<img src="https://avatars.githubusercontent.com/u/201371148?s=72&u=3f010169b0195230d15ae72b68ebbf55adc6d01d&v=4" width="24" alt="Avatar of P374R"> P374R
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#P374R">Copy rank badge</a><br/>
-			P374R
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>364</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/DynamicsNinja">
-				<img src="https://avatars.githubusercontent.com/u/31212465?s=72&u=79944c687d6a42a9eb659ac4e92f86b06967b2af&v=4" width="24" alt="Avatar of DynamicsNinja"> DynamicsNinja
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DynamicsNinja">Copy rank badge</a><br/>
-			Ivan Ficko
-		</td>
-		<td>Span D.d. </td>
-		<td><a href="https://twitter.com/DynamicsNinja">DynamicsNinja</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>362</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/ikss">
-				<img src="https://avatars.githubusercontent.com/u/6949036?s=72&u=6b21fd5aedc427eaedf343730132e79c4b7f76a8&v=4" width="24" alt="Avatar of ikss"> ikss
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ikss">Copy rank badge</a><br/>
-			Sergey Kuznetsov
-		</td>
-		<td>@infobip </td>
-		<td><a href="https://twitter.com/_ikss_">_ikss_</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>361</td>
-	</tr>
-	<tr>
-		<td>134</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/BeardedTinker">
 				<img src="https://avatars.githubusercontent.com/u/47822612?s=72&u=ea2e09ffb65f44b49c3be7f1101ad29c0f7f790c&v=4" width="24" alt="Avatar of BeardedTinker"> BeardedTinker
@@ -1846,88 +1612,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BeardedTinker">BeardedTinker</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>360</td>
+		<td>467</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>117</td>
 		<td>
-			<a href="https://github.com/caseycs">
-				<img src="https://avatars.githubusercontent.com/u/76095?s=72&v=4" width="24" alt="Avatar of caseycs"> caseycs
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#caseycs">Copy rank badge</a><br/>
-			Ilia Kondrashov
+			<a href="https://github.com/valicm">
+				<img src="https://avatars.githubusercontent.com/u/3858015?s=72&u=5d9746191e6e77f1b42382cc158ad6469d761406&v=4" width="24" alt="Avatar of valicm"> valicm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#valicm">Copy rank badge</a><br/>
+			Valentino Međimorec
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>359</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/ovcarj">
-				<img src="https://avatars.githubusercontent.com/u/39093369?s=72&u=5a2d810fd467a2c255e008fdd2dc894059efc73d&v=4" width="24" alt="Avatar of ovcarj"> ovcarj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ovcarj">Copy rank badge</a><br/>
-			Juraj Ovčar
-		</td>
-		<td>Ruđer Bošković Institute </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>358</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/MerlijnWajer">
-				<img src="https://avatars.githubusercontent.com/u/517897?s=72&v=4" width="24" alt="Avatar of MerlijnWajer"> MerlijnWajer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MerlijnWajer">Copy rank badge</a><br/>
-			Merlijn Wajer
-		</td>
-		<td>Internet Archive </td>
-		<td>No Twitter Username</td>
-		<td>Sofia / Rijeka</td>
-		<td>352</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/ken-kost">
-				<img src="https://avatars.githubusercontent.com/u/34007453?s=72&u=1bd02edacca6e807e042d602c43c4a7f5c0a6c13&v=4" width="24" alt="Avatar of ken-kost"> ken-kost
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ken-kost">Copy rank badge</a><br/>
-			Kenneth Kostrešević
-		</td>
-		<td>Reintegrate </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>339</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/matijaoe">
-				<img src="https://avatars.githubusercontent.com/u/46557266?s=72&u=11ea20f81fb011f4bdd2237818c494a9423ec341&v=4" width="24" alt="Avatar of matijaoe"> matijaoe
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matijaoe">Copy rank badge</a><br/>
-			Matija Osrečki
-		</td>
-		<td>@therenderdepartment </td>
-		<td>No Twitter Username</td>
+		<td>@vallic  </td>
+		<td><a href="https://twitter.com/valic">valic</a></td>
 		<td>Croatia</td>
-		<td>335</td>
+		<td>463</td>
 	</tr>
 	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/niksy">
-				<img src="https://avatars.githubusercontent.com/u/389286?s=72&u=70216d90403f387333b1632b7c8db80d319f3c14&v=4" width="24" alt="Avatar of niksy"> niksy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#niksy">Copy rank badge</a><br/>
-			Ivan Nikolić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/niksy">niksy</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>333</td>
-	</tr>
-	<tr>
-		<td>141</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/lukablaskovic">
 				<img src="https://avatars.githubusercontent.com/u/59925899?s=72&u=30c8f33d97bf15a325e3b4e606dd8f7a3e4bd3e3&v=4" width="24" alt="Avatar of lukablaskovic"> lukablaskovic
@@ -1937,36 +1638,309 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Juraj Dobrila University Of<br/>Pula<br/></td>
 		<td>No Twitter Username</td>
 		<td>Pula, Croatia</td>
-		<td>332</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/prasimix">
+				<img src="https://avatars.githubusercontent.com/u/15106476?s=72&u=54c0ff793176553df898be56214448b2b9d8929b&v=4" width="24" alt="Avatar of prasimix"> prasimix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#prasimix">Copy rank badge</a><br/>
+			prasimix
+		</td>
+		<td>Envox D.o.o. </td>
+		<td><a href="https://twitter.com/envox">envox</a></td>
+		<td>Croatia</td>
+		<td>455</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/Molitvan">
+				<img src="https://avatars.githubusercontent.com/u/82037155?s=72&u=0087b5981536556402fc7619c2bf3edf27d10bf0&v=4" width="24" alt="Avatar of Molitvan"> Molitvan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Molitvan">Copy rank badge</a><br/>
+			Vjeran Bezik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>452</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/AntonioErdeljac">
+				<img src="https://avatars.githubusercontent.com/u/23248726?s=72&u=dc88f27fb03b58aa24387b5a38ee0cc741490230&v=4" width="24" alt="Avatar of AntonioErdeljac"> AntonioErdeljac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AntonioErdeljac">Copy rank badge</a><br/>
+			Antonio Erdeljac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>451</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/h00s">
+				<img src="https://avatars.githubusercontent.com/u/15060?s=72&u=248e0f4d2aa78a8b9001fa421a2ec9eb631ecc9a&v=4" width="24" alt="Avatar of h00s"> h00s
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#h00s">Copy rank badge</a><br/>
+			Krunoslav Husak
+		</td>
+		<td>Binel Ltd. </td>
+		<td><a href="https://twitter.com/h00s">h00s</a></td>
+		<td>Daruvar, Croatia</td>
+		<td>446</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/monikapurpl3">
+				<img src="https://avatars.githubusercontent.com/u/47637144?s=72&u=2195f7462b7b4c7adf9f77d392b928ee58a9e6bd&v=4" width="24" alt="Avatar of monikapurpl3"> monikapurpl3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#monikapurpl3">Copy rank badge</a><br/>
+			monikapurpl3
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>439</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/tvatavuk">
+				<img src="https://avatars.githubusercontent.com/u/2724850?s=72&v=4" width="24" alt="Avatar of tvatavuk"> tvatavuk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tvatavuk">Copy rank badge</a><br/>
+			Tonći Vatavuk
+		</td>
+		<td>Net Media Sistemi D.o.o.<br/></td>
+		<td><a href="https://twitter.com/tvatavuk">tvatavuk</a></td>
+		<td>Split, Croatia</td>
+		<td>434</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/Swader">
+				<img src="https://avatars.githubusercontent.com/u/1430603?s=72&u=043d06b721b48621add0edc606d05d1ac9e952dc&v=4" width="24" alt="Avatar of Swader"> Swader
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Swader">Copy rank badge</a><br/>
+			Bruno Škvorc
+		</td>
+		<td>Bitfalls.com </td>
+		<td><a href="https://twitter.com/swader">swader</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>429</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/toniperic">
+				<img src="https://avatars.githubusercontent.com/u/5714104?s=72&u=68acbe0bc9964a6bb4a39efcecde6372a8682f40&v=4" width="24" alt="Avatar of toniperic"> toniperic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#toniperic">Copy rank badge</a><br/>
+			Toni Peric
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thetoniperic">thetoniperic</a></td>
+		<td>Croatia</td>
+		<td>426</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/mmatokovic">
+				<img src="https://avatars.githubusercontent.com/u/27929908?s=72&u=d7f0af19fe73afe4becbd32ebfcba5abb6f177f6&v=4" width="24" alt="Avatar of mmatokovic"> mmatokovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mmatokovic">Copy rank badge</a><br/>
+			Mislav Matoković
+		</td>
+		<td>Croatia Osiguranje </td>
+		<td><a href="https://twitter.com/mislavmatokovic">mislavmatokovic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/vrodic">
+				<img src="https://avatars.githubusercontent.com/u/368968?s=72&u=f613f592f9660c0693a5fdaf403fca18ab4d4a09&v=4" width="24" alt="Avatar of vrodic"> vrodic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vrodic">Copy rank badge</a><br/>
+			Vedran Rodic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>424</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/zoltanmaric">
+				<img src="https://avatars.githubusercontent.com/u/5569474?s=72&u=0c449ac0eb640fc4d875ab67ef7f9f30cee6d80b&v=4" width="24" alt="Avatar of zoltanmaric"> zoltanmaric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zoltanmaric">Copy rank badge</a><br/>
+			Zoltán Marić
+		</td>
+		<td>1.21 Gigawatts | Equilibrium<br/>Energy<br/></td>
+		<td><a href="https://twitter.com/zoltanmaric">zoltanmaric</a></td>
+		<td>Zagreb</td>
+		<td>423</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/nsajko">
+				<img src="https://avatars.githubusercontent.com/u/4944410?s=72&u=9f3076e8042c344232cb516083eef6415241adb0&v=4" width="24" alt="Avatar of nsajko"> nsajko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nsajko">Copy rank badge</a><br/>
+			Neven Sajko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>420</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/chule">
+				<img src="https://avatars.githubusercontent.com/u/776736?s=72&u=7a53395aaf16280cc2f0273ff80883afbb4276fa&v=4" width="24" alt="Avatar of chule"> chule
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#chule">Copy rank badge</a><br/>
+			Igor Cuckovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>418</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/gersak">
+				<img src="https://avatars.githubusercontent.com/u/147416?s=72&u=99666e6e7e347476a63594fbb39bb0816a3a3f6f&v=4" width="24" alt="Avatar of gersak"> gersak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gersak">Copy rank badge</a><br/>
+			Robert Gersak
+		</td>
+		<td>Neyho </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>409</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/IvanDzanija">
+				<img src="https://avatars.githubusercontent.com/u/49160935?s=72&u=6fcfe0851d52f19e40bdf6345d1f59ef78681e5e&v=4" width="24" alt="Avatar of IvanDzanija"> IvanDzanija
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#IvanDzanija">Copy rank badge</a><br/>
+			Džanija Ivan
+		</td>
+		<td>University Of Zagreb </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>407</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/ivodolenc">
+				<img src="https://avatars.githubusercontent.com/u/51852491?s=72&u=c05d8274f20c775f72822a2b11b3398b1c177a3e&v=4" width="24" alt="Avatar of ivodolenc"> ivodolenc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivodolenc">Copy rank badge</a><br/>
+			Ivo Dolenc
+		</td>
+		<td>@hypernym-studio </td>
+		<td><a href="https://twitter.com/ivodolenc">ivodolenc</a></td>
+		<td>Croatia</td>
+		<td>402</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/IvaLeder">
+				<img src="https://avatars.githubusercontent.com/u/13046162?s=72&u=cb6bb0504d92d620abc5164f513cc2b819989029&v=4" width="24" alt="Avatar of IvaLeder"> IvaLeder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#IvaLeder">Copy rank badge</a><br/>
+			Iva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/dkarlovi">
+				<img src="https://avatars.githubusercontent.com/u/209225?s=72&v=4" width="24" alt="Avatar of dkarlovi"> dkarlovi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dkarlovi">Copy rank badge</a><br/>
+			Dalibor Karlović
+		</td>
+		<td>@sigwinhq   </td>
+		<td><a href="https://twitter.com/dkarlovi">dkarlovi</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>398</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/MatijaNovosel">
+				<img src="https://avatars.githubusercontent.com/u/36193643?s=72&u=c50f95671f18e735aa50c864eb6737d4ddb240bf&v=4" width="24" alt="Avatar of MatijaNovosel"> MatijaNovosel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MatijaNovosel">Copy rank badge</a><br/>
+			Matija Novosel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb metropolitan area, Croatia</td>
+		<td>397</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/senko">
+				<img src="https://avatars.githubusercontent.com/u/3362?s=72&u=67e370f17a1326a77145e9ff3f8aa2a1d6b91bad&v=4" width="24" alt="Avatar of senko"> senko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#senko">Copy rank badge</a><br/>
+			Senko Rašić
+		</td>
+		<td>@dobarkod </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/karlo-ks">
+				<img src="https://avatars.githubusercontent.com/u/51493791?s=72&u=adc502381a82ac9c64399840dda4cfd31d2397b8&v=4" width="24" alt="Avatar of karlo-ks"> karlo-ks
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karlo-ks">Copy rank badge</a><br/>
+			Karlo Kajba Šimanić
+		</td>
+		<td>Fakultet Elektrotehnike I Računarstva<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>393</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/narimiran">
+				<img src="https://avatars.githubusercontent.com/u/16516130?s=72&u=d238aaeb7aa3fe1fb4f5aa5a1c11c77bedcc27bf&v=4" width="24" alt="Avatar of narimiran"> narimiran
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#narimiran">Copy rank badge</a><br/>
+			Miran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>392</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/ken-kost">
+				<img src="https://avatars.githubusercontent.com/u/34007453?s=72&u=1bd02edacca6e807e042d602c43c4a7f5c0a6c13&v=4" width="24" alt="Avatar of ken-kost"> ken-kost
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ken-kost">Copy rank badge</a><br/>
+			Kenneth Kostrešević
+		</td>
+		<td>Reintegrate </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>388</td>
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>
-			<a href="https://github.com/PCrnjak">
-				<img src="https://avatars.githubusercontent.com/u/30388414?s=72&u=5198598efdf9363213d785fa628aba91c03413d5&v=4" width="24" alt="Avatar of PCrnjak"> PCrnjak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#PCrnjak">Copy rank badge</a><br/>
-			Source Robotics
-		</td>
-		<td>Source Robotics D.o.o. </td>
-		<td><a href="https://twitter.com/SourceRobotics">SourceRobotics</a></td>
-		<td>Croatia, Zagreb</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/hux0192">
-				<img src="https://avatars.githubusercontent.com/u/123821243?s=72&u=c7e8e631e13871a9cb11a0eca08fdd79803f1a65&v=4" width="24" alt="Avatar of hux0192"> hux0192
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hux0192">Copy rank badge</a><br/>
-			Borna, H.
-		</td>
-		<td>Romulus Industries </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>322</td>
-	</tr>
-	<tr>
-		<td>144</td>
 		<td>
 			<a href="https://github.com/Ivan1248">
 				<img src="https://avatars.githubusercontent.com/u/8408581?s=72&u=f5827d9478a3ccd0b837cdefe3bbd10794d9317c&v=4" width="24" alt="Avatar of Ivan1248"> Ivan1248
@@ -1976,10 +1950,192 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>University Of Zagreb, Fer<br/></td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>321</td>
+		<td>383</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/xan1242">
+				<img src="https://avatars.githubusercontent.com/u/8014093?s=72&u=611d2008e4a76c64239ad5bd834fb5aa8650092a&v=4" width="24" alt="Avatar of xan1242"> xan1242
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#xan1242">Copy rank badge</a><br/>
+			Lovro Pleše
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>372</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/caseycs">
+				<img src="https://avatars.githubusercontent.com/u/76095?s=72&v=4" width="24" alt="Avatar of caseycs"> caseycs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#caseycs">Copy rank badge</a><br/>
+			Ilia Kondrashov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>145</td>
+		<td>
+			<a href="https://github.com/tgrospic">
+				<img src="https://avatars.githubusercontent.com/u/5306205?s=72&u=3af563aa3e37620debd9a2053b4cc0a812d9632d&v=4" width="24" alt="Avatar of tgrospic"> tgrospic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tgrospic">Copy rank badge</a><br/>
+			Tomislav Grospić
+		</td>
+		<td>@concursys </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>365</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/iBatistic">
+				<img src="https://avatars.githubusercontent.com/u/19718956?s=72&u=7eb9ba9208dcf8877d30cc7ad5ff0aaf106d6801&v=4" width="24" alt="Avatar of iBatistic"> iBatistic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iBatistic">Copy rank badge</a><br/>
+			Ivan Batistić
+		</td>
+		<td>@solids4foam </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>365</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/jan-kelemen">
+				<img src="https://avatars.githubusercontent.com/u/8822011?s=72&u=b0f856775c76f1a1a2f4ae9708ba5f4d6114287e&v=4" width="24" alt="Avatar of jan-kelemen"> jan-kelemen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jan-kelemen">Copy rank badge</a><br/>
+			Jan Kelemen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>354</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/zcuric">
+				<img src="https://avatars.githubusercontent.com/u/1560102?s=72&u=eb452b2df25be954e012fcdb2dcb790fb6e80694&v=4" width="24" alt="Avatar of zcuric"> zcuric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zcuric">Copy rank badge</a><br/>
+			Zdravko Curic
+		</td>
+		<td>@meshdev-shop @harness-wealth  </td>
+		<td><a href="https://twitter.com/zcuric">zcuric</a></td>
+		<td>Split, Croatia</td>
+		<td>351</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/domagojhack">
+				<img src="https://avatars.githubusercontent.com/u/2804094?s=72&u=dd795930434ecbda16a1649ec1c1a83b31f9980f&v=4" width="24" alt="Avatar of domagojhack"> domagojhack
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#domagojhack">Copy rank badge</a><br/>
+			Domagoj K. Hackenberger
+		</td>
+		<td>@quantecolab  @sciom @bioquanthr<br/><br/></td>
+		<td><a href="https://twitter.com/DomagojKH">DomagojKH</a></td>
+		<td>Osijek</td>
+		<td>347</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/ikss">
+				<img src="https://avatars.githubusercontent.com/u/6949036?s=72&u=6b21fd5aedc427eaedf343730132e79c4b7f76a8&v=4" width="24" alt="Avatar of ikss"> ikss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ikss">Copy rank badge</a><br/>
+			Sergey Kuznetsov
+		</td>
+		<td>@infobip </td>
+		<td><a href="https://twitter.com/_ikss_">_ikss_</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>344</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/Martinsos">
+				<img src="https://avatars.githubusercontent.com/u/1536647?s=72&u=f7ce3d4f348c0f0006a611a17895b1dd7aad7659&v=4" width="24" alt="Avatar of Martinsos"> Martinsos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Martinsos">Copy rank badge</a><br/>
+			Martin Šošić
+		</td>
+		<td>Wasp-lang.dev </td>
+		<td><a href="https://twitter.com/MartinSosic">MartinSosic</a></td>
+		<td>Croatia</td>
+		<td>339</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/ovcarj">
+				<img src="https://avatars.githubusercontent.com/u/39093369?s=72&u=5a2d810fd467a2c255e008fdd2dc894059efc73d&v=4" width="24" alt="Avatar of ovcarj"> ovcarj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ovcarj">Copy rank badge</a><br/>
+			Juraj Ovčar
+		</td>
+		<td>Ruđer Bošković Institute </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>337</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/matijaoe">
+				<img src="https://avatars.githubusercontent.com/u/46557266?s=72&u=11ea20f81fb011f4bdd2237818c494a9423ec341&v=4" width="24" alt="Avatar of matijaoe"> matijaoe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matijaoe">Copy rank badge</a><br/>
+			Matija Osrečki
+		</td>
+		<td>@therenderdepartment </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>336</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/P374R">
+				<img src="https://avatars.githubusercontent.com/u/201371148?s=72&u=3f010169b0195230d15ae72b68ebbf55adc6d01d&v=4" width="24" alt="Avatar of P374R"> P374R
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#P374R">Copy rank badge</a><br/>
+			P374R
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>331</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/mnalis">
+				<img src="https://avatars.githubusercontent.com/u/156656?s=72&v=4" width="24" alt="Avatar of mnalis"> mnalis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mnalis">Copy rank badge</a><br/>
+			Matija Nalis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/ivanbiljan">
+				<img src="https://avatars.githubusercontent.com/u/7541476?s=72&u=ebf8bff5becd1cf96f58a1f545d16f28b272ef88&v=4" width="24" alt="Avatar of ivanbiljan"> ivanbiljan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanbiljan">Copy rank badge</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/madzarm">
 				<img src="https://avatars.githubusercontent.com/u/66718806?s=72&v=4" width="24" alt="Avatar of madzarm"> madzarm
@@ -1992,7 +2148,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>316</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/maliMirkec">
+				<img src="https://avatars.githubusercontent.com/u/2345786?s=72&u=e508b7ae3dbc4eff648839eac0a0154bf22fa60e&v=4" width="24" alt="Avatar of maliMirkec"> maliMirkec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#maliMirkec">Copy rank badge</a><br/>
+			Silvestar Bistrović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>315</td>
+	</tr>
+	<tr>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/flauc">
 				<img src="https://avatars.githubusercontent.com/u/4489834?s=72&u=56e6f90591743a4c0230e6cd28fe8f22fdc8b8d5&v=4" width="24" alt="Avatar of flauc"> flauc
@@ -2002,36 +2171,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Jaspero </td>
 		<td>No Twitter Username</td>
 		<td>Osijek, Croatia</td>
-		<td>315</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/xan1242">
-				<img src="https://avatars.githubusercontent.com/u/8014093?s=72&u=611d2008e4a76c64239ad5bd834fb5aa8650092a&v=4" width="24" alt="Avatar of xan1242"> xan1242
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#xan1242">Copy rank badge</a><br/>
-			Lovro Pleše
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
 		<td>314</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>160</td>
 		<td>
-			<a href="https://github.com/iBatistic">
-				<img src="https://avatars.githubusercontent.com/u/19718956?s=72&u=7eb9ba9208dcf8877d30cc7ad5ff0aaf106d6801&v=4" width="24" alt="Avatar of iBatistic"> iBatistic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iBatistic">Copy rank badge</a><br/>
-			Ivan Batistić
+			<a href="https://github.com/bornakapusta">
+				<img src="https://avatars.githubusercontent.com/u/13699645?s=72&u=02682a3bc89d3ce54559aae202abdb0235ef40a8&v=4" width="24" alt="Avatar of bornakapusta"> bornakapusta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bornakapusta">Copy rank badge</a><br/>
+			Borna Kapusta
 		</td>
-		<td>@solids4foam </td>
+		<td>Tight Line, Us </td>
 		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>314</td>
+		<td>Zagreb</td>
+		<td>308</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/zstanecic">
 				<img src="https://avatars.githubusercontent.com/u/11149715?s=72&v=4" width="24" alt="Avatar of zstanecic"> zstanecic
@@ -2041,49 +2197,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/zvonimirek222">zvonimirek222</a></td>
 		<td>Zagreb</td>
+		<td>306</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/MarinoLinic">
+				<img src="https://avatars.githubusercontent.com/u/84214511?s=72&u=ffc113ec51314baff37c5af2167a48329c7f47ea&v=4" width="24" alt="Avatar of MarinoLinic"> MarinoLinic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinoLinic">Copy rank badge</a><br/>
+			Marino Linić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>302</td>
 	</tr>
 	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/rcerljenko">
-				<img src="https://avatars.githubusercontent.com/u/16762056?s=72&u=d1a34c61d906c824867d21e7852558db1e6d746f&v=4" width="24" alt="Avatar of rcerljenko"> rcerljenko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rcerljenko">Copy rank badge</a><br/>
-			Ricardo Čerljenko
-		</td>
-		<td>@lloyds-digital </td>
-		<td>No Twitter Username</td>
-		<td>Labin, Croatia</td>
-		<td>301</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/mpetrunic">
-				<img src="https://avatars.githubusercontent.com/u/8836210?s=72&u=7d61fc685aa51c7df9c4a23579a747e45c3d26a9&v=4" width="24" alt="Avatar of mpetrunic"> mpetrunic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mpetrunic">Copy rank badge</a><br/>
-			Marin Petrunić
-		</td>
-		<td>@sprintertech </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, CRO</td>
-		<td>297</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/Vunovati">
-				<img src="https://avatars.githubusercontent.com/u/441333?s=72&u=6b810152229e46f792a64804b53d27e350811a60&v=4" width="24" alt="Avatar of Vunovati"> Vunovati
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Vunovati">Copy rank badge</a><br/>
-			Vladimir Adamić
-		</td>
-		<td>@kopai-app  </td>
-		<td><a href="https://twitter.com/Vunovati">Vunovati</a></td>
-		<td>Zagreb</td>
-		<td>296</td>
-	</tr>
-	<tr>
-		<td>153</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/Ss1107S">
 				<img src="https://avatars.githubusercontent.com/u/152962158?s=72&v=4" width="24" alt="Avatar of Ss1107S"> Ss1107S
@@ -2093,23 +2223,88 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia, Zagreb</td>
-		<td>295</td>
+		<td>297</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>164</td>
 		<td>
-			<a href="https://github.com/ianic">
-				<img src="https://avatars.githubusercontent.com/u/35909?s=72&v=4" width="24" alt="Avatar of ianic"> ianic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ianic">Copy rank badge</a><br/>
-			Igor Anić
+			<a href="https://github.com/simonseifert">
+				<img src="https://avatars.githubusercontent.com/u/88154286?s=72&u=e654b3ec98209cbb1a7c969e7b6e499fbaf57e85&v=4" width="24" alt="Avatar of simonseifert"> simonseifert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#simonseifert">Copy rank badge</a><br/>
+			simon
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>294</td>
+		<td>296</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/Vunovati">
+				<img src="https://avatars.githubusercontent.com/u/441333?s=72&u=6b810152229e46f792a64804b53d27e350811a60&v=4" width="24" alt="Avatar of Vunovati"> Vunovati
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Vunovati">Copy rank badge</a><br/>
+			Vladimir Adamić
+		</td>
+		<td>@kopai-app  </td>
+		<td><a href="https://twitter.com/Vunovati">Vunovati</a></td>
+		<td>Zagreb</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/dmarion">
+				<img src="https://avatars.githubusercontent.com/u/534553?s=72&u=68ec93b200a017a281f95f166bd3584a35270838&v=4" width="24" alt="Avatar of dmarion"> dmarion
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmarion">Copy rank badge</a><br/>
+			Damjan Marion
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kastav, Croatia</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/josip-k">
+				<img src="https://avatars.githubusercontent.com/u/22201855?s=72&u=be4270df81a64fbd88664011f0c3a5053de00803&v=4" width="24" alt="Avatar of josip-k"> josip-k
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#josip-k">Copy rank badge</a><br/>
+			Josip Kelečić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/htunlogic">
+				<img src="https://avatars.githubusercontent.com/u/8052928?s=72&u=ee947c0b416d2bb10cc0997a7e0cd8ecd891357d&v=4" width="24" alt="Avatar of htunlogic"> htunlogic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#htunlogic">Copy rank badge</a><br/>
+			Tibor Huđik
+		</td>
+		<td>@hudikhq </td>
+		<td><a href="https://twitter.com/htunlogic">htunlogic</a></td>
+		<td>Osijek, Croatia</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/katarinasupe">
+				<img src="https://avatars.githubusercontent.com/u/61758502?s=72&u=20cdcb0bae81b9eb330c94f7cfae462327785219&v=4" width="24" alt="Avatar of katarinasupe"> katarinasupe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#katarinasupe">Copy rank badge</a><br/>
+			Katarina Supe
+		</td>
+		<td>@memgraph </td>
+		<td><a href="https://twitter.com/supe_katarina">supe_katarina</a></td>
+		<td>Zagreb</td>
+		<td>283</td>
+	</tr>
+	<tr>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/KarloKnezevic">
 				<img src="https://avatars.githubusercontent.com/u/1936852?s=72&u=9fe1bc0ebf801facc33b7d3057a96a0a306e0885&v=4" width="24" alt="Avatar of KarloKnezevic"> KarloKnezevic
@@ -2119,10 +2314,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@sofascore </td>
 		<td><a href="https://twitter.com/KnezevicKarlo">KnezevicKarlo</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>290</td>
+		<td>283</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/krukru">
 				<img src="https://avatars.githubusercontent.com/u/10072630?s=72&u=e961f0c969855b64f385d8676632a4266d5beedb&v=4" width="24" alt="Avatar of krukru"> krukru
@@ -2135,72 +2330,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/ivanbiljan">
-				<img src="https://avatars.githubusercontent.com/u/7541476?s=72&u=ebf8bff5becd1cf96f58a1f545d16f28b272ef88&v=4" width="24" alt="Avatar of ivanbiljan"> ivanbiljan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanbiljan">Copy rank badge</a><br/>
-			Ivan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>282</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/irumiha">
-				<img src="https://avatars.githubusercontent.com/u/100465?s=72&u=63b3cf1e5e3890b6e91dfc72f9f666e31c2f9190&v=4" width="24" alt="Avatar of irumiha"> irumiha
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#irumiha">Copy rank badge</a><br/>
-			Igor Rumiha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/irrummi">irrummi</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>278</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/stjepanjurekovic">
-				<img src="https://avatars.githubusercontent.com/u/54952497?s=72&u=601a1a191583913bd624d05a212dcbe532978fbd&v=4" width="24" alt="Avatar of stjepanjurekovic"> stjepanjurekovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stjepanjurekovic">Copy rank badge</a><br/>
-			Stjepan Jureković
-		</td>
-		<td>Manning Publication </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>275</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/andrijzyn">
-				<img src="https://avatars.githubusercontent.com/u/62100293?s=72&u=fc84fa3ebf4ca0b94eb697e8b60c3cc5de8e3724&v=4" width="24" alt="Avatar of andrijzyn"> andrijzyn
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#andrijzyn">Copy rank badge</a><br/>
-			Andrii Zyniuk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/tabaktoni">
-				<img src="https://avatars.githubusercontent.com/u/923054?s=72&v=4" width="24" alt="Avatar of tabaktoni"> tabaktoni
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tabaktoni">Copy rank badge</a><br/>
-			Toni Tabak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Split</td>
-		<td>267</td>
-	</tr>
-	<tr>
-		<td>162</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/sergsagan">
 				<img src="https://avatars.githubusercontent.com/u/11443652?s=72&u=9f2f4d7c349c28278fcf5b1ff9cda6c4a90c0e14&v=4" width="24" alt="Avatar of sergsagan"> sergsagan
@@ -2210,114 +2340,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Smart Trader Llc (usa)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Split, Croatia</td>
-		<td>267</td>
+		<td>282</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>173</td>
 		<td>
-			<a href="https://github.com/cindreta">
-				<img src="https://avatars.githubusercontent.com/u/628464?s=72&u=9962c7424e4db0bdacbc6a2e7a5f7218683fc4d1&v=4" width="24" alt="Avatar of cindreta"> cindreta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#cindreta">Copy rank badge</a><br/>
-			Vedran Cindrić
+			<a href="https://github.com/kotarac">
+				<img src="https://avatars.githubusercontent.com/u/1216749?s=72&u=1a7586afa87cb5988ebe1009e01ea6c1b27245c2&v=4" width="24" alt="Avatar of kotarac"> kotarac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kotarac">Copy rank badge</a><br/>
+			Stipe Kotarac
 		</td>
-		<td>Treblle </td>
-		<td><a href="https://twitter.com/cindreta">cindreta</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>266</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/zcuric">
-				<img src="https://avatars.githubusercontent.com/u/1560102?s=72&u=eb452b2df25be954e012fcdb2dcb790fb6e80694&v=4" width="24" alt="Avatar of zcuric"> zcuric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zcuric">Copy rank badge</a><br/>
-			Zdravko Curic
-		</td>
-		<td>@meshdev-shop @harness-wealth  </td>
-		<td><a href="https://twitter.com/zcuric">zcuric</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Split, Croatia</td>
-		<td>265</td>
+		<td>281</td>
 	</tr>
 	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/mile-gepek">
-				<img src="https://avatars.githubusercontent.com/u/67148677?s=72&u=87fd352e3398f941afe4b04befe153f265a221ce&v=4" width="24" alt="Avatar of mile-gepek"> mile-gepek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mile-gepek">Copy rank badge</a><br/>
-			mile gepek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubrovnik</td>
-		<td>265</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/htunlogic">
-				<img src="https://avatars.githubusercontent.com/u/8052928?s=72&u=ee947c0b416d2bb10cc0997a7e0cd8ecd891357d&v=4" width="24" alt="Avatar of htunlogic"> htunlogic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#htunlogic">Copy rank badge</a><br/>
-			Tibor Huđik
-		</td>
-		<td>@hudikhq </td>
-		<td><a href="https://twitter.com/htunlogic">htunlogic</a></td>
-		<td>Osijek, Croatia</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/misobarisic">
-				<img src="https://avatars.githubusercontent.com/u/50531162?s=72&u=5ab235a8312c56262bd9177e65d0a152020fbc92&v=4" width="24" alt="Avatar of misobarisic"> misobarisic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#misobarisic">Copy rank badge</a><br/>
-			Mišo Barišić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/dingo-d">
-				<img src="https://avatars.githubusercontent.com/u/8638515?s=72&u=386c339bddfa8fd3b1de66999c02be6dc766a9eb&v=4" width="24" alt="Avatar of dingo-d"> dingo-d
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dingo-d">Copy rank badge</a><br/>
-			Denis Žoljom
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>262</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/lbrecic">
-				<img src="https://avatars.githubusercontent.com/u/116551028?s=72&u=7044306f48043386454e44e572c259af85827e1d&v=4" width="24" alt="Avatar of lbrecic"> lbrecic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lbrecic">Copy rank badge</a><br/>
-			Luka Brecic
-		</td>
-		<td>Daytona </td>
-		<td><a href="https://twitter.com/lbrecic">lbrecic</a></td>
-		<td>Osijek, Croatia</td>
-		<td>262</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/kost">
-				<img src="https://avatars.githubusercontent.com/u/68575?s=72&v=4" width="24" alt="Avatar of kost"> kost
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kost">Copy rank badge</a><br/>
-			kost
-		</td>
-		<td>Marlink Cyber </td>
-		<td><a href="https://twitter.com/k0st">k0st</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>260</td>
-	</tr>
-	<tr>
-		<td>171</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/IvanVnucec">
 				<img src="https://avatars.githubusercontent.com/u/50591550?s=72&u=75f28b989d328599167d3c17f56937cd9dab6afc&v=4" width="24" alt="Avatar of IvanVnucec"> IvanVnucec
@@ -2327,36 +2366,140 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/i_anonimni">i_anonimni</a></td>
 		<td>Croatia</td>
-		<td>259</td>
+		<td>278</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>175</td>
 		<td>
-			<a href="https://github.com/tomislavmamic">
-				<img src="https://avatars.githubusercontent.com/u/15949483?s=72&u=83ce237a8ffd4d0a755e1e2441809e2a91c0956d&v=4" width="24" alt="Avatar of tomislavmamic"> tomislavmamic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavmamic">Copy rank badge</a><br/>
-			Tomislav Mamić
+			<a href="https://github.com/mbanusic">
+				<img src="https://avatars.githubusercontent.com/u/694907?s=72&v=4" width="24" alt="Avatar of mbanusic"> mbanusic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbanusic">Copy rank badge</a><br/>
+			Marko Banusic
+		</td>
+		<td>@inspirium  </td>
+		<td><a href="https://twitter.com/mbanusic">mbanusic</a></td>
+		<td>Zagreb</td>
+		<td>277</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/irumiha">
+				<img src="https://avatars.githubusercontent.com/u/100465?s=72&u=63b3cf1e5e3890b6e91dfc72f9f666e31c2f9190&v=4" width="24" alt="Avatar of irumiha"> irumiha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#irumiha">Copy rank badge</a><br/>
+			Igor Rumiha
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tomislavmamic">tomislavmamic</a></td>
-		<td>Split</td>
-		<td>254</td>
+		<td><a href="https://twitter.com/irrummi">irrummi</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>275</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>177</td>
 		<td>
-			<a href="https://github.com/domagojhack">
-				<img src="https://avatars.githubusercontent.com/u/2804094?s=72&u=dd795930434ecbda16a1649ec1c1a83b31f9980f&v=4" width="24" alt="Avatar of domagojhack"> domagojhack
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#domagojhack">Copy rank badge</a><br/>
-			Domagoj K. Hackenberger
+			<a href="https://github.com/mile-gepek">
+				<img src="https://avatars.githubusercontent.com/u/67148677?s=72&u=87fd352e3398f941afe4b04befe153f265a221ce&v=4" width="24" alt="Avatar of mile-gepek"> mile-gepek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mile-gepek">Copy rank badge</a><br/>
+			mile gepek
 		</td>
-		<td>@quantecolab  @sciom @bioquanthr<br/><br/></td>
-		<td><a href="https://twitter.com/DomagojKH">DomagojKH</a></td>
-		<td>Osijek</td>
-		<td>253</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubrovnik</td>
+		<td>274</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/radanskoric">
+				<img src="https://avatars.githubusercontent.com/u/1065097?s=72&u=ae55b5a10d5fc4550d339e8e7aa00558bccc9364&v=4" width="24" alt="Avatar of radanskoric"> radanskoric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#radanskoric">Copy rank badge</a><br/>
+			Radan Skorić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>273</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/InCogNiTo124">
+				<img src="https://avatars.githubusercontent.com/u/12953598?s=72&u=3dee41493eeaf89b89485cd267814a5e8f5629ed&v=4" width="24" alt="Avatar of InCogNiTo124"> InCogNiTo124
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#InCogNiTo124">Copy rank badge</a><br/>
+			Marijan Smetko
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/MarijanSmetko">MarijanSmetko</a></td>
+		<td>Zagreb, Hrvatska</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/mpetrunic">
+				<img src="https://avatars.githubusercontent.com/u/8836210?s=72&u=7d61fc685aa51c7df9c4a23579a747e45c3d26a9&v=4" width="24" alt="Avatar of mpetrunic"> mpetrunic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mpetrunic">Copy rank badge</a><br/>
+			Marin Petrunić
+		</td>
+		<td>@sprintertech </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, CRO</td>
+		<td>270</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/ianic">
+				<img src="https://avatars.githubusercontent.com/u/35909?s=72&v=4" width="24" alt="Avatar of ianic"> ianic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ianic">Copy rank badge</a><br/>
+			Igor Anić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>270</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/andrijzyn">
+				<img src="https://avatars.githubusercontent.com/u/62100293?s=72&u=fc84fa3ebf4ca0b94eb697e8b60c3cc5de8e3724&v=4" width="24" alt="Avatar of andrijzyn"> andrijzyn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#andrijzyn">Copy rank badge</a><br/>
+			Andrii Zyniuk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>266</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/rcerljenko">
+				<img src="https://avatars.githubusercontent.com/u/16762056?s=72&u=d1a34c61d906c824867d21e7852558db1e6d746f&v=4" width="24" alt="Avatar of rcerljenko"> rcerljenko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rcerljenko">Copy rank badge</a><br/>
+			Ricardo Čerljenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Labin, Croatia</td>
+		<td>266</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/niksy">
+				<img src="https://avatars.githubusercontent.com/u/389286?s=72&u=70216d90403f387333b1632b7c8db80d319f3c14&v=4" width="24" alt="Avatar of niksy"> niksy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#niksy">Copy rank badge</a><br/>
+			Ivan Nikolić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/niksy">niksy</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/TopHatCroat">
 				<img src="https://avatars.githubusercontent.com/u/9058532?s=72&u=805f18e8061626efb4cf9ecca5dda063ab70328d&v=4" width="24" alt="Avatar of TopHatCroat"> TopHatCroat
@@ -2369,20 +2512,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>253</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>186</td>
 		<td>
-			<a href="https://github.com/InCogNiTo124">
-				<img src="https://avatars.githubusercontent.com/u/12953598?s=72&u=3dee41493eeaf89b89485cd267814a5e8f5629ed&v=4" width="24" alt="Avatar of InCogNiTo124"> InCogNiTo124
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#InCogNiTo124">Copy rank badge</a><br/>
-			Marijan Smetko
+			<a href="https://github.com/cindreta">
+				<img src="https://avatars.githubusercontent.com/u/628464?s=72&u=9962c7424e4db0bdacbc6a2e7a5f7218683fc4d1&v=4" width="24" alt="Avatar of cindreta"> cindreta
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#cindreta">Copy rank badge</a><br/>
+			Vedran Cindrić
 		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/MarijanSmetko">MarijanSmetko</a></td>
-		<td>Zagreb, Hrvatska</td>
+		<td>Treblle </td>
+		<td><a href="https://twitter.com/cindreta">cindreta</a></td>
+		<td>Zagreb, Croatia</td>
 		<td>252</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/Allypost">
+				<img src="https://avatars.githubusercontent.com/u/5151543?s=72&u=9d7facd9b82bf89de2fd51b3ed5b7094b1c78cff&v=4" width="24" alt="Avatar of Allypost"> Allypost
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Allypost">Copy rank badge</a><br/>
+			Josip Igrec
+		</td>
+		<td>@q-agency </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/gitbuda">
 				<img src="https://avatars.githubusercontent.com/u/4950251?s=72&u=f8e30e57ec7518071d7b022f173eeb7b4fb67f67&v=4" width="24" alt="Avatar of gitbuda"> gitbuda
@@ -2392,23 +2548,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@memgraph </td>
 		<td><a href="https://twitter.com/mbudiselicbuda">mbudiselicbuda</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>248</td>
+		<td>246</td>
 	</tr>
 	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/Caellian">
-				<img src="https://avatars.githubusercontent.com/u/4082795?s=72&u=97efb469dd84985dbc229fce8513739a02835929&v=4" width="24" alt="Avatar of Caellian"> Caellian
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Caellian">Copy rank badge</a><br/>
-			Tin Švagelj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>247</td>
-	</tr>
-	<tr>
-		<td>178</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/lcabraja">
 				<img src="https://avatars.githubusercontent.com/u/53939485?s=72&v=4" width="24" alt="Avatar of lcabraja"> lcabraja
@@ -2418,49 +2561,49 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>247</td>
+		<td>245</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>190</td>
 		<td>
-			<a href="https://github.com/maliMirkec">
-				<img src="https://avatars.githubusercontent.com/u/2345786?s=72&u=e508b7ae3dbc4eff648839eac0a0154bf22fa60e&v=4" width="24" alt="Avatar of maliMirkec"> maliMirkec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#maliMirkec">Copy rank badge</a><br/>
-			Silvestar Bistrović
+			<a href="https://github.com/neektza">
+				<img src="https://avatars.githubusercontent.com/u/816489?s=72&u=f90bc86db4c217fc7e822ffe2c21c493fdbec314&v=4" width="24" alt="Avatar of neektza"> neektza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#neektza">Copy rank badge</a><br/>
+			Nikica Jokic
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>246</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/MarinoLinic">
-				<img src="https://avatars.githubusercontent.com/u/84214511?s=72&u=ffc113ec51314baff37c5af2167a48329c7f47ea&v=4" width="24" alt="Avatar of MarinoLinic"> MarinoLinic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinoLinic">Copy rank badge</a><br/>
-			Marino Linić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Verybigthings </td>
+		<td><a href="https://twitter.com/neektza">neektza</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>243</td>
+		<td>242</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>191</td>
 		<td>
-			<a href="https://github.com/hermanzdosilovic">
-				<img src="https://avatars.githubusercontent.com/u/7927278?s=72&u=bd55e52f75ba68ec437876c25dd30cfa21ae9e63&v=4" width="24" alt="Avatar of hermanzdosilovic"> hermanzdosilovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hermanzdosilovic">Copy rank badge</a><br/>
-			Herman Zvonimir Došilović
+			<a href="https://github.com/KristijanZic">
+				<img src="https://avatars.githubusercontent.com/u/10299892?s=72&u=1748714094e4d50dff8ca28fab24b5c5ac42ede0&v=4" width="24" alt="Avatar of KristijanZic"> KristijanZic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#KristijanZic">Copy rank badge</a><br/>
+			Kristijan Žic
 		</td>
-		<td>@judge0 </td>
-		<td><a href="https://twitter.com/hermanzvonimir">hermanzvonimir</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>238</td>
+		<td>Appahoi, @10x-engineering </td>
+		<td><a href="https://twitter.com/KristijanZic">KristijanZic</a></td>
+		<td>Croatia</td>
+		<td>240</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/gornjas">
+				<img src="https://avatars.githubusercontent.com/u/11854009?s=72&u=b78b7a4bc61fd30cf7bcec4de7a0aa632e5b277d&v=4" width="24" alt="Avatar of gornjas"> gornjas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gornjas">Copy rank badge</a><br/>
+			Marko Zec
+		</td>
+		<td>Koncar Institut </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>239</td>
+	</tr>
+	<tr>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/vmandic">
 				<img src="https://avatars.githubusercontent.com/u/1390895?s=72&u=aff79990ddd0351dffba3d9322341a1e2b166ead&v=4" width="24" alt="Avatar of vmandic"> vmandic
@@ -2473,7 +2616,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/Caellian">
+				<img src="https://avatars.githubusercontent.com/u/4082795?s=72&u=97efb469dd84985dbc229fce8513739a02835929&v=4" width="24" alt="Avatar of Caellian"> Caellian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Caellian">Copy rank badge</a><br/>
+			Tin Švagelj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>237</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/hkatic">
+				<img src="https://avatars.githubusercontent.com/u/4093758?s=72&v=4" width="24" alt="Avatar of hkatic"> hkatic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hkatic">Copy rank badge</a><br/>
+			Hrvoje Katić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/andreicek">
 				<img src="https://avatars.githubusercontent.com/u/1520965?s=72&u=fda82a682df3432f9ace4843fb3e615ae3ae5e9d&v=4" width="24" alt="Avatar of andreicek"> andreicek
@@ -2483,101 +2652,36 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>236</td>
+		<td>229</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>197</td>
 		<td>
-			<a href="https://github.com/tgrospic">
-				<img src="https://avatars.githubusercontent.com/u/5306205?s=72&u=3af563aa3e37620debd9a2053b4cc0a812d9632d&v=4" width="24" alt="Avatar of tgrospic"> tgrospic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tgrospic">Copy rank badge</a><br/>
-			Tomislav Grospić
-		</td>
-		<td>@concursys </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/jaksatomovic">
-				<img src="https://avatars.githubusercontent.com/u/25745688?s=72&u=a27711d75493fa3dbd1d0a8edaa9f9cc1d777f36&v=4" width="24" alt="Avatar of jaksatomovic"> jaksatomovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jaksatomovic">Copy rank badge</a><br/>
-			iamcanarin
+			<a href="https://github.com/AAmanzi">
+				<img src="https://avatars.githubusercontent.com/u/45316208?s=72&u=74dd6971645eef622b26b6e47e0b55fa7be42206&v=4" width="24" alt="Avatar of AAmanzi"> AAmanzi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AAmanzi">Copy rank badge</a><br/>
+			Alex Amanzi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iamcanarin">iamcanarin</a></td>
+		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>234</td>
+		<td>228</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>198</td>
 		<td>
-			<a href="https://github.com/neektza">
-				<img src="https://avatars.githubusercontent.com/u/816489?s=72&u=f90bc86db4c217fc7e822ffe2c21c493fdbec314&v=4" width="24" alt="Avatar of neektza"> neektza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#neektza">Copy rank badge</a><br/>
-			Nikica Jokic
-		</td>
-		<td>Verybigthings </td>
-		<td><a href="https://twitter.com/neektza">neektza</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>232</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/senko">
-				<img src="https://avatars.githubusercontent.com/u/3362?s=72&u=67e370f17a1326a77145e9ff3f8aa2a1d6b91bad&v=4" width="24" alt="Avatar of senko"> senko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#senko">Copy rank badge</a><br/>
-			Senko Rašić
-		</td>
-		<td>@dobarkod </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>231</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/radanskoric">
-				<img src="https://avatars.githubusercontent.com/u/1065097?s=72&u=ae55b5a10d5fc4550d339e8e7aa00558bccc9364&v=4" width="24" alt="Avatar of radanskoric"> radanskoric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#radanskoric">Copy rank badge</a><br/>
-			Radan Skorić
+			<a href="https://github.com/tabaktoni">
+				<img src="https://avatars.githubusercontent.com/u/923054?s=72&v=4" width="24" alt="Avatar of tabaktoni"> tabaktoni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tabaktoni">Copy rank badge</a><br/>
+			Toni Tabak
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/mbanusic">
-				<img src="https://avatars.githubusercontent.com/u/694907?s=72&v=4" width="24" alt="Avatar of mbanusic"> mbanusic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbanusic">Copy rank badge</a><br/>
-			Marko Banusic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mbanusic">mbanusic</a></td>
-		<td>Zagreb</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/ilongin">
-				<img src="https://avatars.githubusercontent.com/u/4892140?s=72&u=09f7203624bc99b43c0bda05910cdeca9ee33f54&v=4" width="24" alt="Avatar of ilongin"> ilongin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ilongin">Copy rank badge</a><br/>
-			Ivan Longin
-		</td>
-		<td>Datachain </td>
-		<td>No Twitter Username</td>
-		<td>Zadar</td>
+		<td>Split</td>
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/stokry">
 				<img src="https://avatars.githubusercontent.com/u/45555307?s=72&u=aa0cb2f72ef4ba2e2251e0f529cb9527b147d6e6&v=4" width="24" alt="Avatar of stokry"> stokry
@@ -2587,10 +2691,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>226</td>
+		<td>227</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/ilongin">
+				<img src="https://avatars.githubusercontent.com/u/4892140?s=72&u=09f7203624bc99b43c0bda05910cdeca9ee33f54&v=4" width="24" alt="Avatar of ilongin"> ilongin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ilongin">Copy rank badge</a><br/>
+			Ivan Longin
+		</td>
+		<td>Datachain </td>
+		<td>No Twitter Username</td>
+		<td>Zadar</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/Cyber3x">
 				<img src="https://avatars.githubusercontent.com/u/43354922?s=72&u=9e363eb0a088ac70b1309ccb149e6291f3bda6dd&v=4" width="24" alt="Avatar of Cyber3x"> Cyber3x
@@ -2600,10 +2717,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@sofascore </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>225</td>
+		<td>222</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/Mario857">
 				<img src="https://avatars.githubusercontent.com/u/26458264?s=72&u=ccb5e9fd43cfe56e29536a087ddc386b71ef6bd7&v=4" width="24" alt="Avatar of Mario857"> Mario857
@@ -2613,231 +2730,62 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@vertex-protocol </td>
 		<td>No Twitter Username</td>
 		<td>Križevci, Croatia</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/ivpusic">
-				<img src="https://avatars.githubusercontent.com/u/450140?s=72&u=22c6b8fbf1190d27d39516d00bcbe80d5b6402e4&v=4" width="24" alt="Avatar of ivpusic"> ivpusic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivpusic">Copy rank badge</a><br/>
-			Ivan Pusic
-		</td>
-		<td>@duneanalytics </td>
-		<td><a href="https://twitter.com/ivpusic">ivpusic</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/josip-k">
-				<img src="https://avatars.githubusercontent.com/u/22201855?s=72&u=be4270df81a64fbd88664011f0c3a5053de00803&v=4" width="24" alt="Avatar of josip-k"> josip-k
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#josip-k">Copy rank badge</a><br/>
-			Josip Kelečić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/safaricd">
-				<img src="https://avatars.githubusercontent.com/u/153173064?s=72&u=1058a3d39581af90dc7aa5692bb228bb838562e2&v=4" width="24" alt="Avatar of safaricd"> safaricd
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#safaricd">Copy rank badge</a><br/>
-			Dominik Safaric
-		</td>
-		<td>Sulie </td>
-		<td><a href="https://twitter.com/dominiksafaric">dominiksafaric</a></td>
-		<td>Zagreb, Croatia</td>
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>203</td>
 		<td>
-			<a href="https://github.com/gornjas">
-				<img src="https://avatars.githubusercontent.com/u/11854009?s=72&u=b78b7a4bc61fd30cf7bcec4de7a0aa632e5b277d&v=4" width="24" alt="Avatar of gornjas"> gornjas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gornjas">Copy rank badge</a><br/>
-			Marko Zec
+			<a href="https://github.com/lbrecic">
+				<img src="https://avatars.githubusercontent.com/u/116551028?s=72&u=7044306f48043386454e44e572c259af85827e1d&v=4" width="24" alt="Avatar of lbrecic"> lbrecic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lbrecic">Copy rank badge</a><br/>
+			Luka Brecic
 		</td>
-		<td>Koncar Institut </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Daytona </td>
+		<td><a href="https://twitter.com/lbrecic">lbrecic</a></td>
+		<td>Osijek, Croatia</td>
 		<td>221</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/KristijanZic">
-				<img src="https://avatars.githubusercontent.com/u/10299892?s=72&u=1748714094e4d50dff8ca28fab24b5c5ac42ede0&v=4" width="24" alt="Avatar of KristijanZic"> KristijanZic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#KristijanZic">Copy rank badge</a><br/>
-			Kristijan Žic
-		</td>
-		<td>Appahoi, @10x-engineering </td>
-		<td><a href="https://twitter.com/KristijanZic">KristijanZic</a></td>
-		<td>Croatia</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/dkarlovi">
-				<img src="https://avatars.githubusercontent.com/u/209225?s=72&v=4" width="24" alt="Avatar of dkarlovi"> dkarlovi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dkarlovi">Copy rank badge</a><br/>
-			Dalibor Karlović
-		</td>
-		<td>@sigwinhq   </td>
-		<td><a href="https://twitter.com/dkarlovi">dkarlovi</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/Allypost">
-				<img src="https://avatars.githubusercontent.com/u/5151543?s=72&u=9d7facd9b82bf89de2fd51b3ed5b7094b1c78cff&v=4" width="24" alt="Avatar of Allypost"> Allypost
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Allypost">Copy rank badge</a><br/>
-			Josip Igrec
-		</td>
-		<td>@q-agency </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/SandraZiv">
-				<img src="https://avatars.githubusercontent.com/u/24324738?s=72&u=d8cc737cbfcfcd13a683a8482653b1ca496ad6a6&v=4" width="24" alt="Avatar of SandraZiv"> SandraZiv
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#SandraZiv">Copy rank badge</a><br/>
-			Sandra Zivkovic
-		</td>
-		<td>Microblink </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/branc116">
-				<img src="https://avatars.githubusercontent.com/u/16038323?s=72&u=e1bd7fd41387c8bb789e59dbf60d1ce4f8ed0be9&v=4" width="24" alt="Avatar of branc116"> branc116
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#branc116">Copy rank badge</a><br/>
-			Branimir Ričko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>209</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/anthrxc">
-				<img src="https://avatars.githubusercontent.com/u/42799339?s=72&u=29d09a5ad71e032048272977ffcca7a5ddd436d0&v=4" width="24" alt="Avatar of anthrxc"> anthrxc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#anthrxc">Copy rank badge</a><br/>
-			Ivan R
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>203</td>
 	</tr>
 	<tr>
 		<td>204</td>
 		<td>
-			<a href="https://github.com/dmarion">
-				<img src="https://avatars.githubusercontent.com/u/534553?s=72&u=68ec93b200a017a281f95f166bd3584a35270838&v=4" width="24" alt="Avatar of dmarion"> dmarion
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmarion">Copy rank badge</a><br/>
-			Damjan Marion
+			<a href="https://github.com/knezzz">
+				<img src="https://avatars.githubusercontent.com/u/5373484?s=72&u=12f370f631c8a211f1c9e67a57c5301df6a0a5d6&v=4" width="24" alt="Avatar of knezzz"> knezzz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#knezzz">Copy rank badge</a><br/>
+			Luka Knezic
 		</td>
-		<td>No Company</td>
+		<td>@infinum </td>
 		<td>No Twitter Username</td>
-		<td>Kastav, Croatia</td>
-		<td>199</td>
+		<td>Croatia</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>205</td>
 		<td>
-			<a href="https://github.com/markopoloparadox">
-				<img src="https://avatars.githubusercontent.com/u/4882434?s=72&u=5233f31771295c7fc3c2a4969ef8e3c8b319733b&v=4" width="24" alt="Avatar of markopoloparadox"> markopoloparadox
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markopoloparadox">Copy rank badge</a><br/>
-			Marko Petrlić
+			<a href="https://github.com/parl0v">
+				<img src="https://avatars.githubusercontent.com/u/117409883?s=72&u=01419c0f73b485a404eb7363edf5cee6eb04bcea&v=4" width="24" alt="Avatar of parl0v"> parl0v
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#parl0v">Copy rank badge</a><br/>
+			Josip Parlov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>197</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>206</td>
 		<td>
-			<a href="https://github.com/Domogo">
-				<img src="https://avatars.githubusercontent.com/u/24588918?s=72&u=a0f6f04bf8e8e833c0a803dc041c5abb079d72c1&v=4" width="24" alt="Avatar of Domogo"> Domogo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Domogo">Copy rank badge</a><br/>
-			Domagoj Satrapa
+			<a href="https://github.com/kost">
+				<img src="https://avatars.githubusercontent.com/u/68575?s=72&v=4" width="24" alt="Avatar of kost"> kost
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kost">Copy rank badge</a><br/>
+			kost
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Pula, Croatia</td>
-		<td>194</td>
+		<td>Marlink Cyber </td>
+		<td><a href="https://twitter.com/k0st">k0st</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>216</td>
 	</tr>
 	<tr>
 		<td>207</td>
-		<td>
-			<a href="https://github.com/Struki84">
-				<img src="https://avatars.githubusercontent.com/u/1117750?s=72&u=ec826346a22272f2195ebf1eae9eba4a42086529&v=4" width="24" alt="Avatar of Struki84"> Struki84
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Struki84">Copy rank badge</a><br/>
-			Šimun Strukan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dumbuffalo">dumbuffalo</a></td>
-		<td>Zagreb</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/iruzevic">
-				<img src="https://avatars.githubusercontent.com/u/23283324?s=72&u=70a47af9a5716eb276af557c33c188f8ffbf86f7&v=4" width="24" alt="Avatar of iruzevic"> iruzevic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iruzevic">Copy rank badge</a><br/>
-			Ivan Ružević
-		</td>
-		<td>Make Whatever Way J.d.o.o.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>192</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/tomislavherman">
-				<img src="https://avatars.githubusercontent.com/u/1177695?s=72&u=5a25eef12049e01ef46510cc42d636f07644e019&v=4" width="24" alt="Avatar of tomislavherman"> tomislavherman
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavherman">Copy rank badge</a><br/>
-			Tomislav Herman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Samobor, Croatia</td>
-		<td>186</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/zeljkoprsa">
-				<img src="https://avatars.githubusercontent.com/u/10166?s=72&u=ff26d92fd683320ffc8d4fa2625b48a4302e3627&v=4" width="24" alt="Avatar of zeljkoprsa"> zeljkoprsa
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zeljkoprsa">Copy rank badge</a><br/>
-			Željko Prša
-		</td>
-		<td>Prototyp D.o.o. </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>211</td>
 		<td>
 			<a href="https://github.com/miledxz">
 				<img src="https://avatars.githubusercontent.com/u/153705375?s=72&u=ba1de362a9bccad774e58ca8236e91da23ab065d&v=4" width="24" alt="Avatar of miledxz"> miledxz
@@ -2847,62 +2795,49 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@dragonflydb </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/kotarac">
-				<img src="https://avatars.githubusercontent.com/u/1216749?s=72&u=1a7586afa87cb5988ebe1009e01ea6c1b27245c2&v=4" width="24" alt="Avatar of kotarac"> kotarac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kotarac">Copy rank badge</a><br/>
-			Stipe Kotarac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>183</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/denibertovic">
-				<img src="https://avatars.githubusercontent.com/u/807660?s=72&v=4" width="24" alt="Avatar of denibertovic"> denibertovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#denibertovic">Copy rank badge</a><br/>
-			Deni Bertovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/anteprimorac">
-				<img src="https://avatars.githubusercontent.com/u/972083?s=72&u=0b9276ac0cefb6e25b942b3b323ded46a65697e1&v=4" width="24" alt="Avatar of anteprimorac"> anteprimorac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#anteprimorac">Copy rank badge</a><br/>
-			Ante Primorac
-		</td>
-		<td>Agilo </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/itsanamulhassan">
-				<img src="https://avatars.githubusercontent.com/u/99325446?s=72&u=219ad3dcbdd37f93ba2f1fde3cb59053255afd99&v=4" width="24" alt="Avatar of itsanamulhassan"> itsanamulhassan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#itsanamulhassan">Copy rank badge</a><br/>
-			Md Anamul Hassan
-		</td>
-		<td>Tech Element It </td>
-		<td><a href="https://twitter.com/itsanamulhassan">itsanamulhassan</a></td>
-		<td>Zagreb Metropolitan Area</td>
-		<td>178</td>
-	</tr>
-	<tr>
 		<td>216</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/ivpusic">
+				<img src="https://avatars.githubusercontent.com/u/450140?s=72&u=22c6b8fbf1190d27d39516d00bcbe80d5b6402e4&v=4" width="24" alt="Avatar of ivpusic"> ivpusic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivpusic">Copy rank badge</a><br/>
+			Ivan Pusic
+		</td>
+		<td>@duneanalytics </td>
+		<td><a href="https://twitter.com/ivpusic">ivpusic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/brahle">
+				<img src="https://avatars.githubusercontent.com/u/491186?s=72&v=4" width="24" alt="Avatar of brahle"> brahle
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brahle">Copy rank badge</a><br/>
+			Bruno Rahle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/bperak">
+				<img src="https://avatars.githubusercontent.com/u/13450656?s=72&u=c7cea66e80548dd250e1126cfc86c37339f109cd&v=4" width="24" alt="Avatar of bperak"> bperak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bperak">Copy rank badge</a><br/>
+			Benedikt Perak
+		</td>
+		<td>Faculty Of Humanities And<br/>Social<br/>Sciences,<br/>University<br/>Of<br/>Rijeka,<br/>@syntagent<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>210</td>
+	</tr>
+	<tr>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Andrej123456789">
 				<img src="https://avatars.githubusercontent.com/u/83548580?s=72&u=c7eb64d2f88d6aedd93c1a4a25076ad7b5f7b9b9&v=4" width="24" alt="Avatar of Andrej123456789"> Andrej123456789
@@ -2912,7 +2847,72 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Split, Croatia</td>
-		<td>177</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/stjepanjurekovic">
+				<img src="https://avatars.githubusercontent.com/u/54952497?s=72&u=601a1a191583913bd624d05a212dcbe532978fbd&v=4" width="24" alt="Avatar of stjepanjurekovic"> stjepanjurekovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#stjepanjurekovic">Copy rank badge</a><br/>
+			Stjepan Jureković
+		</td>
+		<td>Manning Publication </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/MerlijnWajer">
+				<img src="https://avatars.githubusercontent.com/u/517897?s=72&v=4" width="24" alt="Avatar of MerlijnWajer"> MerlijnWajer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MerlijnWajer">Copy rank badge</a><br/>
+			Merlijn Wajer
+		</td>
+		<td>Internet Archive </td>
+		<td>No Twitter Username</td>
+		<td>Sofia / Rijeka</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/dottyboy">
+				<img src="https://avatars.githubusercontent.com/u/15633926?s=72&u=532658c3d3aecc13fafc4750876e1f144479498b&v=4" width="24" alt="Avatar of dottyboy"> dottyboy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dottyboy">Copy rank badge</a><br/>
+			Dottyboy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/SandraZiv">
+				<img src="https://avatars.githubusercontent.com/u/24324738?s=72&u=d8cc737cbfcfcd13a683a8482653b1ca496ad6a6&v=4" width="24" alt="Avatar of SandraZiv"> SandraZiv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#SandraZiv">Copy rank badge</a><br/>
+			Sandra Zivkovic
+		</td>
+		<td>Microblink </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/tomislavherman">
+				<img src="https://avatars.githubusercontent.com/u/1177695?s=72&u=5a25eef12049e01ef46510cc42d636f07644e019&v=4" width="24" alt="Avatar of tomislavherman"> tomislavherman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavherman">Copy rank badge</a><br/>
+			Tomislav Herman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Samobor, Croatia</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -2925,62 +2925,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Dark Forest </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>177</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>218</td>
-		<td>
-			<a href="https://github.com/Tinche">
-				<img src="https://avatars.githubusercontent.com/u/1909233?s=72&v=4" width="24" alt="Avatar of Tinche"> Tinche
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Tinche">Copy rank badge</a><br/>
-			Tin Tvrtković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/zvanjak">
-				<img src="https://avatars.githubusercontent.com/u/4499631?s=72&u=eb89f14ca740250d09ef269debb10c33e8472aba&v=4" width="24" alt="Avatar of zvanjak"> zvanjak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zvanjak">Copy rank badge</a><br/>
-			Zvonimir Vanjak
-		</td>
-		<td>Quantum Soft D.o.o. </td>
-		<td><a href="https://twitter.com/zvanjak">zvanjak</a></td>
-		<td>Zagreb</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/lovretomic">
-				<img src="https://avatars.githubusercontent.com/u/92167015?s=72&u=6ea3ce307721c042ffe958478e3650bb15cb05a5&v=4" width="24" alt="Avatar of lovretomic"> lovretomic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lovretomic">Copy rank badge</a><br/>
-			Lovre Tomić
-		</td>
-		<td>@dump-hr / Fer </td>
-		<td>No Twitter Username</td>
-		<td>Zargeb/Split, Croatia</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/AAmanzi">
-				<img src="https://avatars.githubusercontent.com/u/45316208?s=72&u=74dd6971645eef622b26b6e47e0b55fa7be42206&v=4" width="24" alt="Avatar of AAmanzi"> AAmanzi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AAmanzi">Copy rank badge</a><br/>
-			Alex Amanzi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>222</td>
 		<td>
 			<a href="https://github.com/elkarrde">
 				<img src="https://avatars.githubusercontent.com/u/832053?s=72&v=4" width="24" alt="Avatar of elkarrde"> elkarrde
@@ -2990,49 +2938,140 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Iso3200.org </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>168</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/denibertovic">
+				<img src="https://avatars.githubusercontent.com/u/807660?s=72&v=4" width="24" alt="Avatar of denibertovic"> denibertovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#denibertovic">Copy rank badge</a><br/>
+			Deni Bertovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/markopoloparadox">
+				<img src="https://avatars.githubusercontent.com/u/4882434?s=72&u=5233f31771295c7fc3c2a4969ef8e3c8b319733b&v=4" width="24" alt="Avatar of markopoloparadox"> markopoloparadox
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markopoloparadox">Copy rank badge</a><br/>
+			Marko Petrlić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>187</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/zeljkoprsa">
+				<img src="https://avatars.githubusercontent.com/u/10166?s=72&u=ff26d92fd683320ffc8d4fa2625b48a4302e3627&v=4" width="24" alt="Avatar of zeljkoprsa"> zeljkoprsa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zeljkoprsa">Copy rank badge</a><br/>
+			Željko Prša
+		</td>
+		<td>Prototyp D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/MorphZG">
+				<img src="https://avatars.githubusercontent.com/u/83453128?s=72&u=612c2cab67ca0ce89906b60fc9ec23ca7b8f2baf&v=4" width="24" alt="Avatar of MorphZG"> MorphZG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MorphZG">Copy rank badge</a><br/>
+			Zoran Topic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>184</td>
 	</tr>
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/mkopcic">
-				<img src="https://avatars.githubusercontent.com/u/6863769?s=72&v=4" width="24" alt="Avatar of mkopcic"> mkopcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkopcic">Copy rank badge</a><br/>
-			Marijan Kopčić
+			<a href="https://github.com/anteprimorac">
+				<img src="https://avatars.githubusercontent.com/u/972083?s=72&u=0b9276ac0cefb6e25b942b3b323ded46a65697e1&v=4" width="24" alt="Avatar of anteprimorac"> anteprimorac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#anteprimorac">Copy rank badge</a><br/>
+			Ante Primorac
 		</td>
-		<td>Mellon Development </td>
+		<td>Agilo </td>
 		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>166</td>
+		<td>Croatia</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>224</td>
 		<td>
-			<a href="https://github.com/boris612">
-				<img src="https://avatars.githubusercontent.com/u/8102170?s=72&u=3a6b0b52a414f7414c3474c33670d944bce0aca2&v=4" width="24" alt="Avatar of boris612"> boris612
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#boris612">Copy rank badge</a><br/>
-			Boris Milašinović
+			<a href="https://github.com/iruzevic">
+				<img src="https://avatars.githubusercontent.com/u/23283324?s=72&u=70a47af9a5716eb276af557c33c188f8ffbf86f7&v=4" width="24" alt="Avatar of iruzevic"> iruzevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iruzevic">Copy rank badge</a><br/>
+			Ivan Ružević
 		</td>
-		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing,<br/>University<br/>Of<br/>Zagreb<br/></td>
+		<td>Make Whatever Way J.d.o.o.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>162</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/ciglenecki">
-				<img src="https://avatars.githubusercontent.com/u/12819849?s=72&u=f87d6f24e9d34e6d305d4e6763155d8bce56177c&v=4" width="24" alt="Avatar of ciglenecki"> ciglenecki
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ciglenecki">Copy rank badge</a><br/>
-			Matej Ciglenečki
+			<a href="https://github.com/zvanjak">
+				<img src="https://avatars.githubusercontent.com/u/4499631?s=72&u=eb89f14ca740250d09ef269debb10c33e8472aba&v=4" width="24" alt="Avatar of zvanjak"> zvanjak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zvanjak">Copy rank badge</a><br/>
+			Zvonimir Vanjak
 		</td>
-		<td>@tensorpix Cto </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>160</td>
+		<td>Quantum Soft D.o.o. </td>
+		<td><a href="https://twitter.com/zvanjak">zvanjak</a></td>
+		<td>Zagreb</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>226</td>
+		<td>
+			<a href="https://github.com/ChristopherA8">
+				<img src="https://avatars.githubusercontent.com/u/32487758?s=72&u=e173d2c6b88320e195c306828dc9b915ff689b62&v=4" width="24" alt="Avatar of ChristopherA8"> ChristopherA8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ChristopherA8">Copy rank badge</a><br/>
+			Christopher Anderson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ChristopherA8">ChristopherA8</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/Tinche">
+				<img src="https://avatars.githubusercontent.com/u/1909233?s=72&v=4" width="24" alt="Avatar of Tinche"> Tinche
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Tinche">Copy rank badge</a><br/>
+			Tin Tvrtković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/dingo-d">
+				<img src="https://avatars.githubusercontent.com/u/8638515?s=72&u=386c339bddfa8fd3b1de66999c02be6dc766a9eb&v=4" width="24" alt="Avatar of dingo-d"> dingo-d
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dingo-d">Copy rank badge</a><br/>
+			Denis Žoljom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/lperkov">
 				<img src="https://avatars.githubusercontent.com/u/244994?s=72&v=4" width="24" alt="Avatar of lperkov"> lperkov
@@ -3042,88 +3081,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Sartura </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/irubido">
-				<img src="https://avatars.githubusercontent.com/u/51483483?s=72&u=a98c1241137060318f696c51164bb49bbb5c5bdd&v=4" width="24" alt="Avatar of irubido"> irubido
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#irubido">Copy rank badge</a><br/>
-			Ivan Rubido
-		</td>
-		<td>@nodefactoryio @chainsafe </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/tbukic">
-				<img src="https://avatars.githubusercontent.com/u/9162897?s=72&u=60e449825af0e24cdca3535ac01c6e6c4e836a4a&v=4" width="24" alt="Avatar of tbukic"> tbukic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tbukic">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/valicm">
-				<img src="https://avatars.githubusercontent.com/u/3858015?s=72&v=4" width="24" alt="Avatar of valicm"> valicm
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#valicm">Copy rank badge</a><br/>
-			Valentino Međimorec
-		</td>
-		<td>@vallic  </td>
-		<td><a href="https://twitter.com/valic">valic</a></td>
-		<td>Croatia</td>
-		<td>156</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>230</td>
-		<td>
-			<a href="https://github.com/bornast">
-				<img src="https://avatars.githubusercontent.com/u/42786810?s=72&u=d4609f1fc364385fea2d1b51570a83783f0f25ee&v=4" width="24" alt="Avatar of bornast"> bornast
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bornast">Copy rank badge</a><br/>
-			Borna Šunjić
-		</td>
-		<td>@extensionengine </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/dark64">
-				<img src="https://avatars.githubusercontent.com/u/26434260?s=72&u=63328c6597e5ead48286a832e775fc360982d30e&v=4" width="24" alt="Avatar of dark64"> dark64
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dark64">Copy rank badge</a><br/>
-			Darko Macesic
-		</td>
-		<td>@zokrates @ethereum </td>
-		<td><a href="https://twitter.com/ntstack">ntstack</a></td>
-		<td>Croatia</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/brahle">
-				<img src="https://avatars.githubusercontent.com/u/491186?s=72&v=4" width="24" alt="Avatar of brahle"> brahle
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brahle">Copy rank badge</a><br/>
-			Bruno Rahle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>233</td>
 		<td>
 			<a href="https://github.com/dariodjuric">
 				<img src="https://avatars.githubusercontent.com/u/5459296?s=72&u=729ca765171633de2693178299319ba6b3f57316&v=4" width="24" alt="Avatar of dariodjuric"> dariodjuric
@@ -3131,51 +3092,116 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 			Dario Djuric
 		</td>
 		<td>No Company</td>
+		<td><a href="https://twitter.com/dario_djuric">dario_djuric</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/mkopcic">
+				<img src="https://avatars.githubusercontent.com/u/6863769?s=72&v=4" width="24" alt="Avatar of mkopcic"> mkopcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkopcic">Copy rank badge</a><br/>
+			Marijan Kopčić
+		</td>
+		<td>Mellon Development </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/0xABADBABE-ops">
+				<img src="https://avatars.githubusercontent.com/u/226801057?s=72&u=c4f51724b76086c9187a44837bdc4d48e9b31163&v=4" width="24" alt="Avatar of 0xABADBABE-ops"> 0xABADBABE-ops
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#0xABADBABE-ops">Copy rank badge</a><br/>
+			Sudo Qt
+		</td>
+		<td>0xabadbabe-labs </td>
+		<td>No Twitter Username</td>
+		<td>Croatia - Zagreb</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/boris612">
+				<img src="https://avatars.githubusercontent.com/u/8102170?s=72&u=3a6b0b52a414f7414c3474c33670d944bce0aca2&v=4" width="24" alt="Avatar of boris612"> boris612
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#boris612">Copy rank badge</a><br/>
+			Boris Milašinović
+		</td>
+		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing,<br/>University<br/>Of<br/>Zagreb<br/></td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>151</td>
+		<td>167</td>
 	</tr>
 	<tr>
 		<td>234</td>
 		<td>
-			<a href="https://github.com/zoltanmaric">
-				<img src="https://avatars.githubusercontent.com/u/5569474?s=72&u=0c449ac0eb640fc4d875ab67ef7f9f30cee6d80b&v=4" width="24" alt="Avatar of zoltanmaric"> zoltanmaric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zoltanmaric">Copy rank badge</a><br/>
-			Zoltán Marić
+			<a href="https://github.com/ciglenecki">
+				<img src="https://avatars.githubusercontent.com/u/12819849?s=72&u=f87d6f24e9d34e6d305d4e6763155d8bce56177c&v=4" width="24" alt="Avatar of ciglenecki"> ciglenecki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ciglenecki">Copy rank badge</a><br/>
+			Matej Ciglenečki
 		</td>
-		<td>1.21 Gigawatts | Equilibrium<br/>Energy<br/></td>
-		<td><a href="https://twitter.com/zoltanmaric">zoltanmaric</a></td>
-		<td>Zagreb</td>
-		<td>150</td>
+		<td>@tensorpix Cto </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>235</td>
 		<td>
-			<a href="https://github.com/mkozjak">
-				<img src="https://avatars.githubusercontent.com/u/3506172?s=72&u=b59afee7a3cf01e835fcd0cd56cfc5ac5206fd5a&v=4" width="24" alt="Avatar of mkozjak"> mkozjak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkozjak">Copy rank badge</a><br/>
-			Mario Kozjak
+			<a href="https://github.com/Struki84">
+				<img src="https://avatars.githubusercontent.com/u/1117750?s=72&u=ec826346a22272f2195ebf1eae9eba4a42086529&v=4" width="24" alt="Avatar of Struki84"> Struki84
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Struki84">Copy rank badge</a><br/>
+			Šimun Strukan
 		</td>
-		<td>@elpheria  </td>
-		<td><a href="https://twitter.com/mariokozjak">mariokozjak</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>148</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dumbuffalo">dumbuffalo</a></td>
+		<td>Zagreb</td>
+		<td>162</td>
 	</tr>
 	<tr>
 		<td>236</td>
 		<td>
-			<a href="https://github.com/MakMuftic">
-				<img src="https://avatars.githubusercontent.com/u/23664028?s=72&u=a03aaaff4b7e3c08469febeb7740374b74a0baca&v=4" width="24" alt="Avatar of MakMuftic"> MakMuftic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MakMuftic">Copy rank badge</a><br/>
-			mace
+			<a href="https://github.com/hermanzdosilovic">
+				<img src="https://avatars.githubusercontent.com/u/7927278?s=72&u=bd55e52f75ba68ec437876c25dd30cfa21ae9e63&v=4" width="24" alt="Avatar of hermanzdosilovic"> hermanzdosilovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hermanzdosilovic">Copy rank badge</a><br/>
+			Herman Zvonimir Došilović
 		</td>
-		<td>@chainsafe </td>
-		<td>No Twitter Username</td>
+		<td>@judge0 </td>
+		<td><a href="https://twitter.com/hermanzvonimir">hermanzvonimir</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>146</td>
+		<td>161</td>
 	</tr>
 	<tr>
 		<td>237</td>
+		<td>
+			<a href="https://github.com/branc116">
+				<img src="https://avatars.githubusercontent.com/u/16038323?s=72&u=e1bd7fd41387c8bb789e59dbf60d1ce4f8ed0be9&v=4" width="24" alt="Avatar of branc116"> branc116
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#branc116">Copy rank badge</a><br/>
+			Branimir Ričko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/jaksatomovic">
+				<img src="https://avatars.githubusercontent.com/u/25745688?s=72&u=a27711d75493fa3dbd1d0a8edaa9f9cc1d777f36&v=4" width="24" alt="Avatar of jaksatomovic"> jaksatomovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jaksatomovic">Copy rank badge</a><br/>
+			iamcanarin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamcanarin">iamcanarin</a></td>
+		<td>Croatia</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/Lovrom8">
 				<img src="https://avatars.githubusercontent.com/u/6155283?s=72&u=813491daa75c50eb62b5c96280bc556c55bae8ca&v=4" width="24" alt="Avatar of Lovrom8"> Lovrom8
@@ -3185,23 +3211,166 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@foivz </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>144</td>
+		<td>158</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>240</td>
 		<td>
-			<a href="https://github.com/mislavmatijevic">
-				<img src="https://avatars.githubusercontent.com/u/11699688?s=72&u=f04a599ed46c200ef3c65c3da83bf828e5cc2461&v=4" width="24" alt="Avatar of mislavmatijevic"> mislavmatijevic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mislavmatijevic">Copy rank badge</a><br/>
-			Mislav Matijević
+			<a href="https://github.com/akalajzi">
+				<img src="https://avatars.githubusercontent.com/u/2954889?s=72&u=7b3d3a92dd9a7840c0e7f1c37eb739d3c7b1468a&v=4" width="24" alt="Avatar of akalajzi"> akalajzi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akalajzi">Copy rank badge</a><br/>
+			Ante
 		</td>
-		<td>Emil Frey Digital D.o.o.<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/tbukic">
+				<img src="https://avatars.githubusercontent.com/u/9162897?s=72&u=60e449825af0e24cdca3535ac01c6e6c4e836a4a&v=4" width="24" alt="Avatar of tbukic"> tbukic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tbukic">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/mgrubisic">
+				<img src="https://avatars.githubusercontent.com/u/10792254?s=72&u=a522b81901ff9ccca8a04016248cf5d8520a5757&v=4" width="24" alt="Avatar of mgrubisic"> mgrubisic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mgrubisic">Copy rank badge</a><br/>
+			Marin Grubišić
+		</td>
+		<td>University Of Osijek, Faculty<br/>Of<br/>Civil<br/>Engineering<br/>And<br/>Architecture<br/>Osijek<br/></td>
+		<td><a href="https://twitter.com/mgrubisic">mgrubisic</a></td>
+		<td>Osijek, Croatia</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/safaricd">
+				<img src="https://avatars.githubusercontent.com/u/153173064?s=72&u=1058a3d39581af90dc7aa5692bb228bb838562e2&v=4" width="24" alt="Avatar of safaricd"> safaricd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#safaricd">Copy rank badge</a><br/>
+			Dominik Safaric
+		</td>
+		<td>Sulie </td>
+		<td><a href="https://twitter.com/dominiksafaric">dominiksafaric</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/bornast">
+				<img src="https://avatars.githubusercontent.com/u/42786810?s=72&u=d4609f1fc364385fea2d1b51570a83783f0f25ee&v=4" width="24" alt="Avatar of bornast"> bornast
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bornast">Copy rank badge</a><br/>
+			Borna Šunjić
+		</td>
+		<td>@extensionengine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/mstipanov">
+				<img src="https://avatars.githubusercontent.com/u/129415?s=72&v=4" width="24" alt="Avatar of mstipanov"> mstipanov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mstipanov">Copy rank badge</a><br/>
+			Marko Stipanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Labin, Istra, Croatia</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/mutantkeyboard">
+				<img src="https://avatars.githubusercontent.com/u/1167494?s=72&u=13e228e20aab4a02341de85b665ef766a0e380d5&v=4" width="24" alt="Avatar of mutantkeyboard"> mutantkeyboard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mutantkeyboard">Copy rank badge</a><br/>
+			Antonio Nesic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/X-Coder264">
+				<img src="https://avatars.githubusercontent.com/u/12602463?s=72&u=2997d04c06c68f62114df754c5e788a6b3b4bfe1&v=4" width="24" alt="Avatar of X-Coder264"> X-Coder264
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#X-Coder264">Copy rank badge</a><br/>
+			Antonio Pauletich
+		</td>
+		<td>@lendable </td>
+		<td><a href="https://twitter.com/AntonioPauleti1">AntonioPauleti1</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/bobo-k2">
+				<img src="https://avatars.githubusercontent.com/u/8452361?s=72&u=d1a66c71c7cd4a3456dd93572315dce3be5b0d5e&v=4" width="24" alt="Avatar of bobo-k2"> bobo-k2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bobo-k2">Copy rank badge</a><br/>
+			Bobo
+		</td>
+		<td>Block Zero Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/schef">
+				<img src="https://avatars.githubusercontent.com/u/775502?s=72&u=c5d90e1eb23d64460a8c03421ababc42aaec18a2&v=4" width="24" alt="Avatar of schef"> schef
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#schef">Copy rank badge</a><br/>
+			schef
+		</td>
+		<td>@duhovniprojekt @swissinnovationlab  </td>
+		<td><a href="https://twitter.com/zvanstefan">zvanstefan</a></td>
 		<td>Croatia</td>
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/dark64">
+				<img src="https://avatars.githubusercontent.com/u/26434260?s=72&u=63328c6597e5ead48286a832e775fc360982d30e&v=4" width="24" alt="Avatar of dark64"> dark64
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dark64">Copy rank badge</a><br/>
+			Darko Macesic
+		</td>
+		<td>@zokrates @ethereum </td>
+		<td><a href="https://twitter.com/ntstack">ntstack</a></td>
+		<td>Croatia</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/Domogo">
+				<img src="https://avatars.githubusercontent.com/u/24588918?s=72&u=a0f6f04bf8e8e833c0a803dc041c5abb079d72c1&v=4" width="24" alt="Avatar of Domogo"> Domogo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Domogo">Copy rank badge</a><br/>
+			Domagoj Satrapa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/AntonioObra">
 				<img src="https://avatars.githubusercontent.com/u/55183634?s=72&u=dc924545a0b6d875ae5b98f0a95b6523f2d91894&v=4" width="24" alt="Avatar of AntonioObra"> AntonioObra
@@ -3211,36 +3380,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@openvoid-dev </td>
 		<td><a href="https://twitter.com/obradovicdotdev">obradovicdotdev</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>143</td>
+		<td>142</td>
 	</tr>
 	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/parl0v">
-				<img src="https://avatars.githubusercontent.com/u/117409883?s=72&u=01419c0f73b485a404eb7363edf5cee6eb04bcea&v=4" width="24" alt="Avatar of parl0v"> parl0v
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#parl0v">Copy rank badge</a><br/>
-			Josip Parlov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/Susko3">
-				<img src="https://avatars.githubusercontent.com/u/16479013?s=72&u=c81fd3959822fcae2a36ef624d5a0c459ffe47ba&v=4" width="24" alt="Avatar of Susko3"> Susko3
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Susko3">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing<br/></td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>242</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/MasterMedo">
 				<img src="https://avatars.githubusercontent.com/u/16375100?s=72&u=de9c96181a0576282c6678529076fb17c9266f23&v=4" width="24" alt="Avatar of MasterMedo"> MasterMedo
@@ -3253,149 +3396,6 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/mpetrun5">
-				<img src="https://avatars.githubusercontent.com/u/22918781?s=72&u=c5df1d3301d80c7251ea67b2b24cdff23ea3b3d2&v=4" width="24" alt="Avatar of mpetrun5"> mpetrun5
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mpetrun5">Copy rank badge</a><br/>
-			Matija Petrunić
-		</td>
-		<td>@chainsafe  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, CRO</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/karlosmid">
-				<img src="https://avatars.githubusercontent.com/u/777520?s=72&u=a8a810bf90112002757794f6a8d5cef12380ad3d&v=4" width="24" alt="Avatar of karlosmid"> karlosmid
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karlosmid">Copy rank badge</a><br/>
-			Karlo Smid
-		</td>
-		<td>Tentamen </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/schef">
-				<img src="https://avatars.githubusercontent.com/u/775502?s=72&u=c5d90e1eb23d64460a8c03421ababc42aaec18a2&v=4" width="24" alt="Avatar of schef"> schef
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#schef">Copy rank badge</a><br/>
-			schef
-		</td>
-		<td>@duhovniprojekt @swissinnovationlab  </td>
-		<td><a href="https://twitter.com/zvanstefan">zvanstefan</a></td>
-		<td>Croatia</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/ChristopherA8">
-				<img src="https://avatars.githubusercontent.com/u/32487758?s=72&u=e173d2c6b88320e195c306828dc9b915ff689b62&v=4" width="24" alt="Avatar of ChristopherA8"> ChristopherA8
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ChristopherA8">Copy rank badge</a><br/>
-			Christopher Anderson
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ChristopherA8">ChristopherA8</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/bobo-k2">
-				<img src="https://avatars.githubusercontent.com/u/8452361?s=72&u=d1a66c71c7cd4a3456dd93572315dce3be5b0d5e&v=4" width="24" alt="Avatar of bobo-k2"> bobo-k2
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bobo-k2">Copy rank badge</a><br/>
-			Bobo
-		</td>
-		<td>Block Zero Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/bornakapusta">
-				<img src="https://avatars.githubusercontent.com/u/13699645?s=72&u=02682a3bc89d3ce54559aae202abdb0235ef40a8&v=4" width="24" alt="Avatar of bornakapusta"> bornakapusta
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bornakapusta">Copy rank badge</a><br/>
-			Borna Kapusta
-		</td>
-		<td>Tight Line, Us </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/katarinasupe">
-				<img src="https://avatars.githubusercontent.com/u/61758502?s=72&u=20cdcb0bae81b9eb330c94f7cfae462327785219&v=4" width="24" alt="Avatar of katarinasupe"> katarinasupe
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#katarinasupe">Copy rank badge</a><br/>
-			Katarina Supe
-		</td>
-		<td>@memgraph </td>
-		<td><a href="https://twitter.com/supe_katarina">supe_katarina</a></td>
-		<td>Zagreb</td>
-		<td>135</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/Toni-d-e-v">
-				<img src="https://avatars.githubusercontent.com/u/62844491?s=72&u=dcec916871ca78796d9ba05ce9c31869262442f8&v=4" width="24" alt="Avatar of Toni-d-e-v"> Toni-d-e-v
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Toni-d-e-v">Copy rank badge</a><br/>
-			toni-dev
-		</td>
-		<td>@crypto-ba  </td>
-		<td><a href="https://twitter.com/toni__dev">toni__dev</a></td>
-		<td>Croatia / BiH</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/vrodic">
-				<img src="https://avatars.githubusercontent.com/u/368968?s=72&u=f613f592f9660c0693a5fdaf403fca18ab4d4a09&v=4" width="24" alt="Avatar of vrodic"> vrodic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vrodic">Copy rank badge</a><br/>
-			Vedran Rodic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/mandryllo">
-				<img src="https://avatars.githubusercontent.com/u/10136836?s=72&u=f6e85f1360c9416f3be310ddfbc9e3b1c5996270&v=4" width="24" alt="Avatar of mandryllo"> mandryllo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mandryllo">Copy rank badge</a><br/>
-			Frano Sincic
-		</td>
-		<td>Tobogan </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/bozoslav">
-				<img src="https://avatars.githubusercontent.com/u/209497215?s=72&u=afc008da9fb9b71dac41ec07da5ec41b47ff89e7&v=4" width="24" alt="Avatar of bozoslav"> bozoslav
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bozoslav">Copy rank badge</a><br/>
-			Leon Mamić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Požega, Croatia</td>
-		<td>128</td>
-	</tr>
-	<tr>
 		<td>254</td>
 		<td>
 			<a href="https://github.com/kristijanbartol">
@@ -3406,75 +3406,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Fer </td>
 		<td><a href="https://twitter.com/BartolKristijan">BartolKristijan</a></td>
 		<td>Croatia</td>
-		<td>127</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>255</td>
 		<td>
-			<a href="https://github.com/petar-cvit">
-				<img src="https://avatars.githubusercontent.com/u/72022639?s=72&u=5e7be1b053f0512299bf54f354dffab2d1445471&v=4" width="24" alt="Avatar of petar-cvit"> petar-cvit
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#petar-cvit">Copy rank badge</a><br/>
-			Petar Cvitanović
+			<a href="https://github.com/mkozjak">
+				<img src="https://avatars.githubusercontent.com/u/3506172?s=72&u=b59afee7a3cf01e835fcd0cd56cfc5ac5206fd5a&v=4" width="24" alt="Avatar of mkozjak"> mkozjak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkozjak">Copy rank badge</a><br/>
+			Mario Kozjak
 		</td>
-		<td>@cyclops-ui  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>124</td>
+		<td>@elpheria  </td>
+		<td><a href="https://twitter.com/mariokozjak">mariokozjak</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>131</td>
 	</tr>
 	<tr>
 		<td>256</td>
-		<td>
-			<a href="https://github.com/MorphZG">
-				<img src="https://avatars.githubusercontent.com/u/83453128?s=72&u=612c2cab67ca0ce89906b60fc9ec23ca7b8f2baf&v=4" width="24" alt="Avatar of MorphZG"> MorphZG
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MorphZG">Copy rank badge</a><br/>
-			Zoran Topic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/retro">
-				<img src="https://avatars.githubusercontent.com/u/20320?s=72&u=954575826b9ff32fbadb1a41113faa36782b0989&v=4" width="24" alt="Avatar of retro"> retro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#retro">Copy rank badge</a><br/>
-			Mihael Konjević
-		</td>
-		<td>@verybigthings  </td>
-		<td><a href="https://twitter.com/mihaelkonjevic">mihaelkonjevic</a></td>
-		<td>Zagreb</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/jerkovicl">
-				<img src="https://avatars.githubusercontent.com/u/5444153?s=72&u=141aa7579d273f7e674d52c3ed9ddc92bbb1748f&v=4" width="24" alt="Avatar of jerkovicl"> jerkovicl
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jerkovicl">Copy rank badge</a><br/>
-			Luka Jerković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia / Madrid</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/scherednychenko">
-				<img src="https://avatars.githubusercontent.com/u/7486878?s=72&u=5c99b92557a947819cd21cbd937cfa5834b2262e&v=4" width="24" alt="Avatar of scherednychenko"> scherednychenko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#scherednychenko">Copy rank badge</a><br/>
-			Sergiy Cherednychenko
-		</td>
-		<td>Sergiy Cherednychenko Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>260</td>
 		<td>
 			<a href="https://github.com/vbalagovic">
 				<img src="https://avatars.githubusercontent.com/u/30495155?s=72&u=f9a372afbb669190210f00abb1361f2836d502ae&v=4" width="24" alt="Avatar of vbalagovic"> vbalagovic
@@ -3484,46 +3432,98 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Neural Draft Ltd </td>
 		<td><a href="https://twitter.com/dr_terapeut">dr_terapeut</a></td>
 		<td>Zagreb</td>
-		<td>117</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/m-peko">
+				<img src="https://avatars.githubusercontent.com/u/26385728?s=72&u=086000e4b7fca5c596caf54fb0ea1b4e1d2dc5a6&v=4" width="24" alt="Avatar of m-peko"> m-peko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#m-peko">Copy rank badge</a><br/>
+			Marin Peko
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/peko_mp">peko_mp</a></td>
+		<td>Croatia</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/karlosmid">
+				<img src="https://avatars.githubusercontent.com/u/777520?s=72&u=a8a810bf90112002757794f6a8d5cef12380ad3d&v=4" width="24" alt="Avatar of karlosmid"> karlosmid
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karlosmid">Copy rank badge</a><br/>
+			Karlo Smid
+		</td>
+		<td>Tentamen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/morrigan">
+				<img src="https://avatars.githubusercontent.com/u/4976604?s=72&u=34186df2096f8b1cab11bf30c64a2a691074255a&v=4" width="24" alt="Avatar of morrigan"> morrigan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#morrigan">Copy rank badge</a><br/>
+			Belma Bruner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/retro">
+				<img src="https://avatars.githubusercontent.com/u/20320?s=72&u=954575826b9ff32fbadb1a41113faa36782b0989&v=4" width="24" alt="Avatar of retro"> retro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#retro">Copy rank badge</a><br/>
+			Mihael Konjević
+		</td>
+		<td>@verybigthings  </td>
+		<td><a href="https://twitter.com/mihaelkonjevic">mihaelkonjevic</a></td>
+		<td>Zagreb</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>261</td>
 		<td>
-			<a href="https://github.com/dottyboy">
-				<img src="https://avatars.githubusercontent.com/u/15633926?s=72&u=532658c3d3aecc13fafc4750876e1f144479498b&v=4" width="24" alt="Avatar of dottyboy"> dottyboy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dottyboy">Copy rank badge</a><br/>
-			Dottyboy
+			<a href="https://github.com/Susko3">
+				<img src="https://avatars.githubusercontent.com/u/16479013?s=72&u=c81fd3959822fcae2a36ef624d5a0c459ffe47ba&v=4" width="24" alt="Avatar of Susko3"> Susko3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Susko3">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>No Company</td>
+		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing<br/></td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>116</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>262</td>
 		<td>
-			<a href="https://github.com/njelich">
-				<img src="https://avatars.githubusercontent.com/u/12912633?s=72&u=031adb8d8e51230959e7fb9f6fee2294c1f5c1b5&v=4" width="24" alt="Avatar of njelich"> njelich
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#njelich">Copy rank badge</a><br/>
-			Noah Jelich
+			<a href="https://github.com/mandryllo">
+				<img src="https://avatars.githubusercontent.com/u/10136836?s=72&u=f6e85f1360c9416f3be310ddfbc9e3b1c5996270&v=4" width="24" alt="Avatar of mandryllo"> mandryllo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mandryllo">Copy rank badge</a><br/>
+			Frano Sincic
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NoahJelich">NoahJelich</a></td>
-		<td>Croatia</td>
-		<td>116</td>
+		<td>Tobogan </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>263</td>
 		<td>
-			<a href="https://github.com/maatko">
-				<img src="https://avatars.githubusercontent.com/u/12175951?s=72&v=4" width="24" alt="Avatar of maatko"> maatko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#maatko">Copy rank badge</a><br/>
-			Matko
+			<a href="https://github.com/arrrlo">
+				<img src="https://avatars.githubusercontent.com/u/2082813?s=72&u=14e4853a87c49b7ff2ff7b79ad0c0bc40bd8ba99&v=4" width="24" alt="Avatar of arrrlo"> arrrlo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#arrrlo">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>Informatički Centar D.o.o </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>116</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>264</td>
@@ -3536,23 +3536,88 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Osijek, Croatia</td>
-		<td>115</td>
+		<td>122</td>
 	</tr>
 	<tr>
 		<td>265</td>
 		<td>
-			<a href="https://github.com/Danijel-Korent">
-				<img src="https://avatars.githubusercontent.com/u/11387192?s=72&u=419089085280e2760064fece68cd357a344e741a&v=4" width="24" alt="Avatar of Danijel-Korent"> Danijel-Korent
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Danijel-Korent">Copy rank badge</a><br/>
-			Danijel Korent
+			<a href="https://github.com/petar-cvit">
+				<img src="https://avatars.githubusercontent.com/u/72022639?s=72&u=5e7be1b053f0512299bf54f354dffab2d1445471&v=4" width="24" alt="Avatar of petar-cvit"> petar-cvit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#petar-cvit">Copy rank badge</a><br/>
+			Petar Cvitanović
 		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/DanijelKorent">DanijelKorent</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>114</td>
+		<td>@cyclops-ui  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>122</td>
 	</tr>
 	<tr>
 		<td>266</td>
+		<td>
+			<a href="https://github.com/9A4AM">
+				<img src="https://avatars.githubusercontent.com/u/25196340?s=72&u=74a9bfc5d5de2bb94c7171c61db7fa28a8a2bd32&v=4" width="24" alt="Avatar of 9A4AM"> 9A4AM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#9A4AM">Copy rank badge</a><br/>
+			Mario Ancic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kutina, Croatia</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/valentt">
+				<img src="https://avatars.githubusercontent.com/u/620901?s=72&u=bcbac0af30eaed2fe85e26970112b5bdca999600&v=4" width="24" alt="Avatar of valentt"> valentt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#valentt">Copy rank badge</a><br/>
+			Valent Turkovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/BrunoJurkovic">
+				<img src="https://avatars.githubusercontent.com/u/28235257?s=72&u=1124dd10ceea8828a1303c639823b99611cac266&v=4" width="24" alt="Avatar of BrunoJurkovic"> BrunoJurkovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BrunoJurkovic">Copy rank badge</a><br/>
+			Bruno Jurković
+		</td>
+		<td>@valere-margins </td>
+		<td>No Twitter Username</td>
+		<td>Karlovac, Croatia</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/MakMuftic">
+				<img src="https://avatars.githubusercontent.com/u/23664028?s=72&u=a03aaaff4b7e3c08469febeb7740374b74a0baca&v=4" width="24" alt="Avatar of MakMuftic"> MakMuftic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MakMuftic">Copy rank badge</a><br/>
+			mace
+		</td>
+		<td>@chainsafe </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/thak123">
+				<img src="https://avatars.githubusercontent.com/u/3891859?s=72&u=66e4c1667153ae6d5d4cdbc97f0b9817a0c911cb&v=4" width="24" alt="Avatar of thak123"> thak123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#thak123">Copy rank badge</a><br/>
+			Gaurish Thakkar
+		</td>
+		<td>University Of Zagreb </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/bstrahija">
 				<img src="https://avatars.githubusercontent.com/u/125499?s=72&v=4" width="24" alt="Avatar of bstrahija"> bstrahija
@@ -3565,46 +3630,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>272</td>
 		<td>
-			<a href="https://github.com/apavlinovic">
-				<img src="https://avatars.githubusercontent.com/u/1139507?s=72&u=14f33600330683227ff8274b216762dd863bfd1c&v=4" width="24" alt="Avatar of apavlinovic"> apavlinovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#apavlinovic">Copy rank badge</a><br/>
-			Antonio Pavlinović
+			<a href="https://github.com/maatko">
+				<img src="https://avatars.githubusercontent.com/u/12175951?s=72&v=4" width="24" alt="Avatar of maatko"> maatko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#maatko">Copy rank badge</a><br/>
+			Matko
 		</td>
-		<td>@tripadvisor </td>
+		<td>Informatički Centar D.o.o </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>112</td>
+		<td>113</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>273</td>
 		<td>
-			<a href="https://github.com/jseparovic1">
-				<img src="https://avatars.githubusercontent.com/u/14984987?s=72&u=dc228ff66c2d5747fde793a9769a01063ee2ce7d&v=4" width="24" alt="Avatar of jseparovic1"> jseparovic1
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jseparovic1">Copy rank badge</a><br/>
-			Jurica Šeparović
+			<a href="https://github.com/irubido">
+				<img src="https://avatars.githubusercontent.com/u/51483483?s=72&u=a98c1241137060318f696c51164bb49bbb5c5bdd&v=4" width="24" alt="Avatar of irubido"> irubido
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#irubido">Copy rank badge</a><br/>
+			Ivan Rubido
 		</td>
-		<td>Hypertext </td>
-		<td><a href="https://twitter.com/jseparovic1">jseparovic1</a></td>
-		<td>Split Croatia</td>
+		<td>@nodefactoryio @chainsafe </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/kristian240">
 				<img src="https://avatars.githubusercontent.com/u/55184443?s=72&u=3cf7c81c33c473b89cdf9bb846dc7139465dc0d9&v=4" width="24" alt="Avatar of kristian240"> kristian240
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kristian240">Copy rank badge</a><br/>
 			Kristian Djaković
 		</td>
-		<td>@mochalabsorg  </td>
+		<td>@propsmadness   </td>
 		<td><a href="https://twitter.com/kdjakovic240">kdjakovic240</a></td>
 		<td>Zagreb, Croatia</td>
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/jglasovic">
 				<img src="https://avatars.githubusercontent.com/u/23735743?s=72&u=93fec525700ef9fd6078e8d6b51e9615e574a182&v=4" width="24" alt="Avatar of jglasovic"> jglasovic
@@ -3617,7 +3682,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/brunotot">
+				<img src="https://avatars.githubusercontent.com/u/53398175?s=72&u=27d5bdbc7273e642959e8ed3f0c04220ebd5c1f0&v=4" width="24" alt="Avatar of brunotot"> brunotot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brunotot">Copy rank badge</a><br/>
+			Bruno
+		</td>
+		<td>Rgo Communications </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/MarioLegenda">
 				<img src="https://avatars.githubusercontent.com/u/6998286?s=72&u=06185c80f9f5ec594b4e8426473a02fba12a6301&v=4" width="24" alt="Avatar of MarioLegenda"> MarioLegenda
@@ -3630,134 +3708,56 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>278</td>
 		<td>
-			<a href="https://github.com/morrigan">
-				<img src="https://avatars.githubusercontent.com/u/4976604?s=72&u=34186df2096f8b1cab11bf30c64a2a691074255a&v=4" width="24" alt="Avatar of morrigan"> morrigan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#morrigan">Copy rank badge</a><br/>
-			Belma Bruner
+			<a href="https://github.com/mpetrun5">
+				<img src="https://avatars.githubusercontent.com/u/22918781?s=72&u=c5df1d3301d80c7251ea67b2b24cdff23ea3b3d2&v=4" width="24" alt="Avatar of mpetrun5"> mpetrun5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mpetrun5">Copy rank badge</a><br/>
+			Matija Petrunić
 		</td>
-		<td>No Company</td>
+		<td>@chainsafe  </td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>109</td>
+		<td>Zagreb, CRO</td>
+		<td>110</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/fkdosilovic">
-				<img src="https://avatars.githubusercontent.com/u/3754741?s=72&u=8af98a3c4339e9effc51b9845c5cae9b3be34729&v=4" width="24" alt="Avatar of fkdosilovic"> fkdosilovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fkdosilovic">Copy rank badge</a><br/>
-			Filip Karlo Došilović
+			<a href="https://github.com/Danijel-Korent">
+				<img src="https://avatars.githubusercontent.com/u/11387192?s=72&u=419089085280e2760064fece68cd357a344e741a&v=4" width="24" alt="Avatar of Danijel-Korent"> Danijel-Korent
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Danijel-Korent">Copy rank badge</a><br/>
+			Danijel Korent
 		</td>
-		<td>Transcom </td>
-		<td><a href="https://twitter.com/fkdosilovic">fkdosilovic</a></td>
-		<td>Zagreb</td>
-		<td>108</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/DanijelKorent">DanijelKorent</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>110</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>280</td>
 		<td>
-			<a href="https://github.com/CroAnna">
-				<img src="https://avatars.githubusercontent.com/u/90924342?s=72&u=6b088d93e9baa2c9fe7a559ffabf1eb6521d89f3&v=4" width="24" alt="Avatar of CroAnna"> CroAnna
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#CroAnna">Copy rank badge</a><br/>
-			Ana Škarica
+			<a href="https://github.com/apavlinovic">
+				<img src="https://avatars.githubusercontent.com/u/1139507?s=72&u=14f33600330683227ff8274b216762dd863bfd1c&v=4" width="24" alt="Avatar of apavlinovic"> apavlinovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#apavlinovic">Copy rank badge</a><br/>
+			Antonio Pavlinović
 		</td>
-		<td>No Company</td>
+		<td>@tripadvisor </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/smikulic">
-				<img src="https://avatars.githubusercontent.com/u/175839?s=72&u=c074703c944295d8991cc00de7fb514b67db2f9c&v=4" width="24" alt="Avatar of smikulic"> smikulic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#smikulic">Copy rank badge</a><br/>
-			Sinisa Mikulic
-		</td>
-		<td>@codewellstudio  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Remote</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/valentt">
-				<img src="https://avatars.githubusercontent.com/u/620901?s=72&u=bcbac0af30eaed2fe85e26970112b5bdca999600&v=4" width="24" alt="Avatar of valentt"> valentt
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#valentt">Copy rank badge</a><br/>
-			Valent Turkovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/mgrubisic">
-				<img src="https://avatars.githubusercontent.com/u/10792254?s=72&u=a522b81901ff9ccca8a04016248cf5d8520a5757&v=4" width="24" alt="Avatar of mgrubisic"> mgrubisic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mgrubisic">Copy rank badge</a><br/>
-			Marin Grubišić
-		</td>
-		<td>University Of Osijek, Faculty<br/>Of<br/>Civil<br/>Engineering<br/>And<br/>Architecture<br/>Osijek<br/></td>
-		<td><a href="https://twitter.com/mgrubisic">mgrubisic</a></td>
-		<td>Osijek, Croatia</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/domagojk">
-				<img src="https://avatars.githubusercontent.com/u/1868852?s=72&u=e3c59a339cf272e02e82fc03ebdb0cd8b67924c6&v=4" width="24" alt="Avatar of domagojk"> domagojk
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#domagojk">Copy rank badge</a><br/>
-			Domagoj Kriskovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/BrunoJurkovic">
-				<img src="https://avatars.githubusercontent.com/u/28235257?s=72&u=1124dd10ceea8828a1303c639823b99611cac266&v=4" width="24" alt="Avatar of BrunoJurkovic"> BrunoJurkovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BrunoJurkovic">Copy rank badge</a><br/>
-			Bruno Jurković
-		</td>
-		<td>@valere-margins </td>
-		<td>No Twitter Username</td>
-		<td>Karlovac, Croatia</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/precla">
-				<img src="https://avatars.githubusercontent.com/u/7177449?s=72&u=b00d94176e682eaddbd45fef9b07fafbb85b9e1f&v=4" width="24" alt="Avatar of precla"> precla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#precla">Copy rank badge</a><br/>
-			Antonio P
-		</td>
-		<td>@sartura  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>105</td>
-	</tr>
-	<tr>
 		<td>281</td>
 		<td>
-			<a href="https://github.com/ItsNature">
-				<img src="https://avatars.githubusercontent.com/u/29950356?s=72&v=4" width="24" alt="Avatar of ItsNature"> ItsNature
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ItsNature">Copy rank badge</a><br/>
-			Matej Bučarić
+			<a href="https://github.com/LeonardoM011">
+				<img src="https://avatars.githubusercontent.com/u/26369776?s=72&u=e3175a973061a7cb946e280cdf34d6e66db9a11f&v=4" width="24" alt="Avatar of LeonardoM011"> LeonardoM011
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LeonardoM011">Copy rank badge</a><br/>
+			Leonardo Marinovic
 		</td>
-		<td>@moonsworth  </td>
-		<td><a href="https://twitter.com/mvnNature">mvnNature</a></td>
-		<td>Croatia</td>
-		<td>104</td>
+		<td>Mithril </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>107</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -3770,7 +3770,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Wasp </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>103</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>283</td>
@@ -3783,62 +3783,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>103</td>
+		<td>104</td>
 	</tr>
 	<tr>
 		<td>284</td>
-		<td>
-			<a href="https://github.com/dabrorius">
-				<img src="https://avatars.githubusercontent.com/u/690113?s=72&u=112c201bb05e250c3b1c4fe5c082360bb21e1754&v=4" width="24" alt="Avatar of dabrorius"> dabrorius
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dabrorius">Copy rank badge</a><br/>
-			Filip Defar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/LeonardoM011">
-				<img src="https://avatars.githubusercontent.com/u/26369776?s=72&u=e3175a973061a7cb946e280cdf34d6e66db9a11f&v=4" width="24" alt="Avatar of LeonardoM011"> LeonardoM011
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LeonardoM011">Copy rank badge</a><br/>
-			Leonardo Marinovic
-		</td>
-		<td>Mithril </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/jtlicardo">
-				<img src="https://avatars.githubusercontent.com/u/73391139?s=72&v=4" width="24" alt="Avatar of jtlicardo"> jtlicardo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jtlicardo">Copy rank badge</a><br/>
-			Josip Tomo Licardo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/fpehar">
-				<img src="https://avatars.githubusercontent.com/u/676170?s=72&v=4" width="24" alt="Avatar of fpehar"> fpehar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fpehar">Copy rank badge</a><br/>
-			Franjo Pehar
-		</td>
-		<td>University Of Zadar </td>
-		<td>No Twitter Username</td>
-		<td>Zadar, Croatia</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>288</td>
 		<td>
 			<a href="https://github.com/skuxy">
 				<img src="https://avatars.githubusercontent.com/u/8920636?s=72&u=696ee8ad67534c1b062f88b44ca9f6b02f59c0cf&v=4" width="24" alt="Avatar of skuxy"> skuxy
@@ -3848,10 +3796,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@daytona </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>98</td>
+		<td>103</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/smikulic">
+				<img src="https://avatars.githubusercontent.com/u/175839?s=72&u=c074703c944295d8991cc00de7fb514b67db2f9c&v=4" width="24" alt="Avatar of smikulic"> smikulic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#smikulic">Copy rank badge</a><br/>
+			Sinisa Mikulic
+		</td>
+		<td>@codewellstudio  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Remote</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/tkrajina">
 				<img src="https://avatars.githubusercontent.com/u/379243?s=72&u=7dc407671361626b1346981a495da8e9296792a6&v=4" width="24" alt="Avatar of tkrajina"> tkrajina
@@ -3861,20 +3822,59 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Višnjan, Istra, Croatia, Europe</td>
-		<td>94</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/domagojk">
+				<img src="https://avatars.githubusercontent.com/u/1868852?s=72&u=e3c59a339cf272e02e82fc03ebdb0cd8b67924c6&v=4" width="24" alt="Avatar of domagojk"> domagojk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#domagojk">Copy rank badge</a><br/>
+			Domagoj Kriskovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/ItsNature">
+				<img src="https://avatars.githubusercontent.com/u/29950356?s=72&v=4" width="24" alt="Avatar of ItsNature"> ItsNature
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ItsNature">Copy rank badge</a><br/>
+			Matej Bučarić
+		</td>
+		<td>@moonsworth  </td>
+		<td><a href="https://twitter.com/mvnNature">mvnNature</a></td>
+		<td>Croatia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/viborc">
+				<img src="https://avatars.githubusercontent.com/u/48092564?s=72&u=5f284e1bd8685f0a16050b6db8577f56b17ce1c2&v=4" width="24" alt="Avatar of viborc"> viborc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#viborc">Copy rank badge</a><br/>
+			Vibor Cipan
+		</td>
+		<td>@wasp-lang </td>
+		<td><a href="https://twitter.com/viborc">viborc</a></td>
+		<td>Croatia</td>
+		<td>99</td>
 	</tr>
 	<tr>
 		<td>290</td>
 		<td>
-			<a href="https://github.com/MatijaNovosel">
-				<img src="https://avatars.githubusercontent.com/u/36193643?s=72&u=c50f95671f18e735aa50c864eb6737d4ddb240bf&v=4" width="24" alt="Avatar of MatijaNovosel"> MatijaNovosel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MatijaNovosel">Copy rank badge</a><br/>
-			Matija Novosel
+			<a href="https://github.com/SincerelyFaust">
+				<img src="https://avatars.githubusercontent.com/u/44751736?s=72&u=5916bcfaa403ec046922f01e62e0888c82977f93&v=4" width="24" alt="Avatar of SincerelyFaust"> SincerelyFaust
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#SincerelyFaust">Copy rank badge</a><br/>
+			Marin Heđeš
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb metropolitan area, Croatia</td>
-		<td>93</td>
+		<td><a href="https://twitter.com/sincerelyfaust">sincerelyfaust</a></td>
+		<td>Croatia</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>291</td>
@@ -3887,36 +3887,114 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kova98k">kova98k</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>91</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>292</td>
 		<td>
-			<a href="https://github.com/ihabunek">
-				<img src="https://avatars.githubusercontent.com/u/482138?s=72&u=0e96e3b01202b241b7bf565c154a4941defac799&v=4" width="24" alt="Avatar of ihabunek"> ihabunek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ihabunek">Copy rank badge</a><br/>
-			Ivan Habunek
+			<a href="https://github.com/precla">
+				<img src="https://avatars.githubusercontent.com/u/7177449?s=72&u=b00d94176e682eaddbd45fef9b07fafbb85b9e1f&v=4" width="24" alt="Avatar of precla"> precla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#precla">Copy rank badge</a><br/>
+			Antonio P
 		</td>
-		<td>Big Fish Software </td>
+		<td>@sartura  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/AntonioZulim">
+				<img src="https://avatars.githubusercontent.com/u/78260626?s=72&v=4" width="24" alt="Avatar of AntonioZulim"> AntonioZulim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AntonioZulim">Copy rank badge</a><br/>
+			Antonio Zulim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/pmli">
+				<img src="https://avatars.githubusercontent.com/u/1268421?s=72&u=942102e57e408898adcf8b88e5a4054774e2eb16&v=4" width="24" alt="Avatar of pmli"> pmli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#pmli">Copy rank badge</a><br/>
+			Petar Mlinarić
+		</td>
+		<td>University Of Zagreb </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/dabrorius">
+				<img src="https://avatars.githubusercontent.com/u/690113?s=72&u=112c201bb05e250c3b1c4fe5c082360bb21e1754&v=4" width="24" alt="Avatar of dabrorius"> dabrorius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dabrorius">Copy rank badge</a><br/>
+			Filip Defar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/CroAnna">
+				<img src="https://avatars.githubusercontent.com/u/90924342?s=72&u=6b088d93e9baa2c9fe7a559ffabf1eb6521d89f3&v=4" width="24" alt="Avatar of CroAnna"> CroAnna
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#CroAnna">Copy rank badge</a><br/>
+			Ana Škarica
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/zcalusic">
+				<img src="https://avatars.githubusercontent.com/u/12140851?s=72&u=be13f0ef59f448a9bc10fb031b8a8c0bf51b57b9&v=4" width="24" alt="Avatar of zcalusic"> zcalusic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zcalusic">Copy rank badge</a><br/>
+			Zlatko Čalušić
+		</td>
+		<td>More Screens Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>298</td>
 		<td>
-			<a href="https://github.com/Nazarevsky">
-				<img src="https://avatars.githubusercontent.com/u/52297843?s=72&u=9e9950ee72fdbbd7ec7a336c69c3aca9972a8ccd&v=4" width="24" alt="Avatar of Nazarevsky"> Nazarevsky
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Nazarevsky">Copy rank badge</a><br/>
-			Nazarii Shcherbak
+			<a href="https://github.com/itsJoKr">
+				<img src="https://avatars.githubusercontent.com/u/11093480?s=72&u=759594998fdeecffd8526559093fe98fe9449fff&v=4" width="24" alt="Avatar of itsJoKr"> itsJoKr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#itsJoKr">Copy rank badge</a><br/>
+			Josip Krnjic
 		</td>
-		<td>Blockstream </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
+		<td>Croatia</td>
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/fkdosilovic">
+				<img src="https://avatars.githubusercontent.com/u/3754741?s=72&u=8af98a3c4339e9effc51b9845c5cae9b3be34729&v=4" width="24" alt="Avatar of fkdosilovic"> fkdosilovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fkdosilovic">Copy rank badge</a><br/>
+			Filip Karlo Došilović
+		</td>
+		<td>Transcom </td>
+		<td><a href="https://twitter.com/fkdosilovic">fkdosilovic</a></td>
+		<td>Zagreb</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/santicevic">
 				<img src="https://avatars.githubusercontent.com/u/45316219?s=72&u=d7e93dd7bec6900114895a3bb3fabac0d80a0914&v=4" width="24" alt="Avatar of santicevic"> santicevic
@@ -3929,20 +4007,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/pspanja">
-				<img src="https://avatars.githubusercontent.com/u/1135425?s=72&v=4" width="24" alt="Avatar of pspanja"> pspanja
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#pspanja">Copy rank badge</a><br/>
-			Petar Španja
-		</td>
-		<td>Netgen </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>296</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/mate329">
 				<img src="https://avatars.githubusercontent.com/u/45571679?s=72&u=a2fcddd793f3de3ee4a0da51d851bd424ffb4466&v=4" width="24" alt="Avatar of mate329"> mate329
@@ -3955,20 +4020,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/X-Coder264">
-				<img src="https://avatars.githubusercontent.com/u/12602463?s=72&u=2997d04c06c68f62114df754c5e788a6b3b4bfe1&v=4" width="24" alt="Avatar of X-Coder264"> X-Coder264
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#X-Coder264">Copy rank badge</a><br/>
-			Antonio Pauletich
-		</td>
-		<td>@lendable </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>298</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/Matija1988">
 				<img src="https://avatars.githubusercontent.com/u/46812296?s=72&u=00b71809760508ebfd86bdfb71f0c8666e0b91d6&v=4" width="24" alt="Avatar of Matija1988"> Matija1988
@@ -3981,33 +4033,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>303</td>
 		<td>
-			<a href="https://github.com/antonio-tomac">
-				<img src="https://avatars.githubusercontent.com/u/5103070?s=72&u=dd590898f6d4d2b0e6a3874e911c0a37fd66a349&v=4" width="24" alt="Avatar of antonio-tomac"> antonio-tomac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#antonio-tomac">Copy rank badge</a><br/>
-			Antonio Tomac
+			<a href="https://github.com/roberth6060">
+				<img src="https://avatars.githubusercontent.com/u/90782551?s=72&u=bb77a61c733667701161ca1f64b6b8d60d17a223&v=4" width="24" alt="Avatar of roberth6060"> roberth6060
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#roberth6060">Copy rank badge</a><br/>
+			Robert Haye
 		</td>
-		<td>@infobip  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/jelenastricak">
-				<img src="https://avatars.githubusercontent.com/u/204414854?s=72&u=a8eab03ddbb94b5e9be00a51f7f395921fb65c2a&v=4" width="24" alt="Avatar of jelenastricak"> jelenastricak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jelenastricak">Copy rank badge</a><br/>
-			Jelena Stricak
-		</td>
-		<td>@herodot-hr , @raptorlabs-ai ,<br/>@cyberlink-security<br/>,<br/><br/>@sol-mint<br/>Solmint<br/></td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>301</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/AndrijaSkontra">
 				<img src="https://avatars.githubusercontent.com/u/120667861?s=72&u=90d4218eb62655c9935a8aafd2376c600d609a07&v=4" width="24" alt="Avatar of AndrijaSkontra"> AndrijaSkontra
@@ -4017,23 +4056,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Unizd </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>85</td>
+		<td>86</td>
 	</tr>
 	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/lblasc">
-				<img src="https://avatars.githubusercontent.com/u/32152?s=72&u=3e30e7bae832240658a1080e399d4dfcd77b3f15&v=4" width="24" alt="Avatar of lblasc"> lblasc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lblasc">Copy rank badge</a><br/>
-			Luka Blašković
-		</td>
-		<td>Tvbeat </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>303</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/kronicker">
 				<img src="https://avatars.githubusercontent.com/u/19515679?s=72&u=809d6613151f4cbaa361c096be17b251fdaa1039&v=4" width="24" alt="Avatar of kronicker"> kronicker
@@ -4043,23 +4069,36 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@extensionengine  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>84</td>
+		<td>85</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>306</td>
 		<td>
-			<a href="https://github.com/Cepa95">
-				<img src="https://avatars.githubusercontent.com/u/124800316?s=72&u=32ea1021b71bf2f9f7f3c7c8166354c418e5f991&v=4" width="24" alt="Avatar of Cepa95"> Cepa95
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Cepa95">Copy rank badge</a><br/>
-			Josip Ceprnic
+			<a href="https://github.com/ihabunek">
+				<img src="https://avatars.githubusercontent.com/u/482138?s=72&u=0e96e3b01202b241b7bf565c154a4941defac799&v=4" width="24" alt="Avatar of ihabunek"> ihabunek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ihabunek">Copy rank badge</a><br/>
+			Ivan Habunek
 		</td>
-		<td>Ericsson Nikola Tesla </td>
+		<td>Big Fish Software </td>
 		<td>No Twitter Username</td>
-		<td>Split</td>
+		<td>Zagreb, Croatia</td>
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/pspanja">
+				<img src="https://avatars.githubusercontent.com/u/1135425?s=72&v=4" width="24" alt="Avatar of pspanja"> pspanja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#pspanja">Copy rank badge</a><br/>
+			Petar Španja
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/davinci2015">
 				<img src="https://avatars.githubusercontent.com/u/11479975?s=72&u=c65284af9690e194c2230166e9f2f9a4c8e6e5ab&v=4" width="24" alt="Avatar of davinci2015"> davinci2015
@@ -4072,72 +4111,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/momo-gg">
-				<img src="https://avatars.githubusercontent.com/u/98874993?s=72&u=e833e048c7c990eac583246aa717396f5012d5d6&v=4" width="24" alt="Avatar of momo-gg"> momo-gg
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#momo-gg">Copy rank badge</a><br/>
-			Momir Zmijanac
-		</td>
-		<td>@solflare-wallet </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/lpandzic">
-				<img src="https://avatars.githubusercontent.com/u/4463380?s=72&u=f5585f98f18d4ab00145627f6f3cfb8dd21e4722&v=4" width="24" alt="Avatar of lpandzic"> lpandzic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lpandzic">Copy rank badge</a><br/>
-			Lovro Pandžić
-		</td>
-		<td>Infobip </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/mstipanov">
-				<img src="https://avatars.githubusercontent.com/u/129415?s=72&v=4" width="24" alt="Avatar of mstipanov"> mstipanov
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mstipanov">Copy rank badge</a><br/>
-			Marko Stipanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Labin, Istra, Croatia</td>
-		<td>79</td>
-	</tr>
-	<tr>
 		<td>309</td>
-		<td>
-			<a href="https://github.com/jcavar">
-				<img src="https://avatars.githubusercontent.com/u/3751289?s=72&u=585d778da0c8c17a234ce5f9f6ecaa51b918d420&v=4" width="24" alt="Avatar of jcavar"> jcavar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jcavar">Copy rank badge</a><br/>
-			Josip Ćavar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubrovnik, Croatia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/mmatokovic">
-				<img src="https://avatars.githubusercontent.com/u/27929908?s=72&u=d7f0af19fe73afe4becbd32ebfcba5abb6f177f6&v=4" width="24" alt="Avatar of mmatokovic"> mmatokovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mmatokovic">Copy rank badge</a><br/>
-			Mislav Matoković
-		</td>
-		<td>Croatia Osiguranje </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>311</td>
 		<td>
 			<a href="https://github.com/vjekob">
 				<img src="https://avatars.githubusercontent.com/u/15663598?s=72&v=4" width="24" alt="Avatar of vjekob"> vjekob
@@ -4147,23 +4121,88 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vjekob">vjekob</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>77</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/mzagar">
+				<img src="https://avatars.githubusercontent.com/u/896701?s=72&v=4" width="24" alt="Avatar of mzagar"> mzagar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mzagar">Copy rank badge</a><br/>
+			Mario Zagar
+		</td>
+		<td>@infobip </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/antonio-tomac">
+				<img src="https://avatars.githubusercontent.com/u/5103070?s=72&u=dd590898f6d4d2b0e6a3874e911c0a37fd66a349&v=4" width="24" alt="Avatar of antonio-tomac"> antonio-tomac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#antonio-tomac">Copy rank badge</a><br/>
+			Antonio Tomac
+		</td>
+		<td>@infobip  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>312</td>
 		<td>
-			<a href="https://github.com/hkatic">
-				<img src="https://avatars.githubusercontent.com/u/4093758?s=72&v=4" width="24" alt="Avatar of hkatic"> hkatic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#hkatic">Copy rank badge</a><br/>
-			Hrvoje Katić
+			<a href="https://github.com/dinkom">
+				<img src="https://avatars.githubusercontent.com/u/4062347?s=72&u=c6ca04cddcb170f1eda999b2d2f7bfee608eda6a&v=4" width="24" alt="Avatar of dinkom"> dinkom
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dinkom">Copy rank badge</a><br/>
+			Dinko Mihovilović
 		</td>
-		<td>No Company</td>
+		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>77</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>313</td>
+		<td>
+			<a href="https://github.com/momo-gg">
+				<img src="https://avatars.githubusercontent.com/u/98874993?s=72&u=e833e048c7c990eac583246aa717396f5012d5d6&v=4" width="24" alt="Avatar of momo-gg"> momo-gg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#momo-gg">Copy rank badge</a><br/>
+			Momir Zmijanac
+		</td>
+		<td>@solflare-wallet </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/nmdias">
+				<img src="https://avatars.githubusercontent.com/u/2228069?s=72&u=08c54657f117b53275d62f8f79da38495ffa3b1e&v=4" width="24" alt="Avatar of nmdias"> nmdias
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nmdias">Copy rank badge</a><br/>
+			Nuno Dias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/Nazarevsky">
+				<img src="https://avatars.githubusercontent.com/u/52297843?s=72&u=9e9950ee72fdbbd7ec7a336c69c3aca9972a8ccd&v=4" width="24" alt="Avatar of Nazarevsky"> Nazarevsky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Nazarevsky">Copy rank badge</a><br/>
+			Nazarii Shcherbak
+		</td>
+		<td>Blockstream </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/Antolius">
 				<img src="https://avatars.githubusercontent.com/u/5374391?s=72&u=3c18550046a696abf2fea07041d6b77c42be875d&v=4" width="24" alt="Avatar of Antolius"> Antolius
@@ -4173,49 +4212,101 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/Cepa95">
+				<img src="https://avatars.githubusercontent.com/u/124800316?s=72&u=32ea1021b71bf2f9f7f3c7c8166354c418e5f991&v=4" width="24" alt="Avatar of Cepa95"> Cepa95
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Cepa95">Copy rank badge</a><br/>
+			Josip Ceprnic
+		</td>
+		<td>Ericsson Nikola Tesla </td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/ivebotunac">
+				<img src="https://avatars.githubusercontent.com/u/33400033?s=72&u=7016630822963be00386ddecb845f1c135ad86ad&v=4" width="24" alt="Avatar of ivebotunac"> ivebotunac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivebotunac">Copy rank badge</a><br/>
+			Ive Botunac
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivebotunac">ivebotunac</a></td>
+		<td>Croatia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Ante889">
+				<img src="https://avatars.githubusercontent.com/u/83250242?s=72&u=714dcb425261592edecf0223b0048bd8cadb822e&v=4" width="24" alt="Avatar of Ante889"> Ante889
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ante889">Copy rank badge</a><br/>
+			Ante Filipović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Hrvatska</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/xikodev">
+				<img src="https://avatars.githubusercontent.com/u/58877412?s=72&u=4ed80217f535361e4019e8a0a8c72a927e15511d&v=4" width="24" alt="Avatar of xikodev"> xikodev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#xikodev">Copy rank badge</a><br/>
+			Borna Krpan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>321</td>
 		<td>
-			<a href="https://github.com/SincerelyFaust">
-				<img src="https://avatars.githubusercontent.com/u/44751736?s=72&u=5916bcfaa403ec046922f01e62e0888c82977f93&v=4" width="24" alt="Avatar of SincerelyFaust"> SincerelyFaust
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#SincerelyFaust">Copy rank badge</a><br/>
-			Marin Heđeš
+			<a href="https://github.com/toniskobic">
+				<img src="https://avatars.githubusercontent.com/u/73468642?s=72&u=71c4b3fae7524ec3e8564c1d35bf4124da9f64a4&v=4" width="24" alt="Avatar of toniskobic"> toniskobic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#toniskobic">Copy rank badge</a><br/>
+			Toni Škobić
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sincerelyfaust">sincerelyfaust</a></td>
-		<td>Croatia</td>
-		<td>76</td>
+		<td>@green-energy-pal  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>77</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>322</td>
 		<td>
-			<a href="https://github.com/fzoric8">
-				<img src="https://avatars.githubusercontent.com/u/26651809?s=72&u=5593468b5e524b11fb593ac64e06e7bb63bc49a6&v=4" width="24" alt="Avatar of fzoric8"> fzoric8
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fzoric8">Copy rank badge</a><br/>
-			Filip Zorić
+			<a href="https://github.com/lblasc">
+				<img src="https://avatars.githubusercontent.com/u/32152?s=72&u=3e30e7bae832240658a1080e399d4dfcd77b3f15&v=4" width="24" alt="Avatar of lblasc"> lblasc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lblasc">Copy rank badge</a><br/>
+			Luka Blašković
 		</td>
-		<td>Crobotic Solutions </td>
+		<td>Tvbeat </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>323</td>
 		<td>
-			<a href="https://github.com/perpaer">
-				<img src="https://avatars.githubusercontent.com/u/4303605?s=72&u=bed782af527fcff824952862dcfbf3e7b6686853&v=4" width="24" alt="Avatar of perpaer"> perpaer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#perpaer">Copy rank badge</a><br/>
-			Ivan Mrvelj
+			<a href="https://github.com/jelenastricak">
+				<img src="https://avatars.githubusercontent.com/u/204414854?s=72&u=a8eab03ddbb94b5e9be00a51f7f395921fb65c2a&v=4" width="24" alt="Avatar of jelenastricak"> jelenastricak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jelenastricak">Copy rank badge</a><br/>
+			Jelena Stricak
 		</td>
-		<td>No Company</td>
+		<td>@herodot-hr </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>75</td>
+		<td>Croatia</td>
+		<td>76</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/sarajcev">
 				<img src="https://avatars.githubusercontent.com/u/7125535?s=72&u=00804decb1f8a8c1852a56aae0784971e156ca21&v=4" width="24" alt="Avatar of sarajcev"> sarajcev
@@ -4228,7 +4319,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/makatalin">
 				<img src="https://avatars.githubusercontent.com/u/143451659?s=72&u=ff2ba9eea8a7ce57709a2c0a6f7b302814318f2b&v=4" width="24" alt="Avatar of makatalin"> makatalin
@@ -4241,7 +4332,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/dkrznar">
 				<img src="https://avatars.githubusercontent.com/u/19153069?s=72&v=4" width="24" alt="Avatar of dkrznar"> dkrznar
@@ -4254,46 +4345,72 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>327</td>
 		<td>
-			<a href="https://github.com/dstrekelj">
-				<img src="https://avatars.githubusercontent.com/u/5046502?s=72&u=1363f1566208828a7d6d46bb1ea9cc986f83687b&v=4" width="24" alt="Avatar of dstrekelj"> dstrekelj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dstrekelj">Copy rank badge</a><br/>
-			Domagoj Štrekelj
+			<a href="https://github.com/jerkovicl">
+				<img src="https://avatars.githubusercontent.com/u/5444153?s=72&u=141aa7579d273f7e674d52c3ed9ddc92bbb1748f&v=4" width="24" alt="Avatar of jerkovicl"> jerkovicl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jerkovicl">Copy rank badge</a><br/>
+			Luka Jerković
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Croatia / Madrid</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/jurebb">
+				<img src="https://avatars.githubusercontent.com/u/22816164?s=72&u=9cd4da38142861da3165c08158c42dd612281c74&v=4" width="24" alt="Avatar of jurebb"> jurebb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jurebb">Copy rank badge</a><br/>
+			Jure Baban
+		</td>
+		<td>@photomath </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/njelich">
+				<img src="https://avatars.githubusercontent.com/u/12912633?s=72&u=031adb8d8e51230959e7fb9f6fee2294c1f5c1b5&v=4" width="24" alt="Avatar of njelich"> njelich
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#njelich">Copy rank badge</a><br/>
+			Noah Jelich
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NoahJelich">NoahJelich</a></td>
 		<td>Croatia</td>
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>330</td>
 		<td>
-			<a href="https://github.com/mutantkeyboard">
-				<img src="https://avatars.githubusercontent.com/u/1167494?s=72&u=13e228e20aab4a02341de85b665ef766a0e380d5&v=4" width="24" alt="Avatar of mutantkeyboard"> mutantkeyboard
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mutantkeyboard">Copy rank badge</a><br/>
-			Antonio Nesic
+			<a href="https://github.com/jcavar">
+				<img src="https://avatars.githubusercontent.com/u/3751289?s=72&u=585d778da0c8c17a234ce5f9f6ecaa51b918d420&v=4" width="24" alt="Avatar of jcavar"> jcavar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jcavar">Copy rank badge</a><br/>
+			Josip Ćavar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>72</td>
+		<td>Dubrovnik, Croatia</td>
+		<td>71</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>331</td>
 		<td>
-			<a href="https://github.com/roberth6060">
-				<img src="https://avatars.githubusercontent.com/u/90782551?s=72&u=bb77a61c733667701161ca1f64b6b8d60d17a223&v=4" width="24" alt="Avatar of roberth6060"> roberth6060
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#roberth6060">Copy rank badge</a><br/>
-			Robert Haye
+			<a href="https://github.com/perpaer">
+				<img src="https://avatars.githubusercontent.com/u/4303605?s=72&u=bed782af527fcff824952862dcfbf3e7b6686853&v=4" width="24" alt="Avatar of perpaer"> perpaer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#perpaer">Copy rank badge</a><br/>
+			Ivan Mrvelj
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>72</td>
+		<td>71</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/mbos2">
 				<img src="https://avatars.githubusercontent.com/u/56090587?s=72&u=3a77623e7cd63632b890bc67b6a2c29ca4ffc4a1&v=4" width="24" alt="Avatar of mbos2"> mbos2
@@ -4306,7 +4423,72 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/lpandzic">
+				<img src="https://avatars.githubusercontent.com/u/4463380?s=72&u=f5585f98f18d4ab00145627f6f3cfb8dd21e4722&v=4" width="24" alt="Avatar of lpandzic"> lpandzic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lpandzic">Copy rank badge</a><br/>
+			Lovro Pandžić
+		</td>
+		<td>Infobip </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/jtlicardo">
+				<img src="https://avatars.githubusercontent.com/u/73391139?s=72&v=4" width="24" alt="Avatar of jtlicardo"> jtlicardo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jtlicardo">Copy rank badge</a><br/>
+			Josip Tomo Licardo
+		</td>
+		<td>Infobip </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/mariojankovic">
+				<img src="https://avatars.githubusercontent.com/u/3466800?s=72&v=4" width="24" alt="Avatar of mariojankovic"> mariojankovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariojankovic">Copy rank badge</a><br/>
+			Mario Jankovic
+		</td>
+		<td>Upstream.so </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/gpedic">
+				<img src="https://avatars.githubusercontent.com/u/779118?s=72&u=615065cfa075a8cb6efeb700e3f87fea6db45093&v=4" width="24" alt="Avatar of gpedic"> gpedic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gpedic">Copy rank badge</a><br/>
+			Goran Pedić
+		</td>
+		<td>Cosmic Byte Labs </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/silvenon">
+				<img src="https://avatars.githubusercontent.com/u/471278?s=72&v=4" width="24" alt="Avatar of silvenon"> silvenon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#silvenon">Copy rank badge</a><br/>
+			Matija Marohnić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/dkasak">
 				<img src="https://avatars.githubusercontent.com/u/463342?s=72&u=39d73e47728d2fc80f472acb7a3aa59facf7b54a&v=4" width="24" alt="Avatar of dkasak"> dkasak
@@ -4316,75 +4498,36 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Narsil Consulting </td>
 		<td><a href="https://twitter.com/deniskasak">deniskasak</a></td>
 		<td>Croatia</td>
-		<td>70</td>
+		<td>68</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>339</td>
 		<td>
-			<a href="https://github.com/davscro">
-				<img src="https://avatars.githubusercontent.com/u/1383250?s=72&u=40eff19b30ba5415407801eef21b2955cbac9bd1&v=4" width="24" alt="Avatar of davscro"> davscro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#davscro">Copy rank badge</a><br/>
-			Davor Santic
+			<a href="https://github.com/kristijandraca">
+				<img src="https://avatars.githubusercontent.com/u/53337160?s=72&u=580abe64cfbcbc8a5b537d6a2bea7444a8bea26f&v=4" width="24" alt="Avatar of kristijandraca"> kristijandraca
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kristijandraca">Copy rank badge</a><br/>
+			Kristijan Draca
 		</td>
-		<td>@codifydoo  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>70</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/kristijandraca">kristijandraca</a></td>
+		<td>Zagreb</td>
+		<td>68</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>340</td>
 		<td>
-			<a href="https://github.com/arrrlo">
-				<img src="https://avatars.githubusercontent.com/u/2082813?s=72&u=14e4853a87c49b7ff2ff7b79ad0c0bc40bd8ba99&v=4" width="24" alt="Avatar of arrrlo"> arrrlo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#arrrlo">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/paullla">
+				<img src="https://avatars.githubusercontent.com/u/6206691?s=72&u=b063587e6f1dff8bcbb5e07155b3a9c5ba84b1b3&v=4" width="24" alt="Avatar of paullla"> paullla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#paullla">Copy rank badge</a><br/>
+			Paula
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>69</td>
+		<td>@locastic </td>
+		<td><a href="https://twitter.com/paoolala">paoolala</a></td>
+		<td>Split, Croatia</td>
+		<td>66</td>
 	</tr>
 	<tr>
-		<td>327</td>
-		<td>
-			<a href="https://github.com/mzagar">
-				<img src="https://avatars.githubusercontent.com/u/896701?s=72&v=4" width="24" alt="Avatar of mzagar"> mzagar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mzagar">Copy rank badge</a><br/>
-			Mario Zagar
-		</td>
-		<td>@infobip </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/guycalledseven">
-				<img src="https://avatars.githubusercontent.com/u/1009843?s=72&u=132ca5512167e542a2acbc6c6e49dcd431642831&v=4" width="24" alt="Avatar of guycalledseven"> guycalledseven
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#guycalledseven">Copy rank badge</a><br/>
-			Neven Jacmenović
-		</td>
-		<td>Nivas.hr </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/Vito510">
-				<img src="https://avatars.githubusercontent.com/u/73427833?s=72&u=a108c6aea94ee2960ef278be7406ef8a9d6b7cc0&v=4" width="24" alt="Avatar of Vito510"> Vito510
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Vito510">Copy rank badge</a><br/>
-			Vito
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>330</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/ratokuzmanic">
 				<img src="https://avatars.githubusercontent.com/u/7314468?s=72&u=dc3c80a6ed989af0230ff0f121a3525e5005e0a7&v=4" width="24" alt="Avatar of ratokuzmanic"> ratokuzmanic
@@ -4397,198 +4540,55 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/silvenon">
-				<img src="https://avatars.githubusercontent.com/u/471278?s=72&v=4" width="24" alt="Avatar of silvenon"> silvenon
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#silvenon">Copy rank badge</a><br/>
-			Matija Marohnić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/paullla">
-				<img src="https://avatars.githubusercontent.com/u/6206691?s=72&u=b063587e6f1dff8bcbb5e07155b3a9c5ba84b1b3&v=4" width="24" alt="Avatar of paullla"> paullla
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#paullla">Copy rank badge</a><br/>
-			Paula
-		</td>
-		<td>@locastic </td>
-		<td><a href="https://twitter.com/paoolala">paoolala</a></td>
-		<td>Split, Croatia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/viborc">
-				<img src="https://avatars.githubusercontent.com/u/48092564?s=72&u=5f284e1bd8685f0a16050b6db8577f56b17ce1c2&v=4" width="24" alt="Avatar of viborc"> viborc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#viborc">Copy rank badge</a><br/>
-			Vibor Cipan
-		</td>
-		<td>Daydream </td>
-		<td><a href="https://twitter.com/viborc">viborc</a></td>
-		<td>Croatia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/Valloric">
-				<img src="https://avatars.githubusercontent.com/u/919444?s=72&v=4" width="24" alt="Avatar of Valloric"> Valloric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Valloric">Copy rank badge</a><br/>
-			Val Markovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/nmdias">
-				<img src="https://avatars.githubusercontent.com/u/2228069?s=72&u=08c54657f117b53275d62f8f79da38495ffa3b1e&v=4" width="24" alt="Avatar of nmdias"> nmdias
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nmdias">Copy rank badge</a><br/>
-			Nuno Dias
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/Dinonard">
-				<img src="https://avatars.githubusercontent.com/u/3002868?s=72&u=18d441b4e8f71b9808d8595aee2ea471c24a8c2f&v=4" width="24" alt="Avatar of Dinonard"> Dinonard
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Dinonard">Copy rank badge</a><br/>
-			Dino Pačandi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/sinisaos">
-				<img src="https://avatars.githubusercontent.com/u/30960668?s=72&v=4" width="24" alt="Avatar of sinisaos"> sinisaos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sinisaos">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/dominik-babic">
-				<img src="https://avatars.githubusercontent.com/u/60478910?s=72&u=3a6eec70314eb12a08b930a620b624249031e790&v=4" width="24" alt="Avatar of dominik-babic"> dominik-babic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dominik-babic">Copy rank badge</a><br/>
-			Dominik Babić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/mightymatth">
-				<img src="https://avatars.githubusercontent.com/u/13491551?s=72&v=4" width="24" alt="Avatar of mightymatth"> mightymatth
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mightymatth">Copy rank badge</a><br/>
-			Matija Pevec
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mightymatth">mightymatth</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/9helix">
-				<img src="https://avatars.githubusercontent.com/u/62692130?s=72&u=8da5abd1ede677bb859653d391d9f1c7ef946c11&v=4" width="24" alt="Avatar of 9helix"> 9helix
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#9helix">Copy rank badge</a><br/>
-			Dino Gržinić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/MiroDojkic">
-				<img src="https://avatars.githubusercontent.com/u/9119913?s=72&u=103027acd784fda61ddb747187a7ea970ebe078d&v=4" width="24" alt="Avatar of MiroDojkic"> MiroDojkic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MiroDojkic">Copy rank badge</a><br/>
-			Miro
-		</td>
-		<td>@extensionengine </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia / Johannesburg, SA</td>
-		<td>62</td>
-	</tr>
-	<tr>
 		<td>342</td>
 		<td>
-			<a href="https://github.com/deksa89">
-				<img src="https://avatars.githubusercontent.com/u/89583742?s=72&u=74b2bf8cae6b2d6ca93dc3dfb8fbb50f4c0153f2&v=4" width="24" alt="Avatar of deksa89"> deksa89
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#deksa89">Copy rank badge</a><br/>
-			Dean Hudek
+			<a href="https://github.com/tmarice">
+				<img src="https://avatars.githubusercontent.com/u/1169270?s=72&u=2f2dbe07a394bf128573b2fb26f02ed74d405500&v=4" width="24" alt="Avatar of tmarice"> tmarice
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tmarice">Copy rank badge</a><br/>
+			Tomislav Maricevic
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>62</td>
+		<td><a href="https://twitter.com/tmrcv">tmrcv</a></td>
+		<td>Zagreb</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>343</td>
 		<td>
-			<a href="https://github.com/pmli">
-				<img src="https://avatars.githubusercontent.com/u/1268421?s=72&u=942102e57e408898adcf8b88e5a4054774e2eb16&v=4" width="24" alt="Avatar of pmli"> pmli
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#pmli">Copy rank badge</a><br/>
-			Petar Mlinarić
+			<a href="https://github.com/Igor-Misic">
+				<img src="https://avatars.githubusercontent.com/u/10188706?s=72&u=ed1a55558b7d8fd3b532691338d5dc6e2b5565bc&v=4" width="24" alt="Avatar of Igor-Misic"> Igor-Misic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Igor-Misic">Copy rank badge</a><br/>
+			Igor Mišić
 		</td>
-		<td>University Of Zagreb </td>
+		<td>@px4 @improject  @hacklabos<br/><br/><br/></td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>61</td>
+		<td>Croatia</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>344</td>
 		<td>
-			<a href="https://github.com/filipbudisa">
-				<img src="https://avatars.githubusercontent.com/u/21333310?s=72&u=148d389502ea3aa00808d566a92944671320a6ef&v=4" width="24" alt="Avatar of filipbudisa"> filipbudisa
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#filipbudisa">Copy rank badge</a><br/>
-			Filip Budiša
+			<a href="https://github.com/guycalledseven">
+				<img src="https://avatars.githubusercontent.com/u/1009843?s=72&u=132ca5512167e542a2acbc6c6e49dcd431642831&v=4" width="24" alt="Avatar of guycalledseven"> guycalledseven
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#guycalledseven">Copy rank badge</a><br/>
+			Neven Jacmenović
 		</td>
-		<td>Ciruitmess D.o.o. </td>
+		<td>Nivas.hr </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>61</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>345</td>
 		<td>
-			<a href="https://github.com/sergejhorvat">
-				<img src="https://avatars.githubusercontent.com/u/8287997?s=72&v=4" width="24" alt="Avatar of sergejhorvat"> sergejhorvat
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sergejhorvat">Copy rank badge</a><br/>
-			SHorvat
+			<a href="https://github.com/kernel-dev">
+				<img src="https://avatars.githubusercontent.com/u/61620747?s=72&u=f89953a1b5f74ff606ac69125bf69ca95417cde6&v=4" width="24" alt="Avatar of kernel-dev"> kernel-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kernel-dev">Copy rank badge</a><br/>
+			Mladen Golo
 		</td>
-		<td>No Company</td>
+		<td>Rimac Technology </td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>61</td>
 	</tr>
 	<tr>
@@ -4607,44 +4607,31 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>347</td>
 		<td>
-			<a href="https://github.com/itsJoKr">
-				<img src="https://avatars.githubusercontent.com/u/11093480?s=72&u=759594998fdeecffd8526559093fe98fe9449fff&v=4" width="24" alt="Avatar of itsJoKr"> itsJoKr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#itsJoKr">Copy rank badge</a><br/>
-			Josip Krnjic
+			<a href="https://github.com/sergejhorvat">
+				<img src="https://avatars.githubusercontent.com/u/8287997?s=72&v=4" width="24" alt="Avatar of sergejhorvat"> sergejhorvat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sergejhorvat">Copy rank badge</a><br/>
+			SHorvat
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>60</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>348</td>
 		<td>
-			<a href="https://github.com/mariojankovic">
-				<img src="https://avatars.githubusercontent.com/u/3466800?s=72&v=4" width="24" alt="Avatar of mariojankovic"> mariojankovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariojankovic">Copy rank badge</a><br/>
-			Mario Jankovic
+			<a href="https://github.com/Valloric">
+				<img src="https://avatars.githubusercontent.com/u/919444?s=72&v=4" width="24" alt="Avatar of Valloric"> Valloric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Valloric">Copy rank badge</a><br/>
+			Val Markovic
 		</td>
-		<td>Upstream.so </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Zagreb, Croatia</td>
 		<td>60</td>
 	</tr>
 	<tr>
 		<td>349</td>
-		<td>
-			<a href="https://github.com/Brenner650">
-				<img src="https://avatars.githubusercontent.com/u/41375066?s=72&u=445ee4d5f522b1d1639a22b2432c9887850b8fe0&v=4" width="24" alt="Avatar of Brenner650"> Brenner650
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Brenner650">Copy rank badge</a><br/>
-			Brenner650
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Czech Republic/Croatia</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>350</td>
 		<td>
 			<a href="https://github.com/LinuxRenaissance">
 				<img src="https://avatars.githubusercontent.com/u/1872435?s=72&u=026de107e849b9d283a4f3c3beef556ab75fdfe6&v=4" width="24" alt="Avatar of LinuxRenaissance"> LinuxRenaissance
@@ -4654,23 +4641,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Karo, Fyi. </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/drmodun">
-				<img src="https://avatars.githubusercontent.com/u/74469438?s=72&u=120b2c19b539e5f4ea3f4a87aa2cfc3857383fce&v=4" width="24" alt="Avatar of drmodun"> drmodun
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#drmodun">Copy rank badge</a><br/>
-			Jan Modun
-		</td>
-		<td>Profico, Iii. Gimnazija Split,<br/>Tu/e<br/></td>
-		<td>No Twitter Username</td>
-		<td>Split, Eindhoven</td>
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/melbos">
 				<img src="https://avatars.githubusercontent.com/u/289551?s=72&v=4" width="24" alt="Avatar of melbos"> melbos
@@ -4683,33 +4657,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>351</td>
 		<td>
-			<a href="https://github.com/karloks2005">
-				<img src="https://avatars.githubusercontent.com/u/51493791?s=72&u=adc502381a82ac9c64399840dda4cfd31d2397b8&v=4" width="24" alt="Avatar of karloks2005"> karloks2005
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#karloks2005">Copy rank badge</a><br/>
-			Karlo Kajba Šimanić
+			<a href="https://github.com/Dinonard">
+				<img src="https://avatars.githubusercontent.com/u/3002868?s=72&u=18d441b4e8f71b9808d8595aee2ea471c24a8c2f&v=4" width="24" alt="Avatar of Dinonard"> Dinonard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Dinonard">Copy rank badge</a><br/>
+			Dino Pačandi
 		</td>
-		<td>Fakultet Elektrotehnike I Računarstva<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/tonilastre">
-				<img src="https://avatars.githubusercontent.com/u/2602830?s=72&u=48fcca529ad34f3d76886c3e5d0d0e8796f4d7bc&v=4" width="24" alt="Avatar of tonilastre"> tonilastre
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonilastre">Copy rank badge</a><br/>
-			Toni
-		</td>
-		<td>Memgraph </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Karl255">
 				<img src="https://avatars.githubusercontent.com/u/49595438?s=72&u=8e27046e1afbe655548740f63ce97f0f4c072046&v=4" width="24" alt="Avatar of Karl255"> Karl255
@@ -4722,33 +4683,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>353</td>
 		<td>
-			<a href="https://github.com/AlexIchenskiy">
-				<img src="https://avatars.githubusercontent.com/u/55350107?s=72&v=4" width="24" alt="Avatar of AlexIchenskiy"> AlexIchenskiy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AlexIchenskiy">Copy rank badge</a><br/>
-			Oleksandr Ichenskyi
+			<a href="https://github.com/filipbudisa">
+				<img src="https://avatars.githubusercontent.com/u/21333310?s=72&u=148d389502ea3aa00808d566a92944671320a6ef&v=4" width="24" alt="Avatar of filipbudisa"> filipbudisa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#filipbudisa">Copy rank badge</a><br/>
+			Filip Budiša
 		</td>
-		<td>No Company</td>
+		<td>Ciruitmess D.o.o. </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>354</td>
 		<td>
-			<a href="https://github.com/Igor-Misic">
-				<img src="https://avatars.githubusercontent.com/u/10188706?s=72&u=ed1a55558b7d8fd3b532691338d5dc6e2b5565bc&v=4" width="24" alt="Avatar of Igor-Misic"> Igor-Misic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Igor-Misic">Copy rank badge</a><br/>
-			Igor Mišić
+			<a href="https://github.com/metakermit">
+				<img src="https://avatars.githubusercontent.com/u/1818628?s=72&v=4" width="24" alt="Avatar of metakermit"> metakermit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#metakermit">Copy rank badge</a><br/>
+			Dražen Lučanin
 		</td>
-		<td>@px4 @improject  @hacklabos<br/><br/><br/></td>
+		<td>@punkrockdev  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb / Vienna</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/tonilastre">
+				<img src="https://avatars.githubusercontent.com/u/2602830?s=72&u=48fcca529ad34f3d76886c3e5d0d0e8796f4d7bc&v=4" width="24" alt="Avatar of tonilastre"> tonilastre
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonilastre">Copy rank badge</a><br/>
+			Toni
+		</td>
+		<td>Memgraph </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/VedranaR">
 				<img src="https://avatars.githubusercontent.com/u/28656470?s=72&u=10d822fae0e7989f31d22bcc94965cf213411233&v=4" width="24" alt="Avatar of VedranaR"> VedranaR
@@ -4761,124 +4735,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/akalajzi">
-				<img src="https://avatars.githubusercontent.com/u/2954889?s=72&u=7b3d3a92dd9a7840c0e7f1c37eb739d3c7b1468a&v=4" width="24" alt="Avatar of akalajzi"> akalajzi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akalajzi">Copy rank badge</a><br/>
-			Ante
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/tonkec">
-				<img src="https://avatars.githubusercontent.com/u/5020758?s=72&u=ee4cca9f97f99f437e6960d0bc98363d8a6e8fdf&v=4" width="24" alt="Avatar of tonkec"> tonkec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonkec">Copy rank badge</a><br/>
-			Antonija Šimić
-		</td>
-		<td>@currentmobile  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/Lnola">
-				<img src="https://avatars.githubusercontent.com/u/45316394?s=72&u=e2b1388b255ecbb9fe61a0a4f651287b1563c34c&v=4" width="24" alt="Avatar of Lnola"> Lnola
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Lnola">Copy rank badge</a><br/>
-			Luka Nola
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/VisenP">
-				<img src="https://avatars.githubusercontent.com/u/59655758?s=72&u=6fe5f02083b88540457e1761a3bc62ddcbb4a90c&v=4" width="24" alt="Avatar of VisenP"> VisenP
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#VisenP">Copy rank badge</a><br/>
-			Višen Pavlica
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/tmarice">
-				<img src="https://avatars.githubusercontent.com/u/1169270?s=72&u=2f2dbe07a394bf128573b2fb26f02ed74d405500&v=4" width="24" alt="Avatar of tmarice"> tmarice
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tmarice">Copy rank badge</a><br/>
-			Tomislav Maricevic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tmrcv">tmrcv</a></td>
-		<td>Zagreb</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/apisurfer">
-				<img src="https://avatars.githubusercontent.com/u/2341114?s=72&u=df0a8ee0fa1685361a4270b22699fe6ed32db816&v=4" width="24" alt="Avatar of apisurfer"> apisurfer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#apisurfer">Copy rank badge</a><br/>
-			Luka Vidaković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/ChrisRoss5">
-				<img src="https://avatars.githubusercontent.com/u/41192064?s=72&u=6451f3af2cf535fa5198782d5140de8e31ab0a9f&v=4" width="24" alt="Avatar of ChrisRoss5"> ChrisRoss5
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ChrisRoss5">Copy rank badge</a><br/>
-			Kristijan Rosandić
-		</td>
-		<td>Super Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/dbaric">
-				<img src="https://avatars.githubusercontent.com/u/31189266?s=72&u=5e9fefdd6a1751d8a8bb943ec5fe96a3d546cb34&v=4" width="24" alt="Avatar of dbaric"> dbaric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dbaric">Copy rank badge</a><br/>
-			Dražen Barić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/DenisPav">
-				<img src="https://avatars.githubusercontent.com/u/7118851?s=72&v=4" width="24" alt="Avatar of DenisPav"> DenisPav
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DenisPav">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>368</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/vlaja">
 				<img src="https://avatars.githubusercontent.com/u/2030276?s=72&u=0307334f145f68ab6798a0ae0daa05f7099fb19e&v=4" width="24" alt="Avatar of vlaja"> vlaja
@@ -4888,20 +4745,163 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Prototyp </td>
 		<td><a href="https://twitter.com/vvlahek">vvlahek</a></td>
 		<td>Osijek, Croatia</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/dbaric">
+				<img src="https://avatars.githubusercontent.com/u/31189266?s=72&u=5e9fefdd6a1751d8a8bb943ec5fe96a3d546cb34&v=4" width="24" alt="Avatar of dbaric"> dbaric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dbaric">Copy rank badge</a><br/>
+			Dražen Barić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/Bgajski">
+				<img src="https://avatars.githubusercontent.com/u/47593223?s=72&u=b024479013b11f096dbee30fab8fe6db63289006&v=4" width="24" alt="Avatar of Bgajski"> Bgajski
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Bgajski">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/aerkalov">
+				<img src="https://avatars.githubusercontent.com/u/1003989?s=72&v=4" width="24" alt="Avatar of aerkalov"> aerkalov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aerkalov">Copy rank badge</a><br/>
+			Aleksandar Erkalović
+		</td>
+		<td>Binarni Broj </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/fzoric8">
+				<img src="https://avatars.githubusercontent.com/u/26651809?s=72&u=5593468b5e524b11fb593ac64e06e7bb63bc49a6&v=4" width="24" alt="Avatar of fzoric8"> fzoric8
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fzoric8">Copy rank badge</a><br/>
+			Filip Zorić
+		</td>
+		<td>Crobotic Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/ChrisRoss5">
+				<img src="https://avatars.githubusercontent.com/u/41192064?s=72&u=6451f3af2cf535fa5198782d5140de8e31ab0a9f&v=4" width="24" alt="Avatar of ChrisRoss5"> ChrisRoss5
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ChrisRoss5">Copy rank badge</a><br/>
+			Kristijan Rosandić
+		</td>
+		<td>Super Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/selectnull">
+				<img src="https://avatars.githubusercontent.com/u/247965?s=72&u=5bc6d751e7c1c3a8e086f1d5b51f16fe68ab6254&v=4" width="24" alt="Avatar of selectnull"> selectnull
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#selectnull">Copy rank badge</a><br/>
+			Sasha Matijasic
+		</td>
+		<td>Logit Internet Services Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/DarkoKlisuric">
+				<img src="https://avatars.githubusercontent.com/u/44619056?s=72&u=8f9191d3f44bb250cdc371f16aff1869a8542d6e&v=4" width="24" alt="Avatar of DarkoKlisuric"> DarkoKlisuric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DarkoKlisuric">Copy rank badge</a><br/>
+			Darko Klisurić
+		</td>
+		<td>@trikoder </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/tonkec">
+				<img src="https://avatars.githubusercontent.com/u/5020758?s=72&u=ee4cca9f97f99f437e6960d0bc98363d8a6e8fdf&v=4" width="24" alt="Avatar of tonkec"> tonkec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tonkec">Copy rank badge</a><br/>
+			Antonija Šimić
+		</td>
+		<td>@currentmobile  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/m1h4">
+				<img src="https://avatars.githubusercontent.com/u/1467554?s=72&u=88789cd1590a42a206059c221c72245e955496c2&v=4" width="24" alt="Avatar of m1h4"> m1h4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#m1h4">Copy rank badge</a><br/>
+			Marko Mihovilić
+		</td>
+		<td>@photomath  </td>
+		<td><a href="https://twitter.com/m1h0v1l1c">m1h0v1l1c</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/deksa89">
+				<img src="https://avatars.githubusercontent.com/u/89583742?s=72&u=74b2bf8cae6b2d6ca93dc3dfb8fbb50f4c0153f2&v=4" width="24" alt="Avatar of deksa89"> deksa89
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#deksa89">Copy rank badge</a><br/>
+			Dean Hudek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/lmark1">
+				<img src="https://avatars.githubusercontent.com/u/26650764?s=72&u=692d7a0c6ae680f5be1390fb8b17fa3797f1e750&v=4" width="24" alt="Avatar of lmark1"> lmark1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lmark1">Copy rank badge</a><br/>
+			Lovro Marković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>52</td>
 	</tr>
 	<tr>
 		<td>369</td>
 		<td>
-			<a href="https://github.com/JS1240">
-				<img src="https://avatars.githubusercontent.com/u/72129202?s=72&u=0b98508038b569d36522cb689814501797fffd41&v=4" width="24" alt="Avatar of JS1240"> JS1240
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JS1240">Copy rank badge</a><br/>
-			Jure Šunić
+			<a href="https://github.com/nticaric">
+				<img src="https://avatars.githubusercontent.com/u/824840?s=72&u=9eb6092900d2de25cb7392cad608f35c3302baa4&v=4" width="24" alt="Avatar of nticaric"> nticaric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nticaric">Copy rank badge</a><br/>
+			Nenad Ticaric
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, HR</td>
-		<td>52</td>
+		<td>Tnt Studio </td>
+		<td><a href="https://twitter.com/nticaric">nticaric</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>370</td>
@@ -4919,18 +4919,70 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>371</td>
 		<td>
-			<a href="https://github.com/davorvr">
-				<img src="https://avatars.githubusercontent.com/u/42250444?s=72&u=fa2a7179d9b8183641408502d67a83dd9f5e4bb6&v=4" width="24" alt="Avatar of davorvr"> davorvr
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#davorvr">Copy rank badge</a><br/>
-			Davor Virag
+			<a href="https://github.com/jelicanin">
+				<img src="https://avatars.githubusercontent.com/u/692844?s=72&u=25ed26d95e8fb3ce0c515f6f285fd38139c7d60f&v=4" width="24" alt="Avatar of jelicanin"> jelicanin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jelicanin">Copy rank badge</a><br/>
+			Milan Mitch Jelicanin
 		</td>
-		<td>Dept. Of Pharmacology, University<br/>Of<br/>Zagreb<br/>School<br/>Of<br/>Medicine<br/></td>
-		<td>No Twitter Username</td>
+		<td>Fractas </td>
+		<td><a href="https://twitter.com/jelicanin">jelicanin</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>51</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>372</td>
+		<td>
+			<a href="https://github.com/MiroDojkic">
+				<img src="https://avatars.githubusercontent.com/u/9119913?s=72&u=103027acd784fda61ddb747187a7ea970ebe078d&v=4" width="24" alt="Avatar of MiroDojkic"> MiroDojkic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MiroDojkic">Copy rank badge</a><br/>
+			Miro
+		</td>
+		<td>@extensionengine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia / Johannesburg, SA</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/nrozic">
+				<img src="https://avatars.githubusercontent.com/u/3420375?s=72&u=8f09bb27dd91c344ab90006b26724ed7b1664691&v=4" width="24" alt="Avatar of nrozic"> nrozic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nrozic">Copy rank badge</a><br/>
+			Nikola Rožić
+		</td>
+		<td>Trilium </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/VisenP">
+				<img src="https://avatars.githubusercontent.com/u/59655758?s=72&u=6fe5f02083b88540457e1761a3bc62ddcbb4a90c&v=4" width="24" alt="Avatar of VisenP"> VisenP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#VisenP">Copy rank badge</a><br/>
+			Višen Pavlica
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/Brenner650">
+				<img src="https://avatars.githubusercontent.com/u/41375066?s=72&u=445ee4d5f522b1d1639a22b2432c9887850b8fe0&v=4" width="24" alt="Avatar of Brenner650"> Brenner650
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Brenner650">Copy rank badge</a><br/>
+			Brenner650
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Czech Republic/Croatia</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/nenadom">
 				<img src="https://avatars.githubusercontent.com/u/7107362?s=72&u=cb4edcae7d87a1268dc84fcf912cd2b38f7cf0ea&v=4" width="24" alt="Avatar of nenadom"> nenadom
@@ -4943,7 +4995,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/orginux">
 				<img src="https://avatars.githubusercontent.com/u/24264965?s=72&u=70797f944fb7711f6684f7272206e46aa2afa90f&v=4" width="24" alt="Avatar of orginux"> orginux
@@ -4956,33 +5008,59 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>378</td>
 		<td>
-			<a href="https://github.com/bdeak4">
-				<img src="https://avatars.githubusercontent.com/u/32748145?s=72&u=03155c518b683ff7f2084c1ec99c436db232a081&v=4" width="24" alt="Avatar of bdeak4"> bdeak4
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bdeak4">Copy rank badge</a><br/>
-			Bartol Deak
+			<a href="https://github.com/sinisaos">
+				<img src="https://avatars.githubusercontent.com/u/30960668?s=72&v=4" width="24" alt="Avatar of sinisaos"> sinisaos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sinisaos">Copy rank badge</a><br/>
+			No Name
 		</td>
-		<td>@dump-hr / @solbound-dev </td>
-		<td><a href="https://twitter.com/bd4245">bd4245</a></td>
-		<td>Split, Croatia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/selectnull">
-				<img src="https://avatars.githubusercontent.com/u/247965?s=72&u=5bc6d751e7c1c3a8e086f1d5b51f16fe68ab6254&v=4" width="24" alt="Avatar of selectnull"> selectnull
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#selectnull">Copy rank badge</a><br/>
-			Sasha Matijasic
-		</td>
-		<td>Logit Internet Services Ltd.<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Osijek, Croatia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/davorvr">
+				<img src="https://avatars.githubusercontent.com/u/42250444?s=72&u=fa2a7179d9b8183641408502d67a83dd9f5e4bb6&v=4" width="24" alt="Avatar of davorvr"> davorvr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#davorvr">Copy rank badge</a><br/>
+			Davor Virag
+		</td>
+		<td>Dept. Of Pharmacology, University<br/>Of<br/>Zagreb<br/>School<br/>Of<br/>Medicine<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/safo6m">
+				<img src="https://avatars.githubusercontent.com/u/3437122?s=72&u=c1eba9e296b0692b7efe65a0c3b984355c1da282&v=4" width="24" alt="Avatar of safo6m"> safo6m
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#safo6m">Copy rank badge</a><br/>
+			Mihael Šafarić
+		</td>
+		<td>@infinum @infinumjs  </td>
+		<td><a href="https://twitter.com/safo6m">safo6m</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/Stane1983">
+				<img src="https://avatars.githubusercontent.com/u/2560801?s=72&v=4" width="24" alt="Avatar of Stane1983"> Stane1983
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Stane1983">Copy rank badge</a><br/>
+			Stanislav Vlasic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varazdin, Croatia</td>
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/tomislavmiksik">
 				<img src="https://avatars.githubusercontent.com/u/64797760?s=72&u=0d999ff54a587fdb0529696863cedfbd10593b61&v=4" width="24" alt="Avatar of tomislavmiksik"> tomislavmiksik
@@ -4995,33 +5073,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>383</td>
 		<td>
-			<a href="https://github.com/nticaric">
-				<img src="https://avatars.githubusercontent.com/u/824840?s=72&u=9eb6092900d2de25cb7392cad608f35c3302baa4&v=4" width="24" alt="Avatar of nticaric"> nticaric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nticaric">Copy rank badge</a><br/>
-			Nenad Ticaric
+			<a href="https://github.com/LukaSikic">
+				<img src="https://avatars.githubusercontent.com/u/15249077?s=72&u=7d2c136809852e76616de765d80693f0f7205566&v=4" width="24" alt="Avatar of LukaSikic"> LukaSikic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LukaSikic">Copy rank badge</a><br/>
+			Luka Šikić
 		</td>
-		<td>Tnt Studio </td>
-		<td><a href="https://twitter.com/nticaric">nticaric</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/safo6m">
-				<img src="https://avatars.githubusercontent.com/u/3437122?s=72&u=c1eba9e296b0692b7efe65a0c3b984355c1da282&v=4" width="24" alt="Avatar of safo6m"> safo6m
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#safo6m">Copy rank badge</a><br/>
-			Mihael Šafarić
-		</td>
-		<td>@infinum @infinumjs  </td>
-		<td><a href="https://twitter.com/safo6m">safo6m</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>379</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/diomed">
 				<img src="https://avatars.githubusercontent.com/u/72777?s=72&u=56132e49bad2837b8cf7b1a2b0660c87691004a6&v=4" width="24" alt="Avatar of diomed"> diomed
@@ -5034,20 +5099,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>380</td>
-		<td>
-			<a href="https://github.com/jelicanin">
-				<img src="https://avatars.githubusercontent.com/u/692844?s=72&u=25ed26d95e8fb3ce0c515f6f285fd38139c7d60f&v=4" width="24" alt="Avatar of jelicanin"> jelicanin
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jelicanin">Copy rank badge</a><br/>
-			Milan Mitch Jelicanin
-		</td>
-		<td>Fractas </td>
-		<td><a href="https://twitter.com/jelicanin">jelicanin</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>381</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/antebm">
 				<img src="https://avatars.githubusercontent.com/u/29123617?s=72&u=431b579f0c2580a25115000bd3dbaeffaafdbc5a&v=4" width="24" alt="Avatar of antebm"> antebm
@@ -5060,7 +5112,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/AlexIchenskiy">
+				<img src="https://avatars.githubusercontent.com/u/55350107?s=72&v=4" width="24" alt="Avatar of AlexIchenskiy"> AlexIchenskiy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AlexIchenskiy">Copy rank badge</a><br/>
+			Oleksandr Ichenskyi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/lsimic">
+				<img src="https://avatars.githubusercontent.com/u/20503875?s=72&u=6c26bdcc6e6deb1278bc783a2663dfcaf34ba62d&v=4" width="24" alt="Avatar of lsimic"> lsimic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lsimic">Copy rank badge</a><br/>
+			Luka Šimić
+		</td>
+		<td>Maxon </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Lovor01">
 				<img src="https://avatars.githubusercontent.com/u/33687174?s=72&u=ce9b4637d9a6df2ab2f3f5e605bb7d48f2550f95&v=4" width="24" alt="Avatar of Lovor01"> Lovor01
@@ -5070,36 +5148,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Makeiteasy </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/thak123">
-				<img src="https://avatars.githubusercontent.com/u/3891859?s=72&u=66e4c1667153ae6d5d4cdbc97f0b9817a0c911cb&v=4" width="24" alt="Avatar of thak123"> thak123
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#thak123">Copy rank badge</a><br/>
-			Gaurish Thakkar
-		</td>
-		<td>University Of Zagreb </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>384</td>
-		<td>
-			<a href="https://github.com/MarioBlazek">
-				<img src="https://avatars.githubusercontent.com/u/6605175?s=72&u=2630800b4527d9a4388ae6fb99a81d00450c22dc&v=4" width="24" alt="Avatar of MarioBlazek"> MarioBlazek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarioBlazek">Copy rank badge</a><br/>
-			Mario Blazek
-		</td>
-		<td>Four Of Them </td>
-		<td><a href="https://twitter.com/phpanarchist">phpanarchist</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>385</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/Norgul">
 				<img src="https://avatars.githubusercontent.com/u/11718157?s=72&u=592ff098a6b280e04eb57eafeddb34edf599861b&v=4" width="24" alt="Avatar of Norgul"> Norgul
@@ -5112,7 +5164,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/maculjak">
 				<img src="https://avatars.githubusercontent.com/u/44749395?s=72&u=58ebaf02ad30cde8defb2840944941395201ac22&v=4" width="24" alt="Avatar of maculjak"> maculjak
@@ -5125,85 +5177,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/metakermit">
-				<img src="https://avatars.githubusercontent.com/u/1818628?s=72&v=4" width="24" alt="Avatar of metakermit"> metakermit
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#metakermit">Copy rank badge</a><br/>
-			Dražen Lučanin
-		</td>
-		<td>@punkrockdev  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb / Vienna</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/xikodev">
-				<img src="https://avatars.githubusercontent.com/u/58877412?s=72&u=4ed80217f535361e4019e8a0a8c72a927e15511d&v=4" width="24" alt="Avatar of xikodev"> xikodev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#xikodev">Copy rank badge</a><br/>
-			Borna Krpan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/lmark1">
-				<img src="https://avatars.githubusercontent.com/u/26650764?s=72&u=692d7a0c6ae680f5be1390fb8b17fa3797f1e750&v=4" width="24" alt="Avatar of lmark1"> lmark1
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lmark1">Copy rank badge</a><br/>
-			Lovro Marković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/kristijanbambir">
-				<img src="https://avatars.githubusercontent.com/u/373850?s=72&u=8a83634c37af3112ff29ba3e15d2e9f5be98a00d&v=4" width="24" alt="Avatar of kristijanbambir"> kristijanbambir
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kristijanbambir">Copy rank badge</a><br/>
-			Kristijan Bambir
-		</td>
-		<td>@vumedi </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>43</td>
-	</tr>
-	<tr>
 		<td>391</td>
 		<td>
-			<a href="https://github.com/LukaSikic">
-				<img src="https://avatars.githubusercontent.com/u/15249077?s=72&u=7d2c136809852e76616de765d80693f0f7205566&v=4" width="24" alt="Avatar of LukaSikic"> LukaSikic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#LukaSikic">Copy rank badge</a><br/>
-			Luka Šikić
+			<a href="https://github.com/lukapeharda">
+				<img src="https://avatars.githubusercontent.com/u/2076692?s=72&v=4" width="24" alt="Avatar of lukapeharda"> lukapeharda
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lukapeharda">Copy rank badge</a><br/>
+			Luka Peharda
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>42</td>
+		<td>Kourses </td>
+		<td><a href="https://twitter.com/lukapeharda">lukapeharda</a></td>
+		<td>Croatia</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>392</td>
-		<td>
-			<a href="https://github.com/ivancuric">
-				<img src="https://avatars.githubusercontent.com/u/2827047?s=72&u=e6c42f294e4aacc71314414511f62e2d17a220d7&v=4" width="24" alt="Avatar of ivancuric"> ivancuric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivancuric">Copy rank badge</a><br/>
-			Ivan Čurić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>393</td>
 		<td>
 			<a href="https://github.com/dmilicic">
 				<img src="https://avatars.githubusercontent.com/u/3181172?s=72&u=9fad000fca082dc5ecb0715477ad38b9f0786f37&v=4" width="24" alt="Avatar of dmilicic"> dmilicic
@@ -5213,23 +5200,62 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>41</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/mislavmatijevic">
+				<img src="https://avatars.githubusercontent.com/u/11699688?s=72&u=f04a599ed46c200ef3c65c3da83bf828e5cc2461&v=4" width="24" alt="Avatar of mislavmatijevic"> mislavmatijevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mislavmatijevic">Copy rank badge</a><br/>
+			Mislav Matijević
+		</td>
+		<td>Emil Frey Digital D.o.o.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>394</td>
 		<td>
-			<a href="https://github.com/kernel-dev">
-				<img src="https://avatars.githubusercontent.com/u/61620747?s=72&u=f89953a1b5f74ff606ac69125bf69ca95417cde6&v=4" width="24" alt="Avatar of kernel-dev"> kernel-dev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kernel-dev">Copy rank badge</a><br/>
-			Mladen Golo
+			<a href="https://github.com/marinactonci">
+				<img src="https://avatars.githubusercontent.com/u/28233629?s=72&u=db6bbad4b56c67e897beae2981039345771fd93e&v=4" width="24" alt="Avatar of marinactonci"> marinactonci
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinactonci">Copy rank badge</a><br/>
+			Tonči Marinac
 		</td>
-		<td>Rimac Technology </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/dstrekelj">
+				<img src="https://avatars.githubusercontent.com/u/5046502?s=72&u=1363f1566208828a7d6d46bb1ea9cc986f83687b&v=4" width="24" alt="Avatar of dstrekelj"> dstrekelj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dstrekelj">Copy rank badge</a><br/>
+			Domagoj Štrekelj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/sskender">
+				<img src="https://avatars.githubusercontent.com/u/23419841?s=72&u=885283b16bd03c7cb47e1ce1728c2fb82a771882&v=4" width="24" alt="Avatar of sskender"> sskender
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sskender">Copy rank badge</a><br/>
+			Sven Skender
+		</td>
+		<td>@ultrax-ai  </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/matootie">
 				<img src="https://avatars.githubusercontent.com/u/31599272?s=72&u=6cbcbeefab9bf2b06e4e6c10ec0dae6bb0bcfcac&v=4" width="24" alt="Avatar of matootie"> matootie
@@ -5242,20 +5268,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>398</td>
 		<td>
-			<a href="https://github.com/dstar55">
-				<img src="https://avatars.githubusercontent.com/u/6433464?s=72&v=4" width="24" alt="Avatar of dstar55"> dstar55
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dstar55">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/MarinX">
+				<img src="https://avatars.githubusercontent.com/u/3714132?s=72&u=fd95bba631e8fcdabc2336c8112341e98daf5768&v=4" width="24" alt="Avatar of MarinX"> MarinX
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinX">Copy rank badge</a><br/>
+			Marin Basic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/teodragovic">
+				<img src="https://avatars.githubusercontent.com/u/2872127?s=72&u=eae073dd69c7c6e47792686f48edd930dfc251f6&v=4" width="24" alt="Avatar of teodragovic"> teodragovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#teodragovic">Copy rank badge</a><br/>
+			Teo Dragovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/ivancuric">
+				<img src="https://avatars.githubusercontent.com/u/2827047?s=72&u=e6c42f294e4aacc71314414511f62e2d17a220d7&v=4" width="24" alt="Avatar of ivancuric"> ivancuric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivancuric">Copy rank badge</a><br/>
+			Ivan Čurić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/shestera">
 				<img src="https://avatars.githubusercontent.com/u/52410?s=72&u=2ba939294f8bc9339a83dafd4de2d9c61165f1fb&v=4" width="24" alt="Avatar of shestera"> shestera
@@ -5268,7 +5320,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/dstar55">
+				<img src="https://avatars.githubusercontent.com/u/6433464?s=72&v=4" width="24" alt="Avatar of dstar55"> dstar55
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dstar55">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/msplival">
+				<img src="https://avatars.githubusercontent.com/u/1097418?s=72&u=dc36c2d4d53542aa44a9e683c725e5ee72727c99&v=4" width="24" alt="Avatar of msplival"> msplival
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#msplival">Copy rank badge</a><br/>
+			Mario Splivalo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/i1mercep">
+				<img src="https://avatars.githubusercontent.com/u/5777097?s=72&u=f05298e3f1ead8df1f4f248a9e4ca4b97c4aeac5&v=4" width="24" alt="Avatar of i1mercep"> i1mercep
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#i1mercep">Copy rank badge</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Munich & Dubrovnik</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/Petrina99">
 				<img src="https://avatars.githubusercontent.com/u/71042183?s=72&u=a7fc44a8d067bcdccbdccffd138e6bde9296c6f5&v=4" width="24" alt="Avatar of Petrina99"> Petrina99
@@ -5281,7 +5372,98 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/ldulcic">
+				<img src="https://avatars.githubusercontent.com/u/10235218?s=72&v=4" width="24" alt="Avatar of ldulcic"> ldulcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ldulcic">Copy rank badge</a><br/>
+			Luka Dulčić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/apisurfer">
+				<img src="https://avatars.githubusercontent.com/u/2341114?s=72&u=df0a8ee0fa1685361a4270b22699fe6ed32db816&v=4" width="24" alt="Avatar of apisurfer"> apisurfer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#apisurfer">Copy rank badge</a><br/>
+			Luka Vidaković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/jte">
+				<img src="https://avatars.githubusercontent.com/u/193037?s=72&v=4" width="24" alt="Avatar of jte"> jte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jte">Copy rank badge</a><br/>
+			jte
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/kristijanbambir">
+				<img src="https://avatars.githubusercontent.com/u/373850?s=72&u=8a83634c37af3112ff29ba3e15d2e9f5be98a00d&v=4" width="24" alt="Avatar of kristijanbambir"> kristijanbambir
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kristijanbambir">Copy rank badge</a><br/>
+			Kristijan Bambir
+		</td>
+		<td>@vumedi </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/Dynosius">
+				<img src="https://avatars.githubusercontent.com/u/26442194?s=72&u=2aa6d2db78de2b5bcb51dda86b19711663125abd&v=4" width="24" alt="Avatar of Dynosius"> Dynosius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Dynosius">Copy rank badge</a><br/>
+			Dino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/ivanweiler">
+				<img src="https://avatars.githubusercontent.com/u/568785?s=72&u=37d8aabc74dbba5adcb7526182b9cc9525ef52b0&v=4" width="24" alt="Avatar of ivanweiler"> ivanweiler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanweiler">Copy rank badge</a><br/>
+			Ivan Weiler
+		</td>
+		<td>Favicode </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/MarioBlazek">
+				<img src="https://avatars.githubusercontent.com/u/6605175?s=72&u=2630800b4527d9a4388ae6fb99a81d00450c22dc&v=4" width="24" alt="Avatar of MarioBlazek"> MarioBlazek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarioBlazek">Copy rank badge</a><br/>
+			Mario Blazek
+		</td>
+		<td>Four Of Them </td>
+		<td><a href="https://twitter.com/phpanarchist">phpanarchist</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/msvrtan">
 				<img src="https://avatars.githubusercontent.com/u/1780572?s=72&u=95720e53a4d2e456b8c2f84e134156b852ec8246&v=4" width="24" alt="Avatar of msvrtan"> msvrtan
@@ -5291,62 +5473,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Null Development </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>38</td>
+		<td>36</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>414</td>
 		<td>
-			<a href="https://github.com/msplival">
-				<img src="https://avatars.githubusercontent.com/u/1097418?s=72&u=dc36c2d4d53542aa44a9e683c725e5ee72727c99&v=4" width="24" alt="Avatar of msplival"> msplival
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#msplival">Copy rank badge</a><br/>
-			Mario Splivalo
+			<a href="https://github.com/kop7">
+				<img src="https://avatars.githubusercontent.com/u/18327186?s=72&u=4b77eb63f7905a56d35e4adb19612f9ddbe9ff33&v=4" width="24" alt="Avatar of kop7"> kop7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kop7">Copy rank badge</a><br/>
+			Matija Kop
 		</td>
-		<td>No Company</td>
+		<td>@simplecode </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>38</td>
+		<td>Zagreb</td>
+		<td>36</td>
 	</tr>
 	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/lukapeharda">
-				<img src="https://avatars.githubusercontent.com/u/2076692?s=72&v=4" width="24" alt="Avatar of lukapeharda"> lukapeharda
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lukapeharda">Copy rank badge</a><br/>
-			Luka Peharda
-		</td>
-		<td>Kourses </td>
-		<td><a href="https://twitter.com/lukapeharda">lukapeharda</a></td>
-		<td>Croatia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/sskender">
-				<img src="https://avatars.githubusercontent.com/u/23419841?s=72&u=885283b16bd03c7cb47e1ce1728c2fb82a771882&v=4" width="24" alt="Avatar of sskender"> sskender
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sskender">Copy rank badge</a><br/>
-			Sven Skender
-		</td>
-		<td>@ultrax-ai  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/aerkalov">
-				<img src="https://avatars.githubusercontent.com/u/1003989?s=72&v=4" width="24" alt="Avatar of aerkalov"> aerkalov
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aerkalov">Copy rank badge</a><br/>
-			Aleksandar Erkalović
-		</td>
-		<td>Binarni Broj </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>404</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/kristijansoldo">
 				<img src="https://avatars.githubusercontent.com/u/15091958?s=72&u=4c573cbba434ea7a4339c76d37aff006f5cfa2a2&v=4" width="24" alt="Avatar of kristijansoldo"> kristijansoldo
@@ -5359,20 +5502,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>416</td>
 		<td>
-			<a href="https://github.com/teodragovic">
-				<img src="https://avatars.githubusercontent.com/u/2872127?s=72&u=eae073dd69c7c6e47792686f48edd930dfc251f6&v=4" width="24" alt="Avatar of teodragovic"> teodragovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#teodragovic">Copy rank badge</a><br/>
-			Teo Dragovic
+			<a href="https://github.com/DenisPav">
+				<img src="https://avatars.githubusercontent.com/u/7118851?s=72&v=4" width="24" alt="Avatar of DenisPav"> DenisPav
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DenisPav">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/nevenjovanovic">
 				<img src="https://avatars.githubusercontent.com/u/5147578?s=72&u=d312ea0b641f7270efec7e7efb9be52385ee2f08&v=4" width="24" alt="Avatar of nevenjovanovic"> nevenjovanovic
@@ -5385,20 +5528,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/akegalj">
-				<img src="https://avatars.githubusercontent.com/u/2461951?s=72&v=4" width="24" alt="Avatar of akegalj"> akegalj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akegalj">Copy rank badge</a><br/>
-			Ante Kegalj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>408</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/mamihelj09">
 				<img src="https://avatars.githubusercontent.com/u/22300510?s=72&u=d08dac4dc9fc8a149801b9aca9753eb53d679d9c&v=4" width="24" alt="Avatar of mamihelj09"> mamihelj09
@@ -5411,12 +5541,12 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>419</td>
 		<td>
-			<a href="https://github.com/MarinX">
-				<img src="https://avatars.githubusercontent.com/u/3714132?s=72&u=1cf1e93c9153aaecb89c651d4edd56681f8b0aee&v=4" width="24" alt="Avatar of MarinX"> MarinX
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinX">Copy rank badge</a><br/>
-			Marin Basic
+			<a href="https://github.com/akegalj">
+				<img src="https://avatars.githubusercontent.com/u/2461951?s=72&v=4" width="24" alt="Avatar of akegalj"> akegalj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#akegalj">Copy rank badge</a><br/>
+			Ante Kegalj
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5424,33 +5554,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>410</td>
-		<td>
-			<a href="https://github.com/frankieboxx">
-				<img src="https://avatars.githubusercontent.com/u/243003?s=72&u=49bd93db4b98b6bd8e9f2b24a611afc203a6cc72&v=4" width="24" alt="Avatar of frankieboxx"> frankieboxx
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#frankieboxx">Copy rank badge</a><br/>
-			Frano Hartman
-		</td>
-		<td>University Of Zagreb Centre<br/>For<br/>Advanced<br/>Academic<br/>Studies<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubrovnik, Croatia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/kop7">
-				<img src="https://avatars.githubusercontent.com/u/18327186?s=72&u=4b77eb63f7905a56d35e4adb19612f9ddbe9ff33&v=4" width="24" alt="Avatar of kop7"> kop7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kop7">Copy rank badge</a><br/>
-			Matija Kop
-		</td>
-		<td>@simplecode </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>412</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/druzic">
 				<img src="https://avatars.githubusercontent.com/u/59965839?s=72&v=4" width="24" alt="Avatar of druzic"> druzic
@@ -5463,7 +5567,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/brankoajzele">
+				<img src="https://avatars.githubusercontent.com/u/42314?s=72&u=76ea8e1e7ee788bc9364980248b191573dc5f4a7&v=4" width="24" alt="Avatar of brankoajzele"> brankoajzele
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brankoajzele">Copy rank badge</a><br/>
+			Branko Ajzele
+		</td>
+		<td>Briva </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/vkaracic">
 				<img src="https://avatars.githubusercontent.com/u/2808092?s=72&u=e2a56963710c0b7067f64f540b33b5123dbe1a69&v=4" width="24" alt="Avatar of vkaracic"> vkaracic
@@ -5476,7 +5593,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/dgranosa">
+				<img src="https://avatars.githubusercontent.com/u/10576958?s=72&u=b83215cab40f8554f0e3ddc834823ff336793e59&v=4" width="24" alt="Avatar of dgranosa"> dgranosa
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dgranosa">Copy rank badge</a><br/>
+			Dorian Granoša
+		</td>
+		<td>@splx-ai  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/kvidek">
+				<img src="https://avatars.githubusercontent.com/u/4563496?s=72&u=7ea49667d017d798f2454add399b5839a75b3f61&v=4" width="24" alt="Avatar of kvidek"> kvidek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kvidek">Copy rank badge</a><br/>
+			Karlo Videk
+		</td>
+		<td>@bornfight-studio  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/bornacvitanic">
 				<img src="https://avatars.githubusercontent.com/u/16841000?s=72&u=b01fb1d3ca58fba19442b020d72c0fdd2ab4586c&v=4" width="24" alt="Avatar of bornacvitanic"> bornacvitanic
@@ -5489,7 +5632,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/luksha6">
 				<img src="https://avatars.githubusercontent.com/u/27698352?s=72&u=e194ad47f7bc8e3df37f52d96be3de59baf42af5&v=4" width="24" alt="Avatar of luksha6"> luksha6
@@ -5502,59 +5645,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/simevidas">
-				<img src="https://avatars.githubusercontent.com/u/716405?s=72&u=107bbfe1ac01a1f0b0d4304761d5ec1c95267510&v=4" width="24" alt="Avatar of simevidas"> simevidas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#simevidas">Copy rank badge</a><br/>
-			Šime
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/kvidek">
-				<img src="https://avatars.githubusercontent.com/u/4563496?s=72&u=7ea49667d017d798f2454add399b5839a75b3f61&v=4" width="24" alt="Avatar of kvidek"> kvidek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kvidek">Copy rank badge</a><br/>
-			Karlo Videk
-		</td>
-		<td>@bornfight-studio  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/BornaBiro">
-				<img src="https://avatars.githubusercontent.com/u/43830307?s=72&u=25fb8dbc3cc5b18214fb7c2c99861bfc4ca7869f&v=4" width="24" alt="Avatar of BornaBiro"> BornaBiro
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BornaBiro">Copy rank badge</a><br/>
-			Borna Biro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belišće, Croatia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/Filip7">
-				<img src="https://avatars.githubusercontent.com/u/5603672?s=72&u=9f53f330e36f7d86e895b3121f183efe9521877e&v=4" width="24" alt="Avatar of Filip7"> Filip7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Filip7">Copy rank badge</a><br/>
-			Filip Milković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>420</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/sahataba">
 				<img src="https://avatars.githubusercontent.com/u/327253?s=72&u=ed01fc4faba81591d04e4639fe924cea44200c68&v=4" width="24" alt="Avatar of sahataba"> sahataba
@@ -5567,134 +5658,43 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/Stane1983">
-				<img src="https://avatars.githubusercontent.com/u/2560801?s=72&v=4" width="24" alt="Avatar of Stane1983"> Stane1983
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Stane1983">Copy rank badge</a><br/>
-			Stanislav Vlasic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Varazdin, Croatia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/dgranosa">
-				<img src="https://avatars.githubusercontent.com/u/10576958?s=72&u=b83215cab40f8554f0e3ddc834823ff336793e59&v=4" width="24" alt="Avatar of dgranosa"> dgranosa
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dgranosa">Copy rank badge</a><br/>
-			Dorian Granoša
-		</td>
-		<td>@splx-ai  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/fobos531">
-				<img src="https://avatars.githubusercontent.com/u/19533289?s=72&u=21cf32800b0cdbeb8819301fbf149977393dd5b4&v=4" width="24" alt="Avatar of fobos531"> fobos531
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fobos531">Copy rank badge</a><br/>
-			Jakov Glavina
-		</td>
-		<td>Domore </td>
-		<td>No Twitter Username</td>
-		<td>Prelog, Croatia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/aaronadamsCA">
-				<img src="https://avatars.githubusercontent.com/u/1505561?s=72&u=5157b9076e2372c79f0ec7e0cc084e447826895c&v=4" width="24" alt="Avatar of aaronadamsCA"> aaronadamsCA
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aaronadamsCA">Copy rank badge</a><br/>
-			Aaron Adams
-		</td>
-		<td>@nisheretail </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/JosipBudimcic">
-				<img src="https://avatars.githubusercontent.com/u/7622492?s=72&u=0b82ee57cb470fc9fb4e4390f2481d1d452077e7&v=4" width="24" alt="Avatar of JosipBudimcic"> JosipBudimcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JosipBudimcic">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/marinactonci">
-				<img src="https://avatars.githubusercontent.com/u/28233629?s=72&u=db6bbad4b56c67e897beae2981039345771fd93e&v=4" width="24" alt="Avatar of marinactonci"> marinactonci
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinactonci">Copy rank badge</a><br/>
-			Tonči Marinac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/amarjanica">
-				<img src="https://avatars.githubusercontent.com/u/1394565?s=72&u=b01c82729d408ef3d7a5dbd060e098b14e7c11de&v=4" width="24" alt="Avatar of amarjanica"> amarjanica
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#amarjanica">Copy rank badge</a><br/>
-			Ana Bujan
-		</td>
-		<td>@eisberg-labs  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>29</td>
-	</tr>
-	<tr>
 		<td>428</td>
 		<td>
-			<a href="https://github.com/JuraJuki">
-				<img src="https://avatars.githubusercontent.com/u/38830441?s=72&u=53a80025f96e4b12cfc74f6b1ca6cbdb558af257&v=4" width="24" alt="Avatar of JuraJuki"> JuraJuki
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JuraJuki">Copy rank badge</a><br/>
-			Juraj
+			<a href="https://github.com/dalijap">
+				<img src="https://avatars.githubusercontent.com/u/35191789?s=72&u=e5fbacaa25d884d6a13c142fe2d51dba2053067b&v=4" width="24" alt="Avatar of dalijap"> dalijap
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dalijap">Copy rank badge</a><br/>
+			Dalija Prasnikar
 		</td>
-		<td>@productive </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>29</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dalijap">dalijap</a></td>
+		<td>Croatia</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>429</td>
 		<td>
-			<a href="https://github.com/mat1jaczyyy">
-				<img src="https://avatars.githubusercontent.com/u/13300194?s=72&u=70ad9f9246838afa3b11e5c79591011405327313&v=4" width="24" alt="Avatar of mat1jaczyyy"> mat1jaczyyy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mat1jaczyyy">Copy rank badge</a><br/>
+			<a href="https://github.com/menchauser">
+				<img src="https://avatars.githubusercontent.com/u/48994?s=72&v=4" width="24" alt="Avatar of menchauser"> menchauser
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#menchauser">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>28</td>
+		<td>Zagreb</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>430</td>
 		<td>
-			<a href="https://github.com/DBDoco">
-				<img src="https://avatars.githubusercontent.com/u/60035381?s=72&u=e4cca16260dbb03373c7f3c7c065650224f6b3a7&v=4" width="24" alt="Avatar of DBDoco"> DBDoco
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DBDoco">Copy rank badge</a><br/>
-			Dominik Bedenic
+			<a href="https://github.com/Vito510">
+				<img src="https://avatars.githubusercontent.com/u/73427833?s=72&u=a108c6aea94ee2960ef278be7406ef8a9d6b7cc0&v=4" width="24" alt="Avatar of Vito510"> Vito510
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Vito510">Copy rank badge</a><br/>
+			Vito
 		</td>
-		<td>Kupuj Online </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>28</td>
+		<td>Croatia</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>431</td>
@@ -5707,7 +5707,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@jaspero  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>28</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>432</td>
@@ -5720,36 +5720,62 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>@coe-marble </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>28</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>433</td>
 		<td>
-			<a href="https://github.com/nmandic78">
-				<img src="https://avatars.githubusercontent.com/u/41057811?s=72&v=4" width="24" alt="Avatar of nmandic78"> nmandic78
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nmandic78">Copy rank badge</a><br/>
-			Nenad Mandic
+			<a href="https://github.com/mat1jaczyyy">
+				<img src="https://avatars.githubusercontent.com/u/13300194?s=72&u=70ad9f9246838afa3b11e5c79591011405327313&v=4" width="24" alt="Avatar of mat1jaczyyy"> mat1jaczyyy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mat1jaczyyy">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Croatia</td>
 		<td>28</td>
 	</tr>
 	<tr>
 		<td>434</td>
 		<td>
-			<a href="https://github.com/dalijap">
-				<img src="https://avatars.githubusercontent.com/u/35191789?s=72&u=e5fbacaa25d884d6a13c142fe2d51dba2053067b&v=4" width="24" alt="Avatar of dalijap"> dalijap
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dalijap">Copy rank badge</a><br/>
-			Dalija Prasnikar
+			<a href="https://github.com/polaris64">
+				<img src="https://avatars.githubusercontent.com/u/616310?s=72&v=4" width="24" alt="Avatar of polaris64"> polaris64
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#polaris64">Copy rank badge</a><br/>
+			Simon Pugnet
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dalijap">dalijap</a></td>
+		<td>Square Flame Ltd. </td>
+		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>27</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>435</td>
+		<td>
+			<a href="https://github.com/gour">
+				<img src="https://avatars.githubusercontent.com/u/114592?s=72&u=58bc44d46e53dcca04fa5d7b520e5d366827741c&v=4" width="24" alt="Avatar of gour"> gour
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gour">Copy rank badge</a><br/>
+			Saša Janiška
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/sasa1977">
+				<img src="https://avatars.githubusercontent.com/u/202498?s=72&u=71c741d8bb7e45e98f9bed3adb51c98575fee650&v=4" width="24" alt="Avatar of sasa1977"> sasa1977
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sasa1977">Copy rank badge</a><br/>
+			Saša Jurić
+		</td>
+		<td>Very Big Things </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/thisbit">
 				<img src="https://avatars.githubusercontent.com/u/53581066?s=72&v=4" width="24" alt="Avatar of thisbit"> thisbit
@@ -5762,33 +5788,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/mkdizajn">
-				<img src="https://avatars.githubusercontent.com/u/767837?s=72&u=0488c93b929d57762a47e9f09e06e9a0e34a8fa1&v=4" width="24" alt="Avatar of mkdizajn"> mkdizajn
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkdizajn">Copy rank badge</a><br/>
-			Kresimir Pendic
-		</td>
-		<td>#mkdizajn </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/polaris64">
-				<img src="https://avatars.githubusercontent.com/u/616310?s=72&v=4" width="24" alt="Avatar of polaris64"> polaris64
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#polaris64">Copy rank badge</a><br/>
-			Simon Pugnet
-		</td>
-		<td>Square Flame Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>27</td>
-	</tr>
-	<tr>
 		<td>438</td>
+		<td>
+			<a href="https://github.com/PauloSankovic">
+				<img src="https://avatars.githubusercontent.com/u/53531617?s=72&u=ad46f045966950a2d21e1725b1533ac26d444998&v=4" width="24" alt="Avatar of PauloSankovic"> PauloSankovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#PauloSankovic">Copy rank badge</a><br/>
+			Paulo Sanković
+		</td>
+		<td>@adria-analytics  </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/DarkoKukovec">
+				<img src="https://avatars.githubusercontent.com/u/480290?s=72&u=321f9d91c67ff7c85c192c020474e604156b33e7&v=4" width="24" alt="Avatar of DarkoKukovec"> DarkoKukovec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DarkoKukovec">Copy rank badge</a><br/>
+			Darko Kukovec
+		</td>
+		<td>@infinum </td>
+		<td><a href="https://twitter.com/DarkoKukovec">DarkoKukovec</a></td>
+		<td>Croatia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/nmlinaric">
 				<img src="https://avatars.githubusercontent.com/u/35880252?s=72&u=1711b7ac79b4c714be01dd9e5ebf5f21f57a97ca&v=4" width="24" alt="Avatar of nmlinaric"> nmlinaric
@@ -5798,10 +5824,75 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>27</td>
+		<td>26</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/Lnola">
+				<img src="https://avatars.githubusercontent.com/u/45316394?s=72&u=e2b1388b255ecbb9fe61a0a4f651287b1563c34c&v=4" width="24" alt="Avatar of Lnola"> Lnola
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Lnola">Copy rank badge</a><br/>
+			Luka Nola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/aaronadamsCA">
+				<img src="https://avatars.githubusercontent.com/u/1505561?s=72&u=5157b9076e2372c79f0ec7e0cc084e447826895c&v=4" width="24" alt="Avatar of aaronadamsCA"> aaronadamsCA
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aaronadamsCA">Copy rank badge</a><br/>
+			Aaron Adams
+		</td>
+		<td>@nisheretail </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/BornaBiro">
+				<img src="https://avatars.githubusercontent.com/u/43830307?s=72&u=25fb8dbc3cc5b18214fb7c2c99861bfc4ca7869f&v=4" width="24" alt="Avatar of BornaBiro"> BornaBiro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BornaBiro">Copy rank badge</a><br/>
+			Borna Biro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belišće, Croatia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/amarjanica">
+				<img src="https://avatars.githubusercontent.com/u/1394565?s=72&u=b01c82729d408ef3d7a5dbd060e098b14e7c11de&v=4" width="24" alt="Avatar of amarjanica"> amarjanica
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#amarjanica">Copy rank badge</a><br/>
+			Ana Bujan
+		</td>
+		<td>@eisberg-labs  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/mkdizajn">
+				<img src="https://avatars.githubusercontent.com/u/767837?s=72&u=0488c93b929d57762a47e9f09e06e9a0e34a8fa1&v=4" width="24" alt="Avatar of mkdizajn"> mkdizajn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mkdizajn">Copy rank badge</a><br/>
+			Kresimir Pendic
+		</td>
+		<td>#mkdizajn </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/spinzed">
 				<img src="https://avatars.githubusercontent.com/u/46136813?s=72&v=4" width="24" alt="Avatar of spinzed"> spinzed
@@ -5811,127 +5902,23 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>440</td>
-		<td>
-			<a href="https://github.com/spideyfusion">
-				<img src="https://avatars.githubusercontent.com/u/704579?s=72&v=4" width="24" alt="Avatar of spideyfusion"> spideyfusion
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#spideyfusion">Copy rank badge</a><br/>
-			Petar Obradović
-		</td>
-		<td>@tight-line </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/AI-StartDigital">
-				<img src="https://avatars.githubusercontent.com/u/216779765?s=72&u=6fc63a2a8cde0345a992c94173c106e7e2f63f0f&v=4" width="24" alt="Avatar of AI-StartDigital"> AI-StartDigital
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#AI-StartDigital">Copy rank badge</a><br/>
-			Danijel Ruzevic
-		</td>
-		<td>Start Digital </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/gour">
-				<img src="https://avatars.githubusercontent.com/u/114592?s=72&u=58bc44d46e53dcca04fa5d7b520e5d366827741c&v=4" width="24" alt="Avatar of gour"> gour
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gour">Copy rank badge</a><br/>
-			Saša Janiška
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/sasa1977">
-				<img src="https://avatars.githubusercontent.com/u/202498?s=72&u=71c741d8bb7e45e98f9bed3adb51c98575fee650&v=4" width="24" alt="Avatar of sasa1977"> sasa1977
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sasa1977">Copy rank badge</a><br/>
-			Saša Jurić
-		</td>
-		<td>Very Big Things </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/brankoajzele">
-				<img src="https://avatars.githubusercontent.com/u/42314?s=72&u=76ea8e1e7ee788bc9364980248b191573dc5f4a7&v=4" width="24" alt="Avatar of brankoajzele"> brankoajzele
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brankoajzele">Copy rank badge</a><br/>
-			Branko Ajzele
-		</td>
-		<td>Briva </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/ivanweiler">
-				<img src="https://avatars.githubusercontent.com/u/568785?s=72&u=37d8aabc74dbba5adcb7526182b9cc9525ef52b0&v=4" width="24" alt="Avatar of ivanweiler"> ivanweiler
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanweiler">Copy rank badge</a><br/>
-			Ivan Weiler
-		</td>
-		<td>Favicode </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/menchauser">
-				<img src="https://avatars.githubusercontent.com/u/48994?s=72&v=4" width="24" alt="Avatar of menchauser"> menchauser
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#menchauser">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
 		<td>25</td>
 	</tr>
 	<tr>
 		<td>447</td>
 		<td>
-			<a href="https://github.com/FabijanC">
-				<img src="https://avatars.githubusercontent.com/u/28579396?s=72&v=4" width="24" alt="Avatar of FabijanC"> FabijanC
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#FabijanC">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/Filip7">
+				<img src="https://avatars.githubusercontent.com/u/5603672?s=72&u=9f53f330e36f7d86e895b3121f183efe9521877e&v=4" width="24" alt="Avatar of Filip7"> Filip7
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Filip7">Copy rank badge</a><br/>
+			Filip Milković
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Croatia</td>
 		<td>25</td>
 	</tr>
 	<tr>
 		<td>448</td>
-		<td>
-			<a href="https://github.com/ile123">
-				<img src="https://avatars.githubusercontent.com/u/74355346?s=72&u=5d4266d4b26c0d332d531e5315e786d36d98d7f9&v=4" width="24" alt="Avatar of ile123"> ile123
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ile123">Copy rank badge</a><br/>
-			Ilario Batistic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Split</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>449</td>
 		<td>
 			<a href="https://github.com/istvavk">
 				<img src="https://avatars.githubusercontent.com/u/87823353?s=72&u=696bd538ff57f694ad8567d1938b601653a09223&v=4" width="24" alt="Avatar of istvavk"> istvavk
@@ -5944,20 +5931,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/zregvart">
-				<img src="https://avatars.githubusercontent.com/u/1306050?s=72&u=05edfca376ec282814898e183dce5ffeab6399d5&v=4" width="24" alt="Avatar of zregvart"> zregvart
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zregvart">Copy rank badge</a><br/>
-			Zoran Regvart
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>451</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/melezov">
 				<img src="https://avatars.githubusercontent.com/u/551485?s=72&v=4" width="24" alt="Avatar of melezov"> melezov
@@ -5970,20 +5944,85 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>450</td>
 		<td>
-			<a href="https://github.com/mateoradman">
-				<img src="https://avatars.githubusercontent.com/u/48420316?s=72&u=c4eb7482adccab47abf7496cc5fc326c5efe0bc8&v=4" width="24" alt="Avatar of mateoradman"> mateoradman
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mateoradman">Copy rank badge</a><br/>
-			Mateo Radman
+			<a href="https://github.com/dejankos">
+				<img src="https://avatars.githubusercontent.com/u/3473778?s=72&u=cd2be9157a5af6a2977cd37b9f52945b192a58be&v=4" width="24" alt="Avatar of dejankos"> dejankos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dejankos">Copy rank badge</a><br/>
+			Dejan Kos
 		</td>
-		<td>Raddiene. </td>
+		<td>@gradle  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>24</td>
 	</tr>
 	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/FabijanC">
+				<img src="https://avatars.githubusercontent.com/u/28579396?s=72&v=4" width="24" alt="Avatar of FabijanC"> FabijanC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#FabijanC">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/mariodujic">
+				<img src="https://avatars.githubusercontent.com/u/30378487?s=72&u=0effce8062d519e0f8af34e941f4d8b1da223129&v=4" width="24" alt="Avatar of mariodujic"> mariodujic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariodujic">Copy rank badge</a><br/>
+			Mario Dujić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>23</td>
+	</tr>
+	<tr>
 		<td>453</td>
+		<td>
+			<a href="https://github.com/ivantopo">
+				<img src="https://avatars.githubusercontent.com/u/1302854?s=72&u=6be15f5c3f1bd6ae6cd2f113198e33f07a5d00b7&v=4" width="24" alt="Avatar of ivantopo"> ivantopo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivantopo">Copy rank badge</a><br/>
+			Ivan Topolnjak
+		</td>
+		<td>@kamon-io  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/fobos531">
+				<img src="https://avatars.githubusercontent.com/u/19533289?s=72&u=21cf32800b0cdbeb8819301fbf149977393dd5b4&v=4" width="24" alt="Avatar of fobos531"> fobos531
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fobos531">Copy rank badge</a><br/>
+			Jakov Glavina
+		</td>
+		<td>Domore </td>
+		<td>No Twitter Username</td>
+		<td>Prelog, Croatia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/mario-jerkovic">
+				<img src="https://avatars.githubusercontent.com/u/16222284?s=72&u=25b94027c74a905a95d919e028ad7bb524fec87c&v=4" width="24" alt="Avatar of mario-jerkovic"> mario-jerkovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mario-jerkovic">Copy rank badge</a><br/>
+			Mario Jerkovic
+		</td>
+		<td>@toming-energy </td>
+		<td><a href="https://twitter.com/jerkovic_mario">jerkovic_mario</a></td>
+		<td>Zagreb</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/boristomas">
 				<img src="https://avatars.githubusercontent.com/u/4611177?s=72&v=4" width="24" alt="Avatar of boristomas"> boristomas
@@ -5996,33 +6035,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/Ruslan-Skira">
-				<img src="https://avatars.githubusercontent.com/u/13120752?s=72&v=4" width="24" alt="Avatar of Ruslan-Skira"> Ruslan-Skira
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ruslan-Skira">Copy rank badge</a><br/>
-			Ruslan Skira
-		</td>
-		<td>Globallogic </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/VjeraTurk">
-				<img src="https://avatars.githubusercontent.com/u/10518165?s=72&u=0260c4f8d87e21fbea9e9e8896c52226abab87f1&v=4" width="24" alt="Avatar of VjeraTurk"> VjeraTurk
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#VjeraTurk">Copy rank badge</a><br/>
-			Vjera Turk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/luka-mikec">
 				<img src="https://avatars.githubusercontent.com/u/5161084?s=72&u=502d024aa114af87e0ed16a5264e4c47e6b53be3&v=4" width="24" alt="Avatar of luka-mikec"> luka-mikec
@@ -6035,46 +6048,72 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>457</td>
-		<td>
-			<a href="https://github.com/vlsmt">
-				<img src="https://avatars.githubusercontent.com/u/6095421?s=72&u=76466aacbaceace975145385c91390281ef0b08a&v=4" width="24" alt="Avatar of vlsmt"> vlsmt
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vlsmt">Copy rank badge</a><br/>
-			Tomislav
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>23</td>
-	</tr>
-	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/ldulcic">
-				<img src="https://avatars.githubusercontent.com/u/10235218?s=72&v=4" width="24" alt="Avatar of ldulcic"> ldulcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ldulcic">Copy rank badge</a><br/>
-			Luka Dulčić
+			<a href="https://github.com/Felipelv199">
+				<img src="https://avatars.githubusercontent.com/u/47803931?s=72&u=da210d41c5181200494192983914d34e67d917b1&v=4" width="24" alt="Avatar of Felipelv199"> Felipelv199
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Felipelv199">Copy rank badge</a><br/>
+			Felipe López Valdez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>22</td>
+		<td>Zagreb, Croatia</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/marinbenc">
-				<img src="https://avatars.githubusercontent.com/u/15250015?s=72&u=523aea9e124e2fffb0198f325a1ccf901237d1d7&v=4" width="24" alt="Avatar of marinbenc"> marinbenc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinbenc">Copy rank badge</a><br/>
-			Marin Benčević
+			<a href="https://github.com/simevidas">
+				<img src="https://avatars.githubusercontent.com/u/716405?s=72&u=107bbfe1ac01a1f0b0d4304761d5ec1c95267510&v=4" width="24" alt="Avatar of simevidas"> simevidas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#simevidas">Copy rank badge</a><br/>
+			Šime
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>22</td>
 	</tr>
 	<tr>
 		<td>460</td>
+		<td>
+			<a href="https://github.com/NikolaBreznjak">
+				<img src="https://avatars.githubusercontent.com/u/1001064?s=72&u=68b702047545bdfdeb085286756c45cbfb119743&v=4" width="24" alt="Avatar of NikolaBreznjak"> NikolaBreznjak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#NikolaBreznjak">Copy rank badge</a><br/>
+			Nikola Brežnjak
+		</td>
+		<td>@nomorobo  </td>
+		<td><a href="https://twitter.com/HitmanHR">HitmanHR</a></td>
+		<td>Croatia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/marioloncarek">
+				<img src="https://avatars.githubusercontent.com/u/11228203?s=72&u=f75481950e5fc6d3888377ea514633520e78d0ba&v=4" width="24" alt="Avatar of marioloncarek"> marioloncarek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marioloncarek">Copy rank badge</a><br/>
+			Mario Loncarek
+		</td>
+		<td>@bornfight  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/aesqe">
+				<img src="https://avatars.githubusercontent.com/u/291348?s=72&u=cdffaab4a9b880b72f856e82c40fb6dbb2edecf1&v=4" width="24" alt="Avatar of aesqe"> aesqe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aesqe">Copy rank badge</a><br/>
+			Bruno Babic
+		</td>
+		<td>@toptal  </td>
+		<td><a href="https://twitter.com/aesqe">aesqe</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/dinodsaurus">
 				<img src="https://avatars.githubusercontent.com/u/1530952?s=72&u=495c44728f98f4d919580d549d82b0148252fc4d&v=4" width="24" alt="Avatar of dinodsaurus"> dinodsaurus
@@ -6087,33 +6126,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>464</td>
 		<td>
-			<a href="https://github.com/ivantopo">
-				<img src="https://avatars.githubusercontent.com/u/1302854?s=72&u=6be15f5c3f1bd6ae6cd2f113198e33f07a5d00b7&v=4" width="24" alt="Avatar of ivantopo"> ivantopo
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivantopo">Copy rank badge</a><br/>
-			Ivan Topolnjak
+			<a href="https://github.com/aronbalog">
+				<img src="https://avatars.githubusercontent.com/u/1356858?s=72&u=d7d8e26aad0e9e1cd9d516aadd390d0d656a4ac9&v=4" width="24" alt="Avatar of aronbalog"> aronbalog
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aronbalog">Copy rank badge</a><br/>
+			Aron Balog
 		</td>
-		<td>@kamon-io  </td>
+		<td>Ll </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Rijeka, Croatia</td>
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/Bgajski">
-				<img src="https://avatars.githubusercontent.com/u/47593223?s=72&u=b024479013b11f096dbee30fab8fe6db63289006&v=4" width="24" alt="Avatar of Bgajski"> Bgajski
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Bgajski">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>463</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/mister11">
 				<img src="https://avatars.githubusercontent.com/u/4458779?s=72&u=00fe020807b450017c47d3496080323afdc3657f&v=4" width="24" alt="Avatar of mister11"> mister11
@@ -6126,20 +6152,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>466</td>
 		<td>
-			<a href="https://github.com/orsic">
-				<img src="https://avatars.githubusercontent.com/u/7871448?s=72&u=d5b71d98ab3dfe468870769eb983a0b376bd6109&v=4" width="24" alt="Avatar of orsic"> orsic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#orsic">Copy rank badge</a><br/>
-			Marin Oršić
+			<a href="https://github.com/zregvart">
+				<img src="https://avatars.githubusercontent.com/u/1306050?s=72&u=05edfca376ec282814898e183dce5ffeab6399d5&v=4" width="24" alt="Avatar of zregvart"> zregvart
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zregvart">Copy rank badge</a><br/>
+			Zoran Regvart
 		</td>
-		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Zagreb, Croatia</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/VjeraTurk">
+				<img src="https://avatars.githubusercontent.com/u/10518165?s=72&u=0260c4f8d87e21fbea9e9e8896c52226abab87f1&v=4" width="24" alt="Avatar of VjeraTurk"> VjeraTurk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#VjeraTurk">Copy rank badge</a><br/>
+			Vjera Turk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/dino-grgic">
 				<img src="https://avatars.githubusercontent.com/u/19477994?s=72&u=8c2de2c68f39db5e8c1be38bba6d1297809940c6&v=4" width="24" alt="Avatar of dino-grgic"> dino-grgic
@@ -6152,20 +6191,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/Kristina456">
-				<img src="https://avatars.githubusercontent.com/u/72509184?s=72&u=9ffdf2588b54f33ea9c422d879877fa13aba6c95&v=4" width="24" alt="Avatar of Kristina456"> Kristina456
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Kristina456">Copy rank badge</a><br/>
-			Kristina Peršić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>467</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/faleksic">
 				<img src="https://avatars.githubusercontent.com/u/14061953?s=72&u=c781dd0ece8640ebeb5171548622fdfc04fcf9db&v=4" width="24" alt="Avatar of faleksic"> faleksic
@@ -6178,46 +6204,85 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/Kristina456">
+				<img src="https://avatars.githubusercontent.com/u/72509184?s=72&u=9ffdf2588b54f33ea9c422d879877fa13aba6c95&v=4" width="24" alt="Avatar of Kristina456"> Kristina456
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Kristina456">Copy rank badge</a><br/>
+			Kristina Peršić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/dCubelic">
+				<img src="https://avatars.githubusercontent.com/u/1512196?s=72&u=86fd73d86cb9ea324bf6bcc23267924604aa55c9&v=4" width="24" alt="Avatar of dCubelic"> dCubelic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dCubelic">Copy rank badge</a><br/>
+			Dominik
+		</td>
+		<td>Lunatic </td>
+		<td><a href="https://twitter.com/dCubelic1">dCubelic1</a></td>
+		<td>Croatia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/skoric">
 				<img src="https://avatars.githubusercontent.com/u/1541947?s=72&u=1e92149913418a070ec6bc346df7ddb642347ed2&v=4" width="24" alt="Avatar of skoric"> skoric
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#skoric">Copy rank badge</a><br/>
 			Ivan Škorić
 		</td>
-		<td>@dalvik-studio  </td>
+		<td>Dalvik D.o.o. </td>
 		<td>No Twitter Username</td>
 		<td>Osijek, Croatia</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>473</td>
 		<td>
-			<a href="https://github.com/marioloncarek">
-				<img src="https://avatars.githubusercontent.com/u/11228203?s=72&u=f75481950e5fc6d3888377ea514633520e78d0ba&v=4" width="24" alt="Avatar of marioloncarek"> marioloncarek
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marioloncarek">Copy rank badge</a><br/>
-			Mario Loncarek
+			<a href="https://github.com/slovnicki">
+				<img src="https://avatars.githubusercontent.com/u/29288059?s=72&u=60abd484416736d7cc213d862843bacd6b925eeb&v=4" width="24" alt="Avatar of slovnicki"> slovnicki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#slovnicki">Copy rank badge</a><br/>
+			Sandro Lovnički
 		</td>
-		<td>@bornfight  </td>
+		<td>Sciply </td>
+		<td><a href="https://twitter.com/slovnicki">slovnicki</a></td>
+		<td>Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/DBDoco">
+				<img src="https://avatars.githubusercontent.com/u/60035381?s=72&u=e4cca16260dbb03373c7f3c7c065650224f6b3a7&v=4" width="24" alt="Avatar of DBDoco"> DBDoco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DBDoco">Copy rank badge</a><br/>
+			Dominik Bedenic
+		</td>
+		<td>Kupuj Online </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/fitodic">
+				<img src="https://avatars.githubusercontent.com/u/9989566?s=72&v=4" width="24" alt="Avatar of fitodic"> fitodic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fitodic">Copy rank badge</a><br/>
+			Filip Todic
+		</td>
+		<td>@teleclinic </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/mario-jerkovic">
-				<img src="https://avatars.githubusercontent.com/u/16222284?s=72&u=25b94027c74a905a95d919e028ad7bb524fec87c&v=4" width="24" alt="Avatar of mario-jerkovic"> mario-jerkovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mario-jerkovic">Copy rank badge</a><br/>
-			Mario Jerkovic
-		</td>
-		<td>@toming-energy </td>
-		<td><a href="https://twitter.com/jerkovic_mario">jerkovic_mario</a></td>
-		<td>Zagreb</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>471</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/gencdeveloper">
 				<img src="https://avatars.githubusercontent.com/u/43030772?s=72&u=91bc2054416283120e938be6b0fed4cd7a0dbc93&v=4" width="24" alt="Avatar of gencdeveloper"> gencdeveloper
@@ -6230,120 +6295,55 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/PauloSankovic">
-				<img src="https://avatars.githubusercontent.com/u/53531617?s=72&u=ad46f045966950a2d21e1725b1533ac26d444998&v=4" width="24" alt="Avatar of PauloSankovic"> PauloSankovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#PauloSankovic">Copy rank badge</a><br/>
-			Paulo Sanković
-		</td>
-		<td>@adria-analytics  </td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
-			<a href="https://github.com/i1mercep">
-				<img src="https://avatars.githubusercontent.com/u/5777097?s=72&u=f05298e3f1ead8df1f4f248a9e4ca4b97c4aeac5&v=4" width="24" alt="Avatar of i1mercep"> i1mercep
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#i1mercep">Copy rank badge</a><br/>
-			Ivan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Munich & Dubrovnik</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/dCubelic">
-				<img src="https://avatars.githubusercontent.com/u/1512196?s=72&u=86fd73d86cb9ea324bf6bcc23267924604aa55c9&v=4" width="24" alt="Avatar of dCubelic"> dCubelic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dCubelic">Copy rank badge</a><br/>
-			Dominik
-		</td>
-		<td>Lunatic </td>
-		<td><a href="https://twitter.com/dCubelic1">dCubelic1</a></td>
-		<td>Croatia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/atopuzov">
-				<img src="https://avatars.githubusercontent.com/u/202178?s=72&u=b18cc597a4e16a87f0521a15fc464d9be564e5ff&v=4" width="24" alt="Avatar of atopuzov"> atopuzov
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#atopuzov">Copy rank badge</a><br/>
-			Aleksandar Topuzović
-		</td>
-		<td>Aleksandar Topuzovic </td>
-		<td><a href="https://twitter.com/atopuzov">atopuzov</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/DarkoKukovec">
-				<img src="https://avatars.githubusercontent.com/u/480290?s=72&u=321f9d91c67ff7c85c192c020474e604156b33e7&v=4" width="24" alt="Avatar of DarkoKukovec"> DarkoKukovec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#DarkoKukovec">Copy rank badge</a><br/>
-			Darko Kukovec
-		</td>
-		<td>@infinum </td>
-		<td><a href="https://twitter.com/DarkoKukovec">DarkoKukovec</a></td>
-		<td>Croatia</td>
-		<td>19</td>
-	</tr>
-	<tr>
 		<td>477</td>
 		<td>
-			<a href="https://github.com/malj">
-				<img src="https://avatars.githubusercontent.com/u/8290012?s=72&u=5ee132e22b9c2d62df1a4e290275872790fbae4a&v=4" width="24" alt="Avatar of malj"> malj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#malj">Copy rank badge</a><br/>
-			Luka Maljic
+			<a href="https://github.com/ntankovic">
+				<img src="https://avatars.githubusercontent.com/u/714889?s=72&v=4" width="24" alt="Avatar of ntankovic"> ntankovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ntankovic">Copy rank badge</a><br/>
+			Nikola Tanković
 		</td>
-		<td>@darksailstudio </td>
+		<td>Juraj Dobrila University Of<br/>Pula<br/></td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Pula, Croatia</td>
 		<td>19</td>
 	</tr>
 	<tr>
 		<td>478</td>
 		<td>
-			<a href="https://github.com/SimeJadrijev">
-				<img src="https://avatars.githubusercontent.com/u/144346756?s=72&u=17818e51768070ff7917ec9f8a1d5102faa1cef8&v=4" width="24" alt="Avatar of SimeJadrijev"> SimeJadrijev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#SimeJadrijev">Copy rank badge</a><br/>
-			Sime
+			<a href="https://github.com/igorlakic">
+				<img src="https://avatars.githubusercontent.com/u/13659376?s=72&u=06eb0d5ab70864e9373178af46bc5743b7889354&v=4" width="24" alt="Avatar of igorlakic"> igorlakic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igorlakic">Copy rank badge</a><br/>
+			Igor Lakić
 		</td>
-		<td>Dump And Infobip </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
+		<td>Europe - Croatia - Rijeka</td>
 		<td>19</td>
 	</tr>
 	<tr>
 		<td>479</td>
 		<td>
-			<a href="https://github.com/slovnicki">
-				<img src="https://avatars.githubusercontent.com/u/29288059?s=72&u=60abd484416736d7cc213d862843bacd6b925eeb&v=4" width="24" alt="Avatar of slovnicki"> slovnicki
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#slovnicki">Copy rank badge</a><br/>
-			Sandro Lovnički
+			<a href="https://github.com/corazza">
+				<img src="https://avatars.githubusercontent.com/u/1725635?s=72&u=6bbc1563c7f29462eb277a6b31972fb8ddf34baa&v=4" width="24" alt="Avatar of corazza"> corazza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#corazza">Copy rank badge</a><br/>
+			Jan Corazza
 		</td>
-		<td>Sciply </td>
-		<td><a href="https://twitter.com/slovnicki">slovnicki</a></td>
-		<td>Croatia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jancorazza">jancorazza</a></td>
+		<td>Dortmund, Germany // Zagreb, Croatia</td>
 		<td>18</td>
 	</tr>
 	<tr>
 		<td>480</td>
 		<td>
-			<a href="https://github.com/aesqe">
-				<img src="https://avatars.githubusercontent.com/u/291348?s=72&u=cdffaab4a9b880b72f856e82c40fb6dbb2edecf1&v=4" width="24" alt="Avatar of aesqe"> aesqe
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aesqe">Copy rank badge</a><br/>
-			Bruno Babic
+			<a href="https://github.com/marinbenc">
+				<img src="https://avatars.githubusercontent.com/u/15250015?s=72&u=523aea9e124e2fffb0198f325a1ccf901237d1d7&v=4" width="24" alt="Avatar of marinbenc"> marinbenc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinbenc">Copy rank badge</a><br/>
+			Marin Benčević
 		</td>
-		<td>@toptal  </td>
-		<td><a href="https://twitter.com/aesqe">aesqe</a></td>
-		<td>Zagreb, Croatia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -6362,57 +6362,31 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/anamarijapapic">
-				<img src="https://avatars.githubusercontent.com/u/92815435?s=72&u=ba110ffb64804e856d3a261269fdb2e83b3e21a1&v=4" width="24" alt="Avatar of anamarijapapic"> anamarijapapic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#anamarijapapic">Copy rank badge</a><br/>
-			Anamarija Papić
-		</td>
-		<td>@dept </td>
-		<td><a href="https://twitter.com/anamarijapapic">anamarijapapic</a></td>
-		<td>Split, Croatia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/mcagalj">
-				<img src="https://avatars.githubusercontent.com/u/17613991?s=72&u=d278736cd697976a0fa6632e9ddacb8526688471&v=4" width="24" alt="Avatar of mcagalj"> mcagalj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mcagalj">Copy rank badge</a><br/>
-			Mario Cagalj
-		</td>
-		<td>University Of Split, Fesb<br/></td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/ANovokmet">
-				<img src="https://avatars.githubusercontent.com/u/9156853?s=72&u=0f797cf9196a0d423cdea883bf474923a7870ef8&v=4" width="24" alt="Avatar of ANovokmet"> ANovokmet
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ANovokmet">Copy rank badge</a><br/>
-			Ante Novokmet
+			<a href="https://github.com/ivandelas">
+				<img src="https://avatars.githubusercontent.com/u/31404613?s=72&u=b1531234ef813423ab30b24d0e40627aaed185cb&v=4" width="24" alt="Avatar of ivandelas"> ivandelas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivandelas">Copy rank badge</a><br/>
+			Ivan Delaš
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a href="https://github.com/gpedic">
-				<img src="https://avatars.githubusercontent.com/u/779118?s=72&u=615065cfa075a8cb6efeb700e3f87fea6db45093&v=4" width="24" alt="Avatar of gpedic"> gpedic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gpedic">Copy rank badge</a><br/>
-			Goran Pedić
-		</td>
-		<td>Cosmic Byte Labs </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/malj">
+				<img src="https://avatars.githubusercontent.com/u/8290012?s=72&u=5ee132e22b9c2d62df1a4e290275872790fbae4a&v=4" width="24" alt="Avatar of malj"> malj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#malj">Copy rank badge</a><br/>
+			Luka Maljic
+		</td>
+		<td>@darksailstudio </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/Raxone">
 				<img src="https://avatars.githubusercontent.com/u/1832084?s=72&v=4" width="24" alt="Avatar of Raxone"> Raxone
@@ -6425,33 +6399,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/vlado">
-				<img src="https://avatars.githubusercontent.com/u/5148?s=72&u=16a958717ad4cf89b260916f4ef52a9ef4aff433&v=4" width="24" alt="Avatar of vlado"> vlado
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vlado">Copy rank badge</a><br/>
-			Vlado Cingel
-		</td>
-		<td>Cingel D.o.o. </td>
-		<td><a href="https://twitter.com/vladocingel">vladocingel</a></td>
-		<td>Croatia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>488</td>
-		<td>
-			<a href="https://github.com/nborovic">
-				<img src="https://avatars.githubusercontent.com/u/23612489?s=72&u=f2a8a69e7dbbc94887a5f144af6993b9771a50c0&v=4" width="24" alt="Avatar of nborovic"> nborovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nborovic">Copy rank badge</a><br/>
-			Nino Borović
-		</td>
-		<td>Solbound.dev </td>
-		<td><a href="https://twitter.com/ninoborovic">ninoborovic</a></td>
-		<td>Split </td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>489</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/Nidjo123">
 				<img src="https://avatars.githubusercontent.com/u/892180?s=72&v=4" width="24" alt="Avatar of Nidjo123"> Nidjo123
@@ -6464,7 +6412,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/ozana-buljan">
+				<img src="https://avatars.githubusercontent.com/u/33342872?s=72&v=4" width="24" alt="Avatar of ozana-buljan"> ozana-buljan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ozana-buljan">Copy rank badge</a><br/>
+			Ozana Buljan
+		</td>
+		<td>Mcknight Media </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/dlozina">
 				<img src="https://avatars.githubusercontent.com/u/28594128?s=72&u=958f90ebbf9a3b63eb4a4fdb39f3c59260d9d032&v=4" width="24" alt="Avatar of dlozina"> dlozina
@@ -6477,111 +6438,72 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/T800G">
+				<img src="https://avatars.githubusercontent.com/u/25018911?s=72&u=8a1cf5f4dd6e29fc3380df104fef7ed886b4f9b8&v=4" width="24" alt="Avatar of T800G"> T800G
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#T800G">Copy rank badge</a><br/>
+			T800
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/igorantolic">
+				<img src="https://avatars.githubusercontent.com/u/5782720?s=72&u=28b7891bd122f525e98a5ab6dadf25936ee54d69&v=4" width="24" alt="Avatar of igorantolic"> igorantolic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igorantolic">Copy rank badge</a><br/>
+			Igor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/jeremija">
+				<img src="https://avatars.githubusercontent.com/u/1489493?s=72&u=287d56c59bcfc1069e7d734ccc23900603604aad&v=4" width="24" alt="Avatar of jeremija"> jeremija
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jeremija">Copy rank badge</a><br/>
+			Jerko Steiner
+		</td>
+		<td>@peer-calls @rondomoon </td>
+		<td>No Twitter Username</td>
+		<td>New York / Zagreb / 100% Remote</td>
+		<td>16</td>
+	</tr>
+	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/aronbalog">
-				<img src="https://avatars.githubusercontent.com/u/1356858?s=72&u=d7d8e26aad0e9e1cd9d516aadd390d0d656a4ac9&v=4" width="24" alt="Avatar of aronbalog"> aronbalog
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aronbalog">Copy rank badge</a><br/>
-			Aron Balog
+			<a href="https://github.com/anamarijapapic">
+				<img src="https://avatars.githubusercontent.com/u/92815435?s=72&u=14174fa3bd3f09d251b73f94350e1ce883629214&v=4" width="24" alt="Avatar of anamarijapapic"> anamarijapapic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#anamarijapapic">Copy rank badge</a><br/>
+			Anamarija Papić
 		</td>
-		<td>Ll </td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>17</td>
+		<td>@dept </td>
+		<td><a href="https://twitter.com/anamarijapapic">anamarijapapic</a></td>
+		<td>Split, Croatia</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>492</td>
 		<td>
-			<a href="https://github.com/ivanslapnicar">
-				<img src="https://avatars.githubusercontent.com/u/8678320?s=72&u=1da373b8d4c45b32f757ae82256c6f523e17ccfc&v=4" width="24" alt="Avatar of ivanslapnicar"> ivanslapnicar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanslapnicar">Copy rank badge</a><br/>
-			Ivan Slapnicar
+			<a href="https://github.com/bubafinder">
+				<img src="https://avatars.githubusercontent.com/u/41724080?s=72&u=d28bef97ddb31db3f801fa053a7e9c883be7421e&v=4" width="24" alt="Avatar of bubafinder"> bubafinder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bubafinder">Copy rank badge</a><br/>
+			Marko Lovrić
 		</td>
-		<td>Fesb, University Of Split,<br/>Croatia<br/></td>
+		<td>@extensionengine </td>
 		<td>No Twitter Username</td>
 		<td>Split, Croatia</td>
-		<td>17</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>493</td>
-		<td>
-			<a href="https://github.com/antunnitraj">
-				<img src="https://avatars.githubusercontent.com/u/69330974?s=72&v=4" width="24" alt="Avatar of antunnitraj"> antunnitraj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#antunnitraj">Copy rank badge</a><br/>
-			Antun Nitraj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>494</td>
-		<td>
-			<a href="https://github.com/Felipelv199">
-				<img src="https://avatars.githubusercontent.com/u/47803931?s=72&u=da210d41c5181200494192983914d34e67d917b1&v=4" width="24" alt="Avatar of Felipelv199"> Felipelv199
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Felipelv199">Copy rank badge</a><br/>
-			Felipe López Valdez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
-			<a href="https://github.com/filbabic">
-				<img src="https://avatars.githubusercontent.com/u/17215808?s=72&u=665e875788d62cc34f779708f8641c977e8bb93a&v=4" width="24" alt="Avatar of filbabic"> filbabic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#filbabic">Copy rank badge</a><br/>
-			Filip Babic
-		</td>
-		<td>Noom </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>496</td>
-		<td>
-			<a href="https://github.com/iugrina">
-				<img src="https://avatars.githubusercontent.com/u/1000995?s=72&u=bf987f4bf71864a2e41e722f836be3751c366223&v=4" width="24" alt="Avatar of iugrina"> iugrina
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iugrina">Copy rank badge</a><br/>
-			Ivo Ugrina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
-			<a href="https://github.com/snovakovic">
-				<img src="https://avatars.githubusercontent.com/u/6170843?s=72&u=0a003a9a25506963a6dba13206d83c9287b24eb3&v=4" width="24" alt="Avatar of snovakovic"> snovakovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#snovakovic">Copy rank badge</a><br/>
-			Stefan Novaković
-		</td>
-		<td>@brandchamp  </td>
-		<td>No Twitter Username</td>
-		<td>Split 21000 Croatia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/fitodic">
-				<img src="https://avatars.githubusercontent.com/u/9989566?s=72&v=4" width="24" alt="Avatar of fitodic"> fitodic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fitodic">Copy rank badge</a><br/>
-			Filip Todic
-		</td>
-		<td>@teleclinic </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>499</td>
 		<td>
 			<a href="https://github.com/Nicba1010">
 				<img src="https://avatars.githubusercontent.com/u/3586606?s=72&u=129dd955355f37200aa91cd881b647aa07e91271&v=4" width="24" alt="Avatar of Nicba1010"> Nicba1010
@@ -6594,38 +6516,64 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>494</td>
 		<td>
-			<a href="https://github.com/dmurat">
-				<img src="https://avatars.githubusercontent.com/u/470930?s=72&v=4" width="24" alt="Avatar of dmurat"> dmurat
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmurat">Copy rank badge</a><br/>
-			Damir Murat
+			<a href="https://github.com/spideyfusion">
+				<img src="https://avatars.githubusercontent.com/u/704579?s=72&v=4" width="24" alt="Avatar of spideyfusion"> spideyfusion
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#spideyfusion">Copy rank badge</a><br/>
+			Petar Obradović
 		</td>
-		<td>Croz </td>
+		<td>@solflare-wallet </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/gjuric">
+				<img src="https://avatars.githubusercontent.com/u/223015?s=72&u=432083cce212d6e29eae0f554b79ad2885b3faf2&v=4" width="24" alt="Avatar of gjuric"> gjuric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gjuric">Copy rank badge</a><br/>
+			Goran Jurić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/JosipBudimcic">
+				<img src="https://avatars.githubusercontent.com/u/7622492?s=72&u=0b82ee57cb470fc9fb4e4390f2481d1d452077e7&v=4" width="24" alt="Avatar of JosipBudimcic"> JosipBudimcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JosipBudimcic">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>497</td>
 		<td>
-			<a href="https://github.com/ntankovic">
-				<img src="https://avatars.githubusercontent.com/u/714889?s=72&v=4" width="24" alt="Avatar of ntankovic"> ntankovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ntankovic">Copy rank badge</a><br/>
-			Nikola Tanković
+			<a href="https://github.com/dimitri-dev">
+				<img src="https://avatars.githubusercontent.com/u/58113389?s=72&u=e48bb1fca87d20a140eb05339685b854691795fe&v=4" width="24" alt="Avatar of dimitri-dev"> dimitri-dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dimitri-dev">Copy rank badge</a><br/>
+			Neven Marić
 		</td>
-		<td>Juraj Dobrila University Of<br/>Pula<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pula, Croatia</td>
-		<td>15</td>
+		<td>Croatia</td>
+		<td>16</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>498</td>
 		<td>
-			<a href="https://github.com/mbmjertan">
-				<img src="https://avatars.githubusercontent.com/u/1742806?s=72&u=13332010ac2f7576ffc4061274804b0b8c2f2325&v=4" width="24" alt="Avatar of mbmjertan"> mbmjertan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbmjertan">Copy rank badge</a><br/>
-			Mario Borna Mjertan
+			<a href="https://github.com/iugrina">
+				<img src="https://avatars.githubusercontent.com/u/1000995?s=72&u=bf987f4bf71864a2e41e722f836be3751c366223&v=4" width="24" alt="Avatar of iugrina"> iugrina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iugrina">Copy rank badge</a><br/>
+			Ivo Ugrina
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6633,7 +6581,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/josipk">
 				<img src="https://avatars.githubusercontent.com/u/682501?s=72&v=4" width="24" alt="Avatar of josipk"> josipk
@@ -6646,33 +6594,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>500</td>
 		<td>
-			<a href="https://github.com/marjev">
-				<img src="https://avatars.githubusercontent.com/u/6833568?s=72&u=7a88dfc4bf387d5dbf7e8facc07542b32a5afe72&v=4" width="24" alt="Avatar of marjev"> marjev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marjev">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/frankieboxx">
+				<img src="https://avatars.githubusercontent.com/u/243003?s=72&u=49bd93db4b98b6bd8e9f2b24a611afc203a6cc72&v=4" width="24" alt="Avatar of frankieboxx"> frankieboxx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#frankieboxx">Copy rank badge</a><br/>
+			Frano Hartman
 		</td>
-		<td>No Company</td>
+		<td>University Of Zagreb Centre<br/>For<br/>Advanced<br/>Academic<br/>Studies<br/></td>
 		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
+		<td>Dubrovnik, Croatia</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/T800G">
-				<img src="https://avatars.githubusercontent.com/u/25018911?s=72&u=8a1cf5f4dd6e29fc3380df104fef7ed886b4f9b8&v=4" width="24" alt="Avatar of T800G"> T800G
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#T800G">Copy rank badge</a><br/>
-			T800
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>506</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/KaradzaJuraj">
 				<img src="https://avatars.githubusercontent.com/u/101581637?s=72&u=3627f72d117f56392b252012e8307cce9afa3df8&v=4" width="24" alt="Avatar of KaradzaJuraj"> KaradzaJuraj
@@ -6685,7 +6620,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/idikic">
+				<img src="https://avatars.githubusercontent.com/u/2021137?s=72&u=8e1fda926cb26e8dd854a3f860138083473752ac&v=4" width="24" alt="Avatar of idikic"> idikic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#idikic">Copy rank badge</a><br/>
+			Ivan Đikić
+		</td>
+		<td>Infinum </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/isamardzija">
 				<img src="https://avatars.githubusercontent.com/u/74252988?s=72&u=86a77f54bdad356c6d21b4219723115ac889e952&v=4" width="24" alt="Avatar of isamardzija"> isamardzija
@@ -6698,33 +6646,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>504</td>
 		<td>
-			<a href="https://github.com/goranalkovic">
-				<img src="https://avatars.githubusercontent.com/u/2352553?s=72&u=8f45efc2c157e188fab460fb7fc77504551b026f&v=4" width="24" alt="Avatar of goranalkovic"> goranalkovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#goranalkovic">Copy rank badge</a><br/>
-			Goran Alković
+			<a href="https://github.com/filbabic">
+				<img src="https://avatars.githubusercontent.com/u/17215808?s=72&u=665e875788d62cc34f779708f8641c977e8bb93a&v=4" width="24" alt="Avatar of filbabic"> filbabic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#filbabic">Copy rank badge</a><br/>
+			Filip Babic
 		</td>
-		<td>No Company</td>
+		<td>Noom </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>509</td>
-		<td>
-			<a href="https://github.com/blakadder">
-				<img src="https://avatars.githubusercontent.com/u/5904370?s=72&u=060bd1e90e93db69ad40c8c3ea6ba58efd36d777&v=4" width="24" alt="Avatar of blakadder"> blakadder
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#blakadder">Copy rank badge</a><br/>
-			blakadder
-		</td>
-		<td>Https://blakadder.co </td>
-		<td><a href="https://twitter.com/blakadder_">blakadder_</a></td>
-		<td>Croatia</td>
+		<td>Osijek, Croatia</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/m-luketin">
 				<img src="https://avatars.githubusercontent.com/u/40004258?s=72&u=698dc772c184213ea874982fdf151c9a903978c3&v=4" width="24" alt="Avatar of m-luketin"> m-luketin
@@ -6737,12 +6672,12 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>506</td>
 		<td>
-			<a href="https://github.com/n1k3c">
-				<img src="https://avatars.githubusercontent.com/u/2992891?s=72&u=3945a0aa06379ae288756e24d10c9534449a7fb7&v=4" width="24" alt="Avatar of n1k3c"> n1k3c
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#n1k3c">Copy rank badge</a><br/>
-			Nikola 
+			<a href="https://github.com/isabolic">
+				<img src="https://avatars.githubusercontent.com/u/1404432?s=72&u=a9126b48b1ba351df97fcfd84283655dbd0552ba&v=4" width="24" alt="Avatar of isabolic"> isabolic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#isabolic">Copy rank badge</a><br/>
+			isabolic99
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6750,7 +6685,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/factoryhr">
 				<img src="https://avatars.githubusercontent.com/u/6481409?s=72&u=e2e871e6859f2a46265a078ec9ba48cb0daf196d&v=4" width="24" alt="Avatar of factoryhr"> factoryhr
@@ -6763,33 +6698,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>508</td>
 		<td>
-			<a href="https://github.com/skansi">
-				<img src="https://avatars.githubusercontent.com/u/9396036?s=72&u=3390029b3009c63d5b489f3ae1e5ca8ad633ff82&v=4" width="24" alt="Avatar of skansi"> skansi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#skansi">Copy rank badge</a><br/>
-			Sandro Scansi
+			<a href="https://github.com/mcagalj">
+				<img src="https://avatars.githubusercontent.com/u/17613991?s=72&u=d278736cd697976a0fa6632e9ddacb8526688471&v=4" width="24" alt="Avatar of mcagalj"> mcagalj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mcagalj">Copy rank badge</a><br/>
+			Mario Cagalj
 		</td>
-		<td>University Of Zagreb </td>
+		<td>University Of Split, Fesb<br/></td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Split, Croatia</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/dejankos">
-				<img src="https://avatars.githubusercontent.com/u/3473778?s=72&u=cd2be9157a5af6a2977cd37b9f52945b192a58be&v=4" width="24" alt="Avatar of dejankos"> dejankos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dejankos">Copy rank badge</a><br/>
-			Dejan Kos
-		</td>
-		<td>@gradle  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>515</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/dzakman">
 				<img src="https://avatars.githubusercontent.com/u/3996271?s=72&u=44325dbfe0812fdf7a75e6a5a62e62b56e022f3f&v=4" width="24" alt="Avatar of dzakman"> dzakman
@@ -6802,7 +6724,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/kristiandz">
 				<img src="https://avatars.githubusercontent.com/u/36107078?s=72&u=7b2aad64e83989aa02f6f72849b27c4d7fa5a112&v=4" width="24" alt="Avatar of kristiandz"> kristiandz
@@ -6815,46 +6737,59 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>511</td>
 		<td>
-			<a href="https://github.com/JakovFreund">
-				<img src="https://avatars.githubusercontent.com/u/26296534?s=72&u=5373f5aeaacbae3eec3bffaf6474353a3d89b46b&v=4" width="24" alt="Avatar of JakovFreund"> JakovFreund
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JakovFreund">Copy rank badge</a><br/>
-			Jakov Freund
-		</td>
-		<td>Realnetworks </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia 🇭🇷 🇪🇺</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/gjuric">
-				<img src="https://avatars.githubusercontent.com/u/223015?s=72&u=432083cce212d6e29eae0f554b79ad2885b3faf2&v=4" width="24" alt="Avatar of gjuric"> gjuric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gjuric">Copy rank badge</a><br/>
-			Goran Jurić
+			<a href="https://github.com/goranalkovic">
+				<img src="https://avatars.githubusercontent.com/u/2352553?s=72&u=8f45efc2c157e188fab460fb7fc77504551b026f&v=4" width="24" alt="Avatar of goranalkovic"> goranalkovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#goranalkovic">Copy rank badge</a><br/>
+			Goran Alković
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Zagreb</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>512</td>
 		<td>
-			<a href="https://github.com/jeremija">
-				<img src="https://avatars.githubusercontent.com/u/1489493?s=72&u=287d56c59bcfc1069e7d734ccc23900603604aad&v=4" width="24" alt="Avatar of jeremija"> jeremija
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jeremija">Copy rank badge</a><br/>
-			Jerko Steiner
+			<a href="https://github.com/blakadder">
+				<img src="https://avatars.githubusercontent.com/u/5904370?s=72&u=060bd1e90e93db69ad40c8c3ea6ba58efd36d777&v=4" width="24" alt="Avatar of blakadder"> blakadder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#blakadder">Copy rank badge</a><br/>
+			blakadder
 		</td>
-		<td>@peer-calls @rondomoon </td>
-		<td>No Twitter Username</td>
-		<td>New York / Zagreb / 100% Remote</td>
+		<td>Https://blakadder.co </td>
+		<td><a href="https://twitter.com/blakadder_">blakadder_</a></td>
+		<td>Croatia</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/atopuzov">
+				<img src="https://avatars.githubusercontent.com/u/202178?s=72&u=b18cc597a4e16a87f0521a15fc464d9be564e5ff&v=4" width="24" alt="Avatar of atopuzov"> atopuzov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#atopuzov">Copy rank badge</a><br/>
+			Aleksandar Topuzović
+		</td>
+		<td>Aleksandar Topuzovic </td>
+		<td><a href="https://twitter.com/atopuzov">atopuzov</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/bdeak4">
+				<img src="https://avatars.githubusercontent.com/u/32748145?s=72&u=03155c518b683ff7f2084c1ec99c436db232a081&v=4" width="24" alt="Avatar of bdeak4"> bdeak4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bdeak4">Copy rank badge</a><br/>
+			Bartol Deak
+		</td>
+		<td>@dump-hr / @solbound-dev </td>
+		<td><a href="https://twitter.com/bd4245">bd4245</a></td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/zappan">
 				<img src="https://avatars.githubusercontent.com/u/248932?s=72&u=a2000c815e1d3d89fef42477241e1669b0fc7cda&v=4" width="24" alt="Avatar of zappan"> zappan
@@ -6867,7 +6802,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/elvanja">
+				<img src="https://avatars.githubusercontent.com/u/674883?s=72&v=4" width="24" alt="Avatar of elvanja"> elvanja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#elvanja">Copy rank badge</a><br/>
+			Vanja Radovanović
+		</td>
+		<td>Lambda Art D.o.o. </td>
+		<td><a href="https://twitter.com/tohokami">tohokami</a></td>
+		<td>Pula, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/nikolaplejic">
 				<img src="https://avatars.githubusercontent.com/u/347846?s=72&u=55eef26308b097ed7ff0af57c81168f3d3185328&v=4" width="24" alt="Avatar of nikolaplejic"> nikolaplejic
@@ -6877,6 +6825,58 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/vlado">
+				<img src="https://avatars.githubusercontent.com/u/5148?s=72&u=16a958717ad4cf89b260916f4ef52a9ef4aff433&v=4" width="24" alt="Avatar of vlado"> vlado
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vlado">Copy rank badge</a><br/>
+			Vlado Cingel
+		</td>
+		<td>Cingel D.o.o. </td>
+		<td><a href="https://twitter.com/vladocingel">vladocingel</a></td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/orsic">
+				<img src="https://avatars.githubusercontent.com/u/7871448?s=72&u=d5b71d98ab3dfe468870769eb983a0b376bd6109&v=4" width="24" alt="Avatar of orsic"> orsic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#orsic">Copy rank badge</a><br/>
+			Marin Oršić
+		</td>
+		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/nborovic">
+				<img src="https://avatars.githubusercontent.com/u/23612489?s=72&u=f2a8a69e7dbbc94887a5f144af6993b9771a50c0&v=4" width="24" alt="Avatar of nborovic"> nborovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nborovic">Copy rank badge</a><br/>
+			Nino Borović
+		</td>
+		<td>Solbound.dev </td>
+		<td><a href="https://twitter.com/ninoborovic">ninoborovic</a></td>
+		<td>Split </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/drmodun">
+				<img src="https://avatars.githubusercontent.com/u/74469438?s=72&u=120b2c19b539e5f4ea3f4a87aa2cfc3857383fce&v=4" width="24" alt="Avatar of drmodun"> drmodun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#drmodun">Copy rank badge</a><br/>
+			Jan Modun
+		</td>
+		<td>Profico, Iii. Gimnazija Split,<br/>Tu/e<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Eindhoven</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -6908,6 +6908,19 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>524</td>
 		<td>
+			<a href="https://github.com/ivanslapnicar">
+				<img src="https://avatars.githubusercontent.com/u/8678320?s=72&u=1da373b8d4c45b32f757ae82256c6f523e17ccfc&v=4" width="24" alt="Avatar of ivanslapnicar"> ivanslapnicar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivanslapnicar">Copy rank badge</a><br/>
+			Ivan Slapnicar
+		</td>
+		<td>Fesb, University Of Split,<br/>Croatia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
 			<a href="https://github.com/dkasaj">
 				<img src="https://avatars.githubusercontent.com/u/29670866?s=72&u=5afa0cc65e110f55c71b311f45ef7baf0b451754&v=4" width="24" alt="Avatar of dkasaj"> dkasaj
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dkasaj">Copy rank badge</a><br/>
@@ -6916,19 +6929,6 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Ux First </td>
 		<td><a href="https://twitter.com/danielkasaj">danielkasaj</a></td>
 		<td>Zagreb, Croatia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>525</td>
-		<td>
-			<a href="https://github.com/igorantolic">
-				<img src="https://avatars.githubusercontent.com/u/5782720?s=72&u=28b7891bd122f525e98a5ab6dadf25936ee54d69&v=4" width="24" alt="Avatar of igorantolic"> igorantolic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igorantolic">Copy rank badge</a><br/>
-			Igor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -6947,38 +6947,38 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>527</td>
 		<td>
-			<a href="https://github.com/zcalusic">
-				<img src="https://avatars.githubusercontent.com/u/12140851?s=72&u=be13f0ef59f448a9bc10fb031b8a8c0bf51b57b9&v=4" width="24" alt="Avatar of zcalusic"> zcalusic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zcalusic">Copy rank badge</a><br/>
-			Zlatko Čalušić
+			<a href="https://github.com/mbonaci">
+				<img src="https://avatars.githubusercontent.com/u/497926?s=72&u=37baf69e6678b74103aa8d9fe73fc832b483cc0f&v=4" width="24" alt="Avatar of mbonaci"> mbonaci
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbonaci">Copy rank badge</a><br/>
+			Marko Bonaći
 		</td>
-		<td>More Screens Ltd. </td>
+		<td>Sematext </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Zagreb</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>528</td>
 		<td>
-			<a href="https://github.com/elvanja">
-				<img src="https://avatars.githubusercontent.com/u/674883?s=72&v=4" width="24" alt="Avatar of elvanja"> elvanja
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#elvanja">Copy rank badge</a><br/>
-			Vanja Radovanović
+			<a href="https://github.com/Heribertosgp">
+				<img src="https://avatars.githubusercontent.com/u/8030133?s=72&u=aa329517766ba27bf65e0cb6d80a9c035a26357e&v=4" width="24" alt="Avatar of Heribertosgp"> Heribertosgp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Heribertosgp">Copy rank badge</a><br/>
+			Heriberto Sierra
 		</td>
-		<td>Lambda Art D.o.o. </td>
-		<td><a href="https://twitter.com/tohokami">tohokami</a></td>
-		<td>Pula, Croatia</td>
+		<td>Diversidad Lingüística Y Cultural,<br/>Ibm<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>529</td>
 		<td>
-			<a href="https://github.com/drKreso">
-				<img src="https://avatars.githubusercontent.com/u/32063?s=72&u=57a4113d2d167d8585cdae69df73dc00f9ce242f&v=4" width="24" alt="Avatar of drKreso"> drKreso
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#drKreso">Copy rank badge</a><br/>
-			Kresimir Bojcic
+			<a href="https://github.com/antunnitraj">
+				<img src="https://avatars.githubusercontent.com/u/69330974?s=72&v=4" width="24" alt="Avatar of antunnitraj"> antunnitraj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#antunnitraj">Copy rank badge</a><br/>
+			Antun Nitraj
 		</td>
-		<td>@kodius  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>12</td>
@@ -6986,70 +6986,18 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>530</td>
 		<td>
-			<a href="https://github.com/dsasko">
-				<img src="https://avatars.githubusercontent.com/u/2742669?s=72&u=8b78ce497a3703119d4f0b26a51f13f70676cba1&v=4" width="24" alt="Avatar of dsasko"> dsasko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dsasko">Copy rank badge</a><br/>
-			Denis Šaško
+			<a href="https://github.com/tomislavmamic">
+				<img src="https://avatars.githubusercontent.com/u/15949483?s=72&u=83ce237a8ffd4d0a755e1e2441809e2a91c0956d&v=4" width="24" alt="Avatar of tomislavmamic"> tomislavmamic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavmamic">Copy rank badge</a><br/>
+			Tomislav Mamić
 		</td>
-		<td>Fenom Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tomislavmamic">tomislavmamic</a></td>
+		<td>Split</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>531</td>
-		<td>
-			<a href="https://github.com/dmiklic">
-				<img src="https://avatars.githubusercontent.com/u/2772996?s=72&v=4" width="24" alt="Avatar of dmiklic"> dmiklic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmiklic">Copy rank badge</a><br/>
-			Damjan Miklic
-		</td>
-		<td>Romb Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>532</td>
-		<td>
-			<a href="https://github.com/FranPetkovic">
-				<img src="https://avatars.githubusercontent.com/u/66944172?s=72&u=6887b5ef0c17c281444eac7bfe2ee0a89779bed0&v=4" width="24" alt="Avatar of FranPetkovic"> FranPetkovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#FranPetkovic">Copy rank badge</a><br/>
-			Fran Petković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Prelog</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
-			<a href="https://github.com/MatanBudimir">
-				<img src="https://avatars.githubusercontent.com/u/36965687?s=72&v=4" width="24" alt="Avatar of MatanBudimir"> MatanBudimir
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MatanBudimir">Copy rank badge</a><br/>
-			Matan Budimir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>534</td>
-		<td>
-			<a href="https://github.com/mbonaci">
-				<img src="https://avatars.githubusercontent.com/u/497926?s=72&u=b9e57c7c416fc7eeb8edd77168a2b0fe92e52355&v=4" width="24" alt="Avatar of mbonaci"> mbonaci
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbonaci">Copy rank badge</a><br/>
-			Marko Bonaći
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>535</td>
 		<td>
 			<a href="https://github.com/rade901">
 				<img src="https://avatars.githubusercontent.com/u/78330407?s=72&u=63e01ca40ad3979e7e6b91bb9a7c66fd6f9c4e23&v=4" width="24" alt="Avatar of rade901"> rade901
@@ -7062,33 +7010,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>532</td>
 		<td>
-			<a href="https://github.com/volkanakkus">
-				<img src="https://avatars.githubusercontent.com/u/8204111?s=72&u=afb0085162f534f6333d478203ee5bf99f2b943b&v=4" width="24" alt="Avatar of volkanakkus"> volkanakkus
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#volkanakkus">Copy rank badge</a><br/>
-			Volkan Akkuş
+			<a href="https://github.com/drKreso">
+				<img src="https://avatars.githubusercontent.com/u/32063?s=72&u=57a4113d2d167d8585cdae69df73dc00f9ce242f&v=4" width="24" alt="Avatar of drKreso"> drKreso
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#drKreso">Copy rank badge</a><br/>
+			Kresimir Bojcic
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/volkanakks">volkanakks</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/andhrelja">
-				<img src="https://avatars.githubusercontent.com/u/34381530?s=72&v=4" width="24" alt="Avatar of andhrelja"> andhrelja
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#andhrelja">Copy rank badge</a><br/>
-			Andrea Hrelja
-		</td>
-		<td>No Company</td>
+		<td>@kodius  </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/dominikstanojevic">
+				<img src="https://avatars.githubusercontent.com/u/15264894?s=72&v=4" width="24" alt="Avatar of dominikstanojevic"> dominikstanojevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dominikstanojevic">Copy rank badge</a><br/>
+			Dominik Stanojevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/marjev">
+				<img src="https://avatars.githubusercontent.com/u/6833568?s=72&u=7a88dfc4bf387d5dbf7e8facc07542b32a5afe72&v=4" width="24" alt="Avatar of marjev"> marjev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marjev">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/jere357">
 				<img src="https://avatars.githubusercontent.com/u/22777913?s=72&u=52de7ea2117c5d5d06f3e5fef739f51782b805f3&v=4" width="24" alt="Avatar of jere357"> jere357
@@ -7101,12 +7062,25 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>536</td>
 		<td>
-			<a href="https://github.com/Dynosius">
-				<img src="https://avatars.githubusercontent.com/u/26442194?s=72&u=2aa6d2db78de2b5bcb51dda86b19711663125abd&v=4" width="24" alt="Avatar of Dynosius"> Dynosius
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Dynosius">Copy rank badge</a><br/>
-			Dino Kralj
+			<a href="https://github.com/Ruslan-Skira">
+				<img src="https://avatars.githubusercontent.com/u/13120752?s=72&v=4" width="24" alt="Avatar of Ruslan-Skira"> Ruslan-Skira
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ruslan-Skira">Copy rank badge</a><br/>
+			Ruslan Skira
+		</td>
+		<td>Globallogic </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/coax">
+				<img src="https://avatars.githubusercontent.com/u/189817?s=72&u=b78a739c8ce69892c370c146744f576d6ffadd58&v=4" width="24" alt="Avatar of coax"> coax
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#coax">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7114,7 +7088,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/Ktarnaj">
 				<img src="https://avatars.githubusercontent.com/u/53821396?s=72&u=70aba65d9d73fe082f64ba1c2c66b4e6a2d71734&v=4" width="24" alt="Avatar of Ktarnaj"> Ktarnaj
@@ -7127,12 +7101,25 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>539</td>
 		<td>
-			<a href="https://github.com/jte">
-				<img src="https://avatars.githubusercontent.com/u/193037?s=72&v=4" width="24" alt="Avatar of jte"> jte
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jte">Copy rank badge</a><br/>
-			jte
+			<a href="https://github.com/dmurat">
+				<img src="https://avatars.githubusercontent.com/u/470930?s=72&v=4" width="24" alt="Avatar of dmurat"> dmurat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmurat">Copy rank badge</a><br/>
+			Damir Murat
+		</td>
+		<td>Croz </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/ImpulseFPS">
+				<img src="https://avatars.githubusercontent.com/u/69686024?s=72&u=403748a071eaec9bc0bb3b55ea14d0c61ea2a2c3&v=4" width="24" alt="Avatar of ImpulseFPS"> ImpulseFPS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ImpulseFPS">Copy rank badge</a><br/>
+			ImpulseFPS
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7140,20 +7127,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/gajotres">
+				<img src="https://avatars.githubusercontent.com/u/3128440?s=72&v=4" width="24" alt="Avatar of gajotres"> gajotres
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gajotres">Copy rank badge</a><br/>
+			Dragan Gaić
+		</td>
+		<td>Gajotres </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
 		<td>542</td>
 		<td>
-			<a href="https://github.com/dominikstanojevic">
-				<img src="https://avatars.githubusercontent.com/u/15264894?s=72&v=4" width="24" alt="Avatar of dominikstanojevic"> dominikstanojevic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dominikstanojevic">Copy rank badge</a><br/>
-			Dominik Stanojevic
+			<a href="https://github.com/benpixel">
+				<img src="https://avatars.githubusercontent.com/u/103969?s=72&u=734b629e437bfd4fa3bdde5a1cab3c5b1f93895b&v=4" width="24" alt="Avatar of benpixel"> benpixel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#benpixel">Copy rank badge</a><br/>
+			Benjamin Alijagić
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td><a href="https://twitter.com/benpixel">benpixel</a></td>
+		<td>Rijeka, Croatia</td>
 		<td>10</td>
 	</tr>
 	<tr>
 		<td>543</td>
+		<td>
+			<a href="https://github.com/reactst">
+				<img src="https://avatars.githubusercontent.com/u/48185940?s=72&u=391b18cf5f455eacf2059b3280588e54ccbdd0ef&v=4" width="24" alt="Avatar of reactst"> reactst
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#reactst">Copy rank badge</a><br/>
+			reactst
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/ikovic">
 				<img src="https://avatars.githubusercontent.com/u/1204170?s=72&u=053edc8913af5be0fd668d261f533b21e6c75dd3&v=4" width="24" alt="Avatar of ikovic"> ikovic
@@ -7166,33 +7179,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/bubafinder">
-				<img src="https://avatars.githubusercontent.com/u/41724080?s=72&u=d28bef97ddb31db3f801fa053a7e9c883be7421e&v=4" width="24" alt="Avatar of bubafinder"> bubafinder
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bubafinder">Copy rank badge</a><br/>
-			Marko Lovrić
-		</td>
-		<td>@extensionengine </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>545</td>
 		<td>
-			<a href="https://github.com/dsalantic">
-				<img src="https://avatars.githubusercontent.com/u/4263441?s=72&u=9e76a31bf44698dbbfe1c394e3fc7f4e40f8bde8&v=4" width="24" alt="Avatar of dsalantic"> dsalantic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dsalantic">Copy rank badge</a><br/>
-			Damir Salantic
+			<a href="https://github.com/andhrelja">
+				<img src="https://avatars.githubusercontent.com/u/34381530?s=72&v=4" width="24" alt="Avatar of andhrelja"> andhrelja
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#andhrelja">Copy rank badge</a><br/>
+			Andrea Hrelja
 		</td>
-		<td>Mayday D.o.o. </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Croatia</td>
 		<td>10</td>
 	</tr>
 	<tr>
 		<td>546</td>
+		<td>
+			<a href="https://github.com/FranPetkovic">
+				<img src="https://avatars.githubusercontent.com/u/66944172?s=72&u=6887b5ef0c17c281444eac7bfe2ee0a89779bed0&v=4" width="24" alt="Avatar of FranPetkovic"> FranPetkovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#FranPetkovic">Copy rank badge</a><br/>
+			Fran Petković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Prelog</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/MatanBudimir">
+				<img src="https://avatars.githubusercontent.com/u/36965687?s=72&v=4" width="24" alt="Avatar of MatanBudimir"> MatanBudimir
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MatanBudimir">Copy rank badge</a><br/>
+			Matan Budimir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/DarioSiroki">
 				<img src="https://avatars.githubusercontent.com/u/30674077?s=72&u=6a059761e7c2cf515bc4768eb80abcb2112948c7&v=4" width="24" alt="Avatar of DarioSiroki"> DarioSiroki
@@ -7205,7 +7231,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/annyDot">
 				<img src="https://avatars.githubusercontent.com/u/73844750?s=72&u=162bce2abf6574adbcf0815a82f6fcd932e50b41&v=4" width="24" alt="Avatar of annyDot"> annyDot
@@ -7216,32 +7242,6 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/twittiepie91">twittiepie91</a></td>
 		<td>Rijeka, Croatia</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>548</td>
-		<td>
-			<a href="https://github.com/official-rimacc">
-				<img src="https://avatars.githubusercontent.com/u/44846222?s=72&u=2fb1598139356bb5bb8c3a6a5404d6e337cdf22e&v=4" width="24" alt="Avatar of official-rimacc"> official-rimacc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#official-rimacc">Copy rank badge</a><br/>
-			Ivan Rimac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>549</td>
-		<td>
-			<a href="https://github.com/corazza">
-				<img src="https://avatars.githubusercontent.com/u/1725635?s=72&u=6bbc1563c7f29462eb277a6b31972fb8ddf34baa&v=4" width="24" alt="Avatar of corazza"> corazza
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#corazza">Copy rank badge</a><br/>
-			Jan Corazza
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jancorazza">jancorazza</a></td>
-		<td>Dortmund, Germany // Zagreb, Croatia</td>
-		<td>9</td>
 	</tr>
 	<tr>
 		<td>550</td>
@@ -7259,6 +7259,19 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>551</td>
 		<td>
+			<a href="https://github.com/mariosemes">
+				<img src="https://avatars.githubusercontent.com/u/2343219?s=72&u=c9fd54e93ecaa928f149383913165538e9dd33b3&v=4" width="24" alt="Avatar of mariosemes"> mariosemes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariosemes">Copy rank badge</a><br/>
+			TMC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
 			<a href="https://github.com/brandokoch">
 				<img src="https://avatars.githubusercontent.com/u/57716666?s=72&u=c67a64db0ea06d899a594c6e8fb0e1ef38733735&v=4" width="24" alt="Avatar of brandokoch"> brandokoch
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#brandokoch">Copy rank badge</a><br/>
@@ -7270,7 +7283,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/fcagalj">
 				<img src="https://avatars.githubusercontent.com/u/7942241?s=72&u=db679dc23f9e3ed9dea046a3feda4500baa70a85&v=4" width="24" alt="Avatar of fcagalj"> fcagalj
@@ -7283,85 +7296,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>553</td>
-		<td>
-			<a href="https://github.com/ivandelas">
-				<img src="https://avatars.githubusercontent.com/u/31404613?s=72&u=b1531234ef813423ab30b24d0e40627aaed185cb&v=4" width="24" alt="Avatar of ivandelas"> ivandelas
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ivandelas">Copy rank badge</a><br/>
-			Ivan Delaš
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>9</td>
-	</tr>
-	<tr>
 		<td>554</td>
 		<td>
-			<a href="https://github.com/coax">
-				<img src="https://avatars.githubusercontent.com/u/189817?s=72&u=b78a739c8ce69892c370c146744f576d6ffadd58&v=4" width="24" alt="Avatar of coax"> coax
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#coax">Copy rank badge</a><br/>
-			No Name
+			<a href="https://github.com/dsasko">
+				<img src="https://avatars.githubusercontent.com/u/2742669?s=72&u=8b78ce497a3703119d4f0b26a51f13f70676cba1&v=4" width="24" alt="Avatar of dsasko"> dsasko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dsasko">Copy rank badge</a><br/>
+			Denis Šaško
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/matemijolovic">
-				<img src="https://avatars.githubusercontent.com/u/16739370?s=72&u=91b1261255a4e6e936acaec5cf6a2833f8ed4b8c&v=4" width="24" alt="Avatar of matemijolovic"> matemijolovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matemijolovic">Copy rank badge</a><br/>
-			Mate Mijolović
-		</td>
-		<td>Taman Technologies </td>
+		<td>Fenom Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/matejb">
+				<img src="https://avatars.githubusercontent.com/u/386688?s=72&u=b236330828ea93f53c409e9d554100410bbc409c&v=4" width="24" alt="Avatar of matejb"> matejb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matejb">Copy rank badge</a><br/>
+			Matej Baćo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>556</td>
-		<td>
-			<a href="https://github.com/dimitri-dev">
-				<img src="https://avatars.githubusercontent.com/u/58113389?s=72&u=e48bb1fca87d20a140eb05339685b854691795fe&v=4" width="24" alt="Avatar of dimitri-dev"> dimitri-dev
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dimitri-dev">Copy rank badge</a><br/>
-			Neven Marić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>557</td>
-		<td>
-			<a href="https://github.com/NikolaBreznjak">
-				<img src="https://avatars.githubusercontent.com/u/1001064?s=72&u=68b702047545bdfdeb085286756c45cbfb119743&v=4" width="24" alt="Avatar of NikolaBreznjak"> NikolaBreznjak
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#NikolaBreznjak">Copy rank badge</a><br/>
-			Nikola Brežnjak
-		</td>
-		<td>@nomorobo  </td>
-		<td><a href="https://twitter.com/HitmanHR">HitmanHR</a></td>
-		<td>Croatia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>558</td>
-		<td>
-			<a href="https://github.com/ImpulseFPS">
-				<img src="https://avatars.githubusercontent.com/u/69686024?s=72&u=403748a071eaec9bc0bb3b55ea14d0c61ea2a2c3&v=4" width="24" alt="Avatar of ImpulseFPS"> ImpulseFPS
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ImpulseFPS">Copy rank badge</a><br/>
-			ImpulseFPS
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>559</td>
 		<td>
 			<a href="https://github.com/chorijan">
 				<img src="https://avatars.githubusercontent.com/u/1315380?s=72&v=4" width="24" alt="Avatar of chorijan"> chorijan
@@ -7374,20 +7335,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>557</td>
 		<td>
-			<a href="https://github.com/benpixel">
-				<img src="https://avatars.githubusercontent.com/u/103969?s=72&u=734b629e437bfd4fa3bdde5a1cab3c5b1f93895b&v=4" width="24" alt="Avatar of benpixel"> benpixel
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#benpixel">Copy rank badge</a><br/>
-			Benjamin Alijagić
+			<a href="https://github.com/snovakovic">
+				<img src="https://avatars.githubusercontent.com/u/6170843?s=72&u=0a003a9a25506963a6dba13206d83c9287b24eb3&v=4" width="24" alt="Avatar of snovakovic"> snovakovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#snovakovic">Copy rank badge</a><br/>
+			Stefan Novaković
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/benpixel">benpixel</a></td>
-		<td>Rijeka, Croatia</td>
+		<td>@brandchamp  </td>
+		<td>No Twitter Username</td>
+		<td>Split 21000 Croatia</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/zarkoselak">
+				<img src="https://avatars.githubusercontent.com/u/7656256?s=72&u=e8450fb47f43a77ea3b102d34f18391ccd8db4d0&v=4" width="24" alt="Avatar of zarkoselak"> zarkoselak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zarkoselak">Copy rank badge</a><br/>
+			Zarko Selak
+		</td>
+		<td>@harness-wealth  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/vzakanj">
 				<img src="https://avatars.githubusercontent.com/u/1140334?s=72&v=4" width="24" alt="Avatar of vzakanj"> vzakanj
@@ -7400,20 +7374,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>560</td>
 		<td>
-			<a href="https://github.com/Heribertosgp">
-				<img src="https://avatars.githubusercontent.com/u/8030133?s=72&u=aa329517766ba27bf65e0cb6d80a9c035a26357e&v=4" width="24" alt="Avatar of Heribertosgp"> Heribertosgp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Heribertosgp">Copy rank badge</a><br/>
-			Heriberto Sierra
+			<a href="https://github.com/MarinaHuber">
+				<img src="https://avatars.githubusercontent.com/u/7971194?s=72&u=e850cfd977bfff360df5a44cd18618fb8de3c3b0&v=4" width="24" alt="Avatar of MarinaHuber"> MarinaHuber
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinaHuber">Copy rank badge</a><br/>
+			marina
 		</td>
-		<td>Diversidad Lingüística Y Cultural,<br/>Ibm<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Croatia</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/bfreskura">
+				<img src="https://avatars.githubusercontent.com/u/9371112?s=72&u=14b96958acf97e7182b14c0fc6eefa88726959ac&v=4" width="24" alt="Avatar of bfreskura"> bfreskura
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bfreskura">Copy rank badge</a><br/>
+			Bartol Freškura
+		</td>
+		<td>Tensorpix </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/bravoalpha79">
 				<img src="https://avatars.githubusercontent.com/u/45522344?s=72&u=8c2106ba1c40719fd4519613c7c644ec30fda546&v=4" width="24" alt="Avatar of bravoalpha79"> bravoalpha79
@@ -7423,6 +7410,19 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/udovicadragan011-boop">
+				<img src="https://avatars.githubusercontent.com/u/272947582?s=72&v=4" width="24" alt="Avatar of udovicadragan011-boop"> udovicadragan011-boop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#udovicadragan011-boop">Copy rank badge</a><br/>
+			DragaN UdovicA
+		</td>
+		<td>No Working  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Varaždin </td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7441,6 +7441,32 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>565</td>
 		<td>
+			<a href="https://github.com/inanpy">
+				<img src="https://avatars.githubusercontent.com/u/37779163?s=72&u=fab47580632d0633817cd58a83bd033b0fda8357&v=4" width="24" alt="Avatar of inanpy"> inanpy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#inanpy">Copy rank badge</a><br/>
+			inan Delibas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/Rep2">
+				<img src="https://avatars.githubusercontent.com/u/7377418?s=72&u=29d931a1cd3c7a9ad8945988a0891a2a3b79a913&v=4" width="24" alt="Avatar of Rep2"> Rep2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Rep2">Copy rank badge</a><br/>
+			Ivan Rep
+		</td>
+		<td>Blue Tail Labs </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
 			<a href="https://github.com/mvuco00">
 				<img src="https://avatars.githubusercontent.com/u/48828437?s=72&u=c0881125bd454a42376916355b90b6d2d9fee127&v=4" width="24" alt="Avatar of mvuco00"> mvuco00
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mvuco00">Copy rank badge</a><br/>
@@ -7452,7 +7478,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/TheRuky">
 				<img src="https://avatars.githubusercontent.com/u/9364388?s=72&u=ea44f93c7906490c1ab4bc0f40a35d18bf787c5e&v=4" width="24" alt="Avatar of TheRuky"> TheRuky
@@ -7465,46 +7491,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>567</td>
-		<td>
-			<a href="https://github.com/duke4e">
-				<img src="https://avatars.githubusercontent.com/u/288641?s=72&u=908079d0e65132e0a48a9ff693ec088000d1f585&v=4" width="24" alt="Avatar of duke4e"> duke4e
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#duke4e">Copy rank badge</a><br/>
-			Bojan Drvarek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>568</td>
-		<td>
-			<a href="https://github.com/mjuresic">
-				<img src="https://avatars.githubusercontent.com/u/5880437?s=72&u=d65ec264490e0c463417eb58e279b37d75ba48e6&v=4" width="24" alt="Avatar of mjuresic"> mjuresic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mjuresic">Copy rank badge</a><br/>
-			Marijan Juresic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>569</td>
-		<td>
-			<a href="https://github.com/bruno-">
-				<img src="https://avatars.githubusercontent.com/u/1042682?s=72&u=3464b1aba1d170ef63e2c6512a920ef8662e8997&v=4" width="24" alt="Avatar of bruno-"> bruno-
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bruno-">Copy rank badge</a><br/>
-			Bruno Sutic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>570</td>
 		<td>
 			<a href="https://github.com/staniks">
 				<img src="https://avatars.githubusercontent.com/u/6494571?s=72&u=5059af731d850ab5c0aaa389776339c347c2ddac&v=4" width="24" alt="Avatar of staniks"> staniks
@@ -7517,46 +7504,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/aussieboi">
 				<img src="https://avatars.githubusercontent.com/u/2497323?s=72&u=189c706b73e0495b56688589447d3e46b8045f73&v=4" width="24" alt="Avatar of aussieboi"> aussieboi
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#aussieboi">Copy rank badge</a><br/>
 			Marko
 		</td>
-		<td>@aboutyou </td>
+		<td>Hikori | Freelance <br/></td>
 		<td><a href="https://twitter.com/_aussieboi">_aussieboi</a></td>
 		<td>Croatia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/matejb">
-				<img src="https://avatars.githubusercontent.com/u/386688?s=72&u=b236330828ea93f53c409e9d554100410bbc409c&v=4" width="24" alt="Avatar of matejb"> matejb
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matejb">Copy rank badge</a><br/>
-			Matej Baćo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
-			<a href="https://github.com/mariosemes">
-				<img src="https://avatars.githubusercontent.com/u/2343219?s=72&u=c9fd54e93ecaa928f149383913165538e9dd33b3&v=4" width="24" alt="Avatar of mariosemes"> mariosemes
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariosemes">Copy rank badge</a><br/>
-			TMC
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>574</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/schlos">
 				<img src="https://avatars.githubusercontent.com/u/1014134?s=72&v=4" width="24" alt="Avatar of schlos"> schlos
@@ -7569,7 +7530,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/isakal">
 				<img src="https://avatars.githubusercontent.com/u/45316286?s=72&u=d5c01ea19617a5caae6396711d5a99964fa3dbc5&v=4" width="24" alt="Avatar of isakal"> isakal
@@ -7582,20 +7543,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/petricevich">
-				<img src="https://avatars.githubusercontent.com/u/3746994?s=72&u=920b93670787308d74a0f58996f2fd7838af120e&v=4" width="24" alt="Avatar of petricevich"> petricevich
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#petricevich">Copy rank badge</a><br/>
-			Marin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>577</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/dbunic">
 				<img src="https://avatars.githubusercontent.com/u/752465?s=72&v=4" width="24" alt="Avatar of dbunic"> dbunic
@@ -7608,33 +7556,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>578</td>
-		<td>
-			<a href="https://github.com/bfreskura">
-				<img src="https://avatars.githubusercontent.com/u/9371112?s=72&u=14b96958acf97e7182b14c0fc6eefa88726959ac&v=4" width="24" alt="Avatar of bfreskura"> bfreskura
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bfreskura">Copy rank badge</a><br/>
-			Bartol Freškura
-		</td>
-		<td>Tensorpix </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>579</td>
-		<td>
-			<a href="https://github.com/dsoronda">
-				<img src="https://avatars.githubusercontent.com/u/776370?s=72&u=3843748c4c66f9fa869b3eda6802762326c66f3f&v=4" width="24" alt="Avatar of dsoronda"> dsoronda
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dsoronda">Copy rank badge</a><br/>
-			Dražen Šoronda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>580</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/MrBr">
 				<img src="https://avatars.githubusercontent.com/u/6218559?s=72&u=331d206dfafb90b6402e45d6ce6f75d17baa115b&v=4" width="24" alt="Avatar of MrBr"> MrBr
@@ -7647,72 +7569,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>575</td>
 		<td>
-			<a href="https://github.com/udovicadragan011-boop">
-				<img src="https://avatars.githubusercontent.com/u/272947582?s=72&v=4" width="24" alt="Avatar of udovicadragan011-boop"> udovicadragan011-boop
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#udovicadragan011-boop">Copy rank badge</a><br/>
-			DragaN UdovicA
+			<a href="https://github.com/ilovric00">
+				<img src="https://avatars.githubusercontent.com/u/31274389?s=72&u=2057ef1b82742c010061c9e26f1bb91e1938f2f2&v=4" width="24" alt="Avatar of ilovric00"> ilovric00
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ilovric00">Copy rank badge</a><br/>
+			Ivan Lovrić
 		</td>
-		<td>No Working  </td>
+		<td>@workspace-studio </td>
 		<td>No Twitter Username</td>
-		<td>Croatia, Varaždin </td>
+		<td>Split, Croatia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>576</td>
 		<td>
-			<a href="https://github.com/makiJS">
-				<img src="https://avatars.githubusercontent.com/u/10434979?s=72&u=cf1e0d39fb161eb49164b17927b1ae571472a144&v=4" width="24" alt="Avatar of makiJS"> makiJS
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#makiJS">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>@jaspero  </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
-			<a href="https://github.com/inanpy">
-				<img src="https://avatars.githubusercontent.com/u/37779163?s=72&u=fab47580632d0633817cd58a83bd033b0fda8357&v=4" width="24" alt="Avatar of inanpy"> inanpy
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#inanpy">Copy rank badge</a><br/>
-			inan Delibas
+			<a href="https://github.com/bruno-">
+				<img src="https://avatars.githubusercontent.com/u/1042682?s=72&u=3464b1aba1d170ef63e2c6512a920ef8662e8997&v=4" width="24" alt="Avatar of bruno-"> bruno-
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bruno-">Copy rank badge</a><br/>
+			Bruno Sutic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>7</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
 	</tr>
 	<tr>
-		<td>584</td>
-		<td>
-			<a href="https://github.com/idikic">
-				<img src="https://avatars.githubusercontent.com/u/2021137?s=72&u=8e1fda926cb26e8dd854a3f860138083473752ac&v=4" width="24" alt="Avatar of idikic"> idikic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#idikic">Copy rank badge</a><br/>
-			Ivan Đikić
-		</td>
-		<td>Infinum </td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/JurenIvan">
-				<img src="https://avatars.githubusercontent.com/u/43958858?s=72&u=f1463b32dab7d14e1e02aec1ef9b24ef8ef71e01&v=4" width="24" alt="Avatar of JurenIvan"> JurenIvan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JurenIvan">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia, Zagreb</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>586</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/nbqofficial">
 				<img src="https://avatars.githubusercontent.com/u/34800923?s=72&u=76de8121a38ecf2e9ecc15eda008ef4d1e1fd84f&v=4" width="24" alt="Avatar of nbqofficial"> nbqofficial
@@ -7725,33 +7608,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>578</td>
 		<td>
-			<a href="https://github.com/avail">
-				<img src="https://avatars.githubusercontent.com/u/2692729?s=72&u=4f995179c00e49d77530575988a2b2f161953faa&v=4" width="24" alt="Avatar of avail"> avail
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#avail">Copy rank badge</a><br/>
-			 ✽
+			<a href="https://github.com/0xf1a">
+				<img src="https://avatars.githubusercontent.com/u/25037701?s=72&u=a06b5a2be30b4db8d32f224c658d40b5027178ab&v=4" width="24" alt="Avatar of 0xf1a"> 0xf1a
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#0xf1a">Copy rank badge</a><br/>
+			fj
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>588</td>
-		<td>
-			<a href="https://github.com/BornaSepic">
-				<img src="https://avatars.githubusercontent.com/u/35802765?s=72&u=4b38cfa6c52daf5cc06bfb7cd08d30d8c298bddc&v=4" width="24" alt="Avatar of BornaSepic"> BornaSepic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BornaSepic">Copy rank badge</a><br/>
-			Borna Šepić
-		</td>
-		<td>@the-vaan-group / Storetasker </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>589</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/TAOcroatia">
 				<img src="https://avatars.githubusercontent.com/u/34100820?s=72&u=a031b31e52be72f3d201c8e52c902fb7a0e23925&v=4" width="24" alt="Avatar of TAOcroatia"> TAOcroatia
@@ -7764,20 +7634,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>580</td>
 		<td>
-			<a href="https://github.com/fgulan">
-				<img src="https://avatars.githubusercontent.com/u/13138021?s=72&u=ccb362289f0072047791c2b81d898b01e4c0d1d9&v=4" width="24" alt="Avatar of fgulan"> fgulan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fgulan">Copy rank badge</a><br/>
-			Filip Gulan
+			<a href="https://github.com/scansisandro">
+				<img src="https://avatars.githubusercontent.com/u/9396036?s=72&u=3390029b3009c63d5b489f3ae1e5ca8ad633ff82&v=4" width="24" alt="Avatar of scansisandro"> scansisandro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#scansisandro">Copy rank badge</a><br/>
+			Sandro Scansi
 		</td>
-		<td>@infinum </td>
+		<td>University Of Zagreb </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
+		<td>Zagreb</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/mbmjertan">
+				<img src="https://avatars.githubusercontent.com/u/1742806?s=72&u=13332010ac2f7576ffc4061274804b0b8c2f2325&v=4" width="24" alt="Avatar of mbmjertan"> mbmjertan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mbmjertan">Copy rank badge</a><br/>
+			Mario Borna Mjertan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/oniointeractive">
 				<img src="https://avatars.githubusercontent.com/u/103317185?s=72&u=580d9b2108dd7af539f83d0d1b8fb8489bf9a286&v=4" width="24" alt="Avatar of oniointeractive"> oniointeractive
@@ -7790,7 +7673,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/kidig">
+				<img src="https://avatars.githubusercontent.com/u/3610909?s=72&u=4ad658e57e9a159c4f147cd7fa2a5fe424ec729c&v=4" width="24" alt="Avatar of kidig"> kidig
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kidig">Copy rank badge</a><br/>
+			Dmitrii Gerasimenko
+		</td>
+		<td>Mydocs.global </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/abasic">
 				<img src="https://avatars.githubusercontent.com/u/6884698?s=72&u=895322eebd982791b7e46491ddf5862e4bd8b4ef&v=4" width="24" alt="Avatar of abasic"> abasic
@@ -7803,20 +7699,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>585</td>
 		<td>
-			<a href="https://github.com/igorlakic">
-				<img src="https://avatars.githubusercontent.com/u/13659376?s=72&u=06eb0d5ab70864e9373178af46bc5743b7889354&v=4" width="24" alt="Avatar of igorlakic"> igorlakic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igorlakic">Copy rank badge</a><br/>
-			Igor Lakić
+			<a href="https://github.com/slavus">
+				<img src="https://avatars.githubusercontent.com/u/992825?s=72&v=4" width="24" alt="Avatar of slavus"> slavus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#slavus">Copy rank badge</a><br/>
+			Hrvoje Slaviček
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Europe - Croatia - Rijeka</td>
+		<td>Kodilion D.o.o </td>
+		<td><a href="https://twitter.com/slavus">slavus</a></td>
+		<td>Croatia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/jtrupina">
 				<img src="https://avatars.githubusercontent.com/u/2964787?s=72&u=5ed6c6b242a055b5e2209a6aeffe629cf0f898f3&v=4" width="24" alt="Avatar of jtrupina"> jtrupina
@@ -7829,20 +7725,46 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>587</td>
 		<td>
-			<a href="https://github.com/fsuste">
-				<img src="https://avatars.githubusercontent.com/u/3747257?s=72&u=a343bd2676f204601463ec5de4ddeb0e2fb53c5b&v=4" width="24" alt="Avatar of fsuste"> fsuste
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fsuste">Copy rank badge</a><br/>
-			Filip Suste
+			<a href="https://github.com/marinsagovac">
+				<img src="https://avatars.githubusercontent.com/u/8504733?s=72&u=fa2edf6821284c1d7459ec76bddb9ef70119ab50&v=4" width="24" alt="Avatar of marinsagovac"> marinsagovac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinsagovac">Copy rank badge</a><br/>
+			Marin Sagovac
 		</td>
-		<td>@microblink  </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/RJPenic">
+				<img src="https://avatars.githubusercontent.com/u/42420109?s=72&u=b9114553c1080c87b8296d5bb6e9eec74a22543e&v=4" width="24" alt="Avatar of RJPenic"> RJPenic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#RJPenic">Copy rank badge</a><br/>
+			Rafael Josip Penić
+		</td>
+		<td>@lbcb-sci  </td>
+		<td><a href="https://twitter.com/RJPenic">RJPenic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/dperetin">
+				<img src="https://avatars.githubusercontent.com/u/313649?s=72&v=4" width="24" alt="Avatar of dperetin"> dperetin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dperetin">Copy rank badge</a><br/>
+			Dejan Peretin
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/ivandoric">
 				<img src="https://avatars.githubusercontent.com/u/6043540?s=72&v=4" width="24" alt="Avatar of ivandoric"> ivandoric
@@ -7855,59 +7777,85 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/avail">
+				<img src="https://avatars.githubusercontent.com/u/2692729?s=72&u=4f995179c00e49d77530575988a2b2f161953faa&v=4" width="24" alt="Avatar of avail"> avail
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#avail">Copy rank badge</a><br/>
+			 ✽
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/fgulan">
+				<img src="https://avatars.githubusercontent.com/u/13138021?s=72&u=ccb362289f0072047791c2b81d898b01e4c0d1d9&v=4" width="24" alt="Avatar of fgulan"> fgulan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fgulan">Copy rank badge</a><br/>
+			Filip Gulan
+		</td>
+		<td>@infinum </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/dpskvn">
+				<img src="https://avatars.githubusercontent.com/u/507189?s=72&u=0a4baea9e5f9a3acae7bc8831a60305e2eeb2d10&v=4" width="24" alt="Avatar of dpskvn"> dpskvn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dpskvn">Copy rank badge</a><br/>
+			Dino Paskvan
+		</td>
+		<td>Cs Computer Systems </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/bacinger">
+				<img src="https://avatars.githubusercontent.com/u/8011427?s=72&u=a7d39ad7204407695100a1d369916643a4192b8e&v=4" width="24" alt="Avatar of bacinger"> bacinger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bacinger">Copy rank badge</a><br/>
+			Tomo Bacinger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/petricevich">
+				<img src="https://avatars.githubusercontent.com/u/3746994?s=72&u=920b93670787308d74a0f58996f2fd7838af120e&v=4" width="24" alt="Avatar of petricevich"> petricevich
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#petricevich">Copy rank badge</a><br/>
+			Marin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/matijakevic">
+				<img src="https://avatars.githubusercontent.com/u/7479297?s=72&v=4" width="24" alt="Avatar of matijakevic"> matijakevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#matijakevic">Copy rank badge</a><br/>
+			matijakevic
+		</td>
+		<td>Shape 404 </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>597</td>
-		<td>
-			<a href="https://github.com/mariosasko">
-				<img src="https://avatars.githubusercontent.com/u/47462742?s=72&u=59685c6c53c02e15baabb94dad5f96c73d3debdc&v=4" width="24" alt="Avatar of mariosasko"> mariosasko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariosasko">Copy rank badge</a><br/>
-			Mario Šaško
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Varaždin, Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a href="https://github.com/mariodujic">
-				<img src="https://avatars.githubusercontent.com/u/30378487?s=72&u=0effce8062d519e0f8af34e941f4d8b1da223129&v=4" width="24" alt="Avatar of mariodujic"> mariodujic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariodujic">Copy rank badge</a><br/>
-			Mario Dujić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
-			<a href="https://github.com/igniti0n">
-				<img src="https://avatars.githubusercontent.com/u/59211351?s=72&u=dc0f5be515b8f994aefb9a7626d1f91445f52ace&v=4" width="24" alt="Avatar of igniti0n"> igniti0n
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igniti0n">Copy rank badge</a><br/>
-			Ivan Štajcer
-		</td>
-		<td>Movemedical </td>
-		<td><a href="https://twitter.com/ivanstajcer">ivanstajcer</a></td>
-		<td>Osijek, Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>600</td>
-		<td>
-			<a href="https://github.com/kidig">
-				<img src="https://avatars.githubusercontent.com/u/3610909?s=72&u=4ad658e57e9a159c4f147cd7fa2a5fe424ec729c&v=4" width="24" alt="Avatar of kidig"> kidig
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kidig">Copy rank badge</a><br/>
-			Dmitrii Gerasimenko
-		</td>
-		<td>Mydocs.global </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>601</td>
 		<td>
 			<a href="https://github.com/AntonioStipic">
 				<img src="https://avatars.githubusercontent.com/u/8955582?s=72&u=7e506433ca302a5431735534f415445a1b8fbdd0&v=4" width="24" alt="Avatar of AntonioStipic"> AntonioStipic
@@ -7920,20 +7868,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>602</td>
-		<td>
-			<a href="https://github.com/nikola-zitko">
-				<img src="https://avatars.githubusercontent.com/u/39881508?s=72&u=6b2544f98a99543828d545e49049820106541971&v=4" width="24" alt="Avatar of nikola-zitko"> nikola-zitko
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nikola-zitko">Copy rank badge</a><br/>
-			Nikola Žitko
-		</td>
-		<td>Extension Engine </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>603</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/igobrado">
 				<img src="https://avatars.githubusercontent.com/u/38504449?s=72&v=4" width="24" alt="Avatar of igobrado"> igobrado
@@ -7946,7 +7881,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/st3r4g">
 				<img src="https://avatars.githubusercontent.com/u/23401174?s=72&u=fb971ffa76a99242245e71a001433479d4436835&v=4" width="24" alt="Avatar of st3r4g"> st3r4g
@@ -7959,20 +7894,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>600</td>
 		<td>
-			<a href="https://github.com/vlahovivan">
-				<img src="https://avatars.githubusercontent.com/u/30372377?s=72&u=8a7f08e2033d076fb06cb589894164daf0369421&v=4" width="24" alt="Avatar of vlahovivan"> vlahovivan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vlahovivan">Copy rank badge</a><br/>
-			Ivan Vlahov
+			<a href="https://github.com/dsalantic">
+				<img src="https://avatars.githubusercontent.com/u/4263441?s=72&u=9e76a31bf44698dbbfe1c394e3fc7f4e40f8bde8&v=4" width="24" alt="Avatar of dsalantic"> dsalantic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dsalantic">Copy rank badge</a><br/>
+			Damir Salantic
 		</td>
-		<td>Zscaler, Inc. </td>
+		<td>Mayday D.o.o. </td>
 		<td>No Twitter Username</td>
-		<td>Šibenik, Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/ivanbozic">
 				<img src="https://avatars.githubusercontent.com/u/5840040?s=72&v=4" width="24" alt="Avatar of ivanbozic"> ivanbozic
@@ -7985,20 +7920,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>607</td>
-		<td>
-			<a href="https://github.com/grbinho">
-				<img src="https://avatars.githubusercontent.com/u/1301092?s=72&u=9d73c5774e73f8f83063ac8e71035da34a57c0a5&v=4" width="24" alt="Avatar of grbinho"> grbinho
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#grbinho">Copy rank badge</a><br/>
-			Ivan Grbavac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>608</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/im-luka">
 				<img src="https://avatars.githubusercontent.com/u/46372998?s=72&u=4c0f5f250a7969c944403296360a2b61ad86e9f3&v=4" width="24" alt="Avatar of im-luka"> im-luka
@@ -8011,7 +7933,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/mariosasko">
+				<img src="https://avatars.githubusercontent.com/u/47462742?s=72&u=59685c6c53c02e15baabb94dad5f96c73d3debdc&v=4" width="24" alt="Avatar of mariosasko"> mariosasko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mariosasko">Copy rank badge</a><br/>
+			Mario Šaško
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varaždin, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/igorbenic">
 				<img src="https://avatars.githubusercontent.com/u/1537130?s=72&u=e05aa63db3df0101139107dc70d3f72dee3f990d&v=4" width="24" alt="Avatar of igorbenic"> igorbenic
@@ -8024,33 +7959,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>605</td>
 		<td>
-			<a href="https://github.com/rudiaj">
-				<img src="https://avatars.githubusercontent.com/u/11437911?s=72&u=afff8a531589cf8ae3d027be9b3976cb98cb7f92&v=4" width="24" alt="Avatar of rudiaj"> rudiaj
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rudiaj">Copy rank badge</a><br/>
-			Rudi Aj
+			<a href="https://github.com/czarkoff">
+				<img src="https://avatars.githubusercontent.com/u/977491?s=72&u=d0f5fedc3a97be51d9a69a176dc6d03f29e66854&v=4" width="24" alt="Avatar of czarkoff"> czarkoff
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#czarkoff">Copy rank badge</a><br/>
+			Dmitry Tsarkov
 		</td>
-		<td>No Company</td>
+		<td>Kentbank </td>
 		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>611</td>
-		<td>
-			<a href="https://github.com/damirpristav">
-				<img src="https://avatars.githubusercontent.com/u/38659768?s=72&v=4" width="24" alt="Avatar of damirpristav"> damirpristav
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#damirpristav">Copy rank badge</a><br/>
-			Damir Pristav
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>612</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/mkovacek">
 				<img src="https://avatars.githubusercontent.com/u/3049510?s=72&u=43f3e0d6bee93a8ac75ad5c0e4d137a778e58855&v=4" width="24" alt="Avatar of mkovacek"> mkovacek
@@ -8063,33 +7985,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>607</td>
 		<td>
-			<a href="https://github.com/berislavbabic">
-				<img src="https://avatars.githubusercontent.com/u/418219?s=72&u=82ab9c7d31db1ad2c9f77d5e87c2753406f377da&v=4" width="24" alt="Avatar of berislavbabic"> berislavbabic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#berislavbabic">Copy rank badge</a><br/>
-			Berislav Babic
+			<a href="https://github.com/igniti0n">
+				<img src="https://avatars.githubusercontent.com/u/59211351?s=72&u=dc0f5be515b8f994aefb9a7626d1f91445f52ace&v=4" width="24" alt="Avatar of igniti0n"> igniti0n
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#igniti0n">Copy rank badge</a><br/>
+			Ivan Štajcer
 		</td>
-		<td>Sessionlab </td>
-		<td><a href="https://twitter.com/berislavbabic">berislavbabic</a></td>
-		<td>Zadar, Croatia</td>
+		<td>Movemedical </td>
+		<td><a href="https://twitter.com/ivanstajcer">ivanstajcer</a></td>
+		<td>Osijek, Croatia</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>608</td>
 		<td>
-			<a href="https://github.com/syntichsizer">
-				<img src="https://avatars.githubusercontent.com/u/6306855?s=72&u=cf4fbb4d1c30410fdd588dfa011cbb58ddf14524&v=4" width="24" alt="Avatar of syntichsizer"> syntichsizer
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#syntichsizer">Copy rank badge</a><br/>
-			Karlo Sintic
+			<a href="https://github.com/volkanakkus">
+				<img src="https://avatars.githubusercontent.com/u/8204111?s=72&u=afb0085162f534f6333d478203ee5bf99f2b943b&v=4" width="24" alt="Avatar of volkanakkus"> volkanakkus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#volkanakkus">Copy rank badge</a><br/>
+			Volkan Akkuş
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/volkanakks">volkanakks</a></td>
 		<td>Zagreb, Croatia</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/zmajstor">
 				<img src="https://avatars.githubusercontent.com/u/1877965?s=72&u=960418f5838a973a6099cc27a146e4dbfd0161dc&v=4" width="24" alt="Avatar of zmajstor"> zmajstor
@@ -8102,10 +8024,10 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/draganHR">
-				<img src="https://avatars.githubusercontent.com/u/304130?s=72&u=e8fde45aaf764a3204d946a700dc2e686128494b&v=4" width="24" alt="Avatar of draganHR"> draganHR
+				<img src="https://avatars.githubusercontent.com/u/304130?s=72&u=b01b0eb2bfed67ebff07a61279999939b154158f&v=4" width="24" alt="Avatar of draganHR"> draganHR
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#draganHR">Copy rank badge</a><br/>
 			Dragan Bošnjak
 		</td>
@@ -8115,7 +8037,124 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/tomislavjezidzic">
+				<img src="https://avatars.githubusercontent.com/u/27209422?s=72&u=8201020a8cdbf637e51c17734ce72e4f2c5d8a1e&v=4" width="24" alt="Avatar of tomislavjezidzic"> tomislavjezidzic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavjezidzic">Copy rank badge</a><br/>
+			Tomislav Jezidzic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/its_tomislav">its_tomislav</a></td>
+		<td>Zagreb</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/nikola-zitko">
+				<img src="https://avatars.githubusercontent.com/u/39881508?s=72&u=6b2544f98a99543828d545e49049820106541971&v=4" width="24" alt="Avatar of nikola-zitko"> nikola-zitko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#nikola-zitko">Copy rank badge</a><br/>
+			Nikola Žitko
+		</td>
+		<td>Extension Engine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/vlahovivan">
+				<img src="https://avatars.githubusercontent.com/u/30372377?s=72&u=8a7f08e2033d076fb06cb589894164daf0369421&v=4" width="24" alt="Avatar of vlahovivan"> vlahovivan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vlahovivan">Copy rank badge</a><br/>
+			Ivan Vlahov
+		</td>
+		<td>Zscaler, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Šibenik, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/makiJS">
+				<img src="https://avatars.githubusercontent.com/u/10434979?s=72&u=cf1e0d39fb161eb49164b17927b1ae571472a144&v=4" width="24" alt="Avatar of makiJS"> makiJS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#makiJS">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>@jaspero  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/fsuste">
+				<img src="https://avatars.githubusercontent.com/u/3747257?s=72&u=a343bd2676f204601463ec5de4ddeb0e2fb53c5b&v=4" width="24" alt="Avatar of fsuste"> fsuste
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fsuste">Copy rank badge</a><br/>
+			Filip Suste
+		</td>
+		<td>@microblink  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/tjaksic234">
+				<img src="https://avatars.githubusercontent.com/u/120134050?s=72&u=d8bd5eb9df142d7611491e807838fe59a5f606af&v=4" width="24" alt="Avatar of tjaksic234"> tjaksic234
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tjaksic234">Copy rank badge</a><br/>
+			Teo Jaksic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zadar, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
 		<td>617</td>
+		<td>
+			<a href="https://github.com/grbinho">
+				<img src="https://avatars.githubusercontent.com/u/1301092?s=72&u=9d73c5774e73f8f83063ac8e71035da34a57c0a5&v=4" width="24" alt="Avatar of grbinho"> grbinho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#grbinho">Copy rank badge</a><br/>
+			Ivan Grbavac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/jaicmatija">
+				<img src="https://avatars.githubusercontent.com/u/47995474?s=72&u=03595259123010c649c568c9cd169af6292e5c22&v=4" width="24" alt="Avatar of jaicmatija"> jaicmatija
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jaicmatija">Copy rank badge</a><br/>
+			Matija Jaic
+		</td>
+		<td>Minka.io </td>
+		<td><a href="https://twitter.com/jaicmatija">jaicmatija</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/JazzyGrim">
+				<img src="https://avatars.githubusercontent.com/u/29595865?s=72&u=f5aab4b59a73a7fe1c5487a1bc3488b9756efc52&v=4" width="24" alt="Avatar of JazzyGrim"> JazzyGrim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JazzyGrim">Copy rank badge</a><br/>
+			Mateo Sindičić
+		</td>
+		<td>Q Agency </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/Marko-M">
 				<img src="https://avatars.githubusercontent.com/u/1738436?s=72&u=26a5067e351e3b2d0be75146b324edfde12a95d3&v=4" width="24" alt="Avatar of Marko-M"> Marko-M
@@ -8128,20 +8167,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>618</td>
-		<td>
-			<a href="https://github.com/gajotres">
-				<img src="https://avatars.githubusercontent.com/u/3128440?s=72&v=4" width="24" alt="Avatar of gajotres"> gajotres
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#gajotres">Copy rank badge</a><br/>
-			Dragan Gaić
-		</td>
-		<td>Gajotres </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>619</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/rvaser">
 				<img src="https://avatars.githubusercontent.com/u/6094359?s=72&u=7cd6810e6913cacd0080149dc3e8b5e0534034f3&v=4" width="24" alt="Avatar of rvaser"> rvaser
@@ -8154,7 +8180,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/deva666">
 				<img src="https://avatars.githubusercontent.com/u/4548770?s=72&u=7cbc180f97090ee2003b1b66c82d323de6ae7855&v=4" width="24" alt="Avatar of deva666"> deva666
@@ -8167,20 +8193,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>621</td>
-		<td>
-			<a href="https://github.com/czarkoff">
-				<img src="https://avatars.githubusercontent.com/u/977491?s=72&u=d0f5fedc3a97be51d9a69a176dc6d03f29e66854&v=4" width="24" alt="Avatar of czarkoff"> czarkoff
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#czarkoff">Copy rank badge</a><br/>
-			Dmitry Tsarkov
-		</td>
-		<td>Kentbank </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/TheWildHorse">
 				<img src="https://avatars.githubusercontent.com/u/3526915?s=72&u=8ab5e932e9458e3a187510078a1c73143b5f23ae&v=4" width="24" alt="Avatar of TheWildHorse"> TheWildHorse
@@ -8193,33 +8206,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>623</td>
-		<td>
-			<a href="https://github.com/reactst">
-				<img src="https://avatars.githubusercontent.com/u/48185940?s=72&u=391b18cf5f455eacf2059b3280588e54ccbdd0ef&v=4" width="24" alt="Avatar of reactst"> reactst
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#reactst">Copy rank badge</a><br/>
-			reactst
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Split</td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>624</td>
-		<td>
-			<a href="https://github.com/markopp">
-				<img src="https://avatars.githubusercontent.com/u/17185024?s=72&u=83ead9c9cbe2f75e837e3ab0ca521bec1127a948&v=4" width="24" alt="Avatar of markopp"> markopp
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markopp">Copy rank badge</a><br/>
-			Marko Papp
-		</td>
-		<td>Transcom </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>625</td>
 		<td>
 			<a href="https://github.com/zpervan">
 				<img src="https://avatars.githubusercontent.com/u/6945278?s=72&u=404c2088cd8ab37a4fc3c474de7f5e2d0a87050c&v=4" width="24" alt="Avatar of zpervan"> zpervan
@@ -8232,16 +8219,29 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
-			<a href="https://github.com/plugn">
-				<img src="https://avatars.githubusercontent.com/u/985634?s=72&u=56fa6dfbe38a99304a492219d038483fd88d6082&v=4" width="24" alt="Avatar of plugn"> plugn
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#plugn">Copy rank badge</a><br/>
-			Max D
+			<a href="https://github.com/syntichsizer">
+				<img src="https://avatars.githubusercontent.com/u/6306855?s=72&u=cf4fbb4d1c30410fdd588dfa011cbb58ddf14524&v=4" width="24" alt="Avatar of syntichsizer"> syntichsizer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#syntichsizer">Copy rank badge</a><br/>
+			Karlo Sintic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
+		<td>Zagreb, Croatia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/markopp">
+				<img src="https://avatars.githubusercontent.com/u/17185024?s=72&u=83ead9c9cbe2f75e837e3ab0ca521bec1127a948&v=4" width="24" alt="Avatar of markopp"> markopp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markopp">Copy rank badge</a><br/>
+			Marko Papp
+		</td>
+		<td>Transcom </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8260,18 +8260,31 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>628</td>
 		<td>
-			<a href="https://github.com/tomislavjezidzic">
-				<img src="https://avatars.githubusercontent.com/u/27209422?s=72&u=8201020a8cdbf637e51c17734ce72e4f2c5d8a1e&v=4" width="24" alt="Avatar of tomislavjezidzic"> tomislavjezidzic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomislavjezidzic">Copy rank badge</a><br/>
-			Tomislav Jezidzic
+			<a href="https://github.com/plugn">
+				<img src="https://avatars.githubusercontent.com/u/985634?s=72&u=56fa6dfbe38a99304a492219d038483fd88d6082&v=4" width="24" alt="Avatar of plugn"> plugn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#plugn">Copy rank badge</a><br/>
+			Max D
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/its_tomislav">its_tomislav</a></td>
-		<td>Zagreb</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>629</td>
+		<td>
+			<a href="https://github.com/dmiklic">
+				<img src="https://avatars.githubusercontent.com/u/2772996?s=72&v=4" width="24" alt="Avatar of dmiklic"> dmiklic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dmiklic">Copy rank badge</a><br/>
+			Damjan Miklic
+		</td>
+		<td>Romb Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/zzavrski">
 				<img src="https://avatars.githubusercontent.com/u/4996328?s=72&u=9ac68daf381c8772a74b84ece662f6ed59c68ed1&v=4" width="24" alt="Avatar of zzavrski"> zzavrski
@@ -8284,7 +8297,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/bkuzmic">
 				<img src="https://avatars.githubusercontent.com/u/178479?s=72&u=c495477718eab87a796e4f8f32b1767f62d8eb12&v=4" width="24" alt="Avatar of bkuzmic"> bkuzmic
@@ -8297,20 +8310,59 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
-			<a href="https://github.com/knezzz">
-				<img src="https://avatars.githubusercontent.com/u/5373484?s=72&u=12f370f631c8a211f1c9e67a57c5301df6a0a5d6&v=4" width="24" alt="Avatar of knezzz"> knezzz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#knezzz">Copy rank badge</a><br/>
-			Luka Knezic
+			<a href="https://github.com/mateoradman">
+				<img src="https://avatars.githubusercontent.com/u/48420316?s=72&u=c4eb7482adccab47abf7496cc5fc326c5efe0bc8&v=4" width="24" alt="Avatar of mateoradman"> mateoradman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mateoradman">Copy rank badge</a><br/>
+			Mateo Radman
 		</td>
-		<td>@infinum </td>
+		<td>Raddiene. </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
+		<td>
+			<a href="https://github.com/tlikakur">
+				<img src="https://avatars.githubusercontent.com/u/85617149?s=72&u=da5e0f3c2292abfc6b0b815abda7d8ef7928f0da&v=4" width="24" alt="Avatar of tlikakur"> tlikakur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tlikakur">Copy rank badge</a><br/>
+			Tomislav Likakur
+		</td>
+		<td>Verne </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/deresh">
+				<img src="https://avatars.githubusercontent.com/u/1499?s=72&v=4" width="24" alt="Avatar of deresh"> deresh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#deresh">Copy rank badge</a><br/>
+			Krešo Kunjas
+		</td>
+		<td>@trikoder  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/napravicukod">
+				<img src="https://avatars.githubusercontent.com/u/2182708?s=72&u=1dc9eb589883af859e39507a6ca2e83e84c71424&v=4" width="24" alt="Avatar of napravicukod"> napravicukod
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#napravicukod">Copy rank badge</a><br/>
+			Rudolf Jurišić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/jojothebandit">
 				<img src="https://avatars.githubusercontent.com/u/254281?s=72&u=e882646b123cbdb7e8172bc80bcbdf183506d5be&v=4" width="24" alt="Avatar of jojothebandit"> jojothebandit
@@ -8323,7 +8375,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/ikovacic">
 				<img src="https://avatars.githubusercontent.com/u/5550003?s=72&u=e5c54d614b6bb7dddad4c5e4585f2c337a84bbf4&v=4" width="24" alt="Avatar of ikovacic"> ikovacic
@@ -8336,7 +8388,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/drakipovic">
 				<img src="https://avatars.githubusercontent.com/u/8647931?s=72&u=f12f658882b30d23632f8241c1434a2df8382de1&v=4" width="24" alt="Avatar of drakipovic"> drakipovic
@@ -8349,7 +8401,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/dlalic">
 				<img src="https://avatars.githubusercontent.com/u/1700318?s=72&v=4" width="24" alt="Avatar of dlalic"> dlalic
@@ -8362,20 +8414,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>636</td>
-		<td>
-			<a href="https://github.com/loboris">
-				<img src="https://avatars.githubusercontent.com/u/6280349?s=72&u=ce8b8148adccb7e76285624ee41a7a0f83c6dc2e&v=4" width="24" alt="Avatar of loboris"> loboris
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#loboris">Copy rank badge</a><br/>
-			Boris Lovosevic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>637</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/codeAdrian">
 				<img src="https://avatars.githubusercontent.com/u/11479290?s=72&u=2f90bb04b41109b7bbe0ab238d8c61b52ae14207&v=4" width="24" alt="Avatar of codeAdrian"> codeAdrian
@@ -8388,7 +8427,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/aljosa">
 				<img src="https://avatars.githubusercontent.com/u/31008?s=72&u=c4876c02b142eb92334bf14b4308c5b33b55eb43&v=4" width="24" alt="Avatar of aljosa"> aljosa
@@ -8401,7 +8440,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/dekadentno">
 				<img src="https://avatars.githubusercontent.com/u/12261635?s=72&u=1a3bda1f3a61ee3004b21aaaeab0b6dd6ff5148e&v=4" width="24" alt="Avatar of dekadentno"> dekadentno
@@ -8414,7 +8453,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/rudiaj">
+				<img src="https://avatars.githubusercontent.com/u/11437911?s=72&u=afff8a531589cf8ae3d027be9b3976cb98cb7f92&v=4" width="24" alt="Avatar of rudiaj"> rudiaj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#rudiaj">Copy rank badge</a><br/>
+			Rudi Aj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/mdimjasevic">
+				<img src="https://avatars.githubusercontent.com/u/6256391?s=72&u=9937f03567512835c3c385f7d2af9db9785e18df&v=4" width="24" alt="Avatar of mdimjasevic"> mdimjasevic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mdimjasevic">Copy rank badge</a><br/>
+			Marko Dimjašević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Križevci, Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/dvrkps">
 				<img src="https://avatars.githubusercontent.com/u/4771727?s=72&u=8ce9278f87cf15cd7ea414dc10eadc790c4cfd83&v=4" width="24" alt="Avatar of dvrkps"> dvrkps
@@ -8427,7 +8492,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/BornaSepic">
+				<img src="https://avatars.githubusercontent.com/u/35802765?s=72&u=4b38cfa6c52daf5cc06bfb7cd08d30d8c298bddc&v=4" width="24" alt="Avatar of BornaSepic"> BornaSepic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BornaSepic">Copy rank badge</a><br/>
+			Borna Šepić
+		</td>
+		<td>@the-vaan-group / Storetasker </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/mrPjer">
 				<img src="https://avatars.githubusercontent.com/u/315346?s=72&u=f806015923fe4124863d3da0b2f70d9cea05df98&v=4" width="24" alt="Avatar of mrPjer"> mrPjer
@@ -8440,7 +8518,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/pepaar">
 				<img src="https://avatars.githubusercontent.com/u/13074140?s=72&u=e0b3c2e24e19576ac70621ac323fd864cf91152c&v=4" width="24" alt="Avatar of pepaar"> pepaar
@@ -8453,7 +8531,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/ivankokan">
 				<img src="https://avatars.githubusercontent.com/u/1058211?s=72&u=87477855e48a1fd7b927d68bcd537e53b14e2f91&v=4" width="24" alt="Avatar of ivankokan"> ivankokan
@@ -8466,7 +8544,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/doivosevic">
 				<img src="https://avatars.githubusercontent.com/u/6378638?s=72&u=7bd3c5fcbe9be80f4aed14db9dbce3fd3ae655b7&v=4" width="24" alt="Avatar of doivosevic"> doivosevic
@@ -8479,38 +8557,38 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>651</td>
 		<td>
-			<a href="https://github.com/dinko7">
-				<img src="https://avatars.githubusercontent.com/u/1454449?s=72&u=b7d0de95a110210e5f310c2850f0854262d1a956&v=4" width="24" alt="Avatar of dinko7"> dinko7
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dinko7">Copy rank badge</a><br/>
-			Dinko Marinac
+			<a href="https://github.com/berislavbabic">
+				<img src="https://avatars.githubusercontent.com/u/418219?s=72&u=82ab9c7d31db1ad2c9f77d5e87c2753406f377da&v=4" width="24" alt="Avatar of berislavbabic"> berislavbabic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#berislavbabic">Copy rank badge</a><br/>
+			Berislav Babic
 		</td>
-		<td>Mobilapp Solutions </td>
-		<td><a href="https://twitter.com/dinkomarinac">dinkomarinac</a></td>
-		<td>Zagreb, Croatia</td>
+		<td>Sessionlab </td>
+		<td><a href="https://twitter.com/berislavbabic">berislavbabic</a></td>
+		<td>Zadar, Croatia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>652</td>
 		<td>
-			<a href="https://github.com/ilesar">
-				<img src="https://avatars.githubusercontent.com/u/7231818?s=72&u=a908b5add75de7f02ef272a7910ba4d19b013be7&v=4" width="24" alt="Avatar of ilesar"> ilesar
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ilesar">Copy rank badge</a><br/>
-			Ivan Lesar
+			<a href="https://github.com/tposcic">
+				<img src="https://avatars.githubusercontent.com/u/6363042?s=72&u=820d6debe3b9b76b8c013ecdc0ec115fb2099f97&v=4" width="24" alt="Avatar of tposcic"> tposcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tposcic">Copy rank badge</a><br/>
+			Toni Poščić
 		</td>
-		<td>Super Technologies </td>
+		<td>Quaesitum </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>653</td>
 		<td>
-			<a href="https://github.com/mfolnovic">
-				<img src="https://avatars.githubusercontent.com/u/20919?s=72&v=4" width="24" alt="Avatar of mfolnovic"> mfolnovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mfolnovic">Copy rank badge</a><br/>
-			Matija Folnovic
+			<a href="https://github.com/MPozek">
+				<img src="https://avatars.githubusercontent.com/u/15526815?s=72&u=260b10a29ad93c24b530ba16eab0d5a5000e7682&v=4" width="24" alt="Avatar of MPozek"> MPozek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MPozek">Copy rank badge</a><br/>
+			Miki
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8518,20 +8596,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/bacinger">
-				<img src="https://avatars.githubusercontent.com/u/8011427?s=72&u=a7d39ad7204407695100a1d369916643a4192b8e&v=4" width="24" alt="Avatar of bacinger"> bacinger
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#bacinger">Copy rank badge</a><br/>
-			Tomo Bacinger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>649</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/stjepanmamusa">
 				<img src="https://avatars.githubusercontent.com/u/49687548?s=72&u=c37811153cd925d3c3843ae05ec2f41e909941e3&v=4" width="24" alt="Avatar of stjepanmamusa"> stjepanmamusa
@@ -8544,7 +8609,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/Ylodi">
+				<img src="https://avatars.githubusercontent.com/u/67160?s=72&u=027050157ee5157bbc27228a22e436cc954d1f7a&v=4" width="24" alt="Avatar of Ylodi"> Ylodi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ylodi">Copy rank badge</a><br/>
+			Stjepan Zlodi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Velika Gorica/Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/TheEskhaton">
 				<img src="https://avatars.githubusercontent.com/u/1377663?s=72&u=64043e034445070b2810d82f6c5454ff0bf74a00&v=4" width="24" alt="Avatar of TheEskhaton"> TheEskhaton
@@ -8557,7 +8635,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/ThrashAbaddon">
 				<img src="https://avatars.githubusercontent.com/u/7493180?s=72&u=ba51115d4284a8f122d0306e87eb3635b3f00967&v=4" width="24" alt="Avatar of ThrashAbaddon"> ThrashAbaddon
@@ -8570,7 +8648,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/zZan54">
 				<img src="https://avatars.githubusercontent.com/u/59426552?s=72&u=143f00c22f2ec37691004478f366398aadabfe5e&v=4" width="24" alt="Avatar of zZan54"> zZan54
@@ -8583,7 +8661,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/pkoraca">
 				<img src="https://avatars.githubusercontent.com/u/809295?s=72&u=4761bb4a1636777bd74d6ab207bbef68ff837bae&v=4" width="24" alt="Avatar of pkoraca"> pkoraca
@@ -8596,7 +8674,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/dsenta00">
 				<img src="https://avatars.githubusercontent.com/u/11404561?s=72&u=15a904a59cd21938b9668315617ea81805f645d6&v=4" width="24" alt="Avatar of dsenta00"> dsenta00
@@ -8609,33 +8687,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/Catzzye">
-				<img src="https://avatars.githubusercontent.com/u/16815295?s=72&u=4932181cccbe198cd2c34b751ff49a0f161f7ee5&v=4" width="24" alt="Avatar of Catzzye"> Catzzye
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Catzzye">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a href="https://github.com/marinsagovac">
-				<img src="https://avatars.githubusercontent.com/u/8504733?s=72&u=fa2edf6821284c1d7459ec76bddb9ef70119ab50&v=4" width="24" alt="Avatar of marinsagovac"> marinsagovac
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#marinsagovac">Copy rank badge</a><br/>
-			Marin Sagovac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>657</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/kosticmarin">
 				<img src="https://avatars.githubusercontent.com/u/28999182?s=72&u=38ac0f80f957b981952001326996198811decbe1&v=4" width="24" alt="Avatar of kosticmarin"> kosticmarin
@@ -8648,20 +8700,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>658</td>
-		<td>
-			<a href="https://github.com/tomiplaz">
-				<img src="https://avatars.githubusercontent.com/u/8911307?s=72&u=fca32c28a3b253ca6e6c1e693004f46b50df1fef&v=4" width="24" alt="Avatar of tomiplaz"> tomiplaz
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomiplaz">Copy rank badge</a><br/>
-			Tomislav Plazonic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>659</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/PjotrVr">
 				<img src="https://avatars.githubusercontent.com/u/53489104?s=72&u=78338d93cd4e4e66789e037347d306229b4eec32&v=4" width="24" alt="Avatar of PjotrVr"> PjotrVr
@@ -8674,46 +8713,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>663</td>
 		<td>
-			<a href="https://github.com/tjaksic234">
-				<img src="https://avatars.githubusercontent.com/u/120134050?s=72&u=d8bd5eb9df142d7611491e807838fe59a5f606af&v=4" width="24" alt="Avatar of tjaksic234"> tjaksic234
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tjaksic234">Copy rank badge</a><br/>
-			Teo Jaksic
+			<a href="https://github.com/Catzzye">
+				<img src="https://avatars.githubusercontent.com/u/16815295?s=72&u=4932181cccbe198cd2c34b751ff49a0f161f7ee5&v=4" width="24" alt="Avatar of Catzzye"> Catzzye
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Catzzye">Copy rank badge</a><br/>
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zadar, Croatia</td>
+		<td>Croatia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>661</td>
-		<td>
-			<a href="https://github.com/Rep2">
-				<img src="https://avatars.githubusercontent.com/u/7377418?s=72&u=29d931a1cd3c7a9ad8945988a0891a2a3b79a913&v=4" width="24" alt="Avatar of Rep2"> Rep2
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Rep2">Copy rank badge</a><br/>
-			Ivan Rep
-		</td>
-		<td>Blue Tail Labs </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>662</td>
-		<td>
-			<a href="https://github.com/jaicmatija">
-				<img src="https://avatars.githubusercontent.com/u/47995474?s=72&u=03595259123010c649c568c9cd169af6292e5c22&v=4" width="24" alt="Avatar of jaicmatija"> jaicmatija
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jaicmatija">Copy rank badge</a><br/>
-			Matija Jaic
-		</td>
-		<td>Minka.io </td>
-		<td><a href="https://twitter.com/jaicmatija">jaicmatija</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/msrecec">
 				<img src="https://avatars.githubusercontent.com/u/67606889?s=72&u=ff71dd4b5ea5adcbfd7065d00724641d65885832&v=4" width="24" alt="Avatar of msrecec"> msrecec
@@ -8726,12 +8739,12 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/toperkov">
 				<img src="https://avatars.githubusercontent.com/u/8695815?s=72&u=ba697f9b96558ddfc4661c717fa78a1ea98094b6&v=4" width="24" alt="Avatar of toperkov"> toperkov
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#toperkov">Copy rank badge</a><br/>
-			Toni Perkovic
+			Toni Perković
 		</td>
 		<td>University Of Split, Fesb<br/></td>
 		<td>No Twitter Username</td>
@@ -8739,20 +8752,85 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
-			<a href="https://github.com/cloverstudio">
-				<img src="https://avatars.githubusercontent.com/u/1647800?s=72&v=4" width="24" alt="Avatar of cloverstudio"> cloverstudio
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#cloverstudio">Copy rank badge</a><br/>
-			Clover Studio
+			<a href="https://github.com/the-overengineer">
+				<img src="https://avatars.githubusercontent.com/u/4933827?s=72&u=f1d3d8a89a7f15d7e546c990bfd0c2cc314733e9&v=4" width="24" alt="Avatar of the-overengineer"> the-overengineer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#the-overengineer">Copy rank badge</a><br/>
+			Luka Skukan
 		</td>
-		<td>Clover Studio Ltd, </td>
+		<td>@superbet-group  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/tomiplaz">
+				<img src="https://avatars.githubusercontent.com/u/8911307?s=72&u=fca32c28a3b253ca6e6c1e693004f46b50df1fef&v=4" width="24" alt="Avatar of tomiplaz"> tomiplaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tomiplaz">Copy rank badge</a><br/>
+			Tomislav Plazonic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/sambolek">
+				<img src="https://avatars.githubusercontent.com/u/5627631?s=72&u=39ac630a596b158a5af68aee5a809f09bd804eab&v=4" width="24" alt="Avatar of sambolek"> sambolek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#sambolek">Copy rank badge</a><br/>
+			Petar Sambolek
+		</td>
+		<td>@woomdigital </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/vjekoart">
+				<img src="https://avatars.githubusercontent.com/u/7541149?s=72&u=b778b19d4acc6e0a6b119407a6df154a70841aa0&v=4" width="24" alt="Avatar of vjekoart"> vjekoart
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#vjekoart">Copy rank badge</a><br/>
+			Vjekoslav Artić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/dariodev">
+				<img src="https://avatars.githubusercontent.com/u/1420451?s=72&v=4" width="24" alt="Avatar of dariodev"> dariodev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dariodev">Copy rank badge</a><br/>
+			Dario Devcic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
+			<a href="https://github.com/loboris">
+				<img src="https://avatars.githubusercontent.com/u/6280349?s=72&u=ce8b8148adccb7e76285624ee41a7a0f83c6dc2e&v=4" width="24" alt="Avatar of loboris"> loboris
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#loboris">Copy rank badge</a><br/>
+			Boris Lovosevic
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/nenadmarkus">
 				<img src="https://avatars.githubusercontent.com/u/4717547?s=72&u=9b8fc7e62076b8347c42eb4a48fbae62403a95a1&v=4" width="24" alt="Avatar of nenadmarkus"> nenadmarkus
@@ -8765,59 +8843,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>667</td>
-		<td>
-			<a href="https://github.com/kheruc">
-				<img src="https://avatars.githubusercontent.com/u/816053?s=72&u=7ac0e9489880fe8225da18a1ec769080cbc0df78&v=4" width="24" alt="Avatar of kheruc"> kheruc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#kheruc">Copy rank badge</a><br/>
-			Kristian Heruc
-		</td>
-		<td>Heruc Ltd </td>
-		<td><a href="https://twitter.com/kheruc">kheruc</a></td>
-		<td>Europe, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>668</td>
-		<td>
-			<a href="https://github.com/edisinovcic">
-				<img src="https://avatars.githubusercontent.com/u/16107679?s=72&u=81bb215c3298e25d3de03563117858c2540dd022&v=4" width="24" alt="Avatar of edisinovcic"> edisinovcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#edisinovcic">Copy rank badge</a><br/>
-			Edi Sinovcic
-		</td>
-		<td>Spaceshard </td>
-		<td><a href="https://twitter.com/edisinovcic">edisinovcic</a></td>
-		<td>Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>669</td>
-		<td>
-			<a href="https://github.com/MarkoMilos">
-				<img src="https://avatars.githubusercontent.com/u/4303492?s=72&u=2da6e0380ade5d9cb227a720c230fb55fadeab38&v=4" width="24" alt="Avatar of MarkoMilos"> MarkoMilos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarkoMilos">Copy rank badge</a><br/>
-			Marko Milos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mysterymarks">mysterymarks</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>670</td>
-		<td>
-			<a href="https://github.com/mdimjasevic">
-				<img src="https://avatars.githubusercontent.com/u/6256391?s=72&u=9937f03567512835c3c385f7d2af9db9785e18df&v=4" width="24" alt="Avatar of mdimjasevic"> mdimjasevic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mdimjasevic">Copy rank badge</a><br/>
-			Marko Dimjašević
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Križevci, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>671</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/lpredova">
 				<img src="https://avatars.githubusercontent.com/u/6916000?s=72&u=a5d9308de3e5568e92e3fd57f7b80d12e387d958&v=4" width="24" alt="Avatar of lpredova"> lpredova
@@ -8830,7 +8856,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/Nufflee">
 				<img src="https://avatars.githubusercontent.com/u/19150550?s=72&u=677bc66a1ab90f33ef233add58b9b4fed69b5536&v=4" width="24" alt="Avatar of Nufflee"> Nufflee
@@ -8843,7 +8869,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/ikovac">
 				<img src="https://avatars.githubusercontent.com/u/26693037?s=72&u=ce654664458ae43995481a7a00ea92d790dd09cd&v=4" width="24" alt="Avatar of ikovac"> ikovac
@@ -8856,7 +8882,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/MarkoZabcic">
 				<img src="https://avatars.githubusercontent.com/u/22573?s=72&v=4" width="24" alt="Avatar of MarkoZabcic"> MarkoZabcic
@@ -8869,20 +8895,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>675</td>
-		<td>
-			<a href="https://github.com/Cerovec">
-				<img src="https://avatars.githubusercontent.com/u/628039?s=72&u=91a1afbefa9ebf8a346687b0c86ca39a34906e96&v=4" width="24" alt="Avatar of Cerovec"> Cerovec
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Cerovec">Copy rank badge</a><br/>
-			Jurica Cerovec
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/FC122">
 				<img src="https://avatars.githubusercontent.com/u/72666124?s=72&u=42d290f29625eca6410e404d65cf9823594dbd26&v=4" width="24" alt="Avatar of FC122"> FC122
@@ -8892,19 +8905,6 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>Rt-rk </td>
 		<td>No Twitter Username</td>
 		<td>Osijek</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>677</td>
-		<td>
-			<a href="https://github.com/lukasaric">
-				<img src="https://avatars.githubusercontent.com/u/32763694?s=72&u=44ea1a8a05a5c5c8a384b873672104bc43da9e25&v=4" width="24" alt="Avatar of lukasaric"> lukasaric
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lukasaric">Copy rank badge</a><br/>
-			Luka Saric
-		</td>
-		<td>@scayle </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8923,6 +8923,19 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 	<tr>
 		<td>679</td>
 		<td>
+			<a href="https://github.com/lukasaric">
+				<img src="https://avatars.githubusercontent.com/u/32763694?s=72&u=44ea1a8a05a5c5c8a384b873672104bc43da9e25&v=4" width="24" alt="Avatar of lukasaric"> lukasaric
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#lukasaric">Copy rank badge</a><br/>
+			Luka Saric
+		</td>
+		<td>@scayle </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
 			<a href="https://github.com/HeyaGlitz">
 				<img src="https://avatars.githubusercontent.com/u/30732772?s=72&u=abb7a834b1d9ee1ddcfdfeb27bb262ff816adb9d&v=4" width="24" alt="Avatar of HeyaGlitz"> HeyaGlitz
 			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#HeyaGlitz">Copy rank badge</a><br/>
@@ -8934,7 +8947,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/fergy">
 				<img src="https://avatars.githubusercontent.com/u/48640?s=72&v=4" width="24" alt="Avatar of fergy"> fergy
@@ -8947,7 +8960,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/murticalen">
 				<img src="https://avatars.githubusercontent.com/u/15446034?s=72&u=6a0e8c54b589cbf1bf459e5dfaaef097650824a8&v=4" width="24" alt="Avatar of murticalen"> murticalen
@@ -8960,46 +8973,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/tposcic">
-				<img src="https://avatars.githubusercontent.com/u/6363042?s=72&u=820d6debe3b9b76b8c013ecdc0ec115fb2099f97&v=4" width="24" alt="Avatar of tposcic"> tposcic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#tposcic">Copy rank badge</a><br/>
-			Toni Poščić
-		</td>
-		<td>Quaesitum </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>683</td>
 		<td>
-			<a href="https://github.com/MarinaHuber">
-				<img src="https://avatars.githubusercontent.com/u/7971194?s=72&u=e850cfd977bfff360df5a44cd18618fb8de3c3b0&v=4" width="24" alt="Avatar of MarinaHuber"> MarinaHuber
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#MarinaHuber">Copy rank badge</a><br/>
-			marina
+			<a href="https://github.com/Adis">
+				<img src="https://avatars.githubusercontent.com/u/508165?s=72&u=8c76a1045cd029aed8d3e3034b035cb41c7b832a&v=4" width="24" alt="Avatar of Adis"> Adis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Adis">Copy rank badge</a><br/>
+			Adis
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/aboutadis">aboutadis</a></td>
+		<td>Zagreb, Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>684</td>
-		<td>
-			<a href="https://github.com/valentinaotocan">
-				<img src="https://avatars.githubusercontent.com/u/81707177?s=72&u=4eceec4bc9332dd0ea3410dc8265c1581a65f2ce&v=4" width="24" alt="Avatar of valentinaotocan"> valentinaotocan
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#valentinaotocan">Copy rank badge</a><br/>
-			Valentina Otočan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>685</td>
 		<td>
 			<a href="https://github.com/matejbasic">
 				<img src="https://avatars.githubusercontent.com/u/4060253?s=72&u=59bf0a4901beeccc7cd28100bdaa901d9c42f928&v=4" width="24" alt="Avatar of matejbasic"> matejbasic
@@ -9012,46 +8999,33 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/zoka123">
+				<img src="https://avatars.githubusercontent.com/u/3052111?s=72&v=4" width="24" alt="Avatar of zoka123"> zoka123
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#zoka123">Copy rank badge</a><br/>
+			Zoran Antolović
+		</td>
+		<td>Zoka </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>686</td>
 		<td>
-			<a href="https://github.com/fifi98">
-				<img src="https://avatars.githubusercontent.com/u/1998144?s=72&u=0acb49d4dadc367c17dec3fcc990129a6f1b1b10&v=4" width="24" alt="Avatar of fifi98"> fifi98
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fifi98">Copy rank badge</a><br/>
-			Filip Bel
+			<a href="https://github.com/ilesar">
+				<img src="https://avatars.githubusercontent.com/u/7231818?s=72&u=a908b5add75de7f02ef272a7910ba4d19b013be7&v=4" width="24" alt="Avatar of ilesar"> ilesar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#ilesar">Copy rank badge</a><br/>
+			Ivan Lesar
 		</td>
-		<td>Domore </td>
-		<td><a href="https://twitter.com/filipbel5">filipbel5</a></td>
+		<td>Super Technologies </td>
+		<td>No Twitter Username</td>
 		<td>Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>687</td>
-		<td>
-			<a href="https://github.com/iskugor">
-				<img src="https://avatars.githubusercontent.com/u/878389?s=72&u=2b7699862f37582bd24d23a042be3bcd9b3a3032&v=4" width="24" alt="Avatar of iskugor"> iskugor
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#iskugor">Copy rank badge</a><br/>
-			Ivan Škugor
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iskugor">iskugor</a></td>
-		<td>Šibenik, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>688</td>
-		<td>
-			<a href="https://github.com/Sartaq12">
-				<img src="https://avatars.githubusercontent.com/u/37218094?s=72&u=ea9c104e1424408d3a31bf10ae94396e51812317&v=4" width="24" alt="Avatar of Sartaq12"> Sartaq12
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Sartaq12">Copy rank badge</a><br/>
-			Marin Zujić
-		</td>
-		<td>Manufactorial D.o.o. </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>689</td>
 		<td>
 			<a href="https://github.com/ibestvina">
 				<img src="https://avatars.githubusercontent.com/u/10189206?s=72&u=3be63fd7157f259d736d4c7cd5061daed3df8686&v=4" width="24" alt="Avatar of ibestvina"> ibestvina
@@ -9064,7 +9038,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/akineton">
 				<img src="https://avatars.githubusercontent.com/u/188059?s=72&u=10af64b7ca70e971ceae33321a04b294c69a949c&v=4" width="24" alt="Avatar of akineton"> akineton
@@ -9077,7 +9051,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/yatsukha">
 				<img src="https://avatars.githubusercontent.com/u/33135465?s=72&u=0a6b89c0ab5e9b3ce727bd11a1cd670e09b1e948&v=4" width="24" alt="Avatar of yatsukha"> yatsukha
@@ -9090,20 +9064,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>692</td>
-		<td>
-			<a href="https://github.com/offblacc">
-				<img src="https://avatars.githubusercontent.com/u/36130984?s=72&u=d7a582c0c5e8939c7e2f1098c3d8048622cfc7ec&v=4" width="24" alt="Avatar of offblacc"> offblacc
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#offblacc">Copy rank badge</a><br/>
-			Luka Sever
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>693</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/livanov93">
 				<img src="https://avatars.githubusercontent.com/u/26708124?s=72&u=98bb55f5350d54711dcfa05d6682937a12264443&v=4" width="24" alt="Avatar of livanov93"> livanov93
@@ -9116,33 +9077,59 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>691</td>
 		<td>
-			<a href="https://github.com/Ylodi">
-				<img src="https://avatars.githubusercontent.com/u/67160?s=72&u=027050157ee5157bbc27228a22e436cc954d1f7a&v=4" width="24" alt="Avatar of Ylodi"> Ylodi
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Ylodi">Copy rank badge</a><br/>
-			Stjepan Zlodi
+			<a href="https://github.com/mfolnovic">
+				<img src="https://avatars.githubusercontent.com/u/20919?s=72&v=4" width="24" alt="Avatar of mfolnovic"> mfolnovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#mfolnovic">Copy rank badge</a><br/>
+			Matija Folnovic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Velika Gorica/Croatia</td>
+		<td>Zagreb, Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>692</td>
 		<td>
-			<a href="https://github.com/slavus">
-				<img src="https://avatars.githubusercontent.com/u/992825?s=72&v=4" width="24" alt="Avatar of slavus"> slavus
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#slavus">Copy rank badge</a><br/>
-			Hrvoje Slaviček
+			<a href="https://github.com/fifi98">
+				<img src="https://avatars.githubusercontent.com/u/1998144?s=72&u=0acb49d4dadc367c17dec3fcc990129a6f1b1b10&v=4" width="24" alt="Avatar of fifi98"> fifi98
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#fifi98">Copy rank badge</a><br/>
+			Filip Bel
 		</td>
-		<td>Kodilion D.o.o </td>
-		<td><a href="https://twitter.com/slavus">slavus</a></td>
+		<td>Domore </td>
+		<td><a href="https://twitter.com/filipbel5">filipbel5</a></td>
 		<td>Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/offblacc">
+				<img src="https://avatars.githubusercontent.com/u/36130984?s=72&u=d7a582c0c5e8939c7e2f1098c3d8048622cfc7ec&v=4" width="24" alt="Avatar of offblacc"> offblacc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#offblacc">Copy rank badge</a><br/>
+			Luka Sever
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>694</td>
+		<td>
+			<a href="https://github.com/Sartaq12">
+				<img src="https://avatars.githubusercontent.com/u/37218094?s=72&u=ea9c104e1424408d3a31bf10ae94396e51812317&v=4" width="24" alt="Avatar of Sartaq12"> Sartaq12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#Sartaq12">Copy rank badge</a><br/>
+			Marin Zujić
+		</td>
+		<td>Manufactorial D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/lmuzinic">
 				<img src="https://avatars.githubusercontent.com/u/1591727?s=72&v=4" width="24" alt="Avatar of lmuzinic"> lmuzinic
@@ -9155,7 +9142,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/FraneCaleta">
 				<img src="https://avatars.githubusercontent.com/u/37557775?s=72&u=aaaa08aeb8c20e1c828322e1dc9fa1d40abf82ee&v=4" width="24" alt="Avatar of FraneCaleta"> FraneCaleta
@@ -9168,59 +9155,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>697</td>
+		<td>
+			<a href="https://github.com/JakovFreund">
+				<img src="https://avatars.githubusercontent.com/u/26296534?s=72&u=5373f5aeaacbae3eec3bffaf6474353a3d89b46b&v=4" width="24" alt="Avatar of JakovFreund"> JakovFreund
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#JakovFreund">Copy rank badge</a><br/>
+			Jakov Freund
+		</td>
+		<td>Realnetworks </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia 🇭🇷 🇪🇺</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>698</td>
-		<td>
-			<a href="https://github.com/m1h4">
-				<img src="https://avatars.githubusercontent.com/u/1467554?s=72&u=88789cd1590a42a206059c221c72245e955496c2&v=4" width="24" alt="Avatar of m1h4"> m1h4
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#m1h4">Copy rank badge</a><br/>
-			Marko Mihovilić
-		</td>
-		<td>@photomath  </td>
-		<td><a href="https://twitter.com/m1h0v1l1c">m1h0v1l1c</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>699</td>
-		<td>
-			<a href="https://github.com/jojorabbit">
-				<img src="https://avatars.githubusercontent.com/u/854237?s=72&v=4" width="24" alt="Avatar of jojorabbit"> jojorabbit
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jojorabbit">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/deresh">
-				<img src="https://avatars.githubusercontent.com/u/1499?s=72&v=4" width="24" alt="Avatar of deresh"> deresh
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#deresh">Copy rank badge</a><br/>
-			Krešo Kunjas
-		</td>
-		<td>@trikoder  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/dzavisic">
-				<img src="https://avatars.githubusercontent.com/u/43092397?s=72&u=9148416d354e78852d70bd6aac1483d36a469f88&v=4" width="24" alt="Avatar of dzavisic"> dzavisic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dzavisic">Copy rank badge</a><br/>
-			Dario Zavišić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>702</td>
 		<td>
 			<a href="https://github.com/shomodj">
 				<img src="https://avatars.githubusercontent.com/u/304768?s=72&v=4" width="24" alt="Avatar of shomodj"> shomodj
@@ -9233,7 +9181,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/dzavisic">
+				<img src="https://avatars.githubusercontent.com/u/43092397?s=72&u=9148416d354e78852d70bd6aac1483d36a469f88&v=4" width="24" alt="Avatar of dzavisic"> dzavisic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#dzavisic">Copy rank badge</a><br/>
+			Dario Zavišić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/stevetauber">
 				<img src="https://avatars.githubusercontent.com/u/1258342?s=72&u=cfee967de7d4b655c8e025d8bfd7caca55202bb6&v=4" width="24" alt="Avatar of stevetauber"> stevetauber
@@ -9246,7 +9207,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/jojorabbit">
+				<img src="https://avatars.githubusercontent.com/u/854237?s=72&v=4" width="24" alt="Avatar of jojorabbit"> jojorabbit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#jojorabbit">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/marian-7">
 				<img src="https://avatars.githubusercontent.com/u/69120028?s=72&u=a21ce543bbaadbaba12ac8d002abd771c5aa9913&v=4" width="24" alt="Avatar of marian-7"> marian-7
@@ -9259,7 +9233,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/itacdonev">
 				<img src="https://avatars.githubusercontent.com/u/6032468?s=72&u=03d80c6121af1305aa98c3718f0e99ead26032f1&v=4" width="24" alt="Avatar of itacdonev"> itacdonev
@@ -9272,7 +9246,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/FrancoKurte">
 				<img src="https://avatars.githubusercontent.com/u/91507186?s=72&u=651fda1f936aa0966edcdb216c10d0d04553c78c&v=4" width="24" alt="Avatar of FrancoKurte"> FrancoKurte
@@ -9285,7 +9259,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/ztepsa">
 				<img src="https://avatars.githubusercontent.com/u/6736375?s=72&u=c415e8194c2b9f827f956beac92344ae65fab838&v=4" width="24" alt="Avatar of ztepsa"> ztepsa
@@ -9298,7 +9272,7 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/CroTweet">
 				<img src="https://avatars.githubusercontent.com/u/8949864?s=72&u=a27e6ef77cee97c9f0575cf42d40f87ea7a4ffe3&v=4" width="24" alt="Avatar of CroTweet"> CroTweet
@@ -9311,33 +9285,20 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>707</td>
 		<td>
-			<a href="https://github.com/markovidakovic">
-				<img src="https://avatars.githubusercontent.com/u/35199723?s=72&v=4" width="24" alt="Avatar of markovidakovic"> markovidakovic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markovidakovic">Copy rank badge</a><br/>
-			Marko Vidaković
+			<a href="https://github.com/wingedadventurer">
+				<img src="https://avatars.githubusercontent.com/u/26509794?s=72&u=3129374b671b1c5f4572fbaeb42e764221f95626&v=4" width="24" alt="Avatar of wingedadventurer"> wingedadventurer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#wingedadventurer">Copy rank badge</a><br/>
+			Karlo Koščal
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>710</td>
-		<td>
-			<a href="https://github.com/helenakos">
-				<img src="https://avatars.githubusercontent.com/u/5180637?s=72&v=4" width="24" alt="Avatar of helenakos"> helenakos
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#helenakos">Copy rank badge</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/wngdadventurer">wngdadventurer</a></td>
 		<td>Croatia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/gavocanov">
 				<img src="https://avatars.githubusercontent.com/u/1512839?s=72&v=4" width="24" alt="Avatar of gavocanov"> gavocanov
@@ -9350,16 +9311,42 @@ There are `961 users`  in Croatia. You need at least `13 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>709</td>
 		<td>
-			<a href="https://github.com/BlazJurisic">
-				<img src="https://avatars.githubusercontent.com/u/12563346?s=72&u=be6fb8eefc49596ebd28248052f6b7af5eec9037&v=4" width="24" alt="Avatar of BlazJurisic"> BlazJurisic
-			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#BlazJurisic">Copy rank badge</a><br/>
-			Blaz Jurisic
+			<a href="https://github.com/KevinBdev">
+				<img src="https://avatars.githubusercontent.com/u/57373099?s=72&u=aee4174afa13ebbcf939607515e80d1c65b29fef&v=4" width="24" alt="Avatar of KevinBdev"> KevinBdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#KevinBdev">Copy rank badge</a><br/>
+			Kevin Bogdan
 		</td>
-		<td>Digital Media Solutions </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
+		<td>Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/markovidakovic">
+				<img src="https://avatars.githubusercontent.com/u/35199723?s=72&v=4" width="24" alt="Avatar of markovidakovic"> markovidakovic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#markovidakovic">Copy rank badge</a><br/>
+			Marko Vidaković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
+			<a href="https://github.com/glepur">
+				<img src="https://avatars.githubusercontent.com/u/3432224?s=72&u=07b24c5e37cc58a84337c33d0862f9fade533a11&v=4" width="24" alt="Avatar of glepur"> glepur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/croatia.md#glepur">Copy rank badge</a><br/>
+			Goran Lepur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
 		<td>1</td>
 	</tr>
 </table>
